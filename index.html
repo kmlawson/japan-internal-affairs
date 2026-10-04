@@ -25,6 +25,7 @@ nav{display:flex;gap:16px;overflow-x:auto;white-space:nowrap;padding-bottom:8px;
 nav a{color:var(--muted);text-decoration:none;font:14px system-ui,sans-serif;padding:2px 0;border-bottom:2px solid transparent}
 nav a.on{color:var(--accent);font-weight:600;border-bottom-color:var(--accent)}
 .search{display:flex;gap:8px;flex-wrap:wrap;padding:6px 0 14px}
+#qlab{align-self:center;font-size:14px;white-space:nowrap;color:var(--muted)}
 input,select{font:14px system-ui,sans-serif;padding:9px 10px 8px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);min-height:38px}
 input:focus,select:focus{outline:2px solid var(--accent);outline-offset:-1px}
 input[type=search]{flex:1;min-width:220px}
@@ -144,7 +145,7 @@ p{overflow-wrap:break-word}
  header{position:static}
  h1{font-size:15.5px;line-height:1.3}
  .search{display:grid;grid-template-columns:1fr 1fr;gap:6px}
- .search input[type=search]{grid-column:1/-1;min-width:0;font-size:16px}
+  #qlab,.search input[type=search]{grid-column:1/-1;min-width:0;font-size:16px}
  .search select{width:100%;min-width:0;font-size:15px}
  #reset{grid-column:1/-1}
  .card{padding:12px;border-radius:8px}
@@ -171,6 +172,7 @@ p{overflow-wrap:break-word}
  </div>
  <nav><a href="#" data-v="files">Files</a><a href="#sets" data-v="sets" id="setsBtn" aria-haspopup="true" aria-expanded="false">Sets ▾</a><a href="#people" data-v="people">People</a><a href="#places" data-v="places">Places</a><a href="#keywords" data-v="keywords">Keywords</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#spotlight" data-v="spotlight" id="spotBtn" aria-haspopup="true" aria-expanded="false">Spotlight ▾</a><a href="#about" data-v="about">About</a><a href="#marked" data-v="marked">View Marked</a><a href="#tags" data-v="tags">View Tags</a></nav>
  <div class="search" id="searchbar">
+  <label for="q" id="qlab" hidden>Search file and sub-file metadata:</label>
   <input type="search" id="q" placeholder="Search titles, summaries, people, places, keywords…">
   <select id="cls"><option value="">All subjects</option></select>
   <select id="yr"><option value="">All years</option></select>
@@ -238,6 +240,7 @@ function chipsPl(x, n=8){ return x.pl.slice(0,n).map(p => `<a class="chip${on('p
 function chipsK(x, ks){ return ks.map(k => `<a class="chip${on('k',k)}" href="${inFile(x,'k',k)}">${esc(k)}</a>`).join(''); }
 // words to look for when searching a file for a person / place / keyword
 function searchTerms(kind, v){
+  if (kind === 'q') return v.toLowerCase().split(/\s+/).filter(Boolean);
   const t = [v];
   if (kind === 'pe'){ const w = v.replace(/[.,]/g,' ').split(/\s+/).filter(Boolean).filter(w => !/^(jr|sr|ii|iii|mr|mrs|dr|prince|baron|count|marquis|viscount|general|admiral|colonel|major|captain)$/i.test(w));
     const last = w[w.length-1]; if (last && last.length >= 4 && last.toLowerCase() !== v.toLowerCase()) t.push(last); }
@@ -275,10 +278,11 @@ function detailView(id, kind, term){
   const pgN = kind === 'pg' ? +term : null, docN = kind === 'doc' ? +term : null; if (pgN || docN) { kind = null; term = null; }
   CUR = term ? [kind, term] : null;
   const ts = term ? searchTerms(kind, term) : [];
-  const hit = s => ts.some(t => [s.t, s.a, s.s, s.fr, s.to, s.k.join(' ')].join(' ').toLowerCase().includes(t)) || (kind === 'k' && s.k.includes(term));
+  const hit = s => { const b = [s.t, s.a, s.s, s.fr, s.to, s.ty, s.d, s.k.join(' ')].join(' ').toLowerCase();
+    return kind === 'q' ? ts.every(t => b.includes(t)) : ts.some(t => b.includes(t)) || (kind === 'k' && s.k.includes(term)); };
   const hits = x.sub.filter(hit).length;
   const H = str => hl(str, ts);
-  const banner = term ? `<div class="infile">Searching this file for <b>${esc(term)}</b> <span class="meta">(${ {pe:'person',pl:'place',k:'keyword'}[kind] })</span>:
+  const banner = term ? `<div class="infile">Searching this file for <b>${esc(term)}</b> <span class="meta">(${ {pe:'person',pl:'place',k:'keyword',q:'text'}[kind] })</span>:
      ${hits} of ${x.sub.length} documents mention it. <a href="#d/${x.id}">Clear</a></div>` : '';
   main.innerHTML = `<a class="back" href="javascript:history.length>1?history.back():location.hash=''">← Back to files</a><div class="card" data-mk="f|${esc(x.id)}"><h2>${esc(x.t)}</h2>
    <div class="meta">${esc(x.c)} · decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} ·
@@ -670,7 +674,10 @@ function route(){
   document.body.classList.toggle('detail', view==='detail' || view==='spotdetail');
   document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.v === (view==='detail'?'files':view==='spotdetail'?'spotlight':view==='set'?'sets':view)));
   $('#cls').style.display = $('#yr').style.display = $('#reset').style.display = (view==='files' || view==='fulltext') ? '' : 'none';
-  $('#q').placeholder = view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…';
+  $('#qlab').hidden = view !== 'detail';
+  if (view === 'detail'){ const p = h.split('/'); $('#q').value = p[2] === 'q' ? p.slice(3).join('/') : ''; } else if (DQ){ $('#q').value = S.q; }
+  DQ = view === 'detail';
+  $('#q').placeholder = view === 'detail' ? 'Search this file…' : view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…';
   if (view === 'detail'){ const [, id, kind, ...v] = h.split('/'); return detailView(id, kind, v.length ? v.join('/') : null); }
   if (view === 'spotdetail') return spotlightDetail(h.slice(2));
   if (view === 'spotlight') return spotlightView(h.startsWith('spotlight/') ? h.slice(10) : null);
@@ -684,7 +691,10 @@ function route(){
   if (h.startsWith('f/')){ const [, k, ...v] = h.split('/'); S.facet = [k, v.join('/')]; }
   listView();
 }
-let tmr; $('#q').addEventListener('input', e => { clearTimeout(tmr); tmr = setTimeout(() => { S.q = e.target.value; S.page = 0;
+let tmr, DQ = false; $('#q').addEventListener('input', e => { clearTimeout(tmr); tmr = setTimeout(() => {
+  if (location.hash.startsWith('#d/')){ const id = decodeURIComponent(location.hash.slice(1)).split('/')[1], v = e.target.value.trim();
+    location.replace('#d/' + id + (v ? '/q/' + encodeURIComponent(v) : '')); return; }
+  S.q = e.target.value; S.page = 0;
   if (S.q && S.sort==='year') S.sort='hits'; if (!S.q && S.sort==='hits') S.sort='year'; if (location.hash.startsWith('#d/')) location.hash = ''; else route(); }, 200); });
 ['cls','yr'].forEach(k => $('#'+k).addEventListener('change', e => { S[k] = e.target.value; S.page = 0; route(); }));
 $('#reset').addEventListener('click', () => { Object.assign(S, {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'});
