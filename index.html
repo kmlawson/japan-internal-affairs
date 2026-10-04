@@ -137,6 +137,7 @@ button:disabled{opacity:.4;cursor:default}
 .sub.onpage{background:var(--chip);margin:0 -10px;padding:12px 10px;border-radius:8px}
 .ftx{font-size:14.5px}
 .subhit{font-size:14px;margin:6px 0 0;padding-left:10px;border-left:2px solid var(--accent)}
+.subhit b a{color:var(--ink);text-decoration:none}.subhit b a:hover{color:var(--accent);text-decoration:underline}
 p{overflow-wrap:break-word}
 @media (max-width:640px){
  body{font-size:15.5px}
@@ -259,7 +260,7 @@ function listView(){
       const db = titleDates(x.t);
       return `<div class="card" data-mk="f|${esc(x.id)}"><div class="cardhead"><h2><a href="#d/${x.id}">${hl(x.t)}</a></h2>${db?`<span class="datebub ${era(db)[0]}" title="${era(db)[1]}">${db}</span>`:''}</div>
       <div class="meta">${esc(x.c)} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} · <a href="${IAX(x)}" target="_blank">archive.org</a></div>
-      <p>${hl(x.o)}</p>${subhits.map(s => `<div class="subhit"><b>${hl(s.t)}</b> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span><br>${hl(s.a)}</div>`).join('')}
+      <p>${hl(x.o)}</p>${subhits.map(s => `<div class="subhit"><b><a href="#d/${esc(x.id)}/doc/${x.sub.indexOf(s)+1}">${hl(s.t)}</a></b> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span><br>${hl(s.a)}</div>`).join('')}
       <div class="chips">${chipsU('f|'+x.id)}${chipsPe(x,6)}${chipsPl(x,6)}</div></div>`; }).join('') +
     (pages > 1 ? `<div class="pager"><button id="prev" ${S.page?'':'disabled'}>← Prev</button><span class="meta">Page ${S.page+1} of ${pages}</span><button id="next" ${S.page<pages-1?'':'disabled'}>Next →</button></div>` : '');
   $('#sort').addEventListener('change', e => { S.sort = e.target.value; S.page = 0; listView(); });
