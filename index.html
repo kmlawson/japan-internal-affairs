@@ -119,6 +119,7 @@ button:disabled{opacity:.4;cursor:default}
 .sp-cell .tag{display:block;font:600 11px system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--accent2);margin-bottom:6px}
 .sp-raw{font:13px/1.5 ui-monospace,Menlo,Consolas,monospace;white-space:pre-wrap;overflow-wrap:anywhere}
 .sp-clean{font:15px/1.55 Georgia,serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.sp-note{margin-top:14px;padding-top:8px;border-top:1px dashed var(--line);color:var(--muted);font:12.5px/1.6 system-ui,sans-serif}
 .sp-cell img{display:block;width:100%;height:auto;min-height:160px;background:var(--chip);border:1px solid var(--line)}
 .sp-parent{margin:8px 0 0;padding:8px 12px;border-radius:8px;background:var(--chip);border-left:4px solid var(--accent);font:14px system-ui,sans-serif}
 @media (max-width:820px){.sp-row.n2{grid-template-columns:1fr}.sp-cell{border-right:0;border-bottom:1px dashed var(--line)}.sp-cell:last-child{border-bottom:0}.sp-view{height:72vh}.sp-modes select{max-width:none;margin-left:0;flex:1 0 100%}}
@@ -409,8 +410,9 @@ function spotlightDetail(id){
   let modes; try { modes = JSON.parse(localStorage.getItem('spModes')); } catch (_) {}
   if (!Array.isArray(modes) || !modes.length) modes = matchMedia('(max-width:820px)').matches ? ['clean'] : ['clean', 'image'];
   if (modes.length > 2) modes = modes.slice(-2);
-  const NAMES = {raw: 'Raw OCR', clean: 'Clean', ja: 'Japanese (reconstructed)', image: 'Page image'}, ORDER = e.ja ? ['raw', 'clean', 'ja', 'image'] : ['raw', 'clean', 'image'];
-  const jaM = e.ja ? new Map(e.ja) : null; modes = modes.filter(m => ORDER.includes(m)); if (!modes.length) modes = ['clean'];
+  const NAMES = {raw: 'Raw OCR', clean: 'Clean', ja: 'Japanese', image: 'Page image'}, ORDER = e.ja ? ['raw', 'ja', 'image'] : ['raw', 'clean', 'image'];
+  const jaM = e.ja ? new Map(e.ja) : null;
+  modes = modes.map(m => e.ja && m === 'clean' ? 'ja' : !e.ja && m === 'ja' ? 'clean' : m).filter((m, i, a) => ORDER.includes(m) && a.indexOf(m) === i); if (!modes.length) modes = [e.ja ? 'ja' : 'clean'];
   main.innerHTML = `<a class="back" href="#spotlight/${spSlug(e.cat)}">← Back to Spotlight${e.cat && e.cat !== 'General' ? ': ' + esc(e.cat) : ''}</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
    <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank">${ppPill(s.p, " on archive.org")}</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
    <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length}. <a href="${IAX(x)}" target="_blank">archive.org</a></div>
@@ -419,14 +421,15 @@ function spotlightDetail(id){
    <div class="label">Text of the document</div>
    <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}</div>
    <div class="sp-warn" id="spw" hidden><b>Important:</b> The cleaned transcript is an extraction of the text using a large language model (Claude Sonnet 5.5 or Opus 5.5, depending on the text) in comparison with the ${esc(e.ocr || 'PaddleOCR')} software which produced the raw transcript. Errors and hallucinations in the cleaned transcript will be harder to detect than the shortcomings of the raw transcript.</div>
-   <div class="sp-warn" id="spwj" hidden><b>Important:</b> The Japanese text is a reconstruction made by a large language model (Claude Opus 5.5) from the romanized transcript. It is not an original Japanese document. Kanji, particles and word boundaries are interpretations of the romanization; ambiguous readings are marked in [square brackets] and in the notes.</div>
+   <div class="sp-warn" id="spwj" hidden><b>Important:</b> The Japanese text is reconstructed. This broadcast was sent in romanized Japanese (rōmaji), and no Japanese-script original survives in the file. A large language model (Claude Opus 5.5) read the romanization from the page images and converted it back into Japanese script, choosing the kanji, particles and word boundaries that the romanization leaves open. Uncertain readings are marked ［?］ or 〔 〕 and explained in the grey notes (注) below each page. Check doubtful passages against the page image.</div>
    <div class="sp-view" id="spv"></div>
    <p class="meta">Square brackets mark illegible or uncertain words, and editorial notes such as stamps, marginalia and handwriting. Tap a page image to open it full size.</p></div>
    <div class="pager">${prev ? `<a href="#s/${esc(prev.id)}">← previous</a>` : ''}${next ? `<a href="#s/${esc(next.id)}">next →</a>` : ''}</div>`;
   const view = $('#spv');
+  const noteSplit = s => { const i = s.indexOf('【注】'); return i < 0 ? esc(s) : esc(s.slice(0, i).trimEnd()) + `<div class="sp-note">${esc(s.slice(i))}</div>`; };
   const cell = (m, p) => m === 'image' ? `<div class="sp-cell"><span class="tag">Page image</span><a href="${img(p)}" target="_blank"><img loading="lazy" src="${img(p)}" alt="Scan of page ${p}"></a></div>`
     : m === 'raw' ? `<div class="sp-cell"><span class="tag">Raw OCR (${esc(e.ocr || 'PaddleOCR')}, unedited)</span><div class="sp-raw">${esc(rawM.get(p) || '[no OCR text]')}</div></div>`
-    : m === 'ja' ? `<div class="sp-cell"><span class="tag">Japanese (reconstructed)</span><div class="sp-clean" lang="ja">${jaM && jaM.has(p) ? esc(jaM.get(p)) : '<span class="meta">[no reconstruction for this page]</span>'}</div></div>`
+    : m === 'ja' ? `<div class="sp-cell"><span class="tag">Japanese</span><div class="sp-clean" lang="ja">${jaM && jaM.has(p) ? noteSplit(jaM.get(p)) : '<span class="meta">[no Japanese text for this page]</span>'}</div></div>`
     : `<div class="sp-cell"><span class="tag">Cleaned transcription</span><div class="sp-clean">${cleanM ? esc(cleanM.has(p) ? cleanM.get(p) : '[not transcribed]') : '<span class="meta">Not yet available.</span>'}</div></div>`;
   const draw = () => {
     const on = ORDER.filter(m => modes.includes(m)), keep = view.scrollTop;
