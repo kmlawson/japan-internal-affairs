@@ -37,13 +37,15 @@ body.detail .card{border-top:4px solid var(--accent)}
 body.detail .card>h2{font-size:19px;color:var(--accent2)}
 .back{display:inline-block;margin:0 0 10px;font:14px system-ui,sans-serif;text-decoration:none}
 .chips{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0}
-.pgpill{display:inline-block;border-radius:999px;padding:0 8px;font:600 12px/1.65 system-ui,sans-serif;white-space:nowrap;background:hsl(calc(332 - var(--t)*22) calc(90% + var(--t)*10%) calc(91% - var(--t)*51%));color:#7a1452}
-.pgpill.hi{color:#fff}
+.pgpill{display:inline-block;border-radius:999px;padding:0 8px;font:600 12px/1.65 system-ui,sans-serif;white-space:nowrap}
+.pgpill.one{background:#e4e1e7;color:#55505c}
+.pgpill.p1{background:#fbd3e9;color:#8a1253}
+.pgpill.p2{background:#d6119a;color:#fff}
+.pgpill.p3{background:#4b1670;color:#fff}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .pgpill.one{background:#3b3542;color:#c9c2d3}:root:not([data-theme=light]) .pgpill.p1{background:#5b2648;color:#ffd6ec}:root:not([data-theme=light]) .pgpill.p3{background:#7a35ad}}
+:root[data-theme=dark] .pgpill.one{background:#3b3542;color:#c9c2d3}:root[data-theme=dark] .pgpill.p1{background:#5b2648;color:#ffd6ec}:root[data-theme=dark] .pgpill.p3{background:#7a35ad}
 a.pplink{text-decoration:none}
 html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-select:none}
-.pgpill.one{background:#e4e1e7;color:#55505c}
-@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root:not([data-theme=light]) .pgpill.one{background:#3b3542;color:#c9c2d3}}
-:root[data-theme=dark] .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root[data-theme=dark] .pgpill.one{background:#3b3542;color:#c9c2d3}
 [data-mk].sel{outline:3px solid var(--era1);outline-offset:2px}
 [data-mk].mkd{box-shadow:inset 5px 0 0 var(--era1)}
 .sub.mkd,.urow.mkd{margin-left:-16px;margin-right:-16px;padding-left:22px;padding-right:16px;background:color-mix(in srgb,var(--era1) 8%,transparent)}
@@ -362,7 +364,7 @@ function facetView(kind){
 }
 // ---- Spotlight: hand-picked sub-files with raw OCR beside a cleaned transcription (spotlight-data.js, built by build_spotlight.py) ----
 const SP = window.SPOTLIGHT || [];
-const pgPill = (n, label) => { const t = n <= 10 ? 0 : n <= 20 ? .25 : n <= 50 ? .5 : n <= 100 ? .75 : 1; return `<span class="pgpill${n <= 1 ? ' one' : t >= .5 ? ' hi' : ''}" style="--t:${t}">${label ?? n + ' page' + (n === 1 ? '' : 's')}</span>`; };
+const pgPill = (n, label) => `<span class="pgpill ${n <= 1 ? 'one' : n <= 30 ? 'p1' : n <= 100 ? 'p2' : 'p3'}">${label ?? n + ' page' + (n === 1 ? '' : 's')}</span>`;
 const ppPill = (p, tail = '') => pgPill(p[1] - p[0] + 1, (p[0] === p[1] ? `p. ${p[0]}` : `pp. ${p[0]}–${p[1]}`) + tail);
 function spCtx(e){ const x = D.find(x => x.id === e.file); let s = x && x.sub.find(s => s.p[0] === e.p[0] && s.p[1] === e.p[1]) || (x && x.sub[e.seq-1]); return [x, s]; }
 function spotlightView(){
