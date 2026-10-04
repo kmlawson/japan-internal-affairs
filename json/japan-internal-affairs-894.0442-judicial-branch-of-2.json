@@ -1,0 +1,87 @@
+{
+ "interest": "Congressional and Embassy interest in Japan's civil law codes.",
+ "keywords": [
+  "Japan",
+  "Civil Laws",
+  "Code of Civil Procedure",
+  "Civil Code",
+  "Department of State",
+  "Department of Justice",
+  "Law No. 18",
+  "Law No. 19",
+  "de Becker translation",
+  "statutory revision",
+  "judicial procedures"
+ ],
+ "overview": "Docket for 894.0442 (1935–38): a query on Japan's Code of Civil Procedure and Grew's translations of 1938 laws.",
+ "people": [
+  {
+   "name": "William G. Andrews",
+   "role": "Member of Congress",
+   "variants": [
+    "W.G.Andrews",
+    "W.G. Andrews"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Joseph Ernest de Becker",
+   "role": "Legal scholar and translator",
+   "variants": [
+    "deBecker"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State list of papers recording five documents concerning Japanese civil laws and civil procedure codes between 1935 and 1938.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Civil Laws",
+    "Code of Civil Procedure",
+    "Civil Code",
+    "Japan",
+    "W. G. Andrews",
+    "Joseph C. Grew"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.0442: Andrews's query and Grew's translations of Laws No. 18 and 19 of 1938.",
+   "title": "Department of State List of Papers: Civil Laws in Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13888,
+   "output_tokens": 5071,
+   "thinking_tokens": 4201,
+   "cache_read_tokens": 0,
+   "total_tokens": 18959
+  },
+  "backend": "agy",
+  "seconds": 17.5,
+  "identifier": "japan-internal-affairs-894.0442-judicial-branch-of-2",
+  "file": "894.0442 Judicial Branch Of Government., Laws. Statutes. Ordnances. Decrees. Codes. Procedures., Japan, Civil.,  358.pdf",
+  "created": "2026-09-28 22:53:38"
+ }
+}

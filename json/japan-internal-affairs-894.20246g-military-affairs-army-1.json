@@ -1,0 +1,77 @@
+{
+ "interest": "1940 Japanese blacklist of Chinese notables in Hong Kong.",
+ "keywords": [
+  "Hong Kong",
+  "Japan",
+  "Japanese military activities",
+  "espionage",
+  "propaganda",
+  "Chinese notables",
+  "anonymous letter",
+  "expulsion",
+  "Division of Far Eastern Affairs",
+  "Addison E. Southard"
+ ],
+ "overview": "Docket for 894.20246G: Southard's 1940 despatch on Japanese propaganda in Hong Kong and a blacklist of Chinese notables.",
+ "people": [
+  {
+   "name": "Addison E. Southard",
+   "role": "U.S. Consul General at Hong Kong",
+   "variants": [
+    "Southard"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State index sheet listing diplomatic correspondence regarding Japanese propaganda and intelligence operations in Hong Kong.",
+   "date": "1940-06-24",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Hong Kong",
+    "Southard",
+    "propaganda",
+    "espionage",
+    "Chinese notables",
+    "expulsion"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.20246G: Southard's 1940 despatch on propaganda and a blacklist of Chinese in Hong Kong.",
+   "title": "Department of State List of Papers for File 894.20246G",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13688,
+   "output_tokens": 2854,
+   "thinking_tokens": 2209,
+   "cache_read_tokens": 0,
+   "total_tokens": 16542
+  },
+  "backend": "agy",
+  "seconds": 13.3,
+  "identifier": "japan-internal-affairs-894.20246g-military-affairs-army-1",
+  "file": "894.20246G Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Hong Kong Including Gathering Of Information. Espionage. Propaganda.,  52.pdf",
+  "created": "2026-09-29 02:15:35"
+ }
+}

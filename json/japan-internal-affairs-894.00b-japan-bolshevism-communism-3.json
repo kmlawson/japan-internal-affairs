@@ -1,0 +1,111 @@
+{
+ "interest": "Indexes Vichy reports of Sorge spy ring arrests in Tokyo.",
+ "keywords": [
+  "Bolshevism",
+  "Communism",
+  "Subversive Activities",
+  "Espionage",
+  "Comintern",
+  "Komintern",
+  "Japan",
+  "Russia",
+  "Vichy France",
+  "German-Japanese Relations",
+  "Japanese Communist Party",
+  "Department of Justice"
+ ],
+ "overview": "Docket for 894.00B listing Hoover's reports on Japanese communists and Tuck's Vichy telegrams on the Sorge spy ring.",
+ "people": [
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Department of Justice",
+   "variants": [
+    "Hoover"
+   ]
+  },
+  {
+   "name": "S. Pinkney Tuck",
+   "role": "U.S. Chargé d'Affaires at Vichy",
+   "variants": [
+    "Tuck"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Vichy",
+   "variants": [
+    "Vichy"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "State Department docket sheet indexing communications on Comintern espionage in Tokyo, Japanese Communist Party underground activities, and German-Japanese relations.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Communism",
+    "Bolshevism",
+    "Espionage",
+    "Komintern",
+    "Vichy",
+    "Tokyo",
+    "Hoover",
+    "Tuck"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.00B: Hoover's reports on Japanese communists and Tuck's telegrams on a Tokyo spy ring.",
+   "title": "List of Papers for File 894.00B (Japan: Bolshevism, Communism)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13978,
+   "output_tokens": 8592,
+   "thinking_tokens": 7776,
+   "cache_read_tokens": 0,
+   "total_tokens": 22570
+  },
+  "backend": "agy",
+  "seconds": 30.5,
+  "identifier": "japan-internal-affairs-894.00b-japan-bolshevism-communism-3",
+  "file": "894.00B Japan, Bolshevism. Communism. Communistic Activities. Subversive Activities.,  73.pdf",
+  "created": "2026-09-28 21:34:00"
+ }
+}

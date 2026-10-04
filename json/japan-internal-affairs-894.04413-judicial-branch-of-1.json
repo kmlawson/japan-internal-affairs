@@ -1,0 +1,127 @@
+{
+ "interest": "Interwar Japanese debate over self-defense law and use against labor.",
+ "keywords": [
+  "Burglars Act",
+  "self-defense",
+  "Criminal Code",
+  "habitual offenders",
+  "theft",
+  "robbery",
+  "recidivism",
+  "labor disputes",
+  "individual rights",
+  "legal reform",
+  "Department of Justice",
+  "Imperial Diet"
+ ],
+ "overview": "This file consists of U.S. State Department records from May and June 1930 regarding the enactment of the Law concerning the Prevention and Treatment of Burglaries, Thefts, Et cetera (commonly referred to as the 'Burglars Act') by the Japanese Imperial Diet. The documentation comprises Despatch No. 159 from Chargé d'Affaires ad interim Edwin L. Neville in Tokyo to the Secretary of State, along with an English translation of the law published as an enclosure from The Japan Chronicle in Kobe. Neville provides a thorough legal and sociological analysis of the statute, detailing how it significantly broadens the individual right of self-defense under Article 36 of the Japanese Criminal Code by immunizing individuals who injure or kill intruders out of panic or fear even without actual imminent danger. The file documents domestic political controversy surrounding the law—notably concerns from labor advocates, legal scholars, and the Social Bureau of the Home Ministry that the legislation would be used by employers against labor and tenant delegations—as well as enhanced penalties for habitual property offenders supported by Ministry of Justice prison recidivism data from 1918 to 1927.",
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d'Affaires ad interim to Japan",
+   "variants": [
+    "Edwin L. Neville"
+   ]
+  },
+  {
+   "name": "Henry L. Stimson",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "The Secretary of State"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "United States"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Despatch transmitting and analyzing Japan's newly enacted Burglars Act, covering expanded self-defense rights, penal policy on habitual offenders, and socio-political controversies regarding labor disputes.",
+   "date": "1930-06-08",
+   "doc_type": "despatch",
+   "end_page": 6,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "Burglars Act",
+    "self-defense",
+    "Criminal Code",
+    "habitual offenders",
+    "recidivism",
+    "labor disputes",
+    "Department of Justice",
+    "House of Peers",
+    "family system"
+   ],
+   "start_page": 1,
+   "summary": "U.S. Chargé d'Affaires ad interim Edwin L. Neville transmits and evaluates the Law concerning the Prevention and Treatment of Burglaries, Thefts, Et cetera passed during the extraordinary session of the Japanese Imperial Diet. He explains that the law expands individual self-defense rights under Article 36 of the Criminal Code, legalizing the injury or killing of intruders even without present danger if committed out of fear, excitement, or panic. Neville examines historical trends since the Meiji Restoration, noting how Western legal adoptions have expanded individual rights at the expense of State and traditional family prerogatives, and discusses criticisms from opposition parties and the Home Ministry's Social Bureau fearing employer violence against labor delegations. The despatch also details increased penalties for habitual offenders in theft and burglary, supported by comprehensive statistical tables from the Department of Justice on prison recidivism from 1918 to 1927.",
+   "title": "Tokyo Despatch No. 159 on the Law concerning Prevention and Treatment of Burglaries, Thefts, Et cetera",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "English translation of key articles of Japan's Burglars Act defining justified self-defense and heavier penalties for habitual theft and robbery, published in The Japan Chronicle.",
+   "date": "1930-05-23",
+   "doc_type": "clipping",
+   "end_page": 7,
+   "from": "The Japan Chronicle",
+   "keywords": [
+    "The Japan Chronicle",
+    "The Burglars Act",
+    "self-defense",
+    "habitual offender",
+    "penal servitude",
+    "Criminal Code",
+    "theft",
+    "robbery"
+   ],
+   "start_page": 7,
+   "summary": "Japan Chronicle text of the Burglars Act, allowing force against intruders and setting minimum terms for habitual thieves.",
+   "title": "Newspaper Clipping: 'The Burglars Act' in The Japan Chronicle",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 16554,
+   "output_tokens": 8451,
+   "thinking_tokens": 7187,
+   "cache_read_tokens": 0,
+   "total_tokens": 25005
+  },
+  "backend": "agy",
+  "seconds": 29.6,
+  "identifier": "japan-internal-affairs-894.04413-judicial-branch-of-1",
+  "file": "894.04413 Judicial Branch Of Government., Laws. Statutes. Ordnances. Decrees. Codes. Procedures., Criminal., Japan, Offenses Against Property. Larceny. Embezzlement. Cheating. Robbery. Receiving Stolen Goods Property. Forgery., May 23, 1930 703.pdf",
+  "created": "2026-09-28 22:51:30"
+ }
+}

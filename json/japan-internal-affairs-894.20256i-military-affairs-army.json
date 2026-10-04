@@ -1,0 +1,83 @@
+{
+ "interest": "Dutch worries about Japanese moves in New Guinea, 1933.",
+ "keywords": [
+  "Japan",
+  "New Guinea",
+  "Netherlands",
+  "Dutch East Indies",
+  "Japanese expansion",
+  "land acquisition",
+  "Gazette of Holland",
+  "espionage",
+  "military intelligence",
+  "cross-reference sheet"
+ ],
+ "overview": "Cross-reference note to Swenson's 1933 despatch on Dutch anxiety about Japanese interest in New Guinea.",
+ "people": [
+  {
+   "name": "Laurits S. Swenson",
+   "role": "U.S. Minister to the Netherlands",
+   "variants": [
+    "Swenson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "HOLLAND"
+   ]
+  },
+  {
+   "name": "New Guinea",
+   "variants": [
+    "New Guinea"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a diplomatic despatch from the Netherlands enclosing a press article on Japanese interest and property acquisitions in New Guinea.",
+   "date": "1933-04-18",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Laurits S. Swenson",
+   "keywords": [
+    "Japan",
+    "New Guinea",
+    "Netherlands",
+    "Gazette of Holland",
+    "Swenson",
+    "property acquisition",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Swenson's despatch on Japanese interest in New Guinea.",
+   "title": "Cross-reference sheet for Despatch No. 653 from Swenson regarding Japanese interest in New Guinea",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13720,
+   "output_tokens": 2781,
+   "thinking_tokens": 2125,
+   "cache_read_tokens": 0,
+   "total_tokens": 16501
+  },
+  "backend": "agy",
+  "seconds": 12.5,
+  "identifier": "japan-internal-affairs-894.20256i-military-affairs-army",
+  "file": "894.20256I Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Other Islands Including Gathering Of Information. Espionage. Propaganda.,  780.pdf",
+  "created": "2026-09-29 02:49:42"
+ }
+}

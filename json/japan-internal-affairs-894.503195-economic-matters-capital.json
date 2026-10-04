@@ -1,0 +1,199 @@
+{
+ "interest": "Shows wartime Korean-American planning for postwar decolonization of Japanese assets, via Ilhan New's 1945 proposals to State.",
+ "keywords": [
+  "Korea",
+  "Japan",
+  "Japanese property",
+  "Korea Economic Society",
+  "Ilhan New",
+  "Charles F. Remer",
+  "Foreign Economic Administration",
+  "State Department",
+  "capital investments",
+  "colonial economy",
+  "reparations",
+  "postwar planning",
+  "land tenure",
+  "public utilities"
+ ],
+ "overview": "This file (State Department decimal file 894.503195, covering July 1944 to June 1945) addresses Japanese governmental and private capital investments and property holdings in colonial Korea during late World War II and preparatory planning for postwar administration. The principal document is a five-page letter and memorandum of July 1, 1944 from Ilhan New of the Korea Economic Society to Dr. Charles F. Remer of the State Department's Far Eastern Division, detailing Japanese public properties (such as railways, communications, and state monopolies) and private holdings across agriculture, fisheries, manufacturing, utilities, and finance, which New valued at ¥2,227,500,000 net of Korean participation as of 1936 while arguing that wartime investments should be forfeited. The file also contains a June 1945 letter from State Department Advisor Kevin M. Martin to Paul Johnstone of the Foreign Economic Administration requesting an updated review of Japanese investment estimates in Korea incorporating the latest intelligence, followed by an administrative charge slip.",
+ "people": [
+  {
+   "name": "Charles F. Remer",
+   "role": "Economic Advisor, Far Eastern Division, Department of State",
+   "variants": [
+    "Dr. Charles F. Remer",
+    "Dr. Remer",
+    "Dr. Romer"
+   ]
+  },
+  {
+   "name": "Ilhan New",
+   "role": "Author / Representative, Korea Economic Society",
+   "variants": [
+    "Ilhan New"
+   ]
+  },
+  {
+   "name": "Kevin M. Martin",
+   "role": "Advisor, Far East Economic Affairs, Department of State",
+   "variants": [
+    "Kevin M. Martin",
+    "Mar. Martin"
+   ]
+  },
+  {
+   "name": "Paul Johnstone",
+   "role": "Chief of Japan Special Services Staff, Enemy Branch, Foreign Economic Administration",
+   "variants": [
+    "Mr. Paul Johnstone",
+    "Mr. Johnstone"
+   ]
+  },
+  {
+   "name": "J. G. Grimes",
+   "role": "Clerk / Receipt recorder, Department of State",
+   "variants": [
+    "JG Grimes"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen",
+    "Chosen (Korea)"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "NEW YORK",
+    "New York",
+    "N. Y."
+   ]
+  },
+  {
+   "name": "Boulder",
+   "variants": [
+    "Boulder, Colo.",
+    "Boulder"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Zuiderzee",
+   "variants": [
+    "Shider Zee"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German occupied territories"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Eastern"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A memorandum in letter form providing an itemized estimate and political analysis of Japanese governmental and private property holdings in Korea as of 1936.",
+   "date": "1944-07-01",
+   "doc_type": "letter",
+   "end_page": 5,
+   "from": "Ilhan New",
+   "keywords": [
+    "Korea Economic Society",
+    "Ilhan New",
+    "Charles F. Remer",
+    "Japanese investments",
+    "colonial assets",
+    "land tenure",
+    "public monopolies",
+    "reparations",
+    "war economy"
+   ],
+   "start_page": 1,
+   "summary": "Ilhan New of the Korea Economic Society submits a detailed estimate to Dr. Charles F. Remer of the State Department assessing Japanese properties in Korea. New differentiates government-owned properties (including railways, communications, harbor installations, and monopolies) as the legitimate heritage of the Korean people, excluding them from Japanese claims. Analyzing private properties as of 1936, he estimates net Japanese holdings at ¥2,227,500,000 after deducting Korean corporate equity, detailing holdings in agriculture, forestry, fisheries, manufacturing, private railways, mining, utilities, and banking, while arguing that Japanese wartime investments after 1937 must be treated as war risk expenditures subject to forfeiture without postwar compensation.",
+   "title": "Letter from Ilhan New (Korea Economic Society) to Dr. Charles F. Remer on Japanese property holdings in Korea",
+   "to": "Dr. Charles F. Remer"
+  },
+  {
+   "about": "A letter confirming an agreement to prepare an intelligence-based review of Japanese public and private investment estimates in Korea.",
+   "date": "1945-06-27",
+   "doc_type": "letter",
+   "end_page": 6,
+   "from": "Kevin M. Martin",
+   "keywords": [
+    "Kevin M. Martin",
+    "Paul Johnstone",
+    "Foreign Economic Administration",
+    "State Department",
+    "Japanese investments",
+    "Korea",
+    "intelligence review"
+   ],
+   "start_page": 6,
+   "summary": "Kevin M. Martin asks Paul Johnstone of the Foreign Economic Administration's Enemy Branch to prepare a review of Japanese investments in Korea, incorporating the latest intelligence, by early July.",
+   "title": "Letter from Kevin M. Martin to Paul Johnstone requesting a review of Japanese investment estimates in Korea",
+   "to": "Paul Johnstone"
+  },
+  {
+   "about": "A Department of State charge slip recording the borrowing or routing of a file document.",
+   "date": "",
+   "doc_type": "charge slip",
+   "end_page": 7,
+   "from": "",
+   "keywords": [
+    "Department of State",
+    "charge slip",
+    "central files",
+    "records management"
+   ],
+   "start_page": 7,
+   "summary": "Standard Department of State charge slip (Form DS-516) recording a file withdrawn from the central files, with clerical annotations.",
+   "title": "Department of State Charge Slip",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 16099,
+   "output_tokens": 8827,
+   "thinking_tokens": 7294,
+   "cache_read_tokens": 0,
+   "total_tokens": 24926
+  },
+  "backend": "agy",
+  "seconds": 36.9,
+  "identifier": "japan-internal-affairs-894.503195-economic-matters-capital",
+  "file": "894.503195 Economic Matters., Capital., Investment Of, Or Field For Investment Of, Capital Of Japan In Chosen., July 1, 1944 - June 28, 1945 1489.pdf",
+  "created": "2026-09-29 08:17:34"
+ }
+}

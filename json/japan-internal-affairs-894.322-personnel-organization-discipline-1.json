@@ -1,0 +1,98 @@
+{
+ "interest": "U.S. sailors rescue Japanese sailors at Nanking, 1933.",
+ "keywords": [
+  "Nanking",
+  "U.S.S. Sacramento",
+  "Sumida",
+  "Japanese Navy",
+  "rescue",
+  "liberty party",
+  "motor sampan",
+  "Yangtze Patrol",
+  "naval cooperation",
+  "consular despatch",
+  "Willys R. Peck"
+ ],
+ "overview": "Peck's 1933 despatch: an American sampan rescued three Japanese sailors at Nanking; Japan thanked the Sacramento.",
+ "people": [
+  {
+   "name": "Willys R. Peck",
+   "role": "American Consul General at Nanking",
+   "variants": [
+    "Willys R. Peck"
+   ]
+  },
+  {
+   "name": "Frank A. Braisted",
+   "role": "Captain of the U.S.S. Sacramento",
+   "variants": [
+    "Captain Braisted",
+    "Braisted"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "FAR EASTERN"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consular report on the rescue of three Japanese sailors from the gunboat Sumida by a motor sampan of the U.S.S. Sacramento after an accidental capsizing at Nanking.",
+   "date": "1933-12-02",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Willys R. Peck, American Consul General, Nanking, China",
+   "keywords": [
+    "Nanking",
+    "U.S.S. Sacramento",
+    "Sumida",
+    "rescue",
+    "liberty party",
+    "sampan",
+    "drowning",
+    "Captain Braisted"
+   ],
+   "start_page": 1,
+   "summary": "Peck reports the Sacramento's sampan rescued three Japanese sailors from the Sumida; three others drowned.",
+   "title": "Despatch No. 577 from Willys R. Peck on Rescue of Japanese Liberty Party by U.S.S. Sacramento Motor Sampan",
+   "to": "The Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13902,
+   "output_tokens": 3706,
+   "thinking_tokens": 2835,
+   "cache_read_tokens": 0,
+   "total_tokens": 17608
+  },
+  "backend": "agy",
+  "seconds": 16.4,
+  "identifier": "japan-internal-affairs-894.322-personnel-organization-discipline-1",
+  "file": "894.322 Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services., Japan, Enlisted Men., December 2, 1933 796.pdf",
+  "created": "2026-09-29 04:07:25"
+ }
+}

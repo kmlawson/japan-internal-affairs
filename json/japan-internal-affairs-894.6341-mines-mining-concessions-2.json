@@ -1,0 +1,100 @@
+{
+ "overview": "The file consists of two cross-reference sheets concerning Japan’s gold situation in 1940. The first points to a July 16 report from Kobe stating that Japanese gold exports during the first half of 1940 were less than one-sixth of the quantity exported during all of 1939. The second points to telegram no. 168 of November 22, apparently from Ambassador Joseph C. Grew, containing an analysis of Japan’s gold position as of November 1, 1940. Neither underlying report is reproduced; the sheets direct researchers to other State Department file locations.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan's",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Fobe"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Tourley",
+   "role": "Reporting official at Kobe; full identity and position are not stated",
+   "variants": [
+    "Tourley"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan; identified from the apparent OCR misreading of the attribution to telegram no. 168",
+   "variants": [
+    "New"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "gold exports",
+  "gold reserves",
+  "gold position",
+  "precious metals",
+  "foreign trade",
+  "export decline",
+  "economic intelligence",
+  "1940",
+  "Joseph C. Grew",
+  "Kobe",
+  "cross-references",
+  "State Department decimal files"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference to report on the decrease in Japan’s gold exports",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1940-07-16",
+   "from": "Kobe (Tourley)",
+   "to": "",
+   "about": "The sheet refers to a report stating that Japan’s gold exports in the first half of 1940 were less than one-sixth of its total exports in 1939.",
+   "summary": "This cross-reference records a sharp decline in Japanese gold exports during the first six months of 1940 compared with the preceding calendar year. It attributes the underlying report to Kobe and an official rendered by the OCR as “Tourley.” The original document is directed to file SHE 4.15/69 but is not included here.",
+   "keywords": [
+    "Japan",
+    "Kobe",
+    "gold exports",
+    "export decline",
+    "1939",
+    "1940",
+    "SHE 4.15/69"
+   ]
+  },
+  {
+   "title": "Cross-reference to telegram no. 168 analyzing Japan’s gold position",
+   "doc_type": "cross-reference sheet",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1940-11-22",
+   "from": "Japan (Grew)",
+   "to": "",
+   "about": "The sheet refers to telegram no. 168 presenting an analysis of Japan’s gold position as of November 1, 1940.",
+   "summary": "This cross-reference identifies a November 22, 1940 telegram analyzing Japan’s gold position at the beginning of that month. The sender attribution appears in the OCR as “Japan (New),” an evident corruption of “Japan (Grew),” referring to Ambassador Joseph C. Grew. The original telegram is cross-filed under 894.515/70 and is not present in this bundle.",
+   "keywords": [
+    "Japan",
+    "Joseph C. Grew",
+    "gold position",
+    "gold reserves",
+    "telegram no. 168",
+    "November 1940",
+    "894.515/70"
+   ]
+  }
+ ],
+ "interest": "The file is useful chiefly as an archival roadmap: it links the gold-mining and precious-metals classification to records filed elsewhere under trade or financial headings. The first sheet preserves a striking quantitative indicator of Japan’s declining gold exports in 1940, while the second identifies a potentially important embassy assessment of Japan’s gold position shortly before the freezing of Japanese assets and the Pacific War. Together, the sheets demonstrate how related economic intelligence was dispersed across the State Department’s decimal filing system.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 66.2,
+  "identifier": "japan-internal-affairs-894.6341-mines-mining-concessions-2",
+  "file": "894.6341 Mines. Mining. Concessions., Precious Metals And Precious Stones., Japan, Gold., July 16, 1940 - November 22, 1940 1224.pdf",
+  "created": "2026-09-29 11:54:22"
+ }
+}

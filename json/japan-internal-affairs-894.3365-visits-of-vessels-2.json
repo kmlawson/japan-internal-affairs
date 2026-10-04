@@ -1,0 +1,113 @@
+{
+ "interest": "Japanese cruiser visits to Italy, 1937.",
+ "keywords": [
+  "Japanese Navy",
+  "naval diplomacy",
+  "goodwill visits",
+  "Italian ports",
+  "cruisers",
+  "Asama",
+  "Iwate",
+  "Naples",
+  "Livorno",
+  "Palermo",
+  "State Department",
+  "List of Papers"
+ ],
+ "overview": "Docket for 894.3365 (1937) on Japanese cruiser visits to Naples, Leghorn and Palermo.",
+ "people": [
+  {
+   "name": "William Phillips",
+   "role": "U.S. Ambassador to Italy",
+   "variants": [
+    "Phillips"
+   ]
+  },
+  {
+   "name": "Breckinridge Long",
+   "role": "U.S. diplomatic official in Italy",
+   "variants": [
+    "Long"
+   ]
+  },
+  {
+   "name": "Homer M. Withey",
+   "role": "U.S. Vice Consul at Naples",
+   "variants": [
+    "Withoy"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy",
+    "Italian"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Naples",
+   "variants": [
+    "Naples"
+   ]
+  },
+  {
+   "name": "Livorno",
+   "variants": [
+    "Leghorn"
+   ]
+  },
+  {
+   "name": "Palermo",
+   "variants": [
+    "Palermo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet indexing three diplomatic despatches concerning visits of Japanese naval training cruisers to Italian ports in 1937.",
+   "date": "1937",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese Navy",
+    "Asama",
+    "Iwate",
+    "Naples",
+    "Leghorn",
+    "Palermo",
+    "naval visits"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.3365: three despatches on Japanese cruiser visits to Italy.",
+   "title": "List of Papers: Visits of Japanese Vessels to Italian Ports",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13824,
+   "output_tokens": 5241,
+   "thinking_tokens": 4309,
+   "cache_read_tokens": 0,
+   "total_tokens": 19065
+  },
+  "backend": "agy",
+  "seconds": 19.1,
+  "identifier": "japan-internal-affairs-894.3365-visits-of-vessels-2",
+  "file": "894.3365 Visits Of Vessels And Aircraft Of Japan To Ports Of Italy.,  504.pdf",
+  "created": "2026-09-29 04:36:21"
+ }
+}

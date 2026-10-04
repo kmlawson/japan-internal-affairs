@@ -1,0 +1,113 @@
+{
+ "interest": "Soviet press attacks U.S. armed intervention in a Kawasaki strike.",
+ "keywords": [
+  "Strikes and lockouts",
+  "Labor disputes",
+  "Trade unions",
+  "Military Police",
+  "Occupation of Japan",
+  "Izvestia",
+  "Soviet propaganda",
+  "Kawasaki",
+  "Shibaura Electric Co.",
+  "Zaibatsu",
+  "Potsdam Declaration",
+  "Cold War"
+ ],
+ "overview": "December 1946 telegram relays an Izvestia article attacking armed U.S. intervention in a Kawasaki Shibaura Electric strike.",
+ "people": [
+  {
+   "name": "Walter Bedell Smith",
+   "role": "U.S. Ambassador to the Soviet Union",
+   "variants": [
+    "SMITH"
+   ]
+  },
+  {
+   "name": "R. Moran",
+   "role": "Author and journalist for Izvestia",
+   "variants": [
+    "R. Moran"
+   ]
+  },
+  {
+   "name": "Irwin",
+   "role": "United States Military Police Lieutenant",
+   "variants": [
+    "Lieutenant Irwin",
+    "Irwin"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Potsdam",
+   "variants": [
+    "Potsdam"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A telegram summarizing a critical Soviet Izvestia article on U.S. Military Police armed intervention in a Japanese electrical workers' strike in Kawasaki.",
+   "date": "1946-12-03",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Walter Bedell Smith (Moscow)",
+   "keywords": [
+    "Izvestia",
+    "Strikes and lockouts",
+    "Military Police",
+    "Lieutenant Irwin",
+    "Shabara Electric Co.",
+    "Kawasaki",
+    "Zaibatsu",
+    "Potsdam Declaration"
+   ],
+   "start_page": 1,
+   "summary": "Telegram 4307: Moscow relays an Izvestia article condemning armed U.S. MPs who allegedly ordered workers out at gunpoint during a Shibaura Electric strike in Kawasaki, accusing occupation forces of violating democratic rights while slowly, ineffectively persuading the Zaibatsu.",
+   "title": "Telegram 4307 from Moscow (Smith) on Soviet Press Criticism of U.S. Strike Intervention in Japan",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13955,
+   "output_tokens": 4040,
+   "thinking_tokens": 3122,
+   "cache_read_tokens": 0,
+   "total_tokens": 17995
+  },
+  "backend": "agy",
+  "seconds": 17.8,
+  "identifier": "japan-internal-affairs-894.5045-economic-matters-labor-4",
+  "file": "894.5045 Economic Matters., Labor., Japan, Strikes And Lockouts., December 3, 1946 1547.pdf",
+  "created": "2026-09-29 08:55:30"
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "interest": "1932 U.S. reporting frames Japanese ultranationalism as 'fascism'.",
+ "keywords": [
+  "Fascism",
+  "Japan",
+  "Communism",
+  "Parliamentary government",
+  "Reactionary societies",
+  "Inukai Tsuyoshi assassination",
+  "May 15 Incident",
+  "Kokumin Domei",
+  "Division of Far Eastern Affairs",
+  "Edwin L. Neville",
+  "Nelson T. Johnson",
+  "Japanese press"
+ ],
+ "overview": "Docket for 894.00F (1932) listing five papers on fascism in Japan, including Inukai's assassination and the Kokumin Domei.",
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d'Affaires ad interim in Japan",
+   "variants": [
+    "Neville"
+   ]
+  },
+  {
+   "name": "Nelson T. Johnson",
+   "role": "U.S. Minister to China",
+   "variants": [
+    "Johnson"
+   ]
+  },
+  {
+   "name": "Tsuyoshi Inukai",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Imusoi"
+   ]
+  },
+  {
+   "name": "Laurence E. Salisbury",
+   "role": "Officer, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Salisbury"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "NEW YORK"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Eastern"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A despatch reporting that communism and fascism represent dangerous undercurrents in Japan aimed at destroying parliamentary government and capitalism.",
+   "date": "1932-04-07",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "Fascism",
+    "Communism",
+    "Parliamentary government",
+    "Capitalism",
+    "Edwin L. Neville",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Neville's despatch No. 561 warning that communism and fascism threaten parliamentary government in Japan.",
+   "title": "Despatch No. 561 from Neville on Communism and Fascism in Japan",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A despatch analyzing Japanese reactionary societies and their disavowal of the term 'fascism' despite its ideological applicability.",
+   "date": "1932-04-22",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "Reactionary societies",
+    "Fascism",
+    "Ultranationalism",
+    "Edwin L. Neville",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Neville's despatch No. 588: Japanese reactionary societies reject the 'fascism' label, though it may fit.",
+   "title": "Despatch No. 588 from Neville on Reactionary Societies and Fascism",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A telegram reporting press accounts linking the assassination of Prime Minister Inukai Tsuyoshi to the fascist movement.",
+   "date": "1932-05-20",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Nelson T. Johnson",
+   "keywords": [
+    "Inukai Tsuyoshi assassination",
+    "May 15 Incident",
+    "Nelson T. Johnson",
+    "Fascism",
+    "China",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Johnson's telegram No. 548: newspapers blame the fascist movement for Inukai's assassination.",
+   "title": "Telegram No. 548 from Johnson on the Assassination of Inukai",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A periodic report noting the marked increase in Japanese press coverage and discussions of fascism during May 1932.",
+   "date": "1932-06-01",
+   "doc_type": "report",
+   "end_page": 1,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "Japanese press",
+    "Fascism",
+    "Public opinion",
+    "Edwin L. Neville",
+    "Periodic report",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Neville's report No. 634 on rising press use of 'fascism' in May 1932.",
+   "title": "Periodic Report No. 634 from Neville on Fascism in the Japanese Press",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A State Department memorandum assessing the newly formed Kokumin Domei party and its reported fascist parliamentary tendencies.",
+   "date": "1932-12-30",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "Laurence E. Salisbury",
+   "keywords": [
+    "Kokumin Domei",
+    "Laurence E. Salisbury",
+    "New York Herald Tribune",
+    "Fascist party",
+    "Parliamentary politics",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Salisbury's memo calling the Kokumin Domei Japan's first fascist parliamentary party.",
+   "title": "Memorandum by Salisbury on the Kokumin Domei Party",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14006,
+   "output_tokens": 26743,
+   "thinking_tokens": 24854,
+   "cache_read_tokens": 0,
+   "total_tokens": 40749
+  },
+  "backend": "agy",
+  "seconds": 79.9,
+  "identifier": "japan-internal-affairs-894.00f-political-affairs-japan-2",
+  "file": "894.00F Political Affairs., Japan, Fascism. Fascist Activities.,  347.pdf",
+  "created": "2026-09-28 21:36:59"
+ }
+}

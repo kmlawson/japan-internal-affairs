@@ -1,0 +1,1982 @@
+{
+ "section_summary": "This section documents U.S. petroleum and strategic-material exports to Japan in mid-1940, including shipments of aviation gasoline, blending agents, tetraethyl lead, lubricants, and metals, as well as proposals to transfer refinery designs and technical processes. State Department memoranda debate moral embargoes and formal export controls, while British diplomats warn that petroleum restrictions might provoke Japanese action in the Netherlands Indies and disrupt Allied oil supplies. The section also contains congressional and public protests over exports to Japan and extensive Japanese diplomatic efforts to secure performance of contracts between Universal Oil Products and the Japan Gasoline Company.",
+ "places": [
+  {
+   "name": "New York City",
+   "variants": [
+    "NEWYORK",
+    "New York, New Yerk.",
+    "New York City",
+    "NEW YORK, N. Y.",
+    "New York, New York",
+    "N.Y.",
+    "New York",
+    "City of New York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C.",
+    "Washington, D. C.",
+    "WASHINGTON",
+    "Washington, D."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japas",
+    "Jupan",
+    "Japen",
+    "Japam",
+    "Janan",
+    "Ja an"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Hyde Park, New York",
+   "variants": [
+    "Hyde Park, Hew Yort."
+   ]
+  },
+  {
+   "name": "San Pedro, California",
+   "variants": [
+    "San Pedro"
+   ]
+  },
+  {
+   "name": "Yokosuka, Japan",
+   "variants": [
+    "Yorusuka, Japan."
+   ]
+  },
+  {
+   "name": "Kawasaki, Japan",
+   "variants": [
+    "Lavasari, Japan."
+   ]
+  },
+  {
+   "name": "San Luis Obispo, California",
+   "variants": [
+    "San Luis Obispo",
+    "San Luie Obispo"
+   ]
+  },
+  {
+   "name": "Niigata, Japan",
+   "variants": [
+    "Niitago, Japan."
+   ]
+  },
+  {
+   "name": "New Orleans, Louisiana",
+   "variants": [
+    "Now Orleans"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Britain",
+    "Great Britain",
+    "England"
+   ]
+  },
+  {
+   "name": "Houston, Texas",
+   "variants": [
+    "Houston"
+   ]
+  },
+  {
+   "name": "Corpus Christi, Texas",
+   "variants": [
+    "Corpus Christi"
+   ]
+  },
+  {
+   "name": "Nagasaki, Japan",
+   "variants": [
+    "Magasari, Japan."
+   ]
+  },
+  {
+   "name": "Wonsan, North Korea",
+   "variants": [
+    "Gensan, Korea."
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokahama, Japan."
+   ]
+  },
+  {
+   "name": "San Juan, Puerto Rico",
+   "variants": [
+    "San Juan"
+   ]
+  },
+  {
+   "name": "Suriname",
+   "variants": [
+    "Dutch Guiana"
+   ]
+  },
+  {
+   "name": "Trinidad",
+   "variants": [
+    "Triaidad"
+   ]
+  },
+  {
+   "name": "French Guiana",
+   "variants": [
+    "French Guiama"
+   ]
+  },
+  {
+   "name": "United States Virgin Islands",
+   "variants": [
+    "Virgin Islands"
+   ]
+  },
+  {
+   "name": "Jersey City, New Jersey",
+   "variants": [
+    "Jersoy City, New Jersey",
+    "JERSEY CITY,N.J.",
+    "Jersey City, N.J.",
+    "Serseg Gaty, Bee Jespey."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United  tates",
+    "United States of America",
+    "U. S. A."
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Indiana",
+   "variants": [
+    "Indiana"
+   ]
+  },
+  {
+   "name": "Bartlesville, Oklahoma",
+   "variants": [
+    "BARTLESVILLE.OKLAHOMA",
+    "Bartlesville, Oklahema."
+   ]
+  },
+  {
+   "name": "Philadelphia, Pennsylvania",
+   "variants": [
+    "Phila."
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "!ussia"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asie"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Fer Fast"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Furope"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Moscow, Russia",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo",
+    "Tokye"
+   ]
+  },
+  {
+   "name": "Gulf Coast",
+   "variants": [
+    "Ex Gulf",
+    "Gulf"
+   ]
+  },
+  {
+   "name": "Pacific Coast",
+   "variants": [
+    "Pacific Coast",
+    "Pacific coast",
+    "Pasifie Ceast",
+    "Pacifio Coast"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Thalland"
+   ]
+  },
+  {
+   "name": "Beijing, China",
+   "variants": [
+    "Peiping",
+    "Poiping"
+   ]
+  },
+  {
+   "name": "Chongqing, China",
+   "variants": [
+    "Chungking",
+    "Chmagking",
+    "Chmngking"
+   ]
+  },
+  {
+   "name": "Bangkok, Thailand",
+   "variants": [
+    "Bangkok",
+    "Bangkek"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "The Netherlands Indies",
+    "Dutch East Indies"
+   ]
+  },
+  {
+   "name": "Atlantic seaboard",
+   "variants": [
+    "Atlantic seaboards"
+   ]
+  },
+  {
+   "name": "Pacific seaboard",
+   "variants": [
+    "Pacific seaboards"
+   ]
+  },
+  {
+   "name": "Spanish Atlantic area",
+   "variants": [
+    "Spanish Atlantic area"
+   ]
+  },
+  {
+   "name": "British Isles",
+   "variants": [
+    "British Isles"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canadian"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "Mass.",
+    "Massachusetts"
+   ]
+  },
+  {
+   "name": "Lunenburg, Massachusetts",
+   "variants": [
+    "Lunenburg, Mass.",
+    "Lumenburg, Massachusetts"
+   ]
+  },
+  {
+   "name": "Pacific Ocean region",
+   "variants": [
+    "Paoific",
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Minneapolis, Minnesota",
+   "variants": [
+    "Minneapolis, Minnesota",
+    "Minneapolis, Mimneseta"
+   ]
+  },
+  {
+   "name": "Iowa",
+   "variants": [
+    "Iowa",
+    "The Iowa Distriot"
+   ]
+  },
+  {
+   "name": "Decorah, Iowa",
+   "variants": [
+    "Decorah, Iowa"
+   ]
+  },
+  {
+   "name": "Tacoma, Washington",
+   "variants": [
+    "Tacoma, Washington",
+    "Tacoma, Wash.",
+    "Tessme, Washingten"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North Amerioa"
+   ]
+  },
+  {
+   "name": "South Dakota",
+   "variants": [
+    "South Dakota"
+   ]
+  },
+  {
+   "name": "Chicago, Illinois",
+   "variants": [
+    "Chicago",
+    "City of Chicago",
+    "Illinois"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "southern half of Sakhalin"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "the leased territory of Kwantung"
+   ]
+  },
+  {
+   "name": "Southern Manchuria",
+   "variants": [
+    "Southern Manchuria"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "New York State"
+   ]
+  },
+  {
+   "name": "Riverside Laboratories",
+   "variants": [
+    "Riverside Laboratories"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kersey I. Coe",
+   "role": "Standard-Vacuum Oil Company correspondent",
+   "variants": [
+    "Kersey I. Coe."
+   ]
+  },
+  {
+   "name": "Joseph C. Green",
+   "role": "Chief, Division of Controls, Department of State",
+   "variants": [
+    "Mr. Joseph C. Gr",
+    "Mr. Green",
+    "Joseph C. Green",
+    "Jeseph C. Greem",
+    "Jogeph C. Green",
+    "Joseph C, Green",
+    "Joseph C. Qreen",
+    "Mr. Greon",
+    "Mr. Gren"
+   ]
+  },
+  {
+   "name": "Charles W. Yost",
+   "role": "Acting Chief, Division of Controls",
+   "variants": [
+    "Charles W. Yess",
+    "Mr. Yost",
+    "Charles W. Yost",
+    "Charles W. Yest"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "Under Secretary and Acting Secretary of State",
+   "variants": [
+    "Mr. Welles",
+    "Honorable Stner ell"
+   ]
+  },
+  {
+   "name": "Henry Morgenthau Jr.",
+   "role": "Secretary of the Treasury",
+   "variants": [
+    "H Morgonthau. Jr"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Adviser on Political Relations, Department of State",
+   "variants": [
+    "Mr. Hornbeck",
+    "Horhbeok",
+    "MIY HUNNBICK",
+    "MR. HONNBECK"
+   ]
+  },
+  {
+   "name": "F. E. Johnson Jr.",
+   "role": "Vice President, M. W. Kellogg Company",
+   "variants": [
+    "Mr. F. E. Johnson",
+    "JOHNBON. JR.",
+    "Mr. Johnson",
+    "Mr. Jehasens"
+   ]
+  },
+  {
+   "name": "Harold W. Moseley",
+   "role": "Officer, Division of Controls",
+   "variants": [
+    "Harold W. Moseley",
+    "Mr. Moseley",
+    "H. W. Mosley",
+    "Harola W. Moseley"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Department of State officer",
+   "variants": [
+    "Mr. Hamilton"
+   ]
+  },
+  {
+   "name": "R. Walton Moore",
+   "role": "Department of State official referred to as Judge Moore",
+   "variants": [
+    "Mr. Moore",
+    "Judge Moore"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Berle",
+    "A. A. Berle, Jr.",
+    "Mr. A. A. Berle, Jr."
+   ]
+  },
+  {
+   "name": "Morishima",
+   "role": "Counselor of the Japanese Embassy",
+   "variants": [
+    "Mr. Morishima"
+   ]
+  },
+  {
+   "name": "K. S. Adams",
+   "role": "President, Phillips Petroleum Company",
+   "variants": [
+    "K S ADAMS",
+    "Mr. Ademe",
+    "Adame"
+   ]
+  },
+  {
+   "name": "Edgar P. Allen",
+   "role": "Acting Assistant Chief, Division of Controls",
+   "variants": [
+    "Edgar P. Allen"
+   ]
+  },
+  {
+   "name": "J. Goux",
+   "role": "Agent, Associated Ethyl Company Limited",
+   "variants": [
+    "J. GOUX",
+    "Mr. Goux",
+    "J. Goux"
+   ]
+  },
+  {
+   "name": "Roger S. Greene",
+   "role": "Apparent author of the Far Eastern policy memorandum",
+   "variants": [
+    "Mr. Roger Greene",
+    "Mn Rogn Groine"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Head of the Chinese Nationalist government",
+   "variants": [
+    "Chiang K'ai-shek"
+   ]
+  },
+  {
+   "name": "Stafford Cripps",
+   "role": "British ambassador to the Soviet Union",
+   "variants": [
+    "Sir Stefford Cripps"
+   ]
+  },
+  {
+   "name": "George S. Walden",
+   "role": "Standard-Vacuum Oil Company representative",
+   "variants": [
+    "Mr. George S. Walden",
+    "Mr. Walden"
+   ]
+  },
+  {
+   "name": "Henry F. Grady",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Grady"
+   ]
+  },
+  {
+   "name": "James Clement Dunn",
+   "role": "Department of State official",
+   "variants": [
+    "Mr. Dunn",
+    "James Cfement Dunn"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador in Tokyo",
+   "variants": [
+    "Joseph C. Grow"
+   ]
+  },
+  {
+   "name": "Russell L. Maxwell",
+   "role": "Administrator of Export Control",
+   "variants": [
+    "Colonel Maxwell"
+   ]
+  },
+  {
+   "name": "James A. Moffett",
+   "role": "Chairman of the Board, California Texas Oil Company",
+   "variants": [
+    "Mr. James A. Moffett",
+    "Mr. Moffett"
+   ]
+  },
+  {
+   "name": "Butler",
+   "role": "Counselor of the British Embassy",
+   "variants": [
+    "Mr. Butler"
+   ]
+  },
+  {
+   "name": "Webb",
+   "role": "Head of the Ethyl Corporation",
+   "variants": [
+    "Mr. Webb"
+   ]
+  },
+  {
+   "name": "F. A. Howard",
+   "role": "President, Standard Oil Development Company",
+   "variants": [
+    "Mr. F. A. Howard",
+    "Mr. Howard"
+   ]
+  },
+  {
+   "name": "C. S. Reed",
+   "role": "President, Lummus Company",
+   "variants": [
+    "Mr. C. S. Reed",
+    "Mr. Reed",
+    "C. B. R"
+   ]
+  },
+  {
+   "name": "Nathaniel Ely",
+   "role": "Representative discussing the Lummus proposal",
+   "variants": [
+    "Mr. Nathaniel Efy",
+    "Mr. Ely"
+   ]
+  },
+  {
+   "name": "Joseph E. Casey",
+   "role": "United States Representative from Massachusetts",
+   "variants": [
+    "Joseph E. Casey",
+    "Joaeph 6. Cosey",
+    "Mr. Casey"
+   ]
+  },
+  {
+   "name": "Joseph A. Harwood",
+   "role": "Constituent from Lunenburg, Massachusetts",
+   "variants": [
+    "JOSEPH A. HARWOOD",
+    "Mr. Joseph A. Harwood",
+    "Mr. Harwood"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "Secretary Hull",
+    "Cordell Hull",
+    "Cordel]",
+    "arae1l Aull"
+   ]
+  },
+  {
+   "name": "Frank M. Warren",
+   "role": "Constituent from Minneapolis",
+   "variants": [
+    "Mr. Frank M. Warren",
+    "Mr. Warren"
+   ]
+  },
+  {
+   "name": "Henrik Shipstead",
+   "role": "United States Senator from Minnesota",
+   "variants": [
+    "HENRIK SHIPSTEAD",
+    "Henrrk Shipsxead",
+    "Senater Saipstead"
+   ]
+  },
+  {
+   "name": "Edward J. Trenwith",
+   "role": "Senate clerk",
+   "variants": [
+    "EDWARD J. TRENWITH"
+   ]
+  },
+  {
+   "name": "James A. White",
+   "role": "Assistant Senate clerk",
+   "variants": [
+    "JAMEF A. WHITE"
+   ]
+  },
+  {
+   "name": "Wallace H. White Jr.",
+   "role": "United States Senator from Maine",
+   "variants": [
+    "LACE H. WHITE, JR., MANNE"
+   ]
+  },
+  {
+   "name": "Warren R. Austin",
+   "role": "United States Senator from Vermont",
+   "variants": [
+    "RREN R. AUSTIN, VT."
+   ]
+  },
+  {
+   "name": "Charles W. Tobey",
+   "role": "United States Senator from New Hampshire",
+   "variants": [
+    "CHARLES W. TOBEY, N. H."
+   ]
+  },
+  {
+   "name": "Clyde M. Reed",
+   "role": "United States Senator from Kansas",
+   "variants": [
+    "GLYDE M. REED, KANS."
+   ]
+  },
+  {
+   "name": "Chan Gurney",
+   "role": "United States Senator from South Dakota",
+   "variants": [
+    "CHAN GURNEY, B. DAK."
+   ]
+  },
+  {
+   "name": "W. Mitchell",
+   "role": "Senate committee clerk",
+   "variants": [
+    "W. MITCHELL"
+   ]
+  },
+  {
+   "name": "Henry O. Talle",
+   "role": "United States Representative from Iowa",
+   "variants": [
+    "HENRY O. TALLE",
+    "H. O. Talle",
+    "Mr. Talle",
+    "Heary O. Talle"
+   ]
+  },
+  {
+   "name": "N. Astrup Larsen",
+   "role": "President, Iowa District of the Norwegian Lutheran Church of America",
+   "variants": [
+    "N. Astrup Larsen, D.D.",
+    "N. ASTRUP LARSEN",
+    "Dr. N. Astrup Lerson",
+    "Reveremd N. Astrup Larsen"
+   ]
+  },
+  {
+   "name": "Homer T. Bone",
+   "role": "United States Senator from Washington",
+   "variants": [
+    "Mr. Homer T. Bone",
+    "Senator Homer T. Bone",
+    "Senator Bone",
+    "Homer T. Bome"
+   ]
+  },
+  {
+   "name": "Emmy Anderson",
+   "role": "Constituent from Tacoma, Washington",
+   "variants": [
+    "Mrs. Emmy Anderson",
+    "MRS. EMMY ANDERSON",
+    "Mrs. Bany Andereen",
+    "Mrs. Anderson"
+   ]
+  },
+  {
+   "name": "Kensuke Horinouchi",
+   "role": "Japanese Ambassador to the United States",
+   "variants": [
+    "Mr. Kensuke Horinouchi"
+   ]
+  },
+  {
+   "name": "Hisashi Sekiguchi",
+   "role": "Japanese purchaser and contracting party with Universal Oil Products",
+   "variants": [
+    "HISASHI SEKIGUCHI",
+    "SEKIGUCHI",
+    "Hisashi Sekiguchi"
+   ]
+  },
+  {
+   "name": "K. Tsunoda",
+   "role": "Oil-industry adviser to be retained under the Universal–Sekiguchi agreement",
+   "variants": [
+    "Mr. K. Tsunoda",
+    "K. Tsunoda"
+   ]
+  },
+  {
+   "name": "H. J. Halle",
+   "role": "President, Universal Oil Products Company",
+   "variants": [
+    "H J Halle",
+    "Halle"
+   ]
+  },
+  {
+   "name": "J. P. Langford",
+   "role": "Witness to the Universal–Sekiguchi agreement",
+   "variants": [
+    "J. P. Langfore"
+   ]
+  },
+  {
+   "name": "J. G. Alther",
+   "role": "Secretary, Universal Oil Products Company",
+   "variants": [
+    "J G Alther",
+    "Alther"
+   ]
+  },
+  {
+   "name": "K. P. Bennen",
+   "role": "Witness to the Universal–Sekiguchi agreement",
+   "variants": [
+    "K. P. Bennen"
+   ]
+  },
+  {
+   "name": "E. M. Matson",
+   "role": "Witness to the Universal–Sekiguchi agreement",
+   "variants": [
+    "E. M. Matson"
+   ]
+  }
+ ],
+ "keywords": [
+  "petroleum exports",
+  "aviation gasoline",
+  "tetraethyl lead",
+  "export controls",
+  "moral embargo",
+  "Japan",
+  "oil-refining technology",
+  "scrap iron and metals",
+  "British diplomatic concerns",
+  "Universal Oil Products Company",
+  "Japan Gasoline Company",
+  "congressional correspondence"
+ ],
+ "subfiles": [
+  {
+   "title": "Standard-Vacuum report on shipment of blending agent to Japan",
+   "doc_type": "letter",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1940-07-23",
+   "from": "Kersey I. Coe, Standard-Vacuum Oil Company",
+   "to": "Joseph C. Green, Division of Controls",
+   "about": "Reports completion of a 15,000-drum sale of gasoline blending agent to Japan.",
+   "summary": "Coe reports that 11,000 drums of blending agent sailed from San Francisco aboard the Kaisyo Maru on July 20, following an earlier shipment of 4,000 drums. He promises to notify the Department before quoting on future inquiries for the same or similar products.",
+   "keywords": [
+    "blending agent",
+    "Japan",
+    "Standard-Vacuum",
+    "Kaisyo Maru",
+    "petroleum exports"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Standard-Vacuum export report",
+   "doc_type": "letter",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1940-08-02",
+   "from": "Charles W. Yost, for the Secretary of State",
+   "to": "Kersey I. Coe, Standard-Vacuum Oil Company",
+   "about": "Acknowledges information concerning 11,000 drums of gasoline blending agent exported to Japan.",
+   "summary": "The Department acknowledges Coe's July 23 report of the recent shipment. Yost expresses appreciation for the company's cooperation in supplying export information.",
+   "keywords": [
+    "acknowledgment",
+    "gasoline blending agent",
+    "Japan",
+    "Standard-Vacuum"
+   ]
+  },
+  {
+   "title": "Under Secretary's routing note on Treasury petroleum report",
+   "doc_type": "memorandum",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1940-07-23",
+   "from": "Office of the Under Secretary of State",
+   "to": "Appropriate Department of State officers",
+   "about": "Directs that information received from the Secretary of the Treasury be circulated to appropriate officers.",
+   "summary": "The Under Secretary notes that he has acknowledged the Treasury Secretary's communication. He instructs that its information be brought to the attention of the appropriate Department officers.",
+   "keywords": [
+    "routing",
+    "Treasury Department",
+    "petroleum information",
+    "Department of State"
+   ]
+  },
+  {
+   "title": "Treasury transmittal of weekly vessel report",
+   "doc_type": "letter",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1940-07-23",
+   "from": "Henry Morgenthau Jr., Secretary of the Treasury",
+   "to": "Sumner Welles, Acting Secretary of State",
+   "about": "Forwards a copy of Morgenthau's report to the President on vessels carrying petroleum products.",
+   "summary": "Morgenthau sends Welles a copy of the letter and accompanying information transmitted to the President that day. The material concerns vessels departing American ports with petroleum cargoes.",
+   "keywords": [
+    "Treasury Department",
+    "petroleum cargoes",
+    "vessel departures",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Letter to the President on petroleum vessels bound for Japan",
+   "doc_type": "letter copy",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1940-07-23",
+   "from": "Henry Morgenthau Jr., Secretary of the Treasury",
+   "to": "The President of the United States",
+   "about": "Introduces a statement of vessels and cargoes bound for Japan from American ports.",
+   "summary": "Morgenthau forwards a statement showing vessels, cargo amounts, and destinations for ships bound for Japan that cleared on July 20–22. He promises to furnish comparable information weekly.",
+   "keywords": [
+    "Japan",
+    "vessel clearances",
+    "petroleum cargoes",
+    "weekly reporting"
+   ]
+  },
+  {
+   "title": "Departure permits for vessels carrying petroleum products, July 20–22",
+   "doc_type": "statistical statement",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1940-07",
+   "from": "Department of the Treasury",
+   "to": "The President of the United States",
+   "about": "Lists ships granted departure permits, their cargoes, ports, destinations, and tonnage.",
+   "summary": "The statement records Japanese, Norwegian, Dutch, and American vessels carrying crude oil, gasoline, diesel oil, or other petroleum products. Most cargo quantities were unavailable, although the Nitiei Maru reportedly carried 84,000 barrels, offered as a basis for estimating other ships' loads.",
+   "keywords": [
+    "departure permits",
+    "petroleum products",
+    "Japanese shipping",
+    "oil cargoes",
+    "vessel tonnage"
+   ]
+  },
+  {
+   "title": "Inquiry concerning Kellogg plans for a lubricating-oil plant",
+   "doc_type": "memorandum",
+   "start_page": 7,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1940-06-12",
+   "from": "Harold W. Moseley, Division of Controls",
+   "to": "Department of State officials",
+   "about": "Records an inquiry about selling Mitsui plans for a high-grade lubricating-oil plant in Japan.",
+   "summary": "F. E. Johnson of M. W. Kellogg asked whether the Department objected to selling plans for a plant capable of producing 1,000 barrels per day of motor and aviation-grade lubricating oil. After consulting Green, Hornbeck, Hamilton, and Yost, Moseley asked Johnson to submit a detailed written description of the proposed contract.",
+   "keywords": [
+    "M. W. Kellogg",
+    "Mitsui",
+    "lubricating oil",
+    "technical transfer",
+    "moral embargo"
+   ]
+  },
+  {
+   "title": "Kellogg description of proposed propane lubricating-oil process sale",
+   "doc_type": "letter",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1940-06-13",
+   "from": "F. E. Johnson Jr., M. W. Kellogg Company",
+   "to": "Department of State",
+   "about": "Describes Mitsui's inquiry for a 1,000-barrel-per-day propane-process lubricating-oil plant.",
+   "summary": "Johnson identifies three competing American processes and notes that Kellogg's JUIK process could produce high-quality lubricant suitable for aircraft engines. Although he believes the transaction falls outside the moral embargo, he states that the company will not quote until the Department responds.",
+   "keywords": [
+    "M. W. Kellogg",
+    "Mitsui",
+    "JUIK process",
+    "lubricating oil",
+    "aviation engines"
+   ]
+  },
+  {
+   "title": "Department reply approving consideration of the Kellogg transaction",
+   "doc_type": "letter",
+   "start_page": 10,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1940-07-22",
+   "from": "Joseph C. Green, for the Secretary of State",
+   "to": "F. E. Johnson Jr., M. W. Kellogg Company",
+   "about": "Responds to Kellogg's request for an opinion on selling lubricating-oil plant plans to Mitsui.",
+   "summary": "Green states that the proposed transaction does not appear to fall within the government's existing policy restricting information used to make high-quality aviation gasoline. The reply therefore raises no objection under the announced policy.",
+   "keywords": [
+    "M. W. Kellogg",
+    "Mitsui",
+    "lubricating-oil plant",
+    "Department policy",
+    "technical plans"
+   ]
+  },
+  {
+   "title": "Coordination and Review comment on the Kellogg proposal",
+   "doc_type": "memorandum",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1940-07-03",
+   "from": "Office of Coordination and Review",
+   "to": "Joseph C. Green",
+   "about": "Relays Judge Moore's reluctance to let the Kellogg transaction proceed merely because it falls outside existing policy.",
+   "summary": "The memorandum says Judge Moore dislikes allowing the firm to proceed simply because the transaction is technically outside the present policy. It notes that Hornbeck and Berle have not initialed the matter.",
+   "keywords": [
+    "Kellogg proposal",
+    "policy scope",
+    "Judge Moore",
+    "moral embargo"
+   ]
+  },
+  {
+   "title": "Hornbeck memorandum criticizing embargo policy",
+   "doc_type": "memorandum",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1940-07-11",
+   "from": "Stanley K. Hornbeck, Adviser on Political Relations",
+   "to": "Department of State officials",
+   "about": "Argues that American moral and statutory embargo policies have become confused and ineffective.",
+   "summary": "Hornbeck agrees with the concern attributed to Judge Moore and calls existing embargo practice confused, inconsistent, and futile. He argues that embargoes should either be broadened or moral embargoes abandoned in favor of a narrow application of statutory restrictions.",
+   "keywords": [
+    "embargo policy",
+    "moral embargo",
+    "national security",
+    "policy criticism"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs assessment of the lubricating-oil process sale",
+   "doc_type": "memorandum",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1940-06-27",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State officials",
+   "about": "Assesses whether the sale of an advanced lubricating-oil process to Japan is restricted.",
+   "summary": "The memorandum calls the prospective sale regrettable because the United States held world leadership in the process. It nevertheless concludes that a lubricating-oil plant falls outside the aviation-gasoline policy and that new defense legislation apparently imposes no restriction on the information.",
+   "keywords": [
+    "Japan",
+    "lubricating-oil process",
+    "aviation gasoline",
+    "defense legislation",
+    "technology transfer"
+   ]
+  },
+  {
+   "title": "Green memorandum to Berle on uniform moral-embargo practice",
+   "doc_type": "memorandum",
+   "start_page": 15,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1940-07",
+   "from": "Joseph C. Green",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Explains why the Department should not object to the Kellogg sale unless the moral embargo is formally extended.",
+   "summary": "Green explains that the Department has consistently avoided opposing transactions outside the publicly announced moral embargo, since doing so would penalize companies that voluntarily seek guidance. He concludes that the proposed lubricating-oil plant is outside current policy and notes that an earlier proposal by Yost to broaden the embargo was rejected.",
+   "keywords": [
+    "moral embargo",
+    "uniform practice",
+    "M. W. Kellogg",
+    "fair competition",
+    "lubricating oil"
+   ]
+  },
+  {
+   "title": "Charge slip for file 894.24 enclosure",
+   "doc_type": "charge slip",
+   "start_page": 17,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Records the circulation or removal of an enclosure from the departmental file.",
+   "summary": "The form lists several file charges, dates, initials, and cross-references. Much of the handwritten information is illegible and provides no substantive policy discussion.",
+   "keywords": [
+    "charge slip",
+    "file circulation",
+    "enclosure",
+    "records management"
+   ]
+  },
+  {
+   "title": "Morishima inquiry about Universal Oil Products contracts",
+   "doc_type": "memorandum",
+   "start_page": 18,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "1940-07-29",
+   "from": "Joseph C. Green",
+   "to": "Department of State record",
+   "about": "Records Japanese pressure for a prompt decision on Universal Oil Products contracts.",
+   "summary": "Counselor Morishima referred to Berle's earlier discussion with the Japanese Ambassador concerning contracts between Universal Oil Products and Japanese interests. Green said the Department would probably be ready to discuss the issue within a few days.",
+   "keywords": [
+    "Universal Oil Products",
+    "Japanese Embassy",
+    "Morishima",
+    "contracts",
+    "aviation gasoline"
+   ]
+  },
+  {
+   "title": "Phillips Petroleum report of June deliveries to Mitsui",
+   "doc_type": "letter",
+   "start_page": 19,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1940-07-02",
+   "from": "K. S. Adams, Phillips Petroleum Company",
+   "to": "Secretary of State, attention Joseph C. Green",
+   "about": "Reports blending agents delivered to Mitsui for export to Japan during June.",
+   "summary": "Adams lists 7,700 drums of commercial neohexene, 16,507 drums of commercial iso-octane, and 693 drums of naturally occurring petroleum products. Each drum held 53 gallons.",
+   "keywords": [
+    "Phillips Petroleum",
+    "Mitsui",
+    "neohexene",
+    "iso-octane",
+    "Japan exports"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Phillips Petroleum export report",
+   "doc_type": "letter",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1940-07-16",
+   "from": "Edgar P. Allen, for the Secretary of State",
+   "to": "K. S. Adams, Phillips Petroleum Company",
+   "about": "Acknowledges Phillips Petroleum's report on gasoline-blending agents exported to Japan.",
+   "summary": "Allen confirms receipt of Adams's July 2 letter. He thanks the company for supplying information about its sales for export to Japan.",
+   "keywords": [
+    "Phillips Petroleum",
+    "acknowledgment",
+    "blending agents",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Associated Ethyl report of June shipments to Japan",
+   "doc_type": "letter",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1940-07-11",
+   "from": "J. Goux, Associated Ethyl Company Limited",
+   "to": "Secretary of State, attention Charles W. Yost",
+   "about": "Lists June shipments of tetraethyl-lead fluid to Japan and reports none to Russia.",
+   "summary": "Goux itemizes four shipments aboard the Azuma Maru, Raphael Semmes, and Marchen Maersk, giving both total fluid and tetraethyl-lead weights. The company states that no shipments were made to Russia.",
+   "keywords": [
+    "Associated Ethyl",
+    "tetraethyl lead",
+    "Japan",
+    "shipping report",
+    "Russia"
+   ]
+  },
+  {
+   "title": "The Far Eastern Situation: export controls and duties on Japanese imports",
+   "doc_type": "policy memorandum",
+   "start_page": 22,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1940-07-15",
+   "from": "Roger S. Greene",
+   "to": "Department of State officials",
+   "about": "Advocates gradual export controls and additional import duties to weaken Japan without provoking an immediate crisis.",
+   "summary": "The memorandum argues that continued American sales of war materials strengthen Japan against China and threaten American, British, French, and Dutch interests in Asia. It recommends licensing iron, steel, copper, scrap, petroleum, and vehicles; delaying licenses after hostile Japanese actions; raising duties on Japanese goods; and gradually imposing absolute embargoes. It further argues that sustained Chinese resistance would limit Japanese expansion and benefit the democratic powers.",
+   "keywords": [
+    "Far Eastern policy",
+    "export licensing",
+    "Japan",
+    "China",
+    "economic sanctions",
+    "scrap metal",
+    "petroleum products"
+   ]
+  },
+  {
+   "title": "Conversation with Walden on Japanese aviation-gasoline purchases",
+   "doc_type": "memorandum of conversation",
+   "start_page": 26,
+   "end_page": 26,
+   "continues_previous": false,
+   "date": "1940-07-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State record",
+   "about": "Records Standard-Vacuum information about major Japanese purchases of aviation gasoline and lubricant.",
+   "summary": "George S. Walden supplied a statement showing recent Japanese purchases totaling 972,000 drums of aviation gasoline. He also reported an effort to buy 100,000 barrels of aviation lubricating oil, with all deliveries sought by the end of August.",
+   "keywords": [
+    "George S. Walden",
+    "aviation gasoline",
+    "aviation lubricant",
+    "Japanese purchases",
+    "Standard-Vacuum"
+   ]
+  },
+  {
+   "title": "Statement of Japanese purchases of aviation gasoline",
+   "doc_type": "statistical statement",
+   "start_page": 27,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1940-07-24",
+   "from": "George S. Walden",
+   "to": "Department of State",
+   "about": "Breaks down 972,000 drums of Japanese aviation-gasoline purchases by supplier, coast, and octane grade.",
+   "summary": "The statement lists purchases from Taylor, Maritime Oil, Republic, Gulf Refining, Shell, Standard-Vacuum, Standard Oil of California, Associated, and Union. The orders include 87- and 92-octane base gasoline and leaded gasoline from Gulf and Pacific Coast sources.",
+   "keywords": [
+    "aviation gasoline",
+    "972,000 drums",
+    "oil companies",
+    "octane",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Confidential transmittal of the Walden memorandum to Tokyo",
+   "doc_type": "letter",
+   "start_page": 28,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1940-08-03",
+   "from": "Secretary of State",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Sends the Tokyo embassy confidential information on Japan's recent American aviation-gasoline purchases.",
+   "summary": "The Department encloses the memorandum of the July 25 conversation with George S. Walden. The enclosure details Japan's recent aviation-gasoline purchases in the United States.",
+   "keywords": [
+    "Tokyo embassy",
+    "confidential information",
+    "aviation gasoline",
+    "George S. Walden"
+   ]
+  },
+  {
+   "title": "Maxwell's view on petroleum under the Export Control Act",
+   "doc_type": "memorandum",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1940-07",
+   "from": "Joseph C. Green",
+   "to": "Maxwell M. Hamilton",
+   "about": "Records the Export Control Administrator's statement that petroleum was not then scheduled for restriction.",
+   "summary": "Colonel Maxwell reviewed the report of Japanese purchases for delivery in Thailand. He said oil products were not on the restricted list, that no persuasive proposal to add them had reached him, and that he saw no immediate prospect of their inclusion.",
+   "keywords": [
+    "Export Control Act",
+    "petroleum products",
+    "Colonel Maxwell",
+    "Thailand",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Confidential transmittal on Japanese oil purchases to Tokyo",
+   "doc_type": "diplomatic instruction",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "1940-08-02",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "Forwards the Moffett–Hamilton memorandum on Japanese oil purchases for delivery in Thailand.",
+   "summary": "The instruction confidentially encloses the July 17 conversation with James A. Moffett. It concerns large Japanese purchases of gasoline products, including aviation gasoline, intended for Thailand.",
+   "keywords": [
+    "Tokyo",
+    "Thailand",
+    "James A. Moffett",
+    "gasoline purchases",
+    "confidential"
+   ]
+  },
+  {
+   "title": "Confidential transmittal on Japanese oil purchases to Peiping",
+   "doc_type": "diplomatic instruction",
+   "start_page": 31,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1940-08-02",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Peiping",
+   "about": "Forwards the Moffett–Hamilton memorandum on Japanese oil purchases for delivery in Thailand.",
+   "summary": "The Department sends the American Ambassador in Peiping a confidential copy of the July 17 memorandum. Field distribution also included Tokyo, Chungking, and Bangkok.",
+   "keywords": [
+    "Peiping",
+    "Thailand",
+    "Japan",
+    "gasoline purchases",
+    "confidential"
+   ]
+  },
+  {
+   "title": "Confidential transmittal on Japanese oil purchases to Bangkok",
+   "doc_type": "diplomatic instruction",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1940-08-02",
+   "from": "Secretary of State",
+   "to": "American Chargé d'Affaires ad interim, Bangkok",
+   "about": "Forwards the Moffett–Hamilton memorandum on Japanese oil purchases for delivery in Thailand.",
+   "summary": "The Department confidentially informs the Bangkok mission of large gasoline-product orders placed by Japanese interests for Thai delivery. The enclosed memorandum records the July 17 Moffett–Hamilton conversation.",
+   "keywords": [
+    "Bangkok",
+    "Thailand",
+    "Japanese purchases",
+    "aviation gasoline",
+    "confidential"
+   ]
+  },
+  {
+   "title": "British concerns over American petroleum-export licensing",
+   "doc_type": "memorandum",
+   "start_page": 33,
+   "end_page": 36,
+   "continues_previous": false,
+   "date": "1940-07-29",
+   "from": "James Clement Dunn",
+   "to": "Sumner Welles",
+   "about": "Reports British fears that American petroleum licensing could provoke Japan and damage British relations with American oil companies.",
+   "summary": "British Embassy representatives warned that licensing petroleum and scrap might push Japan toward seizing Netherlands Indies oil, while Britain was taking the region's high-octane output for its war effort. They also feared that American oil companies would wrongly blame Britain for restrictions and obstruct British supply arrangements. Dunn assured the embassy that British aviation-fuel and lubricant needs would not be restricted and recommended explaining that the proclamation reflected independent American policy.",
+   "keywords": [
+    "British Embassy",
+    "petroleum licensing",
+    "Netherlands Indies",
+    "Japan",
+    "high-octane gasoline",
+    "British war effort"
+   ]
+  },
+  {
+   "title": "Associated Ethyl report of July shipments to Japan",
+   "doc_type": "letter",
+   "start_page": 37,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1940-08-01",
+   "from": "J. Goux, Associated Ethyl Company Limited",
+   "to": "Secretary of State, attention Charles W. Yost",
+   "about": "Reports a July shipment of tetraethyl-lead fluid to Japan and no shipments to Russia.",
+   "summary": "Associated Ethyl shipped 100 drums of 1-T Mix aboard the Kinai Maru from New York on July 12. The consignment contained 77,000 pounds of fluid and 47,300 pounds of tetraethyl lead.",
+   "keywords": [
+    "Associated Ethyl",
+    "tetraethyl lead",
+    "Kinai Maru",
+    "Japan",
+    "Russia"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Associated Ethyl's July report",
+   "doc_type": "letter",
+   "start_page": 38,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "1940-08-15",
+   "from": "Charles W. Yost, for the Secretary of State",
+   "to": "J. Goux, Associated Ethyl Company Limited",
+   "about": "Acknowledges reported July exports of fluid and tetraethyl lead to Japan.",
+   "summary": "Yost confirms the figures of 77,000 pounds of fluid and 47,300 pounds of tetraethyl lead. He also notes the report that no exports were made to the Soviet Union.",
+   "keywords": [
+    "acknowledgment",
+    "tetraethyl lead",
+    "Japan",
+    "Soviet Union"
+   ]
+  },
+  {
+   "title": "Conversation with Moffett on Japanese oil orders for Thailand",
+   "doc_type": "memorandum of conversation",
+   "start_page": 39,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1940-07-17",
+   "from": "Maxwell M. Hamilton, Division of Far Eastern Affairs",
+   "to": "Department of State record",
+   "about": "Records concern that Japan might stockpile fuel in Thailand for military operations to the south.",
+   "summary": "Moffett reported Japanese cash orders for large quantities of gasoline and oil products, including aviation fuel, to be delivered in Thailand. He speculated that Japan might be positioning supplies for operations toward Singapore and also described pressure for a major tetraethyl-lead sale. The memorandum notes that neither tetraethyl lead nor aviation gasoline was then covered by a moral embargo or the National Defense Act controls.",
+   "keywords": [
+    "James A. Moffett",
+    "Thailand",
+    "Singapore",
+    "aviation gasoline",
+    "tetraethyl lead",
+    "Japanese expansion"
+   ]
+  },
+  {
+   "title": "Howard report on accelerated Japanese fuel purchases",
+   "doc_type": "memorandum",
+   "start_page": 42,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1940-07-18",
+   "from": "Harold W. Moseley",
+   "to": "Joseph C. Green and Stanley K. Hornbeck",
+   "about": "Records Standard Oil Development's warning about rapidly increasing Japanese orders for aviation fuel and ethyl fluid.",
+   "summary": "F. A. Howard reported orders for 2,500 drums of ethyl fluid and Japanese pressure on Associated Ethyl to sell another 1,500 drums. He also cited bids to Republic, Taylor, and Amsco for 200,000 drums of 92-octane aviation gasoline. Moseley explained that no existing law or policy prohibited the tetraethyl-lead sale.",
+   "keywords": [
+    "F. A. Howard",
+    "tetraethyl fluid",
+    "aviation gasoline",
+    "Japanese orders",
+    "Standard Oil Development"
+   ]
+  },
+  {
+   "title": "Lummus proposal for a Japanese Polyform cracking plant",
+   "doc_type": "letter",
+   "start_page": 44,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1940-07-19",
+   "from": "C. S. Reed, Lummus Company",
+   "to": "Joseph C. Green",
+   "about": "Requests the Department's opinion on designing and constructing an advanced gasoline-cracking plant in Japan.",
+   "summary": "Reed explains that the Polyform plant would make high-grade motor gasoline from California gas oil and could, with reprocessing and treatment, produce material usable as aviation-gasoline base stock. He asks whether the Department objects to building the unit for a Japanese refinery.",
+   "keywords": [
+    "Lummus Company",
+    "Polyform",
+    "thermal cracking",
+    "Japan",
+    "aviation-gasoline base stock"
+   ]
+  },
+  {
+   "title": "Interim reply to Lummus Company",
+   "doc_type": "letter",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1940-08-15",
+   "from": "Charles W. Yost, for the Secretary of State",
+   "to": "C. S. Reed, Lummus Company",
+   "about": "Acknowledges the Lummus proposal and says the Department is studying it.",
+   "summary": "Yost thanks Reed for bringing the proposed Japanese cracking plant to the Department's attention. He states that the problem is under thorough study and promises a definite answer soon.",
+   "keywords": [
+    "Lummus Company",
+    "thermal cracking",
+    "Japan",
+    "interim reply",
+    "policy review"
+   ]
+  },
+  {
+   "title": "Telephone conversation with Reed about a gasoline-cracking plant",
+   "doc_type": "memorandum",
+   "start_page": 46,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "1940-07-19",
+   "from": "Harold W. Moseley",
+   "to": "Joseph C. Green and other Department officials",
+   "about": "Records Reed's initial request for guidance on a Japanese order for an advanced cracking plant.",
+   "summary": "Reed said the Japanese wanted machinery for a modern plant producing high-grade motor gasoline and believed the proposal was outside the moral embargo. Moseley asked him to describe the transaction in writing so that Department officers could consider it formally.",
+   "keywords": [
+    "C. S. Reed",
+    "gasoline-cracking plant",
+    "Japan",
+    "moral embargo",
+    "Lummus Company"
+   ]
+  },
+  {
+   "title": "Ely discussion of the Lummus plant's military potential",
+   "doc_type": "memorandum",
+   "start_page": 48,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1940-07-22",
+   "from": "Harold W. Moseley",
+   "to": "Joseph C. Green",
+   "about": "Records additional information on the Lummus proposal and its potential to produce aviation-grade fuel.",
+   "summary": "Nathaniel Ely explained that the proposed plant could reprocess high-grade motor gasoline into aviation-grade material if the Japanese acquired the necessary knowledge. He said Reed was reluctant to lose the $750,000 business to competitors and wanted any adverse Department position applied consistently to competing firms.",
+   "keywords": [
+    "Nathaniel Ely",
+    "Lummus Company",
+    "aviation fuel",
+    "technology transfer",
+    "competition"
+   ]
+  },
+  {
+   "title": "Charge slip for file 894.24",
+   "doc_type": "charge slip",
+   "start_page": 49,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Records earlier circulation and cross-references for an enclosure in the subject file.",
+   "summary": "The page is an administrative charge slip containing file numbers, dates, initials, and largely illegible remarks. It contains no substantive discussion of petroleum policy.",
+   "keywords": [
+    "charge slip",
+    "file circulation",
+    "records management",
+    "enclosure"
+   ]
+  },
+  {
+   "title": "Casey transmittal of Harwood constituent letter",
+   "doc_type": "congressional letter",
+   "start_page": 50,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1940-09-03",
+   "from": "Joseph E. Casey, U.S. Representative",
+   "to": "Secretary of State",
+   "about": "Forwards a constituent's criticism of exports to Japan and requests information for a reply.",
+   "summary": "Casey asks the Department to investigate the statements in Joseph A. Harwood's attached letter. He requests both the necessary information and return of the correspondence.",
+   "keywords": [
+    "congressional inquiry",
+    "Joseph E. Casey",
+    "Japan exports",
+    "constituent correspondence"
+   ]
+  },
+  {
+   "title": "Harwood protest against scrap and aviation-gasoline exports",
+   "doc_type": "letter",
+   "start_page": 51,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1940-08-27",
+   "from": "Joseph A. Harwood",
+   "to": "Joseph E. Casey",
+   "about": "Questions why the United States continues to permit scrap-iron and aviation-gasoline shipments to Japan.",
+   "summary": "Harwood argues that American exports enable Japanese bombing of Chungking and weaken China, a potential American ally. He asks whether the administration is appeasing Japan because it fears a seizure of the Dutch East Indies. He separately endorses broad selective service and the transfer of old destroyers to England.",
+   "keywords": [
+    "scrap iron",
+    "aviation gasoline",
+    "Chungking bombing",
+    "China",
+    "appeasement",
+    "Dutch East Indies"
+   ]
+  },
+  {
+   "title": "Hull reply to Casey on export-control responsibility",
+   "doc_type": "letter",
+   "start_page": 52,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1940-09-10",
+   "from": "Cordell Hull",
+   "to": "Joseph E. Casey",
+   "about": "Explains the statutory process for deciding which materials are subject to export control.",
+   "summary": "Hull states that the President designated controlled articles under the Export Control Act of July 2, 1940. Recommendations for adding materials rested with the Administrator of Export Control, advised by specialists from interested departments. He encloses proclamations and regulations and returns Harwood's letter.",
+   "keywords": [
+    "Export Control Act",
+    "Administrator of Export Control",
+    "Japan",
+    "congressional response",
+    "presidential proclamations"
+   ]
+  },
+  {
+   "title": "Shipstead inquiry quoting Frank Warren on exports to Japan",
+   "doc_type": "congressional letter",
+   "start_page": 54,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1940-09-02",
+   "from": "Henrik Shipstead, U.S. Senator",
+   "to": "Cordell Hull",
+   "about": "Asks why the administration has not more effectively stopped American raw-material exports to Japan.",
+   "summary": "Shipstead quotes constituent Frank M. Warren, who complains that the embargo on war supplies to Japan remains extremely limited. The senator requests the Secretary's attention to the inquiry.",
+   "keywords": [
+    "Henrik Shipstead",
+    "Frank M. Warren",
+    "raw materials",
+    "Japan",
+    "embargo"
+   ]
+  },
+  {
+   "title": "Hull reply to Shipstead on export controls",
+   "doc_type": "letter",
+   "start_page": 55,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1940-09-12",
+   "from": "Cordell Hull",
+   "to": "Henrik Shipstead",
+   "about": "Explains that the Export Control Administrator recommends materials for restriction.",
+   "summary": "Hull acknowledges Shipstead's letter and the quoted concern from Frank Warren. He repeats that the President acts under the Export Control Act and that the Administrator, advised by government experts, determines what should be recommended for inclusion.",
+   "keywords": [
+    "Export Control Act",
+    "Henrik Shipstead",
+    "Japan",
+    "war materials",
+    "Administrator of Export Control"
+   ]
+  },
+  {
+   "title": "Talle transmittal of Larsen constituent letter",
+   "doc_type": "congressional letter",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1940-09-05",
+   "from": "Henry O. Talle, U.S. Representative",
+   "to": "Secretary of State",
+   "about": "Forwards N. Astrup Larsen's complaint about war-material exports to Japan.",
+   "summary": "Talle asks the Department to investigate Larsen's statements and provide information for a response. He also requests return of the enclosed correspondence.",
+   "keywords": [
+    "Henry O. Talle",
+    "N. Astrup Larsen",
+    "congressional inquiry",
+    "Japan exports"
+   ]
+  },
+  {
+   "title": "Larsen protest over materials used in bombing Chungking",
+   "doc_type": "letter",
+   "start_page": 57,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1940-09-03",
+   "from": "N. Astrup Larsen",
+   "to": "Henry O. Talle",
+   "about": "Urges the government to stop scrap-iron and similar exports that assist Japanese attacks in China.",
+   "summary": "Larsen cites intensified bombing of Chungking civilians as evidence that American war materials support Japanese operations. He asks why the government's new power to refuse permits is not being used more effectively.",
+   "keywords": [
+    "Chungking",
+    "civilian bombing",
+    "scrap iron",
+    "Japan",
+    "public protest"
+   ]
+  },
+  {
+   "title": "Hull reply to Talle on export-license administration",
+   "doc_type": "letter",
+   "start_page": 58,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1940-09-13",
+   "from": "Cordell Hull",
+   "to": "Henry O. Talle",
+   "about": "Describes how controlled materials and individual export-license applications are handled.",
+   "summary": "Hull explains that the President designates controlled materials under the Export Control Act, while the Administrator of Export Control makes recommendations with interdepartmental advice. License applications are governed by presidential regulations and the Administrator's directives. Larsen's letter is returned.",
+   "keywords": [
+    "export licenses",
+    "Export Control Act",
+    "Henry O. Talle",
+    "N. Astrup Larsen",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Bone transmittal of Anderson letter on molten-metal shipments",
+   "doc_type": "congressional letter",
+   "start_page": 60,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1940-09-05",
+   "from": "Homer T. Bone, U.S. Senator",
+   "to": "Cordell Hull",
+   "about": "Requests information on alleged shipments of molten metal from Tacoma to Japan.",
+   "summary": "Bone forwards constituent Emmy Anderson's letter describing molten-metal shipments said to replace restricted scrap iron. He asks for available information and return of the enclosure.",
+   "keywords": [
+    "Homer T. Bone",
+    "Emmy Anderson",
+    "molten metal",
+    "Tacoma",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Anderson complaint about Tacoma metal shipments",
+   "doc_type": "letter",
+   "start_page": 61,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1940-08-24",
+   "from": "Emmy Anderson",
+   "to": "Homer T. Bone",
+   "about": "Alleges that new molten metal is being shipped from Tacoma to Japan as a substitute for scrap iron.",
+   "summary": "Anderson asks Bone to help stop direct shipments of molten metal from the Tacoma smelter. She also discusses conscription, limiting military service to defense of North America, and the equitable conscription of wealth and industrial profits.",
+   "keywords": [
+    "Tacoma smelter",
+    "molten metal",
+    "Japan",
+    "scrap iron",
+    "conscription"
+   ]
+  },
+  {
+   "title": "Hull reply to Bone on molten-metal allegation",
+   "doc_type": "letter",
+   "start_page": 62,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1940-09-12",
+   "from": "Cordell Hull",
+   "to": "Homer T. Bone",
+   "about": "Explains existing controls and reports referral of Anderson's allegation to the Export Control Administrator.",
+   "summary": "Hull outlines the Export Control Act and encloses the July 26 definitions covering certain petroleum products, tetraethyl lead, and important grades of iron and steel scrap. He notes that Anderson's letter has been sent to the Administrator of Export Control and returns the original correspondence with relevant proclamations and regulations.",
+   "keywords": [
+    "molten metal",
+    "Export Control Act",
+    "iron and steel scrap",
+    "tetraethyl lead",
+    "Homer T. Bone"
+   ]
+  },
+  {
+   "title": "Transmission of the Bone–Anderson allegation to Export Control",
+   "doc_type": "memorandum",
+   "start_page": 64,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1940-09-13",
+   "from": "Joseph C. Green",
+   "to": "Administrator of Export Control",
+   "about": "Forwards the report of alleged molten-metal shipments from the Pacific Coast to Japan.",
+   "summary": "Green encloses copies of Senator Bone's letter and Emmy Anderson's constituent letter. He explains that the Department has told Bone the allegation was being sent to the Administrator for information.",
+   "keywords": [
+    "Administrator of Export Control",
+    "molten metal",
+    "Pacific Coast",
+    "Japan",
+    "Homer T. Bone"
+   ]
+  },
+  {
+   "title": "File copy of memorandum transmitting the Bone–Anderson allegation",
+   "doc_type": "memorandum copy",
+   "start_page": 65,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1940-09-13",
+   "from": "Joseph C. Green",
+   "to": "Administrator of Export Control",
+   "about": "Duplicates the memorandum forwarding the molten-metal allegation for official attention.",
+   "summary": "This file copy repeats Green's transmittal of the letters from Senator Bone and Emmy Anderson. It records that Bone had been informed of the referral.",
+   "keywords": [
+    "file copy",
+    "molten metal",
+    "Export Control Administrator",
+    "Pacific Coast",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Conversation with Horinouchi on the Universal Oil Products case",
+   "doc_type": "memorandum of conversation",
+   "start_page": 66,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1940-07",
+   "from": "Adolf A. Berle Jr.",
+   "to": "Department of State record",
+   "about": "Records the Japanese Ambassador's protest over halted delivery of aviation-gasoline processes.",
+   "summary": "Ambassador Kensuke Horinouchi complained that Universal Oil Products had not performed an agreement to transfer processes connected with aviation-gasoline production. Berle said the case presented serious issues involving national defense and the moral embargo and warned that the earlier decision might not be changed.",
+   "keywords": [
+    "Kensuke Horinouchi",
+    "Universal Oil Products",
+    "aviation gasoline",
+    "national defense",
+    "moral embargo"
+   ]
+  },
+  {
+   "title": "Japanese statement on the Japan Gasoline–Universal Oil Products contract",
+   "doc_type": "diplomatic statement",
+   "start_page": 68,
+   "end_page": 70,
+   "continues_previous": false,
+   "date": "1940-07",
+   "from": "Japanese Ambassador Kensuke Horinouchi",
+   "to": "Department of State",
+   "about": "Argues that government restrictions unfairly halted a paid contract for petroleum processes and licenses.",
+   "summary": "The statement says the Japan Gasoline Company agreed in 1938 to pay Universal Oil Products $1 million for polymerization and other petroleum-process rights, of which $700,000 had already been paid. It recounts earlier Japanese diplomatic protests and argues that later American measures should not frustrate a completed contract. Japan requests immediate delivery of the aviation-gasoline polymerization license and all contracted petroleum-process rights.",
+   "keywords": [
+    "Japan Gasoline Company",
+    "Universal Oil Products",
+    "polymerization",
+    "contract dispute",
+    "aviation gasoline"
+   ]
+  },
+  {
+   "title": "Second conversation with Horinouchi on Universal Oil Products",
+   "doc_type": "memorandum of conversation",
+   "start_page": 71,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1940-07",
+   "from": "Adolf A. Berle Jr.",
+   "to": "Department of State record",
+   "about": "Records a Japanese request that Hull secure delivery of plans for a gasoline-cracking plant.",
+   "summary": "Horinouchi submitted a memorandum asking Secretary Hull to use his good offices to make Universal Oil Products fulfill its contract with the Japan Gasoline Company. Berle listened sympathetically but emphasized that the matter also had to be considered in relation to the American defense program.",
+   "keywords": [
+    "Kensuke Horinouchi",
+    "Cordell Hull",
+    "gasoline-cracking plant",
+    "Universal Oil Products",
+    "defense program"
+   ]
+  },
+  {
+   "title": "Japanese Embassy note No. 156 on the gasoline-process contract",
+   "doc_type": "diplomatic note",
+   "start_page": 73,
+   "end_page": 74,
+   "continues_previous": false,
+   "date": "1940-07-09",
+   "from": "Japanese Ambassador Kensuke Horinouchi",
+   "to": "Secretary of State Cordell Hull",
+   "about": "Requests American good offices to compel delivery of automobile-gasoline cracking and treating plans.",
+   "summary": "The note states that the Japan Gasoline Company had paid Universal Oil Products $1 million under a longstanding agreement but was told that government restrictions prevented performance. It warns that nonfulfillment could bankrupt the Japanese company and asks for immediate delivery of the thermal cracking and treating plans.",
+   "keywords": [
+    "diplomatic note",
+    "Japan Gasoline Company",
+    "Universal Oil Products",
+    "thermal cracking",
+    "contract performance"
+   ]
+  },
+  {
+   "title": "1928 agreement between Universal Oil Products and Hisashi Sekiguchi",
+   "doc_type": "contract copy",
+   "start_page": 75,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1928-07-19",
+   "from": "Universal Oil Products Company and Hisashi Sekiguchi",
+   "to": "Contracting parties",
+   "about": "Transfers Japanese petroleum-cracking patents, technical information, and associated licensing rights for $1 million.",
+   "summary": "Universal agrees to sell Sekiguchi its Japanese rights in specified petroleum-cracking and treating patents, applications, future improvements, and the existing Nippon Oil license. The contract provides access to technical data, laboratories, engineers, and licensed installations, and requires construction and testing of a refinery unit using California crude or fuel oil. It sets a $1 million installment schedule, reciprocal rights in improvements, guarantees, assignment conditions, and continuing information obligations. The agreement defines Japan to include Korea, Formosa, southern Sakhalin, the Kwantung leased territory, and specified parts of Southern Manchuria.",
+   "keywords": [
+    "Universal Oil Products",
+    "Hisashi Sekiguchi",
+    "patent assignment",
+    "petroleum cracking",
+    "Nippon Oil",
+    "technical information",
+    "$1 million contract"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 5,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.24 Japan, Equipment And Supplies., July 23rd, 1940 - June 24, 1941 1277.pdf",
+  "seconds": 360.4,
+  "created": "2026-09-29 22:34:13",
+  "key": "japan-internal-affairs-894.24-japan-equipment-and-14"
+ }
+}

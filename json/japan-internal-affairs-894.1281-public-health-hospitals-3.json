@@ -1,0 +1,90 @@
+{
+ "interest": "Senate referral slip addressed to 'Hon. Don Johnson', 1949.",
+ "keywords": [
+  "United States Senate",
+  "Department of State",
+  "Bureau of Far Eastern Affairs",
+  "Congressional referral",
+  "Public health",
+  "Hospitals",
+  "Japan",
+  "Occupation of Japan",
+  "Medical practice",
+  "Referral slip"
+ ],
+ "overview": "Senate referral slip of December 16, 1949 to the Secretary of State on Japanese medical affairs; the enclosure is missing.",
+ "people": [
+  {
+   "name": "Don Johnson",
+   "role": "Secretary of State (as addressed)",
+   "variants": [
+    "Hon. Don Johnson",
+    "Don Johnson"
+   ]
+  },
+  {
+   "name": "E. L. W.",
+   "role": "Department of State routing officer / clerk",
+   "variants": [
+    "E. L. W."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A United States Senate referral slip transmitting an unspecified inquiry or document concerning Japan to the Secretary of State.",
+   "date": "1949-12-16",
+   "doc_type": "referral slip",
+   "end_page": 1,
+   "from": "United States Senate",
+   "keywords": [
+    "United States Senate",
+    "Department of State",
+    "Bureau of Far Eastern Affairs",
+    "Congressional referral",
+    "Referral slip",
+    "Japan",
+    "Public Health"
+   ],
+   "start_page": 1,
+   "summary": "Senate referral slip of December 1949 filed under 894.1281; enclosure missing.",
+   "title": "Senate Referral Slip to the Secretary of State",
+   "to": "Hon. Don Johnson, Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13809,
+   "output_tokens": 3281,
+   "thinking_tokens": 2522,
+   "cache_read_tokens": 0,
+   "total_tokens": 17090
+  },
+  "backend": "agy",
+  "seconds": 14.3,
+  "identifier": "japan-internal-affairs-894.1281-public-health-hospitals-3",
+  "file": "894.1281 Public Health. Hospitals. Hospital Service., Practice Of %D0, Japan, Medicine And Surgery. In Adapting This Heading For Class 5 The Number May Be Divided For Congresses On Particular Diseases According To The Divisions Of 158.01-09;  1816.pdf",
+  "created": "2026-09-28 23:20:34"
+ }
+}

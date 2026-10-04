@@ -1,0 +1,85 @@
+{
+ "overview": "The file consists of a single list-of-papers sheet recording a June 25 telegram from Taihoku concerning an aviation accident in Japanese-ruled Taiwan. It reports that a Japan Air Transport Co. passenger plane crashed at Giran on June 24, killing the pilot and four passengers instantly and demolishing the aircraft; the cause was unknown. Although the supplied file title encompasses several broader aviation and communications subjects, the surviving page concerns only this fatal crash.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Yilan",
+   "variants": [
+    "Giran"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Yuni",
+   "role": "Name appearing in the sheet's FROM entry; precise identity and role are unclear from the OCR and table layout",
+   "variants": [
+    "Yuni"
+   ]
+  }
+ ],
+ "keywords": [
+  "aerial navigation",
+  "aviation accident",
+  "aircraft crash",
+  "passenger aircraft",
+  "Japan Air Transport Co.",
+  "Taiwan",
+  "Taipei",
+  "Yilan",
+  "fatalities",
+  "commercial aviation",
+  "Japanese colonial rule",
+  "unknown crash cause"
+ ],
+ "subfiles": [
+  {
+   "title": "List-of-papers entry on the Japan Air Transport crash at Giran",
+   "doc_type": "list of papers sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "",
+   "from": "Taihoku, telegram no. 38; the entry also includes the unclear name “Yuni”",
+   "to": "FE",
+   "about": "An index entry records the fatal crash of a Japan Air Transport Co. passenger plane at Giran, Taiwan, on June 24.",
+   "summary": "The sheet lists a telegram dated June 25 from Taihoku concerning an aircraft accident in Taiwan. A Japan Air Transport Co. passenger plane had crashed at Giran the previous day, killing its pilot and four passengers instantly. The aircraft was demolished, and the cause of the disaster was not known. No year is stated on the surviving sheet.",
+   "keywords": [
+    "list of papers",
+    "Taihoku telegram no. 38",
+    "Giran",
+    "Japan Air Transport Co.",
+    "passenger-plane crash",
+    "five fatalities",
+    "aircraft destroyed",
+    "accident investigation"
+   ]
+  }
+ ],
+ "interest": "This brief record preserves a concise contemporary notice of a fatal commercial-aircraft accident in colonial Taiwan, including the death toll, destruction of the plane, and initial uncertainty about the cause. It is potentially useful for reconstructing the safety history and operations of Japan Air Transport Co. and for tracing aviation links between Taihoku and Giran. The coexistence of the names “Formosa,” “Taiwan,” “Taihoku,” and “Giran” also illustrates the geographic terminology used in U.S. records concerning Japanese-ruled Taiwan.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 38.0,
+  "identifier": "japan-internal-affairs-894a.7965-other-means-of-4",
+  "file": "894A.7965 Other Means Of Communication And Transportation. Carrier Pigeons., Aerial Navigation. Immunities Of Government-Controlled. Subsidies., Formosa. Taiwan, Offenses Committed On Aircraft.,  649.pdf",
+  "created": "2026-09-29 01:50:19"
+ }
+}

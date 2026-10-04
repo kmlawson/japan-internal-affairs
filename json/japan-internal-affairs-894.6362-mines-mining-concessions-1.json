@@ -1,0 +1,563 @@
+{
+ "overview": "This file assembles U.S. diplomatic and private-sector intelligence on Japan’s wartime coal and coke supply from 1940 to 1944. It begins with a cross-reference to Ambassador Joseph C. Grew’s report of a Japanese coal shortage, continues with correspondence about declining coke deliveries from the Netherlands East Indies, and includes telegrams reporting coal-conservation measures and newly surveyed coal, iron, manganese, and magnesite deposits in Manchuria. A detailed secret memorandum describes mines, output, rail routes, ports, and Japanese shipments from occupied North China, while the final telegram surveys Japan’s domestic coalfields, transport bottlenecks, and reliance on Korean and female miners.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK",
+    "New York",
+    "New York, New York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Indonesia (then the Netherlands East Indies)",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "Palembang",
+   "variants": [
+    "Palembang"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Dongbiandao, eastern Manchuria",
+   "variants": [
+    "eastern Manchurian province Tungpientao",
+    "Tungpientao"
+   ]
+  },
+  {
+   "name": "Dalizigou district",
+   "variants": [
+    "Talitzukou district"
+   ]
+  },
+  {
+   "name": "Qidaogou district",
+   "variants": [
+    "Chitaokou district"
+   ]
+  },
+  {
+   "name": "Tangshan",
+   "variants": [
+    "Tungshan"
+   ]
+  },
+  {
+   "name": "Linxi",
+   "variants": [
+    "Linsi"
+   ]
+  },
+  {
+   "name": "Guye",
+   "variants": [
+    "Kuyeh"
+   ]
+  },
+  {
+   "name": "Qinhuangdao",
+   "variants": [
+    "Chingwantao"
+   ]
+  },
+  {
+   "name": "Tengzhou (formerly Teng County)",
+   "variants": [
+    "Teng-hsien"
+   ]
+  },
+  {
+   "name": "Jingxing",
+   "variants": [
+    "Chinghsing"
+   ]
+  },
+  {
+   "name": "Gangtoushan",
+   "variants": [
+    "Kantoutsan"
+   ]
+  },
+  {
+   "name": "Nanhetou",
+   "variants": [
+    "Nan Ho Tou"
+   ]
+  },
+  {
+   "name": "Shijiazhuang",
+   "variants": [
+    "Shih-chia-chuang"
+   ]
+  },
+  {
+   "name": "Taiyuan",
+   "variants": [
+    "Taiyuan"
+   ]
+  },
+  {
+   "name": "Kaifeng",
+   "variants": [
+    "Kaifeng"
+   ]
+  },
+  {
+   "name": "Lianyungang area",
+   "variants": [
+    "Sinpu",
+    "Lao-Yao"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Datong",
+   "variants": [
+    "Tatungfu"
+   ]
+  },
+  {
+   "name": "Northern Shanxi",
+   "variants": [
+    "northern Shansi"
+   ]
+  },
+  {
+   "name": "Suiyuan",
+   "variants": [
+    "Suiyuan"
+   ]
+  },
+  {
+   "name": "Zhangjiakou",
+   "variants": [
+    "Kalgan"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peking"
+   ]
+  },
+  {
+   "name": "Manchuria (Northeast China)",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Longyan iron-mining district",
+   "variants": [
+    "Lungyen"
+   ]
+  },
+  {
+   "name": "Nankou",
+   "variants": [
+    "Nanko"
+   ]
+  },
+  {
+   "name": "Xuanhua",
+   "variants": [
+    "Hsuan Hua Fu"
+   ]
+  },
+  {
+   "name": "Lianyuan iron mine",
+   "variants": [
+    "Lien Yuen iron mine"
+   ]
+  },
+  {
+   "name": "Tanggu",
+   "variants": [
+    "Tangku"
+   ]
+  },
+  {
+   "name": "Mentougou",
+   "variants": [
+    "Montekou",
+    "Mentoukou"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Northern China",
+   "variants": [
+    "northern China"
+   ]
+  },
+  {
+   "name": "Ōyūbari",
+   "variants": [
+    "Daiyubari"
+   ]
+  },
+  {
+   "name": "Kantō region",
+   "variants": [
+    "Kwanton district"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Ōminato",
+   "variants": [
+    "Ominato"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hacinoe"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kuyuschu",
+    "Kuyushu"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimoneseki"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoy"
+   ]
+  },
+  {
+   "name": "Jōban coalfield",
+   "variants": [
+    "Joban"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "P. W. Parker",
+   "role": "Company representative reporting coke deliveries from Palembang",
+   "variants": [
+    "P. W. PARKER",
+    "P. W. Parker",
+    "Mr. Parker",
+    "Mr. P. W. Parker"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Adviser on Political Relations, U.S. Department of State",
+   "variants": [
+    "MR. HURNBELT",
+    "Mr. Hurnbelt",
+    "Dr. Stanley M. Hornbeck",
+    "Dr. Hornbeck",
+    "STANLEY K. HORNBECK"
+   ]
+  },
+  {
+   "name": "Alger Hiss",
+   "role": "U.S. Department of State official appearing in a routing notation",
+   "variants": [
+    "AHiss"
+   ]
+  },
+  {
+   "name": "Nobusuke Kishi",
+   "role": "Japanese deputy minister",
+   "variants": [
+    "Kishi"
+   ]
+  },
+  {
+   "name": "Leland Harrison",
+   "role": "U.S. Minister to Switzerland and sender of telegrams from Bern",
+   "variants": [
+    "HARRISON"
+   ]
+  },
+  {
+   "name": "George A. Gordon",
+   "role": "U.S. Department of State official and memorandum recipient",
+   "variants": [
+    "The Honorable George A. Gordon"
+   ]
+  },
+  {
+   "name": "Ferdinand Lammot Belin",
+   "role": "Author of the memorandum on Chinese coal production and transportation",
+   "variants": [
+    "F. L. Belin",
+    "FLB"
+   ]
+  }
+ ],
+ "keywords": [
+  "coal shortage",
+  "coke deliveries",
+  "wartime Japan",
+  "coal conservation",
+  "mining production",
+  "Kailan Mining Administration",
+  "North China",
+  "Manchurian mineral deposits",
+  "rail transportation",
+  "maritime shipping",
+  "industrial fuel supply",
+  "foreign exchange controls",
+  "Korean labor",
+  "women miners",
+  "economic intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference sheet on the shortage of coal in Japan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1940-02-15",
+   "from": "Joseph C. Grew, Japan",
+   "to": "U.S. Department of State",
+   "about": "The sheet directs researchers to Grew’s despatch no. 4494 concerning Japan’s coal shortage.",
+   "summary": "This filing aid records the subject as a reported shortage of coal in Japan. It cross-references an original paper dated February 15, 1940, from Japan and associated with Ambassador Grew, filed as 894.50/118.",
+   "keywords": [
+    "cross-reference",
+    "coal shortage",
+    "Japan",
+    "Joseph C. Grew",
+    "despatch 4494"
+   ]
+  },
+  {
+   "title": "Parker letter on coke deliveries from the Netherlands East Indies to Japan",
+   "doc_type": "letter",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1941-04-25",
+   "from": "P. W. Parker",
+   "to": "Stanley K. Hornbeck",
+   "about": "Parker supplies figures for his company’s coke shipments from Palembang to Japan and explains why deliveries were falling below Japanese requirements.",
+   "summary": "Prompted by a cable from the company’s London manager, Parker reports deliveries of approximately 11,778 tons in 1939 and 11,524 tons in 1940, against an estimated 36,000 tons for 1941, of which only 3,944 tons had been taken. The coke was a by-product of refining at Palembang and had long been sold in Japan. Parker attributes reduced purchases to Japanese foreign-exchange restrictions and describes a vessel that departed after the customer failed to obtain exchange.",
+   "keywords": [
+    "coke",
+    "Netherlands East Indies",
+    "Palembang",
+    "Japan",
+    "foreign exchange",
+    "shipping",
+    "British Government",
+    "industrial supply"
+   ]
+  },
+  {
+   "title": "Hornbeck acknowledgment of Parker’s coke-delivery report",
+   "doc_type": "letter",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1941-04-26",
+   "from": "Stanley K. Hornbeck",
+   "to": "P. W. Parker",
+   "about": "Hornbeck acknowledges and expresses appreciation for Parker’s information about coke deliveries to Japan.",
+   "summary": "Hornbeck thanks Parker for his April 25 letter on company shipments of coke from the Netherlands East Indies to Japan. The short acknowledgment confirms that the Department of State regarded the commercial figures as useful information.",
+   "keywords": [
+    "acknowledgment",
+    "coke deliveries",
+    "Netherlands East Indies",
+    "Japan",
+    "commercial intelligence"
+   ]
+  },
+  {
+   "title": "Telegram from Bern on Japanese coal-saving measures",
+   "doc_type": "telegram",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1943-12-23",
+   "from": "Leland Harrison, Bern",
+   "to": "Secretary of State, Washington",
+   "about": "The telegram relays a German press report of Kishi’s announcement that coal-saving measures had reduced consumption in Japan’s iron and steel industries.",
+   "summary": "According to the Deutsche Allgemeine Zeitung, Deputy Minister Kishi stated that conservation measures had already cut coal use in the iron and steel industries by 20 percent and would be extended to other industries. He calculated that a 10 percent national saving would release six million tons of coal, implying total Japanese consumption of about sixty million tons. Kishi urged industrial leaders and workers to reduce coal use wherever possible.",
+   "keywords": [
+    "coal conservation",
+    "Nobusuke Kishi",
+    "iron and steel",
+    "Japanese industry",
+    "Deutsche Allgemeine Zeitung",
+    "wartime economy"
+   ]
+  },
+  {
+   "title": "Telegram from Bern on mineral deposits in eastern Manchuria",
+   "doc_type": "telegram",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1943-12-23",
+   "from": "Leland Harrison, Bern",
+   "to": "Secretary of State, Washington",
+   "about": "The telegram reports Japanese estimates of coal, hematite, manganese-bearing ore, and magnesite deposits in eastern Manchuria.",
+   "summary": "A German newspaper report placed 220 million tons of good-quality coal in Tungpientao and seventy-one million tons of hematite in the Talitzukou district. It also described iron, manganese-bearing, and magnesite deposits around Talitzukou and Chitaokou, some lying near the surface and containing high percentages of iron. Japanese attempts to develop the deposits were said to be hindered by shortages of machinery and skilled labor.",
+   "keywords": [
+    "Manchuria",
+    "coal reserves",
+    "hematite",
+    "iron ore",
+    "manganese",
+    "magnesite",
+    "mining development",
+    "labor shortage",
+    "machinery shortage"
+   ]
+  },
+  {
+   "title": "Belin memorandum on coal production and transportation from North China",
+   "doc_type": "memorandum",
+   "start_page": 6,
+   "end_page": 8,
+   "date": "1944-01-28",
+   "from": "F. L. Belin",
+   "to": "George A. Gordon",
+   "about": "The secret memorandum estimates output at major North Chinese coal and iron mines and traces rail and port routes used to ship their products to Japan and Manchuria.",
+   "summary": "Belin estimates Kailan mine production at roughly 17,000 tons daily and describes the Tangshan, Linxi, and Guye areas, including the limited effects of the April 1942 bombing of Linxi. Coal moved by rail to Qinhuangdao for shipment to Japan, while the memorandum also evaluates alternative routes from Jingxing through Lianyungang or Qingdao. It records output and transport arrangements for the Datong coal mine, the Longyan iron mines, and related workings near Xuanhua and Tanggu. The final page notes that the Mentougou mine supplied about 1,200 tons of inferior semi-bituminous coal daily for local Beijing consumption.",
+   "keywords": [
+    "Kailan Mining Administration",
+    "North China",
+    "coal production",
+    "iron ore",
+    "Qinhuangdao",
+    "railroads",
+    "ports",
+    "Japan",
+    "Manchuria",
+    "strategic bombing",
+    "secret intelligence"
+   ]
+  },
+  {
+   "title": "Telegram from Bern on Japan’s domestic coal situation",
+   "doc_type": "telegram",
+   "start_page": 9,
+   "end_page": 10,
+   "date": "1944-08-11",
+   "from": "Leland Harrison, Bern",
+   "to": "Secretary of State, Washington",
+   "about": "The telegram summarizes a German press assessment of Japan’s coalfields, transportation system, coal quality, and mining labor problems.",
+   "summary": "The report assigns 20 percent of Japanese coal output to Hokkaido, 70 percent to Kyushu, and 10 percent to the Jōban mines, while describing differences in coal quality and end use. Hokkaido’s switch to coking coal reportedly allowed Japan to suspend such imports from northern China, and expanded ferry, tunnel, and rail services improved distribution to major industrial regions. Labor remained a central constraint: Korean workers were subject to rapid turnover in Hokkaido, compulsory service was under consideration, and Kyushu employed both Korean and female miners. The cited economist judged the industry close to maximum production, with perhaps another 10 percent increase possible.",
+   "keywords": [
+    "Hokkaido",
+    "Kyushu",
+    "Jōban coalfield",
+    "coking coal",
+    "coal transportation",
+    "Korean labor",
+    "compulsory labor",
+    "women miners",
+    "Mitsubishi",
+    "Japanese industry"
+   ]
+  }
+ ],
+ "interest": "The file is especially valuable because it combines diplomatic reporting, private commercial shipment data, enemy-press monitoring, and secret intelligence estimates in a single chronological record of Japan’s wartime fuel problem. The documents connect mine-level production figures to railways, ports, shipping routes, industrial consumption, foreign-exchange controls, and labor mobilization. They also illuminate Japan’s exploitation of occupied Chinese and Manchurian resources and the growing importance of Korean and female labor as domestic coal production approached its practical limits.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 179.3,
+  "identifier": "japan-internal-affairs-894.6362-mines-mining-concessions-1",
+  "file": "894.6362 Mines. Mining. Concessions., Carbon. Graphite., Japan, Coal., February 15, 1940 - August 11, 1944 1440.pdf",
+  "created": "2026-09-29 11:10:36"
+ }
+}

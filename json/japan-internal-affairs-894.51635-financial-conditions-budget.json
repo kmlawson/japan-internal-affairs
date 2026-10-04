@@ -1,0 +1,143 @@
+{
+ "interest": "This file offers a concise but revealing look at the economic warfare waged by the Allied and Pan-American nations against Axis financial networks in Latin America following the outbreak of the Pacific War. It illustrates both Japanese pre-war contingency planning to utilize Brazilian dollar accounts to bypass U.S. asset freezing orders and the subsequent post-rupture willingness of the Brazilian government under Getúlio Vargas to liquidate Axis commercial institutions. Furthermore, the filing of Brazilian branch bank intelligence under an Argentina-designated decimal file heading (894.51635) demonstrates the Department of State's centralized indexing practices for tracking Japanese overseas banking operations across South America.",
+ "keywords": [
+  "Yokohama Specie Bank",
+  "Banco do Brasil",
+  "Brazil",
+  "Rio de Janeiro",
+  "bank liquidation",
+  "Japanese funds",
+  "freezing of assets",
+  "financial blockade",
+  "World War II",
+  "Department of State",
+  "Department of Justice",
+  "South America"
+ ],
+ "overview": "This file (State Department decimal file 894.51635) relates to Japanese banking activities and assets in South America during World War II, specifically focusing on the status and liquidation of the Yokohama Specie Bank branches in Brazil. The file contains a September 4, 1941 cross-reference sheet pointing to a Department of Justice letter from J. Edgar Hoover concerning Japanese counter-measures against U.S. fund freezes and dollar accounts at the Banco do Brasil in Rio de Janeiro, as well as confidential Despatch No. 7491 (dated June 1, 1942, with an accompanying quintuplicate copy) from Counselor of Embassy John F. Simmons in Rio de Janeiro. In the despatch, Simmons reports that the Bank of Brazil's Director of Exchange confirmed the Brazilian government had no intention of protecting the Yokohama Specie Bank or its employees and was actively drafting plans for the gradual liquidation of the bank's branches across Brazil.",
+ "people": [
+  {
+   "name": "John F. Simmons",
+   "role": "Counselor of Embassy",
+   "variants": [
+    "John F. Simmons",
+    "John F. Simons"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation, Department of Justice",
+   "variants": [
+    "Hoover",
+    "Jox"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "US",
+    "U.S.",
+    "UNITED STATES OF AMERICA"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jap",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference to a Department of Justice communication regarding Japanese counter-measures in South America against the U.S. blockade of Japanese funds.",
+   "date": "1941-09-04",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "J. Edgar Hoover (Department of Justice)",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "Banco do Brasil",
+    "Japanese funds",
+    "fund blockade",
+    "South America",
+    "Rio de Janeiro",
+    "Department of Justice",
+    "counter-measures"
+   ],
+   "start_page": 1,
+   "summary": "This cross-reference sheet notes a letter dated September 4, 1941, from J. Edgar Hoover of the Department of Justice, filed under 894.20235/9. It concerns potential Japanese counter-measures in South America following the freezing of Japanese funds in the United States. Specifically, it highlights intelligence regarding the Yokohama Specie Bank's U.S. dollar account held with the Banco do Brasil in Rio de Janeiro, Brazil.",
+   "title": "Cross-Reference Sheet for Department of Justice Letter on Japanese Counter-Measures in South America",
+   "to": "Department of State"
+  },
+  {
+   "about": "Diplomatic despatch reporting that the Brazilian government will not protect the Yokohama Specie Bank or its staff and plans to liquidate its branches in Brazil.",
+   "date": "1942-06-01",
+   "doc_type": "despatch",
+   "end_page": 3,
+   "from": "John F. Simmons, Counselor of Embassy (for the Ambassador)",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "Bank of Brazil",
+    "liquidation",
+    "Rio de Janeiro",
+    "Brazil",
+    "Japanese staff",
+    "Director of Exchange",
+    "diplomatic despatch"
+   ],
+   "start_page": 2,
+   "summary": "Despatch No. 7491 from Counselor of Embassy John F. Simmons in Rio de Janeiro (accompanied by its quintuplicate copy on page 3) references an April 7, 1942 military intelligence memorandum concerning the Japanese personnel of the Yokohama Specie Bank. Simmons conveys information from the Bank of Brazil's Director of Exchange stating that the Brazilian Government has no intention of protecting the bank or its employees. Furthermore, Brazilian authorities were drafting plans for the gradual liquidation of all branches of the Yokohama Specie Bank in Brazil.",
+   "title": "Despatch No. 7491 from John F. Simmons on Liquidation of Yokohama Specie Bank in Brazil",
+   "to": "Secretary of State, Washington, D.C."
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14145,
+   "output_tokens": 15858,
+   "thinking_tokens": 14643,
+   "cache_read_tokens": 0,
+   "total_tokens": 30003
+  },
+  "backend": "agy",
+  "seconds": 55.7,
+  "identifier": "japan-internal-affairs-894.51635-financial-conditions-budget",
+  "file": "894.51635 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Branch Banks Of Japan In Argentina., September 4, 1941 - June 1, 1942 1349.pdf",
+  "created": "2026-09-29 09:54:16"
+ }
+}

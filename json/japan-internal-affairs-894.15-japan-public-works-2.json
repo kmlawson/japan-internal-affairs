@@ -1,0 +1,98 @@
+{
+ "interest": "Yokohama rebuilding, public works bidding and gas rationing for diplomats.",
+ "keywords": [
+  "Japan",
+  "public works",
+  "Yokohama",
+  "reconstruction",
+  "Great Kanto Earthquake",
+  "harbor works",
+  "public bidding",
+  "building regulations",
+  "Philippines",
+  "gas consumption",
+  "diplomatic immunity",
+  "Joseph C. Grew"
+ ],
+ "overview": "Docket for 894.15 (Public Works, Japan) on Yokohama's rebuilding, open bidding rules and Grew's 1939 gas rationing query.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan and Dean of the Diplomatic Corps",
+   "variants": [
+    "Grew",
+    "Ambassador Grew"
+   ]
+  },
+  {
+   "name": "Kemper",
+   "role": "U.S. Consular Officer, Yokohama",
+   "variants": [
+    "Kemper"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers indexing three communications relating to public works, reconstruction, and municipal utility restrictions in Japan from 1936 to 1939.",
+   "date": "1939-10-18",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "public works",
+    "Yokohama",
+    "reconstruction",
+    "public bidding",
+    "gas rationing",
+    "diplomatic immunity"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.15 on Yokohama's rebuilding, public works bidding (1936) and gas rationing (1939).",
+   "title": "List of Papers: Public Works - Japan (File 894.15)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13942,
+   "output_tokens": 23411,
+   "thinking_tokens": 22469,
+   "cache_read_tokens": 0,
+   "total_tokens": 37353
+  },
+  "backend": "agy",
+  "seconds": 70.5,
+  "identifier": "japan-internal-affairs-894.15-japan-public-works-2",
+  "file": "894.15 Japan, Public Works.,  408.pdf",
+  "created": "2026-09-28 23:29:37"
+ }
+}

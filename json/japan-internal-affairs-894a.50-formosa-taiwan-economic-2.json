@@ -1,0 +1,149 @@
+{
+ "overview": "This two-document file concerns U.S. State Department planning for Taiwan’s postwar monetary and economic administration in 1944. The principal memorandum records internal reservations about fixing the exchange rate between Taiwanese and Chinese currencies, redeeming Japanese and military currency, and using the assets of the Bank of Taiwan or the Japanese government; it instead recommends consultation among the prospective military government, the State Department, and the Treasury. A later routing memorandum forwards older Defense Materials papers concerning Japanese economic matters to the Division of European Affairs before their return to the central files.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "TAIWAN",
+    "Formosan",
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese",
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George H. Blakeslee",
+   "role": "State Department official in TS; recipient of the April 24 memorandum",
+   "variants": [
+    "Mr. Blakeslee"
+   ]
+  },
+  {
+   "name": "Abbot Low Moffat",
+   "role": "State Department official in LA; sender of both memoranda",
+   "variants": [
+    "Mr. Moffat",
+    "ALM"
+   ]
+  },
+  {
+   "name": "John Carter Vincent",
+   "role": "State Department official whose objections to proposed Taiwan currency policy are conveyed",
+   "variants": [
+    "Mr. Vincent"
+   ]
+  },
+  {
+   "name": "Henry R. Labouisse, Jr.",
+   "role": "State Department official in the Division of European Affairs; recipient of the June 22 memorandum",
+   "variants": [
+    "Mr. Labouisse",
+    "Henry R. Labouisse, Jr.",
+    "HRL"
+   ]
+  },
+  {
+   "name": "M. E. B. (unidentified)",
+   "role": "Staff member or typist identified by initials in the drafting notation",
+   "variants": [
+    "meb"
+   ]
+  },
+  {
+   "name": "E. H. S. (unidentified)",
+   "role": "Staff member identified by initials in the June memorandum’s office notation",
+   "variants": [
+    "EHS"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan",
+  "Formosa",
+  "postwar planning",
+  "currency policy",
+  "exchange rates",
+  "Chinese inflation",
+  "military government",
+  "Japanese currency",
+  "military currency",
+  "Bank of Taiwan",
+  "currency redemption",
+  "State Department",
+  "U.S. Treasury",
+  "Japanese economic affairs"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum on Taiwan currency policy",
+   "doc_type": "office memorandum",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1944-04-24",
+   "from": "Abbot Low Moffat, LA",
+   "to": "George H. Blakeslee, TS",
+   "about": "Moffat conveys John Carter Vincent’s objections and suggested revisions concerning exchange-rate control and currency redemption under a prospective military government in Taiwan.",
+   "summary": "Vincent opposes making it immediate State Department policy that a military government manipulate the exchange rate between Taiwanese and Chinese currencies to promote trade, particularly through frequent adjustments necessitated by Chinese inflation. Moffat proposes instead that the military government consult the State Department and Treasury when establishing exchange rates. He also advises against committing the Department to redeem Japanese or military currency, recommending only that stable Chinese money eventually circulate in Taiwan and other currencies be withdrawn; responsibility involving Bank of Taiwan assets or the Japanese government should be decided later.",
+   "keywords": [
+    "Taiwan",
+    "currency policy",
+    "exchange-rate control",
+    "Chinese inflation",
+    "military government",
+    "Japanese currency",
+    "military currency",
+    "Bank of Taiwan",
+    "currency redemption",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Routing memorandum on Japanese economic papers",
+   "doc_type": "memorandum",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1944-06-22",
+   "from": "Abbot Low Moffat, LA",
+   "to": "Henry R. Labouisse, Jr., EUR",
+   "about": "Moffat forwards older Defense Materials papers about Japanese economic matters for Labouisse’s use and eventual return to the central files.",
+   "summary": "The memorandum transmits papers concerning economic matters affecting Japan that originated in the former Division of Defense Materials files. Moffat notes that the material is somewhat out of date but may still interest Labouisse. He asks that it be forwarded to the central files after use.",
+   "keywords": [
+    "Japan",
+    "economic matters",
+    "Division of Defense Materials",
+    "Division of European Affairs",
+    "records routing",
+    "central files"
+   ]
+  }
+ ],
+ "interest": "The file captures policy formation while Taiwan was still under Japanese rule, showing U.S. officials already debating how a future military administration might manage the transition from Japanese colonial currency to Chinese money. It is particularly useful for the connection it draws between Chinese inflation and exchange-rate policy, as well as for the officials’ reluctance to make premature commitments about currency redemption and financial liability. The second memorandum also preserves evidence of how older economic-planning records were circulated and incorporated into the State Department’s central filing system.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 45.4,
+  "identifier": "japan-internal-affairs-894a.50-formosa-taiwan-economic-2",
+  "file": "894A.50 Formosa. Taiwan, Economic Matters., April 24, 1944 - June 22, 1944 1433.pdf",
+  "created": "2026-09-29 02:51:46"
+ }
+}

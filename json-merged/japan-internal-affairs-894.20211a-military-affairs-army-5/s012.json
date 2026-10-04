@@ -1,0 +1,988 @@
+{
+ "section_summary": "This section contains the end of one copy and a complete second copy of Kilsoo K. Haan’s polemical pamphlet “Japanization, A Peril to Hawaii,” which alleges Japanese political, educational, religious, and military influence in Hawaii and advocates an American embargo and support for China and Korea. It also includes Sino-Korean Peoples League transmittal letters, Office of Naval Intelligence correspondence and translations concerning Japanese consular surveys and defense-related donations, and a State Department acknowledgment. The final pages comprise a cross-reference concerning the Taiyo Maru, a filing slip, and a 1940 New York Evening Post clipping alleging cooperation between Japanese and German propagandists in Hawaii.",
+ "places": [
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawai1",
+    "Hawail",
+    "Hawaii T. H.",
+    "Hawaiin Islands",
+    "Hawaiian Islands",
+    "Hawafian Islands",
+    "Island of Hawaii",
+    "island of Hawaii",
+    "Republic of Hawaii"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu",
+    "harbor of Honolulu"
+   ]
+  },
+  {
+   "name": "Hilo",
+   "variants": [
+    "Hilo"
+   ]
+  },
+  {
+   "name": "D Street NE, Washington, D.C.",
+   "variants": [
+    "101 D STREET N. E.",
+    "101 D Street, N. E."
+   ]
+  },
+  {
+   "name": "Fort Street, Honolulu",
+   "variants": [
+    "1281 Fort Street"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON. D. C.",
+    "Washington, D.C.",
+    "Washington, D. C.",
+    "Washington DC",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper",
+    "Nippon"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "America",
+    "Amerioa",
+    "U. S.",
+    "U.S.",
+    "United States",
+    "United States of America"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "continent of Asia",
+    "Asiatic continent"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Far East",
+    "eastern Asia",
+    "East"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "western hemisphere"
+   ]
+  },
+  {
+   "name": "North and South America",
+   "variants": [
+    "North and South American countries"
+   ]
+  },
+  {
+   "name": "Pacific Ocean and Pacific region",
+   "variants": [
+    "Pacific",
+    "Pacific Ocean",
+    "Pacifio Ocean",
+    "Pacific area",
+    "Paoific",
+    "Paoifics",
+    "western half of the Pacific"
+   ]
+  },
+  {
+   "name": "Pacific Coast of North America",
+   "variants": [
+    "Pacific Coast",
+    "Paoific Coast"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "mainland (China)",
+    "North and South China"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Rehe, China",
+   "variants": [
+    "Jehol",
+    "rich opium province of Jehol"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kurile"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sakhalin"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "Bonin",
+    "Bonins"
+   ]
+  },
+  {
+   "name": "Marshall Islands",
+   "variants": [
+    "Marshalls"
+   ]
+  },
+  {
+   "name": "Caroline Islands",
+   "variants": [
+    "Carolines"
+   ]
+  },
+  {
+   "name": "Yap",
+   "variants": [
+    "Yap"
+   ]
+  },
+  {
+   "name": "Shenyang, China",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "Unalaska",
+   "variants": [
+    "Unalaska"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Cal."
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Loochoos",
+    "Looohoos"
+   ]
+  },
+  {
+   "name": "Penghu Islands",
+   "variants": [
+    "Pesscaadores"
+   ]
+  },
+  {
+   "name": "Palau",
+   "variants": [
+    "Pelews"
+   ]
+  },
+  {
+   "name": "Northeast China",
+   "variants": [
+    "Manchukuo",
+    "Manohukuo"
+   ]
+  },
+  {
+   "name": "Japanese South Seas Mandate",
+   "variants": [
+    "Pacific Mandates",
+    "Paoific Mandates",
+    "former German Pacific Islands north of equator"
+   ]
+  },
+  {
+   "name": "Panama Canal",
+   "variants": [
+    "Panama Canal"
+   ]
+  },
+  {
+   "name": "Heligoland",
+   "variants": [
+    "Heligoland"
+   ]
+  },
+  {
+   "name": "Gibraltar",
+   "variants": [
+    "Gibraltar"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "Carmel-by-the-Sea, California",
+   "variants": [
+    "Carmel, Cal."
+   ]
+  },
+  {
+   "name": "Curaçao",
+   "variants": [
+    "Curacao"
+   ]
+  },
+  {
+   "name": "Kauai",
+   "variants": [
+    "Kauai"
+   ]
+  },
+  {
+   "name": "Maui",
+   "variants": [
+    "Maui"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Prince Fushimi Sadanaru",
+   "role": "Japanese prince whose 1907 visit and donation reportedly founded the Prince Fushimi Scholarship Fund in Hawaii",
+   "variants": [
+    "HIS IMPERIAL HIGHNESS, PRINCE FUSHIMI",
+    "Prince Fushimi",
+    "His Imperial Highness, Prince Fushimi of Japan"
+   ]
+  },
+  {
+   "name": "Consul-General Saito",
+   "role": "Japanese consul-general who met Prince Fushimi in Hawaii",
+   "variants": [
+    "Consul-General Saito"
+   ]
+  },
+  {
+   "name": "Mr. Araki",
+   "role": "Manager of the Yokohama Specie Bank in Hawaii and host of the meeting with Prince Fushimi",
+   "variants": [
+    "Mr. Araki"
+   ]
+  },
+  {
+   "name": "General Nishi",
+   "role": "Japanese military aide described as advocating an aggressive program in Hawaii",
+   "variants": [
+    "General Nishi"
+   ]
+  },
+  {
+   "name": "Admiral Yamamoto",
+   "role": "Japanese naval officer described as advocating an aggressive program in Hawaii",
+   "variants": [
+    "Admiral Yamamoto"
+   ]
+  },
+  {
+   "name": "Yusuke Tsurumi",
+   "role": "Japanese parliamentarian and Christian leader",
+   "variants": [
+    "Mr. Yusuki Tsurumi",
+    "M Yusuki Tsurumi"
+   ]
+  },
+  {
+   "name": "Y. Soga",
+   "role": "Spokesman for the Japanese community in Hawaii",
+   "variants": [
+    "Mr. Y. Soga"
+   ]
+  },
+  {
+   "name": "Admiral Tōgō",
+   "role": "Japanese admiral presented as a hero in Japanese-language schools",
+   "variants": [
+    "Admiral Togo"
+   ]
+  },
+  {
+   "name": "Emperor Hirohito",
+   "role": "Emperor of Japan, described in the pamphlet and clipping as an object of loyalty or worship",
+   "variants": [
+    "the Emperor of Japan",
+    "Hirohito",
+    "an Emperor"
+   ]
+  },
+  {
+   "name": "Inazo Nitobe",
+   "role": "Author of “Bushido,” adviser to Osaka Mainichi, and delegate to the League of Nations Cultural Bureau",
+   "variants": [
+    "Dr. Inazo Nitobe",
+    "Dr. Nitobe"
+   ]
+  },
+  {
+   "name": "Viscount Kikujiro Ishii",
+   "role": "Head of the Institute of Overseas Peoples Education and former Japanese ambassador",
+   "variants": [
+    "Visoount Ishii",
+    "Viscount Ishii",
+    "former Japanese Ambassador Ishii",
+    "Ishii"
+   ]
+  },
+  {
+   "name": "Takie Okumura",
+   "role": "Clergyman identified as founder of the Japanese Language School in Hawaii",
+   "variants": [
+    "Rev. Takie Okumura"
+   ]
+  },
+  {
+   "name": "Shinryu Umehara",
+   "role": "Japanese Buddhist priest sent to inspect Japanese-language schools on the Pacific Coast and in Hawaii",
+   "variants": [
+    "Rev. Shinryu Umehara"
+   ]
+  },
+  {
+   "name": "Yasujiro Tsutsumi",
+   "role": "Vice-minister of Japan’s Overseas Affairs",
+   "variants": [
+    "vice-minister Yasujiro Tsutsumi",
+    "Yasujiro Tsutsumi"
+   ]
+  },
+  {
+   "name": "General Araki",
+   "role": "Japanese general quoted advocating the worldwide expansion of the Japanese spirit",
+   "variants": [
+    "General Araki"
+   ]
+  },
+  {
+   "name": "Leonard Wood",
+   "role": "American general and co-leader of the 1921 Wood-Forbes mission",
+   "variants": [
+    "General Wood",
+    "Wood-Forbes"
+   ]
+  },
+  {
+   "name": "W. Cameron Forbes",
+   "role": "American diplomat and co-namesake of the Wood-Forbes mission",
+   "variants": [
+    "Wood-Forbes"
+   ]
+  },
+  {
+   "name": "Baron Giichi Tanaka",
+   "role": "Japanese statesman identified as the author of the alleged Tanaka Memorial",
+   "variants": [
+    "Baron Tanaka",
+    "Tanaka",
+    "Tanaka's"
+   ]
+  },
+  {
+   "name": "Albert J. Beveridge",
+   "role": "United States senator quoted on American commerce and power in the Pacific",
+   "variants": [
+    "Senator Beveridge"
+   ]
+  },
+  {
+   "name": "Chokume Matsuo",
+   "role": "Japanese commentator quoted on the prospect of war between Japan and the United States",
+   "variants": [
+    "Mr. Chokume Matsuo"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Chief of the State Department’s Division of Far Eastern Affairs and recipient of Haan’s letter",
+   "variants": [
+    "Maxwell m. Hamilton",
+    "Mr. maxwell"
+   ]
+  },
+  {
+   "name": "Kilsoo K. Haan",
+   "role": "Representative and spokesman of the Sino-Korean Peoples League and author of “Japanization, A Peril to Hawaii”",
+   "variants": [
+    "KILSOO K. HAAN",
+    "Kilooo K. Haan",
+    "Kilooo T. Haan",
+    "Kilsoo K. Haan"
+   ]
+  },
+  {
+   "name": "Shinho Char",
+   "role": "President of the Sino-Korean Peoples League",
+   "variants": [
+    "SHINHO CHAR"
+   ]
+  },
+  {
+   "name": "Sunchoo Choi",
+   "role": "Vice-president of the Sino-Korean Peoples League",
+   "variants": [
+    "SUNCHOO CHOI"
+   ]
+  },
+  {
+   "name": "Changduk Choi",
+   "role": "Secretary of the Sino-Korean Peoples League",
+   "variants": [
+    "CHANGDUK CHOI"
+   ]
+  },
+  {
+   "name": "Jhaikun Sur",
+   "role": "Treasurer of the Sino-Korean Peoples League",
+   "variants": [
+    "JHAIKUN SUR"
+   ]
+  },
+  {
+   "name": "Chanho Min",
+   "role": "Chairman of the directors of the Sino-Korean Peoples League",
+   "variants": [
+    "CHANHO MIN"
+   ]
+  },
+  {
+   "name": "Doin Kwon",
+   "role": "Director of the Sino-Korean Peoples League",
+   "variants": [
+    "DOIN KWON"
+   ]
+  },
+  {
+   "name": "Bongkwan Chung",
+   "role": "Director of the Sino-Korean Peoples League",
+   "variants": [
+    "BONGKWAN CHUNG"
+   ]
+  },
+  {
+   "name": "Taisung Lee",
+   "role": "Director of the Sino-Korean Peoples League",
+   "variants": [
+    "TAISUNG LEE"
+   ]
+  },
+  {
+   "name": "Baiksoo Kim",
+   "role": "Director of the Sino-Korean Peoples League",
+   "variants": [
+    "BAIKSOO KIM"
+   ]
+  },
+  {
+   "name": "Changyik Oh",
+   "role": "Director of the Sino-Korean Peoples League",
+   "variants": [
+    "CHANGYIK OH"
+   ]
+  },
+  {
+   "name": "Laura Thompson",
+   "role": "University of Hawaii anthropology research associate who studied Guam",
+   "variants": [
+    "Dr. Laura Thompson"
+   ]
+  },
+  {
+   "name": "Matthew C. Perry",
+   "role": "United States naval officer credited with opening Japan’s ports",
+   "variants": [
+    "Commodore Matthew C. Perry"
+   ]
+  },
+  {
+   "name": "Shigenobu Ōkuma",
+   "role": "Japanese statesman quoted on racial equality and Japan’s national mission",
+   "variants": [
+    "Count Okuma"
+   ]
+  },
+  {
+   "name": "Dr. Mason",
+   "role": "American Shintoist quoted about Hawaii’s food supply in wartime",
+   "variants": [
+    "Dr. Mason"
+   ]
+  },
+  {
+   "name": "Prince Itō Hirobumi",
+   "role": "Japanese statesman said to have protested Korean immigration to Hawaii",
+   "variants": [
+    "Prince Ito"
+   ]
+  },
+  {
+   "name": "Captain Kuroda",
+   "role": "Commander of the Japanese cruiser Naniwa during the 1897 Hawaiian incident",
+   "variants": [
+    "Captain Kuroda"
+   ]
+  },
+  {
+   "name": "Minister Shimamura",
+   "role": "Japanese minister who sought permission for the Naniwa’s crew to conduct target practice near Honolulu",
+   "variants": [
+    "Ministor Shimamura",
+    "Minister Shimamura"
+   ]
+  },
+  {
+   "name": "E. B. Nixon",
+   "role": "Commander, U.S. Navy, who transmitted Japanese newspaper translations to the State Department",
+   "variants": [
+    "E. B. Nixon",
+    "Commander Nixon"
+   ]
+  },
+  {
+   "name": "Fletcher Warren",
+   "role": "State Department official and recipient of Nixon’s letter",
+   "variants": [
+    "Fletoher Warren",
+    "Mr. Warren"
+   ]
+  },
+  {
+   "name": "Chitei Ishibuchi",
+   "role": "Japanese naval paymaster who acknowledged receipt of Hawaii’s national-defense donation",
+   "variants": [
+    "Lt.Cmdr. Chitei Ishibuchi",
+    "Chitei Ishibuchi"
+   ]
+  },
+  {
+   "name": "Mitsumasa Yonai",
+   "role": "Japanese minister of the navy who issued a letter of appreciation for the donation",
+   "variants": [
+    "Mitsumasa Yonai"
+   ]
+  },
+  {
+   "name": "George S. Messersmith",
+   "role": "Assistant Secretary of State who acknowledged Nixon’s letter",
+   "variants": [
+    "George S. Messersmith"
+   ]
+  },
+  {
+   "name": "Yosuke Matsuoka",
+   "role": "Japanese foreign minister and author of an American magazine article defending Japan’s seizure of Manchuria",
+   "variants": [
+    "Yosuka Matsuoka",
+    "Matsuoka"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German dictator discussed in the clipping’s account of German-Japanese propaganda cooperation",
+   "variants": [
+    "Adolf Hitler",
+    "Hitler"
+   ]
+  },
+  {
+   "name": "Otto Kiep",
+   "role": "German consul in New York said to have established contact between Viereck and Matsuoka",
+   "variants": [
+    "Dr. Otto Kiep"
+   ]
+  },
+  {
+   "name": "Colin Ross",
+   "role": "German propagandist alleged to have assisted Japan",
+   "variants": [
+    "Colin Ross"
+   ]
+  },
+  {
+   "name": "Klaus Mehnert",
+   "role": "German propagandist described as examining the Pacific Coast",
+   "variants": [
+    "Klaus Mehnert"
+   ]
+  },
+  {
+   "name": "Alfred von Wegerer",
+   "role": "German historian and emissary to Tokyo",
+   "variants": [
+    "Dr Alfred von Wegerer"
+   ]
+  },
+  {
+   "name": "Kaiser Wilhelm II",
+   "role": "German emperor whose wartime propagandist later worked on Matsuoka’s article",
+   "variants": [
+    "Kaiser Wilhelm",
+    "Wilhelm"
+   ]
+  },
+  {
+   "name": "George Sylvester Viereck",
+   "role": "German-American propagandist identified as the writer of Matsuoka’s Liberty Magazine article",
+   "variants": [
+    "Viereck",
+    "George Sylvester Viereck"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanization of Hawaii",
+  "Japanese propaganda",
+  "Japanese-language schools",
+  "dual nationality",
+  "Sino-Korean Peoples League",
+  "Pacific defense",
+  "Japanese consular activity",
+  "naval intelligence",
+  "national-defense donations",
+  "Americanization",
+  "Japanese-American relations",
+  "German-Japanese propaganda"
+ ],
+ "subfiles": [
+  {
+   "title": "“Japanization, A Peril to Hawaii” — concluding portion",
+   "doc_type": "pamphlet/article",
+   "start_page": 464,
+   "end_page": 471,
+   "continues_previous": true,
+   "date": "",
+   "from": "Kilsoo K. Haan",
+   "to": "",
+   "about": "The concluding portion alleges that Japanese institutions in Hawaii foster loyalty to Japan and urges stronger American action against Japanese expansion.",
+   "summary": "This fragment begins with discussions of the Prince Fushimi Scholarship Fund, Japanese Christianity, dual nationality, and Japanese-language schools. It portrays these institutions as instruments of Japanization and cites Japanese officials and educators in support of that contention. The conclusion connects Hawaii’s security to Japanese expansion across Asia and the Pacific and recommends an embargo on war materials plus moral support for China and Korea.",
+   "keywords": [
+    "Prince Fushimi Scholarship Fund",
+    "dual nationality",
+    "Japanese-language schools",
+    "Japanization",
+    "Pacific fortifications",
+    "Americanization",
+    "arms embargo",
+    "China and Korea"
+   ]
+  },
+  {
+   "title": "Letter transmitting “Japanization, A Peril to Hawaii” to Maxwell M. Hamilton",
+   "doc_type": "letter",
+   "start_page": 472,
+   "end_page": 472,
+   "continues_previous": false,
+   "date": "1939-07-15",
+   "from": "Kilsoo K. Haan, Sino-Korean Peoples League",
+   "to": "Maxwell M. Hamilton, Chief, Division of Far Eastern Affairs, Department of State",
+   "about": "Haan sends Hamilton a copy of the pamphlet and requests American attention to Japanese activities in the Pacific and Western Hemisphere.",
+   "summary": "Haan states that the pamphlet had recently been presented to members of the Senate committees on foreign relations, naval affairs, and military affairs. He argues that Koreans and Chinese had long warned of Japanese aggression and asks the United States to adopt a positive policy for dealing with Japanese penetration of the Pacific and Western Hemisphere.",
+   "keywords": [
+    "Sino-Korean Peoples League",
+    "Maxwell M. Hamilton",
+    "pamphlet transmittal",
+    "Japanese aggression",
+    "Pacific security",
+    "Western Hemisphere"
+   ]
+  },
+  {
+   "title": "Submission of “Japanization, A Peril to Hawaii” to Senate committees",
+   "doc_type": "letter",
+   "start_page": 473,
+   "end_page": 473,
+   "continues_previous": false,
+   "date": "1939-07-15",
+   "from": "Kilsoo K. Haan, Sino-Korean Peoples League of Hawaii",
+   "to": "Members of the Senate Foreign Relations, Naval, and Military Committees, Seventy-Sixth Congress",
+   "about": "The league formally submits Haan’s pamphlet and compares the strategic vulnerability of Guam and Hawaii with Korea’s fate under Japan.",
+   "summary": "The letter stresses Hawaii’s strategic value and cites Laura Thompson’s report that Guam’s inhabitants feared Japanese domination and desired American fortification. It argues that the powers had ignored Korean warnings and sacrificed Korea’s independence, expressing hope that Guam and Hawaii would avoid the same fate.",
+   "keywords": [
+    "United States Senate",
+    "Guam",
+    "Hawaii",
+    "Korea",
+    "fortification",
+    "Japanese domination",
+    "strategic defense"
+   ]
+  },
+  {
+   "title": "“Japanization, A Peril to Hawaii”",
+   "doc_type": "pamphlet/article",
+   "start_page": 474,
+   "end_page": 489,
+   "continues_previous": false,
+   "date": "",
+   "from": "Kilsoo K. Haan",
+   "to": "American officials and public",
+   "about": "Haan presents an extended argument that Japanese influence and institutions in Hawaii threaten American security and facilitate Japanese expansion.",
+   "summary": "The pamphlet traces Japanese expansion across East Asia and the Pacific, discusses earlier Japanese diplomatic pressure on Hawaii, and describes what it calls “duck diplomacy.” It alleges that scholarship funds, religious bodies, dual nationality practices, consular connections, and Japanese-language schools preserve allegiance to Japan among Hawaii’s Japanese population. The conclusion links these activities to Japanese fortification and commercial ambitions, warning of a possible attack on Hawaii. Haan proposes an embargo on arms and war materials and positive moral aid to China and Korea.",
+   "keywords": [
+    "Japanization of Hawaii",
+    "Japanese expansion",
+    "Pacific strategy",
+    "Japanese-language schools",
+    "dual citizenship",
+    "religion",
+    "racial politics",
+    "arms embargo"
+   ]
+  },
+  {
+   "title": "Naval Intelligence letter transmitting Japanese newspaper translations",
+   "doc_type": "official letter",
+   "start_page": 490,
+   "end_page": 490,
+   "continues_previous": false,
+   "date": "1939-06-17",
+   "from": "Commander E. B. Nixon, Office of Naval Intelligence",
+   "to": "Fletcher Warren, Department of State",
+   "about": "Nixon forwards translations from Honolulu Japanese newspapers and flags a Japanese airplane-fund donation as potentially relevant to the Neutrality Act.",
+   "summary": "The Office of Naval Intelligence sends the State Department several translations not supplied to any other government department. Nixon specifically calls attention to the report that Hawaii’s Japanese residents had donated nearly 85,000 yen to an airplane fund, suggesting that it might fall under paragraph 3 of the Neutrality Act of May 1, 1937.",
+   "keywords": [
+    "Office of Naval Intelligence",
+    "Japanese newspapers",
+    "airplane donation fund",
+    "Neutrality Act",
+    "Hawaii",
+    "State Department"
+   ]
+  },
+  {
+   "title": "Translations from Hawaii Mainichi and Nippu Jiji",
+   "doc_type": "translated newspaper extracts",
+   "start_page": 491,
+   "end_page": 492,
+   "continues_previous": false,
+   "date": "1939-05",
+   "from": "Office of Naval Intelligence translations of Hawaii Mainichi and Nippu Jiji",
+   "to": "Department of State",
+   "about": "The extracts report a Japanese consular survey in Hilo, an 84,942.23-yen defense donation, and collections of materials and money for visiting Japanese training vessels.",
+   "summary": "One report says the Japanese Consulate asked the Hilo Japanese Society to investigate a wide range of Japanese and Japanese-American organizations. Another records receipt by Japan’s Navy Department of 84,942.23 yen collected on Hawaii for an airplane or national-defense fund, followed by Mitsumasa Yonai’s letter of appreciation. Further extracts describe the division of the consular investigation among local agents and plans to collect metals, textiles, newspapers, comfort bags, and money for the training vessels Nippon Maru and Kaio Maru.",
+   "keywords": [
+    "Hilo Japanese Society",
+    "Japanese Consulate",
+    "national-defense fund",
+    "airplane donation",
+    "Mitsumasa Yonai",
+    "Nippon Maru",
+    "Kaio Maru",
+    "material collections"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Naval Intelligence translations",
+   "doc_type": "official letter",
+   "start_page": 493,
+   "end_page": 493,
+   "continues_previous": false,
+   "date": "1939-06-24",
+   "from": "George S. Messersmith, Assistant Secretary of State",
+   "to": "Commander E. B. Nixon, Office of the Chief of Naval Operations",
+   "about": "Messersmith acknowledges receipt of Nixon’s letter and the enclosed translations from Honolulu Japanese newspapers.",
+   "summary": "The Assistant Secretary of State thanks Commander Nixon for his June 17 letter addressed to Fletcher Warren. He identifies its subject as translations from Japanese newspapers in Honolulu.",
+   "keywords": [
+    "acknowledgment",
+    "George S. Messersmith",
+    "E. B. Nixon",
+    "Japanese newspapers",
+    "Honolulu",
+    "Naval Intelligence"
+   ]
+  },
+  {
+   "title": "Cross-reference to Sino-Korean Peoples League letter concerning the Taiyo Maru",
+   "doc_type": "cross-reference sheet",
+   "start_page": 494,
+   "end_page": 494,
+   "continues_previous": false,
+   "date": "1939-07-10",
+   "from": "Sino-Korean Peoples League, Kilsoo K. Haan",
+   "to": "",
+   "about": "The sheet directs researchers to another file for a letter protesting obstruction of a customs inspection aboard the Japanese passenger ship Taiyo Maru.",
+   "summary": "The cross-reference points to file 611.942/1 for a July 10, 1939 letter from the Sino-Korean Peoples League in Washington. The underlying letter reportedly concerned Japanese officers and the captain of the Taiyo Maru refusing to let Hawaii customs officials inspect a locked safe, and protested their allegedly haughty attitude.",
+   "keywords": [
+    "cross-reference",
+    "Taiyo Maru",
+    "Customs inspection",
+    "locked safe",
+    "Japanese officers",
+    "Kilsoo K. Haan"
+   ]
+  },
+  {
+   "title": "File notation for 894.20211A/70",
+   "doc_type": "file slip",
+   "start_page": 495,
+   "end_page": 495,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A fragmentary administrative slip records the decimal-file number 894.20211A/70 and the initials PSAB.",
+   "summary": "The page contains no substantive narrative. It preserves only a file designation and administrative initials, apparently serving as a separator or routing slip for the following clipping.",
+   "keywords": [
+    "file notation",
+    "894.20211A/70",
+    "PSAB",
+    "filing slip"
+   ]
+  },
+  {
+   "title": "“Men Against America: Jap-Nazi Propaganda Linked Even in 1938”",
+   "doc_type": "newspaper clipping",
+   "start_page": 496,
+   "end_page": 496,
+   "continues_previous": false,
+   "date": "1940",
+   "from": "New York Evening Post",
+   "to": "Newspaper readers",
+   "about": "The clipping alleges collaboration between Japanese and German propagandists and portrays Hawaii’s Japanese community as a strategic and political vulnerability.",
+   "summary": "The article says George Sylvester Viereck wrote a 1938 Liberty Magazine article published under Yosuke Matsuoka’s name and presents this as evidence of longstanding German-Japanese ideological cooperation. It describes contacts involving Otto Kiep, Colin Ross, Klaus Mehnert, and Alfred von Wegerer, then focuses on Hawaii as a strategic target and center of Japanese influence. The surviving clipping also discusses Japanese-language education, religious allegiance, bloc voting, visiting Japanese officials, and the Japanese fishing fleet, but portions are truncated.",
+   "keywords": [
+    "German-Japanese propaganda",
+    "Yosuke Matsuoka",
+    "George Sylvester Viereck",
+    "Hawaii",
+    "Japanese-language schools",
+    "Nazi propaganda",
+    "Japanese fishing fleet",
+    "political influence"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 12,
+  "sections": 12,
+  "pages": [
+   464,
+   496
+  ],
+  "pdf": "894.20211A Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Hawaii Including Gathering Of Information. Espionage. Propaganda., March 9 1110.pdf",
+  "seconds": 246.5,
+  "created": "2026-09-30 02:41:23",
+  "key": "japan-internal-affairs-894.20211a-military-affairs-army-5"
+ }
+}

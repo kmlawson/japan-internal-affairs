@@ -1,0 +1,134 @@
+{
+ "interest": "Frank 1947 State Department talk of American racism and why the Crown Prince should study in England.",
+ "keywords": [
+  "Crown Prince Akihito",
+  "Imperial Family",
+  "education abroad",
+  "Mrs. Elizabeth Vining",
+  "racial discrimination",
+  "postwar Japan",
+  "Occupation of Japan",
+  "United States-Japan relations",
+  "Yosuke Matsuoka",
+  "Gieseking affair",
+  "British universities",
+  "State Department"
+ ],
+ "overview": "Secret letter of February 17, 1947 advising that Crown Prince Akihito study with Elizabeth Gray Vining in Japan, then attend university in England rather than America.",
+ "people": [
+  {
+   "name": "Akihito",
+   "role": "Crown Prince of Japan",
+   "variants": [
+    "Japanese Crown Prince",
+    "Crown Prince",
+    "Prince"
+   ]
+  },
+  {
+   "name": "Elizabeth Gray Vining",
+   "role": "Tutor to the Japanese Crown Prince",
+   "variants": [
+    "Mrs. Vining"
+   ]
+  },
+  {
+   "name": "Yosuke Matsuoka",
+   "role": "Former Minister of Foreign Affairs of Japan (referenced as a former student at an American university)",
+   "variants": [
+    "Yosuke Matsuoka"
+   ]
+  },
+  {
+   "name": "Walter Gieseking",
+   "role": "German pianist (referenced in connection with public controversy surrounding the 'Gieseking affair')",
+   "variants": [
+    "Gieseking"
+   ]
+  },
+  {
+   "name": "Bill",
+   "role": "Correspondent / official (recipient of the letter)",
+   "variants": [
+    "Bill"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "the Secretary",
+    "Secretary"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England",
+    "English"
+   ]
+  },
+  {
+   "name": "West Coast",
+   "variants": [
+    "west-coast"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Confidential commentary and policy guidance concerning whether the Japanese Crown Prince should be educated in the United States or England.",
+   "date": "1947-02-17",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Unidentified State Department official",
+   "keywords": [
+    "Crown Prince Akihito",
+    "Imperial Family",
+    "Mrs. Vining",
+    "higher education",
+    "study abroad",
+    "racial discrimination",
+    "Yosuke Matsuoka",
+    "Gieseking affair",
+    "England",
+    "colonization"
+   ],
+   "start_page": 1,
+   "summary": "An unnamed official advises 'Bill' that the Crown Prince study two more years in Japan under Elizabeth Gray Vining, then attend an English university, citing American hostility, racism and Matsuoka's experience. The Secretary concurred.",
+   "title": "Personal and Secret Letter to 'Bill' on the Question of Educating the Japanese Crown Prince",
+   "to": "Bill"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14100,
+   "output_tokens": 4104,
+   "thinking_tokens": 3028,
+   "cache_read_tokens": 0,
+   "total_tokens": 18204
+  },
+  "backend": "agy",
+  "seconds": 16.0,
+  "identifier": "japan-internal-affairs-894.0011-political-affairs-chief-5",
+  "file": "894.0011 Political Affairs., Chief Executive. Sovereign. Visits., Japan, Family., February 17, 1947 1562.pdf",
+  "created": "2026-09-28 21:18:48"
+ }
+}

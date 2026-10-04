@@ -1,0 +1,174 @@
+{
+ "interest": "Iran asked the U.S. for Japan's and Korea's flags in 1949; a Tehran despatch is datelined 'Tokyo, Iran.'",
+ "keywords": [
+  "Japan",
+  "national flag",
+  "Korea",
+  "Iran",
+  "Tehran",
+  "Imperial Ministry of Foreign Affairs",
+  "Department of State",
+  "National Public Service Law",
+  "POLAD",
+  "SCAP",
+  "George C. Marshall"
+ ],
+ "overview": "Iran's 1949 request via Embassy Tehran for Japan's and Korea's flags; State replied Japan's flag was unchanged and sent a Korean flag sketch. Includes a misfiled 1948 Marshall telegram on the National Public Service Law.",
+ "people": [
+  {
+   "name": "George C. Marshall",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "MARSHALL",
+    "Marshall"
+   ]
+  },
+  {
+   "name": "K. O'Shaughnessy",
+   "role": "Foreign Service Officer / Drafting Officer, American Embassy, Tehran",
+   "variants": [
+    "KO'Shaughnessy"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran",
+    "Iranian"
+   ]
+  },
+  {
+   "name": "Tehran",
+   "variants": [
+    "Tehran",
+    "Tokyo, Iran"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokyo, Iran"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greek"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkish"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "The American Embassy in Tehran transmits a request from the Imperial Ministry of Foreign Affairs of Iran for copies or images of the national flags of Japan and Korea.",
+   "date": "1949-07-21",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "American Embassy, Tehran",
+   "keywords": [
+    "Iran",
+    "Japan",
+    "Korea",
+    "national flag",
+    "Tehran",
+    "Ministry of Foreign Affairs",
+    "USIE",
+    "Military Attaché"
+   ],
+   "start_page": 1,
+   "summary": "Embassy Tehran forwards Iran's request for the national flags of Japan and Korea, which local U.S. offices lacked; the dateline reads 'Tokyo, Iran.'",
+   "title": "Despatch No. 190 from Embassy Tehran on Iranian Request for Flags of Japan and Korea",
+   "to": "Department of State"
+  },
+  {
+   "about": "The Department of State advises the American Mission in Tehran that Japan's national flag remains unchanged and transmits a sketch of the new Korean flag.",
+   "date": "1949-08-11",
+   "doc_type": "instruction",
+   "end_page": 2,
+   "from": "Secretary of State",
+   "keywords": [
+    "Japan",
+    "Korea",
+    "Iran",
+    "national flag",
+    "Department of State",
+    "Tehran",
+    "sketch"
+   ],
+   "start_page": 2,
+   "summary": "State tells the Tehran mission Japan's flag is unchanged since the war and encloses a sketch of Korea's new flag for Iran.",
+   "title": "Instruction No. 65 from Department of State to American Mission, Tehran Regarding Flags of Japan and Korea",
+   "to": "Officer in Charge of the American Mission, Tehran"
+  },
+  {
+   "about": "Secretary of State Marshall requests independent reporting and documentation from the Political Adviser in Tokyo regarding the revision of Japan's National Public Service Law.",
+   "date": "1948-09-19",
+   "doc_type": "telegram",
+   "end_page": 3,
+   "from": "George C. Marshall, Secretary of State",
+   "keywords": [
+    "National Public Service Law",
+    "Japan",
+    "POLAD",
+    "SCAP",
+    "George C. Marshall",
+    "Cabinet Orders",
+    "labor reform"
+   ],
+   "start_page": 3,
+   "summary": "Marshall asks POLAD Tokyo for independent reporting on revision of Japan's National Public Service Law, including Cabinet orders and Japanese reactions.",
+   "title": "Telegram from Secretary of State Marshall to POLAD Tokyo Regarding Revision of National Public Service Law",
+   "to": "U.S. Political Adviser to SCAP (POLAD), Tokyo"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14375,
+   "output_tokens": 9940,
+   "thinking_tokens": 8450,
+   "cache_read_tokens": 0,
+   "total_tokens": 24315
+  },
+  "backend": "agy",
+  "seconds": 30.5,
+  "identifier": "japan-internal-affairs-894.015-government-mandates-recognition-2",
+  "file": "894.015 Government. Mandates, Recognition., Japan, Flag., July 21, 1949 - August 17, 1949 1756.pdf",
+  "created": "2026-09-28 22:12:01"
+ }
+}

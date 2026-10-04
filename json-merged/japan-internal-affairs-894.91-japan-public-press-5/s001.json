@@ -1,0 +1,8139 @@
+{
+ "section_summary": "This section combines an OSS study of Japanese press control with postwar correspondence and SCAP statistical reports on newspapers, news services, and publishing. It documents wartime censorship and consolidation, requests for information about the occupied Japanese press, newspaper statistics for March and May 1946, and the opening sixty pages of an extensive directory of current Japanese publishers and their representatives. The publishers directory is heavily concentrated on Tokyo and continues beyond this section.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepen",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tobyo",
+    "Tokyc",
+    "Tckyo",
+    "Tekyo",
+    "Tokyo-to"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Columbus, Ohio",
+   "variants": [
+    "Columbus 10, Ohio",
+    "COLUMBUS IO",
+    "Columbus 10, Chio"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Urbana, Illinois",
+   "variants": [
+    "URBANA, ILLINOIS",
+    "Urbana, Illino1s"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "Ohio",
+    "Chio"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "variants": [
+    "ILLINOIS",
+    "Illino1s"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka fu"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osaka-shi",
+    "Osakashi"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto-shi"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aici",
+    "Aichi-ken"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Acita",
+    "Akita-ken"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "Aomori-ken"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chibe-ken"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehino"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui",
+    "Fukui-ken"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuokn Ken",
+    "Fukuoka-ken"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima",
+    "Fukushima-ken"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma",
+    "Guma-ken"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshim:",
+    "Hiroshima-ken"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Hiyogo-ken"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ib-raki",
+    "Ibaragi-ken"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishik W",
+    "Ishikawa-ken"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwato",
+    "Isate-ken"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagowa",
+    "Kanagawa-ken"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kocni",
+    "Kochi-ken"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumemoto-shi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mic",
+    "Miye-ken"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi",
+    "Miyagi-ken"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki",
+    "Miyazaki-ken"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Naganc",
+    "Nagano-ken"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagesak"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki-shi"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara",
+    "Nera-ken"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niig~t",
+    "Nigata-ken"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oita",
+    "Oita-ken"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama",
+    "Okeyεm-ken",
+    "ekayame-ken"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "saga"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Sage-shi"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Sajtama",
+    "Eaitama-ken"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga",
+    "Shige-ken"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane",
+    "Shimane-ken"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka",
+    "Sizuoka-ken"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi",
+    "Tochigi-ken"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyma"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yemagata"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "Yemaguchi-ken"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yarcnashi",
+    "Yamanashi-ken"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kenazewa-shi"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagaya-shi"
+   ]
+  },
+  {
+   "name": "Numazu",
+   "variants": [
+    "Numa ze-shi"
+   ]
+  },
+  {
+   "name": "Ōtsu",
+   "variants": [
+    "Otsushi"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Fendai-shi"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyoha-shi"
+   ]
+  },
+  {
+   "name": "Tsuruoka",
+   "variants": [
+    "Tsuruoke-shi"
+   ]
+  },
+  {
+   "name": "Hachiōji",
+   "variants": [
+    "Hachiojishi"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasakishi"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "Tachikawa-shi"
+   ]
+  },
+  {
+   "name": "Musashino",
+   "variants": [
+    "Musashino-machi",
+    "Musashinomachi",
+    "Musashincmachi",
+    "Musashino-rachi"
+   ]
+  },
+  {
+   "name": "Mitaka",
+   "variants": [
+    "Mitakamachi"
+   ]
+  },
+  {
+   "name": "Koganei",
+   "variants": [
+    "Koganeimachi"
+   ]
+  },
+  {
+   "name": "Kokubunji",
+   "variants": [
+    "Kokubunjimachi"
+   ]
+  },
+  {
+   "name": "Kunitachi",
+   "variants": [
+    "Kunitachimachi"
+   ]
+  },
+  {
+   "name": "Kitatama District",
+   "variants": [
+    "Kitatara-gun",
+    "Kitatamagun",
+    "Kitatanagun",
+    "Kitatama Cun"
+   ]
+  },
+  {
+   "name": "Minamitama District",
+   "variants": [
+    "Minamitama-Gun",
+    "Minaritamagun"
+   ]
+  },
+  {
+   "name": "Kanda, Tokyo",
+   "variants": [
+    "Kandaku",
+    "Kanda-ku",
+    "Kanda ku",
+    "Kandeku",
+    "Kendaku",
+    "Kondaku"
+   ]
+  },
+  {
+   "name": "Kojimachi, Tokyo",
+   "variants": [
+    "Kojimachiku",
+    "Kojinachiku",
+    "Kejimachiku",
+    "Kcjimachiku",
+    "Kojima-chiku"
+   ]
+  },
+  {
+   "name": "Kyōbashi, Tokyo",
+   "variants": [
+    "Kyobashiku",
+    "Kycbashiku",
+    "Kyoba-shiku",
+    "Kyobashi-ku"
+   ]
+  },
+  {
+   "name": "Nihonbashi, Tokyo",
+   "variants": [
+    "Nihonbashiku",
+    "Nihcnbashiku",
+    "Nihenbashiku",
+    "Nipponbashiku"
+   ]
+  },
+  {
+   "name": "Hongō, Tokyo",
+   "variants": [
+    "Hongoku",
+    "Hongeku",
+    "Hengoku",
+    "Hcngcku"
+   ]
+  },
+  {
+   "name": "Koishikawa, Tokyo",
+   "variants": [
+    "Koishikawaku",
+    "Koishikawa-ku",
+    "Keishikawaku",
+    "Kcishikawaku"
+   ]
+  },
+  {
+   "name": "Shibuya, Tokyo",
+   "variants": [
+    "Shibuyaku",
+    "Shibuya-ku",
+    "Chibuyaku"
+   ]
+  },
+  {
+   "name": "Shiba, Tokyo",
+   "variants": [
+    "Shibaku",
+    "Shiba-ku",
+    "Shitaku"
+   ]
+  },
+  {
+   "name": "Azabu, Tokyo",
+   "variants": [
+    "Azabuku",
+    "Azabu-ku"
+   ]
+  },
+  {
+   "name": "Akasaka, Tokyo",
+   "variants": [
+    "Akasakaku"
+   ]
+  },
+  {
+   "name": "Meguro, Tokyo",
+   "variants": [
+    "Meguroku",
+    "Meguro-ku",
+    "Keguroku"
+   ]
+  },
+  {
+   "name": "Ōmori, Tokyo",
+   "variants": [
+    "Omoriku",
+    "Ororiku",
+    "Crcriku",
+    "Onoriku"
+   ]
+  },
+  {
+   "name": "Setagaya, Tokyo",
+   "variants": [
+    "Setagayaku",
+    "Setagaya-ku",
+    "Setegayaku",
+    "Setaraya-ku",
+    "Setacaya-ku"
+   ]
+  },
+  {
+   "name": "Suginami, Tokyo",
+   "variants": [
+    "Suginamiku",
+    "Suginani-ku",
+    "Surinariku",
+    "Suginariku"
+   ]
+  },
+  {
+   "name": "Nakano, Tokyo",
+   "variants": [
+    "Nakanoku",
+    "Nakencku",
+    "Nakanolu"
+   ]
+  },
+  {
+   "name": "Toshima, Tokyo",
+   "variants": [
+    "Toshimaku",
+    "Toshiraku"
+   ]
+  },
+  {
+   "name": "Ushigome, Tokyo",
+   "variants": [
+    "Ushigomeku",
+    "Ushigcmeku",
+    "Ushigcmcku"
+   ]
+  },
+  {
+   "name": "Yodobashi, Tokyo",
+   "variants": [
+    "Yedobashiku",
+    "Yodclashiku",
+    "Ydcbashi-ku"
+   ]
+  },
+  {
+   "name": "Itabashi, Tokyo",
+   "variants": [
+    "Itabashiku",
+    "Itabeshiku",
+    "Itcbashiku"
+   ]
+  },
+  {
+   "name": "Shinagawa, Tokyo",
+   "variants": [
+    "Shinagawaku",
+    "Shinagawa-ku",
+    "Shinag woku"
+   ]
+  },
+  {
+   "name": "Takinogawa, Tokyo",
+   "variants": [
+    "Takinokawaku",
+    "Takinogawaku",
+    "Takinckawaku"
+   ]
+  },
+  {
+   "name": "Ōji, Tokyo",
+   "variants": [
+    "Ojiku",
+    "Ci"
+   ]
+  },
+  {
+   "name": "Shitaya, Tokyo",
+   "variants": [
+    "Shitayaku",
+    "Shitaya ku"
+   ]
+  },
+  {
+   "name": "Asakusa, Tokyo",
+   "variants": [
+    "Asakusaku",
+    "Asckusaku"
+   ]
+  },
+  {
+   "name": "Arakawa, Tokyo",
+   "variants": [
+    "Arakawa",
+    "Arakawaku",
+    "Lrakavaku"
+   ]
+  },
+  {
+   "name": "Katsushika, Tokyo",
+   "variants": [
+    "Katsushika-ku",
+    "Katshikaku"
+   ]
+  },
+  {
+   "name": "Edogawa, Tokyo",
+   "variants": [
+    "Edogawaku",
+    "Edc. awaku"
+   ]
+  },
+  {
+   "name": "Mukojima, Tokyo",
+   "variants": [
+    "Mukojimaku"
+   ]
+  },
+  {
+   "name": "Adachi, Tokyo",
+   "variants": [
+    "Adachiku"
+   ]
+  },
+  {
+   "name": "Ebara, Tokyo",
+   "variants": [
+    "Ebaraku"
+   ]
+  },
+  {
+   "name": "Fukagawa, Tokyo",
+   "variants": [
+    "Fukegawaku"
+   ]
+  },
+  {
+   "name": "Ginza, Tokyo",
+   "variants": [
+    "Ginza",
+    "Ginza-nishi",
+    "Ginzanishi",
+    "Nishi Ginza",
+    "Nishiginza"
+   ]
+  },
+  {
+   "name": "Marunouchi, Tokyo",
+   "variants": [
+    "Marunouchi",
+    "Maruncuchi",
+    "Merunouchi",
+    "Narunouchi"
+   ]
+  },
+  {
+   "name": "Yūrakuchō, Tokyo",
+   "variants": [
+    "Yurakucho",
+    "Yuraluchc"
+   ]
+  },
+  {
+   "name": "Kasumigaseki, Tokyo",
+   "variants": [
+    "Kasumigaseki",
+    "Kasunieascki"
+   ]
+  },
+  {
+   "name": "Uchisaiwaichō, Tokyo",
+   "variants": [
+    "Uchisaiwaicho",
+    "Uchisawaicho",
+    "Uchisaicho",
+    "Uchisaiwcicho"
+   ]
+  },
+  {
+   "name": "Hitotsubashi, Tokyo",
+   "variants": [
+    "Hitotsubashi",
+    "Hitotubashi",
+    "Titotsubashi",
+    "Hitctubashi"
+   ]
+  },
+  {
+   "name": "Jinbōchō, Tokyo",
+   "variants": [
+    "Jinbocho",
+    "Jinbcche",
+    "Jinboche",
+    "Jinbccho"
+   ]
+  },
+  {
+   "name": "Surugadai, Tokyo",
+   "variants": [
+    "Surugadai",
+    "Surugedai",
+    "Surucadai",
+    "Sururadai"
+   ]
+  },
+  {
+   "name": "Tsukiji, Tokyo",
+   "variants": [
+    "Tukiji",
+    "Tsukiji"
+   ]
+  },
+  {
+   "name": "Shimbashi, Tokyo",
+   "variants": [
+    "Shinbashi",
+    "Shimbashi",
+    "Shinbeshi"
+   ]
+  },
+  {
+   "name": "Mita, Tokyo",
+   "variants": [
+    "Mita"
+   ]
+  },
+  {
+   "name": "Ikebukuro, Tokyo",
+   "variants": [
+    "Ikebukure",
+    "Ikebulur"
+   ]
+  },
+  {
+   "name": "Ogikubo, Tokyo",
+   "variants": [
+    "Ogikubo",
+    "Cgikube"
+   ]
+  },
+  {
+   "name": "Asagaya, Tokyo",
+   "variants": [
+    "Asagaya"
+   ]
+  },
+  {
+   "name": "Kichijōji, Tokyo",
+   "variants": [
+    "Kichijoji",
+    "Kichijyoji",
+    "Kichichoji",
+    "Kichijy ji"
+   ]
+  },
+  {
+   "name": "Yoyogi, Tokyo",
+   "variants": [
+    "Yoyogi",
+    "Yeyogi",
+    "Yoycgi"
+   ]
+  },
+  {
+   "name": "Tamagawa, Tokyo",
+   "variants": [
+    "Tama-gawa",
+    "Tamagawa",
+    "Temagawa"
+   ]
+  },
+  {
+   "name": "Shakujii, Tokyo",
+   "variants": [
+    "Shakujii",
+    "Shimoshakujii"
+   ]
+  },
+  {
+   "name": "Ochanomizu, Tokyo",
+   "variants": [
+    "Surugadai"
+   ]
+  },
+  {
+   "name": "Ueno, Tokyo",
+   "variants": [
+    "Ueno",
+    "Uenosakuragicho",
+    "Ueno Park"
+   ]
+  },
+  {
+   "name": "Shiba Park, Tokyo",
+   "variants": [
+    "Shiba Park",
+    "Shiba Fark",
+    "Shiba Keen"
+   ]
+  },
+  {
+   "name": "Hibiya Park, Tokyo",
+   "variants": [
+    "Hibiyakoen",
+    "Hibiya"
+   ]
+  },
+  {
+   "name": "Mukōgaoka, Tokyo",
+   "variants": [
+    "Mukogaoka",
+    "Muko-pscke"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Howard L. Bevis",
+   "role": "President, Ohio State University",
+   "variants": [
+    "HowARD L. Bevis"
+   ]
+  },
+  {
+   "name": "John R. Price",
+   "role": "School of Journalism correspondent seeking information on the Japanese press",
+   "variants": [
+    "John R. Price",
+    "JOHN R. PRICE",
+    "Yo R. Pac"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Frank W. Schuler Jr.",
+   "role": "Associate Chief, Division of Occupied Areas",
+   "variants": [
+    "Prank Va. Schuler, Jr."
+   ]
+  },
+  {
+   "name": "Hugh Borton",
+   "role": "State Department official, Division of Northeast Asian Affairs",
+   "variants": [
+    "HugG Borton",
+    "Mr. Borton"
+   ]
+  },
+  {
+   "name": "Inko Iben",
+   "role": "Newspaper Librarian and Archivist, University of Illinois Library",
+   "variants": [
+    "Mn. Inko Iben",
+    "Mr. Inko Iben",
+    "leto Iben"
+   ]
+  },
+  {
+   "name": "John M. Allison",
+   "role": "Acting Chief, Division of Northeast Asian Affairs",
+   "variants": [
+    "John M. Allison"
+   ]
+  },
+  {
+   "name": "Saltzman",
+   "role": "State Department official",
+   "variants": [
+    "MR. SALTZMAN"
+   ]
+  },
+  {
+   "name": "R. H. Bushner",
+   "role": "official associated with despatch no. 1314",
+   "variants": [
+    "RHBushner"
+   ]
+  },
+  {
+   "name": "Haruo Tonami",
+   "role": "publisher representative",
+   "variants": [
+    "Haruo Tonami"
+   ]
+  },
+  {
+   "name": "Yonejiro Iwamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Yonejiro Iwamoto"
+   ]
+  },
+  {
+   "name": "Zenichi Kuroki",
+   "role": "publisher representative",
+   "variants": [
+    "Zenichi Kuroki"
+   ]
+  },
+  {
+   "name": "Teiji Kawakami",
+   "role": "publisher representative",
+   "variants": [
+    "Teiji Kawakami"
+   ]
+  },
+  {
+   "name": "Monju Tukaki",
+   "role": "publisher representative",
+   "variants": [
+    "Monju Tukaki"
+   ]
+  },
+  {
+   "name": "Hiroshi Tsuchiya",
+   "role": "publisher representative",
+   "variants": [
+    "Hiroshi Tuchiya"
+   ]
+  },
+  {
+   "name": "Seiichi Inoue",
+   "role": "publisher representative",
+   "variants": [
+    "Seiiti Inoue"
+   ]
+  },
+  {
+   "name": "Setsuzo Ichikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Setuzo Ichikawa"
+   ]
+  },
+  {
+   "name": "Seishi Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Seishi Yoshida"
+   ]
+  },
+  {
+   "name": "Yoshito Tatuta",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshito Tatuta"
+   ]
+  },
+  {
+   "name": "Bunmei Tsuchiya",
+   "role": "publisher representative",
+   "variants": [
+    "Bunmei Tsuchiya"
+   ]
+  },
+  {
+   "name": "Enichi Yamazaki",
+   "role": "publisher representative",
+   "variants": [
+    "Enichi Yamazaki"
+   ]
+  },
+  {
+   "name": "Tetsuo Kitahara",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsuo Kitahara",
+    "Totsuo Kitahara"
+   ]
+  },
+  {
+   "name": "Junnosuke Ogawa",
+   "role": "publisher representative",
+   "variants": [
+    "Junnosuke Ogawa"
+   ]
+  },
+  {
+   "name": "Junnosuke Omura",
+   "role": "publisher representative",
+   "variants": [
+    "Junnosuke Omura"
+   ]
+  },
+  {
+   "name": "Hisatoshi Kawasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Hisatoshi Kawasaki"
+   ]
+  },
+  {
+   "name": "Koichi Kanda",
+   "role": "publisher representative",
+   "variants": [
+    "Koichi Kanda"
+   ]
+  },
+  {
+   "name": "Kozo Asakura",
+   "role": "publisher representative",
+   "variants": [
+    "Kozo Asekure"
+   ]
+  },
+  {
+   "name": "Yutaka Mizuhara",
+   "role": "publisher representative",
+   "variants": [
+    "Yuteka Mizuhara"
+   ]
+  },
+  {
+   "name": "Kennosuke Kinbara",
+   "role": "publisher representative",
+   "variants": [
+    "Kennosuke Kinbara"
+   ]
+  },
+  {
+   "name": "Tokuzo Kizawa",
+   "role": "publisher representative",
+   "variants": [
+    "Tokuzo Kizawa"
+   ]
+  },
+  {
+   "name": "Gengi Tunokawa",
+   "role": "publisher representative",
+   "variants": [
+    "Gengi Tunokawa"
+   ]
+  },
+  {
+   "name": "Shigeo Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeo Tanaka"
+   ]
+  },
+  {
+   "name": "Yasuo Yamazaki",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuo Yamazaki"
+   ]
+  },
+  {
+   "name": "Ryotaro Kirishima",
+   "role": "publisher representative",
+   "variants": [
+    "Byotaro Kirishima"
+   ]
+  },
+  {
+   "name": "Shizuo Mizuno",
+   "role": "publisher representative",
+   "variants": [
+    "Shizuo Mizuno"
+   ]
+  },
+  {
+   "name": "Keiji Yamamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Keiji Yamamoto"
+   ]
+  },
+  {
+   "name": "Uichi Odake",
+   "role": "publisher representative",
+   "variants": [
+    "Uichi Odake"
+   ]
+  },
+  {
+   "name": "Sokuichi Kotake",
+   "role": "publisher representative",
+   "variants": [
+    "Sokuichi Kotake"
+   ]
+  },
+  {
+   "name": "Takeji Matsumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Takeji Matumoto"
+   ]
+  },
+  {
+   "name": "Takeshiro Tamura",
+   "role": "publisher representative",
+   "variants": [
+    "Takeshiro Tamura"
+   ]
+  },
+  {
+   "name": "Shigeo Kinoshita",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeo Kinoshita"
+   ]
+  },
+  {
+   "name": "Ichiro Kiyose",
+   "role": "publisher representative",
+   "variants": [
+    "Ichiro Kiyose"
+   ]
+  },
+  {
+   "name": "Yukio Horinouchi",
+   "role": "publisher representative",
+   "variants": [
+    "Yukio Horinouchi"
+   ]
+  },
+  {
+   "name": "J. Iwahori",
+   "role": "publisher representative",
+   "variants": [
+    "J. Iwahori"
+   ]
+  },
+  {
+   "name": "Noriaki Tae",
+   "role": "publisher representative",
+   "variants": [
+    "Noriaki Tae"
+   ]
+  },
+  {
+   "name": "Masato Ara",
+   "role": "publisher representative",
+   "variants": [
+    "Masato Ara"
+   ]
+  },
+  {
+   "name": "Takeo Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Takeo Kobayashi"
+   ]
+  },
+  {
+   "name": "Yoichi Nakagawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yoichi Nakakawa"
+   ]
+  },
+  {
+   "name": "Toshio Ikeda",
+   "role": "publisher representative",
+   "variants": [
+    "Toshio Ikeda"
+   ]
+  },
+  {
+   "name": "Kan Kikuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Kan Kikuchi"
+   ]
+  },
+  {
+   "name": "Tokuzo Yasutaka",
+   "role": "publisher representative",
+   "variants": [
+    "Tokuzo Yasutaka"
+   ]
+  },
+  {
+   "name": "Atsukichi Morimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Atukichi Morimoto"
+   ]
+  },
+  {
+   "name": "Kameo Mori",
+   "role": "publisher representative",
+   "variants": [
+    "Kameo Mori"
+   ]
+  },
+  {
+   "name": "Toshio Nishioka",
+   "role": "publisher representative",
+   "variants": [
+    "Toshio Nishioka"
+   ]
+  },
+  {
+   "name": "Keio Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Keio Saito"
+   ]
+  },
+  {
+   "name": "Chinji Miyashima",
+   "role": "publisher representative",
+   "variants": [
+    "Chinji Miyashima"
+   ]
+  },
+  {
+   "name": "Sumio Koriyama",
+   "role": "publisher representative",
+   "variants": [
+    "Sumio Koriyama"
+   ]
+  },
+  {
+   "name": "Eiichi Hatanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Eiichi Hatanaka"
+   ]
+  },
+  {
+   "name": "Otojiro Hinokimura",
+   "role": "publisher representative",
+   "variants": [
+    "Otojiro Hinoki-nura"
+   ]
+  },
+  {
+   "name": "Hitoshi Hirano",
+   "role": "publisher representative",
+   "variants": [
+    "Hitoshi Hirano"
+   ]
+  },
+  {
+   "name": "Tadaharu Asai",
+   "role": "publisher representative",
+   "variants": [
+    "Tadaharu Asai"
+   ]
+  },
+  {
+   "name": "Moto Shigeyama",
+   "role": "publisher representative",
+   "variants": [
+    "Moto Shigeyama"
+   ]
+  },
+  {
+   "name": "Hogai Iwakami",
+   "role": "publisher representative",
+   "variants": [
+    "Hogai Iwakami"
+   ]
+  },
+  {
+   "name": "Hajime Yamagata",
+   "role": "publisher representative",
+   "variants": [
+    "Hajime Yamagata"
+   ]
+  },
+  {
+   "name": "Toshiyasu Iwata",
+   "role": "publisher representative",
+   "variants": [
+    "Toshiyasu Iwata"
+   ]
+  },
+  {
+   "name": "Kaoru Sakurai",
+   "role": "publisher representative",
+   "variants": [
+    "Kaoru Sakurai"
+   ]
+  },
+  {
+   "name": "Munekichi Kajima",
+   "role": "publisher representative",
+   "variants": [
+    "Munekichi Kejima"
+   ]
+  },
+  {
+   "name": "Ienzo Oshima",
+   "role": "publisher representative",
+   "variants": [
+    "Ienzo Oshima"
+   ]
+  },
+  {
+   "name": "Kuni Araki",
+   "role": "publisher representative",
+   "variants": [
+    "Kuni Araki"
+   ]
+  },
+  {
+   "name": "Yasuyuki Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuyuki Suzuki"
+   ]
+  },
+  {
+   "name": "Iluzo Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Iluzc Suzuki"
+   ]
+  },
+  {
+   "name": "Hideo Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Hidec Tanaka"
+   ]
+  },
+  {
+   "name": "Tadashi Kurosu",
+   "role": "publisher representative",
+   "variants": [
+    "Tadashi Kurosu"
+   ]
+  },
+  {
+   "name": "Isamu Kamijo",
+   "role": "publisher representative",
+   "variants": [
+    "Isamu Kemijo"
+   ]
+  },
+  {
+   "name": "Nobutsuna Sasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Nobutsuna Sasaki"
+   ]
+  },
+  {
+   "name": "Akira Furuta",
+   "role": "publisher representative",
+   "variants": [
+    "Akira Furuta"
+   ]
+  },
+  {
+   "name": "Teye Chikura",
+   "role": "publisher representative",
+   "variants": [
+    "Teye Chilura"
+   ]
+  },
+  {
+   "name": "Tsunesuke Takagi",
+   "role": "publisher representative",
+   "variants": [
+    "Tsunesuke Takagi"
+   ]
+  },
+  {
+   "name": "Toyozo Nakai",
+   "role": "publisher representative",
+   "variants": [
+    "Toyozo Nakai"
+   ]
+  },
+  {
+   "name": "Gozo Uchida",
+   "role": "publisher representative",
+   "variants": [
+    "Gczo Uchida"
+   ]
+  },
+  {
+   "name": "Noboru Ikeda",
+   "role": "publisher representative",
+   "variants": [
+    "Noboru Ikeda"
+   ]
+  },
+  {
+   "name": "Tetsuzo Takashina",
+   "role": "publisher representative",
+   "variants": [
+    "Tetuze Takashina"
+   ]
+  },
+  {
+   "name": "Sotaro Naeshiro",
+   "role": "publisher representative",
+   "variants": [
+    "Scitare Naeshiro"
+   ]
+  },
+  {
+   "name": "Yoshio Sakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshic Sakamura"
+   ]
+  },
+  {
+   "name": "Kin Kei Tan",
+   "role": "publisher representative",
+   "variants": [
+    "Kin Kci Tan"
+   ]
+  },
+  {
+   "name": "Tekinosuke Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Tekinosuke No kamura"
+   ]
+  },
+  {
+   "name": "Hasanao Takizawa",
+   "role": "publisher representative",
+   "variants": [
+    "Hasanao Takizawa"
+   ]
+  },
+  {
+   "name": "Kaseki Takeuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Kaseki Tokeuchi",
+    "Kaseki Takeuchi"
+   ]
+  },
+  {
+   "name": "Yasuji Kariya",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuji Kariya"
+   ]
+  },
+  {
+   "name": "Tadashi Takeuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Tdashi Takeuchi"
+   ]
+  },
+  {
+   "name": "Tetsuei Iizuka",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsuei Iizuka"
+   ]
+  },
+  {
+   "name": "Hisatsune Iida",
+   "role": "publisher representative",
+   "variants": [
+    "Hisatsune Iida"
+   ]
+  },
+  {
+   "name": "Nozuru Nakagawa",
+   "role": "publisher representative",
+   "variants": [
+    "Nozuru Nakagawa"
+   ]
+  },
+  {
+   "name": "Tokinosuke Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Tokinosuke Nakamura"
+   ]
+  },
+  {
+   "name": "Yusaku Shimanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Yusaku Shimanaka"
+   ]
+  },
+  {
+   "name": "Yasuichi Hara",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuichi Hare"
+   ]
+  },
+  {
+   "name": "Sakuhei Fujiwara",
+   "role": "publisher representative",
+   "variants": [
+    "Sakuhei Fujiwara"
+   ]
+  },
+  {
+   "name": "Asaji Akagi",
+   "role": "publisher representative",
+   "variants": [
+    "Aseji Akagi"
+   ]
+  },
+  {
+   "name": "Sakuzo Uchino",
+   "role": "publisher representative",
+   "variants": [
+    "Saluzo Uchino"
+   ]
+  },
+  {
+   "name": "Gizaburo Shinyama",
+   "role": "publisher representative",
+   "variants": [
+    "Gizaburo Shincyama"
+   ]
+  },
+  {
+   "name": "Kenzo Aoyama",
+   "role": "publisher representative",
+   "variants": [
+    "Kenze Acyama"
+   ]
+  },
+  {
+   "name": "Ichiro Tsuneoka",
+   "role": "publisher representative",
+   "variants": [
+    "Ichirc Tsunecka"
+   ]
+  },
+  {
+   "name": "Torao Kamei",
+   "role": "publisher representative",
+   "variants": [
+    "Tcrao Kamei",
+    "Torac Kamei",
+    "Torao Kamei"
+   ]
+  },
+  {
+   "name": "Yoshio Shima",
+   "role": "publisher representative",
+   "variants": [
+    "Yeshic Shima"
+   ]
+  },
+  {
+   "name": "Shinzo Sakamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Shinze Sakanoto"
+   ]
+  },
+  {
+   "name": "Kazue Furumi",
+   "role": "publisher representative",
+   "variants": [
+    "Kazue Furuni"
+   ]
+  },
+  {
+   "name": "Teizo Toda",
+   "role": "publisher representative",
+   "variants": [
+    "Teize Teda"
+   ]
+  },
+  {
+   "name": "Takeo Murakeshi",
+   "role": "publisher representative",
+   "variants": [
+    "Takec Murakeshi"
+   ]
+  },
+  {
+   "name": "Shigeyo Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeye Tanaka"
+   ]
+  },
+  {
+   "name": "Tetsuya Uemura",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsuya Uemura"
+   ]
+  },
+  {
+   "name": "Katsunari Kurita",
+   "role": "publisher representative",
+   "variants": [
+    "Katsunari Kurita"
+   ]
+  },
+  {
+   "name": "Bunzo Shimura",
+   "role": "publisher representative",
+   "variants": [
+    "Bunzo Shirura"
+   ]
+  },
+  {
+   "name": "Tokayuku Senguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Tokayuku Sengu-chi"
+   ]
+  },
+  {
+   "name": "Shinji Otsubo",
+   "role": "publisher representative",
+   "variants": [
+    "Shinji Otsubc"
+   ]
+  },
+  {
+   "name": "Kiyoshi Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Kiycshi Tanaka"
+   ]
+  },
+  {
+   "name": "Sho Takeda",
+   "role": "publisher representative",
+   "variants": [
+    "Sho Takeda"
+   ]
+  },
+  {
+   "name": "Teisaburo Sekiya",
+   "role": "publisher representative",
+   "variants": [
+    "Teiscburo Sekiya"
+   ]
+  },
+  {
+   "name": "Shoji Arai",
+   "role": "publisher representative",
+   "variants": [
+    "Sheji Arai",
+    "Shoji Arai"
+   ]
+  },
+  {
+   "name": "Harushige Ninomiya",
+   "role": "publisher representative",
+   "variants": [
+    "Harushige Nino-riya",
+    "Harushige Nino-miya"
+   ]
+  },
+  {
+   "name": "Kinji Satuta",
+   "role": "publisher representative",
+   "variants": [
+    "Kinji Satuta"
+   ]
+  },
+  {
+   "name": "Ryukichi Sekiya",
+   "role": "publisher representative",
+   "variants": [
+    "Ryukichi Sekiya"
+   ]
+  },
+  {
+   "name": "Takehachi Nishiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Talkehachi Nishi-yame"
+   ]
+  },
+  {
+   "name": "Fujitaro Murakami",
+   "role": "publisher representative",
+   "variants": [
+    "Fujitarc Luraka-mi"
+   ]
+  },
+  {
+   "name": "Katsuzo Nishi",
+   "role": "publisher representative",
+   "variants": [
+    "Katsuzc Nishi"
+   ]
+  },
+  {
+   "name": "Keijiro Asabu",
+   "role": "publisher representative",
+   "variants": [
+    "Keijirc Asabu"
+   ]
+  },
+  {
+   "name": "Yuichiro Sugiyara",
+   "role": "publisher representative",
+   "variants": [
+    "Yuichiro Sugiyara"
+   ]
+  },
+  {
+   "name": "Ichiro Sonobe",
+   "role": "publisher representative",
+   "variants": [
+    "Ichiro Sonobe"
+   ]
+  },
+  {
+   "name": "Gosuke Imai",
+   "role": "publisher representative",
+   "variants": [
+    "Cosuke Inai"
+   ]
+  },
+  {
+   "name": "Kisaburo Ando",
+   "role": "publisher representative",
+   "variants": [
+    "Kisabure Ando"
+   ]
+  },
+  {
+   "name": "Tetsuo Nosose",
+   "role": "publisher representative",
+   "variants": [
+    "Tctsuo Nosose"
+   ]
+  },
+  {
+   "name": "Kaneo Nagasaka",
+   "role": "publisher representative",
+   "variants": [
+    "Kaneo Nagasaka"
+   ]
+  },
+  {
+   "name": "Keigo Koyama",
+   "role": "publisher representative",
+   "variants": [
+    "Keigo Keyana"
+   ]
+  },
+  {
+   "name": "Jisuke Kubota",
+   "role": "publisher representative",
+   "variants": [
+    "Jisuke Kubcta"
+   ]
+  },
+  {
+   "name": "Kiyoritsu Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyoritsu Sato"
+   ]
+  },
+  {
+   "name": "Yanematsu Mitsui",
+   "role": "publisher representative",
+   "variants": [
+    "Y nerv tsu Yitsui"
+   ]
+  },
+  {
+   "name": "Kanichi Yamanobe",
+   "role": "publisher representative",
+   "variants": [
+    "Kanichi Yamanobe"
+   ]
+  },
+  {
+   "name": "Sentaro Suehiro",
+   "role": "publisher representative",
+   "variants": [
+    "Centarc Suehiro"
+   ]
+  },
+  {
+   "name": "Nichigen Otsuka",
+   "role": "publisher representative",
+   "variants": [
+    "Nichigen Otsuka"
+   ]
+  },
+  {
+   "name": "Kenzo Takayanagi",
+   "role": "publisher representative",
+   "variants": [
+    "Kenze Takayanagi"
+   ]
+  },
+  {
+   "name": "Seitaro Kubota",
+   "role": "publisher representative",
+   "variants": [
+    "Scitarc Kubcta"
+   ]
+  },
+  {
+   "name": "Hanzaburo Matsuzaki",
+   "role": "publisher representative",
+   "variants": [
+    "Hanzaburo Matsu-zali"
+   ]
+  },
+  {
+   "name": "Seiichi Nona",
+   "role": "publisher representative",
+   "variants": [
+    "Seiichi Nona"
+   ]
+  },
+  {
+   "name": "Kasaku Fujii",
+   "role": "publisher representative",
+   "variants": [
+    "Kasaku Fujii"
+   ]
+  },
+  {
+   "name": "Hitoshi Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Hitoshi Saito"
+   ]
+  },
+  {
+   "name": "Taneji Hakosa",
+   "role": "publisher representative",
+   "variants": [
+    "Taneji Hakosa"
+   ]
+  },
+  {
+   "name": "Hisaharu Tsuchiya",
+   "role": "publisher representative",
+   "variants": [
+    "Hisaharu Tsu-chiya"
+   ]
+  },
+  {
+   "name": "Tadao Iwano",
+   "role": "publisher representative",
+   "variants": [
+    "Tadao Iwanc"
+   ]
+  },
+  {
+   "name": "Ryuhichi Nosaki",
+   "role": "publisher representative",
+   "variants": [
+    "Ryuhichi Nosaki"
+   ]
+  },
+  {
+   "name": "Sakae Oda",
+   "role": "publisher representative",
+   "variants": [
+    "Sakae Oda"
+   ]
+  },
+  {
+   "name": "Tatsuo Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Tatsuo Yeshida"
+   ]
+  },
+  {
+   "name": "Risaburo Ugai",
+   "role": "publisher representative",
+   "variants": [
+    "Risaburo Ugai"
+   ]
+  },
+  {
+   "name": "Sadahiko Hattori",
+   "role": "publisher representative",
+   "variants": [
+    "Sadahiko Hattori"
+   ]
+  },
+  {
+   "name": "Ichiro Ishikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Ichiro Ishikawa",
+    "Ichiro Ishikawe"
+   ]
+  },
+  {
+   "name": "Suigeru Nori",
+   "role": "publisher representative",
+   "variants": [
+    "Suiaeru Nori"
+   ]
+  },
+  {
+   "name": "Hiroji Koge",
+   "role": "publisher representative",
+   "variants": [
+    "Hireji Koge"
+   ]
+  },
+  {
+   "name": "Ryuji Nakayana",
+   "role": "publisher representative",
+   "variants": [
+    "Ryuji Nakayana"
+   ]
+  },
+  {
+   "name": "Kasaji Heshiai",
+   "role": "publisher representative",
+   "variants": [
+    "Kasaji Heshial"
+   ]
+  },
+  {
+   "name": "Toyo Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Teyo Tanake"
+   ]
+  },
+  {
+   "name": "Takenosuke Kinoshita",
+   "role": "publisher representative",
+   "variants": [
+    "Takenc suke Kinoshita"
+   ]
+  },
+  {
+   "name": "Kusuji Kondo",
+   "role": "publisher representative",
+   "variants": [
+    "Kusuji Kondco"
+   ]
+  },
+  {
+   "name": "Teruo Kishima",
+   "role": "publisher representative",
+   "variants": [
+    "Teruc Kishima"
+   ]
+  },
+  {
+   "name": "Yoshisuke Matsumura",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshisuke Matsurure"
+   ]
+  },
+  {
+   "name": "Yuuko Isobe",
+   "role": "publisher representative",
+   "variants": [
+    "Yuuko Isobe"
+   ]
+  },
+  {
+   "name": "Ryozo Fujimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Ryoze Fujircto"
+   ]
+  },
+  {
+   "name": "Osaru Kawasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Csaru Kawasaki"
+   ]
+  },
+  {
+   "name": "Rihachiro Hanamura",
+   "role": "publisher representative",
+   "variants": [
+    "Lihachire Hana-rura"
+   ]
+  },
+  {
+   "name": "Sumiko Kudo",
+   "role": "publisher representative",
+   "variants": [
+    "Sumike Kude"
+   ]
+  },
+  {
+   "name": "Oshio Taira",
+   "role": "publisher representative",
+   "variants": [
+    "Oshio Taira"
+   ]
+  },
+  {
+   "name": "Fujire Arake",
+   "role": "publisher representative",
+   "variants": [
+    "Fujire Arake"
+   ]
+  },
+  {
+   "name": "Takejiro Otani",
+   "role": "publisher representative",
+   "variants": [
+    "Takejiro Otani"
+   ]
+  },
+  {
+   "name": "Toriji Kaneko",
+   "role": "publisher representative",
+   "variants": [
+    "Toriji Kaneko"
+   ]
+  },
+  {
+   "name": "Keishiro Hinata",
+   "role": "publisher representative",
+   "variants": [
+    "Leishiro Hinata"
+   ]
+  },
+  {
+   "name": "Shigeyuki Kitaura",
+   "role": "publisher representative",
+   "variants": [
+    "Chigeyuki Kitaura"
+   ]
+  },
+  {
+   "name": "Seiichi Imai",
+   "role": "publisher representative",
+   "variants": [
+    "Seiichi Inai"
+   ]
+  },
+  {
+   "name": "Yoichi Asami",
+   "role": "publisher representative",
+   "variants": [
+    "Ychichi Asami"
+   ]
+  },
+  {
+   "name": "Takuji Kodama",
+   "role": "publisher representative",
+   "variants": [
+    "Takuji Kodana"
+   ]
+  },
+  {
+   "name": "Goro Yamada",
+   "role": "publisher representative",
+   "variants": [
+    "Goro Yamada"
+   ]
+  },
+  {
+   "name": "Haruhiko Kimura",
+   "role": "publisher representative",
+   "variants": [
+    "Haruhiko Kimura"
+   ]
+  },
+  {
+   "name": "Tuno Yatsubayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Tuno Yatsubaya-shi"
+   ]
+  },
+  {
+   "name": "Haruichi Katayama",
+   "role": "publisher representative",
+   "variants": [
+    "Haruichi Katayama"
+   ]
+  },
+  {
+   "name": "Temizo Ozawa",
+   "role": "publisher representative",
+   "variants": [
+    "Tenizc Ozewa"
+   ]
+  },
+  {
+   "name": "Yoshihei Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshihei Suzuki"
+   ]
+  },
+  {
+   "name": "Yoshichi Hani",
+   "role": "publisher representative",
+   "variants": [
+    "Ycshichi Hani"
+   ]
+  },
+  {
+   "name": "Tsuneo Morikita",
+   "role": "publisher representative",
+   "variants": [
+    "Tsuneo Morikite"
+   ]
+  },
+  {
+   "name": "Seiichi Kondo",
+   "role": "publisher representative",
+   "variants": [
+    "Seiichi Kondo"
+   ]
+  },
+  {
+   "name": "Shichiro Arai",
+   "role": "publisher representative",
+   "variants": [
+    "Shichiro Arai"
+   ]
+  },
+  {
+   "name": "Sachio Fujiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Sachio Fujiyana"
+   ]
+  },
+  {
+   "name": "Hatsutaro Fukumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Hatsutaro Fuku-moto"
+   ]
+  },
+  {
+   "name": "Tanetu Fukumura",
+   "role": "publisher representative",
+   "variants": [
+    "Tanctu Fukunura"
+   ]
+  },
+  {
+   "name": "Takeo Araki",
+   "role": "publisher representative",
+   "variants": [
+    "Takee Araki"
+   ]
+  },
+  {
+   "name": "Tetsunosuke Hirukawa",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsunosuke Hirukawa"
+   ]
+  },
+  {
+   "name": "Yukio Michise",
+   "role": "publisher representative",
+   "variants": [
+    "Yukic Michise"
+   ]
+  },
+  {
+   "name": "Nori Funakawa",
+   "role": "publisher representative",
+   "variants": [
+    "Nori Funakawa"
+   ]
+  },
+  {
+   "name": "Yoshio Miyao",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshic Miyao"
+   ]
+  },
+  {
+   "name": "Katsu Yoshiya",
+   "role": "publisher representative",
+   "variants": [
+    "Katsu Yoshiya"
+   ]
+  },
+  {
+   "name": "Mitsuo Katsuta",
+   "role": "publisher representative",
+   "variants": [
+    "Mitsuc Katsuta"
+   ]
+  },
+  {
+   "name": "Furuta Junzo",
+   "role": "publisher or proprietor",
+   "variants": [
+    "FURUTA JUNZO"
+   ]
+  },
+  {
+   "name": "Yoshiza Shimizu",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshiz Shinizu"
+   ]
+  },
+  {
+   "name": "Tokiharu Ugai",
+   "role": "publisher representative",
+   "variants": [
+    "Tekiharu Ugai"
+   ]
+  },
+  {
+   "name": "Harusuke Ono",
+   "role": "publisher representative",
+   "variants": [
+    "Harusuke Ono"
+   ]
+  },
+  {
+   "name": "Gunjire Toriuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Gunjire Toriuchi"
+   ]
+  },
+  {
+   "name": "Horimasa Sokareto",
+   "role": "publisher representative",
+   "variants": [
+    "Horinasa Sokareto"
+   ]
+  },
+  {
+   "name": "Takeo Komure",
+   "role": "publisher representative",
+   "variants": [
+    "Take te Korure"
+   ]
+  },
+  {
+   "name": "Takuzo Ishimura",
+   "role": "publisher representative",
+   "variants": [
+    "Takuze Ishirura"
+   ]
+  },
+  {
+   "name": "Yoshiya Nakasu",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshiya Nakgsu"
+   ]
+  },
+  {
+   "name": "Tatsugoro Nishimura",
+   "role": "publisher representative",
+   "variants": [
+    "Tatsugorc Nishi-murc"
+   ]
+  },
+  {
+   "name": "Tatsuhiko Nakano",
+   "role": "publisher representative",
+   "variants": [
+    "Tatsuhiko Nekano"
+   ]
+  },
+  {
+   "name": "Hajime Hatano",
+   "role": "publisher representative",
+   "variants": [
+    "Hajime Hatano"
+   ]
+  },
+  {
+   "name": "Koichi Narita",
+   "role": "publisher representative",
+   "variants": [
+    "N ichi Narita"
+   ]
+  },
+  {
+   "name": "Kunizo Hara",
+   "role": "publisher representative",
+   "variants": [
+    "Kunizo Hara"
+   ]
+  },
+  {
+   "name": "Junzo Ishii",
+   "role": "publisher representative",
+   "variants": [
+    "Junzo Ishii"
+   ]
+  },
+  {
+   "name": "Atsujiro Oyama",
+   "role": "publisher representative",
+   "variants": [
+    "Atsujiro Oyana"
+   ]
+  },
+  {
+   "name": "Tomitsu Maemoto",
+   "role": "publisher representative",
+   "variants": [
+    "Tonitsu Maemoto"
+   ]
+  },
+  {
+   "name": "Shoshiro Kotachi",
+   "role": "publisher representative",
+   "variants": [
+    "Shoshiro Kotachi"
+   ]
+  },
+  {
+   "name": "Hisamichi Uchida",
+   "role": "publisher representative",
+   "variants": [
+    "Hisamichi Uchi-da"
+   ]
+  },
+  {
+   "name": "Takekichi Miki",
+   "role": "publisher representative",
+   "variants": [
+    "Takekichi Miki"
+   ]
+  },
+  {
+   "name": "Shinzo Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Shinzc Suzuki"
+   ]
+  },
+  {
+   "name": "Kurimatsu Tokoro",
+   "role": "publisher representative",
+   "variants": [
+    "Kurimatsu Tckoro"
+   ]
+  },
+  {
+   "name": "Reiichi Shimizu",
+   "role": "publisher representative",
+   "variants": [
+    "Reiichi Shimizu"
+   ]
+  },
+  {
+   "name": "Ryusuke Dainichi",
+   "role": "publisher representative",
+   "variants": [
+    "Ryusuke Dainichi"
+   ]
+  },
+  {
+   "name": "Mitsuki Ichikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Mitsuki Ichiltawa"
+   ]
+  },
+  {
+   "name": "Tatso Minami",
+   "role": "publisher representative",
+   "variants": [
+    "Tatso Minami"
+   ]
+  },
+  {
+   "name": "Tatsunosuke Tashima",
+   "role": "publisher representative",
+   "variants": [
+    "Tatsunosuke Tashina"
+   ]
+  },
+  {
+   "name": "Takeshi Kani",
+   "role": "publisher representative",
+   "variants": [
+    "Takeshi Kani"
+   ]
+  },
+  {
+   "name": "Zenji Hayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Zenji Hayashi"
+   ]
+  },
+  {
+   "name": "Tatsuzo Ito",
+   "role": "publisher representative",
+   "variants": [
+    "Tatsuze Itch"
+   ]
+  },
+  {
+   "name": "Kazuo Hagiwara",
+   "role": "publisher representative",
+   "variants": [
+    "Kazuc Hagiwera"
+   ]
+  },
+  {
+   "name": "Aiichiro Fujiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Aiichire Fujiyeme"
+   ]
+  },
+  {
+   "name": "Masaki Kanaike",
+   "role": "publisher representative",
+   "variants": [
+    "Masaki Kanaike"
+   ]
+  },
+  {
+   "name": "Masao Takeshita",
+   "role": "publisher representative",
+   "variants": [
+    "Masac Takeshita"
+   ]
+  },
+  {
+   "name": "Shinichi Ohashi",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichi Ohashi"
+   ]
+  },
+  {
+   "name": "Tadao Yoshima",
+   "role": "publisher representative",
+   "variants": [
+    "Tadao Yoshira"
+   ]
+  },
+  {
+   "name": "Yokichi Masunaga",
+   "role": "publisher representative",
+   "variants": [
+    "Yokichi Masuna-ga"
+   ]
+  },
+  {
+   "name": "Yozo Maeda",
+   "role": "publisher representative",
+   "variants": [
+    "Yozo Maeda"
+   ]
+  },
+  {
+   "name": "Yenokichi Hiraiwa",
+   "role": "publisher representative",
+   "variants": [
+    "Yenckichi Hira-iwa"
+   ]
+  },
+  {
+   "name": "Masatoshi Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Masatoshi Nakenura"
+   ]
+  },
+  {
+   "name": "Sadayuki Kusano",
+   "role": "publisher representative",
+   "variants": [
+    "Sadayuki Kusano"
+   ]
+  },
+  {
+   "name": "Ginratu Okumura",
+   "role": "publisher representative",
+   "variants": [
+    "Ginratu Ckumura"
+   ]
+  },
+  {
+   "name": "Kinichiro Oya",
+   "role": "publisher representative",
+   "variants": [
+    "Kinichiro Cya"
+   ]
+  },
+  {
+   "name": "Tokujiro Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Tokujiro Naka-mura"
+   ]
+  },
+  {
+   "name": "Isaburo Toyama",
+   "role": "publisher representative",
+   "variants": [
+    "I sabure Teyana"
+   ]
+  },
+  {
+   "name": "Asanosuke Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "a sanosuke Nakamura"
+   ]
+  },
+  {
+   "name": "Kiyoshi Hayakawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyoshi Hayakawa"
+   ]
+  },
+  {
+   "name": "Hideo Hanamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Hidec Hnanoto"
+   ]
+  },
+  {
+   "name": "Yasuge Tando",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuge Tando"
+   ]
+  },
+  {
+   "name": "Kenjiro Yamashita",
+   "role": "publisher representative",
+   "variants": [
+    "Kenjiro Yanashita"
+   ]
+  },
+  {
+   "name": "Yoshioki Shiraishi",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshicki Shira-ishi"
+   ]
+  },
+  {
+   "name": "Michinari Habu",
+   "role": "publisher representative",
+   "variants": [
+    "Michinari Habu"
+   ]
+  },
+  {
+   "name": "Daiyoku Usui",
+   "role": "publisher representative",
+   "variants": [
+    "Daiy ku Usui"
+   ]
+  },
+  {
+   "name": "Takeo Yamasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Takeo Yanasaki"
+   ]
+  },
+  {
+   "name": "Shokichi Onuma",
+   "role": "publisher representative",
+   "variants": [
+    "Shokichi Cnuma"
+   ]
+  },
+  {
+   "name": "Yasaburo Shironaka",
+   "role": "publisher representative",
+   "variants": [
+    "Yasabure Shi-ronaka"
+   ]
+  },
+  {
+   "name": "Itushi Nonomi",
+   "role": "publisher representative",
+   "variants": [
+    "Itushi Nonomi"
+   ]
+  },
+  {
+   "name": "Kinji Watanabe",
+   "role": "publisher representative",
+   "variants": [
+    "Kinji Watanabe"
+   ]
+  },
+  {
+   "name": "Tetsuzo Tsukamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Tctsuzc Tsukaro-to"
+   ]
+  },
+  {
+   "name": "Hisajiro Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Hisajirc Suzuki"
+   ]
+  },
+  {
+   "name": "Kyo Kato",
+   "role": "publisher representative",
+   "variants": [
+    "Kyo Kato"
+   ]
+  },
+  {
+   "name": "Konji Iwata",
+   "role": "publisher representative",
+   "variants": [
+    "Kcnji Iwata"
+   ]
+  },
+  {
+   "name": "Yuichi Kuniya",
+   "role": "publisher representative",
+   "variants": [
+    "Yuichi Kuniya"
+   ]
+  },
+  {
+   "name": "Hikosaku Hirose",
+   "role": "publisher representative",
+   "variants": [
+    "Fikos ku Hirese"
+   ]
+  },
+  {
+   "name": "Katuyashi Dohi",
+   "role": "publisher representative",
+   "variants": [
+    "Katuyashi Dohi"
+   ]
+  },
+  {
+   "name": "Keiichi Nakahara",
+   "role": "publisher representative",
+   "variants": [
+    "Keiichi Nakahara"
+   ]
+  },
+  {
+   "name": "Hajime Mori",
+   "role": "publisher representative",
+   "variants": [
+    "Hajine Mori"
+   ]
+  },
+  {
+   "name": "Chiyokichi Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Chiyckichi Suzuki"
+   ]
+  },
+  {
+   "name": "Yohei Sugaya",
+   "role": "publisher representative",
+   "variants": [
+    "Yohei Sugaya"
+   ]
+  },
+  {
+   "name": "Furio Niijima",
+   "role": "publisher representative",
+   "variants": [
+    "Furio Niijina"
+   ]
+  },
+  {
+   "name": "Hisaji Chiba",
+   "role": "publisher representative",
+   "variants": [
+    "Hisaji Chba"
+   ]
+  },
+  {
+   "name": "Hajime Kashima",
+   "role": "publisher representative",
+   "variants": [
+    "Hajime Kashina"
+   ]
+  },
+  {
+   "name": "Shoichi Midero",
+   "role": "publisher representative",
+   "variants": [
+    "Shoichi Midcro"
+   ]
+  },
+  {
+   "name": "Kanko Takimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kanko Takinoto"
+   ]
+  },
+  {
+   "name": "Gentaro Suehiro",
+   "role": "publisher representative",
+   "variants": [
+    "Gentare Suehiro"
+   ]
+  },
+  {
+   "name": "Tomoyuki Suda",
+   "role": "publisher representative",
+   "variants": [
+    "Tonoyuki Suda"
+   ]
+  },
+  {
+   "name": "Sanryo Yamada",
+   "role": "publisher representative",
+   "variants": [
+    "Sanryc Yamada",
+    "Sanryo Yamada"
+   ]
+  },
+  {
+   "name": "Hatsutaro Yamagata",
+   "role": "publisher representative",
+   "variants": [
+    "Hatsutaro Yana-gata"
+   ]
+  },
+  {
+   "name": "Shigezo Maeda",
+   "role": "publisher representative",
+   "variants": [
+    "Shigezo Maeda"
+   ]
+  },
+  {
+   "name": "Ryotaro Fukuda",
+   "role": "publisher representative",
+   "variants": [
+    "Ryctaro Fuluda",
+    "Nyotare Fukuda"
+   ]
+  },
+  {
+   "name": "Shin Hidejima",
+   "role": "publisher representative",
+   "variants": [
+    "Shin Hidejina"
+   ]
+  },
+  {
+   "name": "Yoshibumi Kinoshita",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshibuni Kino-shita"
+   ]
+  },
+  {
+   "name": "Denko Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Denko Nokerura"
+   ]
+  },
+  {
+   "name": "Toku Tachibana",
+   "role": "publisher representative",
+   "variants": [
+    "Toku Tachibana"
+   ]
+  },
+  {
+   "name": "Genichi Okazaki",
+   "role": "publisher representative",
+   "variants": [
+    "Genichi Ckazaki"
+   ]
+  },
+  {
+   "name": "Shinichiro Mori",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichiro Mori"
+   ]
+  },
+  {
+   "name": "Kotaro Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Kotaro Tanaka"
+   ]
+  },
+  {
+   "name": "En Akaba",
+   "role": "publisher representative",
+   "variants": [
+    "En Akaba"
+   ]
+  },
+  {
+   "name": "Kiyoshi Takehama",
+   "role": "publisher representative",
+   "variants": [
+    "Kiy shi Take-hama"
+   ]
+  },
+  {
+   "name": "Mataichiro Koike",
+   "role": "publisher representative",
+   "variants": [
+    "Mataichire Koike"
+   ]
+  },
+  {
+   "name": "Jinshiro Murakami",
+   "role": "publisher representative",
+   "variants": [
+    "Jinshirc Murakami"
+   ]
+  },
+  {
+   "name": "Ichiro Koyama",
+   "role": "publisher representative",
+   "variants": [
+    "Ichire Keyame"
+   ]
+  },
+  {
+   "name": "Shiro Kinbara",
+   "role": "publisher representative",
+   "variants": [
+    "Shire Kinbara"
+   ]
+  },
+  {
+   "name": "Kyugero Oi",
+   "role": "publisher representative",
+   "variants": [
+    "Kgugere Ci"
+   ]
+  },
+  {
+   "name": "Takeshi Daigo",
+   "role": "publisher representative",
+   "variants": [
+    "Takeshi Daige"
+   ]
+  },
+  {
+   "name": "Hideo Hattori",
+   "role": "publisher representative",
+   "variants": [
+    "Hideo Hattri"
+   ]
+  },
+  {
+   "name": "Kakutaro Shibayama",
+   "role": "publisher representative",
+   "variants": [
+    "Kakutaro Shiba-y na"
+   ]
+  },
+  {
+   "name": "Iyoji Fukazawa",
+   "role": "publisher representative",
+   "variants": [
+    "Iycji Fukazawa"
+   ]
+  },
+  {
+   "name": "Goro Hasuya",
+   "role": "publisher representative",
+   "variants": [
+    "Gere Hasuya"
+   ]
+  },
+  {
+   "name": "Seiji Yoshikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Sciji Yshikawa",
+    "Seiji Ycshikawa"
+   ]
+  },
+  {
+   "name": "Jyo Takaoka",
+   "role": "publisher representative",
+   "variants": [
+    "Jyo Takacka"
+   ]
+  },
+  {
+   "name": "Nareo Ito",
+   "role": "publisher representative",
+   "variants": [
+    "Nareo Itch"
+   ]
+  },
+  {
+   "name": "Yataro Iwai",
+   "role": "publisher representative",
+   "variants": [
+    "Yatarc Iwai"
+   ]
+  },
+  {
+   "name": "Shigeo Iwanami",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeo Iwanani"
+   ]
+  },
+  {
+   "name": "Katura Shimizu",
+   "role": "publisher representative",
+   "variants": [
+    "Katura Shirizu"
+   ]
+  },
+  {
+   "name": "Noburu Watanabe",
+   "role": "publisher representative",
+   "variants": [
+    "Ncbur Watanabe"
+   ]
+  },
+  {
+   "name": "Mino Uchida",
+   "role": "publisher representative",
+   "variants": [
+    "Vino Uchida"
+   ]
+  },
+  {
+   "name": "Sejiro Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Sejirc Scite"
+   ]
+  },
+  {
+   "name": "Kunio Hasegawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kunic Hasogawa"
+   ]
+  },
+  {
+   "name": "Ken Hosoi",
+   "role": "publisher representative",
+   "variants": [
+    "Ken Hosoi"
+   ]
+  },
+  {
+   "name": "Shichiro Endo",
+   "role": "publisher representative",
+   "variants": [
+    "Shichiro Ende"
+   ]
+  },
+  {
+   "name": "Keitaro Sawa",
+   "role": "publisher representative",
+   "variants": [
+    "Keitare Sawa",
+    "Keitarc Sawa"
+   ]
+  },
+  {
+   "name": "Toyonaga Horikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Teyonage Horikawa"
+   ]
+  },
+  {
+   "name": "Meiko Imamura",
+   "role": "publisher representative",
+   "variants": [
+    "Meiko Irarura"
+   ]
+  },
+  {
+   "name": "Yoshihiko Masuda",
+   "role": "publisher representative",
+   "variants": [
+    "Yeshihiko Masuda"
+   ]
+  },
+  {
+   "name": "Yosuke Nakagawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yosuke Nakagawa"
+   ]
+  },
+  {
+   "name": "Horiya Emeri",
+   "role": "publisher representative",
+   "variants": [
+    "Hcriya Eneri"
+   ]
+  },
+  {
+   "name": "Noriichi Ogino",
+   "role": "publisher representative",
+   "variants": [
+    "Loriichi Ogino"
+   ]
+  },
+  {
+   "name": "Yoshiya Kitani",
+   "role": "publisher representative",
+   "variants": [
+    "Ycshiya Kitani"
+   ]
+  },
+  {
+   "name": "Shogo Kano",
+   "role": "publisher representative",
+   "variants": [
+    "Shego Kano"
+   ]
+  },
+  {
+   "name": "Mitsuko Kawate",
+   "role": "publisher representative",
+   "variants": [
+    "Mitsuko Kawate"
+   ]
+  },
+  {
+   "name": "Shuichi Takahashi",
+   "role": "publisher representative",
+   "variants": [
+    "Shuichi Taka-hashi"
+   ]
+  },
+  {
+   "name": "Takashi Oizumi",
+   "role": "publisher representative",
+   "variants": [
+    "Takashi Cizuni"
+   ]
+  },
+  {
+   "name": "Kenichiro Kamei",
+   "role": "publisher representative",
+   "variants": [
+    "Kenichire Kanei"
+   ]
+  },
+  {
+   "name": "Shuntaro Kitazato",
+   "role": "publisher representative",
+   "variants": [
+    "Shuntaro Kitazato"
+   ]
+  },
+  {
+   "name": "Roku Adachi",
+   "role": "publisher representative",
+   "variants": [
+    "Roku Adachi"
+   ]
+  },
+  {
+   "name": "Yahei Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Yahei Sato"
+   ]
+  },
+  {
+   "name": "Tomatsu Hiraoka",
+   "role": "publisher representative",
+   "variants": [
+    "Tom tsu Hiracka"
+   ]
+  },
+  {
+   "name": "Shigeo Sasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Shigcc Sascki",
+    "Shigeo Sasaki"
+   ]
+  },
+  {
+   "name": "Nao Goto",
+   "role": "publisher representative",
+   "variants": [
+    "Nao Goto"
+   ]
+  },
+  {
+   "name": "Yoshio Ogawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yo shic Caewa"
+   ]
+  },
+  {
+   "name": "Miyamoto",
+   "role": "publisher representative; given name not legible",
+   "variants": [
+    "Viyaneto"
+   ]
+  },
+  {
+   "name": "Choji Kurameto",
+   "role": "publisher representative",
+   "variants": [
+    "Choji Kurameto"
+   ]
+  },
+  {
+   "name": "Keikichi Kofunai",
+   "role": "publisher representative",
+   "variants": [
+    "Keikichi Kofunai"
+   ]
+  },
+  {
+   "name": "Morikichi Shinpo",
+   "role": "publisher representative",
+   "variants": [
+    "Merikichi Shinpo"
+   ]
+  },
+  {
+   "name": "Hichiro Fukao",
+   "role": "publisher representative",
+   "variants": [
+    "Hichiro Fukao"
+   ]
+  },
+  {
+   "name": "Shingo Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Shingc Saito"
+   ]
+  },
+  {
+   "name": "Shizue Aoyama",
+   "role": "publisher representative",
+   "variants": [
+    "Shizue Acyere"
+   ]
+  },
+  {
+   "name": "Tetue Shirohashi",
+   "role": "publisher representative",
+   "variants": [
+    "Tetue Shirchashi"
+   ]
+  },
+  {
+   "name": "Narae Nishino",
+   "role": "publisher representative",
+   "variants": [
+    "Narae Nishinc"
+   ]
+  },
+  {
+   "name": "Genzaburo Imamura",
+   "role": "publisher representative",
+   "variants": [
+    "Genzaburc Irarura",
+    "Genzaburo Ira-mura"
+   ]
+  },
+  {
+   "name": "Genichi Kodoira",
+   "role": "publisher representative",
+   "variants": [
+    "Genichi Kodcira"
+   ]
+  },
+  {
+   "name": "Yoshire Ishii",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshire Ishii"
+   ]
+  },
+  {
+   "name": "Kazuyuki Naganuma",
+   "role": "publisher representative",
+   "variants": [
+    "Kazuyuki Naga-numa"
+   ]
+  },
+  {
+   "name": "Toshita Yamamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Toshita Yama-rotc"
+   ]
+  },
+  {
+   "name": "Kesaku Nagata",
+   "role": "publisher representative",
+   "variants": [
+    "Kesalu Nagata"
+   ]
+  },
+  {
+   "name": "Oshese",
+   "role": "publisher representative",
+   "variants": [
+    "Cshese"
+   ]
+  },
+  {
+   "name": "Hidekichi Ito",
+   "role": "publisher representative",
+   "variants": [
+    "Hidckichi Itch"
+   ]
+  },
+  {
+   "name": "Masao Kure",
+   "role": "publisher representative",
+   "variants": [
+    "Vasac Kure"
+   ]
+  },
+  {
+   "name": "Eiichi Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Piichi Kcbayashi"
+   ]
+  },
+  {
+   "name": "Rokuro Nakada",
+   "role": "publisher representative",
+   "variants": [
+    "Rokure Nakada"
+   ]
+  },
+  {
+   "name": "Atsushi Yamano",
+   "role": "publisher representative",
+   "variants": [
+    "Atushi Yanano"
+   ]
+  },
+  {
+   "name": "Jin Imai",
+   "role": "publisher representative",
+   "variants": [
+    "Jin Imai"
+   ]
+  },
+  {
+   "name": "Kurakichi Kaneko",
+   "role": "publisher representative",
+   "variants": [
+    "Kurakichi Kaneko"
+   ]
+  },
+  {
+   "name": "Jizaemon Kunisada",
+   "role": "publisher representative",
+   "variants": [
+    "Jizacncn Kuni-sada"
+   ]
+  },
+  {
+   "name": "Kyoichi Kashiwa",
+   "role": "publisher representative",
+   "variants": [
+    "Kycichi Kashiwa"
+   ]
+  },
+  {
+   "name": "Shoichi Karoto",
+   "role": "publisher representative",
+   "variants": [
+    "Shoichi karoto"
+   ]
+  },
+  {
+   "name": "Kunetaro Katakura",
+   "role": "publisher representative",
+   "variants": [
+    "Kunetero Kata-kure"
+   ]
+  },
+  {
+   "name": "Kiyoshi Kanzaki",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyc shi Kanzaki"
+   ]
+  },
+  {
+   "name": "Shinbei Kunizawa",
+   "role": "publisher representative",
+   "variants": [
+    "Shinbei Kuni-zawa"
+   ]
+  },
+  {
+   "name": "Naoko Yuto",
+   "role": "publisher representative",
+   "variants": [
+    "Nacke Yutc"
+   ]
+  },
+  {
+   "name": "Shizue Kato",
+   "role": "publisher representative",
+   "variants": [
+    "Shizue Katc"
+   ]
+  },
+  {
+   "name": "Kawade Takao",
+   "role": "publisher representative",
+   "variants": [
+    "Kavade Takao"
+   ]
+  },
+  {
+   "name": "Tetujiro Kawamura",
+   "role": "publisher representative",
+   "variants": [
+    "Tetujiro Kawa-ura"
+   ]
+  },
+  {
+   "name": "Shigeru Kato",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeru Krto"
+   ]
+  },
+  {
+   "name": "Masao Yusasa",
+   "role": "publisher representative",
+   "variants": [
+    "Masacki Yusasa"
+   ]
+  },
+  {
+   "name": "Shinpei Shirai",
+   "role": "publisher representative",
+   "variants": [
+    "Shinpei Shirai"
+   ]
+  },
+  {
+   "name": "Hoichi Kiyohara",
+   "role": "publisher representative",
+   "variants": [
+    "Hoichi Kiychara"
+   ]
+  },
+  {
+   "name": "Benzo Katsura",
+   "role": "publisher representative",
+   "variants": [
+    "Benze Katsura"
+   ]
+  },
+  {
+   "name": "Ken Nagase",
+   "role": "publisher representative",
+   "variants": [
+    "Ken Nagase"
+   ]
+  },
+  {
+   "name": "Eiji Kojima",
+   "role": "publisher representative",
+   "variants": [
+    "Eiji Kojima"
+   ]
+  },
+  {
+   "name": "Shozo Niizoki",
+   "role": "publisher representative",
+   "variants": [
+    "Shozc Niizcki"
+   ]
+  },
+  {
+   "name": "Tetsuta Iwesaki",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsuta Iwesaki"
+   ]
+  },
+  {
+   "name": "Shozo Shinseki",
+   "role": "publisher representative",
+   "variants": [
+    "Shozo Shinseki"
+   ]
+  },
+  {
+   "name": "Katutaro Nakase",
+   "role": "publisher representative",
+   "variants": [
+    "Katutaro Nakese"
+   ]
+  },
+  {
+   "name": "Goro Koizumi",
+   "role": "publisher representative",
+   "variants": [
+    "Gorc Koizumi"
+   ]
+  },
+  {
+   "name": "Hidesaburo Ayugai",
+   "role": "publisher representative",
+   "variants": [
+    "Hidesaburo Ayugai"
+   ]
+  },
+  {
+   "name": "Koji Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Koji Yeshida"
+   ]
+  },
+  {
+   "name": "Jitsuichi Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Jitsuichi Kobeyashi"
+   ]
+  },
+  {
+   "name": "Gichiro Kosakai",
+   "role": "publisher representative",
+   "variants": [
+    "Gichirc Kcsakai"
+   ]
+  },
+  {
+   "name": "Shinichiro Sakagami",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichiro Saka-cami"
+   ]
+  },
+  {
+   "name": "Kumasaburo Nakanishi",
+   "role": "publisher representative",
+   "variants": [
+    "Kumasalurc Naka-nishi"
+   ]
+  },
+  {
+   "name": "Tomio Oyata",
+   "role": "publisher representative",
+   "variants": [
+    "Tonic Oyata"
+   ]
+  },
+  {
+   "name": "Hiroyuki Tanobe",
+   "role": "publisher representative",
+   "variants": [
+    "Hiroyuki Tenobe"
+   ]
+  },
+  {
+   "name": "Kiichi Komine",
+   "role": "publisher representative",
+   "variants": [
+    "Kiichi Komine"
+   ]
+  },
+  {
+   "name": "Tutomu Nakanishi",
+   "role": "publisher representative",
+   "variants": [
+    "Tutemu Nekanishi"
+   ]
+  },
+  {
+   "name": "Shuge Honda",
+   "role": "publisher representative",
+   "variants": [
+    "Shuge Honda"
+   ]
+  },
+  {
+   "name": "Morito Fukuzawa",
+   "role": "publisher representative",
+   "variants": [
+    "Morito Fukuzawa",
+    "Morite Fukuzcwe"
+   ]
+  },
+  {
+   "name": "Masujiro Kosugi",
+   "role": "publisher representative",
+   "variants": [
+    "Masujiro Kosugi"
+   ]
+  },
+  {
+   "name": "Toichiro Iwasa",
+   "role": "publisher representative",
+   "variants": [
+    "Tcichire Iwasa"
+   ]
+  },
+  {
+   "name": "Shinbi Iida",
+   "role": "publisher representative",
+   "variants": [
+    "Shinbi Iida"
+   ]
+  },
+  {
+   "name": "Kide Honda",
+   "role": "publisher representative",
+   "variants": [
+    "Kide Fonda"
+   ]
+  },
+  {
+   "name": "Masayuki Nekuhare",
+   "role": "publisher representative",
+   "variants": [
+    "Masayuki Nel u-hare"
+   ]
+  },
+  {
+   "name": "Taotsu Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Ta otsu Saito"
+   ]
+  },
+  {
+   "name": "Katujiro Koito",
+   "role": "publisher representative",
+   "variants": [
+    "Ketujire Koito"
+   ]
+  },
+  {
+   "name": "Tananosuke Matuki",
+   "role": "publisher representative",
+   "variants": [
+    "Tananos suke Matuki"
+   ]
+  },
+  {
+   "name": "Takao Shigenobu",
+   "role": "publisher representative",
+   "variants": [
+    "T kao Shi enobu"
+   ]
+  },
+  {
+   "name": "Minoru Ariyoshi",
+   "role": "publisher representative",
+   "variants": [
+    "Yin-ru Ariyoshi"
+   ]
+  },
+  {
+   "name": "Eishin Izumi",
+   "role": "publisher representative",
+   "variants": [
+    "Ein shin Izumi"
+   ]
+  },
+  {
+   "name": "Kanji Urabayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Kanji Urebayashi"
+   ]
+  },
+  {
+   "name": "Heijuro Fudo",
+   "role": "publisher representative",
+   "variants": [
+    "Heijuure Pudo"
+   ]
+  },
+  {
+   "name": "Jyuichi Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Jyuichi Trnaka"
+   ]
+  },
+  {
+   "name": "Toyoji Kowai",
+   "role": "publisher representative",
+   "variants": [
+    "Toyeji Kowai"
+   ]
+  },
+  {
+   "name": "Kosaburo Okura",
+   "role": "publisher representative",
+   "variants": [
+    "Kosáturo Ckura"
+   ]
+  },
+  {
+   "name": "Asataro Yasaka",
+   "role": "publisher representative",
+   "variants": [
+    "Asataro Yasaka"
+   ]
+  },
+  {
+   "name": "Rikichi Iwata",
+   "role": "publisher representative",
+   "variants": [
+    "Rikichi Iwata"
+   ]
+  },
+  {
+   "name": "Oyuryo Fuchita",
+   "role": "publisher representative",
+   "variants": [
+    "Cyuryc Fuchite"
+   ]
+  },
+  {
+   "name": "Tuneo Ikeda",
+   "role": "publisher representative",
+   "variants": [
+    "Tunec Ikeda"
+   ]
+  },
+  {
+   "name": "Jiro Nengo",
+   "role": "publisher representative",
+   "variants": [
+    "Jiro Nengo"
+   ]
+  },
+  {
+   "name": "Uzo Tsujimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Uzo Tsujinoto"
+   ]
+  },
+  {
+   "name": "Yoshiki Takasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshiki Takasaki"
+   ]
+  },
+  {
+   "name": "Jyunichiro Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Jyunichirc Saito"
+   ]
+  },
+  {
+   "name": "Masao Takashima",
+   "role": "publisher representative",
+   "variants": [
+    "Lasac Takashima"
+   ]
+  },
+  {
+   "name": "Yoshitaro Kawaguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Yo shitaro Kawa-guchi"
+   ]
+  },
+  {
+   "name": "Kokichi Iwashiro",
+   "role": "publisher representative",
+   "variants": [
+    "Kokichi Iwashire"
+   ]
+  },
+  {
+   "name": "Eiichi Akiyama",
+   "role": "publisher representative",
+   "variants": [
+    "I ichi Aki-yena"
+   ]
+  },
+  {
+   "name": "Jitsuzo Muramoto",
+   "role": "publisher representative",
+   "variants": [
+    "Jitsuzo Muramoto"
+   ]
+  },
+  {
+   "name": "Kenho Masuda",
+   "role": "publisher representative",
+   "variants": [
+    "Kenhe Masuda"
+   ]
+  },
+  {
+   "name": "Koshi Sugiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Koshi Sugiyama"
+   ]
+  },
+  {
+   "name": "Yoriyoshi Abe",
+   "role": "publisher representative",
+   "variants": [
+    "Yeriycshi Abe"
+   ]
+  },
+  {
+   "name": "Hikomatsu Kanikowa",
+   "role": "publisher representative",
+   "variants": [
+    "Hikonatsu Kani-kowo"
+   ]
+  },
+  {
+   "name": "Matsuo Miyairi",
+   "role": "publisher representative",
+   "variants": [
+    "Matsuc Miyairi"
+   ]
+  },
+  {
+   "name": "Tanotsu Otani",
+   "role": "publisher representative",
+   "variants": [
+    "Tanotsu Otani",
+    "Tanotu Otani",
+    "Tanotsu Octani"
+   ]
+  },
+  {
+   "name": "Yasuna Takada",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuna Takada"
+   ]
+  },
+  {
+   "name": "Kyujiro Yanade",
+   "role": "publisher representative",
+   "variants": [
+    "Kyujiro Yanade"
+   ]
+  },
+  {
+   "name": "Haruhiko Momotake",
+   "role": "publisher representative",
+   "variants": [
+    "Haruhike Momcta-ke"
+   ]
+  },
+  {
+   "name": "Eiichi Matsumura",
+   "role": "publisher representative",
+   "variants": [
+    "Eichi Matsurura"
+   ]
+  },
+  {
+   "name": "Haruhiko Furutani",
+   "role": "publisher representative",
+   "variants": [
+    "Haruhiko Furutani"
+   ]
+  },
+  {
+   "name": "Kyusaku Turuta",
+   "role": "publisher representative",
+   "variants": [
+    "Kyusaku Turuta"
+   ]
+  },
+  {
+   "name": "Yoshiichi Sugimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Yeshiichi Sugimcto"
+   ]
+  },
+  {
+   "name": "Eihachi Tanamori",
+   "role": "publisher representative",
+   "variants": [
+    "Eihachi Tanarori"
+   ]
+  },
+  {
+   "name": "Ryosaku Izutsu",
+   "role": "publisher representative",
+   "variants": [
+    "Tycsaku Izutsu"
+   ]
+  },
+  {
+   "name": "Mesasuke Kodama",
+   "role": "publisher representative",
+   "variants": [
+    "Mesasuke Kodama"
+   ]
+  },
+  {
+   "name": "Yoshio Kanode",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshic Knode"
+   ]
+  },
+  {
+   "name": "Kiroku Oguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Kircku Oguchi"
+   ]
+  },
+  {
+   "name": "Sako Yiroe",
+   "role": "publisher representative",
+   "variants": [
+    "Sake Yirce"
+   ]
+  },
+  {
+   "name": "Masanori Watanake",
+   "role": "publisher representative",
+   "variants": [
+    "Masancri Watanakc"
+   ]
+  },
+  {
+   "name": "Shiro Neguro",
+   "role": "publisher representative",
+   "variants": [
+    "Shiro Negure"
+   ]
+  },
+  {
+   "name": "Toshiro Murabayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Toshire ura-bayashi"
+   ]
+  },
+  {
+   "name": "Kenwa Kareyama",
+   "role": "publisher representative",
+   "variants": [
+    "Kenwa Kareyama"
+   ]
+  },
+  {
+   "name": "Noboru Yamagishi",
+   "role": "publisher representative",
+   "variants": [
+    "Ncheru Yemagishi"
+   ]
+  },
+  {
+   "name": "Sadao Ohashi",
+   "role": "publisher representative",
+   "variants": [
+    "Sadao Chashi"
+   ]
+  },
+  {
+   "name": "Matsuzo Nagai",
+   "role": "publisher representative",
+   "variants": [
+    "Matsuzo Nagai"
+   ]
+  },
+  {
+   "name": "Tetsujiro Inoue",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsujiro Inoue"
+   ]
+  },
+  {
+   "name": "Koyo Mitsui",
+   "role": "publisher representative",
+   "variants": [
+    "Keyo Mitui"
+   ]
+  },
+  {
+   "name": "Takashi Igarashi",
+   "role": "publisher representative",
+   "variants": [
+    "Tal ashi Igarashi"
+   ]
+  },
+  {
+   "name": "Yosuke Natori",
+   "role": "publisher representative",
+   "variants": [
+    "Yensuke Natori"
+   ]
+  },
+  {
+   "name": "Tokumasa Asai",
+   "role": "publisher representative",
+   "variants": [
+    "Tokunasa Asai"
+   ]
+  },
+  {
+   "name": "Koneritsu Yoshikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Koneritsu Yeshi-kawa"
+   ]
+  },
+  {
+   "name": "Toru Yamagari",
+   "role": "publisher representative",
+   "variants": [
+    "Toru Yaracari"
+   ]
+  },
+  {
+   "name": "Kyoichi Shirosaki",
+   "role": "publisher representative",
+   "variants": [
+    "Kycichi Shiro-saki"
+   ]
+  },
+  {
+   "name": "Jinsaburo Hattori",
+   "role": "publisher representative",
+   "variants": [
+    "Jinsaburc Hattori"
+   ]
+  },
+  {
+   "name": "Masayoshi Keno",
+   "role": "publisher representative",
+   "variants": [
+    "Masayeshi Keno"
+   ]
+  },
+  {
+   "name": "Hachiro Komine",
+   "role": "publisher representative",
+   "variants": [
+    "Hachiro Korine"
+   ]
+  },
+  {
+   "name": "Saburo Imai",
+   "role": "publisher representative",
+   "variants": [
+    "Sabure Imai"
+   ]
+  },
+  {
+   "name": "Otojiro Kondo",
+   "role": "publisher representative",
+   "variants": [
+    "Otojiro Kendo"
+   ]
+  },
+  {
+   "name": "Gen Kono",
+   "role": "publisher representative",
+   "variants": [
+    "Gen Kono"
+   ]
+  },
+  {
+   "name": "Matsuei Morishita",
+   "role": "publisher representative",
+   "variants": [
+    "Matsuei Mori-shita",
+    "Matsuei Morishita"
+   ]
+  },
+  {
+   "name": "Toshio Hoshino",
+   "role": "publisher representative",
+   "variants": [
+    "Toshio Hoshino"
+   ]
+  },
+  {
+   "name": "Yue Horikoshi",
+   "role": "publisher representative",
+   "variants": [
+    "Yue Horikcshi"
+   ]
+  },
+  {
+   "name": "Toyoo Takei",
+   "role": "publisher representative",
+   "variants": [
+    "Toyco Takei"
+   ]
+  },
+  {
+   "name": "Haruo Hayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Haruc Hayashi"
+   ]
+  },
+  {
+   "name": "Ryozo Hesoi",
+   "role": "publisher representative",
+   "variants": [
+    "Ryczo Hesci"
+   ]
+  },
+  {
+   "name": "Shoichi Okamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Sheichi Ckancto"
+   ]
+  },
+  {
+   "name": "Seiichi Kuse",
+   "role": "publisher representative",
+   "variants": [
+    "Sciichi Kuse"
+   ]
+  },
+  {
+   "name": "Tamiji Naito",
+   "role": "publisher representative",
+   "variants": [
+    "Tamiji Naito"
+   ]
+  },
+  {
+   "name": "Shinichi Kouno",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichi Kouno"
+   ]
+  },
+  {
+   "name": "Shigeru Ozaki",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeru Czaki"
+   ]
+  },
+  {
+   "name": "Totsuo Kitamura",
+   "role": "publisher representative",
+   "variants": [
+    "Totsuo Kitarura"
+   ]
+  },
+  {
+   "name": "Sakigake Abe",
+   "role": "publisher representative",
+   "variants": [
+    "Sakigake Abe"
+   ]
+  },
+  {
+   "name": "Kareo Okamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kareo Ckaneto"
+   ]
+  },
+  {
+   "name": "Shizuka Shikai",
+   "role": "publisher representative",
+   "variants": [
+    "Shizuka Shikai"
+   ]
+  },
+  {
+   "name": "Vasaya Inoue",
+   "role": "publisher representative",
+   "variants": [
+    "Vasaya Incue"
+   ]
+  },
+  {
+   "name": "Yoshio Uehara",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshic Uehara"
+   ]
+  },
+  {
+   "name": "Tokizo Kawakami",
+   "role": "publisher representative",
+   "variants": [
+    "Tckiz: Kawakari"
+   ]
+  },
+  {
+   "name": "Juro Segawa",
+   "role": "publisher representative",
+   "variants": [
+    "Juro Segawa"
+   ]
+  },
+  {
+   "name": "Masa Sakurai",
+   "role": "publisher representative",
+   "variants": [
+    "Masa Sakurai"
+   ]
+  },
+  {
+   "name": "Seijiro Takahashi",
+   "role": "publisher representative",
+   "variants": [
+    "Seijiro Taka-hashi"
+   ]
+  },
+  {
+   "name": "Yoshiyasu Koshimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshiyasu Koshi-meto"
+   ]
+  },
+  {
+   "name": "Setsuo Yamaoka",
+   "role": "publisher representative",
+   "variants": [
+    "Setuo Yamaoka"
+   ]
+  },
+  {
+   "name": "Hatsuporo Nanjyo",
+   "role": "publisher representative",
+   "variants": [
+    "Hatsuporo Nanjyo"
+   ]
+  },
+  {
+   "name": "Tetuo Otani",
+   "role": "publisher representative",
+   "variants": [
+    "Tetuo Otani"
+   ]
+  },
+  {
+   "name": "Takeo Nanba",
+   "role": "publisher representative",
+   "variants": [
+    "Takec Nanba"
+   ]
+  },
+  {
+   "name": "Saburo Arano",
+   "role": "publisher representative",
+   "variants": [
+    "Saburo Arano"
+   ]
+  },
+  {
+   "name": "Raikichi Kono",
+   "role": "publisher representative",
+   "variants": [
+    "Raikichi Konc"
+   ]
+  },
+  {
+   "name": "Yoshimi Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshimi Suzuki"
+   ]
+  },
+  {
+   "name": "Seigo Kimura",
+   "role": "publisher representative",
+   "variants": [
+    "Scigo Kimura"
+   ]
+  },
+  {
+   "name": "Yasutaro Nagaoka",
+   "role": "publisher representative",
+   "variants": [
+    "Yasutaro Nagacka"
+   ]
+  },
+  {
+   "name": "Masao Murakani",
+   "role": "publisher representative",
+   "variants": [
+    "Masac Murakani"
+   ]
+  },
+  {
+   "name": "Motoi Tada",
+   "role": "publisher representative",
+   "variants": [
+    "Vctoi Tada"
+   ]
+  },
+  {
+   "name": "Yonejiro Tunoda",
+   "role": "publisher representative",
+   "variants": [
+    "Yenejire Tunoda"
+   ]
+  },
+  {
+   "name": "Aisuke Okamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Aisuke Okamoto"
+   ]
+  },
+  {
+   "name": "Ysekichi Sekiguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Ysekichi Seki-guchi"
+   ]
+  },
+  {
+   "name": "Yasunari Akagi",
+   "role": "publisher representative",
+   "variants": [
+    "Yasunari Akagi"
+   ]
+  },
+  {
+   "name": "Norio Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Norio Kcbayashi"
+   ]
+  },
+  {
+   "name": "Daishun Habu",
+   "role": "publisher representative",
+   "variants": [
+    "Daishun Habu"
+   ]
+  },
+  {
+   "name": "Teychiko Maeda",
+   "role": "publisher representative",
+   "variants": [
+    "Teychiko Maeda"
+   ]
+  },
+  {
+   "name": "Masco Maeno",
+   "role": "publisher representative",
+   "variants": [
+    "Masco Maeno"
+   ]
+  },
+  {
+   "name": "Goyu Kanda",
+   "role": "publisher representative",
+   "variants": [
+    "Gcyu Kanda"
+   ]
+  },
+  {
+   "name": "Kozo Uda",
+   "role": "publisher representative",
+   "variants": [
+    "Kcozo Uda"
+   ]
+  },
+  {
+   "name": "Shigeichi Yamada",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeichi Yamada"
+   ]
+  },
+  {
+   "name": "Kanichi Ito",
+   "role": "publisher representative",
+   "variants": [
+    "Kanichi Itc"
+   ]
+  },
+  {
+   "name": "Naoro Adachi",
+   "role": "publisher representative",
+   "variants": [
+    "Nacro Adachi"
+   ]
+  },
+  {
+   "name": "Kichizo Kosakai",
+   "role": "publisher representative",
+   "variants": [
+    "Kichizc Kosakai"
+   ]
+  },
+  {
+   "name": "Minoru Arakaki",
+   "role": "publisher representative",
+   "variants": [
+    "Mincru Arakaki"
+   ]
+  },
+  {
+   "name": "Zenkichi Masunaga",
+   "role": "publisher representative",
+   "variants": [
+    "Zenkichi Mosuñaga"
+   ]
+  },
+  {
+   "name": "Kentaro Masuya",
+   "role": "publisher representative",
+   "variants": [
+    "Kentarc Masuya"
+   ]
+  },
+  {
+   "name": "Hikochika Matui",
+   "role": "publisher representative",
+   "variants": [
+    "Hikochika Matui"
+   ]
+  },
+  {
+   "name": "Shiro Meguro",
+   "role": "publisher representative",
+   "variants": [
+    "Shire Megure"
+   ]
+  },
+  {
+   "name": "Yuzo Shigemune",
+   "role": "publisher representative",
+   "variants": [
+    "Yuze Shigemune"
+   ]
+  },
+  {
+   "name": "Sorei Uzawa",
+   "role": "publisher representative",
+   "variants": [
+    "Screi Uzawa"
+   ]
+  },
+  {
+   "name": "Masao Fujihara",
+   "role": "publisher representative",
+   "variants": [
+    "nsac Fujihara"
+   ]
+  },
+  {
+   "name": "Koichi Kimura",
+   "role": "publisher representative",
+   "variants": [
+    "Kcichi Kimura"
+   ]
+  },
+  {
+   "name": "Hiroo Hirakawa",
+   "role": "publisher representative",
+   "variants": [
+    "Hirco Hirakawa"
+   ]
+  },
+  {
+   "name": "Minoru Otabe",
+   "role": "publisher representative",
+   "variants": [
+    "Mincru Otabe"
+   ]
+  },
+  {
+   "name": "Michiyuki Sugamata",
+   "role": "publisher or representative",
+   "variants": [
+    "MICHIYUKI SUGAMATA",
+    "Vichiyuki Suga-mata"
+   ]
+  },
+  {
+   "name": "Hiroshi Goto",
+   "role": "publisher representative",
+   "variants": [
+    "Hircshi Goto"
+   ]
+  },
+  {
+   "name": "Takezo Hasegawa",
+   "role": "publisher representative",
+   "variants": [
+    "T-kezo Hasegawa"
+   ]
+  },
+  {
+   "name": "Michinosuke Tokauchi",
+   "role": "publisher representative",
+   "variants": [
+    "Michincsuke Tokauchi"
+   ]
+  },
+  {
+   "name": "Kuni Koderasi",
+   "role": "publisher representative",
+   "variants": [
+    "Kuni Koderasi"
+   ]
+  },
+  {
+   "name": "Shiroji Fujita",
+   "role": "publisher representative",
+   "variants": [
+    "Shireji Fujita"
+   ]
+  },
+  {
+   "name": "Kunio Yanagida",
+   "role": "publisher representative",
+   "variants": [
+    "Kunio Yana-gida"
+   ]
+  },
+  {
+   "name": "Shin Ariga",
+   "role": "publisher representative",
+   "variants": [
+    "Shin Ariga"
+   ]
+  },
+  {
+   "name": "Shigehiro Kawano",
+   "role": "publisher representative",
+   "variants": [
+    "Shigehiro Kawano"
+   ]
+  },
+  {
+   "name": "Shigeharu Miyashita",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeharu Miya-shita"
+   ]
+  },
+  {
+   "name": "Hasazo Yamanoto",
+   "role": "publisher representative",
+   "variants": [
+    "Hasazc Yananoto"
+   ]
+  },
+  {
+   "name": "Asao Ota",
+   "role": "publisher representative",
+   "variants": [
+    "Asac Octa"
+   ]
+  },
+  {
+   "name": "Iwamatsu Hoshitoku",
+   "role": "publisher representative",
+   "variants": [
+    "Iwaratsu Hoshi-toku"
+   ]
+  },
+  {
+   "name": "Hisao Nishitani",
+   "role": "publisher representative",
+   "variants": [
+    "Hisco Nishitani"
+   ]
+  },
+  {
+   "name": "Shoshin Terai",
+   "role": "publisher representative",
+   "variants": [
+    "Shoshin Terai"
+   ]
+  },
+  {
+   "name": "Kubota Manjiro",
+   "role": "publisher representative",
+   "variants": [
+    "Kubota Manjiro"
+   ]
+  },
+  {
+   "name": "Wahichi Kenya",
+   "role": "publisher representative",
+   "variants": [
+    "Wahichi Kenya"
+   ]
+  },
+  {
+   "name": "Seiichi Kono",
+   "role": "publisher representative",
+   "variants": [
+    "Seiichi Kono"
+   ]
+  },
+  {
+   "name": "Manri Okazaki",
+   "role": "publisher representative",
+   "variants": [
+    "Manri Ckazaki"
+   ]
+  },
+  {
+   "name": "Kyosuke Tamai",
+   "role": "publisher representative",
+   "variants": [
+    "Kycsuke Tamai"
+   ]
+  },
+  {
+   "name": "Shigeo Sakura",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeo Sakura"
+   ]
+  },
+  {
+   "name": "Hoichi Nakao",
+   "role": "publisher representative",
+   "variants": [
+    "Hcichi Nakac"
+   ]
+  },
+  {
+   "name": "Shinichi Miwa",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichi Miwa"
+   ]
+  },
+  {
+   "name": "Tunji Takahashi",
+   "role": "publisher representative",
+   "variants": [
+    "Tunji Takahashi"
+   ]
+  },
+  {
+   "name": "Shinichiro Miyakoshi",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichiro Miyc-kcshi"
+   ]
+  },
+  {
+   "name": "Jyoken Matsuda",
+   "role": "publisher representative",
+   "variants": [
+    "Jyoken Matsuda"
+   ]
+  },
+  {
+   "name": "Denzo Kose",
+   "role": "publisher representative",
+   "variants": [
+    "Denzo Kose"
+   ]
+  },
+  {
+   "name": "Minoru Ota",
+   "role": "publisher representative",
+   "variants": [
+    "Minoru Ota"
+   ]
+  },
+  {
+   "name": "Shinhei Shioni",
+   "role": "publisher representative",
+   "variants": [
+    "Shinhei Shioni"
+   ]
+  },
+  {
+   "name": "Jyunichi Numatsu",
+   "role": "publisher representative",
+   "variants": [
+    "Jyunichi Numatsu"
+   ]
+  },
+  {
+   "name": "Ryoichi Mizutani",
+   "role": "publisher representative",
+   "variants": [
+    "Rycichi Mizutani"
+   ]
+  },
+  {
+   "name": "Kinkiro Nakano",
+   "role": "publisher representative",
+   "variants": [
+    "Kinkirc Nekano"
+   ]
+  },
+  {
+   "name": "Shozo Aoyagi",
+   "role": "publisher representative",
+   "variants": [
+    "Shozc Acyagi"
+   ]
+  },
+  {
+   "name": "Sadoaki Sugao",
+   "role": "publisher representative",
+   "variants": [
+    "Sadoaki Sugao"
+   ]
+  },
+  {
+   "name": "Setu Ota",
+   "role": "publisher representative",
+   "variants": [
+    "Setu Ota"
+   ]
+  },
+  {
+   "name": "Reitaro Kawada",
+   "role": "publisher representative",
+   "variants": [
+    "Reitaro Kawada"
+   ]
+  },
+  {
+   "name": "Tetusaburo Sakuma",
+   "role": "publisher representative",
+   "variants": [
+    "Tetusaburo Sakuma"
+   ]
+  },
+  {
+   "name": "Kinya Nagao",
+   "role": "publisher representative",
+   "variants": [
+    "Kinya Nagao"
+   ]
+  },
+  {
+   "name": "Saburo Kiyese",
+   "role": "publisher representative",
+   "variants": [
+    "Saburo Kiyese"
+   ]
+  },
+  {
+   "name": "Shinjiro Taki",
+   "role": "publisher representative",
+   "variants": [
+    "Shinjiro Taki"
+   ]
+  },
+  {
+   "name": "Teisho Sugaoi",
+   "role": "publisher representative",
+   "variants": [
+    "Teishe Sugaoi"
+   ]
+  },
+  {
+   "name": "Masahiko Kotachi",
+   "role": "publisher representative",
+   "variants": [
+    "Masahike Kotachi"
+   ]
+  },
+  {
+   "name": "Koonare Matsuoka",
+   "role": "publisher representative",
+   "variants": [
+    "Koonare Matucka"
+   ]
+  },
+  {
+   "name": "Kenta Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Kenta Suzuki"
+   ]
+  },
+  {
+   "name": "Shyozo Natume",
+   "role": "publisher representative",
+   "variants": [
+    "Shyozo Natume"
+   ]
+  },
+  {
+   "name": "Hirokichi Otake",
+   "role": "publisher representative",
+   "variants": [
+    "Hirckichi Ctake"
+   ]
+  },
+  {
+   "name": "Tokunosuke Yoshimura",
+   "role": "publisher representative",
+   "variants": [
+    "Tokunosuke Yoshi-mura"
+   ]
+  },
+  {
+   "name": "Hideyoshi Saya",
+   "role": "publisher representative",
+   "variants": [
+    "Fideyoshi Saya"
+   ]
+  },
+  {
+   "name": "Kumao Arai",
+   "role": "publisher representative",
+   "variants": [
+    "Kumao Arai"
+   ]
+  },
+  {
+   "name": "Saburo Inouye",
+   "role": "publisher representative",
+   "variants": [
+    "Saburo Inouye"
+   ]
+  },
+  {
+   "name": "Sinsuke Takatukasa",
+   "role": "publisher representative",
+   "variants": [
+    "Sinsuke Taka-tukasa"
+   ]
+  },
+  {
+   "name": "Jyakusho Tamokami",
+   "role": "publisher representative",
+   "variants": [
+    "Jyakusho Tamo-kami"
+   ]
+  },
+  {
+   "name": "Kengo Yamamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kengo Yamamoto"
+   ]
+  },
+  {
+   "name": "Tomio Yonebayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Tomio Yonebay-shi"
+   ]
+  },
+  {
+   "name": "Shinichiro Nathumaura",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichiro Nathu-maura"
+   ]
+  },
+  {
+   "name": "Masao Oshita",
+   "role": "publisher representative",
+   "variants": [
+    "Masco Oshita"
+   ]
+  },
+  {
+   "name": "Saburo Suganuma",
+   "role": "publisher representative",
+   "variants": [
+    "Saburo Suga-numa"
+   ]
+  },
+  {
+   "name": "Kenji Ichida",
+   "role": "publisher representative",
+   "variants": [
+    "Kenji Ichida"
+   ]
+  },
+  {
+   "name": "Kiyoshi Masui",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyoshi Masui"
+   ]
+  },
+  {
+   "name": "Goinchi Kodaira",
+   "role": "publisher representative",
+   "variants": [
+    "Goinchi Kodaira"
+   ]
+  },
+  {
+   "name": "Teyoji Kamei",
+   "role": "publisher representative",
+   "variants": [
+    "Teyoji Kamei"
+   ]
+  },
+  {
+   "name": "Hanoji Yameroto",
+   "role": "publisher representative",
+   "variants": [
+    "Hanoji Yameroto"
+   ]
+  },
+  {
+   "name": "Takayoshi Aoki",
+   "role": "publisher representative",
+   "variants": [
+    "Takayoshi Aoki"
+   ]
+  },
+  {
+   "name": "Kensaburo Kurokawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kensaburo kuro-kave"
+   ]
+  },
+  {
+   "name": "Sekizo Uyeda",
+   "role": "publisher representative",
+   "variants": [
+    "Sekizo Uyeda"
+   ]
+  },
+  {
+   "name": "Karejiro Takeuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Karejiro Take-uchi"
+   ]
+  },
+  {
+   "name": "Kenzo Niki",
+   "role": "publisher representative",
+   "variants": [
+    "Kenzo Niki"
+   ]
+  },
+  {
+   "name": "Kaneme Okeda",
+   "role": "publisher representative",
+   "variants": [
+    "Kaneme Okeda"
+   ]
+  },
+  {
+   "name": "Issui Kawamura",
+   "role": "publisher representative",
+   "variants": [
+    "Issui Kawamura"
+   ]
+  },
+  {
+   "name": "Sanki Ichikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Sanki Ichikawe"
+   ]
+  },
+  {
+   "name": "Toshiro Takata",
+   "role": "publisher representative",
+   "variants": [
+    "Toshiro Takata"
+   ]
+  },
+  {
+   "name": "Hantaro Kubota",
+   "role": "publisher representative",
+   "variants": [
+    "Fantarc Kubota"
+   ]
+  },
+  {
+   "name": "Reijiro Arisuki",
+   "role": "publisher representative",
+   "variants": [
+    "Reijire a' r suki"
+   ]
+  },
+  {
+   "name": "Katsuji Inahara",
+   "role": "publisher representative",
+   "variants": [
+    "Katsuji Inahara"
+   ]
+  },
+  {
+   "name": "Yensuke Horinouchi",
+   "role": "publisher representative",
+   "variants": [
+    "Yensuke Herinou-chi"
+   ]
+  },
+  {
+   "name": "Yozo Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Yczc Kcbayashi"
+   ]
+  },
+  {
+   "name": "Kikuo Otsuki",
+   "role": "publisher representative",
+   "variants": [
+    "Kikuo Otsuki"
+   ]
+  },
+  {
+   "name": "Saichiro Kashiwa",
+   "role": "publisher representative",
+   "variants": [
+    "Saichirc Kashiwa"
+   ]
+  },
+  {
+   "name": "Yoshio Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Yc shio Tanaka"
+   ]
+  },
+  {
+   "name": "Masao Ohta",
+   "role": "publisher representative",
+   "variants": [
+    "Masac Chta"
+   ]
+  },
+  {
+   "name": "Shizue Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Shizue Saite"
+   ]
+  },
+  {
+   "name": "Tonemoto Furuhata",
+   "role": "publisher representative",
+   "variants": [
+    "Tonemoto Furuhata"
+   ]
+  },
+  {
+   "name": "Masao Seki",
+   "role": "publisher representative",
+   "variants": [
+    "Mrsac Seki",
+    "Masao Seki"
+   ]
+  },
+  {
+   "name": "Toshisada Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Toshiscde Suzuki"
+   ]
+  },
+  {
+   "name": "Choji Yamada",
+   "role": "publisher representative",
+   "variants": [
+    "Che ji Yemade"
+   ]
+  },
+  {
+   "name": "Choei Ishibashi",
+   "role": "publisher representative",
+   "variants": [
+    "Choei Ishib shi"
+   ]
+  },
+  {
+   "name": "Sukehiro Miguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Sukehir Ligu-chi"
+   ]
+  },
+  {
+   "name": "Yushio Inamaki",
+   "role": "publisher representative",
+   "variants": [
+    "Yu shic Inan aki"
+   ]
+  },
+  {
+   "name": "Miyoshi Yoshine",
+   "role": "publisher representative",
+   "variants": [
+    "Yiycshi Yeshine"
+   ]
+  },
+  {
+   "name": "Chokichiro Sakuma",
+   "role": "publisher representative",
+   "variants": [
+    "Chokichire Saku"
+   ]
+  },
+  {
+   "name": "Takiyoshi Inada",
+   "role": "publisher representative",
+   "variants": [
+    "Tekiyoshi Inada"
+   ]
+  },
+  {
+   "name": "Tosuku Yamazaki",
+   "role": "publisher representative",
+   "variants": [
+    "Tosu'u Y  azaki"
+   ]
+  },
+  {
+   "name": "Hirayoshi Oda",
+   "role": "publisher representative",
+   "variants": [
+    "Hirayoshi Oda"
+   ]
+  },
+  {
+   "name": "Yasuke Kanahara",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuke Kanahara"
+   ]
+  },
+  {
+   "name": "Kentaro Omura",
+   "role": "publisher representative",
+   "variants": [
+    "Fentare Crura"
+   ]
+  },
+  {
+   "name": "Yayoi Yoshioka",
+   "role": "publisher representative",
+   "variants": [
+    "Yayoi Y shicka"
+   ]
+  },
+  {
+   "name": "Mentaro Watanabe",
+   "role": "publisher representative",
+   "variants": [
+    "Mentarc Watan-abe"
+   ]
+  },
+  {
+   "name": "Yutaka Tanoke",
+   "role": "publisher representative",
+   "variants": [
+    "Yutake Tancke"
+   ]
+  },
+  {
+   "name": "Hideji Yegi",
+   "role": "publisher representative",
+   "variants": [
+    "Fideji Yegi"
+   ]
+  },
+  {
+   "name": "Kinjiro Matsumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kinjirc Matsu-moto"
+   ]
+  },
+  {
+   "name": "Taketaro Miyata",
+   "role": "publisher representative",
+   "variants": [
+    "Taketare Miyata"
+   ]
+  },
+  {
+   "name": "Ikuzo Onaka",
+   "role": "publisher representative",
+   "variants": [
+    "Ikuzc Cnaka"
+   ]
+  },
+  {
+   "name": "Kiyozo Fujiwara",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyezo Fujivera"
+   ]
+  },
+  {
+   "name": "Takashi Isaka",
+   "role": "publisher representative",
+   "variants": [
+    "Takashi Isake",
+    "Takashi Isaka"
+   ]
+  },
+  {
+   "name": "Hidejiro Haruki",
+   "role": "publisher representative",
+   "variants": [
+    "Hidejire Faruki"
+   ]
+  },
+  {
+   "name": "Tokio Kohuragi",
+   "role": "publisher representative",
+   "variants": [
+    "Tokio Kchuragi"
+   ]
+  },
+  {
+   "name": "Kitero Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "itere Yoshida"
+   ]
+  },
+  {
+   "name": "Kaoru Iwanoto",
+   "role": "publisher representative",
+   "variants": [
+    "Keoru Iwanc to"
+   ]
+  },
+  {
+   "name": "Zenichi Hidaka",
+   "role": "publisher representative",
+   "variants": [
+    "Zenichi Fidaka"
+   ]
+  },
+  {
+   "name": "Ochimi Kubushiro",
+   "role": "publisher representative",
+   "variants": [
+    "Ochimi Kubushirc"
+   ]
+  },
+  {
+   "name": "Junichi Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Junichi Satc"
+   ]
+  },
+  {
+   "name": "Masatsune Hotta",
+   "role": "publisher representative",
+   "variants": [
+    "Hasatsune Hotta"
+   ]
+  },
+  {
+   "name": "Hatutaro Munetaka",
+   "role": "publisher representative",
+   "variants": [
+    "Hatutaro Mune-taka"
+   ]
+  },
+  {
+   "name": "Yoshio Hatano",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshio Hatano"
+   ]
+  },
+  {
+   "name": "Yaichiro Kubo",
+   "role": "publisher representative",
+   "variants": [
+    "Yaichiro Kubo"
+   ]
+  },
+  {
+   "name": "Pokuzo Furuichi",
+   "role": "publisher representative",
+   "variants": [
+    "Pokuzo Furuichi"
+   ]
+  },
+  {
+   "name": "Kando Nakane",
+   "role": "publisher representative",
+   "variants": [
+    "Kando Nakane"
+   ]
+  },
+  {
+   "name": "Kampei Katakura",
+   "role": "publisher representative",
+   "variants": [
+    "Eampei Katakura"
+   ]
+  },
+  {
+   "name": "Ryutaro Hayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Ryutaro Hayashi"
+   ]
+  },
+  {
+   "name": "Minoru Katsumata",
+   "role": "publisher representative",
+   "variants": [
+    "Minoru Katsu-mata"
+   ]
+  },
+  {
+   "name": "Takuji Nageshima",
+   "role": "publisher representative",
+   "variants": [
+    "Takuji Nage-shima"
+   ]
+  },
+  {
+   "name": "Kiichiro Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Kiichiro Nakemu-ra"
+   ]
+  },
+  {
+   "name": "Takao Taguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Takao Taguchi"
+   ]
+  },
+  {
+   "name": "Asayoshi Maruyama",
+   "role": "publisher representative",
+   "variants": [
+    "Asayoshi Maru-yema"
+   ]
+  },
+  {
+   "name": "Kenji Miyamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kenji Miyamoto"
+   ]
+  },
+  {
+   "name": "Shu Goto",
+   "role": "publisher representative",
+   "variants": [
+    "Shu Goto"
+   ]
+  },
+  {
+   "name": "Kihachi Nogawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kihachi Nogawa"
+   ]
+  },
+  {
+   "name": "Shozo Yamamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Shozo Yamamoto"
+   ]
+  },
+  {
+   "name": "Tsuneichi Takashide",
+   "role": "publisher representative",
+   "variants": [
+    "Tsuneichi Taka-shide",
+    "Tuneichi Taka-shide"
+   ]
+  },
+  {
+   "name": "Kyuki Nishimori",
+   "role": "publisher representative",
+   "variants": [
+    "Kyuki Nishimori"
+   ]
+  },
+  {
+   "name": "Juji Nakano",
+   "role": "publisher representative",
+   "variants": [
+    "Juji Nakano"
+   ]
+  },
+  {
+   "name": "Sen Nagai",
+   "role": "publisher representative",
+   "variants": [
+    "Sen Nagai"
+   ]
+  },
+  {
+   "name": "Seijin Furuno",
+   "role": "publisher representative",
+   "variants": [
+    "Seijin Furuno"
+   ]
+  },
+  {
+   "name": "Tsunetaro Kurita",
+   "role": "publisher representative",
+   "variants": [
+    "Tsunctaro Kurita"
+   ]
+  },
+  {
+   "name": "Yoshibumi Omachi",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshibumi Cmachi"
+   ]
+  },
+  {
+   "name": "Taro Yamahira",
+   "role": "publisher representative",
+   "variants": [
+    "Taro Yamahira",
+    "Taro Yanahira"
+   ]
+  },
+  {
+   "name": "Haruki Ikeda",
+   "role": "publisher representative",
+   "variants": [
+    "Haruki Ikeda"
+   ]
+  },
+  {
+   "name": "Jiro Hirose",
+   "role": "publisher representative",
+   "variants": [
+    "Jiro Hirose"
+   ]
+  },
+  {
+   "name": "Yoichi Muto",
+   "role": "publisher representative",
+   "variants": [
+    "Yoichi Muto"
+   ]
+  },
+  {
+   "name": "Toshiichi Fujita",
+   "role": "publisher representative",
+   "variants": [
+    "Toshiichi Fujita"
+   ]
+  },
+  {
+   "name": "Yasuo Shirai",
+   "role": "publisher representative",
+   "variants": [
+    "Yesuo Shirai"
+   ]
+  },
+  {
+   "name": "Hideji Yagi",
+   "role": "publisher representative",
+   "variants": [
+    "Hideji Yagi"
+   ]
+  },
+  {
+   "name": "Shugi Misawa",
+   "role": "publisher representative",
+   "variants": [
+    "Shugi Misawa"
+   ]
+  },
+  {
+   "name": "Yoichi Kitagawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yoichi Kitegawa"
+   ]
+  },
+  {
+   "name": "Mitsunaga Fujioka",
+   "role": "publisher representative",
+   "variants": [
+    "Mitsunaga Fuji-cke"
+   ]
+  },
+  {
+   "name": "Isaji Kagehise",
+   "role": "publisher representative",
+   "variants": [
+    "Isaji Kagehise"
+   ]
+  },
+  {
+   "name": "Akira Takahashi",
+   "role": "publisher representative",
+   "variants": [
+    "Akira Takehashi"
+   ]
+  },
+  {
+   "name": "Kazuo Yamaoka",
+   "role": "publisher representative",
+   "variants": [
+    "Kazuc Yamacka"
+   ]
+  },
+  {
+   "name": "Tuneari Maki",
+   "role": "publisher representative",
+   "variants": [
+    "Tuneari Maki"
+   ]
+  },
+  {
+   "name": "Eikichi Hiratsuka",
+   "role": "publisher representative",
+   "variants": [
+    "Eikichi Hirat-suka"
+   ]
+  },
+  {
+   "name": "Iluzo Toyama",
+   "role": "publisher representative",
+   "variants": [
+    "Iluzo Teyana"
+   ]
+  },
+  {
+   "name": "Yaichiro Okada",
+   "role": "publisher representative",
+   "variants": [
+    "Yaichiro Okada"
+   ]
+  },
+  {
+   "name": "Keizo Kodama",
+   "role": "publisher representative",
+   "variants": [
+    "Keizc Kcdama"
+   ]
+  },
+  {
+   "name": "Yoshichika Tokugawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yeshichika Tokugawe",
+    "Yoshichika Tokugava"
+   ]
+  },
+  {
+   "name": "Hayato Fukunega",
+   "role": "publisher representative",
+   "variants": [
+    "Hayato Fuku-nega"
+   ]
+  },
+  {
+   "name": "Shoichi Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Shrichi Tanaka"
+   ]
+  },
+  {
+   "name": "Yasuyuki Uchimura",
+   "role": "publisher representative",
+   "variants": [
+    "Ycsuyuki Uchi-mura"
+   ]
+  },
+  {
+   "name": "Teijiro Toyoda",
+   "role": "publisher representative",
+   "variants": [
+    "Teijiro Toyoda"
+   ]
+  },
+  {
+   "name": "Rinichi Kige",
+   "role": "publisher representative",
+   "variants": [
+    "Rinichi Kige"
+   ]
+  },
+  {
+   "name": "Keishi Chashima",
+   "role": "publisher representative",
+   "variants": [
+    "Keishi Chashima"
+   ]
+  },
+  {
+   "name": "Rikizo Hirano",
+   "role": "publisher representative",
+   "variants": [
+    "Rikizo Hirano"
+   ]
+  },
+  {
+   "name": "Fujina Tsukuba",
+   "role": "publisher representative",
+   "variants": [
+    "Fujina Tsuluba"
+   ]
+  },
+  {
+   "name": "Hajime Koozu",
+   "role": "publisher representative",
+   "variants": [
+    "Hajine Koozu"
+   ]
+  },
+  {
+   "name": "Morinosuke Ketsuwaki",
+   "role": "publisher representative",
+   "variants": [
+    "orinesuke Ketsuwaki"
+   ]
+  },
+  {
+   "name": "Fukusaburo Sakairi",
+   "role": "publisher representative",
+   "variants": [
+    "Fukusaburo Sakairi"
+   ]
+  },
+  {
+   "name": "Riichi Okuda",
+   "role": "publisher representative",
+   "variants": [
+    "Riichi Ckuda"
+   ]
+  },
+  {
+   "name": "Eiichi Sugiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Eiichi Sugiyama"
+   ]
+  },
+  {
+   "name": "Shinichi Kawashina",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichi Kawa-shina"
+   ]
+  },
+  {
+   "name": "Naka Funada",
+   "role": "publisher representative",
+   "variants": [
+    "Naka Funada"
+   ]
+  },
+  {
+   "name": "Masanori Oshima",
+   "role": "publisher representative",
+   "variants": [
+    "Nasaneri Oshina"
+   ]
+  },
+  {
+   "name": "Masanari Ito",
+   "role": "publisher representative",
+   "variants": [
+    "Masanari Itc"
+   ]
+  },
+  {
+   "name": "Maiko Negasawa",
+   "role": "publisher representative",
+   "variants": [
+    "Maiko Negasawa"
+   ]
+  },
+  {
+   "name": "Yozo Yukawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yozo Yukawa"
+   ]
+  },
+  {
+   "name": "Seijun Ando",
+   "role": "publisher representative",
+   "variants": [
+    "Seijun Ando"
+   ]
+  },
+  {
+   "name": "Ichizo Yajima",
+   "role": "publisher representative",
+   "variants": [
+    "Ichizc Yajima"
+   ]
+  },
+  {
+   "name": "Jun Nakano",
+   "role": "publisher representative",
+   "variants": [
+    "Jun Nakano"
+   ]
+  },
+  {
+   "name": "Mitsuru Ishii",
+   "role": "publisher representative",
+   "variants": [
+    "Mitsuru Ishii"
+   ]
+  },
+  {
+   "name": "Tetsunobu Uyeda",
+   "role": "publisher representative",
+   "variants": [
+    "Tetsunobu Uyeda"
+   ]
+  },
+  {
+   "name": "Tsunenosuke Machida",
+   "role": "publisher representative",
+   "variants": [
+    "Tsunen suke Machida"
+   ]
+  },
+  {
+   "name": "Takeo Shimizu",
+   "role": "publisher representative",
+   "variants": [
+    "Tekeo Shimizu"
+   ]
+  },
+  {
+   "name": "Iyokichi Nakazawa",
+   "role": "publisher representative",
+   "variants": [
+    "Iyokichi Naka-ze.wa"
+   ]
+  },
+  {
+   "name": "Saburo Nango",
+   "role": "publisher representative",
+   "variants": [
+    "Scbure Nango"
+   ]
+  },
+  {
+   "name": "Yasukichi Yatabe",
+   "role": "publisher representative",
+   "variants": [
+    "Yasukichi Yatabe"
+   ]
+  },
+  {
+   "name": "Tadao Matsumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Tadao Matsu-moto"
+   ]
+  },
+  {
+   "name": "Tyoji Kamei",
+   "role": "publisher representative",
+   "variants": [
+    "Tyoji Kamei"
+   ]
+  },
+  {
+   "name": "Shigeei Akagawa",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeei Akagawa"
+   ]
+  },
+  {
+   "name": "Shinichi Hayakawa",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichi Haya-kawa"
+   ]
+  },
+  {
+   "name": "Sho Ogata",
+   "role": "publisher representative",
+   "variants": [
+    "She Cgata",
+    "Sho Cgata"
+   ]
+  },
+  {
+   "name": "Shigoji Komai",
+   "role": "publisher representative",
+   "variants": [
+    "Shigoji Komai"
+   ]
+  },
+  {
+   "name": "Masanori Katsu",
+   "role": "publisher representative",
+   "variants": [
+    "Masencri Katsu"
+   ]
+  },
+  {
+   "name": "Jyoseki Toda",
+   "role": "publisher representative",
+   "variants": [
+    "Jycseki Tcda"
+   ]
+  },
+  {
+   "name": "Fukuzo Niwo",
+   "role": "publisher representative",
+   "variants": [
+    "Fukuzo Niwo"
+   ]
+  },
+  {
+   "name": "Ihei Ijima",
+   "role": "publisher representative",
+   "variants": [
+    "Ihei Ijina"
+   ]
+  },
+  {
+   "name": "Ikutaro Inouye",
+   "role": "publisher representative",
+   "variants": [
+    "Ikutarc Incuye"
+   ]
+  },
+  {
+   "name": "Teiji Tanake",
+   "role": "publisher representative",
+   "variants": [
+    "Teiji Tanake"
+   ]
+  },
+  {
+   "name": "Chyome Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Chyome Tanaka"
+   ]
+  },
+  {
+   "name": "Shoji Higashiura",
+   "role": "publisher representative",
+   "variants": [
+    "Sheji Higashi-ura"
+   ]
+  },
+  {
+   "name": "Tatsuzo Hirobe",
+   "role": "publisher representative",
+   "variants": [
+    "Tatsuzc Hircbe"
+   ]
+  },
+  {
+   "name": "Nagashige Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Nagashige Tanaka"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeru Ycshida"
+   ]
+  },
+  {
+   "name": "Yasuzo Nomura",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuzc Nonura"
+   ]
+  },
+  {
+   "name": "Yoichi Uyeno",
+   "role": "publisher representative",
+   "variants": [
+    "Yoichi Uyene"
+   ]
+  },
+  {
+   "name": "Rainci Arima",
+   "role": "publisher representative",
+   "variants": [
+    "Rainci Arima"
+   ]
+  },
+  {
+   "name": "Hanjiro Ueda",
+   "role": "publisher representative",
+   "variants": [
+    "Hanjiro Ueda"
+   ]
+  },
+  {
+   "name": "Yoshio Akao",
+   "role": "publisher representative",
+   "variants": [
+    "Ycshic Akac"
+   ]
+  },
+  {
+   "name": "Kimiko Nakagawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kimiko Nakagawa"
+   ]
+  },
+  {
+   "name": "Yasuo Sawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuc sawa"
+   ]
+  },
+  {
+   "name": "Shinsaku Kojima",
+   "role": "publisher representative",
+   "variants": [
+    "Shinsaku Kojima"
+   ]
+  },
+  {
+   "name": "Yasuko Ogata",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuko Ogata"
+   ]
+  },
+  {
+   "name": "Seiichiro Ogawa",
+   "role": "publisher representative",
+   "variants": [
+    "Seiichirc Cgawa"
+   ]
+  },
+  {
+   "name": "Mitsuo Morimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Mitsuc Morimcto"
+   ]
+  },
+  {
+   "name": "Yoshio Sekine",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshio Sekine"
+   ]
+  },
+  {
+   "name": "Juosuke Okawa",
+   "role": "publisher representative",
+   "variants": [
+    "Juc suke Ckawa"
+   ]
+  },
+  {
+   "name": "Yutaka Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Yutaka Tanaka"
+   ]
+  },
+  {
+   "name": "Shoji Omachi",
+   "role": "publisher representative",
+   "variants": [
+    "Shoji (machi"
+   ]
+  },
+  {
+   "name": "Kazuo Katayama",
+   "role": "publisher representative",
+   "variants": [
+    "Kazuo Katayama"
+   ]
+  },
+  {
+   "name": "Keiichi Kaneyama",
+   "role": "publisher representative",
+   "variants": [
+    "Keichi Kaneyama"
+   ]
+  },
+  {
+   "name": "Keizo Kasuya",
+   "role": "publisher representative",
+   "variants": [
+    "Keizo Kasuya"
+   ]
+  },
+  {
+   "name": "Sadayoshi Oseko",
+   "role": "publisher representative",
+   "variants": [
+    "Sadaycshi Qseke"
+   ]
+  },
+  {
+   "name": "Shunichi Nozue",
+   "role": "publisher representative",
+   "variants": [
+    "Shunichi Nozue"
+   ]
+  },
+  {
+   "name": "Ryujiro Oyama",
+   "role": "publisher representative",
+   "variants": [
+    "Fyujire Cyama"
+   ]
+  },
+  {
+   "name": "Tokio Kaburagi",
+   "role": "publisher representative",
+   "variants": [
+    "Tokic Kaburagi"
+   ]
+  },
+  {
+   "name": "Shinzo Ozawa",
+   "role": "publisher representative",
+   "variants": [
+    "Shinzc Ozawa"
+   ]
+  },
+  {
+   "name": "Tomosada Tokugawa",
+   "role": "publisher representative",
+   "variants": [
+    "Tomosada Tokugawa"
+   ]
+  },
+  {
+   "name": "Fumio Seto",
+   "role": "publisher representative",
+   "variants": [
+    "Funio Seto"
+   ]
+  },
+  {
+   "name": "Shyozo Naito",
+   "role": "publisher representative",
+   "variants": [
+    "Shyozo:Naito"
+   ]
+  },
+  {
+   "name": "Masatoshi Okochi",
+   "role": "publisher representative",
+   "variants": [
+    "astoshi Okochi"
+   ]
+  },
+  {
+   "name": "Osamu Negata",
+   "role": "publisher representative",
+   "variants": [
+    "Osamu Negata"
+   ]
+  },
+  {
+   "name": "Kotaro Miyamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kotaro Miyamoto"
+   ]
+  },
+  {
+   "name": "Daisuke Gorai",
+   "role": "publisher representative",
+   "variants": [
+    "Daisuke Gorai"
+   ]
+  },
+  {
+   "name": "Tomio Shibayama",
+   "role": "publisher representative",
+   "variants": [
+    "Tomio Shibayama"
+   ]
+  },
+  {
+   "name": "Seiichi Ohi",
+   "role": "publisher representative",
+   "variants": [
+    "Seiichi Ohi"
+   ]
+  },
+  {
+   "name": "Kanko Mochizuki",
+   "role": "publisher representative",
+   "variants": [
+    "Kanko Nochizuki"
+   ]
+  },
+  {
+   "name": "Yoshio Terutoshi",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshio Terutoshi"
+   ]
+  },
+  {
+   "name": "Tei Odabe",
+   "role": "publisher representative",
+   "variants": [
+    "Tei Odabe"
+   ]
+  },
+  {
+   "name": "Shin Okura",
+   "role": "publisher representative",
+   "variants": [
+    "Shin Okura"
+   ]
+  },
+  {
+   "name": "Yoshiro Kataoka",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshiro Katacka"
+   ]
+  },
+  {
+   "name": "Kenpu Katukawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kenpu Katukawa"
+   ]
+  },
+  {
+   "name": "Takeshi Inomata",
+   "role": "publisher representative",
+   "variants": [
+    "Takeshi Inomata"
+   ]
+  },
+  {
+   "name": "Tomio Nanba",
+   "role": "publisher representative",
+   "variants": [
+    "Tomio Nanba"
+   ]
+  },
+  {
+   "name": "Ryutaro Ohashi",
+   "role": "publisher representative",
+   "variants": [
+    "Ryutarc Ohashi"
+   ]
+  },
+  {
+   "name": "Shun Miyayama",
+   "role": "publisher representative",
+   "variants": [
+    "Shun Miyayama"
+   ]
+  },
+  {
+   "name": "Toshishiro Kawanake",
+   "role": "publisher representative",
+   "variants": [
+    "Toshishiro Ka-wanake"
+   ]
+  },
+  {
+   "name": "Hirotaro Hayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Hirctaro Hayashi"
+   ]
+  },
+  {
+   "name": "Kenjiro Seo",
+   "role": "publisher representative",
+   "variants": [
+    "Kenjiro Seo"
+   ]
+  },
+  {
+   "name": "Mitsuo Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Hitsuc Tanaka"
+   ]
+  },
+  {
+   "name": "Kanro Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Kanro Tanaka"
+   ]
+  },
+  {
+   "name": "Seiryo Hirai",
+   "role": "publisher representative",
+   "variants": [
+    "Seiryc Hirai"
+   ]
+  },
+  {
+   "name": "Ryuji Nishizawa",
+   "role": "publisher representative",
+   "variants": [
+    "Ryuji Nishizawa"
+   ]
+  },
+  {
+   "name": "Matsue Kusamura",
+   "role": "publisher representative",
+   "variants": [
+    "Matsue Kusamura"
+   ]
+  },
+  {
+   "name": "Hison Komeichi",
+   "role": "publisher representative",
+   "variants": [
+    "Fison Komeichi"
+   ]
+  },
+  {
+   "name": "Ryoichi Kumazawa",
+   "role": "publisher representative",
+   "variants": [
+    "Ryoichi Kumazawa"
+   ]
+  },
+  {
+   "name": "Mutsugen Makashima",
+   "role": "publisher representative",
+   "variants": [
+    "utsugen Makashima"
+   ]
+  },
+  {
+   "name": "Haruo Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Earuc Saito"
+   ]
+  },
+  {
+   "name": "Shintaro Goto",
+   "role": "publisher representative",
+   "variants": [
+    "Shintare Goto"
+   ]
+  },
+  {
+   "name": "Kin Sakurai",
+   "role": "publisher representative",
+   "variants": [
+    "Kin Sakurai"
+   ]
+  },
+  {
+   "name": "Toshifumi Gauco",
+   "role": "publisher representative",
+   "variants": [
+    "Toshifumi Gauco"
+   ]
+  },
+  {
+   "name": "Kishiro Sekine",
+   "role": "publisher representative",
+   "variants": [
+    "Kishire Sekine"
+   ]
+  },
+  {
+   "name": "Tojiro Kurahashi",
+   "role": "publisher representative",
+   "variants": [
+    "Tojirc Kurahashi"
+   ]
+  },
+  {
+   "name": "Suteroku Kitajima",
+   "role": "publisher representative",
+   "variants": [
+    "Sutercku Kita-jima"
+   ]
+  },
+  {
+   "name": "Chuichi Kumei",
+   "role": "publisher representative",
+   "variants": [
+    "Chuichi Kumei"
+   ]
+  },
+  {
+   "name": "Taro Nishizawa",
+   "role": "publisher representative",
+   "variants": [
+    "Taro Nishizawa"
+   ]
+  },
+  {
+   "name": "Kahei Takeda",
+   "role": "publisher representative",
+   "variants": [
+    "Kahei Takeda"
+   ]
+  },
+  {
+   "name": "Kishio Satomi",
+   "role": "publisher representative",
+   "variants": [
+    "Kishic Satcmi"
+   ]
+  },
+  {
+   "name": "Kikumatsu Ogawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kikunatsu Ogawa"
+   ]
+  },
+  {
+   "name": "Sakae Kaweda",
+   "role": "publisher representative",
+   "variants": [
+    "Sakae Keveda"
+   ]
+  },
+  {
+   "name": "Toshio Watanabe",
+   "role": "publisher representative",
+   "variants": [
+    "Teshic Watanabe",
+    "Tcshic \"atanabe"
+   ]
+  },
+  {
+   "name": "Keizo Seki",
+   "role": "publisher representative",
+   "variants": [
+    "Keizc Seki"
+   ]
+  },
+  {
+   "name": "Raifuku Yoneoka",
+   "role": "publisher representative",
+   "variants": [
+    "Raifuku Yonecka",
+    "haifuku Yonecka"
+   ]
+  },
+  {
+   "name": "Yoshisaburo Kikura",
+   "role": "publisher representative",
+   "variants": [
+    "Yeshiscbure Kikura"
+   ]
+  },
+  {
+   "name": "Matusaburo Oida",
+   "role": "publisher representative",
+   "variants": [
+    "atusaburo Cida"
+   ]
+  },
+  {
+   "name": "Daiji Tetsumura",
+   "role": "publisher representative",
+   "variants": [
+    "Daiji Tetumura"
+   ]
+  },
+  {
+   "name": "Kunio Nagai",
+   "role": "publisher representative",
+   "variants": [
+    "Kunic Nagai"
+   ]
+  },
+  {
+   "name": "Tametsu Aoki",
+   "role": "publisher representative",
+   "variants": [
+    "Tametsu Acki"
+   ]
+  },
+  {
+   "name": "Seisaburo Uramoto",
+   "role": "publisher representative",
+   "variants": [
+    "Seisaburc Ura-motc"
+   ]
+  },
+  {
+   "name": "Tomio Kodera",
+   "role": "publisher representative",
+   "variants": [
+    "Tomic Kodera"
+   ]
+  },
+  {
+   "name": "Kiyoshi Homma",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyeshi Hcmma",
+    "Kiyeshi Honma"
+   ]
+  },
+  {
+   "name": "Koichi Kawazu",
+   "role": "publisher representative",
+   "variants": [
+    "Krichi Kewazu"
+   ]
+  },
+  {
+   "name": "Shozo Yoshii",
+   "role": "publisher representative",
+   "variants": [
+    "Shoze Yeshii"
+   ]
+  },
+  {
+   "name": "Sei Kuboki",
+   "role": "publisher representative",
+   "variants": [
+    "Sei Kubcki"
+   ]
+  },
+  {
+   "name": "Masao Kumai",
+   "role": "publisher representative",
+   "variants": [
+    "Masac Kumai"
+   ]
+  },
+  {
+   "name": "Yasoburo Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Yascburo Saitc"
+   ]
+  },
+  {
+   "name": "Masami Yamakawa",
+   "role": "publisher representative",
+   "variants": [
+    "Masami Yamakaw"
+   ]
+  },
+  {
+   "name": "Minoru Yasuyema",
+   "role": "publisher representative",
+   "variants": [
+    "Lincru Yasu-yema"
+   ]
+  },
+  {
+   "name": "Kazuki Komorita",
+   "role": "publisher representative",
+   "variants": [
+    "Kazuki Komo-rit?"
+   ]
+  },
+  {
+   "name": "Seijiro Yoshizawa",
+   "role": "publisher representative",
+   "variants": [
+    "Seijirc Ycshi-zewa"
+   ]
+  },
+  {
+   "name": "Uichiro Usuta",
+   "role": "publisher representative",
+   "variants": [
+    "Uichirc Usuta"
+   ]
+  },
+  {
+   "name": "Sozaburo Mori",
+   "role": "publisher representative",
+   "variants": [
+    "Sczabure Meri"
+   ]
+  },
+  {
+   "name": "Toraji Tsukamoto",
+   "role": "publisher representative",
+   "variants": [
+    "T raji Tcukamoto"
+   ]
+  },
+  {
+   "name": "Kenjiro Matsumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kenjiro I'atsumc-to"
+   ]
+  },
+  {
+   "name": "Chikashi Miwa",
+   "role": "publisher representative",
+   "variants": [
+    "Chikeshi Miwa"
+   ]
+  },
+  {
+   "name": "Hansaburo Nakai",
+   "role": "publisher representative",
+   "variants": [
+    "Hansaburc Nakai"
+   ]
+  },
+  {
+   "name": "Yatshichi Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Yatshichi Krbay-ashi"
+   ]
+  },
+  {
+   "name": "Jusu Miwa",
+   "role": "publisher representative",
+   "variants": [
+    "Jusr Liwa"
+   ]
+  },
+  {
+   "name": "Kenji Matsumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kenji 'atsumoto",
+    "Kenji Matsumcto"
+   ]
+  },
+  {
+   "name": "Takeo Funaki",
+   "role": "publisher representative",
+   "variants": [
+    "Takcc Funaki"
+   ]
+  },
+  {
+   "name": "Kensuke Komatsu",
+   "role": "publisher representative",
+   "variants": [
+    "Kensukc Koratsu"
+   ]
+  },
+  {
+   "name": "Tokin Yasujima",
+   "role": "publisher representative",
+   "variants": [
+    "Tckin Yasujina"
+   ]
+  },
+  {
+   "name": "Fukuji Narumi",
+   "role": "publisher representative",
+   "variants": [
+    "Fukuji Naruri"
+   ]
+  },
+  {
+   "name": "Masahiki Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Fasahiki Satc"
+   ]
+  },
+  {
+   "name": "Kuniyori Tokurawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kuniycri Tcku-rawa"
+   ]
+  },
+  {
+   "name": "Katsuhito Inomata",
+   "role": "publisher representative",
+   "variants": [
+    "Katsuhito Incma-ta"
+   ]
+  },
+  {
+   "name": "Fusajiro Ichinomiya",
+   "role": "publisher representative",
+   "variants": [
+    "Fusajirc Ichinc-Fiya"
+   ]
+  },
+  {
+   "name": "Seiso Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Scisc Satc"
+   ]
+  },
+  {
+   "name": "Eiji Ueno",
+   "role": "publisher representative",
+   "variants": [
+    "Eiji Uenc",
+    "Eiji Ueno"
+   ]
+  },
+  {
+   "name": "Makoto Yamazaki",
+   "role": "publisher representative",
+   "variants": [
+    "Makcto Yaraza-ki"
+   ]
+  },
+  {
+   "name": "Nobuo Kitahara",
+   "role": "publisher representative",
+   "variants": [
+    "Nobuc Kitahara"
+   ]
+  },
+  {
+   "name": "Hisao Maebara",
+   "role": "publisher representative",
+   "variants": [
+    "Hisac Maebara"
+   ]
+  },
+  {
+   "name": "Gikyo Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Gikyc Satc"
+   ]
+  },
+  {
+   "name": "Hitoyuki Fujimori",
+   "role": "publisher representative",
+   "variants": [
+    "Hitcyuki Fujinori"
+   ]
+  },
+  {
+   "name": "Akijiro Hasegawa",
+   "role": "publisher representative",
+   "variants": [
+    "Akijirc Hasegawa"
+   ]
+  },
+  {
+   "name": "Yoshio Kurita",
+   "role": "publisher representative",
+   "variants": [
+    "Ycshic Kurita"
+   ]
+  },
+  {
+   "name": "Kunitatsu Nitta",
+   "role": "publisher representative",
+   "variants": [
+    "Kunitatsu Nitta"
+   ]
+  },
+  {
+   "name": "Hideichi Oshima",
+   "role": "publisher representative",
+   "variants": [
+    "Hideichi Oshima"
+   ]
+  },
+  {
+   "name": "Yoshisuke Fujimasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Ycshisuke Fuji-pasaki"
+   ]
+  },
+  {
+   "name": "Tunemasa Miura",
+   "role": "publisher representative",
+   "variants": [
+    "l'unemasa Miura"
+   ]
+  },
+  {
+   "name": "Yuji Endo",
+   "role": "publisher representative",
+   "variants": [
+    "Yuji Endc"
+   ]
+  },
+  {
+   "name": "Shizuo Ando",
+   "role": "publisher representative",
+   "variants": [
+    "Shizuc Ando"
+   ]
+  },
+  {
+   "name": "Shigeyuki Sayama",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeyuki Sayama"
+   ]
+  },
+  {
+   "name": "Matsutaro Yamada",
+   "role": "publisher representative",
+   "variants": [
+    "l'atsutaro Yanada",
+    "MatsutaroYamadc"
+   ]
+  },
+  {
+   "name": "Shinsuke Ochizuki",
+   "role": "publisher representative",
+   "variants": [
+    "Shinsuke cchizu-ki"
+   ]
+  },
+  {
+   "name": "Jiro Nagasaki",
+   "role": "publisher representative",
+   "variants": [
+    "Jirc Nagesaki",
+    "Jiro Nagasaki"
+   ]
+  },
+  {
+   "name": "Ukon Tsuchiya",
+   "role": "publisher representative",
+   "variants": [
+    "Ukcn Tuchiya"
+   ]
+  },
+  {
+   "name": "Yataro Shimizu",
+   "role": "publisher representative",
+   "variants": [
+    "Yataro Shimizu"
+   ]
+  },
+  {
+   "name": "Nobusaburo Honda",
+   "role": "publisher representative",
+   "variants": [
+    "No busaburo Honde"
+   ]
+  },
+  {
+   "name": "Sobei Yamada",
+   "role": "publisher representative",
+   "variants": [
+    "Sobei Yamada"
+   ]
+  },
+  {
+   "name": "Kenichi Yamaoka",
+   "role": "publisher representative",
+   "variants": [
+    "Kenichi Yamaoka"
+   ]
+  },
+  {
+   "name": "Hichizo Nomura",
+   "role": "publisher representative",
+   "variants": [
+    "Hichizc Nomura"
+   ]
+  },
+  {
+   "name": "Isota Tsuchii",
+   "role": "publisher representative",
+   "variants": [
+    "Iscta Tsuchii",
+    "Isota Tsuchii"
+   ]
+  },
+  {
+   "name": "Shigeji Tuboi",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeji Tuboi"
+   ]
+  },
+  {
+   "name": "Koji Takashima",
+   "role": "publisher representative",
+   "variants": [
+    "Koji Takashima"
+   ]
+  },
+  {
+   "name": "Eijiro Yamanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Eijiro Yamanaka"
+   ]
+  },
+  {
+   "name": "Tamizo Yokoo",
+   "role": "publisher representative",
+   "variants": [
+    "Tarizc Yckco"
+   ]
+  },
+  {
+   "name": "Michio Kihara",
+   "role": "publisher representative",
+   "variants": [
+    "Michio Kihara"
+   ]
+  },
+  {
+   "name": "Taneji Kitami",
+   "role": "publisher representative",
+   "variants": [
+    "Taneji Kitami"
+   ]
+  },
+  {
+   "name": "Yoshikuni Kishida",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshikuni Kishida"
+   ]
+  },
+  {
+   "name": "Takae Masuda",
+   "role": "publisher representative",
+   "variants": [
+    "Takae Masuda"
+   ]
+  },
+  {
+   "name": "Yujiro Ota",
+   "role": "publisher representative",
+   "variants": [
+    "Yujiro Ota"
+   ]
+  },
+  {
+   "name": "Bentei Tonomatsu",
+   "role": "publisher representative",
+   "variants": [
+    "EenteiTonomatsu"
+   ]
+  },
+  {
+   "name": "Eiichi Kandaku",
+   "role": "publisher representative",
+   "variants": [
+    "Eiichi Kandaku"
+   ]
+  },
+  {
+   "name": "Shozo Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Shozo Suzuki"
+   ]
+  },
+  {
+   "name": "Minoru Yamanashi",
+   "role": "publisher representative",
+   "variants": [
+    "Minoru Yamanashi"
+   ]
+  },
+  {
+   "name": "Hikosaburo Yanagisawa",
+   "role": "publisher representative",
+   "variants": [
+    "Hikcsaburo Yana-gisawa"
+   ]
+  },
+  {
+   "name": "Kazuo Yatsugi",
+   "role": "publisher representative",
+   "variants": [
+    "Kazuo Yatsugi"
+   ]
+  },
+  {
+   "name": "Toranosuke Aoyana",
+   "role": "publisher representative",
+   "variants": [
+    "Toranosuke Acyana"
+   ]
+  },
+  {
+   "name": "Yodo Samukawa",
+   "role": "publisher representative",
+   "variants": [
+    "Yodo Samukawa"
+   ]
+  },
+  {
+   "name": "Toshio Sato",
+   "role": "publisher representative",
+   "variants": [
+    "Tcshio Satc"
+   ]
+  },
+  {
+   "name": "Kanane Ninowa",
+   "role": "publisher representative",
+   "variants": [
+    "Kanane Nincwa"
+   ]
+  },
+  {
+   "name": "Keizo Tujimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Keizo Tujimoto"
+   ]
+  },
+  {
+   "name": "Zenkichi Obuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Zenkichi Obuchi"
+   ]
+  },
+  {
+   "name": "Kaoru Akimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Kacru Akirotc"
+   ]
+  },
+  {
+   "name": "Haruritu Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Haruritu Nakamura"
+   ]
+  },
+  {
+   "name": "Genshiro Shima",
+   "role": "publisher representative",
+   "variants": [
+    "Genshiro Shima"
+   ]
+  },
+  {
+   "name": "Umimatsu Uma",
+   "role": "publisher representative",
+   "variants": [
+    "Umimatsu Uma"
+   ]
+  },
+  {
+   "name": "Kenji Kajima",
+   "role": "publisher representative",
+   "variants": [
+    "Kenji Kajima"
+   ]
+  },
+  {
+   "name": "Toru Jara",
+   "role": "publisher representative",
+   "variants": [
+    "Toru Jara"
+   ]
+  },
+  {
+   "name": "Hiroshi Takeuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Hiroshi Takeuchi"
+   ]
+  },
+  {
+   "name": "Kanematsu Yahata",
+   "role": "publisher representative",
+   "variants": [
+    "Kaneratsu Yahata"
+   ]
+  },
+  {
+   "name": "Chiyojo Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Chiycjc Yoshida"
+   ]
+  },
+  {
+   "name": "Juji Aiga",
+   "role": "publisher representative",
+   "variants": [
+    "Juji Aiga"
+   ]
+  },
+  {
+   "name": "Jun Dobe",
+   "role": "publisher representative",
+   "variants": [
+    "Jun Dobe"
+   ]
+  },
+  {
+   "name": "Zenbei Miwa",
+   "role": "publisher representative",
+   "variants": [
+    "Zenbei Miwa"
+   ]
+  },
+  {
+   "name": "Kenkichi Noguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Kenkichi Noguchi"
+   ]
+  },
+  {
+   "name": "Tomeji Yokoo",
+   "role": "publisher representative",
+   "variants": [
+    "Tomeji Yckco"
+   ]
+  },
+  {
+   "name": "Junichiro Nishimura",
+   "role": "publisher representative",
+   "variants": [
+    "Junichirc Nishi-rura"
+   ]
+  },
+  {
+   "name": "Takuo Godo",
+   "role": "publisher representative",
+   "variants": [
+    "Takuc Godo"
+   ]
+  },
+  {
+   "name": "Junkichi Fujioka",
+   "role": "publisher representative",
+   "variants": [
+    "Junkichi Fuji-oka",
+    "Junkichi Fujioka"
+   ]
+  },
+  {
+   "name": "Yasuhiko Asahina",
+   "role": "publisher representative",
+   "variants": [
+    "Yashuhiko Asa-hina"
+   ]
+  },
+  {
+   "name": "Sadao Takeuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Sadao Takeuchi"
+   ]
+  },
+  {
+   "name": "Hisayo Shimoide",
+   "role": "publisher representative",
+   "variants": [
+    "Hisayo Shimoide"
+   ]
+  },
+  {
+   "name": "Sakuo Yanao",
+   "role": "publisher representative",
+   "variants": [
+    "Sakuo Yanao"
+   ]
+  },
+  {
+   "name": "Ryo Kobayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Ryo Kobayashi"
+   ]
+  },
+  {
+   "name": "Hikomaro Konishi",
+   "role": "publisher representative",
+   "variants": [
+    "Hikomaro Konishi"
+   ]
+  },
+  {
+   "name": "Iwa Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Iwa Suzuki"
+   ]
+  },
+  {
+   "name": "Kin Moritani",
+   "role": "publisher representative",
+   "variants": [
+    "Kin Moritani"
+   ]
+  },
+  {
+   "name": "Ryuko Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Ryuko Saito"
+   ]
+  },
+  {
+   "name": "Chiko Yatsuhashi",
+   "role": "publisher representative",
+   "variants": [
+    "Chiko Yatsuha-shi"
+   ]
+  },
+  {
+   "name": "Yuhei Adachi",
+   "role": "publisher representative",
+   "variants": [
+    "Yuhei Adachi"
+   ]
+  },
+  {
+   "name": "Hatsuzo Wakatsuki",
+   "role": "publisher representative",
+   "variants": [
+    "Hatsuzo Vakatsu-ki"
+   ]
+  },
+  {
+   "name": "Takemi Ishikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Takemi Ishikawa"
+   ]
+  },
+  {
+   "name": "Yasuhiro Koriya",
+   "role": "publisher representative",
+   "variants": [
+    "Yasuhiro Koriya"
+   ]
+  },
+  {
+   "name": "Honyu Hamada",
+   "role": "publisher representative",
+   "variants": [
+    "Honyu Hamada"
+   ]
+  },
+  {
+   "name": "Yozo Nihei",
+   "role": "publisher representative",
+   "variants": [
+    "Yozc Nihei"
+   ]
+  },
+  {
+   "name": "Heizo Noguchi",
+   "role": "publisher representative",
+   "variants": [
+    "Heizo Noguchi"
+   ]
+  },
+  {
+   "name": "Toshihiko Wada",
+   "role": "publisher representative",
+   "variants": [
+    "Toshihiko Wada",
+    "Tcshihike Wada"
+   ]
+  },
+  {
+   "name": "Shuji Watanabe",
+   "role": "publisher representative",
+   "variants": [
+    "Shuji Watanabe"
+   ]
+  },
+  {
+   "name": "Ayuichi Fukumoto",
+   "role": "publisher representative",
+   "variants": [
+    "Ayuichi Fukumcto"
+   ]
+  },
+  {
+   "name": "Chisao Kuroyanagi",
+   "role": "publisher representative",
+   "variants": [
+    "Chisac Kurcyanagi"
+   ]
+  },
+  {
+   "name": "Noboru Chito",
+   "role": "publisher representative",
+   "variants": [
+    "Nobcru Chito"
+   ]
+  },
+  {
+   "name": "Kazuo Kuwana",
+   "role": "publisher representative",
+   "variants": [
+    "Kezuo Kuvana"
+   ]
+  },
+  {
+   "name": "Jinio Azeyanagi",
+   "role": "publisher representative",
+   "variants": [
+    "Jinio Azeyanagi"
+   ]
+  },
+  {
+   "name": "Kiichi Irino",
+   "role": "publisher representative",
+   "variants": [
+    "Kiichi Irino"
+   ]
+  },
+  {
+   "name": "Kyoshi Shoun",
+   "role": "publisher representative",
+   "variants": [
+    "Kycshi Shcun"
+   ]
+  },
+  {
+   "name": "Toyosaku Yabe",
+   "role": "publisher representative",
+   "variants": [
+    "nyosaku Yabe"
+   ]
+  },
+  {
+   "name": "Takeshi Shikano",
+   "role": "publisher representative",
+   "variants": [
+    "Takeshi Shikano"
+   ]
+  },
+  {
+   "name": "Hideo Horie",
+   "role": "publisher representative",
+   "variants": [
+    "Hidec Horie"
+   ]
+  },
+  {
+   "name": "Shunji Kusunoki",
+   "role": "publisher representative",
+   "variants": [
+    "Shunji Kusuncki"
+   ]
+  },
+  {
+   "name": "Suekichi Kamata",
+   "role": "publisher representative",
+   "variants": [
+    "Suekichi Kamata"
+   ]
+  },
+  {
+   "name": "Kitazawa",
+   "role": "publisher representative; given name not stated",
+   "variants": [
+    "Kitazawa"
+   ]
+  },
+  {
+   "name": "Kaoru Funeyama",
+   "role": "publisher representative",
+   "variants": [
+    "Kaoru Funeyama"
+   ]
+  },
+  {
+   "name": "Seiji Toyama",
+   "role": "publisher representative",
+   "variants": [
+    "Seiji Toyame"
+   ]
+  },
+  {
+   "name": "Kotaro Sugiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Kotaro Suci-yama"
+   ]
+  },
+  {
+   "name": "Ginsoku Hasegawa",
+   "role": "publisher representative",
+   "variants": [
+    "Ginscku Hasegawa"
+   ]
+  },
+  {
+   "name": "Hatsuzo Nishiya",
+   "role": "publisher representative",
+   "variants": [
+    "Fatsuzo Nishiya"
+   ]
+  },
+  {
+   "name": "Sho Kato",
+   "role": "publisher representative",
+   "variants": [
+    "Sho Katc"
+   ]
+  },
+  {
+   "name": "Mitsuo Saito",
+   "role": "publisher representative",
+   "variants": [
+    "Mituc Saito"
+   ]
+  },
+  {
+   "name": "Ichisaburo Sugiyama",
+   "role": "publisher representative",
+   "variants": [
+    "Ichisaburo Suriyara"
+   ]
+  },
+  {
+   "name": "Yasuo Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "'asuc Suzuki"
+   ]
+  },
+  {
+   "name": "Hisatada Hirose",
+   "role": "publisher representative",
+   "variants": [
+    "Hisatada Hirose"
+   ]
+  },
+  {
+   "name": "Saburo Takeshima",
+   "role": "publisher representative",
+   "variants": [
+    "Sabure Take-shira"
+   ]
+  },
+  {
+   "name": "Yonezo Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Yonczc Suzuki"
+   ]
+  },
+  {
+   "name": "Teriko Ryu",
+   "role": "publisher representative",
+   "variants": [
+    "Terike Ryu"
+   ]
+  },
+  {
+   "name": "Kinnosuke Onaka",
+   "role": "publisher representative",
+   "variants": [
+    "Kinnosuke Cnaka"
+   ]
+  },
+  {
+   "name": "Yoshitaro Nishibe",
+   "role": "publisher representative",
+   "variants": [
+    "Yoshitaro Nishibe"
+   ]
+  },
+  {
+   "name": "Yusuke Turumi",
+   "role": "publisher representative",
+   "variants": [
+    "Yusuke Turumi"
+   ]
+  },
+  {
+   "name": "Hiroshi Nakamura",
+   "role": "publisher representative",
+   "variants": [
+    "Hiroshi Nekamura"
+   ]
+  },
+  {
+   "name": "Shunnei Ishihara",
+   "role": "publisher representative",
+   "variants": [
+    "Shunnei Ishihara"
+   ]
+  },
+  {
+   "name": "Koshiro Shiba",
+   "role": "publisher representative",
+   "variants": [
+    "Koshirc Shiba",
+    "Koshiro Shiba"
+   ]
+  },
+  {
+   "name": "Koji Kitamura",
+   "role": "publisher representative",
+   "variants": [
+    "Koji Kitanure"
+   ]
+  },
+  {
+   "name": "Kiyoshige Kamitani",
+   "role": "publisher representative",
+   "variants": [
+    "Kiyoshige Kami-tani"
+   ]
+  },
+  {
+   "name": "Ichiro Yoshioka",
+   "role": "publisher representative",
+   "variants": [
+    "Ichirc Yoshioka"
+   ]
+  },
+  {
+   "name": "Koichiro Hagihara",
+   "role": "publisher representative",
+   "variants": [
+    "Kcichiro Hagi-hara"
+   ]
+  },
+  {
+   "name": "Mitsuyoshi Yamatori",
+   "role": "publisher representative",
+   "variants": [
+    "Mituyoshi Yana-tori"
+   ]
+  },
+  {
+   "name": "Kaeron Nishikawa",
+   "role": "publisher representative",
+   "variants": [
+    "Kaeron Nishikawa"
+   ]
+  },
+  {
+   "name": "Ippei Suzuki",
+   "role": "publisher representative",
+   "variants": [
+    "Ippei Suzuki"
+   ]
+  },
+  {
+   "name": "Kahei Murata",
+   "role": "publisher representative",
+   "variants": [
+    "Kahei Murata"
+   ]
+  },
+  {
+   "name": "Riycho Loki",
+   "role": "publisher representative",
+   "variants": [
+    "Riycho Loki"
+   ]
+  },
+  {
+   "name": "Teruji Tajima",
+   "role": "publisher representative",
+   "variants": [
+    "Teruji Tajima"
+   ]
+  },
+  {
+   "name": "Naru Haturi",
+   "role": "publisher representative",
+   "variants": [
+    "Naru Haturi"
+   ]
+  },
+  {
+   "name": "Shigeichi Sagara",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeichi Sagara"
+   ]
+  },
+  {
+   "name": "Hiroichi Takaoka",
+   "role": "publisher representative",
+   "variants": [
+    "Hircichi Takacka"
+   ]
+  },
+  {
+   "name": "Takao Taniichi",
+   "role": "publisher or proprietor",
+   "variants": [
+    "TAKAO TANIICHI"
+   ]
+  },
+  {
+   "name": "Kinichi Takayeme",
+   "role": "publisher representative",
+   "variants": [
+    "Kinichi Takayeme"
+   ]
+  },
+  {
+   "name": "Kyushiro Takane",
+   "role": "publisher representative",
+   "variants": [
+    "Kyushiro Takane"
+   ]
+  },
+  {
+   "name": "Suetake Ohera",
+   "role": "publisher representative",
+   "variants": [
+    "Suetake Chera"
+   ]
+  },
+  {
+   "name": "Sanya Kikuchi",
+   "role": "publisher representative",
+   "variants": [
+    "Sanya Kikuchi"
+   ]
+  },
+  {
+   "name": "Tadakichi Otani",
+   "role": "publisher representative",
+   "variants": [
+    "Tadakichi Ctani"
+   ]
+  },
+  {
+   "name": "Kiku Kitahara",
+   "role": "publisher representative",
+   "variants": [
+    "Kiku Kitahara"
+   ]
+  },
+  {
+   "name": "Natuni Sekagani",
+   "role": "publisher representative",
+   "variants": [
+    "Natuni Sekagani"
+   ]
+  },
+  {
+   "name": "Kesaburo Tanaka",
+   "role": "publisher representative",
+   "variants": [
+    "Kesaburo Tanaka"
+   ]
+  },
+  {
+   "name": "Ryozo Azune",
+   "role": "publisher representative",
+   "variants": [
+    "Ryczo Azune"
+   ]
+  },
+  {
+   "name": "Chuzo Iwata",
+   "role": "publisher representative",
+   "variants": [
+    "Chuzo Iwata"
+   ]
+  },
+  {
+   "name": "Koichi Miyake",
+   "role": "publisher representative",
+   "variants": [
+    "Koichi Niyake"
+   ]
+  },
+  {
+   "name": "Chorei Ujiie",
+   "role": "publisher representative",
+   "variants": [
+    "Chorei Ujiie"
+   ]
+  },
+  {
+   "name": "Yaezo Hirata",
+   "role": "publisher representative",
+   "variants": [
+    "Yaezo Hirata"
+   ]
+  },
+  {
+   "name": "Kunishiro Inoue",
+   "role": "publisher representative",
+   "variants": [
+    "Kunishiro Inoue"
+   ]
+  },
+  {
+   "name": "Kimio Moriya",
+   "role": "publisher representative",
+   "variants": [
+    "Kimio Moriya"
+   ]
+  },
+  {
+   "name": "Kyuki Takasake",
+   "role": "publisher representative",
+   "variants": [
+    "Kyuki Takasake"
+   ]
+  },
+  {
+   "name": "Kenji Tomiyasu",
+   "role": "publisher representative",
+   "variants": [
+    "Kenji Toniyasu"
+   ]
+  },
+  {
+   "name": "Saiichi Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Saiichi Yoshida"
+   ]
+  },
+  {
+   "name": "Atsushi Miura",
+   "role": "publisher representative",
+   "variants": [
+    "Atushi Miura"
+   ]
+  },
+  {
+   "name": "Koichi Nagai",
+   "role": "publisher representative",
+   "variants": [
+    "Kcichi Nagai"
+   ]
+  },
+  {
+   "name": "Eikichi Otuka",
+   "role": "publisher representative",
+   "variants": [
+    "Eikichi Otuka"
+   ]
+  },
+  {
+   "name": "Fumi Murayama",
+   "role": "publisher representative",
+   "variants": [
+    "Funi Nurayama"
+   ]
+  },
+  {
+   "name": "Ken Sawada",
+   "role": "publisher representative",
+   "variants": [
+    "Ken Sawada"
+   ]
+  },
+  {
+   "name": "Junichi Koizumi",
+   "role": "publisher representative",
+   "variants": [
+    "Junichi Kcizumi"
+   ]
+  },
+  {
+   "name": "Ko Yoshida",
+   "role": "publisher representative",
+   "variants": [
+    "Ko Yoshida"
+   ]
+  },
+  {
+   "name": "Tadashi Ogata",
+   "role": "publisher representative",
+   "variants": [
+    "Tadashi Ogata"
+   ]
+  },
+  {
+   "name": "Riichi Nakahara",
+   "role": "publisher representative",
+   "variants": [
+    "Riichi Nakahara"
+   ]
+  },
+  {
+   "name": "Toshizu Karasawa",
+   "role": "publisher representative",
+   "variants": [
+    "Toshizu Karasawa"
+   ]
+  },
+  {
+   "name": "Tanao Fukui",
+   "role": "publisher representative",
+   "variants": [
+    "Tanac Fukui"
+   ]
+  },
+  {
+   "name": "Ko Wada",
+   "role": "publisher representative",
+   "variants": [
+    "Ko \"ada"
+   ]
+  },
+  {
+   "name": "Senshi Shinozaki",
+   "role": "publisher representative",
+   "variants": [
+    "Senshi Shino-zaki"
+   ]
+  },
+  {
+   "name": "Toshizo Arei",
+   "role": "publisher representative",
+   "variants": [
+    "Toshizo Arei"
+   ]
+  },
+  {
+   "name": "Fusuke Kimura",
+   "role": "publisher representative",
+   "variants": [
+    "Fusuke Kimura"
+   ]
+  },
+  {
+   "name": "Masusaburo Shimada",
+   "role": "publisher representative",
+   "variants": [
+    "Masusaburo Shi-mada"
+   ]
+  },
+  {
+   "name": "Teijiro Yanegisawa",
+   "role": "publisher representative",
+   "variants": [
+    "Teijiro Yanegi-sava"
+   ]
+  },
+  {
+   "name": "Junzo Shimizu",
+   "role": "publisher representative",
+   "variants": [
+    "Junzo Shinizu"
+   ]
+  },
+  {
+   "name": "Mitsuko Oomi",
+   "role": "publisher representative",
+   "variants": [
+    "Mituko Oomi"
+   ]
+  },
+  {
+   "name": "Kyoichi Kukita",
+   "role": "publisher representative",
+   "variants": [
+    "Kyoichi Kukita"
+   ]
+  },
+  {
+   "name": "Shiro Ota",
+   "role": "publisher representative",
+   "variants": [
+    "Shiro Ota"
+   ]
+  },
+  {
+   "name": "Masu Kimoto",
+   "role": "publisher representative",
+   "variants": [
+    "Masu Kimoto"
+   ]
+  },
+  {
+   "name": "Hirokichi Hayashi",
+   "role": "publisher representative",
+   "variants": [
+    "Hirckichi Haya-shi"
+   ]
+  },
+  {
+   "name": "Shinichi Nishimura",
+   "role": "publisher representative",
+   "variants": [
+    "Shinichi Nishi-mura"
+   ]
+  },
+  {
+   "name": "Shigeyosi Matumae",
+   "role": "publisher representative",
+   "variants": [
+    "Shigeyosi Matumae"
+   ]
+  },
+  {
+   "name": "Kurataro Maeda",
+   "role": "publisher representative",
+   "variants": [
+    "Kurataro Maeda"
+   ]
+  },
+  {
+   "name": "Yuji Sudo",
+   "role": "publisher representative",
+   "variants": [
+    "Yuji Sudo"
+   ]
+  },
+  {
+   "name": "Masanobu Yamamoto",
+   "role": "publisher representative",
+   "variants": [
+    "Masanobu Yama-moto"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese press",
+  "wartime censorship",
+  "press control",
+  "newspaper consolidation",
+  "SCAP",
+  "Civil Information and Education Section",
+  "newspaper statistics",
+  "news services",
+  "publishing industry",
+  "occupation of Japan",
+  "publisher directory"
+ ],
+ "subfiles": [
+  {
+   "title": "The Japanese Press as an Instrument for Control",
+   "doc_type": "current intelligence study",
+   "start_page": 1,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1945-06-29",
+   "from": "Office of Strategic Services, Research and Analysis Branch",
+   "to": "",
+   "about": "Analyzes the Japanese press as a centralized instrument of wartime social and political control.",
+   "summary": "The study describes Japanese newspapers as influential, widely circulated, technically efficient, and traditionally prone to sensationalism and factual invention. It explains government control through negative censorship, licensing, confiscation, suspension, penalties, and voluntary prepublication review. It also traces the consolidation of newspapers and news agencies, especially the creation of Domei, and suggests that the same centralized apparatus could assist an Allied military government in restoring order.",
+   "keywords": [
+    "Office of Strategic Services",
+    "Japanese press",
+    "censorship",
+    "Domei",
+    "newspaper consolidation",
+    "propaganda",
+    "Allied military government"
+   ]
+  },
+  {
+   "title": "Request for information on the press of occupied Japan",
+   "doc_type": "letter",
+   "start_page": 4,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1947-04-03",
+   "from": "John R. Price, School of Journalism, Ohio State University",
+   "to": "Department of State, Information and Education Section",
+   "about": "Requests current official material for a comparative study of prewar and postwar Japanese newspapers and publications.",
+   "summary": "Price asks for MacArthur's Press Code, monthly SCAP announcements, current newspaper counts, information on English-language papers, and accounts of production strikes at the Yomiuri Shimbun and Hokkaido Shimbun. He also seeks information on political affiliations, newspaper unions, wartime English-language publishing, and other current reports on the occupied Japanese press.",
+   "keywords": [
+    "John R. Price",
+    "SCAP",
+    "Press Code",
+    "Yomiuri Shimbun",
+    "Hokkaido Shimbun",
+    "newspaper unions",
+    "occupation press"
+   ]
+  },
+  {
+   "title": "Reply forwarding Price's inquiry to the War Department",
+   "doc_type": "letter",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1947-04-15",
+   "from": "Frank W. Schuler Jr., Division of Occupied Areas",
+   "to": "John R. Price",
+   "about": "Acknowledges Price's request and forwards it to the War Department's Civil Affairs Division.",
+   "summary": "Schuler acknowledges the April 3 inquiry concerning data on the Japanese press. He explains that the request has been referred to the Civil Affairs Division of the War Department, where material on occupied areas is primarily available, and says that division should respond directly.",
+   "keywords": [
+    "Japanese press",
+    "Civil Affairs Division",
+    "War Department",
+    "information request"
+   ]
+  },
+  {
+   "title": "Inquiry about Japanese news services",
+   "doc_type": "letter",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1947-04-14",
+   "from": "Inko Iben, University of Illinois Library",
+   "to": "Hugh Borton, Division of Northeast Asian Affairs",
+   "about": "Asks which Japanese news services should be acquired for scholarly study.",
+   "summary": "Iben explains an interest in obtaining Japanese news services so that scholars can study them. He identifies the Okuyama, Jiji, and Kyodo services and asks whether there would be excessive duplication in subscribing to all three.",
+   "keywords": [
+    "Okuyama News Service",
+    "Jiji News Service",
+    "Kyodo News Service",
+    "University of Illinois Library",
+    "news-service subscriptions"
+   ]
+  },
+  {
+   "title": "Reply on Okuyama, Jiji, and Kyodo services",
+   "doc_type": "letter",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1947-04-22",
+   "from": "John M. Allison, Acting Chief, Division of Northeast Asian Affairs",
+   "to": "Inko Iben",
+   "about": "Explains the content of three Japanese news services and recommends a combination of subscriptions.",
+   "summary": "Allison says the Okuyama service translates Japanese newspaper editorials and leading articles into English. Jiji and Kyodo instead provide English translations of news written by their respective staffs, so he recommends Okuyama plus either Jiji or Kyodo rather than subscribing to both similar news services.",
+   "keywords": [
+    "Okuyama News Service",
+    "Jiji",
+    "Kyodo",
+    "English translations",
+    "Japanese newspapers"
+   ]
+  },
+  {
+   "title": "Transmittal of reports containing Japanese newspaper statistics",
+   "doc_type": "despatch",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1947-10-07",
+   "from": "Counselor of Mission, United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Forwards SCAP reports on Japanese newspaper statistics and publishers.",
+   "summary": "The despatch transmits five copies each of two statistical reports on newspapers as of March 15 and May 15, 1946, together with the special report Current Japanese Publishers. All three reports were prepared by the Civil Information and Education Section of Allied headquarters.",
+   "keywords": [
+    "United States Political Adviser for Japan",
+    "SCAP",
+    "newspaper statistics",
+    "Japanese publishers",
+    "report transmittal"
+   ]
+  },
+  {
+   "title": "Routing note on Japanese press and publishing data",
+   "doc_type": "memorandum",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "",
+   "from": "MG",
+   "to": "JMA",
+   "about": "Notes the strengths and limitations of the accompanying Japanese publishing report.",
+   "summary": "The brief internal note says the report provides basic information on the Japanese press and publishing business but does not cover newspaper circulation or political complexion. It highlights the finding that 88 percent of Japan's 1,445 press and publishing businesses are located in Tokyo.",
+   "keywords": [
+    "publishing statistics",
+    "Tokyo concentration",
+    "Japanese press",
+    "routing note"
+   ]
+  },
+  {
+   "title": "Basic Statistics: Newspapers as of 15 March 1946",
+   "doc_type": "statistical report",
+   "start_page": 11,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1946-03-25",
+   "from": "Press and Publications Research Unit, Civil Information and Education Section, SCAP",
+   "to": "",
+   "about": "Tabulates the number, frequency, circulation, employment, distribution, and equipment of Japanese newspapers.",
+   "summary": "The report counts 418 operating newspapers, classified as general or special publications and by frequency of issue, while recording another 220 as ceased, suspended, or undetermined. For the 55 most important dailies it gives a circulation of 13,898,506 and employment of 23,221. It also lists their prefectural distribution and operative rotary presses, monotypes, and linotypes.",
+   "keywords": [
+    "newspaper statistics",
+    "circulation",
+    "employment",
+    "geographical distribution",
+    "printing equipment",
+    "Japanese Press League"
+   ]
+  },
+  {
+   "title": "Basic Statistics: Newspapers as of 15 May 1946",
+   "doc_type": "statistical report",
+   "start_page": 14,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1946-06-08",
+   "from": "Press and Publications Research Unit, Civil Information and Education Section, SCAP",
+   "to": "",
+   "about": "Classifies Japanese newspapers and news services known to have appeared between March 15 and May 15, 1946.",
+   "summary": "The report identifies 837 publications, divided into 392 general-news papers and 445 special-interest papers or news services. It breaks the latter category into business, children's, cultural, financial, educational, government, labor, local, Korean and Chinese, religious, trade, women's, youth, and organizational publications. The compilers caution that some categories overlap and note that the government-publication figure is probably incomplete.",
+   "keywords": [
+    "newspaper statistics",
+    "general newspapers",
+    "special-interest press",
+    "news services",
+    "labor press",
+    "religious press",
+    "trade journals"
+   ]
+  },
+  {
+   "title": "Current Japanese Publishers",
+   "doc_type": "special report and directory",
+   "start_page": 16,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1946-04-05",
+   "from": "Press and Publications Research Unit, Civil Information and Education Section, SCAP",
+   "to": "",
+   "about": "Provides a geographically arranged directory of Japanese publishers, their addresses, representatives, and publishing specialties.",
+   "summary": "The report is based on lists supplied by the Japanese Publishers Association and Turenami Book Store and estimates that it covers about 90 percent of active publishers. It counts 1,445 firms, including 1,165 in Tokyo, and stresses the extraordinary concentration of publishing and related press activity in the capital. The directory then lists firms alphabetically with addresses, representatives, and codes for books, magazines, or both; this section reaches entries beginning with “Tokyo” and the report continues beyond page 78.",
+   "keywords": [
+    "Japanese publishers",
+    "publisher directory",
+    "Tokyo",
+    "Japanese Publishers Association",
+    "addresses",
+    "publisher representatives",
+    "books",
+    "magazines",
+    "publishing concentration"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 3,
+  "pages": [
+   1,
+   78
+  ],
+  "pdf": "894.91 Japan, Public Press., June 29, 1945 - December 15, 1945 1499.pdf",
+  "seconds": 656.2,
+  "created": "2026-09-30 19:23:07",
+  "key": "japan-internal-affairs-894.91-japan-public-press-5"
+ }
+}

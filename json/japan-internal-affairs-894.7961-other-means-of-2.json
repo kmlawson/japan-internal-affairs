@@ -1,0 +1,950 @@
+{
+ "overview": "This file traces the regulation and proposed expansion of civil and international aviation in occupied Japan from August 1947 through March 1949. It begins with an internal U.S. proposal to permit commercial airlines to carry passengers, mail, and cargo, then documents repeated Soviet violations of SCAP air-traffic rules at Haneda and the resulting enforcement measures. A substantial section contains SCAP Circular No. 14, with detailed routes, communications procedures, emergency rules, maps, and navigational aids. Later papers concern Pan American World Airways’ proposal to operate an internal U.S.-flag airline in Japan, the slow progress of Far Eastern Commission policy, and subsequent revisions of international air-traffic regulations.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN",
+    "Japanese territory"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "U. S.",
+    "UNITED STATES",
+    "UNITED STATES OF AMERICA",
+    "United States of America"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "THE UNION OF SOVIET SOCIALIST REPUBLICS",
+    "U.S.S.R."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokyo Area",
+    "Tokyo Control area",
+    "city of Tokyo"
+   ]
+  },
+  {
+   "name": "Haneda Airport",
+   "variants": [
+    "Haneda airfield",
+    "Haneda Air Base",
+    "Haneda",
+    "Haneda air tower",
+    "Haneda Airport",
+    "Haneda Airfield",
+    "HANEDA",
+    "Manoda Airfield"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington.",
+    "WASHINGTON 25, D. C.",
+    "Washington 25, D. C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York 17, N.Y.",
+    "New York 17, N. Y."
+   ]
+  },
+  {
+   "name": "Mainland Asia",
+   "variants": [
+    "Asiatic mainland"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Sea of Japan",
+   "variants": [
+    "Sea of Japan"
+   ]
+  },
+  {
+   "name": "Sado Island",
+   "variants": [
+    "Sado Island",
+    "SADO ISLAND",
+    "Sado"
+   ]
+  },
+  {
+   "name": "Ryōtsu",
+   "variants": [
+    "Ryozu",
+    "RYOZU"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata",
+    "NIIGATA"
+   ]
+  },
+  {
+   "name": "Kōriyama",
+   "variants": [
+    "Koriyama",
+    "KORIYAMA"
+   ]
+  },
+  {
+   "name": "Koga",
+   "variants": [
+    "Koga",
+    "KOGA"
+   ]
+  },
+  {
+   "name": "Nagaoka",
+   "variants": [
+    "Nagaoka",
+    "NAGAOKA"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi",
+    "MAEBASHI"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Izu Ōshima",
+   "variants": [
+    "O-Shima",
+    "O-SHIMA"
+   ]
+  },
+  {
+   "name": "Kanoya",
+   "variants": [
+    "Kanoya"
+   ]
+  },
+  {
+   "name": "Mount Fuji",
+   "variants": [
+    "FUJI-SAN"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOKOHAMA"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "The Pentagon",
+   "variants": [
+    "Pentagon"
+   ]
+  },
+  {
+   "name": "Chrysler Building",
+   "variants": [
+    "Chrysler Building"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Mr. Whitman",
+   "role": "State Department Japan-Korea office official and author of the August 4, 1947 memorandum",
+   "variants": [
+    "Mr. Whitman",
+    "RWM"
+   ]
+  },
+  {
+   "name": "Frank R. McCoy",
+   "role": "General and U.S. representative to the Far Eastern Commission",
+   "variants": [
+    "General McCoy"
+   ]
+  },
+  {
+   "name": "D. O. Bowman",
+   "role": "Shown in drafting initials",
+   "variants": [
+    "DOBowman"
+   ]
+  },
+  {
+   "name": "Robert A. Fearey",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Fearey"
+   ]
+  },
+  {
+   "name": "A. M. Ivantsev",
+   "role": "Master sergeant and radio operator aboard Soviet Catalina No. 29",
+   "variants": [
+    "Master Sergeant Ivantsov",
+    "IVANTSEV, A.M."
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, Adjutant General’s Department; Adjutant General",
+   "variants": [
+    "R. M. LEVY"
+   ]
+  },
+  {
+   "name": "R. B. Finn",
+   "role": "Shown in despatch preparation initials",
+   "variants": [
+    "RB Finn",
+    "RBFinn"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "Acting Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald"
+   ]
+  },
+  {
+   "name": "N. I. Yachmenev",
+   "role": "Captain and pilot of Soviet Catalina No. 24",
+   "variants": [
+    "YACHMENNEV, N.I."
+   ]
+  },
+  {
+   "name": "B. A. Kakukin",
+   "role": "Junior lieutenant and co-pilot of Soviet Catalina No. 24",
+   "variants": [
+    "KAKUKIN, B.A."
+   ]
+  },
+  {
+   "name": "A. A. Syzranov",
+   "role": "Senior lieutenant and navigator of Soviet Catalina No. 24",
+   "variants": [
+    "SYZRANOV, A.A."
+   ]
+  },
+  {
+   "name": "A. T. Razumikhin",
+   "role": "Senior lieutenant and flight engineer of Soviet Catalina No. 24",
+   "variants": [
+    "RAZUMIHIN, A.T."
+   ]
+  },
+  {
+   "name": "A. A. Everev",
+   "role": "Sergeant and mechanic of Soviet Catalina No. 24",
+   "variants": [
+    "EVEREV, A.A."
+   ]
+  },
+  {
+   "name": "I. S. Zayarnyi",
+   "role": "Lieutenant and pilot of Soviet Catalina No. 29",
+   "variants": [
+    "ZAYARNYI, I.S."
+   ]
+  },
+  {
+   "name": "R. A. Seliverstov",
+   "role": "Junior lieutenant and co-pilot of Soviet Catalina No. 29",
+   "variants": [
+    "SELIVERSTOV, R.A."
+   ]
+  },
+  {
+   "name": "V. A. Prokhorov",
+   "role": "Lieutenant and navigator of Soviet Catalina No. 29",
+   "variants": [
+    "PROHOROV, V.A."
+   ]
+  },
+  {
+   "name": "I. P. Petrov",
+   "role": "Senior lieutenant and flight engineer of Soviet Catalina No. 29",
+   "variants": [
+    "PETROV, I.P."
+   ]
+  },
+  {
+   "name": "V. I. Shisholik",
+   "role": "Seaman second class and mechanic of Soviet Catalina No. 29",
+   "variants": [
+    "SHISHOLIK, V.I."
+   ]
+  },
+  {
+   "name": "Major General Kislenko",
+   "role": "Acting Soviet member of the Allied Council for Japan",
+   "variants": [
+    "KISLENKO",
+    "Maj. Gen. s/ KISLENKO"
+   ]
+  },
+  {
+   "name": "Paul J. Mueller",
+   "role": "Major general and Chief of Staff, General Headquarters, SCAP",
+   "variants": [
+    "Major General MUELLER",
+    "PAUL J. MUELLER"
+   ]
+  },
+  {
+   "name": "R. H. Bushner",
+   "role": "Shown in despatch preparation initials",
+   "variants": [
+    "RHBushner"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers",
+   "variants": [
+    "GENERAL MacARTHUR",
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "C. N. Spinks",
+   "role": "Shown in despatch preparation initials",
+   "variants": [
+    "CNSpinks"
+   ]
+  },
+  {
+   "name": "Charles E. Saltzman",
+   "role": "Assistant Secretary of State for Occupied Areas",
+   "variants": [
+    "Charles E. Saltzman",
+    "Mr. Charles E. Saltzman"
+   ]
+  },
+  {
+   "name": "G. L. Eberle",
+   "role": "Brigadier general, U.S. Army, and Chief of the Civil Affairs Division",
+   "variants": [
+    "General Eberle",
+    "Brigadier General G. L. Eberle",
+    "G. L. EBERLE",
+    "Brigadier General Eberle"
+   ]
+  },
+  {
+   "name": "J. W. Auchincloss",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Auchincloss",
+    "J. W. Auchincloss",
+    "JWauchincloss",
+    "Auchenlors",
+    "JWA"
+   ]
+  },
+  {
+   "name": "H. M. Bixby",
+   "role": "Vice President, Pan American World Airways System",
+   "variants": [
+    "Mr. H. M. Bixby",
+    "Mr. Bixby",
+    "H. M. Bixby /sgd/",
+    "H. M. Bixby"
+   ]
+  },
+  {
+   "name": "C. E. Conger",
+   "role": "State Department official issuing routing slips",
+   "variants": [
+    "C. E. CONGER",
+    "Mr. Conger"
+   ]
+  },
+  {
+   "name": "Mr. Hllich",
+   "role": "Recipient of an information copy",
+   "variants": [
+    "Mr. Hllich"
+   ]
+  },
+  {
+   "name": "H. W.",
+   "role": "Certifier of a true copy",
+   "variants": [
+    "H. W."
+   ]
+  },
+  {
+   "name": "Mr. Bond",
+   "role": "Vice President, Pan American World Airways System",
+   "variants": [
+    "Vice President Bond",
+    "Mr. Bond"
+   ]
+  },
+  {
+   "name": "Mr. Towers",
+   "role": "Assistant Vice President, Pan American World Airways System",
+   "variants": [
+    "Assistant Vice President Towers"
+   ]
+  },
+  {
+   "name": "H. F. Amrine",
+   "role": "State Department Far Eastern affairs official",
+   "variants": [
+    "Mr. Amrine",
+    "HFAmrine",
+    "H. Amine"
+   ]
+  },
+  {
+   "name": "Mr. Allison",
+   "role": "State Department official consulted about Japanese civil aviation policy",
+   "variants": [
+    "Allison"
+   ]
+  },
+  {
+   "name": "Mr. Barnett",
+   "role": "State Department official consulted about Japanese civil aviation policy",
+   "variants": [
+    "Barnett"
+   ]
+  },
+  {
+   "name": "Mr. Claxton",
+   "role": "State Department official asked to review the proposed reply to General Eberle",
+   "variants": [
+    "Mr. Claxton"
+   ]
+  },
+  {
+   "name": "R. Finn",
+   "role": "Shown in preparation or filing notation",
+   "variants": [
+    "R. Finnish",
+    "RW/inn/eg"
+   ]
+  }
+ ],
+ "keywords": [
+  "civil aviation",
+  "Allied occupation of Japan",
+  "international air traffic",
+  "SCAP",
+  "Far Eastern Commission",
+  "Haneda Airport",
+  "Soviet aircraft",
+  "air-safety regulations",
+  "Pan American World Airways",
+  "commercial airlines",
+  "air routes",
+  "radio communications",
+  "cargo and air mail",
+  "air navigation",
+  "carrier pigeons"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum on reopening commercial aviation in Japan",
+   "doc_type": "office memorandum with proposed cable",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1947-08-04",
+   "from": "Mr. Whitman, State Department Japan-Korea office",
+   "to": "A-H–JK/Sec; proposed cable to SCAP",
+   "about": "The memorandum recommends allowing commercial airlines to transport cargo and mail as well as authorized passengers to and from Japan.",
+   "summary": "The reopening of limited private trade on August 15 made commercial air service urgent even though the Far Eastern Commission had not completed a civil-aviation policy. The memorandum argues that SCAP’s administrative discretion should encompass passengers, cargo, and mail and proposes notifying Pan American and Northwest accordingly.",
+   "keywords": [
+    "commercial aviation",
+    "private trade",
+    "SCAP",
+    "Far Eastern Commission",
+    "Pan American",
+    "Northwest Airlines",
+    "air mail",
+    "cargo"
+   ]
+  },
+  {
+   "title": "Despatch No. 1350 on Soviet air-traffic violations",
+   "doc_type": "despatch",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1947-10-25",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards a SCAP memorandum protesting dangerous violations of Japanese air-traffic regulations by Soviet aircraft.",
+   "summary": "Soviet aircraft cleared for flights to and from the Soviet Union repeatedly violated procedures while approaching Haneda. The Acting Political Adviser reports that the violations endangered other traffic and that further offending commanders could be denied entry into Japan.",
+   "keywords": [
+    "Soviet aircraft",
+    "Haneda",
+    "SCAP",
+    "air-traffic violations",
+    "flight safety",
+    "entry denial"
+   ]
+  },
+  {
+   "title": "SCAP memorandum on control of Soviet international aircraft",
+   "doc_type": "memorandum enclosure (fragment)",
+   "start_page": 4,
+   "end_page": 5,
+   "date": "1947-10-16",
+   "from": "SCAP General Headquarters, signed by R. M. Levy for the Supreme Commander",
+   "to": "Soviet Member, Allied Council for Japan",
+   "about": "The surviving portion of the memorandum specifies Soviet violations and demands compliance with SCAP Circular No. 11.",
+   "summary": "The fragment records that the crew of Catalina No. 29 heard Haneda’s calls but refused to answer because controllers did not use the Soviet code word. It lists failures involving approach patterns, English-language communications, Tokyo Control, Ground Controlled Approach, and minimum altitude. Future offenders were to be grounded, investigated, and potentially denied entry.",
+   "keywords": [
+    "Circular No. 11",
+    "Catalina No. 29",
+    "Haneda",
+    "radio procedure",
+    "Ground Controlled Approach",
+    "Soviet Union",
+    "enforcement"
+   ]
+  },
+  {
+   "title": "Despatch No. 1386 on further Soviet violations",
+   "doc_type": "despatch",
+   "start_page": 6,
+   "end_page": 7,
+   "date": "1947-11-12",
+   "from": "William J. Sebald, Acting Political Adviser",
+   "to": "U.S. Secretary of State",
+   "about": "Sebald reports additional Soviet infringements and the temporary grounding of two aircraft at Haneda.",
+   "summary": "A Soviet request for November flights omitted the required designation of English-speaking crew members. Two Soviet aircraft arriving on November 4 were grounded after landing without contacting Haneda control, and no November clearances were to be issued until Soviet crews complied with SCAP regulations.",
+   "keywords": [
+    "Soviet aircraft",
+    "Haneda",
+    "grounding",
+    "English-speaking crew",
+    "flight clearance",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Kislenko letter requesting November flight clearances",
+   "doc_type": "letter enclosure",
+   "start_page": 8,
+   "end_page": 8,
+   "date": "1947-10-25",
+   "from": "Major General Kislenko, Acting Soviet Member, Allied Council for Japan",
+   "to": "Major General Mueller, Chief of Staff, SCAP",
+   "about": "Kislenko requests clearance for two Soviet Catalina aircraft to fly from Vladivostok to Tokyo with food and mail.",
+   "summary": "The request covers flights on November 3, 10, 17, and 24, 1947, and supplies complete crew rosters for Catalinas Nos. 24 and 29. Although related cover papers cite October 23, the reproduced letter itself bears October 25.",
+   "keywords": [
+    "flight clearance",
+    "Vladivostok",
+    "Tokyo",
+    "Catalina aircraft",
+    "crew rosters",
+    "Soviet mail"
+   ]
+  },
+  {
+   "title": "SCAP reply on Soviet November aircraft clearances",
+   "doc_type": "memorandum enclosure",
+   "start_page": 9,
+   "end_page": 9,
+   "date": "1947-11-05",
+   "from": "SCAP General Headquarters, signed by R. M. Levy",
+   "to": "Soviet Member, Allied Council for Japan",
+   "about": "SCAP makes approval of the requested Soviet flights conditional on compliance with English-language and communications requirements.",
+   "summary": "The memorandum invokes Circular No. 11 and the earlier October 16 warning. It requires each aircraft to designate an English-speaking crew member and each crew to be briefed on communications with Tokyo Control and Haneda Tower before clearance will be considered.",
+   "keywords": [
+    "flight clearance",
+    "Circular No. 11",
+    "English-language requirement",
+    "Tokyo Control",
+    "Haneda Tower",
+    "Soviet aircraft"
+   ]
+  },
+  {
+   "title": "Despatch No. 1456 forwarding revised air-traffic regulations",
+   "doc_type": "despatch",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1947-12-15",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards SCAP Circular No. 14, which replaced the previous rules for international air traffic in Japan.",
+   "summary": "Circular No. 14 superseded Circular No. 11 and established revised standard procedures for aircraft entering or leaving Japan. The despatch relates the new circular to the broader entry-and-exit rules contained in SCAP Circular No. 8.",
+   "keywords": [
+    "Circular No. 14",
+    "international aviation",
+    "SCAP regulations",
+    "entry and exit",
+    "Japan"
+   ]
+  },
+  {
+   "title": "SCAP Circular No. 14: International Air Traffic in Japan",
+   "doc_type": "circular",
+   "start_page": 11,
+   "end_page": 17,
+   "date": "1947-12-04",
+   "from": "SCAP General Headquarters; by command of General MacArthur",
+   "to": "Countries, agencies, and aircrews operating international flights into Japan",
+   "about": "The circular establishes detailed routes, arrival and departure rules, communications procedures, and emergency requirements for international aircraft.",
+   "summary": "Aircraft were directed through specified checkpoints and airways to Haneda, with escort instructions and restrictions on overflying airfields. The rules required English-language radio capability, use of the call word “New Comer,” contact with Tokyo Control and Haneda Tower, and compliance with Ground Controlled Approach procedures. They also addressed emergencies, rescue services, minimum altitude, weapons, and detention of improperly cleared aircraft.",
+   "keywords": [
+    "Circular No. 14",
+    "international air routes",
+    "Haneda",
+    "Tokyo Control",
+    "radio frequencies",
+    "Ground Controlled Approach",
+    "flight safety",
+    "aircraft detention"
+   ]
+  },
+  {
+   "title": "Circular No. 14 Inclosure 1: Standard Light Signals",
+   "doc_type": "technical enclosure",
+   "start_page": 18,
+   "end_page": 19,
+   "date": "1947-12-04",
+   "from": "SCAP General Headquarters",
+   "to": "International aircrews and airfield personnel",
+   "about": "The enclosure defines portable traffic-control light signals for aircraft in flight and on the airfield.",
+   "summary": "Green, red, flashing red, and alternating red-and-green signals conveyed landing, circling, stopping, taxiing, takeoff, recall, and warning instructions. The system was intended to control aircraft without usable radio communications as well as personnel and vehicles on the landing area.",
+   "keywords": [
+    "light signals",
+    "air-traffic control",
+    "radio failure",
+    "landing clearance",
+    "taxiing",
+    "takeoff"
+   ]
+  },
+  {
+   "title": "Circular No. 14 Inclosure 2: Air Routes into Tokyo Area",
+   "doc_type": "map enclosure",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1947-12-04",
+   "from": "SCAP General Headquarters",
+   "to": "International aircrews",
+   "about": "The enclosure is a map of prescribed air routes into the Tokyo area.",
+   "summary": "The page contains the mapped counterpart to the routes described in Circular No. 14. Its purpose was to guide cleared international flights toward the Tokyo and Haneda control area.",
+   "keywords": [
+    "air-route map",
+    "Tokyo Area",
+    "international flights",
+    "navigation"
+   ]
+  },
+  {
+   "title": "Circular No. 14 Inclosure 3: Tokyo Area",
+   "doc_type": "map enclosure",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1947-12-04",
+   "from": "SCAP General Headquarters",
+   "to": "International aircrews",
+   "about": "The map identifies checkpoints and major terrain features used by aircraft approaching Tokyo.",
+   "summary": "It marks Sado Island, Ryōtsu, Niigata, Nagaoka, Kōriyama, Maebashi, Koga, Tokyo, Yokohama, Izu Ōshima, and Mount Fuji. These locations correspond to the northern and southern approach routes prescribed in the circular.",
+   "keywords": [
+    "Tokyo Area",
+    "checkpoints",
+    "Sado Island",
+    "Mount Fuji",
+    "Haneda approaches",
+    "route map"
+   ]
+  },
+  {
+   "title": "Circular No. 14 Inclosure 4: Radio Navigational Aids",
+   "doc_type": "technical diagram enclosure",
+   "start_page": 22,
+   "end_page": 22,
+   "date": "1947-12-04",
+   "from": "SCAP General Headquarters",
+   "to": "International aircrews",
+   "about": "The enclosure charts radio navigational aids serving Haneda, Tokyo, and Izu Ōshima.",
+   "summary": "It lists the Haneda homer, Tokyo range, and Izu Ōshima range with coordinates, frequencies, and identification signals. The text identifies Haneda Airfield Operations as the source for current changes in radio facilities and flight data; “Manoda” is an evident OCR error for Haneda.",
+   "keywords": [
+    "radio navigation",
+    "Haneda homer",
+    "Tokyo range",
+    "Izu Ōshima range",
+    "frequencies",
+    "flight data"
+   ]
+  },
+  {
+   "title": "Despatch No. 654 on Soviet IL-12 violations",
+   "doc_type": "despatch",
+   "start_page": 23,
+   "end_page": 23,
+   "date": "1948-10-04",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch reports air-traffic violations committed by Soviet IL-12 No. 2 on September 22, 1948.",
+   "summary": "The aircraft failed to contact Tokyo Control and its escort, disregarded parking instructions, and arrived with only three and one-half hours’ notice instead of twenty-four. It was detained at Haneda pending investigation and released after a formal SCAP memorandum was delivered to the Soviet member of the Allied Council.",
+   "keywords": [
+    "IL-12",
+    "Soviet aircraft",
+    "Haneda Airport",
+    "radio failure",
+    "parking instructions",
+    "detention",
+    "advance notice"
+   ]
+  },
+  {
+   "title": "Saltzman letter commenting on Eberle’s proposed reply",
+   "doc_type": "letter",
+   "start_page": 24,
+   "end_page": 24,
+   "date": "1948-11-29",
+   "from": "Charles E. Saltzman",
+   "to": "Brigadier General G. L. Eberle",
+   "about": "Saltzman recommends removing a specific sixty-day prediction from Eberle’s reply concerning Japanese civil-aviation policy.",
+   "summary": "Saltzman warns that agreement on policy may not be achieved within sixty days. He proposes telling Pan American to withhold further action until the policy develops and receives final approval; drafting initials date the text November 24, while the page bears a November 29 office stamp.",
+   "keywords": [
+    "civil-aviation policy",
+    "Pan American",
+    "sixty-day period",
+    "Far Eastern Commission",
+    "policy delay"
+   ]
+  },
+  {
+   "title": "Routing slip assigning the Eberle correspondence to Auchincloss",
+   "doc_type": "routing slip",
+   "start_page": 25,
+   "end_page": 25,
+   "date": "1948-11-16",
+   "from": "C. E. Conger",
+   "to": "J. W. Auchincloss",
+   "about": "The slip assigns action on the Eberle correspondence to Auchincloss and sends the original to Mr. Hllich for information.",
+   "summary": "Auchincloss was given an action assignment under control number 4027 with a November 17 suspense date. The original was separately routed for information.",
+   "keywords": [
+    "routing slip",
+    "Auchincloss",
+    "Eberle correspondence",
+    "action assignment",
+    "control 4027"
+   ]
+  },
+  {
+   "title": "Information-copy routing slip",
+   "doc_type": "routing slip",
+   "start_page": 26,
+   "end_page": 26,
+   "date": "1948-11-16",
+   "from": "C. E. Conger",
+   "to": "Unidentified recipient; carbon copy to J. W. Auchincloss",
+   "about": "The slip routes an information copy while directing a carbon copy to Auchincloss for action.",
+   "summary": "The principal recipient is illegible in the OCR. The remarks make clear that Auchincloss was responsible for action under control number 4027.",
+   "keywords": [
+    "routing slip",
+    "information copy",
+    "Auchincloss",
+    "control 4027"
+   ]
+  },
+  {
+   "title": "Eberle letter requesting State Department views",
+   "doc_type": "letter",
+   "start_page": 27,
+   "end_page": 27,
+   "date": "1948-11-15",
+   "from": "Brigadier General G. L. Eberle",
+   "to": "Charles E. Saltzman",
+   "about": "Eberle asks the State Department to review a proposed response to Pan American’s plan for an internal airline in Japan.",
+   "summary": "Eberle explains that Pan American had been advised to submit its proposal to SCAP, but SCAP declined to take the initiative while a policy paper remained before the Far Eastern Commission. He outlines FEC 245/20, including a proposed sixty-day mechanism, and raises the possibility of an interim U.S. directive or use of SCAP’s administrative authority.",
+   "keywords": [
+    "Pan American",
+    "internal airline",
+    "FEC 245/20",
+    "SCAP authority",
+    "Civil Affairs Division",
+    "Japanese civil aviation"
+   ]
+  },
+  {
+   "title": "Bixby letter proposing a U.S.-flag airline within Japan",
+   "doc_type": "letter enclosure",
+   "start_page": 28,
+   "end_page": 28,
+   "date": "1948-11-10",
+   "from": "H. M. Bixby, Pan American World Airways System",
+   "to": "Brigadier General G. L. Eberle",
+   "about": "Bixby seeks guidance on formally presenting Pan American’s proposal to establish and operate an internal commercial airline in Japan.",
+   "summary": "Bixby recounts an August meeting and Mr. Bond’s subsequent personal presentation of the proposal to General MacArthur in Tokyo. MacArthur expressed interest but believed Washington should take the initiative, and Pan American did not wish to press its plan if doing so would cause embarrassment.",
+   "keywords": [
+    "Pan American",
+    "U.S.-flag airline",
+    "internal civil aviation",
+    "General MacArthur",
+    "commercial airline",
+    "economic reconstruction"
+   ]
+  },
+  {
+   "title": "Draft reply to H. M. Bixby",
+   "doc_type": "draft letter enclosure",
+   "start_page": 29,
+   "end_page": 29,
+   "date": "",
+   "from": "G. L. Eberle, draft",
+   "to": "H. M. Bixby",
+   "about": "The draft advises Pan American to delay further action while Washington considers Japanese civil-aviation policy.",
+   "summary": "It acknowledges MacArthur’s view that the initiative should come from Washington. The original draft predicts agreement within sixty days and asks Pan American to wait approximately that long before reopening discussions.",
+   "keywords": [
+    "draft reply",
+    "Pan American",
+    "civil-aviation policy",
+    "Washington",
+    "sixty-day delay"
+   ]
+  },
+  {
+   "title": "Amrine memorandum on the Pan American proposal",
+   "doc_type": "office memorandum",
+   "start_page": 30,
+   "end_page": 30,
+   "date": "1948-11-23",
+   "from": "H. F. Amrine",
+   "to": "J. W. Auchincloss",
+   "about": "Amrine recommends softening Eberle’s proposed timetable for resolving Japanese civil-aviation policy.",
+   "summary": "After consulting Allison and Barnett, Amrine concludes that the sixty-day estimate is unduly optimistic because there is no assurance of prompt Far Eastern Commission action. He supplies replacement language advising Pan American to wait until the policy has developed and received final action.",
+   "keywords": [
+    "Pan American",
+    "Far Eastern Commission",
+    "policy timetable",
+    "Amrine",
+    "internal aviation"
+   ]
+  },
+  {
+   "title": "Auchincloss memorandum transmitting proposed answer",
+   "doc_type": "office memorandum",
+   "start_page": 31,
+   "end_page": 31,
+   "date": "1948-11-24",
+   "from": "J. W. Auchincloss",
+   "to": "Mr. Claxton",
+   "about": "Auchincloss submits the proposed reply to Eberle for review and signature processing.",
+   "summary": "Auchincloss states that he incorporated Amrine’s suggested modification of Eberle’s draft. Because Claxton knew more about the relevant Far Eastern Commission paper, he was asked to approve and forward the reply for signature.",
+   "keywords": [
+    "Auchincloss",
+    "Claxton",
+    "Eberle",
+    "draft review",
+    "Far Eastern Commission",
+    "signature clearance"
+   ]
+  },
+  {
+   "title": "Despatch No. 762 forwarding SCAP Circular No. 30",
+   "doc_type": "despatch",
+   "start_page": 32,
+   "end_page": 32,
+   "date": "1948-12-06",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards a revised SCAP circular governing international air traffic in Japan.",
+   "summary": "SCAP Circular No. 30, dated November 16, 1948, updated the earlier international air-traffic provisions. Copies were also designated for U.S. military authorities in Germany and for Seoul, but the circular itself is not present in the OCR bundle.",
+   "keywords": [
+    "Circular No. 30",
+    "international air traffic",
+    "SCAP",
+    "regulatory revision",
+    "Germany",
+    "Seoul"
+   ]
+  },
+  {
+   "title": "Despatch No. 158 forwarding SCAP Circular No. 6",
+   "doc_type": "despatch",
+   "start_page": 33,
+   "end_page": 33,
+   "date": "1949-03-30",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards a SCAP circular making minor changes to international air-traffic regulations.",
+   "summary": "SCAP Circular No. 6, dated March 9, 1949, amended the preceding rules governing international aviation in Japan. The reference to Despatch No. 762 as dated December 6, 1949 is an evident error for December 6, 1948; the enclosed circular is not reproduced in the OCR text.",
+   "keywords": [
+    "Circular No. 6",
+    "international air traffic",
+    "SCAP",
+    "regulatory amendment",
+    "Japan"
+   ]
+  }
+ ],
+ "interest": "The bundle is especially useful for showing how occupation authorities combined diplomatic pressure, technical regulation, and physical detention of aircraft to enforce control over Japan’s airspace. The Soviet cases provide unusually concrete evidence about cockpit communications, language requirements, landing procedures, and recurring Allied-Soviet friction at Haneda. The Pan American correspondence also exposes the gap between corporate ambitions and the slow policy machinery of the Far Eastern Commission, while Circular No. 14 preserves a detailed snapshot of routes, radio frequencies, signals, and emergency infrastructure in early postwar Japanese aviation.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 305.1,
+  "identifier": "japan-internal-affairs-894.7961-other-means-of-2",
+  "file": "894.7961 Other Means Of Communication And Transportation. Carrier Pigeons., Aerial Navigation. Immunities Of Government-Controlled. Subsidies., Japan, Laws And Regulation., August 4, 1947 - March 30, 1949 1706.pdf",
+  "created": "2026-09-29 07:11:21"
+ }
+}

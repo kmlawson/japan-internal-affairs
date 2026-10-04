@@ -1,0 +1,166 @@
+{
+ "interest": "Conscription rumors caused panic among Chinese in Tsingtao.",
+ "keywords": [
+  "conscription",
+  "compulsory military service",
+  "Japanese occupation",
+  "Second Sino-Japanese War",
+  "Chinese youth",
+  "Tsingtao",
+  "Peiping",
+  "naval intelligence",
+  "labor exodus",
+  "military training",
+  "General Darmarie",
+  "Samuel Sokobin"
+ ],
+ "overview": "1939 reports on Japanese conscription of Chinese youths and the panic in Tsingtao.",
+ "people": [
+  {
+   "name": "General Darmarie",
+   "role": "Japanese General",
+   "variants": [
+    "General Darmarie",
+    "Darmarie"
+   ]
+  },
+  {
+   "name": "Samuel Sokobin",
+   "role": "American Consul at Tsingtao",
+   "variants": [
+    "Sokobin"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "PEIPING"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "SHANGHAI",
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "CHUNGKING"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Ningbo",
+   "variants": [
+    "Ningpo"
+   ]
+  },
+  {
+   "name": "Northern China",
+   "variants": [
+    "the north"
+   ]
+  },
+  {
+   "name": "Southern China",
+   "variants": [
+    "the south"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Reports intelligence alleging that Japanese authorities are conscripting Chinese youths aged 17 to 25 for military training.",
+   "date": "1939-08-19",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "ALUSNA Peiping (U.S. Naval Attaché, Peiping)",
+   "keywords": [
+    "conscription",
+    "ALUSNA Peiping",
+    "Chinese youths",
+    "General Darmarie",
+    "military training",
+    "recruitment"
+   ],
+   "start_page": 1,
+   "summary": "Naval Attaché in Peiping reports Japan conscripting Chinese men aged 17 to 25.",
+   "title": "Telegram from ALUSNA Peiping on Japanese Conscription of Chinese Youths",
+   "to": "Chief of Naval Operations (OPNAV)"
+  },
+  {
+   "about": "Cross-references a consular report from Tsingtao regarding rumors of Japanese conscription of young Chinese men.",
+   "date": "1939-07-08",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Samuel Sokobin (American Consul, Tsingtao)",
+   "keywords": [
+    "cross-reference sheet",
+    "Tsingtao",
+    "Samuel Sokobin",
+    "conscription rumors",
+    "Despatch 426"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Sokobin's despatch on rumored conscription in Tsingtao.",
+   "title": "Cross-Reference Sheet for Tsingtao Despatch No. 426 on Rumored Japanese Conscription",
+   "to": "American Embassy, Peiping"
+  },
+  {
+   "about": "Reports on civilian panic, business disruption, and police denials triggered by rumors of Japanese conscription in Tsingtao.",
+   "date": "1939-07-08",
+   "doc_type": "report",
+   "end_page": 3,
+   "from": "Samuel Sokobin (American Consul, Tsingtao)",
+   "keywords": [
+    "Tsingtao",
+    "conscription rumors",
+    "Police Bureau",
+    "labor exodus",
+    "tailoring shops",
+    "pacification"
+   ],
+   "start_page": 3,
+   "summary": "Conscription rumors caused an exodus of workers from Tsingtao; the consul thought conscription unlikely.",
+   "title": "Report Extract on Alarm Caused by Rumors of Japanese Conscription in Tsingtao",
+   "to": "American Embassy, Peiping"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14119,
+   "output_tokens": 8131,
+   "thinking_tokens": 6765,
+   "cache_read_tokens": 0,
+   "total_tokens": 22250
+  },
+  "backend": "agy",
+  "seconds": 28.4,
+  "identifier": "japan-internal-affairs-894.2222-personnel-organization-discipline-3",
+  "file": "894.2222 Personnel. Organization. Discipline. Mutiny. Compulsory Military Service., Enlisted Men., Conscription. Draft. For Treaties, Conventions, Arrangements, Ect., Add Country Number %A0%A0, Using Smaller Number Of Country For **., July 8, 1 1123.pdf",
+  "created": "2026-09-29 03:24:51"
+ }
+}

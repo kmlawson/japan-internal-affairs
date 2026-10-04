@@ -1,0 +1,163 @@
+{
+ "interest": "Dutch surveillance of General Itagaki's 1934 visit to Java.",
+ "keywords": [
+  "Seishiro Itagaki",
+  "Java",
+  "Netherlands East Indies",
+  "Japanese espionage",
+  "Manchukuo",
+  "Dutch colonial intelligence",
+  "propaganda",
+  "Batavia",
+  "Admiral Osten",
+  "Imperial Japanese Army",
+  "secret police",
+  "Surabaya"
+ ],
+ "overview": "Patton's 1934 despatch: Dutch police watched General Itagaki in Java, where he lectured on Manchukuo rather than spying.",
+ "people": [
+  {
+   "name": "Seishiro Itagaki",
+   "role": "Major General of the Imperial Japanese Army",
+   "variants": [
+    "Major General Itagaki",
+    "Major General Seishiro Itagaki",
+    "General"
+   ]
+  },
+  {
+   "name": "Johannes Osten",
+   "role": "Admiral, Director of the Department of Marine of Netherland India",
+   "variants": [
+    "Admiral Osten",
+    "Admiral"
+   ]
+  },
+  {
+   "name": "Kenneth S. Patton",
+   "role": "American Consul General in Batavia",
+   "variants": [
+    "K. S. Patton",
+    "KSP"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Surabaya",
+   "variants": [
+    "Surabaya"
+   ]
+  },
+  {
+   "name": "Bandung",
+   "variants": [
+    "Bandoeng"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchukuo",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherland India",
+    "Netherland Indian"
+   ]
+  },
+  {
+   "name": "The Hague",
+   "variants": [
+    "The Hague"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consul General Patton reports on his inquiries with Dutch naval authorities regarding the visit of Japanese Major General Seishiro Itagaki to Java and Dutch surveillance of his activities.",
+   "date": "1934-02-13",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "K. S. Patton, American Consul General, Batavia",
+   "keywords": [
+    "Seishiro Itagaki",
+    "Java",
+    "Batavia",
+    "Netherlands East Indies",
+    "Admiral Osten",
+    "espionage",
+    "Manchukuo",
+    "propaganda",
+    "secret police"
+   ],
+   "start_page": 1,
+   "summary": "Patton reports Admiral Osten's view that General Itagaki was lecturing Japanese residents on Manchukuo under close Dutch surveillance, not spying.",
+   "title": "Despatch from Consul General Patton on Major General Itagaki's Visit to Java",
+   "to": "The Secretary of State, Washington"
+  },
+  {
+   "about": "Duplicate copy of Consul General Patton's confidential despatch regarding Major General Seishiro Itagaki's visit to Java and Dutch intelligence observations.",
+   "date": "1934-02-13",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "K. S. Patton, American Consul General, Batavia",
+   "keywords": [
+    "Seishiro Itagaki",
+    "Java",
+    "Batavia",
+    "Netherlands East Indies",
+    "Admiral Osten",
+    "Manchukuo",
+    "espionage",
+    "propaganda"
+   ],
+   "start_page": 3,
+   "summary": "Duplicate of Patton's despatch on General Itagaki's visit to Java.",
+   "title": "Duplicate Despatch from Consul General Patton on Major General Itagaki's Visit to Java",
+   "to": "The Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14672,
+   "output_tokens": 5531,
+   "thinking_tokens": 4200,
+   "cache_read_tokens": 0,
+   "total_tokens": 20203
+  },
+  "backend": "agy",
+  "seconds": 21.0,
+  "identifier": "japan-internal-affairs-894.20256e-military-affairs-army-3",
+  "file": "894.20256E Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Java And Madura Including Gathering Of Information. Espionage. Propaganda. 807.pdf",
+  "created": "2026-09-29 02:48:42"
+ }
+}

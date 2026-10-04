@@ -1,0 +1,175 @@
+"""Build web/catalog.sqlite and web/data.js from the per-file JSON in web/json/.
+
+Mention counts for places and people are counted in the OCR text itself (all the
+spellings the model reported for that name), not taken from the model.
+Run any time; it rebuilds from whatever JSON exists so far.
+"""
+import os, re, csv, json, sqlite3
+
+WEB = os.path.dirname(os.path.abspath(__file__))
+FILES = os.path.dirname(WEB)
+DB = os.path.join(WEB, "catalog.sqlite")
+
+rows = {r["identifier"]: r for r in csv.DictReader(open(os.path.join(FILES, "upload.csv"), encoding="utf-8"))}
+
+
+def count(text, variants):
+    vs = sorted({v.strip() for v in variants if len(v.strip()) >= 2}, key=len, reverse=True)
+    if not vs: return 0
+    rx = re.compile(r"(?<![A-Za-z])(?:" + "|".join(re.escape(v) for v in vs) + r")(?![A-Za-z])", re.I)
+    return len(rx.findall(text))
+
+
+def merge_names(items, text):
+    """Combine entries with the same name; count mentions in the OCR text."""
+    by = {}
+    for it in items:
+        n = it["name"].strip()
+        if not n: continue
+        e = by.setdefault(n.lower(), {"name": n, "role": it.get("role", ""), "variants": set()})
+        e["variants"].update(it.get("variants") or []); e["variants"].add(n)
+        if not e["role"] and it.get("role"): e["role"] = it["role"]
+    out = []
+    for e in by.values():
+        out.append({"name": e["name"], "role": e["role"], "count": count(text, e["variants"])})
+    return sorted(out, key=lambda e: (-e["count"], e["name"]))
+
+
+DB_FINAL = DB; DB = DB + ".building"
+if os.path.exists(DB): os.remove(DB)
+db = sqlite3.connect(DB)
+db.executescript("""
+CREATE TABLE files (id TEXT PRIMARY KEY, file TEXT, title TEXT, decimal TEXT, file_no INTEGER,
+  date TEXT, pages INTEGER, overview TEXT, interest TEXT, keywords TEXT, model TEXT, created TEXT,
+  ia_item TEXT, ia_file TEXT, source TEXT);
+CREATE TABLE places (file_id TEXT, name TEXT, mentions INTEGER);
+CREATE TABLE people (file_id TEXT, name TEXT, role TEXT, mentions INTEGER);
+CREATE TABLE file_keywords (file_id TEXT, keyword TEXT);
+CREATE TABLE subfiles (file_id TEXT, seq INTEGER, title TEXT, doc_type TEXT, start_page INTEGER, end_page INTEGER,
+  date TEXT, sender TEXT, recipient TEXT, about TEXT, summary TEXT, keywords TEXT);
+CREATE TABLE subfile_keywords (file_id TEXT, seq INTEGER, keyword TEXT);
+CREATE INDEX i_places ON places(name); CREATE INDEX i_people ON people(name);
+CREATE INDEX i_fkw ON file_keywords(keyword); CREATE INDEX i_skw ON subfile_keywords(keyword);
+CREATE INDEX i_sub ON subfiles(file_id);
+""")
+
+site = []
+for fn in sorted(os.listdir(os.path.join(WEB, "json"))):
+    if not fn.endswith(".json"): continue
+    d = json.load(open(os.path.join(WEB, "json", fn), encoding="utf-8"))
+    ident = fn[:-5]; r = rows[ident]
+    text = open(os.path.join(FILES, "ocr", r["file"][:-4] + ".txt"), encoding="utf-8").read()
+    pages = len(re.findall(r"^=== Page \d+ ===", text, re.M))
+    dec = r["title"].split(" ", 1)[0]
+    num = int(re.search(r"\(File (\d+)\)$", r["title"]).group(1))
+    places = merge_names(d.get("places", []), text)
+    people = merge_names(d.get("people", []), text)
+    kws = list(dict.fromkeys(k.strip() for k in d.get("keywords", []) if k.strip()))
+    meta = d.get("_meta", {})
+    db.execute("INSERT INTO files VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+               (ident, r["file"], r["title"], dec, num, r["date"], pages, d.get("overview", ""),
+                d.get("interest", ""), "; ".join(kws), meta.get("model", ""), meta.get("created", ""),
+                ident, r["file"], "Mistral OCR"))
+    db.executemany("INSERT INTO places VALUES (?,?,?)", [(ident, p["name"], p["count"]) for p in places])
+    db.executemany("INSERT INTO people VALUES (?,?,?,?)", [(ident, p["name"], p["role"], p["count"]) for p in people])
+    db.executemany("INSERT INTO file_keywords VALUES (?,?)", [(ident, k) for k in kws])
+    subs = []
+    for i, s in enumerate(d.get("subfiles", []), 1):
+        skw = list(dict.fromkeys(k.strip() for k in s.get("keywords", []) if k.strip()))
+        db.execute("INSERT INTO subfiles VALUES (?,?,?,?,?,?,?,?,?,?,?,?)",
+                   (ident, i, s.get("title", ""), s.get("doc_type", ""), s.get("start_page"), s.get("end_page"),
+                    s.get("date", ""), s.get("from", ""), s.get("to", ""), s.get("about", ""),
+                    s.get("summary", ""), "; ".join(skw)))
+        db.executemany("INSERT INTO subfile_keywords VALUES (?,?,?)", [(ident, i, k) for k in skw])
+        subs.append({"t": s.get("title", ""), "ty": s.get("doc_type", ""), "p": [s.get("start_page"), s.get("end_page")],
+                     "d": s.get("date", ""), "fr": s.get("from", ""), "to": s.get("to", ""),
+                     "a": s.get("about", ""), "s": s.get("summary", ""), "k": skw})
+    site.append({"id": ident, "f": r["file"], "t": r["title"], "dec": dec, "n": num, "d": r["date"], "pg": pages,
+                 "o": d.get("overview", ""), "i": d.get("interest", ""), "k": kws,
+                 "pl": [[p["name"], p["count"]] for p in places],
+                 "pe": [[p["name"], p["role"], p["count"]] for p in people], "sub": subs})
+# ---- large merged PDFs (Paddle OCR), catalogued section by section in json-merged/ ----
+MERGED = os.path.join(FILES, "merged")
+mrows = list(csv.DictReader(open(os.path.join(WEB, "merged-items.csv"), encoding="utf-8")))
+mtitle = {r["identifier"]: r for r in mrows if r["title"]}
+nparts = {}
+for r in mrows: nparts[r["identifier"]] = nparts.get(r["identifier"], 0) + 1
+mdir = os.path.join(WEB, "json-merged")
+catalogued_pdfs = set()
+for key in sorted(os.listdir(mdir)) if os.path.isdir(mdir) else []:
+    fj = os.path.join(mdir, key, "file.json")
+    if not os.path.exists(fj): continue
+    fd = json.load(open(fj, encoding="utf-8")); pdf = fd["_meta"]["pdf"]
+    item = [r for r in mrows if r["file"] == pdf][0]; ia = item["identifier"]; head = mtitle[ia]
+    m = re.search(r"-part-(\d+)\.pdf$", pdf)
+    title = head["title"] + (f", part {m.group(1)} of {nparts[ia]}" if m else "")
+    tp = os.path.join(MERGED, "ocr", pdf[:-4] + ".txt")
+    for sub in ("ocr-batch3", "ocr-batch4"):
+        if not os.path.exists(tp): tp = os.path.join(MERGED, sub, pdf[:-4] + ".txt")
+    text = open(tp, encoding="utf-8").read()
+    pages = len(re.findall(r"^=== Page \d+ ===", text, re.M))
+    secs = [json.load(open(os.path.join(mdir, key, f"s{i:03d}.json"), encoding="utf-8")) for i in range(1, fd["_meta"]["sections"] + 1)]
+    places = merge_names([p for sc in secs for p in sc.get("places", [])], text)
+    people = merge_names([p for sc in secs for p in sc.get("people", [])], text)
+    sublist = []
+    for sc in secs:
+        for sd in sc.get("subfiles", []):
+            if sd.get("continues_previous") and sublist:
+                prev = sublist[-1]; prev["end_page"] = max(prev.get("end_page") or 0, sd.get("end_page") or 0)
+                prev["keywords"] = list(dict.fromkeys((prev.get("keywords") or []) + (sd.get("keywords") or [])))
+            else:
+                sublist.append(dict(sd))
+    kws = list(dict.fromkeys(k.strip() for k in fd.get("keywords", []) if k.strip()))
+    dec = title.split(" ", 1)[0]; num = int(re.search(r"\(File (\d+)\)", title).group(1))
+    remote = item["REMOTE_NAME"] or pdf
+    models = sorted({sc["_meta"].get("model", "") for sc in secs} | {fd["_meta"].get("model", "")})
+    db.execute("INSERT INTO files VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+               (key, pdf, title, dec, num, head["date"], pages, fd.get("overview", ""), fd.get("interest", ""),
+                "; ".join(kws), ", ".join(models), fd["_meta"].get("created", ""), ia, remote, "PaddleOCR"))
+    db.executemany("INSERT INTO places VALUES (?,?,?)", [(key, p["name"], p["count"]) for p in places])
+    db.executemany("INSERT INTO people VALUES (?,?,?,?)", [(key, p["name"], p["role"], p["count"]) for p in people])
+    db.executemany("INSERT INTO file_keywords VALUES (?,?)", [(key, k) for k in kws])
+    subs = []
+    for i, s in enumerate(sublist, 1):
+        skw = list(dict.fromkeys(k.strip() for k in s.get("keywords", []) if k.strip()))
+        db.execute("INSERT INTO subfiles VALUES (?,?,?,?,?,?,?,?,?,?,?,?)",
+                   (key, i, s.get("title", ""), s.get("doc_type", ""), s.get("start_page"), s.get("end_page"),
+                    s.get("date", ""), s.get("from", ""), s.get("to", ""), s.get("about", ""), s.get("summary", ""), "; ".join(skw)))
+        db.executemany("INSERT INTO subfile_keywords VALUES (?,?,?)", [(key, i, k) for k in skw])
+        subs.append({"t": s.get("title", ""), "ty": s.get("doc_type", ""), "p": [s.get("start_page"), s.get("end_page")],
+                     "d": s.get("date", ""), "fr": s.get("from", ""), "to": s.get("to", ""),
+                     "a": s.get("about", ""), "s": s.get("summary", ""), "k": skw})
+    site.append({"id": key, "ia": ia, "iaf": remote, "f": pdf, "t": title, "dec": dec, "n": num, "d": head["date"], "pg": pages,
+                 "o": fd.get("overview", ""), "i": fd.get("interest", ""), "k": kws,
+                 "pl": [[p["name"], p["count"]] for p in places],
+                 "pe": [[p["name"], p["role"], p["count"]] for p in people], "sub": subs})
+    catalogued_pdfs.add(pdf)
+# ---- merged PDFs with OCR but no catalogue yet: skeleton entries (title, page count; full-text search covers them) ----
+NOTE = "Note: The sub-file list, summaries, and tags for this file are not yet available."
+for item in mrows:
+    pdf = item["file"]
+    if pdf in catalogued_pdfs: continue
+    tp = next((q for q in (os.path.join(MERGED, sub, pdf[:-4] + ".txt") for sub in ("ocr", "ocr-batch3", "ocr-batch4")) if os.path.exists(q)), None)
+    if not tp: continue
+    ia = item["identifier"]; head = mtitle[ia]
+    m = re.search(r"-part-(\d+)\.pdf$", pdf)
+    key = ia + (f"-part-{m.group(1)}" if m else "")
+    title = head["title"] + (f", part {m.group(1)} of {nparts[ia]}" if m else "")
+    pages = len(re.findall(r"^=== Page \d+ ===", open(tp, encoding="utf-8").read(), re.M))
+    dec = title.split(" ", 1)[0]; num = int(re.search(r"\(File (\d+)\)", title).group(1))
+    remote = item["REMOTE_NAME"] or pdf
+    db.execute("INSERT INTO files VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+               (key, pdf, title, dec, num, head["date"], pages, NOTE, "", "", "", "", ia, remote, "PaddleOCR"))
+    site.append({"id": key, "ia": ia, "iaf": remote, "f": pdf, "t": title, "dec": dec, "n": num, "d": head["date"], "pg": pages,
+                 "o": NOTE, "i": "", "k": [], "pl": [], "pe": [], "sub": [], "sk": 1})
+EXPECTED = len(rows) + len(mrows)
+db.commit(); db.close(); os.replace(DB, DB_FINAL)
+
+site.sort(key=lambda x: (x["dec"], x["d"] or "9999", x["n"]))
+# write to a temp file and swap it in, so a page loaded mid-rebuild never sees half a file
+tmp = os.path.join(WEB, "data.js.tmp")
+with open(tmp, "w", encoding="utf-8") as fh:
+    fh.write("window.CATALOG=" + json.dumps(site, ensure_ascii=False, separators=(",", ":")) + ";\n"
+             f"window.CATALOG_EXPECTED={EXPECTED};\n")
+os.replace(tmp, os.path.join(WEB, "data.js"))
+print(f"{len(site)} files, {sum(len(x['sub']) for x in site)} sub-files -> catalog.sqlite, data.js")

@@ -1,0 +1,97 @@
+{
+ "interest": "This document is of historical interest as an example of Japanese intelligence operations in Southeast Asia in the months leading up to the Pacific War, specifically the use of journalistic or commercial cover by military personnel. It highlights the vigilance of Dutch colonial authorities in the Netherlands East Indies against Japanese espionage during a period of escalating geopolitical tension over raw materials and oil. Additionally, it reflects the State Department's cross-referencing and information-sharing apparatus across diplomatic posts, as an observation regarding events in Batavia was routed via an American post in Australia.",
+ "keywords": [
+  "espionage",
+  "Major Hashoda",
+  "Batavia",
+  "Netherlands East Indies",
+  "Japanese military intelligence",
+  "Dutch colonial administration",
+  "cross-reference sheet",
+  "Australia",
+  "economic reporter cover",
+  "Pacific War intelligence"
+ ],
+ "overview": "This single-page file consists of a U.S. Department of State cross-reference sheet dated April 1, 1941, catalogued under decimal classification 894.20256 E/4 regarding Japanese military activities, espionage, and propaganda in Dutch possessions. The sheet indexes Despatch No. 115 forwarded by U.S. diplomat Minter from Australia (originally filed under 701.9447/13), which reported on the arrest of Japanese Army Major Hashoda by Dutch colonial officials in Batavia (modern Jakarta). Major Hashoda, who was operating under the guise of an economic reporter, was taken into custody and charged with espionage by the Dutch authorities.",
+ "people": [
+  {
+   "name": "Major Hashoda",
+   "role": "Major in the Japanese Army and alleged economic reporter",
+   "variants": [
+    "Major Hashoda",
+    "Hashoda"
+   ]
+  },
+  {
+   "name": "John R. Minter",
+   "role": "U.S. diplomatic official in Australia",
+   "variants": [
+    "Minter"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Dutch"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet recording an Australian diplomatic despatch concerning the arrest and espionage charge of Japanese Major Hashoda in Batavia.",
+   "date": "1941-04-01",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Minter (Australia)",
+   "keywords": [
+    "espionage",
+    "Major Hashoda",
+    "Batavia",
+    "Netherlands East Indies",
+    "Australia",
+    "cross-reference sheet",
+    "economic reporter"
+   ],
+   "start_page": 1,
+   "summary": "A Department of State cross-reference sheet referencing Despatch No. 115 from Minter in Australia, dated April 1, 1941. The underlying despatch, originally filed under 701.9447/13, reports the arrest of Japanese Army Major Hashoda by Dutch authorities in Batavia on charges of espionage. Hashoda had reportedly been posing as an economic reporter prior to his apprehension.",
+   "title": "Cross-Reference Sheet on Despatch No. 115 from Australia Regarding Arrest of Major Hashoda in Batavia",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13737,
+   "output_tokens": 3290,
+   "thinking_tokens": 2559,
+   "cache_read_tokens": 0,
+   "total_tokens": 17027
+  },
+  "backend": "agy",
+  "seconds": 14.3,
+  "identifier": "japan-internal-affairs-894.20256-military-affairs-army-2",
+  "file": "894.20256 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Netherlands Including Gathering Of Information. Espionage. Propaganda., Apr 1254.pdf",
+  "created": "2026-09-29 02:42:31"
+ }
+}

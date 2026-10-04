@@ -1,0 +1,156 @@
+{
+ "interest": "Citizen protest at U.S. supplies to Japan after Canton bombings.",
+ "keywords": [
+  "Japan",
+  "China",
+  "Canton",
+  "bombing of civilians",
+  "scrap iron",
+  "gasoline",
+  "munitions",
+  "trade embargo",
+  "neutrality",
+  "hypocrisy",
+  "U.S. foreign policy",
+  "State Department"
+ ],
+ "overview": "June 1938 letters: Dr. E. I. M. Dickson protests U.S. supplies to Japan after Canton's bombing; Hornbeck acknowledges.",
+ "people": [
+  {
+   "name": "E. I. M. Dickson",
+   "role": "Physician",
+   "variants": [
+    "E. I. M. DICKSON, M. D.",
+    "E. I. M. Dickson",
+    "Dr. Dickson",
+    "E. J. M. Dickson, M.D."
+   ]
+  },
+  {
+   "name": "J. Braden Thompson",
+   "role": "Physician",
+   "variants": [
+    "J. BRADEN THOMPSON, M. D."
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Adviser on Political Relations, U.S. Department of State",
+   "variants": [
+    "Stanley K. Hornbeck Esq.",
+    "Mr. Hornbeck",
+    "Stanley K. Hornbeck",
+    "Adviser on Political Relations"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "Sec. Hull"
+   ]
+  },
+  {
+   "name": "Abraham Lincoln",
+   "role": "Former President of the United States",
+   "variants": [
+    "Lincoln"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Needham",
+   "variants": [
+    "Needham",
+    "HERNDALE"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "Massachusetts"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Dr. E. I. M. Dickson protests American supplies of scrap iron, gasoline, and munitions to Japan while civilians are being bombed in Canton.",
+   "date": "1938-06-10",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Dr. E. I. M. Dickson",
+   "keywords": [
+    "China",
+    "Canton",
+    "Japan",
+    "bombing of civilians",
+    "scrap iron",
+    "gasoline",
+    "munitions",
+    "Sec. Hull",
+    "Lincoln"
+   ],
+   "start_page": 1,
+   "summary": "Dr. E. I. M. Dickson protests that the U.S. condemns the bombing of Canton yet supplies Japan with gasoline, scrap iron and munitions.",
+   "title": "Letter from Dr. E. I. M. Dickson to Stanley K. Hornbeck protesting U.S. war supplies to Japan",
+   "to": "Stanley K. Hornbeck"
+  },
+  {
+   "about": "Stanley K. Hornbeck acknowledges receipt of Dr. Dickson's letter of June 10, 1938.",
+   "date": "1938-06-14",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Stanley K. Hornbeck",
+   "keywords": [
+    "Stanley K. Hornbeck",
+    "Dr. Dickson",
+    "Department of State",
+    "acknowledgment"
+   ],
+   "start_page": 2,
+   "summary": "Hornbeck acknowledges Dr. Dickson's letter of June 10.",
+   "title": "Letter from Stanley K. Hornbeck to Dr. E. J. M. Dickson acknowledging correspondence",
+   "to": "Dr. E. J. M. Dickson"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13987,
+   "output_tokens": 5332,
+   "thinking_tokens": 4106,
+   "cache_read_tokens": 0,
+   "total_tokens": 19319
+  },
+  "backend": "agy",
+  "seconds": 19.5,
+  "identifier": "japan-internal-affairs-894.24-japan-equipment-and-2",
+  "file": "894.24 Japan, Equipment And Supplies., June 10, 1938 - June 14, 1938 1024.pdf",
+  "created": "2026-09-29 03:41:10"
+ }
+}

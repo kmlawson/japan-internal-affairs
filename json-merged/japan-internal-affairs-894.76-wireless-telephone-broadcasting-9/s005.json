@@ -1,0 +1,3591 @@
+{
+ "section_summary": "This section continues a SCAP register of Japanese ship radio stations, listing vessels by administrative region and prefecture, with ports of registry, tonnage, operational agencies, call signs, frequencies, power changes, and emission types. It covers the Matsuyama, Kumamoto, Sendai, and beginning of the Sapporo regions, spanning Kōchi through Hokkaidō. Most entries concern fishing vessels, alongside cargo ships, railroad ferries, research or weather vessels, salvage craft, and Maritime Safety Bureau guard boats.",
+ "places": [
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "MATSUYAMA"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kōchi-ken",
+    "Kōchiken"
+   ]
+  },
+  {
+   "name": "Kōchi",
+   "variants": [
+    "Kōchi"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu"
+   ]
+  },
+  {
+   "name": "Murotozaki",
+   "variants": [
+    "Murotozaki",
+    "Muratozaki"
+   ]
+  },
+  {
+   "name": "Shinusa",
+   "variants": [
+    "Shinusa"
+   ]
+  },
+  {
+   "name": "Yasuda",
+   "variants": [
+    "Yasuda"
+   ]
+  },
+  {
+   "name": "Muroto",
+   "variants": [
+    "Muroto"
+   ]
+  },
+  {
+   "name": "Susaki",
+   "variants": [
+    "Suzaki"
+   ]
+  },
+  {
+   "name": "Nahari",
+   "variants": [
+    "Nabari"
+   ]
+  },
+  {
+   "name": "Kumamoto Region",
+   "variants": [
+    "KUMAMOTO",
+    "KUAMOTO"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka-ken",
+    "Fukuoka.ken",
+    "Fukuokaken"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "Tobata",
+    "Tcbata",
+    "Tabata"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "Hakata"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka",
+    "Fukudka"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Wakamatsu",
+   "variants": [
+    "Wakamatsu"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oita-ken",
+    "Oita Prefecture"
+   ]
+  },
+  {
+   "name": "Ōita",
+   "variants": [
+    "Óita"
+   ]
+  },
+  {
+   "name": "Hotojima",
+   "variants": [
+    "Hodojima"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto-ken",
+    "Kumamoto Prefectore"
+   ]
+  },
+  {
+   "name": "Ushibuka",
+   "variants": [
+    "Ushibuka"
+   ]
+  },
+  {
+   "name": "Yatsushiro",
+   "variants": [
+    "Yatsushiro"
+   ]
+  },
+  {
+   "name": "Goryōkō",
+   "variants": [
+    "Goryōkō"
+   ]
+  },
+  {
+   "name": "Tomioka",
+   "variants": [
+    "Tomioka"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki-ken",
+    "-Miyazaki-ken",
+    "Miyazaki Prefecture",
+    "Mi-yazaki-prefecture"
+   ]
+  },
+  {
+   "name": "Aburatsu",
+   "variants": [
+    "Aburatsu"
+   ]
+  },
+  {
+   "name": "Nangō",
+   "variants": [
+    "Nangō"
+   ]
+  },
+  {
+   "name": "Sotonoura",
+   "variants": [
+    "Sotonoura",
+    "Sotoura"
+   ]
+  },
+  {
+   "name": "Daidōtsu",
+   "variants": [
+    "Daidōtsu"
+   ]
+  },
+  {
+   "name": "Shimanoura",
+   "variants": [
+    "Shimanoura"
+   ]
+  },
+  {
+   "name": "Aoshima",
+   "variants": [
+    "Aoshima"
+   ]
+  },
+  {
+   "name": "Meitsu",
+   "variants": [
+    "Meitsu"
+   ]
+  },
+  {
+   "name": "Tonoura",
+   "variants": [
+    "Tonoura"
+   ]
+  },
+  {
+   "name": "Totoro",
+   "variants": [
+    "Totoro"
+   ]
+  },
+  {
+   "name": "Makurazaki",
+   "variants": [
+    "Makurazaki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima-ken",
+    "Kagoshima.ken",
+    "Kagoshima Prefecture"
+   ]
+  },
+  {
+   "name": "Kushikino",
+   "variants": [
+    "Kushikino"
+   ]
+  },
+  {
+   "name": "Yamakawa",
+   "variants": [
+    "Yamakawa"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Nishiminakata",
+   "variants": [
+    "Nishiminakata"
+   ]
+  },
+  {
+   "name": "Bō",
+   "variants": [
+    "BOU"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga-ken",
+    "Saga Prefecture"
+   ]
+  },
+  {
+   "name": "Karatsu",
+   "variants": [
+    "Karatsu",
+    "Karatst"
+   ]
+  },
+  {
+   "name": "Imari",
+   "variants": [
+    "Imari"
+   ]
+  },
+  {
+   "name": "Yobiko",
+   "variants": [
+    "Yobiko"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki-ken"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo"
+   ]
+  },
+  {
+   "name": "Narao",
+   "variants": [
+    "Narao"
+   ]
+  },
+  {
+   "name": "Tateura",
+   "variants": [
+    "Tateura"
+   ]
+  },
+  {
+   "name": "Ikitsuki",
+   "variants": [
+    "Ikuzuki"
+   ]
+  },
+  {
+   "name": "Iwaseura",
+   "variants": [
+    "Iwaseura"
+   ]
+  },
+  {
+   "name": "Ichibu",
+   "variants": [
+    "Ichibu"
+   ]
+  },
+  {
+   "name": "Kabashima",
+   "variants": [
+    "Kabashima",
+    "Kabashima-mura",
+    "Kábashima-mura"
+   ]
+  },
+  {
+   "name": "Kayaki",
+   "variants": [
+    "Kayaki"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "SENDAI"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori-ken",
+    "Aomori Prefecture",
+    "Aomori prefecture"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinohe",
+    "Hachihohe"
+   ]
+  },
+  {
+   "name": "Same",
+   "variants": [
+    "Same"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Ajigasawa",
+   "variants": [
+    "Ajigasawa"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita-ken",
+    "Akita Prefecture"
+   ]
+  },
+  {
+   "name": "Tsuchizaki",
+   "variants": [
+    "Tsuchizaki"
+   ]
+  },
+  {
+   "name": "Funakawa",
+   "variants": [
+    "Funakawa"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate-ken"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "Miyako",
+    "Mayako",
+    "Miyoko"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaishi",
+    "Kamaishj"
+   ]
+  },
+  {
+   "name": "Ōtsuchi",
+   "variants": [
+    "Ózuchi"
+   ]
+  },
+  {
+   "name": "Hosoura",
+   "variants": [
+    "Hosoura"
+   ]
+  },
+  {
+   "name": "Yamada",
+   "variants": [
+    "Yamada"
+   ]
+  },
+  {
+   "name": "Murohama",
+   "variants": [
+    "Murohama"
+   ]
+  },
+  {
+   "name": "Hirota",
+   "variants": [
+    "Hirota"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi-ken",
+    "Miyagi Prefecture"
+   ]
+  },
+  {
+   "name": "Kesennuma",
+   "variants": [
+    "Kesennuma",
+    "Késennuma",
+    "Kesenuma"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "Ishinomaki",
+    "Isinomaki"
+   ]
+  },
+  {
+   "name": "Karakuwa",
+   "variants": [
+    "Karakuwa"
+   ]
+  },
+  {
+   "name": "Onagawa",
+   "variants": [
+    "Onagawa"
+   ]
+  },
+  {
+   "name": "Ayukawa",
+   "variants": [
+    "Ayukawa"
+   ]
+  },
+  {
+   "name": "Ogatsuhama",
+   "variants": [
+    "Okachihama"
+   ]
+  },
+  {
+   "name": "Magurodate",
+   "variants": [
+    "Magurodate"
+   ]
+  },
+  {
+   "name": "Watanoha",
+   "variants": [
+    "Watanoha"
+   ]
+  },
+  {
+   "name": "Ogatsu",
+   "variants": [
+    "Okachi"
+   ]
+  },
+  {
+   "name": "Oginohama",
+   "variants": [
+    "Oginohama"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "Shiogama",
+    "Shogama"
+   ]
+  },
+  {
+   "name": "Hanabuchi",
+   "variants": [
+    "Hanabuchi"
+   ]
+  },
+  {
+   "name": "Momoura",
+   "variants": [
+    "Momoura"
+   ]
+  },
+  {
+   "name": "Shizukawa",
+   "variants": [
+    "Shizukawa",
+    "Shisukawa"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima-ken",
+    "Fukushima.ken",
+    "Fukushima Prefecture"
+   ]
+  },
+  {
+   "name": "Ena",
+   "variants": [
+    "Ena",
+    "Eno",
+    "Eua"
+   ]
+  },
+  {
+   "name": "Onahama",
+   "variants": [
+    "Onahama",
+    "Ohahama",
+    "Onahma",
+    "Cnahama"
+   ]
+  },
+  {
+   "name": "Toyoma",
+   "variants": [
+    "Toyoma"
+   ]
+  },
+  {
+   "name": "Nakanosaku",
+   "variants": [
+    "Nakanosaku"
+   ]
+  },
+  {
+   "name": "Yotsukura",
+   "variants": [
+    "Yotsukura"
+   ]
+  },
+  {
+   "name": "Nakoso",
+   "variants": [
+    "Nakoso"
+   ]
+  },
+  {
+   "name": "Matsukawa",
+   "variants": [
+    "Matsukawa"
+   ]
+  },
+  {
+   "name": "Nakamura",
+   "variants": [
+    "Nakamura"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "SAPPORO"
+   ]
+  },
+  {
+   "name": "Hokkaidō",
+   "variants": [
+    "Hokkaidō"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "E. Yamada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "E. Yamada"
+   ]
+  },
+  {
+   "name": "Y. Nakanishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Nakanishi"
+   ]
+  },
+  {
+   "name": "T. Irifuku",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Irifuku"
+   ]
+  },
+  {
+   "name": "H. Sakata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Sakata"
+   ]
+  },
+  {
+   "name": "H. Takemura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Takemura"
+   ]
+  },
+  {
+   "name": "I. Yamamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Yamamoto"
+   ]
+  },
+  {
+   "name": "U. Hisamura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Hisamura"
+   ]
+  },
+  {
+   "name": "M. Taniwaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Taniwaki"
+   ]
+  },
+  {
+   "name": "S. Taniguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Taniguchi"
+   ]
+  },
+  {
+   "name": "S. Hiromatsu",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hiromatsu"
+   ]
+  },
+  {
+   "name": "T. Nakatani",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Nakatani"
+   ]
+  },
+  {
+   "name": "T. Mori",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Mori"
+   ]
+  },
+  {
+   "name": "Y. Ueno",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Ueno"
+   ]
+  },
+  {
+   "name": "I. Matsumoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Matsumoto",
+    "1. Matsumoto"
+   ]
+  },
+  {
+   "name": "M. Yonezawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Yonezawa"
+   ]
+  },
+  {
+   "name": "K. Komatsu",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Komatsu"
+   ]
+  },
+  {
+   "name": "T. Takamura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Takamura"
+   ]
+  },
+  {
+   "name": "U. Inuyoshi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Inuyoshi"
+   ]
+  },
+  {
+   "name": "R. Tanioka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Tanioka"
+   ]
+  },
+  {
+   "name": "K. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Suzuki"
+   ]
+  },
+  {
+   "name": "U. Matsumoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Matsumoto"
+   ]
+  },
+  {
+   "name": "Y. Uozawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Uozawa"
+   ]
+  },
+  {
+   "name": "J. Hirano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Hirano"
+   ]
+  },
+  {
+   "name": "R. Nishimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Nishimura"
+   ]
+  },
+  {
+   "name": "M. Fukushima",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Fukushima"
+   ]
+  },
+  {
+   "name": "T. Nakano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Nakano"
+   ]
+  },
+  {
+   "name": "S. Yoshikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Yoshikawa"
+   ]
+  },
+  {
+   "name": "S. Niino",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Niino"
+   ]
+  },
+  {
+   "name": "H. Kubo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. kubo"
+   ]
+  },
+  {
+   "name": "T. Sumida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sumida"
+   ]
+  },
+  {
+   "name": "T. Yamamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yamamoto"
+   ]
+  },
+  {
+   "name": "M. Kamei",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Kamei"
+   ]
+  },
+  {
+   "name": "K. Mōri",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Mōri."
+   ]
+  },
+  {
+   "name": "K. Tsurui",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Tsurui"
+   ]
+  },
+  {
+   "name": "Y. Izui",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Izui"
+   ]
+  },
+  {
+   "name": "G. Ōnishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Ónishi"
+   ]
+  },
+  {
+   "name": "T. Ōnishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Ónishi"
+   ]
+  },
+  {
+   "name": "K. Yoshifuku",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Yoshifuku"
+   ]
+  },
+  {
+   "name": "K. Yoshino",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Yoshino"
+   ]
+  },
+  {
+   "name": "S. Hamaguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hamagucoi"
+   ]
+  },
+  {
+   "name": "T. Yoshikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yoshikawa"
+   ]
+  },
+  {
+   "name": "H. Oki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Oki"
+   ]
+  },
+  {
+   "name": "R. Matsumoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Matsumoto"
+   ]
+  },
+  {
+   "name": "K. Watanabe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Watanabe"
+   ]
+  },
+  {
+   "name": "M. Maeda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Maeda"
+   ]
+  },
+  {
+   "name": "T. Maeda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Maeda"
+   ]
+  },
+  {
+   "name": "S. Takei",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Takei"
+   ]
+  },
+  {
+   "name": "H. Masui",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Masui"
+   ]
+  },
+  {
+   "name": "I. Katsuse",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Katsuse"
+   ]
+  },
+  {
+   "name": "G. Hashimoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Hashimoto",
+    "G. Hsashimoto"
+   ]
+  },
+  {
+   "name": "A. Tanizawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "A. Tanizawa"
+   ]
+  },
+  {
+   "name": "M. Takeuchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Takeuchi"
+   ]
+  },
+  {
+   "name": "K. Hamaguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Hamaguchi"
+   ]
+  },
+  {
+   "name": "Y. Yoshinaga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Yoshinaga"
+   ]
+  },
+  {
+   "name": "K. Sakamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Sakamoto"
+   ]
+  },
+  {
+   "name": "T. Yamaguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yamaguchi"
+   ]
+  },
+  {
+   "name": "J. Nishiura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Nishiura"
+   ]
+  },
+  {
+   "name": "S. Tani",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Tani"
+   ]
+  },
+  {
+   "name": "S. Kondō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kondō"
+   ]
+  },
+  {
+   "name": "K. Nagano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Nagano"
+   ]
+  },
+  {
+   "name": "Y. Kodama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Kodama"
+   ]
+  },
+  {
+   "name": "S. Iwakiri",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Iwakiri"
+   ]
+  },
+  {
+   "name": "Y. Iwamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Iwamoto"
+   ]
+  },
+  {
+   "name": "S. Iwatani",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Iwatani"
+   ]
+  },
+  {
+   "name": "O. Hirakawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "O. Hirakawa"
+   ]
+  },
+  {
+   "name": "J. Kanda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Kanda"
+   ]
+  },
+  {
+   "name": "U. Maeda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Maeda"
+   ]
+  },
+  {
+   "name": "M. Inano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Inano"
+   ]
+  },
+  {
+   "name": "J. Kusaka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Kusaka"
+   ]
+  },
+  {
+   "name": "S. Sakimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Sakimura"
+   ]
+  },
+  {
+   "name": "T. Nakajima",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Nakajima"
+   ]
+  },
+  {
+   "name": "R. Nitta",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Nitta"
+   ]
+  },
+  {
+   "name": "K. Matsuyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Matsuyama"
+   ]
+  },
+  {
+   "name": "S. Hatoguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hatoguchi"
+   ]
+  },
+  {
+   "name": "S. Kuwahara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kuwahara"
+   ]
+  },
+  {
+   "name": "E. Tabara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "E. Tabara"
+   ]
+  },
+  {
+   "name": "T. Kitamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kitamoto"
+   ]
+  },
+  {
+   "name": "N. Namimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Namimura"
+   ]
+  },
+  {
+   "name": "S. Yoshimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Yoshimura"
+   ]
+  },
+  {
+   "name": "S. Yoshinaga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Yoshinaga"
+   ]
+  },
+  {
+   "name": "M. Oshige",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Oshige"
+   ]
+  },
+  {
+   "name": "M. Tateishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Tateishi"
+   ]
+  },
+  {
+   "name": "T. Nakamura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T Nakamura"
+   ]
+  },
+  {
+   "name": "S. Taniyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Taniyama"
+   ]
+  },
+  {
+   "name": "N. Kondō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Kondō"
+   ]
+  },
+  {
+   "name": "S. Kuwabara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kuwabara"
+   ]
+  },
+  {
+   "name": "H. Miyata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Miyata"
+   ]
+  },
+  {
+   "name": "K. Muya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Muya"
+   ]
+  },
+  {
+   "name": "M. Saikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Saikawa"
+   ]
+  },
+  {
+   "name": "M. Tōo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Tōo"
+   ]
+  },
+  {
+   "name": "Y. Nitta",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Nitta"
+   ]
+  },
+  {
+   "name": "I. Kaneko",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Kaneko"
+   ]
+  },
+  {
+   "name": "E. Motokawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "E. Motokawa"
+   ]
+  },
+  {
+   "name": "S. Terada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Terada"
+   ]
+  },
+  {
+   "name": "T. Eguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Eguchi"
+   ]
+  },
+  {
+   "name": "S. Masuda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Masuda"
+   ]
+  },
+  {
+   "name": "J. Tsuda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Tsuda"
+   ]
+  },
+  {
+   "name": "H. Hamada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Hamada"
+   ]
+  },
+  {
+   "name": "J. Matsumoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Matsumoto"
+   ]
+  },
+  {
+   "name": "Y. Saitō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Saito"
+   ]
+  },
+  {
+   "name": "S. Imoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Imoto"
+   ]
+  },
+  {
+   "name": "J. Mori",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Mori"
+   ]
+  },
+  {
+   "name": "Y. Matsuyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Matsuyama"
+   ]
+  },
+  {
+   "name": "I. Yamashita",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Yamashita"
+   ]
+  },
+  {
+   "name": "S. Nishida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Nishida"
+   ]
+  },
+  {
+   "name": "I. Tsuji",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Tsuji"
+   ]
+  },
+  {
+   "name": "M. Tsuchiyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M.Tsuchiyama"
+   ]
+  },
+  {
+   "name": "R. Toda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Toda"
+   ]
+  },
+  {
+   "name": "K. Tsuda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Tsuda"
+   ]
+  },
+  {
+   "name": "T. Yamatani",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yamatani"
+   ]
+  },
+  {
+   "name": "H. Nomura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Nomura"
+   ]
+  },
+  {
+   "name": "T. Tsuda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Tuda"
+   ]
+  },
+  {
+   "name": "G. Natsubori",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Natsubori"
+   ]
+  },
+  {
+   "name": "K. Takahashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Takahashi"
+   ]
+  },
+  {
+   "name": "Z. Takahashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Z. Takahashi"
+   ]
+  },
+  {
+   "name": "K. Sekihashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Sekihashi"
+   ]
+  },
+  {
+   "name": "I. Shimamori",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Shimamori"
+   ]
+  },
+  {
+   "name": "M. Kawahira",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Kawahira"
+   ]
+  },
+  {
+   "name": "S. Miyazaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Miyazaki"
+   ]
+  },
+  {
+   "name": "D. Yanagiya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "D. Yanagiya"
+   ]
+  },
+  {
+   "name": "K. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Yoshida"
+   ]
+  },
+  {
+   "name": "R. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Yoshida"
+   ]
+  },
+  {
+   "name": "S. Enya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Enya"
+   ]
+  },
+  {
+   "name": "R. Ishikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Ishikawa"
+   ]
+  },
+  {
+   "name": "M. Arakawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Arakawa"
+   ]
+  },
+  {
+   "name": "I. Nakajima",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Nakajima"
+   ]
+  },
+  {
+   "name": "S. Takahashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Takahashi"
+   ]
+  },
+  {
+   "name": "U. Kubo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Kubo"
+   ]
+  },
+  {
+   "name": "Y. Machida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Machida"
+   ]
+  },
+  {
+   "name": "L. Masaya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "L. Masayà"
+   ]
+  },
+  {
+   "name": "S. Takashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Takashi"
+   ]
+  },
+  {
+   "name": "Y. Nukido",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Nukido"
+   ]
+  },
+  {
+   "name": "S. Itō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Itō"
+   ]
+  },
+  {
+   "name": "S. Ōkubo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Ókubo"
+   ]
+  },
+  {
+   "name": "C. Kikuchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Kikuchi"
+   ]
+  },
+  {
+   "name": "S. Sano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Sano"
+   ]
+  },
+  {
+   "name": "Ogasawara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Ogasawara"
+   ]
+  },
+  {
+   "name": "K. Yanagihara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Yanagiwara",
+    "K. Yanagihara"
+   ]
+  },
+  {
+   "name": "T. Kawaguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kawaguchi"
+   ]
+  },
+  {
+   "name": "K. Kashiwazaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kashiwazaki"
+   ]
+  },
+  {
+   "name": "T. Sasaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sasaki"
+   ]
+  },
+  {
+   "name": "Y. Wakayama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Wakayama"
+   ]
+  },
+  {
+   "name": "K. Sasaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Sasaki"
+   ]
+  },
+  {
+   "name": "M. Fujiwara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Fujiwara",
+    "M. Fujihara"
+   ]
+  },
+  {
+   "name": "K. Isozaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Isozaki"
+   ]
+  },
+  {
+   "name": "K. Nakai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Nakai"
+   ]
+  },
+  {
+   "name": "H. Hirano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Hirano"
+   ]
+  },
+  {
+   "name": "K. Katō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Katō"
+   ]
+  },
+  {
+   "name": "U. Tanaka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Tanaka"
+   ]
+  },
+  {
+   "name": "K. Miura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Miura"
+   ]
+  },
+  {
+   "name": "C. Hasegawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Hasegawa"
+   ]
+  },
+  {
+   "name": "T. Yamazaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yamazaki"
+   ]
+  },
+  {
+   "name": "T. Ogasawara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Ogasawara"
+   ]
+  },
+  {
+   "name": "S. Hamada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hamada"
+   ]
+  },
+  {
+   "name": "J. Inagawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Inagawa"
+   ]
+  },
+  {
+   "name": "T. Iwama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Iwama"
+   ]
+  },
+  {
+   "name": "K. Kanazawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kanazawa"
+   ]
+  },
+  {
+   "name": "T. Kumagai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kumagai"
+   ]
+  },
+  {
+   "name": "K. Ogasawara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Ogasawara"
+   ]
+  },
+  {
+   "name": "S. Sawada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Sawada"
+   ]
+  },
+  {
+   "name": "Y. Hamaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Hamaki"
+   ]
+  },
+  {
+   "name": "Y. Haga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Haga"
+   ]
+  },
+  {
+   "name": "H. Kumagai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Kumagai",
+    "H. Kumagaya"
+   ]
+  },
+  {
+   "name": "C. Funaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Funaki"
+   ]
+  },
+  {
+   "name": "T. Hamanaga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Hamanaga"
+   ]
+  },
+  {
+   "name": "H. Sasaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Sasaki"
+   ]
+  },
+  {
+   "name": "Y. Hamakawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Hamakawa"
+   ]
+  },
+  {
+   "name": "K. Terada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Terada"
+   ]
+  },
+  {
+   "name": "S. Yamane",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Yamane"
+   ]
+  },
+  {
+   "name": "T. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yoshida"
+   ]
+  },
+  {
+   "name": "D. Sasaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "D. Sasaki",
+    "D. Sasagi"
+   ]
+  },
+  {
+   "name": "K. Tanaka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Tanaka"
+   ]
+  },
+  {
+   "name": "H. Wakayama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Wakayama"
+   ]
+  },
+  {
+   "name": "H. Usui",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Usui"
+   ]
+  },
+  {
+   "name": "O. Funaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "O. Funagi"
+   ]
+  },
+  {
+   "name": "K. Shōzushima",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Shōzūshima"
+   ]
+  },
+  {
+   "name": "C. Iwama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Iwama"
+   ]
+  },
+  {
+   "name": "Y. Iwayama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Iwayama"
+   ]
+  },
+  {
+   "name": "Y. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Suzuki"
+   ]
+  },
+  {
+   "name": "T. Noguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Noguchi"
+   ]
+  },
+  {
+   "name": "S. Fujisawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Fujisawa"
+   ]
+  },
+  {
+   "name": "C. Sugawara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Sugawara"
+   ]
+  },
+  {
+   "name": "T. Saitō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Šaitō",
+    "T. Saitō"
+   ]
+  },
+  {
+   "name": "Y. Hatakeyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Hatakeyama"
+   ]
+  },
+  {
+   "name": "H. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Suzuki"
+   ]
+  },
+  {
+   "name": "S. Hatakeyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hatakeyama"
+   ]
+  },
+  {
+   "name": "E. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "E. Suzuki"
+   ]
+  },
+  {
+   "name": "K. Kameya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kameya"
+   ]
+  },
+  {
+   "name": "Y. Hamano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Hamano"
+   ]
+  },
+  {
+   "name": "Y. Murakami",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Murakami"
+   ]
+  },
+  {
+   "name": "R. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Abe"
+   ]
+  },
+  {
+   "name": "S. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Suzuki"
+   ]
+  },
+  {
+   "name": "T. Kimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kimura"
+   ]
+  },
+  {
+   "name": "Y. Henmi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Henmi"
+   ]
+  },
+  {
+   "name": "K. Henmi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Henmi"
+   ]
+  },
+  {
+   "name": "R. Ueno",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Ueno"
+   ]
+  },
+  {
+   "name": "S. Saitō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Saitō"
+   ]
+  },
+  {
+   "name": "K. Asano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Asano"
+   ]
+  },
+  {
+   "name": "R. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Suzuki"
+   ]
+  },
+  {
+   "name": "Y. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Abe"
+   ]
+  },
+  {
+   "name": "K. Ashikaga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Ashikaga"
+   ]
+  },
+  {
+   "name": "B. Kaizuka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "B. Kaizuka"
+   ]
+  },
+  {
+   "name": "W. Ogata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "W. Ogata"
+   ]
+  },
+  {
+   "name": "T. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Suzuki"
+   ]
+  },
+  {
+   "name": "T. Hatakeyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Hatakeyama",
+    "T. Hatakayama"
+   ]
+  },
+  {
+   "name": "Y. Kamishiro",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Kamishiro"
+   ]
+  },
+  {
+   "name": "W. Katsukura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "W. Katsukura"
+   ]
+  },
+  {
+   "name": "Y. Utsumi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Utsumi"
+   ]
+  },
+  {
+   "name": "H. Murata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Murata"
+   ]
+  },
+  {
+   "name": "K. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Abe"
+   ]
+  },
+  {
+   "name": "M. Mikami",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Mikami"
+   ]
+  },
+  {
+   "name": "M. Takada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Takada"
+   ]
+  },
+  {
+   "name": "T. Kida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kida"
+   ]
+  },
+  {
+   "name": "T. Narisawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Narisawa"
+   ]
+  },
+  {
+   "name": "T. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Abe"
+   ]
+  },
+  {
+   "name": "T. Nishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Nishi"
+   ]
+  },
+  {
+   "name": "M. Sawamura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Sawamura"
+   ]
+  },
+  {
+   "name": "M. Yamazaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Yamazaki"
+   ]
+  },
+  {
+   "name": "K. Kajiwara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kajiwara"
+   ]
+  },
+  {
+   "name": "M. Hatakeyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Hatakeyama"
+   ]
+  },
+  {
+   "name": "M. Kimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Kimura"
+   ]
+  },
+  {
+   "name": "M. Suenaga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Suenaga"
+   ]
+  },
+  {
+   "name": "S. Inai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Inai"
+   ]
+  },
+  {
+   "name": "K. Ogata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Ogata"
+   ]
+  },
+  {
+   "name": "H. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Abe"
+   ]
+  },
+  {
+   "name": "I. Gotō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Gotō",
+    "1. Gotō"
+   ]
+  },
+  {
+   "name": "H. Yoshikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Yoshikawa"
+   ]
+  },
+  {
+   "name": "K. Hashimoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Hashimoto"
+   ]
+  },
+  {
+   "name": "I. Maekawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Maekawa"
+   ]
+  },
+  {
+   "name": "T. Sete",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sete"
+   ]
+  },
+  {
+   "name": "K. Endō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Endō"
+   ]
+  },
+  {
+   "name": "K. Suda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Suda"
+   ]
+  },
+  {
+   "name": "C. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Abe"
+   ]
+  },
+  {
+   "name": "T. Chiba",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Chiba"
+   ]
+  },
+  {
+   "name": "J. Nihei",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Nihei"
+   ]
+  },
+  {
+   "name": "K. Aizawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Aizawa"
+   ]
+  },
+  {
+   "name": "S. Satō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Satō",
+    "S. Sastō"
+   ]
+  },
+  {
+   "name": "M. Miura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Miura"
+   ]
+  },
+  {
+   "name": "H. Aoki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Aoki"
+   ]
+  },
+  {
+   "name": "K. Matsuda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Matsuda"
+   ]
+  },
+  {
+   "name": "M. Watanabe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Watanabe"
+   ]
+  },
+  {
+   "name": "K. Bōshū",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Bōsyū",
+    "K. Bōshū"
+   ]
+  },
+  {
+   "name": "N. Henmi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Henmi"
+   ]
+  },
+  {
+   "name": "N. Endō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Endō"
+   ]
+  },
+  {
+   "name": "G. Asano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Asano"
+   ]
+  },
+  {
+   "name": "M. Bōshū",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Bōshū"
+   ]
+  },
+  {
+   "name": "S. Kodama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kodama"
+   ]
+  },
+  {
+   "name": "S. Akama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Akama"
+   ]
+  },
+  {
+   "name": "T. Takahashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Takahashi"
+   ]
+  },
+  {
+   "name": "F. Matsu",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "F. Matsu"
+   ]
+  },
+  {
+   "name": "S. Nakano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Nakano"
+   ]
+  },
+  {
+   "name": "S. Miura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Miura"
+   ]
+  },
+  {
+   "name": "M. Shinomi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Shinomi"
+   ]
+  },
+  {
+   "name": "S. Kumagai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kumagai"
+   ]
+  },
+  {
+   "name": "Y. Tsuda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Tsuda"
+   ]
+  },
+  {
+   "name": "K. Masai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Masai"
+   ]
+  },
+  {
+   "name": "S. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Abe"
+   ]
+  },
+  {
+   "name": "A. Tashiro",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "A. Tashiro"
+   ]
+  },
+  {
+   "name": "Y. Ōhira",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Óhira"
+   ]
+  },
+  {
+   "name": "G. Nakazawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Nakazawa"
+   ]
+  },
+  {
+   "name": "N. Katō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Katō"
+   ]
+  },
+  {
+   "name": "S. Aizawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Aizawa"
+   ]
+  },
+  {
+   "name": "K. Gotō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Gotō"
+   ]
+  },
+  {
+   "name": "F. Usui",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "F. Usui"
+   ]
+  },
+  {
+   "name": "F. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "F. Suzuki"
+   ]
+  },
+  {
+   "name": "H. Miura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Miura"
+   ]
+  },
+  {
+   "name": "K. Oikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Oikawa"
+   ]
+  },
+  {
+   "name": "S. Ueki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Ueki"
+   ]
+  },
+  {
+   "name": "S. Kimura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kimura"
+   ]
+  },
+  {
+   "name": "T. Usui",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Usui"
+   ]
+  },
+  {
+   "name": "M. Itō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Itō"
+   ]
+  },
+  {
+   "name": "G. Abe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Abe"
+   ]
+  },
+  {
+   "name": "K. Konno",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Konno"
+   ]
+  },
+  {
+   "name": "M. Imano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Imano"
+   ]
+  },
+  {
+   "name": "K. Satō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Satō"
+   ]
+  },
+  {
+   "name": "H. Imano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Imano"
+   ]
+  },
+  {
+   "name": "T. Imano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Imano"
+   ]
+  },
+  {
+   "name": "Y. Yokoe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Yokoe"
+   ]
+  },
+  {
+   "name": "T. Endō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Endō"
+   ]
+  },
+  {
+   "name": "K. Yonemoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Yonemoto"
+   ]
+  },
+  {
+   "name": "S. Ojima",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Ojima"
+   ]
+  },
+  {
+   "name": "I. Suzuki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Suzuki"
+   ]
+  },
+  {
+   "name": "S. Watanabe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Watanabe"
+   ]
+  },
+  {
+   "name": "S. Kameyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S.Kameyama"
+   ]
+  },
+  {
+   "name": "Y. Akiyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Akiyama"
+   ]
+  },
+  {
+   "name": "K. Onodera",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Onodera"
+   ]
+  },
+  {
+   "name": "R. Chiba",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Chiba"
+   ]
+  },
+  {
+   "name": "T. Watanabe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Watanabe"
+   ]
+  },
+  {
+   "name": "M. Ōwada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Ówada"
+   ]
+  },
+  {
+   "name": "S. Ōwada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Ówado"
+   ]
+  },
+  {
+   "name": "S. Oyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Oyama"
+   ]
+  },
+  {
+   "name": "S. Yamashita",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Yamashita"
+   ]
+  },
+  {
+   "name": "S. Sawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Sawa"
+   ]
+  },
+  {
+   "name": "Y. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Yoshida",
+    "Y. Yosoida",
+    "Y. Yoshsda"
+   ]
+  },
+  {
+   "name": "B. Kanenari",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "B. Kanenari"
+   ]
+  },
+  {
+   "name": "G. Takahashi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Takahashi"
+   ]
+  },
+  {
+   "name": "D. Ōkubo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "D. Ókubo"
+   ]
+  },
+  {
+   "name": "R. Mizuno",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Mizuno"
+   ]
+  },
+  {
+   "name": "T. Yotsuya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Yotsuya"
+   ]
+  },
+  {
+   "name": "M. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Yoshida"
+   ]
+  },
+  {
+   "name": "M. Kazawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Kazawa"
+   ]
+  },
+  {
+   "name": "Y. Kanenari",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Kanenari"
+   ]
+  },
+  {
+   "name": "Z. Ono",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Z. Ono"
+   ]
+  },
+  {
+   "name": "T. Kanenari",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kanenari",
+    "T. Kanari"
+   ]
+  },
+  {
+   "name": "T. Shirato",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Shirato"
+   ]
+  },
+  {
+   "name": "A. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "A. Yoshida"
+   ]
+  },
+  {
+   "name": "Y. Mitsushiro",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Mitsushiro",
+    "Y.Mishiro"
+   ]
+  },
+  {
+   "name": "S. Nozaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Nozaki"
+   ]
+  },
+  {
+   "name": "U. Nakada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Nakada"
+   ]
+  },
+  {
+   "name": "S. Kanenari",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kanenari"
+   ]
+  },
+  {
+   "name": "D. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "D. Yoshida"
+   ]
+  },
+  {
+   "name": "T. Enomoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Enomoto"
+   ]
+  },
+  {
+   "name": "C. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Yoshida"
+   ]
+  },
+  {
+   "name": "S. Matsumoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Matsumoto"
+   ]
+  },
+  {
+   "name": "T. Futo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Futo."
+   ]
+  },
+  {
+   "name": "G. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Yoshida"
+   ]
+  },
+  {
+   "name": "S. Magami",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Magami",
+    "S.' Magami"
+   ]
+  },
+  {
+   "name": "N. Akatsu",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Akatsu"
+   ]
+  },
+  {
+   "name": "K. Tamura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Tamura"
+   ]
+  },
+  {
+   "name": "Y. Tamura",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Tamura"
+   ]
+  },
+  {
+   "name": "T. Shiga",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Shiga"
+   ]
+  },
+  {
+   "name": "H. Sakamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Sakamoto"
+   ]
+  },
+  {
+   "name": "K. Kurokawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kurokawa"
+   ]
+  },
+  {
+   "name": "Y. Ishikawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Ishikawa"
+   ]
+  },
+  {
+   "name": "M. Satō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Satō"
+   ]
+  },
+  {
+   "name": "K. Toda",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Toda"
+   ]
+  },
+  {
+   "name": "M. Takiguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Takiguchi"
+   ]
+  },
+  {
+   "name": "T. Sakamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sakamoto"
+   ]
+  },
+  {
+   "name": "I. Konishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Konishi"
+   ]
+  },
+  {
+   "name": "M. Hisa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Hisa"
+   ]
+  },
+  {
+   "name": "Y. Miyo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Miyó",
+    "Y. Miyo"
+   ]
+  },
+  {
+   "name": "S. Takiguchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Takiguchi"
+   ]
+  },
+  {
+   "name": "C. Sakamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Sakamoto"
+   ]
+  },
+  {
+   "name": "T. Hakosaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Hakosaki"
+   ]
+  },
+  {
+   "name": "F. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "F. Yoshida"
+   ]
+  },
+  {
+   "name": "Y. Hisa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Hisa",
+    "Y. Hisı"
+   ]
+  },
+  {
+   "name": "M. Magami",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Magami"
+   ]
+  },
+  {
+   "name": "H. Yoshida",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Yoshida"
+   ]
+  },
+  {
+   "name": "T. Sakuyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sakuyama"
+   ]
+  },
+  {
+   "name": "Y. Sakamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Sakamoto"
+   ]
+  },
+  {
+   "name": "M. Kusano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Kusano"
+   ]
+  },
+  {
+   "name": "K. Miyo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Miyo"
+   ]
+  },
+  {
+   "name": "T. Sakabe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sakabe"
+   ]
+  },
+  {
+   "name": "U. Ōkubo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "U. Ókubo"
+   ]
+  },
+  {
+   "name": "E. Sakamoto",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "E. Sakamoto."
+   ]
+  },
+  {
+   "name": "S. Wabuka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Wabuka"
+   ]
+  },
+  {
+   "name": "S. Hisa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hisa"
+   ]
+  },
+  {
+   "name": "J. Takenaka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Takenaka"
+   ]
+  },
+  {
+   "name": "T. Ōta",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Óta"
+   ]
+  },
+  {
+   "name": "Y. Satō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Satō"
+   ]
+  },
+  {
+   "name": "G. Ono",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Ono"
+   ]
+  },
+  {
+   "name": "K. Kazawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kazawa"
+   ]
+  },
+  {
+   "name": "T. Nagayama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Nagayama"
+   ]
+  },
+  {
+   "name": "N. Satō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Satō"
+   ]
+  },
+  {
+   "name": "G. Araki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Araki"
+   ]
+  },
+  {
+   "name": "K. Yoshihara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Yoshihara",
+    "K. Yoshihara'"
+   ]
+  },
+  {
+   "name": "Y. Ono",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Ono"
+   ]
+  },
+  {
+   "name": "T. Murayama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Murayama"
+   ]
+  },
+  {
+   "name": "Y. Niizuma",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Niizuma"
+   ]
+  },
+  {
+   "name": "G. Sakai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Sakai"
+   ]
+  },
+  {
+   "name": "K. Tajima",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Tajima"
+   ]
+  },
+  {
+   "name": "S. Kuboki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kuboki"
+   ]
+  },
+  {
+   "name": "Y. Takiuchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Takiuchi"
+   ]
+  },
+  {
+   "name": "J. Satō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Satō"
+   ]
+  },
+  {
+   "name": "Y. Hasegawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Hasegawa"
+   ]
+  },
+  {
+   "name": "K. Michino",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Michino"
+   ]
+  },
+  {
+   "name": "K. Ōwada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Ówada"
+   ]
+  },
+  {
+   "name": "M. Tanno",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Tanno"
+   ]
+  },
+  {
+   "name": "H. Niizuma",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "H. Niizuma"
+   ]
+  },
+  {
+   "name": "Y. Watanabe",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Watanabe"
+   ]
+  },
+  {
+   "name": "S. Futo",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Futo"
+   ]
+  },
+  {
+   "name": "T. Kataishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Kataishi"
+   ]
+  },
+  {
+   "name": "S. Aoyama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Aoyama"
+   ]
+  },
+  {
+   "name": "C. Takatsu",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Takatsu"
+   ]
+  },
+  {
+   "name": "Y. Ogata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Ogata"
+   ]
+  },
+  {
+   "name": "S. Nakanishi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Nakanishi"
+   ]
+  },
+  {
+   "name": "I. Karikomi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Karikomi"
+   ]
+  },
+  {
+   "name": "N. Yanagiuchi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Yanagiuchi"
+   ]
+  },
+  {
+   "name": "T. Ishii",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Ishii"
+   ]
+  },
+  {
+   "name": "K. Takagi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Takagi"
+   ]
+  },
+  {
+   "name": "F. Itō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "F. Itō"
+   ]
+  },
+  {
+   "name": "I. Shibuya",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Shibuya",
+    "I. Saibuya"
+   ]
+  },
+  {
+   "name": "K. Magami",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Magami"
+   ]
+  },
+  {
+   "name": "M. Nozaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Nozaki"
+   ]
+  },
+  {
+   "name": "Z. Nakata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Z. Nakata"
+   ]
+  },
+  {
+   "name": "R. Shōji",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Shōji"
+   ]
+  },
+  {
+   "name": "C. Ono",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Ono"
+   ]
+  },
+  {
+   "name": "Y. Nakata",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Nakata"
+   ]
+  },
+  {
+   "name": "T. Sakai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Sakai"
+   ]
+  },
+  {
+   "name": "K. Kanenari",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kanari"
+   ]
+  },
+  {
+   "name": "G. Tanaka",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Tanaka"
+   ]
+  },
+  {
+   "name": "J. Kuboki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "J. Kuboki"
+   ]
+  },
+  {
+   "name": "C. Itō",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "C. Itō"
+   ]
+  },
+  {
+   "name": "I. Tachibana",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "I. Tachibana"
+   ]
+  },
+  {
+   "name": "T. Tazawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Tazawa"
+   ]
+  },
+  {
+   "name": "S. Hisada",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Hisada"
+   ]
+  },
+  {
+   "name": "K. Kakihara",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "K. Kakibara"
+   ]
+  },
+  {
+   "name": "T. Katayori",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "T. Katayori"
+   ]
+  },
+  {
+   "name": "G. Miyachi",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "G. Miyachi"
+   ]
+  },
+  {
+   "name": "N. Kamitono",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "N. Kamitono"
+   ]
+  },
+  {
+   "name": "Y. Kazawa",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "Y. Kazawa"
+   ]
+  },
+  {
+   "name": "S. Miyano",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Miyano"
+   ]
+  },
+  {
+   "name": "R. Hama",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "R. Hama"
+   ]
+  },
+  {
+   "name": "S. Sasaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Sasaki"
+   ]
+  },
+  {
+   "name": "M. Sasaki",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "M. Sasaki"
+   ]
+  },
+  {
+   "name": "S. Mashiko",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Mashiko"
+   ]
+  },
+  {
+   "name": "S. Honma",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Honma"
+   ]
+  },
+  {
+   "name": "S. Kanai",
+   "role": "Individual listed as operational agency or ship operator",
+   "variants": [
+    "S. Kanai"
+   ]
+  }
+ ],
+ "keywords": [
+  "SCAP",
+  "ship radio stations",
+  "vessel registry",
+  "call signs",
+  "radio frequencies",
+  "frequency assignments",
+  "emission types",
+  "fishing vessels",
+  "ports of registry",
+  "Maritime Safety Bureau",
+  "railroad ferries",
+  "Japan"
+ ],
+ "subfiles": [
+  {
+   "title": "SCAP register of Japanese ship radio stations by region and prefecture (continuation)",
+   "doc_type": "registry table",
+   "start_page": 321,
+   "end_page": 399,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A continuing register records Japanese vessels and their authorized or revised radio-station particulars across western, northeastern, and northern Japan.",
+   "summary": "The tables identify vessels by SCAP registration number, name, port of registry, tonnage, operational agency, call sign, frequency and power, and emission type. Pages 321-354 finish the Matsuyama listings for Kōchi and cover the Kumamoto region prefectures from Fukuoka through Nagasaki. Pages 355-397 cover the Sendai region from Aomori through Fukushima, while pages 398-399 begin the Sapporo-region register for Hokkaidō. The entries encompass commercial fishing fleets, cargo and salvage ships, prefectural and research vessels, weather craft, Maritime Safety Bureau guard boats, and government railroad ferries.",
+   "keywords": [
+    "SCAP ship register",
+    "maritime radio",
+    "call signs",
+    "frequency changes",
+    "operational agencies",
+    "fishing fleets",
+    "guard boats",
+    "railroad ferries",
+    "Matsuyama region",
+    "Kumamoto region",
+    "Sendai region",
+    "Sapporo region"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 14,
+  "pages": [
+   321,
+   399
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 3, 1946 - December 24, 1949 1827.pdf",
+  "seconds": 232.1,
+  "created": "2026-10-04 00:08:25",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-9"
+ }
+}

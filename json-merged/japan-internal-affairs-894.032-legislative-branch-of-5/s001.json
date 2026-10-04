@@ -1,0 +1,827 @@
+{
+ "keywords": [
+  "Japanese Diet",
+  "China Affair",
+  "Sino-Japanese War",
+  "Fumimaro Konoe",
+  "Koki Hirota",
+  "Foreign Policy",
+  "Anti-Comintern Pact",
+  "Open Door Policy",
+  "Panay Incident",
+  "War Budget",
+  "National Mobilization"
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew",
+    "GREW"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Premier",
+    "Prime Minister",
+    "Prince Fumimaro Konoe",
+    "Prince Fumimnro Konoe",
+    "Premier Konoye",
+    "Konoye",
+    "Konoe"
+   ]
+  },
+  {
+   "name": "Koki Hirota",
+   "role": "Minister for Foreign Affairs of Japan",
+   "variants": [
+    "Koki Hirota",
+    "Mr. Koki Hirota",
+    "Hirota",
+    "Mr. Hirota"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "His Imperial Majesty",
+    "His Majesty",
+    "Sovereign"
+   ]
+  },
+  {
+   "name": "Isao Oyama",
+   "role": "Sub-lieutenant, Japanese Landing Party",
+   "variants": [
+    "Sub-lieutenant Oyama",
+    "Oyama"
+   ]
+  },
+  {
+   "name": "Yozo Saito",
+   "role": "Seaman, Japanese Landing Party",
+   "variants": [
+    "Seaman Saito",
+    "Saito"
+   ]
+  },
+  {
+   "name": "Shigeru Kawagoe",
+   "role": "Japanese Ambassador to China",
+   "variants": [
+    "Ambassador Kawagoe",
+    "Kawagoe"
+   ]
+  },
+  {
+   "name": "Clarence E. Gauss",
+   "role": "American Consul General at Shanghai",
+   "variants": [
+    "GAUSS",
+    "Gauss"
+   ]
+  },
+  {
+   "name": "Baron Sonoda",
+   "role": "Member of the Japanese House of Peers",
+   "variants": [
+    "Baron Sonoda"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Adviser on Political Relations, U.S. Department of State",
+   "variants": [
+    "Stanley K. Hornbeck",
+    "Mr Hornbeck",
+    "Mr. Hornbeck",
+    "MR. HORNBECK",
+    "MR. HOBECK",
+    "MR. HOINBECK",
+    "SKH",
+    "s<H"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Secretary of State",
+    "Mr. Secretary",
+    "Mr Secretary"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Officer, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Mr. Ballantine",
+    "Ballantine",
+    "FE:JWB:VCI"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Chief, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "m.m.H",
+    "m.m.H.",
+    "MMH",
+    "MMH/REK"
+   ]
+  },
+  {
+   "name": "Francisco Franco",
+   "role": "General and Head of the Nationalist Government of Spain",
+   "variants": [
+    "General Franco",
+    "Franco"
+   ]
+  },
+  {
+   "name": "Prince Chichibu",
+   "role": "Imperial Prince of Japan",
+   "variants": [
+    "H.I.H. Prince Chichibu",
+    "Prince Chichibu"
+   ]
+  },
+  {
+   "name": "William R. Langdon",
+   "role": "Officer, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Langdon",
+    "FE:Langdon:vCI",
+    "FE:Langdon:VCI"
+   ]
+  },
+  {
+   "name": "Mr. Kotani",
+   "role": "Member of the Japanese Diet (interpellant)",
+   "variants": [
+    "Mr. Kotani"
+   ]
+  },
+  {
+   "name": "Confucius",
+   "role": "Ancient Chinese philosopher",
+   "variants": [
+    "Confucius"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U S A",
+    "America",
+    "American"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepen",
+    "Empire"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinn",
+    "Chins"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China",
+    "North Chinn"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China",
+    "Central"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "Yangtze River",
+    "Yangtze",
+    "YangtzE River"
+   ]
+  },
+  {
+   "name": "Yangtze Valley",
+   "variants": [
+    "Yangtze Valley"
+   ]
+  },
+  {
+   "name": "Hankou",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Chahar",
+   "variants": [
+    "Chahar"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchoukuo",
+    "\"Manchukuo\"",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "Britain",
+    "England"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy",
+    "Itely"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Soviet Uuion"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "North Saghalien",
+    "Saghalien"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Kiel",
+   "variants": [
+    "Kiel"
+   ]
+  },
+  {
+   "name": "Brussels",
+   "variants": [
+    "Brussels",
+    "Brassols"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "British India"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma",
+    "Bumna"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey",
+    "Turkoy"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Enst Asia",
+    "Bast Asia",
+    "st Asie"
+   ]
+  },
+  {
+   "name": "Orient",
+   "variants": [
+    "Orient"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Inner Mongolia",
+   "variants": [
+    "Inner Mongolia"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung",
+    "Shentung"
+   ]
+  },
+  {
+   "name": "Jiaozhou",
+   "variants": [
+    "Kiaochow"
+   ]
+  },
+  {
+   "name": "Jinan",
+   "variants": [
+    "Tsinan"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "South Manchuria Railway zone"
+   ]
+  },
+  {
+   "name": "Shanghai International Settlement",
+   "variants": [
+    "International Settlement"
+   ]
+  }
+ ],
+ "section_summary": "This section comprises U.S. State Department records from September 1937 to February 1938 documenting the 72nd and 73rd sessions of the Japanese Imperial Diet following the outbreak of the Second Sino-Japanese War. It consists of diplomatic despatches, telegrams, cross-reference sheets, and internal State Department memoranda reviewing and analyzing major policy addresses by Prime Minister Fumimaro Konoe and Foreign Minister Koki Hirota. Key topics include Japan's war aims, emergency military appropriations and economic controls, the severance of relations with China's Nationalist Government, adherence to the Anti-Comintern Pact, and diplomatic fallout concerning the Open Door, third-power interests, and the Panay and Ladybird incidents.",
+ "subfiles": [
+  {
+   "about": "Transmits a report on the proceedings and emergency wartime legislation of the 72nd Japanese Diet, enclosing official English texts of opening addresses by Prime Minister Konoe and Foreign Minister Hirota.",
+   "continues_previous": false,
+   "date": "1937-09-17",
+   "doc_type": "despatch",
+   "end_page": 12,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Seventy-second Diet",
+    "China Affair",
+    "emergency legislation",
+    "military expenditure",
+    "Fumimaro Konoe",
+    "Koki Hirota",
+    "Shanghai incident",
+    "foreign exchange control"
+   ],
+   "start_page": 1,
+   "summary": "Ambassador Joseph C. Grew reports on the extraordinary 72nd session of the Imperial Diet convened in September 1937 to respond to hostilities in China. The Diet swiftly enacted the emergency military budget and eleven government control laws addressing public loans, temporary military expenditures, funds adjustment, foreign exchange control, munitions industry mobilization, shipping, and commodity regulations. Included as enclosures are the official English translations of Prime Minister Fumimaro Konoe's address asserting Japan's right of self-defense and readiness for protracted conflict, and Foreign Minister Koki Hirota's speech reviewing the expansion of hostilities to Shanghai, Japanese evacuations, communications with Western powers, and Japan's objective of tripartite cooperation among Japan, Manchoukuo, and China.",
+   "title": "Tokyo Despatch No. 2594: Seventy-Second Japanese Diet",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Cross-reference sheet recording the filing of Tokyo Despatch No. 2624 regarding the proceedings of the 72nd Japanese Diet under decimal file 894.00 P.R./118.",
+   "continues_previous": false,
+   "date": "1937-10-13",
+   "doc_type": "cross-reference sheet",
+   "end_page": 13,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "cross-reference sheet",
+    "Document File Note",
+    "Seventy-second Diet",
+    "Joseph C. Grew",
+    "political report"
+   ],
+   "start_page": 13,
+   "summary": "This State Department document file note cross-references Tokyo Despatch No. 2624 of October 13, 1937, forwarded by Ambassador Grew as periodic political report 894.00 P.R./118. It notes that the despatch contains a report on the proceedings of the Japanese Diet which met from September 4 to September 8, 1937. The note serves as an index sheet for filing under decimal classification 894.032/177.",
+   "title": "Document File Note: Despatch No. 2624 (894.032/177)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Extract from Tokyo Embassy's periodic political report reviewing parliamentary proceedings, ministerial speeches, and emergency appropriations of the 72nd Diet session.",
+   "continues_previous": false,
+   "date": "1937-10-13",
+   "doc_type": "report",
+   "end_page": 16,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Seventy-second Diet",
+    "China Affair",
+    "military budget",
+    "Koki Hirota",
+    "Fumimaro Konoe",
+    "financial controls",
+    "neutral commerce"
+   ],
+   "start_page": 14,
+   "summary": "This excerpt from Tokyo Despatch No. 2624 provides an analytical review of the 72nd Diet session held September 4–8, 1937. It summarizes opening speeches by Foreign Minister Hirota and Premier Konoe outlining Japan's official justification for military operations in China as self-defense against anti-Japanese policies and communist infiltration. It also summarizes the Finance Minister's announcement of extraordinary military estimates totaling 2.02 billion yen alongside bills for financial and commodity controls, and notes assurances by the Navy Minister that peaceful commerce of third countries with China would not be hindered.",
+   "title": "Proceedings of the Japanese Diet (Extract from Tokyo Despatch No. 2624)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reports the official gazette notice convoking the 73rd ordinary session of the Japanese Diet on December 24, 1937.",
+   "continues_previous": false,
+   "date": "1937-11-12",
+   "doc_type": "despatch",
+   "end_page": 17,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Seventy-third Diet",
+    "Diet convocation",
+    "official gazette",
+    "Joseph C. Grew",
+    "ordinary session"
+   ],
+   "start_page": 17,
+   "summary": "Ambassador Joseph C. Grew informs the Secretary of State that the Japanese official gazette of November 10, 1937 published a notice convoking the Imperial Diet on December 24, 1937. The convocation sets the date for the seventy-third session of the Japanese Diet, which will be an ordinary session.",
+   "title": "Tokyo Despatch No. 2662: Seventy-Third Diet Opens December 24, 1937",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Notifies the State Department of scheduled Diet addresses by the Prime Minister and Foreign Minister and their transmission via news agencies.",
+   "continues_previous": false,
+   "date": "1938-01-21",
+   "doc_type": "telegram",
+   "end_page": 18,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "telegram",
+    "Seventy-third Diet",
+    "Foreign Office",
+    "foreign policy",
+    "Associated Press",
+    "United Press"
+   ],
+   "start_page": 18,
+   "summary": "Ambassador Grew reports that Prime Minister Konoe and other cabinet ministers are scheduled to address the Diet upon reconvening after the New Year holidays, which will illuminate Japanese foreign policy. The Foreign Office indicated that the full texts of the speeches by the Prime Minister and the Foreign Minister would be telegraphed to the United States for release by the Associated Press and United Press. Consequently, the Embassy plans to telegraph only excerpts from the addresses of other cabinet ministers of immediate interest.",
+   "title": "Tokyo Telegram No. 45: Forthcoming Ministerial Addresses to the Diet",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reports Shanghai press commentary on Hirota's Diet address and rumors of an Anglo-Japanese understanding following the Panay and Ladybird incidents.",
+   "continues_previous": false,
+   "date": "1938-01-26",
+   "doc_type": "telegram",
+   "end_page": 20,
+   "from": "Clarence E. Gauss",
+   "keywords": [
+    "telegram",
+    "Koki Hirota",
+    "North China Daily News",
+    "Panay incident",
+    "Ladybird incident",
+    "Anglo-Japanese relations",
+    "Hong Kong",
+    "Baron Sonoda"
+   ],
+   "start_page": 19,
+   "summary": "Consul General Clarence E. Gauss summarizes an editorial in the North China Daily News criticizing Foreign Minister Hirota's speech of January 22 as an unsuccessful effort to divide the United States and Great Britain. He relays information from an American correspondent regarding a rumored understanding between Britain and Japan reached after the Panay and Ladybird incidents, under which Japan would avoid general operations in the Canton area in return for British limits on arms transit through Hong Kong and tolerance of Japanese Yangtze control. He also notes Diet remarks by Baron Sonoda praising Britain's suspension of fleet cruises to the Far East while criticizing British arms supplies to China.",
+   "title": "Shanghai Telegram No. 145: Editorial Reactions to Hirota's Speech and Rumored Anglo-Japanese Agreement",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Transmits to Adviser Hornbeck and Secretary Hull an analytical memorandum by Mr. Ballantine on Japanese Foreign Minister Hirota's Diet speech.",
+   "continues_previous": false,
+   "date": "1938-01-25",
+   "doc_type": "memorandum",
+   "end_page": 21,
+   "from": "Maxwell M. Hamilton",
+   "keywords": [
+    "memorandum",
+    "Far Eastern Affairs",
+    "Koki Hirota",
+    "Joseph W. Ballantine",
+    "Stanley K. Hornbeck",
+    "Cordell Hull"
+   ],
+   "start_page": 21,
+   "summary": "Maxwell M. Hamilton, Chief of the Division of Far Eastern Affairs, submits an intra-departmental routing memorandum forwarding Joseph W. Ballantine's analysis of Foreign Minister Hirota's January 22 address to the Diet. Hamilton advises that if Secretary Hull has already examined the text of the speech, he might focus specifically on pages 3–4 containing Ballantine's critical evaluation of Japan's Open Door and territorial integrity assurances.",
+   "title": "Memorandum Transmitting Analysis of Foreign Minister Hirota's Diet Address",
+   "to": "Stanley K. Hornbeck and Cordell Hull"
+  },
+  {
+   "about": "Submits to Secretary Hull marked copies of Hirota's Diet speech along with comments from Ballantine's memorandum.",
+   "continues_previous": false,
+   "date": "1938-01-26",
+   "doc_type": "memorandum",
+   "end_page": 22,
+   "from": "Stanley K. Hornbeck",
+   "keywords": [
+    "memorandum",
+    "Political Relations",
+    "Stanley K. Hornbeck",
+    "Cordell Hull",
+    "Koki Hirota",
+    "Japanese foreign policy"
+   ],
+   "start_page": 22,
+   "summary": "Stanley K. Hornbeck, Adviser on Political Relations, submits a memorandum to Secretary of State Cordell Hull regarding Foreign Minister Hirota's foreign policy speech delivered to the Diet on January 22. Hornbeck provides marked excerpts of the printed text for the Secretary's review and directs attention to comments on pages 3 and 4 of Joseph W. Ballantine's attached memorandum evaluating Japanese intentions.",
+   "title": "Memorandum Regarding Foreign Minister Hirota's Speech on Foreign Policy",
+   "to": "Cordell Hull"
+  },
+  {
+   "about": "Summarizes and analyzes Japanese Foreign Minister Hirota's Diet speech, concluding that pledges regarding China's territorial integrity and the Open Door are hollow.",
+   "continues_previous": false,
+   "date": "1938-01-25",
+   "doc_type": "memorandum",
+   "end_page": 26,
+   "from": "Joseph W. Ballantine",
+   "keywords": [
+    "memorandum",
+    "Koki Hirota",
+    "Open Door",
+    "territorial integrity",
+    "Nationalist Government",
+    "Anti-Comintern",
+    "Panay incident",
+    "Far Eastern Affairs"
+   ],
+   "start_page": 23,
+   "summary": "Joseph W. Ballantine summarizes Hirota's January 22 address covering Japan's war aims in China, relations with Manchukuo, the Soviet Union, the Western powers, trade negotiations, and cultural propaganda abroad. Hirota reiterated Japan's four-point peace proposal conveyed through Germany, confirmed Japan's decision to cease dealing with the Nationalist Government, and welcomed the rise of a new Chinese regime. In his critical analysis, Ballantine argues that Japan's pledges of territorial integrity will be rendered meaningless through puppet dismemberment akin to Manchuria, and that the Open Door will be subordinated to economic nationalism, though Hirota's emphasis on American friendship suggests the U.S. retains some moral leverage.",
+   "title": "Memorandum: Address of Mr. Koki Hirota, Minister for Foreign Affairs, before the Imperial Diet on January 22, 1938",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Cross-reference sheet recording Foreign Minister Hirota's statement on belligerent rights from Tokyo Telegram No. 79 filed under 793.94/12316.",
+   "continues_previous": false,
+   "date": "1938-02-05",
+   "doc_type": "cross-reference sheet",
+   "end_page": 27,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "cross-reference sheet",
+    "Document File Note",
+    "belligerent rights",
+    "Koki Hirota",
+    "Budget Committee",
+    "declaration of war"
+   ],
+   "start_page": 27,
+   "summary": "This State Department document file note cross-references Tokyo Telegram No. 79 of February 5, 1938, filed in the Chinese conflict decimal series (793.94/12316). It quotes Foreign Minister Hirota's clarification to the Lower House Budget Committee that Japan does not claim belligerent rights, maintaining the stance of the January 16 declaration despite having characterized the conflict as de facto war.",
+   "title": "Document File Note: Telegram No. 79 (894.032/182)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reports Foreign Minister Hirota's clarification before the Lower House Budget Committee that Japan does not claim the rights of a belligerent.",
+   "continues_previous": false,
+   "date": "1938-02-05",
+   "doc_type": "telegram",
+   "end_page": 28,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "telegram",
+    "Koki Hirota",
+    "belligerent rights",
+    "Budget Committee",
+    "Lower House",
+    "declaration of war"
+   ],
+   "start_page": 28,
+   "summary": "Ambassador Grew reports that the Foreign Office informed the Embassy regarding a clarification made by the Minister for Foreign Affairs to the Lower House Budget Committee on February 5. Hirota stated that Japan has not claimed the rights of a belligerent, and that this position was not altered by the government's declaration of January 16, qualifying his earlier January 25 Diet statement that the conflict was in fact a war.",
+   "title": "Tokyo Telegram No. 79: Foreign Minister's Statement on Belligerent Rights",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Cross-reference sheet recording Tokyo Telegram No. 80 regarding press reports of Diet proceedings, filed under 793.94/12326.",
+   "continues_previous": false,
+   "date": "1938-02-06",
+   "doc_type": "cross-reference sheet",
+   "end_page": 29,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "cross-reference sheet",
+    "Document File Note",
+    "Budget Committee",
+    "Koki Hirota",
+    "National Government",
+    "press reports"
+   ],
+   "start_page": 29,
+   "summary": "This State Department document file note cross-references Tokyo Telegram No. 80 of February 6, 1938, filed under decimal 793.94/12326. It notes the Embassy's report that neither House of the Diet held a session on February 2, and that a Budget Committee meeting held that day showed no record of statements by the Foreign Minister resembling those quoted in press reports concerning withdrawal of recognition from the Chinese National Government.",
+   "title": "Document File Note: Telegram No. 80 (894.032/183)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Clarifies that Foreign Minister Hirota made no statements in the Diet or Budget Committee on February 2 resembling those reported by the Associated Press.",
+   "continues_previous": false,
+   "date": "1938-02-06",
+   "doc_type": "telegram",
+   "end_page": 30,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "telegram",
+    "Associated Press",
+    "Budget Committee",
+    "Koki Hirota",
+    "Fumimaro Konoe",
+    "press reports"
+   ],
+   "start_page": 30,
+   "summary": "Ambassador Grew reports that neither House of the Diet held a session on February 2, 1938, and that records of the Budget Committee meeting on that date reveal no statement by the Foreign Minister resembling the Associated Press report queried by the Department. Grew suggests that the statements attributed in the press to the Prime Minister and Foreign Minister were likely excerpts from earlier addresses reported in the Embassy's telegram of January 31.",
+   "title": "Tokyo Telegram No. 80: Refutation of Press Reports on Foreign Minister's Diet Remarks",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Analyzes Tokyo Despatch No. 2769, highlighting Foreign Minister Hirota's qualified interpretation of the Open Door principle in China.",
+   "continues_previous": false,
+   "date": "1938-02-24",
+   "doc_type": "memorandum",
+   "end_page": 31,
+   "from": "William R. Langdon",
+   "keywords": [
+    "memorandum",
+    "Far Eastern Affairs",
+    "Open Door",
+    "Koki Hirota",
+    "Fumimaro Konoe",
+    "Despatch No. 2769"
+   ],
+   "start_page": 31,
+   "summary": "William R. Langdon of the Division of Far Eastern Affairs prepares an analytical memorandum on Tokyo Despatch No. 2769 enclosing the opening Diet speeches of Premier Konoye and Foreign Minister Hirota. Langdon draws particular attention to Hirota's formulation that Japan is prepared to leave the door wide open 'for the purpose of promoting the welfare of the Chinese people.' Langdon observes that this phrasing suggests Japan now regards the Chinese people as its wards and itself as the doorkeeper of China.",
+   "title": "Memorandum on Tokyo Despatch No. 2769: Premier Konoye and Foreign Minister Hirota's Diet Addresses",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Transmits opening addresses delivered by Prime Minister Konoe and Foreign Minister Hirota to the 73rd Diet session on January 22, 1938, with official English translations.",
+   "continues_previous": false,
+   "date": "1938-02-04",
+   "doc_type": "despatch",
+   "end_page": 76,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Seventy-third Diet",
+    "Fumimaro Konoe",
+    "Koki Hirota",
+    "Nanking",
+    "Anti-Comintern Pact",
+    "Open Door",
+    "Panay incident",
+    "Ladybird incident",
+    "national mobilization"
+   ],
+   "start_page": 32,
+   "summary": "Ambassador Joseph C. Grew transmits official Foreign Office English translations of opening addresses delivered on January 22, 1938, to the 73rd ordinary Diet session by Prime Minister Fumimaro Konoe and Foreign Minister Koki Hirota (including duplicate mimeographed copies). Konoe's speech reviews military progress in China including the capture of Nanking, announces Japan's policy to cease dealing with the Kuomintang Government while anticipating a cooperative new Chinese regime, and emphasizes national economic and spiritual mobilization for protracted conflict. Hirota's address details peace terms transmitted via Germany, denounces Chinese resistance, discusses relations with the Soviet Union, European powers, and the Americas, explains the amicable resolution of the Panay and Ladybird incidents, affirms qualified adherence to the Open Door, and outlines foreign trade agreements and cultural work.",
+   "title": "Tokyo Despatch No. 2769: Diet Addresses by Premier and Foreign Minister",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Analyzes Tokyo Despatch No. 2763 enclosing Foreign Minister Hirota's replies to Diet questions on war indemnities, railways, cultural enterprises, and opium.",
+   "continues_previous": false,
+   "date": "1938-02-24",
+   "doc_type": "memorandum",
+   "end_page": 79,
+   "from": "William R. Langdon",
+   "keywords": [
+    "memorandum",
+    "Far Eastern Affairs",
+    "Koki Hirota",
+    "interpellations",
+    "Kiaochow-Tsinan Railway",
+    "Shantung",
+    "indemnities",
+    "opium",
+    "Inner Mongolia"
+   ],
+   "start_page": 77,
+   "summary": "William R. Langdon summarizes translations of Foreign Minister Hirota's replies to interpellations in the Diet between January 25 and 29, 1938, transmitted in Tokyo Despatch No. 2763. Langdon stresses that Hirota's candid answers reveal Japan's true intentions in China, including a determination to extract full indemnities for Japanese losses, follow public sentiment demanding the recovery of the Kiaochow-Tsinan Railway in Shantung, sponsor cultural research and repairs, apply Taiwanese opium research to China, and extend full aid to the new regime in Inner Mongolia.",
+   "title": "Memorandum on Tokyo Despatch No. 2763: Foreign Minister Hirota's Diet Interpellations",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Transmits English translations of principal replies by the Foreign Minister to interpellations on foreign affairs in the 73rd Diet session.",
+   "continues_previous": false,
+   "date": "1938-02-04",
+   "doc_type": "despatch",
+   "end_page": 80,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "despatch",
+    "Seventy-third Diet",
+    "Joseph C. Grew",
+    "interpellations",
+    "foreign affairs",
+    "Koki Hirota"
+   ],
+   "start_page": 80,
+   "summary": "Ambassador Joseph C. Grew transmits to the Secretary of State free translations prepared by the Embassy of major replies made by Foreign Minister Hirota to interpellations on foreign affairs during open sessions of the 73rd Diet following its opening on January 22, 1938. The covering despatch lists six enclosures containing these Diet statements, which continue in the subsequent section of the file.",
+   "title": "Tokyo Despatch No. 2763: 73rd Ordinary Session of the Diet, January 22, 1938",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 35850,
+   "output_tokens": 51573,
+   "thinking_tokens": 44944,
+   "cache_read_tokens": 0,
+   "total_tokens": 87423
+  },
+  "backend": "agy",
+  "section": 1,
+  "sections": 2,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.032 Legislative Branch Of Government., Japan, Proceedings. Messages To The Parliament. Presidents Message To Congress., September 17, 1937 - November 11, 1939 1148.pdf",
+  "seconds": 140.8,
+  "created": "2026-09-30 04:50:33",
+  "key": "japan-internal-affairs-894.032-legislative-branch-of-5"
+ }
+}

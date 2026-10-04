@@ -1,0 +1,1952 @@
+{
+ "overview": "This file traces several connected aspects of Japanese meteorology during the Allied occupation from April 1947 to September 1949. It begins with Uruguayan requests for Tokyo temperature data, contains a major SCAP directive regulating nearly 200 Japanese weather stations, their observation duties, reporting procedures, equipment and service vessels, and then documents the international distribution of Japanese meteorological information to Mongolia, Afghanistan, Iran and Argentina. The final documents concern negotiations over transferring North Pacific ocean weather stations J and X-Ray from American to Japanese operation, including their importance for aviation and air-sea rescue, questions of reimbursement, and an estimated annual cost.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "UNITED STATES",
+    "United States",
+    "US",
+    "U.S.",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Mongolia",
+   "variants": [
+    "Mongolia",
+    "Mongolian People Republic"
+   ]
+  },
+  {
+   "name": "Afghanistan",
+   "variants": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "name": "Montevideo",
+   "variants": [
+    "Montevideo",
+    "MONTEVIDEO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio",
+    "Tokyo",
+    "TOKYO",
+    "Tokyo (CMO)",
+    "Pokyo"
+   ]
+  },
+  {
+   "name": "Ishigaki Island",
+   "variants": [
+    "Ishigaki-jima"
+   ]
+  },
+  {
+   "name": "Miyako Island",
+   "variants": [
+    "Miyako-jima"
+   ]
+  },
+  {
+   "name": "Naze",
+   "variants": [
+    "Nazo"
+   ]
+  },
+  {
+   "name": "Minamidaitō Island",
+   "variants": [
+    "Minamioagari-jima"
+   ]
+  },
+  {
+   "name": "Yakushima",
+   "variants": [
+    "Yaku-shima",
+    "Koku-shima"
+   ]
+  },
+  {
+   "name": "Tanegashima",
+   "variants": [
+    "Tanegashima"
+   ]
+  },
+  {
+   "name": "Hachijō Island",
+   "variants": [
+    "Hachijo-jima"
+   ]
+  },
+  {
+   "name": "Nii-jima",
+   "variants": [
+    "Nii-jima"
+   ]
+  },
+  {
+   "name": "Miyake-jima",
+   "variants": [
+    "Miyake-jima"
+   ]
+  },
+  {
+   "name": "Ōshima",
+   "variants": [
+    "Oshima"
+   ]
+  },
+  {
+   "name": "Tori-shima",
+   "variants": [
+    "Tori-shima",
+    "Kori-shima"
+   ]
+  },
+  {
+   "name": "Tomie",
+   "variants": [
+    "Tomie"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki (MAR)"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo"
+   ]
+  },
+  {
+   "name": "Hirado",
+   "variants": [
+    "Hirate"
+   ]
+  },
+  {
+   "name": "Iki",
+   "variants": [
+    "Iki"
+   ]
+  },
+  {
+   "name": "Izuhara",
+   "variants": [
+    "Izuhara"
+   ]
+  },
+  {
+   "name": "Makurazaki",
+   "variants": [
+    "Makurazaki"
+   ]
+  },
+  {
+   "name": "Kanoya",
+   "variants": [
+    "Kanoya"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Kirishima",
+   "variants": [
+    "Kirishima"
+   ]
+  },
+  {
+   "name": "Miyakonojo",
+   "variants": [
+    "Miyakonojo"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "Aburatsu",
+   "variants": [
+    "Aburatsu"
+   ]
+  },
+  {
+   "name": "Akune",
+   "variants": [
+    "Akune"
+   ]
+  },
+  {
+   "name": "Hitoyoshi",
+   "variants": [
+    "Hitoyoshi"
+   ]
+  },
+  {
+   "name": "Mount Unzen",
+   "variants": [
+    "Unzendake",
+    "Unzendoke"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Kikuchi",
+   "variants": [
+    "Kikuchi"
+   ]
+  },
+  {
+   "name": "Mount Aso",
+   "variants": [
+    "Aso-san",
+    "Aso-San"
+   ]
+  },
+  {
+   "name": "Nobeoka",
+   "variants": [
+    "Nobeoka"
+   ]
+  },
+  {
+   "name": "Gannosu",
+   "variants": [
+    "Gannosu"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Mount Sefuri",
+   "variants": [
+    "Seburiyama"
+   ]
+  },
+  {
+   "name": "Mount Hiko",
+   "variants": [
+    "Ehiko-san"
+   ]
+  },
+  {
+   "name": "Hita",
+   "variants": [
+    "Hida"
+   ]
+  },
+  {
+   "name": "Ōita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka (DCMO)"
+   ]
+  },
+  {
+   "name": "Iizuka",
+   "variants": [
+    "Iizuka"
+   ]
+  },
+  {
+   "name": "Yukuhashi",
+   "variants": [
+    "Yukuhashi"
+   ]
+  },
+  {
+   "name": "Sukumo",
+   "variants": [
+    "Sukumo"
+   ]
+  },
+  {
+   "name": "Tosashimizu",
+   "variants": [
+    "Shimizu"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "Uwajima"
+   ]
+  },
+  {
+   "name": "Cape Muroto",
+   "variants": [
+    "Murotomisaki"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matsuyama"
+   ]
+  },
+  {
+   "name": "Mount Ishizuchi",
+   "variants": [
+    "Ishizuchi-yama"
+   ]
+  },
+  {
+   "name": "Kōchi",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Mount Tsurugi",
+   "variants": [
+    "Tsurugiyama"
+   ]
+  },
+  {
+   "name": "Hashihama",
+   "variants": [
+    "Hashihama"
+   ]
+  },
+  {
+   "name": "Tadotsu",
+   "variants": [
+    "Tadotsu"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu (DCMO)"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Hōfu",
+   "variants": [
+    "Bofu"
+   ]
+  },
+  {
+   "name": "Hagi",
+   "variants": [
+    "Hagi"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima (DCMO)"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Matsunaga",
+   "variants": [
+    "Matsunaga"
+   ]
+  },
+  {
+   "name": "Hamada",
+   "variants": [
+    "Hamada"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "Matsue"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "Yonago"
+   ]
+  },
+  {
+   "name": "Mount Daisen",
+   "variants": [
+    "Daisen"
+   ]
+  },
+  {
+   "name": "Tsuyama",
+   "variants": [
+    "Tsuyama"
+   ]
+  },
+  {
+   "name": "Mount Hyōno",
+   "variants": [
+    "Hyonosen"
+   ]
+  },
+  {
+   "name": "Sakaiminato",
+   "variants": [
+    "Sakai"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Saigō",
+   "variants": [
+    "Saigo"
+   ]
+  },
+  {
+   "name": "Sumoto",
+   "variants": [
+    "Sumoto"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji"
+   ]
+  },
+  {
+   "name": "Cape Shionomisaki",
+   "variants": [
+    "Shiononisaki"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Mount Ōdaigahara",
+   "variants": [
+    "Odaigahara"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe (MAR)"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka (DCMO)"
+   ]
+  },
+  {
+   "name": "Mount Ikoma",
+   "variants": [
+    "Ikoma-yana"
+   ]
+  },
+  {
+   "name": "Kashiwara",
+   "variants": [
+    "Kashiwara"
+   ]
+  },
+  {
+   "name": "Ikuno",
+   "variants": [
+    "Ikuno"
+   ]
+  },
+  {
+   "name": "Toyooka",
+   "variants": [
+    "Toyooka"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Maizuru (MAR)"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Mount Hiei",
+   "variants": [
+    "Hioi-zun"
+   ]
+  },
+  {
+   "name": "Hikone",
+   "variants": [
+    "Hikone"
+   ]
+  },
+  {
+   "name": "Mount Ibuki",
+   "variants": [
+    "Ibuki-yana",
+    "Ihuki-Yama"
+   ]
+  },
+  {
+   "name": "Miyazu",
+   "variants": [
+    "Miyazu"
+   ]
+  },
+  {
+   "name": "Owase",
+   "variants": [
+    "Owase"
+   ]
+  },
+  {
+   "name": "Akeno",
+   "variants": [
+    "Akeno"
+   ]
+  },
+  {
+   "name": "Ueno",
+   "variants": [
+    "Ueno"
+   ]
+  },
+  {
+   "name": "Kameyama",
+   "variants": [
+    "Kanoyama"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu"
+   ]
+  },
+  {
+   "name": "Nishiura",
+   "variants": [
+    "Nishiura"
+   ]
+  },
+  {
+   "name": "Irago",
+   "variants": [
+    "Irako"
+   ]
+  },
+  {
+   "name": "Mount Inaba",
+   "variants": [
+    "Inaba-yana"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya (DCMO)"
+   ]
+  },
+  {
+   "name": "Kakamigahara",
+   "variants": [
+    "Kagandgahara"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Takayama",
+   "variants": [
+    "Takayama"
+   ]
+  },
+  {
+   "name": "Tateyama, Chiba Prefecture",
+   "variants": [
+    "Tatoyana (Chiba Pref.)"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba Pref."
+   ]
+  },
+  {
+   "name": "Omaezaki",
+   "variants": [
+    "Onaezaki"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Nagatsure",
+   "variants": [
+    "Nagatsure"
+   ]
+  },
+  {
+   "name": "Itō",
+   "variants": [
+    "Ito"
+   ]
+  },
+  {
+   "name": "Tomisaki",
+   "variants": [
+    "Tomisaki"
+   ]
+  },
+  {
+   "name": "Atsugi",
+   "variants": [
+    "Atsugi"
+   ]
+  },
+  {
+   "name": "Mount Fuji",
+   "variants": [
+    "Fuji-san"
+   ]
+  },
+  {
+   "name": "Funatsu",
+   "variants": [
+    "Funatsu"
+   ]
+  },
+  {
+   "name": "Mishima",
+   "variants": [
+    "Mishina"
+   ]
+  },
+  {
+   "name": "Mount Hakone",
+   "variants": [
+    "Hakone-yama"
+   ]
+  },
+  {
+   "name": "Ajiro",
+   "variants": [
+    "Ajiro"
+   ]
+  },
+  {
+   "name": "Sakawa",
+   "variants": [
+    "Sakawa"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Iida",
+   "variants": [
+    "Iida"
+   ]
+  },
+  {
+   "name": "Ina",
+   "variants": [
+    "Ina"
+   ]
+  },
+  {
+   "name": "Kōfu",
+   "variants": [
+    "Kofu"
+   ]
+  },
+  {
+   "name": "Chichibu",
+   "variants": [
+    "Chichibu"
+   ]
+  },
+  {
+   "name": "Ōwada",
+   "variants": [
+    "Owada"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "Matsumoto"
+   ]
+  },
+  {
+   "name": "Suwa",
+   "variants": [
+    "Suwa"
+   ]
+  },
+  {
+   "name": "Kirigamine",
+   "variants": [
+    "Kirigamine"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi"
+   ]
+  },
+  {
+   "name": "Kumagaya",
+   "variants": [
+    "Kumagaya"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Oiwake",
+   "variants": [
+    "Oiwake"
+   ]
+  },
+  {
+   "name": "Karuizawa",
+   "variants": [
+    "Karuizawa"
+   ]
+  },
+  {
+   "name": "Shimizu Pass",
+   "variants": [
+    "Shimizugou"
+   ]
+  },
+  {
+   "name": "Mount Nantai",
+   "variants": [
+    "Nantaizan"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "Utsunomiya"
+   ]
+  },
+  {
+   "name": "Katsuura",
+   "variants": [
+    "Katsuura"
+   ]
+  },
+  {
+   "name": "Chōshi",
+   "variants": [
+    "Choshi"
+   ]
+  },
+  {
+   "name": "Fusa",
+   "variants": [
+    "Fusa"
+   ]
+  },
+  {
+   "name": "Mount Tsukuba",
+   "variants": [
+    "Tsukuba-san"
+   ]
+  },
+  {
+   "name": "Tateno",
+   "variants": [
+    "Tatono"
+   ]
+  },
+  {
+   "name": "Honjō",
+   "variants": [
+    "Henjo"
+   ]
+  },
+  {
+   "name": "Kakioka",
+   "variants": [
+    "Kakioka (MAG)"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "Mito"
+   ]
+  },
+  {
+   "name": "Kasumigaura",
+   "variants": [
+    "Kasumiguara"
+   ]
+  },
+  {
+   "name": "Minato",
+   "variants": [
+    "Minato"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tsuruga"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa"
+   ]
+  },
+  {
+   "name": "Mount Tateyama",
+   "variants": [
+    "Tateyama (Toyama Prof.)",
+    "Tateyama",
+    "(Toyama Pref)"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama Prof.",
+    "Toyama Pref"
+   ]
+  },
+  {
+   "name": "Fushiki",
+   "variants": [
+    "Fushiki"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Temari",
+   "variants": [
+    "Temari"
+   ]
+  },
+  {
+   "name": "Sekiyama",
+   "variants": [
+    "Sekiyama"
+   ]
+  },
+  {
+   "name": "Wajima",
+   "variants": [
+    "Wajima"
+   ]
+  },
+  {
+   "name": "Takada",
+   "variants": [
+    "Takada"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata (DCIO)"
+   ]
+  },
+  {
+   "name": "Akikawa",
+   "variants": [
+    "Akikawa"
+   ]
+  },
+  {
+   "name": "Onahama",
+   "variants": [
+    "Onahama"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "Sakata"
+   ]
+  },
+  {
+   "name": "Shirakawa",
+   "variants": [
+    "Shirakawa"
+   ]
+  },
+  {
+   "name": "Inawashiro",
+   "variants": [
+    "Inawashiro"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Haranomachi",
+   "variants": [
+    "Haranomachi"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Mount Zaō",
+   "variants": [
+    "Zac-san"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai (DCIO)"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "Ishinomaki"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Mount Iwate",
+   "variants": [
+    "Iwateyama"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Koricka"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "Niyako"
+   ]
+  },
+  {
+   "name": "Fukaura",
+   "variants": [
+    "Fukaura"
+   ]
+  },
+  {
+   "name": "Noshiro",
+   "variants": [
+    "Roshiro"
+   ]
+  },
+  {
+   "name": "Towada",
+   "variants": [
+    "Towada"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Ameiri"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachincho"
+   ]
+  },
+  {
+   "name": "Tanabu",
+   "variants": [
+    "Tanabu"
+   ]
+  },
+  {
+   "name": "Esashi",
+   "variants": [
+    "Esashi"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate (KAR)"
+   ]
+  },
+  {
+   "name": "Mori, Hokkaido",
+   "variants": [
+    "Kori"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muroran"
+   ]
+  },
+  {
+   "name": "Urakawa",
+   "variants": [
+    "Urakawa"
+   ]
+  },
+  {
+   "name": "Suttsu",
+   "variants": [
+    "Suttsu"
+   ]
+  },
+  {
+   "name": "Mount Yōtei",
+   "variants": [
+    "Yotoi-zan"
+   ]
+  },
+  {
+   "name": "Tomakomai",
+   "variants": [
+    "Tomakomai"
+   ]
+  },
+  {
+   "name": "Obihiro",
+   "variants": [
+    "Okihiro"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo (DCMO)"
+   ]
+  },
+  {
+   "name": "Biei",
+   "variants": [
+    "Biei"
+   ]
+  },
+  {
+   "name": "Ikutora",
+   "variants": [
+    "Ikutora (IAG)"
+   ]
+  },
+  {
+   "name": "Mount Sahoro",
+   "variants": [
+    "Sahorodako"
+   ]
+  },
+  {
+   "name": "Akkeshi",
+   "variants": [
+    "Akkoshi"
+   ]
+  },
+  {
+   "name": "Rumoi",
+   "variants": [
+    "Rumoo"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "Asahikawa"
+   ]
+  },
+  {
+   "name": "Iwamizawa",
+   "variants": [
+    "Iwanizawa"
+   ]
+  },
+  {
+   "name": "Haboro",
+   "variants": [
+    "Haboro"
+   ]
+  },
+  {
+   "name": "Abashiri",
+   "variants": [
+    "Abashiri"
+   ]
+  },
+  {
+   "name": "Kitami-Esashi",
+   "variants": [
+    "Kitamiesashi"
+   ]
+  },
+  {
+   "name": "Ōmu",
+   "variants": [
+    "Omu"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "Nomuro"
+   ]
+  },
+  {
+   "name": "Wakkanai",
+   "variants": [
+    "Makkanai"
+   ]
+  },
+  {
+   "name": "Rebun Island",
+   "variants": [
+    "Robunto"
+   ]
+  },
+  {
+   "name": "Minimoretoro",
+   "variants": [
+    "Minimoretoro"
+   ]
+  },
+  {
+   "name": "Tehran",
+   "variants": [
+    "Tehran"
+   ]
+  },
+  {
+   "name": "Ulaanbaatar",
+   "variants": [
+    "Ulan Bator",
+    "Ulan Baton"
+   ]
+  },
+  {
+   "name": "Kabul",
+   "variants": [
+    "Kaboul",
+    "Kabul"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "North Pacific Ocean",
+   "variants": [
+    "North Pacific"
+   ]
+  },
+  {
+   "name": "Aleutian Islands",
+   "variants": [
+    "Aleutians"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Ocean Weather Station J",
+   "variants": [
+    "weather station Jig",
+    "Station J",
+    "ocean weather station J",
+    "US weather ships assigned J"
+   ]
+  },
+  {
+   "name": "Ocean Weather Station X-Ray",
+   "variants": [
+    "weather station X-Ray",
+    "Station X-ray",
+    "X-ray",
+    "weather station X"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Américo Dentone",
+   "role": "Captain and Director of the Uruguayan Meteorological Service",
+   "variants": [
+    "Captain Americ. D. E. T. O. H",
+    "Dentone",
+    "Captain Dentone"
+   ]
+  },
+  {
+   "name": "N. Stauffer",
+   "role": "State Department drafting or handling officer",
+   "variants": [
+    "N: Stauffer"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "State Department official and signatory; U.S. Secretary of State in the 1949 documents",
+   "variants": [
+    "ATCHESON",
+    "ACHESON",
+    "A C HESON",
+    "Aeheson",
+    "Acheson"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "U.S. Secretary of State and signatory",
+   "variants": [
+    "Marshall"
+   ]
+  },
+  {
+   "name": "W. L. Cansler",
+   "role": "State Department drafting officer",
+   "variants": [
+    "NLCansler",
+    "WLCansler"
+   ]
+  },
+  {
+   "name": "R. H. Sumner",
+   "role": "State Department or Political Adviser staff member named in a drafting notation",
+   "variants": [
+    "RHSUSMNER"
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, AGD, and Adjutant General at General Headquarters, SCAP",
+   "variants": [
+    "R. M. LEVY"
+   ]
+  },
+  {
+   "name": "H. F. Amrine",
+   "role": "State Department drafting or handling officer",
+   "variants": [
+    "HFAmrine",
+    "HFAmrine/df"
+   ]
+  },
+  {
+   "name": "Mr. Higge",
+   "role": "Weather Bureau official",
+   "variants": [
+    "Mr. Higge"
+   ]
+  },
+  {
+   "name": "S. Dillingham",
+   "role": "State Department clearance officer",
+   "variants": [
+    "S.Dillingham"
+   ]
+  },
+  {
+   "name": "R. W. Adams",
+   "role": "Staff member of the U.S. Political Adviser for Japan",
+   "variants": [
+    "RWAdams"
+   ]
+  },
+  {
+   "name": "Philip G. Strong",
+   "role": "State Department Acquisition and Distribution Division official",
+   "variants": [
+    "Mr. Philip G. Strong",
+    "Philip G. Strong"
+   ]
+  },
+  {
+   "name": "Miss Willink",
+   "role": "Acquisition and Distribution Division official",
+   "variants": [
+    "Miss Willink",
+    "Willink"
+   ]
+  },
+  {
+   "name": "Elbert G. Mathews",
+   "role": "State Department SCA/SOA official",
+   "variants": [
+    "Mr. Mathews",
+    "Mr. Elbert G. Mathews"
+   ]
+  },
+  {
+   "name": "T. Frye",
+   "role": "State Department division official",
+   "variants": [
+    "Mr. Frye",
+    "T.Trye"
+   ]
+  },
+  {
+   "name": "Mr. Leach",
+   "role": "State Department SOA official",
+   "variants": [
+    "Mr. Leach"
+   ]
+  },
+  {
+   "name": "Link",
+   "role": "State Department staff member named in a drafting notation",
+   "variants": [
+    "Link"
+   ]
+  },
+  {
+   "name": "H. Lory",
+   "role": "State Department Far Eastern Affairs officer",
+   "variants": [
+    "HLory",
+    "Mr. Lory"
+   ]
+  },
+  {
+   "name": "Huston",
+   "role": "Signatory of the July 9 telegram from Tokyo",
+   "variants": [
+    "HUSTON"
+   ]
+  },
+  {
+   "name": "E. Grant",
+   "role": "U.S. Navy captain who cleared the August 5 telegram",
+   "variants": [
+    "Capt. E. Grant"
+   ]
+  },
+  {
+   "name": "H. C. Moore",
+   "role": "U.S. Coast Guard captain who cleared the August 5 telegram",
+   "variants": [
+    "Capt. HCMoore"
+   ]
+  },
+  {
+   "name": "Wolff",
+   "role": "State Department official associated with the August 1949 telegram",
+   "variants": [
+    "Wolff"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese Weather Service",
+  "meteorological stations",
+  "SCAP directives",
+  "Allied occupation of Japan",
+  "Tokyo temperature data",
+  "Central Meteorological Observatory",
+  "43d Weather Wing",
+  "2143d Air Weather Wing",
+  "international meteorological exchange",
+  "geodynamic heights",
+  "ocean weather stations",
+  "Station J",
+  "Station X-Ray",
+  "weather ships",
+  "air-sea rescue"
+ ],
+ "subfiles": [
+  {
+   "title": "Montevideo airgram requesting Tokyo temperature data",
+   "doc_type": "airgram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1947-04-16",
+   "from": "U.S. Embassy, Montevideo",
+   "to": "Secretary of State, Washington",
+   "about": "Requests January 1946 and January 1947 average temperatures for Tokyo on behalf of the Uruguayan Meteorological Service.",
+   "summary": "Captain Américo Dentone sought Tokyo temperature averages as a basis for Uruguayan meteorological predictions for 1947–48. The embassy asked for a reply before May 1 if possible.",
+   "keywords": [
+    "Montevideo",
+    "Tokyo temperatures",
+    "Uruguay",
+    "Américo Dentone",
+    "weather prediction"
+   ]
+  },
+  {
+   "title": "Tokyo telegram reporting January temperature averages",
+   "doc_type": "telegram",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1947-04-28",
+   "from": "U.S. Political Adviser, Tokyo",
+   "to": "Secretary of State",
+   "about": "Supplies Tokyo's average temperatures for January 1946 and January 1947.",
+   "summary": "Replying to Department telegram 150 of April 25, Tokyo reported January averages of approximately 38.2°F in 1946 and 38.3°F in 1947. The first value appears as 18.3 in the OCR but is corrected by the subsequent Department telegram.",
+   "keywords": [
+    "Tokyo",
+    "temperature averages",
+    "January 1946",
+    "January 1947",
+    "meteorological data"
+   ]
+  },
+  {
+   "title": "Department telegram conveying Tokyo temperatures to Montevideo",
+   "doc_type": "telegram",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1947-04-30",
+   "from": "Secretary of State",
+   "to": "U.S. Embassy, Montevideo",
+   "about": "Transmits the requested Tokyo January temperature averages to the embassy in Uruguay.",
+   "summary": "The Department reported averages of 38.2°F for January 1946 and 38.3°F for January 1947. The telegram responds directly to Montevideo airgram A-146.",
+   "keywords": [
+    "Montevideo",
+    "Tokyo",
+    "temperature data",
+    "Uruguay",
+    "George C. Marshall"
+   ]
+  },
+  {
+   "title": "Department request to SCAP for Tokyo weather information",
+   "doc_type": "telegram",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1947-04-25",
+   "from": "Department of State",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "Asks SCAP to obtain the two Tokyo temperature averages requested by the embassy in Montevideo.",
+   "summary": "The Department explained that the information was for Captain Dentone and the Uruguayan Meteorological Service. It requested a telegraphic answer by May 1, 1947.",
+   "keywords": [
+    "SCAP",
+    "Tokyo weather",
+    "Montevideo",
+    "Uruguayan Meteorological Service",
+    "temperature averages"
+   ]
+  },
+  {
+   "title": "Despatch transmitting revised Japanese Weather Service directive",
+   "doc_type": "despatch",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1947-10-08",
+   "from": "U.S. Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Forwards five copies of a SCAP directive rescinding and replacing earlier instructions governing Japanese weather services.",
+   "summary": "The covering despatch reports the enclosure of a new directive to the Japanese government. The cover describes it as dated September 20, while the surviving enclosed directive is SCAPIN 1782 dated September 25, 1947.",
+   "keywords": [
+    "Japanese Weather Service",
+    "SCAPIN 1782",
+    "SCAP",
+    "occupation administration",
+    "directive"
+   ]
+  },
+  {
+   "title": "SCAPIN 1782 governing the Japanese Weather Service",
+   "doc_type": "memorandum/directive",
+   "start_page": 6,
+   "end_page": 13,
+   "date": "1947-09-25",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government, through the Central Liaison Office, Tokyo",
+   "about": "Defines the authorized Japanese meteorological station network, observation duties, vessels, reporting requirements and approval procedures.",
+   "summary": "The directive rescinds SCAPIN 1658 and lists 197 island and district weather stations with coordinates, elevations, service codes and index numbers. It explains observation and instrument codes, authorizes limited school climatological substations and six vessels for station supply and maintenance, and requires monthly status reports to the 43d Weather Wing. Changes to stations or services require Japanese governmental, 43d Weather Wing and SCAP approval; the directive is signed by Adjutant General R. M. Levy.",
+   "keywords": [
+    "SCAPIN 1782",
+    "weather-station network",
+    "service codes",
+    "43d Weather Wing",
+    "Central Meteorological Observatory",
+    "weather ships",
+    "monthly reporting",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Incomplete Montevideo airgram A-61",
+   "doc_type": "airgram",
+   "start_page": 14,
+   "end_page": 14,
+   "date": "1948-02-13",
+   "from": "U.S. Embassy, Montevideo",
+   "to": "Department of State",
+   "about": "Records a further Montevideo request for Tokyo mean-temperature information.",
+   "summary": "Only the communications metadata survives on this page; the substantive body is absent from the OCR. The reply on the following page establishes that airgram A-61 requested mean temperatures for December and January in two successive years.",
+   "keywords": [
+    "Montevideo",
+    "A-61",
+    "Tokyo temperatures",
+    "meteorological inquiry",
+    "Uruguay"
+   ]
+  },
+  {
+   "title": "Reply to Montevideo with 1947–48 Tokyo temperatures",
+   "doc_type": "telegram",
+   "start_page": 15,
+   "end_page": 15,
+   "date": "1948-03-03",
+   "from": "Department of State",
+   "to": "U.S. Embassy, Montevideo",
+   "about": "Provides Tokyo mean temperatures for December 1947 and January 1948.",
+   "summary": "The Weather Bureau supplied means of 39.4°F for December 1947 and 39.2°F for January 1948. It stated that corresponding figures for December 1946 and January 1947 were unavailable.",
+   "keywords": [
+    "Tokyo",
+    "mean temperature",
+    "Weather Bureau",
+    "Montevideo",
+    "December 1947",
+    "January 1948"
+   ]
+  },
+  {
+   "title": "Despatch 164 transmitting meteorological information abroad",
+   "doc_type": "despatch",
+   "start_page": 16,
+   "end_page": 16,
+   "date": "1949-03-21",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Requests onward transmission of four packages of Japanese meteorological data to authorities in Tehran, Ulaanbaatar, Kabul and Buenos Aires.",
+   "summary": "The data had been prepared by the 2143d Air Weather Wing, U.S. Air Force. The intended recipients were civil or national meteorological authorities in Iran, Mongolia, Afghanistan and Argentina, with a notation that the Mongolian government was not recognized by the United States.",
+   "keywords": [
+    "2143d Air Weather Wing",
+    "meteorological exchange",
+    "Tehran",
+    "Ulaanbaatar",
+    "Kabul",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "title": "Letter to the Mongolian Hydro-Meteorological Committee",
+   "doc_type": "letter/enclosure",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1949-03-01",
+   "from": "Headquarters, 2143d Air Weather Wing",
+   "to": "President, Hydro-Meteorological Committee, Mongolian People Republic",
+   "about": "Reports Japanese compliance with Resolution XLIII CRII and lists geodynamic reference heights for selected mountain stations.",
+   "summary": "The letter states that compliance began on January 1, 1949. Its table gives index numbers, coordinates, elevations and pressure-reduction heights for ten Japanese stations, including Mount Aso, Mount Fuji, Mount Tateyama and Mount Iwate.",
+   "keywords": [
+    "Mongolia",
+    "geodynamic heights",
+    "Resolution XLIII CRII",
+    "Japanese Weather Service",
+    "mountain stations",
+    "pressure reduction"
+   ]
+  },
+  {
+   "title": "Transmittal slip for meteorological data to Tehran",
+   "doc_type": "transmittal slip",
+   "start_page": 18,
+   "end_page": 18,
+   "date": "1949-04-11",
+   "from": "Department of State, Acquisition and Distribution Division",
+   "to": "American Embassy, Tehran",
+   "about": "Forwards Despatch 164 and an envelope of meteorological data for the Chief Meteorologist in Tehran.",
+   "summary": "The embassy was asked to transmit the 2143d Air Weather Wing material if the officer in charge perceived no objection. A copy of the Tokyo despatch accompanied the data.",
+   "keywords": [
+    "Tehran",
+    "transmittal",
+    "meteorological data",
+    "2143d Air Weather Wing",
+    "Despatch 164"
+   ]
+  },
+  {
+   "title": "Transmittal slip for meteorological data to Buenos Aires",
+   "doc_type": "transmittal slip",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1949-04-11",
+   "from": "Department of State, Acquisition and Distribution Division",
+   "to": "American Embassy, Buenos Aires",
+   "about": "Forwards meteorological data to the president of Regional Commission III of Argentina's national weather service.",
+   "summary": "The package consisted of Despatch 164 and an envelope prepared by the 2143d Air Weather Wing. Delivery was conditional on the officer in charge having no objection.",
+   "keywords": [
+    "Buenos Aires",
+    "Regional Commission III",
+    "Servicio Meteorológico Nacional",
+    "meteorological exchange",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Transmittal slip for meteorological data to Kabul",
+   "doc_type": "transmittal slip",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1949-04-21",
+   "from": "Department of State, Acquisition and Distribution Division",
+   "to": "American Embassy, Kabul",
+   "about": "Forwards duplicate meteorological data for possible delivery to Afghan authorities.",
+   "summary": "The slip transmits a copy of Tokyo Despatch 164 and data prepared by the 2143d Air Weather Wing. The embassy was authorized to deliver the material if it perceived no objection.",
+   "keywords": [
+    "Kabul",
+    "Afghanistan",
+    "meteorological data",
+    "2143d Air Weather Wing",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "SCA recommendation on transmitting data to Afghanistan",
+   "doc_type": "memorandum",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1949-04-19",
+   "from": "Elbert G. Mathews, SCA",
+   "to": "Philip G. Strong, IAD, attention Miss Willink",
+   "about": "Recommends discretionary delivery of Japanese meteorological data to Afghan authorities through the embassy in Kabul.",
+   "summary": "SCA found no reason to deny the material to interested authorities in Kabul. It advised sending the data to the embassy with instructions that delivery remain at the embassy's discretion and returned Despatch 164 with two data copies.",
+   "keywords": [
+    "Afghanistan",
+    "Kabul",
+    "interdivisional review",
+    "meteorological data",
+    "embassy discretion"
+   ]
+  },
+  {
+   "title": "IAD request for guidance on Afghan meteorological data",
+   "doc_type": "memorandum",
+   "start_page": 22,
+   "end_page": 22,
+   "date": "1949-04-11",
+   "from": "Philip G. Strong, IAD",
+   "to": "Elbert G. Mathews, SOA, attention Mr. Leach",
+   "about": "Requests a policy decision on whether data addressed to the Afghan Meteorological Service should be sent through the embassy in Kabul.",
+   "summary": "The memorandum follows a telephone conversation between Mr. Frye and Miss Willink. It attaches Tokyo Despatch 164 and the envelope intended for the Director of the Afghan Meteorological Service.",
+   "keywords": [
+    "Afghanistan",
+    "Kabul",
+    "policy clearance",
+    "Philip G. Strong",
+    "Despatch 164"
+   ]
+  },
+  {
+   "title": "Record-copy replacement notice for Tokyo Despatch 164",
+   "doc_type": "record-copy notice",
+   "start_page": 23,
+   "end_page": 23,
+   "date": "",
+   "from": "Department of State, Division of Communications and Records",
+   "to": "Central Records and action office",
+   "about": "Designates an attached copy of Despatch 164 as the official record copy because the original action copy was not returned.",
+   "summary": "The form identifies Tokyo Despatch 164 under file 894.9243/3-2149. It orders that the substitute record copy be returned to DC/R for filing.",
+   "keywords": [
+    "record copy",
+    "Despatch 164",
+    "central records",
+    "document control",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Information copy of Tokyo Despatch 164",
+   "doc_type": "despatch copy",
+   "start_page": 24,
+   "end_page": 24,
+   "date": "1949-03-21",
+   "from": "Acting U.S. Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Duplicates the request to distribute four packages of meteorological information internationally.",
+   "summary": "This copy again names the intended recipients in Tehran, Ulaanbaatar, Kabul and Buenos Aires. It is marked as an information copy for divisional retention rather than return to central records.",
+   "keywords": [
+    "Despatch 164",
+    "information copy",
+    "meteorological exchange",
+    "Tokyo",
+    "international distribution"
+   ]
+  },
+  {
+   "title": "Inquiry about relocating Ocean Weather Station X-Ray",
+   "doc_type": "telegram",
+   "start_page": 25,
+   "end_page": 25,
+   "date": "1949-06-29",
+   "from": "Department of State",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "Asks whether a Japanese ship at Station X-Ray could move eastward and eliminate the need for a U.S. ship at Station J.",
+   "summary": "The Bureau of the Budget proposed moving the Japanese weather ship ten degrees east from its stated position of 42°N, 151°E. The Department asked SCAP to consider whether this could replace the American vessel at Station J, given as 45°N, 165°E.",
+   "keywords": [
+    "Station X-Ray",
+    "Station J",
+    "weather ships",
+    "Bureau of the Budget",
+    "SCAP",
+    "North Pacific"
+   ]
+  },
+  {
+   "title": "Tokyo response on North Pacific weather-station operations",
+   "doc_type": "telegram",
+   "start_page": 26,
+   "end_page": 26,
+   "date": "1949-07-09",
+   "from": "Tokyo",
+   "to": "Secretary of State",
+   "about": "Argues for continued weather-ship coverage between Japan and the Aleutians and reports consideration of Japanese replacement of U.S. ships.",
+   "summary": "Tokyo supplied operating-position information and judged continued coverage between Japan and the Aleutians highly desirable. SCAP was considering a recommendation that Japanese ships replace U.S. ships assigned to Station J without altering the existing pattern of operations.",
+   "keywords": [
+    "Station J",
+    "Station X",
+    "Aleutians",
+    "Japanese weather ships",
+    "SCAP",
+    "North Pacific"
+   ]
+  },
+  {
+   "title": "Authorization for Japanese operation of Stations J and X-Ray",
+   "doc_type": "telegram",
+   "start_page": 27,
+   "end_page": 27,
+   "date": "1949-08-05",
+   "from": "Department of State",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "Reports Navy and Coast Guard approval of Japanese operation of both ocean weather stations and requests a takeover of Station J by October 1.",
+   "summary": "The Department stated that the Navy would cease operating Station J on October 1. SCAP was asked to arrange a Japanese takeover by that date if possible; the message was cleared by Navy Captain E. Grant and Coast Guard Captain H. C. Moore.",
+   "keywords": [
+    "Station J",
+    "Station X-Ray",
+    "Japanese takeover",
+    "U.S. Navy",
+    "U.S. Coast Guard",
+    "October 1949"
+   ]
+  },
+  {
+   "title": "Department telegram on absence of funds for Station J reimbursement",
+   "doc_type": "telegram",
+   "start_page": 28,
+   "end_page": 28,
+   "date": "1949-08-25",
+   "from": "Department of State",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "Explains that the Navy had not planned to reimburse Japan for operating Station J and had stopped negotiations because funds were unavailable.",
+   "summary": "Responding to the August 16 Army message, the Department said the Navy did not contemplate reimbursing Japan. COMNAVFE had been instructed not to negotiate without funding, and SCAP received a copy of those instructions; the date and identification as State telegram 420 are supplied by the September 3 reply.",
+   "keywords": [
+    "Station J",
+    "reimbursement",
+    "funding",
+    "COMNAVFE",
+    "U.S. Navy",
+    "Japanese operation"
+   ]
+  },
+  {
+   "title": "Army message authorizing reimbursable Station J negotiations",
+   "doc_type": "telegram",
+   "start_page": 29,
+   "end_page": 29,
+   "date": "1949-08-16",
+   "from": "Tokyo, Army message CX 51962",
+   "to": "Secretary of State and other U.S. authorities",
+   "about": "States that there was no objection to Japanese operation of Station J on a reimbursable basis and authorizes direct contract negotiations.",
+   "summary": "The message cites earlier Navy correspondence and State telegram 378. Despite severe OCR corruption in the routing and command names, its substantive point is that Japanese operation was acceptable if reimbursed and that direct negotiation of a contract was authorized.",
+   "keywords": [
+    "Station J",
+    "reimbursable operation",
+    "contract negotiations",
+    "Japanese weather ship",
+    "Army message",
+    "COMNAVFE"
+   ]
+  },
+  {
+   "title": "Tokyo argument that Station J is a U.S. commitment",
+   "doc_type": "telegram",
+   "start_page": 30,
+   "end_page": 30,
+   "date": "1949-09-03",
+   "from": "Tokyo, Army message CX 52274",
+   "to": "Department of the Army, with information to Department of State",
+   "about": "Urges continued operation of Station J, asks whether Coast Guard funds are available and estimates the cost of reimbursing Japanese operators.",
+   "summary": "Tokyo emphasized that Station J furnished essential information for air-sea rescue on established air routes and traced the requirement to the 1948 North Pacific regional air-navigation meeting in Seattle. It argued that Navy practice and Public Law 738 made the station a U.S. commitment, while noting that Japanese operation was feasible on a fully reimbursable basis. The estimated annual requirement appears to be $400,000, although the OCR renders the amount as “3400,000.”",
+   "keywords": [
+    "Station J",
+    "air-sea rescue",
+    "North Pacific aviation",
+    "Seattle meeting",
+    "U.S. Coast Guard",
+    "reimbursement",
+    "Public Law 738"
+   ]
+  }
+ ],
+ "interest": "The most distinctive item is SCAPIN 1782, an unusually detailed snapshot of the physical and administrative infrastructure of Japanese meteorology immediately after the war: it identifies almost 200 stations, their elevations, service codes, instrumentation and reporting obligations. The file also shows weather data functioning as a form of early postwar international scientific exchange, including with an unrecognized Mongolian government and with Afghanistan. Finally, the Station J correspondence exposes the strategic and financial dimensions of ocean meteorology, linking routine weather observations to trans-Pacific aviation, air-sea rescue, occupation policy and the contested transfer of American responsibilities to Japanese vessels.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 305.6,
+  "identifier": "japan-internal-affairs-894.9243-science-philosophy-geology",
+  "file": "894.9243 Science. Philosophy., Geology., Japan, Meteorology., April 16, 1947 - September 3, 1949 1761.pdf",
+  "created": "2026-09-29 04:04:03"
+ }
+}

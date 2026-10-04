@@ -1,0 +1,88 @@
+{
+ "interest": "This document offers valuable insight into Japan's strategic mineral economy during the early 1930s, notably documenting significant copper bar exports to Soviet Russia despite contemporary political friction. It also illustrates how Japanese mining conglomerates maintained financial stability amid depressed world copper prices through byproduct extraction of precious metals (gold and silver), protective import tariffs, and growing domestic demand from Japan's electrical industry.",
+ "keywords": [
+  "copper industry",
+  "copper production",
+  "mineral exports",
+  "Russia",
+  "mining finance",
+  "electric industry",
+  "tariffs",
+  "precious metals",
+  "gold and silver content",
+  "Japan economic matters"
+ ],
+ "overview": "This file consists of a single telegram dated April 6, 1932, sent from the U.S. Embassy in Tokyo by Chargé d'Affaires Edwin L. Neville to the Secretary of State in Washington, reporting on the state of the Japanese copper industry in 1931. The communication summarizes data supplied by the Commercial Attaché regarding copper production, import and export quantities—noting that exports mainly comprised copper bars destined for Russia—and the financial standing of the four leading copper producers. It observes that although market prices were depressed, the extraction of gold and silver by-products and steady domestic demand from the electrical sector helped sustain industry profitability.",
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d'Affaires ad interim in Tokyo",
+   "variants": [
+    "NEVILLE"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Report on Japanese copper production, trade, major mining producers, and domestic market conditions in 1931.",
+   "date": "1932-04-06",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "copper",
+    "production",
+    "exports",
+    "Russia",
+    "mining industry",
+    "electric industry",
+    "tariffs"
+   ],
+   "start_page": 1,
+   "summary": "Telegram No. 107 from Chargé d'Affaires Edwin L. Neville in Tokyo transmits data from the Commercial Attaché regarding Japan's copper industry in 1931. In that year, Japanese copper production totaled 74,800 metric tons, imports were 2,000 tons, and exports reached 26,600 metric tons, consisting primarily of copper bars exported to Russia. Despite depressed prices, the four principal producers remained in sound financial condition, supported by the gold and silver content of the ore, an import duty of 7 yen per hundred kin, and ongoing domestic demand from the electrification industry.",
+   "title": "Telegram from Neville (Tokyo) on Japanese Copper Industry",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13793,
+   "output_tokens": 3317,
+   "thinking_tokens": 2639,
+   "cache_read_tokens": 0,
+   "total_tokens": 17110
+  },
+  "backend": "agy",
+  "seconds": 13.8,
+  "identifier": "japan-internal-affairs-894.50-japan-economic-matters-1",
+  "file": "894.50 Japan, Economic Matters., April 6, 1932 744.pdf",
+  "created": "2026-09-29 07:47:41"
+ }
+}

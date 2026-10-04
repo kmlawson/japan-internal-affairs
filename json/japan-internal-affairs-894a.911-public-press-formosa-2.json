@@ -1,0 +1,80 @@
+{
+ "overview": "This single-page list of papers is an index entry for State Department file 894A.911 on newspapers in Formosa (Taiwan). It records one item, a Taihoku Report associated with Money and dated September 14, 1936, described as a news survey concerning Taihoku, Taiwan, in the Japan consular district. The sheet does not contain the report itself but directs the researcher to decimal-file reference 800.911/33a 925.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Money",
+   "role": "Person associated with or author of Taihoku Report J-; precise role not stated",
+   "variants": [
+    "Money"
+   ]
+  }
+ ],
+ "keywords": [
+  "Formosa",
+  "Taiwan",
+  "Taihoku",
+  "Taipei",
+  "newspapers",
+  "public press",
+  "news survey",
+  "Taihoku Report J-",
+  "consular district",
+  "Japan",
+  "cross-reference",
+  "decimal file",
+  "1936"
+ ],
+ "subfiles": [
+  {
+   "title": "List of Papers for Newspapers—Formosa, Taiwan",
+   "doc_type": "list of papers / index sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1936-09-14",
+   "from": "Taihoku Report J- (Money)",
+   "to": "",
+   "about": "An index sheet records and cross-references a 1936 news survey concerning Taihoku, Taiwan.",
+   "summary": "The sheet lists one document under the subject “Newspapers - Formosa, Taiwan.” The entry identifies it as Taihoku Report J-, associates it with Money, and dates it September 14, 1936. It describes a news survey relating to Taihoku, Taiwan, in the Japan consular district and directs readers to file reference 800.911/33a 925; the underlying report is not included here.",
+   "keywords": [
+    "list of papers",
+    "Taihoku Report J-",
+    "Money",
+    "news survey",
+    "Taihoku",
+    "Taiwan",
+    "Japan consular district",
+    "800.911/33a 925"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful chiefly as a provenance and cross-reference record rather than as substantive reporting. It documents the existence, date, and filing location of a Taihoku news survey that is absent from this bundle, illustrating how State Department material on colonial Taiwan could be distributed across different decimal-file classifications. It may help historians trace press monitoring and consular information-gathering in Japanese-ruled Taiwan.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 22.2,
+  "identifier": "japan-internal-affairs-894a.911-public-press-formosa-2",
+  "file": "894A.911 Public Press., Formosa. Taiwan, Newspapers.,  651.pdf",
+  "created": "2026-09-29 01:46:24"
+ }
+}

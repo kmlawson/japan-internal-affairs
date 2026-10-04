@@ -1,0 +1,883 @@
+{
+ "overview": "This file assembles State Department reporting on Japanese newspaper opinion from the opening months of the Allied occupation through the end of 1949, together with one charge slip and several reports concerning wider Asian and European affairs. The early telegrams summarize editorials on hunger, economic democratization, labor and land reform, the Shidehara government, popular sovereignty, the imperial institution, war responsibility, and the purge of militarists. Later documents trace Japanese reactions to communism, China policy, Soviet detention of Japanese prisoners, economic decontrol, the peace treaty and territorial questions, while also preserving interviews and commentary by Shigeru Yoshida, Tao Hsi-sheng, and Amiya C. Chakravarty.",
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan's",
+    "Jap",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "US",
+    "America",
+    "American"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "China's",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Commonwealth of Nations",
+   "variants": [
+    "British Commonwealth"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korean"
+   ]
+  },
+  {
+   "name": "Potsdam",
+   "variants": [
+    "Potadam"
+   ]
+  },
+  {
+   "name": "Pearl Harbor, Hawaii",
+   "variants": [
+    "Pearl Harbor"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Bucharest",
+   "variants": [
+    "Bucharest"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Moscow Kremlin",
+   "variants": [
+    "Kremlin",
+    "Kremlin's"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "French"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Soviet Russia",
+    "Soviet",
+    "Sino-Soviet"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taipei"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "FAR EASTERN",
+    "PAN EASTERN"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "India's"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Northeast Asia",
+   "variants": [
+    "NORTHEAST ASIA",
+    "NORTHEAST ASIAN"
+   ]
+  },
+  {
+   "name": "South Asia",
+   "variants": [
+    "SOUTHERN ASIAN"
+   ]
+  },
+  {
+   "name": "New Delhi",
+   "variants": [
+    "New Delhi"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formosan"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "southern Hail Islands",
+    "southern Kuri Islands"
+   ]
+  },
+  {
+   "name": "Habomai Islands",
+   "variants": [
+    "Kabomai Group"
+   ]
+  },
+  {
+   "name": "Shikotan Island",
+   "variants": [
+    "Shikoten"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa"
+   ]
+  },
+  {
+   "name": "Bonin Islands (Ogasawara Islands)",
+   "variants": [
+    "Sonin Islands",
+    "Bonin Islands"
+   ]
+  },
+  {
+   "name": "Iwo Jima",
+   "variants": [
+    "Iwojima",
+    "Iwajima"
+   ]
+  },
+  {
+   "name": "Southern Sakhalin",
+   "variants": [
+    "southern Sakhalin"
+   ]
+  },
+  {
+   "name": "Khabarovsk",
+   "variants": [
+    "Khabarovsk"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Swiss"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine"
+   ]
+  },
+  {
+   "name": "Yalta",
+   "variants": [
+    "Yalta"
+   ]
+  },
+  {
+   "name": "Sugamo Prison",
+   "variants": [
+    "Suhime Prison"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George Atcheson Jr.",
+   "role": "U.S. political adviser in Japan and signer of the 1945 Tokyo telegrams",
+   "variants": [
+    "ATCHIMOR",
+    "ATCHESON",
+    "ATCHISON"
+   ]
+  },
+  {
+   "name": "Kijūrō Shidehara",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Shidohara",
+    "Shidehara",
+    "Shidehara's",
+    "Shidahara"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Wartime Japanese prime minister",
+   "variants": [
+    "Tojo",
+    "Tojo Cabinet"
+   ]
+  },
+  {
+   "name": "Ichirō Hatoyama",
+   "role": "Japanese Liberal Party leader",
+   "variants": [
+    "Hatoyama's"
+   ]
+  },
+  {
+   "name": "Edwin W. Pauley",
+   "role": "American reparations representative",
+   "variants": [
+    "Pauley's"
+   ]
+  },
+  {
+   "name": "Kakichi Kawarada",
+   "role": "Chairman of the labor arbitration board; former Home Minister and director of the Imperial Rule Assistance Association",
+   "variants": [
+    "Kawarada Kakichi"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Former Japanese prime minister described as responsible for the China War and Axis alliance",
+   "variants": [
+    "Konoye"
+   ]
+  },
+  {
+   "name": "Emperor Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "the Emperor",
+    "Emperor",
+    "present Emperor",
+    "Hirohito"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers",
+   "variants": [
+    "MacArthur",
+    "MacArthur's",
+    "General MacArthur",
+    "General MacArthur's"
+   ]
+  },
+  {
+   "name": "Suppsmyer",
+   "role": "Department of State staff member named on the charge slip",
+   "variants": [
+    "Suppsmyer"
+   ]
+  },
+  {
+   "name": "Ken Lee",
+   "role": "Person charged with a Tokyo telegram on the charge slip",
+   "variants": [
+    "Ken Lee"
+   ]
+  },
+  {
+   "name": "Max W. Bishop",
+   "role": "U.S. Foreign Service officer and signer of the February 1946 telegram",
+   "variants": [
+    "BISHOP"
+   ]
+  },
+  {
+   "name": "Tomoyuki Yamashita",
+   "role": "Japanese general tried for war crimes",
+   "variants": [
+    "YAMASHITA"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "U.S. Political Adviser to SCAP",
+   "variants": [
+    "SEBALD",
+    "S. BALD",
+    "SLBALD"
+   ]
+  },
+  {
+   "name": "Charles de Gaulle",
+   "role": "French political leader",
+   "variants": [
+    "De Gaullist's"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "U.S. Secretary of State associated with the Marshall Plan",
+   "variants": [
+    "Marshall Plan"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Acheson's",
+    "Secretary Acheson's"
+   ]
+  },
+  {
+   "name": "Tao Hsi-sheng",
+   "role": "Chinese Vice Minister of Information",
+   "variants": [
+    "Tao Hsi Sheng"
+   ]
+  },
+  {
+   "name": "MacDonald",
+   "role": "U.S. official at Taipei and signer of telegram no. 371",
+   "variants": [
+    "MACDONALD"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Yoshida",
+    "Premier Shigeru YOSHIDA",
+    "Premier Yoshida",
+    "Yosida",
+    "Prime Minister Yoshida"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Generalissimo and leader of the Chinese Nationalist government",
+   "variants": [
+    "Generalissimo Chiang Kai-shek"
+   ]
+  },
+  {
+   "name": "C. K. Hunton",
+   "role": "Staff member identified in the drafting notation",
+   "variants": [
+    "CKHuntonrcs"
+   ]
+  },
+  {
+   "name": "R. R. Wigleni",
+   "role": "Writer of the Nippon Times article reported in the November 1949 airgram",
+   "variants": [
+    "R. R. WIGLENI"
+   ]
+  },
+  {
+   "name": "Amiya C. Chakravarty",
+   "role": "Visiting professor at Howard University and participant in a pacifist congress",
+   "variants": [
+    "Amiya C. CHAKRAVARTY",
+    "Mr. Chakravarty"
+   ]
+  },
+  {
+   "name": "Jawaharlal Nehru",
+   "role": "Prime Minister of India",
+   "variants": [
+    "Prime Minister NARU",
+    "Nehru",
+    "Nehru's"
+   ]
+  },
+  {
+   "name": "Philip C. Jessup",
+   "role": "U.S. ambassador",
+   "variants": [
+    "Ambassador Philip JESSUP",
+    "Ambassador Philip JESSUP's",
+    "Ambassador Jessup's"
+   ]
+  },
+  {
+   "name": "William H. Draper Jr.",
+   "role": "Former U.S. Under Secretary of War",
+   "variants": [
+    "William DRAFTS",
+    "Mr. Draper's"
+   ]
+  },
+  {
+   "name": "C. H. Spinks",
+   "role": "Staff member identified in a drafting notation",
+   "variants": [
+    "CHSpinks"
+   ]
+  },
+  {
+   "name": "M. Green",
+   "role": "Department of State action officer",
+   "variants": [
+    "M Green"
+   ]
+  },
+  {
+   "name": "Mao Zedong",
+   "role": "Chinese Communist leader",
+   "variants": [
+    "I.O Tse-tung",
+    "two-tun 's"
+   ]
+  },
+  {
+   "name": "Angus Ward",
+   "role": "U.S. consul general",
+   "variants": [
+    "Consul-General Ward"
+   ]
+  },
+  {
+   "name": "Carl S. Shoup",
+   "role": "Economist who headed the tax-reform mission to Japan",
+   "variants": [
+    "Shoup",
+    "Shoup Mission"
+   ]
+  },
+  {
+   "name": "Josip Broz Tito",
+   "role": "Leader of Yugoslavia",
+   "variants": [
+    "Tito"
+   ]
+  },
+  {
+   "name": "Joseph M. Dodge",
+   "role": "American financial adviser associated with Japan's austerity policy",
+   "variants": [
+    "Judge Line"
+   ]
+  },
+  {
+   "name": "J. V. Martin Jr.",
+   "role": "Staff member identified in drafting notations",
+   "variants": [
+    "JV. 1in, Jr",
+    "JVMartin"
+   ]
+  },
+  {
+   "name": "C. N. Spinks",
+   "role": "Staff member identified in drafting notations",
+   "variants": [
+    "CNSpinks",
+    "CNSpiuk"
+   ]
+  },
+  {
+   "name": "Kuzma N. Derevyanko",
+   "role": "Soviet representative on the Allied Council for Japan",
+   "variants": [
+    "General Derevyanko's"
+   ]
+  },
+  {
+   "name": "Ken Inukai",
+   "role": "Leader of a Democratic Party faction",
+   "variants": [
+    "Ken IMUKAI"
+   ]
+  },
+  {
+   "name": "Elpidio Quirino",
+   "role": "President of the Philippines",
+   "variants": [
+    "President Quirino"
+   ]
+  },
+  {
+   "name": "Carlos P. Romulo",
+   "role": "Philippine representative to the United Nations",
+   "variants": [
+    "Carlos P. Romulo's"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "Former U.S. ambassador to Japan",
+   "variants": [
+    "ex-Ambassador Grew's",
+    "Mr. Grew"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese press",
+  "Allied occupation of Japan",
+  "democratization",
+  "food shortage",
+  "economic reconstruction",
+  "land reform",
+  "labor movement",
+  "political purge",
+  "war responsibility",
+  "war-crimes trials",
+  "communism",
+  "Soviet repatriation",
+  "China policy",
+  "Japanese peace treaty",
+  "territorial claims"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese press comment, November 6–12, 1945",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 4,
+   "date": "1945-11-14",
+   "from": "George Atcheson Jr., Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A weekly survey of Japanese editorials concerning food, economic democratization, government, political parties, agriculture, and labor.",
+   "summary": "The telegram emphasizes the severe food and shipping crises and newspapers' demands for price controls, imports, improved distribution, and land reclamation. Editorials welcome the dissolution of the zaibatsu but argue that deeper economic democratization is necessary. The Shidehara government, Liberal Party, former Japan Political Association members, police, civil service, landlords, and insufficiently organized labor all receive criticism.",
+   "keywords": [
+    "food crisis",
+    "zaibatsu",
+    "Shidehara Cabinet",
+    "political parties",
+    "land reform",
+    "labor unions",
+    "democratization"
+   ]
+  },
+  {
+   "title": "Japanese press comment, November 20–26, 1945",
+   "doc_type": "telegram",
+   "start_page": 5,
+   "end_page": 10,
+   "date": "1945-11-28",
+   "from": "George Atcheson Jr., Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A press survey covering public morale, the Diet, production, land and labor reform, financial policy, and war guilt.",
+   "summary": "Japanese editorials describe low morale and political passivity while warning against both isolation and uncritical imitation of the West. They criticize the existing Diet and government, urge food imports and increased coal and industrial production, and debate land and trade-union bills. The survey concludes with demands that Japanese authorities investigate war crimes and remove compromised officials without waiting for SCAP action.",
+   "keywords": [
+    "public morale",
+    "Diet",
+    "food imports",
+    "production",
+    "land reform",
+    "trade unions",
+    "war guilt",
+    "Potsdam Declaration"
+   ]
+  },
+  {
+   "title": "Japanese editorial comment, November 26–December 4, 1945",
+   "doc_type": "telegram",
+   "start_page": 11,
+   "end_page": 17,
+   "date": "1945-12-05",
+   "from": "George Atcheson Jr., Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A detailed digest of editorials on the Shidehara government, democracy, political parties, economic production, taxation, and war responsibility.",
+   "summary": "The press faults Shidehara's Diet address and his cabinet's lack of initiative while discussing popular sovereignty and the compatibility of democracy with the imperial institution. Newspapers also address elections, party financing, foreign trade, the coal crisis, wartime-profit and property taxes, and the risk of deflation. Editorials demand investigation of the causes of war, identify Tojo and Konoe with war responsibility, and welcome SCAP's arrest of fifty-nine alleged war criminals.",
+   "keywords": [
+    "Shidehara",
+    "popular sovereignty",
+    "Diet",
+    "elections",
+    "coal crisis",
+    "property tax",
+    "Konoe",
+    "war criminals"
+   ]
+  },
+  {
+   "title": "Telegram on emerging democratic and antiwar opinion",
+   "doc_type": "telegram",
+   "start_page": 18,
+   "end_page": 20,
+   "date": "1945-12-11",
+   "from": "George Atcheson Jr., Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "An assessment of Japanese press criticism of the emperor, wartime leadership, and the government's failure to pursue war criminals.",
+   "summary": "The telegram detects a growing body of opinion willing to support occupation reforms and critically reconsider Japan's political structure and wartime conduct. It notes unprecedented public discussion of the imperial institution, including demands for Hirohito's abdication and a Communist newspaper's caricature of the emperor. Pearl Harbor anniversary editorials demand investigation and punishment of war leaders, although Atcheson cautions that these views may not yet represent settled public opinion.",
+   "keywords": [
+    "imperial institution",
+    "Hirohito",
+    "abdication",
+    "Pearl Harbor",
+    "war responsibility",
+    "democracy",
+    "political purge"
+   ]
+  },
+  {
+   "title": "Central-files charge slip",
+   "doc_type": "charge slip",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1946-01-24",
+   "from": "Department of State central files",
+   "to": "PED—Suppsmyer; Ken Lee",
+   "about": "A record of two charged-out telegram enclosures associated with the file.",
+   "summary": "The slip records a February 17, 1945 enclosure concerning telegram no. 120 from Bucharest as charged to PED–Suppsmyer on April 20, 1945. It also records a December 29, 1945 enclosure concerning telegram no. 226 from Tokyo as charged to Ken Lee on January 24, 1946.",
+   "keywords": [
+    "records management",
+    "charge slip",
+    "Bucharest telegram",
+    "Tokyo telegram",
+    "central files"
+   ]
+  },
+  {
+   "title": "Japanese press comment, February 6–12, 1946",
+   "doc_type": "telegram",
+   "start_page": 22,
+   "end_page": 23,
+   "date": "1946-02-13",
+   "from": "Max W. Bishop, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A press survey focused on the political purge, inflation, elections, labor disputes, trade revival, and the Yamashita trial.",
+   "summary": "Newspapers speculate about the electoral effects of the January 4 purge directives and criticize the Shidehara cabinet's labor, constitutional, and anti-inflation policies. They debate the quality of Diet candidates, the need for a broader political purge, and prospects for a popular front. Economic commentary stresses production, consumer unions, cotton exports, corporate reorganization, and workers' participation, while reports on the Yamashita trial emphasize both the enormity of the crimes and procedural fairness.",
+   "keywords": [
+    "political purge",
+    "inflation",
+    "elections",
+    "popular front",
+    "cotton trade",
+    "labor disputes",
+    "Yamashita trial"
+   ]
+  },
+  {
+   "title": "Japanese press reaction to the French political crisis",
+   "doc_type": "telegram",
+   "start_page": 24,
+   "end_page": 25,
+   "date": "1947-12-12",
+   "from": "William J. Sebald, GHQ SCAP, Tokyo",
+   "to": "Department of the Army, for Department of State information",
+   "about": "A report on Japanese newspaper interpretations of strikes, communism, and political conflict in France and Italy.",
+   "summary": "Yomiuri attributes the French strike crisis to Communist control of organized labor and support among farmers, while a Sendai paper interprets the conflict through French capitalism, administrative weakness, and distrust of dictatorship. A Niigata-area paper treats events in France and Italy as part of intensifying American-Soviet competition. It argues that the Marshall Plan might weaken Soviet control in Eastern Europe but intensify Communist offensives in Western Europe.",
+   "keywords": [
+    "France",
+    "Italy",
+    "communism",
+    "strikes",
+    "Soviet influence",
+    "de Gaulle",
+    "Marshall Plan",
+    "Japanese press"
+   ]
+  },
+  {
+   "title": "Tao Hsi-sheng on the U.S. China White Paper",
+   "doc_type": "telegram",
+   "start_page": 26,
+   "end_page": 26,
+   "date": "1949-08-10",
+   "from": "MacDonald, Taipei",
+   "to": "Secretary of State, Washington; repeated to Embassy Office, Canton",
+   "about": "A report on Tao Hsi-sheng's criticism of the U.S. China White Paper and American policy toward the Chinese Civil War.",
+   "summary": "Tao calls the White Paper an alibi for a failed wait-and-see policy and argues that Washington misunderstood Chinese Communism as an agrarian reform movement rather than part of the Soviet-led Communist International. Although he accepts the document's criticisms of the Nationalist Party and government, he contends that China requires immediate military assistance and a new, positive American policy.",
+   "keywords": [
+    "China White Paper",
+    "Tao Hsi-sheng",
+    "Chinese Civil War",
+    "U.S. policy",
+    "Chinese Communists",
+    "Soviet Union",
+    "Nationalist government"
+   ]
+  },
+  {
+   "title": "United Press interview with Prime Minister Yoshida",
+   "doc_type": "airgram",
+   "start_page": 27,
+   "end_page": 28,
+   "date": "1949-10-06",
+   "from": "William J. Sebald, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "An airgram reproducing Shigeru Yoshida's remarks on the peace treaty, occupation, China, communism, war, taxation, and reconstruction.",
+   "summary": "Yoshida favors an early peace treaty but doubts that U.S. occupation forces can withdraw rapidly without leaving Japan vulnerable and disorderly. He advises foreign powers to leave China alone, faults Chiang Kai-shek's government for inadequate reforms, and predicts that Chinese Communism will influence Japan only gradually. He also discusses avoiding another world war, balancing Japan's austerity budget, attracting foreign capital, and Japanese gratitude for American food aid and MacArthur's leadership.",
+   "keywords": [
+    "Shigeru Yoshida",
+    "peace treaty",
+    "American occupation",
+    "China",
+    "communism",
+    "austerity budget",
+    "foreign investment",
+    "food aid"
+   ]
+  },
+  {
+   "title": "Chakravarty interview on India, Japan, and the Bangkok conference",
+   "doc_type": "airgram",
+   "start_page": 29,
+   "end_page": 29,
+   "date": "1949-11-25",
+   "from": "William J. Sebald, USPOLAD Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A report on a Nippon Times article concerning Amiya C. Chakravarty's expectations for Indian and Japanese roles in Asian development and anticommunism.",
+   "summary": "The article predicts that the Bangkok conference may combine India's moral influence with Japanese technical capacity in developing Asian countries. Chakravarty links Philip Jessup's planned call on SCAP to the favorable American reception of Nehru's tour. William Draper's discussions with Nehru and visit to Japan are presented as further evidence that India and Japan may receive major regional roles in opposition to communism.",
+   "keywords": [
+    "Amiya Chakravarty",
+    "Bangkok conference",
+    "India",
+    "Japan",
+    "Asian development",
+    "Nehru",
+    "Philip Jessup",
+    "anticommunism"
+   ]
+  },
+  {
+   "title": "Japanese press summary, December 16–22, 1949",
+   "doc_type": "airgram",
+   "start_page": 30,
+   "end_page": 32,
+   "date": "1949-12-24",
+   "from": "USPOLAD, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A weekly press summary covering Soviet repatriation, Mao's Moscow visit, public-sector wages, Formosa, territorial questions, and German security.",
+   "summary": "The press gives extensive attention to the Allied Council confrontation over Japanese still detained or unaccounted for in Soviet territory and condemns the Soviet member's walkout. Mao Zedong's visit to Moscow is interpreted as heralding closer Sino-Soviet relations and a possible new treaty. Domestic coverage concentrates on the Yoshida cabinet's struggle over year-end bonuses and wage increases, while foreign-affairs reporting shows interest in Formosa and the possible return of the Kurils, Habomai, Shikotan, Okinawa, the Bonins, and Iwo Jima.",
+   "keywords": [
+    "Japanese repatriation",
+    "Soviet Union",
+    "Mao Zedong",
+    "Moscow",
+    "public-sector wages",
+    "Formosa",
+    "territorial settlement",
+    "peace treaty"
+   ]
+  },
+  {
+   "title": "Japanese press reactions at the end of December 1949",
+   "doc_type": "airgram",
+   "start_page": 33,
+   "end_page": 35,
+   "date": "1949-12-30",
+   "from": "William J. Sebald, USPOLAD Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A weekly survey of Japanese coverage of Soviet-held prisoners, economic decontrol, war-criminal amnesty, party realignment, territorial claims, and Philippine hostility.",
+   "summary": "Coverage of the repatriation dispute links MacArthur's proposed neutral investigation with the Khabarovsk germ-warfare trial, which non-Communist papers treat skeptically. Newspapers welcome commodity and trade decontrol but caution that Japan must compete responsibly in world markets; they also report MacArthur's amnesty for forty-six minor war criminals. Political reporting considers Ken Inukai's prospective move into Yoshida's party, while foreign-policy commentary highlights the peace treaty, Japanese claims to neighboring islands, and Philippine resentment of Japan.",
+   "keywords": [
+    "Soviet prisoners",
+    "Khabarovsk trial",
+    "biological warfare",
+    "economic decontrol",
+    "war-criminal amnesty",
+    "party realignment",
+    "territorial claims",
+    "Philippine-Japanese relations"
+   ]
+  }
+ ],
+ "interest": "The file provides an unusually concentrated record of how occupation officials selected, condensed, and interpreted Japanese editorial opinion during a period of rapid political change. It captures public discussion of subjects that had recently been dangerous or impossible to print—including imperial responsibility, popular sovereignty, war crimes, labor organization, and criticism of senior statesmen. The later reports are especially useful for tracing Japan's movement from immediate postwar survival toward Cold War questions of communism, China, Soviet repatriation, economic independence, a peace treaty, and the recovery of disputed islands.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 298.9,
+  "identifier": "japan-internal-affairs-894.9111-public-press-newspapers-2",
+  "file": "894.9111 Public Press., Newspapers., Japan, Clippings And Items., November 14, 1945 - December 30, 1949 1838.pdf",
+  "created": "2026-09-29 04:54:10"
+ }
+}

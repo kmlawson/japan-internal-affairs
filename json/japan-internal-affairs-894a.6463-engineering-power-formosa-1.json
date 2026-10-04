@@ -1,0 +1,602 @@
+{
+ "overview": "This file traces the revival, foreign financing, construction, and financial condition of the Taiwan Electric Power Company’s Lake Candidius—now Sun Moon Lake—hydroelectric project between 1930 and 1932. It documents Japanese governmental approval for a foreign loan, American official interest in contracts and equipment sales, the eventual $22.5 million American bond issue, and later plans to refinance or repurchase those bonds because depreciation of the yen made gold-denominated interest costly. The papers also discuss—and reject—a supposed connection between the project and the 1930 Musha (Wushe) uprising, describe the project’s engineering and supply arrangements, and provide extensive statistical tables on the company’s finances, personnel, generating plants, and growing demand for electricity across colonial Taiwan.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku",
+    "Taiheku",
+    "Taiboku"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "PENNSYLVANIA"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Japanese home islands",
+   "variants": [
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Empire of Japan",
+   "variants": [
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "Sun Moon Lake",
+   "variants": [
+    "Lake Candidius",
+    "Lake-Candidius",
+    "Candidius",
+    "Lake Jitsugetsudan",
+    "Lake Jitsugetsutan",
+    "Jitsugetsutan",
+    "Jitangetsutan",
+    "Jitsu-getsutan"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "New York City"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Wushe",
+   "variants": [
+    "Musha",
+    "Musha area"
+   ]
+  },
+  {
+   "name": "Zhuoshui River",
+   "variants": [
+    "Dakusui-kei",
+    "Muddy Water River",
+    "Dakusui"
+   ]
+  },
+  {
+   "name": "Shimaigahara intake site",
+   "variants": [
+    "Shimaigahara"
+   ]
+  },
+  {
+   "name": "Shuishe",
+   "variants": [
+    "Suisha"
+   ]
+  },
+  {
+   "name": "Toushe",
+   "variants": [
+    "Tosha"
+   ]
+  },
+  {
+   "name": "Shuili River",
+   "variants": [
+    "Suirikei"
+   ]
+  },
+  {
+   "name": "Mount Taihei",
+   "variants": [
+    "Taihei Mountain"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "Takao",
+    "Takai"
+   ]
+  },
+  {
+   "name": "Xiamen",
+   "variants": [
+    "AMoy",
+    "Ampy",
+    "Anoy"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Central and southern Taiwan",
+   "variants": [
+    "central and southern Taiwan"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Keelung"
+   ]
+  },
+  {
+   "name": "Songshan, Taipei",
+   "variants": [
+    "Matsuyama"
+   ]
+  },
+  {
+   "name": "Qishan",
+   "variants": [
+    "Kizan"
+   ]
+  },
+  {
+   "name": "Shosoko",
+   "variants": [
+    "Shosoko"
+   ]
+  },
+  {
+   "name": "Tensobi",
+   "variants": [
+    "Tensobi"
+   ]
+  },
+  {
+   "name": "Kori",
+   "variants": [
+    "Kori"
+   ]
+  },
+  {
+   "name": "Hokusanko",
+   "variants": [
+    "Hokusanko"
+   ]
+  },
+  {
+   "name": "Chikushimon",
+   "variants": [
+    "Chikushimon"
+   ]
+  },
+  {
+   "name": "Dorowan",
+   "variants": [
+    "Dorowan"
+   ]
+  },
+  {
+   "name": "Changhua",
+   "variants": [
+    "Shoka"
+   ]
+  },
+  {
+   "name": "Yilan",
+   "variants": [
+    "Giran",
+    "Giren"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Taichu"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "Heito",
+    "Keito",
+    "Heite"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Charles S. Reed II",
+   "role": "American Vice Consul at Taihoku",
+   "variants": [
+    "REED",
+    "Reed",
+    "Charles S. Reed II",
+    "CSR"
+   ]
+  },
+  {
+   "name": "Wilbur J. Carr",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Hon. Wilbur J. Carr",
+    "Mr. Carr"
+   ]
+  },
+  {
+   "name": "Robert J. Phillips",
+   "role": "Liaison Officer, Bureau of Foreign and Domestic Commerce",
+   "variants": [
+    "Robert J. Phillips"
+   ]
+  },
+  {
+   "name": "Sanborn",
+   "role": "Official or routing addressee; position not stated",
+   "variants": [
+    "Sanborn"
+   ]
+  },
+  {
+   "name": "W. Cameron Forbes",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Forbes"
+   ]
+  },
+  {
+   "name": "Matsuki",
+   "role": "President of the Taiwan Electric Power Company",
+   "variants": [
+    "Mr. Matsuki"
+   ]
+  },
+  {
+   "name": "Yamanaka",
+   "role": "Vice President of the Taiwan Electric Power Company",
+   "variants": [
+    "Mr. Yamanaka"
+   ]
+  },
+  {
+   "name": "E. E. Cramon",
+   "role": "Department of State official; specific position not stated",
+   "variants": [
+    "Mr. E. E. Cramon"
+   ]
+  },
+  {
+   "name": "John L. Ketcham",
+   "role": "American Consul at Taihoku",
+   "variants": [
+    "Ketcham",
+    "Consul John L. Ketcham"
+   ]
+  },
+  {
+   "name": "Franklin",
+   "role": "American diplomatic or consular officer at Amoy who transmitted Ketcham’s message",
+   "variants": [
+    "FRANKLIN"
+   ]
+  },
+  {
+   "name": "Hiroshi Minami",
+   "role": "Japanese Minister of Communications and former Governor-General of Taiwan",
+   "variants": [
+    "Mr. Minami",
+    "Minami"
+   ]
+  },
+  {
+   "name": "Makoto Saitō",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Saito"
+   ]
+  },
+  {
+   "name": "Matsuo",
+   "role": "Consular employee who translated the Taiwan Electric Power Company’s reports",
+   "variants": [
+    "Mr. Matsuo"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan Electric Power Company",
+  "Sun Moon Lake hydroelectric project",
+  "colonial Taiwan",
+  "hydroelectric engineering",
+  "foreign loans",
+  "American gold bonds",
+  "J. P. Morgan & Co.",
+  "yen depreciation",
+  "Musha Incident",
+  "construction contracts",
+  "American electrical machinery",
+  "Japanese industrial policy",
+  "corporate finance",
+  "public utilities",
+  "industrial electrification"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram from Reed on resumption of the Lake Candidius project",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1930-09-10",
+   "from": "Charles S. Reed II, Taihoku",
+   "to": "Secretary of State, Washington",
+   "about": "Reports signs that the Lake Candidius hydroelectric project will resume after approval and foreign financing are obtained.",
+   "summary": "Reed reports that the Governor-General favors the project and will travel to Tokyo to seek approval. Approximately forty million yen is to be raised through foreign loans, and the project could be completed within three years of resumption.",
+   "keywords": [
+    "Lake Candidius",
+    "hydroelectric power",
+    "foreign loan",
+    "Governor-General",
+    "construction schedule"
+   ]
+  },
+  {
+   "title": "Commerce Department request for information on hydroelectric contracts",
+   "doc_type": "letter",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1930-09-29",
+   "from": "Robert J. Phillips, Bureau of Foreign and Domestic Commerce",
+   "to": "Wilbur J. Carr, Assistant Secretary of State",
+   "about": "Requests details about contracting and purchasing opportunities arising from the Lake Candidius project.",
+   "summary": "Phillips refers to the September 10 cable from Taihoku and asks the State Department to obtain further information. The Bureau particularly wants the names and addresses of parties responsible for construction contracts and purchases of machinery and supplies. Although the OCR header reads October 4, the accompanying instruction repeatedly identifies this enclosed Bureau letter as dated September 29.",
+   "keywords": [
+    "commercial intelligence",
+    "construction contracts",
+    "machinery",
+    "Bureau of Foreign and Domestic Commerce",
+    "Lake Candidius"
+   ]
+  },
+  {
+   "title": "Instruction to the American Consul at Taihoku",
+   "doc_type": "instruction",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1930-10-04",
+   "from": "Secretary of State",
+   "to": "American Consul, Taihoku",
+   "about": "Directs the consul to investigate commercial opportunities connected with the Lake Candidius project.",
+   "summary": "The Department forwards the Bureau of Foreign and Domestic Commerce’s request for details on the revived project. It orders an investigation into the persons able to award construction contracts and purchase machinery and supplies, with the reply to be submitted as a despatch in quintuplicate.",
+   "keywords": [
+    "consular instruction",
+    "commercial investigation",
+    "contracts",
+    "machinery procurement",
+    "Taihoku"
+   ]
+  },
+  {
+   "title": "Cross-reference to Forbes despatch on Taiwan Power Company loan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1930-11-04",
+   "from": "Japan (W. Cameron Forbes)",
+   "to": "Department of State",
+   "about": "Points to a despatch concerning cabinet approval of foreign borrowing for the Lake Jitsugetsudan project.",
+   "summary": "The sheet refers researchers to despatch no. 38 in another decimal-file location. It identifies the subject as cabinet approval for the Taiwan Power Company to raise a foreign loan for hydroelectric development at Lake Jitsugetsudan.",
+   "keywords": [
+    "cross-reference",
+    "W. Cameron Forbes",
+    "cabinet approval",
+    "foreign loan",
+    "Lake Jitsugetsudan"
+   ]
+  },
+  {
+   "title": "Excerpt from Forbes despatch on foreign financing and project criticism",
+   "doc_type": "despatch excerpt",
+   "start_page": 5,
+   "end_page": 6,
+   "date": "1930-11-04",
+   "from": "W. Cameron Forbes, Japan",
+   "to": "Department of State",
+   "about": "Discusses approval of a government-guaranteed foreign loan and doubts about the market for the project’s additional power.",
+   "summary": "The Japanese cabinet approved foreign borrowing of about forty-five million yen by the quasi-public Taiwan Power Company, marking an exception to the government’s no-loan policy. Revised expert estimates had reduced construction costs, while the government also hoped to replenish its gold reserves. Critics questioned whether Taiwan could absorb another 100,000 kilowatts, and press reports linked negotiations with J. P. Morgan & Co. to unrest among Taiwan’s Indigenous population.",
+   "keywords": [
+    "government guarantee",
+    "foreign loan",
+    "gold reserves",
+    "power demand",
+    "J. P. Morgan & Co.",
+    "Musha uprising"
+   ]
+  },
+  {
+   "title": "Despatch on the history, financing, contracts, and engineering of the Jitsugetsutan project",
+   "doc_type": "despatch",
+   "start_page": 7,
+   "end_page": 14,
+   "date": "1930-12-05",
+   "from": "Charles S. Reed II, American Vice Consul",
+   "to": "Secretary of State",
+   "about": "Provides a detailed commercial and technical survey of the proposed resumption of the Lake Jitsugetsutan hydroelectric project.",
+   "summary": "Reed recounts the project’s organization in 1919, suspension in 1922, later engineering review, and approval for government-guaranteed foreign loans totaling up to 45.89 million yen. He argues that the Musha uprising was unrelated to the project and notes that the relatively small number of families displaced by the raised lake level had accepted resettlement sites. Contracts were likely to go to Japanese or Taiwanese firms, but remaining machinery purchases—handled through major Japanese trading houses—were expected to come largely from the United States. The despatch concludes with a detailed engineering description of river diversion, tunnels, dams, generating equipment, transmission lines, and revised specifications.",
+   "keywords": [
+    "project history",
+    "foreign financing",
+    "Musha Affair",
+    "construction contracts",
+    "American machinery",
+    "river diversion",
+    "dams",
+    "power transmission"
+   ]
+  },
+  {
+   "title": "Cross-reference to Reed telegram on the Governor-General’s resignation",
+   "doc_type": "cross-reference sheet",
+   "start_page": 15,
+   "end_page": 15,
+   "date": "1931-01-15",
+   "from": "Taihoku (Charles S. Reed II)",
+   "to": "Department of State",
+   "about": "References a telegram assessing the effect of the Governor-General’s resignation on the hydroelectric project.",
+   "summary": "The sheet points to the filed location of Reed’s January 15 telegram. It records his view that the anticipated resignation of senior colonial officials following the Musha incident was unlikely to affect the Lake Candidius project.",
+   "keywords": [
+    "cross-reference",
+    "Governor-General",
+    "resignation",
+    "Musha Incident",
+    "Lake Candidius"
+   ]
+  },
+  {
+   "title": "Telegram on political resignations after the Musha incident",
+   "doc_type": "telegram",
+   "start_page": 16,
+   "end_page": 16,
+   "date": "1931-01-15",
+   "from": "Charles S. Reed II, Taihoku",
+   "to": "Secretary of State",
+   "about": "Reports that expected resignations in Taiwan’s colonial administration should not disrupt the Candidius project.",
+   "summary": "Reed reports press claims that the Governor-General will resign over the Musha incident and that most heads of Taiwan’s executive departments may follow. He nevertheless judges that the political turnover is unlikely to affect the hydroelectric project.",
+   "keywords": [
+    "Musha Incident",
+    "Governor-General",
+    "colonial administration",
+    "resignation",
+    "hydroelectric project"
+   ]
+  },
+  {
+   "title": "Cross-reference to J. P. Morgan letter on Taiwan Electric Power bonds",
+   "doc_type": "cross-reference sheet",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1931-06-25",
+   "from": "J. P. Morgan & Co.",
+   "to": "",
+   "about": "Records the sale of a major American bond issue intended to finance expansion of the Taiwan Electric Power Company.",
+   "summary": "The sheet refers to a separately filed letter and prospectus for an issue described here as $22 million in forty-year, 5½-percent sinking-fund gold bonds. It states that J. P. Morgan & Co., other American interests, and the Yokohama Specie Bank purchased the issue to finance expansion of the company’s facilities.",
+   "keywords": [
+    "J. P. Morgan & Co.",
+    "gold bonds",
+    "Yokohama Specie Bank",
+    "American finance",
+    "Taiwan Electric Power Company"
+   ]
+  },
+  {
+   "title": "Corrected and duplicate telegrams on proposed bond repurchases",
+   "doc_type": "telegram",
+   "start_page": 18,
+   "end_page": 19,
+   "date": "1932-10-29",
+   "from": "Franklin, Amoy, relaying John L. Ketcham",
+   "to": "Secretary of State",
+   "about": "Reports a plan for the Taiwan Electric Power Company to borrow yen funds and repurchase its American gold bonds.",
+   "summary": "Franklin transmits Ketcham’s report that the company may borrow twenty million yen from the Finance Department in Tokyo. The funds would buy bonds held in Japan and, if possible, discounted bonds on the American market. The purpose was to reduce interest costs made especially burdensome by the low exchange value of the yen; the two pages preserve corrected and duplicate copies of the same message.",
+   "keywords": [
+    "bond repurchase",
+    "yen exchange",
+    "internal loan",
+    "American bond market",
+    "interest charges"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum on the proposed internal loan",
+   "doc_type": "memorandum",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1932-12-09",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State officials",
+   "about": "Evaluates Ketcham’s November report on the company’s proposed twenty-million-yen refinancing loan.",
+   "summary": "The memorandum summarizes the plan to obtain a Tokyo government loan and retire 5½-percent gold debentures floated in the United States in July 1931. It describes the underlying report as a useful account of the company’s condition and finds no objection to limited circulation subject to its restrictions on publication and distribution.",
+   "keywords": [
+    "internal memorandum",
+    "refinancing",
+    "gold debentures",
+    "restricted circulation",
+    "Tokyo government"
+   ]
+  },
+  {
+   "title": "Growth and Progress of the Taiwan Electric Power Company",
+   "doc_type": "report",
+   "start_page": 21,
+   "end_page": 38,
+   "date": "1932-11-10",
+   "from": "John L. Ketcham, American Consul, Taihoku",
+   "to": "Department of State",
+   "about": "Presents a confidential survey of the company’s refinancing plans, construction progress, financial accounts, workforce, generating capacity, and electricity demand.",
+   "summary": "Ketcham explains the secret negotiations for a twenty-million-yen internal loan intended to repurchase the company’s dollar gold bonds and reduce the burden caused by yen depreciation. He reviews the $22.5 million American financing of the Sun Moon Lake project, reports construction about 35 percent complete in October 1932, and notes the exclusion of foreign construction bidders despite extensive use of American machinery. Translated company accounts show a large increase in debenture liabilities and liquid assets after the foreign loan, alongside falling profits and public complaints about high electricity rates. Extensive tables document personnel, plant capacity, output, and the rapid expansion and industrial uses of electric power, lighting, fans, and heating throughout Taiwan.",
+   "keywords": [
+    "company report",
+    "internal loan",
+    "Sun Moon Lake",
+    "construction progress",
+    "balance sheet",
+    "profit and loss",
+    "employment",
+    "generating capacity",
+    "electricity demand",
+    "industrial electrification",
+    "confidential"
+   ]
+  }
+ ],
+ "interest": "The file is unusually valuable because it combines diplomatic reporting, commercial advocacy, engineering specifications, colonial politics, and detailed corporate statistics in a single record. It shows how American finance and machinery participated in a major Japanese colonial infrastructure project even as construction contracts were reserved for Japanese and Taiwanese firms. The discussion of the Musha uprising reveals how officials and investors interpreted Indigenous resistance through the lens of financial risk, while the 1932 tables offer a rare quantitative snapshot of electrification, industrial demand, employment, and corporate finances across Taiwan.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 231.8,
+  "identifier": "japan-internal-affairs-894a.6463-engineering-power-formosa-1",
+  "file": "894A.6463 Engineering., Power., Formosa. Taiwan, Electric., September 10, 1930 - December 9, 1932 764.pdf",
+  "created": "2026-09-29 02:05:31"
+ }
+}

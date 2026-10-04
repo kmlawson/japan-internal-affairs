@@ -1,0 +1,132 @@
+{
+ "interest": "Records the Bank of Taiwan surrendering silver to China's Central Bank, and the Taiwan Colonization Company's creation.",
+ "keywords": [
+  "Bank of Taiwan",
+  "Central Bank of China",
+  "Taiwan Colonization Company",
+  "Taiwan Government-General",
+  "Silver holdings",
+  "Currency reform",
+  "Foreign Affairs Section",
+  "Canton",
+  "Swatow",
+  "Sino-Japanese relations",
+  "Colonial administration"
+ ],
+ "overview": "Two records: a 1937 Canton telegram on the Bank of Taiwan transferring about $500,000 in silver to the Central Bank of China, and a 1935 memo on the Taiwan Colonization Company.",
+ "people": [
+  {
+   "name": "JNWELL",
+   "role": "U.S. Consular Officer, Canton",
+   "variants": [
+    "JNWELL"
+   ]
+  },
+  {
+   "name": "William T. Turner",
+   "role": "Officer, Division of Far Eastern Affairs",
+   "variants": [
+    "WTT"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "CANTON",
+    "Canton"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Swatow"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peicing"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Report on the Bank of Taiwan transferring its silver holdings in Canton and Swatow to the Central Bank of China.",
+   "date": "1937-04-12",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "JNWELL (Canton)",
+   "keywords": [
+    "Bank of Taiwan",
+    "Central Bank of China",
+    "Silver holdings",
+    "Canton",
+    "Swatow",
+    "Consular reporting"
+   ],
+   "start_page": 1,
+   "summary": "Canton reports the Bank of Taiwan arranged to surrender its Canton and Swatow silver, about $500,000, to the Central Bank of China.",
+   "title": "Telegram from Canton on Bank of Taiwan Silver Holdings",
+   "to": "Secretary of State, Washington, D.C."
+  },
+  {
+   "about": "Memorandum concerning the organization of the Taiwan Colonization Company and the revival of the Taiwan Government-General's Foreign Affairs Section.",
+   "date": "1935-10-14",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "Division of Far Eastern Affairs (WTT)",
+   "keywords": [
+    "Taiwan Government-General",
+    "Taiwan Colonization Company",
+    "Foreign Affairs Section",
+    "Colonization",
+    "Far Eastern Affairs"
+   ],
+   "start_page": 2,
+   "summary": "Far Eastern Affairs memo on the Taiwan Government-General's planned semi-official Taiwan Colonization Company and revived Foreign Affairs Section.",
+   "title": "Memorandum on Taiwan Colonization Company and Foreign Affairs Section",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 5719,
+   "output_tokens": 4612,
+   "thinking_tokens": 3570,
+   "cache_read_tokens": 8135,
+   "total_tokens": 10331
+  },
+  "backend": "agy",
+  "seconds": 18.1,
+  "identifier": "japan-internal-affairs-893.516-financial-conditions-budget",
+  "file": "893.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., China, Banks. Banking., October 14, 1935 - April 12, 1937 949.pdf",
+  "created": "2026-09-28 20:59:11"
+ }
+}

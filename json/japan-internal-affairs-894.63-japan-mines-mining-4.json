@@ -1,0 +1,128 @@
+{
+ "interest": "This file provides a concise yet fascinating window into United States wartime intelligence-gathering on Japanese industrial and mineral capacities during World War II. Of particular interest is the reference to Dr. Fritz Hansgirg, an Austrian chemical engineer and inventor of the Hansgirg carbothermic magnesium reduction process, who had designed large industrial plants in Japan and northern Korea before the war and offered technical intelligence while interned in the United States. The docket sheets also illustrate the role of neutral diplomatic listening posts, notably the American Legation in Bern, Switzerland under Leland Harrison, in intercepting and analyzing Axis economic declarations regarding coal output and strategic mineral production.",
+ "keywords": [
+  "Japan",
+  "mining",
+  "strategic minerals",
+  "coal production",
+  "light metals",
+  "electro-chemical industries",
+  "Fritz Hansgirg",
+  "Japanese Coal Control",
+  "economic intelligence",
+  "World War II",
+  "Switzerland",
+  "War Department"
+ ],
+ "overview": "This file consists of two State Department 'List of Papers' docket sheets for decimal classification 894.63 (Mines; Mining--Japan), cataloguing document sub-numbers 21 through 23 from 1942 and 1943. The indexed entries record wartime intelligence relating to Japanese mining, metallurgy, and mineral production. Specific entries detail an April 1942 memorandum by William R. Langdon of the Division of Far Eastern Affairs concerning interned Austrian metallurgist Dr. Fritz Hansgirg and his willingness to supply intelligence on Japan's light metals and electrochemical industries, a November 1942 telegram from Leland Harrison in Bern reporting claims by the Japanese Coal Control of expanded coal production, and a November 1943 telegram from Bern transmitting a Tokyo press report on production increases in strategic minerals.",
+ "people": [
+  {
+   "name": "Fritz Hansgirg",
+   "role": "Austrian inventor and metallurgist detained in an internment camp",
+   "variants": [
+    "Dr. Fritz Hansgirg"
+   ]
+  },
+  {
+   "name": "William R. Langdon",
+   "role": "State Department official, Division of Far Eastern Affairs",
+   "variants": [
+    "Langdon"
+   ]
+  },
+  {
+   "name": "Leland Harrison",
+   "role": "U.S. Minister to Switzerland",
+   "variants": [
+    "Harrison"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Witzerland",
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austrian"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department index sheet recording papers 21 and 22 concerning Japanese light metals, electro-chemical industries, and coal output in 1942.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Far Eastern Affairs",
+    "Langdon",
+    "Fritz Hansgirg",
+    "light metals",
+    "electro-chemical industries",
+    "coal production",
+    "Japanese Coal Control",
+    "Switzerland",
+    "Harrison"
+   ],
+   "start_page": 1,
+   "summary": "This Department of State 'List of Papers' docket sheet (Form DS-46) covers documents filed under decimal file 894.63 for Japan. Sub-number 21 records an April 27, 1942 memorandum by William R. Langdon of the Division of Far Eastern Affairs stating that interned Austrian engineer Dr. Fritz Hansgirg might furnish valuable information on Japan's light metals and electrochemical industries, which was routed to the War Department. Sub-number 22 indexes a November 2, 1942 telegram (No. 6845) from Leland Harrison in Switzerland reporting on claims by the Japanese Coal Control regarding increased coal production.",
+   "title": "List of Papers: 894.63, Sub-numbers 21-22",
+   "to": ""
+  },
+  {
+   "about": "A State Department index sheet recording paper 23 regarding reported production increases in Japanese strategic minerals in 1943.",
+   "date": "1943",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "strategic minerals",
+    "mineral production",
+    "Harrison",
+    "Switzerland",
+    "Tokyo",
+    "press report"
+   ],
+   "start_page": 2,
+   "summary": "This State Department 'List of Papers' docket sheet for 1943 records document sub-number 23 under file 894.63. It indexes a November 15, 1943 telegram from U.S. Minister Leland Harrison in Bern, Switzerland. The telegram conveys a November 10 Tokyo press dispatch reporting substantial production increases in strategic minerals within Japan.",
+   "title": "List of Papers: 894.63, Sub-number 23",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13889,
+   "output_tokens": 6163,
+   "thinking_tokens": 5047,
+   "cache_read_tokens": 0,
+   "total_tokens": 20052
+  },
+  "backend": "agy",
+  "seconds": 24.4,
+  "identifier": "japan-internal-affairs-894.63-japan-mines-mining-4",
+  "file": "894.63 Japan, Mines. Mining. Concessions.,  7.pdf",
+  "created": "2026-09-29 12:02:12"
+ }
+}

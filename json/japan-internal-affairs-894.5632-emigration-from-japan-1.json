@@ -1,0 +1,77 @@
+{
+ "interest": "This document provides insight into U.S. State Department monitoring of South American domestic attitudes toward Japanese migration during and immediately after World War II. It illustrates how Brazilian public sentiment and press commentary turned sharply against the resumption of Japanese immigration, viewing unassimilated 'foreign colonies' as a national security and social concern. Additionally, it highlights State Department indexing and cross-referencing procedures connecting Japanese emigration records (decimal 894.5632) with Brazilian internal immigration files (decimal 852.111).",
+ "keywords": [
+  "Japanese immigration",
+  "Brazil",
+  "foreign colonies",
+  "post-war immigration",
+  "Brazilian press",
+  "anti-Japanese sentiment",
+  "emigration",
+  "cross-reference sheet",
+  "State Department decimal file",
+  "U.S. Embassy Brazil"
+ ],
+ "overview": "This file consists of a single U.S. State Department cross-reference sheet (decimal file 894.5632/4) indexing Despatch No. 18541 from the U.S. mission in Brazil, dated November 24, 1945 (cross-filed from 852.111/202). The underlying report addresses Brazilian press coverage concerning post-war immigration policy and the issue of 'foreign colonies' in the country, noting pronounced domestic opposition to Japanese immigration.",
+ "people": [
+  {
+   "name": "John Farr Simmons",
+   "role": "U.S. diplomatic representative in Brazil",
+   "variants": [
+    "Simone"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brazilian"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet directing researchers to a despatch on Brazilian press reaction to post-war immigration and opposition to Japanese colonists.",
+   "date": "1945-11-24",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Simone (John Farr Simmons, U.S. Embassy, Brazil)",
+   "keywords": [
+    "cross-reference sheet",
+    "Brazil",
+    "Japanese immigration",
+    "foreign colonies",
+    "post-war immigration",
+    "Brazilian press"
+   ],
+   "start_page": 1,
+   "summary": "This cross-reference sheet indexes Despatch No. 18541 dated November 24, 1945, sent from Brazil by diplomatic officer Simone. The referenced report analyzes discussions in the Brazilian press regarding post-war immigration policies and the status of foreign colonies within Brazil. It highlights strong public and editorial opposition across Brazil to any resumption of Japanese immigration, directing researchers to the original document filed under 852.111/202.",
+   "title": "Cross-Reference Sheet for Despatch No. 18541 on Immigration Problems in Brazilian Press",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13682,
+   "output_tokens": 3003,
+   "thinking_tokens": 2350,
+   "cache_read_tokens": 0,
+   "total_tokens": 16685
+  },
+  "backend": "agy",
+  "seconds": 13.7,
+  "identifier": "japan-internal-affairs-894.5632-emigration-from-japan-1",
+  "file": "894.5632 Emigration From Japan To Brazil. Wherever Correspondence Pertaining To Migration Is Capable Of Being Classified As Immigration Above It Is So Treated., November 24, 1943 1404.pdf",
+  "created": "2026-09-29 10:27:34"
+ }
+}

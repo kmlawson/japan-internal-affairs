@@ -1,0 +1,156 @@
+{
+ "interest": "Refugee price data from the Changchun siege and Ward's debate on keeping the Mukden consulate open, 1948.",
+ "keywords": [
+  "Mukden",
+  "Changchun",
+  "Manchuria",
+  "Chinese Civil War",
+  "cost of living",
+  "hyperinflation",
+  "siege of Changchun",
+  "Nationalist Government",
+  "Chinese Communists",
+  "Angus Ward",
+  "coal supply",
+  "United States Consulate General"
+ ],
+ "overview": "Angus Ward's despatch of October 21, 1948 sends Siebens' memo on starvation prices in fallen Changchun and warns Mukden faces the same fate under siege.",
+ "people": [
+  {
+   "name": "Angus Ward",
+   "role": "U.S. Consul General at Mukden",
+   "variants": [
+    "The Consul General",
+    "AWard"
+   ]
+  },
+  {
+   "name": "Allen C. Siebens",
+   "role": "American Vice Consul at Mukden",
+   "variants": [
+    "Allen G. SIERENS",
+    "Vice Consul Allen G. SIERENS",
+    "Allen C. Siebens",
+    "American Vice Consul"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Midden",
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchun"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Northeast"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "China proper"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States of America",
+    "United States",
+    "US"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Benxi",
+   "variants": [
+    "Penhsi"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Covering despatch transmitting Vice Consul Siebens' memorandum on Changchun's cost of living and evaluating the feasibility of maintaining the Mukden Consulate General under an anticipated Communist siege.",
+   "date": "1948-10-21",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Angus Ward, U.S. Consul General, Mukden",
+   "keywords": [
+    "Mukden",
+    "Changchun",
+    "Consulate General",
+    "Communist siege",
+    "Angus Ward",
+    "airlift",
+    "coal supply",
+    "evacuation"
+   ],
+   "start_page": 1,
+   "summary": "Angus Ward forwards Siebens' memorandum on Changchun's collapse after eighteen months of siege. He warns that a besieged Mukden would lose food and coal, and asks whether the Consulate General can stay open through spring 1949.",
+   "title": "Despatch from Consul General Angus Ward transmitting memorandum on Changchun and Mukden economic situations",
+   "to": "American Ambassador, Nanking"
+  },
+  {
+   "about": "Intelligence memorandum analyzing refugee price data from besieged Changchun and forecasting a parallel collapse of utilities, currency, and living conditions in Mukden.",
+   "date": "1948-10-19",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "Allen C. Siebens, American Vice Consul, Mukden",
+   "keywords": [
+    "Changchun",
+    "Mukden",
+    "cost of living",
+    "commodity prices",
+    "hyperinflation",
+    "siege",
+    "Fushun",
+    "Benxi",
+    "electricity",
+    "coal",
+    "water supply",
+    "gold"
+   ],
+   "start_page": 2,
+   "summary": "Siebens uses refugee reports to tabulate Changchun's siege prices in September 1948 and warns that Mukden faces the same inflation, with power, coal and water vulnerable to Communist cutoff at Fushun and Benxi.",
+   "title": "Memorandum by Vice Consul Allen C. Siebens on cost of living at Changchun and anticipated duplication at Mukden",
+   "to": "Consul General Angus Ward, Mukden"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 16143,
+   "output_tokens": 7095,
+   "thinking_tokens": 5702,
+   "cache_read_tokens": 0,
+   "total_tokens": 23238
+  },
+  "backend": "agy",
+  "seconds": 30.2,
+  "identifier": "japan-internal-affairs-893.5017-economic-matters-statistics",
+  "file": "893.5017 Economic Matters., Statistics, General., China, Cost Of Living., October 21, 1948 1670.pdf",
+  "created": "2026-09-28 20:58:53"
+ }
+}

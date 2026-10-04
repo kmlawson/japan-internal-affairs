@@ -1,0 +1,124 @@
+{
+ "interest": "State redirected an Ohio student's 1931 request for Japan's anthem to the Japanese Embassy.",
+ "keywords": [
+  "Japan",
+  "national anthem",
+  "National Song of Japan",
+  "Department of State",
+  "Division of Far Eastern Affairs",
+  "Japanese Embassy",
+  "Maxwell M. Hamilton",
+  "Erma Barnhart",
+  "East Liverpool, Ohio",
+  "public inquiry",
+  "decimal file 894.0159"
+ ],
+ "overview": "Erma Barnhart of East Liverpool, Ohio, asks for Japan's national anthem in October 1931; Maxwell M. Hamilton replies that State has none and refers her to the Japanese Embassy.",
+ "people": [
+  {
+   "name": "Erma Barnhart",
+   "role": "Inquirer",
+   "variants": [
+    "(Miss) Erna Barnhart",
+    "Erna Barnhart",
+    "Miss Erma Barnhart",
+    "Erma Barnhart"
+   ]
+  },
+  {
+   "name": "James D. Johnson",
+   "role": "Not stated",
+   "variants": [
+    "James D. Johnson"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Assistant Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "M. M. H.",
+    "Maxwell M. Hamilton"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "East Liverpool, Ohio",
+   "variants": [
+    "East Liverpool, Ohio"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Worthington, North Carolina",
+   "variants": [
+    "Worthington, N.C."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A public inquiry from Miss Erma Barnhart requesting information and material regarding the national anthem of Japan.",
+   "date": "1931-10-20",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Erma Barnhart",
+   "keywords": [
+    "Erma Barnhart",
+    "public inquiry",
+    "Japan",
+    "national anthem",
+    "Division of Far Eastern Affairs"
+   ],
+   "start_page": 1,
+   "summary": "Erma Barnhart asks the State Department for material on Japan, read as a request for the national anthem; received October 23, 1931.",
+   "title": "Letter from Erma Barnhart requesting the National Song of Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "The Department of State informs Miss Barnhart that it has no copies of the Japanese national anthem and refers her to the Japanese Embassy in Washington.",
+   "date": "1931-10-31",
+   "doc_type": "letter",
+   "end_page": 3,
+   "from": "Maxwell M. Hamilton",
+   "keywords": [
+    "Maxwell M. Hamilton",
+    "Erma Barnhart",
+    "national anthem",
+    "Japanese Embassy",
+    "Division of Far Eastern Affairs",
+    "Department of State"
+   ],
+   "start_page": 2,
+   "summary": "Maxwell M. Hamilton tells Erma Barnhart the Department has no copies of Japan's national anthem and suggests the Japanese Embassy.",
+   "title": "Letter from Maxwell M. Hamilton to Erma Barnhart regarding the Japanese national anthem",
+   "to": "Erma Barnhart"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14142,
+   "output_tokens": 14393,
+   "thinking_tokens": 13307,
+   "cache_read_tokens": 0,
+   "total_tokens": 28535
+  },
+  "backend": "agy",
+  "seconds": 46.6,
+  "identifier": "japan-internal-affairs-894.0159-government-mandates-recognition-1",
+  "file": "894.0159 Government. Mandates, Recognition., Flag., Japan, National Anthem., October 31, 1931 731.pdf",
+  "created": "2026-09-28 22:15:04"
+ }
+}

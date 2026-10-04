@@ -1,0 +1,24 @@
+# OS / Python / Node
+.DS_Store
+__pycache__/
+fulltext-build/node_modules/
+
+# Large or regenerable build outputs (rebuilt locally; deployed separately)
+catalog.sqlite
+catalog.sqlite.building*
+downloads/
+pagefind/
+fulltext-build/records.jsonl
+data.js.tmp
+
+# Logs, run status and scratch
+*.log
+*.out
+_status*.txt
+test-agy/
+test-codex/
+compare/
+
+# Working state of the shortening pass (keep only the tool)
+shorten/*
+!shorten/shorten.py

@@ -1,0 +1,122 @@
+{
+ "interest": "Japanese firm Dainan Koshi as a spy front in Indochina.",
+ "keywords": [
+  "French Indochina",
+  "Japanese military activities",
+  "espionage",
+  "Dainan Koosi",
+  "Saigon",
+  "Domei News Agency",
+  "subversive activities",
+  "radio intercepts",
+  "military intelligence",
+  "J. Edgar Hoover",
+  "Douglas Flood",
+  "surveillance"
+ ],
+ "overview": "Docket for 894.20251G (1939–41) on Japanese espionage in Indochina, including a raid on Dainan Koosi and a Domei reporter.",
+ "people": [
+  {
+   "name": "Douglas Flood",
+   "role": "American Vice Consul at Saigon",
+   "variants": [
+    "Flood"
+   ]
+  },
+  {
+   "name": "Charles A. O'Rear",
+   "role": "U.S. Military Attaché (Thailand and French Indochina)",
+   "variants": [
+    "O'Kear"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation, Department of Justice",
+   "variants": [
+    "Hoover"
+   ]
+  },
+  {
+   "name": "Ate (?)",
+   "role": "Domei News Agency representative in French Indochina and suspected Japanese agent",
+   "variants": [
+    "Ate (?)",
+    "Ate"
+   ]
+  },
+  {
+   "name": "L'Aletti",
+   "role": "Editor of newspaper",
+   "variants": [
+    "L'ALETTI"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo China",
+    "Indo-China",
+    "Indo- China"
+   ]
+  },
+  {
+   "name": "Ho Chi Minh City",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thai"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "List of State Department papers and cross-reference entries concerning Japanese military activities, subversive operations, and espionage in French Indochina.",
+   "date": "1939",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "French Indochina",
+    "espionage",
+    "Dainan Koosi",
+    "Saigon",
+    "Domei News Agency",
+    "intercepted radio messages",
+    "subversive activities",
+    "military intelligence"
+   ],
+   "start_page": 1,
+   "summary": "Docket on Japanese espionage in French Indochina: Dainan Koosi raid, Domei reporter and FBI intercepts.",
+   "title": "List of Papers: Japanese military activities and espionage in French Indo China",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13893,
+   "output_tokens": 18906,
+   "thinking_tokens": 17805,
+   "cache_read_tokens": 0,
+   "total_tokens": 32799
+  },
+  "backend": "agy",
+  "seconds": 64.3,
+  "identifier": "japan-internal-affairs-894.20251g-military-affairs-army-1",
+  "file": "894.20251G Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In French Indo-China Including Gathering Of Information. Espionage. Propagand 506.pdf",
+  "created": "2026-09-29 02:29:15"
+ }
+}

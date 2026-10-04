@@ -1,0 +1,621 @@
+{
+ "overview": "This file traces electric-power problems in Japan and East Asia from the immediate postwar period through 1949. It begins with the Shanghai Power Company’s unsuccessful attempt to obtain generating equipment from Japan as reparations, continues with an academic inquiry into Japanese railway electrification, and contains extensive 1948 reporting on the rehabilitation of Japan’s hydroelectric and thermal plants, labor disputes, coal shortages, and SCAP involvement. A separate despatch documents South Korea’s severe power deficit after North Korea ended deliveries across the 38th parallel, while the final airgram records approval of a major Counterpart Fund loan for new Japanese generating and transmission facilities.",
+ "places": [
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK",
+    "New York, New York"
+   ]
+  },
+  {
+   "name": "2 Rector Street, New York City",
+   "variants": [
+    "TWO RECTOR STREET",
+    "Two Rector Street"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "WASHINGTON 25",
+    "Washington 25, D. C.",
+    "Washington, 25, D. C.",
+    "Washington, D.C.",
+    "WASHINGTON D.C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shanghai territory"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Chinese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES",
+    "UNITED STATES OF AMERICA",
+    "American"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "FAR EASTERN",
+    "Far East"
+   ]
+  },
+  {
+   "name": "Toledo",
+   "variants": [
+    "TOLEDO",
+    "Toledo"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "OHIO",
+    "Ohio"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kantō region",
+   "variants": [
+    "Kanto"
+   ]
+  },
+  {
+   "name": "Kansai region",
+   "variants": [
+    "Kansai"
+   ]
+  },
+  {
+   "name": "Chūgoku region",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Yamazato",
+   "variants": [
+    "Yamazato"
+   ]
+  },
+  {
+   "name": "Inawashiro",
+   "variants": [
+    "Inawashiro"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German-made"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "South Korea",
+    "South Korean"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Korea"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "Cal."
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Cheongpyeong",
+   "variants": [
+    "Chong Pyong"
+   ]
+  },
+  {
+   "name": "Yeongwol",
+   "variants": [
+    "Jung-wol",
+    "Yongwol"
+   ]
+  },
+  {
+   "name": "Busan",
+   "variants": [
+    "Pusan"
+   ]
+  },
+  {
+   "name": "Daegu",
+   "variants": [
+    "Taegu"
+   ]
+  },
+  {
+   "name": "Jeonju",
+   "variants": [
+    "Chonju"
+   ]
+  },
+  {
+   "name": "Seomjin River",
+   "variants": [
+    "Sum Jin River"
+   ]
+  },
+  {
+   "name": "Gunsan",
+   "variants": [
+    "Kunsan"
+   ]
+  },
+  {
+   "name": "Daejeon",
+   "variants": [
+    "Taejon"
+   ]
+  },
+  {
+   "name": "Dangin-ri",
+   "variants": [
+    "Dong Jin Ri"
+   ]
+  },
+  {
+   "name": "Incheon",
+   "variants": [
+    "Inchon"
+   ]
+  },
+  {
+   "name": "Port of Incheon",
+   "variants": [
+    "Inchon Harbor"
+   ]
+  },
+  {
+   "name": "38th parallel in Korea",
+   "variants": [
+    "38th parallel",
+    "north of the 38th parallel"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "James F. Byrnes",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "The Honorable James F. Byrnes",
+    "Mr. Secretary"
+   ]
+  },
+  {
+   "name": "W. S. Robertson",
+   "role": "President, American & Foreign Power Company, Inc.",
+   "variants": [
+    "W. S. Robertson",
+    "Mr. Robertson",
+    "Mr. W. S. Robertson"
+   ]
+  },
+  {
+   "name": "Edwin F. Pauley",
+   "role": "Official quoted as stating that electric generating equipment would be removed from Japan",
+   "variants": [
+    "Mr. Edwin F. Pauley"
+   ]
+  },
+  {
+   "name": "James C. Dunn",
+   "role": "Copy recipient of Robertson's letter",
+   "variants": [
+    "Mr. James C. Dunn"
+   ]
+  },
+  {
+   "name": "John Carter Vincent",
+   "role": "Copy recipient of Robertson's letter",
+   "variants": [
+    "Mr. John Carter Vincent"
+   ]
+  },
+  {
+   "name": "Everett F. Drumright",
+   "role": "Copy recipient of Robertson's letter",
+   "variants": [
+    "Mr. Everett F. Drumright"
+   ]
+  },
+  {
+   "name": "Edwin M. Martin",
+   "role": "Chief, Division of Japanese and Korean Economic Affairs, U.S. Department of State",
+   "variants": [
+    "Edwin M. Martin"
+   ]
+  },
+  {
+   "name": "C. W. Singleton",
+   "role": "University of Toledo researcher in the College of Business Administration studying Japanese railroad transportation",
+   "variants": [
+    "C. W. Singleton",
+    "Mr. C. W. Singleton",
+    "Mr. Singleton"
+   ]
+  },
+  {
+   "name": "J. H. Gutride",
+   "role": "Acting Secretary, Federal Power Commission",
+   "variants": [
+    "J. H. Gutride",
+    "W. H. Gutride"
+   ]
+  },
+  {
+   "name": "Charles L. Hodge",
+   "role": "Acting Associate Chief, Division of Japanese and Korean Economic Affairs",
+   "variants": [
+    "Charles L. Hodge"
+   ]
+  },
+  {
+   "name": "NVB",
+   "role": "Recipient of the January 1948 State Department office memorandum; identity not expanded",
+   "variants": [
+    "NVB"
+   ]
+  },
+  {
+   "name": "MG",
+   "role": "Author of the January 1948 State Department office memorandum; identity not expanded",
+   "variants": [
+    "MG"
+   ]
+  },
+  {
+   "name": "Chōzaburō Mizutani",
+   "role": "Japanese Minister of Commerce and Industry",
+   "variants": [
+    "Mizutani",
+    "Mr. MIZUTANI, Chosaburo",
+    "Mr. Mizutani"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "Acting Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "SABALD"
+   ]
+  },
+  {
+   "name": "C. H. Geroux",
+   "role": "Army Engineers official directing the seven-member Electric Power Mission to South Korea",
+   "variants": [
+    "Mr. C.H. Geroux"
+   ]
+  },
+  {
+   "name": "Arthur C. Bunce",
+   "role": "Minister and author of the despatch on South Korean electric power",
+   "variants": [
+    "Arthur C. Bunce"
+   ]
+  }
+ ],
+ "keywords": [
+  "electric power",
+  "Japan",
+  "Shanghai Power Company",
+  "reparations",
+  "railway electrification",
+  "power-plant rehabilitation",
+  "hydroelectric generation",
+  "thermal generation",
+  "labor unions",
+  "coal allocation",
+  "SCAP",
+  "South Korea",
+  "38th parallel",
+  "Counterpart Fund",
+  "Nippon Hassoden"
+ ],
+ "subfiles": [
+  {
+   "title": "Robertson request for Japanese generating equipment for Shanghai",
+   "doc_type": "letter",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1945-12-10",
+   "from": "W. S. Robertson, President, American & Foreign Power Company, Inc.",
+   "to": "James F. Byrnes, Secretary of State",
+   "about": "Robertson asks whether steam-electric generating units in Japan can be transferred promptly to the damaged Shanghai Power Company.",
+   "summary": "Robertson reports that Japanese military control and wartime bombing left the Shanghai Power Company with one generating unit removed, another possibly beyond recovery, and a third requiring about a year to repair. Anticipating a capacity shortage within five months, the company seeks one or more complete 25,000-kilowatt, 50-cycle steam units from Japan. The request refers to reports that Edwin F. Pauley contemplated removing generating equipment from Japan.",
+   "keywords": [
+    "Shanghai Power Company",
+    "war damage",
+    "steam generation",
+    "Japanese equipment",
+    "25,000-kilowatt units",
+    "reparations"
+   ]
+  },
+  {
+   "title": "State Department rejection of Robertson's equipment request",
+   "doc_type": "letter",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1945-12-28",
+   "from": "Edwin M. Martin, Chief, Division of Japanese and Korean Economic Affairs",
+   "to": "W. S. Robertson",
+   "about": "The State Department explains why Japanese generating equipment cannot yet be transferred to the Shanghai Power Company.",
+   "summary": "Martin states that Japanese capital equipment, other than property subject to restitution, is being reserved for reparations and is unavailable for sale. No Allied authority yet exists to allocate the equipment, and U.S. machinery for supplying it to American concerns remains in abeyance. The Department promises an announcement when such deliveries become possible.",
+   "keywords": [
+    "reparations",
+    "capital equipment",
+    "Japan",
+    "Shanghai Power Company",
+    "Allied allocation",
+    "State Department"
+   ]
+  },
+  {
+   "title": "Federal Power Commission referral of Singleton inquiry",
+   "doc_type": "letter",
+   "start_page": 4,
+   "end_page": 5,
+   "date": "1947-01-20",
+   "from": "J. H. Gutride, Acting Secretary, Federal Power Commission",
+   "to": "U.S. Department of State",
+   "about": "The Federal Power Commission forwards C. W. Singleton's request for information on Japanese electric-power development and railway electricity use.",
+   "summary": "The Commission explains that it cannot supply the requested foreign-power information and therefore refers Singleton's letter to the State Department. Pages 4 and 5 are marked and clean copies of the same referral, identifying Singleton's letter as enclosure No. 37047.",
+   "keywords": [
+    "Federal Power Commission",
+    "C. W. Singleton",
+    "Japanese power development",
+    "railway electricity",
+    "information request",
+    "referral"
+   ]
+  },
+  {
+   "title": "Singleton inquiry on Japanese railway electrification",
+   "doc_type": "letter (enclosure)",
+   "start_page": 6,
+   "end_page": 6,
+   "date": "1947-01-11",
+   "from": "C. W. Singleton, University of Toledo",
+   "to": "Federal Power Commission",
+   "about": "Singleton requests data on Japanese power development and the use of electricity by Japan's railroads.",
+   "summary": "Singleton says that he returned from Japan the previous spring and is researching the Japanese railroad transportation system. He asks for information on electric-power development, railway electricity consumption, and the extent of railway electrification. Although the typed date reads January 11, 1946, the 1947 receipt stamps and both official replies identify it as a January 11, 1947 letter.",
+   "keywords": [
+    "railway electrification",
+    "Japan",
+    "electricity consumption",
+    "University of Toledo",
+    "research inquiry"
+   ]
+  },
+  {
+   "title": "Federal Power Commission acknowledgment to Singleton",
+   "doc_type": "letter",
+   "start_page": 7,
+   "end_page": 7,
+   "date": "1947-01-20",
+   "from": "J. H. Gutride, Acting Secretary, Federal Power Commission",
+   "to": "C. W. Singleton",
+   "about": "The Commission tells Singleton that his inquiry has been referred to the State Department.",
+   "summary": "The Federal Power Commission acknowledges Singleton's request concerning Japanese power development and railroad electricity use. It explains that the Commission does not compile data on electric power in foreign countries and has sent the inquiry to the State Department.",
+   "keywords": [
+    "Federal Power Commission",
+    "C. W. Singleton",
+    "Japan",
+    "foreign power statistics",
+    "State Department referral"
+   ]
+  },
+  {
+   "title": "State Department statistics on Japanese railway power consumption",
+   "doc_type": "letter",
+   "start_page": 8,
+   "end_page": 8,
+   "date": "1947-02-04",
+   "from": "Charles L. Hodge, Acting Associate Chief, Division of Japanese and Korean Economic Affairs",
+   "to": "C. W. Singleton",
+   "about": "Hodge supplies limited prewar statistics on electric-power consumption by Japanese railways.",
+   "summary": "The reply gives annual-average railway electric-power consumption figures of 0.888 billion units for 1928–29, 1.141 billion for 1930–34, and 1.347 billion for 1935–36; the OCR renders the unit as “KWL.” Hodge says that further information will be forwarded as it becomes available.",
+   "keywords": [
+    "Japanese railways",
+    "electricity consumption",
+    "prewar statistics",
+    "railway electrification",
+    "Charles L. Hodge"
+   ]
+  },
+  {
+   "title": "Internal review of Mizutani memorandum",
+   "doc_type": "office memorandum",
+   "start_page": 9,
+   "end_page": 9,
+   "date": "1948-01-27",
+   "from": "MG",
+   "to": "NVB",
+   "about": "An internal State Department memorandum assesses Mizutani's explanation of delays in rehabilitating Japanese power plants.",
+   "summary": "The reviewer identifies three purposes behind Mizutani's memorandum: rebutting criticism by the Strike Mission, blaming delays on labor unions, and seeking more coal for thermal plants. The writer characterizes the memorandum as an effort to “pass the buck” to labor and as another example of Japanese officials relying on SCAP intervention to resolve domestic problems.",
+   "keywords": [
+    "Mizutani",
+    "power-plant rehabilitation",
+    "labor unions",
+    "Strike Mission",
+    "coal allocation",
+    "SCAP",
+    "internal assessment"
+   ]
+  },
+  {
+   "title": "Sebald despatch transmitting Mizutani power-industry memorandum",
+   "doc_type": "despatch",
+   "start_page": 10,
+   "end_page": 11,
+   "date": "1948-01-10",
+   "from": "W. J. Sebald, Acting Political Adviser for Japan",
+   "to": "U.S. Secretary of State",
+   "about": "Sebald forwards and contextualizes a Japanese Commerce and Industry Ministry memorandum on delayed power-plant rehabilitation.",
+   "summary": "The despatch says Mizutani presented the memorandum informally to SCAP's Economic and Scientific Section in response to criticism attributed to Overseas Consultants, Incorporated. It summarizes claims that labor unions' “business strikes,” wage and ration demands, and communications restrictions were impeding repairs. Mizutani recommends joint Japanese-SCAP inspection teams, notes priority provisioning for electrical workers, and requests increased coal allocations for thermal generation.",
+   "keywords": [
+    "Mizutani",
+    "SCAP",
+    "Overseas Consultants",
+    "business strike",
+    "labor disputes",
+    "power rehabilitation",
+    "coal allocation"
+   ]
+  },
+  {
+   "title": "Memorandum on problems confronting Japan's electric-power industry",
+   "doc_type": "memorandum (enclosure)",
+   "start_page": 12,
+   "end_page": 18,
+   "date": "",
+   "from": "Chōzaburō Mizutani / Japanese Ministry of Commerce and Industry",
+   "to": "Chief, Economic and Scientific Section, SCAP",
+   "about": "The enclosure details plant rehabilitation, coal requirements, electric-industry labor disputes, and delays at the Yamazato and Inawashiro hydroelectric plants.",
+   "summary": "The memorandum argues that most generating-plant repairs are progressing but that union meetings, localized disputes, work restrictions, and demands for wages and rations are causing significant delays. It seeks joint GHQ–Japanese inspection teams and additional coal, estimating January and February thermal capacity and consumption by district and warning that coal stocks are far below target. An appendix describes the approximately 100,000-member Electric Industry Workers' Union and its “business strike,” then gives detailed output, damage, staffing, and repair information for the flooded Yamazato plant and the Inawashiro First plant, where a 1912 German-made turbine casing burst.",
+   "keywords": [
+    "Electric Industry Workers' Union",
+    "Japan Power Generation and Transmission Company",
+    "coal shortage",
+    "hydroelectric power",
+    "thermal power",
+    "Yamazato",
+    "Inawashiro",
+    "business strike",
+    "plant repair",
+    "GHQ inspection teams"
+   ]
+  },
+  {
+   "title": "Bunce despatch on electric power in South Korea",
+   "doc_type": "despatch",
+   "start_page": 19,
+   "end_page": 20,
+   "date": "1948-07-15",
+   "from": "Arthur C. Bunce, Minister",
+   "to": "U.S. Secretary of State",
+   "about": "Bunce transmits a South Korean power report and summarizes the American Electric Power Mission's inspections and the consequences of North Korea's power cutoff.",
+   "summary": "The despatch forwards a South Korean Interim Government handbook on utilities, generating facilities, rehabilitation plans, and power allocation. It lists the American engineering mission's inspections at hydroelectric and thermal plants, substations, mines, and the JACONA and ELECTRA power boats across South Korea. After North Korea ended deliveries on May 14, 1948, average available power fell from about 100,000 to roughly 60,000 kilowatts; repairs were expected to raise summer output temporarily, but winter shortages made restoration of thermal capacity urgent.",
+   "keywords": [
+    "South Korea",
+    "North Korea",
+    "electric-power cutoff",
+    "38th parallel",
+    "Electric Power Mission",
+    "hydroelectric plants",
+    "thermal generation",
+    "JACONA",
+    "ELECTRA"
+   ]
+  },
+  {
+   "title": "Airgram announcing Counterpart Fund loan to Nippon Hassoden",
+   "doc_type": "airgram",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1949-12-12",
+   "from": "U.S. Political Adviser, Tokyo (signed “SABALD”)",
+   "to": "U.S. Secretary of State",
+   "about": "The airgram reproduces a GHQ announcement approving a Counterpart Fund loan for Japanese power-generation and transmission projects.",
+   "summary": "SCAP approved a 1.834-billion-yen loan to Nippon Hassoden, with 1.480 billion yen immediately available. The funds would support five hydroelectric plants totaling 27,000 kilowatts, two steam plants totaling 70,000 kilowatts, and 122 kilometers of transmission lines. The seven-and-one-half-percent loan, repayable by March 31, 1980, is presented as the first of several loans intended to relieve Japan's acute power shortage and rebuild its economy.",
+   "keywords": [
+    "Counterpart Fund",
+    "Nippon Hassoden",
+    "SCAP",
+    "hydroelectric construction",
+    "steam generation",
+    "transmission lines",
+    "Japanese reconstruction",
+    "loan finance"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for tracing the transition from the disposal and reparations questions of 1945 to active American financing of Japanese reconstruction by 1949. Its 1948 enclosure supplies unusually detailed quantitative evidence about regional generating capacity, coal needs, union organization, workplace tactics, and repairs at individual plants, while also revealing the Japanese government's and U.S. officials' sharply different interpretations of labor conflict. The South Korean despatch adds a valuable regional comparison and captures the immediate infrastructural consequences of partition when northern electricity supplies were cut off in May 1948.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 171.9,
+  "identifier": "japan-internal-affairs-894.6463-engineering-power-japan-2",
+  "file": "894.6463 Engineering., Power., Japan, Electric., December 10, 1945 - December 12, 1949 1807.pdf",
+  "created": "2026-09-29 10:23:52"
+ }
+}

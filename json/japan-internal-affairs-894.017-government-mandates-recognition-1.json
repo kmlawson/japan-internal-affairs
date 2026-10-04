@@ -1,0 +1,94 @@
+{
+ "interest": "Pointers to Grew's and Dooman's reports on Japanese civil service and Foreign Office reorganization.",
+ "keywords": [
+  "Japan",
+  "civil service",
+  "Japanese Foreign Office",
+  "Foreign Service",
+  "administrative reorganization",
+  "Imperial Ordinances",
+  "State Department records",
+  "diplomatic despatches",
+  "bureaucracy",
+  "cross-reference sheets"
+ ],
+ "overview": "Two cross-reference sheets for 894.017: Grew's 1936 Despatch No. 1878 on Japan's civil service and Dooman's 1939 Despatch No. 4040 on Foreign Office changes.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Eugene H. Dooman",
+   "role": "",
+   "variants": [
+    "Dooman"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference note indicating that information regarding the civil service in Japan transmitted in Despatch No. 1878 is filed under decimal file 800.017/37.",
+   "date": "1936-06-03",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "civil service",
+    "Japan",
+    "Joseph C. Grew",
+    "cross-reference sheet",
+    "despatch"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Grew's Despatch No. 1878 (June 3, 1936) on Japan's civil service; see 800.017/37.",
+   "title": "Document file note for Despatch No. 1878 on Japanese civil service",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet pointing to Despatch No. 4040 filed under 894.021/70 regarding administrative reorganization of the Japanese Foreign Office and Foreign Service.",
+   "date": "1939-07-19",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Eugene H. Dooman",
+   "keywords": [
+    "Japanese Foreign Office",
+    "Foreign Service",
+    "Imperial Ordinances",
+    "administrative reorganization",
+    "Eugene H. Dooman",
+    "cross-reference sheet"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Dooman's Despatch No. 4040 (July 19, 1939) on Japanese Foreign Office changes; see 894.021/70.",
+   "title": "Cross-reference sheet for Despatch No. 4040 on administrative changes in the Japanese Foreign Office",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13818,
+   "output_tokens": 3805,
+   "thinking_tokens": 2857,
+   "cache_read_tokens": 0,
+   "total_tokens": 17623
+  },
+  "backend": "agy",
+  "seconds": 14.5,
+  "identifier": "japan-internal-affairs-894.017-government-mandates-recognition-1",
+  "file": "894.017 Government. Mandates, Recognition., Japan, Civil Service., June 3, 1936 - July 19, 1939 1113.pdf",
+  "created": "2026-09-28 22:16:04"
+ }
+}

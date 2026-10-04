@@ -1,0 +1,106 @@
+{
+ "interest": "Consular reports on Japanese tuberculosis cures, 1930s.",
+ "keywords": [
+  "materia medica",
+  "pharmacopoeia",
+  "tuberculosis",
+  "tuberculosis serum",
+  "Seigo Funaoka",
+  "Kyoto Imperial University",
+  "kerosene treatment",
+  "public health",
+  "medical research",
+  "consular reporting",
+  "Kobe",
+  "Singapore"
+ ],
+ "overview": "Docket for 894.1255 with cross-references on Dr. Seigo Funaoka's tuberculosis serum and a kerosene cure tested in Japan.",
+ "people": [
+  {
+   "name": "Erle R. Dickover",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Dickover"
+   ]
+  },
+  {
+   "name": "Wilbur Keblinger",
+   "role": "American Consul General at Singapore",
+   "variants": [
+    "Keblinger"
+   ]
+  },
+  {
+   "name": "Seigo Funaoka",
+   "role": "Doctor and Professor at Kyoto Imperial University",
+   "variants": [
+    "Dr. Seigo Funacka",
+    "Funacka"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet indexing cross-referenced consular reports from Kobe and Singapore regarding Japanese tuberculosis research and therapies.",
+   "date": "1945-10-15",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "materia medica",
+    "pharmacopoeia",
+    "tuberculosis",
+    "tuberculosis serum",
+    "kerosene cure",
+    "Kyoto Imperial University",
+    "Kobe",
+    "Singapore"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.1255: Funaoka's tuberculosis serum (1932) and a kerosene cure (1934).",
+   "title": "Department of State List of Papers for File 894.1255 (Materia Medica. Pharmacopoeia - Japan)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13784,
+   "output_tokens": 4015,
+   "thinking_tokens": 3083,
+   "cache_read_tokens": 0,
+   "total_tokens": 17799
+  },
+  "backend": "agy",
+  "seconds": 15.0,
+  "identifier": "japan-internal-affairs-894.1255-public-health-hospitals-2",
+  "file": "894.1255 Public Health. Hospitals. Hospital Service., Supervision Of Food And Drugs., Japan, Materia Medica. Pharmacopoeia.,  401.pdf",
+  "created": "2026-09-28 23:19:56"
+ }
+}

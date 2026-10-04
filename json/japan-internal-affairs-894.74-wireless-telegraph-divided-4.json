@@ -1,0 +1,120 @@
+{
+ "overview": "This two-page file combines a Department of State list-of-papers sheet for the wireless-telegraphy subject file with an apparently unrelated report fragment. The list, prepared or annotated in 1945, indexes two communications of January 8, 1930 concerning interference with the U.S. naval radio station NPO at Cavite by the Japanese Wireless Telegraph Company’s station JAA at Iwaki and instructions to raise the matter with Japanese authorities through the American Embassy in Tokyo. The second page reports discussion within Japan’s Temporary Industrial Rationalization Bureau about reorganizing the steel industry through a joint government-private company modeled on the South Manchuria Railway Company.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Iwaki, Japan",
+   "variants": [
+    "Iwaki"
+   ]
+  },
+  {
+   "name": "Cavite, Philippines",
+   "variants": [
+    "Cavite"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "South Manchuria"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. diplomatic official associated with despatch no. 664 from Japan; no title is stated on the sheet",
+   "variants": [
+    "Neville"
+   ]
+  }
+ ],
+ "keywords": [
+  "wireless telegraphy",
+  "radio-frequency interference",
+  "Japan",
+  "United States Navy",
+  "NPO radio station",
+  "JAA radio station",
+  "Cavite",
+  "Iwaki",
+  "American Embassy in Tokyo",
+  "Japanese Wireless Telegraph Company",
+  "steel industry",
+  "industrial rationalization",
+  "public-private enterprise",
+  "South Manchuria Railway Company"
+ ],
+ "subfiles": [
+  {
+   "title": "List of papers concerning interference between radio stations JAA and NPO",
+   "doc_type": "list of papers / index sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1945-10-11",
+   "from": "U.S. Department of State",
+   "to": "",
+   "about": "An index sheet summarizes two January 8, 1930 communications about interference caused by the Japanese station JAA to the U.S. naval station NPO at Cavite.",
+   "summary": "The sheet records that interference with Naval Radio Station NPO at Cavite was attributed to the Japanese Wireless Telegraph Company’s Iwaki station JAA. The Navy Department referred the issue for diplomatic handling, and the American Embassy in Tokyo was instructed to ask the Japanese authorities to change JAA’s assigned frequency. A second entry identifies Japan despatch no. 664 with Neville and repeats the instruction to eliminate the interference.",
+   "keywords": [
+    "wireless telegraphy",
+    "radio interference",
+    "JAA",
+    "NPO",
+    "Iwaki Station",
+    "Cavite",
+    "Navy Department",
+    "American Embassy Tokyo",
+    "frequency allocation"
+   ]
+  },
+  {
+   "title": "Report fragment on rationalization of the Japanese steel industry",
+   "doc_type": "report fragment",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A brief unattributed report describes a proposal for a joint government-private company to rationalize the steel industry.",
+   "summary": "Advisers to the Temporary Industrial Rationalization Bureau of the Department of Commerce and Industry met on the 23rd to consider rationalization of the steel industry. Some advocated forming a company jointly owned by the government and private interests, modeled on the South Manchuria Railway Company. The report anticipated appointment of a committee to study the proposal.",
+   "keywords": [
+    "steel industry",
+    "industrial rationalization",
+    "Temporary Industrial Rationalization Bureau",
+    "Department of Commerce and Industry",
+    "public-private company",
+    "South Manchuria Railway Company",
+    "economic policy"
+   ]
+  }
+ ],
+ "interest": "The first page is useful evidence of how technical radio-frequency disputes were routed through U.S. naval and diplomatic channels and how station call signs, corporate operators, and frequency assignments became matters of bilateral diplomacy. Its 1945 compilation date also illustrates retrospective State Department filing practices for 1930 records. The unrelated second page is noteworthy as a likely filing or assembly anomaly, while independently preserving a concise account of Japanese thinking about state-assisted industrial consolidation modeled on the South Manchuria Railway Company.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 57.7,
+  "identifier": "japan-internal-affairs-894.74-wireless-telegraph-divided-4",
+  "file": "894.74 Wireless Telegraph. Divided As 8**.73.,  309.pdf",
+  "created": "2026-09-29 08:20:12"
+ }
+}

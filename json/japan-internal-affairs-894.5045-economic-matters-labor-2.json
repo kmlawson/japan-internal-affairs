@@ -1,0 +1,126 @@
+{
+ "interest": "Shows 1941 police pressure on American President Lines in Kobe via a staged employee strike, amid harassment of Western firms.",
+ "keywords": [
+  "American President Lines",
+  "Kobe",
+  "Japan",
+  "strikes",
+  "labor disputes",
+  "retirement allowances",
+  "Japanese police interference",
+  "foreign businesses in Japan",
+  "severance pay",
+  "American Trading Company",
+  "British firms in Japan",
+  "Gerald Warner"
+ ],
+ "overview": "Despatch No. 181 (July 1941): Consul Warner reports a July 3-10 strike by American President Lines employees in Kobe demanding retirement allowances and bonuses; Agent McCaskey refused all demands, and workers returned without concessions, amid Japanese police pressure implying he could not leave Kobe without a settlement.",
+ "people": [
+  {
+   "name": "S. F. McCaskey",
+   "role": "Acting General Agent of the American President Lines at Kobe",
+   "variants": [
+    "S. F. McCaskey",
+    "Mr. McCaskey"
+   ]
+  },
+  {
+   "name": "J. M. Conway",
+   "role": "Passenger Agent of the American President Lines at Kobe",
+   "variants": [
+    "J. M. Conway",
+    "Mr. J. M. Conway"
+   ]
+  },
+  {
+   "name": "Gerald Warner",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Gerald Warner",
+    "GW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Report on a strike of Japanese employees at the American President Lines office in Kobe and subsequent Japanese police intimidation and involvement.",
+   "date": "1941-07-14",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "Gerald Warner, American Consul at Kobe, Japan",
+   "keywords": [
+    "American President Lines",
+    "Kobe",
+    "strike",
+    "retirement allowances",
+    "police interference",
+    "foreign firms",
+    "S. F. McCaskey",
+    "labor dispute"
+   ],
+   "start_page": 1,
+   "summary": "Consul Warner reports a July 3-10, 1941 strike by American President Lines employees in Kobe over retirement allowances and bonuses after a dismissal; Agent McCaskey rejected all demands, and workers returned without concessions, while Japanese police interrogated McCaskey and implied he could not leave Kobe unsettled, suggesting police instigation.",
+   "title": "Despatch No. 181 from American Consul Gerald Warner on Strike of Japanese Employees of American President Lines at Kobe",
+   "to": "The Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14596,
+   "output_tokens": 5739,
+   "thinking_tokens": 4703,
+   "cache_read_tokens": 0,
+   "total_tokens": 20335
+  },
+  "backend": "agy",
+  "seconds": 25.1,
+  "identifier": "japan-internal-affairs-894.5045-economic-matters-labor-2",
+  "file": "894.5045 Economic Matters., Labor., Japan, Strikes And Lockouts., July 14, 1941 1284.pdf",
+  "created": "2026-09-29 08:55:58"
+ }
+}

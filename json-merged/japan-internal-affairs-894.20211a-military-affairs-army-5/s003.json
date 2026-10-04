@@ -1,0 +1,852 @@
+{
+ "section_summary": "This section continues a historical study of Japan, moving from Tokugawa intellectual life and the opening of the country through the Meiji Restoration, constitutional government, industrialization, and the Sino-Japanese War. It then traces Japanese expansion in Korea, Manchuria, Siberia, Shandong, and North China through the creation of Manchukuo and Japan’s withdrawal from the League of Nations. The closing pages examine the economic “life-line” argument for Manchuria and an official ideological defense of Japanese leadership and expansion in Asia.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Empire of Japan",
+    "Japanese empire",
+    "Central Kingdom of Civilization"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Toronto",
+   "variants": [
+    "Toronto"
+   ]
+  },
+  {
+   "name": "Dejima",
+   "variants": [
+    "Deshima"
+   ]
+  },
+  {
+   "name": "Nagasaki Harbor",
+   "variants": [
+    "Nagasaki harbor"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Satsuma Domain",
+   "variants": [
+    "Satsuma"
+   ]
+  },
+  {
+   "name": "Chōshū Domain",
+   "variants": [
+    "Choshu"
+   ]
+  },
+  {
+   "name": "Tosa Domain",
+   "variants": [
+    "Tosa"
+   ]
+  },
+  {
+   "name": "Hizen Province",
+   "variants": [
+    "Hizen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Ryukyu Islands"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russian empire"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Liaodong Peninsula",
+   "variants": [
+    "Liaotung peninsula",
+    "L1aotung"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "southern Manchuria",
+    "north Manchuria"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Far East",
+    "East Asia",
+    "Orient"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "mainland of Asia",
+    "continent of Asia",
+    "Asiatic mainland"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohoma"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kama1sh1"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Jinan",
+   "variants": [
+    "Tsinan"
+   ]
+  },
+  {
+   "name": "Heilongjiang",
+   "variants": [
+    "He1lungkiang"
+   ]
+  },
+  {
+   "name": "Jilin",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Liaoning",
+   "variants": [
+    "Liaoning"
+   ]
+  },
+  {
+   "name": "Rehe Province",
+   "variants": [
+    "Jehol"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Northeast China",
+   "variants": [
+    "Three Eastern Provinces of China",
+    "Three Eastern Provinces"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "north China",
+    "North China"
+   ]
+  },
+  {
+   "name": "Great Wall of China",
+   "variants": [
+    "Great Wall"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pacific area"
+   ]
+  },
+  {
+   "name": "Pacific Islands",
+   "variants": [
+    "Pacific Islands"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dalny",
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Lüshun",
+   "variants": [
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "Portsmouth, New Hampshire",
+   "variants": [
+    "Portsmouth"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sakhalin"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchun"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Province",
+    "Kwantung province"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston"
+   ]
+  },
+  {
+   "name": "Inner Mongolia",
+   "variants": [
+    "Eastern Inner Mongolia",
+    "Inner Mongolia"
+   ]
+  },
+  {
+   "name": "Dandong",
+   "variants": [
+    "Antung"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung Province",
+    "Shantung province",
+    "Shantung"
+   ]
+  },
+  {
+   "name": "The Hague",
+   "variants": [
+    "Hague"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Amur region",
+   "variants": [
+    "Amur"
+   ]
+  },
+  {
+   "name": "Nikolayevsk-on-Amur",
+   "variants": [
+    "Nikolaevsk"
+   ]
+  },
+  {
+   "name": "Mariana Islands",
+   "variants": [
+    "Marianne"
+   ]
+  },
+  {
+   "name": "Marshall Islands",
+   "variants": [
+    "Marshall"
+   ]
+  },
+  {
+   "name": "Caroline Islands",
+   "variants": [
+    "Caroline Islands"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Ethiopia",
+   "variants": [
+    "Ethiopian"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portugal"
+   ]
+  },
+  {
+   "name": "Huludao",
+   "variants": [
+    "Hulutao"
+   ]
+  },
+  {
+   "name": "North China Plain",
+   "variants": [
+    "north China plain"
+   ]
+  },
+  {
+   "name": "Jinzhou",
+   "variants": [
+    "Chinchow"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shangha1"
+   ]
+  },
+  {
+   "name": "Huangpu River",
+   "variants": [
+    "Whangpoo River"
+   ]
+  },
+  {
+   "name": "Mongolia",
+   "variants": [
+    "Mongolia"
+   ]
+  },
+  {
+   "name": "Shanhaiguan",
+   "variants": [
+    "Shanhaikwan"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "Salvador"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "Hope1"
+   ]
+  },
+  {
+   "name": "Chahar Province",
+   "variants": [
+    "Chahar"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Western world",
+   "variants": [
+    "West"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Yamaga Soko",
+   "role": "Tokugawa-era scholar who argued for Japan’s cultural superiority",
+   "variants": [
+    "Yamaga Soko",
+    "Soko"
+   ]
+  },
+  {
+   "name": "Motoori Norinaga",
+   "role": "Scholar and author of a voluminous commentary on the Kojiki",
+   "variants": [
+    "Motoor1 Norinaga"
+   ]
+  },
+  {
+   "name": "Amaterasu-no-Ōmikami",
+   "role": "Sun Goddess identified as the ancestress of the Japanese emperors",
+   "variants": [
+    "Amaterasu-no-Ohom1-Kami",
+    "Sun Goddess"
+   ]
+  },
+  {
+   "name": "Robert Cornell Armstrong",
+   "role": "Cited author of Light from the East",
+   "variants": [
+    "Armstrong, Robert Cornell"
+   ]
+  },
+  {
+   "name": "Aston",
+   "role": "Cited author",
+   "variants": [
+    "Aston"
+   ]
+  },
+  {
+   "name": "G. B. Sansom",
+   "role": "Cited historian",
+   "variants": [
+    "Sansom, G. B."
+   ]
+  },
+  {
+   "name": "Commodore Perry",
+   "role": "American naval officer whose 1853 arrival led to Japan’s opening",
+   "variants": [
+    "Commodore Perry",
+    "Perry"
+   ]
+  },
+  {
+   "name": "Mutsuhito",
+   "role": "Japanese emperor who took Meiji as his reign name",
+   "variants": [
+    "Mutsuhito",
+    "Meij1",
+    "Meij1 Emperor"
+   ]
+  },
+  {
+   "name": "Walter Wallace McLaren",
+   "role": "Cited historian of Japanese government",
+   "variants": [
+    "McLaren, W.W.",
+    "McLaren, Walter Wallace",
+    "McLaren, W.w."
+   ]
+  },
+  {
+   "name": "Ito",
+   "role": "Former Chōshū samurai, cabinet leader, constitution drafter, and later governor-general of Korea",
+   "variants": [
+    "Ito",
+    "Prince Ito"
+   ]
+  },
+  {
+   "name": "Inouye",
+   "role": "Former samurai who rose to power in the new government",
+   "variants": [
+    "Inouye"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "role": "Government and military leader identified as Minister of War",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Saigo",
+   "role": "Satsuma leader whose opposition preceded the Satsuma Rebellion",
+   "variants": [
+    "Sa1go"
+   ]
+  },
+  {
+   "name": "John Stuart Mill",
+   "role": "Political philosopher quoted in an argument for representative government",
+   "variants": [
+    "Mr. Mill"
+   ]
+  },
+  {
+   "name": "Harold S. Quigley",
+   "role": "American authority on Japanese government and politics",
+   "variants": [
+    "Quigley, Harold S."
+   ]
+  },
+  {
+   "name": "Prince Saionji",
+   "role": "The only living Elder Statesman as of 1936",
+   "variants": [
+    "Prince Saionji",
+    "Prince Saionj1"
+   ]
+  },
+  {
+   "name": "Tokugawa Ieyasu",
+   "role": "Founder of the Tokugawa political order established in 1603",
+   "variants": [
+    "Tokugawa Iyeyasu"
+   ]
+  },
+  {
+   "name": "Ame-no-Minaka-Nushi-no-Mikoto",
+   "role": "Deity mentioned in a discussion of Japanese mythology",
+   "variants": [
+    "Ame-no-Minaka-Nushi-no-Mikoto"
+   ]
+  },
+  {
+   "name": "Jimmu",
+   "role": "Legendary Japanese emperor mentioned in a discussion of mythology",
+   "variants": [
+    "Jimmu"
+   ]
+  },
+  {
+   "name": "Curtis Hidden Page",
+   "role": "Cited author of Japanese Poetry",
+   "variants": [
+    "Page, Curt1s Hidden"
+   ]
+  },
+  {
+   "name": "Yukio Ozaki",
+   "role": "Cited author of The Voice of Japanese Democracy",
+   "variants": [
+    "Ozak1, Yuk1o"
+   ]
+  },
+  {
+   "name": "Fukuzawa Yukichi",
+   "role": "Member of Japan’s 1861 delegation to the United States, founder of Keio University, and intellectual leader",
+   "variants": [
+    "Fukuzawa Yukich1",
+    "Fukuzawa",
+    "Fukuzawa Yuk1ch1"
+   ]
+  },
+  {
+   "name": "K. Asakawa",
+   "role": "Japanese scholar and cited author on the Russo-Japanese conflict",
+   "variants": [
+    "Asakawa, K."
+   ]
+  },
+  {
+   "name": "Yuan Shikai",
+   "role": "President-dictator of China who accepted some of Japan’s Twenty-One Demands",
+   "variants": [
+    "Yüan Shih-k'a1"
+   ]
+  },
+  {
+   "name": "Semeonoff",
+   "role": "Counter-revolutionary supported by Japanese military leaders in Siberia",
+   "variants": [
+    "Semeonoff"
+   ]
+  },
+  {
+   "name": "General Tanaka",
+   "role": "Japanese general who defended military conduct and promoted troop deployments on the Asian mainland",
+   "variants": [
+    "General Tanaka",
+    "Tanaka"
+   ]
+  },
+  {
+   "name": "Baron Shuntoko Sakamoto",
+   "role": "Japanese Diet representative who questioned the government’s Siberian policy",
+   "variants": [
+    "Baron Shuntoko Sakamoto"
+   ]
+  },
+  {
+   "name": "Tatsuji Takeuchi",
+   "role": "Cited author of War and Diplomacy in the Japanese Empire",
+   "variants": [
+    "Takeuch1, Tatsuj1",
+    "Takeuch1"
+   ]
+  },
+  {
+   "name": "Chang Tso-lin",
+   "role": "Warlord of Manchuria",
+   "variants": [
+    "Chang Tso-lin"
+   ]
+  },
+  {
+   "name": "Kisaburo Yokota",
+   "role": "Tokyo Imperial University professor and critic of the Manchurian military operations",
+   "variants": [
+    "Professor Kisaburo Yokota"
+   ]
+  },
+  {
+   "name": "Major-General Tatekawa",
+   "role": "Japanese officer who advocated more vigorous economic expansion on the Asian continent",
+   "variants": [
+    "Major-General Tatekawa"
+   ]
+  },
+  {
+   "name": "Lieutenant-General Araki",
+   "role": "Japanese officer who advocated a stronger policy in Manchuria and the Far East",
+   "variants": [
+    "Lieutenant-General Arak1"
+   ]
+  },
+  {
+   "name": "Stimson",
+   "role": "Namesake of the American non-recognition doctrine concerning territorial changes achieved by force",
+   "variants": [
+    "Stimson"
+   ]
+  },
+  {
+   "name": "Puyi",
+   "role": "Former Chinese emperor installed first as regent and later as emperor of Manchukuo",
+   "variants": [
+    "Hsuan Tung",
+    "Mr. Henry Pu-y1"
+   ]
+  },
+  {
+   "name": "Lord Lytton",
+   "role": "Head of the League of Nations commission investigating Manchuria",
+   "variants": [
+    "Lord Lytton"
+   ]
+  },
+  {
+   "name": "Kimmochi Ohkura",
+   "role": "Member of the House of Peers, former South Manchuria Railway Company official, and cited author",
+   "variants": [
+    "Ohkura, Kimmoch1"
+   ]
+  },
+  {
+   "name": "Yasushi Taji",
+   "role": "Japanese writer cited on industrial reorganization within a Japan-Manchukuo economic bloc",
+   "variants": [
+    "Taj1, Yasush1"
+   ]
+  },
+  {
+   "name": "Masaomi Yoshitomi",
+   "role": "Japanese Foreign Office official and cited author on foreign policy",
+   "variants": [
+    "Yoshitom1 Masaom1"
+   ]
+  }
+ ],
+ "keywords": [
+  "Tokugawa era",
+  "Meiji Restoration",
+  "Japanese Constitution of 1889",
+  "industrialization",
+  "military oligarchy",
+  "Sino-Japanese War",
+  "Japanese imperialism",
+  "Korea",
+  "Manchuria",
+  "Manchukuo",
+  "Open Door policy",
+  "League of Nations"
+ ],
+ "subfiles": [
+  {
+   "title": "Study of Japanese history, modernization, and expansionism, Chapters 4–6 (continuation)",
+   "doc_type": "historical study or instructional book excerpt",
+   "start_page": 68,
+   "end_page": 91,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A historical and political analysis of Japan’s transformation from Tokugawa society into a modern industrial and imperial power.",
+   "summary": "The excerpt begins by discussing Tokugawa intellectual life, nationalism, Dutch learning, and the pressures that preceded Commodore Perry’s opening of Japan. It examines the Meiji Restoration, abolition of feudalism, creation of a centralized bureaucracy and constitution, development of mass education, a conscript army, transportation, and state-assisted industry. It then traces Japanese expansion from the Sino-Japanese and Russo-Japanese wars through the annexation of Korea, intervention in Siberia, seizure of Manchuria, establishment of Manchukuo, and conflict with the League of Nations. The final pages question Manchukuo’s value as Japan’s economic “life-line” and present an official rationale for Japanese expansion and leadership in Asia.",
+   "keywords": [
+    "Tokugawa intellectual history",
+    "Meiji Restoration",
+    "constitutional government",
+    "industrial capitalism",
+    "Japanese military",
+    "Sino-Japanese War",
+    "Russo-Japanese War",
+    "Korean annexation",
+    "Manchurian Incident",
+    "Manchukuo",
+    "League of Nations",
+    "Japanese expansionism"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 12,
+  "pages": [
+   68,
+   91
+  ],
+  "pdf": "894.20211A Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Hawaii Including Gathering Of Information. Espionage. Propaganda., March 9 1110.pdf",
+  "seconds": 222.0,
+  "created": "2026-09-30 02:25:50",
+  "key": "japan-internal-affairs-894.20211a-military-affairs-army-5"
+ }
+}

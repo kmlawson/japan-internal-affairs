@@ -1,0 +1,137 @@
+{
+ "interest": "This file provides valuable insight into the tense sociopolitical climate of post-World War II Taiwan shortly after the 228 Incident, illustrating Taiwanese disillusionment with Nationalist Chinese (KMT) governance and the persistence of pro-Japanese sentiments among certain segments of the population. It reveals American consular intelligence-gathering techniques, such as relying on linguistic cues, behavioral mannerisms, and physical encounters at local shrines to detect un-repatriated Japanese, alongside systematic card cataloguing of former colonial personnel. Additionally, the exchange highlights the inter-post coordination between Taipei, Nanking, and SCAP in occupied Tokyo to monitor cross-strait movement and potential underground networks.",
+ "keywords": [
+  "Taiwan",
+  "Formosa",
+  "Repatriation",
+  "Subversion",
+  "Espionage",
+  "Taipei",
+  "Nanjing",
+  "Tokyo",
+  "Intelligence gathering",
+  "Nationalist China",
+  "Card catalog",
+  "Military caps"
+ ],
+ "overview": "This file consists of State Department diplomatic correspondence from April and May 1948 regarding suspected Japanese subversive activities and covert presence in post-World War II Taiwan. In Despatch No. 15 from Taipei, American Consul General Kenneth C. Krentz reports that un-repatriated or illicitly returned Japanese personnel appear to be conducting subversive activity and stoking anti-Nationalist sentiment among Taiwanese who are deeply disillusioned with Chinese rule. To investigate these suspicions and exploit a comprehensive local card file of former Japanese residents, Krentz requests that intelligence be obtained from the U.S. Political Adviser in Tokyo regarding Taiwanese in Japan and Japanese repatriates. In Instruction No. 90, the Department of State concurs with Krentz's assessment and authorizes the American Mission in Nanking to request the required intelligence from Tokyo.",
+ "people": [
+  {
+   "name": "J. Leighton Stuart",
+   "role": "American Ambassador",
+   "variants": [
+    "J. Leighton Stuart"
+   ]
+  },
+  {
+   "name": "Kenneth C. Krentz",
+   "role": "American Consul General",
+   "variants": [
+    "Kenneth C. Krentz"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taipei"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Keelung"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consul General Kenneth C. Krentz reports suspected Japanese subversive activities in Taiwan and requests intelligence from Tokyo to cross-reference against consular records.",
+   "date": "1948-04-05",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Kenneth C. Krentz, American Consul General",
+   "keywords": [
+    "Taipei",
+    "Taiwan",
+    "subversive activity",
+    "repatriation",
+    "rumors",
+    "Keelung",
+    "card file",
+    "Political Advisor Tokyo"
+   ],
+   "start_page": 1,
+   "summary": "American Consul General Kenneth C. Krentz informs Ambassador J. Leighton Stuart in Nanking that the Taipei Consulate General suspects Japanese nationals who evaded repatriation or smuggled themselves back into Taiwan are conducting subversive activities. Krentz observes that local Taiwanese, disillusioned with the Chinese Nationalist administration, as well as veterans who served with Japanese forces in the South Seas, are receptive to collaborating with Japanese agitators. Describing an encounter near Keelung with men wearing Japanese Army caps and noting distinctive Japanese speech mannerisms, Krentz asks that the U.S. Political Adviser in Tokyo provide intelligence on Taiwanese residing in Japan and repatriated Japanese to cross-reference against the consulate's comprehensive card registry.",
+   "title": "Despatch No. 15 from Kenneth C. Krentz to J. Leighton Stuart on Japanese Subversive Activities in Taiwan",
+   "to": "J. Leighton Stuart, American Ambassador"
+  },
+  {
+   "about": "The Department of State approves requesting intelligence from the U.S. Political Adviser in Tokyo concerning Japanese repatriates and Taiwanese residing in Japan.",
+   "date": "1948-05-19",
+   "doc_type": "instruction",
+   "end_page": 3,
+   "from": "Department of State (Secretary of State)",
+   "keywords": [
+    "Department of State",
+    "Nanking",
+    "Tokyo",
+    "subversive activity",
+    "intelligence",
+    "repatriates",
+    "card file"
+   ],
+   "start_page": 3,
+   "summary": "The Secretary of State replies to Taipei's Despatch No. 15 concerning potential subversive activity in Taiwan carried on by Japanese who escaped repatriation or returned covertly. Acknowledging that the Taipei Consulate General maintains an extensive card index of prominent Japanese formerly resident in Taiwan, the Department agrees that Tokyo intelligence would be instrumental for cross-checking activities and business connections. Consequently, the Department authorizes the American Mission in Nanking to request the desired data from the U.S. Political Adviser in Tokyo.",
+   "title": "Instruction No. 90 from the Department of State to the American Mission, Nanking, on Investigating Japanese Subversive Activities in Taiwan",
+   "to": "Officer in Charge of the American Mission, Nanking"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14734,
+   "output_tokens": 4414,
+   "thinking_tokens": 3255,
+   "cache_read_tokens": 0,
+   "total_tokens": 19148
+  },
+  "backend": "agy",
+  "seconds": 19.6,
+  "identifier": "japan-internal-affairs-894.20294a-military-affairs-army",
+  "file": "894.20294A Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Formosa. Taiwan Including Gathering Of Information. Espionage. Propaganda. 1625.pdf",
+  "created": "2026-09-29 03:12:50"
+ }
+}

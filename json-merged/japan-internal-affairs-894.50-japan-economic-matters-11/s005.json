@@ -1,0 +1,954 @@
+{
+ "section_summary": "This section continues a confidential economic survey of Japan, evaluating the country’s dependence on foreign supplies of animal products, fibers, chemicals, fertilizers, timber, petroleum, and strategic metals, with particular attention to the likely effectiveness of embargoes. It then examines mining, heavy industry, manufacturing, electric power, and foreign trade, emphasizing the requirements of Japan’s war economy and its continuing dependence on the United States, the British Empire, and Southeast Asia. The final pages survey Japan’s strained rail, road, and maritime transportation systems and merchant fleet.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper",
+    "Japanese Empire",
+    "Nippon"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "occupied areas of China",
+    "occupied China",
+    "unoccupied parts of China",
+    "Occupied China",
+    "North China"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "USA",
+    "America"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "Argentine"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Empire"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "Western Hemisphere"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "North Manchuria",
+    "South Manchuria",
+    "North Manchurian fields"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa",
+    "Union of South Africa"
+   ]
+  },
+  {
+   "name": "Asian mainland",
+   "variants": [
+    "Asiatic Mainland"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America",
+    "Latin American countries",
+    "Latin-American countries"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Russia"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czecho-Slovakia"
+   ]
+  },
+  {
+   "name": "Netherlands-controlled territories",
+   "variants": [
+    "Netherlands' controlled countries"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "British India",
+   "variants": [
+    "British India",
+    "India"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonin Islands"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "British Malaya",
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands' East Indies",
+    "Netherland's East Indies",
+    "Netherlands' Indies",
+    "Dutch Indies",
+    "Dutch East Indies",
+    "N.E.I.",
+    "NEI",
+    "the Indies"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "southeastern Asia",
+    "southeast Asia"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "Straits Settlements"
+   ]
+  },
+  {
+   "name": "British Borneo",
+   "variants": [
+    "British Borneo"
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "variants": [
+    "Nigeria"
+   ]
+  },
+  {
+   "name": "Democratic Republic of the Congo",
+   "variants": [
+    "Belgian Congo"
+   ]
+  },
+  {
+   "name": "French West Africa",
+   "variants": [
+    "French West Africa"
+   ]
+  },
+  {
+   "name": "South Pacific",
+   "variants": [
+    "south Pacific region"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "Japanese Oceania",
+    "Mandate Islands",
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Bandung",
+   "variants": [
+    "Bendoeng"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nicaragua"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "Tonkin",
+   "variants": [
+    "Tongking"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Northern Sakhalin"
+   ]
+  },
+  {
+   "name": "Karafuto (southern Sakhalin)",
+   "variants": [
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Northern Kyushu"
+   ]
+  },
+  {
+   "name": "Chikuhō Coalfield",
+   "variants": [
+    "Chikuko coal field"
+   ]
+  },
+  {
+   "name": "Miike Coalfield",
+   "variants": [
+    "Miike coal field"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun mine"
+   ]
+  },
+  {
+   "name": "Kaiping",
+   "variants": [
+    "Kaiping mines"
+   ]
+  },
+  {
+   "name": "Daye Mine",
+   "variants": [
+    "Tayeh mine"
+   ]
+  },
+  {
+   "name": "Johor",
+   "variants": [
+    "Johore"
+   ]
+  },
+  {
+   "name": "Terengganu",
+   "variants": [
+    "Trengganu"
+   ]
+  },
+  {
+   "name": "Malay Peninsula",
+   "variants": [
+    "Malayan peninsula"
+   ]
+  },
+  {
+   "name": "Hainan Island",
+   "variants": [
+    "Hainan Islands"
+   ]
+  },
+  {
+   "name": "Guerrero",
+   "variants": [
+    "state of Guerrero"
+   ]
+  },
+  {
+   "name": "Taxco",
+   "variants": [
+    "Taxco"
+   ]
+  },
+  {
+   "name": "Mount Ōe",
+   "variants": [
+    "Oye-yama"
+   ]
+  },
+  {
+   "name": "New Caledonia",
+   "variants": [
+    "New Caledonia"
+   ]
+  },
+  {
+   "name": "Madagascar",
+   "variants": [
+    "Madagascar"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "Toamasina",
+   "variants": [
+    "Tamatave"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kwanto"
+   ]
+  },
+  {
+   "name": "Tone River",
+   "variants": [
+    "Tone"
+   ]
+  },
+  {
+   "name": "Sagami River",
+   "variants": [
+    "Sagami"
+   ]
+  },
+  {
+   "name": "Sakawa River",
+   "variants": [
+    "Sakao"
+   ]
+  },
+  {
+   "name": "Fuji River",
+   "variants": [
+    "Fuji"
+   ]
+  },
+  {
+   "name": "Chūbu",
+   "variants": [
+    "Chubu"
+   ]
+  },
+  {
+   "name": "Ōi River",
+   "variants": [
+    "0-i"
+   ]
+  },
+  {
+   "name": "Tenryū River",
+   "variants": [
+    "Tenryu"
+   ]
+  },
+  {
+   "name": "Yahagi River",
+   "variants": [
+    "Yahagi"
+   ]
+  },
+  {
+   "name": "Kiso River",
+   "variants": [
+    "Kiso"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki"
+   ]
+  },
+  {
+   "name": "Kumano River",
+   "variants": [
+    "Kumano"
+   ]
+  },
+  {
+   "name": "Hidaka River",
+   "variants": [
+    "Hidaka"
+   ]
+  },
+  {
+   "name": "Yodo River",
+   "variants": [
+    "Yodo"
+   ]
+  },
+  {
+   "name": "Shin'etsu",
+   "variants": [
+    "Shin-etsu"
+   ]
+  },
+  {
+   "name": "Agano River",
+   "variants": [
+    "Agano"
+   ]
+  },
+  {
+   "name": "Shinano River",
+   "variants": [
+    "Shinano"
+   ]
+  },
+  {
+   "name": "Seki River",
+   "variants": [
+    "Seki"
+   ]
+  },
+  {
+   "name": "Hime River",
+   "variants": [
+    "Hime"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kitakami River",
+   "variants": [
+    "Kitakami"
+   ]
+  },
+  {
+   "name": "Abukuma River",
+   "variants": [
+    "Abukuma"
+   ]
+  },
+  {
+   "name": "Yoneshiro River",
+   "variants": [
+    "Hoshiro"
+   ]
+  },
+  {
+   "name": "Mogami River",
+   "variants": [
+    "iiogami"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Yoshino River",
+   "variants": [
+    "Yoshino"
+   ]
+  },
+  {
+   "name": "Niyodo River",
+   "variants": [
+    "Niyodo"
+   ]
+  },
+  {
+   "name": "Gokase River",
+   "variants": [
+    "Gokase"
+   ]
+  },
+  {
+   "name": "Ōyodo River",
+   "variants": [
+    "Oyodo"
+   ]
+  },
+  {
+   "name": "Sendai River",
+   "variants": [
+    "Sennai"
+   ]
+  },
+  {
+   "name": "Kuma River",
+   "variants": [
+    "Tama"
+   ]
+  },
+  {
+   "name": "Chikugo River",
+   "variants": [
+    "Chikugo"
+   ]
+  },
+  {
+   "name": "Akan River",
+   "variants": [
+    "Akan"
+   ]
+  },
+  {
+   "name": "Shiribetsu River",
+   "variants": [
+    "Shiribetsu"
+   ]
+  },
+  {
+   "name": "Ishikari River",
+   "variants": [
+    "Ishikari"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Uji River",
+   "variants": [
+    "Ujigawa"
+   ]
+  },
+  {
+   "name": "San'yō region",
+   "variants": [
+    "Sanyo"
+   ]
+  },
+  {
+   "name": "Kansai region",
+   "variants": [
+    "Kwansei"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Prefecture"
+   ]
+  },
+  {
+   "name": "Chūgoku region",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Americas",
+   "variants": [
+    "Americas"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Eastern Asia"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America"
+   ]
+  },
+  {
+   "name": "Oceania",
+   "variants": [
+    "Oceania"
+   ]
+  },
+  {
+   "name": "Yen Bloc",
+   "variants": [
+    "Yen-bloc countries",
+    "Yen Bloc Area",
+    "yen bloc",
+    "yen-bloc areas"
+   ]
+  },
+  {
+   "name": "Free Exchange Areas",
+   "variants": [
+    "Free Exchange Areas",
+    "free areas",
+    "free trade areas"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egyptian"
+   ]
+  },
+  {
+   "name": "Great East Asia Co-Prosperity Sphere",
+   "variants": [
+    "Great East Asia co-prosperity sphere"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Hikoshima",
+   "variants": [
+    "Hikoshima"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Moji, Kitakyushu",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "East Asian coast",
+   "variants": [
+    "Eastern coast of Asia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Federico Deschamps",
+   "role": "Owner of the Mexican fluorspar deposit near Taxco who contracted with the Compania Internacional de Comercio.",
+   "variants": [
+    "Sr. Federico Deschamps",
+    "Deschamps"
+   ]
+  },
+  {
+   "name": "Shidehara",
+   "role": "Proponent of the plan for peaceful development of Japan's international trade mentioned in the report.",
+   "variants": [
+    "Shidehara"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese war economy",
+  "strategic raw materials",
+  "economic embargoes",
+  "foreign dependence",
+  "petroleum",
+  "iron and steel",
+  "manufacturing",
+  "foreign trade",
+  "electric power",
+  "transportation",
+  "merchant marine",
+  "economic sanctions"
+ ],
+ "subfiles": [
+  {
+   "title": "Japan—Economic: confidential survey of resources, industry, trade, and transportation",
+   "doc_type": "Confidential economic report",
+   "start_page": 274,
+   "end_page": 312,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A strategic survey assesses Japan's material resources, industrial capacity, foreign trade, and transportation, emphasizing vulnerabilities to coordinated embargoes.",
+   "summary": "The report continues its commodity-by-commodity assessment with hides, wool, asbestos, jute, rubber, silk, cotton, oils, chemicals, fertilizers, timber, and other materials, frequently comparing Japanese requirements with foreign sources of supply. It then analyzes petroleum, coal, iron and steel, aluminum, copper, nickel, and other strategic minerals, identifying imports whose interruption could constrain military production. Later sections describe wartime changes in manufacturing, electric-power shortages, machinery and munitions production, and Japan's shifting trade toward the Yen Bloc while remaining dependent on free-exchange countries. The concluding pages describe overburdened railways, fuel-starved road transport, shipbuilding, the merchant marine, dockyards, ports, and changing Asian trade routes.",
+   "keywords": [
+    "strategic materials",
+    "embargo policy",
+    "Japanese industry",
+    "mineral resources",
+    "petroleum supplies",
+    "iron and steel",
+    "wartime manufacturing",
+    "foreign trade",
+    "Yen Bloc",
+    "railways",
+    "shipping",
+    "merchant marine"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 8,
+  "pages": [
+   274,
+   312
+  ],
+  "pdf": "894.50 Japan, Economic Matters., February 15, 1940 - June 3, 1942 1351.pdf",
+  "seconds": 282.4,
+  "created": "2026-10-03 22:03:49",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-11"
+ }
+}

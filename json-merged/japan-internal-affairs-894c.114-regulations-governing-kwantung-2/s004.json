@@ -1,0 +1,2425 @@
+{
+ "section_summary": "This section begins with the conclusion of a consular report on the Kwantung Government’s 1933–34 budget, including opium-monopoly revenue and expenditures connected with Japanese activities in Manchuria. Most of the section concerns narcotics regulation, surveillance, prosecutions, clandestine morphine and heroin factories, suspected international smugglers, and the notably light sentences imposed by Dairen courts. It also contains the 1933 South Manchuria Railway Zone opium ordinance and later Treasury intelligence reports on drug factories, shipping routes, opium shops, and opium revenues in Manchuria and southwestern China.",
+ "places": [
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwontung",
+    "Kwentung",
+    "Kwantunt",
+    "Kwantung",
+    "Kwantung Territory",
+    "Kwantung Loased Territory",
+    "Kwantung Leased Terri-tory"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen",
+    "Dairem",
+    "Deiren",
+    "Lairen",
+    "Lriren",
+    "Dairam",
+    "Lairea",
+    "DAIPEN",
+    "Juria"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "South Manchuria Railway Areas",
+    "South Manchuria Railway Ares",
+    "South Manchuria Railway Zone",
+    "Railway Areas",
+    "Railway Area",
+    "Railway Zone",
+    "S. M. R. areas"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurie",
+    "Manohuria",
+    "Manohurie",
+    "Manehuria",
+    "Masekuria",
+    "South Manchuria"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Ssupingkui"
+   ]
+  },
+  {
+   "name": "Pulandian",
+   "variants": [
+    "Pulentien"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Koreu",
+    "Korean ports",
+    "Korks"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Chun chun",
+    "Chung-chun",
+    "Hsinching",
+    "Changchun",
+    "Changehun",
+    "OHANGCHUN"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden",
+    "Wukden",
+    "ukden",
+    "ueahdem"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin",
+    "Herbin",
+    "Harbid",
+    "WARBIN"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Bast"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Burope",
+    "kurope"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shanghal",
+    "Shangha1",
+    "Shanchai",
+    "Shanghei",
+    "shenghai"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "Timmtsin",
+    "Tiemtsin",
+    "fientsin",
+    "T1entsin"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Londen"
+   ]
+  },
+  {
+   "name": "Leipzig",
+   "variants": [
+    "Leipais"
+   ]
+  },
+  {
+   "name": "Istanbul",
+   "variants": [
+    "Stambul"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Cachan",
+   "variants": [
+    "Cacham"
+   ]
+  },
+  {
+   "name": "Białystok",
+   "variants": [
+    "Bialystok",
+    "Bialostoohanski"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Hamburg",
+   "variants": [
+    "Hamburg",
+    "Hanburg"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los ngeles",
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Port Arthur",
+   "variants": [
+    "Port rthur",
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "China proper"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Manohukuo",
+    "Manchoukou"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kokusekisho",
+   "variants": [
+    "Kokusekisho"
+   ]
+  },
+  {
+   "name": "Sishantun district",
+   "variants": [
+    "Sishantun distriot"
+   ]
+  },
+  {
+   "name": "Moiji orchard",
+   "variants": [
+    "Moiji orohard"
+   ]
+  },
+  {
+   "name": "Manchester",
+   "variants": [
+    "Manchester",
+    "Manohester"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England",
+    "kngland"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao",
+    "Taingtao",
+    "rsingtau"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United tates",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washinton, D. C.",
+    "Weshimgton, D. C."
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Fuxian County",
+   "variants": [
+    "Fu-hsien"
+   ]
+  },
+  {
+   "name": "Fengtian Province",
+   "variants": [
+    "Fengtien"
+   ]
+  },
+  {
+   "name": "Yantai",
+   "variants": [
+    "Chefoo",
+    "Chofoo"
+   ]
+  },
+  {
+   "name": "Yingkou",
+   "variants": [
+    "Yingkow"
+   ]
+  },
+  {
+   "name": "Yangtze Valley",
+   "variants": [
+    "Yangtze Valley"
+   ]
+  },
+  {
+   "name": "Black Sea",
+   "variants": [
+    "Black Sea"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vlaaivostek"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "USSR"
+   ]
+  },
+  {
+   "name": "Persia",
+   "variants": [
+    "Persian"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China",
+    "North China Province"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung"
+   ]
+  },
+  {
+   "name": "Antung",
+   "variants": [
+    "Antung"
+   ]
+  },
+  {
+   "name": "Dashiqiao",
+   "variants": [
+    "Ta-Shih-Chiao"
+   ]
+  },
+  {
+   "name": "Gaizhou",
+   "variants": [
+    "Kai-Ping"
+   ]
+  },
+  {
+   "name": "Haicheng",
+   "variants": [
+    "Hai-cheng"
+   ]
+  },
+  {
+   "name": "Zhuanghe",
+   "variants": [
+    "Chwang-o"
+   ]
+  },
+  {
+   "name": "Dagushan",
+   "variants": [
+    "Ta-ku-Shan"
+   ]
+  },
+  {
+   "name": "Longkou",
+   "variants": [
+    "Lungkow"
+   ]
+  },
+  {
+   "name": "Weihai",
+   "variants": [
+    "eihaiwei"
+   ]
+  },
+  {
+   "name": "Shidao",
+   "variants": [
+    "Shih-tao"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Laohutan",
+   "variants": [
+    "Lau-hu-tan village"
+   ]
+  },
+  {
+   "name": "Sanbutou",
+   "variants": [
+    "anbutou"
+   ]
+  },
+  {
+   "name": "Changchun Japanese Concession",
+   "variants": [
+    "Japanese Coneession"
+   ]
+  },
+  {
+   "name": "Zunyi",
+   "variants": [
+    "Tsunyi",
+    "Tounyi",
+    "sumyi",
+    "Teunyi"
+   ]
+  },
+  {
+   "name": "Guizhou",
+   "variants": [
+    "Kweichow",
+    "Weichow",
+    "Weiehow",
+    "weishew",
+    "kweiehow"
+   ]
+  },
+  {
+   "name": "Sichuan",
+   "variants": [
+    "Szechuen",
+    "Ssechuen",
+    "sseohmen",
+    "sechuen"
+   ]
+  },
+  {
+   "name": "Wujiang",
+   "variants": [
+    "Ukiang"
+   ]
+  },
+  {
+   "name": "Qijiang",
+   "variants": [
+    "Kikiems"
+   ]
+  },
+  {
+   "name": "Southwest China",
+   "variants": [
+    "Southwest"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "John Carter Vincent",
+   "role": "American Consul at Dairen",
+   "variants": [
+    "John Carter Vincent",
+    "John Carter Vineent",
+    "John Carter Vinoent"
+   ]
+  },
+  {
+   "name": "M. R. Nicholson",
+   "role": "United States Treasury Attaché at Shanghai",
+   "variants": [
+    "M. R. Nicholson",
+    "M. R. Mieholson",
+    "M. R. Michalson",
+    "Mr. M. R. Nicholson",
+    "Mr. M. R. Mieholson",
+    "Mr. Nicholson",
+    "M. R. NICHOLSON",
+    "M. R. Hicholson",
+    "M. R.Tcustion"
+   ]
+  },
+  {
+   "name": "Devineau",
+   "role": "Frenchman formerly described as a leader of a European narcotics group",
+   "variants": [
+    "Devineau"
+   ]
+  },
+  {
+   "name": "Phillip Shifman",
+   "role": "suspected narcotics trafficker",
+   "variants": [
+    "Phillip Shifman",
+    "Shifman",
+    "F. V. Sehiehmamm"
+   ]
+  },
+  {
+   "name": "Beerbrayer",
+   "role": "Dairen forwarding and import agent and representative of the China Fur Trading Company",
+   "variants": [
+    "Beerbrayer",
+    "Begrbrayer"
+   ]
+  },
+  {
+   "name": "Gourevitch",
+   "role": "suspected associate traveling between Dairen and Tientsin",
+   "variants": [
+    "Gourevitch",
+    "doureviteh",
+    "Gourevitoh"
+   ]
+  },
+  {
+   "name": "Vladimir Kapustin",
+   "role": "suspected associate and son of Grégoire Kapustin",
+   "variants": [
+    "young Kapustin",
+    "young Vladimir Kapustin",
+    "Vladimir Kapustin"
+   ]
+  },
+  {
+   "name": "M. Podliatschuk",
+   "role": "suspected smuggler",
+   "variants": [
+    "M. Podliasehuk",
+    "M. Podliatschuk",
+    "M. Podliaschat",
+    "Podliatachuk"
+   ]
+  },
+  {
+   "name": "Shamansky",
+   "role": "Harbin merchant and alleged associate of Shifman",
+   "variants": [
+    "Shamansiy"
+   ]
+  },
+  {
+   "name": "Eliepoulos",
+   "role": "person whose narcotics case implicated Beerbrayer",
+   "variants": [
+    "Eliepoulos"
+   ]
+  },
+  {
+   "name": "Oda",
+   "role": "judge in the Bacri–Takushima case",
+   "variants": [
+    "Judge Oda"
+   ]
+  },
+  {
+   "name": "Henry Bacri",
+   "role": "French defendant in the Bacri–Takushima narcotics case",
+   "variants": [
+    "Baori",
+    "Bacri",
+    "Beori",
+    "Henry Baori"
+   ]
+  },
+  {
+   "name": "Takushima",
+   "role": "defendant in the Bacri–Takushima narcotics case",
+   "variants": [
+    "Takushima",
+    "Talushime"
+   ]
+  },
+  {
+   "name": "George Israel Tribe",
+   "role": "naturalized American defendant in the Bacri–Takushima case",
+   "variants": [
+    "George Tribe",
+    "Tribe",
+    "George Israel Tribe"
+   ]
+  },
+  {
+   "name": "Jacob Lelchitsky",
+   "role": "defendant fined in the Bacri–Takushima case",
+   "variants": [
+    "Jacob Lelohitsky",
+    "Lelohitsky"
+   ]
+  },
+  {
+   "name": "Boris Bogdanovsky",
+   "role": "defendant in the Bacri–Takushima case whose notebook contained suspected traffickers’ addresses",
+   "variants": [
+    "Boris Bogdanovsky",
+    "Bogdanovsky",
+    "Boris Bosdanovsly",
+    "Boris Bogdanovsi"
+   ]
+  },
+  {
+   "name": "Nison Granevsky",
+   "role": "White Russian defendant in the Bacri–Takushima case",
+   "variants": [
+    "Nison Granevsky",
+    "Granevsky"
+   ]
+  },
+  {
+   "name": "A. Abramovitch Galota",
+   "role": "White Russian contact listed in Bogdanovsky’s notebook",
+   "variants": [
+    "A. Abramovitch Galota"
+   ]
+  },
+  {
+   "name": "Mehmed Ali Pacha",
+   "role": "contact in Istanbul listed in Bogdanovsky’s notebook",
+   "variants": [
+    "Mehmed Ali Pacha"
+   ]
+  },
+  {
+   "name": "S. W. Lulkin",
+   "role": "Russian-American insurance agent in Harbin",
+   "variants": [
+    "8. W. Lulkin",
+    "S. W. Lulkin"
+   ]
+  },
+  {
+   "name": "Kosterianitz",
+   "role": "White Russian insurance agent in Harbin",
+   "variants": [
+    "Kosterianitz"
+   ]
+  },
+  {
+   "name": "D. Schreier",
+   "role": "German silk exporter and importer",
+   "variants": [
+    "D. Schreier",
+    "D. Sohreier"
+   ]
+  },
+  {
+   "name": "Monegi Inouye",
+   "role": "Japanese contact in Tientsin",
+   "variants": [
+    "Monegi Inouye"
+   ]
+  },
+  {
+   "name": "Minkofsky",
+   "role": "motion-picture broker in Paris",
+   "variants": [
+    "Minkofsky"
+   ]
+  },
+  {
+   "name": "Andre Christoff",
+   "role": "French wine merchant in Paris",
+   "variants": [
+    "Andre Christoff"
+   ]
+  },
+  {
+   "name": "Louis Lyon",
+   "role": "Paris contact and suspected trafficker",
+   "variants": [
+    "Louis Lyon"
+   ]
+  },
+  {
+   "name": "D. Shviriansky",
+   "role": "French contact and suspected trafficker",
+   "variants": [
+    "D. Shviriansky",
+    "Shviriansky"
+   ]
+  },
+  {
+   "name": "Strikovsky",
+   "role": "Polish clothing dealer and suspected trafficker",
+   "variants": [
+    "Strikovaky",
+    "Strikovsky"
+   ]
+  },
+  {
+   "name": "S. Brinberg",
+   "role": "suspected smuggler also known as Breenberg or Senka Kosoi",
+   "variants": [
+    "8. Brinberg",
+    "S. Brinberg",
+    "Brinberg",
+    "Breenberg",
+    "Senka Kosoi"
+   ]
+  },
+  {
+   "name": "F. Dobrenko",
+   "role": "White Russian woman operating or residing at a Shanghai boarding house",
+   "variants": [
+    "F. Dobrenko, Miss"
+   ]
+  },
+  {
+   "name": "Gerthart West Hey",
+   "role": "German contact in Hamburg",
+   "variants": [
+    "Gerthart est Hey"
+   ]
+  },
+  {
+   "name": "A. Rubinstein",
+   "role": "White Russian grocery-store operator in Peiping",
+   "variants": [
+    "A. Rubinstein"
+   ]
+  },
+  {
+   "name": "A. Gudasin",
+   "role": "contact in Tientsin",
+   "variants": [
+    "A. Gudasin"
+   ]
+  },
+  {
+   "name": "Dobrenko",
+   "role": "White Russian candy manufacturer in Shanghai",
+   "variants": [
+    "Dobrenko"
+   ]
+  },
+  {
+   "name": "G. Rubinnauut",
+   "role": "Polish contact in Harbin",
+   "variants": [
+    "G. Rubinnauut"
+   ]
+  },
+  {
+   "name": "Tesmenitsky",
+   "role": "White Russian shoe-store operator and Bogdanovsky’s brother-in-law",
+   "variants": [
+    "Tesmenitaky",
+    "Tesmenitaky"
+   ]
+  },
+  {
+   "name": "Alexander Goldberg",
+   "role": "Polish contact in Shanghai",
+   "variants": [
+    "Alexander Goldbery"
+   ]
+  },
+  {
+   "name": "Baradafkin",
+   "role": "White Russian wine merchant in Shanghai",
+   "variants": [
+    "Baradafkin"
+   ]
+  },
+  {
+   "name": "Abramovitch",
+   "role": "Serbian insurance agent in Shanghai",
+   "variants": [
+    "Abramovitoh",
+    "Abramovitch"
+   ]
+  },
+  {
+   "name": "Katcheretz",
+   "role": "White Russian insurance agent in Shanghai",
+   "variants": [
+    "Katcheretz"
+   ]
+  },
+  {
+   "name": "Zachary P. Bogart",
+   "role": "American in Los Angeles and brother of Boris Bogdanovsky",
+   "variants": [
+    "Z. Bogart",
+    "Bogart,ZacharyP.",
+    "r. Bogart"
+   ]
+  },
+  {
+   "name": "Lurie",
+   "role": "White Russian broker in Shanghai",
+   "variants": [
+    "Lurie"
+   ]
+  },
+  {
+   "name": "Solovey",
+   "role": "White Russian skin and fur merchant in Dairen",
+   "variants": [
+    "Solovey"
+   ]
+  },
+  {
+   "name": "L. Berkovitch",
+   "role": "White Russian contact in Harbin",
+   "variants": [
+    "L. Berkovitch"
+   ]
+  },
+  {
+   "name": "Obgoff",
+   "role": "White Russian merchant in Harbin",
+   "variants": [
+    "Obgoff"
+   ]
+  },
+  {
+   "name": "Orgelick",
+   "role": "White Russian merchant in Shanghai",
+   "variants": [
+    "Orgelick"
+   ]
+  },
+  {
+   "name": "Orshefsky",
+   "role": "White Russian commission merchant in Harbin",
+   "variants": [
+    "Orshefsky"
+   ]
+  },
+  {
+   "name": "B. F. Schner",
+   "role": "Polish contact in Harbin",
+   "variants": [
+    "B. F. Schner"
+   ]
+  },
+  {
+   "name": "Esther Bogdanovsky",
+   "role": "sister of Zachary P. Bogart seeking a United States visa",
+   "variants": [
+    "Bogdanovsly.Esther",
+    "isther Bogdanovsky",
+    "Esther Bogdanovsky"
+   ]
+  },
+  {
+   "name": "Naum",
+   "role": "son of Esther Bogdanovsky seeking a United States visa",
+   "variants": [
+    "Naum"
+   ]
+  },
+  {
+   "name": "Hanson",
+   "role": "reporting officer at Harbin named on a cross-reference sheet",
+   "variants": [
+    "Hanson"
+   ]
+  },
+  {
+   "name": "Nobuyoshi Muto",
+   "role": "Governor of Kwantung",
+   "variants": [
+    "Nobuyoshi Muto"
+   ]
+  },
+  {
+   "name": "Langdon",
+   "role": "United States consul who had previously reported on the Shirakawa case",
+   "variants": [
+    "Consul Langdon"
+   ]
+  },
+  {
+   "name": "Fujisaki",
+   "role": "Chief Justice of the Supreme Court at Port Arthur",
+   "variants": [
+    "Chief Justice Fujisaki",
+    "Fujisaki"
+   ]
+  },
+  {
+   "name": "Yasuda",
+   "role": "Associate Justice in the Shirakawa retrial",
+   "variants": [
+    "Yasuda"
+   ]
+  },
+  {
+   "name": "Tanaka",
+   "role": "Associate Justice in the Shirakawa retrial",
+   "variants": [
+    "Tanaka"
+   ]
+  },
+  {
+   "name": "T. Shirakawa",
+   "role": "principal defendant in the Shirakawa Benzolin Case",
+   "variants": [
+    "T. SHIRAKAWA",
+    "T. Shirakawa",
+    "Shirakawa"
+   ]
+  },
+  {
+   "name": "M. Kawai",
+   "role": "Kwantung Government official convicted in the Shirakawa case",
+   "variants": [
+    "M. KAWAI",
+    "Kawai"
+   ]
+  },
+  {
+   "name": "S. Komatsu",
+   "role": "defendant in the Shirakawa and eogonine cases",
+   "variants": [
+    "S. KOMATSU",
+    "KOMATSU",
+    "KOMATSU, Shigeru",
+    "Komatsu Shigeru"
+   ]
+  },
+  {
+   "name": "S. Tani",
+   "role": "defendant in the Shirakawa and eogonine cases and member of Sandai Pharmacy",
+   "variants": [
+    "8. TANI",
+    "TANI",
+    "TANI, Sutokichi",
+    "Tani Sutokichi"
+   ]
+  },
+  {
+   "name": "T. Kanaura",
+   "role": "defendant in the Shirakawa case",
+   "variants": [
+    "T. KANAURA"
+   ]
+  },
+  {
+   "name": "Kamano",
+   "role": "defendant named in the Shirakawa judgment",
+   "variants": [
+    "KAMANO"
+   ]
+  },
+  {
+   "name": "Suzuki",
+   "role": "defendant in the Shirakawa case",
+   "variants": [
+    "SUZdKI",
+    "Suzuki"
+   ]
+  },
+  {
+   "name": "Kanakami",
+   "role": "defendant in the Shirakawa case",
+   "variants": [
+    "KANAKAMI"
+   ]
+  },
+  {
+   "name": "Yorezawa",
+   "role": "defendant in the Shirakawa case",
+   "variants": [
+    "YOREZAWA"
+   ]
+  },
+  {
+   "name": "Mitsuyoshi Torii",
+   "role": "repeatedly convicted operator of illicit morphine plants in Dairen",
+   "variants": [
+    "Mitsuyoshi ToRII",
+    "Mitsuyoshi Torii",
+    "TORII, Mitsuyoshi",
+    "TORII",
+    "Torii"
+   ]
+  },
+  {
+   "name": "Kosaku Kihara",
+   "role": "assistant injured while manufacturing morphine",
+   "variants": [
+    "Kosaku KIHARA",
+    "KIHARA, Kosaku",
+    "Kihara",
+    "kihara"
+   ]
+  },
+  {
+   "name": "Fuyuo Negishi",
+   "role": "assistant fatally burned in a morphine-plant explosion",
+   "variants": [
+    "Fuyuo NEGISHI",
+    "NEGISHI",
+    "Negishi"
+   ]
+  },
+  {
+   "name": "Kiyoshi Inuizawa",
+   "role": "accomplice who committed suicide after the morphine-plant discovery",
+   "variants": [
+    "Kiyoshi INUIZaW"
+   ]
+  },
+  {
+   "name": "Yu Chin-yan",
+   "role": "Chinese accomplice who escaped from the morphine plant",
+   "variants": [
+    "Yu Chin-yan",
+    "Yu"
+   ]
+  },
+  {
+   "name": "Sanzo Kuwata",
+   "role": "member of the group purchasing raw materials for a morphine plant",
+   "variants": [
+    "Sanzo KUwATA",
+    "KUWATA, SanZo"
+   ]
+  },
+  {
+   "name": "Tamiya",
+   "role": "intended recipient in Osaka of smuggled eogonine",
+   "variants": [
+    "Tamiya"
+   ]
+  },
+  {
+   "name": "Kisaburo Omasa",
+   "role": "Dairen resident convicted in the eogonine-smuggling case",
+   "variants": [
+    "Kisaburo Omase",
+    "OMASA, KisaburO",
+    "Omasa",
+    "OMASA"
+   ]
+  },
+  {
+   "name": "Iseki",
+   "role": "procurator in the eogonine case",
+   "variants": [
+    "Proourator Iseki",
+    "Iseki"
+   ]
+  },
+  {
+   "name": "Yosakei Kamano",
+   "role": "defendant in the eogonine case and participant in the Shirakawa case",
+   "variants": [
+    "KAMANO, Yosake1",
+    "KAMANO",
+    "KUMANO"
+   ]
+  },
+  {
+   "name": "Shigeru Komatsu",
+   "role": "defendant in the eogonine case",
+   "variants": [
+    "KOMATSU, Shigeru"
+   ]
+  },
+  {
+   "name": "Usaburo Fukuda",
+   "role": "defendant in the eogonine case",
+   "variants": [
+    "FUKUDA, Usaburo",
+    "FUKUDA"
+   ]
+  },
+  {
+   "name": "Biji Sudzuki",
+   "role": "eogonine-case accomplice who died before indictment",
+   "variants": [
+    "Biji Sudzuki"
+   ]
+  },
+  {
+   "name": "Kawabata",
+   "role": "judge of the Dairen Local Court in the eogonine case",
+   "variants": [
+    "Judge Kawabata",
+    "Kawabata"
+   ]
+  },
+  {
+   "name": "Takahashi",
+   "role": "judge of the Dairen Local Court who sentenced the morphine-plant defendants",
+   "variants": [
+    "Judge Takahashi"
+   ]
+  },
+  {
+   "name": "Matashiro Nakamura",
+   "role": "defendant connected with Torii’s morphine plant",
+   "variants": [
+    "NAKAMURA, Matashiro",
+    "NAKAMURA",
+    "NAKALURA"
+   ]
+  },
+  {
+   "name": "Liu Cha-tung",
+   "role": "Chinese employee of Torii convicted in the morphine-plant case",
+   "variants": [
+    "LIU, Cha-tung",
+    "LIU"
+   ]
+  },
+  {
+   "name": "Curt Smith",
+   "role": "person on the Narcotic Confidential List investigated during a visit to Dairen",
+   "variants": [
+    "Curt Smith",
+    "Curt Smi th",
+    "smith",
+    "Smith"
+   ]
+  },
+  {
+   "name": "Grégoire Kapustin",
+   "role": "person on the Narcotic Confidential List and father of Vladimir Kapustin",
+   "variants": [
+    "Grogoire Kapustin",
+    "old man Kapustin",
+    "Kapustin"
+   ]
+  },
+  {
+   "name": "H. Iribuch",
+   "role": "suspect reportedly on the Geneva narcotics blacklist",
+   "variants": [
+    "H. Iribuch",
+    "Iribuch",
+    "Tribuoh"
+   ]
+  },
+  {
+   "name": "Young",
+   "role": "National City Bank official who assisted Vincent’s investigation",
+   "variants": [
+    "Mr. Young"
+   ]
+  },
+  {
+   "name": "Edgar Barlow",
+   "role": "Manchester packer who drew a bill of exchange on Curt Smith",
+   "variants": [
+    "Bagar Barlow",
+    "sdgar Barlow",
+    "Edgar Barlow"
+   ]
+  },
+  {
+   "name": "Adolf Gleue",
+   "role": "drawer of a bill of exchange covering artificial fruit",
+   "variants": [
+    "dolph Gleue"
+   ]
+  },
+  {
+   "name": "R. M. Diatlovitsky",
+   "role": "Dairen forwarding agent and commission merchant associated with Curt Smith",
+   "variants": [
+    "n. M. Diatlovitaky",
+    "Diatlovitaky",
+    "Diatlovitsky"
+   ]
+  },
+  {
+   "name": "Bruno Haube",
+   "role": "German jeweler whose Dairen office was frequented by Curt Smith",
+   "variants": [
+    "Brumo Haube",
+    "Bruno Haube"
+   ]
+  },
+  {
+   "name": "Wertzel",
+   "role": "young German managing Bruno Haube’s Dairen office",
+   "variants": [
+    "Wertzel",
+    "wortzel"
+   ]
+  },
+  {
+   "name": "A. M. Sherell",
+   "role": "Russian forwarding agent seen with Curt Smith",
+   "variants": [
+    "a. M. sherell",
+    "Sherrel",
+    "sherell"
+   ]
+  },
+  {
+   "name": "Webbens",
+   "role": "manager of the Hansa restaurant in Dairen",
+   "variants": [
+    "Webbens"
+   ]
+  },
+  {
+   "name": "G. C. Schrbeck",
+   "role": "agent of the Rickmers Line in Dairen",
+   "variants": [
+    "G. C. Sohrbeok"
+   ]
+  },
+  {
+   "name": "Van Benschoten",
+   "role": "American vice consul who observed Smith’s associates",
+   "variants": [
+    "Van Bensohoten"
+   ]
+  },
+  {
+   "name": "Mrs. Kapustin",
+   "role": "wife of Grégoire Kapustin",
+   "variants": [
+    "Mrs. Kapustin"
+   ]
+  },
+  {
+   "name": "Cunningham",
+   "role": "sender of Shanghai Consulate General telegrams to Dairen",
+   "variants": [
+    "CUNNINGHAM"
+   ]
+  },
+  {
+   "name": "Stuart J. Fuller",
+   "role": "State Department official addressed in Treasury correspondence",
+   "variants": [
+    "Mr. Stuart J. Fuller",
+    "r. tuart J. Fuller",
+    "ir. Start . Paller"
+   ]
+  },
+  {
+   "name": "H. Charles Spruks",
+   "role": "State Department official addressed in Treasury correspondence",
+   "variants": [
+    "Mr. H. Charles Spruks"
+   ]
+  },
+  {
+   "name": "Chang Chien",
+   "role": "Treasury intelligence agent in Manchuria",
+   "variants": [
+    "Chang Chien",
+    "hang Chien",
+    "Chang Hien",
+    "Chang him"
+   ]
+  },
+  {
+   "name": "Sung Hai-shan",
+   "role": "agent sent to investigate narcotics factories in Dairen",
+   "variants": [
+    "Sung Hai-sk",
+    "suag Hai-sban",
+    "Sung Hai-shan"
+   ]
+  },
+  {
+   "name": "Wang Toh-yuan",
+   "role": "agent arrested by Japanese police while investigating in Dairen",
+   "variants": [
+    "ang Toh-yunm",
+    "an: Toh-Yuam",
+    "Wang Toh-yuan"
+   ]
+  },
+  {
+   "name": "Inoue Buyu",
+   "role": "alleged proprietor of a Dairen heroin factory",
+   "variants": [
+    "Inoue Buyu"
+   ]
+  },
+  {
+   "name": "Oda Kai Joh",
+   "role": "alleged proprietor of a Dairen morphine and heroin factory",
+   "variants": [
+    "Oda a1 joh"
+   ]
+  },
+  {
+   "name": "Houa Hisal",
+   "role": "alleged proprietor of a Dairen morphine and heroin factory",
+   "variants": [
+    "Houa Hisal"
+   ]
+  },
+  {
+   "name": "Nakamura",
+   "role": "alleged operator of a Dairen morphine factory described as being from Korea",
+   "variants": [
+    "Makemura",
+    "Nakamura"
+   ]
+  },
+  {
+   "name": "Kodayashi",
+   "role": "alleged proprietor of a Dairen morphine factory",
+   "variants": [
+    "Koday ghi",
+    "Kedagashi"
+   ]
+  },
+  {
+   "name": "Edson J. Shamhart",
+   "role": "Chief of the Bureau of Customs Division of Enforcement",
+   "variants": [
+    "EDSON J. SHAMHART"
+   ]
+  },
+  {
+   "name": "Christo E. Paizis",
+   "role": "stevedore for Greek steamships at Dairen",
+   "variants": [
+    "Christo E. Paizis"
+   ]
+  },
+  {
+   "name": "E. N. Vacakis",
+   "role": "stevedore for Greek steamships at Dairen",
+   "variants": [
+    "E. N. Vacakis"
+   ]
+  },
+  {
+   "name": "G. N. Vacakis",
+   "role": "stevedore for Greek steamships at Dairen",
+   "variants": [
+    "G. N. Vacakis"
+   ]
+  },
+  {
+   "name": "K. Mvridis",
+   "role": "Greek suspected smuggler visiting Dairen",
+   "variants": [
+    "K. Mvridis"
+   ]
+  },
+  {
+   "name": "C. Tziklidis",
+   "role": "Greek suspect visiting Dairen",
+   "variants": [
+    "C. Tziklidis"
+   ]
+  },
+  {
+   "name": "G. Panaidis",
+   "role": "suspected trafficker reported traveling from Dairen to Chefoo",
+   "variants": [
+    "G. Panaidis"
+   ]
+  },
+  {
+   "name": "A. Rosenbaum",
+   "role": "associate of S. Brinberg",
+   "variants": [
+    "A. Rosenbaum"
+   ]
+  },
+  {
+   "name": "Brandstatter",
+   "role": "leader of a smuggling gang formerly associated with Brinberg",
+   "variants": [
+    "Brandatatter"
+   ]
+  },
+  {
+   "name": "Stephen B. Gibbons",
+   "role": "Assistant Secretary of the Treasury",
+   "variants": [
+    "Ltephenblibbone"
+   ]
+  },
+  {
+   "name": "Imahashi",
+   "role": "alleged Japanese operator of a heroin factory in Dairen",
+   "variants": [
+    "Im ah shi"
+   ]
+  },
+  {
+   "name": "Matsuda",
+   "role": "alleged Japanese operator of a morphine and heroin factory in Dairen",
+   "variants": [
+    "atsuda"
+   ]
+  },
+  {
+   "name": "Tani",
+   "role": "alleged Japanese operator of a heroin factory reported in 1935",
+   "variants": [
+    "Tami",
+    "Tani"
+   ]
+  },
+  {
+   "name": "Kajida",
+   "role": "Japanese druggist allegedly operating a suburban Dairen narcotics factory",
+   "variants": [
+    "Kajida"
+   ]
+  },
+  {
+   "name": "Fujigatashi",
+   "role": "Japanese druggist allegedly operating a suburban Dairen narcotics factory",
+   "variants": [
+    "mjigatamhi"
+   ]
+  },
+  {
+   "name": "Watanabe",
+   "role": "Japanese druggist allegedly operating a suburban Dairen narcotics factory",
+   "variants": [
+    "Watanabe"
+   ]
+  },
+  {
+   "name": "Hoia Jih-seng",
+   "role": "Chinese operator of the Paiyodo Pharmacy narcotics factory",
+   "variants": [
+    "Roia Jih-seng"
+   ]
+  },
+  {
+   "name": "Chow Li-Chen",
+   "role": "general whose Guizhou and Sichuan campaigns were linked to Zunyi",
+   "variants": [
+    "General chow Li-Chen"
+   ]
+  },
+  {
+   "name": "Mao Kwang-hsiang",
+   "role": "general and head of the Guizhou army",
+   "variants": [
+    "General xmo wang-heiang",
+    "Generel Meo ang-hsiang"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "general whose tax collectors took control of Zunyi opium revenue",
+   "variants": [
+    "General Chiang Kai-hek"
+   ]
+  },
+  {
+   "name": "How Tse-tan",
+   "role": "general, divisional commander, and former chairman of the Guizhou Provincial Government",
+   "variants": [
+    "General ow e-tan",
+    "Generel How Tse-tan"
+   ]
+  },
+  {
+   "name": "Chiang Tsai-tsin",
+   "role": "commander of the First Division of the Twenty-fifth Army",
+   "variants": [
+    "Ceneral Chiang Taai-tsin"
+   ]
+  }
+ ],
+ "keywords": [
+  "Kwantung Government",
+  "opium monopoly",
+  "South Manchuria Railway Zone",
+  "Dairen narcotics traffic",
+  "morphine and heroin factories",
+  "international smuggling networks",
+  "narcotics surveillance",
+  "court prosecutions and sentencing",
+  "Treasury Attaché reports",
+  "opium shops",
+  "Manchukuo",
+  "Bacri–Takushima case"
+ ],
+ "subfiles": [
+  {
+   "title": "Kwantung Government budget and opium-monopoly finances",
+   "doc_type": "consular despatch",
+   "start_page": 233,
+   "end_page": 237,
+   "continues_previous": true,
+   "date": "",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Reports on the Kwantung Government’s revenue, expenditures, borrowing, opium-monopoly income, and spending connected with Japanese activities in Manchuria.",
+   "summary": "The report compares the 1931–34 budgets and argues that the Kwantung Government was largely self-supporting when expenditures on South Manchuria Railway policing are treated as extra-territorial. It discusses concealed or separately remitted income from the opium monopoly and details extraordinary appropriations for aviation, salt production, communications, police armament, and aid to the railway company. Vincent concludes that the budget reflects the overlapping functions of the Kwantung Government, Kwantung Army, and South Manchuria Railway Company.",
+   "keywords": [
+    "Kwantung budget",
+    "opium revenue",
+    "public borrowing",
+    "South Manchuria Railway",
+    "police expenditure",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Letter on movements of suspected narcotics traffickers",
+   "doc_type": "confidential letter",
+   "start_page": 238,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1933-05-04",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "M. R. Nicholson, United States Treasury Attaché at Shanghai",
+   "about": "Reports the travel and financial activities of Devineau, Shifman, Beerbrayer, Gourevitch, Kapustin, Podliatschuk, and other suspected traffickers.",
+   "summary": "Vincent reports that Japanese police expected Devineau to arrive in Dairen and describes increased travel between Dairen, Kobe, Tientsin, and Shanghai following Shifman’s return. He gives a detailed account of Beerbrayer’s unusual sterling transactions through the Hongkong and Shanghai Banking Corporation. The British consul suspected that these transactions were connected with narcotics trafficking and noted Beerbrayer’s appearance in the Eliepoulos disclosures.",
+   "keywords": [
+    "suspected traffickers",
+    "travel surveillance",
+    "Beerbrayer",
+    "foreign exchange",
+    "Dairen",
+    "Tientsin"
+   ]
+  },
+  {
+   "title": "Baori–Takushima narcotics case and Bogdanovsky notebook",
+   "doc_type": "consular despatch",
+   "start_page": 242,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1933-05-20",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Updates the Bacri–Takushima prosecution and transcribes names and addresses found in Boris Bogdanovsky’s notebook.",
+   "summary": "Vincent reviews the original sentences, the procurator’s appeal, repeated delays in retrial, Bacri’s escape, and Bogdanovsky’s brief arrest on returning to Dairen. Police seized a notebook listing contacts across Harbin, Tientsin, Shanghai, Paris, Berlin, Hamburg, Peiping, and Los Angeles. Vincent observes that several names also appeared on the Department’s alien-suspect list, making the notebook potentially incriminating.",
+   "keywords": [
+    "Bacri–Takushima case",
+    "Bogdanovsky",
+    "address book",
+    "alien suspects",
+    "narcotics network",
+    "Dairen"
+   ]
+  },
+  {
+   "title": "Regulations for the Control of Opium in the South Manchuria Railway Areas",
+   "doc_type": "consular despatch",
+   "start_page": 247,
+   "end_page": 249,
+   "continues_previous": false,
+   "date": "1933-05-15",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Transmits and interprets the new Kwantung ordinance extending opium controls and the monopoly system into the South Manchuria Railway areas.",
+   "summary": "Vincent explains that the regulations, effective May 10, were intended to extend the Kwantung Government Opium Monopoly Bureau’s operations into the railway zone. He compares them with the more detailed Kwantung Leased Territory rules and with the recently promulgated Manchukuo opium law. He interprets the change as technically significant evidence of expanding Japanese jurisdiction following the events of September 1931.",
+   "keywords": [
+    "opium regulations",
+    "South Manchuria Railway",
+    "Kwantung jurisdiction",
+    "Manchukuo",
+    "opium monopoly"
+   ]
+  },
+  {
+   "title": "Kwantung Government Ordinance No. 14: Regulations for the Control of Opium in the South Manchuria Railway Zone",
+   "doc_type": "translated ordinance",
+   "start_page": 250,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1933-04-25",
+   "from": "Nobuyoshi Muto, Governor of Kwantung",
+   "to": "Residents and officials of the South Manchuria Railway Zone",
+   "about": "Defines the licensing, sale, possession, inspection, and punishment regime for opium in the railway zone.",
+   "summary": "The ordinance prohibits opium smoking except for licensed confirmed adult smokers and reserves raw-opium distribution to the government. It regulates retail dealers, manufacturers, purchase limits, sales records, inspections, poppy cultivation, and disposition of remaining stocks. Violations are punishable by detention or fine, and the ordinance took effect on May 10, 1933.",
+   "keywords": [
+    "Ordinance No. 14",
+    "licensed smokers",
+    "retail dealers",
+    "Opium Monopoly Bureau",
+    "inspection",
+    "penalties"
+   ]
+  },
+  {
+   "title": "Transmittal of the Baori–Takushima case report to the Bureau of Narcotics",
+   "doc_type": "departmental transmittal",
+   "start_page": 254,
+   "end_page": 254,
+   "continues_previous": false,
+   "date": "1933-06-16",
+   "from": "Acting Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards Dairen despatch No. 41 concerning the Bacri–Takushima case and Bogdanovsky’s seized list.",
+   "summary": "The State Department sends the report confidentially for the Commissioner of Narcotics. It highlights both the movements of persons involved in the case and the names and addresses found in Bogdanovsky’s possession.",
+   "keywords": [
+    "Bureau of Narcotics",
+    "transmittal",
+    "Bogdanovsky",
+    "Bacri–Takushima case"
+   ]
+  },
+  {
+   "title": "Transmittal of Vincent’s May 4 letter to the Bureau of Narcotics",
+   "doc_type": "departmental transmittal",
+   "start_page": 255,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1933-05-29",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards the confidential letter on Devineau, Shifman, Gourevitch, and other suspected narcotics traffickers.",
+   "summary": "The State Department supplies the Acting Commissioner of Narcotics with a copy of Vincent’s May 4 letter to Nicholson. The document identifies the letter as intelligence on the Far Eastern movements of important traffickers.",
+   "keywords": [
+    "Bureau of Narcotics",
+    "Devineau",
+    "Shifman",
+    "Gourevitch",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Transmittal of Vincent’s May 4 letter to the Commissioner of Customs",
+   "doc_type": "departmental transmittal",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1933-05-29",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards the May 4 intelligence letter for the Commissioner of Customs.",
+   "summary": "This parallel transmittal sends Vincent’s letter to the customs authorities on a strictly confidential basis. It describes the enclosure as concerning the movements of important narcotics traffickers in the Far East.",
+   "keywords": [
+    "Commissioner of Customs",
+    "narcotics intelligence",
+    "Far East",
+    "confidential transmittal"
+   ]
+  },
+  {
+   "title": "Transmittal of South Manchuria Railway opium regulations",
+   "doc_type": "departmental transmittal",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1933-06-22",
+   "from": "Acting Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards Dairen despatch No. 39 and its translated opium-control ordinance to the Commissioner of Narcotics.",
+   "summary": "The Department sends the Dairen report and enclosure for the information of the Commissioner of Narcotics. The subject is regulation of opium traffic in the South Manchuria Railway area.",
+   "keywords": [
+    "opium regulation",
+    "South Manchuria Railway",
+    "Bureau of Narcotics",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "The Shirakawa “Benzolin Case”",
+   "doc_type": "consular despatch",
+   "start_page": 258,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1933-07-27",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Reports the Supreme Court convictions and sentences of ten defendants in the Shirakawa benzoylmorphine-smuggling case.",
+   "summary": "Chief Justice Fujisaki and two associate justices convicted all ten defendants after lower courts had acquitted them. Most were released immediately because pretrial detention counted toward their very short sentences, while Kawai received a stay. Vincent calls the punishments amazingly mild given the smuggling of 5,550 kilograms of narcotics but commends the procurator’s persistence.",
+   "keywords": [
+    "Shirakawa case",
+    "benzoylmorphine",
+    "Supreme Court",
+    "light sentences",
+    "smuggling",
+    "Dairen"
+   ]
+  },
+  {
+   "title": "Transmittal of the Shirakawa retrial report",
+   "doc_type": "departmental transmittal",
+   "start_page": 260,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1933-08-28",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards Vincent’s report on the retrial of Shirakawa and nine others.",
+   "summary": "The report is sent for the Commissioner of Narcotics’ information. The transmittal identifies the case as involving the illegal importation of benzolin into Dairen.",
+   "keywords": [
+    "Shirakawa",
+    "benzolin",
+    "Bureau of Narcotics",
+    "retrial"
+   ]
+  },
+  {
+   "title": "Passport issued to George Israel Tribe",
+   "doc_type": "departmental memorandum",
+   "start_page": 261,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "1933-09-04",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Notifies Treasury that George Israel Tribe received a new American passport while his Dairen narcotics case awaited retrial.",
+   "summary": "Tribe had been fined by the Dairen District Court in April 1932 for trafficking in narcotics. He told the American consul general at Shanghai that he had lived there since November 1932 and worked as an automobile salesman for a Ford agent.",
+   "keywords": [
+    "George Israel Tribe",
+    "passport",
+    "Dairen court",
+    "Shanghai",
+    "narcotics prosecution"
+   ]
+  },
+  {
+   "title": "Cross-reference note concerning Zachary P. Bogart and the Bogdanovsky family",
+   "doc_type": "document file note",
+   "start_page": 262,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State filing staff",
+   "to": "Decimal-file record",
+   "about": "Cross-references a Harbin despatch connecting Zachary P. Bogart with Boris, Esther, and Naum Bogdanovsky.",
+   "summary": "The note recalls that Boris Bogdanovsky’s notebook contained both international smugglers’ names and that of his Los Angeles brother, Zachary P. Bogart. It also records Bogart’s efforts to help Esther Bogdanovsky and her son Naum obtain United States visas.",
+   "keywords": [
+    "cross-reference",
+    "Zachary Bogart",
+    "Bogdanovsky family",
+    "visa",
+    "smugglers"
+   ]
+  },
+  {
+   "title": "Transmittal of League of Nations report on the Dairen benzoylin case",
+   "doc_type": "departmental transmittal",
+   "start_page": 263,
+   "end_page": 264,
+   "continues_previous": false,
+   "date": "1934-04-12",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards League of Nations document O.C.S. 173 on the final judgment in the 1930 Dairen benzoylmorphine case.",
+   "summary": "The Department notes a discrepancy between the League document and the American consul’s report concerning the date of the Supreme Court decision. It also contrasts the League’s reference to imprisonment with hard labor with the consul’s report that nine defendants were immediately released and the tenth received a stay.",
+   "keywords": [
+    "League of Nations",
+    "benzoylmorphine",
+    "Shirakawa case",
+    "sentencing discrepancy"
+   ]
+  },
+  {
+   "title": "League of Nations report sent to the American Consul at Dairen",
+   "doc_type": "departmental instruction",
+   "start_page": 265,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "1934-04-12",
+   "from": "Secretary of State",
+   "to": "American Consul at Dairen",
+   "about": "Sends the consul a copy of League of Nations document O.C.S. 173 on the Shirakawa case.",
+   "summary": "The instruction refers to Vincent’s July 27, 1933 despatch on the Port Arthur Supreme Court sentences. It provides the League’s account of the final judgment for the consul’s information.",
+   "keywords": [
+    "League of Nations",
+    "Shirakawa case",
+    "Port Arthur",
+    "consular instruction"
+   ]
+  },
+  {
+   "title": "Discovery of Morphine Plant in Dairen",
+   "doc_type": "consular despatch",
+   "start_page": 266,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1934-09-14",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Reports the explosion and discovery of a clandestine morphine plant operated by Mitsuyoshi Torii and associates.",
+   "summary": "The explosion exposed a factory that had operated since June, injured Kihara and Negishi, and led to several arrests or deaths; Yu Chin-yan escaped. Raw materials reportedly came from Tientsin and most finished morphine was sent back there. Vincent emphasizes Torii’s prior conviction and argues that nominal local sentences failed to deter repeated drug manufacture.",
+   "keywords": [
+    "morphine factory",
+    "Mitsuyoshi Torii",
+    "explosion",
+    "Tientsin",
+    "repeat offender",
+    "Dairen"
+   ]
+  },
+  {
+   "title": "“Two Injured in Explosion”",
+   "doc_type": "newspaper clipping",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1934-08-27",
+   "from": "Manchuria Daily News",
+   "to": "",
+   "about": "Describes the explosion that demolished Torii’s clandestine morphine factory near Dairen.",
+   "summary": "The report says Kihara and Negishi were seriously injured while manufacturing morphine under Torii’s supervision and that a Chinese accomplice named Yu fled. It states that Torii had postponed serving an earlier sentence, earned nearly 70,000 yen from recent production, and sent most of the morphine to Tientsin.",
+   "keywords": [
+    "newspaper clipping",
+    "factory explosion",
+    "Torii",
+    "morphine",
+    "Sishantun"
+   ]
+  },
+  {
+   "title": "Eogonine Smuggling Case—Dairen",
+   "doc_type": "consular despatch",
+   "start_page": 270,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1934-09-06",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Reports the attempted smuggling of government-sold eogonine from Dairen to Osaka and the defendants’ eventual sentences.",
+   "summary": "The Kwantung Government sold 500 kilograms of eogonine to Sandai Pharmacy, after which 250 kilograms were packed for illicit shipment to Tamiya in Osaka. Police seized the drug, but judgment was delayed for more than three years and the court imposed still lighter penalties than those requested by the procurator. Vincent cites the case as further evidence that Dairen’s courts did not deter large-scale narcotics trafficking.",
+   "keywords": [
+    "eogonine",
+    "Sandai Pharmacy",
+    "Osaka",
+    "smuggling",
+    "light sentences",
+    "Dairen court"
+   ]
+  },
+  {
+   "title": "Transmittal of the eogonine-smuggling report",
+   "doc_type": "departmental transmittal",
+   "start_page": 273,
+   "end_page": 273,
+   "continues_previous": false,
+   "date": "1934-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards despatch No. 94 on the seizure of eogonine and the convictions of those implicated.",
+   "summary": "The despatch is supplied in duplicate for the Commissioner of Narcotics. The Department also directs attention to its earlier communication about the Shirakawa retrial because several defendants overlapped.",
+   "keywords": [
+    "eogonine",
+    "Commissioner of Narcotics",
+    "convictions",
+    "Shirakawa case"
+   ]
+  },
+  {
+   "title": "Transmittal of the Dairen morphine-factory report",
+   "doc_type": "departmental transmittal",
+   "start_page": 274,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1934-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards despatch No. 96 and its newspaper enclosure on the discovery of a Dairen morphine factory.",
+   "summary": "The Department sends the materials in duplicate to the Commissioner of Narcotics. It links the discovery with an earlier report on a clandestine morphine factory at Kokusekisho.",
+   "keywords": [
+    "morphine factory",
+    "Torii",
+    "Kokusekisho",
+    "Bureau of Narcotics"
+   ]
+  },
+  {
+   "title": "Instruction commending Dairen narcotics reporting",
+   "doc_type": "departmental instruction",
+   "start_page": 275,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "1934-10-12",
+   "from": "Secretary of State",
+   "to": "American Consul at Dairen",
+   "about": "Commends the consul’s narcotics reports and requests future narcotics despatches in quintuplicate.",
+   "summary": "The Department describes despatches Nos. 94 and 96 as useful and timely. It asks that a copy of the eogonine report be sent to the Treasury Attaché at Shanghai.",
+   "keywords": [
+    "consular instruction",
+    "reporting procedure",
+    "quintuplicate",
+    "Treasury Attaché"
+   ]
+  },
+  {
+   "title": "Sentence Given in Connection with Morphine Plant in Dairen",
+   "doc_type": "consular despatch",
+   "start_page": 276,
+   "end_page": 277,
+   "continues_previous": false,
+   "date": "1934-10-31",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Reports the sentences imposed on five persons connected with Torii’s morphine plant.",
+   "summary": "Judge Takahashi sentenced Torii and Kihara to penal servitude and fined Kuwata, Nakamura, and Liu. All defendants abandoned their right of appeal. Vincent explains that Nakamura and Liu had not appeared in his earlier report because their connections were discovered later.",
+   "keywords": [
+    "sentencing",
+    "morphine plant",
+    "Torii",
+    "Dairen Local Court",
+    "convictions"
+   ]
+  },
+  {
+   "title": "Transmittal of morphine-plant sentencing report",
+   "doc_type": "departmental transmittal",
+   "start_page": 278,
+   "end_page": 278,
+   "continues_previous": false,
+   "date": "1934-12-05",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards Dairen despatch No. 102 on sentences for illicit morphine manufacture.",
+   "summary": "The report is sent in duplicate for the confidential information of the Commissioner of Narcotics. It follows the Department’s October communication on the discovery of the factory.",
+   "keywords": [
+    "morphine sentences",
+    "Bureau of Narcotics",
+    "Dairen",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Activities of Curt Smith",
+   "doc_type": "consular despatch",
+   "start_page": 279,
+   "end_page": 280,
+   "continues_previous": false,
+   "date": "1934-12-19",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "Secretary of State",
+   "about": "Transmits correspondence and telegrams documenting the investigation of Curt Smith and his suspected associates in Dairen.",
+   "summary": "Vincent encloses his detailed report to Nicholson and the telegrams that initiated and concluded the inquiry. Smith left Dairen for Shanghai on December 8 without further evidence of local activity. Vincent also identifies Vladimir Kapustin and H. Iribuch as persons attracting narcotics-related suspicion.",
+   "keywords": [
+    "Curt Smith",
+    "surveillance",
+    "Confidential List",
+    "Kapustin",
+    "Iribuch",
+    "Dairen"
+   ]
+  },
+  {
+   "title": "Letter detailing the investigation of Curt Smith",
+   "doc_type": "confidential letter",
+   "start_page": 281,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1934-12-07",
+   "from": "John Carter Vincent, American Consul at Dairen",
+   "to": "M. R. Nicholson, United States Treasury Attaché at Shanghai",
+   "about": "Gives a chronological account of Smith’s bills of exchange, warehoused cargo, contacts, and movements in Dairen.",
+   "summary": "Vincent traces shipments of dyes, tinsel, artificial fruit, toys, shoes, and spangles through several banks and shipping firms and records which warehouse warrants Smith obtained. He describes Smith’s meetings with Diatlovitsky, Bruno Haube, Sherell, Iribuch, Kapustin, and others. Although the circumstances suggested illicit preparation, Vincent sought guidance on whether police should inspect the cargo and requested fuller background from Nicholson.",
+   "keywords": [
+    "Curt Smith",
+    "warehouse warrants",
+    "bills of exchange",
+    "Diatlovitsky",
+    "suspected smuggling",
+    "financial investigation"
+   ]
+  },
+  {
+   "title": "Telegram initiating surveillance of Curt Smith",
+   "doc_type": "telegram",
+   "start_page": 285,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1934-11-23",
+   "from": "Consulate General at Shanghai, relaying M. R. Nicholson",
+   "to": "American Consul at Dairen",
+   "about": "Requests discreet investigation of Curt Smith’s proposed bank loan, cargo, and Dairen business connections.",
+   "summary": "Nicholson reports that Smith, listed as a narcotics suspect, intended to travel to Dairen and negotiate a loan secured by European cargo. He asks the consul to identify Smith’s contacts and the bank involved without alerting police or attracting attention.",
+   "keywords": [
+    "telegram",
+    "Curt Smith",
+    "discreet inquiry",
+    "bank loan",
+    "cargo"
+   ]
+  },
+  {
+   "title": "Telegram explaining the purpose of Curt Smith’s shipments",
+   "doc_type": "telegram",
+   "start_page": 286,
+   "end_page": 286,
+   "continues_previous": false,
+   "date": "1934-12-10",
+   "from": "Consulate General at Shanghai",
+   "to": "American Consul at Dairen",
+   "about": "Advises against police intervention because Smith’s small shipments were believed to be tests of Japanese import procedures.",
+   "summary": "The telegram praises Vincent’s information but says police interference would complicate wider investigations in Shanghai, New York, and Europe. Authorities believed the shipments contained no contraband and were intended to study customs, warehousing, port, and cargo-handling procedures.",
+   "keywords": [
+    "Curt Smith",
+    "police nonintervention",
+    "test shipments",
+    "customs procedures",
+    "international investigation"
+   ]
+  },
+  {
+   "title": "Transmittal of the Curt Smith investigation",
+   "doc_type": "departmental transmittal",
+   "start_page": 287,
+   "end_page": 287,
+   "continues_previous": false,
+   "date": "1935-01-19",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards despatch No. 111 and its enclosures concerning Curt Smith.",
+   "summary": "The material is sent in duplicate for the Commissioner of Narcotics’ confidential information. Smith is identified as No. 188 on the confidential list of suspected narcotics traffickers.",
+   "keywords": [
+    "Curt Smith",
+    "Confidential List No. 188",
+    "Bureau of Narcotics",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Treasury transmittal concerning narcotics factories in Dairen",
+   "doc_type": "Treasury Department letter with duplicate copy",
+   "start_page": 288,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Transmits Nicholson’s November 5, 1934 confidential communication on narcotics factories in Dairen.",
+   "summary": "The Treasury Department provides two copies of the report received through the Bureau of Customs. The two pages preserve substantially duplicate copies of the same covering letter.",
+   "keywords": [
+    "Treasury Department",
+    "narcotics factories",
+    "Dairen",
+    "Nicholson",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Report on five alleged narcotics factories in Dairen",
+   "doc_type": "Treasury Attaché intelligence report",
+   "start_page": 290,
+   "end_page": 292,
+   "continues_previous": false,
+   "date": "1934-11-05",
+   "from": "M. R. Nicholson, Treasury Attaché, incorporating a report from Chang Chien",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Reports intelligence gathered by covert agents on five alleged heroin and morphine factories in Dairen.",
+   "summary": "Chang Chien states that Sung Hai-shan located five factories while Wang Toh-yuan was arrested by Japanese police. The report supplies alleged factory addresses, proprietors, products, and monthly production estimates, while describing the severe difficulty of communicating under censorship. It further claims extensive smuggling from Dairen into China and requests continued funding for the intelligence network; page 292 repeats part of the poorly reproduced report.",
+   "keywords": [
+    "covert agents",
+    "drug factories",
+    "heroin production",
+    "morphine production",
+    "Japanese censorship",
+    "Chang Chien"
+   ]
+  },
+  {
+   "title": "Treasury transmittal concerning Greek steamships and narcotics suspects",
+   "doc_type": "Treasury Department letter",
+   "start_page": 293,
+   "end_page": 293,
+   "continues_previous": false,
+   "date": "1935-06",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Transmits reports on Greek steamships visiting Dairen and persons suspected of narcotics trafficking.",
+   "summary": "The covering letter forwards a Bureau of Customs letter and Nicholson’s April 30 report. It specifically calls attention to M. Podliatschuk, who had already appeared in interdepartmental correspondence.",
+   "keywords": [
+    "Greek steamships",
+    "suspected traffickers",
+    "M. Podliatschuk",
+    "Treasury transmittal"
+   ]
+  },
+  {
+   "title": "Bureau of Customs transmittal of Greek-steamship report",
+   "doc_type": "Bureau of Customs letter",
+   "start_page": 294,
+   "end_page": 294,
+   "continues_previous": false,
+   "date": "1935-05-25",
+   "from": "Edson J. Shamhart, Chief, Division of Enforcement",
+   "to": "Commissioner of Narcotics",
+   "about": "Forwards Nicholson’s report on Greek steamships visiting Dairen between January and April 1935.",
+   "summary": "The Bureau of Customs supplies the report for the Commissioner of Narcotics’ information. It identifies Nicholson as the Treasury Attaché at Shanghai and the subject as recent Greek shipping at Dairen.",
+   "keywords": [
+    "Bureau of Customs",
+    "Greek steamships",
+    "Dairen",
+    "Commissioner of Narcotics"
+   ]
+  },
+  {
+   "title": "Report on Greek steamships and suspected “white cargo” traffic",
+   "doc_type": "Treasury Attaché intelligence report",
+   "start_page": 295,
+   "end_page": 296,
+   "continues_previous": false,
+   "date": "1935-04-30",
+   "from": "M. R. Nicholson, Treasury Attaché",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Lists Greek vessels calling at Dairen and reports allegations of narcotics shipments and movements of suspected smugglers.",
+   "summary": "A Dairen agent lists six calls by Greek steamships chartered largely for Soviet cargo and alleges that crews carried narcotics or planned to bring Persian opium. The report names local stevedores and records the arrival or departure of Podliatschuk, Mvridis, Tziklidis, Panaidis, and Brinberg. It also alleges plans to organize shipments of “white cargo” from Dairen to Shanghai.",
+   "keywords": [
+    "Greek shipping",
+    "white cargo",
+    "Persian opium",
+    "suspected smugglers",
+    "Dairen port"
+   ]
+  },
+  {
+   "title": "Treasury transmittal concerning drug manufacture and distribution in Dairen",
+   "doc_type": "Treasury Department letter",
+   "start_page": 297,
+   "end_page": 297,
+   "continues_previous": false,
+   "date": "1935-06",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Transmits a Bureau of Customs report on drug manufacture and distribution in Dairen.",
+   "summary": "The covering letter forwards the Bureau’s May 25 communication and Nicholson’s April 29 report. The material is supplied in two copies for State Department use.",
+   "keywords": [
+    "Treasury Department",
+    "drug manufacture",
+    "distribution",
+    "Dairen"
+   ]
+  },
+  {
+   "title": "Bureau of Customs transmittal of Dairen drug-distribution report",
+   "doc_type": "Bureau of Customs letter",
+   "start_page": 298,
+   "end_page": 298,
+   "continues_previous": false,
+   "date": "1935-05-25",
+   "from": "Edson J. Shamhart, Chief, Division of Enforcement",
+   "to": "Commissioner of Narcotics",
+   "about": "Forwards Nicholson’s report on drug manufacture and distribution in Dairen.",
+   "summary": "The Bureau sends the report for the Commissioner of Narcotics’ information. The enclosure is identified as a Shanghai Treasury Attaché report dated April 29, 1935.",
+   "keywords": [
+    "Bureau of Customs",
+    "drug distribution",
+    "Dairen",
+    "Nicholson"
+   ]
+  },
+  {
+   "title": "Drug Manufacture and Distribution in Dairen",
+   "doc_type": "Treasury Attaché intelligence report",
+   "start_page": 299,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1935-04-29",
+   "from": "M. R. Nicholson, Treasury Attaché, reporting information from a Manchurian agent",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Surveys alleged narcotics manufacture, pricing, retail distribution, and maritime smuggling centered on Dairen.",
+   "summary": "The agent argues that Dairen became the chief center of morphine and heroin production after Japanese expansion in Manchuria and describes factories disguised as legitimate chemical or medicine works. Government opium dens and brothels allegedly retailed narcotics, while factories in Mukden and Antung supplied additional railway towns. The report estimates large weekly shipments to Chinese ports and overseas destinations, gives wholesale and retail prices, and alleges protection or participation by Japanese officials and steamship crews.",
+   "keywords": [
+    "heroin",
+    "morphine",
+    "camouflaged factories",
+    "opium dens",
+    "maritime smuggling",
+    "prices",
+    "Japanese protection"
+   ]
+  },
+  {
+   "title": "Treasury transmittal concerning a discovered Dairen drug factory",
+   "doc_type": "Treasury Department letter",
+   "start_page": 302,
+   "end_page": 302,
+   "continues_previous": false,
+   "date": "1935-06",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Transmits Nicholson’s April 16 report concerning a drug factory discovered in Dairen.",
+   "summary": "The Treasury Department sends two copies of the report to the State Department. The brief covering letter identifies the source as the Treasury Attaché at Shanghai.",
+   "keywords": [
+    "drug factory",
+    "Dairen",
+    "Treasury Attaché",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Treasury transmittal of September 1935 narcotics-factory report",
+   "doc_type": "Treasury Department letter with duplicate copy",
+   "start_page": 303,
+   "end_page": 304,
+   "continues_previous": false,
+   "date": "1935-09-28",
+   "from": "Stephen B. Gibbons, Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Transmits Nicholson’s September 2 report on narcotics factories in Dairen.",
+   "summary": "The Treasury Department forwards two copies of the Shanghai report. Page 304 is a duplicate or carbon of the same covering communication.",
+   "keywords": [
+    "Treasury Department",
+    "narcotics factories",
+    "Dairen",
+    "Nicholson"
+   ]
+  },
+  {
+   "title": "Four newly reported narcotics factories in Dairen",
+   "doc_type": "Treasury Attaché intelligence report",
+   "start_page": 305,
+   "end_page": 305,
+   "continues_previous": false,
+   "date": "1935-09-02",
+   "from": "M. R. Nicholson, Treasury Attaché",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Identifies four alleged Japanese-operated heroin or morphine factories and their Dairen locations.",
+   "summary": "Nicholson reports information from a Dairen agent who claimed that four newly located factories operated with local police protection. The report names Imahashi, Matsuda, and Tani as operators and says their products were distributed through Dairen, Manchuria, and North China.",
+   "keywords": [
+    "new factories",
+    "heroin",
+    "morphine",
+    "police protection",
+    "Japanese operators"
+   ]
+  },
+  {
+   "title": "Transmittal of four reports on opium shops, factories, and revenues",
+   "doc_type": "Treasury Department letter",
+   "start_page": 306,
+   "end_page": 306,
+   "continues_previous": false,
+   "date": "1935-10",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Forwards reports on opium shops in Harbin, Antung, and Dairen; secret Dairen factories; Changchun shops; and the Zunyi opium situation.",
+   "summary": "The covering letter enumerates four reports dated September 5–7, 1935. Together they concern retail establishments, clandestine manufacture, and government opium revenues in Manchuria and Guizhou.",
+   "keywords": [
+    "opium shops",
+    "secret factories",
+    "Changchun",
+    "Zunyi",
+    "Treasury reports"
+   ]
+  },
+  {
+   "title": "Leading Opium Shops in Harbin, Antung and Dairen",
+   "doc_type": "Treasury Attaché intelligence report",
+   "start_page": 307,
+   "end_page": 308,
+   "continues_previous": false,
+   "date": "1935-09-05",
+   "from": "M. R. Nicholson, Treasury Attaché",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Lists major opium establishments in Harbin, Antung, and Dairen and describes their narcotics retailing.",
+   "summary": "The report provides shop names and locations in each of the three cities. It says many large shops furnished beds for opium smokers and also sold morphine, heroin, and narcotic mixtures. Nicholson alleges that this illegal trade operated almost openly with Japanese police protection and absorbed the output of Japanese drug manufacturers.",
+   "keywords": [
+    "opium shops",
+    "Harbin",
+    "Antung",
+    "Dairen",
+    "retail narcotics",
+    "police protection"
+   ]
+  },
+  {
+   "title": "Secret Drug Factories in the Suburbs of Dairen",
+   "doc_type": "Treasury Attaché intelligence report",
+   "start_page": 309,
+   "end_page": 309,
+   "continues_previous": false,
+   "date": "1935-09-05",
+   "from": "M. R. Nicholson, Treasury Attaché",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Reports three cave-based factories near Laohutan and another factory operating as the Paiyodo Pharmacy.",
+   "summary": "The three suburban factories were allegedly run by Kajida, Fujigatashi, and Watanabe and produced about 120 ounces of heroin daily apiece. Their products were said to move through Dairen offices to Qingdao, Longkou, Chefoo, Tientsin, and foreign destinations aboard the Kyodo Maru. A fourth factory, operated by Hoia Jih-seng and an unnamed Japanese partner, allegedly supplied Qingdao.",
+   "keywords": [
+    "Laohutan",
+    "cave factories",
+    "heroin",
+    "Kyodo Maru",
+    "Paiyodo Pharmacy",
+    "North China"
+   ]
+  },
+  {
+   "title": "Opium Retail Shops in Changchun",
+   "doc_type": "Treasury Attaché report",
+   "start_page": 310,
+   "end_page": 310,
+   "continues_previous": false,
+   "date": "1935-09-06",
+   "from": "M. R. Nicholson, Treasury Attaché",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Reports 1935 opium-sale receipts in Changchun and the expansion of licensed retail and smoking shops.",
+   "summary": "Forty shops outside the Japanese concession reportedly collected $745,184 during the first half of 1935, excluding wholesale trade. The report says Manchukuo’s Opium Monopoly Bureau reduced the required deposit for new shops, causing rapid growth in both rural outlets and the number of addicts.",
+   "keywords": [
+    "Changchun",
+    "opium receipts",
+    "retail shops",
+    "Manchukuo",
+    "addiction"
+   ]
+  },
+  {
+   "title": "A Survey of the Opium Situation in Tsunyi",
+   "doc_type": "Treasury Attaché report",
+   "start_page": 311,
+   "end_page": 312,
+   "continues_previous": false,
+   "date": "1935-09-07",
+   "from": "M. R. Nicholson, Treasury Attaché",
+   "to": "Commissioner of Customs, Division of Customs Agents",
+   "about": "Surveys Zunyi’s strategic importance, opium revenues and production, taxes, retail shops, and addicted population.",
+   "summary": "The report describes Zunyi as a major commercial and military center linking Guizhou and Sichuan whose political importance rested partly on opium revenue. It presents annual revenue and production figures, identifies the military regimes that controlled the proceeds, and lists numerous taxes and surtaxes on cultivation and trade. It estimates 169 substantial district shops, roughly 1,500 smaller village shops and smoking dens, and at least 175,000 addicts; the report continues beyond page 312.",
+   "keywords": [
+    "Zunyi",
+    "Guizhou",
+    "opium revenue",
+    "poppy taxation",
+    "military finance",
+    "addiction statistics"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 5,
+  "pages": [
+   233,
+   312
+  ],
+  "pdf": "894C.114 Regulations Governing %D0, Kwantung Leased Territory, Traffic In Liquors And Habit-Forming Drugs. Each Subdivision Will Be Made A Separate Case., August 11, 1922 - March 17, 1930 696.pdf",
+  "seconds": 1119.7,
+  "created": "2026-09-30 11:19:45",
+  "key": "japan-internal-affairs-894c.114-regulations-governing-kwantung-2"
+ }
+}

@@ -1,0 +1,635 @@
+{
+ "section_summary": "This section continues a historical study of Japanese society, tracing the assimilation of Chinese culture and Buddhism during the Nara and Heian periods and the emergence of military feudalism under the Kamakura and Ashikaga regimes. It then examines Tokugawa efforts to stabilize society through seclusion, rigid class distinctions, and regulation, emphasizing the economic decline of the daimyo and samurai, the oppression of cultivators, and the growing influence of merchants. Literary, religious, and artistic examples—including court literature, warrior tales, Buddhism, tea culture, Kabuki, Noh, prints, and poetry—illustrate changes in Japanese ideals and everyday life.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japar",
+    "Great Yamato",
+    "Yamato"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Pacific Ocean region",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Miyako (Kyoto)",
+    "Kycto"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura"
+   ]
+  },
+  {
+   "name": "Yodo River",
+   "variants": [
+    "river Yodo"
+   ]
+  },
+  {
+   "name": "Western Sea region of Japan",
+   "variants": [
+    "Western Sea"
+   ]
+  },
+  {
+   "name": "Eastern Japan",
+   "variants": [
+    "oastern Japan"
+   ]
+  },
+  {
+   "name": "Yashima",
+   "variants": [
+    "Yashima"
+   ]
+  },
+  {
+   "name": "Milwaukee",
+   "variants": [
+    "Milwaukee"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Sydney",
+   "variants": [
+    "Sydney"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "island of Kyushu"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki",
+    "Nagasak1"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Buzen Province",
+   "variants": [
+    "province of Buzen"
+   ]
+  },
+  {
+   "name": "Nakatsu",
+   "variants": [
+    "Nakatsu"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Yedo",
+    "the present Tokyo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Confucius",
+   "role": "Chinese philosopher whose writings and influence in Japan are discussed",
+   "variants": [
+    "Confucius"
+   ]
+  },
+  {
+   "name": "Buddha",
+   "role": "religious figure invoked in the discussion of Japanese Buddhism",
+   "variants": [
+    "Buddha"
+   ]
+  },
+  {
+   "name": "George Bailey Sansom",
+   "role": "historian repeatedly cited and quoted",
+   "variants": [
+    "Sansom, G.B.",
+    "Sanson, G.B.",
+    "Sir George Sansom",
+    "Sansom, G. B."
+   ]
+  },
+  {
+   "name": "William George Aston",
+   "role": "historian of Japanese literature cited for translations and commentary",
+   "variants": [
+    "Aston,W.G.",
+    "Aston"
+   ]
+  },
+  {
+   "name": "Curtis Hidden Page",
+   "role": "translator and writer on Japanese poetry",
+   "variants": [
+    "Curtis Hidden Page",
+    "Page, Curtis Hidden"
+   ]
+  },
+  {
+   "name": "Eunice Tietjens",
+   "role": "author cited for translations of Oriental poetry",
+   "variants": [
+    "T1etjens, Eunice"
+   ]
+  },
+  {
+   "name": "Fujiwara no Nakamaro",
+   "role": "Nara-period courtier used as an example of official privilege and extravagance",
+   "variants": [
+    "Fujiwara Oshikatsu (Nakamaro)",
+    "Nakamaro"
+   ]
+  },
+  {
+   "name": "Masaharu Anesaki",
+   "role": "scholar quoted on Heian court life and the tea room",
+   "variants": [
+    "Dr. Anesaki",
+    "Anesaki, Masaharu",
+    "Anesak1, Masaharu"
+   ]
+  },
+  {
+   "name": "Hikaru Genji",
+   "role": "fictional hero of The Tale of Genji",
+   "variants": [
+    "Genji",
+    "Genj1"
+   ]
+  },
+  {
+   "name": "Tō no Chūjō",
+   "role": "fictional courtier and companion of Genji",
+   "variants": [
+    "Chujo",
+    "To-no-Chujo"
+   ]
+  },
+  {
+   "name": "Arthur Waley",
+   "role": "translator and scholar of Chinese and Japanese literature",
+   "variants": [
+    "Arthur Waley",
+    "Waley, Arthur"
+   ]
+  },
+  {
+   "name": "Sei Shōnagon",
+   "role": "Heian court lady and author of The Pillow Book",
+   "variants": [
+    "Sei Shonagon",
+    "Se1 Shonagon"
+   ]
+  },
+  {
+   "name": "Murasaki Shikibu",
+   "role": "Heian court lady and author of The Tale of Genji",
+   "variants": [
+    "Lady Murasak1"
+   ]
+  },
+  {
+   "name": "Kūya",
+   "role": "Buddhist monk and popular preacher known as the Saint of the Market Place",
+   "variants": [
+    "Kuya"
+   ]
+  },
+  {
+   "name": "Minamoto no Yoritomo",
+   "role": "Minamoto leader, first Kamakura shogun, and founder of the Kamakura military government",
+   "variants": [
+    "Yoritomo",
+    "Minamoto Yoritomo"
+   ]
+  },
+  {
+   "name": "Kamo no Chōmei",
+   "role": "contemporary observer and writer describing the upheavals of the late twelfth century",
+   "variants": [
+    "Kamo Chomei",
+    "Chomei"
+   ]
+  },
+  {
+   "name": "Arthur Lindsay Sadler",
+   "role": "translator of The Ten Foot Square Hut",
+   "variants": [
+    "Sadler, A. L."
+   ]
+  },
+  {
+   "name": "Satō Tadanobu",
+   "role": "warrior and loyal follower of Yoshitsune",
+   "variants": [
+    "Sato Tadanobu",
+    "Tadanobu"
+   ]
+  },
+  {
+   "name": "Minamoto no Yoshitsune",
+   "role": "Minamoto warrior leader and half-brother of Yoritomo",
+   "variants": [
+    "Yoshitsune"
+   ]
+  },
+  {
+   "name": "Musashibō Benkei",
+   "role": "warrior monk and follower of Yoshitsune",
+   "variants": [
+    "Benkei"
+   ]
+  },
+  {
+   "name": "Satō Tsuginobu",
+   "role": "brother of Tadanobu who died in Yoshitsune's service",
+   "variants": [
+    "Tsuginobu"
+   ]
+  },
+  {
+   "name": "Tomonari",
+   "role": "swordsmith named as the maker of Yoshitsune's sword",
+   "variants": [
+    "Tomonari"
+   ]
+  },
+  {
+   "name": "James S. de Benneville",
+   "role": "author cited for the account of Benkei and Yoshitsune",
+   "variants": [
+    "de Benneville, James S."
+   ]
+  },
+  {
+   "name": "Keion",
+   "role": "Japanese painter of battle scenes",
+   "variants": [
+    "Keion"
+   ]
+  },
+  {
+   "name": "Taira no Kiyomori",
+   "role": "Taira clan leader depicted in the discussion of Keion's paintings",
+   "variants": [
+    "Kiyomor1"
+   ]
+  },
+  {
+   "name": "Laurence Binyon",
+   "role": "art critic quoted on Keion's work",
+   "variants": [
+    "Laurence Binyon",
+    "Binyon, Laurence"
+   ]
+  },
+  {
+   "name": "Nichiren",
+   "role": "Buddhist teacher noted for nationalism, missionary zeal, and attacks on rival sects",
+   "variants": [
+    "Nichiren"
+   ]
+  },
+  {
+   "name": "James Murdoch",
+   "role": "historian cited for a statement asserting Japan's divine imperial succession",
+   "variants": [
+    "Murdoch, James"
+   ]
+  },
+  {
+   "name": "Oda Nobunaga",
+   "role": "sixteenth-century warlord who conquered about half of Japan",
+   "variants": [
+    "Oda Nobunaga",
+    "Nobunaga"
+   ]
+  },
+  {
+   "name": "Toyotomi Hideyoshi",
+   "role": "military dictator who unified Japan and invaded Korea",
+   "variants": [
+    "Toyotomi Hideyoshi",
+    "Hideyoshi"
+   ]
+  },
+  {
+   "name": "Tokugawa Ieyasu",
+   "role": "founder of the Tokugawa shogunate",
+   "variants": [
+    "Tokugawa Ieyasu",
+    "Ieyasu"
+   ]
+  },
+  {
+   "name": "Matthew C. Perry",
+   "role": "United States naval officer whose arrival helped bring an end to Japanese seclusion",
+   "variants": [
+    "Commodore Perry"
+   ]
+  },
+  {
+   "name": "Kobayashi Issa",
+   "role": "peasant-born poet quoted on daimyo privilege and rural life",
+   "variants": [
+    "Issa"
+   ]
+  },
+  {
+   "name": "Max Bickerton",
+   "role": "author cited for work on Issa's life and poetry",
+   "variants": [
+    "Bickerton, Max",
+    "Bickerton"
+   ]
+  },
+  {
+   "name": "Okudaira",
+   "role": "daimyo of Nakatsu served by Fukuzawa Yukichi's father",
+   "variants": [
+    "Okudaira"
+   ]
+  },
+  {
+   "name": "Fukuzawa Yukichi",
+   "role": "Japanese writer whose autobiography supplies an account of his samurai father",
+   "variants": [
+    "Fukuzawa Yukichi"
+   ]
+  },
+  {
+   "name": "Eiichi Kiyooka",
+   "role": "translator of Fukuzawa Yukichi's autobiography",
+   "variants": [
+    "Eiichi Kiyooka"
+   ]
+  },
+  {
+   "name": "Itō Tōgai",
+   "role": "Confucian scholar respected by Fukuzawa Yukichi's father",
+   "variants": [
+    "Ito Togai"
+   ]
+  },
+  {
+   "name": "Katsushika Hokusai",
+   "role": "woodblock-print artist whose works depict urban and working life",
+   "variants": [
+    "Hokusa1",
+    "Hokusai"
+   ]
+  },
+  {
+   "name": "Utagawa Hiroshige",
+   "role": "woodblock-print artist cited as depicting Tokugawa urban life",
+   "variants": [
+    "Hiroshige"
+   ]
+  },
+  {
+   "name": "Suzuki Harunobu",
+   "role": "woodblock-print artist cited as depicting working life",
+   "variants": [
+    "Harunobu"
+   ]
+  },
+  {
+   "name": "Hishikawa Moronobu",
+   "role": "woodblock-print artist cited as depicting working life",
+   "variants": [
+    "Moronobu"
+   ]
+  },
+  {
+   "name": "Zoë Kincaid",
+   "role": "writer quoted on the emotional responses of Kabuki audiences",
+   "variants": [
+    "Kinca1d, Zoe"
+   ]
+  },
+  {
+   "name": "Enya Hangan",
+   "role": "character in Chūshingura whose ritual suicide moves Kabuki audiences",
+   "variants": [
+    "Enya Hangan"
+   ]
+  },
+  {
+   "name": "Ōboshi Yuranosuke",
+   "role": "faithful retainer in Chūshingura",
+   "variants": [
+    "Yuranosuke"
+   ]
+  },
+  {
+   "name": "Jippensha Ikku",
+   "role": "novelist and author of Hizakurige",
+   "variants": [
+    "Ikku Jippensha"
+   ]
+  },
+  {
+   "name": "Yaji",
+   "role": "fictional traveler in Hizakurige",
+   "variants": [
+    "Yaji"
+   ]
+  },
+  {
+   "name": "Kita",
+   "role": "fictional traveler in Hizakurige",
+   "variants": [
+    "Kita"
+   ]
+  },
+  {
+   "name": "Thomas Satchell",
+   "role": "translator of Hizakurige",
+   "variants": [
+    "Thomas Satchell"
+   ]
+  },
+  {
+   "name": "Taira no Atsumori",
+   "role": "Taira warrior and central figure in the cited Noh play",
+   "variants": [
+    "Atsumori"
+   ]
+  },
+  {
+   "name": "Taira no Tsunemori",
+   "role": "Atsumori's father in the cited Noh passage",
+   "variants": [
+    "Tsunemori"
+   ]
+  },
+  {
+   "name": "Matsuo Bashō",
+   "role": "poet who popularized the hokku",
+   "variants": [
+    "Bashō",
+    "Bashō's",
+    "Basho's"
+   ]
+  },
+  {
+   "name": "Chiyo-ni",
+   "role": "poet noted for sensitive and witty verse",
+   "variants": [
+    "Chiyo"
+   ]
+  },
+  {
+   "name": "Basil Hall Chamberlain",
+   "role": "translator of poems attributed in the notes",
+   "variants": [
+    "Chamberlain"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese social history",
+  "Nara period",
+  "Heian period",
+  "military feudalism",
+  "Kamakura shogunate",
+  "samurai",
+  "Buddhism",
+  "Tokugawa seclusion",
+  "class structure",
+  "peasant economy",
+  "merchant culture",
+  "Japanese literature and arts"
+ ],
+ "subfiles": [
+  {
+   "title": "Historical Survey of Japanese Society and Feudalism, chapters 2–4 (continuation)",
+   "doc_type": "historical study/report",
+   "start_page": 44,
+   "end_page": 67,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A historical and sociological account of Japanese cultural development, military feudalism, Tokugawa seclusion, class relations, economic change, religion, literature, and the arts.",
+   "summary": "The continuation first considers Chinese writing, Confucianism, Buddhism, literature, and art in the Nara and Heian periods, contrasting refined court culture with weakening government, economic strain, and the emergence of hereditary warriors. It then traces the establishment of the Kamakura shogunate, the growth of feudal loyalties and household authority, the Ashikaga disorders, and the unification policies of Nobunaga, Hideyoshi, and Ieyasu. The discussion of the Tokugawa period emphasizes political seclusion, rigid social regulation, daimyo and samurai indebtedness, peasant oppression, the rise of a money economy, and the prosperity of urban merchants. Examples from chronicles, novels, drama, painting, and poetry illustrate the changing ideals and emotional life of different social classes.",
+   "keywords": [
+    "Chinese cultural influence",
+    "Nara and Heian culture",
+    "Kamakura government",
+    "feudal landholding",
+    "samurai ethics",
+    "Buddhist sects",
+    "Ashikaga civil wars",
+    "Tokugawa shogunate",
+    "economic change",
+    "peasants and merchants",
+    "Kabuki and Noh",
+    "Japanese poetry"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 12,
+  "pages": [
+   44,
+   67
+  ],
+  "pdf": "894.20211A Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Hawaii Including Gathering Of Information. Espionage. Propaganda., March 9 1110.pdf",
+  "seconds": 117.5,
+  "created": "2026-09-30 02:21:51",
+  "key": "japan-internal-affairs-894.20211a-military-affairs-army-5"
+ }
+}

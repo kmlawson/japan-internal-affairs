@@ -1,0 +1,1802 @@
+{
+ "section_summary": "This section documents U.S. wartime monitoring of Japanese diplomatic, commercial, propaganda, and suspected espionage activity across Latin America. Major subjects include intercepted correspondence, the Japan Tourist Bureau’s government-financed propaganda program, Japanese interest in strategic minerals and petroleum, and alleged intelligence networks operating through Mitsui-related firms in Argentina, Brazil, Chile, Colombia, and Ecuador. It also contains State Department circulation records and assessments of an OSS study of Japanese communities in Latin America.",
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Mashington, D. C.",
+    "Washington, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "Argentine",
+    "Argentino"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires",
+    "Buenos Aises",
+    "BA."
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Santiago",
+   "variants": [
+    "Santiago",
+    "Santiago, Chile",
+    "ntgo, Chile"
+   ]
+  },
+  {
+   "name": "Antofagasta",
+   "variants": [
+    "Antofagasta"
+   ]
+  },
+  {
+   "name": "Maputo",
+   "variants": [
+    "Lourenoo Marques"
+   ]
+  },
+  {
+   "name": "Santa Fe",
+   "variants": [
+    "Santa Fe"
+   ]
+  },
+  {
+   "name": "San Luis",
+   "variants": [
+    "San Luis"
+   ]
+  },
+  {
+   "name": "Salta",
+   "variants": [
+    "Salta"
+   ]
+  },
+  {
+   "name": "Huérfanos Street, Santiago",
+   "variants": [
+    "578 - D Huerfano St."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Montevideo",
+   "variants": [
+    "Montevideo"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brasil"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro",
+    "Rio",
+    "Rio de Janerio"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "Sao Paulo",
+    "Sao Paulo, Brazil"
+   ]
+  },
+  {
+   "name": "Rosario",
+   "variants": [
+    "Rosario"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "South American countries",
+    "northern part of South America",
+    "west coast of South America"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "New York City"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peking"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi",
+    "Hano1"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "United States of America"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese Empire",
+    "mother country"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Northeast China (former Manchukuo)",
+   "variants": [
+    "Manchukuo",
+    "Manohukuo"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Florida Street, Buenos Aires",
+   "variants": [
+    "Florida 746"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korean"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosan"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "South Manchurian"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kansai",
+    "around Osaka"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kanto",
+    "around Tokyo"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia"
+   ]
+  },
+  {
+   "name": "Greater East Asia Co-Prosperity Sphere",
+   "variants": [
+    "Greater East Asia Co-prosperity Sphere",
+    "East Asia Co-Prosperity Sphere",
+    "East Asia Co-prosperity Sphere"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America",
+    "Central and South American countries",
+    "Central and Latin American Republics",
+    "North & Central America"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America",
+    "North American office"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Pearl Harbor"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Francisco, California"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico, D.P."
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America",
+    "lower Latin America"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Michigan"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawans"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Loo Choo Archipelago"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Birmenia"
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Empire"
+   ]
+  },
+  {
+   "name": "Americas",
+   "variants": [
+    "America",
+    "American republics",
+    "other American republics"
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "variants": [
+    "Ecuador",
+    "Republic of Ecuador",
+    "Ecuadoran"
+   ]
+  },
+  {
+   "name": "Quito",
+   "variants": [
+    "Quito",
+    "Quito, Ecuador"
+   ]
+  },
+  {
+   "name": "Bogotá",
+   "variants": [
+    "Bogota",
+    "Bogota, Colombia"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Esmeraldas Province",
+   "variants": [
+    "Province of Esmeraldas"
+   ]
+  },
+  {
+   "name": "Balboa",
+   "variants": [
+    "Balboa"
+   ]
+  },
+  {
+   "name": "Miami",
+   "variants": [
+    "Miami"
+   ]
+  },
+  {
+   "name": "Guayaquil",
+   "variants": [
+    "Quayaquil"
+   ]
+  },
+  {
+   "name": "Barranquilla",
+   "variants": [
+    "Barranquilla"
+   ]
+  },
+  {
+   "name": "Buenaventura",
+   "variants": [
+    "Buenaventura"
+   ]
+  },
+  {
+   "name": "Tulcán",
+   "variants": [
+    "Tulcan"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "variants": [
+    "Venezuelan"
+   ]
+  },
+  {
+   "name": "Edificio de la Bolsa, Bogotá",
+   "variants": [
+    "Bolsa Building",
+    "Bolsa de Bogota",
+    "Edificio de la Bolsa"
+   ]
+  },
+  {
+   "name": "Hotel Granada, Bogotá",
+   "variants": [
+    "Hotel Granada"
+   ]
+  },
+  {
+   "name": "Peñaflor",
+   "variants": [
+    "Penaflor"
+   ]
+  },
+  {
+   "name": "Munich Cafe, Peñaflor",
+   "variants": [
+    "Munich Cafe"
+   ]
+  },
+  {
+   "name": "Monjitas Street, Santiago",
+   "variants": [
+    "Calle Monjitas 560"
+   ]
+  },
+  {
+   "name": "Bulnes Avenue, Santiago",
+   "variants": [
+    "Avenida Bulnes 80"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Kobe, Japan"
+   ]
+  },
+  {
+   "name": "Santos",
+   "variants": [
+    "Santos",
+    "Santos, Brazil"
+   ]
+  },
+  {
+   "name": "Dallas",
+   "variants": [
+    "Dallas"
+   ]
+  },
+  {
+   "name": "Córdoba",
+   "variants": [
+    "Cordoba",
+    "Cordoba, Argentina"
+   ]
+  },
+  {
+   "name": "Plaza Hotel, Córdoba",
+   "variants": [
+    "Plaza Hotel"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizueka"
+   ]
+  },
+  {
+   "name": "Mendoza",
+   "variants": [
+    "Mendoza",
+    "Mendoza, Argentina"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Arica",
+   "variants": [
+    "Arica",
+    "Arica, Chile"
+   ]
+  },
+  {
+   "name": "Zapallar",
+   "variants": [
+    "Zapallar",
+    "Zapallar, Chile"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohama, Japan"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Southern Chile",
+   "variants": [
+    "south of Chile",
+    "South Chile No. 2"
+   ]
+  },
+  {
+   "name": "San Martín Street, Buenos Aires",
+   "variants": [
+    "San Martin 379"
+   ]
+  },
+  {
+   "name": "Larrea Street, Buenos Aires",
+   "variants": [
+    "Larrea 1287"
+   ]
+  },
+  {
+   "name": "Juramento Street, Buenos Aires",
+   "variants": [
+    "Juramento 108574"
+   ]
+  },
+  {
+   "name": "Tucumán Street, Buenos Aires",
+   "variants": [
+    "Tucuman 1687"
+   ]
+  },
+  {
+   "name": "Humboldt Street, Buenos Aires",
+   "variants": [
+    "Humbolt 2477",
+    "lst. Humbelto"
+   ]
+  },
+  {
+   "name": "West 87th Street, New York City",
+   "variants": [
+    "343 Jest 87th Street"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malayan"
+   ]
+  },
+  {
+   "name": "Vietnam (Annam)",
+   "variants": [
+    "Anamese"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Berle, Jr.",
+    "Adolf A. Berle",
+    "Auolf A. Berle, Jr."
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "J. Edgar Hoover",
+    "JOHN EDGAR HOOVER"
+   ]
+  },
+  {
+   "name": "Señora Varendo",
+   "role": "Person mentioned in Japanese correspondence",
+   "variants": [
+    "Senora Varendo"
+   ]
+  },
+  {
+   "name": "Cuadola",
+   "role": "Representative of a saltpeter company; spelling described as phonetic",
+   "variants": [
+    "Mr. Cuadola"
+   ]
+  },
+  {
+   "name": "Tadayoshi Ishii",
+   "role": "Japanese correspondent in Buenos Aires",
+   "variants": [
+    "Mr. Iahii",
+    "Tadayoshi Ishii"
+   ]
+  },
+  {
+   "name": "Akihara",
+   "role": "Sender in Chile of a letter to Tadayoshi Ishii",
+   "variants": [
+    "Akihara"
+   ]
+  },
+  {
+   "name": "Antonio González",
+   "role": "Addressee of two Japanese letters",
+   "variants": [
+    "Antonio Gonsales"
+   ]
+  },
+  {
+   "name": "Canohales Salamoru",
+   "role": "Person named phonetically in correspondence about wine exports",
+   "variants": [
+    "Canohales Salamoru"
+   ]
+  },
+  {
+   "name": "Labal Borgania",
+   "role": "Person named phonetically in correspondence about wine exports",
+   "variants": [
+    "Labal Borgania"
+   ]
+  },
+  {
+   "name": "Tomii",
+   "role": "Apparent signature or identification of the Japanese ambassadorial radio message",
+   "variants": [
+    "Tomiin"
+   ]
+  },
+  {
+   "name": "General Vargari",
+   "role": "Identified in the intercept as Argentina’s Chief of General Staff",
+   "variants": [
+    "General Vargari"
+   ]
+  },
+  {
+   "name": "Hayes A. Kroner",
+   "role": "Brigadier General and Chief of the Military Intelligence Service",
+   "variants": [
+    "Hayes A. Kroner"
+   ]
+  },
+  {
+   "name": "A. Osaka",
+   "role": "Manager of Osaka Shosen Kaisha in São Paulo",
+   "variants": [
+    "Mr. A. Osaka",
+    "A. Osaka"
+   ]
+  },
+  {
+   "name": "George V. Strong",
+   "role": "Major General and Chief of the Military Intelligence Service",
+   "variants": [
+    "George V. Strong"
+   ]
+  },
+  {
+   "name": "R. Henry Norweb",
+   "role": "U.S. representative in Peru identified as sender of an indexed despatch",
+   "variants": [
+    "Norweb"
+   ]
+  },
+  {
+   "name": "Hugh Millard",
+   "role": "First Secretary of the U.S. Embassy in Buenos Aires, signing for the ambassador",
+   "variants": [
+    "Hagh Milled"
+   ]
+  },
+  {
+   "name": "Tateo Tsutsumi",
+   "role": "Former manager of the Japan Tourist Bureau office in Buenos Aires",
+   "variants": [
+    "T. Tsutsumi",
+    "Tsutsumi",
+    "Manager Tsutsumi",
+    "Tateo TSUTSUMI"
+   ]
+  },
+  {
+   "name": "Takanori Kimura",
+   "role": "Permanent Director of the International Tourist Bureau in Tokyo",
+   "variants": [
+    "Takanori KIMURA"
+   ]
+  },
+  {
+   "name": "Ehara",
+   "role": "Former secretary and wartime head of the Japan Tourist Bureau office in Buenos Aires",
+   "variants": [
+    "Mr. Ehara",
+    "Ehara"
+   ]
+  },
+  {
+   "name": "Masao Tsuda",
+   "role": "Domei representative in Buenos Aires",
+   "variants": [
+    "Masao TSuDA",
+    "Masao Tsuda"
+   ]
+  },
+  {
+   "name": "Goro Miyasaki",
+   "role": "Former manager of Compañía Chilena Oriental and alleged Japanese espionage agent",
+   "variants": [
+    "GORO MIYASkI",
+    "Miyasaki",
+    "MIYASAKI",
+    "MIYAsAKI",
+    "MIYAShKI",
+    "LIYASAKI",
+    "IYASAKI"
+   ]
+  },
+  {
+   "name": "Wall",
+   "role": "Legal Attaché associated with obtaining the Takano file",
+   "variants": [
+    "Mr. Wall"
+   ]
+  },
+  {
+   "name": "Takeo Gakuo Takano",
+   "role": "Manager and secretary of Compañía Chilena Oriental; alleged coordinator of economic intelligence",
+   "variants": [
+    "TAk NO",
+    "Takano",
+    "TAKANO",
+    "TAKEO TAKANO",
+    "TAKEO GAKUO TAKANO"
+   ]
+  },
+  {
+   "name": "Susuki Nakatsuka",
+   "role": "Manager and part-owner of Compañía Chilena Oriental; alleged Japanese naval intelligence observer",
+   "variants": [
+    "NAKATSUKA",
+    "SUCYUKE NAKATSUKA",
+    "SUSUKI NAKATSUKA",
+    "NAKATSUkA",
+    "Nakatsuka"
+   ]
+  },
+  {
+   "name": "S. Hagiwara",
+   "role": "Company accountant and manager suspected of Japanese espionage activity",
+   "variants": [
+    "HAGIWARA",
+    "S. HAGB!ARA",
+    "S. HAGEWARA",
+    "Hagiwara"
+   ]
+  },
+  {
+   "name": "Rafael Moreno Echevarría",
+   "role": "Chilean deputy described as anti-American, pro-German, and a paid Japanese agent",
+   "variants": [
+    "Mr. \"MO\"",
+    "Mr. MO",
+    "Ir. MO",
+    "Rafael MORENO Echevarria"
+   ]
+  },
+  {
+   "name": "Donald R. Heath",
+   "role": "Counselor of the U.S. Embassy in Santiago",
+   "variants": [
+    "Donald R. Heath"
+   ]
+  },
+  {
+   "name": "Thomas Alton Donovan",
+   "role": "U.S. Navy lieutenant commander and prisoner quoted in Japanese press propaganda",
+   "variants": [
+    "Thomas Alton Donovan",
+    "Alton Donoven",
+    "Donovan"
+   ]
+  },
+  {
+   "name": "George T. Cooper",
+   "role": "Royal Navy lieutenant commander from HMS Exeter and prisoner quoted in propaganda",
+   "variants": [
+    "George T. Cooper",
+    "Cooper"
+   ]
+  },
+  {
+   "name": "Winston Churchill",
+   "role": "British prime minister criticized in the attributed prisoner statement",
+   "variants": [
+    "Churchill",
+    "Prime Minister"
+   ]
+  },
+  {
+   "name": "Philip W. Bonsal",
+   "role": "Chief of the State Department’s Division of the American Republics",
+   "variants": [
+    "Philip W. Bonsai",
+    "Philip W. Bonsal",
+    "Mr. Bonsal"
+   ]
+  },
+  {
+   "name": "William L. Langer",
+   "role": "Director of the OSS Research and Analysis Branch",
+   "variants": [
+    "William L. Langet",
+    "William L. Langer",
+    "Mr. Langer"
+   ]
+  },
+  {
+   "name": "Robert B. Hall",
+   "role": "University of Michigan geography professor, later colonel, and author of the OSS report",
+   "variants": [
+    "Robert B. Hall",
+    "Robert. B. Hall"
+   ]
+  },
+  {
+   "name": "Mr. Dreier",
+   "role": "State Department official in the Division of the American Republics",
+   "variants": [
+    "Mr. Dr1ey"
+   ]
+  },
+  {
+   "name": "Emmerson",
+   "role": "U.S. official or reporter in Lima whose work was available to the State Department",
+   "variants": [
+    "Mr. Emmerson"
+   ]
+  },
+  {
+   "name": "Cabot Coville",
+   "role": "U.S. official or reporter whose information was available to the State Department",
+   "variants": [
+    "Mr. Cabot Coville"
+   ]
+  },
+  {
+   "name": "Lynn Smith",
+   "role": "U.S. official or reporter whose information was available to the State Department",
+   "variants": [
+    "Mr. Lynn Smith"
+   ]
+  },
+  {
+   "name": "L. R. Forney",
+   "role": "Colonel and War Department recipient of FBI intelligence",
+   "variants": [
+    "Colonel L. R. Forney",
+    "L. R. Forney"
+   ]
+  },
+  {
+   "name": "Luis Martinez Delgado",
+   "role": "President of Compañía Minero Petrolera del Pacífico and principal holder of its Ecuadorian concession",
+   "variants": [
+    "Luis Matinez Delgado",
+    "Luis Martinez Delgado",
+    "Martinez Delgado",
+    "Martines Delgado",
+    "Delgado"
+   ]
+  },
+  {
+   "name": "Marco Antonio Aulle",
+   "role": "Vice-president of Compañía Minero Petrolera del Pacífico",
+   "variants": [
+    "Marco Antopio Aulle"
+   ]
+  },
+  {
+   "name": "Gustavo Diez Delgado",
+   "role": "Manager of Compañía Minero Petrolera del Pacífico and nephew of President Arroyo del Río",
+   "variants": [
+    "Gustavo Diez Delgado",
+    "Gustavo Dies Delgado",
+    "Diez Delgado",
+    "Dies Delgado"
+   ]
+  },
+  {
+   "name": "Enrique Mosquera Wallis",
+   "role": "Assistant manager and co-founder of Compañía Minero Petrolera del Pacífico",
+   "variants": [
+    "Enrique Mosquera Wallis",
+    "Sr. Mosquera",
+    "Mosquera"
+   ]
+  },
+  {
+   "name": "Carlos Mercado",
+   "role": "Secretary of Compañía Minero Petrolera del Pacífico",
+   "variants": [
+    "Carlos Meroado",
+    "Mercado"
+   ]
+  },
+  {
+   "name": "Carlos Alberto Arroyo del Río",
+   "role": "President of Ecuador",
+   "variants": [
+    "President Arroyo del Rio",
+    "Arroyo del Rio"
+   ]
+  },
+  {
+   "name": "Manuel Torres Peralta",
+   "role": "Former secretary to Colombia’s Minister of Mines and Petroleum and early participant in the Ecuadorian oil concession",
+   "variants": [
+    "Manuel Topres Peralta",
+    "Torres"
+   ]
+  },
+  {
+   "name": "Ayora",
+   "role": "Lawyer said to have assisted in legalizing the Japanese oil-concession transaction in Quito",
+   "variants": [
+    "Ayora"
+   ]
+  },
+  {
+   "name": "Nakamura",
+   "role": "Japanese participant said to have made a secret payment connected with the Ecuadorian concession",
+   "variants": [
+    "Nakamura"
+   ]
+  },
+  {
+   "name": "Félix Castillo Marino",
+   "role": "Former Colombian Army intelligence lieutenant colonel alleged to have introduced Japanese interests to the oil venture",
+   "variants": [
+    "Felis Castillo Marino",
+    "Castillo"
+   ]
+  },
+  {
+   "name": "Toranosuke Nakamura",
+   "role": "Japanese businessman associated with a proposed Colombian rayon-import scheme",
+   "variants": [
+    "Toranosuke Nakamura"
+   ]
+  },
+  {
+   "name": "Tadao Nakamura",
+   "role": "Japanese businessman associated with a proposed Colombian rayon-import scheme",
+   "variants": [
+    "Tadao Nakmmura"
+   ]
+  },
+  {
+   "name": "Tsuneso Yago",
+   "role": "Japanese businessman associated with a proposed Colombian rayon-import scheme",
+   "variants": [
+    "Truneso Yago"
+   ]
+  },
+  {
+   "name": "K. Brandoh",
+   "role": "Secretary of the Nippon Trading Agency in Bogotá",
+   "variants": [
+    "K. Brandoh"
+   ]
+  },
+  {
+   "name": "Shinichi Suganami",
+   "role": "Nippon Trading Agency representative in Bogotá and suspected Japanese intelligence officer",
+   "variants": [
+    "Shimichi Suganami",
+    "S. Suganami",
+    "Suganami",
+    "Sugamami",
+    "Sugmnami"
+   ]
+  },
+  {
+   "name": "José Tibau y Durán",
+   "role": "Chancellor of the Spanish Legation in Quito",
+   "variants": [
+    "Jose Tibau y Duran"
+   ]
+  },
+  {
+   "name": "Yoshioa",
+   "role": "Mitsui employee assigned to research on the United States",
+   "variants": [
+    "Yoshioa"
+   ]
+  },
+  {
+   "name": "Miyakawa",
+   "role": "Asano employee assigned to research on the United States",
+   "variants": [
+    "Liyakawa"
+   ]
+  },
+  {
+   "name": "Izawa",
+   "role": "Iwai employee assigned to research on the United States",
+   "variants": [
+    "Izawa"
+   ]
+  },
+  {
+   "name": "Tanabe",
+   "role": "Okura employee assigned to research on the United States",
+   "variants": [
+    "Tanabe"
+   ]
+  },
+  {
+   "name": "Ogawa",
+   "role": "Osaka Shosen employee assigned to research on the United States",
+   "variants": [
+    "Ogawa"
+   ]
+  },
+  {
+   "name": "Suzuki",
+   "role": "Kanematsu employee assigned to research on the United States",
+   "variants": [
+    "Suzuki"
+   ]
+  },
+  {
+   "name": "Suda",
+   "role": "Iwai employee assigned to South American research",
+   "variants": [
+    "Suda"
+   ]
+  },
+  {
+   "name": "Fujii",
+   "role": "Itochu employee assigned to South American research",
+   "variants": [
+    "Fuiri"
+   ]
+  },
+  {
+   "name": "S. Shuakata",
+   "role": "Founder or namesake of the firm later called Compañía Chilena Oriental",
+   "variants": [
+    "S. Shuakata",
+    "SI UAKATA"
+   ]
+  },
+  {
+   "name": "Kaname Nakayama",
+   "role": "Part-owner and employee of Compañía Chilena Oriental; photographer, former army captain, and alleged intelligence operative",
+   "variants": [
+    "KANAME NAKYAMA",
+    "KANAME NAKAYAMA",
+    "NAKAYAMA",
+    "NAKAYAl'A",
+    "NAKAYALA"
+   ]
+  },
+  {
+   "name": "Isao Takada",
+   "role": "Yokohama Specie Bank representative and alleged financial coordinator for Japanese activities in Chile",
+   "variants": [
+    "ISAO TAKADA",
+    "TAKADA"
+   ]
+  },
+  {
+   "name": "Tfsina",
+   "role": "Japanese military attaché reported at a Japanese-German meeting in Peñaflor",
+   "variants": [
+    "TFSINA"
+   ]
+  },
+  {
+   "name": "Nobuka Kobayashi Miyanehi",
+   "role": "Wife of Kaname Nakayama",
+   "variants": [
+    "NOBUKA KOBAYASHI MIYANEHI"
+   ]
+  },
+  {
+   "name": "Alira Inostrozo",
+   "role": "Person allegedly enlisted by Miyasaki to rob the U.S. cultural attaché",
+   "variants": [
+    "Alira Inostrozo"
+   ]
+  },
+  {
+   "name": "Hans Borchers",
+   "role": "Former German consul general in New York and associate of Miyasaki and Nakatsuka",
+   "variants": [
+    "HANS POCHERS",
+    "HANS BORCHERS"
+   ]
+  },
+  {
+   "name": "Miyoshi Shigo Sozan",
+   "role": "Overseas Ministry member who ran the Club de Residentes in Santiago as a propaganda medium",
+   "variants": [
+    "MIYOSHI SHIGO SOZAN"
+   ]
+  },
+  {
+   "name": "Takeo Ozasa Tanaka",
+   "role": "Compañía Chilena Oriental employee, statistics specialist, and alleged intelligence intermediary",
+   "variants": [
+    "TAKEO AZASA TANAKA",
+    "TAKEO OZASA TANAKA",
+    "OZASA TANAKA",
+    "TAKEO OZAA",
+    "Ozasa",
+    "T. TANAKA",
+    "TAKEO OZASA (TANAKA)"
+   ]
+  },
+  {
+   "name": "Hiro Yayagata",
+   "role": "Wife of Takeo Ozasa Tanaka",
+   "variants": [
+    "HIRO YAyAGATA"
+   ]
+  },
+  {
+   "name": "Myrian",
+   "role": "Argentine-born daughter of Takeo Ozasa Tanaka",
+   "variants": [
+    "MYRIAN"
+   ]
+  },
+  {
+   "name": "Yoranda",
+   "role": "Argentine-born daughter of Takeo Ozasa Tanaka",
+   "variants": [
+    "YORANDA"
+   ]
+  },
+  {
+   "name": "Isoma Kobayashi",
+   "role": "Manager and president of the Nambei Trading Company and associate of the Japanese ambassador",
+   "variants": [
+    "ISOMA KQBAYASHI",
+    "KOBAYASHI",
+    "ISOiA KOBAYASHI"
+   ]
+  },
+  {
+   "name": "Masaharu Tokunaga",
+   "role": "Director of the Nambei Trading Company",
+   "variants": [
+    "MASAHARU TOKUNAGA"
+   ]
+  },
+  {
+   "name": "Yoshikazu Chiashi",
+   "role": "Director of the Nambei Trading Company",
+   "variants": [
+    "YOSHIKAZU CHIASHI"
+   ]
+  },
+  {
+   "name": "S. Miura",
+   "role": "Mitsui and South American Cotton Company representative in Buenos Aires; user of the cover name Ramon Mihura",
+   "variants": [
+    "S. MIURA",
+    "S. IUfA",
+    "S. MIURA",
+    "Ramon Mihura"
+   ]
+  },
+  {
+   "name": "Francisco Ortiz",
+   "role": "Buenos Aires lawyer, former Argentine consul in Tokyo, and intermediary for Japanese correspondence",
+   "variants": [
+    "Dr. Francisco Ortiz",
+    "FiANCISCO ORTIZ",
+    "ORTIZ",
+    "CRTIZ"
+   ]
+  },
+  {
+   "name": "Juan Esteban Montero",
+   "role": "Person whose name and post-office box were proposed as a special correspondence address",
+   "variants": [
+    "Dr. Juan Esteban Montero"
+   ]
+  },
+  {
+   "name": "Enrique Olivos",
+   "role": "Cover name used in clandestine correspondence from Santiago",
+   "variants": [
+    "Enrique Clivos",
+    "Enrique Olivos"
+   ]
+  },
+  {
+   "name": "Manuel Correa",
+   "role": "Cover name used in clandestine correspondence from Santiago",
+   "variants": [
+    "Manuel Correa",
+    "Manuel Correo"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese espionage",
+  "Latin America",
+  "propaganda",
+  "Japan Tourist Bureau",
+  "Mitsui commercial networks",
+  "strategic minerals",
+  "petroleum concessions",
+  "economic intelligence",
+  "radio intercepts",
+  "Federal Bureau of Investigation",
+  "Office of Strategic Services",
+  "corporate cover organizations"
+ ],
+ "subfiles": [
+  {
+   "title": "Summary of Japanese Messages",
+   "doc_type": "FBI transmittal memorandum with translation summary",
+   "start_page": 144,
+   "end_page": 146,
+   "continues_previous": false,
+   "date": "1942-12",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Transmits an FBI Translation Section summary of fifteen Japanese business and personal letters photographed by the U.S. Embassy in Buenos Aires.",
+   "summary": "The summary describes thirty-four photographed sheets comprising fifteen letters dated September 20–October 2, 1942. Most concern efforts by a Japanese firm to obtain freedom of movement and communications, wine exports, wool, saltpeter, insurance, money, and correspondence with Chile and Lourenço Marques. The FBI found no clear subversion, although one writer mentioned living in a building whose tenants and landlord were associated with the Axis.",
+   "keywords": [
+    "Japanese correspondence",
+    "FBI translation",
+    "Buenos Aires",
+    "Chile",
+    "business negotiations",
+    "Axis sympathizers"
+   ]
+  },
+  {
+   "title": "Instruction No. 3606 concerning filmed Japanese correspondence",
+   "doc_type": "Department of State instruction",
+   "start_page": 147,
+   "end_page": 147,
+   "continues_previous": false,
+   "date": "1942-12-16",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Buenos Aires",
+   "about": "Forwards the government’s summary of Japanese messages filmed by the embassy and discourages risky collection efforts.",
+   "summary": "The Department transmits a confidential summary of correspondence filmed and forwarded with Buenos Aires despatch No. 6936. It judges the material insufficiently valuable to justify taking risks, while inviting future films when messages are readily accessible and potentially useful.",
+   "keywords": [
+    "Japanese correspondence",
+    "Buenos Aires embassy",
+    "intelligence collection",
+    "operational risk"
+   ]
+  },
+  {
+   "title": "Japanese Radio Group",
+   "doc_type": "FBI intelligence memorandum",
+   "start_page": 148,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1942-11-21",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Reports a Japanese diplomatic intercept concerning Axis travel controls and South American boundary-defense negotiations.",
+   "summary": "The intercepted October 9 message from the Japanese ambassador in Argentina reported a Montevideo defense conference decision to regulate entry and departure by Axis nationals in Brazil and Argentina. It also described successful Brazilian-Uruguayan negotiations over boundary defense and identified General Vargari and Brazilian military officers as signatories.",
+   "keywords": [
+    "radio intercept",
+    "Japanese diplomacy",
+    "Montevideo",
+    "Axis nationals",
+    "boundary defense"
+   ]
+  },
+  {
+   "title": "Italian, German and Japanese Diplomatic Radio Messages",
+   "doc_type": "cross-reference sheet",
+   "start_page": 149,
+   "end_page": 149,
+   "continues_previous": false,
+   "date": "1942-11-21",
+   "from": "Justice Department (Hoover)",
+   "to": "",
+   "about": "Indexes a memorandum reporting the results of an examination of Axis diplomatic radio messages.",
+   "summary": "The sheet cross-references a Justice Department memorandum on Italian, German, and Japanese diplomatic radio traffic. It directs the researcher to file R62.20210/2064 for the original paper.",
+   "keywords": [
+    "cross-reference",
+    "diplomatic radio",
+    "Axis communications",
+    "Justice Department"
+   ]
+  },
+  {
+   "title": "Osaka Syosen Kaisya, São Paulo, Brazil",
+   "doc_type": "FBI intelligence memorandum",
+   "start_page": 150,
+   "end_page": 150,
+   "continues_previous": false,
+   "date": "1943-01",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Assistant Secretary of State",
+   "about": "Reports that a Japanese shipping-company manager photographed Rosario’s port facilities in 1940.",
+   "summary": "A confidential source reported that A. Osaka, manager of Osaka Shosen Kaisha in São Paulo, visited Rosario with company members from Buenos Aires in December 1940. They took numerous photographs of the port, wharves, and cereal depots despite the firm having no office or warehouse there beyond a single representative.",
+   "keywords": [
+    "Osaka Shosen Kaisha",
+    "Rosario",
+    "port photography",
+    "Japanese commercial activity"
+   ]
+  },
+  {
+   "title": "Japanese-German sabotage plan, “36”",
+   "doc_type": "cross-reference sheet",
+   "start_page": 151,
+   "end_page": 151,
+   "continues_previous": false,
+   "date": "1942-12-31",
+   "from": "Peru (Norweb)",
+   "to": "",
+   "about": "Indexes a Peruvian despatch enclosing three embassy memoranda on an alleged Japanese-German sabotage plan.",
+   "summary": "The sheet records that the legal attaché, military attaché, and another embassy officer prepared three memoranda concerning a Japanese-German sabotage plan identified as “36.” It refers the original despatch to confidential file 800.20210/1451.",
+   "keywords": [
+    "cross-reference",
+    "sabotage",
+    "Japan",
+    "Germany",
+    "Peru"
+   ]
+  },
+  {
+   "title": "Alleged German and Japanese military plan affecting Central and Latin American republics",
+   "doc_type": "cross-reference sheet",
+   "start_page": 152,
+   "end_page": 152,
+   "continues_previous": false,
+   "date": "1942-12-04",
+   "from": "Justice Department (Hoover)",
+   "to": "",
+   "about": "Indexes a Justice Department memorandum on an alleged Axis military plan concerning Latin America.",
+   "summary": "This cross-reference identifies a Hoover memorandum about an alleged German-Japanese military plan affecting Central and Latin American republics. The original is filed under 800.20210/1458.",
+   "keywords": [
+    "cross-reference",
+    "military planning",
+    "Germany",
+    "Japan",
+    "Latin America"
+   ]
+  },
+  {
+   "title": "Despatch No. 9366: Japan Tourist Bureau—Organization",
+   "doc_type": "embassy despatch",
+   "start_page": 153,
+   "end_page": 156,
+   "continues_previous": false,
+   "date": "1943-03-15",
+   "from": "U.S. Embassy, Buenos Aires; Hugh Millard for the Ambassador",
+   "to": "Secretary of State",
+   "about": "Forwards translated internal papers describing the Japan Tourist Bureau’s organization, budget, and propaganda program.",
+   "summary": "The embassy analyzes a 1941 program funded chiefly by Japanese government and Railway Ministry money, with more than half of its ¥1.56 million budget devoted to propaganda. It describes overseas offices, printed matter, films, press advertising, invitations, delegated propaganda, and possible clandestine expenditures. The despatch also notes the continuing Buenos Aires office, its links to Masao Tsuda, the Japanese Embassy, and Japanese associations, and possible use of the evidence by Argentina’s Solari Committee.",
+   "keywords": [
+    "Japan Tourist Bureau",
+    "propaganda budget",
+    "Buenos Aires",
+    "government funding",
+    "delegated propaganda"
+   ]
+  },
+  {
+   "title": "Items Connected with Policy for Project Activities in 1941",
+   "doc_type": "translated Japanese bureau letter; enclosure",
+   "start_page": 157,
+   "end_page": 160,
+   "continues_previous": false,
+   "date": "1941-04-17",
+   "from": "Tateo Tsutsumi, Japan Tourist Bureau Buenos Aires office",
+   "to": "Takanori Kimura, Permanent Director, International Tourist Bureau, Tokyo",
+   "about": "Proposes an expanded, locally adapted Japanese propaganda campaign in South America.",
+   "summary": "Tsutsumi recommends establishing a permanent representative in Rio de Janeiro and producing more Spanish-language printed matter, films, photographs, radio material, and exhibitions. He seeks access to influential Argentine newspapers through cultural and sightseeing content where political propaganda would be rejected. He also proposes inviting writers, journalists, and artists to Japan and cultivating Argentine-born second-generation Japanese through films and inspection tours.",
+   "keywords": [
+    "propaganda strategy",
+    "South America",
+    "Rio de Janeiro",
+    "Spanish-language media",
+    "nisei",
+    "press influence"
+   ]
+  },
+  {
+   "title": "Japan Tourist Bureau’s Budget Plan for 1941",
+   "doc_type": "budget; enclosure",
+   "start_page": 161,
+   "end_page": 162,
+   "continues_previous": false,
+   "date": "1941-01",
+   "from": "International Tourist Bureau",
+   "to": "",
+   "about": "Lists projected receipts and expenditures for the 1941 fiscal year, including overseas offices and propaganda activities.",
+   "summary": "The budget anticipates receipts of ¥1.56 million, principally from a government subsidy and Railway Special Accounts. Expenditures include ¥425,000 for ten overseas offices and ¥843,000 for propaganda, covering publications, films, advertising, broadcasting, exhibits, agents, invitations, and delegated work. It also raises planning-investigation spending sharply, chiefly for research into expanding propaganda.",
+   "keywords": [
+    "budget",
+    "propaganda finance",
+    "overseas offices",
+    "government subsidy",
+    "planning investigations"
+   ]
+  },
+  {
+   "title": "Details and Application of the 1941 Budget Plan",
+   "doc_type": "budget explanatory memorandum; enclosure",
+   "start_page": 163,
+   "end_page": 170,
+   "continues_previous": false,
+   "date": "1941",
+   "from": "International Tourist Bureau head office",
+   "to": "Overseas Japan Tourist Bureau offices",
+   "about": "Explains how the Bureau’s 1941 receipts and appropriations were to be administered and used.",
+   "summary": "The memorandum details financing, staffing, rent, travel, and operating allowances for offices from New York and Buenos Aires to Berlin, Manila, and Hanoi. It describes coordinated propaganda under the Tripartite Pact, multilingual publications and films, advertising allocations, part-time agents, commissioned work, invitations, and distribution expenses. The document also provides for propaganda-expansion research and for cooperation in spy prevention within the East Asia Co-Prosperity Sphere.",
+   "keywords": [
+    "budget administration",
+    "overseas propaganda",
+    "Tripartite Pact",
+    "motion pictures",
+    "part-time agents",
+    "spy prevention"
+   ]
+  },
+  {
+   "title": "Analysis of Material Contained in the Takano File",
+   "doc_type": "embassy despatch",
+   "start_page": 171,
+   "end_page": 172,
+   "continues_previous": false,
+   "date": "1943-03-20",
+   "from": "Donald R. Heath, Counselor of Embassy, Santiago",
+   "to": "Secretary of State",
+   "about": "Assesses seized Compañía Chilena Oriental records for evidence of Japanese intelligence activity and interest in strategic materials.",
+   "summary": "The despatch reviews a file obtained from the Mitsui-affiliated Compañía Chilena Oriental, whose expelled manager Goro Miyasaki was considered a dangerous Japanese spy. It concludes that apparent evacuation preparations did not prove foreknowledge of Pearl Harbor, but the records document interest in strategic minerals, U.S. munitions production, and repeated contact with paid Japanese agent Rafael Moreno Echevarría. It also notes Takano’s pessimism about Chilean relations with Japan and a Japanese survey of U.S. manganese supplies.",
+   "keywords": [
+    "Takano file",
+    "Compañía Chilena Oriental",
+    "strategic minerals",
+    "Pearl Harbor",
+    "Rafael Moreno Echevarría"
+   ]
+  },
+  {
+   "title": "Department of State routing sheet",
+   "doc_type": "routing and clearance sheet",
+   "start_page": 173,
+   "end_page": 173,
+   "continues_previous": false,
+   "date": "1943-02-25",
+   "from": "Department of State, Under Secretary Liaison Office",
+   "to": "Departmental divisions and offices",
+   "about": "Records internal routing among numerous State Department offices.",
+   "summary": "The page consists of a departmental routing form bearing office abbreviations and a February 25 stamp. It contains no substantive narrative beyond the circulation information.",
+   "keywords": [
+    "routing sheet",
+    "Department of State",
+    "internal circulation"
+   ]
+  },
+  {
+   "title": "Japanese Press Propaganda Using Statements of Allied Prisoners",
+   "doc_type": "naval intelligence report",
+   "start_page": 174,
+   "end_page": 174,
+   "continues_previous": false,
+   "date": "1943-01-18",
+   "from": "U.S. Naval Attaché, Santiago",
+   "to": "Office of Naval Intelligence",
+   "about": "Translates a pro-Axis Chilean newspaper article presenting alleged statements by captured American and British naval officers.",
+   "summary": "The report translates an El Chileno article attributing comments to Lieutenant Commanders Thomas Alton Donovan and George T. Cooper. The statements claim Japanese naval superiority, heavy American losses, and Allied strategic errors at Singapore, and were presented as Japanese propaganda for Chilean readers.",
+   "keywords": [
+    "Japanese propaganda",
+    "El Chileno",
+    "prisoners of war",
+    "naval losses",
+    "Singapore"
+   ]
+  },
+  {
+   "title": "Transmission of “Field Notes on the Japanese in Latin America”",
+   "doc_type": "OSS transmittal letter",
+   "start_page": 175,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1943-04-28",
+   "from": "William L. Langer, Director, OSS Research and Analysis Branch",
+   "to": "Philip W. Bonsal, Department of State",
+   "about": "Sends the State Department a confidential OSS study of Japanese communities in Latin America.",
+   "summary": "Langer transmits one copy of Research and Analysis Report No. 791, “Field Notes on the Japanese in Latin America.” He states that the confidential report was prepared by the OSS Research and Analysis Branch.",
+   "keywords": [
+    "OSS",
+    "Japanese diaspora",
+    "Latin America",
+    "research report"
+   ]
+  },
+  {
+   "title": "Instruction transmitting “Field Notes on the Japanese in Latin America” to Mexico",
+   "doc_type": "Department of State instruction",
+   "start_page": 176,
+   "end_page": 176,
+   "continues_previous": false,
+   "date": "1943-05-21",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Mexico City",
+   "about": "Forwards Robert B. Hall’s confidential OSS report to the embassy in Mexico.",
+   "summary": "The Department sends the report as potentially useful to the embassy. It identifies Professor, now Colonel, Robert B. Hall as its author and states that it was based on a field trip made in mid-1942.",
+   "keywords": [
+    "Robert B. Hall",
+    "OSS report",
+    "Mexico",
+    "Japanese communities"
+   ]
+  },
+  {
+   "title": "Acknowledgment of OSS report",
+   "doc_type": "State Department letter",
+   "start_page": 177,
+   "end_page": 177,
+   "continues_previous": false,
+   "date": "1943-05-07",
+   "from": "Philip W. Bonsal",
+   "to": "William L. Langer",
+   "about": "Acknowledges receipt of the OSS report on Japanese people in Latin America.",
+   "summary": "Bonsal formally acknowledges receiving “Field Notes on Japanese in Latin America.” The letter contains no substantive evaluation of the study.",
+   "keywords": [
+    "acknowledgment",
+    "OSS",
+    "Latin America",
+    "Japanese population"
+   ]
+  },
+  {
+   "title": "Assessment of OSS report “Field Notes on the Japanese in Latin America”",
+   "doc_type": "internal State Department memorandum",
+   "start_page": 178,
+   "end_page": 178,
+   "continues_previous": false,
+   "date": "1943-05-05",
+   "from": "Division of the American Republics",
+   "to": "Philip W. Bonsal and Mr. Dreier",
+   "about": "Evaluates the usefulness of Robert B. Hall’s study and highlights its discussion of Okinawans in Peru and Brazil.",
+   "summary": "The memorandum finds little wholly new information but praises the report as a compact, careful summary of Japanese immigration, population, economics, and Japanese governmental and corporate controls. It particularly values Hall’s statistical analysis, tables, and maps. It notes his suggestion that resentment among Okinawan immigrants could be exploited to weaken Japanese unity, especially in Peru and Brazil.",
+   "keywords": [
+    "OSS assessment",
+    "Japanese immigration",
+    "population statistics",
+    "Okinawans",
+    "Peru",
+    "Brazil",
+    "propaganda"
+   ]
+  },
+  {
+   "title": "Instruction transmitting “Field Notes on the Japanese in Latin America” to Brazil",
+   "doc_type": "Department of State instruction",
+   "start_page": 179,
+   "end_page": 179,
+   "continues_previous": false,
+   "date": "1943-05-21",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Rio de Janeiro",
+   "about": "Forwards Robert B. Hall’s confidential OSS report to the embassy in Brazil.",
+   "summary": "The Department sends the OSS report to Rio de Janeiro as information of possible interest. It identifies Hall as the author and notes that his findings were based on a mid-1942 field trip.",
+   "keywords": [
+    "Robert B. Hall",
+    "OSS report",
+    "Brazil",
+    "Japanese communities"
+   ]
+  },
+  {
+   "title": "Compania Minero Petrolera del Pacifico—Republic of Ecuador",
+   "doc_type": "FBI transmittal memorandum",
+   "start_page": 180,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1943-06",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Forwards intelligence concerning an Ecuadorian petroleum company suspected of Japanese financial connections.",
+   "summary": "Hoover transmits a confidential-source memorandum on Compañía Minero Petrolera del Pacífico. He notes that the information was also supplied to the U.S. embassies in Quito and Bogotá and to the Office of Exports.",
+   "keywords": [
+    "Ecuador",
+    "petroleum",
+    "Japanese investment",
+    "FBI",
+    "enemy interests"
+   ]
+  },
+  {
+   "title": "Memorandum on Compañía Minero Petrolera del Pacífico",
+   "doc_type": "FBI intelligence memorandum; enclosure",
+   "start_page": 181,
+   "end_page": 185,
+   "continues_previous": false,
+   "date": "",
+   "from": "Federal Bureau of Investigation",
+   "to": "Department of State",
+   "about": "Reviews conflicting reports that Japanese interests financed or controlled a large Ecuadorian oil concession.",
+   "summary": "The memorandum identifies the company’s officers, concession in Esmeraldas, and proposed sale to International Petroleum Company, while emphasizing the absence of conclusive proof of Japanese ownership. Other sources allege that Japanese representatives financed the concession, hired geologists, and made payments through Suganami and Nakamura in Bogotá. Detailed background on Suganami and Luis Martinez Delgado connects them with Japanese commercial, intelligence, Nazi, or Fascist circles, but the memorandum concludes that further investigation is required.",
+   "keywords": [
+    "oil concession",
+    "Ecuador",
+    "Japanese capital",
+    "Suganami",
+    "Mitsui",
+    "enemy ownership",
+    "Bogotá"
+   ]
+  },
+  {
+   "title": "Transmittal concerning the JAPSA case",
+   "doc_type": "FBI transmittal memorandum",
+   "start_page": 186,
+   "end_page": 186,
+   "continues_previous": false,
+   "date": "1943-06-07",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Forwards a restricted memorandum on an alleged Japanese espionage ring operating through commercial firms in South America.",
+   "summary": "Hoover reports an intensive investigation into a network centered in Buenos Aires, Rio de Janeiro, and Santiago and allegedly forwarding information to Japan. He requests that the attached information not be disclosed without authorization and notes distribution to embassies in Argentina, Brazil, Chile, Bolivia, and Colombia.",
+   "keywords": [
+    "JAPSA case",
+    "Japanese espionage",
+    "South America",
+    "FBI investigation",
+    "restricted intelligence"
+   ]
+  },
+  {
+   "title": "JAPSA Case: Compañía Chilena Oriental and Nambei Trading Company",
+   "doc_type": "FBI intelligence memorandum",
+   "start_page": 187,
+   "end_page": 198,
+   "continues_previous": false,
+   "date": "1943-06-05",
+   "from": "Federal Bureau of Investigation",
+   "to": "Department of State and U.S. intelligence agencies",
+   "about": "Describes an alleged Japanese espionage network operating through Mitsui-related companies and covert correspondence in Argentina, Brazil, and Chile.",
+   "summary": "The memorandum argues that Japanese nationals used Spanish cover names and small commercial firms to funnel intelligence to the Japanese Embassy in Buenos Aires after Chile broke relations with the Axis. It profiles personnel of Compañía Chilena Oriental, including Isao Takada, Kaname Nakayama, Goro Miyasaki, Takeo Takano, Susuki Nakatsuka, Takeo Ozasa Tanaka, and S. Hagiwara, detailing alleged photography, mapping, financial, propaganda, and intelligence activities. It also describes the Nambei Trading Company and reproduces clandestine addressing instructions using aliases and intermediaries such as S. Miura and Francisco Ortiz. The surviving excerpt ends mid-discussion of Ortiz’s role in transmitting correspondence.",
+   "keywords": [
+    "JAPSA espionage ring",
+    "Compañía Chilena Oriental",
+    "Nambei Trading Company",
+    "Mitsui",
+    "cover names",
+    "clandestine correspondence",
+    "Buenos Aires",
+    "Santiago"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 10,
+  "pages": [
+   144,
+   198
+  ],
+  "pdf": "894.20210 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In America. Pan-America Including Gathering Of Information. Espionage. Propaga 1466.pdf",
+  "seconds": 383.3,
+  "created": "2026-09-30 06:28:23",
+  "key": "japan-internal-affairs-894.20210-military-affairs-army-5"
+ }
+}

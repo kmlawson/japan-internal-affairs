@@ -1,0 +1,63 @@
+{
+ "interest": "Transfer sheet reclassifies a 1948 telegram to other decimal files.",
+ "keywords": [
+  "Department of State",
+  "Division of Communications and Records",
+  "Transfer Sheet",
+  "Form DS-202",
+  "Japan",
+  "Labor Adviser",
+  "Economic Matters",
+  "Telegram 1167",
+  "Records Reclassification",
+  "Decimal File 894.504A",
+  "Decimal File 894.604A",
+  "Decimal File 800.504"
+ ],
+ "overview": "September 1948 transfer sheet moves telegram 1167 (July 1948) from file 894.504A to files 894.604A and 800.504 Japan.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State transfer sheet recording the reclassification of telegram 1167 dated July 29, 1948, to new decimal file numbers.",
+   "date": "1948-09-14",
+   "doc_type": "transfer sheet",
+   "end_page": 1,
+   "from": "Division of Communications and Records",
+   "keywords": [
+    "Transfer Sheet",
+    "Form DS-202",
+    "Telegram 1167",
+    "Japan",
+    "Labor Adviser",
+    "Archival Reclassification"
+   ],
+   "start_page": 1,
+   "summary": "Transfer sheet (Sept. 1948) records moving telegram 1167 (July 1948) from file 894.504A to 894.604A and 800.504 Japan.",
+   "title": "Department of State Transfer Sheet for Telegram 1167",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13712,
+   "output_tokens": 2936,
+   "thinking_tokens": 2213,
+   "cache_read_tokens": 0,
+   "total_tokens": 16648
+  },
+  "backend": "agy",
+  "seconds": 13.4,
+  "identifier": "japan-internal-affairs-894.504a-economic-matters-labor",
+  "file": "894.504A Economic Matters., Labor., Japan, Adviser., July 29, 1948 1649.pdf",
+  "created": "2026-09-29 08:59:15"
+ }
+}

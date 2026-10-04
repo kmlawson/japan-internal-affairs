@@ -1,0 +1,980 @@
+{
+ "overview": "This file documents the U.S. response to the destructive April 21, 1935 Shinchiku–Taichu earthquake in Japanese-ruled Taiwan, together with a smaller earthquake reported in July. It combines initial casualty reports, formal condolences from President Franklin D. Roosevelt and Secretary of State Cordell Hull, Japanese acknowledgments, private appeals for American assistance, and exchanges between the State Department, White House, Navy Department, and American Red Cross over possible relief. Later material supplies detailed official figures—3,249 dead, 11,993 injured, 260,000 requiring relief—and describes extensive housing and railway damage, the disproportionate impact on Formosan Chinese, the survival of the Sun Moon Lake hydroelectric works, and military objections to abandoning a strategically defensible railway line.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa",
+    "Island of Formosa",
+    "Formosa District"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Hsinchu",
+   "variants": [
+    "Shinchiku",
+    "Shindhiku"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Taichu",
+    "Taichu city"
+   ]
+  },
+  {
+   "name": "Dajia District",
+   "variants": [
+    "Taiku",
+    "Taiko"
+   ]
+  },
+  {
+   "name": "Daan River",
+   "variants": [
+    "Daiankei River"
+   ]
+  },
+  {
+   "name": "Qingshui District",
+   "variants": [
+    "Kiyomizu"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokyo (Japan)"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON",
+    "Washington, D. C.",
+    "WASHINGTON, D.C.",
+    "WASHINGTON, D. C."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York, N. Y.",
+    "NewYork NY",
+    "NEW YORK",
+    "New York City"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "far east"
+   ]
+  },
+  {
+   "name": "North Pacific Ocean",
+   "variants": [
+    "North Pacific"
+   ]
+  },
+  {
+   "name": "New Haven",
+   "variants": [
+    "New Haven"
+   ]
+  },
+  {
+   "name": "Connecticut",
+   "variants": [
+    "Conn.",
+    "Connecticut"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Sun Moon Lake",
+   "variants": [
+    "Lake Jitsugetsutan"
+   ]
+  },
+  {
+   "name": "Zhunan",
+   "variants": [
+    "Chikunan"
+   ]
+  },
+  {
+   "name": "Changhua",
+   "variants": [
+    "Shoka"
+   ]
+  },
+  {
+   "name": "Miaoli",
+   "variants": [
+    "Oritsu"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Edward S. Maney",
+   "role": "American consul at Taihoku; described in the forwarding letter as American vice consul",
+   "variants": [
+    "MAHEY",
+    "Edward S. Maney"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Hirohito"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States and national president of the American Red Cross",
+   "variants": [
+    "Franklin D. Roosevelt",
+    "President Roosevelt",
+    "Franklin"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordell Hull",
+    "Hull",
+    "Cordell Heell",
+    "Secretary Hull",
+    "Mr. Hull"
+   ]
+  },
+  {
+   "name": "Koki Hirota",
+   "role": "Japanese minister for foreign affairs",
+   "variants": [
+    "Koki Hirota",
+    "KOKI HIROTA"
+   ]
+  },
+  {
+   "name": "James Taylor",
+   "role": "Role not stated; named in a routing notation",
+   "variants": [
+    "Mr. James Taylor"
+   ]
+  },
+  {
+   "name": "Mr. Smith",
+   "role": "Role not stated; named in a routing notation",
+   "variants": [
+    "Mr. Smith"
+   ]
+  },
+  {
+   "name": "James K. McClintock",
+   "role": "Vice chairman of the American Red Cross",
+   "variants": [
+    "James K. McClintock",
+    "James K. McClintock, Esquire",
+    "Mr. James K. McClintock",
+    "Mr. McClintock"
+   ]
+  },
+  {
+   "name": "Louis McHenry Howe",
+   "role": "Secretary to the President",
+   "variants": [
+    "Louis McH. Howe",
+    "LOUIS McH. HOWE"
+   ]
+  },
+  {
+   "name": "Benjamin R. Andrews",
+   "role": "Professor of Household Economics at Teachers College, Columbia University",
+   "variants": [
+    "Benjamin R. Andrews"
+   ]
+  },
+  {
+   "name": "Edmund de S. Brunner",
+   "role": "Professor at Teachers College, Columbia University",
+   "variants": [
+    "Edmund DesBrunner",
+    "Professor Brunner"
+   ]
+  },
+  {
+   "name": "Estelle M. Sternberger",
+   "role": "Representative of World Peace Ways",
+   "variants": [
+    "Estelle M Sternberger",
+    "Miss Estelle M. Sternberger"
+   ]
+  },
+  {
+   "name": "Edward Stron Swift",
+   "role": "Private citizen who proposed dispatching naval relief",
+   "variants": [
+    "Edward Stron Swift",
+    "Mr. Edward Stron Swift",
+    "Mr. Swift"
+   ]
+  },
+  {
+   "name": "Mr. Southgate",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Southgate"
+   ]
+  },
+  {
+   "name": "M. M. J.",
+   "role": "State Department memorandum author or drafter",
+   "variants": [
+    "M. M. J."
+   ]
+  },
+  {
+   "name": "Iesato Tokugawa",
+   "role": "President of the Japanese Red Cross",
+   "variants": [
+    "Prince Tokugawa"
+   ]
+  },
+  {
+   "name": "Cary T. Grayson",
+   "role": "Chairman of the American Red Cross",
+   "variants": [
+    "Cary T. Grayson",
+    "Cary Grayson",
+    "Admiral Grayson",
+    "Grayson"
+   ]
+  },
+  {
+   "name": "William Phillips",
+   "role": "U.S. under secretary of state and member of the American Red Cross Central Committee",
+   "variants": [
+    "William Phillips",
+    "Honorable William Phillips",
+    "Mr. Phillips",
+    "Bill"
+   ]
+  },
+  {
+   "name": "Charles Evans Hughes",
+   "role": "Vice president of the American Red Cross",
+   "variants": [
+    "Charles Evans Hughes"
+   ]
+  },
+  {
+   "name": "Herbert Hoover",
+   "role": "Vice president of the American Red Cross",
+   "variants": [
+    "Herbert Hoover"
+   ]
+  },
+  {
+   "name": "James Crawford Biggs",
+   "role": "Counselor of the American Red Cross and Central Committee member",
+   "variants": [
+    "James Crawford Biggs"
+   ]
+  },
+  {
+   "name": "T. Jefferson Coolidge",
+   "role": "Treasurer of the American Red Cross and trustee of its Endowment Fund",
+   "variants": [
+    "T. Jefferson Coolidge"
+   ]
+  },
+  {
+   "name": "Mabel T. Boardman",
+   "role": "Secretary of the American Red Cross and Central Committee member",
+   "variants": [
+    "Mabel T. Boardman"
+   ]
+  },
+  {
+   "name": "James L. Fieser",
+   "role": "Vice chairman of the American Red Cross",
+   "variants": [
+    "James L. Fieser"
+   ]
+  },
+  {
+   "name": "Ernest P. Bicknell",
+   "role": "Vice chairman of the American Red Cross",
+   "variants": [
+    "Ernest P. Bicknell"
+   ]
+  },
+  {
+   "name": "Mrs. August Belmont",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Mrs. August Belmont"
+   ]
+  },
+  {
+   "name": "Cornelius N. Bliss",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Cornelius N. Bliss"
+   ]
+  },
+  {
+   "name": "Mrs. Henry P. Davison",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Mrs. Henry P. Davison"
+   ]
+  },
+  {
+   "name": "William Fortune",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "William Fortune"
+   ]
+  },
+  {
+   "name": "Samuel Knight",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Samuel Knight"
+   ]
+  },
+  {
+   "name": "Robert U. Patterson",
+   "role": "Major general and member of the American Red Cross Central Committee",
+   "variants": [
+    "Maj. Gen. Robert U. Patterson"
+   ]
+  },
+  {
+   "name": "Gustavus D. Pope",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Gustavus D. Pope"
+   ]
+  },
+  {
+   "name": "Mrs. Henry R. Rea",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Mrs. Henry R. Rea"
+   ]
+  },
+  {
+   "name": "P. S. Rossiter",
+   "role": "Rear admiral and member of the American Red Cross Central Committee",
+   "variants": [
+    "Rear Admiral P. S. Rossiter"
+   ]
+  },
+  {
+   "name": "George E. Scott",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "George E. Scott"
+   ]
+  },
+  {
+   "name": "Henry Upson Sims",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Henry Upson Sims"
+   ]
+  },
+  {
+   "name": "Alfred E. Smith",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Alfred E. Smith"
+   ]
+  },
+  {
+   "name": "Eliot Wadsworth",
+   "role": "Member of the American Red Cross Central Committee",
+   "variants": [
+    "Eliot Wadsworth"
+   ]
+  },
+  {
+   "name": "Henry Morgenthau Jr.",
+   "role": "Chairman of the American Red Cross Endowment Fund trustees",
+   "variants": [
+    "Henry Morgenthau, Jr.",
+    "Henry Morgantheu, Jr."
+   ]
+  },
+  {
+   "name": "Henry P. Davison",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "Henry P. Davison"
+   ]
+  },
+  {
+   "name": "Howard W. Fenton",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "Howard W. Fenton"
+   ]
+  },
+  {
+   "name": "William D. Hoover",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "William D. Hoover"
+   ]
+  },
+  {
+   "name": "William A. Julian",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "William A. Julian"
+   ]
+  },
+  {
+   "name": "Harry G. Meem",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "Harry G. Meem",
+    "Harry G. Meen"
+   ]
+  },
+  {
+   "name": "Corcoran Thom",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "Corcoran Thom"
+   ]
+  },
+  {
+   "name": "Felix M. Warburg",
+   "role": "Trustee of the American Red Cross Endowment Fund",
+   "variants": [
+    "Felix M. Warburg"
+   ]
+  },
+  {
+   "name": "Stanley Reed",
+   "role": "Counselor of the American Red Cross and Central Committee member",
+   "variants": [
+    "Stanley Reed"
+   ]
+  },
+  {
+   "name": "Eleanor Roosevelt",
+   "role": "First Lady of the United States",
+   "variants": [
+    "Chas. W. B. Bower",
+    "Mrs. Roosevelt"
+   ]
+  },
+  {
+   "name": "Garrels",
+   "role": "U.S. Embassy officer in Tokyo who transmitted the July earthquake report",
+   "variants": [
+    "GARRELS"
+   ]
+  }
+ ],
+ "keywords": [
+  "1935 Shinchiku–Taichu earthquake",
+  "Taiwan under Japanese rule",
+  "earthquake casualties",
+  "disaster relief",
+  "American Red Cross",
+  "Japanese Red Cross",
+  "U.S.–Japan relations",
+  "diplomatic condolences",
+  "Formosan Chinese",
+  "housing destruction",
+  "railway damage",
+  "Sun Moon Lake hydroelectric plant",
+  "military strategy",
+  "July 1935 earthquake"
+ ],
+ "subfiles": [
+  {
+   "title": "Initial report of the April 21 Taiwan earthquake",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1935-04-21",
+   "from": "Edward S. Maney, American Consulate, Taihoku",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the first casualty estimates and physical effects of the April 21 earthquake in central Taiwan.",
+   "summary": "Maney reports shocks at 6:00 and 6:27 a.m., centered near the Daan River northeast of Taichung. Unofficial estimates put the toll at 2,600 dead and 6,000 injured; Qingshui was destroyed by shock and fire, Dajia was burning, and railway communications were severed. Taipei was undamaged and all known Americans on the island were safe.",
+   "keywords": [
+    "earthquake",
+    "initial casualty estimate",
+    "Qingshui",
+    "Dajia",
+    "railway disruption",
+    "American citizens"
+   ]
+  },
+  {
+   "title": "Roosevelt's condolences to Emperor Hirohito",
+   "doc_type": "telegram",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1935-04-22",
+   "from": "Franklin D. Roosevelt",
+   "to": "Emperor Hirohito",
+   "about": "Extends the sympathy of the American people for the suffering and loss of life caused by the Taiwan disaster.",
+   "summary": "President Roosevelt sends formal condolences to Emperor Hirohito. He speaks for the people of the United States in expressing sympathy to Japan and those affected by the disaster.",
+   "keywords": [
+    "condolences",
+    "Franklin D. Roosevelt",
+    "Hirohito",
+    "disaster diplomacy"
+   ]
+  },
+  {
+   "title": "Hull informs the Tokyo embassy of condolence messages",
+   "doc_type": "telegram",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1935-04-22",
+   "from": "Cordell Hull",
+   "to": "U.S. Embassy, Tokyo",
+   "about": "Notifies the embassy that Roosevelt and Hull have sent messages concerning the Taiwan disaster.",
+   "summary": "Hull reports that President Roosevelt has telegraphed the Emperor with condolences. Hull adds that he has sent a similar message to the Japanese minister for foreign affairs.",
+   "keywords": [
+    "Cordell Hull",
+    "U.S. Embassy Tokyo",
+    "condolence messages",
+    "diplomatic notification"
+   ]
+  },
+  {
+   "title": "Hull's condolences to Koki Hirota",
+   "doc_type": "telegram",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1935-04-22",
+   "from": "Cordell Hull",
+   "to": "Koki Hirota",
+   "about": "Expresses the American government's sorrow over the destruction of life and property in Taiwan.",
+   "summary": "Secretary Hull assures Foreign Minister Hirota of the profound concern with which news of the catastrophe was received in the United States. The message emphasizes both loss of life and destruction of property.",
+   "keywords": [
+    "Cordell Hull",
+    "Koki Hirota",
+    "official sympathy",
+    "property destruction"
+   ]
+  },
+  {
+   "title": "Hull forwards the Taihoku report to the American Red Cross",
+   "doc_type": "letter",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1935-04-25",
+   "from": "Cordell Hull",
+   "to": "James K. McClintock",
+   "about": "Provides the American Red Cross with a copy of the consular earthquake telegram.",
+   "summary": "Hull encloses for McClintock's information the April 21 telegram from the American representative at Taihoku. The enclosed report concerns the circumstances and effects of the recent Formosa earthquake. McClintock's later acknowledgment identifies this forwarding letter as dated April 25, despite the ambiguous OCR date on this copy.",
+   "keywords": [
+    "American Red Cross",
+    "consular report",
+    "information sharing",
+    "Cordell Hull"
+   ]
+  },
+  {
+   "title": "Hirota thanks Hull for American sympathy",
+   "doc_type": "telegram",
+   "start_page": 6,
+   "end_page": 6,
+   "date": "1935-04-23",
+   "from": "Koki Hirota",
+   "to": "Cordell Hull",
+   "about": "Acknowledges the American government's message of sympathy for the Taiwan catastrophe.",
+   "summary": "Foreign Minister Hirota expresses heartfelt gratitude on behalf of the Japanese government. He characterizes the American government's expression of sympathy as magnanimous.",
+   "keywords": [
+    "Koki Hirota",
+    "acknowledgment",
+    "Japanese government",
+    "American sympathy"
+   ]
+  },
+  {
+   "title": "White House referral of the Andrews–Brunner appeal",
+   "doc_type": "referral sheet",
+   "start_page": 7,
+   "end_page": 7,
+   "date": "1935-04-23",
+   "from": "Louis McHenry Howe",
+   "to": "U.S. Department of State",
+   "about": "Refers a White House communication on Taiwan relief for immediate consideration and reply.",
+   "summary": "Secretary to the President Louis Howe sends the accompanying communication to State Department officials. He requests immediate consideration and a response.",
+   "keywords": [
+    "White House",
+    "State Department referral",
+    "Louis Howe",
+    "relief appeal"
+   ]
+  },
+  {
+   "title": "Andrews and Brunner urge relief assistance",
+   "doc_type": "telegram",
+   "start_page": 8,
+   "end_page": 8,
+   "date": "1935-04-23",
+   "from": "Benjamin R. Andrews and Edmund de S. Brunner",
+   "to": "Franklin D. Roosevelt",
+   "about": "Urges an official expression of sympathy and an offer of emergency supplies and medical services.",
+   "summary": "The Teachers College professors ask Roosevelt to supplement the Red Cross offer with an official national expression of sympathy. They propose offering tents, shelter supplies, and medical services from Manila.",
+   "keywords": [
+    "Teachers College",
+    "relief supplies",
+    "medical services",
+    "Manila",
+    "national sympathy"
+   ]
+  },
+  {
+   "title": "World Peace Ways appeal to Hull",
+   "doc_type": "telegram",
+   "start_page": 9,
+   "end_page": 9,
+   "date": "1935-04-23",
+   "from": "Estelle M. Sternberger, World Peace Ways",
+   "to": "Cordell Hull",
+   "about": "Calls on the U.S. government to relieve distress in the Japanese disaster area.",
+   "summary": "Sternberger expresses hope that the administration will follow traditional policies of sympathy and goodwill. She voices confidence that the president and State Department will act to alleviate suffering.",
+   "keywords": [
+    "World Peace Ways",
+    "Estelle Sternberger",
+    "humanitarian appeal",
+    "goodwill"
+   ]
+  },
+  {
+   "title": "Hull replies to Sternberger on Japanese relief capacity",
+   "doc_type": "telegram",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1935-04-25",
+   "from": "Cordell Hull",
+   "to": "Estelle M. Sternberger",
+   "about": "Explains that the Japanese Red Cross believes it can manage the emergency without American assistance.",
+   "summary": "Hull replies that the Japanese Red Cross has answered an inquiry from the American Red Cross. The Japanese organization expressed confidence in its ability to deal with the present emergency.",
+   "keywords": [
+    "Japanese Red Cross",
+    "American Red Cross",
+    "relief capacity",
+    "Cordell Hull"
+   ]
+  },
+  {
+   "title": "White House referral sheet for an unidentified communication",
+   "doc_type": "referral sheet",
+   "start_page": 11,
+   "end_page": 11,
+   "date": "1935-04-23",
+   "from": "Louis McHenry Howe",
+   "to": "U.S. Department of State",
+   "about": "Refers an unidentified White House communication to the State Department.",
+   "summary": "The page contains Howe's direction that a communication be referred to the State Department. Administrative stamps show circulation through the department, but the underlying communication is not reproduced or identified on this page.",
+   "keywords": [
+    "White House",
+    "State Department",
+    "administrative referral",
+    "Louis Howe"
+   ]
+  },
+  {
+   "title": "White House referral of Swift's naval-relief proposal",
+   "doc_type": "referral sheet",
+   "start_page": 12,
+   "end_page": 12,
+   "date": "1935-04-23",
+   "from": "Louis McHenry Howe",
+   "to": "U.S. Department of State",
+   "about": "Forwards Swift's proposal for immediate consideration while sending the original telegram to the Navy Department.",
+   "summary": "Howe refers Edward Stron Swift's telegram to State Department officials for consideration and reply. He notes that the telegram is also being sent to the Navy Department.",
+   "keywords": [
+    "White House",
+    "Navy Department",
+    "Edward Stron Swift",
+    "referral"
+   ]
+  },
+  {
+   "title": "Swift proposes sending the fleet with relief supplies",
+   "doc_type": "telegram",
+   "start_page": 13,
+   "end_page": 13,
+   "date": "1935-04-22",
+   "from": "Edward Stron Swift",
+   "to": "Franklin D. Roosevelt",
+   "about": "Asks the president to dispatch a naval fleet carrying relief supplies to the Far East.",
+   "summary": "Swift argues that a fleet carrying abundant supplies would be a powerful gesture of American friendship. He contrasts such humanitarian action with naval maneuvers in the North Pacific and urges haste during the Easter season.",
+   "keywords": [
+    "naval relief",
+    "U.S. fleet",
+    "North Pacific",
+    "humanitarian diplomacy",
+    "Edward Stron Swift"
+   ]
+  },
+  {
+   "title": "State Department memorandum on Swift's proposal",
+   "doc_type": "memorandum",
+   "start_page": 14,
+   "end_page": 14,
+   "date": "1935-04-24",
+   "from": "M. M. J., Division of Far Eastern Affairs",
+   "to": "Mr. Southgate",
+   "about": "Recommends against acting on Swift's naval-relief proposal because Japanese relief arrangements are sufficient.",
+   "summary": "The memorandum notes that the State Department asked the Navy Department to delay action pending interdepartmental discussion. The American Red Cross had confirmed that its Japanese counterpart believed it could manage the emergency. The drafter recommends informing Swift that no further action appears necessary and sending him copies of Roosevelt's message of sympathy.",
+   "keywords": [
+    "internal memorandum",
+    "Navy Department",
+    "Japanese Red Cross",
+    "naval relief proposal",
+    "interdepartmental coordination"
+   ]
+  },
+  {
+   "title": "Hull rejects the need for Swift's proposed relief fleet",
+   "doc_type": "telegram",
+   "start_page": 15,
+   "end_page": 15,
+   "date": "1935-04-24",
+   "from": "Cordell Hull",
+   "to": "Edward Stron Swift",
+   "about": "Explains that Japanese relief agencies have the emergency under control and that formal condolences have already been sent.",
+   "summary": "Hull tells Swift that the Japanese Red Cross has expressed confidence in its ability to handle the emergency. He also notes the messages of sympathy sent by Roosevelt to the Emperor and by Hull to the foreign minister.",
+   "keywords": [
+    "Edward Stron Swift",
+    "Japanese Red Cross",
+    "relief declined",
+    "official condolences"
+   ]
+  },
+  {
+   "title": "McClintock conveys Tokugawa's reply",
+   "doc_type": "letter",
+   "start_page": 16,
+   "end_page": 16,
+   "date": "1935-04-25",
+   "from": "James K. McClintock",
+   "to": "William Phillips",
+   "about": "Transmits the Japanese Red Cross president's statement that existing relief arrangements are sufficient.",
+   "summary": "McClintock sends Phillips the cable received from Prince Tokugawa in response to Admiral Grayson's message. Tokugawa thanks the American Red Cross for its sympathy but reports that Japanese relief arrangements appear sufficient.",
+   "keywords": [
+    "James McClintock",
+    "William Phillips",
+    "Prince Tokugawa",
+    "Japanese Red Cross",
+    "relief sufficient"
+   ]
+  },
+  {
+   "title": "Andrews thanks Hull for the American response",
+   "doc_type": "letter",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1935-04-30",
+   "from": "Benjamin R. Andrews",
+   "to": "Cordell Hull",
+   "about": "Expresses appreciation for the government's condolences and its handling of the Red Cross offer.",
+   "summary": "Andrews writes on behalf of himself and Professor Brunner to thank Hull for reporting the actions taken. He argues that gestures of this kind build genuine international understanding.",
+   "keywords": [
+    "Benjamin Andrews",
+    "Teachers College",
+    "international understanding",
+    "appreciation"
+   ]
+  },
+  {
+   "title": "McClintock reports Grayson's offer to Tokugawa",
+   "doc_type": "letter",
+   "start_page": 18,
+   "end_page": 18,
+   "date": "1935-04-22",
+   "from": "James K. McClintock",
+   "to": "William Phillips",
+   "about": "Provides the text of the American Red Cross offer of assistance sent to the Japanese Red Cross.",
+   "summary": "McClintock tells Phillips that Admiral Grayson has cabled Prince Tokugawa with sympathy, praise for the Japanese Red Cross response, and an offer of assistance. He explains that press deadlines required prompt action and hopes his revisions resolved the issues previously discussed with Phillips.",
+   "keywords": [
+    "American Red Cross",
+    "Cary Grayson",
+    "Prince Tokugawa",
+    "offer of assistance",
+    "press relations"
+   ]
+  },
+  {
+   "title": "Phillips approves Grayson's Red Cross message",
+   "doc_type": "letter",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1935-04-23",
+   "from": "William Phillips",
+   "to": "James K. McClintock",
+   "about": "Approves the American Red Cross cable sent to Prince Tokugawa.",
+   "summary": "Phillips thanks McClintock for providing the text of Grayson's message. He fully approves its contents and agrees that the cable was properly dispatched without further delay.",
+   "keywords": [
+    "William Phillips",
+    "James McClintock",
+    "message approval",
+    "American Red Cross"
+   ]
+  },
+  {
+   "title": "McClintock acknowledges the consular earthquake report",
+   "doc_type": "letter",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1935-05-01",
+   "from": "James K. McClintock",
+   "to": "Cordell Hull",
+   "about": "Thanks Hull for supplying the Taihoku vice consul's report on the Formosa disaster.",
+   "summary": "McClintock acknowledges Hull's April 25 letter and the enclosed April 21 telegram from Taihoku. He says the American Red Cross is pleased to add the information to its files and appreciates the State Department's cooperation.",
+   "keywords": [
+    "American Red Cross files",
+    "Taihoku telegram",
+    "acknowledgment",
+    "interagency cooperation"
+   ]
+  },
+  {
+   "title": "Eleanor Roosevelt asks about relief gestures",
+   "doc_type": "letter",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1935-04-30",
+   "from": "Eleanor Roosevelt",
+   "to": "William Phillips",
+   "about": "Asks whether the Red Cross or Congress should make an additional gesture of friendship toward earthquake victims.",
+   "summary": "Roosevelt asks Phillips what the Red Cross has done for people in the Formosa district. She suggests consulting Cary Grayson and wonders whether Congress might also act, emphasizing the value of a timely gesture of friendliness.",
+   "keywords": [
+    "Eleanor Roosevelt",
+    "William Phillips",
+    "Cary Grayson",
+    "Congress",
+    "friendship gesture"
+   ]
+  },
+  {
+   "title": "Phillips explains the completed relief inquiries",
+   "doc_type": "letter",
+   "start_page": 22,
+   "end_page": 23,
+   "date": "1935-05-02",
+   "from": "William Phillips",
+   "to": "Eleanor Roosevelt",
+   "about": "Reviews the condolences and relief offers already made and concludes that no further American action is appropriate.",
+   "summary": "Phillips quotes Grayson's offer to the Japanese Red Cross and Tokugawa's reply that relief arrangements were sufficient, then recounts the messages sent by Roosevelt and Hull. He adds that Grayson personally called on the Japanese ambassador, who later reported about 5,000 deaths but said the authorities had the situation under control. Because inquiries in both Tokyo and Washington produced answers that no assistance was needed, Phillips concludes that the United States has done all it properly can.",
+   "keywords": [
+    "Eleanor Roosevelt",
+    "William Phillips",
+    "Japanese ambassador",
+    "relief inquiries",
+    "5,000 deaths",
+    "no assistance required"
+   ]
+  },
+  {
+   "title": "Consular despatch on earthquake damage in Taiwan",
+   "doc_type": "despatch",
+   "start_page": 24,
+   "end_page": 26,
+   "date": "1935-05-14",
+   "from": "Edward S. Maney, American Consul, Taihoku",
+   "to": "Secretary of State, Washington",
+   "about": "Summarizes the Taiwan Government-General's official casualty, relief, and property-damage figures.",
+   "summary": "The official statement counted 3,249 dead, 11,993 injured, and 260,000 people requiring relief; nearly all casualties were Formosan Chinese, while only eight Japanese were killed and no non-Chinese foreigners were harmed. It recorded 17,835 houses destroyed, 11,244 half destroyed, 9,429 badly damaged, and building losses of approximately ¥14 million. Damage to the mountain railway between Zhunan and Changhua was estimated at ¥6 million, prompting discussion of abandoning it for the coast line, although the Army objected that the mountain route was more defensible against air raids. The Sun Moon Lake hydroelectric installation escaped major damage, and the American Consulate was unharmed.",
+   "keywords": [
+    "official casualty figures",
+    "Formosan Chinese",
+    "housing damage",
+    "Taiwan State Railway",
+    "air-raid defense",
+    "Sun Moon Lake",
+    "property losses"
+   ]
+  },
+  {
+   "title": "July earthquake near Miaoli",
+   "doc_type": "telegram",
+   "start_page": 27,
+   "end_page": 27,
+   "date": "1935-07-17",
+   "from": "Garrels, U.S. Embassy, Tokyo, relaying Taihoku",
+   "to": "Secretary of State, Washington",
+   "about": "Reports a new earthquake in Hsinchu Province with 49 deaths and 134 injuries.",
+   "summary": "The Tokyo embassy relays a Taihoku report of an earthquake centered near Miaoli on July 17. It states that 49 people were killed and 134 injured, with no Americans involved.",
+   "keywords": [
+    "July 1935 earthquake",
+    "Miaoli",
+    "Hsinchu",
+    "casualties",
+    "American citizens"
+   ]
+  }
+ ],
+ "interest": "The file is especially valuable for showing how disaster relief became an instrument of U.S.–Japanese diplomacy during a period of growing strategic tension: private citizens and Eleanor Roosevelt pressed for visible generosity, while officials repeatedly deferred to Japanese assurances that outside aid was unnecessary. The detailed consular despatch permits comparison between early, press-driven estimates and later official statistics, while its ethnic breakdown exposes the earthquake's overwhelmingly unequal impact on Taiwan's colonized Chinese population. Its discussion of whether to abandon the damaged mountain railway—and the Japanese Army's objection based on vulnerability to air attack—also links humanitarian disaster reporting to contemporary military planning.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 253.9,
+  "identifier": "japan-internal-affairs-894a.48-formosa-taiwan-calamities-1",
+  "file": "894A.48 Formosa. Taiwan, Calamities. Disasters. Earthquake. Hurricane. Fire. Flood. Famine. Disease. Relief Measures., April 21, 1935 - July 17, 1935 872.pdf",
+  "created": "2026-09-29 02:58:23"
+ }
+}

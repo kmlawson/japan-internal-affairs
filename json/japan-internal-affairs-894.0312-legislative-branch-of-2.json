@@ -1,0 +1,96 @@
+{
+ "interest": "U.S. tracking of the 1937 Hamada–Terauchi 'harakiri debate.'",
+ "keywords": [
+  "Japanese Diet",
+  "House of Representatives",
+  "Lower House",
+  "Seiyukai",
+  "Imperial Japanese Army",
+  "Cabinet crisis",
+  "Diet dissolution",
+  "General election",
+  "Minister for War",
+  "Joseph C. Grew",
+  "List of Papers",
+  "Department of State"
+ ],
+ "overview": "List of Papers for 894.0312 indexing 1937 reports on the Hamada–Terauchi clash, Diet prorogation and the Lower House dissolution.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Graw"
+   ]
+  },
+  {
+   "name": "Kunimatsu Hamada",
+   "role": "Member of the Diet (Seiyukai)",
+   "variants": [
+    "Hamada"
+   ]
+  },
+  {
+   "name": "Hisaichi Terauchi",
+   "role": "Minister for War",
+   "variants": [
+    "Terauchi"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Far Eastern Division, Department of State",
+   "variants": [
+    "Ballantine"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet indexing three 1937 communications concerning political crises, the Army-parliamentary conflict, and the dissolution of the Japanese Lower House.",
+   "date": "1937",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese Diet",
+    "Lower House",
+    "dissolution",
+    "general election",
+    "Kunimatsu Hamada",
+    "Hisaichi Terauchi",
+    "Joseph C. Grew",
+    "Joseph W. Ballantine"
+   ],
+   "start_page": 1,
+   "summary": "List of Papers for 894.0312 indexing three 1937 records on the Diet crisis and Lower House dissolution.",
+   "title": "Department of State List of Papers for File 894.0312 on Organization of the Lower House",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13913,
+   "output_tokens": 7498,
+   "thinking_tokens": 6513,
+   "cache_read_tokens": 0,
+   "total_tokens": 21411
+  },
+  "backend": "agy",
+  "seconds": 25.8,
+  "identifier": "japan-internal-affairs-894.0312-legislative-branch-of-2",
+  "file": "894.0312 Legislative Branch Of Government., Organization., Japan, Lowe House.,  390.pdf",
+  "created": "2026-09-28 22:37:27"
+ }
+}

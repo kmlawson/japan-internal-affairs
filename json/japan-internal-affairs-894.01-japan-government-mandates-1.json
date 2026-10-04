@@ -1,0 +1,188 @@
+{
+ "interest": "Japan's army bought foodstuffs on Mexico's Pacific coast in 1932 through U.S.-based agents.",
+ "keywords": [
+  "Japan",
+  "Mexico",
+  "Mazatlán",
+  "Japanese Army",
+  "Foodstuffs",
+  "Sino-Japanese Conflict",
+  "J. Reuben Clark Jr.",
+  "Shinto Maru",
+  "Military logistics",
+  "Sinaloa",
+  "Guadalajara",
+  "Chickpeas"
+ ],
+ "overview": "This State Department file (decimal file 894.01 / 894.24/48) contains Despatch No. 1279, dated February 29, 1932, sent by U.S. Ambassador to Mexico J. Reuben Clark, Jr. to the Secretary of State, along with an internal Department cross-reference sheet and a translation of a Mexican newspaper article from Excélsior. The documents report that approximately twenty-five commercial agents acting on behalf of the Japanese government arrived in western Mexican regions—notably Mazatlán, Sinaloa, Sonora, and Guadalajara, Jalisco—operating via American wholesale houses to purchase vast quantities of foodstuffs, including beans, chickpeas, salt fish, shrimp, and dried tomatoes, to provision the Japanese army fighting in China. The file highlights the positive commercial reception among Mexican farming and fishing industries anticipating significant economic gains, as well as shipping arrangements involving vessels of the Japanese shipping company Shinto Maru.",
+ "people": [
+  {
+   "name": "J. Reuben Clark, Jr.",
+   "role": "U.S. Ambassador to Mexico",
+   "variants": [
+    "Clark",
+    "J. Reuben Clark, Jr."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "Mazatlán",
+   "variants": [
+    "Mazatlan",
+    "Mazatlán",
+    "Macatras"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Guadalajara",
+   "variants": [
+    "Guadalajara"
+   ]
+  },
+  {
+   "name": "Jalisco",
+   "variants": [
+    "Jalisco",
+    "Jalisse"
+   ]
+  },
+  {
+   "name": "Sinaloa",
+   "variants": [
+    "Sinaloa",
+    "SINALOA"
+   ]
+  },
+  {
+   "name": "Sonora",
+   "variants": [
+    "Sonora"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pacific coast"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South American"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "State Department cross-reference sheet indicating that Despatch No. 1279 from Mexico concerning Japanese purchases of foodstuffs is filed under 894.24/48.",
+   "date": "1932-02-29",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "cross-reference",
+    "Mexico",
+    "Mazatlan",
+    "Japanese Army",
+    "foodstuffs",
+    "J. Reuben Clark Jr."
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Clark's Despatch No. 1279 (February 29, 1932) on Japanese agents buying army supplies at Mazatlán.",
+   "title": "Cross-Reference Sheet for Despatch No. 1279 Regarding Japanese Foodstuff Purchases",
+   "to": ""
+  },
+  {
+   "about": "Despatch reporting Mexican newspaper accounts of Japanese commercial agents arriving to purchase large quantities of beans and foodstuffs for the Japanese army.",
+   "date": "1932-02-29",
+   "doc_type": "despatch",
+   "end_page": 3,
+   "from": "J. Reuben Clark, Jr.",
+   "keywords": [
+    "J. Reuben Clark Jr.",
+    "Mexico City",
+    "Mazatlan",
+    "Guadalajara",
+    "Jalisco",
+    "beans",
+    "foodstuffs",
+    "Japanese Army"
+   ],
+   "start_page": 2,
+   "summary": "J. Reuben Clark, Jr. reports Japanese agents buying foodstuffs at Mazatlán and Guadalajara for the Japanese army.",
+   "title": "Despatch No. 1279 from Clark (Mexico City) on Japanese Food Purchases",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Translation of a Mexican newspaper report from Excélsior describing Japanese agents in Mazatlán and Sonora contracting foodstuffs for troops in China.",
+   "date": "1932-02-26",
+   "doc_type": "clipping",
+   "end_page": 5,
+   "from": "Excélsior",
+   "keywords": [
+    "Excelsior",
+    "Mazatlan",
+    "Sinaloa",
+    "Sonora",
+    "China",
+    "foodstuffs",
+    "shrimp",
+    "chickpeas",
+    "Shinto Maru",
+    "Japanese Army"
+   ],
+   "start_page": 4,
+   "summary": "Excélsior reports twenty-five agents from the United States buying shrimp, chickpeas and other food in Sinaloa and Sonora for Japanese forces in China.",
+   "title": "Translation of Excélsior Article on Japanese Purchasing Agents at Mazatlán",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14321,
+   "output_tokens": 7538,
+   "thinking_tokens": 6024,
+   "cache_read_tokens": 0,
+   "total_tokens": 21859
+  },
+  "backend": "agy",
+  "seconds": 25.2,
+  "identifier": "japan-internal-affairs-894.01-japan-government-mandates-1",
+  "file": "894.01 Japan, Government. Mandates, Recognition., February 29, 1932 737.pdf",
+  "created": "2026-09-28 21:46:45"
+ }
+}

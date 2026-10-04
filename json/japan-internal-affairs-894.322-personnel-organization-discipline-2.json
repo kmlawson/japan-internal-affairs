@@ -1,0 +1,83 @@
+{
+ "interest": "This document offers a compelling glimpse into naval coexistence and humanitarian assistance along the Yangtze River during the interwar era. It highlights an instance of cooperation where the crew of the American gunboat U.S.S. Sacramento rescued Japanese sailors from the river gunboat Simida who had fallen into the water. Additionally, it illuminates the State Department's decimal filing and cross-referencing methods, connecting Japanese internal naval affairs with records of the U.S. Asiatic Fleet.",
+ "keywords": [
+  "Japanese Navy",
+  "enlisted personnel",
+  "U.S.S. Sacramento",
+  "Simida",
+  "Nanking",
+  "Asiatic Fleet",
+  "rescue operation",
+  "gunboat",
+  "sailors",
+  "State Department List of Papers"
+ ],
+ "overview": "This file contains a single State Department List of Papers docket sheet for decimal classification 894.322, concerning enlisted personnel of the Japanese Navy. It records Sub No. 1, a despatch (D-577) dated December 2 sent from Willys R. Peck in Nanking to the Division of Far Eastern Affairs (FE). The entry summarizes the rescue of three Japanese sailors from drowning by a motor sampan from the U.S.S. Sacramento after ten sailors from the Japanese gunboat Simida were thrown into the river, noting cross-references to naval files of the Asiatic Fleet.",
+ "people": [
+  {
+   "name": "Willys R. Peck",
+   "role": "U.S. Diplomatic Representative in Nanking",
+   "variants": [
+    "Peck"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American",
+    "U.S.S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department list of papers docket sheet recording an incoming despatch regarding the rescue of Japanese sailors by the U.S.S. Sacramento.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "",
+   "keywords": [
+    "List of Papers",
+    "Japanese Navy",
+    "enlisted personnel",
+    "U.S.S. Sacramento",
+    "Simida",
+    "Nanking",
+    "rescue"
+   ],
+   "start_page": 1,
+   "summary": "This document is a State Department List of Papers docket sheet for decimal file 894.322, concerning enlisted personnel of the Japanese Navy. It records entry Sub No. 1, corresponding to despatch D-577 dated December 2 from Willys R. Peck at Nanking to the Division of Far Eastern Affairs. The purport describes the rescue of three Japanese sailors by an American motor sampan from the U.S.S. Sacramento after ten sailors from the Japanese gunboat Simida fell into the river, noting cross-references to Asiatic Fleet files 811.30 and 091.944.",
+   "title": "List of Papers: Enlisted personnel of the Japanese Navy",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13739,
+   "output_tokens": 3967,
+   "thinking_tokens": 3276,
+   "cache_read_tokens": 0,
+   "total_tokens": 17706
+  },
+  "backend": "agy",
+  "seconds": 18.3,
+  "identifier": "japan-internal-affairs-894.322-personnel-organization-discipline-2",
+  "file": "894.322 Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services., Japan, Enlisted Men.,  538.pdf",
+  "created": "2026-09-29 04:07:09"
+ }
+}

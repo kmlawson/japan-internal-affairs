@@ -1,0 +1,895 @@
+{
+ "section_summary": "This section documents the South Manchuria Railway Company’s financial condition, expanding workforce, traffic revenues, subsidiary enterprises, and proposed five-year investment program. It repeatedly examines the conflict between the company’s commercial and shareholder interests and the Kwantung Army’s determination to subordinate it to military and “national policy,” including plans to relocate offices, divide subsidiaries, and unify railway management under Manchukuo. Other records cover the Kochu Kungssu trading subsidiary, a Peiping–Mukden through-freight agreement, and a detailed but incomplete analysis of the company’s 1935–1936 balance sheet.",
+ "places": [
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "North Manchuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China",
+    "north China"
+   ]
+  },
+  {
+   "name": "Nile Valley",
+   "variants": [
+    "Nile Valley"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Anshan",
+   "variants": [
+    "Anshan"
+   ]
+  },
+  {
+   "name": "Kanseishi",
+   "variants": [
+    "Kanseishi"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Dagu",
+   "variants": [
+    "Taku"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "Hopei"
+   ]
+  },
+  {
+   "name": "Chahar",
+   "variants": [
+    "Chahar"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "Kurume"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Tanggu",
+   "variants": [
+    "Tangku"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung",
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "Railway Zone",
+    "South Manchuria Railway Zone"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Chosen"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung"
+   ]
+  },
+  {
+   "name": "Peihan",
+   "variants": [
+    "Peihan"
+   ]
+  },
+  {
+   "name": "Lüshunkou",
+   "variants": [
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "Tumen",
+   "variants": [
+    "Tumon"
+   ]
+  },
+  {
+   "name": "Mudanjiang",
+   "variants": [
+    "Mutankiung"
+   ]
+  },
+  {
+   "name": "Lingyuan",
+   "variants": [
+    "Lingyuan"
+   ]
+  },
+  {
+   "name": "Peichuang",
+   "variants": [
+    "Peichuang"
+   ]
+  },
+  {
+   "name": "Chenching",
+   "variants": [
+    "Chenching"
+   ]
+  },
+  {
+   "name": "Heihe",
+   "variants": [
+    "Heiho"
+   ]
+  },
+  {
+   "name": "Baicheng",
+   "variants": [
+    "Paichengtzu"
+   ]
+  },
+  {
+   "name": "Ulan Hot",
+   "variants": [
+    "Wengyehmiao"
+   ]
+  },
+  {
+   "name": "Solon",
+   "variants": [
+    "Solun"
+   ]
+  },
+  {
+   "name": "Yebaishou",
+   "variants": [
+    "Yehpaishou"
+   ]
+  },
+  {
+   "name": "Chifeng",
+   "variants": [
+    "Chifeng"
+   ]
+  },
+  {
+   "name": "Lalin",
+   "variants": [
+    "Lalin"
+   ]
+  },
+  {
+   "name": "Bei’an",
+   "variants": [
+    "Peian"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Huludao",
+   "variants": [
+    "Hulutao"
+   ]
+  },
+  {
+   "name": "Fuxin",
+   "variants": [
+    "Fuhsin"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Yosuke Matsuoka",
+   "role": "President of the South Manchuria Railway Company; previously its vice president",
+   "variants": [
+    "Mr. Matsuoka",
+    "Matsuoka",
+    "President Matsuoka"
+   ]
+  },
+  {
+   "name": "Jotaro Yamamoto",
+   "role": "Matsuoka’s former chief at the South Manchuria Railway Company and supporter of his appointment",
+   "variants": [
+    "Mr. Jotaro Yamamoto",
+    "Mr. Yamamoto"
+   ]
+  },
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Mr. Takahashi",
+    "Takahashi"
+   ]
+  },
+  {
+   "name": "Count Hayashi",
+   "role": "Predecessor of Matsuoka as president of the South Manchuria Railway Company",
+   "variants": [
+    "Count Hayashi"
+   ]
+  },
+  {
+   "name": "Jiro Minami",
+   "role": "General and Commander-in-Chief of the Kwantung Army",
+   "variants": [
+    "General Jiro Minami",
+    "Minami"
+   ]
+  },
+  {
+   "name": "Stuart E. Grummon",
+   "role": "American Consul at Dairen",
+   "variants": [
+    "Stuart E. Grummon",
+    "Stuart Grummon"
+   ]
+  },
+  {
+   "name": "Edwin L. Neville",
+   "role": "American Chargé d’Affaires ad interim at Tokyo",
+   "variants": [
+    "Edwin L. Neville"
+   ]
+  },
+  {
+   "name": "Troy L. Perkins",
+   "role": "American Vice Consul",
+   "variants": [
+    "Troy L. Perkins"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Shinji Sogo",
+   "role": "Former South Manchuria Railway director selected to head Kochu Kungssu",
+   "variants": [
+    "Shinji Sogo"
+   ]
+  },
+  {
+   "name": "Jun Kawata",
+   "role": "Director of Sumitomo Company and proposed adviser to Kochu Kungssu",
+   "variants": [
+    "Jun Kawata"
+   ]
+  },
+  {
+   "name": "Shozo Murata",
+   "role": "President of Osaka Shosen Kaisha and proposed adviser to Kochu Kungssu",
+   "variants": [
+    "Shozo Murata"
+   ]
+  },
+  {
+   "name": "Yukutaro Miyakegawa",
+   "role": "Director of Mitsubishi and Company and proposed adviser to Kochu Kungssu",
+   "variants": [
+    "Yukuturo Miyakegawa"
+   ]
+  },
+  {
+   "name": "Taro Mimori",
+   "role": "Director of the Japan Industrial Bank and proposed adviser to Kochu Kungssu",
+   "variants": [
+    "Taro Mimori"
+   ]
+  },
+  {
+   "name": "Katsutaro Shimada",
+   "role": "Director of Mitsui and Company and proposed adviser to Kochu Kungssu",
+   "variants": [
+    "Katsutaro Shimada"
+   ]
+  },
+  {
+   "name": "Nelson T. Johnson",
+   "role": "American diplomatic representative in China and sender of the March 16 telegram",
+   "variants": [
+    "Johnson",
+    "JOHNSON"
+   ]
+  },
+  {
+   "name": "Nagai",
+   "role": "Japanese adviser assigned to assist the Economic Committee of the Hopei-Chahar Political Council",
+   "variants": [
+    "Nagai"
+   ]
+  },
+  {
+   "name": "Kenji Doihara",
+   "role": "Japanese unofficial negotiator in Peiping, reassigned to Kurume",
+   "variants": [
+    "Doihara"
+   ]
+  },
+  {
+   "name": "Takayoshi Matsumuro",
+   "role": "Colonel designated to succeed Doihara as unofficial negotiator in Peiping",
+   "variants": [
+    "Colonel Takayoshi Matsumuro",
+    "Matsumuro"
+   ]
+  },
+  {
+   "name": "Sung Che-yuan",
+   "role": "Chinese general whose North China regime was criticized by Isogai",
+   "variants": [
+    "General Sung Che Yuan"
+   ]
+  },
+  {
+   "name": "Isogai",
+   "role": "Japanese Military Attaché visiting Peiping from Shanghai",
+   "variants": [
+    "Isogai"
+   ]
+  },
+  {
+   "name": "Marumo",
+   "role": "Mayor of Dairen",
+   "variants": [
+    "Mr. Marumo"
+   ]
+  },
+  {
+   "name": "Erle R. Dickover",
+   "role": "American Chargé d’Affaires ad interim at Tokyo",
+   "variants": [
+    "Erle R. Dickover"
+   ]
+  },
+  {
+   "name": "Kenichiro Asaki",
+   "role": "Director and financial adviser to President Matsuoka",
+   "variants": [
+    "Kenichiro Asaki"
+   ]
+  }
+ ],
+ "keywords": [
+  "South Manchuria Railway Company",
+  "Kwantung Army",
+  "Manchukuo",
+  "railway reorganization",
+  "military control",
+  "corporate finance",
+  "five-year plan",
+  "subsidiary companies",
+  "railway traffic",
+  "North China expansion",
+  "balance sheet",
+  "Japanese investment"
+ ],
+ "subfiles": [
+  {
+   "title": "Appointment of Matsuoka and the Future Policy of the South Manchuria Railway Company",
+   "doc_type": "despatch",
+   "start_page": 157,
+   "end_page": 163,
+   "continues_previous": true,
+   "date": "1935-08",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "U.S. Embassy, Tokyo",
+   "about": "Analyzes Yosuke Matsuoka’s appointment as railway president and the conflict between financial restraint and the Kwantung Army’s development program.",
+   "summary": "The concluding portion contrasts Matsuoka’s publicly reported preference for agriculture and sound finance with military demands for industrial expansion in Manchuria and North China. It argues that Count Hayashi was removed because he impeded military control of the railway and warns that Matsuoka’s planned meeting with General Minami could resolve the dispute or produce an open rupture. Grummon also considers whether Matsuoka’s apparent independence was tactical or reflected genuine concessions forced on the Army by Japanese financial interests.",
+   "keywords": [
+    "Matsuoka appointment",
+    "Kwantung Army",
+    "industrialization",
+    "Japanese finance",
+    "agricultural policy",
+    "military-commercial conflict"
+   ]
+  },
+  {
+   "title": "Revision of Estimate by the South Manchuria Railway Company",
+   "doc_type": "despatch",
+   "start_page": 164,
+   "end_page": 165,
+   "continues_previous": false,
+   "date": "1935",
+   "from": "Troy L. Perkins, American Vice Consul",
+   "to": "Edwin L. Neville, American Chargé d’Affaires ad interim, Tokyo",
+   "about": "Reports a drastic reduction in the railway company’s proposed expenditures for new enterprises in fiscal 1936.",
+   "summary": "The company reduced its enterprise estimate from 89 million to 31 million yen under a policy of financial retrenchment. Deleted projects included expansion of the Fushun power and shale-oil plants, improvements near Hsinking, and enlargement of the Railway Department. The report compares the reduced estimate with 70 million yen spent on enterprises in 1934.",
+   "keywords": [
+    "budget reduction",
+    "financial retrenchment",
+    "Fushun",
+    "shale oil",
+    "railway improvements"
+   ]
+  },
+  {
+   "title": "Departmental Note on South Manchuria Railway Income",
+   "doc_type": "memorandum",
+   "start_page": 166,
+   "end_page": 166,
+   "continues_previous": false,
+   "date": "1936-01-18",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Summarizes the railway company’s income during the eight months ending November 30, 1935.",
+   "summary": "The note records a ten-percent rise in passenger receipts but a similar fall in freight receipts, a small decrease in coal income, and an overall income decline of roughly six percent. It attributes weak freight business chiefly to summer rains that damaged the soybean crop and diverted wet beans from export to local oil mills.",
+   "keywords": [
+    "railway income",
+    "passenger receipts",
+    "freight receipts",
+    "soybean crop",
+    "Department of State"
+   ]
+  },
+  {
+   "title": "Income of the South Manchuria Railway Company, April 1–November 30, 1935",
+   "doc_type": "despatch",
+   "start_page": 167,
+   "end_page": 170,
+   "continues_previous": false,
+   "date": "1935-12-10",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Edwin L. Neville, American Chargé d’Affaires ad interim, Tokyo",
+   "about": "Provides detailed passenger and freight revenue figures for the first eight months of the 1935 fiscal year.",
+   "summary": "Total income fell 5.8 percent to about 81 million yen even though passenger revenue and passenger numbers reached company records. Freight revenue fell 10.8 percent because railway construction shipments declined and rains and floods severely damaged the northern Manchurian soybean crop. The despatch also notes coal-distribution policy, inadequate rolling stock after conversion of the former Chinese Eastern Railway’s gauge, and a rise in small shipments associated with passenger traffic.",
+   "keywords": [
+    "income statistics",
+    "passenger traffic",
+    "freight traffic",
+    "soybeans",
+    "Chinese Eastern Railway",
+    "rolling stock"
+   ]
+  },
+  {
+   "title": "Departmental Note on Railway Rationalization",
+   "doc_type": "memorandum",
+   "start_page": 171,
+   "end_page": 171,
+   "continues_previous": false,
+   "date": "1936-01-18",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Summarizes tentative plans to rationalize the South Manchuria Railway Company’s subsidiary holdings.",
+   "summary": "The note states that the company wished to retain enterprises directly connected with railway operations, including the Anshan steel mills and Manchuria Chemical Industries. It intended, if possible, to dispose of unrelated interests such as its oil-refinery share and the South Manchuria Sugar Refining Company.",
+   "keywords": [
+    "rationalization",
+    "subsidiaries",
+    "Anshan steel",
+    "chemical industry",
+    "divestment"
+   ]
+  },
+  {
+   "title": "Tentative Plans for the Rationalization of the South Manchuria Railway Company",
+   "doc_type": "despatch",
+   "start_page": 172,
+   "end_page": 174,
+   "continues_previous": false,
+   "date": "1935-12-19",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Reports plans to reduce subsidiary spending and sell interests in roughly thirty controlled companies.",
+   "summary": "Press reports and company sources indicated that subsidiary-enterprise spending would be reduced from about 90 million yen to 36–38 million. The acting president said the company hoped to sell thirty of its seventy subsidiaries while retaining businesses directly related to railway activity. Grummon links the proposed sales to efforts to finance Matsuoka’s five-year program in Manchuria and North China.",
+   "keywords": [
+    "corporate rationalization",
+    "subsidiary sale",
+    "budget retrenchment",
+    "five-year plan",
+    "North China"
+   ]
+  },
+  {
+   "title": "Formal Organization of the Kochu Kungssu",
+   "doc_type": "despatch",
+   "start_page": 175,
+   "end_page": 177,
+   "continues_previous": false,
+   "date": "1935-12-23",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Reports the establishment of Kochu Kungssu as a South Manchuria Railway subsidiary for trade and investment in China.",
+   "summary": "Kochu Kungssu was organized at Dairen on December 20 with initial capital of 10 million yen and plans for eventual capitalization of 40–50 million. Shinji Sogo was to head it, assisted by advisers from major Japanese industrial, shipping, and banking firms, with offices in Dairen and several Chinese and Japanese cities. Railway planning officials described studies of North China’s harbors, communications, minerals, agriculture, and cotton while claiming that the program was economic rather than political.",
+   "keywords": [
+    "Kochu Kungssu",
+    "North China investment",
+    "Japanese business",
+    "trade",
+    "economic planning",
+    "subsidiary company"
+   ]
+  },
+  {
+   "title": "Articles of Association of Kochu Kungssu",
+   "doc_type": "enclosure; translated corporate articles",
+   "start_page": 178,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1935-12-20",
+   "from": "Kochu Kungssu",
+   "to": "Enclosure to the American Consulate’s December 23 despatch",
+   "about": "Sets out the capital, purposes, governance, accounting, and profit-distribution rules of Kochu Kungssu.",
+   "summary": "The articles establish a Dairen-based joint-stock company with capital of 10 million yen divided into 200,000 registered shares. Its purposes were trade with China, direct operation or financing of Chinese economic enterprises, and associated business. Further provisions govern shareholder meetings, directors and auditors, semiannual accounts, reserves, employee bonuses, dividends, and limits on terms of office.",
+   "keywords": [
+    "articles of association",
+    "joint-stock company",
+    "China trade",
+    "corporate governance",
+    "capitalization",
+    "profit distribution"
+   ]
+  },
+  {
+   "title": "Increase in Number of South Manchuria Railway Company Employees Since the Manchurian Incident",
+   "doc_type": "despatch",
+   "start_page": 181,
+   "end_page": 183,
+   "continues_previous": false,
+   "date": "1936-02-18",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Examines the rapid growth and changing ethnic composition of the railway company’s workforce after 1931.",
+   "summary": "Permanent employment rose from 32,362 in October 1931 to 52,699 in January 1936, while temporary workers and Manchukuo State Railway personnel brought the total under company direction above 121,000. Japanese labor employment nearly doubled while Chinese labor employment remained almost static, which Grummon contrasts with Japanese claims about expanding native opportunity. The enlarged workforce also coincided with declining average salaries and wages.",
+   "keywords": [
+    "railway employment",
+    "Japanese labor",
+    "Chinese labor",
+    "wages",
+    "Manchurian Incident",
+    "workforce expansion"
+   ]
+  },
+  {
+   "title": "Cross-reference to Telegram 135 on Through Freight Service",
+   "doc_type": "cross-reference sheet",
+   "start_page": 184,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "1936-03-16",
+   "from": "Department of State document file",
+   "to": "File 894C.77",
+   "about": "Directs readers to a China telegram concerning a Peiping–Mukden and South Manchuria Railway freight agreement.",
+   "summary": "The sheet records that the two railways signed an agreement on March 6. Through freight-car service was scheduled to begin on May 1.",
+   "keywords": [
+    "cross-reference",
+    "Peiping–Mukden Railway",
+    "freight agreement",
+    "through service"
+   ]
+  },
+  {
+   "title": "Telegram 135 from Peiping on North China Developments",
+   "doc_type": "telegram",
+   "start_page": 185,
+   "end_page": 187,
+   "continues_previous": false,
+   "date": "1936-03-16",
+   "from": "Nelson T. Johnson, Peiping",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the through-freight agreement and several Japanese political and military personnel developments in North China.",
+   "summary": "The telegram describes an agreement establishing through freight-car service between the Peiping–Mukden and South Manchuria railways, viewed by the Kwantung Army as strengthening Manchukuo–North China communications. It also reports the appointment of Japanese advisers to the Hopei-Chahar Political Council and the proposed replacement of Doihara by Colonel Matsumuro as unofficial negotiator. Johnson discounts inflammatory remarks about General Sung Che-yuan’s regime made by Military Attaché Isogai.",
+   "keywords": [
+    "North China",
+    "through freight",
+    "Hopei-Chahar Political Council",
+    "Japanese advisers",
+    "Doihara",
+    "Sino-Japanese relations"
+   ]
+  },
+  {
+   "title": "Reorganization Plans of the South Manchuria Railway Company",
+   "doc_type": "despatch",
+   "start_page": 188,
+   "end_page": 191,
+   "continues_previous": false,
+   "date": "1936-04-06",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Assesses proposals to move the company headquarters to Hsinking and unify railway administration in Manchuria.",
+   "summary": "Grummon reports conflicting information about transferring the headquarters from Dairen, concluding that cost, housing requirements, and the company’s financial problems would delay any move. He interprets the proposal as an effort by the Kwantung Army to tighten control over executives who retained some independence in Dairen. Railway-management unification, by contrast, appeared decided and would increasingly transform the company from a profit-making corporation into an instrument of state and military policy.",
+   "keywords": [
+    "headquarters transfer",
+    "Hsinking",
+    "railway unification",
+    "Kwantung Army",
+    "corporate autonomy",
+    "national policy"
+   ]
+  },
+  {
+   "title": "Departmental Summary of the Kwantung Army–Railway Company Relationship",
+   "doc_type": "memorandum",
+   "start_page": 192,
+   "end_page": 194,
+   "continues_previous": false,
+   "date": "1936-07-24",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Summarizes Grummon’s June 19 confidential despatch about military plans to reorganize the South Manchuria Railway Company.",
+   "summary": "The memorandum outlines proposals to admit Manchukuo capital, subject the railway to Manchukuo administration, and expand its North China activities. It notes plans to separate non-transport businesses, transfer utilities and newspapers to Manchukuo, and control the remaining railway through Kwantung institutions. It also records employee opposition, Matsuoka’s guarded outlook, and his expectation that the company and Manchukuo State Railways would ultimately become one entity.",
+   "keywords": [
+    "Department summary",
+    "military control",
+    "reorganization plan",
+    "Manchukuo administration",
+    "Matsuoka",
+    "railway merger"
+   ]
+  },
+  {
+   "title": "Relation of the Kwantung Army to the South Manchuria Railway Company",
+   "doc_type": "confidential despatch",
+   "start_page": 195,
+   "end_page": 202,
+   "continues_previous": false,
+   "date": "1936-06-19",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Analyzes the fundamental conflict between the Kwantung Army and the railway company’s commercial and shareholder interests.",
+   "summary": "Grummon argues that military authorities sought to dismantle or subordinate the company even though its officers and Japanese financial interests resisted. A reported Army plan would reduce it to transportation functions, transfer utilities, newspapers, and other enterprises, and bring it under control from Hsinking. Matsuoka publicly defended the company’s finances and investment program but privately admitted that returns might take ten or twenty years and that further investment was necessary to protect existing commitments. Grummon concludes that the company’s survival as an autonomous entity was seriously threatened.",
+   "keywords": [
+    "Kwantung Army",
+    "corporate autonomy",
+    "shareholders",
+    "military policy",
+    "Matsuoka",
+    "Manchukuo",
+    "five-year plan"
+   ]
+  },
+  {
+   "title": "Outline of Plan Proposed by the Army for Reorganization of the South Manchuria Railway Company",
+   "doc_type": "translated press enclosure",
+   "start_page": 203,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1936-06-16",
+   "from": "Kokutsu despatch, Tokyo, published in Manshu Nichi Nichi Shimbun",
+   "to": "Enclosure to Grummon’s June 19 despatch",
+   "about": "Presents the Army’s proposed legal, financial, and administrative restructuring of the railway company.",
+   "summary": "The plan would make the company a Japanese juridical person operating railways and harbors in Manchukuo, North Korea, and North China, while raising authorized capital to one billion yen. It calls for separating commercial enterprises, consolidating coal properties, transferring utilities and newspapers to Manchukuo, and placing major industrial subsidiaries under Japanese trusts. It would also abolish tax exemption and special government dividends while rationalizing supervision by the Kwantung Bureau and Kwantung Army.",
+   "keywords": [
+    "Army reorganization plan",
+    "capital structure",
+    "subsidiaries",
+    "public utilities",
+    "North Korea",
+    "Kwantung administration"
+   ]
+  },
+  {
+   "title": "Transfer of Offices of the South Manchuria Railway Company",
+   "doc_type": "despatch",
+   "start_page": 206,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1936-05-18",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Reports company and municipal opposition to moving railway offices from Dairen to Hsinking or Mukden.",
+   "summary": "A company officer described the Hsinking proposal as a device for placing the railway under complete Kwantung Army domination. The expense of abandoning Dairen housing and constructing new accommodations was expected to postpone any transfer. Dairen municipal representatives also feared severe economic effects from removal of the Railway Bureau to Mukden, although Mayor Marumo said he would not try to prevent it.",
+   "keywords": [
+    "office transfer",
+    "Dairen",
+    "Hsinking",
+    "Mukden",
+    "municipal economy",
+    "Kwantung Army"
+   ]
+  },
+  {
+   "title": "Departmental Note on Grummon’s South Manchuria Railway Balance-Sheet Report",
+   "doc_type": "memorandum",
+   "start_page": 208,
+   "end_page": 209,
+   "continues_previous": false,
+   "date": "1936-11-19",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Highlights selected findings from Grummon’s detailed analysis of the company’s balance sheet.",
+   "summary": "The note emphasizes the record 49.62-million-yen profit, assets approaching two billion yen, and a five-year plan requiring approximately 436 million yen in new debentures. It notes investor anxiety over military interference, about 540 million yen advanced to Manchukuo for railway purposes, and large unprofitable subsidiary investments. The writer calls attention to the extensive list of affiliated companies as evidence of the railway’s dominance over Manchurian industry.",
+   "keywords": [
+    "balance sheet",
+    "record profit",
+    "debentures",
+    "Manchukuo debt",
+    "investor confidence",
+    "industrial control"
+   ]
+  },
+  {
+   "title": "Comments on the Balance Sheet of the South Manchuria Railway Company for Fiscal Year 1935–1936",
+   "doc_type": "despatch and financial report",
+   "start_page": 210,
+   "end_page": 236,
+   "continues_previous": false,
+   "date": "1936-09-30",
+   "from": "Stuart E. Grummon, American Consul",
+   "to": "Erle R. Dickover, American Chargé d’Affaires ad interim, Tokyo",
+   "about": "Provides an extensive financial and operational analysis of the railway company’s fiscal 1935–1936 balance sheet.",
+   "summary": "Despite tighter censorship and reduced access to company accountants, Grummon analyzes record profits, nearly two billion yen in assets, capital calls, reserves, bonds, investments, current accounts, deposits, and liabilities. Particular attention is given to Matsuoka’s 436-million-yen five-year debenture program, investor reluctance caused by military pressure, and the company’s large advances to Manchukuo railway construction. The report reviews new railway lines, ports, collieries, shale-oil works, passenger and freight traffic, employee funds, hotels, and local administration, while warning that official accounting often concealed losses imposed by national policy. The document continues beyond page 236.",
+   "keywords": [
+    "balance sheet",
+    "five-year plan",
+    "debentures",
+    "fixed assets",
+    "railway construction",
+    "ports",
+    "collieries",
+    "shale oil",
+    "traffic revenue",
+    "national policy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 5,
+  "pages": [
+   157,
+   236
+  ],
+  "pdf": "894C.77 Kwantung Leased Territory, Railway. Concessions. Construction. Equipment., June 24, 1931 - October 20, 1939 1138.pdf",
+  "seconds": 353.6,
+  "created": "2026-10-03 20:39:29",
+  "key": "japan-internal-affairs-894c.77-kwantung-leased-territory-2"
+ }
+}

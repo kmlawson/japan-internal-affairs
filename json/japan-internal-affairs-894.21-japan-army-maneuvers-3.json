@@ -1,0 +1,69 @@
+{
+ "interest": "This single-sheet file provides archival tracking of intelligence gathered by the U.S. Military Attaché in Japan during late 1940. It is useful for military historians researching how the U.S. War Department and Department of State monitored Imperial Japanese Army maneuvers and leadership profiling, specifically tracking the career of Major General Raishiro Sumita prior to the outbreak of the Pacific War.",
+ "keywords": [
+  "Army Maneuvers",
+  "Japan",
+  "Military Attaché",
+  "Raishiro Sumita",
+  "Imperial Japanese Army",
+  "Military Intelligence",
+  "Biographical Outline",
+  "Department of State",
+  "Record Group 59",
+  "Decimal File 894.21"
+ ],
+ "overview": "This file consists of a single Department of State List of Papers (Form DS-46) sheet under decimal classification 894.21 (Army Maneuvers — Japan). It records and summarizes sub-number 5, a report dated October 15, 1940, submitted by the U.S. Military Attaché in Japan (Report No. 10218), which contained details on Japanese army maneuvers and a concise biographical outline of the career of Major General Raishiro Sumita.",
+ "people": [
+  {
+   "name": "Raishiro Sumita",
+   "role": "Major General",
+   "variants": [
+    "Major General Raishiro Sumita",
+    "Raishiro Sumita"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet recording a 1940 Military Attaché report on Japanese army maneuvers and Major General Raishiro Sumita.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Army Maneuvers",
+    "Japan",
+    "Raishiro Sumita",
+    "Military Attaché"
+   ],
+   "start_page": 1,
+   "summary": "This document is a Department of State List of Papers form (Form DS-46) for decimal file 894.21, 'Army Maneuvers — Japan'. It logs sub-number 5, corresponding to Report No. 10218 dated October 15, 1940, received from the U.S. Military Attaché in Japan. The purport describes the content as covering army maneuvers in Japan along with a short outline of the career of Major General Raishiro Sumita.",
+   "title": "Department of State List of Papers: Army Maneuvers — Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13677,
+   "output_tokens": 1653,
+   "thinking_tokens": 1047,
+   "cache_read_tokens": 0,
+   "total_tokens": 15330
+  },
+  "backend": "agy",
+  "seconds": 8.2,
+  "identifier": "japan-internal-affairs-894.21-japan-army-maneuvers-3",
+  "file": "894.21 Japan, Army Maneuvers.,  99.pdf",
+  "created": "2026-09-29 03:13:59"
+ }
+}

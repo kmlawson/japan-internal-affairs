@@ -1,0 +1,108 @@
+{
+ "interest": "This document is of interest to diplomatic and military historians as evidence of how the U.S. State Department tracked Japanese military preparations and naval exercises during the interwar era. It shows how consular posts in Kobe and Hong Kong gathered intelligence on secretive naval operations in the Seto Inland Sea through civilian contacts, specifically American missionaries who were barred from commercial steamer travel. The sheet also provides a concise record of State Department archival classification and cross-referencing under decimal file 894.31.",
+ "keywords": [
+  "Japan",
+  "naval maneuvers",
+  "naval operations",
+  "Seto Inland Sea",
+  "Kobe",
+  "Hong Kong",
+  "American missionaries",
+  "travel restrictions",
+  "war vessels",
+  "Department of State",
+  "consular reporting",
+  "military intelligence"
+ ],
+ "overview": "This file consists of a Department of State List of Papers (Form DS-46) for decimal file 894.31, titled 'Naval maneuvers---Japan.' The sheet indexes two consular communications detailing Japanese naval exercises and security restrictions in the Seto Inland Sea near Kobe. Document No. 14 is a February 20 telegram from Consul Samuel Sokobin at Kobe reporting that all foreigners, including American missionaries traveling by steamer, were barred from the Inland Sea between February 15 and 25 due to large-scale naval maneuvers. Document No. 15 is a March 28 despatch from Consul General Addison E. Southard at Hong Kong enclosing a memorandum by Consul John H. Bruins based on a conversation with an American missionary regarding Japanese war vessels maneuvering in the vicinity of Kobe.",
+ "people": [
+  {
+   "name": "Samuel Sokobin",
+   "role": "U.S. Consul at Kobe",
+   "variants": [
+    "Sobokin"
+   ]
+  },
+  {
+   "name": "Addison E. Southard",
+   "role": "U.S. Consul General at Hong Kong",
+   "variants": [
+    "Southard"
+   ]
+  },
+  {
+   "name": "John H. Bruins",
+   "role": "U.S. Consul",
+   "variants": [
+    "Consul John H. Bruins",
+    "John H. Bruins"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Seto Inland Sea",
+   "variants": [
+    "inland sea"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers indexing consular reports on Japanese naval maneuvers and travel bans in the Seto Inland Sea.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "naval maneuvers",
+    "Japan",
+    "Kobe",
+    "Hong Kong",
+    "Seto Inland Sea",
+    "American missionaries",
+    "travel restrictions",
+    "war vessels"
+   ],
+   "start_page": 1,
+   "summary": "This Department of State List of Papers (Form DS-46) indexes documents received under decimal file 894.31 regarding naval maneuvers in Japan. It records an incoming telegram from Consul Samuel Sokobin in Kobe reporting a ban on foreigners and American missionaries traveling on the Inland Sea from February 15 to 25 due to naval operations. It further indexes a despatch from Consul General Addison E. Southard in Hong Kong enclosing a memorandum by Consul John H. Bruins recounting an interview with an American missionary concerning Japanese warship maneuvers near Kobe.",
+   "title": "Department of State List of Papers: Naval maneuvers—Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13769,
+   "output_tokens": 8295,
+   "thinking_tokens": 7493,
+   "cache_read_tokens": 0,
+   "total_tokens": 22064
+  },
+  "backend": "agy",
+  "seconds": 29.2,
+  "identifier": "japan-internal-affairs-894.31-japan-naval-maneuvers-3",
+  "file": "894.31 Japan, Naval Maneuvers.,  81.pdf",
+  "created": "2026-09-29 04:01:10"
+ }
+}

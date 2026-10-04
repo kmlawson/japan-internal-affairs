@@ -1,0 +1,202 @@
+{
+ "interest": "U.S. liner's encounter with Japanese fleet maneuvers, 1941.",
+ "keywords": [
+  "Japan",
+  "Japanese Navy",
+  "naval maneuvers",
+  "Inland Sea",
+  "Kobe",
+  "S.S. President Cleveland",
+  "Walter de Velder",
+  "aircraft carrier",
+  "smoke screen",
+  "missionaries",
+  "Hong Kong",
+  "Office of Naval Intelligence"
+ ],
+ "overview": "1941 consular reports on Japanese naval maneuvers closing the Inland Sea and a liner's encounter with a carrier force.",
+ "people": [
+  {
+   "name": "Samuel Sokobin",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "SOKOBIN",
+    "American Consul at Kobe"
+   ]
+  },
+  {
+   "name": "John H. Bruins",
+   "role": "American Consul at Hong Kong",
+   "variants": [
+    "John H. Bruins",
+    "Consul John H. Bruins",
+    "Mr. Bruins",
+    "J. H. B."
+   ]
+  },
+  {
+   "name": "Addison E. Southard",
+   "role": "American Consul General at Hong Kong",
+   "variants": [
+    "Addison E. Southard",
+    "American Consul General"
+   ]
+  },
+  {
+   "name": "Walter de Velder",
+   "role": "American missionary stationed at Amoy",
+   "variants": [
+    "Walter de Velder",
+    "Rev. Walter de Velder"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KOBE"
+   ]
+  },
+  {
+   "name": "Seto Inland Sea",
+   "variants": [
+    "inland sea",
+    "Inland Sea"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Xiamen",
+   "variants": [
+    "Amoy"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Reports the prohibition of foreigners from traveling on the Inland Sea due to Japanese naval maneuvers.",
+   "date": "1941-02-20",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Samuel Sokobin (American Consul, Kobe)",
+   "keywords": [
+    "Kobe",
+    "Inland Sea",
+    "naval maneuvers",
+    "missionaries",
+    "travel restrictions",
+    "Tokyo Embassy"
+   ],
+   "start_page": 1,
+   "summary": "Sokobin reports foreigners barred from the Inland Sea, February 15–25, 1941, for naval maneuvers.",
+   "title": "Telegram from Sokobin (Kobe) on Inland Sea Travel Restrictions",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "A confidential paraphrase of the February 20 telegram from Kobe regarding travel prohibitions on the Inland Sea.",
+   "date": "1941-02-20",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "Division of Far Eastern Affairs, Department of State",
+   "keywords": [
+    "paraphrase",
+    "Kobe",
+    "Inland Sea",
+    "naval operations",
+    "missionaries"
+   ],
+   "start_page": 2,
+   "summary": "Paraphrase of Kobe telegram on the Inland Sea ban for maneuvers.",
+   "title": "Paraphrase of Kobe Telegram on Inland Sea Naval Maneuvers",
+   "to": "Office of Naval Intelligence and Military Intelligence Division"
+  },
+  {
+   "about": "Transmits a memorandum detailing an American missionary's observation of Japanese warships conducting maneuvers near Kobe.",
+   "date": "1941-03-28",
+   "doc_type": "despatch",
+   "end_page": 3,
+   "from": "Addison E. Southard (American Consul General, Hong Kong)",
+   "keywords": [
+    "Hong Kong",
+    "Addison E. Southard",
+    "John H. Bruins",
+    "S.S. President Cleveland",
+    "naval maneuvers",
+    "Kobe"
+   ],
+   "start_page": 3,
+   "summary": "Southard forwards Bruins's memo on Japanese maneuvers seen from the President Cleveland.",
+   "title": "Despatch No. 874 from Southard (Hong Kong) on Japanese War Vessels Observed in Maneuvers",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "Memorandum recording Rev. Walter de Velder's account of sighting Japanese naval maneuvers from the S.S. President Cleveland.",
+   "date": "1941-03-28",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "John H. Bruins (American Consul, Hong Kong)",
+   "keywords": [
+    "John H. Bruins",
+    "Walter de Velder",
+    "S.S. President Cleveland",
+    "aircraft carrier",
+    "cruiser",
+    "destroyer",
+    "smoke screen",
+    "naval maneuvers"
+   ],
+   "start_page": 4,
+   "summary": "Bruins reports a missionary's account of Japanese warships laying a smoke screen when the President Cleveland refused to change course.",
+   "title": "Memorandum by Bruins on Movements of Japanese Naval Vessels",
+   "to": "Addison E. Southard (American Consul General, Hong Kong)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14585,
+   "output_tokens": 7938,
+   "thinking_tokens": 6161,
+   "cache_read_tokens": 0,
+   "total_tokens": 22523
+  },
+  "backend": "agy",
+  "seconds": 25.2,
+  "identifier": "japan-internal-affairs-894.31-japan-naval-maneuvers-2",
+  "file": "894.31 Japan, Naval Maneuvers., February 20, 1941 - March 28, 1941 1253.pdf",
+  "created": "2026-09-29 04:01:55"
+ }
+}

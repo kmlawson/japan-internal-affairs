@@ -1,0 +1,156 @@
+{
+ "interest": "Pre-Pearl Harbor intelligence on Japanese bases in the Paracels.",
+ "keywords": [
+  "Paracel Islands",
+  "South China Sea",
+  "Japanese military bases",
+  "Woody Island",
+  "Crescent Group",
+  "Amphitrite Group",
+  "naval bases",
+  "air bases",
+  "submarine shelter",
+  "Philippine Department",
+  "British Intelligence",
+  "phosphate mining"
+ ],
+ "overview": "November 1941 G-2 report on rumored Japanese bases in the Paracel Islands, with a cross-reference note.",
+ "people": [
+  {
+   "name": "J. K. Evans",
+   "role": "Lt. Colonel, General Staff Corps, C. of S., G-2",
+   "variants": [
+    "J. K. EVANS"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Phil. Dept."
+   ]
+  },
+  {
+   "name": "Paracel Islands",
+   "variants": [
+    "PARADEL ISLANDS AND REEF",
+    "PARADEL ISLANDS",
+    "Paracel Islands",
+    "Paracel Islands and Reef"
+   ]
+  },
+  {
+   "name": "South China Sea",
+   "variants": [
+    "South China Sea"
+   ]
+  },
+  {
+   "name": "Crescent Group",
+   "variants": [
+    "Crescent Group"
+   ]
+  },
+  {
+   "name": "Robert Island",
+   "variants": [
+    "Robert"
+   ]
+  },
+  {
+   "name": "Pattle Island",
+   "variants": [
+    "Pattle"
+   ]
+  },
+  {
+   "name": "Money Island",
+   "variants": [
+    "Money"
+   ]
+  },
+  {
+   "name": "Amphitrite Group",
+   "variants": [
+    "Amphitrite Group"
+   ]
+  },
+  {
+   "name": "Woody Island",
+   "variants": [
+    "Woody Island",
+    "Woody"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Military intelligence report evaluating Japanese activities, potential naval facilities, submarine shelters, and air bases in the Paracel Islands.",
+   "date": "1941-11-15",
+   "doc_type": "report",
+   "end_page": 2,
+   "from": "Lt. Colonel J. K. Evans (G-2, Headquarters Philippine Department)",
+   "keywords": [
+    "Paracel Islands",
+    "Woody Island",
+    "Crescent Group",
+    "Amphitrite Group",
+    "naval bases",
+    "air bases",
+    "submarines",
+    "British Intelligence"
+   ],
+   "start_page": 1,
+   "summary": "G-2 report No. 651 (November 1941) on rumored Japanese bases in the Paracels, judging guano and phosphate work a blind and Woody Island fit for an airfield.",
+   "title": "Military Attaché Report No. 651: Paracel Islands and Reef",
+   "to": "Intelligence Division, War Department General Staff"
+  },
+  {
+   "about": "State Department cross-reference file note indexing Military Attaché Report No. 651 under File No. 894.245/1.",
+   "date": "1941-11-15",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Military Attaché (Japan)",
+   "keywords": [
+    "cross-reference",
+    "Paracel Islands",
+    "naval bases",
+    "air bases",
+    "State Department"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to the G-2 report on Paracel Islands bases.",
+   "title": "Cross-Reference File Note on Naval and Air Bases in Paracel Islands",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14613,
+   "output_tokens": 11272,
+   "thinking_tokens": 9939,
+   "cache_read_tokens": 0,
+   "total_tokens": 25885
+  },
+  "backend": "agy",
+  "seconds": 36.7,
+  "identifier": "japan-internal-affairs-894.245-equipment-and-supplies-1",
+  "file": "894.245 Equipment And Supplies., Japan, Military Bases., November 15, 1941 1312.pdf",
+  "created": "2026-09-29 03:48:16"
+ }
+}

@@ -1,0 +1,946 @@
+{
+ "keywords": [
+  "Blood Brotherhood",
+  "May 15 Incident",
+  "Court-martial",
+  "Tsuyoshi Inukai",
+  "London Naval Treaty",
+  "Five Ministers' Conference",
+  "Crisis of 1935-1936",
+  "Manchukuo",
+  "Kwantung Army",
+  "Yosuke Matsuoka",
+  "Party government"
+ ],
+ "people": [
+  {
+   "name": "Nissho Inouye",
+   "role": "Leader of the Blood Brotherhood and former army secret agent",
+   "variants": [
+    "Nissho Inouye",
+    "Teru Inouye"
+   ]
+  },
+  {
+   "name": "Nichiren",
+   "role": "Buddhist prophet and founder of the Nichiren sect",
+   "variants": [
+    "Nichiren"
+   ]
+  },
+  {
+   "name": "Tadashi Konuma",
+   "role": "Blood Brotherhood member and assassin of Junnosuke Inouye",
+   "variants": [
+    "Adashi Konuma"
+   ]
+  },
+  {
+   "name": "Junnosuke Inouye",
+   "role": "Former Minister of Finance (assassinated)",
+   "variants": [
+    "Finance Minister Inouye",
+    "Mr. Inouye"
+   ]
+  },
+  {
+   "name": "Takuma Dan",
+   "role": "Baron and head of the Mitsui organization (assassinated)",
+   "variants": [
+    "Baron Dan"
+   ]
+  },
+  {
+   "name": "Tsuyoshi Inukai",
+   "role": "Prime Minister of Japan (assassinated)",
+   "variants": [
+    "Premier Inukai",
+    "Prime Minister, Inukai",
+    "Fremier Inukai"
+   ]
+  },
+  {
+   "name": "Kenji Mori",
+   "role": "Blood Brotherhood defendant, intended slayer of Premier Inukai",
+   "variants": [
+    "Kenji Mori"
+   ]
+  },
+  {
+   "name": "Takeshi Hoshiko",
+   "role": "Blood Brotherhood defendant and Kyoto Imperial University law graduate",
+   "variants": [
+    "Takeshi Hoshiko"
+   ]
+  },
+  {
+   "name": "Kishiro Suda",
+   "role": "Blood Brotherhood defendant assigned to assassinate Prince Iyesato Tokugawa",
+   "variants": [
+    "Kishiro Suda"
+   ]
+  },
+  {
+   "name": "Iyesato Tokugawa",
+   "role": "Prince, President of the House of Peers, and descendant of the Shoguns",
+   "variants": [
+    "Prince Iyesato Tokugawa",
+    "Prince Tokugawa"
+   ]
+  },
+  {
+   "name": "Judge Sakamaki",
+   "role": "Presiding judge in the Blood Brotherhood trial",
+   "variants": [
+    "Judge Sakamaki"
+   ]
+  },
+  {
+   "name": "Akinori Goto",
+   "role": "Military cadet on trial for rebellion in the May 15 Incident",
+   "variants": [
+    "Akinori Goto"
+   ]
+  },
+  {
+   "name": "Ichinosuke Shinohara",
+   "role": "Military cadet on trial for rebellion in the May 15 Incident",
+   "variants": [
+    "Ichinosuke Shinohara"
+   ]
+  },
+  {
+   "name": "Haruo Yagi",
+   "role": "Military cadet on trial for rebellion in the May 15 Incident",
+   "variants": [
+    "Haruo Yagi"
+   ]
+  },
+  {
+   "name": "Kenichi Sakamoto",
+   "role": "Military cadet on trial for rebellion in the May 15 Incident",
+   "variants": [
+    "Kenichi Sakamoto"
+   ]
+  },
+  {
+   "name": "Nobuaki Makino",
+   "role": "Count and Lord Keeper of the Privy Seal",
+   "variants": [
+    "Count Makino",
+    "Lord Keeper of the Privy Seal"
+   ]
+  },
+  {
+   "name": "Heihachiro Togo",
+   "role": "Fleet Admiral and Count",
+   "variants": [
+    "Fleet Admiral Count Heihachiro Togo",
+    "Fleet Admiral Heihachiro Togo"
+   ]
+  },
+  {
+   "name": "Seikyo Gondo",
+   "role": "Contemporary nationalist scholar and imperialist writer",
+   "variants": [
+    "Seikyo Gondo",
+    "Mr. Seikyo Gondo",
+    "Mr. Gondo"
+   ]
+  },
+  {
+   "name": "Reijiro Wakatsuki",
+   "role": "Baron, former Prime Minister, and chief Japanese delegate to the London Naval Conference",
+   "variants": [
+    "Baron Wakatsuki"
+   ]
+  },
+  {
+   "name": "Koki Hirota",
+   "role": "Minister for Foreign Affairs of Japan",
+   "variants": [
+    "Hirota",
+    "Mr. Hirota"
+   ]
+  },
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Minister of Finance of Japan",
+   "variants": [
+    "Mr. Takahashi",
+    "r. Ttkahashi"
+   ]
+  },
+  {
+   "name": "Eugene H. Dooman",
+   "role": "Officer in the Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "EHD",
+    "EHD/REK",
+    "EHD:HZD",
+    "E7h"
+   ]
+  },
+  {
+   "name": "Sadao Araki",
+   "role": "General and Minister of War of Japan",
+   "variants": [
+    "General Araki",
+    "General Aruki",
+    "Araki"
+   ]
+  },
+  {
+   "name": "Makoto Saito",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Premier Saito"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew"
+   ]
+  },
+  {
+   "name": "William T. Turner",
+   "role": "Third Secretary, American Embassy, Tokyo",
+   "variants": [
+    "WTT"
+   ]
+  },
+  {
+   "name": "Osachi Hamaguchi",
+   "role": "Former Prime Minister of Japan (assassinated)",
+   "variants": [
+    "Premier Hamaguchi",
+    "Mr. Hamaguchi"
+   ]
+  },
+  {
+   "name": "Hitoshi Fujii",
+   "role": "Naval Lieutenant Commander and initial instigator of the May 15 plot",
+   "variants": [
+    "Lieutenant Commander Fujii",
+    "Fujii"
+   ]
+  },
+  {
+   "name": "Kiyoshi Koga",
+   "role": "Naval Sub-Lieutenant, leader in the May 15 Incident",
+   "variants": [
+    "Kiyoshi Koga",
+    "Koga",
+    "Sub-Lieutenant Koga"
+   ]
+  },
+  {
+   "name": "Kakushi Murayama",
+   "role": "Naval Sub-Lieutenant defendant in the May 15 Incident",
+   "variants": [
+    "Kakushi Murayama"
+   ]
+  },
+  {
+   "name": "Yoshio Nakamura",
+   "role": "Naval Sub-Lieutenant defendant in the May 15 Incident",
+   "variants": [
+    "Yoshio Nakamura"
+   ]
+  },
+  {
+   "name": "Kiichiro Hiranuma",
+   "role": "Baron and conservative Japanese statesman",
+   "variants": [
+    "Baron Hiranuma"
+   ]
+  },
+  {
+   "name": "Taku Mikami",
+   "role": "Naval Sub-Lieutenant, leader of the assault on the Premier's residence",
+   "variants": [
+    "Taku Mikami",
+    "Mikami"
+   ]
+  },
+  {
+   "name": "Takeshi Takarabe",
+   "role": "Admiral and Japanese delegate to the London Naval Conference",
+   "variants": [
+    "Admiral Takarabe"
+   ]
+  },
+  {
+   "name": "Isamu Kuroiwa",
+   "role": "Naval Sub-Lieutenant defendant who shot Premier Inukai",
+   "variants": [
+    "Isamu Kuroiwa",
+    "Kuroiwa"
+   ]
+  },
+  {
+   "name": "Hiroshi Yamagishi",
+   "role": "Naval officer defendant who ordered firing on Premier Inukai",
+   "variants": [
+    "Hiroshi Yamagishi"
+   ]
+  },
+  {
+   "name": "Charlie Chaplin",
+   "role": "American motion picture actor",
+   "variants": [
+    "Mr. Charlie Chaplin"
+   ]
+  },
+  {
+   "name": "Shumei Okawa",
+   "role": "Nationalist scholar on trial for civilian complicity in the May 15 Incident",
+   "variants": [
+    "Dr. Shumei Okawa",
+    "Dr. Okawa"
+   ]
+  },
+  {
+   "name": "Tomeo Sagoya",
+   "role": "Assassin of former Premier Osachi Hamaguchi",
+   "variants": [
+    "Sagoya"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "President Franklin",
+    "Mr President"
+   ]
+  },
+  {
+   "name": "George B. Barrow",
+   "role": "Correspondent who forwarded newspaper clipping to President Roosevelt",
+   "variants": [
+    "Geo. B. Barrow",
+    "Geo. B. Borrow",
+    "Gev. B. Browg"
+   ]
+  },
+  {
+   "name": "Harry McGowan",
+   "role": "British industrialist (Sir Harry McGowan)",
+   "variants": [
+    "Sir Harry",
+    "BRROW"
+   ]
+  },
+  {
+   "name": "Warrington Dawson",
+   "role": "Special Assistant to the American Embassy in Paris",
+   "variants": [
+    "Warrington Dawson",
+    "WD",
+    "wasnunglan Dawnon"
+   ]
+  },
+  {
+   "name": "Robert Poulaine",
+   "role": "Special correspondent for Le Temps",
+   "variants": [
+    "Robert Poulaine",
+    "Robert Poufaine",
+    "ROBERT POULAINE",
+    "ROBnT POULA",
+    "ROBnT POUL"
+   ]
+  },
+  {
+   "name": "Pierre Lyautey",
+   "role": "French author and traveler",
+   "variants": [
+    "Pierre Lyautey"
+   ]
+  },
+  {
+   "name": "Kuniaki Koiso",
+   "role": "General and Commander-in-Chief of the Kwantung Army",
+   "variants": [
+    "général Koiso",
+    "Koiso"
+   ]
+  },
+  {
+   "name": "George Bronson Rea",
+   "role": "American adviser to the government of Manchukuo",
+   "variants": [
+    "Bronson Rea"
+   ]
+  },
+  {
+   "name": "Arthur Henry Eyre Edwards",
+   "role": "British adviser to the government of Manchukuo",
+   "variants": [
+    "Edwards"
+   ]
+  },
+  {
+   "name": "Henry Pu Yi",
+   "role": "Chief Executive of Manchukuo",
+   "variants": [
+    "Henri Pu Yi",
+    "M. Henri Pu Yi"
+   ]
+  },
+  {
+   "name": "Yosuke Matsuoka",
+   "role": "Japanese diplomat, Diet member, and former delegate to the League of Nations",
+   "variants": [
+    "Matsuoka",
+    "Mr. Yosuke Matsuoka",
+    "Mr. Matsuoka"
+   ]
+  },
+  {
+   "name": "Kinmochi Saionji",
+   "role": "Prince and Japanese Genro (Elder Statesman)",
+   "variants": [
+    "Saionji"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Chief of the Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "SKH"
+   ]
+  },
+  {
+   "name": "Horatius",
+   "role": "Ancient Roman hero (referenced figuratively)",
+   "variants": [
+    "Horatius"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japon",
+    "Janon's",
+    "Jepan's",
+    "gapo"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Mandchourie"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Mandchoukouo",
+    "manchukus"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America",
+    "Amérique",
+    "américain"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Londres"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Ger lany"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "marché chinois"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korean",
+    "Corée"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Soviet Union",
+    "Fussia"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "washingtan"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pacifique"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formose"
+   ]
+  },
+  {
+   "name": "French West Africa",
+   "variants": [
+    "Afrique noire française",
+    "colonies françaises d'Afrique"
+   ]
+  },
+  {
+   "name": "Senegal",
+   "variants": [
+    "Sénégal"
+   ]
+  },
+  {
+   "name": "Morocco",
+   "variants": [
+    "Maroc"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung",
+    "territoire à bail du Kwantung"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchun",
+    "Hsin-King",
+    "Hin-King"
+   ]
+  },
+  {
+   "name": "Rason",
+   "variants": [
+    "Raschin"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fuchun"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Moukden"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New-York"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Greater Asia",
+    "Asie",
+    "continent asiatique"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Extrême-Orient"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "européenne",
+    "européens"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "française"
+   ]
+  }
+ ],
+ "section_summary": "This section covers diplomatic reporting and departmental memoranda from late 1933 to early 1934 concerning the trials of reactionary extremists, cabinet budgetary debates, and the erosion of parliamentary government in Japan. It features comprehensive Embassy despatches on the court proceedings of the Blood Brotherhood, army cadets, and naval officers implicated in the May 15, 1932 assassination of Premier Inukai, highlighting the wide public sympathy and lenient sentences they received. In addition, the documents review the Five Ministers' Conference on military expenditures, French press analyses of Japanese economic expansion and military ambitions in Manchukuo, and Yosuke Matsuoka's high-profile resignation from the Seiyukai Party to advocate for superparty rule.",
+ "subfiles": [
+  {
+   "about": "Transmits Embassy reports on the public trials of Blood Brotherhood civilians and military cadets involved in the 1932 political assassinations.",
+   "continues_previous": true,
+   "date": "1933-10-31",
+   "doc_type": "despatch",
+   "end_page": 314,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Blood Brotherhood",
+    "May 15 Incident",
+    "Nissho Inouye",
+    "military cadets",
+    "Tsuyoshi Inukai",
+    "Nichiren sect",
+    "London Naval Treaty"
+   ],
+   "start_page": 305,
+   "summary": "This section contains the latter part of an Embassy report transmitted with Despatch No. 565 detailing the trials of right-wing extremists involved in the 1932 assassinations. It describes the trial of Nissho Inouye and Blood Brotherhood members, including their radical Nichiren Buddhist philosophy and Inouye's formal courtroom challenge against the presiding judge. It also covers the court-martial of eleven military cadets involved in the May 15 Incident and the assassination of Premier Inukai, noting widespread public sympathy and the lenient four-year prison sentences imposed on them.",
+   "title": "Despatch No. 565: Report on the Reactionary Trials",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Summarizes Tokyo Despatch No. 566 regarding cabinet deliberations over armed services budget demands and diplomatic policy.",
+   "continues_previous": false,
+   "date": "1933-11-22",
+   "doc_type": "memorandum",
+   "end_page": 316,
+   "from": "Eugene H. Dooman",
+   "keywords": [
+    "Five Ministers' Conference",
+    "military budget",
+    "Crisis of 1935-1936",
+    "Koki Hirota",
+    "Korekiyo Takahashi",
+    "Reijiro Wakatsuki",
+    "Makoto Saito"
+   ],
+   "start_page": 315,
+   "summary": "Eugene H. Dooman summarizes Tokyo Despatch No. 566 concerning meetings held by Premier Saito, the War and Navy Ministers, Finance Minister Takahashi, and Foreign Minister Hirota. The memorandum outlines the military's insistence on massive appropriations to prepare for a perceived international crisis in 1935-1936, despite skepticism from liberals such as Baron Wakatsuki. Dooman concludes that while the resulting government policy statement represents a vague compromise favoring military budget demands, Foreign Minister Hirota's efforts to improve international relations remain unobstructed.",
+   "title": "Division of Far Eastern Affairs Memorandum on Tokyo Despatch No. 566",
+   "to": "Under Secretary of State"
+  },
+  {
+   "about": "Reports on high-level cabinet conferences convened to resolve conflicts between military budgetary demands and diplomatic policy.",
+   "continues_previous": false,
+   "date": "1933-10-31",
+   "doc_type": "despatch",
+   "end_page": 322,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Five Ministers' Conference",
+    "Sadao Araki",
+    "Koki Hirota",
+    "Korekiyo Takahashi",
+    "Makoto Saito",
+    "military budget",
+    "Kodo",
+    "Crisis of 1935-1936"
+   ],
+   "start_page": 317,
+   "summary": "Ambassador Grew details a series of secret conferences held among Premier Saito and the ministers of War, Navy, Finance, and Foreign Affairs to debate the military's demand for 1.3 billion yen for the upcoming budget. General Sadao Araki justified the immense expenditure by citing an approaching national crisis in 1935-1936 and his spiritual concept of the Imperial Way (Kodo), while civilian ministers urged financial restraint and diplomatic solutions. Although the compromise statement issued on October 21 effectively ceded budget supremacy to the military, Grew reports that Foreign Minister Hirota successfully secured assurances against military interference in foreign policy.",
+   "title": "Despatch No. 566: Five Ministers' Conference",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Briefs department officials on Tokyo Despatch No. 581 transmitting the report on the naval court-martial arising from the May 15 Incident.",
+   "continues_previous": false,
+   "date": "1933-12-04",
+   "doc_type": "memorandum",
+   "end_page": 323,
+   "from": "Eugene H. Dooman",
+   "keywords": [
+    "May 15 Incident",
+    "naval court-martial",
+    "Tsuyoshi Inukai",
+    "London Naval Treaty",
+    "reactionaries"
+   ],
+   "start_page": 323,
+   "summary": "Eugene H. Dooman summarizes Tokyo Despatch No. 581, which enclosed the second portion of the Embassy's report on the reactionary trials of 1932. He highlights the defendants' bitter attacks against the London Naval Treaty and corrupt party politics to justify assassinating Premier Inukai. Dooman notes that the surprisingly light sentences imposed on the naval conspirators represented a victory for reactionaries and caused profound disgust among Japanese liberals and journalists.",
+   "title": "Division of Far Eastern Affairs Memorandum on Tokyo Despatch No. 581",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Comments on enclosed French press clippings from Le Temps regarding the risks of foreign investment in Manchukuo.",
+   "continues_previous": false,
+   "date": "1933-12-29",
+   "doc_type": "memorandum",
+   "end_page": 324,
+   "from": "Eugene H. Dooman",
+   "keywords": [
+    "Manchukuo",
+    "foreign investment",
+    "Le Temps",
+    "Robert Poulaine",
+    "Eugene H. Dooman"
+   ],
+   "start_page": 324,
+   "summary": "In a concise handwritten note, Eugene H. Dooman refers to two enclosed French newspaper articles by Robert Poulaine, advising that while they are worth reading, a full translation is unnecessary. He draws special attention to a quote from a Japanese official in the second article stating that the immediate future of Manchukuo is not safe enough for foreign investments.",
+   "title": "Division of Far Eastern Affairs Handwritten Note on Le Temps Enclosures",
+   "to": "Department of State"
+  },
+  {
+   "about": "Transmits a detailed Embassy report describing the court-martial and sentencing of ten naval officers involved in the May 15 Incident.",
+   "continues_previous": false,
+   "date": "1933-11-15",
+   "doc_type": "despatch",
+   "end_page": 340,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "May 15 Incident",
+    "naval court-martial",
+    "Tsuyoshi Inukai",
+    "London Naval Treaty",
+    "Taku Mikami",
+    "Kiyoshi Koga",
+    "Isamu Kuroiwa",
+    "Shumei Okawa",
+    "Heihachiro Togo"
+   ],
+   "start_page": 325,
+   "summary": "Ambassador Grew transmits the Embassy's comprehensive report on the court-martial of ten naval officers who spearheaded the May 15, 1932 attacks and the assassination of Premier Inukai. The report describes how the defendants used the courtroom as a platform to denounce the London Naval Treaty, party politicians, and capitalist cliques, arguing that violent direct action was necessary to bring about imperial reconstruction and martial law. Despite the prosecutor demanding death penalties for the three principal leaders, the court imposed a maximum sentence of fifteen years imprisonment, which placated unrest within the navy but alarmed Japanese liberals.",
+   "title": "Despatch No. 581: Transmitting a portion of a Report on the Trials of the Reactionaries involved in the 'May 15' Incident",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Records the filing of Despatch No. 584 regarding the militarization of the South Manchuria Railway under decimal file 8940.77/10.",
+   "continues_previous": false,
+   "date": "1933-11-16",
+   "doc_type": "cross-reference sheet",
+   "end_page": 341,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "South Manchuria Railway",
+    "Kwantung Army",
+    "militarization",
+    "Joseph C. Grew"
+   ],
+   "start_page": 341,
+   "summary": "This document file cross-reference note indicates that Despatch No. 584, dated November 16, 1933, from Ambassador Joseph C. Grew in Tokyo, has been filed under classification 8940.77/10. The despatch reports on the militarization of the South Manchuria Railway under the Kwantung Army.",
+   "title": "Cross-Reference Note for Despatch No. 584: Militarization of the South Manchuria Railway under the Kwantung Army",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Forwards a newspaper clipping featuring an interview with Sir Harry McGowan on economic and political conditions in Japan and China.",
+   "continues_previous": false,
+   "date": "1933-12-11",
+   "doc_type": "letter",
+   "end_page": 343,
+   "from": "George B. Barrow",
+   "keywords": [
+    "Franklin D. Roosevelt",
+    "George B. Barrow",
+    "Harry McGowan",
+    "Japanese industry",
+    "China",
+    "Nanking government"
+   ],
+   "start_page": 342,
+   "summary": "George B. Barrow writes to President Franklin D. Roosevelt enclosing a newspaper interview clipping with British industrialist Sir Harry McGowan. The interview describes Japan's active industry, chemical advancement, expanding merchant fleet, and taboo military ambitions, while asserting that communism is highly unlikely there. It also touches upon China's awakening, Nanking's efforts to achieve political security against northern warlords and southern communists, and the necessity of sending senior executives to East Asia.",
+   "title": "Letter to President Franklin D. Roosevelt Enclosing Press Clipping on Japan and China",
+   "to": "Franklin D. Roosevelt"
+  },
+  {
+   "about": "Transmits two articles published in Le Temps analyzing Japan's economic expansion and Kwantung Army policies in Manchuria.",
+   "continues_previous": false,
+   "date": "1933-12-16",
+   "doc_type": "report",
+   "end_page": 352,
+   "from": "Warrington Dawson",
+   "keywords": [
+    "Robert Poulaine",
+    "Le Temps",
+    "Warrington Dawson",
+    "Manchuria",
+    "Kuniaki Koiso",
+    "South Manchuria Railway",
+    "Fushun",
+    "Senegal",
+    "Morocco"
+   ],
+   "start_page": 344,
+   "summary": "Warrington Dawson, Special Assistant at the American Embassy in Paris, forwards two articles by French special correspondent Robert Poulaine published in Le Temps on October 25 and November 29, 1933. The first article analyzes Japan's competitive manufacturing advantages, low labor costs, export penetration into French colonies such as Senegal and Morocco, and agrarian distress. The second article examines Japanese development plans in Manchukuo, detailing General Kuniaki Koiso's ten-year industrialization program, the strategic role of the South Manchuria Railway, and friction between the Kwantung Army and metropolitan financial trusts.",
+   "title": "Special Report No. W.D. 1352: Articles by Robert Poulaine Dealing With the Far East",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Analyzes Despatch No. 609 concerning Yosuke Matsuoka's resignation from the Seiyukai Party and the viability of parliamentary government in Japan.",
+   "continues_previous": false,
+   "date": "1934-01-05",
+   "doc_type": "memorandum",
+   "end_page": 354,
+   "from": "Eugene H. Dooman",
+   "keywords": [
+    "Yosuke Matsuoka",
+    "Seiyukai",
+    "parliamentary government",
+    "Kinmochi Saionji",
+    "Genro",
+    "Eugene H. Dooman"
+   ],
+   "start_page": 353,
+   "summary": "Eugene H. Dooman reviews Tokyo Despatch No. 609 reporting on Yosuke Matsuoka's resignation from the Seiyukai Party and his call to dissolve political factions. Dooman analyzes the Japanese cultural reliance on elder statesmen and the role of Prince Saionji, arguing that feudal customs and a lack of individual civic consciousness impede the functioning of Western parliamentary democracy. He concludes that while an extraordinary balance mechanism may be needed during the present crisis, an authoritarian council would not be tolerated once normal conditions return.",
+   "title": "Division of Far Eastern Affairs Memorandum on Tokyo Despatch No. 609",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reports on Yosuke Matsuoka's resignation from the Seiyukai Party and his public manifesto advocating the dissolution of political parties.",
+   "continues_previous": false,
+   "date": "1933-12-14",
+   "doc_type": "despatch",
+   "end_page": 357,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Yosuke Matsuoka",
+    "Seiyukai",
+    "Imperial Diet",
+    "party government",
+    "superparty government",
+    "League of Nations"
+   ],
+   "start_page": 355,
+   "summary": "Ambassador Grew reports that the prestige of Japanese party government suffered a major setback when Yosuke Matsuoka resigned from the Seiyukai Party and the Imperial Diet. Matsuoka, who gained widespread public acclaim for defending Japan's Manchurian policy and walkout at Geneva, issued a manifesto asserting that Western parliamentary systems do not suit Japan and demanding the dissolution of parties to achieve unified superparty government. Grew analyzes Matsuoka's political ambitions, public reactions to his anti-parliamentary stance, and press defenses of constitutional government.",
+   "title": "Despatch No. 609: The Resignation of Mr. Matsuoka from the Seiyukai Party and the Unpopularity of Party Government in Japan",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 39061,
+   "output_tokens": 34225,
+   "thinking_tokens": 28037,
+   "cache_read_tokens": 0,
+   "total_tokens": 73286
+  },
+  "backend": "agy",
+  "section": 5,
+  "sections": 9,
+  "pages": [
+   305,
+   357
+  ],
+  "pdf": "894.00 Japan, Political Affairs., January 25, 1930 - February 6, 1935 846-part-2.pdf",
+  "seconds": 87.2,
+  "created": "2026-09-29 18:28:02",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-15-part-2"
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "interest": "U.S. inquiry confirmed Japan maintained no penal colonies, 1936.",
+ "keywords": [
+  "penal administration",
+  "penal colonies",
+  "prisons",
+  "reformatories",
+  "correction and punishment",
+  "Ministry of Justice",
+  "Foreign Office",
+  "Department of State",
+  "Tokyo",
+  "Japan",
+  "Joseph C. Grew",
+  "W. Cameron Forbes"
+ ],
+ "overview": "File 894.131 (1932–36): Japan's offer to exchange penal administration material, and Grew's 1936 despatch reporting that Japan kept no penal colonies.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Joseph J. Drew"
+   ]
+  },
+  {
+   "name": "W. Cameron Forbes",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Forbes"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet indexing Despatch No. 481 regarding an exchange of materials on Japanese penal administration.",
+   "date": "1932-02-05",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "W. Cameron Forbes",
+   "keywords": [
+    "penal administration",
+    "Foreign Office",
+    "W. Cameron Forbes",
+    "Japan",
+    "prisons",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Forbes's Despatch No. 481 (1932): Japan willing to exchange penal administration material.",
+   "title": "Cross-reference sheet for Despatch No. 481 on penal administration in Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "A cross-reference sheet indexing a report from Ambassador Grew regarding penal colonies in Japan.",
+   "date": "1936-05-01",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "penal colonies",
+    "Joseph C. Grew",
+    "Japan",
+    "cross-reference sheet",
+    "prisons"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Grew's May 1936 despatch on penal colonies in Japan.",
+   "title": "Cross-reference sheet for Despatch regarding penal colonies in Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Ambassador Grew transmits information from the Ministry of Justice confirming that Japan maintains no penal colonies.",
+   "date": "1936-05-01",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "penal colonies",
+    "Ministry of Justice",
+    "Tokyo",
+    "Joseph C. Grew",
+    "Secretary of State",
+    "despatch",
+    "Japan"
+   ],
+   "start_page": 3,
+   "summary": "Grew reports that the Ministry of Justice says Japan maintains no penal colonies.",
+   "title": "Despatch No. 1800 from Joseph C. Grew regarding penal colonies in Japan",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13954,
+   "output_tokens": 6362,
+   "thinking_tokens": 5204,
+   "cache_read_tokens": 0,
+   "total_tokens": 20316
+  },
+  "backend": "agy",
+  "seconds": 20.5,
+  "identifier": "japan-internal-affairs-894.131-correction-and-punishment-1",
+  "file": "894.131 Correction And Punishment. Statistics., Japan, Prisons And Reformatories., February 5, 1932 - May 1, 1936 907.pdf",
+  "created": "2026-09-28 23:24:01"
+ }
+}

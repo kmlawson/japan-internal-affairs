@@ -1,0 +1,815 @@
+{
+ "overview": "This heterogeneous State Department decimal-file bundle concerns Japanese-controlled or strategically sensitive aviation and transportation between 1940 and 1942. It begins with reports on military restrictions, equipment shortages, safety problems, and route expansion in Japanese civil aviation, including services to Palau, Saipan, Thailand, and a proposed Manila connection; it also includes a cross-reference about aviation-fuel shipments to Hainan. Later documents report naval and industrial activity around Maizuru and examine the controversial Japanese airline concession in Portuguese Timor, Australian and British security concerns, Portuguese neutrality, and the absence of local defenses. The final papers shift to Bolivia and the impracticability of using German insurance funds to acquire Junkers-owned shares in Lloyd Aéreo Boliviano, while administrative sheets and cross-references document how these materials were filed and circulated.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Palau",
+   "variants": [
+    "Jalau",
+    "Palau"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Pedping"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Saipan",
+   "variants": [
+    "Saipan"
+   ]
+  },
+  {
+   "name": "Japanese South Seas Mandate",
+   "variants": [
+    "Mandated Islands",
+    "Japanese mandated islands"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "U. S.",
+    "American",
+    "UNITED STATES OF AMERICA"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Siam"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "Indo-China",
+    "Indochina"
+   ]
+  },
+  {
+   "name": "Yunnan",
+   "variants": [
+    "Yunnan"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "French"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "East Indies",
+   "variants": [
+    "East Indies",
+    "East Indies archipelago"
+   ]
+  },
+  {
+   "name": "Malay States",
+   "variants": [
+    "Malay States"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Hainan Island",
+   "variants": [
+    "Hainan Island",
+    "Hainan"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C.",
+    "Washington",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Maizuru"
+   ]
+  },
+  {
+   "name": "Uchiura",
+   "variants": [
+    "Uchuira"
+   ]
+  },
+  {
+   "name": "Uchiura Bay",
+   "variants": [
+    "Uchuira Bay"
+   ]
+  },
+  {
+   "name": "Northern Korea",
+   "variants": [
+    "Northern Korea"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tsuruga"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Ōta",
+   "variants": [
+    "Ochi"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gunma-ken"
+   ]
+  },
+  {
+   "name": "Lisbon",
+   "variants": [
+    "Lisbon",
+    "LISBON",
+    "LIBBON",
+    "LISBOA"
+   ]
+  },
+  {
+   "name": "Timor-Leste (East Timor)",
+   "variants": [
+    "Timor",
+    "Portuguese Timor",
+    "Portuguese Colony of Timor",
+    "Portuguese colony of Timor"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portugal",
+    "Portuguese"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australian"
+   ]
+  },
+  {
+   "name": "Canberra",
+   "variants": [
+    "Canberra"
+   ]
+  },
+  {
+   "name": "Dili",
+   "variants": [
+    "Dilli",
+    "Dili"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Empire"
+   ]
+  },
+  {
+   "name": "Portuguese Empire",
+   "variants": [
+    "Portuguese Empire"
+   ]
+  },
+  {
+   "name": "Macau",
+   "variants": [
+    "Macao"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Dutch"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "German"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia",
+    "Bolivian"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "H. H. Smith-Hutton",
+   "role": "Lieutenant Commander, U.S. Navy, and Naval Attaché in Tokyo",
+   "variants": [
+    "H. H. Smith-Hutton"
+   ]
+  },
+  {
+   "name": "Gunji Hosono",
+   "role": "Foreign-relations counsellor of the Japan Air Transport Company and former Japanese Foreign Office official",
+   "variants": [
+    "Mr. Gunji Hosono",
+    "Mr. Hosono"
+   ]
+  },
+  {
+   "name": "Eugene H. Dooman",
+   "role": "Counsellor of the U.S. Embassy in Japan",
+   "variants": [
+    "Mr. Dooman"
+   ]
+  },
+  {
+   "name": "William Mayer",
+   "role": "Major, Field Artillery, and U.S. Military Attaché in China",
+   "variants": [
+    "William Mayer"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Amrine",
+   "role": "Division of Far Eastern Affairs staff member named on the charge-out card",
+   "variants": [
+    "FE Amrine"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Honorable Adolf A. Berle, Jr.",
+    "Mr. Berle"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "J. E. Hoover",
+    "Hoover"
+   ]
+  },
+  {
+   "name": "Theodore Stark Wilkinson",
+   "role": "Captain and Director of the Office of Naval Intelligence",
+   "variants": [
+    "Captain T. S. Wilkinson"
+   ]
+  },
+  {
+   "name": "Sherman Miles",
+   "role": "Brigadier General and Assistant Chief of Staff, G-2, War Department",
+   "variants": [
+    "Brigadier General Sherman Hiles"
+   ]
+  },
+  {
+   "name": "Herbert Vere Evatt",
+   "role": "Australian Minister for Foreign Affairs",
+   "variants": [
+    "Dr. H. V. Evatt"
+   ]
+  },
+  {
+   "name": "John K. Emmerson",
+   "role": "Officer in the State Department's Division of Far Eastern Affairs",
+   "variants": [
+    "Emmerson"
+   ]
+  },
+  {
+   "name": "Bert Fish",
+   "role": "U.S. Minister to Portugal",
+   "variants": [
+    "Bert Fish",
+    "FISH"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Hull"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Acheson",
+    "M.S. ACHESON"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "State Department officer in the Division of Far Eastern Affairs",
+   "variants": [
+    "Hamilton"
+   ]
+  },
+  {
+   "name": "John W. Pehle",
+   "role": "Treasury Department official; probable identification of the OCR form",
+   "variants": [
+    "Mr. Pabble"
+   ]
+  },
+  {
+   "name": "Allan Dawson",
+   "role": "First Secretary of the U.S. Embassy in Bolivia",
+   "variants": [
+    "Allan Dawson"
+   ]
+  },
+  {
+   "name": "John Gordon Mein",
+   "role": "Department of State officer; probable identification of the reviewer",
+   "variants": [
+    "Mr. Mein"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese civil aviation",
+  "military travel restrictions",
+  "South Seas Mandate",
+  "Japan–Thailand air service",
+  "aviation gasoline",
+  "Hainan",
+  "Maizuru naval base",
+  "naval intelligence",
+  "Portuguese Timor",
+  "Portugal–Japan air agreement",
+  "Australian security",
+  "British press reaction",
+  "Portuguese neutrality",
+  "Lloyd Aéreo Boliviano",
+  "Junkers stock"
+ ],
+ "subfiles": [
+  {
+   "title": "Naval attaché report on restrictions on the Yokohama–Palau airline",
+   "doc_type": "attaché report",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1940-03-14",
+   "from": "H. H. Smith-Hutton, Naval Attaché, Tokyo",
+   "to": "Office of Naval Intelligence and listed military recipients",
+   "about": "Reports that the new Yokohama–Saipan–Palau service was closed to civilians and foreigners under Japanese military regulations.",
+   "summary": "Gunji Hosono told the U.S. Embassy that only Japanese army and navy officers could travel from Yokohama to Saipan and Palau, while foreigners needed military permission on other Japanese routes. The Taihoku–Canton segment of the Bangkok route was also generally closed to passengers. Hosono described shortages of aircraft, poor maintenance, crashes caused by deficient upkeep, and an interest in a reciprocal Japanese–American feeder service between Japan and Manila.",
+   "keywords": [
+    "Yokohama–Palau airline",
+    "Saipan",
+    "military restrictions",
+    "Gunji Hosono",
+    "aircraft maintenance",
+    "Manila feeder route"
+   ]
+  },
+  {
+   "title": "Military attaché report on the Japan–Thailand air service",
+   "doc_type": "attaché report",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1940-06-11",
+   "from": "William Mayer, Military Attaché, China",
+   "to": "G-2, War Department, and distribution recipients",
+   "about": "Describes the opening and strategic limitations of scheduled Japanese air service between Taiwan, China, and Thailand.",
+   "summary": "The report states that service from Taihoku through Canton to Bangkok was to begin on June 10, 1940, using three long-range Japan Airways aircraft. French refusal to permit overflight or landing in Indochina forced an unusually long over-water flight between Canton and Bangkok. The resulting fuel burden was expected to restrict payloads and reduce the route's potential to divert Asian mail from American transpacific services.",
+   "keywords": [
+    "Japan–Thailand air service",
+    "Taihoku",
+    "Canton",
+    "Bangkok",
+    "French Indochina",
+    "transpacific mail"
+   ]
+  },
+  {
+   "title": "Cross-reference on aviation-gasoline stocks at Hainan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1940-07-26",
+   "from": "Joseph C. Grew, Japan",
+   "to": "Department of State files",
+   "about": "References a telegram concerning Japanese orders for large stocks of aviation gasoline destined for South China and Hainan.",
+   "summary": "The sheet records reports from the U.S. consuls at Kobe and Osaka that Japanese buyers had placed orders with major American oil companies. The gasoline was to be shipped in drums for delivery in South China and Hainan before October 1, 1940. The original telegram was filed under 793.94/16080.",
+   "keywords": [
+    "aviation gasoline",
+    "Hainan",
+    "South China",
+    "American oil companies",
+    "Japanese procurement"
+   ]
+  },
+  {
+   "title": "Charge-out card for files 894.796/56–59",
+   "doc_type": "file charge card",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1949-04-08",
+   "from": "Department of State records staff",
+   "to": "FE Amrine",
+   "about": "Records the administrative charging out of four numbered documents from the file.",
+   "summary": "The card shows that records 894.796/56 through 59 were charged to FE Amrine on April 8, 1949. It is a later archival-control document rather than substantive diplomatic reporting.",
+   "keywords": [
+    "file administration",
+    "charge-out record",
+    "FE Amrine",
+    "Record Group 59"
+   ]
+  },
+  {
+   "title": "Hoover letter transmitting intelligence on Japanese air and naval matters",
+   "doc_type": "letter",
+   "start_page": 6,
+   "end_page": 6,
+   "date": "1941-11-18",
+   "from": "J. Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Transmits an FBI memorandum based on information from a confidential source about Japanese naval and aviation activity.",
+   "summary": "Hoover sent Berle a copy of a same-day memorandum containing information supplied by an outside source characterized as confidential and reliable. Copies were also directed to the heads of the Office of Naval Intelligence and Army G-2. The letter serves as the covering document for the Maizuru intelligence memorandum.",
+   "keywords": [
+    "FBI",
+    "confidential source",
+    "J. Edgar Hoover",
+    "Adolf A. Berle Jr.",
+    "naval intelligence"
+   ]
+  },
+  {
+   "title": "FBI memorandum on Maizuru naval and industrial activity",
+   "doc_type": "memorandum enclosure",
+   "start_page": 7,
+   "end_page": 8,
+   "date": "1941-11-18",
+   "from": "Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr. and intelligence recipients",
+   "about": "Summarizes confidential observations of Japanese naval preparations, shipbuilding, aircraft-industry changes, and the Izumo Maru.",
+   "summary": "A recent visitor reported many small warships at Maizuru, submarine and destroyer construction, strict harbor controls, and expanded port facilities intended for possible troop movements toward northern Korea, Manchuria, and Siberia. The source also described local expectations of war with Russia, conversion of Mitsubishi's Nagoya aircraft factory to tank production, and expansion of Nakajima's plant at Ōta. The memorandum says the Izumo Maru was no longer to be converted into an aircraft carrier but instead into a hospital ship, and notes suspicions that a July fire aboard her may have been sabotage.",
+   "keywords": [
+    "Maizuru",
+    "Japanese Navy",
+    "shipbuilding",
+    "war with Russia",
+    "Mitsubishi",
+    "Nakajima Aircraft",
+    "Izumo Maru",
+    "sabotage"
+   ]
+  },
+  {
+   "title": "Cross-reference to the FBI memorandum on Maizuru",
+   "doc_type": "cross-reference sheet",
+   "start_page": 9,
+   "end_page": 9,
+   "date": "1941-11-18",
+   "from": "Department of State records staff",
+   "to": "Department of State files",
+   "about": "Directs researchers to Hoover's letter and its enclosure concerning Japanese activity around Maizuru.",
+   "summary": "The sheet identifies the subject as Japanese activity around Maizuru and notes that Hoover's November 18 letter enclosed a memorandum on the subject. It supplies the file reference 894.796/60.",
+   "keywords": [
+    "Maizuru",
+    "cross-reference",
+    "Hoover",
+    "FBI memorandum",
+    "file control"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs digest of Portuguese press comment on the Timor airline",
+   "doc_type": "memorandum",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1941-12-22",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State",
+   "about": "Summarizes Portuguese press rebuttals to British concern over Japan's new airline to Portuguese Timor.",
+   "summary": "The memorandum digests Lisbon despatch no. 292 and the dispute provoked by a Daily Telegraph editorial warning that the Japanese service might turn Portuguese Timor into another Indochina. Diário de Notícias answered that Portugal had granted Japan terms identical to those given Australia and remained committed to defending its sovereignty and possessions.",
+   "keywords": [
+    "Portuguese Timor",
+    "Japanese airline",
+    "Daily Telegraph",
+    "Diário de Notícias",
+    "Portuguese neutrality"
+   ]
+  },
+  {
+   "title": "Lisbon despatch no. 292 on British and Portuguese reactions to the Timor airline",
+   "doc_type": "despatch",
+   "start_page": 11,
+   "end_page": 12,
+   "date": "1941-12-01",
+   "from": "Bert Fish, U.S. Legation, Lisbon",
+   "to": "U.S. Secretary of State",
+   "about": "Reports Australian and British security concerns and a Portuguese press defense of the Japanese airline concession in Timor.",
+   "summary": "Fish reported H. V. Evatt's warning that Timor was strategically important to Australia and quoted a Daily Telegraph editorial portraying the Japanese airline as a vehicle for intrigue and espionage. Diário de Notícias replied that Japan received the same concession as Australia and that Portugal would defend its colonies and sovereignty. Fish concluded that Portugal was uneasy about the Japanese presence but resented British pressure and believed neutrality required equal treatment after a comparable concession had been granted to Britain.",
+   "keywords": [
+    "Portuguese Timor",
+    "H. V. Evatt",
+    "Australia",
+    "Daily Telegraph",
+    "espionage fears",
+    "Diário de Notícias",
+    "neutrality"
+   ]
+  },
+  {
+   "title": "Lisbon despatch no. 295 quoting Diário de Lisboa",
+   "doc_type": "despatch",
+   "start_page": 13,
+   "end_page": 13,
+   "date": "1941-12-03",
+   "from": "Bert Fish, U.S. Legation, Lisbon",
+   "to": "U.S. Secretary of State",
+   "about": "Provides further Portuguese press defense of equal airline concessions to Japan and Australia.",
+   "summary": "The follow-up despatch quotes Diário de Lisboa's argument that both airline concessions were intended to stimulate Timor's economy and air navigation. The paper rejected suggestions that Japan had been favored and asserted that Portuguese authorities at Dili would enforce the agreement and protect Portuguese prestige.",
+   "keywords": [
+    "Diário de Lisboa",
+    "Timor",
+    "Japan–Portugal relations",
+    "Australia",
+    "airline concessions",
+    "Dili"
+   ]
+  },
+  {
+   "title": "Instruction to obtain the terms of Japanese engagements concerning Macau and Timor",
+   "doc_type": "telegram",
+   "start_page": 14,
+   "end_page": 14,
+   "date": "1941-12-09",
+   "from": "Cordell Hull, Department of State",
+   "to": "American Legation, Lisbon",
+   "about": "Orders the Lisbon legation to determine the exact terms of Japanese commitments to Portugal concerning Macau and Timor.",
+   "summary": "The brief telegram requests a precise account of Japan's engagements with Portugal respecting Macau and Timor. Its date is recoverable from the reply on the following page, which identifies the Department's initiating telegram as no. 825 of December 9.",
+   "keywords": [
+    "Macau",
+    "Timor",
+    "Japan–Portugal agreements",
+    "diplomatic inquiry",
+    "Cordell Hull"
+   ]
+  },
+  {
+   "title": "Lisbon telegram no. 721 on the Japanese–Portuguese Timor agreement",
+   "doc_type": "telegram",
+   "start_page": 15,
+   "end_page": 15,
+   "date": "1941-12-13",
+   "from": "Bert Fish, Lisbon",
+   "to": "U.S. Secretary of State",
+   "about": "Reports Portuguese assurances that the Timor air-service agreement contained no secret provisions.",
+   "summary": "The Portuguese Foreign Office's secretary general categorically denied any secret clauses or additional engagements with Japan. A technical supplement negotiated in Timor still awaited approval in Lisbon, after Portugal had required Japan to replace vague proposals with specific terms. Portuguese officers acknowledged that Timor had no meaningful defenses and depended on neighboring states' good faith; they feared a possible Dutch occupation more than a Japanese one.",
+   "keywords": [
+    "Timor air agreement",
+    "secret clauses",
+    "Portugal",
+    "Japan",
+    "colonial defense",
+    "Dutch occupation"
+   ]
+  },
+  {
+   "title": "Internal memorandum on releasing frozen funds for a proposed visit",
+   "doc_type": "memorandum",
+   "start_page": 16,
+   "end_page": 16,
+   "date": "1941-11-19",
+   "from": "Division of Far Eastern Affairs, Maxwell M. Hamilton",
+   "to": "Dean Acheson and the Secretary of State",
+   "about": "Recommends Treasury clearance for the release of frozen funds connected with an otherwise unidentified proposed visit.",
+   "summary": "The memorandum assumes that Acheson will wish to consult the Treasury Department before frozen funds are released for the stated purpose. It adds that the War and Navy Departments had informally expressed no objection to the visit. The page does not preserve enough context to identify the visitor or destination.",
+   "keywords": [
+    "frozen funds",
+    "Treasury Department",
+    "Dean Acheson",
+    "War Department",
+    "Navy Department",
+    "proposed visit"
+   ]
+  },
+  {
+   "title": "La Paz despatch on purchasing Junkers-owned Lloyd Aéreo Boliviano stock",
+   "doc_type": "despatch",
+   "start_page": 17,
+   "end_page": 18,
+   "date": "1942-07-02",
+   "from": "Allan Dawson, First Secretary of Embassy, for the Ambassador",
+   "to": "U.S. Secretary of State",
+   "about": "Explains why German insurance debts could not practicably be used to purchase Junkers' shares in Lloyd Aéreo Boliviano.",
+   "summary": "The embassy had previously considered arranging for German insurance companies to pay Junkers for its LAB shares in exchange for cancellation of LAB's insurance claim. Dawson explains that Junkers might resist selling or dispute the price, while the insurers benefited from delaying payment. Bolivia's rupture of relations with Germany made cooperation, communication, and governmental sponsorship still less likely, so the proposal was judged impracticable.",
+   "keywords": [
+    "Lloyd Aéreo Boliviano",
+    "Junkers",
+    "German insurance companies",
+    "Bolivia",
+    "frozen assets",
+    "airline stock"
+   ]
+  },
+  {
+   "title": "Department of State review sheet for the LAB stock despatch",
+   "doc_type": "review and servicing sheet",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1942-07-23",
+   "from": "Department of State reviewing staff",
+   "to": "Mr. Mein and servicing staff",
+   "about": "Records the review and processing of the La Paz despatch concerning Junkers-owned LAB stock.",
+   "summary": "The work sheet identifies Foreign Service despatch no. 224 from La Paz, dated July 2, 1942, as concerning the purchase of Lloyd Aéreo Boliviano stock owned by Junkers. It records receipt on July 22, review on July 23, and servicing on August 3, and classifies Bolivia as the principal country concerned.",
+   "keywords": [
+    "document processing",
+    "La Paz despatch",
+    "Lloyd Aéreo Boliviano",
+    "Junkers",
+    "Bolivia",
+    "file review"
+   ]
+  }
+ ],
+ "interest": "The file is valuable for showing how ostensibly commercial air routes were treated as instruments of military control, intelligence gathering, imperial access, and strategic competition immediately before and after the United States entered the Pacific War. The Timor sequence is especially useful because it combines diplomatic reporting, competing press narratives, Australian security concerns, Portuguese neutrality arguments, and a confidential assessment of the colony's lack of defenses. The Maizuru memorandum preserves granular contemporary intelligence and rumor about Japanese shipbuilding and industrial conversion, while the unrelated Bolivian papers reveal how the same aviation decimal classification absorbed wartime financial-control questions. The absence of substantive material about carrier pigeons, despite the file title, and the presence of later charge and review sheets also illuminate the sometimes untidy logic of State Department filing practice.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 285.9,
+  "identifier": "japan-internal-affairs-894.796-other-means-of-1",
+  "file": "894.796 Other Means Of Communication And Transportation. Carrier Pigeons., Japan, Aerial Navigation. Immunities Of Government-Controlled. Subsidies., March 14, 1940 - July 2, 1942 1357.pdf",
+  "created": "2026-09-29 07:21:33"
+ }
+}

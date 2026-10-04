@@ -1,0 +1,155 @@
+{
+ "interest": "Japanese companies as naval fronts in Portuguese Timor.",
+ "keywords": [
+  "Portuguese Timor",
+  "Timor-Leste",
+  "Japanese expansionism",
+  "Malay Archipelago",
+  "Nanyo Kohatsu Kaisha",
+  "Dutch East Indies",
+  "Batavia",
+  "naval intelligence",
+  "espionage",
+  "Department of Justice",
+  "radio intercepts",
+  "signals intelligence"
+ ],
+ "overview": "Two dockets: Japanese penetration of Portuguese Timor, and FBI radio intercepts from Tokyo to Bern, 1942.",
+ "people": [
+  {
+   "name": "Walter A. Foote",
+   "role": "U.S. Consul General at Batavia",
+   "variants": [
+    "Foote"
+   ]
+  },
+  {
+   "name": "Herbert C. Pell",
+   "role": "U.S. Minister to Portugal",
+   "variants": [
+    "Foll"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "Hoover"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Timor-Leste",
+   "variants": [
+    "(Portuguese) Timor",
+    "Timor",
+    "Timor-Leste"
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Malay Archipelago",
+   "variants": [
+    "Malay Archipelago"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portug.",
+    "Portuguese"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Dutch"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department docket sheet indexing diplomatic correspondence and consular reports on Japanese commercial infiltration and naval-backed military activities in Portuguese Timor.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Portuguese Timor",
+    "Timor-Leste",
+    "Batavia",
+    "Nanyo Kohatsu Kaisha",
+    "Nanyo Timor Gunto Kaisha",
+    "Imperial Japanese Navy",
+    "Sociedade d'Arriculture de Travalho",
+    "Dutch East Indies",
+    "Malay Archipelago"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.20253F: Foote's reports that navy-backed Japanese firms were taking over Portuguese Timor.",
+   "title": "List of Papers: Japanese Military Activities in (Portuguese) Timor (File 894.20253F)",
+   "to": "Department of State"
+  },
+  {
+   "about": "A State Department docket sheet cataloguing wartime intelligence submissions from the Department of Justice concerning Japanese tobacco activities and intercepted radio messages.",
+   "date": "1942",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "Department of Justice",
+    "J. Edgar Hoover",
+    "radio intercepts",
+    "station JUM",
+    "Tokyo",
+    "Bern",
+    "tobacco activities",
+    "signals intelligence"
+   ],
+   "start_page": 2,
+   "summary": "Docket for 894.20254 (1942): Hoover's reports on Japanese tobacco operations and intercepted Tokyo radio messages to Bern.",
+   "title": "List of Papers: Japanese Tobacco Activities and Intercepted Radio Messages (File 894.20254)",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14127,
+   "output_tokens": 7708,
+   "thinking_tokens": 6500,
+   "cache_read_tokens": 0,
+   "total_tokens": 21835
+  },
+  "backend": "agy",
+  "seconds": 30.7,
+  "identifier": "japan-internal-affairs-894.20253f-military-affairs-army-1",
+  "file": "894.20253F Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Timor Including Gathering Of Information. Espionage. Propaganda.,  470.pdf",
+  "created": "2026-09-29 02:40:36"
+ }
+}

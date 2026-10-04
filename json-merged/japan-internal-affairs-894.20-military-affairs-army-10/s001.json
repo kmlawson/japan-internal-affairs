@@ -1,0 +1,1626 @@
+{
+ "section_summary": "This section documents U.S. monitoring of Japanese propaganda, intelligence, espionage, and fifth-column activity from 1940 through early 1942. It includes intercepted Japanese correspondence, reports on overseas radio broadcasts and covert organizations targeting Overseas Chinese, descriptions of Japanese military and naval intelligence structures, and FBI warnings shared with the State, War, and Navy Departments. Later papers address Japanese strategic aims, Axis tensions over Asian resources, and ideological themes in Japanese wartime publications.",
+ "places": [
+  {
+   "name": "Far East",
+   "variants": [
+    "Par Eest",
+    "Par Last"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washimgton, D.C.",
+    "Wassimetem, D.C.",
+    "Washington, D. C.",
+    "Washington. D. U.",
+    "Wasnington, D. C.",
+    "ashington. D. U.",
+    "Washington, D. J.",
+    "ashington, D. G.",
+    "Washing ton, D. C."
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Mumila",
+    "Maile",
+    "Manila",
+    "manila"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "STRAITS SETTLPONTS",
+    "Straits Settlements"
+   ]
+  },
+  {
+   "name": "Guangzhou (Canton)",
+   "variants": [
+    "Ganten",
+    "Gasten",
+    "Canton"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South Chine",
+    "South China",
+    "South Shina"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapere",
+    "Singapore",
+    "singapore",
+    "Singapere"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Mosgkons",
+    "Hong Kong",
+    "Eong Long",
+    "Long Kong",
+    "Hong Keng"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hamei",
+    "Heno1"
+   ]
+  },
+  {
+   "name": "Jakarta (Batavia)",
+   "variants": [
+    "Batevie",
+    "Natevie",
+    "Natevis",
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Ho Chi Minh City (Saigon)",
+   "variants": [
+    "Saigon",
+    "saigon",
+    "Saigsm"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Raagtok",
+    "Bengkok",
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Yangon (Rangoon)",
+   "variants": [
+    "Rangoon",
+    "Rangood"
+   ]
+  },
+  {
+   "name": "Surabaya",
+   "variants": [
+    "Sousebege",
+    "SOERABAJA",
+    "Soerabaya",
+    "Beerabaya"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "Sen Prenstsese",
+    "San Franoisco",
+    "San Freno1e0o",
+    "San Franolsoo",
+    "Sen Franeiseo"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New Yoek"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Casablanca",
+   "variants": [
+    "Casablanca",
+    "Cesablanca",
+    "Caeablanca",
+    "Caeablanoa"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "Tientein"
+   ]
+  },
+  {
+   "name": "Lagos",
+   "variants": [
+    "Lagos",
+    "iagoe"
+   ]
+  },
+  {
+   "name": "Nairobi",
+   "variants": [
+    "Nairobi",
+    "sairobi",
+    "Nalrob1",
+    "Melrobi"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "Chicago",
+    "Chi oago",
+    "Ch10ngo",
+    "Chleago"
+   ]
+  },
+  {
+   "name": "Kolkata (Calcutta)",
+   "variants": [
+    "Calcutta",
+    "Caloutta",
+    "Caloutla"
+   ]
+  },
+  {
+   "name": "Houston",
+   "variants": [
+    "Houston (U.S.A.)",
+    "Houstom (U.S.A.)",
+    "Houeton (U.S.A.)"
+   ]
+  },
+  {
+   "name": "Karachi",
+   "variants": [
+    "Karachi",
+    "Karnehl"
+   ]
+  },
+  {
+   "name": "Mexico / Mexico City",
+   "variants": [
+    "Mexico",
+    "Mexioo",
+    "Kex100",
+    "Hex100"
+   ]
+  },
+  {
+   "name": "Baghdad",
+   "variants": [
+    "Baghdad",
+    "Baghded"
+   ]
+  },
+  {
+   "name": "Panama City",
+   "variants": [
+    "Panama",
+    "Penama"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome",
+    "Acme"
+   ]
+  },
+  {
+   "name": "Bogotá, Colombia",
+   "variants": [
+    "Bogota (Columbia)",
+    "Bogota (Columbie)",
+    "Bogota (Columble)"
+   ]
+  },
+  {
+   "name": "Antwerp",
+   "variants": [
+    "Antwerp",
+    "Antyurp"
+   ]
+  },
+  {
+   "name": "Santiago",
+   "variants": [
+    "Santiago",
+    "Santlago"
+   ]
+  },
+  {
+   "name": "Hamburg",
+   "variants": [
+    "Hamburg",
+    "Reaburg",
+    "Hazburg",
+    "Remburg"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires",
+    "Buenos Alres",
+    "Buonos Airee"
+   ]
+  },
+  {
+   "name": "Alexandria",
+   "variants": [
+    "Alexandria",
+    "Alexandri»",
+    "A) exandria"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "Sao Paulo",
+    "Seo Paulo",
+    "Beo Paulo"
+   ]
+  },
+  {
+   "name": "Recife (Pernambuco)",
+   "variants": [
+    "Pernambuco",
+    "Parnambuoo",
+    "Pernembuco"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States of America",
+    "United States",
+    "United tates",
+    "U.S.A.",
+    "America"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Japen",
+    "Japes"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central Americeg",
+    "Central America",
+    "Central & South America",
+    "Central and South Ameriee"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "Central & South America",
+    "Central and South Ameriee"
+   ]
+  },
+  {
+   "name": "Fort Shafter",
+   "variants": [
+    "FORT SHAFTER"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawaki",
+    "T. H.",
+    "Islands"
+   ]
+  },
+  {
+   "name": "Southwest Asia",
+   "variants": [
+    "Southwestern Asia"
+   ]
+  },
+  {
+   "name": "Near East",
+   "variants": [
+    "Near East",
+    "Near Eastern Europe"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Eurepe"
+   ]
+  },
+  {
+   "name": "Western North America",
+   "variants": [
+    "Western North America"
+   ]
+  },
+  {
+   "name": "Eastern North America",
+   "variants": [
+    "Hastern North America",
+    "Eastern North America"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Anstralia",
+    "kustralle"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Ghina",
+    "occupied China"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas",
+    "China & South Seas"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "Tokye"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Eest Asia",
+    "Big East Asia sphere",
+    "greeter East Asia sphere",
+    "East Asia co-prosperity sphere"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Dutch East Indies",
+    "Mether lands East Indies",
+    "N.X.I.",
+    "N.K.I.",
+    "D.L.I.",
+    "B.L.L."
+   ]
+  },
+  {
+   "name": "Western Pacific",
+   "variants": [
+    "Western Pacific",
+    "West Pacific"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Americas",
+   "variants": [
+    "Americas"
+   ]
+  },
+  {
+   "name": "Pacific Ocean region",
+   "variants": [
+    "Pacific",
+    "Paeifie",
+    "Pasirie"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philinpines",
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Cavite",
+   "variants": [
+    "Cavite"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "Indo China",
+    "Indo-China",
+    "Inde-Chime",
+    "Inde-Chine",
+    "Inde-China",
+    "French Indochina",
+    "Freneh Indo-Chins"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Thai-land"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Maleya",
+    "Malaya",
+    "Malaga",
+    "MALAYE"
+   ]
+  },
+  {
+   "name": "Myanmar (Burma)",
+   "variants": [
+    "Burme",
+    "Burma"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking",
+    "Hanking"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "Ghangking"
+   ]
+  },
+  {
+   "name": "Fujian",
+   "variants": [
+    "Paktem"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Medan",
+   "variants": [
+    "MOEBAN",
+    "helen"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "Samatre"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java",
+    "Jave"
+   ]
+  },
+  {
+   "name": "Surakarta (Solo)",
+   "variants": [
+    "Solo"
+   ]
+  },
+  {
+   "name": "Sunda Islands",
+   "variants": [
+    "small Sunda Islands",
+    "mall ialands"
+   ]
+  },
+  {
+   "name": "Semarang",
+   "variants": [
+    "Semarang"
+   ]
+  },
+  {
+   "name": "Yogyakarta",
+   "variants": [
+    "Djokjakarta"
+   ]
+  },
+  {
+   "name": "South Pacific",
+   "variants": [
+    "South Pacific Area"
+   ]
+  },
+  {
+   "name": "Azabu, Tokyo",
+   "variants": [
+    "37 Kita Higakubo, Azabu",
+    "2 nasu: icho, Azabu"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "South Menckurian"
+   ]
+  },
+  {
+   "name": "Orient",
+   "variants": [
+    "Orient"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Eastern Mediterranean",
+   "variants": [
+    "Sastern Mediterranean"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Csecheelevakia",
+    "Cseebeslovakis"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "Frasse"
+   ]
+  },
+  {
+   "name": "Madagascar",
+   "variants": [
+    "Madagascar",
+    "Madegssear",
+    "Nadagasear"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlentie"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brasil's coast"
+   ]
+  },
+  {
+   "name": "Vichy",
+   "variants": [
+    "Viehy"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "J. T. H. O'Hara",
+   "role": "Colonel, General Staff Corps, and Assistant Chief of Staff, G-2",
+   "variants": [
+    "J.T.H. O'HAR."
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department adviser on political relations",
+   "variants": [
+    "MR. HORNBELK",
+    "MR. HOECK",
+    "MR. HORNBECK",
+    "MR. HORDECK"
+   ]
+  },
+  {
+   "name": "Matsudaira Tadahisa",
+   "role": "Acting Japanese Consul General at Canton",
+   "variants": [
+    "Matoudaire Tedahiss"
+   ]
+  },
+  {
+   "name": "Mr. Roone",
+   "role": "Recipient in Batavia; role not stated",
+   "variants": [
+    "ir. roone"
+   ]
+  },
+  {
+   "name": "Wang Ching-wei",
+   "role": "Head of the Japanese-sponsored Chinese regime and subject of propaganda recordings",
+   "variants": [
+    "Wang Ghing-wei",
+    "Wang Ching Wei",
+    "Wang's",
+    "Tang Ghing Wei"
+   ]
+  },
+  {
+   "name": "Nagao",
+   "role": "Japanese correspondence sender",
+   "variants": [
+    "Nageo"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Leader of the Chinese National Government",
+   "variants": [
+    "Chiang Lai-shek",
+    "Ghisne Kai-Shek"
+   ]
+  },
+  {
+   "name": "Yoshida Kijiro",
+   "role": "Head of the Information Section of the Japanese Army dispatched to South China",
+   "variants": [
+    "Yoshida xijiro"
+   ]
+  },
+  {
+   "name": "Colonel Churchill",
+   "role": "Military Intelligence Division officer",
+   "variants": [
+    "COLOSEL CHURSNILL",
+    "Colemel Cherebill"
+   ]
+  },
+  {
+   "name": "Captain Nixon",
+   "role": "Office of Naval Intelligence recipient",
+   "variants": [
+    "Gaptekn Mizem",
+    "CAPTAXN BXXON",
+    "Gaptaln Mizen"
+   ]
+  },
+  {
+   "name": "Quinn Tamm",
+   "role": "Federal Bureau of Investigation official",
+   "variants": [
+    "Mp. Tamm",
+    "NA. TANN",
+    "Rr. Tame"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Carl Grosse",
+   "role": "Major, Adjutant General's Department, and Assistant Adjutant General, Hawaiian Department",
+   "variants": [
+    "Carl Grosse"
+   ]
+  },
+  {
+   "name": "Yosuke Matsuoka",
+   "role": "Japanese Foreign Minister",
+   "variants": [
+    "YOSUKE MATSUOKA"
+   ]
+  },
+  {
+   "name": "Shigeshi Nagata",
+   "role": "President of the Rikko Kai (Students' Self Supporting Association)",
+   "variants": [
+    "SHIGESHI NAGATA"
+   ]
+  },
+  {
+   "name": "Admiral Suetsugu",
+   "role": "Head of the National Service Association",
+   "variants": [
+    "ADMIRAL SUETSUGU"
+   ]
+  },
+  {
+   "name": "George Nakamoto",
+   "role": "English Overseas Editor of the Japan Broadcasting Association",
+   "variants": [
+    "GEORGE NAKAMOTO",
+    "MR. NAKAMOTO",
+    "MR. NAkAMOTO"
+   ]
+  },
+  {
+   "name": "James Monroe",
+   "role": "Former U.S. president referenced through the Monroe Doctrine",
+   "variants": [
+    "Monroe"
+   ]
+  },
+  {
+   "name": "John Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "JOHN EDGAR HOOVER",
+    "L0. 2b00ven",
+    "Le. 2toover",
+    "2Aoover",
+    "1. 2. toaven"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Berle, gS.",
+    "Adolf A. Berle, Jr.",
+    "Aaolf A. Berle, Jr.",
+    "Mr. Berle",
+    "r. berle"
+   ]
+  },
+  {
+   "name": "Shinroku Tanomogi",
+   "role": "Japanese propagandist directing Tokyo shortwave stations",
+   "variants": [
+    "Shinroku Tanomogi"
+   ]
+  },
+  {
+   "name": "Gaston Willoquet",
+   "role": "Former French consul in Manila",
+   "variants": [
+    "Gaston Willoquet"
+   ]
+  },
+  {
+   "name": "Ata",
+   "role": "Domei News representative alleged to be a subversive agent",
+   "variants": [
+    "Ata (?)"
+   ]
+  },
+  {
+   "name": "T. S. Wilkinson",
+   "role": "Director of the Office of Naval Intelligence",
+   "variants": [
+    "T. S.  ilkinson",
+    "T. S. Wilkinson"
+   ]
+  },
+  {
+   "name": "Sherman Miles",
+   "role": "Brigadier General and Assistant Chief of Staff, G-2, War Department",
+   "variants": [
+    "Sherman Miles"
+   ]
+  },
+  {
+   "name": "K. S. Patton",
+   "role": "American Consul General at Singapore",
+   "variants": [
+    "K. S. Patton"
+   ]
+  },
+  {
+   "name": "Koizumi",
+   "role": "Chancellor of the Japanese Consulate at Hong Kong and alleged proprietor of the Wing Kee Company",
+   "variants": [
+    "Koinmi"
+   ]
+  },
+  {
+   "name": "Chen Yi",
+   "role": "Governor of Fujian",
+   "variants": [
+    "Ghe Ti",
+    "Chen Ti"
+   ]
+  },
+  {
+   "name": "Tan Kah Kee",
+   "role": "Overseas Chinese leader associated with an anti-Chen Yi movement",
+   "variants": [
+    "Tag Kah Kee"
+   ]
+  },
+  {
+   "name": "F. I. Tremlett",
+   "role": "Assistant Superintendent, Straits Settlements Police",
+   "variants": [
+    "F. I. Tremlett"
+   ]
+  },
+  {
+   "name": "Teo Eng Hock",
+   "role": "Former Kuomintang member in Malaya and local representative of the Wang Ching-wei regime",
+   "variants": [
+    "Teg ng Hock"
+   ]
+  },
+  {
+   "name": "Tse Hung Yi",
+   "role": "Alias appearing in a list of fifth-column agents",
+   "variants": [
+    "TSB HUNG YI"
+   ]
+  },
+  {
+   "name": "King Chung",
+   "role": "Alias of a listed Hong Kong agent",
+   "variants": [
+    "KING CHUNG"
+   ]
+  },
+  {
+   "name": "Chan Kit",
+   "role": "Listed Hong Kong agent",
+   "variants": [
+    "CHAN KIT"
+   ]
+  },
+  {
+   "name": "Cha Man Wing",
+   "role": "Alias of Chan Kit",
+   "variants": [
+    "CHA MAN WING"
+   ]
+  },
+  {
+   "name": "Hung King Man",
+   "role": "Listed agent associated with Hong Kong or Saigon",
+   "variants": [
+    "HUNg KING MAN"
+   ]
+  },
+  {
+   "name": "Chong Poe Tong",
+   "role": "Listed agent in Malaya",
+   "variants": [
+    "CHONG POE TONG"
+   ]
+  },
+  {
+   "name": "J. K. Evans",
+   "role": "Lieutenant Colonel, General Staff Corps, and Assistant Chief of Staff, G-2",
+   "variants": [
+    "J. K. EVANS",
+    "J. K. VAMB"
+   ]
+  },
+  {
+   "name": "Sakae Nihara",
+   "role": "Japanese individual investigated by the FBI",
+   "variants": [
+    "akae ihara",
+    "Sakae Nihare"
+   ]
+  },
+  {
+   "name": "Raymond E. Lee",
+   "role": "Brigadier General and Assistant Chief of Staff, G-2, War Department",
+   "variants": [
+    "Raymond E.e",
+    "ymond . Lee"
+   ]
+  },
+  {
+   "name": "William J. Donovan",
+   "role": "Coordinator of Information",
+   "variants": [
+    "William J. Donovan"
+   ]
+  },
+  {
+   "name": "Hayes A. Kroner",
+   "role": "Colonel and Chief of the Military Intelligence Service",
+   "variants": [
+    "Hayes A. Kroner"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "Under Secretary of State",
+   "variants": [
+    "WELLES"
+   ]
+  },
+  {
+   "name": "Margaret Sanger",
+   "role": "American birth-control advocate denounced in the reviewed Japanese books",
+   "variants": [
+    "Mrs. Sanger"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese propaganda",
+  "Japanese intelligence services",
+  "espionage networks",
+  "overseas radio broadcasting",
+  "fifth-column activity",
+  "Overseas Chinese",
+  "consular intelligence",
+  "psychological warfare",
+  "Axis strategy",
+  "South Pacific",
+  "subversion",
+  "military intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum transmitting intercepted Japanese propaganda correspondence",
+   "doc_type": "memorandum",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1940-03-19",
+   "from": "Colonel J. T. H. O'Hara, G-2",
+   "to": "Assistant Chief of Staff, G-2, War Department",
+   "about": "Transmits British-provided translations of intercepted Japanese consular correspondence concerning propaganda and intelligence activity in the Far East.",
+   "summary": "O'Hara forwards four translated Japanese letters intercepted by British censors and supplied through the British Consul General in Manila. He states that the letters demonstrate the breadth of Japanese propaganda and intelligence organization.",
+   "keywords": [
+    "intercepted correspondence",
+    "Japanese propaganda",
+    "British censorship",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "Request to investigate distribution of propaganda materials",
+   "doc_type": "translated letter",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1939-08-28",
+   "from": "Matsudaira Tadahisa, Acting Consul General, Canton",
+   "to": "Japanese Consul General, Singapore",
+   "about": "Requests an investigation of the receipt, distribution, and reception of propaganda sent to Overseas Chinese.",
+   "summary": "At the request of the Japanese Army's intelligence-information section in South China, Matsudaira asks the Singapore consulate to trace propaganda materials sent to named Overseas Chinese. Equivalent requests were being sent to Japanese establishments in Hong Kong, Hanoi, Batavia, Manila, and Saigon.",
+   "keywords": [
+    "propaganda distribution",
+    "Overseas Chinese",
+    "Japanese consulates",
+    "South China"
+   ]
+  },
+  {
+   "title": "Distribution of Wang Ching-wei gramophone records",
+   "doc_type": "translated confidential letter",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1939-11-24",
+   "from": "Unidentified Japanese official, Canton",
+   "to": "Mr. Roone, Batavia",
+   "about": "Announces shipment and planned distribution of recordings of a Wang Ching-wei broadcast.",
+   "summary": "The sender distributes gramophone records of Wang Ching-wei's August 9 speech, “Now Peace Can Be Materialised,” for circulation among Chinese residents. Allotments are listed for Japanese posts across Southeast Asia and in San Francisco and New York.",
+   "keywords": [
+    "Wang Ching-wei",
+    "gramophone records",
+    "broadcast propaganda",
+    "Overseas Chinese"
+   ]
+  },
+  {
+   "title": "Investigation regarding distribution of propaganda articles",
+   "doc_type": "translated letter",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1939-11-23",
+   "from": "Nagao",
+   "to": "Unidentified recipient; copy to Saigon",
+   "about": "Reports on the arrival and effectiveness of Japanese propaganda among Overseas Chinese.",
+   "summary": "Nagao reports that the materials appear to have reached their destinations and notes increasing Overseas Chinese interest in occupied territories and Wang Ching-wei's peace movement. He recommends continued distribution but warns that crude attacks on Chiang Kai-shek may alienate Chinese readers and provoke confiscation by local governments.",
+   "keywords": [
+    "propaganda assessment",
+    "Overseas Chinese",
+    "Wang Ching-wei",
+    "Chiang Kai-shek"
+   ]
+  },
+  {
+   "title": "Request for investigation of printed propaganda distribution",
+   "doc_type": "translated letter",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1939-08-20",
+   "from": "Yoshida Kijiro, Army Information Section, South China",
+   "to": "Not stated",
+   "about": "Asks officials to determine whether mailed Japanese propaganda reached selected Overseas Chinese recipients and how they reacted.",
+   "summary": "Yoshida explains that propaganda was mailed directly to educators, influential people, anti-Japanese leaders, newspaper offices, and writers. Because the Army was unsure whether it arrived, he requests an investigation of both distribution and audience reaction.",
+   "keywords": [
+    "Army Information Section",
+    "printed propaganda",
+    "targeted mailing",
+    "Overseas Chinese"
+   ]
+  },
+  {
+   "title": "American Embassy Memorandum No. 216 on the Nippon Trade Agency",
+   "doc_type": "memorandum",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "",
+   "from": "American Embassy",
+   "to": "Department of State",
+   "about": "Reports that the Nippon Trade Agency served Japanese propaganda and clandestine communications functions.",
+   "summary": "The memorandum says the agency paid press outlets, propagandists, and other persons abroad. Secret documents were to be held by consuls, while nonbusiness messages were carried by ship captains or special messengers; a worldwide list of agency branches is appended.",
+   "keywords": [
+    "Nippon Trade Agency",
+    "covert communications",
+    "press payments",
+    "consular network"
+   ]
+  },
+  {
+   "title": "Memorandum for Colonel Churchill on the Nippon Trade Agency",
+   "doc_type": "memorandum",
+   "start_page": 7,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1940-04-30",
+   "from": "Department of State",
+   "to": "Colonel Churchill, Military Intelligence Division",
+   "about": "Shares intelligence that the Nippon Trade Agency acted as a Japanese propaganda and clandestine-message network.",
+   "summary": "The memorandum repeats a confidential report on secret documents being stored with Japanese consuls and messages being carried by ships' captains or special couriers. It lists branches around the world and notes parallel dissemination to Naval Intelligence and the FBI.",
+   "keywords": [
+    "Nippon Trade Agency",
+    "Military Intelligence Division",
+    "covert couriers",
+    "propaganda"
+   ]
+  },
+  {
+   "title": "Memorandum for Captain Nixon on the Nippon Trade Agency",
+   "doc_type": "memorandum",
+   "start_page": 9,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1940-04-30",
+   "from": "Department of State",
+   "to": "Captain Nixon, Office of Naval Intelligence",
+   "about": "Provides Naval Intelligence with the confidential report on the Nippon Trade Agency's propaganda and communications role.",
+   "summary": "The memorandum describes consular custody of secret papers and use of special messengers or ship captains for sensitive traffic. A global branch list is supplied, with notice that the same information went to Military Intelligence and the FBI.",
+   "keywords": [
+    "Office of Naval Intelligence",
+    "Nippon Trade Agency",
+    "secret documents",
+    "couriers"
+   ]
+  },
+  {
+   "title": "Memorandum for Mr. Tamm on the Nippon Trade Agency",
+   "doc_type": "memorandum",
+   "start_page": 11,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1940-04-30",
+   "from": "Department of State",
+   "to": "Mr. Tamm, Federal Bureau of Investigation",
+   "about": "Provides the FBI with information on the Nippon Trade Agency's alleged Japanese propaganda activities and secret communications.",
+   "summary": "The document repeats the report that agency branches supported Japanese propaganda and held clandestine papers with local consuls. It lists branches in the Americas, Europe, Africa, and Asia and records distribution to Army and Navy intelligence.",
+   "keywords": [
+    "Federal Bureau of Investigation",
+    "Nippon Trade Agency",
+    "propaganda network",
+    "intelligence sharing"
+   ]
+  },
+  {
+   "title": "Request for cooperation with foreign propaganda",
+   "doc_type": "translated intercepted letter or memorandum",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1941-01",
+   "from": "Unidentified Japanese sender",
+   "to": "Japanese foreign establishments",
+   "about": "Solicits cooperation in expanding and assessing Japanese propaganda abroad, including in Central and South America.",
+   "summary": "The heavily damaged page identifies the text as a translated, possibly intercepted letter concerning cooperation with foreign propaganda. It calls for use of the circulated material and reports on public reaction, with Central and South America specifically mentioned.",
+   "keywords": [
+    "foreign propaganda",
+    "intercepted letter",
+    "Central America",
+    "South America"
+   ]
+  },
+  {
+   "title": "Cross-reference: Organization of a new Cabinet Intelligence Bureau",
+   "doc_type": "cross-reference sheet",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1940-09-21",
+   "from": "Joseph C. Grew, Japan",
+   "to": "Department of State files",
+   "about": "Refers researchers to another file concerning the organization of a new Japanese Cabinet Intelligence Bureau.",
+   "summary": "The sheet identifies a report from Ambassador Grew in Japan dated September 21, 1940. The original was filed under 894.002/440.",
+   "keywords": [
+    "cross-reference",
+    "Cabinet Intelligence Bureau",
+    "Japan",
+    "Joseph Grew"
+   ]
+  },
+  {
+   "title": "Cross-reference: Establishment of the new Intelligence Bureau",
+   "doc_type": "cross-reference sheet",
+   "start_page": 15,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1940-12-12",
+   "from": "Joseph C. Grew, Japan",
+   "to": "Department of State files",
+   "about": "Points to a report outlining the organization of Japan's newly established Intelligence Bureau.",
+   "summary": "This file note refers to Grew's December 12, 1940 report on establishment of the new Intelligence Bureau. The original was placed in file 894.002/447.",
+   "keywords": [
+    "cross-reference",
+    "Intelligence Bureau",
+    "organization",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Military Intelligence Division routing form",
+   "doc_type": "routing sheet",
+   "start_page": 16,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "",
+   "from": "Military Intelligence Division, War Department",
+   "to": "Internal War Department and interagency distribution list",
+   "about": "Provides a circulation and disposition form for intelligence material.",
+   "summary": "The page lists War Department branches, armed-services offices, military schools, and other government recipients. It contains no substantive narrative beyond instructions to note, return, or forward the associated material.",
+   "keywords": [
+    "routing sheet",
+    "War Department",
+    "distribution",
+    "Military Intelligence Division"
+   ]
+  },
+  {
+   "title": "Comments on Current Events No. 5: Intensified Japanese Radio Propaganda",
+   "doc_type": "military intelligence report",
+   "start_page": 17,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1941-02-04",
+   "from": "Hawaiian Department, Fort Shafter; signed for the Commanding General by Major Carl Grosse",
+   "to": "The Adjutant General, Washington, D.C.",
+   "about": "Analyzes the expansion, content, and possible effects of Japanese radio propaganda directed at Hawaii and worldwide audiences.",
+   "summary": "The report describes Japan's expanded 34-hour overseas broadcasting schedule, its languages and target regions, and the intensive exposure of Hawaii's Japanese community to Tokyo programming. It summarizes speeches by Yosuke Matsuoka, Shigeshi Nagata, and Admiral Suetsugu promoting Japanese nationalism, the Greater East Asia sphere, and resistance to the United States and Britain. It also reviews George Nakamoto's English-language commentary on American politics and U.S. defenses at Guam, Cavite, and the Philippines.",
+   "keywords": [
+    "shortwave radio",
+    "Hawaii",
+    "Japan Broadcasting Association",
+    "Greater East Asia",
+    "U.S. defenses",
+    "nationalism"
+   ]
+  },
+  {
+   "title": "FBI letter on reorganization of the Tokyo propaganda bureau",
+   "doc_type": "letter",
+   "start_page": 22,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "1941-03-21",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Reports German-assisted reorganization and expansion of Japanese foreign-language broadcasting.",
+   "summary": "Hoover states that the Tokyo Bureau of Propaganda was reportedly being reorganized under German Propaganda Ministry direction. Shinroku Tanomogi was expected to direct shortwave broadcasts in sixteen languages, using native speakers and Japan Broadcasting Company networks.",
+   "keywords": [
+    "Tokyo Bureau of Propaganda",
+    "German influence",
+    "shortwave broadcasting",
+    "Shinroku Tanomogi"
+   ]
+  },
+  {
+   "title": "Memorandum on alleged Domei subversion in Indochina, Thailand, and Mexico",
+   "doc_type": "memorandum",
+   "start_page": 23,
+   "end_page": 23,
+   "continues_previous": false,
+   "date": "1941-03-18",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "American Embassy, Mexico City",
+   "about": "Relays an allegation that Domei News representatives were conducting subversive work abroad.",
+   "summary": "The memorandum quotes a February 23 letter written in Manila by an American Philippine Government employee. Former French consul Gaston Willoquet reportedly said that Indochinese authorities regarded the Domei representative Ata as an agent who undermined native loyalty in Indochina and Thailand, while another Domei representative performed similar work in Mexico.",
+   "keywords": [
+    "Domei News",
+    "subversion",
+    "Indochina",
+    "Thailand",
+    "Mexico"
+   ]
+  },
+  {
+   "title": "FBI letter on photographic secret messages",
+   "doc_type": "letter",
+   "start_page": 24,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Reports an unconfirmed method allegedly used by Japanese agents to transmit secret photographic messages.",
+   "summary": "An outside confidential source claimed Japanese agents used a photographic process producing writing that became undeveloped or disappeared when exposed to light. Hoover emphasizes that the report was unconfirmed but potentially useful and copies Army and Navy intelligence.",
+   "keywords": [
+    "secret messages",
+    "photographic process",
+    "Japanese agents",
+    "FBI warning"
+   ]
+  },
+  {
+   "title": "Exposure of the Chung Woh Company as a Japanese–Wang Ching-wei fifth-column organization",
+   "doc_type": "consular despatch",
+   "start_page": 25,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1941-09-27",
+   "from": "K. S. Patton, American Consul General, Singapore",
+   "to": "Secretary of State",
+   "about": "Reports police findings on a Hong Kong-based propaganda, espionage, sabotage, and subversion organization operating under commercial cover.",
+   "summary": "Patton describes the Chung Woh, Chin Kee, Ban Chung Woh, and Wing Kee names as covers for a Japanese-connected Wang Ching-wei organization exposed by Hong Kong police raids. Its open and secret branches allegedly targeted Overseas Chinese, collected military intelligence, encouraged sabotage and anticolonial rebellion, attacked the Kuomintang and Communists, and sought branches throughout Southeast Asia. The despatch also summarizes its failed attempt to form an effective Malayan branch and stresses the need to protect informants and agent lists.",
+   "keywords": [
+    "Chung Woh Company",
+    "Wang Ching-wei",
+    "fifth column",
+    "Hong Kong police",
+    "sabotage",
+    "Overseas Chinese"
+   ]
+  },
+  {
+   "title": "Overseas Works of the East Asiatic Chain of Co-Prosperity",
+   "doc_type": "organizational chart enclosure",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "",
+   "from": "Straits Settlements Police translation",
+   "to": "Enclosure to the Singapore consular despatch",
+   "about": "Charts a Hong Kong-directed network and its proposed activities in the Netherlands East Indies.",
+   "summary": "The chart places a general company in Hong Kong above branches at Medan, Surabaya, and Batavia. Assigned work includes inciting independence movements, sabotage, attacks on military and police forces, collecting political, economic, and military information, and spreading inflammatory propaganda.",
+   "keywords": [
+    "organizational chart",
+    "Netherlands East Indies",
+    "sabotage",
+    "incitement",
+    "intelligence collection"
+   ]
+  },
+  {
+   "title": "Partial list of agents of the National Salvation Through Peace Society",
+   "doc_type": "agent-list enclosure",
+   "start_page": 31,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "",
+   "from": "Straits Settlements Police report",
+   "to": "Enclosure to the Singapore consular despatch",
+   "about": "Lists names and aliases associated with the alleged Japanese–Wang Ching-wei fifth-column organization.",
+   "summary": "The damaged list identifies several agents or aliases connected with Hong Kong, Saigon, and Malaya. Legible names include Tse Hung Yi, King Chung, Chan Kit alias Cha Man Wing, Hung King Man, and Chong Poe Tong.",
+   "keywords": [
+    "agent list",
+    "National Salvation Through Peace Society",
+    "aliases",
+    "fifth column"
+   ]
+  },
+  {
+   "title": "Military Attaché Report: Japanese Espionage Training",
+   "doc_type": "military attaché report",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1941",
+   "from": "Lieutenant Colonel J. K. Evans, G-2",
+   "to": "Military Intelligence distribution",
+   "about": "Reports that a Japanese commercial employee attended a suspected propaganda and espionage school while visiting Japan.",
+   "summary": "According to Hong Kong British Intelligence, a Japanese employee of a Surabaya firm wrote that he was attending an institute staffed by Army, Navy, and Overseas Affairs Ministry instructors. The school was believed to be one of Japan's “Southward Expansion” centers for training colonists in propaganda and espionage; the Netherlands East Indies government canceled the man's temporary residence permit.",
+   "keywords": [
+    "espionage training",
+    "Southward Expansion",
+    "Surabaya",
+    "British intelligence"
+   ]
+  },
+  {
+   "title": "Cross-reference: Japanese fifth column in Malaya",
+   "doc_type": "cross-reference sheet",
+   "start_page": 33,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1942-01-13",
+   "from": "Navy Department",
+   "to": "Department of State files",
+   "about": "Refers to excerpts from a War Department circular concerning a Japanese fifth column in Malaya.",
+   "summary": "The note directs researchers to a Navy Department letter dated January 13, 1942. The original was filed under 862.20000/52.",
+   "keywords": [
+    "cross-reference",
+    "Japanese fifth column",
+    "Malaya",
+    "War Department circular"
+   ]
+  },
+  {
+   "title": "FBI inquiry concerning Sakae Nihara",
+   "doc_type": "letter",
+   "start_page": 34,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1942-01-27",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Requests any State Department information concerning the Japanese national Sakae Nihara.",
+   "summary": "Hoover asks the Department to search its records for Sakae Nihara. The letter provides two last-known addresses in Tokyo's Azabu district.",
+   "keywords": [
+    "Sakae Nihara",
+    "FBI inquiry",
+    "Tokyo addresses",
+    "records search"
+   ]
+  },
+  {
+   "title": "State Department reply concerning Sakae Nihara",
+   "doc_type": "letter",
+   "start_page": 35,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1942-02-09",
+   "from": "Department of State",
+   "to": "John Edgar Hoover",
+   "about": "Reports that State Department files contained no record of Sakae Nihara.",
+   "summary": "The reply refers to Hoover's January 27 inquiry. It states succinctly that the Department has no record of the individual.",
+   "keywords": [
+    "Sakae Nihara",
+    "negative search",
+    "State Department files",
+    "FBI"
+   ]
+  },
+  {
+   "title": "FBI transmittal of memorandum on the Japanese Intelligence Service",
+   "doc_type": "letter",
+   "start_page": 36,
+   "end_page": 36,
+   "continues_previous": false,
+   "date": "1942-02-07",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Forwards a confidential memorandum describing the Japanese Intelligence Service.",
+   "summary": "Hoover encloses a February 6 memorandum based on an outside confidential and reliable source. Copies were also furnished to Rear Admiral T. S. Wilkinson and Brigadier General Raymond E. Lee.",
+   "keywords": [
+    "Japanese Intelligence Service",
+    "FBI",
+    "interagency distribution",
+    "confidential source"
+   ]
+  },
+  {
+   "title": "Japanese Intelligence Service",
+   "doc_type": "intelligence memorandum",
+   "start_page": 37,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1942-02-06",
+   "from": "Federal Bureau of Investigation confidential source",
+   "to": "Federal Bureau of Investigation and intelligence recipients",
+   "about": "Describes the organization, methods, personnel, and political functions of Japanese military, naval, consular, commercial, and secret-society intelligence.",
+   "summary": "The memorandum portrays Japanese espionage as a pervasive national obligation supported by private citizens, commercial firms, attachés, consulates, military special services, and the China Affairs Board. It emphasizes the Army Special Service's political intrigue, subversion, propaganda, and preparation of occupied territories, while distinguishing the Navy's greater focus on naval information. It also describes the planting of trained agents in firms, news agencies, and consulates and the use of commercial associations and secret societies as government cover.",
+   "keywords": [
+    "Japanese Intelligence Service",
+    "Special Service Section",
+    "China Affairs Board",
+    "consular espionage",
+    "commercial cover",
+    "secret societies"
+   ]
+  },
+  {
+   "title": "FBI letter on Japanese intelligence collection priorities",
+   "doc_type": "letter",
+   "start_page": 41,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1942-02-19",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Lists economic, industrial, labor, shipping, and supply information sought by Japanese intelligence agents.",
+   "summary": "Japanese agents were reportedly ordered to collect data on armament production, shipping, labor and transportation, ship construction and losses, raw-material consumption, food supplies, and substitute materials. The requirements applied not only to the United States and Great Britain but also to Germany and Italy, with Spanish communications expected to carry reports where Japanese embassies no longer operated.",
+   "keywords": [
+    "collection requirements",
+    "war production",
+    "shipping intelligence",
+    "economic intelligence",
+    "Spanish communications"
+   ]
+  },
+  {
+   "title": "FBI transmittal of memorandum on Japanese strategy",
+   "doc_type": "letter",
+   "start_page": 43,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1942-04",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Forwards confidential-source information concerning Japanese wartime strategy.",
+   "summary": "Hoover sends an attached strategic memorandum for State Department consideration. He notes that it was also supplied to William J. Donovan, T. S. Wilkinson, and Hayes A. Kroner.",
+   "keywords": [
+    "Japanese strategy",
+    "FBI",
+    "Coordinator of Information",
+    "interagency intelligence"
+   ]
+  },
+  {
+   "title": "Memorandum on German–Japanese tensions and Japanese strategy",
+   "doc_type": "intelligence memorandum",
+   "start_page": 44,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1942-04",
+   "from": "Outside confidential source",
+   "to": "Federal Bureau of Investigation and interagency recipients",
+   "about": "Assesses Axis disagreements over Asian resources and possible Japanese moves toward India and Madagascar.",
+   "summary": "The memorandum reports German pressure for access to tin, rubber, and other resources seized by Japan in the Indies and Malaya, together with German resentment that Japan was benefiting from German victories. It suggests that competition over India could strain the partnership and help explain Japanese concentration in that direction rather than on Australia. Comparing French Indochina to Czechoslovakia, it warns that Madagascar might become a similar Japanese bridgehead and submarine base threatening Allied communications and the Atlantic.",
+   "keywords": [
+    "Axis tensions",
+    "raw materials",
+    "India",
+    "French Indochina",
+    "Madagascar",
+    "Japanese strategy"
+   ]
+  },
+  {
+   "title": "Memorandum on five Japanese propaganda books",
+   "doc_type": "memorandum and book-review digest",
+   "start_page": 46,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1942-02-10",
+   "from": "Department of State",
+   "to": "Sumner Welles",
+   "about": "Summarizes reviews of five Japanese books illustrating wartime propaganda and ideological thought.",
+   "summary": "The memorandum says the books assume German victory, blame the democracies' economic selfishness for the world crisis, and portray Japan's Axis-aligned program as a spiritual and divine mission for world peace and racial order. The works denounce liberalism, democracy, Christianity, Communism, socialism, unionism, humanitarianism, and Margaret Sanger while advocating an East Asian co-prosperity sphere encompassing Australia, New Zealand, and India. They also explain the prolonged war in China through Japanese unpreparedness, insufficient domestic seriousness, Chinese hostility, and third-power aid.",
+   "keywords": [
+    "Japanese books",
+    "wartime ideology",
+    "Greater East Asia Co-Prosperity Sphere",
+    "anti-liberalism",
+    "racial equality propaganda",
+    "China Incident"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   48
+  ],
+  "pdf": "894.20 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., March 19, 1940 - February 10, 1942 1331.pdf",
+  "seconds": 792.6,
+  "created": "2026-09-30 08:07:31",
+  "key": "japan-internal-affairs-894.20-military-affairs-army-10"
+ }
+}

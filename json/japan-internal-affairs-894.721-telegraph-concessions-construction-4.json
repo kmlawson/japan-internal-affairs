@@ -1,0 +1,126 @@
+{
+ "overview": "This small file concerns a September 1939 notice from the Japanese telegraph administration warning foreign administrations that restrictions on abbreviated addresses were producing telegrams whose recipients could not reliably be located in Japan. Transmitted through the international telecommunications authorities at Bern and routed via New York to the U.S. Department of State in Washington, the notice cites provisions Nos. 71 and 93 of the telegraph regulations and asks administrations to accept insufficiently addressed telegrams only at the sender’s risk. The bundle contains two substantially identical English copies of the notice, one explicitly marked as a translation, separated by an administrative “file not found” sheet.",
+ "places": [
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "J. C. R.",
+   "role": "Unidentified person whose initials appear on the translation copy",
+   "variants": [
+    "J. C. R."
+   ]
+  }
+ ],
+ "keywords": [
+  "telegrams",
+  "telegraph regulations",
+  "insufficient addresses",
+  "abbreviated addresses",
+  "Japanese telegraph administration",
+  "international communications",
+  "message forwarding",
+  "sender risk",
+  "Bern",
+  "New York",
+  "U.S. Department of State",
+  "translation",
+  "file administration"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram on insufficiently addressed messages to Japan",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1939-09-14",
+   "from": "Bern SCE Burinterna, transmitted through Cable Cable, New York",
+   "to": "Secretary of State, Washington, D.C.",
+   "about": "The Japanese administration asks foreign telegraph administrations to exercise caution when accepting telegrams for Japan that lack adequate address information.",
+   "summary": "The notice reports that many telegrams are being sent to Japan with only the addressee’s name or without sufficient information about the addressee’s domicile, partly because of restrictions on abbreviated addresses. These deficiencies make forwarding difficult for the Japanese administration. Foreign administrations are directed to review provisions Nos. 71 and 93 of the telegraph regulations and to accept inadequately addressed messages only at the sender’s risk.",
+   "keywords": [
+    "Japan",
+    "telegrams",
+    "insufficient addresses",
+    "abbreviated addresses",
+    "telegraph regulations",
+    "message forwarding",
+    "sender risk",
+    "Bern",
+    "New York"
+   ]
+  },
+  {
+   "title": "File not found notice",
+   "doc_type": "administrative slip",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "An administrative notice records that a requested file could not be found.",
+   "summary": "The page consists solely of the typed statement “FILE NOT FOUND,” followed by the code “CFIIV.” It contains no substantive discussion of the telecommunications issue.",
+   "keywords": [
+    "file not found",
+    "records management",
+    "administrative notice",
+    "CFIIV"
+   ]
+  },
+  {
+   "title": "Translation of telegram on insufficient addresses",
+   "doc_type": "translation of telegram",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1939-09-14",
+   "from": "Bern SCE Burinterna, transmitted through Cable Cable, New York",
+   "to": "Secretary of State, Washington, D.C.",
+   "about": "This translation repeats the Japanese administration’s warning about telegrams for Japan that contain inadequate recipient addresses.",
+   "summary": "Marked “TRANSLATION,” this copy reproduces the notice found on page 1. It explains that restrictions on abbreviated addresses have resulted in telegrams that the Japanese administration cannot reliably forward. It again invokes provisions Nos. 71 and 93 and states that such messages should be accepted only at the sender’s risk; the copy also bears the initials “J. C. R.”",
+   "keywords": [
+    "translation",
+    "Japan",
+    "telegrams",
+    "insufficient addresses",
+    "abbreviated addresses",
+    "telegraph regulations",
+    "message forwarding",
+    "sender risk",
+    "J. C. R."
+   ]
+  }
+ ],
+ "interest": "The file provides a compact example of the practical difficulties created by international telegraph-addressing rules on the eve of the Second World War. Its routing annotations illustrate how a Japanese administrative notice moved through the international bureau at Bern, New York cable channels, and the U.S. Department of State. The duplicate copies and intervening “file not found” sheet are also useful evidence of State Department translation, duplication, and records-management practices.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 40.6,
+  "identifier": "japan-internal-affairs-894.721-telegraph-concessions-construction-4",
+  "file": "894.721 Telegraph. Concessions. Construction. Equipment., Japan, Laws And Regulations. Censorship.,  625.pdf",
+  "created": "2026-09-29 08:34:24"
+ }
+}

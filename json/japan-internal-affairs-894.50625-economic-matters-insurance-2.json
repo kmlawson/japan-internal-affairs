@@ -1,0 +1,154 @@
+{
+ "interest": "This file offers a fascinating glimpse into how private commercial transactions and specialized marine insurance data served as informal economic and naval intelligence during the diplomatic tensions preceding the Pacific War. In April 1941, commercial underwriters in the United States and Britain refused to insure American-bound cargo on Japanese bottoms against Royal Navy seizure, reflecting high Western anxiety over imminent conflict. By contrast, the willingness of Tokyo underwriters to insure against British seizure at a bargain rate of 3% provided American diplomats and intelligence analysts with indirect evidence regarding Japanese naval estimates and expectations about immediate hostilities with the British Empire.",
+ "keywords": [
+  "marine insurance",
+  "war risk insurance",
+  "Nippon Fire Insurance Company",
+  "British seizure",
+  "goatskins",
+  "shipping",
+  "Japanese merchant vessels",
+  "economic intelligence",
+  "Pacific War prelude",
+  "Anglo-Japanese relations",
+  "Lloyd's of London",
+  "Parker & Co."
+ ],
+ "overview": "This file (State Department decimal file 894.50625/17) consists of an April 17, 1941 letter and cover note from insurance brokerage Parker & Co. in Philadelphia to the Department of State concerning marine war risk insurance rates quoted by Japanese underwriters. A Philadelphia tanning firm seeking insurance against British seizure for four valuable cargoes of goatskins en route from Calcutta to New York via Kobe aboard Japanese merchant ships had approached Parker & Co. after finding such coverage unobtainable in the American and British markets. When Parker & Co. cabled the Nippon Fire Insurance Company in Japan, the Japanese insurer offered a rate of only 3% for combined normal and war risks including British seizure, lower than the prevailing American commercial rate of 3.5% that excluded British capture. Parker & Co. forwarded this information to the State Department, noting that because marine underwriters consult their naval and foreign affairs ministries when setting rates, the favorable Japanese quote indicated that Japanese authorities did not anticipate any imminent military confrontation or naval hostilities with Great Britain that would lead to cargo seizures.",
+ "people": [
+  {
+   "name": "Edward L. Reed",
+   "role": "Official, U.S. Department of State",
+   "variants": [
+    "Edward L. Reed, Esq.",
+    "Ed"
+   ]
+  },
+  {
+   "name": "J. Brooks B. Parker",
+   "role": "Insurance underwriter and partner, Parker & Co.",
+   "variants": [
+    "J. Brawn T. Parker"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "PHILADELPHIA",
+    "PHILADELPHIA, PA.",
+    "Philadelphia"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "NEW YORK",
+    "New York"
+   ]
+  },
+  {
+   "name": "Kansas City",
+   "variants": [
+    "KANSAS CITY"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Kolkata",
+   "variants": [
+    "Calcutta",
+    "CALCUTTA"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KOBE"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Personal covering note forwarding an enclosed commercial intelligence communication to the Department of State.",
+   "date": "1941-04-17",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "J. Brooks B. Parker (Parker & Co.)",
+   "keywords": [
+    "Parker & Co.",
+    "Edward L. Reed",
+    "Department of State",
+    "covering letter"
+   ],
+   "start_page": 1,
+   "summary": "In an informal cover letter dated April 17, 1941, J. Brooks B. Parker of Parker & Co. writes to Edward L. Reed at the Department of State. Parker transmits an enclosed report on marine insurance rates, requesting that Reed forward it to the appropriate desk if deemed of interest. State Department stamps indicate the letter was received by the Division of Communications and Records on April 25 and May 2, 1941, before being filed on May 19, 1941.",
+   "title": "Covering letter from Parker & Co. to Edward L. Reed enclosing communication for Department of State",
+   "to": "Edward L. Reed, Esq., Department of State"
+  },
+  {
+   "about": "Report informing the Secretary of State of low war risk insurance rates quoted by a Japanese insurer covering British seizure of cargo on Japanese vessels.",
+   "date": "1941-04-17",
+   "doc_type": "letter",
+   "end_page": 3,
+   "from": "J. Brooks B. Parker (Parker & Co.)",
+   "keywords": [
+    "marine insurance",
+    "war risk",
+    "Nippon Fire Insurance Company",
+    "British seizure",
+    "goatskins",
+    "Toba Maru",
+    "Tsuruga Maru",
+    "Tottori Maru",
+    "Dakar Maru",
+    "Kobe",
+    "Calcutta"
+   ],
+   "start_page": 2,
+   "summary": "Parker & Co. informs the Secretary of State that a Philadelphia tanning company sought insurance coverage against war risk, specifically British seizure, for four shipments of goatskins valued in excess of $100,000 en route from Calcutta to New York via Kobe aboard the Japanese vessels Toba Maru, Tsuruga Maru, Tottori Maru, and Dakar Maru. Because such coverage was unobtainable in the American and English markets, Parker & Co. cabled the Nippon Fire Insurance Company in Japan, which quoted a combined normal and war risk rate of only 3% including British seizure, compared to the U.S. market rate of 3.5% excluding British capture. Parker & Co. points out that marine underwriters regularly consult their Foreign Offices and Admiralties, deducing from this favorable quote that Japanese authorities did not anticipate any immediate confrontation with Great Britain resulting in cargo seizures.",
+   "title": "Letter from Parker & Co. to the Secretary of State regarding Japanese war risk marine insurance rates",
+   "to": "The Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14385,
+   "output_tokens": 6385,
+   "thinking_tokens": 5050,
+   "cache_read_tokens": 0,
+   "total_tokens": 20770
+  },
+  "backend": "agy",
+  "seconds": 26.5,
+  "identifier": "japan-internal-affairs-894.50625-economic-matters-insurance-2",
+  "file": "894.50625 Economic Matters., Insurance., Marine., Japan, War Risk., April 17, 1941 1260.pdf",
+  "created": "2026-09-29 09:08:00"
+ }
+}

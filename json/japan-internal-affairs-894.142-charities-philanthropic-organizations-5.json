@@ -1,0 +1,83 @@
+{
+ "interest": "Japanese Red Cross sent Ethiopia supplies for 10,000 wounded, 1935.",
+ "keywords": [
+  "Red Cross Society of Japan",
+  "Japanese Red Cross",
+  "Ethiopian Red Cross",
+  "Italo-Ethiopian War",
+  "materiel sanitaire",
+  "medical aid",
+  "Geneva",
+  "Department of State",
+  "List of Papers",
+  "Prentiss Gilbert",
+  "humanitarian relief"
+ ],
+ "overview": "List of Papers for 894.142: Gilbert's 1935 telegram that the Japanese Red Cross was sending Ethiopia supplies for 10,000 wounded.",
+ "people": [
+  {
+   "name": "Prentiss B. Gilbert",
+   "role": "U.S. Consul in Geneva",
+   "variants": [
+    "Gilbert"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Ethiopia",
+   "variants": [
+    "Ethiopian"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State list of papers recording a 1935 Geneva telegram regarding Japanese Red Cross medical aid to Ethiopia.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Red Cross Society of Japan",
+    "Japanese Red Cross",
+    "Ethiopian Red Cross",
+    "Geneva",
+    "materiel sanitaire",
+    "Prentiss Gilbert",
+    "List of Papers"
+   ],
+   "start_page": 1,
+   "summary": "List of Papers recording Prentiss Gilbert's 1935 telegram on Japanese Red Cross supplies for Ethiopia.",
+   "title": "Department of State List of Papers: Red Cross Society of Japan",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13709,
+   "output_tokens": 4107,
+   "thinking_tokens": 3352,
+   "cache_read_tokens": 0,
+   "total_tokens": 17816
+  },
+  "backend": "agy",
+  "seconds": 16.2,
+  "identifier": "japan-internal-affairs-894.142-charities-philanthropic-organizations-5",
+  "file": "894.142 Charities. Philanthropic Organizations., Japan, Red Cross.,  396.pdf",
+  "created": "2026-09-28 23:25:50"
+ }
+}

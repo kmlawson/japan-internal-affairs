@@ -1,0 +1,118 @@
+{
+ "interest": "Japan's New Year shutdown halted diplomacy.",
+ "keywords": [
+  "New Year holidays",
+  "Japan",
+  "Tokyo",
+  "Foreign Office",
+  "Cabinet ministers",
+  "government offices",
+  "diplomatic communications",
+  "holiday shutdown",
+  "administrative procedures",
+  "Department of State"
+ ],
+ "overview": "Grew's telegrams (1937–39) warning that Japanese offices close for New Year, January 1–6.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "GREW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C.",
+    "Washington"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Ambassador Grew advises the State Department of the upcoming Japanese New Year holidays and the resulting closure of government offices.",
+   "date": "1937-12-27",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "New Year holidays",
+    "Japan",
+    "Foreign Office",
+    "cabinet ministers",
+    "skeleton staff",
+    "Tokyo"
+   ],
+   "start_page": 1,
+   "summary": "Grew reports Japan's offices close January 1–6, making ministerial business difficult.",
+   "title": "Telegram 684 from Grew (Tokyo) on New Year Holidays in Japan",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Ambassador Grew refers the State Department to his prior year's notification regarding Japanese New Year holidays.",
+   "date": "1938-12-27",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "New Year holidays",
+    "Japan",
+    "Tokyo",
+    "diplomatic procedure"
+   ],
+   "start_page": 2,
+   "summary": "Telegram No. 806 sent by Ambassador Joseph C. Grew from Tokyo to the Secretary of State on December 27, 1938. The brief message refers to telegram No. 684 of December 27, 1937, indicating that the same holiday schedule and office closures will apply for the upcoming New Year period.",
+   "title": "Telegram 806 from Grew (Tokyo) referencing 1937 Holiday Notification",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Ambassador Grew reports that Japanese government offices will begin the New Year holiday shutdown early on December 29.",
+   "date": "1939-12-28",
+   "doc_type": "telegram",
+   "end_page": 3,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "New Year holidays",
+    "Japan",
+    "Tokyo",
+    "government offices",
+    "holiday schedule"
+   ],
+   "start_page": 3,
+   "summary": "Telegram No. 709 from Ambassador Joseph C. Grew in Tokyo to the Secretary of State, dated December 28, 1939. Grew references his December 27, 1937 telegram regarding New Year holidays and alerts the Department that all Japanese government offices will commence their holiday shutdown early, starting December 29.",
+   "title": "Telegram 709 from Grew (Tokyo) on Early Start of New Year Holidays",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14054,
+   "output_tokens": 3691,
+   "thinking_tokens": 2608,
+   "cache_read_tokens": 0,
+   "total_tokens": 17745
+  },
+  "backend": "agy",
+  "seconds": 15.5,
+  "identifier": "japan-internal-affairs-894.407-social-matters-japan-1",
+  "file": "894.407 Social Matters., Japan, Holidays., December 27, 1937 - December 28, 1939 1168.pdf",
+  "created": "2026-09-29 06:51:05"
+ }
+}

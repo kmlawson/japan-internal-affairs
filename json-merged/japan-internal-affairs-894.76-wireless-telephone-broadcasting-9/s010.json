@@ -1,0 +1,3710 @@
+{
+ "section_summary": "This section completes a SCAP register of Japanese ship-radio licenses, listing additions, deletions, changes, call signs, operating agencies, frequencies, powers, and emission types for vessels throughout Japan. It then begins a separate directory of Japanese radio stations, defining technical terms and limitations, giving standard-frequency and time-signal schedules, and listing land stations geographically with their services, frequencies, call signs, and coordinates. The geographical directory covers Niigata through Kanagawa prefectures in the pages provided and continues beyond this section.",
+ "places": [
+  {
+   "name": "Aioi",
+   "variants": [
+    "Aioi"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kōbe"
+   ]
+  },
+  {
+   "name": "Osaka Region",
+   "variants": [
+    "ÖSAKA REGION",
+    "ÓSAKA REGION"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka·fu",
+    "Ósaka-fu"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Ósaka",
+    "Ösaka"
+   ]
+  },
+  {
+   "name": "Izumiotsu",
+   "variants": [
+    "Izumiōtsu"
+   ]
+  },
+  {
+   "name": "Hiroshima Region",
+   "variants": [
+    "HIROSHIMA REGION"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi-ken"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Matsuyama Region",
+   "variants": [
+    "MATSUYAMA REGION"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime-ken"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "Uwajifma",
+    "Uwajima"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kōchi-ken"
+   ]
+  },
+  {
+   "name": "Murotozaki",
+   "variants": [
+    "Murotozaki"
+   ]
+  },
+  {
+   "name": "Yasuda",
+   "variants": [
+    "Yasuda"
+   ]
+  },
+  {
+   "name": "Kumamoto Region",
+   "variants": [
+    "KUMAMOTO REGION"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka-ken",
+    "Fukuokaken"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Wakamatsu",
+   "variants": [
+    "Wakamatsu"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "Hakata"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "Tobata"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki-ken",
+    "Miyazaki prefecture"
+   ]
+  },
+  {
+   "name": "Aburatsu",
+   "variants": [
+    "Aburatsu"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima-ken"
+   ]
+  },
+  {
+   "name": "Shimabira",
+   "variants": [
+    "Shimabira"
+   ]
+  },
+  {
+   "name": "Makurazaki",
+   "variants": [
+    "Makurazaki"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga-ken"
+   ]
+  },
+  {
+   "name": "Imari",
+   "variants": [
+    "Imari"
+   ]
+  },
+  {
+   "name": "Karatsu",
+   "variants": [
+    "Karatsu"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki-ken"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki",
+    "Nagasakı"
+   ]
+  },
+  {
+   "name": "Tateura",
+   "variants": [
+    "Tateura"
+   ]
+  },
+  {
+   "name": "Ikuzuki",
+   "variants": [
+    "Ikuzuki"
+   ]
+  },
+  {
+   "name": "Sendai Region",
+   "variants": [
+    "SENDAI REGION",
+    "SENDAl REGION"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori-ken"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinohe"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate-ken"
+   ]
+  },
+  {
+   "name": "Ofunato",
+   "variants": [
+    "Ofunato"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaishi"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "Miyako"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi-ken"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "Shiogama"
+   ]
+  },
+  {
+   "name": "Ayukawa",
+   "variants": [
+    "Ayukawa"
+   ]
+  },
+  {
+   "name": "Kesennuma",
+   "variants": [
+    "Kesennuma"
+   ]
+  },
+  {
+   "name": "Karakuwa",
+   "variants": [
+    "Karakuwa"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "Ishinomaki"
+   ]
+  },
+  {
+   "name": "Onagawa",
+   "variants": [
+    "Onagawa"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima-ken",
+    "Fúkushima-ken"
+   ]
+  },
+  {
+   "name": "Kunohama",
+   "variants": [
+    "Kunohama"
+   ]
+  },
+  {
+   "name": "Ena",
+   "variants": [
+    "Ena"
+   ]
+  },
+  {
+   "name": "Onahama",
+   "variants": [
+    "Onahama"
+   ]
+  },
+  {
+   "name": "Yotsukura",
+   "variants": [
+    "Yotsukura"
+   ]
+  },
+  {
+   "name": "Nakanosaku",
+   "variants": [
+    "Nakanosaku"
+   ]
+  },
+  {
+   "name": "Sapporo Region",
+   "variants": [
+    "SAPPORO REGION"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaidō"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "Nemuro"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro"
+   ]
+  },
+  {
+   "name": "Wakkanai",
+   "variants": [
+    "Wakkanai"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Urakawa",
+   "variants": [
+    "Urakawa"
+   ]
+  },
+  {
+   "name": "Choshi",
+   "variants": [
+    "Chōshi",
+    "CHOSHI",
+    "CHÖSHI",
+    "CHÓSHI"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tōkyō",
+    "Tokyo",
+    "TÓKYO",
+    "TÖKYO",
+    "TOKYO",
+    "TōKYÖ",
+    "TÓKYÖ",
+    "TOKYÖ",
+    "TÖKYō",
+    "TÓKYā",
+    "TÖKYā",
+    "TOKYā",
+    "TKY"
+   ]
+  },
+  {
+   "name": "Misaki",
+   "variants": [
+    "Misaki",
+    "MISAKI"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Yaizu",
+   "variants": [
+    "Yaizu"
+   ]
+  },
+  {
+   "name": "Koza",
+   "variants": [
+    "Kōza"
+   ]
+  },
+  {
+   "name": "Watanoha",
+   "variants": [
+    "Watanoha"
+   ]
+  },
+  {
+   "name": "Abashiri",
+   "variants": [
+    "Abashiri"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaragi-ken",
+    "IBARAGI-KEN",
+    "IBARAGI"
+   ]
+  },
+  {
+   "name": "Kuji",
+   "variants": [
+    "Kuji",
+    "KUJI"
+   ]
+  },
+  {
+   "name": "Hasaki",
+   "variants": [
+    "Hasaki"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "Ótsu",
+    "Ötsu"
+   ]
+  },
+  {
+   "name": "Hirakata",
+   "variants": [
+    "Hirakata",
+    "HIRAKATA"
+   ]
+  },
+  {
+   "name": "Nakaminato",
+   "variants": [
+    "Nakaminato",
+    "NAKAMINATO"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba-ken",
+    "CHIBA-KEN",
+    "Chiba.Prefecture"
+   ]
+  },
+  {
+   "name": "Tateyama",
+   "variants": [
+    "Tateyama",
+    "TATEYAMA"
+   ]
+  },
+  {
+   "name": "Chikura",
+   "variants": [
+    "Chikura"
+   ]
+  },
+  {
+   "name": "Tokyo Metropolis",
+   "variants": [
+    "Tōkyō-to",
+    "TOKYO-TO",
+    "TÖKYO-TO",
+    "TÓKYO-TO"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa-ken",
+    "KANAGAWA-KEN"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuga",
+    "Yokosuka-shi"
+   ]
+  },
+  {
+   "name": "Kurihama",
+   "variants": [
+    "Kurihama",
+    "Kurihama-chō"
+   ]
+  },
+  {
+   "name": "Nagoya Region",
+   "variants": [
+    "NAGOYA REGION"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi-ken"
+   ]
+  },
+  {
+   "name": "Miya",
+   "variants": [
+    "Miya"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-ken"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu",
+    "SHIMIZUGOE",
+    "SHIMIZUTÖGE"
+   ]
+  },
+  {
+   "name": "Mochimune",
+   "variants": [
+    "Mochimune"
+   ]
+  },
+  {
+   "name": "Heda",
+   "variants": [
+    "Heda"
+   ]
+  },
+  {
+   "name": "Ito",
+   "variants": [
+    "Itō"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie-ken"
+   ]
+  },
+  {
+   "name": "Wagu",
+   "variants": [
+    "Wagu"
+   ]
+  },
+  {
+   "name": "Hamashima",
+   "variants": [
+    "Hamashima"
+   ]
+  },
+  {
+   "name": "Aiga",
+   "variants": [
+    "Aiga"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyōgo-ken"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima-ken"
+   ]
+  },
+  {
+   "name": "Dofu",
+   "variants": [
+    "Dōfu"
+   ]
+  },
+  {
+   "name": "Muroto",
+   "variants": [
+    "Muroto"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo"
+   ]
+  },
+  {
+   "name": "Narao",
+   "variants": [
+    "Narao"
+   ]
+  },
+  {
+   "name": "Ichibu",
+   "variants": [
+    "Ichibu"
+   ]
+  },
+  {
+   "name": "Toyoma",
+   "variants": [
+    "Toyoma"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne"
+   ]
+  },
+  {
+   "name": "Makuhari",
+   "variants": [
+    "Makuhari"
+   ]
+  },
+  {
+   "name": "Nagano Region",
+   "variants": [
+    "NAGANO REGION"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata-ken",
+    "NIIGATA-KEN",
+    "NIGATA-KEN"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano-ken",
+    "NAGANO-KEN"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma-ken",
+    "GUMMA-KEN",
+    "GUMMA"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi-ken",
+    "TOCHIGI-KEN",
+    "TOCHIGI"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama-ken",
+    "SAITAMA-KEN",
+    "SAITAMA"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi-ken",
+    "YAMANASHI-KEN",
+    "YAMANASHI"
+   ]
+  },
+  {
+   "name": "Kanazawa Region",
+   "variants": [
+    "KANAZAWA REGION"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa-ken"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama-ken"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui-ken"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu-ken"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga-ken"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyōtofu"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara-ken"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama-ken"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane-ken"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori-ken"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama-ken"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa-ken"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima-ken"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Óita-ken"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto-ken"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita-ken"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata-ken"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "NIIGATA",
+    "NIGATA",
+    "NHGATA"
+   ]
+  },
+  {
+   "name": "Ogata",
+   "variants": [
+    "ÖGATA"
+   ]
+  },
+  {
+   "name": "Kodoshinden",
+   "variants": [
+    "Kōdoshinden"
+   ]
+  },
+  {
+   "name": "Niigata City",
+   "variants": [
+    "Niigata-shi"
+   ]
+  },
+  {
+   "name": "Higashihoridori",
+   "variants": [
+    "Higashihoridōri"
+   ]
+  },
+  {
+   "name": "Nanabancho",
+   "variants": [
+    "Nanaban-chō"
+   ]
+  },
+  {
+   "name": "Sekiya",
+   "variants": [
+    "Sekiya"
+   ]
+  },
+  {
+   "name": "Asahi-machi",
+   "variants": [
+    "Asahi-machi"
+   ]
+  },
+  {
+   "name": "Kashiwazaki",
+   "variants": [
+    "KASHIWAZAKI",
+    "Kashiwazaki-shi"
+   ]
+  },
+  {
+   "name": "Suwa-machi",
+   "variants": [
+    "Suwa-machi"
+   ]
+  },
+  {
+   "name": "Takada",
+   "variants": [
+    "TAKADA"
+   ]
+  },
+  {
+   "name": "Minamishiro-machi",
+   "variants": [
+    "Minamishiro-machi"
+   ]
+  },
+  {
+   "name": "Nagaoka",
+   "variants": [
+    "NAGAOKA",
+    "Nagaoka-shi"
+   ]
+  },
+  {
+   "name": "Higashisenju-cho",
+   "variants": [
+    "Higashisenjū-chō"
+   ]
+  },
+  {
+   "name": "Awashima",
+   "variants": [
+    "AWASHIMA",
+    "Awashimaura-mura"
+   ]
+  },
+  {
+   "name": "Iwafune District",
+   "variants": [
+    "Iwafune-gun"
+   ]
+  },
+  {
+   "name": "Ryotsu",
+   "variants": [
+    "RYOTSU",
+    "Ryōtsu-machi"
+   ]
+  },
+  {
+   "name": "Sado District",
+   "variants": [
+    "Sado-gun"
+   ]
+  },
+  {
+   "name": "Honcho",
+   "variants": [
+    "Honchō"
+   ]
+  },
+  {
+   "name": "Shimotokorojima",
+   "variants": [
+    "Shimotokorojima"
+   ]
+  },
+  {
+   "name": "Shimizugoe",
+   "variants": [
+    "SHIMIZUGOE"
+   ]
+  },
+  {
+   "name": "Ueda Village",
+   "variants": [
+    "Ueda-mura"
+   ]
+  },
+  {
+   "name": "Minamiuonuma District",
+   "variants": [
+    "Minamiuonuma-gun"
+   ]
+  },
+  {
+   "name": "Ichibancho",
+   "variants": [
+    "Ichibanchō"
+   ]
+  },
+  {
+   "name": "Gakko-machi",
+   "variants": [
+    "Gakkō-machi"
+   ]
+  },
+  {
+   "name": "Sado",
+   "variants": [
+    "SADO"
+   ]
+  },
+  {
+   "name": "Ikeda",
+   "variants": [
+    "Ikeda"
+   ]
+  },
+  {
+   "name": "Shirose",
+   "variants": [
+    "Shirose"
+   ]
+  },
+  {
+   "name": "Kamo Village",
+   "variants": [
+    "Kamo-mura"
+   ]
+  },
+  {
+   "name": "Kawabata-cho",
+   "variants": [
+    "Kawabata-chō"
+   ]
+  },
+  {
+   "name": "Shimizutoge",
+   "variants": [
+    "SHIMIZUTÖGE"
+   ]
+  },
+  {
+   "name": "Maoroshi",
+   "variants": [
+    "MAOROSHI",
+    "Maoroshi"
+   ]
+  },
+  {
+   "name": "Kawahigashi Village",
+   "variants": [
+    "Kawahigashi-mura"
+   ]
+  },
+  {
+   "name": "Nakakambara District",
+   "variants": [
+    "Nakakambara-gun"
+   ]
+  },
+  {
+   "name": "Niitsu",
+   "variants": [
+    "NIITSU",
+    "NITSU",
+    "Niitsu-machi"
+   ]
+  },
+  {
+   "name": "Muikamachi",
+   "variants": [
+    "MUIKAMACHI",
+    "Muikamachi"
+   ]
+  },
+  {
+   "name": "Arai",
+   "variants": [
+    "ARAI",
+    "Arai-machi"
+   ]
+  },
+  {
+   "name": "Nakakubiki District",
+   "variants": [
+    "Nakakubiki-gun"
+   ]
+  },
+  {
+   "name": "Naoetsu",
+   "variants": [
+    "NAOETSU",
+    "Naoetsu-machi"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "variants": [
+    "SHIBATA"
+   ]
+  },
+  {
+   "name": "Seiro Village",
+   "variants": [
+    "Seiro-mura"
+   ]
+  },
+  {
+   "name": "Kitakambara District",
+   "variants": [
+    "Kitakambara-gun"
+   ]
+  },
+  {
+   "name": "Megami",
+   "variants": [
+    "MEGAMI"
+   ]
+  },
+  {
+   "name": "Matsugasaki Village",
+   "variants": [
+    "Matsugasaki-mura"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "MATSUMOTO",
+    "Matsumoto-shi"
+   ]
+  },
+  {
+   "name": "Sasabe",
+   "variants": [
+    "Sasabe"
+   ]
+  },
+  {
+   "name": "Iida",
+   "variants": [
+    "IIDA",
+    "Iida-shi"
+   ]
+  },
+  {
+   "name": "Kamiiida",
+   "variants": [
+    "Kamiiida"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "NAGANO",
+    "Nagano-shi"
+   ]
+  },
+  {
+   "name": "Joyama",
+   "variants": [
+    "Jōyama"
+   ]
+  },
+  {
+   "name": "Ueda",
+   "variants": [
+    "UEDA",
+    "Ueda-shi"
+   ]
+  },
+  {
+   "name": "Unno-machi",
+   "variants": [
+    "Unno-machi"
+   ]
+  },
+  {
+   "name": "Hokujo",
+   "variants": [
+    "HOKUJO",
+    "Hokujō-mura"
+   ]
+  },
+  {
+   "name": "Kitaazumi District",
+   "variants": [
+    "Kitaazumi-gun"
+   ]
+  },
+  {
+   "name": "Sharita",
+   "variants": [
+    "Aza Sharita"
+   ]
+  },
+  {
+   "name": "Awada",
+   "variants": [
+    "Awada"
+   ]
+  },
+  {
+   "name": "Rokku-machi",
+   "variants": [
+    "Rokku-machi"
+   ]
+  },
+  {
+   "name": "Shirouma",
+   "variants": [
+    "SHIROUMA"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Óaza Tsuruga",
+    "Oaza Tsuruga",
+    "Öaza Tsuruga"
+   ]
+  },
+  {
+   "name": "Kashiwabara",
+   "variants": [
+    "KASHIWABARA",
+    "Kashiwabara-mura"
+   ]
+  },
+  {
+   "name": "Kamiminochi District",
+   "variants": [
+    "Kamiminochi-gun"
+   ]
+  },
+  {
+   "name": "Wakatsuki Village",
+   "variants": [
+    "Wakatsuki-mura"
+   ]
+  },
+  {
+   "name": "Yokote",
+   "variants": [
+    "YOKOTE"
+   ]
+  },
+  {
+   "name": "Hirao Village",
+   "variants": [
+    "Hirao-mura"
+   ]
+  },
+  {
+   "name": "Shimotakai District",
+   "variants": [
+    "Shimotakai-gun"
+   ]
+  },
+  {
+   "name": "Shimoirokuro",
+   "variants": [
+    "Aza Shimoirokuro"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "MAEBASHI",
+    "Maebashi-shi"
+   ]
+  },
+  {
+   "name": "Renjaku-cho",
+   "variants": [
+    "Renjaku-chō"
+   ]
+  },
+  {
+   "name": "Iwakami-cho",
+   "variants": [
+    "Iwakami-chō"
+   ]
+  },
+  {
+   "name": "Kuruwa-machi",
+   "variants": [
+    "Kuruwa-machi"
+   ]
+  },
+  {
+   "name": "Shirakuzure",
+   "variants": [
+    "SHIRAKUZURE"
+   ]
+  },
+  {
+   "name": "Minakami Village",
+   "variants": [
+    "Minakami-mura"
+   ]
+  },
+  {
+   "name": "Tone District",
+   "variants": [
+    "Tone-gun"
+   ]
+  },
+  {
+   "name": "Oyama",
+   "variants": [
+    "TÓKYO (OYAMA)",
+    "TOKYÖ (OYAMA)",
+    "TÖKYO (OYAMA)",
+    "Oyama-machi"
+   ]
+  },
+  {
+   "name": "Shimotsuga District",
+   "variants": [
+    "Shimotsuga-gun"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "UTSUNOMIYA",
+    "Utsunomiya-shi"
+   ]
+  },
+  {
+   "name": "Onoe-machi",
+   "variants": [
+    "Onoe-machi"
+   ]
+  },
+  {
+   "name": "Hanawada-cho",
+   "variants": [
+    "Hanawada-chō"
+   ]
+  },
+  {
+   "name": "Nasu",
+   "variants": [
+    "NAŠU",
+    "NASU",
+    "Nasu-mura",
+    "Nasu-gun"
+   ]
+  },
+  {
+   "name": "Yumoto",
+   "variants": [
+    "Yumoto"
+   ]
+  },
+  {
+   "name": "Yamata",
+   "variants": [
+    "TOKYO (YAMATA)",
+    "TÖKYÖ (YAMATA)",
+    "Yamata-mura"
+   ]
+  },
+  {
+   "name": "Higashiyamada",
+   "variants": [
+    "Aza Higashiyamada"
+   ]
+  },
+  {
+   "name": "Sashima District",
+   "variants": [
+    "Sashima-gun"
+   ]
+  },
+  {
+   "name": "Nazaki",
+   "variants": [
+    "TÓKYO (NAZAKI)",
+    "TÖKYÖ (NAZAKI)",
+    "Nazaki-mura"
+   ]
+  },
+  {
+   "name": "Yuki District",
+   "variants": [
+    "Yüki-gun"
+   ]
+  },
+  {
+   "name": "Hitachi",
+   "variants": [
+    "HITACHI",
+    "Hitachi-shi"
+   ]
+  },
+  {
+   "name": "Sukegawa-machi",
+   "variants": [
+    "Sukegawa-machi"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "MITO",
+    "Mito-shi"
+   ]
+  },
+  {
+   "name": "Minamisannomaru",
+   "variants": [
+    "Minamisannomaru"
+   ]
+  },
+  {
+   "name": "Kamiichi",
+   "variants": [
+    "Kamiichi"
+   ]
+  },
+  {
+   "name": "Minato-machi",
+   "variants": [
+    "Minato-machi"
+   ]
+  },
+  {
+   "name": "Naka District",
+   "variants": [
+    "Naka-gun"
+   ]
+  },
+  {
+   "name": "Kuji-machi",
+   "variants": [
+    "Kuji-machi"
+   ]
+  },
+  {
+   "name": "Kuji District",
+   "variants": [
+    "Kuji-gun"
+   ]
+  },
+  {
+   "name": "Kitasannomaru",
+   "variants": [
+    "Kitasannomaru"
+   ]
+  },
+  {
+   "name": "Hiraiso",
+   "variants": [
+    "HIRAISO",
+    "Hiraiso-machi"
+   ]
+  },
+  {
+   "name": "Tsukuba",
+   "variants": [
+    "TSUKUBA",
+    "Tsukuba-machi",
+    "Tsukuba-gun"
+   ]
+  },
+  {
+   "name": "Kemigawa",
+   "variants": [
+    "Tōkyō (Kemigawa)",
+    "TÓKYO (KEMIGAWA)",
+    "TÖKYO (KEMIGAWA)",
+    "TOKYO (KEMIGAWA)",
+    "Kemigawa-machi"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "CHIBA",
+    "Chiba-shi"
+   ]
+  },
+  {
+   "name": "Usui",
+   "variants": [
+    "Tōkyō (Usui)",
+    "TÖKYO (USUI)",
+    "TÖKYā (USUI)",
+    "TOKYā (USUI)",
+    "Usuf-machi",
+    "Usui-machi"
+   ]
+  },
+  {
+   "name": "Imba District",
+   "variants": [
+    "Imba-gun"
+   ]
+  },
+  {
+   "name": "Shiishiba",
+   "variants": [
+    "CHOSHI (SHIISHIBA)",
+    "CHÖSHI (SHIISHIBA)",
+    "CHÖSHI (SHISHIBA)",
+    "Shiishiba-mura"
+   ]
+  },
+  {
+   "name": "Unakami District",
+   "variants": [
+    "Unakami-gun"
+   ]
+  },
+  {
+   "name": "Katsuura",
+   "variants": [
+    "KATSUURA",
+    "Katsuura-machi"
+   ]
+  },
+  {
+   "name": "Isumi District",
+   "variants": [
+    "Isumi-gun"
+   ]
+  },
+  {
+   "name": "Kawaguchi-machi",
+   "variants": [
+    "Kawaguchi-machi"
+   ]
+  },
+  {
+   "name": "Katsushika",
+   "variants": [
+    "TÓKYÖ (KATSUSHIKA)",
+    "Katsushika-machi"
+   ]
+  },
+  {
+   "name": "Funabashi",
+   "variants": [
+    "Funabashi-shi"
+   ]
+  },
+  {
+   "name": "Nojimazaki",
+   "variants": [
+    "NOJIMAZAKI"
+   ]
+  },
+  {
+   "name": "Shirahama-machi",
+   "variants": [
+    "Shirahama-machi"
+   ]
+  },
+  {
+   "name": "Awa District",
+   "variants": [
+    "Awa-gun"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul (Keijō)"
+   ]
+  },
+  {
+   "name": "Inuboezaki",
+   "variants": [
+    "INUBOEZAKI",
+    "Inuboezaki"
+   ]
+  },
+  {
+   "name": "Fusa",
+   "variants": [
+    "TOKYO (FUSA)",
+    "TÓKYO(FUSA)",
+    "TOKYÖ (FUSA)",
+    "Fusa-machi"
+   ]
+  },
+  {
+   "name": "Kitahara",
+   "variants": [
+    "Óaza Kitahara"
+   ]
+  },
+  {
+   "name": "Fusadai",
+   "variants": [
+    "Fusadai"
+   ]
+  },
+  {
+   "name": "Higashikatsushika District",
+   "variants": [
+    "Higashikatsushika-gun"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Ryukyu Islands"
+   ]
+  },
+  {
+   "name": "Tomisaki",
+   "variants": [
+    "TOMISAKI",
+    "Tomisaki-mura"
+   ]
+  },
+  {
+   "name": "Aihara",
+   "variants": [
+    "Óaza Aihara"
+   ]
+  },
+  {
+   "name": "Aihama",
+   "variants": [
+    "Aihama"
+   ]
+  },
+  {
+   "name": "Ichiba-machi",
+   "variants": [
+    "Ichiba-machi"
+   ]
+  },
+  {
+   "name": "Ohira",
+   "variants": [
+    "OHIRA",
+    "ÖHIRA",
+    "Ohira-mura"
+   ]
+  },
+  {
+   "name": "Sambu District",
+   "variants": [
+    "Sambu-gun"
+   ]
+  },
+  {
+   "name": "Takagami-machi",
+   "variants": [
+    "Takagami-machi"
+   ]
+  },
+  {
+   "name": "Yatsumi",
+   "variants": [
+    "YATSUMI",
+    "Yatsumi-mura"
+   ]
+  },
+  {
+   "name": "Chosei District",
+   "variants": [
+    "Chōsei-gun"
+   ]
+  },
+  {
+   "name": "Hatogaya",
+   "variants": [
+    "TOKYÓ (HATOGAYA)"
+   ]
+  },
+  {
+   "name": "Sato",
+   "variants": [
+    "Óaza Sato"
+   ]
+  },
+  {
+   "name": "Kawaguchi",
+   "variants": [
+    "TOKYO (KAWAGUCHI)",
+    "TÖKYō (KAWAGUCHI)",
+    "Kawaguchi-shi"
+   ]
+  },
+  {
+   "name": "Kamiaoki-machi",
+   "variants": [
+    "Kamiaoki-machi"
+   ]
+  },
+  {
+   "name": "Takasago-cho",
+   "variants": [
+    "Takasago-chō"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urawa-shi"
+   ]
+  },
+  {
+   "name": "Komuro",
+   "variants": [
+    "KOMURO",
+    "Aza Komuro"
+   ]
+  },
+  {
+   "name": "Ina Village",
+   "variants": [
+    "Ina-mura"
+   ]
+  },
+  {
+   "name": "Kitaadachi District",
+   "variants": [
+    "Kitaadachi-gun"
+   ]
+  },
+  {
+   "name": "Oi",
+   "variants": [
+    "ÓI",
+    "Ói-mura"
+   ]
+  },
+  {
+   "name": "Iruma District",
+   "variants": [
+    "Iruma-gun"
+   ]
+  },
+  {
+   "name": "Hirakata-machi",
+   "variants": [
+    "Hirakata-machi"
+   ]
+  },
+  {
+   "name": "Iwatsuki",
+   "variants": [
+    "IWATSUKI",
+    "Iwatsuki-machi"
+   ]
+  },
+  {
+   "name": "Minamisaitama District",
+   "variants": [
+    "Minamisaitama-gun"
+   ]
+  },
+  {
+   "name": "Oshima",
+   "variants": [
+    "ÖSHIMA",
+    "OSHIMA",
+    "ÓSHIMA",
+    "Óshima"
+   ]
+  },
+  {
+   "name": "Sashikiji Village",
+   "variants": [
+    "Sashikiji-mura"
+   ]
+  },
+  {
+   "name": "Tokyo Studio",
+   "variants": [
+    "TÓKYO (Studio)",
+    "TÓKYā (Studio)"
+   ]
+  },
+  {
+   "name": "Uchisaiwai-cho",
+   "variants": [
+    "Uchisaiwai-chō"
+   ]
+  },
+  {
+   "name": "Chiyoda Ward",
+   "variants": [
+    "Chiyoda-ku"
+   ]
+  },
+  {
+   "name": "Nakano",
+   "variants": [
+    "TÖKYO (NAKANO)",
+    "TÓKYÖ (NAKANO)",
+    "TOKYÖ (NAKANO)"
+   ]
+  },
+  {
+   "name": "Kakoi-machi",
+   "variants": [
+    "Kakoi-machi"
+   ]
+  },
+  {
+   "name": "Nakano Ward",
+   "variants": [
+    "Nakano-ku"
+   ]
+  },
+  {
+   "name": "Kitayamabushi-cho",
+   "variants": [
+    "Kitayamabushi-chō"
+   ]
+  },
+  {
+   "name": "Shinjuku Ward",
+   "variants": [
+    "Shinjuku-ku"
+   ]
+  },
+  {
+   "name": "Moto Village",
+   "variants": [
+    "Moto-mura"
+   ]
+  },
+  {
+   "name": "Toshima Island",
+   "variants": [
+    "TOSHIMA",
+    "Toshima"
+   ]
+  },
+  {
+   "name": "Niijima",
+   "variants": [
+    "NIIJIMA",
+    "NIJIMA",
+    "Niijima"
+   ]
+  },
+  {
+   "name": "Hon Village",
+   "variants": [
+    "Hon-mura"
+   ]
+  },
+  {
+   "name": "Shikinejima",
+   "variants": [
+    "SHIKINEJIMA",
+    "Shikinejima"
+   ]
+  },
+  {
+   "name": "Kozushima",
+   "variants": [
+    "KOZUSHIMA",
+    "Kōzushima·mura",
+    "Kōzushima"
+   ]
+  },
+  {
+   "name": "Miyakejima",
+   "variants": [
+    "MIYAKEJIMA",
+    "Miyakejima"
+   ]
+  },
+  {
+   "name": "Kamitsuki Village",
+   "variants": [
+    "Kamitsuki-mura"
+   ]
+  },
+  {
+   "name": "Mikurajima",
+   "variants": [
+    "MIKURAJIMA",
+    "Mikurajima-mura",
+    "Mikurajima"
+   ]
+  },
+  {
+   "name": "Tokyo Chuden",
+   "variants": [
+    "TÓKYō (Chūden)"
+   ]
+  },
+  {
+   "name": "Ote-machi",
+   "variants": [
+    "Ote-machi"
+   ]
+  },
+  {
+   "name": "Aogashima",
+   "variants": [
+    "AOGASHIMA",
+    "Aogashima"
+   ]
+  },
+  {
+   "name": "Hachijojima",
+   "variants": [
+    "Hachijōjima",
+    "Hachijojima",
+    "HACHIJOJIMA"
+   ]
+  },
+  {
+   "name": "Habu Village",
+   "variants": [
+    "Habu-mura"
+   ]
+  },
+  {
+   "name": "Hachijo",
+   "variants": [
+    "HACHIJO",
+    "HACHJΟ"
+   ]
+  },
+  {
+   "name": "Mitsune Village",
+   "variants": [
+    "Mitsune-mura"
+   ]
+  },
+  {
+   "name": "Izu Oshima",
+   "variants": [
+    "IZUÓSHIMA",
+    "IZUÖSHIMA"
+   ]
+  },
+  {
+   "name": "Okada Village",
+   "variants": [
+    "Okada-mura"
+   ]
+  },
+  {
+   "name": "Torishima",
+   "variants": [
+    "TORISHIMA",
+    "Torishima"
+   ]
+  },
+  {
+   "name": "Nakagawara",
+   "variants": [
+    "Óaza Nakagawara"
+   ]
+  },
+  {
+   "name": "Okago Village",
+   "variants": [
+    "Ókagō-mura"
+   ]
+  },
+  {
+   "name": "Tokyo Kishodai",
+   "variants": [
+    "TOKYO (Kishōdai)"
+   ]
+  },
+  {
+   "name": "Takehira-cho",
+   "variants": [
+    "Takehira-chō"
+   ]
+  },
+  {
+   "name": "Hamamatsucho",
+   "variants": [
+    "Hamamatsuchō"
+   ]
+  },
+  {
+   "name": "Minato Ward",
+   "variants": [
+    "Minato-ku"
+   ]
+  },
+  {
+   "name": "Marunouchi",
+   "variants": [
+    "Marunouchi"
+   ]
+  },
+  {
+   "name": "Mitaka",
+   "variants": [
+    "MITAKA",
+    "Mitaka-machi"
+   ]
+  },
+  {
+   "name": "Kitatama District",
+   "variants": [
+    "Kitatama-gun"
+   ]
+  },
+  {
+   "name": "Kokubunji",
+   "variants": [
+    "KOKUBUNJI"
+   ]
+  },
+  {
+   "name": "Koganeishinden",
+   "variants": [
+    "Koganeishinden"
+   ]
+  },
+  {
+   "name": "Koganei",
+   "variants": [
+    "Koganei-machi"
+   ]
+  },
+  {
+   "name": "Azabu",
+   "variants": [
+    "AZABU",
+    "Azabu likura"
+   ]
+  },
+  {
+   "name": "Kamada",
+   "variants": [
+    "KAMADA",
+    "Kamada-chō"
+   ]
+  },
+  {
+   "name": "Setagaya Ward",
+   "variants": [
+    "Setagaya-ku"
+   ]
+  },
+  {
+   "name": "Ekoda",
+   "variants": [
+    "EKODA"
+   ]
+  },
+  {
+   "name": "Kamitakata",
+   "variants": [
+    "Kamitakata"
+   ]
+  },
+  {
+   "name": "Miyake",
+   "variants": [
+    "MIYAKE"
+   ]
+  },
+  {
+   "name": "Ako Village",
+   "variants": [
+    "Ako-mura"
+   ]
+  },
+  {
+   "name": "Daiichi Teiten",
+   "variants": [
+    "DAIICHI TEITEN (The Pacific)",
+    "DAIICHI TEITEN"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "The Pacific"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "KÖFU",
+    "KÓFU",
+    "KOFU",
+    "Kōfu-shi"
+   ]
+  },
+  {
+   "name": "Iida-machi, Kofu",
+   "variants": [
+    "Iida-machi"
+   ]
+  },
+  {
+   "name": "Nishiki-cho",
+   "variants": [
+    "Nishiki-chō"
+   ]
+  },
+  {
+   "name": "Tachibana-machi",
+   "variants": [
+    "Tachibana-machi"
+   ]
+  },
+  {
+   "name": "Uraga",
+   "variants": [
+    "URAGA"
+   ]
+  },
+  {
+   "name": "Odawara",
+   "variants": [
+    "ODAWARA",
+    "Odawara-shi"
+   ]
+  },
+  {
+   "name": "Maekawa",
+   "variants": [
+    "Maekawa"
+   ]
+  },
+  {
+   "name": "Maeba Village",
+   "variants": [
+    "Maeba-mura"
+   ]
+  },
+  {
+   "name": "Ashigarashimo District",
+   "variants": [
+    "Ashigarashimo-gun"
+   ]
+  },
+  {
+   "name": "Hinode-cho",
+   "variants": [
+    "Hinode-chō"
+   ]
+  },
+  {
+   "name": "Misaki-machi",
+   "variants": [
+    "Misaki-machi"
+   ]
+  },
+  {
+   "name": "Miura District",
+   "variants": [
+    "Miura-gun"
+   ]
+  },
+  {
+   "name": "Saiwai-cho",
+   "variants": [
+    "Saiwai-chō"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "K. Karaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Karaki"
+   ]
+  },
+  {
+   "name": "Y. Moriguchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Moriguchi"
+   ]
+  },
+  {
+   "name": "S. Matsui",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Matsui"
+   ]
+  },
+  {
+   "name": "K. Hiromatsu",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Hiromatsu"
+   ]
+  },
+  {
+   "name": "K. Tada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Tada"
+   ]
+  },
+  {
+   "name": "S. Saito",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Saitō",
+    "S. Saito"
+   ]
+  },
+  {
+   "name": "M. Ono",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Ono",
+    "M. Óno"
+   ]
+  },
+  {
+   "name": "I. Katsuse",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Katsuse"
+   ]
+  },
+  {
+   "name": "M. Takeuchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Takeuchi"
+   ]
+  },
+  {
+   "name": "T. Tominaga",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Tominaga"
+   ]
+  },
+  {
+   "name": "A. Tanizawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "A. Tanizawa"
+   ]
+  },
+  {
+   "name": "S. Hori",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Hori"
+   ]
+  },
+  {
+   "name": "T. Sakamaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Sakamaki"
+   ]
+  },
+  {
+   "name": "K. Taifuku",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Taifuku"
+   ]
+  },
+  {
+   "name": "S. Nishida",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Nishida"
+   ]
+  },
+  {
+   "name": "S. Sumie",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Sumie"
+   ]
+  },
+  {
+   "name": "C. Hamawaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "C. Hamawaki"
+   ]
+  },
+  {
+   "name": "E. Motokawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "E. Motokawa"
+   ]
+  },
+  {
+   "name": "T. Tada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Tada"
+   ]
+  },
+  {
+   "name": "T. Shiiki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Shiiki"
+   ]
+  },
+  {
+   "name": "A. Hamazaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "A. Hamazaki"
+   ]
+  },
+  {
+   "name": "M. Kawasaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Kawasaki"
+   ]
+  },
+  {
+   "name": "S. Gonohe",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Gonohe"
+   ]
+  },
+  {
+   "name": "S. Hirosawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Hirosawa"
+   ]
+  },
+  {
+   "name": "T. Konishi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Konishi"
+   ]
+  },
+  {
+   "name": "H. Hirano",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Hirano"
+   ]
+  },
+  {
+   "name": "G. Kando",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Kandō"
+   ]
+  },
+  {
+   "name": "S. Kondo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kondō"
+   ]
+  },
+  {
+   "name": "M. Watanabe",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Watanabe"
+   ]
+  },
+  {
+   "name": "K. Abe",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Abe"
+   ]
+  },
+  {
+   "name": "T. Chiba",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Chiba"
+   ]
+  },
+  {
+   "name": "K. Masai",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Masai"
+   ]
+  },
+  {
+   "name": "K. Suzuki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Suzuki"
+   ]
+  },
+  {
+   "name": "Y. Sato",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Satō"
+   ]
+  },
+  {
+   "name": "A. Endo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "A. Endō"
+   ]
+  },
+  {
+   "name": "I. Oyama",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Oyama"
+   ]
+  },
+  {
+   "name": "H. Ito",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Itō"
+   ]
+  },
+  {
+   "name": "K. Endo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Endō"
+   ]
+  },
+  {
+   "name": "T. Tsuda",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Tsuda"
+   ]
+  },
+  {
+   "name": "S. Aizawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Aizawa"
+   ]
+  },
+  {
+   "name": "M. Miyamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Miyamoto"
+   ]
+  },
+  {
+   "name": "S. Kazawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kazawa"
+   ]
+  },
+  {
+   "name": "Y. Miyo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Miyo"
+   ]
+  },
+  {
+   "name": "S. Magami",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Magami"
+   ]
+  },
+  {
+   "name": "M. Magami",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Magami"
+   ]
+  },
+  {
+   "name": "Z. Kurokawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Z. Kurokawa"
+   ]
+  },
+  {
+   "name": "T. Kitazawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Kitazawa"
+   ]
+  },
+  {
+   "name": "K. Michino",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Michino"
+   ]
+  },
+  {
+   "name": "Y. Yoshida",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Yoshida"
+   ]
+  },
+  {
+   "name": "K. Kannari",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Kannari"
+   ]
+  },
+  {
+   "name": "M. Kusano",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Kusano"
+   ]
+  },
+  {
+   "name": "M. Nozaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Nozaki"
+   ]
+  },
+  {
+   "name": "T. Sakabe",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Sakabe"
+   ]
+  },
+  {
+   "name": "G. Magami",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Magami"
+   ]
+  },
+  {
+   "name": "C. Ono",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "C. Ono"
+   ]
+  },
+  {
+   "name": "S. Kuboi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kuboi"
+   ]
+  },
+  {
+   "name": "T. Tadokoro",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Tadokoro"
+   ]
+  },
+  {
+   "name": "K. Kurokawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Kurokawa"
+   ]
+  },
+  {
+   "name": "H. Yoshida",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Yoshida"
+   ]
+  },
+  {
+   "name": "Y. Sakamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Sakamoto"
+   ]
+  },
+  {
+   "name": "S. Hirano",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Hirano"
+   ]
+  },
+  {
+   "name": "S. Ogi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Ogi"
+   ]
+  },
+  {
+   "name": "S. Kurokawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kurokawa"
+   ]
+  },
+  {
+   "name": "T. Nakatani",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Nakatani"
+   ]
+  },
+  {
+   "name": "K. Aburaya",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Aburaya"
+   ]
+  },
+  {
+   "name": "M. Kimura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Kimura"
+   ]
+  },
+  {
+   "name": "S. Onishi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "s. Onishi"
+   ]
+  },
+  {
+   "name": "K. Oide",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Óide"
+   ]
+  },
+  {
+   "name": "S. Zako",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Zako"
+   ]
+  },
+  {
+   "name": "Y. Isozaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Isozaki"
+   ]
+  },
+  {
+   "name": "I. Tsui",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Tsui"
+   ]
+  },
+  {
+   "name": "T. Hirata",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Hirata"
+   ]
+  },
+  {
+   "name": "Y. Hayashi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Hayashi"
+   ]
+  },
+  {
+   "name": "S. Kumagai",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kumagai"
+   ]
+  },
+  {
+   "name": "M. Owada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Ówada"
+   ]
+  },
+  {
+   "name": "K. Koizumi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Koizumi"
+   ]
+  },
+  {
+   "name": "T. Ito",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Itō"
+   ]
+  },
+  {
+   "name": "M. Omori",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Ómori"
+   ]
+  },
+  {
+   "name": "T. Otani",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Otani"
+   ]
+  },
+  {
+   "name": "H. Kimura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Kimura"
+   ]
+  },
+  {
+   "name": "K. Amishiro",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Amishiro"
+   ]
+  },
+  {
+   "name": "Y. Kamogawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Kamogawa"
+   ]
+  },
+  {
+   "name": "T. Yamaguchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Yamaguchi"
+   ]
+  },
+  {
+   "name": "H. Murayama",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Murayama"
+   ]
+  },
+  {
+   "name": "T. Takagi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Takagi"
+   ]
+  },
+  {
+   "name": "T. Miyo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Miyo"
+   ]
+  },
+  {
+   "name": "R. Sato",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "R. Satō"
+   ]
+  },
+  {
+   "name": "S. Saiga",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Saiga"
+   ]
+  },
+  {
+   "name": "K. Murakami",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Murakami"
+   ]
+  },
+  {
+   "name": "H. Nemoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Nemoto"
+   ]
+  },
+  {
+   "name": "G. Abe",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Abe"
+   ]
+  },
+  {
+   "name": "R. Yoshikawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "R. Yoshikawa"
+   ]
+  },
+  {
+   "name": "E. Ogawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "E. Ogawa"
+   ]
+  },
+  {
+   "name": "S. Isono",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Isono"
+   ]
+  },
+  {
+   "name": "S. Yamamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Yamamoto"
+   ]
+  },
+  {
+   "name": "H. Tsukaguchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Tsukaguchi"
+   ]
+  },
+  {
+   "name": "T. Kamogawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Kamogawa"
+   ]
+  },
+  {
+   "name": "S. Denuma",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Denuma"
+   ]
+  },
+  {
+   "name": "T. Shinozuka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Shinozuka"
+   ]
+  },
+  {
+   "name": "H. Yamamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Yamamoto"
+   ]
+  },
+  {
+   "name": "S. Kamikabeya",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kamikabeya"
+   ]
+  },
+  {
+   "name": "K. Yamamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Yamamoto"
+   ]
+  },
+  {
+   "name": "U. Kawasaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "U. Kawasaki"
+   ]
+  },
+  {
+   "name": "M. Saito",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Saitō"
+   ]
+  },
+  {
+   "name": "H. Miyauchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Miyauchi"
+   ]
+  },
+  {
+   "name": "Y. Ishii",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Ishii"
+   ]
+  },
+  {
+   "name": "S. Aminaka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Aminaka"
+   ]
+  },
+  {
+   "name": "E. Isobe",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "E. Isobe"
+   ]
+  },
+  {
+   "name": "S. Awaji",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Awaji"
+   ]
+  },
+  {
+   "name": "M. Torii",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Torii"
+   ]
+  },
+  {
+   "name": "I. Ito",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Itō"
+   ]
+  },
+  {
+   "name": "K. Hitachi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Hitachi"
+   ]
+  },
+  {
+   "name": "Y. Ikenaga",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Ikenaga"
+   ]
+  },
+  {
+   "name": "S. Kumano",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Kumano"
+   ]
+  },
+  {
+   "name": "Y. Nukaya",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Nukaya"
+   ]
+  },
+  {
+   "name": "K. Tokoyada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Tokoyada"
+   ]
+  },
+  {
+   "name": "T. Tokoyada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Tokoyada"
+   ]
+  },
+  {
+   "name": "D. Tsujino",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "D. Tsujino"
+   ]
+  },
+  {
+   "name": "K. Namura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Namura"
+   ]
+  },
+  {
+   "name": "T. Kato",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Katō"
+   ]
+  },
+  {
+   "name": "K. Kubotani",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Kubotani"
+   ]
+  },
+  {
+   "name": "S. Sakuma",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Sakuma"
+   ]
+  },
+  {
+   "name": "Y. Tanaka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Tanaka"
+   ]
+  },
+  {
+   "name": "H. Suzuki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Suzuki"
+   ]
+  },
+  {
+   "name": "R. Terada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "R. Terada"
+   ]
+  },
+  {
+   "name": "G. Kumano",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Kumano"
+   ]
+  },
+  {
+   "name": "H. Izumi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Izumi"
+   ]
+  },
+  {
+   "name": "K. Shibata",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Shibata"
+   ]
+  },
+  {
+   "name": "H. Shirato",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Shirato"
+   ]
+  },
+  {
+   "name": "I. Horii",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Horii"
+   ]
+  },
+  {
+   "name": "E. Iizuka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "E. Iizuka"
+   ]
+  },
+  {
+   "name": "T. Zako",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Zako"
+   ]
+  },
+  {
+   "name": "H. Kanai",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Kanai"
+   ]
+  },
+  {
+   "name": "M. Uyama",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Uyama"
+   ]
+  },
+  {
+   "name": "I. Tomura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Tomura"
+   ]
+  },
+  {
+   "name": "Y. Sanuki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Sanuki"
+   ]
+  },
+  {
+   "name": "T. Yamada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Yamada"
+   ]
+  },
+  {
+   "name": "S. Innami",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Innami"
+   ]
+  },
+  {
+   "name": "T. Suzuki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Suzuki"
+   ]
+  },
+  {
+   "name": "T. Miyoshi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Miyoshi"
+   ]
+  },
+  {
+   "name": "S. Teramoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Teramoto"
+   ]
+  },
+  {
+   "name": "M. Kojima",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Kojima"
+   ]
+  },
+  {
+   "name": "M. Okuzu",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Okuzu"
+   ]
+  },
+  {
+   "name": "Y. Yanagishita",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Yanagishita"
+   ]
+  },
+  {
+   "name": "B. Takanashi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "B. Takanashi"
+   ]
+  },
+  {
+   "name": "R. Misaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "R. Misaki"
+   ]
+  },
+  {
+   "name": "K. Numano",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Numano"
+   ]
+  },
+  {
+   "name": "K. Kozawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Kozawa"
+   ]
+  },
+  {
+   "name": "K. Yamada",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Yamada"
+   ]
+  },
+  {
+   "name": "K. Yamashita",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Yamashita"
+   ]
+  },
+  {
+   "name": "S. Umehara",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Umehara"
+   ]
+  },
+  {
+   "name": "G. Osawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Ósawa"
+   ]
+  },
+  {
+   "name": "Y. Yamamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Yamamoto"
+   ]
+  },
+  {
+   "name": "T. Murase",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Murase"
+   ]
+  },
+  {
+   "name": "S. Tanaka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "8. Tanaka"
+   ]
+  },
+  {
+   "name": "U. Hisamura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "U. Hisamura"
+   ]
+  },
+  {
+   "name": "M. Taniwaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Taniwaki"
+   ]
+  },
+  {
+   "name": "K. Komatsu",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Komatsu"
+   ]
+  },
+  {
+   "name": "M. Fukushima",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Fukushima"
+   ]
+  },
+  {
+   "name": "I. Matsumoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Matsumoto"
+   ]
+  },
+  {
+   "name": "T. Yoshikawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Yoshikawa"
+   ]
+  },
+  {
+   "name": "G. Hashimoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Hashimoto"
+   ]
+  },
+  {
+   "name": "K. Hamaguchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Hamaguchi"
+   ]
+  },
+  {
+   "name": "K. Kishi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Kishi"
+   ]
+  },
+  {
+   "name": "K. Muya",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Muya"
+   ]
+  },
+  {
+   "name": "Y. Nitta",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Nitta"
+   ]
+  },
+  {
+   "name": "T. Eguchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Eguchi",
+    "T. Egucni"
+   ]
+  },
+  {
+   "name": "K. Tsuda",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Tsuda"
+   ]
+  },
+  {
+   "name": "J. Matsumoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "J. Matsumoto"
+   ]
+  },
+  {
+   "name": "S. Imoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Imoto"
+   ]
+  },
+  {
+   "name": "I. Yamashita",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Yamashita"
+   ]
+  },
+  {
+   "name": "H. Fujinaka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "H. Fujinaka"
+   ]
+  },
+  {
+   "name": "I. Shimamori",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Shimamori"
+   ]
+  },
+  {
+   "name": "S. Takahashi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Takahaşhi"
+   ]
+  },
+  {
+   "name": "R. Yoshida",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "R. Yoshida"
+   ]
+  },
+  {
+   "name": "K. Sekihashi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Sekihashi"
+   ]
+  },
+  {
+   "name": "S. Nakamura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Nakamura"
+   ]
+  },
+  {
+   "name": "M. Kawahira",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Kawahira"
+   ]
+  },
+  {
+   "name": "S. Okubo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Ókubo"
+   ]
+  },
+  {
+   "name": "K. Sasaki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Sasaki"
+   ]
+  },
+  {
+   "name": "T. Noguchi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Noguchi"
+   ]
+  },
+  {
+   "name": "T. Hatakeyama",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Hatakeyama"
+   ]
+  },
+  {
+   "name": "W. Katsukura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "W. Katsukura"
+   ]
+  },
+  {
+   "name": "K. Kameya",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Kameya"
+   ]
+  },
+  {
+   "name": "N. Henmi",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "N. Henmi"
+   ]
+  },
+  {
+   "name": "K. Matsuda",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Matsuda"
+   ]
+  },
+  {
+   "name": "Y. Ueki",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Ueki"
+   ]
+  },
+  {
+   "name": "Y. Murakami",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Murakami"
+   ]
+  },
+  {
+   "name": "S. Oyama",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Oyama"
+   ]
+  },
+  {
+   "name": "S. Endo",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Endō"
+   ]
+  },
+  {
+   "name": "M. Kazawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Kazawa"
+   ]
+  },
+  {
+   "name": "S. Sato",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Satō"
+   ]
+  },
+  {
+   "name": "I. Sato",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "I. Satō"
+   ]
+  },
+  {
+   "name": "E. Shio",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "E. Shio"
+   ]
+  },
+  {
+   "name": "T. Nakayama",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Nakayama"
+   ]
+  },
+  {
+   "name": "K. Tamura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "K. Tamura"
+   ]
+  },
+  {
+   "name": "Y. Tamura",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Tamura"
+   ]
+  },
+  {
+   "name": "T. Shiga",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Shiga"
+   ]
+  },
+  {
+   "name": "Y. Ishikawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Ishikawa"
+   ]
+  },
+  {
+   "name": "C. Sakamoto",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "C. Sakamoto"
+   ]
+  },
+  {
+   "name": "S. Wabuka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "S. Wabuka"
+   ]
+  },
+  {
+   "name": "M. Yoshida",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "M. Yoshida"
+   ]
+  },
+  {
+   "name": "Y. Hasegawa",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Hasegawa"
+   ]
+  },
+  {
+   "name": "Y. Mishiro",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "Y. Mishiro"
+   ]
+  },
+  {
+   "name": "T. Tanaka",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Tanaka"
+   ]
+  },
+  {
+   "name": "C. Ito",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "C. Itō"
+   ]
+  },
+  {
+   "name": "B. Kanenari",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "B. Kanenari"
+   ]
+  },
+  {
+   "name": "T. Honma",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "T. Honma"
+   ]
+  },
+  {
+   "name": "E. Shima",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "E. Shima"
+   ]
+  },
+  {
+   "name": "G. Chiba",
+   "role": "listed ship operational agency or operator",
+   "variants": [
+    "G. Chiba"
+   ]
+  }
+ ],
+ "keywords": [
+  "ship radio stations",
+  "Japanese radio directory",
+  "SCAP registration",
+  "call signs",
+  "radio frequencies",
+  "emission classes",
+  "time signals",
+  "standard-frequency broadcasting",
+  "coast and fishery stations",
+  "broadcast stations",
+  "technical limitations",
+  "station coordinates"
+ ],
+ "subfiles": [
+  {
+   "title": "SCAP Ship Radio Register: Additions, Deletions, Changes, and Call-Sign Amendments",
+   "doc_type": "printed register and amendment list",
+   "start_page": 720,
+   "end_page": 759,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Register pages record additions, deletions, and changes to Japanese vessel radio licenses and call signs.",
+   "summary": "The document continues a regional register of Japanese ships, giving SCAP registration numbers, registry ports, tonnage, operational agencies, call signs, authorized frequencies, power changes, and emission types. Separate parts identify deleted and changed registrations and then list call-sign additions, deletions, and transfers. Entries cover fishing boats, cargo vessels, tankers, training ships, and Maritime Safety Bureau guard boats throughout Japan; page 759 is a blank separator following the final amendment table.",
+   "keywords": [
+    "SCAP ship register",
+    "merchant marine radio",
+    "fishing vessels",
+    "call signs",
+    "frequency changes",
+    "license additions",
+    "license deletions",
+    "emission types"
+   ]
+  },
+  {
+   "title": "Japanese Radio Stations: Definitions, Technical Limitations, Time Signals, and Geographical List",
+   "doc_type": "printed radio-station directory",
+   "start_page": 760,
+   "end_page": 799,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A national directory explains Japanese radio-allocation terminology and begins a geographically organized register of land stations.",
+   "summary": "The directory opens with its contents, definitions of frequency, emission, power, station classes, services, and channel terminology, followed by technical tolerances and operating limitations. It provides schedules and signal charts for standard-frequency and time transmissions from the Tokyo-area JJY, JJC, and JCS stations, plus service abbreviations. The geographical register then lists stations by prefecture, with SCAP numbers, frequencies, call signs, power, emission class, service, limitations, locations, and coordinates, covering Niigata through Kanagawa in this section.",
+   "keywords": [
+    "Japanese radio stations",
+    "frequency allocation",
+    "technical limitations",
+    "JJY",
+    "time signals",
+    "broadcasting",
+    "coast stations",
+    "meteorological radio",
+    "police radio",
+    "geographical register",
+    "call signs",
+    "coordinates"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 10,
+  "sections": 14,
+  "pages": [
+   720,
+   799
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 3, 1946 - December 24, 1949 1827.pdf",
+  "seconds": 423.3,
+  "created": "2026-10-04 00:38:00",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-9"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "overview": "This file concerns wages, working hours, and employment conditions in Dairen and the Kwantung Leased Territory between 1931 and 1934. Its principal document is a confidential report prepared by American Consul William R. Langdon in October 1931 for the U.S. Department of State and Bureau of Labor Statistics, presenting wage data for soybean milling, cotton spinning, cement manufacture, brickmaking, glassmaking, and agriculture, together with information on currencies, hours, overtime, benefits, and holidays. Cross-reference sheets point both to this report and to a later February 1934 report on current wages in Dairen associated with Vincent, which is not reproduced in the surviving pages.",
+ "places": [
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "MANCHURIA",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwan-tung Territory",
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "William R. Langdon",
+   "role": "American Consul at Dairen",
+   "variants": [
+    "Langdon",
+    "Wm. R. Langdon"
+   ]
+  },
+  {
+   "name": "Vincent",
+   "role": "Official associated with the February 1934 Dairen wage report; position not stated",
+   "variants": [
+    "Vincent"
+   ]
+  }
+ ],
+ "keywords": [
+  "wages",
+  "working hours",
+  "labor conditions",
+  "Kwantung Leased Territory",
+  "Dairen",
+  "Manchuria",
+  "soybean milling",
+  "cotton spinning",
+  "manufacturing",
+  "agriculture",
+  "currency exchange",
+  "overtime pay",
+  "employee benefits",
+  "holidays"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference sheet for Langdon’s report on wages in the Kwantung Territory",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1931-10-16",
+   "from": "Dairen (Langdon)",
+   "to": "File 1-1137",
+   "about": "The sheet directs readers to file 800.5041/35 for Report No. 351 on current wages in the Kwantung Territory.",
+   "summary": "This filing note identifies an October 16, 1931 report from Dairen by Langdon concerning current wages in the Kwantung Territory. It states that a copy of the report is attached and cross-references the principal file under which the report was recorded.",
+   "keywords": [
+    "cross-reference",
+    "Report No. 351",
+    "wages",
+    "Kwantung Territory",
+    "Dairen",
+    "Langdon"
+   ]
+  },
+  {
+   "title": "Langdon report on wages in the Dairen consular district",
+   "doc_type": "report",
+   "start_page": 2,
+   "end_page": 4,
+   "date": "1931-10-16",
+   "from": "William R. Langdon, American Consul",
+   "to": "U.S. Department of State",
+   "about": "A confidential statistical report describes wages, hours, overtime, benefits, and holidays in the principal industries of the Kwantung Leased Territory.",
+   "summary": "Prepared in response to instructions from the Department of State and the Bureau of Labor Statistics, the report tabulates labor conditions in soybean milling, cotton spinning, cement manufacture, brickmaking, glassmaking, and agriculture. It distinguishes skilled and unskilled wages, records working hours and overtime arrangements, and notes benefits such as food, lodging, and holidays. A note explains the approximate exchange values of the small silver coin dollar and the gold yen. Copies were distributed to American offices in Tokyo and Shanghai and to the Trade Commission in Mukden.",
+   "keywords": [
+    "wage survey",
+    "labor statistics",
+    "working hours",
+    "soybean milling",
+    "cotton spinning",
+    "cement",
+    "brickmaking",
+    "glassmaking",
+    "agriculture",
+    "gold yen",
+    "silver currency",
+    "overtime",
+    "holidays"
+   ]
+  },
+  {
+   "title": "Cross-reference sheet for Vincent’s report on current wages in Dairen",
+   "doc_type": "cross-reference sheet",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1934-02-13",
+   "from": "Dairen (Vincent)",
+   "to": "File 1-1137",
+   "about": "The sheet directs readers to file 800.5041/56 for a February 1934 report on current wages in Dairen.",
+   "summary": "This filing note records a report dated February 13, 1934 from Dairen and associated with Vincent. It refers the reader to file 800.5041/56 and says that a copy of the report was attached, although that report is not included in the supplied pages.",
+   "keywords": [
+    "cross-reference",
+    "wages",
+    "Dairen",
+    "Vincent",
+    "1934 wage report"
+   ]
+  }
+ ],
+ "interest": "The file preserves unusually granular evidence about industrial labor in the Japanese-administered Kwantung Leased Territory shortly after the 1931 occupation of Manchuria. The table permits comparisons across industries not only of wages but also of hours, overtime, payment currencies, lodging, food, and holidays, while its currency note highlights the complications of comparing earnings during a period of low silver exchange. The two cross-reference sheets also reveal State Department filing practices and point historians toward related 1931 and 1934 wage reports for longitudinal comparison.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 42.1,
+  "identifier": "japan-internal-affairs-894c.5041-economic-matters-labor-1",
+  "file": "894C.5041 Economic Matters., Labor., Kwantung Leased Territory, Hours. Wages., October 16, 1931 - February 13, 1934 805.pdf",
+  "created": "2026-09-29 00:54:15"
+ }
+}

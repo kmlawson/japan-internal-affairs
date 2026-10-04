@@ -1,0 +1,188 @@
+{
+ "interest": "Shows the multi-agency clearance a businessman needed to visit occupied Japan in 1949.",
+ "keywords": [
+  "military permit",
+  "occupied Japan",
+  "SCAP",
+  "travel regulations",
+  "commercial travel",
+  "private trade",
+  "Department of Commerce",
+  "Department of State",
+  "Division of Protective Services",
+  "Pacific Military Permit Branch",
+  "Surplus Corporation of America",
+  "bank reference"
+ ],
+ "overview": "Isaac Flitterman's October 1949 application, for Surplus Corporation of America, to visit occupied Japan to supervise manufacturing contracts, with bank reference and State Department permit requirements.",
+ "people": [
+  {
+   "name": "Isaac Flitterman",
+   "role": "Representative seeking entry permit to Japan, Surplus Corporation of America",
+   "variants": [
+    "Mr. Isaac Flitterman",
+    "Isaac Flitterman",
+    "Cliterman"
+   ]
+  },
+  {
+   "name": "David Flitterman",
+   "role": "President and majority stockholder, Surplus Corporation of America",
+   "variants": [
+    "David Flitterman",
+    "Mr. David Flitterman",
+    "Mr. Flitterman"
+   ]
+  },
+  {
+   "name": "Walter F. Chappell",
+   "role": "Assistant Chief, Division of Protective Services, Department of State",
+   "variants": [
+    "Walter F. Chappell"
+   ]
+  },
+  {
+   "name": "F. R. Dansby",
+   "role": "Manager, Credit Department, Union Bank & Trust Co. of Los Angeles",
+   "variants": [
+    "F. R. Dansby"
+   ]
+  },
+  {
+   "name": "D. O'Brien",
+   "role": "Drafter, Division of Protective Services, Department of State",
+   "variants": [
+    "DO Brien"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON 25, D. C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles",
+    "Los Angeles 36",
+    "Los Angeles, Calif.",
+    "LOS ANGELES",
+    "LOS ANGELES 55, CALIF.",
+    "this city"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "State of California",
+    "Calif."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Informs Isaac Flitterman of the State Department and Army prerequisites for the issuance of a military permit to enter Japan.",
+   "date": "1949-10-27",
+   "doc_type": "speedletter",
+   "end_page": 1,
+   "from": "Walter F. Chappell (Assistant Chief, Division of Protective Services, Department of State)",
+   "keywords": [
+    "military permit",
+    "Department of State",
+    "Division of Protective Services",
+    "Pacific Military Permit Branch",
+    "Department of the Army",
+    "travel document"
+   ],
+   "start_page": 1,
+   "summary": "State tells Isaac Flitterman the Army can issue his Japan permit once he proves a valid travel document and onward entry permission.",
+   "title": "Speedletter from Walter F. Chappell to Isaac Flitterman regarding military permit for Japan",
+   "to": "Isaac Flitterman"
+  },
+  {
+   "about": "Application submitted by Surplus Corporation of America requesting permission for Isaac Flitterman to travel to Japan on commercial business.",
+   "date": "1949-10-13",
+   "doc_type": "application",
+   "end_page": 3,
+   "from": "David Flitterman (President, Surplus Corporation of America, on behalf of Isaac Flitterman)",
+   "keywords": [
+    "application",
+    "Department of Commerce",
+    "Office of International Trade",
+    "SCAP",
+    "Surplus Corporation of America",
+    "manufacturing contracts",
+    "Tokyo",
+    "Kobe"
+   ],
+   "start_page": 2,
+   "summary": "Surplus Corporation of America's Form IT-736 application for Isaac Flitterman to visit Tokyo and Kobe to supervise manufacturing contracts.",
+   "title": "Application for Permission to Visit Japan submitted by Surplus Corporation of America",
+   "to": "Department of Commerce (Office of International Trade) / SCAP / Department of State"
+  },
+  {
+   "about": "Bank reference letter attesting to the financial responsibility and credit standing of David Flitterman and Surplus Corporation of America.",
+   "date": "1949-10-13",
+   "doc_type": "letter",
+   "end_page": 4,
+   "from": "F. R. Dansby (Manager, Credit Department, Union Bank & Trust Co. of Los Angeles)",
+   "keywords": [
+    "bank reference",
+    "Union Bank & Trust Co.",
+    "credit rating",
+    "Surplus Corporation of America",
+    "David Flitterman",
+    "financial standing"
+   ],
+   "start_page": 4,
+   "summary": "Union Bank & Trust Co. of Los Angeles vouches for David Flitterman of Surplus Corporation of America as financially responsible.",
+   "title": "Letter of reference from Union Bank & Trust Co. of Los Angeles concerning Surplus Corporation of America",
+   "to": "Department of Commerce"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14924,
+   "output_tokens": 6537,
+   "thinking_tokens": 4851,
+   "cache_read_tokens": 0,
+   "total_tokens": 21461
+  },
+  "backend": "agy",
+  "seconds": 27.0,
+  "identifier": "japan-internal-affairs-894.11-japan-regulations-governing-2",
+  "file": "894.11 Japan, Regulations Governing, October 13, 1949 - November 16, 1949 1784.pdf",
+  "created": "2026-09-28 23:00:51"
+ }
+}

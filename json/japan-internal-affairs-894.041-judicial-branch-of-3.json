@@ -1,0 +1,102 @@
+{
+ "interest": "Trials for the 1932 Inukai, Inouye and Dan assassinations.",
+ "keywords": [
+  "Japan",
+  "National Courts",
+  "Department of State",
+  "Joseph C. Grew",
+  "May 15 Incident",
+  "League of Blood Incident",
+  "Inukai Tsuyoshi",
+  "Inoue Junnosuke",
+  "Dan Takuma",
+  "court martial",
+  "political assassination",
+  "military cadets"
+ ],
+ "overview": "List of Papers for 894.04 indexing Grew's 1933 report on trials for the assassins of Inouye, Dan and Premier Inukai.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Junnosuke Inoue",
+   "role": "Finance Minister",
+   "variants": [
+    "Finance Minister Inouye",
+    "Inouye"
+   ]
+  },
+  {
+   "name": "Takuma Dan",
+   "role": "Baron",
+   "variants": [
+    "Baron Dan"
+   ]
+  },
+  {
+   "name": "Tsuyoshi Inukai",
+   "role": "Premier",
+   "variants": [
+    "Premier Inukai"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers docket sheet indexing Despatch No. 490 from Tokyo concerning the public trials and court martials of the assassins of Inouye, Dan, and Premier Inukai.",
+   "date": "1933-08-09",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "National Courts",
+    "Japan",
+    "Joseph C. Grew",
+    "May 15 Incident",
+    "court martial",
+    "assassination",
+    "Inukai Tsuyoshi",
+    "Inoue Junnosuke",
+    "Dan Takuma"
+   ],
+   "start_page": 1,
+   "summary": "List of Papers for 894.04 indexing Grew's Despatch No. 490 (1933) on trials of the 1932 assassins.",
+   "title": "List of Papers: National Courts - Japan (894.04/1)",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13772,
+   "output_tokens": 4184,
+   "thinking_tokens": 3245,
+   "cache_read_tokens": 0,
+   "total_tokens": 17956
+  },
+  "backend": "agy",
+  "seconds": 15.7,
+  "identifier": "japan-internal-affairs-894.041-judicial-branch-of-3",
+  "file": "894.041 Judicial Branch Of Government., Japan, National Courts.,  359.pdf",
+  "created": "2026-09-28 22:44:57"
+ }
+}

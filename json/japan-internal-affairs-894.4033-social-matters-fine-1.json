@@ -1,0 +1,121 @@
+{
+ "interest": "This file provides valuable insight into pre-World War II American diplomatic efforts to systematically assess Japanese technological and scientific capability. Rather than uncritically accepting the widespread contemporary Western stereotype of the Japanese as mere 'imitators' incapable of original invention, Consul Richard F. Boyce sought empirical evidence of Japanese innovation in specialized fields such as architecture. The correspondence also documents the intersection between U.S. foreign service reporting and civilian professional bodies like the American Institute of Architects, demonstrating how consular inquiries were routed back through the State Department.",
+ "keywords": [
+  "Architecture",
+  "Japan",
+  "Inventions",
+  "Scientific innovation",
+  "American Institute of Architects",
+  "Richard F. Boyce",
+  "Yokohama Consulate",
+  "Cultural stereotypes",
+  "Technology transfer",
+  "Consular reporting"
+ ],
+ "overview": "This file contains correspondence from April and May 1936 relating to an inquiry initiated by Richard F. Boyce, American Consul at Yokohama, Japan, regarding Japanese originality, inventions, and discoveries in modern science and architecture. Consul Boyce wrote to the American Institute of Architects in Washington, D.C., seeking a historical list of international architectural inventions since 1900 and an appraisal of Japanese influence on American architecture in order to evaluate the prevailing belief that the Japanese were merely imitators rather than innovators. In response, the Executive Secretary of the American Institute of Architects explained that providing a thorough answer exceeded the Institute's research facilities and forwarded Boyce's letter and the reply to the Department of State for further governmental assistance.",
+ "people": [
+  {
+   "name": "Richard F. Boyce",
+   "role": "American Consul at Yokohama, Japan",
+   "variants": [
+    "Mr. Boyce",
+    "Richard F. Boyce",
+    "Mr. Richard F. Boyce"
+   ]
+  },
+  {
+   "name": "Edward C. Kemper",
+   "role": "Executive Secretary, The American Institute of Architects",
+   "variants": [
+    "(S) L. (illegible)",
+    "Executive Secretary",
+    "ECK"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON, D.C.",
+    "Washington, D.C.",
+    "WASHINGTON, D. C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "The American Institute of Architects acknowledges Consul Boyce's inquiry concerning Japanese architectural inventions and refers the request to the State Department.",
+   "date": "1936-05-14",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Executive Secretary, The American Institute of Architects [Edward C. Kemper]",
+   "keywords": [
+    "American Institute of Architects",
+    "Richard F. Boyce",
+    "Department of State",
+    "Architecture",
+    "Inventions",
+    "Research assistance"
+   ],
+   "start_page": 1,
+   "summary": "In a letter dated May 14, 1936, the Executive Secretary of the American Institute of Architects at The Octagon in Washington, D.C., acknowledges receipt of American Consul Richard F. Boyce's letter of April 23. The secretary notes that responding adequately to Boyce's questions on architectural discoveries would require research work and facilities beyond the Institute's resources. Consequently, the Institute forwarded Boyce's inquiry and a copy of their response to the State Department, expressing confidence that Boyce would receive further assistance from a government agency.",
+   "title": "Letter from the American Institute of Architects to American Consul Richard F. Boyce",
+   "to": "Richard F. Boyce, American Consul, Yokohama, Japan"
+  },
+  {
+   "about": "Consul Boyce requests information from the American Institute of Architects on global architectural inventions since 1900 and the influence of Japanese discoveries on U.S. architecture.",
+   "date": "1936-04-23",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Richard F. Boyce, American Consul, Yokohama, Japan",
+   "keywords": [
+    "Richard F. Boyce",
+    "Yokohama",
+    "Architecture",
+    "Japanese inventions",
+    "Original research",
+    "Imitation vs innovation",
+    "American Consulate"
+   ],
+   "start_page": 2,
+   "summary": "Writing from the American Consulate in Yokohama on April 23, 1936, Consul Richard F. Boyce informs the American Institute of Architects that the consulate is investigating the Japanese capacity for original research and invention in modern science and industry. Boyce notes that prevailing public and scholarly opinion often dismisses the Japanese as mere imitators rather than original thinkers without examining underlying stimuli. To evaluate the volume and impact of Japanese innovation, he requests a chronological list of major architectural inventions worldwide since 1900 and an assessment of any effects Japanese architectural discoveries have had in the United States.",
+   "title": "Letter from American Consul Richard F. Boyce to the American Institute of Architects",
+   "to": "American Institute of Architects, Washington, D.C."
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14133,
+   "output_tokens": 5154,
+   "thinking_tokens": 4048,
+   "cache_read_tokens": 0,
+   "total_tokens": 19287
+  },
+  "backend": "agy",
+  "seconds": 19.0,
+  "identifier": "japan-internal-affairs-894.4033-social-matters-fine-1",
+  "file": "894.4033 Social Matters., Fine Arts., Japan, Architecture., April 23, 1936 - May 14, 1936 911.pdf",
+  "created": "2026-09-29 05:19:29"
+ }
+}

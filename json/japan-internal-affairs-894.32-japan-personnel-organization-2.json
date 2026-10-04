@@ -1,0 +1,126 @@
+{
+ "interest": "This file bundle provides insight into U.S. monitoring of Imperial Japanese Navy command structures and leadership transitions during the pivotal months preceding the outbreak of the Pacific War in 1941. In particular, the docket sheet records Washington's tracking of the April 1941 replacement of Prince Fushimi by Admiral Osami Nagano as Chief of the Naval General Staff, an appointment of immense historical significance as Nagano went on to approve the Pearl Harbor operation. Furthermore, the routing slip from Under Secretary Sumner Welles illustrates the administrative mechanics and drafting workflow within the State Department and its Division of Far Eastern Affairs during a critical juncture in U.S.–Japanese diplomacy.",
+ "keywords": [
+  "Japanese Navy",
+  "Naval General Staff",
+  "Osami Nagano",
+  "Prince Fushimi",
+  "Joseph C. Grew",
+  "Sumner Welles",
+  "Maxwell M. Hamilton",
+  "Far Eastern Affairs",
+  "naval intelligence",
+  "flag officers",
+  "Shanghai",
+  "personnel"
+ ],
+ "overview": "This file consists of records from State Department decimal file 894.32, concerning personnel, leadership, and organization of the Imperial Japanese Navy during 1941. The file includes a Department of State 'List of Papers' docket sheet compiled in October 1945 that inventories communications received between April and November 1941, such as Ambassador Joseph C. Grew's report on the appointment of Admiral Osami Nagano to succeed Prince Fushimi as Chief of the Naval General Staff, Naval Attaché reports on personnel changes and Shanghai station commanders, and an Office of Naval Intelligence roster of flag officers. Accompanying the docket sheet is an internal July 1941 memorandum from Under Secretary of State Sumner Welles directing Maxwell M. Hamilton, Chief of the Division of Far Eastern Affairs, to draft a reply for his signature.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Prince Fushimi",
+   "role": "Chief of the Naval General Staff",
+   "variants": [
+    "Prince Fushimi"
+   ]
+  },
+  {
+   "name": "Osami Nagano",
+   "role": "Admiral; Chief of the Naval General Staff",
+   "variants": [
+    "Admiral Osami Nagano"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "Under Secretary of State",
+   "variants": [
+    "THE UNDER SECRETARY",
+    "SW"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Mr. Hamilton"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet summarizing communications received between April and November 1941 regarding Japanese Navy personnel and leadership appointments.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Japanese Navy",
+    "List of Papers",
+    "Naval General Staff",
+    "Osami Nagano",
+    "Prince Fushimi",
+    "flag officers",
+    "Shanghai",
+    "naval intelligence"
+   ],
+   "start_page": 1,
+   "summary": "This 'List of Papers' docket sheet (Form DS-46) indexes four communications received in 1941 under decimal file 894.32 concerning Japanese Navy personnel. It notes an April 9 telegram from Ambassador Joseph C. Grew reporting press announcements that Admiral Osami Nagano would replace Prince Fushimi as Chief of the Naval General Staff. It also records September and November transmissions from the Naval Attaché and the Navy Department containing intelligence and updated records on Japanese flag officers, as well as a cross-reference to file 894.22/25 regarding commanders and staff stationed at Shanghai.",
+   "title": "List of Papers for File 894.32: Personnel — Japanese Navy",
+   "to": ""
+  },
+  {
+   "about": "A brief administrative memorandum from Under Secretary of State Sumner Welles requesting a draft reply from Maxwell M. Hamilton in the Division of Far Eastern Affairs.",
+   "date": "1941-07-12",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "Sumner Welles",
+   "keywords": [
+    "Sumner Welles",
+    "Maxwell M. Hamilton",
+    "Far Eastern Affairs",
+    "Department of State",
+    "draft reply"
+   ],
+   "start_page": 2,
+   "summary": "Under Secretary of State Sumner Welles directs Maxwell M. Hamilton, Chief of the Division of Far Eastern Affairs, to draft a reply for Welles's signature. The document is dated July 12, 1941, and bears routing markings for the Division of Far Eastern Affairs. The underlying correspondence being answered is not included in the file.",
+   "title": "Memorandum from the Under Secretary of State to Mr. Hamilton",
+   "to": "Maxwell M. Hamilton"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13912,
+   "output_tokens": 5116,
+   "thinking_tokens": 4010,
+   "cache_read_tokens": 0,
+   "total_tokens": 19028
+  },
+  "backend": "agy",
+  "seconds": 18.2,
+  "identifier": "japan-internal-affairs-894.32-japan-personnel-organization-2",
+  "file": "894.32 Japan, Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services.,  82.pdf",
+  "created": "2026-09-29 04:03:24"
+ }
+}

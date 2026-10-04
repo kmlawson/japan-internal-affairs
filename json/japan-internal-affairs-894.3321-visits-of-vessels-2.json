@@ -1,0 +1,83 @@
+{
+ "interest": "Japanese warships planning a Colombian port call.",
+ "keywords": [
+  "Japan",
+  "Colombia",
+  "Barranquilla",
+  "naval vessels",
+  "war vessels",
+  "port visits",
+  "Department of State",
+  "naval intelligence",
+  "foreign relations",
+  "William Dawson"
+ ],
+ "overview": "Docket for 894.3321: Dawson's 1937 despatch on two Japanese warships to visit Barranquilla.",
+ "people": [
+  {
+   "name": "William Dawson",
+   "role": "U.S. Minister to Colombia",
+   "variants": [
+    "Dawson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Barranquilla",
+   "variants": [
+    "Barranquilla"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "State Department List of Papers sheet recording an entry for a despatch from William Dawson concerning planned visits of Japanese naval vessels to Barranquilla, Colombia.",
+   "date": "1937-02-19",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "William Dawson",
+   "keywords": [
+    "Japan",
+    "Colombia",
+    "Barranquilla",
+    "naval vessels",
+    "war vessels",
+    "port visits",
+    "naval intelligence"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.3321: Japanese warships to visit Barranquilla, 1937.",
+   "title": "List of Papers: Visits of Japanese Vessels to Colombia",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13718,
+   "output_tokens": 10905,
+   "thinking_tokens": 10239,
+   "cache_read_tokens": 0,
+   "total_tokens": 24623
+  },
+  "backend": "agy",
+  "seconds": 38.3,
+  "identifier": "japan-internal-affairs-894.3321-visits-of-vessels-2",
+  "file": "894.3321 Visits Of Vessels And Aircraft Of Japan To Ports Of Colombia.,  465.pdf",
+  "created": "2026-09-29 04:28:26"
+ }
+}

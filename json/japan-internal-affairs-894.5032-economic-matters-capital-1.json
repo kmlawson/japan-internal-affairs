@@ -1,0 +1,165 @@
+{
+ "interest": "Shows 1930 Japanese credit relief for small businesses and zaibatsu bank cooperation amid early Depression strain.",
+ "keywords": [
+  "Japan",
+  "small merchants",
+  "rural credits",
+  "industrial credit associations",
+  "Savings Deposits Bureau",
+  "syndicate banks",
+  "credit investigation",
+  "industrial rationalization",
+  "Mitsui Bank",
+  "Mitsubishi",
+  "Industrial Bank of Japan",
+  "Great Depression"
+ ],
+ "overview": "This file (State Department decimal file 894.5032) consists of cross-reference sheets and accompanying report extracts prepared by the American Embassy in Tokyo between April and August 1930 concerning credit mechanisms, relief loans, and banking reorganization in Japan during the onset of the Great Depression. The April 1930 report documents Japanese government deliberations over a proposed 50-million-yen credit facility financed by the Savings Deposits Bureau through industrial credit associations to assist small merchants and industrialists facing severe economic hardship, noting contemporary skepticism regarding borrower solvency and productive utilization. The August 1930 report details meetings of Tokyo syndicate bank leaders—notably representing Mitsui, Mitsubishi, and the Industrial Bank of Japan—working to establish a cooperative credit investigation organ to facilitate coordinated financial accommodation and industrial rationalization, with plans to consult fellow bankers in Osaka and Nagoya.",
+ "people": [
+  {
+   "name": "William R. Castle, Jr.",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Castle"
+   ]
+  },
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d'Affaires ad interim to Japan",
+   "variants": [
+    "Neville"
+   ]
+  },
+  {
+   "name": "Seihin Ikeda",
+   "role": "Banker / Representative of the Mitsui Bank",
+   "variants": [
+    "Mr. Ikeda",
+    "Ikeda"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "State Department cross-reference sheet indexing an embassy report on Japanese government relief loans for small merchants and industrialists.",
+   "date": "1930-04-07",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "William R. Castle, Jr.",
+   "keywords": [
+    "cross-reference sheet",
+    "Japan",
+    "small merchants",
+    "loans",
+    "William R. Castle, Jr.",
+    "Department of State"
+   ],
+   "start_page": 1,
+   "summary": "Indexes an April 1930 embassy report on a Japanese government plan to aid distressed small merchants and industrialists.",
+   "title": "Cross-Reference Sheet for Report on Loans to Small Merchants",
+   "to": "Department of State"
+  },
+  {
+   "about": "Embassy report discussing a proposed fifty-million-yen government credit plan for distressed small merchants and industrialists.",
+   "date": "1930-04-07",
+   "doc_type": "report",
+   "end_page": 3,
+   "from": "American Embassy, Tokyo",
+   "keywords": [
+    "small merchants",
+    "industrialists",
+    "Savings Deposits Bureau",
+    "industrial credit associations",
+    "relief loans",
+    "debt readjustment"
+   ],
+   "start_page": 2,
+   "summary": "Embassy report: Japan planned about 50 million yen in individual loans (1,000-3,000 yen) via the Savings Deposits Bureau and industrial credit associations for debt relief, though observers doubted concrete benefit given uncertain security and likely quick exhaustion of funds.",
+   "title": "Embassy Report on Proposed Government Relief Loans for Small Merchants",
+   "to": "Department of State"
+  },
+  {
+   "about": "State Department cross-reference sheet indexing an embassy report on Tokyo syndicate bank discussions to establish a joint credit investigation organ.",
+   "date": "1930-08-01",
+   "doc_type": "cross-reference sheet",
+   "end_page": 4,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "cross-reference sheet",
+    "Japan",
+    "syndicate banks",
+    "Edwin L. Neville",
+    "credit investigation",
+    "industrial rationalization"
+   ],
+   "start_page": 4,
+   "summary": "Indexes an August 1930 report on Tokyo syndicate banks discussing a joint credit investigation body for industrial rationalization.",
+   "title": "Cross-Reference Sheet for Report on Bank Syndicate Credit Investigation Organ",
+   "to": "Department of State"
+  },
+  {
+   "about": "Embassy report detailing meetings among major Tokyo syndicate banks to establish an organ for cooperative credit investigation and industrial accommodation.",
+   "date": "1930-08-01",
+   "doc_type": "report",
+   "end_page": 6,
+   "from": "American Embassy, Tokyo",
+   "keywords": [
+    "syndicate banks",
+    "Tokyo",
+    "Mitsui Bank",
+    "Mitsubishi",
+    "Industrial Bank of Japan",
+    "credit investigation",
+    "industrial rationalization",
+    "Mr. Ikeda",
+    "Osaka",
+    "Nagoya"
+   ],
+   "start_page": 5,
+   "summary": "Report: Tokyo syndicate banks met in July 1930 to plan joint credit investigation machinery for industrial rationalization; a joint stock company proposal was dropped, and Industrial Bank, Mitsui, and Mitsubishi representatives were tasked with drafting an association plan, with Osaka and Nagoya consultations planned.",
+   "title": "Embassy Report on Syndicate Bank Proposal for Joint Credit Investigation Organ",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14259,
+   "output_tokens": 10991,
+   "thinking_tokens": 9372,
+   "cache_read_tokens": 0,
+   "total_tokens": 25250
+  },
+  "backend": "agy",
+  "seconds": 36.1,
+  "identifier": "japan-internal-affairs-894.5032-economic-matters-capital-1",
+  "file": "894.5032 Economic Matters., Capital., Japan, Cooperative Systems. Rural Credits., April 7, 1930 - August 1, 1930 706.pdf",
+  "created": "2026-09-29 08:19:21"
+ }
+}

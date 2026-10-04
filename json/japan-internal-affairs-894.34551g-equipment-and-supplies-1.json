@@ -1,0 +1,144 @@
+{
+ "interest": "Japan's 1941 demands for bases in southern Indochina.",
+ "keywords": [
+  "French Indochina",
+  "Japan",
+  "naval bases",
+  "air bases",
+  "Saigon",
+  "Hanoi",
+  "Chungking",
+  "Joseph C. Grew",
+  "Nelson T. Johnson",
+  "military mission",
+  "cross-reference sheet",
+  "World War II"
+ ],
+ "overview": "Two cross-references (May and July 1941) on Japanese demands for bases in southern Indochina.",
+ "people": [
+  {
+   "name": "Nelson T. Johnson",
+   "role": "U.S. Ambassador to China",
+   "variants": [
+    "Johnson"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "French Indochina"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi"
+   ]
+  },
+  {
+   "name": "Ho Chi Minh City",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet for a telegram from Chungking reporting Chinese Foreign Office intelligence on Japanese military demands for air and naval bases in Indochina and troop landings at Saigon.",
+   "date": "1941-05-09",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "China (Chungking) / Nelson T. Johnson",
+   "keywords": [
+    "French Indochina",
+    "Chungking",
+    "Hanoi",
+    "Saigon",
+    "air bases",
+    "naval bases",
+    "military mission",
+    "Chinese Foreign Office"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: Japan demands bases and landing rights at Saigon, May 1941.",
+   "title": "Cross-reference sheet for Telegram No. 180 from Chungking on Japanese demands for air and naval bases in Indochina",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Cross-reference sheet for a telegram from Ambassador Joseph C. Grew in Tokyo transmitting British intelligence regarding Japanese demands on France for bases in French Indochina.",
+   "date": "1941-07-16",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Japan (Joseph C. Grew)",
+   "keywords": [
+    "French Indochina",
+    "Tokyo",
+    "Joseph C. Grew",
+    "British Ambassador",
+    "London",
+    "France",
+    "naval bases",
+    "European War"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Grew's telegram on Japanese base demands in Indochina, July 1941.",
+   "title": "Cross-reference sheet for Telegram No. 1006 from Tokyo on Japanese demands for bases in French Indochina",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13964,
+   "output_tokens": 5331,
+   "thinking_tokens": 4100,
+   "cache_read_tokens": 0,
+   "total_tokens": 19295
+  },
+  "backend": "agy",
+  "seconds": 21.6,
+  "identifier": "japan-internal-affairs-894.34551g-equipment-and-supplies-1",
+  "file": "894.34551G Equipment And Supplies. Included Construction, Purchase And Sale Of Vessels. Repairs To Foreign Naval Vessels., Naval And Coaling Stations Of Japan In French Indo-China., May 9, 1941 - July 16, 1941 1285.pdf",
+  "created": "2026-09-29 04:54:28"
+ }
+}

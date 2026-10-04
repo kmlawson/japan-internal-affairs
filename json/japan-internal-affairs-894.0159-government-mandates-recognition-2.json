@@ -1,0 +1,95 @@
+{
+ "interest": "Public inquiries about Japan's national anthem, late 1930s.",
+ "keywords": [
+  "Japan",
+  "national anthem",
+  "Kimigayo",
+  "Department of State",
+  "Eugene H. Dooman",
+  "Erma Barnhart",
+  "Japanese Embassy",
+  "decimal file 894.0159",
+  "List of Papers",
+  "cultural diplomacy"
+ ],
+ "overview": "Docket records on Japan's national anthem: Erma Barnhart's request and Dooman's 1939 despatch enclosing copies.",
+ "people": [
+  {
+   "name": "Erma Barnhart",
+   "role": "Not stated (public inquirer)",
+   "variants": [
+    "Barnhart, Erma"
+   ]
+  },
+  {
+   "name": "Eugene H. Dooman",
+   "role": "Counselor of Embassy in Japan",
+   "variants": [
+    "Dooman"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Docket card recording an inquiry from Erma Barnhart requesting a copy of the Japanese national anthem and the Department of State's reply.",
+   "date": "",
+   "doc_type": "docket sheet",
+   "end_page": 1,
+   "from": "Erma Barnhart; Department of State",
+   "keywords": [
+    "Japan",
+    "national anthem",
+    "Erma Barnhart",
+    "Department of State",
+    "Japanese Embassy",
+    "public request"
+   ],
+   "start_page": 1,
+   "summary": "Docket card: Erma Barnhart asked for Japan's anthem; State had none and suggested the Embassy.",
+   "title": "Docket card on request by Erma Barnhart for Japanese national anthem",
+   "to": "Department of State; Erma Barnhart"
+  },
+  {
+   "about": "State Department List of Papers entry cross-referencing a despatch from Eugene H. Dooman in Japan transmitting copies of the Japanese national anthem.",
+   "date": "1939-07-06",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Eugene H. Dooman",
+   "keywords": [
+    "Japan",
+    "national anthem",
+    "Eugene H. Dooman",
+    "Despatch No. 4018",
+    "Department of State",
+    "cross-reference"
+   ],
+   "start_page": 2,
+   "summary": "Docket entry: Dooman's despatch No. 4018 of 1939 enclosing the Japanese national anthem.",
+   "title": "List of Papers entry for Despatch No. 4018 on Japanese national anthem",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13799,
+   "output_tokens": 4194,
+   "thinking_tokens": 3187,
+   "cache_read_tokens": 0,
+   "total_tokens": 17993
+  },
+  "backend": "agy",
+  "seconds": 15.7,
+  "identifier": "japan-internal-affairs-894.0159-government-mandates-recognition-2",
+  "file": "894.0159 Government. Mandates, Recognition., Flag., Japan, National Anthem.,  551.pdf",
+  "created": "2026-09-28 22:14:17"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "interest": "ONI report shared with State in 1940.",
+ "keywords": [
+  "Japan",
+  "Office of Naval Intelligence",
+  "Chief of Naval Operations",
+  "Navy Department",
+  "naval aviation",
+  "naval stations",
+  "military intelligence",
+  "organization",
+  "intelligence report",
+  "State Department decimal file 894.345"
+ ],
+ "overview": "ONI report No. 184-40 (November 1940) on Japanese naval aviation and stations; only the cover and index survive.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S.",
+    "U. S. M. C."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "An Office of Naval Intelligence report cover and classification index concerning Japanese aviation organization and naval stations.",
+   "date": "1940-11-01",
+   "doc_type": "report",
+   "end_page": 2,
+   "from": "Intelligence Division, Office of the Chief of Naval Operations, Navy Department",
+   "keywords": [
+    "Japan",
+    "naval aviation",
+    "naval stations",
+    "Office of Naval Intelligence",
+    "military intelligence",
+    "Report No. 184-40"
+   ],
+   "start_page": 1,
+   "summary": "ONI report No. 184-40 cover sheet on Japanese aviation, organization and stations.",
+   "title": "Office of Naval Intelligence Report No. 184-40: Japan - Aviation, Organization, Stations",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14468,
+   "output_tokens": 3392,
+   "thinking_tokens": 2756,
+   "cache_read_tokens": 0,
+   "total_tokens": 17860
+  },
+  "backend": "agy",
+  "seconds": 16.5,
+  "identifier": "japan-internal-affairs-894.345-internal-affairs-of",
+  "file": "894.345, Internal Affairs Of States, Equipment And Supplies. Included Construction, Purchase And Sale Of Vessels. Repairs To Foreign Naval Vessels., Naval And Coaling Stations Of Japan In Country. Stationing Of Colliers.,  1.pdf",
+  "created": "2026-09-29 04:50:28"
+ }
+}

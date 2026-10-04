@@ -1,0 +1,842 @@
+{
+ "overview": "This file documents a State Department and SCAP investigation into allegations that approximately 10,000 metric tons of Japanese electrolytic copper, sold in 1949 under contracts restricting final consumption to European Recovery Program countries, were diverted through London and Antwerp to Soviet-bloc destinations, especially Poland and Czechoslovakia. It contains despatches from the U.S. Political Adviser in Tokyo, memoranda recording information from competing American metal traders and a former contracting representative, SCAP shipping and payment data, instructions to the embassies in London and Brussels, and the embassies’ preliminary findings. The London inquiry found no evidence of transshipment to Poland, although it discovered authorized Barnett shipments to the Netherlands; the Brussels investigation was delayed by the failure to receive detailed shipping data. Together, the documents illuminate early Cold War strategic-export controls, SCAP’s management of Japanese trade, commercial rivalries in the metals market, and the practical difficulties of tracing international re-exports.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "LONDON",
+    "Port of London"
+   ]
+  },
+  {
+   "name": "Brussels",
+   "variants": [
+    "Brussels",
+    "BRUSSELS",
+    "Brussels, Belgium"
+   ]
+  },
+  {
+   "name": "Antwerp",
+   "variants": [
+    "Antwerp"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland",
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czechoslovakia"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Russia",
+    "USSR"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Communist China"
+   ]
+  },
+  {
+   "name": "The Hague",
+   "variants": [
+    "The Hague"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Eastern Europe",
+   "variants": [
+    "Eastern Europe"
+   ]
+  },
+  {
+   "name": "Western Europe",
+   "variants": [
+    "Western European nations",
+    "Western European countries"
+   ]
+  },
+  {
+   "name": "Eastern Bloc",
+   "variants": [
+    "Satellite Areas",
+    "satellite areas",
+    "satellite countries",
+    "Soviet satellite countries",
+    "USSR satellite countries",
+    "USSR satellite areas",
+    "Iron Curtain nations",
+    "Iron Curtain areas",
+    "Iron Curtain countries",
+    "countries behind the Iron Curtain"
+   ]
+  },
+  {
+   "name": "European Recovery Program countries",
+   "variants": [
+    "ECA countries",
+    "ECA country, Europe"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Hungary",
+   "variants": [
+    "Hungary"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York City",
+    "New York"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "SANFRANCISCO"
+   ]
+  },
+  {
+   "name": "Rotterdam",
+   "variants": [
+    "Rotterdam"
+   ]
+  },
+  {
+   "name": "Aschaffenburg",
+   "variants": [
+    "Aschaffenburg"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "West Germany",
+   "variants": [
+    "Western Germany"
+   ]
+  },
+  {
+   "name": "Rhine River",
+   "variants": [
+    "Rhine"
+   ]
+  },
+  {
+   "name": "Danube River",
+   "variants": [
+    "Danube"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Peter Kalischer",
+   "role": "United Press correspondent in Tokyo",
+   "variants": [
+    "Mr Peter KALISCHER",
+    "Mr. Kalischer"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General commanding SCAP headquarters",
+   "variants": [
+    "Gen. MacArthur"
+   ]
+  },
+  {
+   "name": "Ralph J. Mitchell",
+   "role": "Official in the Foreign Trade and Commerce Division, Economic and Scientific Section, SCAP; investigator of the copper shipments",
+   "variants": [
+    "Colonel Ralph J. MITCHELL",
+    "Colonel Mitchell"
+   ]
+  },
+  {
+   "name": "William F. Marquat",
+   "role": "Major General and Chief of SCAP’s Economic and Scientific Section",
+   "variants": [
+    "Major General W. F. MARQUAT",
+    "General Marquet"
+   ]
+  },
+  {
+   "name": "Tracy S. Voorhees",
+   "role": "Under Secretary of the Army",
+   "variants": [
+    "Under Secretary of the Army Tracy S. VOORHEES"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald"
+   ]
+  },
+  {
+   "name": "Carl H. Boehringer",
+   "role": "Economic Counselor, Office of the U.S. Political Adviser for Japan",
+   "variants": [
+    "Mr. Carl H. BOEHRINGER",
+    "Carl H. Boehringer",
+    "CARL H. BOEHRINGER",
+    "CHBoehringer"
+   ]
+  },
+  {
+   "name": "Carl D. Ross",
+   "role": "Representative of World Commerce Corporation",
+   "variants": [
+    "Mr. Carl D. ROSS",
+    "Mr. Ross"
+   ]
+  },
+  {
+   "name": "Hans A. Riess",
+   "role": "Representative of Philipp Bros., Inc.",
+   "variants": [
+    "Mr. Hans A. RIES",
+    "Mr. Hans A. RIESS",
+    "Mr. Ries",
+    "Mr. Riess"
+   ]
+  },
+  {
+   "name": "P. Riess",
+   "role": "Representative of Metal Traders, Inc.",
+   "variants": [
+    "Mr. P. RIESS"
+   ]
+  },
+  {
+   "name": "S. A. Newirth",
+   "role": "Representative of Associated Metals & Minerals Corporation",
+   "variants": [
+    "Mr. S. A. NEWIRTH",
+    "Mr. Newirth"
+   ]
+  },
+  {
+   "name": "Bruce Aitchison",
+   "role": "American lawyer in Tokyo and representative of the Felix Kramarsky Corporation",
+   "variants": [
+    "Mr. Bruce AITCHISON",
+    "Mr. Aitchison"
+   ]
+  },
+  {
+   "name": "S. J. Barnett",
+   "role": "Alleged nominal or dummy individual associated with the S. J. Barnett concern",
+   "variants": [
+    "Mr. S. L. Barnett",
+    "Barnett"
+   ]
+  },
+  {
+   "name": "Frank E. Pickelle",
+   "role": "Chief of SCAP’s Foreign Trade and Commerce Division",
+   "variants": [
+    "F. N. Pickelle",
+    "Mr. Frank E. PICKELLE"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "ACHESON",
+    "Achesson",
+    "ACNESON",
+    "H. Chosen"
+   ]
+  },
+  {
+   "name": "Joseph Bass",
+   "role": "Reported purchaser of copper resold by the Felix Kramarsky Corporation",
+   "variants": [
+    "Joseph Bass"
+   ]
+  },
+  {
+   "name": "Major Bridatt",
+   "role": "Army officer consulted during telegram clearance",
+   "variants": [
+    "Major Bridatt"
+   ]
+  },
+  {
+   "name": "Marshall",
+   "role": "Official noted as having cleared a telegram",
+   "variants": [
+    "Marshall"
+   ]
+  },
+  {
+   "name": "Millard",
+   "role": "U.S. Embassy official in Brussels and signer of telegram no. 1409",
+   "variants": [
+    "MILLARD"
+   ]
+  },
+  {
+   "name": "Ernest J. Simon",
+   "role": "Philipp Bros. representative; formerly represented Western Steel and Metals Corporation and Hugo Neu Corporation in Japan",
+   "variants": [
+    "Mr. Ernest J. SIMON",
+    "Mr. Simon"
+   ]
+  },
+  {
+   "name": "Hugo Neu",
+   "role": "Metal trader associated with Hugo Neu Corporation and the Japanese copper transactions",
+   "variants": [
+    "Mr. Neu"
+   ]
+  },
+  {
+   "name": "Mr. Popper",
+   "role": "Head of Western Steel and Metals Corporation",
+   "variants": [
+    "Mr. Popper",
+    "POPPER"
+   ]
+  },
+  {
+   "name": "Julius Lowenstein",
+   "role": "Reported director of S. J. Barnett Company; spelling noted as uncertain",
+   "variants": [
+    "Mr. Julius LOWENSTEIN"
+   ]
+  },
+  {
+   "name": "Mr. Truesdell",
+   "role": "Department of State official in EE",
+   "variants": [
+    "Mr. Truesdell"
+   ]
+  },
+  {
+   "name": "Mr. Reinhardt",
+   "role": "Department of State official in EE",
+   "variants": [
+    "Mr. Reinhardt"
+   ]
+  },
+  {
+   "name": "E. G. Posniak",
+   "role": "Department of State official in EE and author of the November 14 memorandum",
+   "variants": [
+    "Mr. Posniak",
+    "EGPosniak"
+   ]
+  },
+  {
+   "name": "Mr. Wright",
+   "role": "Department of State official in ER",
+   "variants": [
+    "Mr. Wright"
+   ]
+  },
+  {
+   "name": "C. T. White",
+   "role": "Department of State official in FE, Division of Northeast Asian Affairs",
+   "variants": [
+    "Mr. White",
+    "CTWhite"
+   ]
+  },
+  {
+   "name": "C. B. Duke",
+   "role": "Official of the European Recovery Department, British Foreign Office",
+   "variants": [
+    "Mr. C. B. Duke"
+   ]
+  },
+  {
+   "name": "Holmes",
+   "role": "U.S. Embassy official in London and signer of airgram A-2323",
+   "variants": [
+    "HOLMES"
+   ]
+  },
+  {
+   "name": "F. P. Bartlett",
+   "role": "Drafting officer for the London airgram",
+   "variants": [
+    "FPBartlett"
+   ]
+  },
+  {
+   "name": "C. J. Little",
+   "role": "Drafting official at the American Embassy in Brussels",
+   "variants": [
+    "CJLittle"
+   ]
+  },
+  {
+   "name": "Clyde W. Smith",
+   "role": "Official in the Office of International Trade who cleared the December 28 telegram",
+   "variants": [
+    "Clyde W. Smith"
+   ]
+  },
+  {
+   "name": "Wilson",
+   "role": "Official apparently noted in a telegram-clearance annotation",
+   "variants": [
+    "milson"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese copper exports",
+  "electrolytic copper",
+  "strategic materials",
+  "export controls",
+  "Iron Curtain",
+  "Soviet satellites",
+  "SCAP",
+  "Economic and Scientific Section",
+  "London transshipment",
+  "Antwerp transshipment",
+  "European Recovery Program",
+  "commercial intelligence",
+  "contract violations",
+  "metal traders",
+  "early Cold War"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch on suspected Japanese copper shipments to satellite areas",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 3,
+   "date": "1949-09-27",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "The Secretary of State",
+   "about": "Reports allegations that Japanese copper ostensibly sold for Western European consumption was being transshipped through London and Antwerp to Soviet-bloc countries.",
+   "summary": "Despatch no. 676 recounts United Press reports that SCAP and the State Department were investigating the possible diversion of Japanese electrolytic copper to Poland and Czechoslovakia. It explains that American metal traders had warned the Political Adviser’s office in August and that Ralph J. Mitchell had struggled to obtain prompt attention for the allegations within SCAP’s Economic and Scientific Section. Sebald supplies advance information and suggests that the Department consider directing inquiries by the embassies in London, Brussels, and possibly The Hague.",
+   "keywords": [
+    "copper diversion",
+    "SCAP investigation",
+    "United Press",
+    "London",
+    "Antwerp",
+    "Poland",
+    "Czechoslovakia",
+    "strategic exports"
+   ]
+  },
+  {
+   "title": "Memorandum of conversation with American metal traders",
+   "doc_type": "memorandum of conversation (enclosure)",
+   "start_page": 4,
+   "end_page": 6,
+   "date": "1949-08-30",
+   "from": "Carl H. Boehringer",
+   "to": "Office of the United States Political Adviser for Japan",
+   "about": "Records four metal traders’ allegations that Japanese copper sold for London and Antwerp was being diverted to Eastern Europe.",
+   "summary": "Carl Ross, Hans Riess, P. Riess, and S. A. Newirth argued that unusually high bids for Japanese copper suggested that buyers intended to resell it behind the Iron Curtain. They alleged that 3,000 tons sent to London went to Poland and that much of another 7,000 tons sent to Antwerp went to Poland, Hungary, Romania, or Czechoslovakia. They identified the Felix Kramarsky concern, Bruce Aitchison, and the nominal S. L. Barnett interests, while acknowledging that they also wanted access to the trade if SCAP permitted it.",
+   "keywords": [
+    "metal traders",
+    "price anomalies",
+    "London",
+    "Antwerp",
+    "Eastern Europe",
+    "Felix Kramarsky",
+    "S. J. Barnett",
+    "commercial rivalry"
+   ]
+  },
+  {
+   "title": "SCAP memorandum on shipments of electrolytic copper",
+   "doc_type": "memorandum (enclosure)",
+   "start_page": 7,
+   "end_page": 8,
+   "date": "1949-09-26",
+   "from": "F. N. Pickelle, Chief, Foreign Trade and Commerce Division",
+   "to": "Chief, Economic and Scientific Section",
+   "about": "Summarizes the contracts and allegations concerning the possible diversion of 10,000 tons of Japanese copper.",
+   "summary": "The memorandum states that SCAP released 10,000 metric tons of electrolytic copper for export under contracts restricting destination and final consumption. It cites a report that copper sent to Antwerp aboard the SS Meerkerk was moved by Rhine barges to Aschaffenburg for onward shipment via the Danube to Czechoslovakia. It lists the principal buyers, quantities, and contractual destinations and notes that Ralph Mitchell was preparing a fuller investigation.",
+   "keywords": [
+    "SCAP",
+    "electrolytic copper",
+    "SS Meerkerk",
+    "Rhine",
+    "Danube",
+    "Aschaffenburg",
+    "contracts",
+    "Czechoslovakia"
+   ]
+  },
+  {
+   "title": "Instructions to London to investigate Japanese copper shipments",
+   "doc_type": "telegram",
+   "start_page": 9,
+   "end_page": 11,
+   "date": "1949-10-20",
+   "from": "Department of State, signed Acheson",
+   "to": "American Embassy, London",
+   "about": "Transmits SCAP’s allegations and asks the London embassy to investigate possible contract violations and re-exports to Soviet satellites.",
+   "summary": "The telegram explains that 10,000 tons of Japanese copper had been cleared for sale to ECA countries but that rumors indicated diversions from London to Poland and from Antwerp through West Germany to Czechoslovakia. It identifies shipments by Metal Traders, Felix Kramarsky, and S. J. Barnett and names consignees in Antwerp and Brussels. London is asked to investigate, while SCAP is requested to provide ship names, sailing dates, intermediate consignees, and payment information.",
+   "keywords": [
+    "London investigation",
+    "SCAP",
+    "ECA countries",
+    "Poland",
+    "Czechoslovakia",
+    "consignees",
+    "contract violations"
+   ]
+  },
+  {
+   "title": "Instructions to Brussels to investigate Japanese copper shipments",
+   "doc_type": "telegram",
+   "start_page": 12,
+   "end_page": 14,
+   "date": "1949-10-20",
+   "from": "Department of State, signed Acheson",
+   "to": "American Embassy, Brussels",
+   "about": "Directs the Brussels embassy to investigate whether copper shipped to Antwerp was re-exported to Soviet-bloc destinations.",
+   "summary": "This parallel telegram repeats SCAP’s account of the 10,000-ton sale and the allegations concerning transshipment through London and Antwerp. It provides the buyers, quantities, addresses, and notified parties associated with 9,550 tons of copper, including the reported resale of Kramarsky copper to Joseph Bass in Brussels. The embassy is told that a controlled American source may assist its inquiry.",
+   "keywords": [
+    "Brussels investigation",
+    "Antwerp",
+    "Felix Kramarsky",
+    "Joseph Bass",
+    "controlled source",
+    "strategic copper",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Despatch on the status of SCAP’s copper investigation",
+   "doc_type": "despatch",
+   "start_page": 15,
+   "end_page": 16,
+   "date": "1949-09-30",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "The Secretary of State",
+   "about": "Reports that SCAP’s investigation was nearly complete but had been delayed by new representations from Bruce Aitchison.",
+   "summary": "Ralph Mitchell told the Economic Counselor that Bruce Aitchison had returned from New York with assurances that the Felix Kramarsky Corporation knew nothing of any diversion to satellite countries. The despatch describes Aitchison’s standing in the American Chamber of Commerce in Japan and the counselor’s belief that he would not knowingly participate in an improper transaction. Mitchell nevertheless withheld judgment and continued to advocate sending the completed findings to London, Brussels, and The Hague.",
+   "keywords": [
+    "Bruce Aitchison",
+    "Felix Kramarsky",
+    "Ralph Mitchell",
+    "SCAP investigation",
+    "American Chamber of Commerce",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Notice that promised shipping data had already been sent to Brussels",
+   "doc_type": "telegram",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1949-12-28",
+   "from": "Department of State, signed Acheson",
+   "to": "American Embassy, Brussels",
+   "about": "Advises Brussels that the data promised in the October investigation request was transmitted in the Department’s November 18 telegram.",
+   "summary": "The Department answers Brussels airgram A-1067 by pointing to Department telegram 1357 of November 18. That earlier telegram contained the detailed shipping data promised in the October 20 instructions.",
+   "keywords": [
+    "Brussels",
+    "shipping data",
+    "Department telegram 1357",
+    "administrative follow-up"
+   ]
+  },
+  {
+   "title": "Brussels acknowledgment of copper investigation request",
+   "doc_type": "telegram",
+   "start_page": 18,
+   "end_page": 18,
+   "date": "1949-10-21",
+   "from": "Millard, American Embassy Brussels",
+   "to": "The Secretary of State",
+   "about": "States that the embassy and Antwerp consulate will begin investigating once SCAP supplies identifying shipment data.",
+   "summary": "Brussels reports that it and the Consulate General at Antwerp are ready to investigate immediately. It stresses that ship names, destinations, sailing dates, and intermediate consignees are necessary to identify the copper and refers the Department to related reporting on Felix Kramarsky.",
+   "keywords": [
+    "Brussels embassy",
+    "Antwerp consulate",
+    "Felix Kramarsky",
+    "shipment identification",
+    "SCAP data"
+   ]
+  },
+  {
+   "title": "Despatch supplying further allegations about the Barnett contracts",
+   "doc_type": "despatch",
+   "start_page": 19,
+   "end_page": 20,
+   "date": "1949-11-07",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "The Secretary of State",
+   "about": "Forwards Ernest Simon’s account of his misgivings about contracts for Japanese copper shipped to S. J. Barnett Company.",
+   "summary": "Despatch no. 772 encloses a conversation in which Ernest Simon described signing copper contracts on instructions from Western Steel and Metals Corporation. Simon said he could not obtain satisfactory answers about the copper’s ultimate destination and consequently severed his connections with that company and Hugo Neu Corporation. Sebald treats the statements as unconfirmed allegations but considers them potentially useful to the London and Brussels investigations.",
+   "keywords": [
+    "Ernest Simon",
+    "S. J. Barnett",
+    "Western Steel and Metals",
+    "Hugo Neu",
+    "ultimate destination",
+    "London",
+    "Brussels"
+   ]
+  },
+  {
+   "title": "Memorandum of conversation with Ernest Simon and Hans Riess",
+   "doc_type": "memorandum of conversation (enclosure)",
+   "start_page": 21,
+   "end_page": 24,
+   "date": "1949-11-03",
+   "from": "Carl H. Boehringer",
+   "to": "Office of the United States Political Adviser for Japan",
+   "about": "Records Ernest Simon’s explanation of how he contracted for 3,150 tons of Japanese copper for S. J. Barnett and why he suspected the transaction.",
+   "summary": "Simon described the relationships among Hugo Neu, Mr. Popper, Western Steel and Metals Corporation, and S. J. Barnett Company, characterizing their use of him as an attempt to frame him. He supplied a preliminary contract for copper cathodes and telegrams showing that Popper insisted the stated destination and final consumption be changed from a general ECA destination to England. Simon said that neither Popper nor Barnett satisfactorily answered his later questions about the copper’s ultimate disposition, prompting him to end his associations with Neu and Popper.",
+   "keywords": [
+    "Ernest Simon",
+    "Hugo Neu",
+    "Mr. Popper",
+    "S. J. Barnett",
+    "copper contracts",
+    "letters of credit",
+    "England",
+    "commercial intermediaries"
+   ]
+  },
+  {
+   "title": "Detailed shipping data sent to Brussels",
+   "doc_type": "telegram",
+   "start_page": 25,
+   "end_page": 26,
+   "date": "1949-11-18",
+   "from": "Department of State, signed Acheson",
+   "to": "American Embassy, Brussels",
+   "about": "Provides ship, consignee, and payment details for Japanese copper consignments routed to Antwerp.",
+   "summary": "The telegram identifies shipments by Metal Traders aboard the SS Amsteldyk and by Felix Kramarsky aboard the SS Meerkerk, SS Amsteldyk, SS Surat, and SS Trein Maersk. It also identifies an Associated Metals and Minerals shipment from Kobe aboard the SS City of Liverpool. For each transaction it supplies intermediate and ultimate consignees and the New York banks handling dollar letters of credit.",
+   "keywords": [
+    "SS Amsteldyk",
+    "SS Meerkerk",
+    "SS Surat",
+    "SS Trein Maersk",
+    "SS City of Liverpool",
+    "Antwerp",
+    "letters of credit",
+    "consignees"
+   ]
+  },
+  {
+   "title": "Department memorandum on coordination of the copper inquiry",
+   "doc_type": "office memorandum",
+   "start_page": 27,
+   "end_page": 27,
+   "date": "1949-11-14",
+   "from": "E. G. Posniak",
+   "to": "Mr. Truesdell and Mr. Reinhardt",
+   "about": "Explains interdepartmental coordination and notes that firms involved in the copper transactions were already on a Commerce Department watch list.",
+   "summary": "Posniak records discussions with officials in the State and Commerce Departments concerning the SCAP telegram. He notes that London and Brussels had been asked to investigate, that additional shipment information had been requested from SCAP, and that some of the firms and individuals were already on a Commerce Department watch list because of suspicious transactions. The investigations were being coordinated with ECA missions because unauthorized re-exports might violate Section 117(d) of the Economic Cooperation Act.",
+   "keywords": [
+    "Commerce Department watch list",
+    "Economic Cooperation Act",
+    "ECA missions",
+    "export control",
+    "interagency coordination",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Detailed shipping and payment data sent to London",
+   "doc_type": "telegram",
+   "start_page": 28,
+   "end_page": 28,
+   "date": "1949-11-18",
+   "from": "Department of State, signed Acheson",
+   "to": "American Embassy, London",
+   "about": "Identifies the ships and financial arrangements used for S. J. Barnett’s copper shipments from Japan to London.",
+   "summary": "The telegram lists the SS Benlomond, SS Radnorshire, and SS City of Liverpool, with their July and August departures from Kobe or Yokohama. S. J. Barnett and Company was both intermediate and ultimate consignee. Payment was arranged in sterling through Leopold Joseph and Sons and Lloyds Bank in London.",
+   "keywords": [
+    "S. J. Barnett",
+    "SS Benlomond",
+    "SS Radnorshire",
+    "SS City of Liverpool",
+    "Kobe",
+    "Yokohama",
+    "sterling credit"
+   ]
+  },
+  {
+   "title": "London report on alleged re-export of copper to Poland",
+   "doc_type": "airgram",
+   "start_page": 29,
+   "end_page": 30,
+   "date": "1949-12-07",
+   "from": "Holmes, American Embassy London",
+   "to": "Department of State, Department of Commerce, and Treasury",
+   "about": "Reports British findings that no evidence substantiated the alleged transshipment of Japanese copper from London to Poland.",
+   "summary": "The airgram transmits a British Foreign Office letter stating that neither official inquiries nor Port of London customs records disclosed copper transshipments to Poland between July and October 1949. British officials did learn that S. J. Barnett had received currency-control permission for shipments from Japan to the Netherlands and for one import into Britain for re-export to the Netherlands. They judged that even a confirmed diversion might not breach British security regulations because copper was only a 1B item, although it could violate the original sales contract.",
+   "keywords": [
+    "British Foreign Office",
+    "Port of London",
+    "Poland",
+    "S. J. Barnett",
+    "Netherlands",
+    "customs records",
+    "1B item",
+    "contract breach"
+   ]
+  },
+  {
+   "title": "Brussels request for missing shipment information",
+   "doc_type": "airgram",
+   "start_page": 31,
+   "end_page": 31,
+   "date": "1949-12-08",
+   "from": "American Embassy, Brussels",
+   "to": "The Secretary of State",
+   "about": "States that Brussels had not received the promised identifying data needed to conduct its copper investigation.",
+   "summary": "The embassy refers to the Department’s October 20 instructions and notes that it had received none of the promised particulars concerning ships, consignees, or payment methods. It asks that the data be supplied if the Department still wants the embassy and Antwerp consulate to investigate.",
+   "keywords": [
+    "Brussels",
+    "missing data",
+    "Antwerp consulate",
+    "shipping information",
+    "investigation delay"
+   ]
+  },
+  {
+   "title": "Request for fuller London inquiry into Barnett exports",
+   "doc_type": "telegram",
+   "start_page": 32,
+   "end_page": 32,
+   "date": "1949-12-28",
+   "from": "Department of State and Department of Commerce, signed Acheson",
+   "to": "American Embassy, London",
+   "about": "Asks London to determine whether the Barnett exports mentioned by British authorities were the same transactions identified in the October investigation request.",
+   "summary": "Responding to London airgram A-2323, the Department asks whether Barnett’s authorized exportations were identical to the shipments listed in part 3C of the October 20 telegram. London is instructed to report fully on the purchasers, destinations, and related particulars.",
+   "keywords": [
+    "Barnett exports",
+    "London inquiry",
+    "Netherlands",
+    "purchaser",
+    "destination",
+    "State-Commerce coordination"
+   ]
+  }
+ ],
+ "interest": "The file is especially valuable because it preserves the entire investigative chain—from competitors’ market-based suspicions and press reports through SCAP contract records, ship names, consignee addresses, banking arrangements, and embassy inquiries. It shows how early Cold War export enforcement depended on commercial intelligence and interagency cooperation but was complicated by jurisdictional gaps, delayed communications, ambiguous British controls, and the difficulty of proving a commodity’s final destination. The candid testimony of Ernest Simon and the traders’ admission that commercial self-interest accompanied their security concerns offer unusually revealing evidence about the overlap between strategic policy, personal reputation, and rivalry in the postwar metals trade.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 204.6,
+  "identifier": "japan-internal-affairs-894.6352-mines-mining-concessions-4",
+  "file": "894.6352 Mines. Mining. Concessions., Base Metals., Japan, Copper., September 27, 1949 - December 28, 1949 1832.pdf",
+  "created": "2026-09-29 11:29:54"
+ }
+}

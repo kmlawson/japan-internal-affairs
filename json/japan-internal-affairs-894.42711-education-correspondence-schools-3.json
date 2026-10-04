@@ -1,0 +1,147 @@
+{
+ "interest": "Stanford's help for Kazuo Kawai's travel.",
+ "keywords": [
+  "Kazuo Kawai",
+  "Claude A. Buss",
+  "John M. Allison",
+  "Stanford University",
+  "Office of Far Eastern Affairs",
+  "Visiting Professor",
+  "Exit permit",
+  "Academic exchange",
+  "Cultural relations",
+  "Allied occupation of Japan",
+  "Travel clearance",
+  "Department of State"
+ ],
+ "overview": "1949 letters: Buss asks Allison to speed Kazuo Kawai's exit permit; it was already cleared.",
+ "people": [
+  {
+   "name": "Claude A. Buss",
+   "role": "Professor of History, Stanford University",
+   "variants": [
+    "Claude A. Buss",
+    "Claude",
+    "Dr. Claude A. Buss"
+   ]
+  },
+  {
+   "name": "John M. Allison",
+   "role": "Assistant Chief / Deputy Director for Far Eastern Affairs, Department of State",
+   "variants": [
+    "John Allison",
+    "Dear John",
+    "John M. Allison"
+   ]
+  },
+  {
+   "name": "Kazuo Kawai",
+   "role": "Visiting Professor",
+   "variants": [
+    "Kazuo Kawai",
+    "Professor Kawai"
+   ]
+  },
+  {
+   "name": "Max Bishop",
+   "role": "State Department official (role not stated in text)",
+   "variants": [
+    "Max Bishop"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Stanford, California",
+   "variants": [
+    "STANFORD, CALIFORNIA",
+    "Stanford",
+    "Stanford, California"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "CALIFORNIA",
+    "California"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Claude A. Buss requests John Allison's assistance in overcoming an administrative delay holding up an exit permit for visiting professor Kazuo Kawai.",
+   "date": "1949-07-15",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Claude A. Buss",
+   "keywords": [
+    "Claude A. Buss",
+    "John Allison",
+    "Kazuo Kawai",
+    "Stanford University",
+    "exit permit",
+    "Visiting Professor",
+    "Max Bishop",
+    "Far East"
+   ],
+   "start_page": 1,
+   "summary": "Buss asks Allison to speed Kazuo Kawai's exit permit for Stanford.",
+   "title": "Letter from Claude A. Buss to John Allison regarding exit permit for Kazuo Kawai",
+   "to": "John Allison"
+  },
+  {
+   "about": "John M. Allison informs Claude A. Buss that clearance for Kazuo Kawai was telegraphed to Japan on July 11, allowing him to sail on time.",
+   "date": "1949-07-20",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "John M. Allison",
+   "keywords": [
+    "John M. Allison",
+    "Claude A. Buss",
+    "Kazuo Kawai",
+    "travel clearance",
+    "telegram",
+    "Department of State",
+    "Stanford University"
+   ],
+   "start_page": 2,
+   "summary": "Allison tells Buss that Kawai's clearance was sent July 11.",
+   "title": "Letter from John M. Allison to Claude A. Buss confirming clearance for Kazuo Kawai",
+   "to": "Claude A. Buss"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13986,
+   "output_tokens": 4039,
+   "thinking_tokens": 2895,
+   "cache_read_tokens": 0,
+   "total_tokens": 18025
+  },
+  "backend": "agy",
+  "seconds": 16.2,
+  "identifier": "japan-internal-affairs-894.42711-education-correspondence-schools-3",
+  "file": "894.42711 Education. Correspondence Schools., Cultural Relations. Exchange Of Professors And Students. Attendance At Schools Of Japan Of Student Of United States. Admission And Visa Of Passports Of Official Students. Permission To Visit Sch 1741.pdf",
+  "created": "2026-09-29 07:08:59"
+ }
+}

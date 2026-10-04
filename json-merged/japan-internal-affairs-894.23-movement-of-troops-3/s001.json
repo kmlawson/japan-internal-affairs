@@ -1,0 +1,1466 @@
+{
+ "section_summary": "This section documents Japanese troop movements during the Manchurian Incident from late November 1931 through January 1932, including withdrawals and advances along the Peking–Mukden Railway, the occupation of towns, railway operations, and foreign observers’ reports. From February through early March 1932, the focus shifts to the Shanghai Incident: reinforcements sent from Japan, possible operations against Nanking, landings at Woosung and Shanghai, and the deployment of multiple Japanese divisions. The papers consist mainly of State Department telegrams and docket sheets, with one consular despatch and several memorandum or cross-reference sheets.",
+ "places": [
+  {
+   "name": "Angangxi",
+   "variants": [
+    "Angangchi"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping",
+    "Poiping",
+    "Feiping",
+    "Peking"
+   ]
+  },
+  {
+   "name": "Beijing–Shenyang Railway",
+   "variants": [
+    "Peking-Makden railway",
+    "Pekine-Mukden Railway",
+    "Peiping-Mukden ailwav",
+    "Peiping-Mukden Railway",
+    "Peking-iMukden railroad",
+    "Peiping-lukden Railway",
+    "Peiping-Mukden Railvay"
+   ]
+  },
+  {
+   "name": "Baiqibao",
+   "variants": [
+    "Paikipu"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchuen",
+    "Changchun"
+   ]
+  },
+  {
+   "name": "Changtu",
+   "variants": [
+    "Changtu"
+   ]
+  },
+  {
+   "name": "Zhanghuabang",
+   "variants": [
+    "Changwahpang"
+   ]
+  },
+  {
+   "name": "Zhabei",
+   "variants": [
+    "Chapei",
+    "Chapei District"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Jinzhou",
+   "variants": [
+    "Chinchow",
+    "Chinhsien",
+    "Ohinohow",
+    "Chinohow",
+    "Ohinchow"
+   ]
+  },
+  {
+   "name": "Qinhuangdao",
+   "variants": [
+    "Chinhoangtao",
+    "Chinwangtao",
+    "Ohinwangtao",
+    "Chingwangtao"
+   ]
+  },
+  {
+   "name": "Juliuhe",
+   "variants": [
+    "Chuliuho"
+   ]
+  },
+  {
+   "name": "Dahushan",
+   "variants": [
+    "Tahushan",
+    "Tahouchan"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Daling River",
+   "variants": [
+    "Talingho"
+   ]
+  },
+  {
+   "name": "Dawa",
+   "variants": [
+    "Tawo"
+   ]
+  },
+  {
+   "name": "Faku",
+   "variants": [
+    "Faku"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "French"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Great Wall of China",
+   "variants": [
+    "Great Wall"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Cantonese"
+   ]
+  },
+  {
+   "name": "Hailar",
+   "variants": [
+    "Hailar"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Hongkou",
+   "variants": [
+    "Hongkew",
+    "Hongkew wharf"
+   ]
+  },
+  {
+   "name": "Xinmin",
+   "variants": [
+    "Hsinmin"
+   ]
+  },
+  {
+   "name": "Yi County",
+   "variants": [
+    "Ihsien"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Rehe",
+   "variants": [
+    "Jehol",
+    "Johol"
+   ]
+  },
+  {
+   "name": "Jiangwan",
+   "variants": [
+    "Kiangwan"
+   ]
+  },
+  {
+   "name": "Jilin",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Korean"
+   ]
+  },
+  {
+   "name": "Goubangzi",
+   "variants": [
+    "Kowpangtza",
+    "Kowpangtze",
+    "Kowpangze"
+   ]
+  },
+  {
+   "name": "Goubangzi–Yingkou Railway",
+   "variants": [
+    "Kowpangze-Yingkow Railway"
+   ]
+  },
+  {
+   "name": "Liao River",
+   "variants": [
+    "Liao River"
+   ]
+  },
+  {
+   "name": "Liaoyang",
+   "variants": [
+    "Liaoyang"
+   ]
+  },
+  {
+   "name": "Lianshan",
+   "variants": [
+    "Lienhsien",
+    "Lienchan"
+   ]
+  },
+  {
+   "name": "Liuhe",
+   "variants": [
+    "Liuho"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking",
+    "Hanking"
+   ]
+  },
+  {
+   "name": "Nankai University",
+   "variants": [
+    "Nankai University"
+   ]
+  },
+  {
+   "name": "Nanxiang",
+   "variants": [
+    "Nanziang",
+    "Nedtngg"
+   ]
+  },
+  {
+   "name": "Shanghai North Railway Station",
+   "variants": [
+    "North Station"
+   ]
+  },
+  {
+   "name": "Newchwang",
+   "variants": [
+    "Newchang"
+   ]
+  },
+  {
+   "name": "Nippon Yusen Kaisha wharf, Shanghai",
+   "variants": [
+    "Nippon Yusen Kaisha waysido wharf",
+    "Nippon Yusen Kaisha wharf"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Fanama"
+   ]
+  },
+  {
+   "name": "Panshan",
+   "variants": [
+    "Panshan"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "PARIS",
+    "Paris"
+   ]
+  },
+  {
+   "name": "Peipiao",
+   "variants": [
+    "Peipiao",
+    "Feipiao"
+   ]
+  },
+  {
+   "name": "Shanghai International Settlement",
+   "variants": [
+    "Settlement",
+    "Settlomont"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shan hai",
+    "Shan&hai",
+    "SHANGHAI"
+   ]
+  },
+  {
+   "name": "Shanhaiguan",
+   "variants": [
+    "Shanhaiwan",
+    "Shanhaikwan",
+    "Shanhai Kwan",
+    "Shanhaikvan"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden",
+    "Makden",
+    "Hukden",
+    "lukden"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Supinekai"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "South Manchuria Railway zone"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway",
+   "variants": [
+    "South Hanchuria Railway",
+    "South Manchurian Railway"
+   ]
+  },
+  {
+   "name": "Suizhong",
+   "variants": [
+    "Suichung"
+   ]
+  },
+  {
+   "name": "Tanggu",
+   "variants": [
+    "Tangku"
+   ]
+  },
+  {
+   "name": "Taonan",
+   "variants": [
+    "Taonan"
+   ]
+  },
+  {
+   "name": "Tianzhuangtai",
+   "variants": [
+    "Tienchuantai"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "Tiontsin",
+    "THontsin"
+   ]
+  },
+  {
+   "name": "Tianjin Japanese Concession",
+   "variants": [
+    "Japanese concession"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Tongliao",
+   "variants": [
+    "Tungliao"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Tsitsihar",
+    "Tsitsinar"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washin ton",
+    "Wushington",
+    "Jashin ton",
+    "Washineton"
+   ]
+  },
+  {
+   "name": "Wusong",
+   "variants": [
+    "Woosung",
+    "Woosung forts",
+    "Woosung railway"
+   ]
+  },
+  {
+   "name": "Yingkou",
+   "variants": [
+    "Yingkow",
+    "Yingtow"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Perkins",
+   "role": "U.S. Legation officer in China who signed telegrams for the Minister",
+   "variants": [
+    "Perkins",
+    "PERKINS"
+   ]
+  },
+  {
+   "name": "Colonel Margetts",
+   "role": "Military attaché or observer at Chinchow",
+   "variants": [
+    "Margetts",
+    "Colonel Margetts"
+   ]
+  },
+  {
+   "name": "Lieutenant Aldrich",
+   "role": "American military observer operating between Chinchow and the Liao River",
+   "variants": [
+    "Aldrich",
+    "Lieutenant Aldrich"
+   ]
+  },
+  {
+   "name": "Shaw",
+   "role": "U.S. diplomatic officer in Paris",
+   "variants": [
+    "Shaw",
+    "SHAW"
+   ]
+  },
+  {
+   "name": "Charles G. Dawes",
+   "role": "U.S. ambassador and source of the Paris report",
+   "variants": [
+    "Ambassador Daves"
+   ]
+  },
+  {
+   "name": "Sweetser",
+   "role": "Author or source of a report on League Council proceedings",
+   "variants": [
+    "Sweetser"
+   ]
+  },
+  {
+   "name": "Alfred Sze",
+   "role": "Chinese diplomat participating in League Council discussions",
+   "variants": [
+    "Sze"
+   ]
+  },
+  {
+   "name": "Zhang Jinghui",
+   "role": "Chinese political figure reported traveling from Harbin to Qiqihar",
+   "variants": [
+    "Chang Ching Hui"
+   ]
+  },
+  {
+   "name": "Ma Zhanshan",
+   "role": "Chinese general associated with operations around Qiqihar",
+   "variants": [
+    "McVeagh"
+   ]
+  },
+  {
+   "name": "Lockhart",
+   "role": "U.S. consular officer at Tianjin",
+   "variants": [
+    "Lockhart",
+    "LOOKHART",
+    "Locichart"
+   ]
+  },
+  {
+   "name": "Forbes",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Forbes",
+    "FORBES"
+   ]
+  },
+  {
+   "name": "Lieutenant Cranford",
+   "role": "Assistant U.S. military attaché in Japan",
+   "variants": [
+    "Lieutenant Cranford"
+   ]
+  },
+  {
+   "name": "Nelson Trusler Johnson",
+   "role": "U.S. Minister to China and sender or recipient of several reports",
+   "variants": [
+    "Johnson",
+    "JOHNSON",
+    "Nelson Trusler Johnson"
+   ]
+  },
+  {
+   "name": "General Tamon",
+   "role": "Commander of a Japanese division advancing in western Liaoning",
+   "variants": [
+    "General Tamon",
+    "Tamon"
+   ]
+  },
+  {
+   "name": "Murai",
+   "role": "Name attached to a Japanese brigade arriving at Mukden",
+   "variants": [
+    "Murai"
+   ]
+  },
+  {
+   "name": "M. S. Myers",
+   "role": "American Consul General at Mukden",
+   "variants": [
+    "M. S. Myers",
+    "Myers"
+   ]
+  },
+  {
+   "name": "Lieutenant Colonel McIlroy",
+   "role": "Military attaché at Tokyo who reported Japanese troop dispositions",
+   "variants": [
+    "Lieutenant Colonel McIlroy",
+    "MeIlruy"
+   ]
+  },
+  {
+   "name": "Gilbert",
+   "role": "U.S. diplomatic officer at Geneva",
+   "variants": [
+    "Gilbert"
+   ]
+  },
+  {
+   "name": "Hawkling Yen",
+   "role": "Sender from the Chinese Legation",
+   "variants": [
+    "Hawkling Yen"
+   ]
+  },
+  {
+   "name": "Lieutenant Brown",
+   "role": "American military observer reporting from Mukden",
+   "variants": [
+    "Lieutenant Brown"
+   ]
+  },
+  {
+   "name": "Peck",
+   "role": "U.S. diplomatic officer at Nanking",
+   "variants": [
+    "Peck",
+    "PECK"
+   ]
+  },
+  {
+   "name": "Teijirō Toyoda",
+   "role": "Japanese admiral who briefed Ambassador Forbes about the Shanghai fighting",
+   "variants": [
+    "Admiral Toyada",
+    "Toyada"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese leader discussed in relation to the control of troops at Shanghai",
+   "variants": [
+    "Chiang"
+   ]
+  },
+  {
+   "name": "Kichisaburō Nomura",
+   "role": "Japanese admiral expected to assume responsibilities at Shanghai",
+   "variants": [
+    "Admiral Nomura",
+    "Nomura"
+   ]
+  },
+  {
+   "name": "Ohashi",
+   "role": "Japanese official at Harbin who requested troops from Changchun",
+   "variants": [
+    "Ohashi"
+   ]
+  },
+  {
+   "name": "Hanson",
+   "role": "U.S. consular officer at Harbin",
+   "variants": [
+    "Hanson",
+    "HANSON"
+   ]
+  },
+  {
+   "name": "William R. Castle Jr.",
+   "role": "U.S. Undersecretary of State",
+   "variants": [
+    "Castle"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department Division of Far Eastern Affairs official",
+   "variants": [
+    "Hornbeck",
+    "Hormbaak"
+   ]
+  },
+  {
+   "name": "Miller",
+   "role": "State Department Division of Far Eastern Affairs official",
+   "variants": [
+    "Miller"
+   ]
+  },
+  {
+   "name": "Colonel Washizu",
+   "role": "Military attaché of the Japanese Embassy",
+   "variants": [
+    "Colonel Washizu",
+    "Washizu"
+   ]
+  },
+  {
+   "name": "Major Bratton",
+   "role": "American military officer attending the War College in Tokyo",
+   "variants": [
+    "Major Bratton",
+    "Bratton"
+   ]
+  },
+  {
+   "name": "Lieutenant Dusenbury",
+   "role": "American military officer whose Japanese regiment was likely to be sent to China",
+   "variants": [
+    "Lieutenant Dusenbury",
+    "Dusenbury"
+   ]
+  },
+  {
+   "name": "Cunningham",
+   "role": "U.S. consular officer at Shanghai",
+   "variants": [
+    "Cunningham",
+    "Canningham"
+   ]
+  },
+  {
+   "name": "Captain Mayer",
+   "role": "Military reporter at Shanghai supplying information for the War Department",
+   "variants": [
+    "Captain Mayer",
+    "Mayer",
+    "AYTR"
+   ]
+  },
+  {
+   "name": "Lian Kwan-ying",
+   "role": "Commander of Chinese 21st Route Army troops west of Shanghai",
+   "variants": [
+    "Lian Kwan Ying"
+   ]
+  },
+  {
+   "name": "Feng Yuxiang",
+   "role": "Chinese military leader whose former troops formed part of the 21st Route Army",
+   "variants": [
+    "Feng"
+   ]
+  },
+  {
+   "name": "General Shirakawa",
+   "role": "Japanese general who issued a proclamation to Shanghai residents",
+   "variants": [
+    "General Shirakawa",
+    "Shirakawa"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "role": "Name appearing in the designation of a Japanese brigade in the troop-disposition table",
+   "variants": [
+    "Miresaki"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese military operations",
+  "Manchurian Incident",
+  "troop movements",
+  "Peking–Mukden Railway",
+  "Chinchow",
+  "Shanghai Incident",
+  "Tientsin",
+  "rail transport",
+  "military reinforcements",
+  "aerial reconnaissance",
+  "foreign military observers",
+  "League of Nations"
+ ],
+ "subfiles": [
+  {
+   "title": "Return of Japanese military trains from the Peking–Mukden Railway",
+   "doc_type": "document file note and telegram",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1931-11-29",
+   "from": "Perkins, U.S. Legation at Peiping, relaying Mukden",
+   "to": "Secretary of State",
+   "about": "Reports that Japanese military trains dispatched over the Peking–Mukden Railway had returned.",
+   "summary": "The docket sheet identifies telegram 1022 from China. Perkins relays a brief report from Mukden stating that Japanese military trains sent over the Peking–Mukden Railway had returned; the message was repeated to the Minister at Nanking.",
+   "keywords": [
+    "Japanese troop trains",
+    "Peking–Mukden Railway",
+    "Mukden",
+    "rail transport"
+   ]
+  },
+  {
+   "title": "Reported Japanese withdrawal to the Liao River",
+   "doc_type": "document file note and telegram",
+   "start_page": 3,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1931-12-02",
+   "from": "Perkins, U.S. Legation at Peiping, relaying the Military Attaché at Chinchow",
+   "to": "Secretary of State",
+   "about": "Reports a claimed Japanese withdrawal toward the Liao River and efforts to verify it through an observer.",
+   "summary": "The Chinese commander reported that Japanese forces had withdrawn to the Liao River, while damaged railways and severed communications prevented liaison with the Japanese. The Military Attaché attempted to send an observer toward the river to establish the facts but expected the mission to fail because communications to Hsinmin were cut. Mukden was asked to investigate the withdrawal from its side.",
+   "keywords": [
+    "Liao River",
+    "Japanese withdrawal",
+    "Chinchow",
+    "railway damage",
+    "military observers"
+   ]
+  },
+  {
+   "title": "Japanese forces transferred east of the Liao River",
+   "doc_type": "document file note and telegram",
+   "start_page": 6,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1931-12-03",
+   "from": "Perkins, U.S. Legation at Peiping, reporting Colonel Margetts",
+   "to": "Secretary of State",
+   "about": "Relays Lieutenant Aldrich's confirmation that nearly all Japanese forces had moved east of the Liao River.",
+   "summary": "Colonel Margetts reported that Lieutenant Aldrich reached the Liao River and found that all Japanese forces had transferred eastward except about 300 troops. Those remaining guarded Hsinmin and patrolled the railway toward Paikipu. Chinese repairs to the line between Dahushan and Hsinmin were expected shortly.",
+   "keywords": [
+    "Liao River",
+    "Hsinmin",
+    "railway patrol",
+    "Lieutenant Aldrich",
+    "Japanese withdrawal"
+   ]
+  },
+  {
+   "title": "League Council deliberations and military information from Manchuria",
+   "doc_type": "document file note and two-section telegram",
+   "start_page": 8,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1931-12-03",
+   "from": "Shaw, U.S. Embassy at Paris, transmitting reports from Ambassador Dawes and Sweetser",
+   "to": "Secretary of State",
+   "about": "Reviews League Council negotiations and distributes Chinese, British, and French reports on Japanese and Chinese military activity.",
+   "summary": "The first section describes a pause in League Council meetings while delegates awaited Japanese and Chinese replies concerning evacuation, neutral observers, and Chinchow. The second compiles reports of Japanese aerial reconnaissance, warships and reinforcements, activity at Harbin, withdrawal to Chuliuho, and plans to return a naval landing party from Tianjin to Tanggu. French observers estimated 27,600 Chinese personnel east of the Great Wall, including about 17,000 combat troops, in dispositions resembling those before September 18.",
+   "keywords": [
+    "League of Nations",
+    "Chinchow",
+    "neutral observers",
+    "aerial reconnaissance",
+    "Chinese forces",
+    "Japanese forces"
+   ]
+  },
+  {
+   "title": "Japanese withdrawals from Hailar and Taonan and other Manchurian activity",
+   "doc_type": "document file note and telegram",
+   "start_page": 13,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1931-12-04",
+   "from": "Perkins, U.S. Legation at Peiping, relaying the American Consul at Mukden",
+   "to": "Secretary of State",
+   "about": "Summarizes clashes, Chinese troop dispositions, and the withdrawal of most Japanese troops from the Hailar and Taonan districts.",
+   "summary": "Mukden reported continued Chinese activity near Qiqihar and minor clashes around Angangxi, while no new Chinese movement was seen in the Jinzhou area. Jehol troops had reached Goubangzi, armored trains operated east of the Daling River, and Chinese troops had looted Shanhaiguan. Japanese headquarters regarded Hailar and Taonan as quiet and withdrew most forces there into the South Manchuria Railway Zone; destroyed bridges continued to block rail traffic.",
+   "keywords": [
+    "Hailar",
+    "Taonan",
+    "Qiqihar",
+    "South Manchuria Railway Zone",
+    "destroyed bridges"
+   ]
+  },
+  {
+   "title": "Japanese detachment sent to Nankai University",
+   "doc_type": "document file note and telegram",
+   "start_page": 16,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1931-12-05",
+   "from": "Lockhart, U.S. Consulate at Tientsin",
+   "to": "Secretary of State and U.S. Legation at Peiping",
+   "about": "Reports the unexplained movement of a Japanese armored car, machine gun, and small detachment to Nankai University.",
+   "summary": "About fifteen or twenty Japanese soldiers accompanied an armored car and machine gun from the Japanese concession to Nankai University. The detachment remained near a hotel before returning. Lockhart viewed the movement into a previously quiet district as evidence of poor conciliation during strained relations.",
+   "keywords": [
+    "Nankai University",
+    "Tientsin",
+    "Japanese concession",
+    "armored car",
+    "machine gun"
+   ]
+  },
+  {
+   "title": "Observer verification of forces near Chinchow",
+   "doc_type": "document file note and telegram",
+   "start_page": 18,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1931-12-08",
+   "from": "Perkins, U.S. Legation at Peiping, relaying Colonel Margetts",
+   "to": "Secretary of State",
+   "about": "Reports direct observation of Chinese units around Chinchow and railway repairs near Yingkou.",
+   "summary": "Observers, including the American Military Attaché from Tokyo, personally checked the 19th and 20th Brigades and 13th Artillery Regiment reported near Faku and found the unit counts accurate. The entire 20th Brigade was in the immediate vicinity of Chinchow. Chinese laborers under British railway engineers were repairing the railway near Yingkou.",
+   "keywords": [
+    "Chinchow",
+    "Faku",
+    "foreign observers",
+    "Chinese brigades",
+    "railway repair"
+   ]
+  },
+  {
+   "title": "Additional Japanese troops for Manchuria and Tientsin",
+   "doc_type": "document file note and confidential telegram",
+   "start_page": 20,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "1931-12-17",
+   "from": "Forbes, U.S. Embassy at Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports Cabinet approval for Japanese reinforcements and General Staff thinking about pressure on Chinchow.",
+   "summary": "The Japanese General Staff informed the assistant military attaché that the Cabinet had approved approximately 4,000 additional troops for Manchuria and 1,000 for Tianjin, nominally to relieve a Korean brigade. A General Staff representative told Lieutenant Cranford that taking Chinchow might suppress bandit activity, although intimidation might cause Chinese troops to withdraw without fighting. Forbes instructed Cranford to reiterate American opposition to further military action against Chinese forces.",
+   "keywords": [
+    "Japanese reinforcements",
+    "Manchuria",
+    "Tientsin",
+    "Chinchow",
+    "General Staff",
+    "confidential"
+   ]
+  },
+  {
+   "title": "Railway battalion sent into the Changtu–Faku region",
+   "doc_type": "document file note and telegram",
+   "start_page": 23,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1931-12-21",
+   "from": "Perkins, U.S. Legation at Peiping, relaying the American Consul General at Mukden",
+   "to": "Secretary of State",
+   "about": "Reports the dispatch of a Japanese railway battalion against alleged bandits near Changtu and Faku.",
+   "summary": "Japanese headquarters stated that the First Railway Battalion had left Siping that morning to clear an estimated 7,000 bandits from the Changtu–Faku region. The report also notes an official reception celebrating the formation of the Provincial Government.",
+   "keywords": [
+    "railway battalion",
+    "Changtu",
+    "Faku",
+    "bandit suppression",
+    "Provincial Government"
+   ]
+  },
+  {
+   "title": "Additional Japanese troops at Newchwang",
+   "doc_type": "document file note or cross-reference sheet",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1931-12-23",
+   "from": "Gilbert, Geneva",
+   "to": "Secretary of State",
+   "about": "Records a report that 500 additional Japanese troops reached Newchwang from Liaoyang.",
+   "summary": "This page is a docket or cross-reference sheet for telegram 320 from Geneva. Its subject states that 500 additional Japanese troops arrived at Newchwang from Liaoyang; the underlying telegram is not present in this section.",
+   "keywords": [
+    "Newchwang",
+    "Liaoyang",
+    "Japanese reinforcements",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Expected arrival of 1,700 Japanese troops at Tientsin",
+   "doc_type": "document file note and telegram",
+   "start_page": 26,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1931-12-24",
+   "from": "Lockhart, U.S. Consulate at Tientsin",
+   "to": "Secretary of State and U.S. Legation at Peiping",
+   "about": "Reports that 1,700 Japanese troops were scheduled to arrive at Tientsin on December 26 and 27.",
+   "summary": "Japanese headquarters announced the impending arrival of 1,700 troops, including an artillery company with four field pieces, as a precautionary measure. Local observers believed the deployment presaged an attack on Chinchow within a week. Lockhart warned that the influx would greatly alarm the Chinese population.",
+   "keywords": [
+    "Tientsin",
+    "Japanese reinforcements",
+    "artillery",
+    "Chinchow",
+    "precautionary measures"
+   ]
+  },
+  {
+   "title": "Japanese brigade advancing from Yingkou toward Panshan",
+   "doc_type": "document file note and telegram",
+   "start_page": 28,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1931-12-28",
+   "from": "Johnson, U.S. Legation at Peiping, relaying the American Consul General at Mukden",
+   "to": "Secretary of State",
+   "about": "Reports a Japanese brigade crossing near Yingkou and marching through Tianzhuangtai toward Panshan.",
+   "summary": "A Japanese brigade with cavalry and artillery crossed the river at Yingkou, moved to Tianzhuangtai, and continued toward Panshan. Troops previously dispatched westward against bandits had returned to Liaoyang and Yingkou. Aircraft also departed Mukden in a westerly direction.",
+   "keywords": [
+    "Yingkou",
+    "Panshan",
+    "Japanese advance",
+    "cavalry",
+    "artillery",
+    "aircraft"
+   ]
+  },
+  {
+   "title": "Japanese attack and troop concentration at Dawa",
+   "doc_type": "document file note and telegram",
+   "start_page": 30,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1931-12-29",
+   "from": "Johnson, U.S. Legation at Peiping, relaying the Military Attaché at Chinchow",
+   "to": "Secretary of State",
+   "about": "Reports Japanese aircraft and ground forces engaging a Chinese armored train at Dawa.",
+   "summary": "Chinese headquarters observed Japanese aircraft over Yi County and a substantial combined force south of Dawa, including an armored train, armored vehicles, trucks, and cavalry. Japanese aircraft dropped six bombs on a Chinese armored train at Dawa, but missed, and the train returned fire. Four hundred Japanese cavalry were reported on the flank of the Chinese position.",
+   "keywords": [
+    "Dawa",
+    "aerial bombing",
+    "armored train",
+    "Japanese cavalry",
+    "Yi County"
+   ]
+  },
+  {
+   "title": "Capture of Panshan and troop trains from Mukden",
+   "doc_type": "document file note and telegram",
+   "start_page": 32,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1931-12-30",
+   "from": "Johnson, U.S. Legation at Peiping, relaying the American Consul General at Mukden",
+   "to": "Secretary of State",
+   "about": "Reports the capture of Panshan and extensive Japanese troop-train activity along the Peking–Mukden Railway.",
+   "summary": "Japanese forces reportedly captured Panshan and continued toward Goubangzi. Nine additional troop trains departed Mukden after midnight, while nine earlier trains unloaded at Hsinmin and returned. The operation appeared intended at least to suppress bandits in the triangle between the Liao River and the railway.",
+   "keywords": [
+    "Panshan",
+    "troop trains",
+    "Mukden",
+    "Hsinmin",
+    "bandit suppression"
+   ]
+  },
+  {
+   "title": "Japanese troops and equipment leaving Mukden",
+   "doc_type": "document file note and telegram",
+   "start_page": 34,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1931-12-30",
+   "from": "Johnson, U.S. Legation at Peiping, relaying the American Consul General at Mukden",
+   "to": "Secretary of State",
+   "about": "Reports large troop trains departing Mukden and Japanese brigades moving westward.",
+   "summary": "Four trains of twenty-nine cars each carried Japanese troops and equipment from Mukden over the Peking–Mukden Railway. The Murai Brigade had arrived at Mukden, while General Tamon's brigade was reportedly moving west along the Goubangzi–Yingkou Railway.",
+   "keywords": [
+    "Mukden",
+    "troop trains",
+    "Murai Brigade",
+    "General Tamon",
+    "railways"
+   ]
+  },
+  {
+   "title": "Tamon Division advance toward Goubangzi",
+   "doc_type": "document file note and telegram",
+   "start_page": 36,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1931-12-31",
+   "from": "Johnson, U.S. Legation at Peiping, relaying the American Consul General at Mukden",
+   "to": "Secretary of State",
+   "about": "Reports the continued Japanese advance beyond Panshan and the dispatch of additional trains from Mukden.",
+   "summary": "Japanese headquarters placed the Tamon Division eight miles northwest of Panshan. Troops advancing along the Peking–Mukden Railway had reached a wrecked bridge just east of Goubangzi, where repairs were nearly complete. Six more trains of troops left Mukden that afternoon.",
+   "keywords": [
+    "Tamon Division",
+    "Panshan",
+    "Goubangzi",
+    "bridge repair",
+    "troop trains"
+   ]
+  },
+  {
+   "title": "Disposition of Japanese troops in Manchuria",
+   "doc_type": "consular despatch with enclosed memorandum",
+   "start_page": 38,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1931-12-05",
+   "from": "M. S. Myers, American Consul General at Mukden",
+   "to": "Secretary of State; enclosure addressed to Nelson Trusler Johnson, American Minister at Peiping",
+   "about": "Transmits a military attaché's estimate of Japanese troop dispositions and railway-guard deployments in Manchuria.",
+   "summary": "Myers forwards a memorandum based on information supplied by Lieutenant Colonel McIlroy after his return from Qiqihar. It describes Japanese troop locations and notes that independent railway-guard battalions had been placed on lines beyond the South Manchuria Railway itself. The enclosed table estimates that Japan had slightly fewer than 30,000 men in Manchuria, with replacements likely raising the total above that figure.",
+   "keywords": [
+    "troop dispositions",
+    "Manchuria",
+    "Lieutenant Colonel McIlroy",
+    "railway guards",
+    "Japanese strength estimate"
+   ]
+  },
+  {
+   "title": "Japanese activity in the Qinhuangdao–Shanhaiguan area",
+   "doc_type": "document file note and telegram",
+   "start_page": 43,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1932-01-04",
+   "from": "Lockhart, U.S. Consulate at Tientsin",
+   "to": "Secretary of State and U.S. Legation at Peiping",
+   "about": "Reports bridge repair, reconnaissance flights, warships, and retreating Chinese troops around Qinhuangdao.",
+   "summary": "Japanese personnel were repairing the railway bridge at Lianshan, while some Chinese troops continued moving west through Qinhuangdao. Japanese aircraft conducted reconnaissance over the Qinhuangdao–Shanhaiguan area, and several Japanese warships lay at Qinhuangdao. None of the Chinese troops retreating from Chinchow had yet reached the Tianjin area.",
+   "keywords": [
+    "Qinhuangdao",
+    "Shanhaiguan",
+    "railway bridge",
+    "aerial reconnaissance",
+    "warships"
+   ]
+  },
+  {
+   "title": "Japanese forces at Shanhaiguan and Tientsin",
+   "doc_type": "document file note and telegram",
+   "start_page": 45,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1932-01-07",
+   "from": "Lockhart, U.S. Consulate at Tientsin",
+   "to": "Secretary of State and U.S. Legation at Peiping",
+   "about": "Reports Japanese entry into Shanhaiguan and an approximately 3,000-man garrison at Tientsin.",
+   "summary": "Japanese forces advancing toward Shanhaiguan reportedly reached the city without Chinese resistance and took control of telephone and telegraph lines to the east. Japanese authorities planned a review of their Tianjin troops, then numbering about 3,000, in the Japanese concession.",
+   "keywords": [
+    "Shanhaiguan",
+    "Tientsin",
+    "Japanese occupation",
+    "communications",
+    "troop review"
+   ]
+  },
+  {
+   "title": "Japanese troops transported on Chinese trains",
+   "doc_type": "document file note or cross-reference sheet",
+   "start_page": 47,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "1931-12-29",
+   "from": "Hawkling Yen, Chinese Legation",
+   "to": "U.S. Department of State",
+   "about": "Records a Chinese Legation communication concerning Japanese troops traveling on Chinese trains.",
+   "summary": "The page is a docket or cross-reference sheet for a communication from Hawkling Yen of the Chinese Legation. Its subject concerns the movement of Japanese troops on Chinese trains, but the underlying communication is not included here.",
+   "keywords": [
+    "Chinese Legation",
+    "Japanese troops",
+    "Chinese trains",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Lieutenant Brown's report on Japanese operations in Manchuria",
+   "doc_type": "document file note and telegram",
+   "start_page": 48,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1932-01-08",
+   "from": "Johnson, U.S. Legation at Peiping, relaying Lieutenant Brown at Mukden",
+   "to": "Secretary of State",
+   "about": "Assesses Japanese troop strength, railway control, possible operations in Jehol, and the army's political attitude.",
+   "summary": "Lieutenant Brown estimated that the 2nd and 20th Divisions and miscellaneous forces—about 15,000 men—controlled the railway from Mukden to Shanhaiguan. Animal transport requisitions suggested either an occupation of Jehol or a major anti-bandit campaign, while heavy artillery returned to Mukden and bridge materials moved south. Japanese officers credited the army with the successful advance, invoked a supposed agreement with the Marshal, and blamed the presence of Chinchow observers for encouraging Chinese guerrilla warfare.",
+   "keywords": [
+    "Japanese divisions",
+    "railway control",
+    "Jehol",
+    "animal transport",
+    "anti-bandit campaign",
+    "military attitude"
+   ]
+  },
+  {
+   "title": "Japanese troops entrained for Suizhong",
+   "doc_type": "document file note and telegram",
+   "start_page": 51,
+   "end_page": 52,
+   "continues_previous": false,
+   "date": "1932-01-13",
+   "from": "Lockhart, U.S. Consulate at Tientsin",
+   "to": "Secretary of State and U.S. Legation at Peiping",
+   "about": "Reports the departure of approximately 350 Japanese troops from Tientsin to Suizhong.",
+   "summary": "Approximately 350 Japanese troops boarded trains at Tianjin for Suizhong. Japanese authorities attributed the move to improved conditions in the Tianjin–Beijing area rather than reinforcement needs. Lockhart nevertheless suggested that it might relate to operations closing on Jehol from Chinchow.",
+   "keywords": [
+    "Suizhong",
+    "Tientsin",
+    "troop movement",
+    "Jehol",
+    "Chinchow"
+   ]
+  },
+  {
+   "title": "Japanese deployments between Shanhaiguan and Chinchow",
+   "doc_type": "document file note and telegram",
+   "start_page": 53,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1932-01-14",
+   "from": "Johnson, U.S. Legation at Peiping, summarizing Lieutenant Aldrich",
+   "to": "Secretary of State",
+   "about": "Summarizes Japanese withdrawals, garrisons, railway control, and naval deployments from Shanhaiguan to Chinchow.",
+   "summary": "Japanese troops and South Manchuria Railway personnel were pulling back toward Chinchow because Chinese cavalry threatened the Peipiao area, though small Japanese detachments remained at stations along the line. Brigade headquarters and two battalions were at Suizhong, while the 20th Division headquarters, an armored train, and many troops were at Chinchow. Japan sought Peipiao's coal supply and railway control, while cruisers, aircraft carriers, destroyers, and a transport were stationed at Shanhaiguan and Qinhuangdao.",
+   "keywords": [
+    "Chinchow",
+    "Shanhaiguan",
+    "Peipiao",
+    "South Manchuria Railway",
+    "naval deployments"
+   ]
+  },
+  {
+   "title": "Japanese occupation of Tongliao",
+   "doc_type": "document file note and telegram",
+   "start_page": 56,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1932-01-17",
+   "from": "Johnson, U.S. Legation at Peiping, relaying the American Consul General at Mukden",
+   "to": "Secretary of State",
+   "about": "Reports a Japanese battalion's occupation of Tongliao after expelling Chinese cavalry troops.",
+   "summary": "Japanese headquarters reported that a battalion occupied Tongliao on January 14 after ejecting some 3,000 alleged Chinese partisans, with sixty Chinese and no Japanese losses. Other information identified the supposed partisans as members of the Chinese Third Cavalry Brigade, about 1,000 of whom had been in the town.",
+   "keywords": [
+    "Tongliao",
+    "Japanese occupation",
+    "Third Cavalry Brigade",
+    "Chinese partisans",
+    "casualties"
+   ]
+  },
+  {
+   "title": "Prospect of Japanese military operations against Nanking",
+   "doc_type": "document file note and confidential telegram",
+   "start_page": 58,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1932-02-06",
+   "from": "Peck, U.S. mission at Nanking",
+   "to": "Secretary of State",
+   "about": "Warns that Nanking might enter the field of operations and cites a report that a Japanese division was bound for Shanghai or Nanking.",
+   "summary": "Peck believed Nanking would probably become involved in military operations, citing the presence of ten Japanese naval vessels, Chinese air activity, and the strategic value of occupying the capital. He also reported that the American Embassy at Tokyo had learned of an entire Japanese division being dispatched to Shanghai or Nanking. The confidential telegram was repeated to Peiping, Tokyo, and Shanghai.",
+   "keywords": [
+    "Nanking",
+    "Shanghai Incident",
+    "Japanese division",
+    "naval vessels",
+    "Chinese aircraft",
+    "confidential"
+   ]
+  },
+  {
+   "title": "Admiral Toyoda's account of the Shanghai fighting",
+   "doc_type": "document file note and telegram",
+   "start_page": 60,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1932-02-07",
+   "from": "Forbes, U.S. Embassy at Tokyo",
+   "to": "Secretary of State",
+   "about": "Records Admiral Toyoda's explanation of the Shanghai incident and the intended employment and landing of Japanese reinforcements.",
+   "summary": "Admiral Toyoda described the initial fighting as an unexpected Chinese attack and alleged that subsequent armistices had been broken, while admitting atrocities by lawless Japanese civilians. He said the incoming Japanese land forces were instructed to remain as defensive as possible and relieve exhausted marines. If passage up the river remained unobstructed they would land directly in the International Settlement; otherwise they might clear entrenched and sniper-held riverbanks. Admiral Nomura was expected to arrive and implement a proposed plan.",
+   "keywords": [
+    "Admiral Toyoda",
+    "Shanghai Incident",
+    "Japanese reinforcements",
+    "International Settlement",
+    "Woosung",
+    "armistice"
+   ]
+  },
+  {
+   "title": "Request for Japanese troops at Harbin",
+   "doc_type": "document file note and confidential telegram",
+   "start_page": 64,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1932-02-07",
+   "from": "Hanson, U.S. Consulate at Harbin",
+   "to": "Secretary of State",
+   "about": "Reports Ohashi's request for troops from Changchun and warns that their arrival could provoke looting in Harbin.",
+   "summary": "Ohashi privately informed the American, British, and French representatives that he had independently requested Japanese troops from Changchun. Hanson believed conditions did not justify the request. He feared that Chinese troops retreating before a Japanese advance might loot foreign property in Harbin.",
+   "keywords": [
+    "Harbin",
+    "Changchun",
+    "Japanese intervention",
+    "Chinese withdrawal",
+    "foreign property",
+    "confidential"
+   ]
+  },
+  {
+   "title": "Landing of Japanese land forces at Woosung",
+   "doc_type": "document file note for memorandum",
+   "start_page": 66,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "1932-02-08",
+   "from": "William R. Castle Jr., Undersecretary of State",
+   "to": "State Department files",
+   "about": "Records a memorandum concerning the first landing of Japanese army forces at Woosung on February 7.",
+   "summary": "This is a docket sheet for a State Department memorandum by Undersecretary Castle. The subject identifies the first landing of Japanese land forces at Woosung on February 7; the memorandum itself is not included in the section.",
+   "keywords": [
+    "Woosung",
+    "Japanese landing",
+    "land forces",
+    "State Department memorandum"
+   ]
+  },
+  {
+   "title": "Colonel McIlroy's estimate of Japanese troops for Shanghai",
+   "doc_type": "document file note for memorandum",
+   "start_page": 67,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1932-02-09",
+   "from": "Stanley K. Hornbeck, Division of Far Eastern Affairs",
+   "to": "State Department files",
+   "about": "Records McIlroy's estimate that incoming advance troops would bring Japanese strength at Shanghai to about 10,000.",
+   "summary": "The docket sheet describes a memorandum based on Colonel McIlroy's February 6 report. It states that advance troops were expected at Shanghai around February 8 or 9, raising the Japanese total there to approximately 10,000. The memorandum text is absent.",
+   "keywords": [
+    "Shanghai",
+    "Colonel McIlroy",
+    "troop estimate",
+    "Japanese reinforcements",
+    "memorandum"
+   ]
+  },
+  {
+   "title": "Japanese troops reported as having left Japan",
+   "doc_type": "document file note for memorandum",
+   "start_page": 68,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1932-02",
+   "from": "Miller, Division of Far Eastern Affairs",
+   "to": "State Department files",
+   "about": "Records a memorandum based on Colonel Washizu's statement about Japanese troops that had departed Japan.",
+   "summary": "This docket sheet identifies a Division of Far Eastern Affairs memorandum by Miller. Its subject is Japanese troop departures from Japan as described by Colonel Washizu, Military Attaché of the Japanese Embassy. No detailed troop list or memorandum text appears here.",
+   "keywords": [
+    "Colonel Washizu",
+    "Japanese troop departures",
+    "Japanese Embassy",
+    "memorandum"
+   ]
+  },
+  {
+   "title": "Decision to send the Japanese 11th Division to Shanghai",
+   "doc_type": "document file note or cross-reference sheet",
+   "start_page": 69,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1932-02-23",
+   "from": "U.S. Embassy in Japan",
+   "to": "Secretary of State",
+   "about": "Records a telegram concerning the decision to dispatch the Japanese 11th Division to Shanghai.",
+   "summary": "The page is a docket or cross-reference sheet for telegram 74 from Japan. Its subject notes the decision to send the Japanese 11th Division to Shanghai. The substantive telegram is not present in this section.",
+   "keywords": [
+    "11th Division",
+    "Shanghai",
+    "Japanese reinforcements",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "War Office announcement of additional divisions for Shanghai",
+   "doc_type": "document file note and telegram",
+   "start_page": 70,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1932-02-24",
+   "from": "Forbes, U.S. Embassy at Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports that two more Japanese divisions would go to Shanghai and that a third might follow.",
+   "summary": "Forbes describes rumors of a grave political and financial crisis and a possible coalition cabinet in Japan. The War Office announced that two additional divisions would be dispatched to Shanghai and suggested that a third might follow. Major Bratton received leave from the War College, while Lieutenant Dusenbury was transferred because his regiment might be ordered to China; strict press censorship impeded reliable reporting.",
+   "keywords": [
+    "War Office",
+    "Shanghai",
+    "Japanese divisions",
+    "political crisis",
+    "press censorship",
+    "military planning"
+   ]
+  },
+  {
+   "title": "Captain Mayer's report on military operations around Shanghai",
+   "doc_type": "document file note and telegram",
+   "start_page": 73,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1932-02-28",
+   "from": "Cunningham, U.S. Consulate at Shanghai, relaying Captain Mayer",
+   "to": "Secretary of State and War Department",
+   "about": "Reports Japanese replacements, the occupation of Jiangwan, supply arrangements, casualties, and Chinese troop deployments.",
+   "summary": "About 400 replacements for the 24th Brigade landed from the Shanghai Maru, supplementing roughly 900 reported arrivals two days earlier. Japanese forces claimed full occupation of Jiangwan and casualties of about 1,100, while using the Wusong railway from Zhanghuabang for supply. Captain Mayer also reported 2,000 Chinese 21st Route Army troops under Lian Kwan-ying west of Shanghai and supplied organizational details for the 87th and 88th Divisions. The whereabouts of the Japanese 11th Division remained uncertain.",
+   "keywords": [
+    "Shanghai",
+    "24th Brigade",
+    "Jiangwan",
+    "Wusong railway",
+    "21st Route Army",
+    "casualties"
+   ]
+  },
+  {
+   "title": "Reuters report of a Japanese army corps for Shanghai",
+   "doc_type": "document file note and telegram quoting a press report",
+   "start_page": 76,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1932-02-27",
+   "from": "Perkins, U.S. Legation at Peiping, forwarding Reuters from Shanghai",
+   "to": "Secretary of State",
+   "about": "Forwards a report that two Japanese divisions were en route to Shanghai and three more were mobilizing in Japan.",
+   "summary": "Perkins forwards a Reuters report from Shanghai stating that a Japanese army corps would soon take the field. A source described as very reliable said that two divisions were already traveling to Shanghai and three additional divisions were being mobilized in Japan.",
+   "keywords": [
+    "Reuters",
+    "Japanese army corps",
+    "Shanghai",
+    "troop mobilization",
+    "Japanese divisions"
+   ]
+  },
+  {
+   "title": "Shanghai situation and arrival of part of the 14th Division",
+   "doc_type": "document file note and telegram",
+   "start_page": 78,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1932-03-07",
+   "from": "Cunningham, U.S. Consulate at Shanghai",
+   "to": "Secretary of State",
+   "about": "Reports a lull in fighting, the landing of 14th Division troops, Japanese propaganda, and access controls in Zhabei.",
+   "summary": "Apart from minor skirmishes west of Nanxiang, the fronts had been quiet for three days. About 1,500 troops of the Japanese 14th Division arrived on four transports, landing at Nippon Yusen Kaisha and Hongkou wharves and at Liuhe; roughly 500 became reserves for the 9th Division. General Shirakawa distributed a Chinese-language proclamation while peace negotiations remained deadlocked. Japanese naval headquarters at the North Station regulated access to Zhabei, permitting foreigners with business there and Chinese holding municipal passes.",
+   "keywords": [
+    "Shanghai",
+    "14th Division",
+    "Nanxiang",
+    "Liuhe",
+    "General Shirakawa",
+    "Zhabei access controls"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 3,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.23 Movement Of Troops. Rules, Ect., Regarding Visits Of Foreign Military Bodies, 800.213**., November 29, 1931 - November 28, 1938 1059.pdf",
+  "seconds": 329.4,
+  "created": "2026-09-30 00:44:43",
+  "key": "japan-internal-affairs-894.23-movement-of-troops-3"
+ }
+}

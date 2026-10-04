@@ -1,0 +1,94 @@
+{
+ "interest": "State declines to endorse a Tsurumi novel.",
+ "keywords": [
+  "Japanese literature",
+  "List of Papers",
+  "Rae D. Henkle",
+  "Yusuke Tsurumi",
+  "The Mother",
+  "Japanese Diet",
+  "Library of Congress",
+  "Division of Far Eastern Affairs",
+  "Department of Justice",
+  "Special Division",
+  "Chronological table"
+ ],
+ "overview": "Docket for 894.4021: Henkle's request about Tsurumi's novel and loan of a Japanese literature table.",
+ "people": [
+  {
+   "name": "Yusuke Tsurumi",
+   "role": "Author and member of the Japanese Diet",
+   "variants": [
+    "Mr. Yusuke Tsurumi",
+    "Yusuke Tsurumi"
+   ]
+  },
+  {
+   "name": "Rae D. Henkle",
+   "role": "Publisher",
+   "variants": [
+    "Rae D. Henkle"
+   ]
+  },
+  {
+   "name": "Schmidt",
+   "role": "State Department Division of Far Eastern Affairs officer",
+   "variants": [
+    "Schmidt"
+   ]
+  },
+  {
+   "name": "Green",
+   "role": "State Department Special Division officer",
+   "variants": [
+    "Green"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State list of papers indexing correspondence and memoranda filed under decimal file 894.4021 regarding Japanese literature.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese literature",
+    "Rae D. Henkle",
+    "Yusuke Tsurumi",
+    "The Mother",
+    "Library of Congress",
+    "Far Eastern Affairs"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.4021: Tsurumi novel request and loan of a Japanese literature table.",
+   "title": "List of Papers on Japanese Literature (File 894.4021)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13852,
+   "output_tokens": 6947,
+   "thinking_tokens": 6191,
+   "cache_read_tokens": 0,
+   "total_tokens": 20799
+  },
+  "backend": "agy",
+  "seconds": 24.4,
+  "identifier": "japan-internal-affairs-894.4021-social-matters-language-3",
+  "file": "894.4021 Social Matters., Language., Japan, Literature.,  241.pdf",
+  "created": "2026-09-29 05:17:25"
+ }
+}

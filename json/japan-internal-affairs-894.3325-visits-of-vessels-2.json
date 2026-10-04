@@ -1,0 +1,131 @@
+{
+ "interest": "This file provides valuable insight into Axis naval diplomacy and intelligence operations during the early 1940s across two distinct theaters of World War II. The 1942 Chilean docket sheet illustrates Japan's covert attempts to influence Latin American neutrality and secure critical fuel resources by dangling warship visits before Chilean officials. Meanwhile, the 1940 French Indochina entry captures Vichy France's delicate handling and diplomatic resistance to Japanese naval pressure in Southeast Asia following the autumn 1940 crisis.",
+ "keywords": [
+  "Chile",
+  "French Indochina",
+  "naval visits",
+  "warships",
+  "fuel oil",
+  "Chilean neutrality",
+  "Nozan Miyoshi",
+  "H. Freeman Matthews",
+  "Secret Service",
+  "Pacific War",
+  "courtesy visit",
+  "cruisers"
+ ],
+ "overview": "This file comprises State Department 'List of Papers' docket sheets indexing records related to naval visits by Japanese vessels. The primary sheet for decimal classification 894.3325 (visits of Japanese vessels and aircraft to Chilean ports) cross-references a November 14, 1942 War Department intelligence report concerning Japanese agent Nozan Miyoshi, who purportedly approached Chilean officials with an offer for Japanese warships to visit Chile in exchange for fuel oil, an effort aimed at securing Chilean neutrality during World War II. An accompanying sheet, filed under or adjacent to this classification, records a November 22, 1940 telegram from U.S. diplomat H. Freeman Matthews in France detailing a Japanese request for a naval cruiser to make a courtesy visit to French Indochina (Saigon, mis-transcribed as Saipan), which French authorities sought to postpone.",
+ "people": [
+  {
+   "name": "Nozan Miyoshi",
+   "role": "Japanese Secret Service Agent",
+   "variants": [
+    "Nozan Miyoshi"
+   ]
+  },
+  {
+   "name": "H. Freeman Matthews",
+   "role": "U.S. Diplomat in France",
+   "variants": [
+    "Matthews"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Saigon",
+   "variants": [
+    "Saipan"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Record of a War Department intelligence report concerning a Japanese offer to send warships to Chile in exchange for fuel oil to preserve Chilean neutrality.",
+   "date": "1942-11-14",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "War Department",
+   "keywords": [
+    "Chile",
+    "Japan",
+    "War Department",
+    "Nozan Miyoshi",
+    "fuel oil",
+    "Chilean neutrality",
+    "warships",
+    "Pacific War"
+   ],
+   "start_page": 1,
+   "summary": "This docket sheet entry for decimal 894.3325 records a November 14, 1942 report from the War Department regarding Japanese intelligence activities in Chile. According to the document, Japanese secret service agent Nozan Miyoshi claimed to Chilean officials that he could arrange for four or five Japanese warships to visit Chile if provided with fuel oil for their return voyage. The report suggests this maneuver was intended to encourage Chile to maintain its neutrality in the Pacific War. The original communication is cross-referenced to file 740.0011 Pacific War/3020.",
+   "title": "List of papers entry on War Department report regarding proposed Japanese warship visit to Chile",
+   "to": "Department of State"
+  },
+  {
+   "about": "Record of a telegram from H. Freeman Matthews reporting on a Japanese request for a cruiser courtesy visit to French Indochina.",
+   "date": "1940-11-22",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "H. Freeman Matthews",
+   "keywords": [
+    "French Indochina",
+    "France",
+    "Japan",
+    "H. Freeman Matthews",
+    "cruiser",
+    "courtesy visit",
+    "Saigon",
+    "Vichy France"
+   ],
+   "start_page": 2,
+   "summary": "This docket sheet entry, filed under records for Japanese visits to French Indochina, summarizes a November 22, 1940 telegram from U.S. diplomat H. Freeman Matthews in France. It documents a Japanese request for permission for a cruiser to make a courtesy visit to French Indochina (Saigon, misread as Saipan) in early December 1940. The French government indicated that any formal request must be submitted directly to Vichy and that, under current circumstances, French authorities would request that the proposed visit be postponed. The original telegram is cross-referenced to file 751g.94/252.",
+   "title": "List of papers entry on Matthews telegram regarding requested Japanese cruiser visit to French Indochina",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13942,
+   "output_tokens": 8355,
+   "thinking_tokens": 7231,
+   "cache_read_tokens": 0,
+   "total_tokens": 22297
+  },
+  "backend": "agy",
+  "seconds": 27.6,
+  "identifier": "japan-internal-affairs-894.3325-visits-of-vessels-2",
+  "file": "894.3325 Visits Of Vessels And Aircraft Of Japan To Ports Of Chile.,  192.pdf",
+  "created": "2026-09-29 04:29:36"
+ }
+}

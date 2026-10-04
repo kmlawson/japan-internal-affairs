@@ -1,0 +1,163 @@
+{
+ "interest": "Japanese and Swedish spies in London serving Germany before Pearl Harbor.",
+ "keywords": [
+  "espionage",
+  "intelligence",
+  "Axis cooperation",
+  "London",
+  "Japan",
+  "Germany",
+  "Sweden",
+  "Genji Miura",
+  "Bucharest",
+  "Hong Kong",
+  "propaganda leaflets",
+  "S.S. Gripsholm"
+ ],
+ "overview": "Two papers on Japanese activity in Britain: Gunther's 1941 telegram on a spy ring for Germany and Grew's Hong Kong leaflets.",
+ "people": [
+  {
+   "name": "Franklin Mott Gunther",
+   "role": "U.S. Minister to Romania",
+   "variants": [
+    "GUNTHER"
+   ]
+  },
+  {
+   "name": "Genji Miura",
+   "role": "Head of a spy organization working for Germany; formerly connected with Kokusai Kisen Kaisha",
+   "variants": [
+    "Genji Miura"
+   ]
+  },
+  {
+   "name": "Svenson",
+   "role": "Minor employee of the Swedish Legation or newspaperman assisting German espionage",
+   "variants": [
+    "Svenson"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Bucharest",
+   "variants": [
+    "Bucharest"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Reports intelligence received in Bucharest regarding Japanese and Swedish espionage activities in London on behalf of Germany.",
+   "date": "1941-10-03",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Franklin Mott Gunther",
+   "keywords": [
+    "Bucharest",
+    "London",
+    "espionage",
+    "intelligence",
+    "Genji Miura",
+    "Svenson",
+    "Germany",
+    "Sweden",
+    "Kokusai Kisen Kaisha"
+   ],
+   "start_page": 1,
+   "summary": "Gunther reports that Japanese officials in London gave Germany intelligence, naming Genji Miura as head of a spy ring and a Swede named Svenson.",
+   "title": "Telegram from Gunther (Bucharest) on Japanese and Swedish Espionage in London for Germany",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "Cross-reference note for a despatch from Ambassador Joseph C. Grew transmitting Japanese propaganda leaflets dropped over Hong Kong.",
+   "date": "1942-08-08",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Hong Kong",
+    "propaganda",
+    "leaflets",
+    "aviation",
+    "Joseph C. Grew",
+    "S.S. Gripsholm",
+    "cross-reference"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Grew's 1942 despatch with Japanese leaflets dropped over Hong Kong.",
+   "title": "Cross-Reference Sheet for Despatch from Grew on Japanese Leaflets Dropped Over Hong Kong",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14080,
+   "output_tokens": 4233,
+   "thinking_tokens": 3116,
+   "cache_read_tokens": 0,
+   "total_tokens": 18313
+  },
+  "backend": "agy",
+  "seconds": 14.8,
+  "identifier": "japan-internal-affairs-894.20241-military-affairs-army-4",
+  "file": "894.20241 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In United Kingdom Including Gathering Of Information. Espionage. Propaganda.,  1361.pdf",
+  "created": "2026-09-29 01:59:37"
+ }
+}

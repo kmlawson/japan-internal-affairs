@@ -1,0 +1,111 @@
+{
+ "interest": "FBI tracking of Shigeo Ito over alleged passport fraud, 1941.",
+ "keywords": [
+  "Fraudulent passports",
+  "Passports",
+  "Japan",
+  "Department of Justice",
+  "Shigeo Ito",
+  "A.E. Slater",
+  "Laguna Beach",
+  "San Francisco",
+  "Los Angeles",
+  "Surveillance",
+  "State Department decimal file",
+  "Citizenship"
+ ],
+ "overview": "Docket for 894.012881 listing two 1941 FBI reports on Shigeo Ito and alleged passport fraud.",
+ "people": [
+  {
+   "name": "Shigeo Ito",
+   "role": "Subject of investigation",
+   "variants": [
+    "Shigeo Ito",
+    "Mr. Ito",
+    "Ito, Shigeo"
+   ]
+  },
+  {
+   "name": "A. E. Slater",
+   "role": "Special Agent, Department of Justice",
+   "variants": [
+    "A.E. Slater"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S."
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Laguna Beach",
+   "variants": [
+    "Laguna Beach"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "State Department docket sheet listing Department of Justice reports on Shigeo Ito regarding alleged fraudulent Japanese passports.",
+   "date": "1941",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Fraudulent passports",
+    "Department of Justice",
+    "Shigeo Ito",
+    "A.E. Slater",
+    "Laguna Beach",
+    "Los Angeles"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.012881: 1941 FBI reports on Shigeo Ito's move to Laguna Beach.",
+   "title": "List of Papers: Fraudulent Passports - Japan (File 894.012881)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13818,
+   "output_tokens": 5496,
+   "thinking_tokens": 4613,
+   "cache_read_tokens": 0,
+   "total_tokens": 19314
+  },
+  "backend": "agy",
+  "seconds": 19.0,
+  "identifier": "japan-internal-affairs-894.012881-government-mandates-recognition-2",
+  "file": "894.012881 Government. Mandates, Recognition., Citizenship. Divide As 130 To 139., Passports., Japan, Unauthorized Papers In The Nature Of Passports. Forged Or Fraudulent Passports.,  120.pdf",
+  "created": "2026-09-28 21:59:44"
+ }
+}

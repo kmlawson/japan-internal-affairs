@@ -1,0 +1,67 @@
+{
+ "interest": "Shows correspondence was tracked on index cards instead.",
+ "keywords": [
+  "State Department",
+  "Record Group 59",
+  "decimal file 894.1115",
+  "List of Papers",
+  "docket sheet",
+  "commercial relations",
+  "trade administration",
+  "United States",
+  "Japan",
+  "archival records"
+ ],
+ "overview": "A blank State Department 'List of Papers' form (1-307) for 894.1115, noting 'For subsequent correspondence see cards.'",
+ "people": [],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "United States"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A blank State Department 'List of Papers' cover sheet for decimal classification 894.1115 instructing researchers to consult index cards.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "",
+   "keywords": [
+    "List of Papers",
+    "State Department",
+    "894.1115",
+    "docket sheet",
+    "index cards"
+   ],
+   "start_page": 1,
+   "summary": "Blank State Department 'List of Papers' docket sheet for file 894.1115, noting that later correspondence is on cards.",
+   "title": "List of Papers cover sheet for file 894.1115",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13848,
+   "output_tokens": 2956,
+   "thinking_tokens": 2343,
+   "cache_read_tokens": 0,
+   "total_tokens": 16804
+  },
+  "backend": "agy",
+  "seconds": 13.8,
+  "identifier": "japan-internal-affairs-694.1115-commerce-customs-administration-1",
+  "file": "694.1115, Commerce. Customs Administration. Commercial Relations, Treaties And Conventions. Commercial And Trade Agreements., General Conditions Affecting Trade As Import Trade., Japan And United States, Governmental Attitude Of Exporting C 110.pdf",
+  "created": "2026-09-28 20:55:30"
+ }
+}

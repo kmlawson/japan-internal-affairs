@@ -1,0 +1,116 @@
+{
+ "interest": "Punishment of Admiral Mitsunami after the Panay incident.",
+ "keywords": [
+  "Imperial Japanese Navy",
+  "Naval personnel",
+  "USS Panay incident",
+  "Military discipline",
+  "Teizo Mitsunami",
+  "Joseph C. Grew",
+  "Naval Attaché",
+  "Tokyo",
+  "Division of Far Eastern Affairs",
+  "Shore duty"
+ ],
+ "overview": "1933 memo on Japanese officers abroad and a 1937 note on discipline after the Panay incident.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Mr. Grew"
+   ]
+  },
+  {
+   "name": "Teizo Mitsunami",
+   "role": "Rear Admiral, Imperial Japanese Navy",
+   "variants": [
+    "Admiral Mitsunami",
+    "Mitsunami"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Officer, Division of Far Eastern Affairs",
+   "variants": [
+    "MMH"
+   ]
+  },
+  {
+   "name": "Laurence E. Salisbury",
+   "role": "Officer, Division of Far Eastern Affairs",
+   "variants": [
+    "LES"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference note concerning Ambassador Grew's telegram on Japanese disciplinary actions and the recall of Admiral Mitsunami following the USS Panay incident.",
+   "date": "1937-12-24",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "USS Panay incident",
+    "Teizo Mitsunami",
+    "Joseph C. Grew",
+    "naval discipline",
+    "Imperial Japanese Navy",
+    "recall"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: Admiral Mitsunami's recall after the Panay incident was a severe disgrace.",
+   "title": "Cross-reference sheet on Telegram 679 from Grew regarding naval discipline following the Panay incident",
+   "to": "Department of State"
+  },
+  {
+   "about": "Internal State Department memorandum concerning a Tokyo Naval Attaché report listing Japanese officials assigned to shore duty abroad.",
+   "date": "1933-05-04",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "Laurence E. Salisbury (LES)",
+   "keywords": [
+    "Division of Far Eastern Affairs",
+    "Naval Attaché",
+    "Tokyo",
+    "shore duty",
+    "Japanese officials"
+   ],
+   "start_page": 2,
+   "summary": "Salisbury notes a Naval Attaché list of Japanese officers abroad is of little interest.",
+   "title": "Far Eastern Affairs memorandum on Naval Attaché report of Japanese officials on shore duty abroad",
+   "to": "Maxwell M. Hamilton (MMH)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13828,
+   "output_tokens": 5336,
+   "thinking_tokens": 4303,
+   "cache_read_tokens": 0,
+   "total_tokens": 19164
+  },
+  "backend": "agy",
+  "seconds": 23.7,
+  "identifier": "japan-internal-affairs-894.32-japan-personnel-organization-1",
+  "file": "894.32 Japan, Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services., May 4, 1933 - December 24, 1937 991.pdf",
+  "created": "2026-09-29 04:03:47"
+ }
+}

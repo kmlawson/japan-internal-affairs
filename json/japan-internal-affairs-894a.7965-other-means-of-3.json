@@ -1,0 +1,94 @@
+{
+ "overview": "A Department of State list of papers for decimal file 894A.7965 records two March 1940 telegrams from Warner at Taihoku concerning the disappearance and subsequent discovery of a Japan Air Transport Company passenger aircraft named ENVOY. The plane disappeared between Giran and Taihoku, was later found completely demolished with everyone aboard killed, and carried no Americans; the second telegram also reported on the disposition of the passengers’ bodies.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Yilan",
+   "variants": [
+    "Giran"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Warner",
+   "role": "Sender or reporting U.S. official at Taihoku",
+   "variants": [
+    "Warner"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan Air Transport Company",
+  "ENVOY aircraft",
+  "passenger aviation",
+  "aircraft disappearance",
+  "air crash",
+  "Taihoku",
+  "Giran",
+  "Taiwan",
+  "fatalities",
+  "American passengers",
+  "disposition of bodies",
+  "Department of State",
+  "aerial navigation"
+ ],
+ "subfiles": [
+  {
+   "title": "List of papers concerning the disappearance and crash of the ENVOY",
+   "doc_type": "list of papers",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1945-10-12",
+   "from": "Department of State",
+   "to": "",
+   "about": "An administrative file list describes two March 1940 telegrams from Warner concerning the disappearance and fatal crash of the Japan Air Transport Company passenger plane ENVOY.",
+   "summary": "The first listed telegram, Taihoku no. 97 of March 9, 1940, reported that the ENVOY had disappeared between Giran and Taihoku and stated that no Americans were aboard; it also referred to an enclosed copy of a telegram to the Consulate General at Tokyo. The second, Taihoku no. 98 of March 13, reported that the plane had been found completely demolished and that all aboard had died on impact. It also addressed the disposition of the passengers’ bodies.",
+   "keywords": [
+    "list of papers",
+    "Taihoku telegrams",
+    "Warner",
+    "ENVOY",
+    "Japan Air Transport Company",
+    "missing aircraft",
+    "fatal air crash",
+    "Giran",
+    "Taihoku",
+    "Consulate General at Tokyo"
+   ]
+  }
+ ],
+ "interest": "The page preserves a compact administrative synopsis of two telegrams that are not themselves reproduced in the supplied text, documenting how a missing-aircraft report developed into confirmation of a total-loss crash. It is useful for the history of civil aviation in Japanese-ruled Taiwan, for reconstructing State Department reporting networks between Taihoku and Tokyo, and for identifying the official concern with whether Americans were among the passengers and how victims’ remains were handled.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 24.0,
+  "identifier": "japan-internal-affairs-894a.7965-other-means-of-3",
+  "file": "894A.7965 Other Means Of Communication And Transportation. Carrier Pigeons., Aerial Navigation. Immunities Of Government-Controlled. Subsidies., Formosa. Taiwan, Offenses Committed On Aircraft.,  160.pdf",
+  "created": "2026-09-29 01:50:43"
+ }
+}

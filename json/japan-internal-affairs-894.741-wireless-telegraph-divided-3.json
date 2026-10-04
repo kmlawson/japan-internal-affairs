@@ -1,0 +1,782 @@
+{
+ "overview": "This file documents the Allied occupation authorities’ late-1947 and early-1948 liberalization and geographic expansion of Japan’s overseas radiotelephone service. It contains U.S. Political Adviser despatches transmitting SCAP directives, duplicate filed copies of SCAPIN 1830 and its rate enclosure, explanatory memoranda for occupation personnel, and SCAPIN 1830/1 extending service to Canada, Cuba, and Mexico and enabling incoming calls to several Japanese cities. Collect calls, transactional and conference calls, permitted currencies, report charges, technical control, accounting procedures, and the precise division of revenue among Japanese and North American carriers are all addressed.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Territory of Hawaii"
+   ]
+  },
+  {
+   "name": "Contiguous United States",
+   "variants": [
+    "continental limits of the United States"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Nevada",
+   "variants": [
+    "Nevada"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "Oregon"
+   ]
+  },
+  {
+   "name": "Arizona",
+   "variants": [
+    "Arizona"
+   ]
+  },
+  {
+   "name": "Colorado",
+   "variants": [
+    "Colorado"
+   ]
+  },
+  {
+   "name": "Idaho",
+   "variants": [
+    "Idaho"
+   ]
+  },
+  {
+   "name": "Montana",
+   "variants": [
+    "Montana"
+   ]
+  },
+  {
+   "name": "New Mexico",
+   "variants": [
+    "New Mexico"
+   ]
+  },
+  {
+   "name": "Utah",
+   "variants": [
+    "Utah"
+   ]
+  },
+  {
+   "name": "Washington (state)",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Wyoming",
+   "variants": [
+    "Wyoming"
+   ]
+  },
+  {
+   "name": "Arkansas",
+   "variants": [
+    "Arkansas"
+   ]
+  },
+  {
+   "name": "Iowa",
+   "variants": [
+    "Iowa"
+   ]
+  },
+  {
+   "name": "Kansas",
+   "variants": [
+    "Kansas"
+   ]
+  },
+  {
+   "name": "Louisiana",
+   "variants": [
+    "Louisiana"
+   ]
+  },
+  {
+   "name": "Minnesota",
+   "variants": [
+    "Minnesota"
+   ]
+  },
+  {
+   "name": "Missouri",
+   "variants": [
+    "Missouri"
+   ]
+  },
+  {
+   "name": "Nebraska",
+   "variants": [
+    "Nebraska"
+   ]
+  },
+  {
+   "name": "North Dakota",
+   "variants": [
+    "North Dakota"
+   ]
+  },
+  {
+   "name": "Oklahoma",
+   "variants": [
+    "Oklahoma"
+   ]
+  },
+  {
+   "name": "South Dakota",
+   "variants": [
+    "South Dakota"
+   ]
+  },
+  {
+   "name": "Texas",
+   "variants": [
+    "Texas"
+   ]
+  },
+  {
+   "name": "Alabama",
+   "variants": [
+    "Alabama"
+   ]
+  },
+  {
+   "name": "Connecticut",
+   "variants": [
+    "Connecticut"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "District of Columbia",
+    "Washington",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Florida",
+   "variants": [
+    "Florida"
+   ]
+  },
+  {
+   "name": "Georgia",
+   "variants": [
+    "Georgia"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "variants": [
+    "Illinois"
+   ]
+  },
+  {
+   "name": "Indiana",
+   "variants": [
+    "Indian"
+   ]
+  },
+  {
+   "name": "Kentucky",
+   "variants": [
+    "Kentucky"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "Massachusetts"
+   ]
+  },
+  {
+   "name": "Maine",
+   "variants": [
+    "Maine"
+   ]
+  },
+  {
+   "name": "Maryland",
+   "variants": [
+    "Maryland"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Michigan"
+   ]
+  },
+  {
+   "name": "Mississippi",
+   "variants": [
+    "Mississippi"
+   ]
+  },
+  {
+   "name": "New Hampshire",
+   "variants": [
+    "New Hampshire"
+   ]
+  },
+  {
+   "name": "New Jersey",
+   "variants": [
+    "New Jersey"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "North Carolina",
+   "variants": [
+    "North Carolina"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "Ohio"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pennsylvania"
+   ]
+  },
+  {
+   "name": "Rhode Island",
+   "variants": [
+    "Rhode Island"
+   ]
+  },
+  {
+   "name": "South Carolina",
+   "variants": [
+    "South Carolina"
+   ]
+  },
+  {
+   "name": "Tennessee",
+   "variants": [
+    "Tennessee"
+   ]
+  },
+  {
+   "name": "Virginia",
+   "variants": [
+    "Virginia"
+   ]
+  },
+  {
+   "name": "Vermont",
+   "variants": [
+    "Vermont"
+   ]
+  },
+  {
+   "name": "West Virginia",
+   "variants": [
+    "West Virginia"
+   ]
+  },
+  {
+   "name": "Wisconsin",
+   "variants": [
+    "Wisconsin"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "CANADA",
+    "Can."
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba",
+    "CUBA"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "MEXICO",
+    "Mex."
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "Kokura"
+   ]
+  },
+  {
+   "name": "New Brunswick",
+   "variants": [
+    "New Brunswick"
+   ]
+  },
+  {
+   "name": "Nova Scotia",
+   "variants": [
+    "Nova Scotia"
+   ]
+  },
+  {
+   "name": "Ontario",
+   "variants": [
+    "Ontario"
+   ]
+  },
+  {
+   "name": "Prince Edward Island",
+   "variants": [
+    "Prince Edward Is."
+   ]
+  },
+  {
+   "name": "Quebec",
+   "variants": [
+    "Quebec"
+   ]
+  },
+  {
+   "name": "Alberta",
+   "variants": [
+    "Alberta"
+   ]
+  },
+  {
+   "name": "British Columbia",
+   "variants": [
+    "British Columbia"
+   ]
+  },
+  {
+   "name": "Manitoba",
+   "variants": [
+    "Manitoba"
+   ]
+  },
+  {
+   "name": "Saskatchewan",
+   "variants": [
+    "Saskatchewan"
+   ]
+  },
+  {
+   "name": "Baja California Peninsula",
+   "variants": [
+    "Lower California"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "A. Busner",
+   "role": "Staff member or preparer associated with Despatch No. 1454; precise role not stated",
+   "variants": [
+    "A. Busner"
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, Adjutant General’s Department, and Adjutant General",
+   "variants": [
+    "R. M. LEWY",
+    "R. M. LEVY"
+   ]
+  },
+  {
+   "name": "M. F. Noyes",
+   "role": "Lieutenant Colonel, Adjutant General’s Department, and Assistant Adjutant General",
+   "variants": [
+    "M. F. NOYES"
+   ]
+  },
+  {
+   "name": "R. B. Finn",
+   "role": "Staff member or preparer associated with Despatch No. 111; precise role not stated",
+   "variants": [
+    "RBFinn"
+   ]
+  },
+  {
+   "name": "A. J. Rehe",
+   "role": "Major, Adjutant General’s Department, and Assistant Adjutant General",
+   "variants": [
+    "A. J. REHE"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese overseas radiotelephone service",
+  "SCAPIN 1830",
+  "SCAPIN 1830/1",
+  "Allied occupation of Japan",
+  "international telecommunications",
+  "telephone rates",
+  "division of revenue",
+  "Military Payment Certificates",
+  "collect calls",
+  "report charges",
+  "conference calls",
+  "Japan–Hawaii service",
+  "Canada–Cuba–Mexico service",
+  "Ministry of Communications",
+  "AT&T"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch No. 1454 transmitting SCAPIN 1830",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1947-12-15",
+   "from": "Acting United States Political Adviser in Japan",
+   "to": "U.S. Department of State",
+   "about": "Transmits the occupation directive revising Japanese overseas radiotelephone service and authorizing service between Japan and Hawaii.",
+   "summary": "The despatch encloses four copies of SCAPIN 1830, dated December 6, 1947. It highlights the new Japan–Hawaii service, applicable rates and procedures, and the extension to business or personal calls of a limited transactional nature, while referring back to Despatch No. 1325 concerning international telecommunications.",
+   "keywords": [
+    "Despatch No. 1454",
+    "SCAPIN 1830",
+    "Japan",
+    "Hawaii",
+    "radiotelephone service",
+    "transactional calls"
+   ]
+  },
+  {
+   "title": "SCAPIN 1830 on Japanese overseas radiotelephone service, first copy",
+   "doc_type": "directive memorandum",
+   "start_page": 2,
+   "end_page": 5,
+   "date": "1947-12-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers; R. M. Levy, Adjutant General",
+   "to": "Japanese Government",
+   "about": "Revises the authorization, operation, charging, accounting, and technical regulation of Japan’s overseas radiotelephone service.",
+   "summary": "The directive rescinds or modifies earlier SCAP instructions and authorizes prepaid calls to the United States and Hawaii, with possible later service elsewhere through the United States. It permits collect calls to the United States from January 5, 1948, limited transactional calls immediately, and conference calls from January 5, while prescribing report charges and currency-accounting procedures. It also retains military control over operating practices, equipment, and frequencies and authorizes direct liaison with the Japanese Ministry of Communications.",
+   "keywords": [
+    "SCAPIN 1830",
+    "Japanese Government",
+    "collect calls",
+    "report charges",
+    "conference calls",
+    "Military Payment Certificates",
+    "frequency assignments",
+    "Ministry of Communications"
+   ]
+  },
+  {
+   "title": "Rates and division of revenue for SCAPIN 1830, first copy",
+   "doc_type": "enclosure and rate schedule",
+   "start_page": 6,
+   "end_page": 9,
+   "date": "1947-12-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "Sets rates, surcharges, report charges, geographic groups, and carrier revenue shares for calls between Japan, the United States, and Hawaii.",
+   "summary": "The schedule fixes initial three-minute rates at $12 on weekdays and $9 on Sundays, with overtime charged at one-third of the initial rate per minute. It establishes conference-call and report charges and divides revenue among Japan’s Ministry of Communications, AT&T, and, for Hawaii service, the Mutual Telephone Company. Japanese islands and U.S. states are grouped into zones to calculate extension-haul deductions and net carrier shares.",
+   "keywords": [
+    "telephone rates",
+    "Sunday rates",
+    "division of revenue",
+    "AT&T",
+    "Mutual Telephone Company",
+    "Ministry of Communications",
+    "geographic rate groups",
+    "Hawaii"
+   ]
+  },
+  {
+   "title": "General information memorandum concerning SCAPIN 1830, first copy",
+   "doc_type": "memorandum",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1947-12-06",
+   "from": "M. F. Noyes, Assistant Adjutant General",
+   "to": "All concerned, excluding the Japanese Government",
+   "about": "Explains the policy reasons and practical effects of SCAPIN 1830 for occupation authorities.",
+   "summary": "The memorandum announces Japan–Hawaii service from December 8, 1947, possible later service elsewhere through the United States, and collect calls to the United States from January 5, 1948. It explains that limited transactional service is being opened to anyone in Japan and that Sunday rates reflect prewar Mutual Telephone Company tariffs filed with the Federal Communications Commission. Occupation forces are charged with monitoring Japanese compliance.",
+   "keywords": [
+    "SCAPIN 1830",
+    "policy explanation",
+    "Japan–Hawaii calls",
+    "collect service",
+    "Sunday rates",
+    "Federal Communications Commission",
+    "occupation surveillance"
+   ]
+  },
+  {
+   "title": "SCAPIN 1830 on Japanese overseas radiotelephone service, duplicate copy",
+   "doc_type": "directive memorandum",
+   "start_page": 11,
+   "end_page": 14,
+   "date": "1947-12-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers; R. M. Levy, Adjutant General",
+   "to": "Japanese Government, through the Central Liaison Office, Tokyo",
+   "about": "Provides a second filed copy of the directive revising Japanese overseas radiotelephone service.",
+   "summary": "This copy repeats the rescission and amendment of earlier telecommunications directives and authorizes prepaid service to the United States and Hawaii, collect and conference calls, and limited transactional traffic. It specifies report-charge accounting, carrier settlements, technical arrangements, and direct communications with the Ministry of Communications. Unlike the first copy, its opening page preserves the full SCAPIN header and identifies transmission through the Central Liaison Office.",
+   "keywords": [
+    "SCAPIN 1830",
+    "duplicate copy",
+    "Central Liaison Office",
+    "Japanese Government",
+    "radiotelephone regulation",
+    "accounting procedures",
+    "technical control"
+   ]
+  },
+  {
+   "title": "Rates and division of revenue for SCAPIN 1830, duplicate copy",
+   "doc_type": "enclosure and rate schedule",
+   "start_page": 15,
+   "end_page": 18,
+   "date": "1947-12-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "Provides a second filed copy of the rate and carrier-revenue schedule attached to SCAPIN 1830.",
+   "summary": "The enclosure repeats weekday, Sunday, overtime, conference-call, and report-charge rates for service between Japan, the continental United States, and Hawaii. Its tables allocate receipts among the Ministry of Communications, AT&T, and the Mutual Telephone Company according to Japanese island and U.S. state groups. It also records the reduction of the Hawaii report charge from $1.25 to $0.75 on January 1, 1948.",
+   "keywords": [
+    "rate schedule",
+    "duplicate copy",
+    "revenue allocation",
+    "AT&T",
+    "Mutual Telephone Company",
+    "report charges",
+    "Japan",
+    "Hawaii"
+   ]
+  },
+  {
+   "title": "General information memorandum concerning SCAPIN 1830, duplicate copy",
+   "doc_type": "memorandum",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1947-12-06",
+   "from": "M. F. Noyes, Assistant Adjutant General",
+   "to": "All concerned, excluding the Japanese Government",
+   "about": "Provides a second filed copy of the explanatory memorandum accompanying SCAPIN 1830.",
+   "summary": "The memorandum summarizes the opening of service to Hawaii, plans for connections elsewhere, collect-call arrangements, transactional traffic, and reduced Sunday rates. It notes that Japan–Hawaii charges were based on prewar rates proposed by the Mutual Telephone Company and filed in Washington. It directs occupation forces to ensure the Ministry of Communications’ compliance.",
+   "keywords": [
+    "SCAPIN 1830",
+    "duplicate copy",
+    "Hawaii service",
+    "collect calls",
+    "transactional calls",
+    "Sunday rates",
+    "occupation oversight"
+   ]
+  },
+  {
+   "title": "Despatch No. 111 transmitting SCAPIN 1830/1",
+   "doc_type": "despatch",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1948-02-20",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "Transmits the directive extending Japanese radiotelephone service to Canada, Cuba, and Mexico.",
+   "summary": "The despatch refers to Despatch No. 1454 and encloses five copies of SCAPIN 1830/1, dated February 6, 1948. It reports that service to and from various Japanese points is being extended to Canada, Cuba, and Mexico and that the enclosure supplies the applicable rates and procedures.",
+   "keywords": [
+    "Despatch No. 111",
+    "SCAPIN 1830/1",
+    "Canada",
+    "Cuba",
+    "Mexico",
+    "radiotelephone expansion"
+   ]
+  },
+  {
+   "title": "SCAPIN 1830/1 extending overseas radiotelephone service",
+   "doc_type": "directive memorandum",
+   "start_page": 21,
+   "end_page": 22,
+   "date": "1948-02-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers; R. M. Levy, Adjutant General",
+   "to": "Japanese Government",
+   "about": "Authorizes outgoing calls to Canada, Cuba, and Mexico and incoming overseas calls to Tokyo and eight additional Japanese cities.",
+   "summary": "Beginning February 15, authorized users could place prepaid calls from Japan to Canada, Cuba, and Mexico through the United States using Military or Foreign Trade Payment Certificates. Incoming calls from the United States and Hawaii were authorized to Tokyo from February 10, with calls from Canada, Cuba, and Mexico following on February 15; service expanded to Yokohama, Osaka, Kyoto, Nagoya, Sendai, Sapporo, Fukuoka, and Kokura on February 20. The directive also establishes AT&T collection and U.S. Treasury deposit procedures for Japan’s revenue share and leaves operating rules under Eighth Army direction.",
+   "keywords": [
+    "SCAPIN 1830/1",
+    "Canada",
+    "Cuba",
+    "Mexico",
+    "incoming calls",
+    "Japanese cities",
+    "AT&T",
+    "Treasury trust account",
+    "Eighth Army"
+   ]
+  },
+  {
+   "title": "Revenue schedule for Japan–Canada, Cuba, and Mexico calls",
+   "doc_type": "enclosure and rate schedule",
+   "start_page": 23,
+   "end_page": 23,
+   "date": "1948-02-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "Specifies weekday and Sunday rates and revenue shares for calls between Japanese zones and Canada, Cuba, and Mexico.",
+   "summary": "The schedule divides Japan into Zone A, comprising Honshu and Shikoku, and Zone B, comprising Hokkaido and Kyushu. It supplies separate rates and extension-haul deductions for Canadian provincial groups, Cuba, Mexico, and Lower California, while dividing the remaining revenue between Japan and AT&T. A $0.75 report charge is shared equally between Japan and AT&T.",
+   "keywords": [
+    "division of revenue",
+    "Canada",
+    "Cuba",
+    "Mexico",
+    "Baja California",
+    "weekday rates",
+    "Sunday rates",
+    "AT&T",
+    "Japanese zones"
+   ]
+  },
+  {
+   "title": "General information memorandum concerning SCAPIN 1830/1",
+   "doc_type": "memorandum",
+   "start_page": 24,
+   "end_page": 24,
+   "date": "1948-02-06",
+   "from": "A. J. Rehe, Assistant Adjutant General",
+   "to": "All concerned, excluding the Japanese Government",
+   "about": "Explains the implementation and routing of expanded incoming radiotelephone service to Japan.",
+   "summary": "The memorandum summarizes the February timetable for outgoing service to Canada, Cuba, and Mexico and incoming calls from those countries, the United States, and Hawaii. Calls for occupation personnel were initially to be routed to special overseas booths, while other recipients could receive calls on suitable private telephones or be summoned to public facilities through Ministry of Communications channels. It records continuing technical liaison and occupation surveillance of implementation.",
+   "keywords": [
+    "SCAPIN 1830/1",
+    "incoming calls",
+    "overseas telephone booths",
+    "Occupation Force personnel",
+    "Ministry of Communications",
+    "call routing",
+    "technical liaison",
+    "surveillance"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for showing how international communications were reopened under occupation control, moving from tightly restricted official and personal use toward transactional traffic and geographically broader public service. Its unusually detailed tariff and revenue tables reveal the commercial relationships among Japan’s Ministry of Communications, AT&T, and the Mutual Telephone Company, including the effects of internal distance zones. The duplicate directive sets also expose the mechanics of diplomatic transmission and recordkeeping, while the February memorandum gives rare practical detail about how incoming overseas calls reached occupation personnel and Japanese residents through special booths, private telephones, and government summons.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 177.7,
+  "identifier": "japan-internal-affairs-894.741-wireless-telegraph-divided-3",
+  "file": "894.741 Wireless Telegraph. Divided As 8**.73., Japan, Laws And Regulations., December 15, 1947 - February 20, 1948 1619.pdf",
+  "created": "2026-09-29 08:07:48"
+ }
+}

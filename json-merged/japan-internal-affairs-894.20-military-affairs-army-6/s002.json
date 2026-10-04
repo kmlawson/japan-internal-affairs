@@ -1,0 +1,1900 @@
+{
+ "section_summary": "This section documents intensive Japanese military preparations in 1932–1933, including arms and aircraft production, chemical-warfare capacity, strategic railways, public fundraising, troop movements into Manchuria, and contingency planning against the Soviet Union, China, the Philippines, and the United States. Diplomatic and intelligence reports disagree over whether these measures anticipated a specific war or reflected general readiness, and several Chinese-supplied reports contain claims treated skeptically by American officials. The later documents trace growing Japanese political and business opposition to military control, especially criticism of military spending, state indebtedness, and the Army’s influence over foreign policy.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jayon",
+    "Jivan",
+    "Japen",
+    "Japn",
+    "J: pan",
+    "J pan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "Tokye",
+    "Tekge",
+    "rokye",
+    "T kyo"
+   ]
+  },
+  {
+   "name": "Shenyang (Mukden)",
+   "variants": [
+    "mevin",
+    "Mukden",
+    "ukden"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchun",
+    "Chaneatn",
+    "Changohun",
+    "hehangohun"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Mrnchuria",
+    "anchuria",
+    "Manohuria",
+    "Manchurie",
+    "Manehuria",
+    "Manehuri»",
+    "Monebuari"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin",
+    "Marbin",
+    "rbin"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka",
+    "Yok suka"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "hanghai",
+    "hanghei"
+   ]
+  },
+  {
+   "name": "Meguro",
+   "variants": [
+    "Meguro",
+    "uro"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Eastern Asia"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Jehol",
+   "variants": [
+    "Jehol",
+    "Jehol Province"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "china",
+    "Chime",
+    "hine"
+   ]
+  },
+  {
+   "name": "China proper",
+   "variants": [
+    "China Proper"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Russia",
+    "Russia",
+    "oviet Russie",
+    "ussie",
+    "Rumsia"
+   ]
+  },
+  {
+   "name": "Trans-Siberian Railway",
+   "variants": [
+    "Trans-Siberian Railway",
+    "Trans-Siberian railway",
+    "Siberian Railway"
+   ]
+  },
+  {
+   "name": "Chinese Eastern Railway",
+   "variants": [
+    "C.E.R.",
+    "Chinese Eastern",
+    "Chinese Eastern Railway"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washinfton"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping",
+    "Poiping"
+   ]
+  },
+  {
+   "name": "Riga",
+   "variants": [
+    "Riga"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen",
+    "Duiren",
+    "s1ren"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Shanhaiguan",
+   "variants": [
+    "Shanhaikwan"
+   ]
+  },
+  {
+   "name": "Mongolia",
+   "variants": [
+    "Mongolia"
+   ]
+  },
+  {
+   "name": "Jiandao (Gando)",
+   "variants": [
+    "Kanto(/)"
+   ]
+  },
+  {
+   "name": "Ning’an",
+   "variants": [
+    "Ninguta",
+    "in-An"
+   ]
+  },
+  {
+   "name": "Suifenhe",
+   "variants": [
+    "Suifenho"
+   ]
+  },
+  {
+   "name": "Primorye",
+   "variants": [
+    "Primrskaya",
+    "Primorskaya"
+   ]
+  },
+  {
+   "name": "Ussuriysk",
+   "variants": [
+    "Nikolsk"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Yladivostok",
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Koree"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Korea"
+   ]
+  },
+  {
+   "name": "Yilan (Sanxing)",
+   "variants": [
+    "Sansing",
+    "Yi-Lan"
+   ]
+  },
+  {
+   "name": "Khabarovsk",
+   "variants": [
+    "Khabarovsk"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia",
+    "iberi»"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Tsitsiham",
+    "Tsitsihar",
+    "sitsihar",
+    "isitsihar"
+   ]
+  },
+  {
+   "name": "Heihe",
+   "variants": [
+    "Heiho"
+   ]
+  },
+  {
+   "name": "Hailar",
+   "variants": [
+    "Hailar"
+   ]
+  },
+  {
+   "name": "Blagoveshchensk",
+   "variants": [
+    "Blagovyeshchensk"
+   ]
+  },
+  {
+   "name": "Chita",
+   "variants": [
+    "Chita"
+   ]
+  },
+  {
+   "name": "Northern Manchuria",
+   "variants": [
+    "Northern Manchuria"
+   ]
+  },
+  {
+   "name": "Southern Manchuria",
+   "variants": [
+    "Southern Manchuria"
+   ]
+  },
+  {
+   "name": "Greater Khingan Range",
+   "variants": [
+    "Western Khingan Mountains",
+    "Khingan Mountains"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sakhalin",
+    "Northern Sakhalin",
+    "Northern part of Sakhalin"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islanda",
+    "Philippine Islands",
+    "philippine Islands",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Magong",
+   "variants": [
+    "Mako"
+   ]
+  },
+  {
+   "name": "Penghu Islands",
+   "variants": [
+    "Bokoto Island",
+    "Bokoga Islandd"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Kolung",
+    "Kelung"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "Heito"
+   ]
+  },
+  {
+   "name": "Tamsui",
+   "variants": [
+    "Tamsui Beach"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Dainan"
+   ]
+  },
+  {
+   "name": "Anping",
+   "variants": [
+    "Anping"
+   ]
+  },
+  {
+   "name": "Kinsui",
+   "variants": [
+    "Kinsui"
+   ]
+  },
+  {
+   "name": "Sun Moon Lake",
+   "variants": [
+    "Nitsugotaudan",
+    "Nitsugotauda"
+   ]
+  },
+  {
+   "name": "South Sea Islands",
+   "variants": [
+    "South Sea Islands",
+    "South Se Islands"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "Ogasawara Islands"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Chishima Islands"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Kebe"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Deake",
+    "Usekm",
+    "sake"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "agoye",
+    "Nagege",
+    "Nogoye"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohame"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tmaruge"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "agesaki"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "iroshimm",
+    "Hireskima"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yewete"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "rance",
+    "Tramee"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Itely"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "nglend"
+   ]
+  },
+  {
+   "name": "Yoyogi Parade Ground",
+   "variants": [
+    "Yoyoed de round"
+   ]
+  },
+  {
+   "name": "Jilin City",
+   "variants": [
+    "Kirin",
+    "irin"
+   ]
+  },
+  {
+   "name": "Dunhua",
+   "variants": [
+    "Tumhme"
+   ]
+  },
+  {
+   "name": "Chongjin",
+   "variants": [
+    "eishim",
+    "eishiu"
+   ]
+  },
+  {
+   "name": "Hailong",
+   "variants": [
+    "liailung"
+   ]
+  },
+  {
+   "name": "Hailin",
+   "variants": [
+    "Hn1lm"
+   ]
+  },
+  {
+   "name": "Rajin (Rason)",
+   "variants": [
+    "aahin"
+   ]
+  },
+  {
+   "name": "Nanam",
+   "variants": [
+    "anan"
+   ]
+  },
+  {
+   "name": "Tonghua",
+   "variants": [
+    "unghua"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Szepingkai"
+   ]
+  },
+  {
+   "name": "Keshan",
+   "variants": [
+    "Koshan"
+   ]
+  },
+  {
+   "name": "Jinzhou",
+   "variants": [
+    "Chinchow"
+   ]
+  },
+  {
+   "name": "Dahushan",
+   "variants": [
+    "ahushau"
+   ]
+  },
+  {
+   "name": "Amur River Valley",
+   "variants": [
+    "Amur River Valley"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Sheatang"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Oreat Britain"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "NANKING",
+    "Nanking",
+    "NAN"
+   ]
+  },
+  {
+   "name": "Northeast China",
+   "variants": [
+    "Eastern Provinces"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Lemdem",
+    "Londen"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "anchukuo"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "the Orient",
+   "variants": [
+    "Orient"
+   ]
+  },
+  {
+   "name": "Volga River",
+   "variants": [
+    "Volga"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "Chicago"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United Stotes",
+    "United Stetes",
+    "United tates",
+    "America"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European countries"
+   ]
+  },
+  {
+   "name": "Manchurian Plain",
+   "variants": [
+    "Manchurian plains",
+    "Manohu plains"
+   ]
+  },
+  {
+   "name": "Texas",
+   "variants": [
+    "Texas"
+   ]
+  },
+  {
+   "name": "Madison Square Garden",
+   "variants": [
+    "Madison Square Garden"
+   ]
+  },
+  {
+   "name": "Touregn",
+   "variants": [
+    "Touregn"
+   ]
+  },
+  {
+   "name": "Luchang",
+   "variants": [
+    "uchang"
+   ]
+  },
+  {
+   "name": "Taku",
+   "variants": [
+    "Takd"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Jinzaburō Mazaki",
+   "role": "Japanese general and Assistant Chief of the General Staff; identification is probable from the stated office and context",
+   "variants": [
+    "General tHaake",
+    "pmerel mwirl"
+   ]
+  },
+  {
+   "name": "Shigeru Honjō",
+   "role": "Japanese general associated with the Kwantung Army",
+   "variants": [
+    "meml Hnjo"
+   ]
+  },
+  {
+   "name": "William R. Castle Jr.",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Castle"
+   ]
+  },
+  {
+   "name": "M. M. H.",
+   "role": "Division of Far Eastern Affairs staff member or routing-memorandum author",
+   "variants": [
+    "MMH",
+    "m.m.H."
+   ]
+  },
+  {
+   "name": "Tsuyoshi Inukai",
+   "role": "Prime Minister of Japan, assassinated May 15, 1932",
+   "variants": [
+    "Inukai",
+    "Premier Inukai"
+   ]
+  },
+  {
+   "name": "Count Nobuaki Makino",
+   "role": "Lord Keeper of the Privy Seal and adviser to the throne",
+   "variants": [
+    "Count Makino"
+   ]
+  },
+  {
+   "name": "Ichiki Kitokurō",
+   "role": "Minister of the Imperial Household Department",
+   "variants": [
+    "Dr. Ikki"
+   ]
+  },
+  {
+   "name": "Sadao Araki",
+   "role": "Japanese Army general and Minister of War",
+   "variants": [
+    "General Araki",
+    "Araki",
+    "Gemeral Araki"
+   ]
+  },
+  {
+   "name": "Toshio Shiratori",
+   "role": "Japanese Foreign Office spokesman",
+   "variants": [
+    "Mr. T. Shiratori",
+    "Shiratori",
+    "hiratori"
+   ]
+  },
+  {
+   "name": "Herbert Hoover",
+   "role": "President of the United States",
+   "variants": [
+    "President Hoover"
+   ]
+  },
+  {
+   "name": "Zhang Xueliang",
+   "role": "Chinese marshal commanding forces opposed to Japan",
+   "variants": [
+    "Marshal Chang",
+    "Chang Hsueh Liang",
+    "Chang Hsueh-liang"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "Joseph C. Crew",
+    "Grew",
+    "GREW",
+    "Joseph C. Gree",
+    "Joseph C. O.",
+    "irew"
+   ]
+  },
+  {
+   "name": "M. R. Nicholson",
+   "role": "American Treasury Attaché at Shanghai",
+   "variants": [
+    "Mr. M. R. Nicholson"
+   ]
+  },
+  {
+   "name": "Stuart J. Fuller",
+   "role": "American official who transmitted Chinese intelligence materials",
+   "variants": [
+    "Stuart J. Fuller"
+   ]
+  },
+  {
+   "name": "W. Baggaley",
+   "role": "Captain, United States Navy",
+   "variants": [
+    "W. Baggaley"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department Far Eastern affairs adviser",
+   "variants": [
+    "Dr. Stanley K. Hornbeck",
+    "Hornbock"
+   ]
+  },
+  {
+   "name": "Shintarō Nakamura",
+   "role": "Japanese Army officer whose mapping mission produced the Nakamura Incident",
+   "variants": [
+    "Nakamura"
+   ]
+  },
+  {
+   "name": "Admiral Tutani",
+   "role": "Retired Japanese admiral associated with Mitsubishi armaments",
+   "variants": [
+    "omiral Tutani"
+   ]
+  },
+  {
+   "name": "Henry L. Stimson",
+   "role": "United States Secretary of State",
+   "variants": [
+    "Secretary of State Stimson",
+    "I. timeon's",
+    "Stimaon",
+    "St imaon"
+   ]
+  },
+  {
+   "name": "E. B. Thomas",
+   "role": "American Consul at Dairen",
+   "variants": [
+    "E. B. Thomas"
+   ]
+  },
+  {
+   "name": "Baron Seinosuke Gō",
+   "role": "President of the Tokyo Chamber of Commerce and Industry",
+   "variants": [
+    "Baron S. Goh",
+    "aron S, Gon",
+    "Saron Gob",
+    "Baron Goh",
+    "Barom Gon",
+    "Barom Geh"
+   ]
+  },
+  {
+   "name": "Hirobumi Itō",
+   "role": "Japanese statesman cited in a historical comparison",
+   "variants": [
+    "Frince Its"
+   ]
+  },
+  {
+   "name": "Junnosuke Inoue",
+   "role": "Former Japanese Minister of Finance",
+   "variants": [
+    "Ir. Jwmnosske Imouye",
+    "Nr. Inouye"
+   ]
+  },
+  {
+   "name": "Makoto Saitō",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Pemier saPlotp",
+    "Premier Viscount Saito"
+   ]
+  },
+  {
+   "name": "Count Yasuya Uchida",
+   "role": "Japanese Foreign Minister",
+   "variants": [
+    "Count Uekida",
+    "Count Uchide",
+    "Uchida",
+    "Foreign Minister Uchida"
+   ]
+  },
+  {
+   "name": "Keisuke Okada",
+   "role": "Japanese admiral and Navy Minister",
+   "variants": [
+    "Admiral Okada",
+    "Okada"
+   ]
+  },
+  {
+   "name": "Takashi Nagai",
+   "role": "Japanese Overseas Minister",
+   "variants": [
+    "Nagai",
+    "N.gat",
+    "N&gei",
+    "Eagai"
+   ]
+  },
+  {
+   "name": "Tetsujirō Inoue",
+   "role": "Professor emeritus of Tokyo Imperial University",
+   "variants": [
+    "Dr. Inoue",
+    "Dr. Inouye",
+    "Dr. Icouye",
+    "Old Dr. Inoue"
+   ]
+  },
+  {
+   "name": "Alexander Troyanovsky",
+   "role": "Soviet diplomat present at the professors’ meeting",
+   "variants": [
+    "treganovsky"
+   ]
+  },
+  {
+   "name": "Sita",
+   "role": "Diplomat identified in the OCR as representing Italy; exact name uncertain",
+   "variants": [
+    "sita"
+   ]
+  },
+  {
+   "name": "Dr. Kolb",
+   "role": "German diplomat",
+   "variants": [
+    "Dr. Kolb",
+    "Dr. Lolb"
+   ]
+  },
+  {
+   "name": "Cunningham",
+   "role": "British diplomat",
+   "variants": [
+    "Cunningham",
+    "Gusnimgham"
+   ]
+  },
+  {
+   "name": "Bao",
+   "role": "Manchukuo diplomat",
+   "variants": [
+    "Bao"
+   ]
+  },
+  {
+   "name": "I. T. Turner",
+   "role": "Embassy staff member who reported on a meeting of university professors",
+   "variants": [
+    "i.T.Turuor"
+   ]
+  },
+  {
+   "name": "McIlroy",
+   "role": "United States Military Attaché or reporting officer at Tokyo",
+   "variants": [
+    "MeIlroy",
+    "McIlroy"
+   ]
+  },
+  {
+   "name": "Sun Fo",
+   "role": "Kuomintang politician sponsoring constitutional proposals",
+   "variants": [
+    "Mr. Sun Fo"
+   ]
+  },
+  {
+   "name": "Sun Yat-sen",
+   "role": "Chinese revolutionary leader whose reconstruction program was cited",
+   "variants": [
+    "Dr. Sun Yat-Sen"
+   ]
+  },
+  {
+   "name": "Hitoshi Ashida",
+   "role": "Seiyūkai member of the Japanese House of Representatives and newspaper publisher",
+   "variants": [
+    "H. Aahidz",
+    "H. Ashida",
+    "Pr. Ashide",
+    "Mr. Ashide"
+   ]
+  },
+  {
+   "name": "Shinya Uchida",
+   "role": "Member of the Japanese House of Representatives who challenged the military and naval budgets",
+   "variants": [
+    "Mr. B. Deride",
+    "Mr. Bhinys Vekida"
+   ]
+  },
+  {
+   "name": "Sven Hedin",
+   "role": "Swedish explorer and author",
+   "variants": [
+    "Dr. Sven Hedin",
+    "Dr. Hedin"
+   ]
+  },
+  {
+   "name": "Vincent Bendix",
+   "role": "Chicago automobile-parts manufacturer",
+   "variants": [
+    "Vincent Bendix"
+   ]
+  },
+  {
+   "name": "Qianlong Emperor",
+   "role": "Qing emperor associated with the Jehol temple",
+   "variants": [
+    "Chien-Lung"
+   ]
+  },
+  {
+   "name": "Joseph Stalin",
+   "role": "Soviet leader",
+   "variants": [
+    "Stalin"
+   ]
+  },
+  {
+   "name": "King Vidor",
+   "role": "Film director named in a newspaper advertisement",
+   "variants": [
+    "King Vidor"
+   ]
+  },
+  {
+   "name": "Dolores del Río",
+   "role": "Actor named in a newspaper advertisement",
+   "variants": [
+    "DOLORES DEL RIO"
+   ]
+  },
+  {
+   "name": "Joel McCrea",
+   "role": "Actor named in a newspaper advertisement",
+   "variants": [
+    "JOEL McCREA"
+   ]
+  },
+  {
+   "name": "Tom Mix",
+   "role": "Actor named in a newspaper advertisement",
+   "variants": [
+    "TOM MIX"
+   ]
+  },
+  {
+   "name": "Jack Oakie",
+   "role": "Actor named in a newspaper advertisement",
+   "variants": [
+    "JACK OAKIE"
+   ]
+  },
+  {
+   "name": "Dawson",
+   "role": "Reporting officer whose account was reviewed by the Division of Far Eastern Affairs",
+   "variants": [
+    "Dawson"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese military preparations",
+  "Manchuria",
+  "Kwantung Army",
+  "war planning",
+  "Soviet-Japanese conflict",
+  "United States–Japan relations",
+  "armaments production",
+  "strategic railways",
+  "troop deployments",
+  "military finance",
+  "civil-military relations",
+  "political opposition"
+ ],
+ "subfiles": [
+  {
+   "title": "Continuation of report on Japanese generals and Manchurian preparations",
+   "doc_type": "report or despatch continuation",
+   "start_page": 81,
+   "end_page": 81,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Reports a senior Japanese general’s arrival and discussions concerning military plans and preparations in Manchuria.",
+   "summary": "The fragment describes travel by aircraft to Changchun to meet a general arriving from Japan, apparently Jinzaburō Mazaki, the Assistant Chief of the General Staff and an Araki associate. It refers to Japanese military leaders, planning centered on Manchuria, and matters involving Tokyo, Harbin, and northern areas, but much of the OCR is too damaged for precise reconstruction.",
+   "keywords": [
+    "Japanese General Staff",
+    "Changchun",
+    "Manchuria",
+    "Harbin",
+    "military planning"
+   ]
+  },
+  {
+   "title": "Routing memorandum on Tokyo despatch No. 96",
+   "doc_type": "internal memorandum",
+   "start_page": 82,
+   "end_page": 82,
+   "continues_previous": false,
+   "date": "1932-09-01",
+   "from": "M. M. H., Division of Far Eastern Affairs",
+   "to": "William R. Castle Jr.",
+   "about": "Recommends reading the attached Tokyo despatch on extraordinary Japanese military preparations.",
+   "summary": "The memorandum characterizes the August 13 despatch as evidence that Japan was energetically strengthening both its war machine and its war psychology. It also notes that these policies were creating additional government financial obligations.",
+   "keywords": [
+    "Tokyo despatch No. 96",
+    "military preparations",
+    "war psychology",
+    "public finance"
+   ]
+  },
+  {
+   "title": "Summary of Tokyo confidential despatch No. 96",
+   "doc_type": "internal analytical memorandum",
+   "start_page": 83,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1932-08-29",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State officials",
+   "about": "Summarizes material, psychological, financial, and political evidence of Japanese war preparations.",
+   "summary": "The memorandum notes full-time arsenal work, intensified aircraft production, propaganda encouraging war fever, and monetary measures supporting state borrowing. It identifies Makino and Ichiki as the remaining conservative opposition to the military group. Possible objectives included resisting the League of Nations, war with China or the Soviet Union, or a drive into Jehol, although the Embassy judged general readiness more likely than a fixed war plan.",
+   "keywords": [
+    "arsenals",
+    "war propaganda",
+    "Bank of Japan",
+    "Jehol",
+    "League of Nations",
+    "military government"
+   ]
+  },
+  {
+   "title": "Despatch No. 96: Extraordinary Military Preparations in Japan",
+   "doc_type": "confidential diplomatic despatch",
+   "start_page": 85,
+   "end_page": 90,
+   "continues_previous": false,
+   "date": "1932-08-13",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports extensive material, psychological, financial, and political preparations for war in Japan.",
+   "summary": "Grew details full-time arsenal production, aircraft and armored-vehicle construction, a chemical-warfare plant at Meguro, replenished reserves, greater imports of strategic materials, and an additional Army appropriation. He describes propaganda by War Minister Araki, patriotic public subscriptions, the expansion of the Bank of Japan’s tax-free fiduciary issue, and military domination following Inukai’s assassination. The despatch considers possible conflict with China or the Soviet Union and a drive into Jehol but concludes that the preparations probably served broad contingency planning.",
+   "keywords": [
+    "Joseph C. Grew",
+    "Araki",
+    "chemical warfare",
+    "war industry",
+    "Bank of Japan",
+    "Jehol"
+   ]
+  },
+  {
+   "title": "Memorandum transmitting Chinese intelligence maps and reports",
+   "doc_type": "memorandum",
+   "start_page": 91,
+   "end_page": 91,
+   "continues_previous": false,
+   "date": "1932-09-01",
+   "from": "Stuart J. Fuller",
+   "to": "Department of State",
+   "about": "Transmits two maps and two memoranda on Japanese military preparations obtained through the Treasury Attaché at Shanghai.",
+   "summary": "Fuller states that M. R. Nicholson received the materials from an unnamed Chinese source. Nicholson described the source as a former Chinese spy in Formosa who had recently been banished from the island.",
+   "keywords": [
+    "Chinese intelligence",
+    "M. R. Nicholson",
+    "Formosa",
+    "maps",
+    "Japanese preparations"
+   ]
+  },
+  {
+   "title": "Letter acknowledging intelligence enclosure",
+   "doc_type": "letter",
+   "start_page": 92,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1932-09-07",
+   "from": "W. Baggaley, Office of Naval Intelligence",
+   "to": "Stanley K. Hornbeck, State Department",
+   "about": "Acknowledges receipt of an intelligence enclosure and states that it was copied for Navy files.",
+   "summary": "Captain Baggaley thanks Hornbeck for the enclosure and calls it very interesting. He reports that the Office of Naval Intelligence copied the material for its files.",
+   "keywords": [
+    "Office of Naval Intelligence",
+    "Hornbeck",
+    "intelligence sharing",
+    "confidential files"
+   ]
+  },
+  {
+   "title": "Japanese Military Preparation for War with Soviet Russia",
+   "doc_type": "intelligence memorandum",
+   "start_page": 93,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "",
+   "from": "Unnamed Chinese source",
+   "to": "United States officials",
+   "about": "Purports to outline a phased Japanese plan for war against the Soviet Union.",
+   "summary": "The memorandum describes conquest and economic control of Manchuria and Mongolia, establishment of a puppet government, and seizure of the Chinese Eastern Railway. It projects attacks toward Primorye, Vladivostok, Khabarovsk, Blagoveshchensk, and Chita, followed by a decisive battle west of the Greater Khingan Range. It also connects Nakamura’s mapping mission to the plan and predicts occupation of northern Sakhalin to cut Soviet oil supplies.",
+   "keywords": [
+    "Soviet Union",
+    "Manchuria",
+    "Chinese Eastern Railway",
+    "Primorye",
+    "Khingan Mountains",
+    "Sakhalin"
+   ]
+  },
+  {
+   "title": "Japanese Military Preparation for War with the United States",
+   "doc_type": "intelligence memorandum",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "",
+   "from": "Unnamed Chinese source",
+   "to": "United States officials",
+   "about": "Purports to describe Japanese bases, resources, and operational plans for a war against the United States.",
+   "summary": "The memorandum presents Taiwan as a base for attacks on the Philippines and lists planned or existing facilities at Magong, Keelung, Pingtung, Tamsui, Tainan, and Anping. It claims Japan would occupy the Philippines and northern Sakhalin while deploying submarines near the Kurils and South Sea Islands. The projected strategy was to force the American fleet onto a route past San Francisco and the Ogasawara Islands for a decisive naval battle.",
+   "keywords": [
+    "United States",
+    "Philippines",
+    "Taiwan",
+    "naval bases",
+    "submarines",
+    "Ogasawara Islands"
+   ]
+  },
+  {
+   "title": "Map of Japanese military facilities in Formosa",
+   "doc_type": "map",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "",
+   "from": "Unnamed Chinese source",
+   "to": "United States officials",
+   "about": "Maps locations associated with the accompanying memorandum on Japanese military preparations in Taiwan.",
+   "summary": "The poorly reproduced map shows Taiwan and nearby islands with labels including the Sun Moon Lake power project and the Penghu area. It appears to illustrate bases or infrastructure discussed in the preceding intelligence memorandum.",
+   "keywords": [
+    "Taiwan",
+    "military map",
+    "Penghu Islands",
+    "Sun Moon Lake",
+    "bases"
+   ]
+  },
+  {
+   "title": "Confidential-file endorsement for Navy Department letter",
+   "doc_type": "filing note",
+   "start_page": 97,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "1932-09-07",
+   "from": "Department of State file staff",
+   "to": "Confidential File",
+   "about": "Records the filing of the September 7 Navy Department letter under 894.20/98.",
+   "summary": "The slip identifies the associated item as a Navy Department letter dated September 7, 1932. It directs that the letter be kept in the confidential file.",
+   "keywords": [
+    "filing note",
+    "Navy Department",
+    "confidential file",
+    "894.20/98"
+   ]
+  },
+  {
+   "title": "Cross-reference to despatch No. 106",
+   "doc_type": "cross-reference sheet",
+   "start_page": 98,
+   "end_page": 98,
+   "continues_previous": false,
+   "date": "1932-08-26",
+   "from": "Department of State file staff",
+   "to": "Decimal file 790.94/30",
+   "about": "Directs readers to despatch No. 106 concerning extraordinary military preparations in Japan.",
+   "summary": "The sheet records that the substantive despatch is filed under another decimal number. Its subject is extraordinary military preparations being conducted in Japan.",
+   "keywords": [
+    "cross-reference",
+    "despatch No. 106",
+    "military preparations",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Enclosure No. 2 to despatch No. 106: Japanese military production and readiness",
+   "doc_type": "intelligence report enclosure",
+   "start_page": 99,
+   "end_page": 107,
+   "continues_previous": false,
+   "date": "1932-08-26",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Surveys Japanese armament production, industrial mobilization, public military subscriptions, budgets, maneuvers, and strategic railway construction.",
+   "summary": "The report assembles observations from foreign businessmen and other sources about arsenal activity, aircraft factories, imported machinery, vehicle and tank manufacture, communications equipment, chemical-warfare production, gas masks, naval procurement, and public gifts to the armed forces. It describes new appropriations, intensive maneuvers, foreign weapons purchases, and railway projects linking Korea and Manchuria. The author argues that the pace exceeds ordinary reorganization and suggests that Japan was preparing for a large contingency, most plausibly against the Soviet Union or China, while noting that anti-American propaganda did not necessarily imply an imminent war with the United States.",
+   "keywords": [
+    "armament industry",
+    "aircraft production",
+    "chemical warfare",
+    "public subscriptions",
+    "military budgets",
+    "strategic railways"
+   ]
+  },
+  {
+   "title": "Cross-reference to report No. 111 on Japanese military preparations",
+   "doc_type": "cross-reference sheet",
+   "start_page": 108,
+   "end_page": 108,
+   "continues_previous": false,
+   "date": "1932-09-01",
+   "from": "Department of State file staff",
+   "to": "Political report file 894.00-P.R./57",
+   "about": "Refers to a report that Japanese military preparations were proceeding with great activity and speed.",
+   "summary": "The sheet identifies Japan and Grew as the source context and gives the date September 1, 1932. It directs the reader to another file for the full report.",
+   "keywords": [
+    "cross-reference",
+    "Grew",
+    "military preparations",
+    "political report"
+   ]
+  },
+  {
+   "title": "Report extract: Military Preparations in Japan",
+   "doc_type": "report extract",
+   "start_page": 109,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1932-09-01",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Condenses evidence of accelerated Japanese military and political preparation.",
+   "summary": "The extract lists active arsenals and aircraft factories, round-the-clock work at Yokosuka, the guarded chemical plant at Meguro, purchases of vehicles and American machine tools, and increased imports of strategic raw materials. It also notes deliberate war propaganda and the subordination of civil government to the military. Possible explanations include preparation for a League of Nations decision, further conflict in Manchuria, or war with China or the Soviet Union.",
+   "keywords": [
+    "Yokosuka",
+    "Meguro",
+    "war materials",
+    "League of Nations",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Flimsy report on foreign attachés’ theories of Japanese war preparations",
+   "doc_type": "press or intelligence report",
+   "start_page": 111,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1932-09-01",
+   "from": "Manager at Tokyo, source unidentified",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Reports foreign military attachés’ concern over preparations that might enable Japan to wage a major war.",
+   "summary": "The report cites factory work, imported munitions, motor-vehicle purchases, chemical stockpiles, and strategic railway construction in North Korea. Observers variously expected a new Russo-Japanese war, preparation against a remote American attack, or general readiness connected with operations in Manchuria. It adds that the Japanese Army planned expanded operations once the tall kaoliang crop no longer sheltered Chinese guerrillas.",
+   "keywords": [
+    "military attachés",
+    "Russo-Japanese war",
+    "North Korea",
+    "strategic railways",
+    "kaoliang",
+    "Manchurian operations"
+   ]
+  },
+  {
+   "title": "Division summary of Japanese troop movements through Dairen",
+   "doc_type": "internal summary memorandum",
+   "start_page": 115,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1932-12",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State officials",
+   "about": "Summarizes a Dairen despatch reporting substantial and increasingly secret Japanese troop movements.",
+   "summary": "The memorandum says troop statistics for June 14 through September 20 reveal considerable movement through Dairen. Unlike the conspicuous marches of midsummer, later movements and the repatriation of wounded soldiers were conducted with secrecy.",
+   "keywords": [
+    "Dairen",
+    "troop movements",
+    "secrecy",
+    "wounded soldiers",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Despatch on movement of Japanese troops through Dairen",
+   "doc_type": "consular despatch",
+   "start_page": 116,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1932-10-31",
+   "from": "E. B. Thomas, American Consul, Dairen",
+   "to": "American Embassy, Tokyo",
+   "about": "Provides source-based records of Japanese units, personnel, horses, aircraft, artillery, provisions, and ammunition passing through Dairen.",
+   "summary": "Thomas reports that Japanese forces moving to and from Manchuria were now embarked or disembarked at night and dispersed among ships to frustrate observation. Translated records list cavalry, motor, machine-gun, telegraph, aviation, hygiene, and other formations, along with recruits, horses, aircraft, artillery, provisions, arms, and ammunition. He emphasizes that the information came from an absolutely reliable written source, although the consulate could not estimate complete unit strength.",
+   "keywords": [
+    "Dairen",
+    "Japanese troop transport",
+    "cavalry",
+    "ammunition",
+    "secrecy",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Cross-reference to telegram No. 286",
+   "doc_type": "cross-reference sheet",
+   "start_page": 120,
+   "end_page": 120,
+   "continues_previous": false,
+   "date": "1932-12-20",
+   "from": "Department of State file staff",
+   "to": "Manchuria file 893.01/719",
+   "about": "Refers to Grew’s telegram confirming the movement of the Sixth Division to Manchuria.",
+   "summary": "The sheet states that the Japanese Ministry of War confirmed the Sixth Division was en route to Manchuria. It notes that the division would replace the Second Division.",
+   "keywords": [
+    "cross-reference",
+    "Sixth Division",
+    "Second Division",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Telegram No. 286 on deployment of the Sixth Division",
+   "doc_type": "telegram",
+   "start_page": 121,
+   "end_page": 121,
+   "continues_previous": false,
+   "date": "1932-12-20",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports official confirmation that the Japanese Sixth Division was going to Manchuria.",
+   "summary": "The War Ministry informed the Military Attaché that the Sixth Division was en route to replace the Second Division. Grew describes the Sixth as one of Japan’s best divisions and as composed of crack shock troops.",
+   "keywords": [
+    "Sixth Division",
+    "Second Division",
+    "War Ministry",
+    "Manchuria",
+    "shock troops"
+   ]
+  },
+  {
+   "title": "Cross-reference to despatch No. 227",
+   "doc_type": "cross-reference sheet",
+   "start_page": 122,
+   "end_page": 122,
+   "continues_previous": false,
+   "date": "1932-12-16",
+   "from": "Department of State file staff",
+   "to": "File 894.51/395",
+   "about": "Refers to Grew’s despatch transmitting Baron Goh’s address on state finances and military expenditure.",
+   "summary": "The sheet identifies Baron S. Goh as president of the Tokyo Chamber of Commerce and Industry. It characterizes his November 24 address as chiefly concerned with public finance and military spending.",
+   "keywords": [
+    "cross-reference",
+    "Baron Goh",
+    "state finance",
+    "military expenditure"
+   ]
+  },
+  {
+   "title": "Despatch No. 227 transmitting criticism of military expenditure",
+   "doc_type": "diplomatic despatch",
+   "start_page": 123,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "1932-12-16",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Interprets Baron Goh’s financial address and accompanying editorials as evidence of renewed public opposition to Japanese militarism.",
+   "summary": "Grew argues that Goh placed responsibility for Japan’s grave fiscal position directly on military expenditure and probably intended to press the services toward retrenchment. He places the speech within a longer cycle of declining military prestige, wartime enthusiasm after the Manchurian Incident, and renewed concern about taxes, inflation, and debt. The despatch introduces two editorials and an Embassy staff memorandum showing cautious but increasingly visible resistance to military dominance.",
+   "keywords": [
+    "Baron Goh",
+    "military expenditure",
+    "public debt",
+    "political opposition",
+    "war psychology",
+    "retrenchment"
+   ]
+  },
+  {
+   "title": "Speech by Baron Goh on Japanese financial policy",
+   "doc_type": "speech transcript",
+   "start_page": 128,
+   "end_page": 132,
+   "continues_previous": false,
+   "date": "1932-11-24",
+   "from": "Baron Seinosuke Gō",
+   "to": "Dinner audience of officials and business leaders",
+   "about": "Warns that deficit financing and largely unproductive military expenditure threatened Japanese financial stability.",
+   "summary": "Goh reviews the widening gap between revenue and expenditure and predicts enormous bond issues, monetary expansion, falling exchange rates, inflation, and possible economic disorder. Although he accepts that Manchurian operations, national defense, and relief measures require spending, he calls military and many public-works expenditures economically unproductive. He urges a fundamental policy to restore sound public finance while protecting genuinely productive enterprises.",
+   "keywords": [
+    "deficit finance",
+    "government bonds",
+    "inflation",
+    "military spending",
+    "economic stability",
+    "retrenchment"
+   ]
+  },
+  {
+   "title": "Financial Policy of the Military",
+   "doc_type": "newspaper editorial translation",
+   "start_page": 133,
+   "end_page": 134,
+   "continues_previous": false,
+   "date": "",
+   "from": "Jiji Shimpo",
+   "to": "Japanese public",
+   "about": "Criticizes military leaders for proposing tax and financial policy outside their proper sphere.",
+   "summary": "The editorial discusses a military proposal to increase taxation on wealthy people and high-dividend companies. It argues that military men should confine themselves to military matters and exercise restraint toward society. The paper warns that overreach could alienate the public and undermine the harmony on which national defense depends.",
+   "keywords": [
+    "Jiji Shimpo",
+    "military taxation plan",
+    "civil-military relations",
+    "public opposition",
+    "national defense"
+   ]
+  },
+  {
+   "title": "Military Authorities and the Political Parties",
+   "doc_type": "newspaper editorial translation",
+   "start_page": 135,
+   "end_page": 137,
+   "continues_previous": false,
+   "date": "1932-12-01",
+   "from": "Chugai Shogyo",
+   "to": "Japanese public",
+   "about": "Examines reports that Japanese political parties were turning their campaign criticism against the military authorities.",
+   "summary": "The editorial suggests that parties unable to attack the government or one another had made the military their remaining political target. It acknowledges that military authorities may have exceeded their proper role after the Manchurian Incident, even while allowing for wartime exigency. It cautions that continued excess could cost the services the public sympathy they had regained.",
+   "keywords": [
+    "political parties",
+    "military authorities",
+    "Manchurian Incident",
+    "public sympathy",
+    "political criticism"
+   ]
+  },
+  {
+   "title": "Memorandum on the League of University Professors of Japan",
+   "doc_type": "staff memorandum",
+   "start_page": 138,
+   "end_page": 139,
+   "continues_previous": false,
+   "date": "",
+   "from": "I. T. Turner",
+   "to": "American Embassy, Tokyo",
+   "about": "Reports a professors’ meeting apparently intended to demonstrate intellectual support for Japan’s overseas policy and the military.",
+   "summary": "Turner describes a gathering attended by senior officials, generals, admirals, and foreign diplomats, interpreting it as an attempt to display national unity behind Japan’s program. Nagai emphasized Japan’s scientific and cultural achievements, while Professor Inoue argued that literary and military values must remain balanced. In private Inoue explicitly said that culture was being neglected in favor of military prowess, reinforcing Turner’s impression that scholars resisted military domination.",
+   "keywords": [
+    "university professors",
+    "Japanese nationalism",
+    "intellectual opposition",
+    "military influence",
+    "Manchukuo"
+   ]
+  },
+  {
+   "title": "Radiogram on redistribution of Japanese forces",
+   "doc_type": "military radiogram",
+   "start_page": 140,
+   "end_page": 140,
+   "continues_previous": false,
+   "date": "1932-12-28",
+   "from": "McIlroy, Military Attaché, Tokyo",
+   "to": "Adjutant General, War Department",
+   "about": "Reports a War Office plan to strengthen Japanese units in Manchuria by reducing unit strength in Japan proper.",
+   "summary": "The War Office announced the plan before the Diet on December 27. The intended redistribution would materially enlarge forces in Manchuria without a proportionate overall expansion of the Army.",
+   "keywords": [
+    "War Office",
+    "Manchuria",
+    "Japan proper",
+    "force redistribution",
+    "Diet"
+   ]
+  },
+  {
+   "title": "Translation of Nanking cablegram on Japanese mobilization and Chinese constitutionalism",
+   "doc_type": "translated diplomatic cablegram",
+   "start_page": 141,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "1932-12-21",
+   "from": "Ministry of Foreign Affairs, Nanking, forwarded by the Chinese Legation",
+   "to": "Department of State, Washington",
+   "about": "Combines allegations of imminent Japanese mobilization with Kuomintang resolutions on constitutional government.",
+   "summary": "An unnamed observer claims that Japan’s armed-force preparations would be complete within six months and were aggressive toward the United States, defensive toward the Soviet Union, and disruptive toward China. The cable alleges nationwide youth training, reserve selection, women’s military training in Tokyo, and the ability to mobilize one million troops against the United States. It then reports Kuomintang measures for local autonomy, a 1935 people’s convention, and preparation of a draft constitution.",
+   "keywords": [
+    "Chinese intelligence",
+    "Japanese mobilization",
+    "youth training",
+    "women’s military organization",
+    "Kuomintang",
+    "constitutionalism"
+   ]
+  },
+  {
+   "title": "Translation of Nanking cablegram listing Japanese forces in Manchuria",
+   "doc_type": "translated diplomatic cablegram",
+   "start_page": 144,
+   "end_page": 144,
+   "continues_previous": false,
+   "date": "1932-12-30",
+   "from": "Ministry of Foreign Affairs, Nanking, forwarded by the Chinese Legation",
+   "to": "Department of State, Washington",
+   "about": "Lists Japanese divisions, brigades, headquarters, and garrisons in the northeastern provinces of China.",
+   "summary": "The cable locates elements of the Second, Eighth, Tenth, Fourteenth, and Fourth Divisions at Changchun, Jilin, Jinzhou, Dahushan, Harbin, Ning’an, Yilan, Qiqihar, Tonghua, and other points. It also lists cavalry brigades, a patrol regiment at Siping, and an additional Fourth Division said to have arrived from Korea.",
+   "keywords": [
+    "Japanese order of battle",
+    "Manchuria",
+    "divisions",
+    "brigades",
+    "garrisons",
+    "Kwangtung Army"
+   ]
+  },
+  {
+   "title": "Cross-reference to Stimson memorandum on junior-officer control",
+   "doc_type": "cross-reference sheet",
+   "start_page": 145,
+   "end_page": 145,
+   "continues_previous": false,
+   "date": "1933-01-05",
+   "from": "Henry L. Stimson, Department of State",
+   "to": "Japanese Ambassador",
+   "about": "Refers to a memorandum in which Stimson recalled saying that younger Army officers controlled the Japanese government.",
+   "summary": "The sheet records Stimson’s assertion that the controlling officers were no higher in rank than lieutenant colonel. It directs the reader to file 793.94/5709 for the memorandum.",
+   "keywords": [
+    "Stimson",
+    "Japanese Ambassador",
+    "junior officers",
+    "military control",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Cross-reference to Stimson memorandum on Tokyo government control",
+   "doc_type": "cross-reference sheet",
+   "start_page": 146,
+   "end_page": 146,
+   "continues_previous": false,
+   "date": "1933-01-05",
+   "from": "Henry L. Stimson, Department of State",
+   "to": "Japanese Ambassador",
+   "about": "Refers to a memorandum asserting that young Army officers exercised exceptional control over the government in Tokyo.",
+   "summary": "Stimson reportedly contrasted Tokyo with every other civilized capital because its whole government was said to be in the hands of young officers. The sheet directs readers to file 793.94/5712 for the full memorandum.",
+   "keywords": [
+    "Stimson",
+    "Tokyo",
+    "young Army officers",
+    "government control",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Telegram No. 27 on draft reinforcements for Manchuria",
+   "doc_type": "confidential telegram",
+   "start_page": 147,
+   "end_page": 147,
+   "continues_previous": false,
+   "date": "1933-01-23",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports measures expected to increase Japanese enlisted strength in Manchuria by at least one third.",
+   "summary": "The War Office said new draftees assigned to Manchurian divisions would be sent there immediately for training. Expiring men would remain with the colors until the replacements had two or three months’ training, while depot cadres in Japan would be reduced. Grew estimated that these measures would increase enlisted strength in Manchuria by at least one third.",
+   "keywords": [
+    "draft",
+    "reinforcements",
+    "Manchuria",
+    "depot battalions",
+    "War Office"
+   ]
+  },
+  {
+   "title": "Paraphrase of telegram on Manchurian reinforcements",
+   "doc_type": "telegram paraphrase",
+   "start_page": 148,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1933-01-25",
+   "from": "American Ambassador at Tokyo",
+   "to": "Department of State",
+   "about": "Paraphrases the report that new drafts and extended service would enlarge Japanese forces in Manchuria.",
+   "summary": "The paraphrase repeats the War Office’s January 23 information about immediate dispatch of new draftees, retention of time-expired soldiers, and reduction of depot cadres in Japan. It states that Manchurian enlisted strength would consequently rise by at least one third.",
+   "keywords": [
+    "telegram paraphrase",
+    "Manchuria",
+    "draft troops",
+    "extended service",
+    "reinforcement"
+   ]
+  },
+  {
+   "title": "Cross-reference to despatch No. 271 on opposition to the military",
+   "doc_type": "cross-reference sheet",
+   "start_page": 149,
+   "end_page": 149,
+   "continues_previous": false,
+   "date": "1933-01-27",
+   "from": "Joseph C. Grew, Japan",
+   "to": "File 894.00/465",
+   "about": "Refers to a despatch concerning a slowly developing revolt by Japanese political parties against military control.",
+   "summary": "The sheet identifies Grew’s January 27 despatch as the relevant document. Its subject is political-party resistance to the military’s control of the Japanese government.",
+   "keywords": [
+    "cross-reference",
+    "political parties",
+    "military control",
+    "Japan",
+    "Grew"
+   ]
+  },
+  {
+   "title": "Summary sheet for despatch No. 271: Opposition to Military in Japan",
+   "doc_type": "despatch summary",
+   "start_page": 150,
+   "end_page": 150,
+   "continues_previous": false,
+   "date": "1933-01-27",
+   "from": "Department of State file staff",
+   "to": "Department of State officials",
+   "about": "Summarizes Diet interpellations challenging Army influence over Manchuria, foreign policy, and public spending.",
+   "summary": "The sheet notes Hitoshi Ashida’s questions to the War and Foreign Ministers concerning the Army’s high-handed policy and alleged domination of the Foreign Office. It also records Shinya Uchida’s challenges concerning the Army and Navy budgets and the source of supreme military authority.",
+   "keywords": [
+    "Diet",
+    "Hitoshi Ashida",
+    "foreign policy",
+    "military budgets",
+    "supreme command"
+   ]
+  },
+  {
+   "title": "Despatch No. 271: Opposition to Military in Japan",
+   "doc_type": "diplomatic despatch",
+   "start_page": 151,
+   "end_page": 155,
+   "continues_previous": false,
+   "date": "1933-01-27",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports Diet criticism of the Army’s conduct in Manchuria, influence over diplomacy, military budgets, and claims of independent supreme command.",
+   "summary": "Grew describes Ashida’s contention that the Army ruled Manchuria by force without a coherent national policy and dominated the Foreign Office. The War and Foreign Ministers denied seeking exclusive control and rejected the charge of a separate War Department diplomacy. Shinya Uchida attacked the scale of Army and Navy budgets and pressed officials on who determined military strength; the War Minister’s invocation of imperial authority reportedly drew laughter and invective in the House.",
+   "keywords": [
+    "Diet interpellations",
+    "Ashida",
+    "Army diplomacy",
+    "Manchuria",
+    "military budgets",
+    "imperial command"
+   ]
+  },
+  {
+   "title": "Japan Times clipping enclosed with despatch on military opposition",
+   "doc_type": "newspaper clipping",
+   "start_page": 156,
+   "end_page": 157,
+   "continues_previous": false,
+   "date": "1933-01-23",
+   "from": "Japan Times",
+   "to": "American Embassy and Department of State",
+   "about": "Prints criticism of Japanese continental diplomacy alongside unrelated news and advertisements.",
+   "summary": "The principal political text calls for clearer policy toward China and Manchukuo, better Sino-Japanese relations, and a unified national diplomacy rather than divided departmental policies. It discusses American-Japanese and Russo-Japanese relations, armaments competition in the Pacific, Soviet concern about Far Eastern security, and the need for Foreign Minister Uchida to act decisively. Other columns describe Sven Hedin’s Jehol work and the migration of the Torgots, while advertisements name contemporary films and actors.",
+   "keywords": [
+    "Japan Times",
+    "continental policy",
+    "China",
+    "Manchukuo",
+    "United States",
+    "Soviet Union"
+   ]
+  },
+  {
+   "title": "Cross-reference to Grew letter on anti-foreign animosity",
+   "doc_type": "cross-reference sheet",
+   "start_page": 158,
+   "end_page": 158,
+   "continues_previous": false,
+   "date": "1932-08-13",
+   "from": "Joseph C. Grew, Japan",
+   "to": "File 894.00/434t",
+   "about": "Refers to a letter about the deliberate cultivation of Japanese hostility toward foreign nations.",
+   "summary": "The sheet states that public animosity against foreign countries was being built up deliberately. It interprets the campaign as a means of strengthening the military’s position in its Manchurian venture.",
+   "keywords": [
+    "cross-reference",
+    "anti-foreign sentiment",
+    "military propaganda",
+    "Manchuria",
+    "Grew"
+   ]
+  },
+  {
+   "title": "Cross-reference to report on Japanese Army activities",
+   "doc_type": "cross-reference sheet",
+   "start_page": 159,
+   "end_page": 159,
+   "continues_previous": false,
+   "date": "1933-03-09",
+   "from": "Joseph C. Grew, Japan",
+   "to": "File 761.94/595",
+   "about": "Refers to information from a Soviet source concerning activities of the Japanese Army.",
+   "summary": "The sheet identifies Grew and the date March 9, 1933. It directs readers to another decimal file for the Soviet-sourced report on Japanese Army activity.",
+   "keywords": [
+    "cross-reference",
+    "Japanese Army",
+    "Soviet source",
+    "Grew",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "Memorandum on Dawson report No. 1180",
+   "doc_type": "internal evaluation memorandum",
+   "start_page": 160,
+   "end_page": 160,
+   "continues_previous": false,
+   "date": "1933-02-18",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State officials",
+   "about": "Dismisses a report predicting a Japanese attack on the Philippines and the United States.",
+   "summary": "The memorandum says Dawson’s February 7 report relates a lurid story of an impending Japanese attack. The reviewing officer concludes that the account is not worth reading.",
+   "keywords": [
+    "Dawson report",
+    "Philippines",
+    "United States",
+    "Japanese attack",
+    "source evaluation"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 5,
+  "pages": [
+   81,
+   160
+  ],
+  "pdf": "894.20 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., May 5, 1930 - February 17, 1936 896.pdf",
+  "seconds": 1110.7,
+  "created": "2026-09-30 09:57:17",
+  "key": "japan-internal-affairs-894.20-military-affairs-army-6"
+ }
+}

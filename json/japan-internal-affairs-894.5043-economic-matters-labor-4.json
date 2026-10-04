@@ -1,0 +1,84 @@
+{
+ "interest": "Indexes Japan's 1930 Labor Union Bill and Seamen's Union activities.",
+ "keywords": [
+  "Japan",
+  "labor unions",
+  "Labor Union Bill",
+  "Japan Seamen's Union",
+  "Kobe",
+  "Imperial Diet",
+  "capital and labor",
+  "Department of State",
+  "List of Papers",
+  "labor legislation"
+ ],
+ "overview": "Indexes a 1930 Neville report on Japan's Labor Union Bill and a 1934 McClintock report on the Japan Seamen's Union.",
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d'Affaires in Japan",
+   "variants": [
+    "Neville"
+   ]
+  },
+  {
+   "name": "Robert Mills McClintock",
+   "role": "U.S. Vice Consul at Kobe",
+   "variants": [
+    "McClintock"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet listing and summarizing documents on labor union organization in Japan filed under decimal classification 894.5043 between 1930 and 1934.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Department of State",
+    "labor unions",
+    "Labor Union Bill",
+    "Japan Seamen's Union",
+    "Kobe",
+    "Edwin L. Neville",
+    "Robert Mills McClintock"
+   ],
+   "start_page": 1,
+   "summary": "Indexes a 1930 Neville report on Japan's contested Labor Union Bill and a 1934 McClintock report on the Seamen's Union.",
+   "title": "Department of State List of Papers: Organization -- Unions -- Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13753,
+   "output_tokens": 3268,
+   "thinking_tokens": 2421,
+   "cache_read_tokens": 0,
+   "total_tokens": 17021
+  },
+  "backend": "agy",
+  "seconds": 14.9,
+  "identifier": "japan-internal-affairs-894.5043-economic-matters-labor-4",
+  "file": "894.5043 Economic Matters., Labor., Japan, Organization. Unions.,  263.pdf",
+  "created": "2026-09-29 08:37:15"
+ }
+}

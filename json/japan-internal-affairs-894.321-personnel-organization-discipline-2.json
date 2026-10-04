@@ -1,0 +1,120 @@
+{
+ "interest": "Inquiries about Admirals Nakamura and Yamamoto.",
+ "keywords": [
+  "Japanese Navy",
+  "Commissioned Officers",
+  "Ryozo Nakamura",
+  "Isoroku Yamamoto",
+  "Alexander Wiley",
+  "Joseph C. Grew",
+  "George P. Kornely",
+  "Naval War College",
+  "Second Fleet",
+  "Supreme War Council",
+  "List of Papers",
+  "Form DS-46"
+ ],
+ "overview": "Docket for 894.321 (1940–43): Admiral Nakamura's posts and a senator's inquiry on Yamamoto's death.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Ryozo Nakamura",
+   "role": "Admiral, Japanese Navy; former head of Naval War College, Commander-in-Chief of the Second Fleet, and member of Supreme War Council",
+   "variants": [
+    "Admiral Ryozo Nakamura",
+    "Ryozo Nakamura"
+   ]
+  },
+  {
+   "name": "Isoroku Yamamoto",
+   "role": "Admiral, Japanese Navy (Commander-in-Chief of the Combined Fleet)",
+   "variants": [
+    "Admiral Iso-roku Yamamoto",
+    "Iso-roku Yamamoto",
+    "Admiral Yamamoto"
+   ]
+  },
+  {
+   "name": "Alexander Wiley",
+   "role": "United States Senator (Wisconsin)",
+   "variants": [
+    "Wiley, Alexander USS",
+    "Wiley, Alexander",
+    "Alexander Wiley"
+   ]
+  },
+  {
+   "name": "George P. Kornely",
+   "role": "Citizen / inquirer from Two Rivers, Wisconsin (noted as Michigan)",
+   "variants": [
+    "Kornely, George P.",
+    "Mr. Kornely",
+    "George P. Kornely"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Two Rivers",
+   "variants": [
+    "Two Rivers"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Michigan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Department of State list of papers indexing documents on Japanese naval commissioned officers, specifically Admirals Ryozo Nakamura and Isoroku Yamamoto.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Form DS-46",
+    "Japanese Navy",
+    "Ryozo Nakamura",
+    "Isoroku Yamamoto",
+    "Alexander Wiley",
+    "naval officers"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.321: Admiral Nakamura (1940) and inquiries on Yamamoto's death (1943).",
+   "title": "Department of State List of Papers: Commissioned Officers of the Japanese Navy",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13869,
+   "output_tokens": 7250,
+   "thinking_tokens": 6266,
+   "cache_read_tokens": 0,
+   "total_tokens": 21119
+  },
+  "backend": "agy",
+  "seconds": 30.2,
+  "identifier": "japan-internal-affairs-894.321-personnel-organization-discipline-2",
+  "file": "894.321 Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services., Japan, Commissioned Officers.,  178.pdf",
+  "created": "2026-09-29 04:04:18"
+ }
+}

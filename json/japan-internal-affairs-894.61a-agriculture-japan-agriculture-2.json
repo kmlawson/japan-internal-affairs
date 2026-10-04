@@ -1,0 +1,98 @@
+{
+ "interest": "This document offers valuable insight into the grassroots implementation of Allied Occupation agricultural policy in postwar Japan, illustrating how SCAP's Natural Resources Section (NRS) sought to modernize rural practices through American-style agricultural extension following land reform. It provides practical details on the heavy workloads, training regimens, and logistical challenges faced by over 6,000 newly recruited young Japanese farm advisers, who operated with minimal clerical support and relied on local cooperatives and village committees for office space. Additionally, it preserves vivid social history, documenting how advisers adopted innovative outreach techniques like calling-card drop boxes and took visible pride in riding 'green bicycles' and wearing green armbands to build rapport with local farmers.",
+ "keywords": [
+  "Agricultural Extension System",
+  "farm advisers",
+  "Natural Resources Section",
+  "Ministry of Agriculture and Forestry",
+  "rural education",
+  "Allied Occupation of Japan",
+  "agricultural cooperatives",
+  "agricultural improvement committees",
+  "Extension News",
+  "William J. Sebald",
+  "food production"
+ ],
+ "overview": "This file consists of unclassified Airgram A-321 dated November 25, 1949, sent from the Office of the United States Political Adviser (USPOLAD) in Tokyo to the Department of State in Washington, transmitting a press release issued on November 22, 1949, by the Public Affairs Office of General Headquarters, Far East Command. The document reports on a field survey conducted by a staff member of the Agricultural Division of the Natural Resources Section (NRS) assessing the progress of Japan's Agricultural Extension System. It describes the deployment and activities of more than 6,000 local farm advisers throughout rural Japan, the training programs established since April 1948 in cooperation with the Japanese Ministry of Agriculture and Forestry, the extensive schedule of farm visits and community demonstrations, and the grassroots logistical support provided by local agricultural improvement committees and cooperatives.",
+ "people": [
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "SEPALD"
+   ]
+  },
+  {
+   "name": "Carl H. Boehringer",
+   "role": "Foreign Service Officer / Drafter, USPOLAD Tokyo",
+   "variants": [
+    "CHEOCHRINGER"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "American"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmits a Far East Command press release detailing the findings of an Agricultural Division survey on the work of newly trained farm advisers under Japan's Agricultural Extension System.",
+   "date": "1949-11-25",
+   "doc_type": "airgram",
+   "end_page": 3,
+   "from": "United States Political Adviser for Japan (USPOLAD), Tokyo (William J. Sebald)",
+   "keywords": [
+    "Agricultural Extension System",
+    "farm advisers",
+    "Natural Resources Section",
+    "Ministry of Agriculture and Forestry",
+    "agricultural improvement",
+    "extension methods",
+    "green bicycles"
+   ],
+   "start_page": 1,
+   "summary": "Airgram A-321 conveys a November 22, 1949 GHQ Far East Command press release outlining the accomplishments and field operations of Japan's Agricultural Extension System. Trained under guidance initiated by SCAP's Natural Resources Section in April 1948, over 6,000 young farm advisers were stationed across Japan (approximately one per thousand households) to conduct farm visits, farmer meetings, and field demonstrations. The report details the training short courses, collaboration with local agricultural improvement committees and cooperatives, challenges with office staffing and heavy workloads, and the unique outreach methods employed by advisers, such as distinctive green bicycles and armbands.",
+   "title": "Airgram A-321 from USPOLAD Tokyo transmitting Far East Command release on Activities of Farm Advisers in Japan",
+   "to": "Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14795,
+   "output_tokens": 5824,
+   "thinking_tokens": 4928,
+   "cache_read_tokens": 0,
+   "total_tokens": 20619
+  },
+  "backend": "agy",
+  "seconds": 21.3,
+  "identifier": "japan-internal-affairs-894.61a-agriculture-japan-agriculture-2",
+  "file": "894.61A Agriculture., Japan, Agriculture Adviser., November 25, 1949 1791.pdf",
+  "created": "2026-09-29 11:49:42"
+ }
+}

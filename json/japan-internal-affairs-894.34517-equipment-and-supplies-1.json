@@ -1,0 +1,88 @@
+{
+ "interest": "Rumored Japanese base in the Gulf of Fonseca.",
+ "keywords": [
+  "Gulf of Fonseca",
+  "naval base",
+  "El Salvador",
+  "Japan",
+  "Nicaragua",
+  "Frank P. Corrigan",
+  "State Department",
+  "coaling stations",
+  "naval intelligence",
+  "Central America"
+ ],
+ "overview": "Cross-reference note to Corrigan's 1936 despatch on an alleged Japanese base in the Gulf of Fonseca.",
+ "people": [
+  {
+   "name": "Frank P. Corrigan",
+   "role": "U.S. Minister to El Salvador",
+   "variants": [
+    "Corrigan"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Gulf of Fonseca",
+   "variants": [
+    "Gulf of Fonseca"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "El Salvador"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nicaragua"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department cross-reference sheet indexing a despatch from El Salvador regarding an anonymous letter alleging plans for a Japanese naval base in the Gulf of Fonseca.",
+   "date": "1936-01-22",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Frank P. Corrigan (El Salvador)",
+   "keywords": [
+    "Gulf of Fonseca",
+    "naval base",
+    "El Salvador",
+    "Japan",
+    "Frank P. Corrigan",
+    "cross-reference sheet",
+    "anonymous letter"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Corrigan's despatch on an alleged Gulf of Fonseca base for Japan.",
+   "title": "Cross-Reference Sheet for Despatch No. 564 from Corrigan (San Salvador) on Alleged Japanese Naval Base in Gulf of Fonseca",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13680,
+   "output_tokens": 3315,
+   "thinking_tokens": 2599,
+   "cache_read_tokens": 0,
+   "total_tokens": 16995
+  },
+  "backend": "agy",
+  "seconds": 13.7,
+  "identifier": "japan-internal-affairs-894.34517-equipment-and-supplies-1",
+  "file": "894.34517 Equipment And Supplies. Included Construction, Purchase And Sale Of Vessels. Repairs To Foreign Naval Vessels., Naval And Coaling Stations Of Japan In Nicaragua., January 22, 1936 889.pdf",
+  "created": "2026-09-29 04:52:56"
+ }
+}

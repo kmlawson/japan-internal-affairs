@@ -1,0 +1,126 @@
+{
+ "interest": "1939 sighting of a suspicious Japanese vessel off Guam.",
+ "keywords": [
+  "Guam",
+  "Office of Naval Intelligence",
+  "Japanese vessel",
+  "espionage",
+  "reconnaissance",
+  "Ritidian Point",
+  "Uruno Point",
+  "Fish Warden",
+  "radio direction finder",
+  "naval intelligence",
+  "coastal surveillance",
+  "Mariana Islands"
+ ],
+ "overview": "Navy report of March 31, 1939: a radio-equipped vessel with fifteen Japanese seen off Guam's Uruno Point.",
+ "people": [
+  {
+   "name": "G. W. Johnson",
+   "role": "Commander, USN; Intelligence Officer",
+   "variants": [
+    "Cdr. G. W. JOHNSON, USN",
+    "G. W. JOHNSON, Comdr.",
+    "G. W. JOHNSON"
+   ]
+  },
+  {
+   "name": "J. T. Alexander",
+   "role": "Captain, USN; Commanding Officer",
+   "variants": [
+    "Capt. J. T. ALEXANDER, USN"
+   ]
+  },
+  {
+   "name": "George Scharff",
+   "role": "Fish Warden, Island of Guam",
+   "variants": [
+    "George Scharff",
+    "Mr. Scharff",
+    "Scharff"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam, M.I.",
+    "Island of Guam",
+    "Guam"
+   ]
+  },
+  {
+   "name": "Ritidian Point",
+   "variants": [
+    "Rittidian Point"
+   ]
+  },
+  {
+   "name": "Uruno Point",
+   "variants": [
+    "Uruno Point"
+   ]
+  },
+  {
+   "name": "Mariana Islands",
+   "variants": [
+    "M.I."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S.",
+    "U.S.",
+    "U. S. S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A confidential U.S. Navy intelligence report detailing the sighting of a suspicious Japanese motorized vessel equipped with radio direction-finding gear off the northern coast of Guam.",
+   "date": "1939-03-31",
+   "doc_type": "report",
+   "end_page": 1,
+   "from": "Commander G. W. Johnson, USN, Intelligence Officer",
+   "keywords": [
+    "Guam",
+    "Office of Naval Intelligence",
+    "Japanese vessel",
+    "espionage",
+    "Ritidian Point",
+    "Uruno Point",
+    "George Scharff",
+    "naval intelligence"
+   ],
+   "start_page": 1,
+   "summary": "Commander Johnson reports that Guam's fish warden saw a radio-equipped vessel with about fifteen Japanese off Uruno Point on March 29, 1939. It fled, and police were ordered to search the jungle for landings.",
+   "title": "Intelligence Report on Movement of Japanese Vessel off Guam",
+   "to": "Office of Naval Intelligence"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14505,
+   "output_tokens": 5216,
+   "thinking_tokens": 4128,
+   "cache_read_tokens": 0,
+   "total_tokens": 19721
+  },
+  "backend": "agy",
+  "seconds": 17.9,
+  "identifier": "japan-internal-affairs-894.20211d-military-affairs-army-2",
+  "file": "894.20211D Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Guam Including Gathering Of Information. Espionage. Propaganda., March 31, 1090.pdf",
+  "created": "2026-09-28 23:59:23"
+ }
+}

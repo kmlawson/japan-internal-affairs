@@ -1,0 +1,67 @@
+{
+ "interest": "Docket for Japanese births file, routed to Kobe.",
+ "keywords": [
+  "Japan",
+  "births",
+  "vital statistics",
+  "public health",
+  "Department of State",
+  "Kobe",
+  "List of Papers",
+  "consular records",
+  "Record Group 59",
+  "decimal file 894.1221"
+ ],
+ "overview": "Docket for 894.1221 (births in Japan) listing a single note to Kobe; no documents attached.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Hobe"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet indexing documents concerning births and vital statistics in Japan.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Department of State",
+    "List of Papers",
+    "Japan",
+    "births",
+    "vital statistics",
+    "Kobe"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.1221 listing an August 12 note to Kobe.",
+   "title": "Department of State List of Papers: Births - Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13678,
+   "output_tokens": 2754,
+   "thinking_tokens": 2229,
+   "cache_read_tokens": 0,
+   "total_tokens": 16432
+  },
+  "backend": "agy",
+  "seconds": 11.9,
+  "identifier": "japan-internal-affairs-894.1221-public-health-hospitals-2",
+  "file": "894.1221 Public Health. Hospitals. Hospital Service., Vital Statistics., Japan, Birth.,  398.pdf",
+  "created": "2026-09-28 23:16:52"
+ }
+}

@@ -1,0 +1,1425 @@
+{
+ "section_summary": "This section opens with a detailed Department of Commerce report on mid-1941 United States trade with Japan, China, Hong Kong, and the Kwantung Leased Territory. Subsequent records concern coordination of American, British, and Netherlands East Indies restrictions on Japanese trade, especially petroleum, textiles, strategic metals, and cotton, alongside intelligence on Japan’s oil reserves and wartime industrial preparations. The closing documents address Universal Oil Products Company’s refusal to transfer refinery technology to Japan and investigations of possible shipments of cotton and contraband mercury to Japanese destinations.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington",
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washington, D. L."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan",
+    "Japan Proper",
+    "JAPAN PROPER",
+    "Empire of Japan",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "CHINA",
+    "China",
+    "all China",
+    "Total China"
+   ]
+  },
+  {
+   "name": "Free China",
+   "variants": [
+    "\"Free\" China"
+   ]
+  },
+  {
+   "name": "Japanese-occupied China",
+   "variants": [
+    "\"Occupied\" China",
+    "\"Occupied\" China, incl. Manchuria"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "HONG KONG",
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "KWANTUNG",
+    "Kwantung",
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manohurian area",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies (Indonesia)",
+   "variants": [
+    "Netherlands East Indies",
+    "Netherlands Indies",
+    "Netherland Indies",
+    "East Indies",
+    "Indies",
+    "N.E.I."
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Empire",
+    "Colonial Empire"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asiatic"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivian",
+    "Bolivians"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "chile",
+    "Chilean"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Portland",
+   "variants": [
+    "Portland"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "Oregon"
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Wancouver",
+    "Vancouver"
+   ]
+  },
+  {
+   "name": "British Columbia",
+   "variants": [
+    "British Columbia"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "MEx1Co"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "Manzanillo",
+   "variants": [
+    "Manzanillo"
+   ]
+  },
+  {
+   "name": "Colima",
+   "variants": [
+    "Colima"
+   ]
+  },
+  {
+   "name": "Tampico",
+   "variants": [
+    "Tampico"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "ARGENTINA"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "BUENOS AIPES",
+    "PUENOS AIRES",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Barranqueras",
+   "variants": [
+    "Barranqueras"
+   ]
+  },
+  {
+   "name": "Paraguay",
+   "variants": [
+    "Paraguay",
+    "Pareguay"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brezil"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "R1e dE Janciro",
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "El Salvader"
+   ]
+  },
+  {
+   "name": "San Salvador",
+   "variants": [
+    "San Salvador"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima"
+   ]
+  },
+  {
+   "name": "Asunción",
+   "variants": [
+    "Asuncion"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinoke City"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori Prefecture"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Haneda Moto-chō",
+   "variants": [
+    "Haneda Moto-cho"
+   ]
+  },
+  {
+   "name": "Kamata-ku",
+   "variants": [
+    "Kamata-Ku"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberian border"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NewJork"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "V. C. Hungerford",
+   "role": "Department of Commerce Far Eastern Unit official associated with the trade report",
+   "variants": [
+    "VCHungerford"
+   ]
+  },
+  {
+   "name": "Baron van Boetzelaer",
+   "role": "Minister Counselor of the Netherlands Legation",
+   "variants": [
+    "Baron van Boetzelaer",
+    "Baron van Boetzeleer",
+    "Baron van Beetselaer",
+    "Baron van Reetselmer",
+    "Baron van Doetselaer"
+   ]
+  },
+  {
+   "name": "Alger Hiss",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Alger Hiss",
+    "Mr. Alger Hiss",
+    "Kr. Alger Miss",
+    "Mr. Alger Hide",
+    "Alger Miss"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Acheson",
+    "Dean Achesen",
+    "Dean Acheson",
+    "Assistant Secretary Acheson",
+    "Assistant Sesretary Asheson"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "State Department official consulted about Netherlands East Indies policy",
+   "variants": [
+    "Mr. Welles"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department adviser consulted about Netherlands East Indies policy",
+   "variants": [
+    "Dr. Hornbeok",
+    "Mr. Hornbeck",
+    "Mr. Hornbeok"
+   ]
+  },
+  {
+   "name": "C. K. Moser",
+   "role": "Chief of the Far Eastern Section, Division of Regional Information, Department of Commerce",
+   "variants": [
+    "Er. C. K. Meser",
+    "Mr. Moser",
+    "Nr. Moser"
+   ]
+  },
+  {
+   "name": "Dr. Riemens",
+   "role": "Commercial secretary of the Netherlands Legation",
+   "variants": [
+    "Dr. Riemens",
+    "Dr. Miemens",
+    "Br. Riemems"
+   ]
+  },
+  {
+   "name": "Mr. Zimmerman",
+   "role": "Person obtaining particular textile shipments for the Netherlands East Indies",
+   "variants": [
+    "Mr. Zimmermam"
+   ]
+  },
+  {
+   "name": "Mr. Murchison",
+   "role": "Representative of the Cotton Textile Institute",
+   "variants": [
+    "Mr. Murekison"
+   ]
+  },
+  {
+   "name": "Mr. Pickard",
+   "role": "Representative of the Cotton Textile Foundation",
+   "variants": [
+    "Nr. Piokard"
+   ]
+  },
+  {
+   "name": "Mr. Miller",
+   "role": "State Department official and author of the September 18 memorandum",
+   "variants": [
+    "Mr. Miller",
+    "E.G.M."
+   ]
+  },
+  {
+   "name": "Mr. Fox",
+   "role": "Foreign Funds Control official",
+   "variants": [
+    "Mr. Fox"
+   ]
+  },
+  {
+   "name": "Mr. Singer",
+   "role": "Representative of Standard Vacuum",
+   "variants": [
+    "Mr. Singer",
+    "Mr.Singer"
+   ]
+  },
+  {
+   "name": "Mr. Loudon",
+   "role": "Netherlands Minister",
+   "variants": [
+    "Mr. Loudon"
+   ]
+  },
+  {
+   "name": "Noel P. Hall",
+   "role": "Minister Plenipotentiary at the British Embassy",
+   "variants": [
+    "Noel P. Hall",
+    "Mr. Hall"
+   ]
+  },
+  {
+   "name": "Sir Thomas Moore",
+   "role": "Member of Parliament who questioned the Minister of Economic Warfare",
+   "variants": [
+    "Lieut.-Colonel Sir Thomas Moore",
+    "Sir T. Moore"
+   ]
+  },
+  {
+   "name": "Mr. Foot",
+   "role": "British Minister of Economic Warfare",
+   "variants": [
+    "Mr. Foot"
+   ]
+  },
+  {
+   "name": "Mr. Noel-Baker",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Noel-Baker"
+   ]
+  },
+  {
+   "name": "A. Edwards",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. A. Edwards"
+   ]
+  },
+  {
+   "name": "Sir A. Duncan",
+   "role": "President of the British Board of Trade",
+   "variants": [
+    "Sir A. Duncan"
+   ]
+  },
+  {
+   "name": "A. D. Marris",
+   "role": "British Embassy official",
+   "variants": [
+    "A. D. Marris",
+    "A.D. arric"
+   ]
+  },
+  {
+   "name": "T. K. Finletter",
+   "role": "Special Assistant to the Secretary of State",
+   "variants": [
+    "T. K. Finletter",
+    "Finletter"
+   ]
+  },
+  {
+   "name": "J. Reinstein",
+   "role": "State Department official",
+   "variants": [
+    "Mr. J. Reinstein"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Berfe",
+    "Adolf A. Berle, Jr.",
+    "Adolf A. Berle",
+    "Mr. Berle",
+    "Mr. Bebylo"
+   ]
+  },
+  {
+   "name": "Sir Sassoon",
+   "role": "British businessman reported to own the China Import and Export Lumber Company",
+   "variants": [
+    "Sir Sasoon"
+   ]
+  },
+  {
+   "name": "McMillan",
+   "role": "Reported Vancouver representative of Jardine and Madison",
+   "variants": [
+    "McMillan"
+   ]
+  },
+  {
+   "name": "Collins",
+   "role": "Investigator reporting on the suspicious railway car at Tampico",
+   "variants": [
+    "Collins"
+   ]
+  },
+  {
+   "name": "McGurk",
+   "role": "United States diplomatic officer in Mexico",
+   "variants": [
+    "MC GURK",
+    "MCGURK"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State and sender of State Department telegrams",
+   "variants": [
+    "Hull"
+   ]
+  },
+  {
+   "name": "Jefferson Caffery",
+   "role": "United States diplomatic officer in Rio de Janeiro",
+   "variants": [
+    "CAFFERY"
+   ]
+  },
+  {
+   "name": "Milo Perkins",
+   "role": "Executive Secretary or Executive Director of the Economic Defense Board",
+   "variants": [
+    "Mile Pertins",
+    "Milo Perkins"
+   ]
+  },
+  {
+   "name": "Emilio G. Collado",
+   "role": "Special Assistant to the Under Secretary of State",
+   "variants": [
+    "Eailio G. Cellado",
+    "Imilio Q. Collado",
+    "Emilio G. Collado"
+   ]
+  },
+  {
+   "name": "Norweb",
+   "role": "United States diplomatic officer in Lima",
+   "variants": [
+    "NORWEB"
+   ]
+  },
+  {
+   "name": "Ellis",
+   "role": "United States diplomatic officer in San Salvador",
+   "variants": [
+    "ELLIS"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "J. Edgar Hoover"
+   ]
+  },
+  {
+   "name": "Alan Goodrich Kirk",
+   "role": "Captain and Director of Naval Intelligence",
+   "variants": [
+    "Captain Alan Goodrich Kirk"
+   ]
+  },
+  {
+   "name": "Sherman Miles",
+   "role": "Brigadier General and Assistant Chief of Staff, G-2, War Department",
+   "variants": [
+    "Brigadier General Sherman Miles"
+   ]
+  },
+  {
+   "name": "Frost",
+   "role": "United States diplomatic officer in Asunción",
+   "variants": [
+    "FROST"
+   ]
+  },
+  {
+   "name": "H. J. Halle",
+   "role": "President of Universal Oil Products Company",
+   "variants": [
+    "Mr. H. J. Halle",
+    "Mr. Halle",
+    "Halle"
+   ]
+  },
+  {
+   "name": "Harold W. Moseley",
+   "role": "State Department Division of Controls official",
+   "variants": [
+    "Mr. Harold . Mosele",
+    "Harold W. Moseley",
+    "Harold W. Moseloy"
+   ]
+  },
+  {
+   "name": "Hisashi Sekiguchi",
+   "role": "Original Japanese licensee of Universal Oil Products cracking and refining processes",
+   "variants": [
+    "isashi Sekiguchi",
+    "Sekiguchi"
+   ]
+  },
+  {
+   "name": "Masao Saneyoshi",
+   "role": "President of Japan Gasoline Company",
+   "variants": [
+    "Masao Saneyoshi",
+    "Mr. Saneyoshi",
+    "Saneyoshi"
+   ]
+  },
+  {
+   "name": "Joseph C. Green",
+   "role": "State Department Division of Controls official",
+   "variants": [
+    "Joseph C. Green",
+    "Mr. Green",
+    "Mr. Grben"
+   ]
+  },
+  {
+   "name": "Mr. Loreen",
+   "role": "State Department official receiving a Division of Controls memorandum",
+   "variants": [
+    "Mr. Loreen"
+   ]
+  },
+  {
+   "name": "Mr. Morishima",
+   "role": "Counselor of the Japanese Embassy",
+   "variants": [
+    "Mr. Morishima"
+   ]
+  },
+  {
+   "name": "Antonio Llorens",
+   "role": "Consignee of the suspicious railway car at Manzanillo",
+   "variants": [
+    "Sr. Antonio Llorens"
+   ]
+  }
+ ],
+ "keywords": [
+  "United States–Japan trade",
+  "export controls",
+  "Netherlands East Indies",
+  "petroleum embargo",
+  "Japanese oil reserves",
+  "strategic commodities",
+  "cotton shipments",
+  "British trade policy",
+  "industrial preparedness",
+  "refinery technology",
+  "contraband mercury",
+  "economic defense"
+ ],
+ "subfiles": [
+  {
+   "title": "Trade of the United States with Japan, China, Hong Kong and Kwantung, June 1941 and Six Months Ending June 1941",
+   "doc_type": "statistical trade report",
+   "start_page": 321,
+   "end_page": 339,
+   "continues_previous": false,
+   "date": "1941-09-24",
+   "from": "Department of Commerce, Far Eastern Unit",
+   "to": "United States Government officials",
+   "about": "Reports and interprets United States trade with Japan, China, Hong Kong, and Kwantung during June and the first half of 1941.",
+   "summary": "The report finds that American exports to Japan fell sharply, with shipments largely confined to cotton and petroleum, while imports from Japan rose because of speculative raw-silk purchases. It compares trade with China by Free, Shanghai, and occupied areas and supplies extensive commodity tables for Japan, China, Hong Kong, and Kwantung. The figures also document reduced exports of strategic metals and machinery to Japan and the effects of the Japanese blockade on Chinese imports.",
+   "keywords": [
+    "trade statistics",
+    "Japan",
+    "China",
+    "Hong Kong",
+    "Kwantung",
+    "raw silk",
+    "petroleum",
+    "strategic metals"
+   ]
+  },
+  {
+   "title": "Memorandum of Conversation on Netherlands East Indies Trade Policy Toward Japan",
+   "doc_type": "memorandum of conversation",
+   "start_page": 340,
+   "end_page": 345,
+   "continues_previous": false,
+   "date": "1941-09-18",
+   "from": "Alger Hiss",
+   "to": "Dean Acheson and Department of State files",
+   "about": "Records Baron van Boetzelaer’s request for clarification of American trade restrictions and his account of proposed Netherlands East Indies measures against Japan.",
+   "summary": "Van Boetzelaer said the Netherlands wished to avoid adopting policies either more liberal or more restrictive than those eventually chosen by the United States. He summarized an August 4 memorandum proposing the freezing of Japanese funds, severe restrictions on strategic exports, reduced petroleum quotas, and coordination among the United States, Britain, and the Netherlands East Indies. The memorandum warned that a weak or gradually tightened embargo could encourage Japanese expansion and weaken Chinese resistance.",
+   "keywords": [
+    "Netherlands East Indies",
+    "Japan",
+    "petroleum",
+    "embargo coordination",
+    "frozen funds",
+    "strategic exports"
+   ]
+  },
+  {
+   "title": "Memorandum of Conversation on Netherlands East Indies Textile Import Needs",
+   "doc_type": "memorandum of conversation",
+   "start_page": 346,
+   "end_page": 348,
+   "continues_previous": false,
+   "date": "1941-09-18",
+   "from": "Alger Hiss",
+   "to": "Dean Acheson and Department of State files",
+   "about": "Discusses efforts to obtain American cotton textiles for the Netherlands East Indies as replacements for Japanese imports.",
+   "summary": "Dr. Riemens and Baron van Boetzelaer stressed that American textiles would strengthen the Netherlands East Indies in its commercial and political relations with Japan. C. K. Moser supported the effort but said American producers were preoccupied with domestic demand. He proposed a State Department note that could be shown to manufacturers and an industry conference involving textile-association leaders.",
+   "keywords": [
+    "textiles",
+    "Netherlands East Indies",
+    "cotton industry",
+    "Department of Commerce",
+    "Japan",
+    "import substitution"
+   ]
+  },
+  {
+   "title": "Memorandum on Standard Vacuum Remittances and Netherlands East Indies Oil Shipment",
+   "doc_type": "memorandum",
+   "start_page": 349,
+   "end_page": 349,
+   "continues_previous": false,
+   "date": "1941-09-18",
+   "from": "Mr. Miller",
+   "to": "Alger Hiss",
+   "about": "Relays a Foreign Funds Control conversation about Japanese remittances and financing for an oil shipment from the Netherlands East Indies to Japan.",
+   "summary": "Mr. Singer sought the status of applications covering a $557,000 Japanese remittance and payment of $105,000 for an oil shipment. Treasury was considering both applications. Singer also reported that Netherlands East Indies authorities would issue an export license if the financing application were approved.",
+   "keywords": [
+    "Standard Vacuum",
+    "oil shipment",
+    "Japanese funds",
+    "Treasury Department",
+    "export license"
+   ]
+  },
+  {
+   "title": "Duplicate Memorandum of Conversation on Netherlands East Indies Trade Policy Toward Japan",
+   "doc_type": "duplicate memorandum of conversation",
+   "start_page": 350,
+   "end_page": 355,
+   "continues_previous": false,
+   "date": "1941-09-18",
+   "from": "Alger Hiss",
+   "to": "Dean Acheson and Department of State files",
+   "about": "Provides a second, poorly reproduced copy of the September 18 conversation with Baron van Boetzelaer.",
+   "summary": "This copy repeats the Netherlands request for clarity on American restrictions and the Governor-General’s suggested policy toward Japanese assets, strategic goods, and petroleum. It again emphasizes coordinated American, British, and Netherlands East Indies action and warns that a partial embargo could strengthen Japanese militarists and undermine resistance in China.",
+   "keywords": [
+    "duplicate copy",
+    "Netherlands East Indies",
+    "trade restrictions",
+    "petroleum embargo",
+    "Japan",
+    "coordination"
+   ]
+  },
+  {
+   "title": "Memorandum of Conversation on Netherlands East Indies Petroleum Policy",
+   "doc_type": "memorandum of conversation",
+   "start_page": 356,
+   "end_page": 358,
+   "continues_previous": false,
+   "date": "1941-09-20",
+   "from": "Alger Hiss",
+   "to": "Dean Acheson and Department of State files",
+   "about": "Records confirmation that the Netherlands East Indies was prepared to embargo petroleum exports to Japan if the United States adopted the same policy.",
+   "summary": "Van Boetzelaer said the Indies Government had confirmed its readiness to stop petroleum exports under a parallel American embargo. He clarified that the Governor-General’s August 4 memorandum expressed personal rather than formal official views, although those views carried great weight. Mr. Loudon confirmed that he had described the memorandum fully to Welles, Hornbeck, and the Secretary without leaving a copy.",
+   "keywords": [
+    "petroleum embargo",
+    "Netherlands East Indies",
+    "Japan",
+    "Governor-General",
+    "policy coordination"
+   ]
+  },
+  {
+   "title": "British Embassy Letter Enclosing Parliamentary Statements on Trade with Japan",
+   "doc_type": "letter",
+   "start_page": 359,
+   "end_page": 359,
+   "continues_previous": false,
+   "date": "1941-10-01",
+   "from": "Noel P. Hall, British Embassy",
+   "to": "Dean Acheson",
+   "about": "Forwards copies of British parliamentary answers concerning trade with Japan.",
+   "summary": "Hall sent Acheson statements made in Parliament on September 9 and 10. He noted that copies had also been furnished to the Treasury.",
+   "keywords": [
+    "British Embassy",
+    "Parliament",
+    "Japan",
+    "trade policy",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Parliamentary Question on Anglo-Japanese Trade",
+   "doc_type": "parliamentary statement",
+   "start_page": 360,
+   "end_page": 360,
+   "continues_previous": false,
+   "date": "1941-09-10",
+   "from": "Mr. Foot, Minister of Economic Warfare",
+   "to": "House of Commons",
+   "about": "Answers questions about a reported barter arrangement and British trade with Japan.",
+   "summary": "Mr. Foot denied that any general barter arrangement existed and said frozen funds could not be used for new exports to Japan. No exceptional imports had been licensed, so no clearing arrangement or reciprocal exports had arisen. He stated that no trade was taking place between the United Kingdom and Japan.",
+   "keywords": [
+    "Anglo-Japanese trade",
+    "freezing order",
+    "barter",
+    "clearing account",
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Parliamentary Question on British Exports to Japan",
+   "doc_type": "parliamentary statement",
+   "start_page": 361,
+   "end_page": 361,
+   "continues_previous": false,
+   "date": "1941-09-09",
+   "from": "Sir A. Duncan, President of the Board of Trade",
+   "to": "House of Commons",
+   "about": "States British policy on licenses and exports of war-useful materials to Japan.",
+   "summary": "Duncan said Japanese assets had been frozen on July 26 and all exports to the Japanese Empire placed under license on August 15. No licenses had since been granted, none were expected soon, and no materials known to be useful for munitions had been exported during the preceding three months.",
+   "keywords": [
+    "British exports",
+    "Japan",
+    "asset freeze",
+    "export licensing",
+    "munitions"
+   ]
+  },
+  {
+   "title": "Acknowledgment of British Parliamentary Statements",
+   "doc_type": "letter",
+   "start_page": 362,
+   "end_page": 362,
+   "continues_previous": false,
+   "date": "1941-10-06",
+   "from": "Dean Acheson",
+   "to": "Noel P. Hall",
+   "about": "Acknowledges receipt of British parliamentary statements about trade with Japan.",
+   "summary": "Acheson thanked Hall for his October 1 letter. He specifically acknowledged the enclosed statements concerning trade with Japan.",
+   "keywords": [
+    "acknowledgment",
+    "British Embassy",
+    "Parliament",
+    "Japan trade"
+   ]
+  },
+  {
+   "title": "British Embassy Letter Correcting Report on Bolivian Tin Shipments",
+   "doc_type": "letter",
+   "start_page": 363,
+   "end_page": 363,
+   "continues_previous": false,
+   "date": "1941-10-08",
+   "from": "A. D. Marris, British Embassy",
+   "to": "T. K. Finletter",
+   "about": "Corrects an earlier letter about suspected shipments of Bolivian tin through Chile to Japan.",
+   "summary": "Marris noted that the earlier letter had failed to ask the United States to approach the Bolivian authorities. He also corrected a typographical error that had substituted “Bolivian” for “Chilean” in describing a shipping line and supplied a replacement letter.",
+   "keywords": [
+    "Bolivian tin",
+    "Chile",
+    "Japan",
+    "shipping",
+    "correction"
+   ]
+  },
+  {
+   "title": "British Embassy Letter on Empire Exports to Japan",
+   "doc_type": "letter",
+   "start_page": 364,
+   "end_page": 364,
+   "continues_previous": false,
+   "date": "1941-10-09",
+   "from": "A. D. Marris, British Embassy",
+   "to": "J. Reinstein",
+   "about": "Reports whether strategic commodities were being exported from British-controlled territories to Japan.",
+   "summary": "The Embassy stated that no recent or contemplated exports covered tin and rubber from the Empire, pig iron from India, lead and zinc from Malaya, or petroleum products from British-controlled sources. It added that no decision had yet been made on which imports would be treated as essential.",
+   "keywords": [
+    "British Empire",
+    "Japan",
+    "tin",
+    "rubber",
+    "pig iron",
+    "petroleum"
+   ]
+  },
+  {
+   "title": "FBI Letter on British Firms Supplying the Japanese Army in China",
+   "doc_type": "intelligence letter",
+   "start_page": 365,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "1941-10-06",
+   "from": "Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Reports allegations that two British firms were supplying the Japanese Army in China.",
+   "summary": "The report alleges that the China Import and Export Lumber Company and Jardine and Madison obtained Japanese Army business despite lower bids from Japanese competitors. It claims the lumber company paid large commissions to Japanese Army personnel and identifies its reported ownership and representatives in Portland and Vancouver. Copies were directed to Army and Navy intelligence.",
+   "keywords": [
+    "Japanese Army",
+    "China",
+    "British firms",
+    "lumber",
+    "commissions",
+    "FBI intelligence"
+   ]
+  },
+  {
+   "title": "Telegram on Suspicious Railway Car at Tampico",
+   "doc_type": "telegram",
+   "start_page": 366,
+   "end_page": 366,
+   "continues_previous": false,
+   "date": "1941-10-18",
+   "from": "U.S. Embassy in Mexico, McGurk",
+   "to": "Secretary of State",
+   "about": "Reports the inspection at Tampico of a suspicious railway car previously dispatched from Manzanillo.",
+   "summary": "Customs officials found 88 flasks of mercury and 264 twenty-seven-kilogram slabs of zinc in the car. Collins doubted that an illegal export from Tampico was intended and believed the car may have been moved there to evade investigation at Manzanillo.",
+   "keywords": [
+    "mercury",
+    "zinc",
+    "Tampico",
+    "Manzanillo",
+    "customs investigation"
+   ]
+  },
+  {
+   "title": "Telegram Requesting Cotton-Export Information from Buenos Aires",
+   "doc_type": "outgoing telegram",
+   "start_page": 367,
+   "end_page": 367,
+   "continues_previous": false,
+   "date": "1941-10-18",
+   "from": "Department of State",
+   "to": "American Embassy, Buenos Aires",
+   "about": "Requests information about cotton exports from Argentina and related Paraguayan shipments after August 1.",
+   "summary": "The partially illegible telegram asks the Embassy to report recent cotton-export movements relevant to Japan and China. The request was made for the Executive Secretary of the Economic Defense Board and included interest in Paraguayan cotton passing through Argentina.",
+   "keywords": [
+    "cotton exports",
+    "Argentina",
+    "Paraguay",
+    "Japan",
+    "Economic Defense Board"
+   ]
+  },
+  {
+   "title": "Follow-up Telegram to Buenos Aires on Cotton Shipments",
+   "doc_type": "outgoing telegram",
+   "start_page": 368,
+   "end_page": 368,
+   "continues_previous": false,
+   "date": "1941-10-27",
+   "from": "Department of State",
+   "to": "American Embassy, Buenos Aires",
+   "about": "Sends a follow-up request concerning the outstanding report on cotton shipments.",
+   "summary": "Most of the telegram’s substantive text is illegible in the OCR. Its filing context and references indicate that it pressed for the Buenos Aires reply needed to complete the Department’s survey of cotton shipments to Japan and China.",
+   "keywords": [
+    "follow-up",
+    "Buenos Aires",
+    "cotton shipments",
+    "Japan",
+    "trade monitoring"
+   ]
+  },
+  {
+   "title": "Rio de Janeiro Telegram on Brazilian Cotton Exports",
+   "doc_type": "telegram",
+   "start_page": 369,
+   "end_page": 369,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "U.S. Embassy, Rio de Janeiro, Jefferson Caffery",
+   "to": "Secretary of State",
+   "about": "Reports Brazilian cotton-export figures connected with shipments to Japan and Shanghai.",
+   "summary": "Although much of the telegram is illegible, it provides a metric-ton equivalent and refers to a telegram and report of October 17 for detailed cotton-export figures. The data were subsequently incorporated into the Department’s October 28 summary for the Economic Defense Board.",
+   "keywords": [
+    "Brazil",
+    "cotton exports",
+    "Japan",
+    "Shanghai",
+    "trade statistics"
+   ]
+  },
+  {
+   "title": "Letter Summarizing Latin American Cotton Shipments to Japan and China",
+   "doc_type": "letter",
+   "start_page": 370,
+   "end_page": 371,
+   "continues_previous": false,
+   "date": "1941-10-28",
+   "from": "Emilio G. Collado",
+   "to": "Milo Perkins",
+   "about": "Summarizes reported cotton exports from American republics to Japan and China since August 1.",
+   "summary": "Collado reported data from Brazil, El Salvador, Mexico, Paraguay, and Peru while noting that Argentina’s reply was delayed. Brazil had exported cotton to both Japan and Shanghai, Peru reported 10,317 metric tons sent to Japan, and El Salvador reported none. Mexico reported no confirmed exports other than a possible 800 bales of linters, while Paraguayan cotton in transit through Argentina required verification.",
+   "keywords": [
+    "cotton",
+    "Latin America",
+    "Japan",
+    "China",
+    "Brazil",
+    "Peru",
+    "Economic Defense Board"
+   ]
+  },
+  {
+   "title": "Letter Reporting No Argentine Cotton Exports to Japan",
+   "doc_type": "letter",
+   "start_page": 372,
+   "end_page": 372,
+   "continues_previous": false,
+   "date": "1941-10-29",
+   "from": "Emilio G. Collado",
+   "to": "Milo Perkins",
+   "about": "Supplies the delayed Argentine response on cotton exports to Japan.",
+   "summary": "Buenos Aires reported that available statistics and trade information showed no Argentine cotton exports to Japan since August 1. The letter supplements Collado’s October 28 regional summary.",
+   "keywords": [
+    "Argentina",
+    "cotton exports",
+    "Japan",
+    "Buenos Aires",
+    "Economic Defense Board"
+   ]
+  },
+  {
+   "title": "Lima Telegram on Peruvian Cotton Shipments to Japan",
+   "doc_type": "telegram",
+   "start_page": 373,
+   "end_page": 373,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "U.S. Embassy, Lima, Norweb",
+   "to": "Secretary of State",
+   "about": "Reports the quantity of Peruvian cotton shipped to Japan between August 1 and October 15.",
+   "summary": "The Cotton Chamber’s compilation placed shipments at approximately 10,317 metric tons. The figure answered the Department’s October 18 inquiry.",
+   "keywords": [
+    "Peru",
+    "cotton",
+    "Japan",
+    "Cotton Chamber",
+    "exports"
+   ]
+  },
+  {
+   "title": "San Salvador Telegram Reporting No Cotton Shipments",
+   "doc_type": "telegram",
+   "start_page": 374,
+   "end_page": 374,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "U.S. Legation, San Salvador, Ellis",
+   "to": "Secretary of State",
+   "about": "Answers the Department’s inquiry about cotton shipments with a report that none had occurred.",
+   "summary": "Ellis stated that there had been no shipments whatever. The reply was incorporated into the Department’s regional summary for the Economic Defense Board.",
+   "keywords": [
+    "El Salvador",
+    "cotton",
+    "Japan",
+    "no shipments"
+   ]
+  },
+  {
+   "title": "FBI Cover Letter Transmitting Intelligence on Japanese Industrial Preparedness",
+   "doc_type": "cover letter",
+   "start_page": 375,
+   "end_page": 375,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "J. Edgar Hoover, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Transmits an October 16 memorandum about Japanese government activities in industry and commerce.",
+   "summary": "The Bureau described the attached information as coming from a confidential and reliable outside source. It believed the material indicated a Japanese attitude of preparedness and copied the report to Army and Navy intelligence officials.",
+   "keywords": [
+    "FBI",
+    "Japan",
+    "industrial preparedness",
+    "confidential intelligence",
+    "Army intelligence",
+    "Naval Intelligence"
+   ]
+  },
+  {
+   "title": "Memorandum on Japanese Petroleum, Industrial Capacity, and War Production",
+   "doc_type": "intelligence memorandum",
+   "start_page": 376,
+   "end_page": 388,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Federal Bureau of Investigation",
+   "to": "Department of State",
+   "about": "Compiles intelligence on Japanese oil refining, fuel reserves, aluminum production, military manufacturing, and industrial shortages.",
+   "summary": "The memorandum describes petroleum storage at Tsingtao, Mitsubishi refinery equipment, government oil controls, and detailed sales and consumption quotas for gasoline, kerosene, lubricants, and fuel oil. It estimates that Japan retained roughly two years of peacetime fuel-oil reserves but faced deteriorating refinery and labor efficiency. Additional reports cover aluminum production at Hachinohe, conversion of a Tokyo vehicle factory to military production, Hakodate dockyard expansion, military reservation of asphalt, shortages of electric motors, and Army interference with commercial shipping.",
+   "keywords": [
+    "Japanese oil industry",
+    "fuel reserves",
+    "refineries",
+    "Tsingtao",
+    "industrial mobilization",
+    "aluminum",
+    "war production",
+    "shipping priorities"
+   ]
+  },
+  {
+   "title": "Asunción Telegram on Paraguayan Cotton in Transit",
+   "doc_type": "telegram",
+   "start_page": 389,
+   "end_page": 389,
+   "continues_previous": false,
+   "date": "1941-10-21",
+   "from": "U.S. Embassy, Asunción, Frost",
+   "to": "Secretary of State",
+   "about": "Reports small shipments of Paraguayan cotton moving through Argentina to unidentified foreign destinations.",
+   "summary": "Local information indicated only small cotton shipments to Barranqueras, Argentina, with their ultimate destinations undetermined. The Embassy in Buenos Aires was asked to verify any onward exports of this Paraguayan cotton.",
+   "keywords": [
+    "Paraguay",
+    "cotton",
+    "Barranqueras",
+    "Argentina",
+    "transit trade"
+   ]
+  },
+  {
+   "title": "Universal Oil Products Letter on Japanese Refinery-Technology Contracts and Litigation",
+   "doc_type": "letter",
+   "start_page": 390,
+   "end_page": 390,
+   "continues_previous": false,
+   "date": "1940-06-18",
+   "from": "H. J. Halle, Universal Oil Products Company",
+   "to": "Harold W. Moseley",
+   "about": "Explains Japanese licensing agreements and requests a definitive government position before Universal is compelled to supply refinery designs.",
+   "summary": "Halle enclosed the 1928 agreement with Hisashi Sekiguchi and legal papers in Japan Gasoline Company’s Delaware lawsuit. He said current demands concerned plans for a motor-gasoline cracking plant licensed to Mitsui Mining and warned that failure to provide them could produce crippling damages. Because Masao Saneyoshi was en route to New York, Halle wanted the government’s position settled promptly.",
+   "keywords": [
+    "Universal Oil Products",
+    "Japan Gasoline Company",
+    "refinery technology",
+    "Mitsui",
+    "lawsuit",
+    "moral embargo"
+   ]
+  },
+  {
+   "title": "Division of Controls Routing Memorandum on Halle Letter",
+   "doc_type": "routing memorandum",
+   "start_page": 391,
+   "end_page": 391,
+   "continues_previous": false,
+   "date": "1940-06-24",
+   "from": "Joseph C. Green",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Requests guidance on the response to H. J. Halle’s letter.",
+   "summary": "Green forwarded the Universal Oil Products matter for consideration. He asked the recipient to indicate what reply should be made to Halle.",
+   "keywords": [
+    "Universal Oil Products",
+    "routing",
+    "legal guidance",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Memorandum on Universal Oil Products’ Request for State Department Backing",
+   "doc_type": "memorandum",
+   "start_page": 392,
+   "end_page": 393,
+   "continues_previous": false,
+   "date": "",
+   "from": "Harold W. Moseley",
+   "to": "Joseph C. Green and Department of State officials",
+   "about": "Records Halle’s request for formal State Department support in defending Japan Gasoline Company’s lawsuit.",
+   "summary": "Halle said his company faced a possible ten-million-dollar claim because it had observed the government’s moral embargo and withheld plans for Japanese gasoline-cracking plants. He wanted assurance that Universal could tell the court it had acted at the State Department’s request. Moseley asked him to submit the pertinent facts in writing and recorded his statement that Tidewater Associated Oil and Mitsubishi jointly owned a Japanese refinery.",
+   "keywords": [
+    "moral embargo",
+    "Japan Gasoline Company",
+    "lawsuit",
+    "State Department backing",
+    "refinery plans"
+   ]
+  },
+  {
+   "title": "Memorandum on Export Controls for Refinery Plans and Technical Information",
+   "doc_type": "memorandum",
+   "start_page": 394,
+   "end_page": 395,
+   "continues_previous": false,
+   "date": "1940-06-19",
+   "from": "Harold W. Moseley",
+   "to": "Joseph C. Green and Department of State officials",
+   "about": "Records Halle’s effort to place refinery plans and technical information under statutory export control.",
+   "summary": "Halle urged the Department to include refinery designs, specifications, and technical information among controlled defense articles, thereby giving the moral embargo a legal basis. He expected Masao Saneyoshi to arrive in New York to press the damages suit and wanted assurance of departmental backing before then.",
+   "keywords": [
+    "export control",
+    "refinery technology",
+    "moral embargo",
+    "Japan Gasoline Company",
+    "H. J. Halle"
+   ]
+  },
+  {
+   "title": "Memorandum Summarizing Universal Oil Products’ Japanese Contracts",
+   "doc_type": "legal-policy memorandum",
+   "start_page": 396,
+   "end_page": 398,
+   "continues_previous": false,
+   "date": "1940-06-21",
+   "from": "Harold W. Moseley",
+   "to": "Mr. Loreen",
+   "about": "Summarizes the two contracts underlying Japan Gasoline Company’s legal action against Universal Oil Products.",
+   "summary": "The 1928 contract granted petroleum-processing information and patent rights for motor gasoline in Japan, including later negotiations for Mitsui cracking plants, but its application under the moral embargo was ambiguous. A 1938 agreement covered an iso-octane plant and clearly fell within the policy against transferring aviation-gasoline technology. Universal had received $700,000 under that contract but withheld the remaining technical information, and the matter had also been raised by the Japanese Embassy and Mr. Morishima.",
+   "keywords": [
+    "Universal Oil Products",
+    "Japan Gasoline Company",
+    "iso-octane",
+    "aviation gasoline",
+    "Mitsui",
+    "Japanese Embassy"
+   ]
+  },
+  {
+   "title": "Mexico Telegram on Cotton Shipments to Japan",
+   "doc_type": "telegram",
+   "start_page": 399,
+   "end_page": 399,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "U.S. Embassy, Mexico, McGurk",
+   "to": "Secretary of State",
+   "about": "Reports official and private information on Mexican cotton exports to Japan since August 1.",
+   "summary": "Official August statistics showed no cotton exports to Japan, and private sources likewise reported none after August 1. One firm nevertheless believed that approximately 800 bales of cotton linters might have been shipped.",
+   "keywords": [
+    "Mexico",
+    "cotton",
+    "linters",
+    "Japan",
+    "export statistics"
+   ]
+  },
+  {
+   "title": "Despatch on Attempted Contraband Mercury Shipment from Manzanillo",
+   "doc_type": "consular despatch",
+   "start_page": 400,
+   "end_page": 400,
+   "continues_previous": false,
+   "date": "1941-10-21",
+   "from": "American Consulate, Manzanillo",
+   "to": "Secretary of State",
+   "about": "Reports further developments concerning a suspected attempt to place contraband mercury aboard the Japanese vessel Azuma Maru.",
+   "summary": "A railway car consigned to Antonio Llorens arrived at Manzanillo manifested as containing 61 drums of bronze, but errors and delays complicated the customs investigation. The car was reshipped to Tampico on October 9, prompting notifications to the Embassy in Mexico City, the Tampico consulate, and Mexican authorities. The despatch continues beyond page 400.",
+   "keywords": [
+    "contraband mercury",
+    "Azuma Maru",
+    "Manzanillo",
+    "Tampico",
+    "railway car",
+    "customs investigation"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 7,
+  "pages": [
+   321,
+   400
+  ],
+  "pdf": "894.24 Japan, Equipment And Supplies., July 15, 1941 - October 28, 1944 1460-part-1.pdf",
+  "seconds": 308.5,
+  "created": "2026-09-29 21:26:29",
+  "key": "japan-internal-affairs-894.24-japan-equipment-and-17-part-1"
+ }
+}

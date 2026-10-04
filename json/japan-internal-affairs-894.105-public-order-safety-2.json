@@ -1,0 +1,180 @@
+{
+ "interest": "Shows State directing Civil Affairs Training School officers to the handbook on Japanese legal affairs, 1944.",
+ "keywords": [
+  "Japan",
+  "Japanese police systems",
+  "police organization",
+  "prisons",
+  "Civil Affairs Training School",
+  "Civil Affairs handbook",
+  "military government",
+  "Department of State",
+  "Division of Far Eastern Affairs",
+  "Division of Japanese Affairs",
+  "Department of Justice",
+  "Northwestern University"
+ ],
+ "overview": "File 894.105 on Japanese police and prisons, 1940–44: a Justice Department police chart, and Captain Don L. Winterburg's request to Dickover for data for military government training.",
+ "people": [
+  {
+   "name": "Erle R. Dickover",
+   "role": "Chief, Division of Japanese Affairs, Department of State",
+   "variants": [
+    "Erle R. Dickover",
+    "Dickover"
+   ]
+  },
+  {
+   "name": "Don L. Winterburg",
+   "role": "Captain, U.S. Army Cavalry; Civil Affairs Training School, Northwestern University",
+   "variants": [
+    "Don L. Winterburg",
+    "Captain, CAV",
+    "Captain Winterburg",
+    "Don E. Winterburg",
+    "Captain Don E. Winterburg, CVA"
+   ]
+  },
+  {
+   "name": "R. J. Ansdinger",
+   "role": "Commissioner, United States Geocolic Bureau",
+   "variants": [
+    "Dr. R. J. Ansdinger",
+    "R. J. Ansdinger"
+   ]
+  },
+  {
+   "name": "J. H. W.",
+   "role": "Official, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "JHW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "CHICAGO",
+    "Chicago"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "variants": [
+    "ILLINOIS",
+    "Illinois"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet indexing a Department of Justice communication concerning the organizational structure of Japanese police systems.",
+   "date": "1942-05-23",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of Justice",
+   "keywords": [
+    "Department of Justice",
+    "police systems",
+    "police organization",
+    "cross-reference",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to a May 23, 1942 Justice Department letter enclosing a chart of Japanese police organization.",
+   "title": "Cross-Reference Sheet on Justice Department Letter Regarding Japanese Police Systems",
+   "to": "Department of State"
+  },
+  {
+   "about": "A letter from an Army captain at Northwestern University requesting State Department information on Japanese prisons and police departments.",
+   "date": "1944-10-10",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Captain Don L. Winterburg (CAV, Northwestern University)",
+   "keywords": [
+    "Northwestern University",
+    "prisons",
+    "police departments",
+    "Civil Affairs Training School",
+    "inquiry"
+   ],
+   "start_page": 2,
+   "summary": "Captain Don L. Winterburg of Northwestern University asks Far Eastern Affairs for information on Japanese prisons and police departments.",
+   "title": "Letter from Captain Don L. Winterburg Requesting Data on Japanese Prisons and Police",
+   "to": "Division of Far Eastern Affairs, Department of State"
+  },
+  {
+   "about": "A State Department reply directing Captain Winterburg to Civil Affairs Handbook M 354-3 for information on Japanese prisons and police departments.",
+   "date": "1944-10-24",
+   "doc_type": "letter",
+   "end_page": 3,
+   "from": "Erle R. Dickover (Chief, Division of Japanese Affairs, Department of State)",
+   "keywords": [
+    "Erle R. Dickover",
+    "Civil Affairs Training School",
+    "Civil Affairs handbook",
+    "legal affairs",
+    "prisons",
+    "police departments"
+   ],
+   "start_page": 3,
+   "summary": "Dickover refers Captain Winterburg to Civil Affairs Handbook M 354-3 on Japanese legal affairs, the best English source available.",
+   "title": "Letter from Erle R. Dickover to Captain Don E. Winterburg Regarding Civil Affairs Handbook",
+   "to": "Captain Don E. Winterburg (Civil Affairs Training School, Northwestern University)"
+  },
+  {
+   "about": "An internal State Department routing note indicating an incoming despatch's relevance to inquiries on travel conditions in Japan.",
+   "date": "1940-05-23",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "JHW (Division of Far Eastern Affairs)",
+   "keywords": [
+    "Division of Far Eastern Affairs",
+    "travel conditions",
+    "memorandum",
+    "inquiries",
+    "Japan"
+   ],
+   "start_page": 4,
+   "summary": "Far Eastern Affairs routing slip (May 23, 1940) keeping a despatch for answering inquiries on travel in Japan.",
+   "title": "Memorandum on Travel Conditions in Japan for Inquiry Reference",
+   "to": "PA/D (Division of Far Eastern Affairs)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14166,
+   "output_tokens": 5761,
+   "thinking_tokens": 4117,
+   "cache_read_tokens": 0,
+   "total_tokens": 19927
+  },
+  "backend": "agy",
+  "seconds": 19.1,
+  "identifier": "japan-internal-affairs-894.105-public-order-safety-2",
+  "file": "894.105 Public Order, Safety, Health, And Works. Charities And Philanthropic Organizations., Japan, Police Organization., May 23, 1940 - May 23, 1942 1347.pdf",
+  "created": "2026-09-28 22:59:32"
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "interest": "Dutch choice to bury Allied ashes from Fukuoka in Manila.",
+ "keywords": [
+  "Allied war dead",
+  "mass graves",
+  "cremated remains",
+  "Fukuoka POW Camp",
+  "repatriation",
+  "military cemeteries",
+  "Manila",
+  "Indonesia",
+  "Netherlands Ministry of Foreign Affairs",
+  "Quartermaster General",
+  "prisoners of war"
+ ],
+ "overview": "Despatch of April 27, 1949 from The Hague: the Dutch decline sending Allied ashes from Fukuoka mass graves to the U.S., preferring a Manila cemetery.",
+ "people": [
+  {
+   "name": "Robert D. Coe",
+   "role": "Counselor of Embassy",
+   "variants": [
+    "Robert D. Coe"
+   ]
+  },
+  {
+   "name": "D. Gaudin, Jr.",
+   "role": "Embassy drafter",
+   "variants": [
+    "DGaudin"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "The Hague",
+   "variants": [
+    "The Hague"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C.",
+    "Washington 25 D.C."
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal of a diplomatic note from the Netherlands Ministry of Foreign Affairs concerning the shipment of Allied war dead ashes from mass graves in Japan.",
+   "date": "1949-04-27",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Robert D. Coe, Counselor of Embassy, American Embassy, The Hague",
+   "keywords": [
+    "Robert D. Coe",
+    "The Hague",
+    "Allied war dead",
+    "mass graves",
+    "cremated remains",
+    "repatriation"
+   ],
+   "start_page": 1,
+   "summary": "Coe forwards the Dutch note of April 20, 1949 on shipping Allied ashes from mass graves in Japan.",
+   "title": "Despatch No. 180 from Robert D. Coe (The Hague) to Secretary of State on shipment of Allied ashes",
+   "to": "The Secretary of State, Washington, D.C."
+  },
+  {
+   "about": "Netherlands diplomatic note declining the transfer of Allied ashes from Fukuoka to the United States and requesting burial in Manila.",
+   "date": "1949-04-20",
+   "doc_type": "note",
+   "end_page": 2,
+   "from": "Netherlands Ministry of Foreign Affairs, Legal and Administrative Department",
+   "keywords": [
+    "Fukuoka Camp I",
+    "Fukuoka Camp IV",
+    "cremated remains",
+    "mass graves",
+    "Indonesia",
+    "Manila",
+    "Overseas Cemetery",
+    "Office of the Quartermaster General"
+   ],
+   "start_page": 2,
+   "summary": "The Dutch decline to move Allied ashes from Fukuoka Camps I and IV to the U.S. and ask for burial in a U.S. cemetery in Manila.",
+   "title": "Note No. 22796 from Netherlands Ministry of Foreign Affairs regarding burial of Allied ashes from Fukuoka",
+   "to": "Embassy of the United States of America, The Hague"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14255,
+   "output_tokens": 5158,
+   "thinking_tokens": 3965,
+   "cache_read_tokens": 0,
+   "total_tokens": 19413
+  },
+  "backend": "agy",
+  "seconds": 17.7,
+  "identifier": "japan-internal-affairs-894.123311-public-health-hospitals-3",
+  "file": "894.123311 Public Health. Hospitals. Hospital Service., Disposal Of The Dead., Japan, Cemeteries. Maintenance Of U.S. Soldiers And Sailors Cemeteries., United States, April 27, 1949 1718.pdf",
+  "created": "2026-09-28 23:17:49"
+ }
+}

@@ -1,0 +1,770 @@
+{
+ "overview": "This file assembles U.S. diplomatic, intelligence, and broadcast-monitoring records on Japanese-controlled railways and wartime transportation from 1941 to 1944, with one later routing leaf from 1945. It covers a newly opened line between Wonsan and Pyongyang; railway personnel, training, rolling stock, traffic, and military carrying capacity in Korea and Manchuria; Japan’s projected Tokyo–Shimonoseki high-speed “bullet express”; the opening of the Kanmon undersea tunnel; railway-loading and employment indices; and restrictions on passenger travel imposed to release personnel for evacuation transport. The bundle combines FBI correspondence, State Department cross-references and routing sheets, a substantial War Department intelligence report with photographs, diplomatic despatches and telegrams, a translated press article, and monitored broadcasts, including several items on French Indochina that are only incidentally related to the railway subject.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Wonsan",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Sea of Japan",
+   "variants": [
+    "Sea of Japan"
+   ]
+  },
+  {
+   "name": "Pyongyang",
+   "variants": [
+    "Heijo"
+   ]
+  },
+  {
+   "name": "Northern Korea",
+   "variants": [
+    "Northern Korea",
+    "North Chosen"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "N.Y."
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "Manchoukue"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Jilin City",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Tsitsihar"
+   ]
+  },
+  {
+   "name": "Northern China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Tōkaidō corridor",
+   "variants": [
+    "Tokaido"
+   ]
+  },
+  {
+   "name": "Tamagawa, Tokyo",
+   "variants": [
+    "Tamagawa"
+   ]
+  },
+  {
+   "name": "Odawara",
+   "variants": [
+    "Odawara"
+   ]
+  },
+  {
+   "name": "Mishima",
+   "variants": [
+    "Mishima"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyohashi"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "Onomichi"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Shūnan",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Kagawa, Yamaguchi Prefecture",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Atami",
+   "variants": [
+    "Atami"
+   ]
+  },
+  {
+   "name": "Numazu",
+   "variants": [
+    "Numadzu"
+   ]
+  },
+  {
+   "name": "Shin-Tanna Tunnel",
+   "variants": [
+    "Shintanna",
+    "Niitanna"
+   ]
+  },
+  {
+   "name": "Nihonzaka",
+   "variants": [
+    "Nipponzaka",
+    "Nihonsaka"
+   ]
+  },
+  {
+   "name": "Higashiyama, Kyoto",
+   "variants": [
+    "Higashiyama"
+   ]
+  },
+  {
+   "name": "Tanna Pass",
+   "variants": [
+    "Tanna Toge",
+    "Tanna pass"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Kyushu Island"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Mount Rokkō",
+   "variants": [
+    "Rokkosan"
+   ]
+  },
+  {
+   "name": "Shimizu Tunnel",
+   "variants": [
+    "Shimizu Tunnel"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Fuji River",
+   "variants": [
+    "Fujikawa"
+   ]
+  },
+  {
+   "name": "Ōi River",
+   "variants": [
+    "Oigawa"
+   ]
+  },
+  {
+   "name": "Tenryū River",
+   "variants": [
+    "Tenryugawa"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Born",
+    "Bern"
+   ]
+  },
+  {
+   "name": "Kanmon Straits",
+   "variants": [
+    "Kwanmon"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indochina"
+   ]
+  },
+  {
+   "name": "Lyon",
+   "variants": [
+    "Lyons"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Ho Chi Minh City",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "John Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "JOHN EDGAR HOOVER",
+    "J. E. Hoover"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "A. J. F. E. Berle, Jr.",
+    "Mr. Berle"
+   ]
+  },
+  {
+   "name": "Fred Thomas",
+   "role": "Far Eastern representative of the Westinghouse Air Brake Company and intelligence source",
+   "variants": [
+    "Fred Thomas"
+   ]
+  },
+  {
+   "name": "Frederick D. Sharp",
+   "role": "Colonel, General Staff Corps",
+   "variants": [
+    "FREDERICK D. SHARP"
+   ]
+  },
+  {
+   "name": "John L. Curtis",
+   "role": "Preparer of the military railway report",
+   "variants": [
+    "Mr. John L. Curtis"
+   ]
+  },
+  {
+   "name": "H. P.",
+   "role": "Unidentified official in the Department of State’s Division of Far Eastern Affairs",
+   "variants": [
+    "H. P."
+   ]
+  },
+  {
+   "name": "H. Merrell Benninghoff",
+   "role": "Department of State official in the Division of Far Eastern Affairs",
+   "variants": [
+    "Benninghoff"
+   ]
+  },
+  {
+   "name": "Richard Fors",
+   "role": "First Secretary of the U.S. Embassy in Buenos Aires",
+   "variants": [
+    "Richard Fors"
+   ]
+  },
+  {
+   "name": "Leland B. Harrison",
+   "role": "U.S. Minister to Switzerland",
+   "variants": [
+    "HARRISON"
+   ]
+  },
+  {
+   "name": "Jean Decoux",
+   "role": "French High Commissioner for the Pacific in Indochina",
+   "variants": [
+    "Admiral Jean Decoux"
+   ]
+  },
+  {
+   "name": "Philippe Pétain",
+   "role": "Marshal whose orders French Indochina was urged to obey",
+   "variants": [
+    "Petain"
+   ]
+  },
+  {
+   "name": "Charles de Gaulle",
+   "role": "French leader referenced through reports of de Gaullist activity",
+   "variants": [
+    "deGaullist"
+   ]
+  },
+  {
+   "name": "Cooper",
+   "role": "Department of State official or drafter associated with the broadcast report",
+   "variants": [
+    "Cooper"
+   ]
+  },
+  {
+   "name": "W. Averell Harriman",
+   "role": "U.S. Ambassador to the Soviet Union",
+   "variants": [
+    "HAR IMAH"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Department of State Far Eastern affairs official",
+   "variants": [
+    "JWB"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese railways",
+  "railway intelligence",
+  "Manchuria",
+  "Korea",
+  "rolling stock",
+  "railway personnel",
+  "military transportation",
+  "traffic statistics",
+  "bullet train",
+  "Tokyo–Shimonoseki line",
+  "Kanmon Tunnel",
+  "wartime logistics",
+  "passenger restrictions",
+  "evacuation transport",
+  "Foreign Broadcast Intelligence Service"
+ ],
+ "subfiles": [
+  {
+   "title": "Hoover letter on the Wonsan–Pyongyang railway",
+   "doc_type": "letter",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1941-08-07",
+   "from": "John Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Reports confidential information that a new railway between Wonsan on the Sea of Japan and Pyongyang in northern Korea had entered service.",
+   "summary": "Hoover forwards information from a source described as confidential and reliable concerning a new railway in Japanese-occupied Korea. The OCR’s “Germany” is evidently a corruption of Genzan or Wonsan, while “Heijo” is the Japanese colonial name for Pyongyang. Copies were sent to U.S. naval and military intelligence authorities.",
+   "keywords": [
+    "Wonsan",
+    "Pyongyang",
+    "Korea",
+    "FBI",
+    "railway opening",
+    "confidential intelligence"
+   ]
+  },
+  {
+   "title": "Cross-reference to memorandum on Japanese industries and railways",
+   "doc_type": "cross-reference sheet",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1941-12-09",
+   "from": "",
+   "to": "Justice Department",
+   "about": "Directs researchers to the original memorandum concerning Japanese industries and railways in State Department file 894.60/24.",
+   "summary": "The sheet records a cross-reference from the railway file to a memorandum dated December 9, 1941. That memorandum reportedly reflected information from an outside confidential and reliable source and was filed under number 894.60/24.",
+   "keywords": [
+    "cross-reference",
+    "Japanese industry",
+    "railways",
+    "Justice Department",
+    "confidential source",
+    "894.60/24"
+   ]
+  },
+  {
+   "title": "State Department routing sheet for Manchuria and Korea railway report",
+   "doc_type": "routing and filing sheet",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1942-07-15",
+   "from": "Department of State, Under Secretary’s Liaison Office",
+   "to": "Department of State distribution offices",
+   "about": "Records the internal circulation and filing of the military intelligence report on railways in Manchuria and Korea.",
+   "summary": "This departmental routing sheet lists numerous offices through which the attached intelligence material could circulate. Stamps show receipt in the Division of Far Eastern Affairs on July 14 and filing on July 15, 1942.",
+   "keywords": [
+    "routing",
+    "filing",
+    "State Department",
+    "Far Eastern Affairs",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "Military intelligence report on railway transportation in Manchuria and Korea",
+   "doc_type": "military intelligence report with photographic enclosures",
+   "start_page": 4,
+   "end_page": 12,
+   "date": "1942-06-12",
+   "from": "New York Office, Military Intelligence Service; report prepared by John L. Curtis",
+   "to": "Military Intelligence Division, War Department",
+   "about": "Assesses railway personnel, training, equipment, traffic, control systems, and military carrying capacity in Manchuria and Korea.",
+   "summary": "Drawing on Fred Thomas, Japanese and Manchukuo yearbooks, and Japanese government railway reports, this study estimates staffing and rolling stock for the Chosen State Lines, South Manchurian Railway, and Manchukuo State Lines. It describes training institutes at Dalian, Shenyang, Harbin, Jilin, and Qiqihar; American-influenced rolling-stock standards; the streamlined ASIA locomotive and train; troop capacities; repair facilities; freight and passenger volumes; seasonal traffic; and signalling methods. The attached photographs show soybean loading at Jilin, training at the Shenyang Railway Training Institute, and a streamlined locomotive produced at the railway workshops.",
+   "keywords": [
+    "Manchuria",
+    "Korea",
+    "Military Intelligence Service",
+    "railway personnel",
+    "training institutes",
+    "rolling stock",
+    "ASIA train",
+    "troop capacity",
+    "freight traffic",
+    "photographs"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum on the Tokyo–Shimonoseki high-speed line",
+   "doc_type": "memorandum",
+   "start_page": 13,
+   "end_page": 13,
+   "date": "1943-02-11",
+   "from": "H. P., Division of Far Eastern Affairs",
+   "to": "Department of State, Division of Far Eastern Affairs",
+   "about": "Comments on the Buenos Aires despatch concerning construction of Japan’s projected high-speed trunk railway.",
+   "summary": "The memorandum notes that Japan had discussed the project for several years and had repeatedly announced the imminent beginning of construction. It emphasizes that the line would broadly follow the existing Tōkaidō route and pass through Japan’s principal cities.",
+   "keywords": [
+    "high-speed railway",
+    "Tokyo",
+    "Shimonoseki",
+    "Tōkaidō",
+    "Far Eastern Affairs",
+    "planning"
+   ]
+  },
+  {
+   "title": "Buenos Aires despatch on work begun for the Japanese bullet railway",
+   "doc_type": "despatch",
+   "start_page": 14,
+   "end_page": 14,
+   "date": "1943-01-11",
+   "from": "Richard Fors, First Secretary of Embassy, for the U.S. Ambassador in Buenos Aires",
+   "to": "U.S. Secretary of State",
+   "about": "Reports Japanese-language press claims that construction had begun on a 989-kilometre high-speed railway between Tokyo and Shimonoseki.",
+   "summary": "The despatch summarizes reports carried by local Japanese newspapers in Buenos Aires. It lists the proposed stations, a possible underground Tokyo terminal, standard-gauge construction, a nine-hour journey, and an estimated ten-year completion period. Fors suggests that the U.S. air force should note the construction during future operations over Japan.",
+   "keywords": [
+    "Buenos Aires",
+    "Tokyo",
+    "Shimonoseki",
+    "bullet express",
+    "standard gauge",
+    "railway construction",
+    "air intelligence"
+   ]
+  },
+  {
+   "title": "Translation of Domei article on the Tokyo–Shimonoseki bullet express",
+   "doc_type": "translated press enclosure",
+   "start_page": 15,
+   "end_page": 16,
+   "date": "1943-01-04",
+   "from": "Domei; translated from Diario Nan-A by the U.S. Embassy in Buenos Aires",
+   "to": "Department of State, as enclosure to despatch no. 8108",
+   "about": "Provides detailed plans for the proposed 989-kilometre standard-gauge bullet-express route and its tunnels, stations, bridges, and projected speeds.",
+   "summary": "The article says work had begun on the Shin-Tanna, Nihonzaka, and Higashiyama tunnels and that general construction would accelerate in fiscal 1943. It discusses unsettled station sites and alignments, a possible extension through the Shimonoseki–Moji tunnel to Kyushu, additional tunnelling near Kobe, and the replacement of proposed river tunnels with steel bridges. The planned average speed was initially about 100 kilometres per hour and eventually 200, requiring a fully streamlined train, although completion was said to remain ten years away.",
+   "keywords": [
+    "Domei",
+    "bullet express",
+    "Tokyo–Shimonoseki",
+    "tunnels",
+    "stations",
+    "Kyushu extension",
+    "steel bridges",
+    "streamlining",
+    "high-speed rail"
+   ]
+  },
+  {
+   "title": "Bern telegram on Japanese government railway loadings",
+   "doc_type": "telegram",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1943-08-13",
+   "from": "Leland B. Harrison, U.S. Legation, Bern",
+   "to": "U.S. Secretary of State",
+   "about": "Transmits official Japanese index figures showing increased government railway loadings in early 1943.",
+   "summary": "An informed source supplied indices using July 1927 as a base of 100. The figures for January through March 1943 ranged from 144.5 to 146.3, each higher than the corresponding 1942 figure.",
+   "keywords": [
+    "Bern",
+    "Japan",
+    "railway loadings",
+    "traffic index",
+    "statistics",
+    "1943"
+   ]
+  },
+  {
+   "title": "Bern telegram on Japanese factory and mining employment indices",
+   "doc_type": "telegram",
+   "start_page": 18,
+   "end_page": 18,
+   "date": "1943-08-16",
+   "from": "Leland B. Harrison, U.S. Legation, Bern",
+   "to": "U.S. Secretary of State",
+   "about": "Supplements the railway-loading telegram with Japanese factory and mining employment indices through February 1943.",
+   "summary": "The telegram, formally undated but received on August 16, provides total factory-employment and male factory-employment indices for 1940–1942 and January–February 1943. It also gives male mining-employment indices for the same periods, indicating substantial wartime growth, especially in male factory employment.",
+   "keywords": [
+    "Bern",
+    "Japan",
+    "factory employment",
+    "mining employment",
+    "labor statistics",
+    "wartime industry"
+   ]
+  },
+  {
+   "title": "Foreign Broadcast Intelligence Service reports on the Kanmon Tunnel and Indochina",
+   "doc_type": "broadcast monitoring memorandum",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1942-11-17",
+   "from": "Department of State, drawing on Foreign Broadcast Intelligence Service reports",
+   "to": "Department of State circulation",
+   "about": "Summarizes broadcasts on the opening of the Kanmon railway tunnel and on political conditions in French Indochina.",
+   "summary": "A Domei broadcast announces the November 15 opening of the Kanmon undersea railway tunnel, which reduced the Tokyo–Kagoshima express journey from forty hours to thirty-one hours and fifteen minutes, and mentions further rail and road tunnels. Additional monitored broadcasts report Jean Decoux’s calls for obedience to Pétain, claimed cooperation between Japan and Indochina, and suppression of de Gaullist activity in Saigon. The latter material is tangential to the railway subject but reveals the mixed contents of the monitored-broadcast report.",
+   "keywords": [
+    "Kanmon Tunnel",
+    "Tokyo–Kagoshima service",
+    "Kyushu",
+    "Domei",
+    "Indochina",
+    "Jean Decoux",
+    "Pétain",
+    "de Gaullists",
+    "broadcast monitoring"
+   ]
+  },
+  {
+   "title": "Moscow telegram on restrictions on passenger traffic in Japan",
+   "doc_type": "telegram",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1944-03-23",
+   "from": "W. Averell Harriman, U.S. Embassy, Moscow",
+   "to": "U.S. Secretary of State",
+   "about": "Relays a Soviet press report that Japan would restrict passenger rail travel from April 1, 1944.",
+   "summary": "The telegram quotes an Izvestiya report based on a TASS despatch from Tokyo. Japan was said to be discontinuing certain train classes, limiting ordinary journeys to a 100-kilometre radius, and requiring special permission for longer travel. Asahi reportedly explained that released railway personnel would be reassigned to transport associated with evacuating cities.",
+   "keywords": [
+    "Moscow",
+    "Japan",
+    "passenger restrictions",
+    "rail travel permits",
+    "evacuation",
+    "Izvestiya",
+    "TASS",
+    "Asahi"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs routing note concerning an Embassy enclosure",
+   "doc_type": "routing note",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1945-11-11",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "Department of State, Consular Bureau",
+   "about": "Directs attention to the penultimate paragraph of an unidentified Embassy enclosure.",
+   "summary": "This fragmentary routing leaf instructs the reader to note especially the penultimate paragraph of an enclosure and bears Joseph W. Ballantine’s initials. A Consular Bureau receipt stamp is dated November 11, 1945, and a second marginal note says, “Noting from the Embassy, so far as I know,” followed by the initials CC. The referenced enclosure is not identifiable from this page alone.",
+   "keywords": [
+    "routing note",
+    "Far Eastern Affairs",
+    "Consular Bureau",
+    "Embassy enclosure",
+    "Joseph W. Ballantine",
+    "1945"
+   ]
+  }
+ ],
+ "interest": "The most valuable component is the detailed 1942 military intelligence report, which combines rare quantitative estimates of Japanese-controlled railway labor and equipment with operational observations, troop-capacity figures, seasonal traffic patterns, and photographic evidence. The 1943 documents on the projected “bullet express” are especially useful for tracing the wartime prehistory of Japan’s later high-speed railway system and its relationship to strategic transport, air-raid resilience, and disaster planning. The Kanmon Tunnel report and the 1944 passenger restrictions reveal both expansion and mounting strain within Japan’s wartime transport network. The cross-references, routing leaves, stray Indochina broadcasts, and postwar page also show how intelligence was copied, circulated, and sometimes imperfectly filed within the State Department record system.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 243.3,
+  "identifier": "japan-internal-affairs-894.77-japan-railway-concessions-2",
+  "file": "894.77 Japan, Railway. Concessions. Construction. Equipment., August 7, 1941 - March 23, 1944 1421.pdf",
+  "created": "2026-09-29 07:32:16"
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "overview": "This file assembles U.S. consular material concerning the entry, residence, employment, registration, movement, and deportation of foreigners in Japanese-ruled Taiwan between 1934 and 1938, together with an apparently misfiled comparative report on Gibraltar. Its principal documents are Arthur Garrels’s 1934 despatch transmitting English translations of Taiwan’s 1918 alien-entry order and 1899 regulations for monitoring foreign residents, and Charles T. Allen’s report on temporary residence and employment permits in Gibraltar. Later cross-reference sheets point to despatches concerning the prohibition on Chinese reentry into Taiwan and travel restrictions imposed on officers of the S.S. President Hoover.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan",
+    "TRIBAN"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper",
+    "Japanese territory",
+    "Empire"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Gibraltar",
+   "variants": [
+    "Gibraltar"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Arthur Garrels",
+   "role": "American Consul General at Tokyo",
+   "variants": [
+    "Garrets",
+    "Arthur Garrels"
+   ]
+  },
+  {
+   "name": "C. Matsuo",
+   "role": "Interpreter at the American Consulate in Taihoku",
+   "variants": [
+    "C. Matsuo"
+   ]
+  },
+  {
+   "name": "Charles T. Allen",
+   "role": "American Consul at Gibraltar",
+   "variants": [
+    "Allen",
+    "Charles T. Allen"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan and sender of the referenced 1937 despatch",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Warner",
+   "role": "American consular officer at Taihoku and sender of the referenced 1938 despatch",
+   "variants": [
+    "Warner"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan",
+  "Japanese colonial administration",
+  "alien entry",
+  "immigration regulations",
+  "residence registration",
+  "passports and visas",
+  "police surveillance",
+  "deportation",
+  "temporary employment",
+  "musicians and performers",
+  "Chinese reentry",
+  "Gibraltar",
+  "S.S. President Hoover",
+  "travel restrictions",
+  "U.S. consular reporting"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference to Garrels despatch no. 943 on Taiwan alien regulations",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1934-11-17",
+   "from": "Arthur Garrels, Tokyo",
+   "to": "Department of State file routing (Name 1-1127 GPO)",
+   "about": "The sheet directs researchers to despatch no. 943 concerning Taiwan’s rules for the temporary admission and residence of foreign performers and other workers.",
+   "summary": "This filing note cross-references despatch no. 943 under another decimal-file location. It characterizes the despatch as enclosing Taiwan’s rules governing the employment-related admission and residence of musicians, artists, actors, choristers, and other aliens.",
+   "keywords": [
+    "cross-reference",
+    "Taiwan",
+    "temporary admission",
+    "foreign workers",
+    "performers",
+    "despatch no. 943"
+   ]
+  },
+  {
+   "title": "Garrels despatch transmitting Taiwan alien-entry and residence regulations",
+   "doc_type": "despatch",
+   "start_page": 2,
+   "end_page": 3,
+   "date": "1934-11-17",
+   "from": "Arthur Garrels, American Consul General",
+   "to": "U.S. Secretary of State",
+   "about": "Garrels forwards translated Taiwan regulations governing the admission and residence of aliens in response to a Department request for special immigration reports.",
+   "summary": "Garrels explains that the American Vice Consul in Taihoku supplied translations of Taiwan’s alien-entry and residence regulations, which differed from those prevailing in Japan proper. According to the Vice Consul, the same rules applied both to visitors seeking gainful employment and to visitors traveling for pleasure, with no special restrictions applying exclusively to foreign workers.",
+   "keywords": [
+    "Arthur Garrels",
+    "Taiwan",
+    "aliens",
+    "immigration",
+    "temporary residence",
+    "gainful employment",
+    "Taihoku",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Translation of Taiwan Government-General Order No. 7 on entry of aliens",
+   "doc_type": "translated regulation enclosure",
+   "start_page": 4,
+   "end_page": 5,
+   "date": "1918-02",
+   "from": "Taiwan Government-General; translated by C. Matsuo",
+   "to": "",
+   "about": "The order defines grounds for denying foreigners permission to land in Taiwan and establishes passport, visa, questioning, and deportation requirements.",
+   "summary": "Taiwan Government-General Order No. 7 permits officials to refuse entry to foreigners lacking valid travel documents or considered dangerous, indigent, diseased, mentally unfit, or contrary to public order and morals. It requires passports or nationality certificates bearing photographs and, subject to reciprocity, Japanese diplomatic or consular visas. Foreign diplomats, consular personnel, official travelers, their families, and crews of foreign vessels calling at ports in the Japanese Empire are exempted.",
+   "keywords": [
+    "Taiwan Government-General",
+    "alien entry",
+    "passports",
+    "visas",
+    "exclusion",
+    "public health",
+    "deportation",
+    "diplomatic exemption",
+    "ship crews"
+   ]
+  },
+  {
+   "title": "Translation of Taiwan regulations concerning treatment of aliens",
+   "doc_type": "translated regulation enclosure",
+   "start_page": 6,
+   "end_page": 9,
+   "date": "1899-07",
+   "from": "Taiwan Government-General; translated by C. Matsuo",
+   "to": "",
+   "about": "The regulations prescribe police reporting, registration, inspection, removal, deportation, and penalty procedures for foreigners residing or lodging in Taiwan.",
+   "summary": "Taiwan Government-General Order No. 71 requires lodging providers to report foreign guests to the police and obliges longer-term foreign residents to register personal, family, occupational, and address information. Police maintain registers of foreigners, may demand passports and question foreigners or their hosts, and may deport persons considered indigent, itinerant, disorderly, or immoral. The regulations impose imprisonment or fines for disobeying deportation orders, refusing police demands, or submitting late or false reports, while Chinese are excluded from some provisions and made subject to separate regulations where these exist.",
+   "keywords": [
+    "foreign residents",
+    "police registration",
+    "lodging reports",
+    "Register of Foreigners",
+    "passports",
+    "deportation",
+    "fines",
+    "Chinese residents",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Cross-reference to Allen report on temporary admission in Gibraltar",
+   "doc_type": "cross-reference sheet",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1934-12-08",
+   "from": "Charles T. Allen, Gibraltar",
+   "to": "Department of State file routing (Name 1-1127 GPO)",
+   "about": "The sheet identifies a report on the conditions governing the temporary admission and residence of foreign performers for employment in Gibraltar.",
+   "summary": "This note cross-references Allen’s report under file 840a.55/1. It describes the report as covering temporary admission and residence rules for instrumental musicians, actors, artists, choristers, and other performers entering Gibraltar for employment.",
+   "keywords": [
+    "cross-reference",
+    "Gibraltar",
+    "temporary admission",
+    "employment",
+    "musicians",
+    "actors",
+    "artists",
+    "choristers"
+   ]
+  },
+  {
+   "title": "Allen report on temporary admission and residence of aliens in Gibraltar",
+   "doc_type": "report",
+   "start_page": 11,
+   "end_page": 14,
+   "date": "1934-12-08",
+   "from": "Charles T. Allen, American Consul, Gibraltar",
+   "to": "U.S. Department of State",
+   "about": "Allen summarizes Gibraltar’s permit and registration requirements for foreign employees and temporary visitors.",
+   "summary": "Allen reports that Gibraltar law treated everyone other than narrowly defined natives—including other British subjects—as an alien for local immigration purposes. Aliens wishing to reside there ordinarily required a temporary permit obtained through a respectable local inhabitant and supported by a vaccination certificate; this procedure also applied to foreign performers and other employees. Day and weekly tickets accommodated persons from nearby territory, while hotel and lodging-house visitors registered their identity, origin, and arrival information with the establishment. Allen notes that copies of the underlying laws would follow when adequate typing facilities became available.",
+   "keywords": [
+    "Gibraltar",
+    "aliens",
+    "temporary permits",
+    "foreign employment",
+    "vaccination certificate",
+    "day tickets",
+    "weekly tickets",
+    "hotel registration",
+    "British subjects"
+   ]
+  },
+  {
+   "title": "Cross-reference to Grew despatch on Chinese reentry into Taiwan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 15,
+   "end_page": 15,
+   "date": "1937-11-26",
+   "from": "Joseph C. Grew, Japan",
+   "to": "Department of State file routing (Name 1-1127 070)",
+   "about": "The sheet points to a despatch reporting regulations that prohibited Chinese who left Taiwan from reentering it.",
+   "summary": "This filing note cross-references a Grew despatch located under file 894.111/74. The referenced despatch enclosed or reproduced reporting from Taihoku on regulations forbidding the return to Taiwan of Chinese persons who had departed the island.",
+   "keywords": [
+    "cross-reference",
+    "Joseph C. Grew",
+    "Chinese",
+    "reentry prohibition",
+    "Taiwan",
+    "Taihoku"
+   ]
+  },
+  {
+   "title": "Cross-reference to Warner despatch on travel by S.S. President Hoover officers",
+   "doc_type": "cross-reference sheet",
+   "start_page": 16,
+   "end_page": 16,
+   "date": "1938-04-09",
+   "from": "Warner, Taihoku",
+   "to": "Department of State file routing (Name 1-1127 GPO)",
+   "about": "The sheet records a despatch concerning restrictions on travel within Taiwan by officers of the S.S. President Hoover.",
+   "summary": "This note cross-references a Taihoku despatch filed under material concerning the S.S. President Hoover. Warner reported restrictions imposed on the ship’s officers while traveling in Taiwan and stated that a copy of the despatch had been sent to the American Embassy in Japan.",
+   "keywords": [
+    "cross-reference",
+    "S.S. President Hoover",
+    "ship officers",
+    "travel restrictions",
+    "Taiwan",
+    "Taihoku",
+    "American Embassy in Japan"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for examining the bureaucratic machinery by which Japanese colonial authorities monitored foreigners in Taiwan: hotel reporting, household registration, police questioning, passport production, deportation, and monetary or custodial penalties. The translations preserve late nineteenth- and early twentieth-century regulations as they were understood by U.S. consular officials in the 1930s, including the distinct legal treatment of Chinese residents. The Gibraltar report offers an unusual comparative example of another tightly controlled strategic territory, while the later cross-references reveal how immigration law intersected with Chinese mobility and restrictions on American maritime personnel.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 96.2,
+  "identifier": "japan-internal-affairs-894a.111-regulations-governing-formosa-1",
+  "file": "894A.111 Regulations Governing %D0, Formosa. Taiwan, Residence, Trade, Travel, And Foreign Courier Travel., November 17, 1934 - April 9, 1938 1014.pdf",
+  "created": "2026-09-29 03:31:14"
+ }
+}

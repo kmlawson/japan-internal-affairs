@@ -1,0 +1,117 @@
+{
+ "interest": "This file illustrates the international wave of concern during the winter of 1933–1934 regarding the so-called 'ghost fliers' or mystery airplanes sighted over Scandinavia and Finland. It is particularly interesting for historians because it documents how mysterious aerial incursions in northern Europe were suspected of being tied not only to the neighboring Soviet Union but also to Imperial Japanese espionage operations. Additionally, the presence of the War Department's Military Intelligence Division routing sheet provides useful insight into interwar intelligence distribution networks connecting the War Department, the State Department, and the Department of Commerce.",
+ "keywords": [
+  "mystery planes",
+  "ghost fliers",
+  "Scandinavia",
+  "Finland",
+  "Japan",
+  "Soviet Union",
+  "espionage",
+  "aerial reconnaissance",
+  "Military Intelligence Division",
+  "War Department",
+  "Edward Albright",
+  "intelligence distribution"
+ ],
+ "overview": "This file from the State Department's Records Relating to the Internal Affairs of Japan (decimal file 894.202570) concerns Japanese military activities, intelligence gathering, and espionage in Scandinavia. It contains a Document File Note cross-referencing Despatch No. 100 of February 14, 1934, from U.S. Minister to Finland Edward Albright reporting on unidentified 'mystery planes' observed over Finland and Scandinavia that were suspected of being of Japanese or Russian origin. The file also includes a War Department Military Intelligence Division distribution and routing slip used to share intelligence between the War Department, the State Department, and the Department of Commerce.",
+ "people": [
+  {
+   "name": "Edward Albright",
+   "role": "U.S. Minister to Finland",
+   "variants": [
+    "Albright"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Finland",
+   "variants": [
+    "Finland"
+   ]
+  },
+  {
+   "name": "Scandinavia",
+   "variants": [
+    "Scandinavia"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russian"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting a diplomatic despatch regarding unidentified mystery airplanes over Finland and Scandinavia suspected of Japanese or Russian origin.",
+   "date": "1934-02-14",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Edward Albright, U.S. Minister to Finland",
+   "keywords": [
+    "mystery planes",
+    "Finland",
+    "Scandinavia",
+    "Japan",
+    "Russia",
+    "espionage",
+    "aerial reconnaissance",
+    "Edward Albright"
+   ],
+   "start_page": 1,
+   "summary": "A Department of State Document File Note recording Despatch No. 100 dated February 14, 1934, sent by U.S. Minister Edward Albright from Finland. It reports the alleged presence of unidentified 'mystery planes' flying over Finland and Scandinavia, suspected by observers of being of Japanese or Russian origin. The note cross-references decimal file 894.202570/2 where the full despatch was filed.",
+   "title": "Document File Note for Despatch No. 100 on Mystery Planes over Finland and Scandinavia",
+   "to": "Department of State"
+  },
+  {
+   "about": "War Department Military Intelligence Division distribution and routing slip for interdepartmental intelligence sharing.",
+   "date": "",
+   "doc_type": "routing slip",
+   "end_page": 2,
+   "from": "Military Intelligence Division, War Department",
+   "keywords": [
+    "Military Intelligence Division",
+    "War Department",
+    "routing slip",
+    "State Department",
+    "Far Eastern Affairs",
+    "intelligence distribution"
+   ],
+   "start_page": 2,
+   "summary": "A standard routing and distribution slip (form 1-18-138) from the Military Intelligence Division (MID) of the War Department. It lists various War Department officials and offices, the General Staff (G-1 through G-4, War Plans Division), Army branches, and liaison divisions within the State and Commerce Departments. The slip includes standard disposition checkboxes such as 'For your information and file' and 'Note and return'.",
+   "title": "Military Intelligence Division War Department Routing Slip",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13941,
+   "output_tokens": 5094,
+   "thinking_tokens": 4163,
+   "cache_read_tokens": 0,
+   "total_tokens": 19035
+  },
+  "backend": "agy",
+  "seconds": 20.2,
+  "identifier": "japan-internal-affairs-894.20257d-military-affairs-army-2",
+  "file": "894.20257D Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Scandinavia Including Gathering Of Information. Espionage. Propaganda., Fe 808.pdf",
+  "created": "2026-09-29 02:50:16"
+ }
+}

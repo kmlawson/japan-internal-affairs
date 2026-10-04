@@ -1,0 +1,73 @@
+{
+ "interest": "Standard-Vacuum manager finds Japanese living conditions resilient under 1941 rationing.",
+ "keywords": [
+  "Japan",
+  "living conditions",
+  "Standard-Vacuum Company",
+  "food shortages",
+  "rationing",
+  "economic conditions",
+  "foreign residents",
+  "clothing restrictions",
+  "wartime economy",
+  "C. E. Meyer",
+  "State Department"
+ ],
+ "overview": "C. E. Meyer's 1941 letter finds Japan's living conditions little changed, food scarce but people surprisingly well clothed despite rationing.",
+ "people": [
+  {
+   "name": "C. E. Meyer",
+   "role": "Manager of the Standard-Vacuum Company in Japan",
+   "variants": [
+    "MR. C. E. MEYER",
+    "C. E. MEYER"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "An excerpt from a letter by Standard-Vacuum manager C. E. Meyer assessing domestic living conditions, food supply, and consumer goods rationing in Japan in early 1941.",
+   "date": "1941-03-07",
+   "doc_type": "letter excerpt",
+   "end_page": 1,
+   "from": "C. E. Meyer (Manager, Standard-Vacuum Company in Japan)",
+   "keywords": [
+    "living conditions",
+    "Standard-Vacuum Company",
+    "food shortages",
+    "rationing",
+    "foreign residents",
+    "clothing restrictions",
+    "consumer goods"
+   ],
+   "start_page": 1,
+   "summary": "C. E. Meyer of Standard-Vacuum reports Japan's living conditions little changed after a year's absence: bread, potatoes, lamb, and game scarce, breadline grumbling mild, and the populace surprisingly well dressed and shod despite three years of wool, cotton, leather, and rubber controls.",
+   "title": "Excerpt from letter of C. E. Meyer on living conditions in Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13800,
+   "output_tokens": 4323,
+   "thinking_tokens": 3562,
+   "cache_read_tokens": 0,
+   "total_tokens": 18123
+  },
+  "backend": "agy",
+  "seconds": 20.9,
+  "identifier": "japan-internal-affairs-894.502-economic-matters-japan-1",
+  "file": "894.502 Economic Matters., Japan, Housing. Dwellings. Rents. Living Conditions., March 7, 1941 1249.pdf",
+  "created": "2026-09-29 08:04:09"
+ }
+}

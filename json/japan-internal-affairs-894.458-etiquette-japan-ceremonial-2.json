@@ -1,0 +1,135 @@
+{
+ "interest": "Sebald's 1948 New Year message to the Japanese people.",
+ "keywords": [
+  "Allied Council for Japan",
+  "William J. Sebald",
+  "New Year's message",
+  "Occupation of Japan",
+  "Douglas MacArthur",
+  "Harry S. Truman",
+  "Japanese Constitution",
+  "Postwar reconstruction",
+  "Democratization",
+  "New Japan magazine",
+  "United States Political Adviser for Japan",
+  "Foreign Service Regulations"
+ ],
+ "overview": "Despatch No. 1436 sends Sebald's New Year message for 'New Japan', praising reforms and the new Constitution.",
+ "people": [
+  {
+   "name": "William J. Sebald",
+   "role": "Acting Political Adviser; Deputy for the Supreme Commander, Chairman, and Member for the United States, Allied Council for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "WJSebald",
+    "WILLIAM J. SEBALD",
+    "Mr. William J. Sebald"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "President of the United States",
+   "variants": [
+    "President Truman"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General; Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES",
+    "United States"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "NORTH AMERICAN"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Despatch transmitting a copy of William J. Sebald's New Year's message to the Japanese people for publication in the magazine 'New Japan'.",
+   "date": "1947-12-06",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "W. J. Sebald, Acting Political Adviser",
+   "keywords": [
+    "Despatch No. 1436",
+    "W. J. Sebald",
+    "Allied Council for Japan",
+    "New Year's message",
+    "New Japan",
+    "Secretary of State",
+    "Tokyo"
+   ],
+   "start_page": 1,
+   "summary": "Sebald sends his New Year message for 'New Japan'.",
+   "title": "Despatch No. 1436 from W. J. Sebald enclosing New Year's Message",
+   "to": "The Secretary of State, Washington"
+  },
+  {
+   "about": "New Year's message from William J. Sebald encouraging the Japanese people in their postwar democratic reforms and adherence to the new Constitution.",
+   "date": "1947-12-06",
+   "doc_type": "enclosure",
+   "end_page": 2,
+   "from": "William J. Sebald, Deputy for the Supreme Commander, Chairman, and Member for the United States, Allied Council for Japan",
+   "keywords": [
+    "New Year's message",
+    "William J. Sebald",
+    "Harry S. Truman",
+    "Douglas MacArthur",
+    "Occupation of Japan",
+    "Japanese Constitution",
+    "Democratic reform"
+   ],
+   "start_page": 2,
+   "summary": "Sebald's New Year message praises reforms and the new Constitution.",
+   "title": "New Year's Message from William J. Sebald to the Japanese People",
+   "to": "The Japanese people"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14213,
+   "output_tokens": 4036,
+   "thinking_tokens": 2751,
+   "cache_read_tokens": 0,
+   "total_tokens": 18249
+  },
+  "backend": "agy",
+  "seconds": 20.4,
+  "identifier": "japan-internal-affairs-894.458-etiquette-japan-ceremonial-2",
+  "file": "894.458 Etiquette., Japan, Ceremonial Communications. New Years Greetings. Felicitation On National Anniversaries., December 6, 1947 1605.pdf",
+  "created": "2026-09-29 07:27:26"
+ }
+}

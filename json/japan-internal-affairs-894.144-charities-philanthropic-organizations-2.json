@@ -1,0 +1,82 @@
+{
+ "interest": "Japanese military attitude toward the Y.M.C.A. in occupied Peiping.",
+ "keywords": [
+  "Young Men's Christian Association (Y.M.C.A.)",
+  "Japanese military headquarters",
+  "Foreign missions",
+  "Peiping",
+  "Kobe",
+  "Liaison officer",
+  "Philanthropic organizations",
+  "Charities",
+  "State Department decimal file",
+  "Second Sino-Japanese War"
+ ],
+ "overview": "Cross-reference to McConaughy's Kobe Despatch No. 244 (1938) on a Y.M.C.A. liaison officer at Japanese military headquarters in Peiping.",
+ "people": [
+  {
+   "name": "Walter P. McConaughy",
+   "role": "U.S. Vice Consul at Kobe",
+   "variants": [
+    "McConaughy"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe-",
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet recording a despatch from Kobe concerning the assignment of a Y.M.C.A. liaison officer to Japanese military headquarters in Peiping.",
+   "date": "1938-04-16",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Walter P. McConaughy (Kobe)",
+   "keywords": [
+    "Y.M.C.A.",
+    "Kobe",
+    "Peiping",
+    "Japanese military headquarters",
+    "Foreign missions",
+    "Liaison officer"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to McConaughy's Despatch No. 244 (April 1938) on a Y.M.C.A. liaison officer at Peiping.",
+   "title": "Cross-Reference Sheet for Despatch No. 244 from Kobe Regarding Y.M.C.A. Liaison Officer at Peiping",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13710,
+   "output_tokens": 3143,
+   "thinking_tokens": 2425,
+   "cache_read_tokens": 0,
+   "total_tokens": 16853
+  },
+  "backend": "agy",
+  "seconds": 12.6,
+  "identifier": "japan-internal-affairs-894.144-charities-philanthropic-organizations-2",
+  "file": "894.144 Charities. Philanthropic Organizations., Japan, Your Mens Christian Association. Young Womens Christian Association. Salvation Army. Included Other Charitable And Philanthropic Organizations. Each Subdivision Will Be Made A Separate 1016.pdf",
+  "created": "2026-09-28 23:27:08"
+ }
+}

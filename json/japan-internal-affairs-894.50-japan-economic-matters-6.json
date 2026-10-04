@@ -1,0 +1,142 @@
+{
+ "interest": "Summarizes 1940 Japanese economic strain and shift toward regional self-sufficiency.",
+ "keywords": [
+  "Japan",
+  "economic conditions",
+  "coal shortages",
+  "electric power",
+  "daily necessities",
+  "ten-year program",
+  "self-sufficiency",
+  "foreign trade",
+  "Manchukuo",
+  "East Asia",
+  "European war",
+  "Cabinet Information Bureau"
+ ],
+ "overview": "Sheet #11 of file 894.50 indexes 1940 reports on Japan's coal, power, and goods shortages, and a Japan-China-Manchukuo self-sufficiency plan.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Nelson T. Johnson",
+   "role": "U.S. Ambassador to China",
+   "variants": [
+    "Johnson"
+   ]
+  },
+  {
+   "name": "Robert L. Smyth",
+   "role": "U.S. Consul in China",
+   "variants": [
+    "Smyth"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchukuo",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department purport sheet summarizing correspondence, telegrams, and reports concerning Japanese economic conditions, resource shortages, and regional self-sufficiency plans during 1940.",
+   "date": "1940",
+   "doc_type": "purport sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "purport sheet",
+    "economic conditions",
+    "coal shortages",
+    "electric power",
+    "ten-year program",
+    "self-sufficiency",
+    "foreign trade",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Indexes ten 1940 communications on Japan's coal, power, and commodity shortages, plus Tokyo's ten-year Japan-China-Manchukuo self-sufficiency plan.",
+   "title": "State Department Purport Sheet for File 894.50 (Sheet No. 11)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14310,
+   "output_tokens": 16382,
+   "thinking_tokens": 15376,
+   "cache_read_tokens": 0,
+   "total_tokens": 30692
+  },
+  "backend": "agy",
+  "seconds": 55.1,
+  "identifier": "japan-internal-affairs-894.50-japan-economic-matters-6",
+  "file": "894.50 Japan, Economic Matters.,  207.pdf",
+  "created": "2026-09-29 07:44:52"
+ }
+}

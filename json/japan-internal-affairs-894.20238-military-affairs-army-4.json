@@ -1,0 +1,135 @@
+{
+ "interest": "This file provides valuable insight into U.S. diplomatic and intelligence surveillance of Axis and Japanese influence in the Caribbean around the onset of World War II. It illustrates how American legations monitored foreign commercial enterprises—such as the Czechoslovakian Bata Shoe Company—for potential espionage or fifth-column linkages, prompting rigorous consular screening of visa applicants traveling to the United States. Furthermore, the January 1942 entry offers a direct post-Pearl Harbor assessment confirming the absence of Japanese commercial representatives or propaganda operations in Haiti, reflecting Washington's close attention to hemisphere defense.",
+ "keywords": [
+  "Haiti",
+  "Japan",
+  "Japanese activities",
+  "Propaganda",
+  "Espionage",
+  "Bata Shoe Company",
+  "Frantisek Votava",
+  "Visa control",
+  "Axis activities",
+  "World War II",
+  "Intelligence surveillance",
+  "Fifth column"
+ ],
+ "overview": "This file (decimal file 894.20238) consists of State Department cross-reference sheets documenting U.S. surveillance of Japanese and Axis activities, propaganda, and commercial presence in Haiti during the World War II era. The first record, referencing an October 1940 despatch from the American diplomatic mission in Haiti, details consular scrutiny and suspicions surrounding Frantisek Votava, manager of the local Chaussures Bata shoe factory, in connection with reports on Fascist, Nazi, Communist, and Japanese activities. The second document, referencing a January 1942 telegram following the outbreak of the Pacific War, confirms that no Japanese propaganda was circulating in Haiti and that no Japanese commercial representatives were present in the country.",
+ "people": [
+  {
+   "name": "Frantisek Votava",
+   "role": "Manager of the shoe factory of Chaussures Bata Haiti, S.A.",
+   "variants": [
+    "Frantisek Votava",
+    "Frank Votava",
+    "Mr. Votava"
+   ]
+  },
+  {
+   "name": "Edward J. Sparks",
+   "role": "U.S. Diplomatic Representative in Haiti",
+   "variants": [
+    "Sports"
+   ]
+  },
+  {
+   "name": "John Campbell White",
+   "role": "U.S. Minister to Haiti",
+   "variants": [
+    "White"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Haiti",
+   "variants": [
+    "Haiti",
+    "Haitian"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "United States",
+    "American"
+   ]
+  },
+  {
+   "name": "Czech Republic",
+   "variants": [
+    "Czechoslovakia"
+   ]
+  },
+  {
+   "name": "Prague",
+   "variants": [
+    "Prague"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting a despatch on Frantisek Votava, manager of Chaussures Bata Haiti, S.A., and his application for a U.S. visitor's visa amidst investigation of Axis activities.",
+   "date": "1940-10-28",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Edward J. Sparks",
+   "keywords": [
+    "Haiti",
+    "Frantisek Votava",
+    "Bata Shoe Company",
+    "Chaussures Bata Haiti, S.A.",
+    "visa application",
+    "Axis activities",
+    "Prague",
+    "Czechoslovakia"
+   ],
+   "start_page": 1,
+   "summary": "This cross-reference file note quotes an October 28, 1940 despatch from Edward J. Sparks in Haiti concerning Frantisek (Frank) Votava, the manager of the Chaussures Bata shoe factory. The legation noted that Votava intended to travel to the United States for three to six months to purchase materials. Although the consular section lacked grounds for an outright visa refusal, it viewed Bata personnel with suspicion and requested telegraphic instructions and background checks from the Department of State.",
+   "title": "Cross-Reference File Note on Bata Shoe Company and Frantisek Votava Visa Application",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet noting a telegram reporting that no Japanese propaganda or business representatives were present in Haiti.",
+   "date": "1942-01-06",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "John Campbell White",
+   "keywords": [
+    "Haiti",
+    "Japan",
+    "Japanese propaganda",
+    "commercial representatives",
+    "John Campbell White",
+    "World War II"
+   ],
+   "start_page": 2,
+   "summary": "This cross-reference file note references an urgent telegram sent on January 6, 1942, by U.S. Minister John Campbell White in Haiti to the Department of State. The report confirmed that no Japanese propaganda was being circulated in Haiti and that there were no Japanese commercial representatives residing or operating in the country. The original communication was catalogued under decimal file 894.20210/132.",
+   "title": "Cross-Reference File Note on Japanese Propaganda and Commercial Representation in Haiti",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14164,
+   "output_tokens": 8365,
+   "thinking_tokens": 7262,
+   "cache_read_tokens": 0,
+   "total_tokens": 22529
+  },
+  "backend": "agy",
+  "seconds": 28.5,
+  "identifier": "japan-internal-affairs-894.20238-military-affairs-army-4",
+  "file": "894.20238 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Haiti Including Gathering Of Information. Espionage. Propaganda., January 6 1318.pdf",
+  "created": "2026-09-29 01:57:43"
+ }
+}

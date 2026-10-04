@@ -1,0 +1,143 @@
+{
+ "interest": "Japanese cruiser calls in Java, 1930–34.",
+ "keywords": [
+  "Japanese Navy",
+  "naval visits",
+  "Java",
+  "Netherlands East Indies",
+  "Batavia",
+  "Tanjung Priok",
+  "Surabaya",
+  "Cirebon",
+  "cruisers",
+  "training squadron",
+  "goodwill visits",
+  "consular reporting"
+ ],
+ "overview": "Docket for 894.3356E (1930–34) on Japanese cruiser visits to Java, judged routine.",
+ "people": [
+  {
+   "name": "Kenneth S. Patton",
+   "role": "U.S. Consul General at Batavia",
+   "variants": [
+    "Patton"
+   ]
+  },
+  {
+   "name": "John W. MacDonald",
+   "role": "U.S. Consul at Batavia",
+   "variants": [
+    "MacDonald"
+   ]
+  },
+  {
+   "name": "L. Randolph Higgs",
+   "role": "U.S. Vice Consul at Batavia / Surabaya",
+   "variants": [
+    "Higgs"
+   ]
+  },
+  {
+   "name": "George H. Browne",
+   "role": "U.S. Vice Consul at Batavia",
+   "variants": [
+    "Browne"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Madura",
+   "variants": [
+    "Madura"
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Tanjung Priok",
+   "variants": [
+    "Tandjong Prick"
+   ]
+  },
+  {
+   "name": "Cirebon",
+   "variants": [
+    "Cheribon"
+   ]
+  },
+  {
+   "name": "Makassar",
+   "variants": [
+    "Macassar"
+   ]
+  },
+  {
+   "name": "Manado",
+   "variants": [
+    "Menado"
+   ]
+  },
+  {
+   "name": "Surabaya",
+   "variants": [
+    "Surabaya"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State list of papers summarizing consular despatches from Batavia regarding visits of Japanese naval cruisers to ports in Java and the Netherlands East Indies from 1930 to 1934.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Japanese Navy",
+    "Batavia",
+    "Java",
+    "cruisers",
+    "naval visits",
+    "Tandjong Priok",
+    "Surabaya",
+    "Cheribon"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.3356E on Japanese cruiser visits to Java, 1930–34.",
+   "title": "List of Papers: Visit of Japanese War Vessels to Java",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13934,
+   "output_tokens": 6335,
+   "thinking_tokens": 5317,
+   "cache_read_tokens": 0,
+   "total_tokens": 20269
+  },
+  "backend": "agy",
+  "seconds": 22.5,
+  "identifier": "japan-internal-affairs-894.3356e-visits-of-vessels-2",
+  "file": "894.3356E Visits Of Vessels And Aircraft Of Japan To Ports Of Java And Madura.,  502.pdf",
+  "created": "2026-09-29 04:34:11"
+ }
+}

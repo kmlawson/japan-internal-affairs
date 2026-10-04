@@ -1,0 +1,962 @@
+{
+ "interest": "Shows how Japan's 'population problem' fueled imperial expansion, with census data, Tokyo's growth, Brazil emigration, and U.S. military demographic assessments.",
+ "keywords": [
+  "Japan",
+  "census",
+  "demography",
+  "population growth",
+  "vital statistics",
+  "urbanization",
+  "emigration",
+  "Japanese Empire",
+  "unemployment",
+  "Tokyo",
+  "Nagoya",
+  "colonial territories"
+ ],
+ "overview": "This file (State Department decimal file 894.5011, File 959) covers economic and demographic intelligence on Japan from April 1930 to May 1938, focusing primarily on national census returns, demographic pressures, urbanization, and overseas migration. Comprising diplomatic despatches, consular reports, cross-reference sheets with attached periodic report extracts, commercial inquiries, and a War Department G-2 intelligence report, the collection documents the execution and results of the second (1930) and fourth (1935) decennial national censuses, annual natural population increases, and local registration data. Major themes include governmental responses to Japan's perceived 'over-population' crisis—such as the draft recommendations of the Food and Population Commission and state-assisted emigration to Brazil—as well as the rapid expansion of industrial metropolises like Tokyo, Osaka, and Nagoya, demographic developments across colonial territories (Chosen, Taiwan, Karafuto, Kwantung Leased Territory, and the South Seas Mandate), and military assessments of Japanese imperial manpower.",
+ "people": [
+  {
+   "name": "William R. Castle, Jr.",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Castle"
+   ]
+  },
+  {
+   "name": "W. Cameron Forbes",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Forbes",
+    "W. Cameron Forbes"
+   ]
+  },
+  {
+   "name": "Athol E. Rollins",
+   "role": "Editor, Compton's Pictured Encyclopedia",
+   "variants": [
+    "Athol E. Rollins",
+    "Mr. Athol E. Rollins"
+   ]
+  },
+  {
+   "name": "Arthur Garrels",
+   "role": "American Consul General at Tokyo",
+   "variants": [
+    "Garrels",
+    "Arthur Garrels"
+   ]
+  },
+  {
+   "name": "Leo D. Sturgeon",
+   "role": "American Consul at Tokyo",
+   "variants": [
+    "Leo D. Sturgeon"
+   ]
+  },
+  {
+   "name": "J. Holbrook Chapman",
+   "role": "American Consul at Tokyo",
+   "variants": [
+    "J. Holbrook Chapman"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Richard F. Boyce",
+   "role": "American Consul at Yokohama",
+   "variants": [
+    "Boyce"
+   ]
+  },
+  {
+   "name": "John Beckerling",
+   "role": "Captain, Infantry, U.S. Army",
+   "variants": [
+    "John Beckerling"
+   ]
+  },
+  {
+   "name": "William C. Crane",
+   "role": "Lieutenant Colonel, Field Artillery, Military Attaché",
+   "variants": [
+    "William C. Cline"
+   ]
+  },
+  {
+   "name": "Charles H. Stephan",
+   "role": "American Vice Consul at Nagoya",
+   "variants": [
+    "C. H. Stephan"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper",
+    "Japan Proper",
+    "Japanese Empire",
+    "Empire"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo Prefecture"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Magora",
+    "City of Nagoya",
+    "Municipality of Nagoya"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Hobe"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima",
+    "Niroshi"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "the Hokkaido"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto",
+    "Japanese Saghalien",
+    "Kabafuto",
+    "Karafuto (Sakhalin)"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Chosen (Korea)"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Taiwan (Formosa)"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shizoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.N."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington",
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "CHICAGO",
+    "Chicago"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "variants": [
+    "Illinois"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "LONDON",
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "ENGLAND",
+    "England"
+   ]
+  },
+  {
+   "name": "Milan",
+   "variants": [
+    "MILAN"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "ITALY"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australasia"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South American"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "British Canada"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "variants": [
+    "Venezuela"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "Paraguay",
+   "variants": [
+    "Paraguay"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Guam"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Philippine Guam"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "British Straits Settlements"
+   ]
+  },
+  {
+   "name": "Dutch East Indies",
+   "variants": [
+    "Dutch East Indies"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Persia"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong-Kong"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "can zone in Kanchukou",
+    "Kanchukou"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia in the Extreme East",
+    "Russia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Islands under Japanese mandate",
+    "Mandated South Sea Islands",
+    "South Area Islands"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Province",
+    "Kwantung Leased Territory",
+    "wanting leased territory"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "South Manchurian Railway Zone",
+    "South Manchuria Railway Zone",
+    "can zone in Kanchukou"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyohashi"
+   ]
+  },
+  {
+   "name": "Okazaki",
+   "variants": [
+    "Okazaki"
+   ]
+  },
+  {
+   "name": "Ichinomiya",
+   "variants": [
+    "Ichinomiya"
+   ]
+  },
+  {
+   "name": "Seto",
+   "variants": [
+    "Seto"
+   ]
+  },
+  {
+   "name": "Handa",
+   "variants": [
+    "Handa"
+   ]
+  },
+  {
+   "name": "Aichi District",
+   "variants": [
+    "Aichi gun"
+   ]
+  },
+  {
+   "name": "Higashi-Kasugai District",
+   "variants": [
+    "Higashi-Kasugai gun"
+   ]
+  },
+  {
+   "name": "Nishi-Kasugai District",
+   "variants": [
+    "Nishi-Kasugai gun"
+   ]
+  },
+  {
+   "name": "Niwa District",
+   "variants": [
+    "Niwa gun"
+   ]
+  },
+  {
+   "name": "Haguri District",
+   "variants": [
+    "Haguri gun"
+   ]
+  },
+  {
+   "name": "Nakashima District",
+   "variants": [
+    "Nakashima gun"
+   ]
+  },
+  {
+   "name": "Ama District",
+   "variants": [
+    "Ama gun"
+   ]
+  },
+  {
+   "name": "Chita District",
+   "variants": [
+    "Chita gun"
+   ]
+  },
+  {
+   "name": "Hekkai District",
+   "variants": [
+    "Hekkai gun"
+   ]
+  },
+  {
+   "name": "Hazu District",
+   "variants": [
+    "Hazu gun"
+   ]
+  },
+  {
+   "name": "Nukata District",
+   "variants": [
+    "Nukata gun"
+   ]
+  },
+  {
+   "name": "Nishi-Kamo District",
+   "variants": [
+    "Nishi-Kamo gun"
+   ]
+  },
+  {
+   "name": "Higashi-Kamo District",
+   "variants": [
+    "Higashi-Kamo gun"
+   ]
+  },
+  {
+   "name": "Kita-Shidara District",
+   "variants": [
+    "Kita-Shidara gun"
+   ]
+  },
+  {
+   "name": "Minami-Shidara District",
+   "variants": [
+    "Minami-Shidara gun"
+   ]
+  },
+  {
+   "name": "Hoi District",
+   "variants": [
+    "Hoi gun"
+   ]
+  },
+  {
+   "name": "Atsumi District",
+   "variants": [
+    "Atsumi gun"
+   ]
+  },
+  {
+   "name": "Yana District",
+   "variants": [
+    "Yana gun"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Recommendations approved by the population section of the Food and Population Commission toward solving Japan's population problem.",
+   "date": "1930-04-07",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "William R. Castle, Jr.",
+   "keywords": [
+    "Food and Population Commission",
+    "population problem",
+    "Social Department",
+    "demography",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference sheet with a 1930 Tokyo report extract on Japan's Food and Population Commission recommendations: a new Social Department, a standing inquiry body, and distribution and consumption measures.",
+   "title": "Cross-Reference Sheet with Attached Extract on Recommendations of the Food and Population Commission",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Preparations and anticipated unemployment data for the second regular decennial census of October 1, 1930.",
+   "date": "1930-10-06",
+   "doc_type": "cross-reference sheet",
+   "end_page": 5,
+   "from": "W. Cameron Forbes",
+   "keywords": [
+    "decennial census",
+    "unemployment",
+    "census preparations",
+    "statistics",
+    "Japan"
+   ],
+   "start_page": 4,
+   "summary": "Cross-reference sheet with a 1930 Tokyo report extract noting preparations for Japan's second decennial census: 250,000 enumerators, 4,000,000 yen cost, expected to reveal previously underestimated unemployment.",
+   "title": "Cross-Reference Sheet with Attached Extract on Preparations for the 1930 Decennial Census",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Initial returns and regional population growth from the concluding of Japan's second decennial census.",
+   "date": "1930-11-01",
+   "doc_type": "cross-reference sheet",
+   "end_page": 7,
+   "from": "W. Cameron Forbes",
+   "keywords": [
+    "second decennial census",
+    "Hokkaido",
+    "Karafuto",
+    "Chosen",
+    "Nagoya",
+    "population growth"
+   ],
+   "start_page": 6,
+   "summary": "Cross-reference sheet with a November 1930 Tokyo report extract on initial second census results, with growth figures for Hokkaido, Karafuto, and Chosen, and Nagoya's premature celebration of reaching one million residents.",
+   "title": "Cross-Reference Sheet with Attached Extract on Initial Results of the Second Decennial Census",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Inquiry from the editor of Compton's Pictured Encyclopedia requesting recent population figures for Japan and its major cities.",
+   "date": "1930-12-08",
+   "doc_type": "letter",
+   "end_page": 8,
+   "from": "Athol E. Rollins",
+   "keywords": [
+    "Compton's Pictured Encyclopedia",
+    "Athol E. Rollins",
+    "urban population",
+    "census statistics",
+    "Japanese cities"
+   ],
+   "start_page": 8,
+   "summary": "Compton's Pictured Encyclopedia editor Athol E. Rollins asks the State Department for current population figures for Japan and its major cities before the encyclopedia goes to press.",
+   "title": "Letter from Compton & Company Requesting Japanese Census Statistics",
+   "to": "Department of State"
+  },
+  {
+   "about": "Transmittal of Compton's Encyclopedia's population inquiry to the Bureau of Foreign and Domestic Commerce for direct response.",
+   "date": "1930-12-15",
+   "doc_type": "memorandum",
+   "end_page": 9,
+   "from": "Commercial Office, Department of State",
+   "keywords": [
+    "Department of State",
+    "Bureau of Foreign and Domestic Commerce",
+    "memorandum",
+    "commercial office",
+    "census inquiry"
+   ],
+   "start_page": 9,
+   "summary": "Memo refers Rollins's census inquiry to the Bureau of Foreign and Domestic Commerce for direct reply.",
+   "title": "Department of State Memorandum Referring Compton Inquiry to Bureau of Foreign and Domestic Commerce",
+   "to": "Bureau of Foreign and Domestic Commerce"
+  },
+  {
+   "about": "State Department letter notifying Compton's Encyclopedia that its inquiry was referred to the Bureau of Foreign and Domestic Commerce.",
+   "date": "1930-12-16",
+   "doc_type": "letter",
+   "end_page": 10,
+   "from": "Assistant Secretary of State",
+   "keywords": [
+    "Department of State",
+    "Athol E. Rollins",
+    "consular reports",
+    "Bureau of Foreign and Domestic Commerce",
+    "public dissemination"
+   ],
+   "start_page": 10,
+   "summary": "State Department tells Rollins that consular economic reports go to the Commerce Department's Bureau of Foreign and Domestic Commerce, which handles public dissemination, and that his letter was forwarded there.",
+   "title": "Department of State Letter to Athol E. Rollins Regarding Census Inquiry",
+   "to": "Athol E. Rollins"
+  },
+  {
+   "about": "Consular report analyzing Japanese Foreign Office statistics on Japanese subjects resident abroad and state-assisted emigration to Brazil.",
+   "date": "1930-12-04",
+   "doc_type": "report",
+   "end_page": 15,
+   "from": "Arthur Garrels",
+   "keywords": [
+    "emigration",
+    "Japanese residents abroad",
+    "Brazil",
+    "Foreign Office",
+    "Arthur Garrels",
+    "migration statistics"
+   ],
+   "start_page": 11,
+   "summary": "This sub-file includes a cross-reference sheet (894.5011/26) and a detailed four-page report prepared by Consul General Arthur Garrels in Tokyo on December 4, 1930. Sourced from the Japanese Foreign Office, it analyzes emigration trends from 1920 to 1929, recording 759,435 Japanese subjects living abroad as of October 1, 1929. The report focuses on government-assisted emigration to Brazil following exclusion in the United States and Australia, providing tables of annual assisted emigrants and a worldwide geographical distribution of Japanese residents by country.",
+   "title": "Cross-Reference Sheet and Report by Garrels on Japanese Subjects Resident Abroad",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Diplomatic despatch transmitting official 1930 decennial census returns for the Japanese Empire and principal cities.",
+   "date": "1930-12-16",
+   "doc_type": "despatch",
+   "end_page": 19,
+   "from": "W. Cameron Forbes",
+   "keywords": [
+    "1930 decennial census",
+    "W. Cameron Forbes",
+    "Official Gazette",
+    "population statistics",
+    "Tokyo",
+    "Osaka",
+    "Japanese Empire"
+   ],
+   "start_page": 16,
+   "summary": "Despatch No. 84: Forbes reports the October 1930 census found the Japanese Empire's population at 90,395,041 (up 7.9% since 1925), with Japan proper at 64,447,724, city tabulations, and plans to annex Tokyo's suburbs into a nearly five-million metropolis.",
+   "title": "Despatch No. 84 from Forbes Reporting Results of the 1930 Decennial Census",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Consular report summarizing preliminary returns and international comparisons for the third Japanese national census of 1930.",
+   "date": "1930-12-12",
+   "doc_type": "report",
+   "end_page": 23,
+   "from": "Arthur Garrels",
+   "keywords": [
+    "third national census",
+    "Arthur Garrels",
+    "population density",
+    "urban centers",
+    "Bureau of General Statistics"
+   ],
+   "start_page": 20,
+   "summary": "Report No. 70: Garrels gives preliminary 1930 census figures, comparing Japan's population density to Belgium, Holland, and England, with sex ratios, urban concentration, growth rates since 1920, and counts for the seven largest cities.",
+   "title": "Report No. 70 by Garrels on Preliminary Figures for the Third National Census",
+   "to": "Department of State"
+  },
+  {
+   "about": "Transmittal of a corrected page for an earlier consular report on Japanese population growth and over-population.",
+   "date": "1931-09-01",
+   "doc_type": "despatch",
+   "end_page": 24,
+   "from": "Arthur Garrels",
+   "keywords": [
+    "Arthur Garrels",
+    "Leo D. Sturgeon",
+    "over-population",
+    "errata",
+    "population growth"
+   ],
+   "start_page": 24,
+   "summary": "Despatch No. 346: Garrels transmits a corrected page for Sturgeon's report on Japanese over-population, revising Japanese residing abroad to 800,000 and the annual population increase to 900,000.",
+   "title": "Despatch No. 346 from Garrels Transmitting Corrected Page for Report on Over-Population",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Consular report analyzing preliminary results of the fourth national census of Japan taken on October 1, 1935.",
+   "date": "1935-12-10",
+   "doc_type": "report",
+   "end_page": 29,
+   "from": "J. Holbrook Chapman",
+   "keywords": [
+    "fourth national census",
+    "J. Holbrook Chapman",
+    "Tokyo expansion",
+    "urbanization",
+    "Japanese Empire",
+    "1935 census"
+   ],
+   "start_page": 25,
+   "summary": "Consul J. Holbrook Chapman reviews preliminary returns of the fourth national census of October 1, 1935, announced by the Cabinet's Bureau of General Statistics. The population of the Japanese Empire reached 97,694,628 (and 99,453,629 including leased and mandated zones), an 8.1 percent increase over 1930. The report highlights accelerating urbanization, sex ratios, demographic data for Chosen, Taiwan, Karafuto, Kwantung Leased Territory, and the South Manchuria Railway Zone, and explains how Tokyo's dramatic rise to 5,875,388 resulted from prefectural municipal amalgamations.",
+   "title": "Report No. 166 by Chapman on Preliminary Announced Results of the Fourth National Census",
+   "to": "Department of State"
+  },
+  {
+   "about": "Reporting of Cabinet statistics showing the natural population increase in Japan for the first half of 1935.",
+   "date": "1936-02-21",
+   "doc_type": "cross-reference sheet",
+   "end_page": 31,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "natural increase",
+    "vital statistics",
+    "Joseph C. Grew",
+    "Japan Chronicle",
+    "Cabinet Statistics Bureau"
+   ],
+   "start_page": 30,
+   "summary": "Cross-reference sheet with a 1936 extract reporting a 565,915 natural population increase in Japan for the first half of 1935, up 103,935 over the same period in 1934.",
+   "title": "Cross-Reference Sheet with Attached Extract on Natural Increase in Population for Early 1935",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reporting of press data showing that Japan's population increase in 1935 was the greatest annual gain since 1898.",
+   "date": "1936-07-13",
+   "doc_type": "cross-reference sheet",
+   "end_page": 33,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "annual increase",
+    "record population growth",
+    "Joseph C. Grew",
+    "Japan Advertiser",
+    "demographic milestone"
+   ],
+   "start_page": 32,
+   "summary": "Cross-reference sheet with a 1936 extract reporting Japan's 1935 population increase of 1,028,623, the largest annual gain since official statistics began in 1898.",
+   "title": "Cross-Reference Sheet with Attached Extract on Record Population Increase for 1935",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Notice of a voluntary report from Yokohama on the problem of Japanese surplus population.",
+   "date": "1937-06-24",
+   "doc_type": "cross-reference sheet",
+   "end_page": 34,
+   "from": "Richard F. Boyce",
+   "keywords": [
+    "surplus population",
+    "Richard F. Boyce",
+    "Yokohama",
+    "cross-reference sheet",
+    "population pressure"
+   ],
+   "start_page": 34,
+   "summary": "Cross-reference sheet to a 1937 report by Consul Boyce from Yokohama on 'The Problem of the Japanese Surplus Population.'",
+   "title": "Cross-Reference Sheet Regarding Report on Japanese Surplus Population Problem",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Military intelligence report on Japan's 1937 population statistics, sex ratios, imperial growth, and principal cities.",
+   "date": "1937-11-20",
+   "doc_type": "report",
+   "end_page": 35,
+   "from": "John Beckerling and William C. Crane",
+   "keywords": [
+    "G-2 report",
+    "War Department",
+    "military attaché",
+    "1937 population statistics",
+    "Manchukuo",
+    "urban populations"
+   ],
+   "start_page": 35,
+   "summary": "War Department G-2 report evaluates 1937 figures: Japan proper's population at 71,252,500 (up about one million), with the Empire and sphere of control estimated at 101,500,000, plus figures for the six largest cities.",
+   "title": "War Department G-2 Report No. 9096 on 1937 Population Statistics",
+   "to": "War Department"
+  },
+  {
+   "about": "Consular survey of population, household counts, sex distribution, and municipal expansion in Aichi Prefecture and the City of Nagoya.",
+   "date": "1938-05-04",
+   "doc_type": "report",
+   "end_page": 38,
+   "from": "C. H. Stephan",
+   "keywords": [
+    "Aichi Prefecture",
+    "Nagoya",
+    "C. H. Stephan",
+    "demographics",
+    "counties",
+    "fiftieth anniversary"
+   ],
+   "start_page": 36,
+   "summary": "Vice Consul Stephan reports 1937 registration data for Aichi Prefecture: females outnumber males by 7% overall (except Nagoya), and reviews Nagoya's growth to 1,219,550 residents as the Empire's third largest city ahead of its 1939 anniversary.",
+   "title": "Consular Report by Stephan on Population of Aichi Prefecture and Nagoya",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 24137,
+   "output_tokens": 43295,
+   "thinking_tokens": 36770,
+   "cache_read_tokens": 0,
+   "total_tokens": 67432
+  },
+  "backend": "agy",
+  "seconds": 136.1,
+  "identifier": "japan-internal-affairs-894.5011-economic-matters-statistics-1",
+  "file": "894.5011 Economic Matters., Statistics, General., Japan, Census., April 7, 1930 - June 24, 1937 959.pdf",
+  "created": "2026-09-29 07:53:33"
+ }
+}

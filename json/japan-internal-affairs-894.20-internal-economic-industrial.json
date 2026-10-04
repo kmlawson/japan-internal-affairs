@@ -1,0 +1,106 @@
+{
+ "interest": "1932 U.S. concern over Japanese activity in Peru.",
+ "keywords": [
+  "Peru",
+  "Japanese colonization",
+  "Japanese immigration",
+  "military intelligence",
+  "Office of Naval Intelligence",
+  "War Department",
+  "Division of Far Eastern Affairs",
+  "Lima",
+  "surveillance",
+  "interagency intelligence",
+  "confidential file"
+ ],
+ "overview": "Salisbury's 1932 memo on a War Department request to check an informant's reports of Japanese activity in Peru.",
+ "people": [
+  {
+   "name": "Edward F. Witsell",
+   "role": "Major, Far Eastern Section, War Department",
+   "variants": [
+    "Major Witsell",
+    "Witsell"
+   ]
+  },
+  {
+   "name": "Laurence E. Salisbury",
+   "role": "Officer, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "Mr. Salisbury",
+    "Salisbury",
+    "LES"
+   ]
+  },
+  {
+   "name": "Sanchez",
+   "role": "Informant to the American Minister at Lima",
+   "variants": [
+    "Mr. Sanchez",
+    "Sanchez"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Eastern"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department memorandum regarding a War Department request to verify reports of Japanese activities in Peru provided by an informant in Lima.",
+   "date": "1932-09-06",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "Laurence E. Salisbury",
+   "keywords": [
+    "Peru",
+    "Japanese activities",
+    "War Department",
+    "Office of Naval Intelligence",
+    "Lima",
+    "intelligence verification"
+   ],
+   "start_page": 1,
+   "summary": "Salisbury tells Major Witsell the Minister at Lima is already reporting on Japanese activities in Peru, as ONI had asked.",
+   "title": "Memorandum by Laurence E. Salisbury regarding War Department Inquiry on Japanese Activities in Peru",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13735,
+   "output_tokens": 15552,
+   "thinking_tokens": 14724,
+   "cache_read_tokens": 0,
+   "total_tokens": 29287
+  },
+  "backend": "agy",
+  "seconds": 48.8,
+  "identifier": "japan-internal-affairs-894.20-internal-economic-industrial",
+  "file": "894.20, Internal Economic, Industrial And Social Affairs., Japan, Agriculture., September 6, 1932 757.pdf",
+  "created": "2026-09-28 23:43:37"
+ }
+}

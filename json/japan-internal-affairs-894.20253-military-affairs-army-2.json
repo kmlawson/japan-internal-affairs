@@ -1,0 +1,992 @@
+{
+ "interest": "This file offers valuable historical insight into neutral Portugal's pivotal role as an espionage and diplomatic battleground during the Second World War. It uniquely illuminates how Imperial Japan sought to manage the severe diplomatic friction caused by its occupation of Portuguese Timor while simultaneously exploiting Lisbon as a gateway to gather Western media, manage funds, and coordinate intelligence with Axis partners in Berlin, Rome, and Madrid. The documents vividly demonstrate the operational mechanics of wartime counter-espionage—combining British intelligence sharing, naval attaché surveillance, and OSS undercover informant debriefings—and expose the logistical crisis faced by Japanese intelligence when the Allied liberation of France severed overland communications between the Iberian peninsula and Germany.",
+ "keywords": [
+  "Japanese Legation in Lisbon",
+  "Espionage",
+  "Propaganda",
+  "Portuguese Timor",
+  "António de Oliveira Salazar",
+  "Office of Strategic Services",
+  "Office of Naval Intelligence",
+  "Morito Morishima",
+  "Portugal neutrality",
+  "Axis intelligence networks",
+  "Greater East Asia Co-Prosperity Sphere",
+  "Communications intelligence"
+ ],
+ "overview": "This file comprises State Department, Office of Naval Intelligence (ONI), and Office of Strategic Services (OSS) records from 1940 to 1944 concerning Japanese diplomatic, propaganda, and intelligence activities in neutral Portugal during World War II. Filed under decimal 894.20253, the collection documents how Japan utilized its legation in Lisbon as a vital European listening post, propaganda conduit, and clearinghouse for open-source intelligence and clandestine operations. Materials include early reports on Japanese propaganda dissemination, comprehensive rosters of Japanese diplomats, journalists, and intelligence operatives compiled by naval intelligence and British sources, translated propaganda circulars justifying military expansion and the contentious invasion of Portuguese Timor, and cross-reference records tracking covert financial transactions and secret missions to Germany. The file culminates in late 1944 OSS counter-espionage reporting detailing high-level negotiations between Japanese Minister Morito Morishima and Portuguese Prime Minister António de Oliveira Salazar over Timor's sovereignty, as well as the severe operational disruptions to Japan's European intelligence network following the Allied liberation of France.",
+ "people": [
+  {
+   "name": "Herbert C. Pell",
+   "role": "U.S. Minister to Portugal",
+   "variants": [
+    "Herbert C. Pell",
+    "HERBERT C. PELL"
+   ]
+  },
+  {
+   "name": "Shin-ichi Chiba",
+   "role": "Japanese Minister to Portugal",
+   "variants": [
+    "CHIBA, Shin-ichi"
+   ]
+  },
+  {
+   "name": "Mrs. Chiba",
+   "role": "Wife of Japanese Minister Shin-ichi Chiba",
+   "variants": [
+    "Mrs. Chiba"
+   ]
+  },
+  {
+   "name": "Masutaro Inoue",
+   "role": "Counselor of Japanese Legation in Lisbon",
+   "variants": [
+    "JEQUE, Iasutaro",
+    "INOUYE",
+    "TUANE, Mosutaro"
+   ]
+  },
+  {
+   "name": "Mrs. Inoue",
+   "role": "Wife of Counselor Masutaro Inoue",
+   "variants": [
+    "Mrs. Inoue"
+   ]
+  },
+  {
+   "name": "Mário Ferreira Lugalho",
+   "role": "Host/resident in Estoril",
+   "variants": [
+    "Mario Ferreira Lugalho"
+   ]
+  },
+  {
+   "name": "Keizo Sakurai",
+   "role": "Japanese Military Attaché to Spain and Portugal",
+   "variants": [
+    "JESUAI, Lt. Colonel Noizo",
+    "Keizo Sakurai",
+    "Lt. Col. Keizo Sakurai"
+   ]
+  },
+  {
+   "name": "Lt. Colonel Jeun",
+   "role": "Japanese Assistant Military Attaché (resident in Madrid)",
+   "variants": [
+    "JEUN, Lt. Colonel"
+   ]
+  },
+  {
+   "name": "Commander Fumitsugu Jyo",
+   "role": "Japanese Naval Attaché (resident in Madrid)",
+   "variants": [
+    "JIO, Comdr. Functugu"
+   ]
+  },
+  {
+   "name": "Toshio Yoshioka",
+   "role": "Third Secretary, Japanese Legation in Lisbon",
+   "variants": [
+    "YAMIOKA, Toshio"
+   ]
+  },
+  {
+   "name": "Mrs. Yoshioka",
+   "role": "Wife of Third Secretary Toshio Yoshioka",
+   "variants": [
+    "Mrs. Yoshioka"
+   ]
+  },
+  {
+   "name": "Hisao Yoshioka",
+   "role": "Financial Attaché, Japanese Legation in Lisbon",
+   "variants": [
+    "YAMIOKA, Hisao"
+   ]
+  },
+  {
+   "name": "Takeo Ueno",
+   "role": "Attaché, Japanese Legation in Lisbon; press correspondent",
+   "variants": [
+    "UESO (or OSO), Takeo",
+    "Takeo Ueno"
+   ]
+  },
+  {
+   "name": "Mrs. Ueno",
+   "role": "Wife of Attaché Takeo Ueno",
+   "variants": [
+    "Mrs. Ueno"
+   ]
+  },
+  {
+   "name": "Tadashi Imase",
+   "role": "Attaché, Japanese Legation in Lisbon",
+   "variants": [
+    "IMASSE, Tadashi"
+   ]
+  },
+  {
+   "name": "Akira Tsujino",
+   "role": "Chancellor, Japanese Legation in Lisbon",
+   "variants": [
+    "TSUJINO, Akira"
+   ]
+  },
+  {
+   "name": "Haruo Oikawa",
+   "role": "Japanese official with diplomatic passport",
+   "variants": [
+    "OHIKAWA, Harno"
+   ]
+  },
+  {
+   "name": "Yukitaka Ibuki",
+   "role": "Japanese official with diplomatic passport",
+   "variants": [
+    "IBUS (?) I, Yukitaka"
+   ]
+  },
+  {
+   "name": "Mie Inoue",
+   "role": "Japanese official with diplomatic passport",
+   "variants": [
+    "INONE, Mie"
+   ]
+  },
+  {
+   "name": "Kenji Kanno",
+   "role": "Director of Asahi, reported member of Japanese Intelligence",
+   "variants": [
+    "KAUNO, Kenzi"
+   ]
+  },
+  {
+   "name": "Shojiro Kikuchi",
+   "role": "Japanese official sent to establish a propaganda office in Lisbon",
+   "variants": [
+    "KIKUCHI, Shajiro"
+   ]
+  },
+  {
+   "name": "Dr. Kimura",
+   "role": "Writer, son of proprietor of Asahi, suspected intelligence operative",
+   "variants": [
+    "KIYAMURA, Dr."
+   ]
+  },
+  {
+   "name": "Yoshinori Maruno",
+   "role": "Correspondent of Asahi, suspected intelligence operative",
+   "variants": [
+    "MARNO, Yoshinori"
+   ]
+  },
+  {
+   "name": "Kanji Nakaye",
+   "role": "Japanese traveler/agent arriving from Casablanca",
+   "variants": [
+    "NAKAYE - Kanji",
+    "NAKAYE KANYI"
+   ]
+  },
+  {
+   "name": "Nikolai",
+   "role": "Japanese agent/official with official passport, Portuguese speaker",
+   "variants": [
+    "NIKOLAI"
+   ]
+  },
+  {
+   "name": "Dr. Soichi Noguchi",
+   "role": "Correspondent of Yomiuri Shimbun, suspected intelligence operative",
+   "variants": [
+    "NOCQUURI, Sorchi, Dr."
+   ]
+  },
+  {
+   "name": "Oshima",
+   "role": "Official attached to Japanese Legation in Lisbon",
+   "variants": [
+    "OSTIAMA"
+   ]
+  },
+  {
+   "name": "Seichiro Ono",
+   "role": "Journalist, member of Military Attaché staff, suspected intelligence operative",
+   "variants": [
+    "ONO, Schikiro"
+   ]
+  },
+  {
+   "name": "Jugo Saita",
+   "role": "Japanese official with diplomatic passport",
+   "variants": [
+    "SAITA (TAAIGO), Jugo"
+   ]
+  },
+  {
+   "name": "Jungo Sakura",
+   "role": "Representative of Mitsui in Lisbon, suspected intelligence operative",
+   "variants": [
+    "SAKURA, Jungo"
+   ]
+  },
+  {
+   "name": "Shiohama",
+   "role": "Japanese traveler/agent arriving via Tangier",
+   "variants": [
+    "SHIOHAMA",
+    "SHYOHAMA"
+   ]
+  },
+  {
+   "name": "Kazuo Suzuki",
+   "role": "Japanese official with diplomatic passport traveling with Kikuchi",
+   "variants": [
+    "SUSUKI, Kazmo (?Kasuno)",
+    "Kasuno SUZUKI"
+   ]
+  },
+  {
+   "name": "Takikoho",
+   "role": "Japanese traveler/agent arriving via Tangier",
+   "variants": [
+    "TAKIKOHO"
+   ]
+  },
+  {
+   "name": "Uchiyama",
+   "role": "Private Secretary to Japanese Minister Shin-ichi Chiba",
+   "variants": [
+    "UCHIYAMA"
+   ]
+  },
+  {
+   "name": "Masao Urushino",
+   "role": "Correspondent of Yomiuri Shimbun, suspected military intelligence operative",
+   "variants": [
+    "URUSINO, Masno"
+   ]
+  },
+  {
+   "name": "Nobuhiko Ushina",
+   "role": "Japanese traveler/official arriving via Lufthansa",
+   "variants": [
+    "USHINA, Nobuhika"
+   ]
+  },
+  {
+   "name": "Sumako Yoshioka",
+   "role": "Japanese diplomatic passport holder resident in Lisbon",
+   "variants": [
+    "YOSHIOKA, Sumako"
+   ]
+  },
+  {
+   "name": "Yoshitaro Yoshizaki",
+   "role": "Japanese official with diplomatic passport",
+   "variants": [
+    "YASIZAKI, Yositaro (?YOSIZAKI)"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Prime Minister of Japan, General",
+   "variants": [
+    "Hideki TOJO",
+    "Gen. Hideki TOJO"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Leader of the Republic of China",
+   "variants": [
+    "Chiang Kai-shek"
+   ]
+  },
+  {
+   "name": "Bert Fish",
+   "role": "U.S. Minister to Portugal",
+   "variants": [
+    "Fish"
+   ]
+  },
+  {
+   "name": "Dr. Kiyoshi Kidosaki",
+   "role": "Secretary to the Japanese Naval Attaché in Lisbon",
+   "variants": [
+    "Dr. Kiyoski Kidosaiki"
+   ]
+  },
+  {
+   "name": "George F. Kennan",
+   "role": "U.S. Chargé d'Affaires ad interim in Portugal",
+   "variants": [
+    "Kennan"
+   ]
+  },
+  {
+   "name": "Jack D. Neal",
+   "role": "Official, Department of State",
+   "variants": [
+    "Jack D. Neal",
+    "Mr. Jack D. Neal"
+   ]
+  },
+  {
+   "name": "R. Henry Norweb",
+   "role": "U.S. Ambassador to Portugal",
+   "variants": [
+    "Ambassador Norweb"
+   ]
+  },
+  {
+   "name": "Bernard A. Towell",
+   "role": "Officer, X-2 Branch, Office of Strategic Services",
+   "variants": [
+    "Bernard A. Towell"
+   ]
+  },
+  {
+   "name": "Morito Morishima",
+   "role": "Japanese Minister to Portugal",
+   "variants": [
+    "MORISHIMA"
+   ]
+  },
+  {
+   "name": "António de Oliveira Salazar",
+   "role": "Prime Minister of Portugal",
+   "variants": [
+    "Salazar"
+   ]
+  },
+  {
+   "name": "Captain Silva",
+   "role": "Portuguese military officer who prepared a report on Timor",
+   "variants": [
+    "Captain Silva",
+    "Silva"
+   ]
+  },
+  {
+   "name": "Oswald von Hoyningen-Huene",
+   "role": "German Minister to Portugal",
+   "variants": [
+    "Huene"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Barcelona",
+   "variants": [
+    "Barcelona"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Borneo"
+   ]
+  },
+  {
+   "name": "Budapest",
+   "variants": [
+    "Budapest"
+   ]
+  },
+  {
+   "name": "Burma",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Casablanca",
+   "variants": [
+    "Casablanca"
+   ]
+  },
+  {
+   "name": "Celebes",
+   "variants": [
+    "Celebes"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "South China"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Greater East Asia",
+    "greater East Asia",
+    "Greater Oriental Asia",
+    "Greater Asia",
+    "Far East"
+   ]
+  },
+  {
+   "name": "Estoril",
+   "variants": [
+    "Ostoril"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "I. of Guam"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Indian"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Dutch East Indies",
+    "Indonesian"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Empire"
+   ]
+  },
+  {
+   "name": "Lisbon",
+   "variants": [
+    "Lisbon"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Macau",
+   "variants": [
+    "Macao"
+   ]
+  },
+  {
+   "name": "Madrid",
+   "variants": [
+    "Madrid"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya",
+    "Malay Peninsula"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchoukuo",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland",
+    "HOLLAND",
+    "Dutch"
+   ]
+  },
+  {
+   "name": "New Britain",
+   "variants": [
+    "New Britain"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portugal",
+    "Portuguese"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South American"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain",
+    "Spanish"
+   ]
+  },
+  {
+   "name": "Stockholm",
+   "variants": [
+    "Stockholm"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Tangier",
+   "variants": [
+    "Tangier"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Timor",
+   "variants": [
+    "Island of Timor",
+    "Portuguese, as well as Dutch, Timor",
+    "Portuguese part of the Island of Timor",
+    "Dutch part of the Island of Timor",
+    "Portuguese part of Timor",
+    "Timor"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "Toyko"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "British",
+    "England",
+    "ENGLAND",
+    "English"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "United States",
+    "U.S.",
+    "U.S.A.",
+    "USA",
+    "North America",
+    "North American",
+    "America",
+    "American",
+    "Americans"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C.",
+    "WASHINGTON, D. C."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal of a printed Japanese propaganda sheet distributed in Lisbon to the Department of State.",
+   "date": "1940-01-08",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "Herbert C. Pell, U.S. Minister to Portugal",
+   "keywords": [
+    "Herbert C. Pell",
+    "Lisbon",
+    "Portugal",
+    "Japanese Legation",
+    "Japanese propaganda",
+    "press"
+   ],
+   "start_page": 1,
+   "summary": "U.S. Minister to Portugal Herbert C. Pell transmits an enclosed printed propaganda sheet distributed by the Japanese Legation in Lisbon. Pell notes that the sheet was provided to him by a representative of the local Portuguese press and had not yet been published by any newspaper in Portugal. The despatch is accompanied by three quadruplicate true copies of the signed original.",
+   "title": "Despatch No. 965 from Herbert C. Pell regarding Japanese Propaganda Leaflet in Lisbon",
+   "to": "The Secretary of State, Washington, D.C."
+  },
+  {
+   "about": "Internal Department of State routing and liaison distribution slip for file 894.20253.",
+   "date": "1944-03-24",
+   "doc_type": "routing slip",
+   "end_page": 5,
+   "from": "Department of State Liaison Office",
+   "keywords": [
+    "Department of State",
+    "routing slip",
+    "Liaison Office",
+    "Communications and Records"
+   ],
+   "start_page": 5,
+   "summary": "A Department of State internal routing sheet from the Under Secretary Liaison Office stamped received by the Division of Communications and Records on March 24, 1944. It lists departmental division codes for the internal circulation of records under decimal file 894.20253.",
+   "title": "Department of State Routing Slip for Decimal File 894.20253",
+   "to": "Division of Communications and Records"
+  },
+  {
+   "about": "Comprehensive intelligence listing of Japanese diplomatic personnel, covert operatives, and journalists connected with Portugal.",
+   "date": "1942-02-18",
+   "doc_type": "intelligence report",
+   "end_page": 8,
+   "from": "Assistant Naval Attaché, Lisbon, Portugal",
+   "keywords": [
+    "Office of Naval Intelligence",
+    "Lisbon",
+    "Shin-ichi Chiba",
+    "intelligence agents",
+    "espionage",
+    "Japanese Legation",
+    "Asahi",
+    "Yomiuri Shimbun"
+   ],
+   "start_page": 6,
+   "summary": "The Assistant Naval Attaché at Lisbon compiles a detailed intelligence roster of Japanese nationals resident in or connected with Portugal in early 1942, requesting background traces from Washington. The report draws names from the official Portuguese Diplomatic List and British intelligence sources, identifying diplomats such as Minister Shin-ichi Chiba, Madrid-based military and naval attachés, press correspondents from Asahi and Yomiuri Shimbun, and commercial representatives suspected of covert activity. It also details travel routes between Lisbon, Madrid, Berlin, Rome, and Tangier via Lufthansa and Iberia airlines.",
+   "title": "ONI Intelligence Report PL 31-42: List of Japanese Officials and Others Connected with Portugal",
+   "to": "Office of the Chief of Naval Operations (Intelligence Division), Navy Department"
+  },
+  {
+   "about": "Internal Department of State routing sheet listing distribution symbols for file 894.20253.",
+   "date": "",
+   "doc_type": "routing slip",
+   "end_page": 9,
+   "from": "Department of State Liaison Office",
+   "keywords": [
+    "Department of State",
+    "routing slip",
+    "distribution",
+    "Liaison Office"
+   ],
+   "start_page": 9,
+   "summary": "An undated Department of State routing form issued by the Under Secretary Liaison Office. It outlines office division codes and circulation routing for documents filed under decimal index 894.20253.",
+   "title": "Department of State Routing Slip for Decimal File 894.20253",
+   "to": "Department of State Divisions"
+  },
+  {
+   "about": "Report on the distribution of Japanese propaganda leaflets in Lisbon following the occupation of Timor and movements of the Japanese Military Attaché.",
+   "date": "1942-04",
+   "doc_type": "intelligence report",
+   "end_page": 10,
+   "from": "Assistant Naval Attaché, Lisbon, Portugal",
+   "keywords": [
+    "Office of Naval Intelligence",
+    "Japanese propaganda",
+    "Timor",
+    "Keizo Sakurai",
+    "Lisbon",
+    "A Voz",
+    "Catholicism"
+   ],
+   "start_page": 10,
+   "summary": "The Assistant Naval Attaché reports on the systematic circulation of Japanese propaganda leaflets in Lisbon to government offices, hotels, and suspected Axis sympathizers following the military occupation of Timor. The report observes that favorable press commentary ceased abruptly after Portuguese Timor was invaded and highlights attacks by the Catholic newspaper A Voz depicting Japan as a menace to Catholicism in the Philippines. It additionally reports the scheduled departure of Military Attaché Lt. Col. Keizo Sakurai for Tokyo via Berlin and the dispatch of his replacement.",
+   "title": "ONI Intelligence Report PL 59-42: Japanese Propaganda Circulars Released in Lisbon and Foreign Agents",
+   "to": "Office of the Chief of Naval Operations (Intelligence Division), Navy Department"
+  },
+  {
+   "about": "English translation of Prime Minister Hideki Tojo's address to the Imperial Diet celebrating the capture of Singapore and defining war objectives.",
+   "date": "1942-02-16",
+   "doc_type": "speech",
+   "end_page": 12,
+   "from": "Hideki Tojo, Prime Minister of Japan",
+   "keywords": [
+    "Hideki Tojo",
+    "Imperial Diet",
+    "Singapore",
+    "Greater East Asia Co-Prosperity Sphere",
+    "Burma",
+    "India",
+    "Indonesia"
+   ],
+   "start_page": 11,
+   "summary": "The full translated text of Prime Minister General Hideki Tojo's speech before the Japanese Imperial Diet marking the fall of Singapore. Tojo reviews rapid Japanese victories across East Asia and the Pacific, proclaiming the establishment of the Greater East Asia Co-Prosperity Sphere. He directly appeals to the peoples of Burma, India, and Indonesia to throw off British and Dutch imperial rule while warning Australia, New Zealand, and neutral nations against succumbing to Anglo-American pressure.",
+   "title": "Enclosure A to PL 59-42: Speech Delivered by Prime Minister Gen. Hideki Tojo before the Imperial Diet",
+   "to": "The Imperial Diet of Japan"
+  },
+  {
+   "about": "Tabular intelligence summary distributed by the Japanese Legation detailing claimed Allied military and naval losses in early 1942.",
+   "date": "1942-02-04",
+   "doc_type": "report",
+   "end_page": 14,
+   "from": "Japanese Legation, Lisbon",
+   "keywords": [
+    "Japanese Legation",
+    "military statistics",
+    "naval losses",
+    "war claims",
+    "propaganda circular",
+    "Lisbon"
+   ],
+   "start_page": 13,
+   "summary": "An English translation of a statistical propaganda leaflet distributed in Lisbon by the Japanese Legation listing claimed Allied losses from December 1941 to late January 1942. The tables enumerate American, British, and Dutch warships, merchant vessels, and military aircraft allegedly destroyed or captured across Malaya, the Philippines, Burma, Hong Kong, and the Dutch East Indies. Specific itemizations assert massive damage inflicted on Allied capital ships, cruisers, and air forces.",
+   "title": "Enclosure B to PL 59-42: Japanese Legation Information Sheet No. 3 on War Results",
+   "to": "Public and press distribution in Portugal"
+  },
+  {
+   "about": "Propaganda leaflet arguing that Japan possesses economic self-sufficiency and raw materials to outlast the United States in a prolonged war.",
+   "date": "1942",
+   "doc_type": "leaflet",
+   "end_page": 15,
+   "from": "Japanese Legation, Lisbon",
+   "keywords": [
+    "Explanation V",
+    "economic warfare",
+    "strategic materials",
+    "rubber",
+    "tin",
+    "petroleum",
+    "propaganda"
+   ],
+   "start_page": 15,
+   "summary": "A translation of a propaganda leaflet titled Explanation V circulated in Lisbon to counter American claims regarding Japanese economic vulnerability. The document argues that Japan's conquest of Malaya, the Philippines, and the Dutch East Indies secured vital reserves of petroleum, rubber, tin, tungsten, bauxite, and quinine while severely depriving the United States of indispensable defense materials. It concludes that Allied expectations of an economic victory over Japan represent a hopeless utopian illusion.",
+   "title": "Enclosure C to PL 59-42: Japanese Legation Leaflet 'Explanation V' on Economic Warfare and Resources",
+   "to": "Public distribution in Portugal"
+  },
+  {
+   "about": "Official declaration of the Japanese Legation justifying the invasion of Portuguese Timor as self-defense and pledging respect for Portuguese sovereignty.",
+   "date": "1942-02-20",
+   "doc_type": "press release",
+   "end_page": 16,
+   "from": "Japanese Legation, Lisbon (Propaganda Division)",
+   "keywords": [
+    "Explanation VI",
+    "Timor",
+    "Portuguese Timor",
+    "neutrality",
+    "Japanese Legation",
+    "self-defense",
+    "territorial integrity"
+   ],
+   "start_page": 16,
+   "summary": "A translated official communique titled Explanation VI issued by the Japanese Legation in Lisbon explaining the Japanese armed occupation of Portuguese Timor. The text asserts that Japanese forces were compelled to enter Portuguese territory to repel prior unauthorized British, Dutch, and Indian military deployments. It assures the Portuguese Government that Japan guarantees the territorial integrity of Portuguese Timor and will withdraw its forces once military objectives are achieved, provided Portugal strictly maintains its neutrality.",
+   "title": "Enclosure D to PL 59-42: Japanese Legation Declaration 'Explanation VI' Concerning the Occupation of Timor",
+   "to": "Portuguese Government and public"
+  },
+  {
+   "about": "Cross-reference sheet indexing a telegram regarding Japanese plans to expand intelligence and propaganda personnel in Lisbon.",
+   "date": "1942-07-20",
+   "doc_type": "cross-reference sheet",
+   "end_page": 17,
+   "from": "Department of State",
+   "keywords": [
+    "cross-reference",
+    "Lisbon",
+    "Japanese Legation",
+    "espionage",
+    "intelligence network",
+    "propaganda"
+   ],
+   "start_page": 17,
+   "summary": "A Department of State cross-reference sheet indexing Telegram No. 1904 sent to Portugal on July 20, 1942. The underlying communication reports intelligence received by the Department indicating that Japan was endeavoring to enlarge its diplomatic mission in Lisbon specifically to enhance its intelligence and propaganda services. The original document is recorded under file number 701.0090/782a.",
+   "title": "Cross-Reference Sheet: Telegram No. 1904 on Expansion of Japanese Intelligence and Propaganda in Lisbon",
+   "to": "U.S. Legation, Lisbon, Portugal"
+  },
+  {
+   "about": "Cross-reference sheet indexing a report on Japanese diplomatic financial transfers and clandestine espionage activities in Lisbon.",
+   "date": "1943-06-11",
+   "doc_type": "cross-reference sheet",
+   "end_page": 18,
+   "from": "Bert Fish, U.S. Minister to Portugal",
+   "keywords": [
+    "cross-reference",
+    "Bert Fish",
+    "Lisbon",
+    "espionage",
+    "transfer of funds",
+    "diplomatic mission"
+   ],
+   "start_page": 18,
+   "summary": "A State Department cross-reference note recording Despatch No. 1085 from U.S. Minister Bert Fish in Lisbon dated June 11, 1943. The referenced despatch contains an investigative report detailing the Japanese diplomatic mission's activities in Lisbon concerning the covert transfer of funds and espionage operations. The original despatch is catalogued under file number 701.9453/20.",
+   "title": "Cross-Reference Sheet: Despatch No. 1085 on Japanese Espionage and Financial Transfers in Lisbon",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing a report on the secret mission to Germany of Dr. Kiyoshi Kidosaki, secretary to the Japanese Naval Attaché.",
+   "date": "1943-08-12",
+   "doc_type": "cross-reference sheet",
+   "end_page": 19,
+   "from": "George F. Kennan, U.S. Chargé d'Affaires ad interim, Portugal",
+   "keywords": [
+    "cross-reference",
+    "George F. Kennan",
+    "Kiyoshi Kidosaki",
+    "Naval Attaché",
+    "Germany",
+    "secret mission"
+   ],
+   "start_page": 19,
+   "summary": "A State Department cross-reference sheet indexing communication AGM No. 417 from George F. Kennan in Lisbon, dated August 12, 1943. It indexes an intelligence report concerning Dr. Kiyoshi Kidosaki, secretary to the Japanese Naval Attaché in Lisbon, who had departed Portugal on a clandestine assignment to Germany. The original document is filed under decimal 701.9453/22.",
+   "title": "Cross-Reference Sheet: Despatch No. 417 on Dr. Kiyoshi Kidosaki's Secret Mission to Germany",
+   "to": "Department of State"
+  },
+  {
+   "about": "OSS cover memorandum transmitting an intelligence report on Japanese diplomatic talks and clandestine networks in Portugal.",
+   "date": "1944-10-28",
+   "doc_type": "memorandum",
+   "end_page": 20,
+   "from": "Bernard A. Towell, OSS X-2 Branch",
+   "keywords": [
+    "Office of Strategic Services",
+    "OSS",
+    "X-2 Branch",
+    "Bernard A. Towell",
+    "Jack D. Neal",
+    "R. Henry Norweb",
+    "Lisbon"
+   ],
+   "start_page": 20,
+   "summary": "A confidential memorandum from Bernard A. Towell of the Office of Strategic Services (OSS) X-2 Counter-Espionage Branch to Jack D. Neal at the Department of State. The memorandum transmits an enclosed intelligence report dated September 22, 1944, from a reliable source in Lisbon concerning Japanese operations. It notes that a duplicate copy was simultaneously furnished to U.S. Ambassador R. Henry Norweb in Lisbon.",
+   "title": "OSS Memorandum: Transmittal of Intelligence Report on Japanese Activities in Portugal",
+   "to": "Jack D. Neal, Department of State"
+  },
+  {
+   "about": "Confidential intelligence interview report detailing Minister Morishima's conversations with Prime Minister Salazar regarding Timor and intelligence reorganization.",
+   "date": "1944-09-22",
+   "doc_type": "intelligence report",
+   "end_page": 22,
+   "from": "Confidential OSS Informant / Source in Lisbon",
+   "keywords": [
+    "Morito Morishima",
+    "António de Oliveira Salazar",
+    "Timor",
+    "Macau",
+    "Oswald von Hoyningen-Huene",
+    "OSS",
+    "clearing agreement",
+    "intelligence communications"
+   ],
+   "start_page": 21,
+   "summary": "An OSS field intelligence report recounting an interview in Lisbon with Japanese Minister Morito Morishima regarding sensitive diplomatic negotiations with Portuguese Prime Minister António de Oliveira Salazar. Morishima discussed Portuguese demands for the restoration of sovereignty over Timor, Captain Silva's investigation of refugee reports, and his consultations in Madrid with German Minister Hoyningen-Huene. He explained that legation staff cuts and transfers to Berne, Stockholm, and Berlin resulted from the cutoff of overland railway transit across France, necessitating reliance on German air couriers and German clearing arrangements for wireless transmission to Tokyo, while expressing deep anxiety over Allied advances toward the Philippines.",
+   "title": "OSS Intelligence Report: Japanese Activities in Portugal and Talks with Salazar",
+   "to": "Office of Strategic Services / Ambassador R. Henry Norweb"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 23549,
+   "output_tokens": 23039,
+   "thinking_tokens": 16433,
+   "cache_read_tokens": 0,
+   "total_tokens": 46588
+  },
+  "backend": "agy",
+  "seconds": 73.1,
+  "identifier": "japan-internal-affairs-894.20253-military-affairs-army-2",
+  "file": "894.20253 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Portugal Including Gathering Of Information. Espionage. Propaganda., Januar 1461.pdf",
+  "created": "2026-09-29 02:38:40"
+ }
+}

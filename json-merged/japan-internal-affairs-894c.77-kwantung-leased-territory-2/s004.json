@@ -1,0 +1,647 @@
+{
+ "section_summary": "This section completes a 1936 consular analysis of the South Manchuria Railway Company’s finances and reproduces its balance sheet, debt tables, operating results, and subsidiary holdings. It then documents the company’s October 1936 reorganization, including the transfer of railway functions to the Mukden-based Tetsudo Sokyoku and the creation of an Industry Department and the Manchuria Trading Company. The remainder examines the 1938–39 budget and the fiscal 1937–38 balance sheet, emphasizing railway construction for strategic purposes, wartime profits, dependence on debentures, investment in Manchukuo State Railways, and increasing subordination to the Kwantung Army.",
+ "places": [
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "South Manchuria",
+    "South Manchurian"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Manchoukuo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory",
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Jiandao Province",
+   "variants": [
+    "Chientao Province"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden",
+    "Mukdan"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Hsinking",
+    "Hainking",
+    "Asinking"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Wuhan",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Northern Korea",
+   "variants": [
+    "North Chosen"
+   ]
+  },
+  {
+   "name": "Tumen",
+   "variants": [
+    "Tumen"
+   ]
+  },
+  {
+   "name": "Jiamusi",
+   "variants": [
+    "Chiamissu",
+    "Chamussu"
+   ]
+  },
+  {
+   "name": "Jinzhou",
+   "variants": [
+    "Chinchow"
+   ]
+  },
+  {
+   "name": "Chengde",
+   "variants": [
+    "Chengte"
+   ]
+  },
+  {
+   "name": "Taonan",
+   "variants": [
+    "Taiohengtsu",
+    "Tuonen"
+   ]
+  },
+  {
+   "name": "Huludao",
+   "variants": [
+    "Hulutao"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Yingkou",
+   "variants": [
+    "Mingkow"
+   ]
+  },
+  {
+   "name": "Dandong",
+   "variants": [
+    "Antung"
+   ]
+  },
+  {
+   "name": "Chongjin",
+   "variants": [
+    "Seishin"
+   ]
+  },
+  {
+   "name": "Rason",
+   "variants": [
+    "Rashin"
+   ]
+  },
+  {
+   "name": "Sonbong",
+   "variants": [
+    "Tuki"
+   ]
+  },
+  {
+   "name": "Ganjingzi",
+   "variants": [
+    "Kanseishi"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "Railway Zone"
+   ]
+  },
+  {
+   "name": "Linkou",
+   "variants": [
+    "Liukou"
+   ]
+  },
+  {
+   "name": "Mishan",
+   "variants": [
+    "Mishan"
+   ]
+  },
+  {
+   "name": "Hulin",
+   "variants": [
+    "Hulin"
+   ]
+  },
+  {
+   "name": "Nehe",
+   "variants": [
+    "Noho"
+   ]
+  },
+  {
+   "name": "Nenjiang",
+   "variants": [
+    "Mergen"
+   ]
+  },
+  {
+   "name": "Suolun",
+   "variants": [
+    "Solun"
+   ]
+  },
+  {
+   "name": "Arxan",
+   "variants": [
+    "Wunehen",
+    "Onsen"
+   ]
+  },
+  {
+   "name": "Xinlitun",
+   "variants": [
+    "Hsinlitun"
+   ]
+  },
+  {
+   "name": "Yi County, Liaoning",
+   "variants": [
+    "Iohow"
+   ]
+  },
+  {
+   "name": "Meihekou",
+   "variants": [
+    "Meihu"
+   ]
+  },
+  {
+   "name": "Tonghua",
+   "variants": [
+    "Tunghna"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Ssupingkai"
+   ]
+  },
+  {
+   "name": "Anshan",
+   "variants": [
+    "Anshan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Stuart E. Grummon",
+   "role": "American Consul at Dairen and author of the 1936 despatches",
+   "variants": [
+    "Stuart E. Grummon"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Jeseph C. Grew",
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Yōsuke Matsuoka",
+   "role": "President of the South Manchuria Railway Company",
+   "variants": [
+    "President Matsuoka",
+    "President Matsuoke",
+    "Mr. Matsuoka"
+   ]
+  },
+  {
+   "name": "Eiichi Baba",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "T. Buba"
+   ]
+  },
+  {
+   "name": "T. Ohmura",
+   "role": "Vice President of the South Manchuria Railway Company and co-chairman of the new railway organization",
+   "variants": [
+    "T. Ohmura"
+   ]
+  },
+  {
+   "name": "Y. Ōtake",
+   "role": "President of the Osaka Chamber of Commerce and leader of a business delegation to Manchuria",
+   "variants": [
+    "Y. Atake"
+   ]
+  },
+  {
+   "name": "Sakatani",
+   "role": "General Manager of the South Manchuria Railway Company’s new Industry Department and a company director",
+   "variants": [
+    "Mr. Sakatani",
+    "Hr. Sakatani"
+   ]
+  },
+  {
+   "name": "William T. Turner",
+   "role": "American Consul at Dairen and author of the 1938 despatches",
+   "variants": [
+    "William T. Turner",
+    "william T. Turner",
+    "William T. Tumer"
+   ]
+  }
+ ],
+ "keywords": [
+  "South Manchuria Railway Company",
+  "Manchukuo State Railways",
+  "railway construction",
+  "balance sheets",
+  "debentures",
+  "capital investment",
+  "subsidiary enterprises",
+  "corporate reorganization",
+  "Kwantung Army",
+  "industrial development",
+  "wartime finance",
+  "operating profits"
+ ],
+ "subfiles": [
+  {
+   "title": "Comment on the Balance Sheet of the South Manchuria Railway Company for the Fiscal Year 1935–36",
+   "doc_type": "consular despatch",
+   "start_page": 237,
+   "end_page": 250,
+   "continues_previous": true,
+   "date": "1936-09-30",
+   "from": "Stuart E. Grummon, American Consul at Dairen",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Analyzes the South Manchuria Railway Company’s finances, investments, debts, political role, and prospects after the establishment of Manchukuo.",
+   "summary": "The concluding portion calculates that the company had advanced hundreds of millions of yen for Manchukuo railways while carrying substantial unpaid interest and a growing debt burden. It contrasts the company’s nominal status as a profit-making corporation with its use as an instrument of Japanese national and military policy. The despatch also discusses proposed railway and industrial reorganization, pressure from the Kwantung Army, the company’s continuing need for private capital, and President Matsuoka’s stated preference for commercially sound expansion.",
+   "keywords": [
+    "1935–36 balance sheet",
+    "Manchukuo State Railways",
+    "loans",
+    "interest arrears",
+    "Kwantung Army",
+    "railway reorganization",
+    "private capital",
+    "Matsuoka"
+   ]
+  },
+  {
+   "title": "General Balance Sheet for the Year Ending March 31, 1936",
+   "doc_type": "financial statement enclosure",
+   "start_page": 251,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1936-06-20",
+   "from": "South Manchuria Railway Company",
+   "to": "Thirty-fifth General Meeting of Stockholders",
+   "about": "Presents the company’s assets, liabilities, profit-and-loss account, and disposition of net profit for fiscal 1935–36.",
+   "summary": "The statement values fixed assets, investments, current assets, loans, and advance payments and balances them against capital stock, reserves, bonds, deposits, and current liabilities. Its profit-and-loss account separates the results of railways, hotels, harbors, collieries, oil distillation, local administration, general operations, and interest. It also records dividends, reserve allocations, bonuses, depreciation, and the balance carried forward.",
+   "keywords": [
+    "general balance sheet",
+    "assets",
+    "liabilities",
+    "profit and loss",
+    "capital stock",
+    "bonds",
+    "dividends",
+    "depreciation"
+   ]
+  },
+  {
+   "title": "Outstanding Debentures of the South Manchuria Railway Company Issued Between 1917 and 1936",
+   "doc_type": "financial table enclosure",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1936-03-31",
+   "from": "South Manchuria Railway Company",
+   "to": "American Embassy, Tokyo, as an enclosure",
+   "about": "Tabulates the company’s outstanding debenture issues as of March 31, 1936.",
+   "summary": "This badly degraded table belongs to the enclosure identified in the parent despatch as a list of debentures issued between 1917 and 1936. Its surviving total records approximately 707.4 million yen in outstanding debt.",
+   "keywords": [
+    "debentures",
+    "bond issues",
+    "outstanding debt",
+    "South Manchuria Railway Company"
+   ]
+  },
+  {
+   "title": "Comparative Business Revenue and Expenditure, Fiscal Years 1929–30 to 1935–36",
+   "doc_type": "statistical table enclosure",
+   "start_page": 258,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1936-03-31",
+   "from": "South Manchuria Railway Company",
+   "to": "American Embassy, Tokyo, as an enclosure",
+   "about": "Compares several years of revenue and expenditure for the company’s principal enterprises.",
+   "summary": "The multi-page table gives annual figures for railways, harbors and wharves, collieries, oil distillation, hotels, local administration, interest, general expenses, depreciation, and net profit. Although portions are heavily corrupted by OCR, it shows the growth of both operating income and expenditure through fiscal 1935–36.",
+   "keywords": [
+    "business revenue",
+    "expenditure",
+    "railways",
+    "collieries",
+    "interest",
+    "depreciation",
+    "comparative accounts"
+   ]
+  },
+  {
+   "title": "List of Subsidiary Companies and Affiliated Enterprises of the South Manchuria Railway Company",
+   "doc_type": "corporate holdings table enclosure",
+   "start_page": 261,
+   "end_page": 264,
+   "continues_previous": false,
+   "date": "",
+   "from": "South Manchuria Railway Company",
+   "to": "American Embassy, Tokyo, as an enclosure",
+   "about": "Lists subsidiary and affiliated companies with their establishment dates, authorized capital, paid-up capital, and railway-company investment.",
+   "summary": "The table surveys industrial, chemical, mining, agricultural, forestry, transport, construction, electric-power, financial, and insurance concerns associated with the railway company. For each enterprise it attempts to provide the year established and several measures of capitalization, though many company names are obscured by OCR. Notes explain the currencies and exchange basis used.",
+   "keywords": [
+    "subsidiaries",
+    "affiliated enterprises",
+    "capitalization",
+    "industrial companies",
+    "mining companies",
+    "corporate investment"
+   ]
+  },
+  {
+   "title": "New Organization of the South Manchuria Railway Company",
+   "doc_type": "consular despatch",
+   "start_page": 265,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1936-11-30",
+   "from": "Stuart E. Grummon, American Consul at Dairen",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Reports the organizational changes imposed on the South Manchuria Railway Company in October 1936.",
+   "summary": "The despatch identifies the offices remaining at Dairen, including the President’s Office, Finance and Accounts Department, Central Laboratory, purchasing organization, and overseas offices. Railway departments were transferred to Mukden and combined with Manchukuo State Railways and the Direction of North Chosen Railways in the Tetsudo Sokyoku. A new Industry Department absorbed research and development bodies, while the sales organization became the Hsinking-based Manchuria Trading Company.",
+   "keywords": [
+    "corporate reorganization",
+    "Tetsudo Sokyoku",
+    "Industry Department",
+    "Manchuria Trading Company",
+    "Mukden",
+    "Dairen",
+    "October 1936"
+   ]
+  },
+  {
+   "title": "Schedule Briefing the October 1936 Changes Made in the South Manchuria Railway Company",
+   "doc_type": "organizational schedule enclosure",
+   "start_page": 270,
+   "end_page": 271,
+   "continues_previous": false,
+   "date": "1936-10",
+   "from": "American Consulate, Dairen",
+   "to": "American Embassy, Tokyo",
+   "about": "Summarizes which company bodies remained, were reorganized, or were transferred to new organizations.",
+   "summary": "The schedule lists continuing departments and the components gathered into the new Dairen-based Industry Department under Sakatani. It separately identifies the railway bodies moved to Mukden and incorporated into the Tetsudo Sokyoku. The sales section’s transfer to the Manchuria Trading Company at Hsinking is also recorded.",
+   "keywords": [
+    "organization chart",
+    "Industry Department",
+    "Tetsudo Sokyoku",
+    "Sakatani",
+    "Mukden",
+    "Manchuria Trading Company"
+   ]
+  },
+  {
+   "title": "Department of State Reference Note on Dairen Despatch No. 20",
+   "doc_type": "internal memorandum",
+   "start_page": 272,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1938-06-22",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State",
+   "about": "Directs attention to the translated South Manchuria Railway budget and the financing discussion in Dairen’s despatch of May 17, 1938.",
+   "summary": "The note references Dairen despatch No. 20 concerning the company’s budget for the fiscal year ending March 31, 1939. It recommends examining the three-page translated budget and the newspaper-derived financing plan on pages seven and eight of the despatch.",
+   "keywords": [
+    "Department of State",
+    "Dairen despatch",
+    "budget review",
+    "financing plan"
+   ]
+  },
+  {
+   "title": "Budget of the South Manchuria Railway Company for the Fiscal Year Ending March 31, 1939",
+   "doc_type": "consular despatch",
+   "start_page": 273,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1938-05-17",
+   "from": "William T. Turner, American Consul at Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Analyzes the company’s 1938–39 enterprise and operating budgets and explains its proposed financing arrangements.",
+   "summary": "The company planned enterprise spending of about 236 million yen, dominated by new and improved Manchukuo railways whose strategic value to the Kwantung Army exceeded their immediate economic rationale. Turner reviews special industrial projects, transfers of subsidiary shares to the Manchuria Heavy Industry Development Company, and projected operating profits. The despatch explains how government share calls, reserves, bank syndicate loans, public bureaus, and 170 million yen in debentures were expected to finance the program despite public distrust of the company’s military subordination.",
+   "keywords": [
+    "1938–39 budget",
+    "railway construction",
+    "Manchuria Heavy Industry Development Company",
+    "debentures",
+    "banking syndicate",
+    "Kwantung Army",
+    "financing",
+    "operating surplus"
+   ]
+  },
+  {
+   "title": "Translation: Budget of the South Manchuria Railway Company for the Fiscal Year Ending March 31, 1939",
+   "doc_type": "translated budget enclosure",
+   "start_page": 282,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1938-03-16",
+   "from": "South Manchuria Railway Company",
+   "to": "",
+   "about": "Provides the translated official budget approved by the Japanese Government on March 16, 1938.",
+   "summary": "The budget divides projected enterprise expenditure among ordinary company work, special industrial projects, and investments outside the company. It itemizes spending for Showa Steel Works, Fushun power and coal production, oil production, new railways, improvements to existing lines, and related companies. Comparative tables give the 1937–38 and 1938–39 enterprise budgets and anticipated business revenue, expenditure, and surplus.",
+   "keywords": [
+    "budget translation",
+    "ordinary enterprises",
+    "special enterprises",
+    "Fushun",
+    "Showa Steel Works",
+    "Manchukuo railways",
+    "revenue and expenditure"
+   ]
+  },
+  {
+   "title": "Balance Sheet of the South Manchuria Railway Company for the Fiscal Year Ended March 31, 1938",
+   "doc_type": "consular despatch",
+   "start_page": 285,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1938-09-09",
+   "from": "William T. Turner, American Consul at Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Evaluates the company’s fiscal 1937–38 balance sheet, operating results, capital program, and financial exposure to Japanese imperial policy.",
+   "summary": "Turner reports assets and liabilities of roughly 2.243 billion yen and analyzes fixed assets, investments in Manchukuo State Railways, debentures, borrowings, and current accounts. Railway traffic, military movements, and a premium on transferred subsidiary shares helped produce a record profit of nearly 74 million yen, while collieries, harbors, oil production, local administration, and interest produced mixed results. The despatch stresses investor anxiety over strategic railway construction, North China projects, Army control, and the company’s inability to obtain materials under wartime controls despite its underlying profitability.",
+   "keywords": [
+    "1937–38 balance sheet",
+    "record profit",
+    "railway traffic",
+    "Manchukuo State Railways",
+    "military control",
+    "capital outlay",
+    "wartime controls",
+    "share prices"
+   ]
+  },
+  {
+   "title": "Appendix to Despatch No. 47: Financial Tables for Fiscal 1937–38",
+   "doc_type": "financial appendix",
+   "start_page": 304,
+   "end_page": 314,
+   "continues_previous": false,
+   "date": "1938-09-09",
+   "from": "William T. Turner, American Consul at Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Supplies detailed tables supporting the consular analysis of the company’s 1937–38 accounts.",
+   "summary": "The appendix contains a balance sheet, profit-and-loss and business-revenue accounts, disposition of profits, fixed-asset schedules, development expenditures, and particulars of debenture issues. It also lists railway, harbor, mining, industrial, medical, and administrative works undertaken during the year, including several projects at Fushun, Dairen, Mukden, Hsinking, and Rashin. The final tables trace share prices from 1936 to 1938, calls on government and public shares, and totals for shareholders and employees.",
+   "keywords": [
+    "financial appendix",
+    "fixed assets",
+    "development expenditure",
+    "debentures",
+    "share quotations",
+    "paid-up capital",
+    "shareholders",
+    "employees"
+   ]
+  },
+  {
+   "title": "General Balance Sheet for the Year Ending March 31, 1938",
+   "doc_type": "financial statement",
+   "start_page": 315,
+   "end_page": 316,
+   "continues_previous": false,
+   "date": "1938-06-20",
+   "from": "South Manchuria Railway Company",
+   "to": "Thirty-seventh General Meeting of Shareholders",
+   "about": "Introduces the company’s formal general balance sheet for fiscal 1937–38.",
+   "summary": "These pages are the title leaves of the official balance sheet presented to the thirty-seventh General Meeting of Shareholders on June 20, 1938. They identify the reporting period and the South Manchuria Railway Company’s headquarters at Dairen; the financial tables continue beyond this section.",
+   "keywords": [
+    "general balance sheet",
+    "1937–38 fiscal year",
+    "shareholders meeting",
+    "South Manchuria Railway Company",
+    "Dairen"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 5,
+  "pages": [
+   237,
+   316
+  ],
+  "pdf": "894C.77 Kwantung Leased Territory, Railway. Concessions. Construction. Equipment., June 24, 1931 - October 20, 1939 1138.pdf",
+  "seconds": 190.9,
+  "created": "2026-10-03 20:43:00",
+  "key": "japan-internal-affairs-894c.77-kwantung-leased-territory-2"
+ }
+}

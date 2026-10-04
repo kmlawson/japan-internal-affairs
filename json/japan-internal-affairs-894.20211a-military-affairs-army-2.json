@@ -1,0 +1,161 @@
+{
+ "interest": "Covers 1930s US intelligence in Hawaii and a 1936 memo on Lt.-Col. Aizawa's murder trial as radical 'Showa Restoration' politics.",
+ "keywords": [
+  "Japanese military activities",
+  "espionage",
+  "propaganda",
+  "Hawaii",
+  "Japanese language schools",
+  "Sino-Korean People's League",
+  "Kilsoo Haan",
+  "V. S. McClatchy",
+  "Saburo Aizawa",
+  "Tetsuzan Nagata",
+  "Showa Restoration",
+  "February 26 Incident"
+ ],
+ "overview": "Combines a 1932-35 docket on Japanese intelligence activity in Hawaii with a March 1936 Far Eastern Affairs memo on Lt.-Col. Saburo Aizawa's court-martial for murdering Maj.-Gen. Tetsuzan Nagata, read as a radical 'Showa Restoration' political trial before the February 26 Incident.",
+ "people": [
+  {
+   "name": "Kilsoo Haan",
+   "role": "Representative of the Sino-Korean People's League",
+   "variants": [
+    "Kilsoo Haan",
+    "Haan",
+    "W.K. Lyan"
+   ]
+  },
+  {
+   "name": "Valentine Stuart McClatchy",
+   "role": "Executive Secretary of the California Joint Immigration Committee",
+   "variants": [
+    "V.S. McClatchy",
+    "Mr. V.S. McClatchy"
+   ]
+  },
+  {
+   "name": "Saburo Aizawa",
+   "role": "Lieutenant-Colonel, Japanese Army",
+   "variants": [
+    "Lieutenant-Colonel Aizawa",
+    "Colonel Aizawa",
+    "Aizawa"
+   ]
+  },
+  {
+   "name": "Tetsuzan Nagata",
+   "role": "Major-General, Japanese Army",
+   "variants": [
+    "Major-General Nagata",
+    "Nagata"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawaiian",
+    "T.H."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Fort Shafter",
+   "variants": [
+    "Shafter",
+    "Shafter, T.H."
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pan-Pacific"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department docket sheet listing interdepartmental reports from 1932 to 1935 on Japanese intelligence gathering, naval surveillance, and language school propaganda in Hawaii.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Hawaii",
+    "Japanese military activities",
+    "espionage",
+    "propaganda",
+    "Japanese language schools",
+    "Kilsoo Haan",
+    "Sino-Korean People's League",
+    "Fort Shafter",
+    "V. S. McClatchy"
+   ],
+   "start_page": 1,
+   "summary": "Lists seven War/Navy Department reports (1932-35) on Japanese tanker surveillance, language-school loyalty efforts, and petitions from Kilsoo Haan and McClatchy.",
+   "title": "List of Papers: Japanese Military Activities in Hawaii",
+   "to": ""
+  },
+  {
+   "about": "A State Department Far Eastern Affairs memorandum analyzing Tokyo Embassy Despatch No. 1707 on the court-martial of Lieutenant-Colonel Aizawa and its connection to radical military unrest.",
+   "date": "1936-03-30",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Division of Far Eastern Affairs",
+   "keywords": [
+    "Saburo Aizawa",
+    "Tetsuzan Nagata",
+    "court-martial",
+    "assassination",
+    "Showa Restoration",
+    "February 26 Incident",
+    "Japanese Army",
+    "Division of Far Eastern Affairs"
+   ],
+   "start_page": 2,
+   "summary": "Division of Far Eastern Affairs memo on Lt.-Col. Saburo Aizawa's court-martial for the August 1935 murder of Maj.-Gen. Tetsuzan Nagata, calling it a propaganda trial reflecting army radicals' drive for a 'Showa Restoration', postponed after the February 26 Incident.",
+   "title": "Memorandum on the Trial of Lieutenant-Colonel Aizawa for the Murder of Major-General Nagata",
+   "to": "The Under Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14622,
+   "output_tokens": 7079,
+   "thinking_tokens": 5687,
+   "cache_read_tokens": 0,
+   "total_tokens": 21701
+  },
+  "backend": "agy",
+  "seconds": 25.6,
+  "identifier": "japan-internal-affairs-894.20211a-military-affairs-army-2",
+  "file": "894.20211A Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Hawaii Including Gathering Of Information. Espionage. Propaganda.,  414.pdf",
+  "created": "2026-09-28 23:56:15"
+ }
+}

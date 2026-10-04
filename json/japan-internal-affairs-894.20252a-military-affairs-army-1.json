@@ -1,0 +1,82 @@
+{
+ "interest": "Jesuit screening Japanese propaganda films in the Canaries.",
+ "keywords": [
+  "Canary Islands",
+  "Japanese propaganda",
+  "propaganda films",
+  "Jesuit missionary",
+  "Las Palmas de Gran Canaria",
+  "Robert F. Fernald",
+  "World War II",
+  "espionage",
+  "Axis propaganda",
+  "State Department",
+  "docket sheet"
+ ],
+ "overview": "Docket for 894.20252a: Fernald's 1942 report of Japanese films shown in the Canaries by a Spanish Jesuit.",
+ "people": [
+  {
+   "name": "Robert F. Fernald",
+   "role": "American Consul at Las Palmas de Gran Canaria",
+   "variants": [
+    "Fernald"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Canary Islands",
+   "variants": [
+    "Canary Islands"
+   ]
+  },
+  {
+   "name": "Las Palmas de Gran Canaria",
+   "variants": [
+    "Las Palmas de Gran Canaria"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers docket sheet recording a consular despatch from Las Palmas regarding Japanese propaganda films shown by a Spanish Jesuit missionary.",
+   "date": "1942",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Canary Islands",
+    "Las Palmas",
+    "Japanese propaganda",
+    "Jesuit missionary",
+    "propaganda films",
+    "List of Papers"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.20252a: Japanese propaganda films shown by a Jesuit in the Canaries.",
+   "title": "List of Papers: Alleged Japanese Propaganda activities in the Canary Islands",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13720,
+   "output_tokens": 4177,
+   "thinking_tokens": 3478,
+   "cache_read_tokens": 0,
+   "total_tokens": 17897
+  },
+  "backend": "agy",
+  "seconds": 17.7,
+  "identifier": "japan-internal-affairs-894.20252a-military-affairs-army-1",
+  "file": "894.20252A Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Canary Islands Including Gathering Of Information. Espionage. Propaganda., 48.pdf",
+  "created": "2026-09-29 02:36:59"
+ }
+}

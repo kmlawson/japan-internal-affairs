@@ -1,0 +1,847 @@
+{
+ "overview": "This file brings together U.S. diplomatic and consular reporting from 1932 to 1938 on the rapid expansion of Japanese civil and military aviation infrastructure. Its principal thread is the planning, reclamation, opening, and further development of Nagoya Airport, including its connection to harbor improvements, the Tokyo–Osaka passenger route, and nearby Mitsubishi aircraft production. Additional documents concern a disputed report of a Japanese airdrome at Nankai in Tianjin, proposed naval air bases prompted by concern over Soviet air power, new public landing fields at Kamitsu and Ehime, and a cross-reference to an incident involving alleged photography of an air station near Kure.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "entire Empire"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "NAGOYA",
+    "NagoYa",
+    "Nogoyah",
+    "Nagoya's",
+    "City of Nagoya",
+    "this city"
+   ]
+  },
+  {
+   "name": "Atsuta",
+   "variants": [
+    "Atsuta",
+    "ATSUTA"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture",
+    "Aichi prefectural"
+   ]
+  },
+  {
+   "name": "Port of Nagoya",
+   "variants": [
+    "Nagoya harbor",
+    "inner Nagoya harbor",
+    "port of Nagoya",
+    "Nagoya port area",
+    "Nagoya Harbor",
+    "NAGOYA HARBOR",
+    "INNER HARBOR",
+    "Nagoya harbor district"
+   ]
+  },
+  {
+   "name": "Nagoya Airport",
+   "variants": [
+    "Nagoya Airport",
+    "NagoYa Airport",
+    "Nagoya airport",
+    "new Nagoya airport",
+    "new Nagoya Airport",
+    "present temporary airport"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Yokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kakamigahara",
+   "variants": [
+    "Kagamigahara"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "Fien-tain"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Nankai District, Tianjin",
+   "variants": [
+    "Nankai"
+   ]
+  },
+  {
+   "name": "Liulitai, Tianjin",
+   "variants": [
+    "Liulit'ai"
+   ]
+  },
+  {
+   "name": "Haiguangsi, Tianjin",
+   "variants": [
+    "Haikuangssu"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Beijing",
+    "Viking"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Sailing"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "Schwei"
+   ]
+  },
+  {
+   "name": "Jiangsu",
+   "variants": [
+    "Jiangsu"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet"
+   ]
+  },
+  {
+   "name": "Sea of Japan",
+   "variants": [
+    "Japan Sea"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Maizuru"
+   ]
+  },
+  {
+   "name": "Kisarazu",
+   "variants": [
+    "Kisarazu"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba Prefecture"
+   ]
+  },
+  {
+   "name": "Kogan, Nemuro area",
+   "variants": [
+    "Kogan"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "Nemuro"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Jinhae",
+   "variants": [
+    "Chinkai"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kamitsu, now part of Itami",
+   "variants": [
+    "Kamitsu"
+   ]
+  },
+  {
+   "name": "Kawabe District",
+   "variants": [
+    "Kawabe-gun"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo Prefecture"
+   ]
+  },
+  {
+   "name": "Osaka Plain",
+   "variants": [
+    "Osaka plain"
+   ]
+  },
+  {
+   "name": "Ina River",
+   "variants": [
+    "Ina river"
+   ]
+  },
+  {
+   "name": "Osaka Bay",
+   "variants": [
+    "Osaka bay"
+   ]
+  },
+  {
+   "name": "Takarazuka",
+   "variants": [
+    "Takarazuka"
+   ]
+  },
+  {
+   "name": "Kizugawa Airfield, Osaka",
+   "variants": [
+    "Osaka Kizuhama field",
+    "Kizuhama field"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Najima Airfield",
+   "variants": [
+    "Fukuoka Najima field",
+    "Najima field"
+   ]
+  },
+  {
+   "name": "Western Japan",
+   "variants": [
+    "western Japan"
+   ]
+  },
+  {
+   "name": "Southern Asia",
+   "variants": [
+    "southern Asia"
+   ]
+  },
+  {
+   "name": "Eastern Asia",
+   "variants": [
+    "eastern Asia"
+   ]
+  },
+  {
+   "name": "Keihanshin metropolitan region",
+   "variants": [
+    "Kobe-Kyoto-Osaka district"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Yada-chō, Nagoya",
+   "variants": [
+    "Yada cho"
+   ]
+  },
+  {
+   "name": "Ōzone, Nagoya",
+   "variants": [
+    "Ozone"
+   ]
+  },
+  {
+   "name": "Higashi Ward, Nagoya",
+   "variants": [
+    "East Ward of the City"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Prefecture of Ehime",
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Shūsō District",
+   "variants": [
+    "Shusogun"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kobe consular district",
+   "variants": [
+    "Kobe consular district"
+   ]
+  },
+  {
+   "name": "Ehime Aerodrome",
+   "variants": [
+    "New Ehime Aerodrome",
+    "new aerodrome"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "J. Holbrook Chapman",
+   "role": "U.S. Consul at Nagoya",
+   "variants": [
+    "Consul J. Holbrook Chapman",
+    "JHC"
+   ]
+  },
+  {
+   "name": "Frank P. Lockhart",
+   "role": "American Consul General at Tianjin",
+   "variants": [
+    "Lockhart",
+    "V. Lockhart",
+    "R. H. Lockhart"
+   ]
+  },
+  {
+   "name": "Nelson Trusler Johnson",
+   "role": "American Minister in China",
+   "variants": [
+    "Nelson Trusler Johnson"
+   ]
+  },
+  {
+   "name": "Yang Shih-hsiang",
+   "role": "Chinese intermediary associated with the disputed Nankai land transaction",
+   "variants": [
+    "Yang Shih-ngin",
+    "Yang Shih-hsiang"
+   ]
+  },
+  {
+   "name": "Guangxu Emperor",
+   "role": "Emperor of China; mentioned through the Guangxu reign era",
+   "variants": [
+    "Kuanghsu"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Joseph E. Newton",
+   "role": "American Vice Consul at Nagoya",
+   "variants": [
+    "Joseph E. Newton",
+    "JEN"
+   ]
+  },
+  {
+   "name": "Erle R. Dickover",
+   "role": "Sender of the referenced U.S. diplomatic despatch from Japan",
+   "variants": [
+    "Dickover"
+   ]
+  },
+  {
+   "name": "Ralph Andrew Ofstie",
+   "role": "Assistant U.S. Naval Attaché in Japan",
+   "variants": [
+    "Ralph Andrew Ofstie"
+   ]
+  },
+  {
+   "name": "Winthrop R. Scott",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Winthrop R. Scott"
+   ]
+  },
+  {
+   "name": "C. H. Stephan",
+   "role": "American Vice Consul at Nagoya",
+   "variants": [
+    "Vice Consul Stephan",
+    "C. H. Stephan",
+    "CHS"
+   ]
+  },
+  {
+   "name": "Takeo Kato",
+   "role": "President of Mitsubishi",
+   "variants": [
+    "Mr. Takeo Kato",
+    "Mr. Kato"
+   ]
+  },
+  {
+   "name": "Ringwalt",
+   "role": "Staff member of the Department of State's Division of Far Eastern Affairs",
+   "variants": [
+    "Ringwalt"
+   ]
+  },
+  {
+   "name": "L. H. Gourley",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "L. H. Gourley",
+    "LHG"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese civil aviation",
+  "airport construction",
+  "Nagoya Airport",
+  "Nagoya Harbor reclamation",
+  "Tokyo–Osaka air route",
+  "military aviation",
+  "naval air bases",
+  "Soviet air power",
+  "Nankai airdrome report",
+  "land acquisition disputes",
+  "Mitsubishi aircraft production",
+  "Kamitsu landing field",
+  "Ehime Aerodrome",
+  "U.S. consular reporting"
+ ],
+ "subfiles": [
+  {
+   "title": "Commercial Airport Projected at Nagoya",
+   "doc_type": "commercial report with sketch-map enclosure",
+   "start_page": 1,
+   "end_page": 6,
+   "date": "1932-11-29",
+   "from": "Consul J. Holbrook Chapman, Nagoya",
+   "to": "U.S. Department of State",
+   "about": "Reports plans to construct a commercial airport on reclaimed land beside Nagoya Harbor.",
+   "summary": "Chapman reports a projected 280,000-tsubo airport costing approximately ¥1.7 million and expected to be built over five years under Aichi prefectural supervision. The scheme was associated with harbor dredging and enlargement, while Section 7 might serve temporarily as a landing field. The airport would permit Nagoya to become a stop on the Tokyo–Osaka passenger route and would serve nearby Mitsubishi and Aichi Tokei aircraft factories; the final page is a sketch map of the proposed site.",
+   "keywords": [
+    "Nagoya Airport",
+    "land reclamation",
+    "Nagoya Harbor",
+    "Aichi Prefecture",
+    "Tokyo–Osaka route",
+    "Mitsubishi",
+    "Aichi Tokei",
+    "sketch map"
+   ]
+  },
+  {
+   "title": "Departmental Note on Nagoya City Assembly Approval",
+   "doc_type": "memorandum",
+   "start_page": 7,
+   "end_page": 7,
+   "date": "1933-04-24",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Records Nagoya's report that the city assembly approved harbor-land reclamation for a commercial airport.",
+   "summary": "The memorandum summarizes Nagoya's March 20 report. It notes that the City Assembly approved reclamation of land adjoining the harbor and that airport construction was expected to begin soon.",
+   "keywords": [
+    "Nagoya",
+    "city assembly",
+    "airport approval",
+    "land reclamation",
+    "Far Eastern Affairs"
+   ]
+  },
+  {
+   "title": "Projected Commercial Airport at Nagoya",
+   "doc_type": "commercial report with sketch-map enclosure",
+   "start_page": 8,
+   "end_page": 12,
+   "date": "1933-03-20",
+   "from": "Consul J. Holbrook Chapman, Nagoya",
+   "to": "U.S. Department of State",
+   "about": "Reports official local approval and the selected site for Nagoya's projected airport.",
+   "summary": "The Governor of Aichi Prefecture requested the Nagoya City Assembly's approval on March 13, 1933, and the assembly granted it the following day. The selected 229-acre site lay south of Section 10 of the harbor, and construction was expected to begin shortly at an estimated cost of ¥1.7 million. The document includes a site map, press sources, and its distribution list.",
+   "keywords": [
+    "Nagoya Airport",
+    "Aichi governor",
+    "city assembly",
+    "Section 10",
+    "reclamation",
+    "construction costs",
+    "sketch map"
+   ]
+  },
+  {
+   "title": "Cross-reference to Despatch No. 417 on Nankai Airdrome Plans",
+   "doc_type": "cross-reference sheet",
+   "start_page": 13,
+   "end_page": 13,
+   "date": "1932-10-13",
+   "from": "Department of State document file",
+   "to": "File 894.24593/2",
+   "about": "Directs researchers to a Tientsin despatch concerning reported Japanese plans for an airdrome at Nankai.",
+   "summary": "The sheet cross-references Despatch No. 417 from Tientsin, attributed to Lockhart and dated October 13, 1932. It identifies the subject as reported Japanese plans for an airdrome at Nankai.",
+   "keywords": [
+    "cross-reference",
+    "Tientsin",
+    "Nankai",
+    "Japanese airdrome",
+    "Despatch 417"
+   ]
+  },
+  {
+   "title": "Transmittal of Despatch No. 482 on the Nankai Airdrome Report",
+   "doc_type": "despatch",
+   "start_page": 14,
+   "end_page": 14,
+   "date": "1933-10-13",
+   "from": "Frank P. Lockhart, American Consul General, Tientsin",
+   "to": "U.S. Secretary of State",
+   "about": "Transmits copies of an earlier despatch to the American Legation concerning a reported Japanese airdrome at Nankai.",
+   "summary": "Lockhart sends the Department five copies of his October 9, 1933 despatch to the Legation at Beijing. The enclosed despatch addresses press reports that Japanese interests were preparing an aviation field at Nankai.",
+   "keywords": [
+    "transmittal",
+    "Nankai",
+    "Tientsin",
+    "Japanese aviation",
+    "Despatch 482"
+   ]
+  },
+  {
+   "title": "Reported Japanese Plans for an Airdrome at Nankai",
+   "doc_type": "enclosed despatch",
+   "start_page": 15,
+   "end_page": 18,
+   "date": "1933-10-09",
+   "from": "Frank P. Lockhart, American Consul General, Tientsin",
+   "to": "Nelson Trusler Johnson, American Minister",
+   "about": "Investigates Chinese press allegations that Japanese military or commercial interests were constructing a major airdrome at Nankai.",
+   "summary": "Chinese newspapers alleged that the Japanese military had acquired 1,050 mou at Liulitai for an airfield capable of accommodating 1,000 aircraft, prompting a dispute over ownership and authority to lease the land. Later reports associated the transaction with Okura and Company and the Ta Sheng Agricultural Company, which said the property was intended for agriculture. Chinese municipal authorities ultimately accepted Japanese military assurances that no airdrome was planned, although Lockhart promised to report further developments.",
+   "keywords": [
+    "Nankai",
+    "Liulitai",
+    "Tientsin",
+    "Japanese military",
+    "Okura and Company",
+    "Ta Sheng Agricultural Company",
+    "land dispute",
+    "Chinese press"
+   ]
+  },
+  {
+   "title": "Cross-reference to Grew Despatch No. 823 on Naval Air Bases",
+   "doc_type": "cross-reference sheet",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1934-06-12",
+   "from": "Department of State document file",
+   "to": "File 894.00 P.R./78",
+   "about": "Points to Ambassador Grew's despatch on plans for five Japanese naval air bases.",
+   "summary": "The sheet refers researchers to Despatch No. 823 from Japan, dated June 12, 1934. It characterizes the despatch as reporting a naval decision to add five air bases in response to Soviet air power and the perceived need for greater control over the Sea of Japan.",
+   "keywords": [
+    "cross-reference",
+    "Joseph C. Grew",
+    "Japanese Navy",
+    "air bases",
+    "Soviet air force",
+    "Sea of Japan"
+   ]
+  },
+  {
+   "title": "More Naval Air Bases",
+   "doc_type": "report excerpt",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1934-06-12",
+   "from": "U.S. Embassy in Japan",
+   "to": "U.S. Department of State",
+   "about": "Lists five projected Japanese naval air bases intended to strengthen air control over the Sea of Japan.",
+   "summary": "The extract reports that the Japanese Navy planned new air bases at Maizuru, Kisarazu, the Kogan–Nemuro area, near Kagoshima, and at Chinkai in Korea. The program was presented as part of naval replenishment plans and a response to the strength of the Soviet air force.",
+   "keywords": [
+    "Japanese Navy",
+    "naval aviation",
+    "Maizuru",
+    "Kisarazu",
+    "Nemuro",
+    "Kagoshima",
+    "Chinkai",
+    "Soviet Union"
+   ]
+  },
+  {
+   "title": "Departmental Summary of the Opening of Nagoya Airport",
+   "doc_type": "memorandum",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1934-11-16",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Summarizes an October 1934 consular report announcing the opening of Nagoya's commercial airport.",
+   "summary": "The memorandum states that a new commercial airport had opened at Nagoya. It also notes that Nagoya had become a port of call on the Tokyo–Osaka air route.",
+   "keywords": [
+    "Nagoya Airport",
+    "airport opening",
+    "Tokyo–Osaka route",
+    "commercial aviation"
+   ]
+  },
+  {
+   "title": "Commercial Airport at Nagoya",
+   "doc_type": "commercial report",
+   "start_page": 22,
+   "end_page": 23,
+   "date": "1934-10-10",
+   "from": "Joseph E. Newton, Vice Consul, Nagoya",
+   "to": "U.S. Department of State",
+   "about": "Describes the opening, dimensions, facilities, services, fares, and continuing construction at Nagoya's commercial airport.",
+   "summary": "Passenger service from Nagoya to Tokyo and Osaka began on October 1, 1934, using a temporary landing field. Tokyo airmail stopped there, but Osaka airmail did not because the field lacked night-landing facilities. Newton provides measurements, planned reclamation and water-landing improvements, road and breakwater construction, journey times, and fares of ¥20 to Tokyo and ¥12 to Osaka.",
+   "keywords": [
+    "Nagoya Airport",
+    "passenger service",
+    "airmail",
+    "Tokyo",
+    "Osaka",
+    "air fares",
+    "night landing",
+    "airport facilities"
+   ]
+  },
+  {
+   "title": "Charge Slip for File 894.7962",
+   "doc_type": "charge slip",
+   "start_page": 24,
+   "end_page": 24,
+   "date": "1934-11-05",
+   "from": "Department of State records office",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Records the charging of an enclosure from file 894.7962 to the Far Eastern Affairs division.",
+   "summary": "The administrative slip records enclosure number 2 as charged to F.E. on November 5, 1934. It gives the clerk's initials as FRJ and notes that the enclosure went “with 5.”",
+   "keywords": [
+    "charge slip",
+    "records administration",
+    "Far Eastern Affairs",
+    "enclosure",
+    "file circulation"
+   ]
+  },
+  {
+   "title": "Cross-reference to Despatch No. 2073 on Kure Air Station",
+   "doc_type": "cross-reference sheet",
+   "start_page": 25,
+   "end_page": 25,
+   "date": "1936-10-09",
+   "from": "Department of State document file",
+   "to": "File 121.5594/76",
+   "about": "Refers to a despatch concerning accusations that Assistant Naval Attaché Ralph Andrew Ofstie photographed an air station near Kure.",
+   "summary": "The sheet points to Despatch No. 2073 from Japan, attributed to Dickover. Its subject is a memorandum about charges that Ralph Andrew Ofstie took photographs from a train while traveling from Shimonoseki to Tokyo past an air station near Kure.",
+   "keywords": [
+    "cross-reference",
+    "Kure air station",
+    "Ralph Andrew Ofstie",
+    "photography",
+    "naval attaché",
+    "Shimonoseki",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Construction to Begin on New Landing Field at Kamitsu",
+   "doc_type": "despatch",
+   "start_page": 26,
+   "end_page": 27,
+   "date": "1936-12-02",
+   "from": "Winthrop R. Scott, American Consul, Kobe",
+   "to": "U.S. Secretary of State",
+   "about": "Reports the land purchase, construction schedule, cost, and strategic advantages of a new public airport at Kamitsu.",
+   "summary": "Hyogo prefectural authorities acquired land at Kamitsu for a Ministry of Communications airport, with work due to begin December 3, 1936 and opening planned for June 1937. The ¥1,076,800 project covered about 640,000 square yards on the Osaka Plain near the Ina River. Japanese aviation engineers praised its level ground, freedom from fog, and lack of obstructions, and expected it to support domestic aviation and expanding routes to southern and eastern Asia.",
+   "keywords": [
+    "Kamitsu",
+    "Hyogo Prefecture",
+    "public airport",
+    "Ministry of Communications",
+    "Osaka Plain",
+    "Asian air routes",
+    "land purchase"
+   ]
+  },
+  {
+   "title": "Departmental Note on Nagoya Airport and Mitsubishi Factory",
+   "doc_type": "memorandum",
+   "start_page": 28,
+   "end_page": 28,
+   "date": "1938-05-06",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Summarizes Vice Consul Stephan's report on Nagoya Airport construction and a new Mitsubishi aircraft factory.",
+   "summary": "The memorandum states that airport reclamation was expected to finish in June 1938 and the entire project in March 1939. It also highlights Stephan's report that Mitsubishi had recently completed what was described as the world's second-largest aircraft factory in Nagoya.",
+   "keywords": [
+    "Nagoya Airport",
+    "reclamation",
+    "Mitsubishi",
+    "aircraft factory",
+    "C. H. Stephan"
+   ]
+  },
+  {
+   "title": "Nagoya Airport Development—New Airplane Factory",
+   "doc_type": "commercial report",
+   "start_page": 29,
+   "end_page": 31,
+   "date": "1938-04-09",
+   "from": "C. H. Stephan, American Vice Consul, Nagoya",
+   "to": "U.S. Department of State",
+   "about": "Reports the completion schedule for the permanent Nagoya Airport and the construction of a major Mitsubishi aircraft factory.",
+   "summary": "The 280,000-tsubo airport reclamation project, begun in August 1934, was expected to complete reclamation in June 1938 and finish the airport by March 1939. The permanent field would occupy reclaimed Lot 11 outside the main breakwater, while the temporary Lot 10 field would be converted to lighter moorage and quays. Stephan also reports Takeo Kato's description of Mitsubishi's new Yada-chō factory as the world's second largest aircraft factory.",
+   "keywords": [
+    "Nagoya Airport",
+    "Lot 11",
+    "harbor development",
+    "Mitsubishi",
+    "Takeo Kato",
+    "Yada-chō",
+    "aircraft manufacturing",
+    "Nagoya Shimbun"
+   ]
+  },
+  {
+   "title": "New Ehime Aerodrome",
+   "doc_type": "despatch",
+   "start_page": 32,
+   "end_page": 32,
+   "date": "1938-11-22",
+   "from": "L. H. Gourley, American Consul, Kobe",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Reports the inauguration of a large new civil aerodrome project in Ehime Prefecture on Shikoku.",
+   "summary": "Gourley reports that a site inauguration ceremony took place on November 20 for an aerodrome in Shūsō District, Ehime Prefecture. The approximately 195-acre field was expected to cost ¥2 million and be completed in 1939. One report characterized it as Japan's largest nonmilitary airport.",
+   "keywords": [
+    "Ehime Aerodrome",
+    "Shūsō District",
+    "Shikoku",
+    "airport construction",
+    "Joseph C. Grew",
+    "civil aviation"
+   ]
+  },
+  {
+   "title": "File Number Notation 894.7962/11",
+   "doc_type": "file notation",
+   "start_page": 33,
+   "end_page": 33,
+   "date": "",
+   "from": "Department of State records office",
+   "to": "Department of State file",
+   "about": "Records the decimal-file identifier 894.7962/11.",
+   "summary": "This final page contains only the file number 894.7962/11 and the routing initials PS/EG. It appears to be a filing or separation notation associated with the preceding material.",
+   "keywords": [
+    "file notation",
+    "decimal file",
+    "894.7962/11",
+    "records administration"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for tracing the physical and administrative growth of Nagoya Airport from a reclaimed-harbor proposal through temporary operation to the anticipated completion of a permanent field. It connects civil aviation directly to port engineering, imperial air-route expansion, military strategy, and Mitsubishi aircraft production. The Tianjin documents are valuable for showing how rumors of Japanese military construction emerged from contested land transactions and were investigated through Chinese press reports, municipal inquiries, and official denials. The cross-reference sheets also reveal how State Department filing practices dispersed related intelligence on aviation, naval bases, and security incidents across several decimal-file categories.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 223.2,
+  "identifier": "japan-internal-affairs-894.7962-other-means-of-2",
+  "file": "894.7962 Other Means Of Communication And Transportation. Carrier Pigeons., Aerial Navigation. Immunities Of Government-Controlled. Subsidies., Stations. Landing Fields. Mooring Towns. Seadromes. Fueling. Fuel Stations. ** Country Of Regula 1057.pdf",
+  "created": "2026-09-29 07:04:25"
+ }
+}

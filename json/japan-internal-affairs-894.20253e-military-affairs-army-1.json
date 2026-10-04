@@ -1,0 +1,104 @@
+{
+ "interest": "Japanese activity in Macao, early 1941.",
+ "keywords": [
+  "Japanese military activities",
+  "Macao",
+  "Hong Kong",
+  "Guangdong",
+  "Kwangtung",
+  "Espionage",
+  "Addison E. Southard",
+  "Consular reports",
+  "List of Papers",
+  "Portuguese colony",
+  "State Department decimal files",
+  "Second Sino-Japanese War"
+ ],
+ "overview": "Docket for 894.20253E: Southard's 1941 reports on Japanese activity in Macao and Consul Card's visit.",
+ "people": [
+  {
+   "name": "Addison E. Southard",
+   "role": "U.S. Consul General at Hong Kong",
+   "variants": [
+    "Southard"
+   ]
+  },
+  {
+   "name": "Card",
+   "role": "U.S. Consul",
+   "variants": [
+    "Consul Card"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Macao",
+   "variants": [
+    "Macao",
+    "Macau"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Guangdong",
+   "variants": [
+    "Kwang-tung"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portuguese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers indexing consular reports from Hong Kong regarding Japanese military and intelligence activities in Macao during early 1941.",
+   "date": "1941",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Macao",
+    "Hong Kong",
+    "Addison E. Southard",
+    "Kwangtung",
+    "Japanese military activities",
+    "Consul Card"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.20253E: 1941 reports on Japanese activity in Macao.",
+   "title": "Department of State List of Papers: Japanese Military Activities in Macao",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13838,
+   "output_tokens": 5934,
+   "thinking_tokens": 5021,
+   "cache_read_tokens": 0,
+   "total_tokens": 19772
+  },
+  "backend": "agy",
+  "seconds": 22.3,
+  "identifier": "japan-internal-affairs-894.20253e-military-affairs-army-1",
+  "file": "894.20253E Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Macao Including Gathering Of Information. Espionage. Propaganda.,  59.pdf",
+  "created": "2026-09-29 02:39:22"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "type": "object",
+ "properties": {
+  "overview": {"type": "string", "description": "One paragraph overview of the contents of the file as a whole"},
+  "places": {"type": "array", "items": {"type": "object", "properties": {
+     "name": {"type": "string", "description": "Standard modern English name of the place"},
+     "variants": {"type": "array", "items": {"type": "string"}, "description": "Spellings of this place exactly as they appear in the text, including the standard name if it appears"}},
+     "required": ["name", "variants"]}},
+  "people": {"type": "array", "items": {"type": "object", "properties": {
+     "name": {"type": "string", "description": "Full name as best identified, e.g. 'Joseph C. Grew'"},
+     "role": {"type": "string", "description": "Role or position, if stated, e.g. 'U.S. Ambassador to Japan'"},
+     "variants": {"type": "array", "items": {"type": "string"}, "description": "Forms of the name exactly as they appear in the text, e.g. 'GREW', 'Mr. Grew'"}},
+     "required": ["name", "variants"]}},
+  "keywords": {"type": "array", "items": {"type": "string"}, "description": "8-15 keywords for the file as a whole"},
+  "subfiles": {"type": "array", "items": {"type": "object", "properties": {
+     "title": {"type": "string", "description": "Short identifying title, e.g. 'Telegram from Grew (Tokyo) on cabinet crisis'"},
+     "doc_type": {"type": "string", "description": "telegram, despatch, memorandum, letter, cross-reference sheet, report, clipping, etc."},
+     "start_page": {"type": "integer"}, "end_page": {"type": "integer"},
+     "date": {"type": "string", "description": "Date of the sub-file as YYYY-MM-DD, YYYY-MM or YYYY; empty if none"},
+     "from": {"type": "string", "description": "Sender / author, if identifiable"},
+     "to": {"type": "string", "description": "Recipient, if identifiable"},
+     "about": {"type": "string", "description": "One sentence on what the sub-file is about"},
+     "summary": {"type": "string", "description": "A summary of the sub-file, 2-5 sentences"},
+     "keywords": {"type": "array", "items": {"type": "string"}}},
+     "required": ["title", "doc_type", "start_page", "end_page", "date", "about", "summary", "keywords"]}},
+  "interest": {"type": "string", "description": "A few sentences on what is interesting, unique or useful about this document and its sub-files"}
+ },
+ "required": ["overview", "places", "people", "keywords", "subfiles", "interest"]
+}

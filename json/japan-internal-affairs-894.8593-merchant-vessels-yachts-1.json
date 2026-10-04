@@ -1,0 +1,165 @@
+{
+ "overview": "This three-document file, dated from August 1941 to April 1942, concerns restrictions on supplying Japanese merchant vessels with coal, oil, and water amid fears that such supplies might assist enemy raiders. It combines an internal State Department memorandum weighing the diplomatic sensitivity of discouraging coal sales in Buenos Aires, a cross-reference to a telegram describing British and Dutch cooperation in limiting supplies to Japanese ships, and a brief memorandum reporting rumors of a heavily guarded convoy bound for Chile and an anonymous attempt to reserve dock space for three vessels.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Dutch"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "A. A. Berle, Jr."
+   ]
+  },
+  {
+   "name": "Patton",
+   "role": "Official associated with the referenced telegram concerning Singapore",
+   "variants": [
+    "Patton"
+   ]
+  },
+  {
+   "name": "Woodward",
+   "role": "State Department official in or associated with the Division of the American Republics",
+   "variants": [
+    "Mr. Woodward"
+   ]
+  },
+  {
+   "name": "Philip W. Bonsal",
+   "role": "State Department official in the Division of the American Republics",
+   "variants": [
+    "Mr. Consal"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant vessels",
+  "fueling restrictions",
+  "coal supplies",
+  "oil supplies",
+  "water supplies",
+  "enemy raiders",
+  "British Ministry of Shipping",
+  "Dutch cooperation",
+  "Buenos Aires",
+  "Singapore",
+  "Chile",
+  "convoy intelligence",
+  "dock reservations",
+  "interdepartmental coordination"
+ ],
+ "subfiles": [
+  {
+   "title": "Berle memorandum on supplying coal to Japanese steamers",
+   "doc_type": "memorandum",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1941-08-01",
+   "from": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "to": "Division of the American Republics (RA)",
+   "about": "Berle recommends discouraging local coal dealers from supplying Japanese steamers while noting possible diplomatic resentment in Buenos Aires.",
+   "summary": "Berle states that local coal dealers should not be encouraged to provide coal to Japanese steamers. He is uncertain whether such a policy would cause resentment in Buenos Aires and asks the Division of the American Republics to draft a telegram. He specifies that the draft must be cleared with FE and DCA.",
+   "keywords": [
+    "Adolf A. Berle Jr.",
+    "Japanese steamers",
+    "coal supplies",
+    "Buenos Aires",
+    "telegram drafting",
+    "FE",
+    "DCA"
+   ]
+  },
+  {
+   "title": "Cross-reference to Telegram 42 on restricting supplies to Japanese vessels",
+   "doc_type": "cross-reference sheet",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1941-03-19",
+   "from": "",
+   "to": "Singapore (Patton)",
+   "about": "The sheet cross-references a telegram concerning British and Dutch measures to restrict fuel and water supplied to Japanese vessels.",
+   "summary": "The cross-reference records that the Ministry of Shipping in London instructed local authorities to supply Japanese vessels with only enough oil, coal, and water to reach their next port of call. Dutch authorities reportedly expressed willingness to cooperate. The stated objective was to prevent supplies from reaching enemy raiders. The date given is that of the referenced Telegram 42, 4 p.m., rather than necessarily the date on which the cross-reference sheet was prepared.",
+   "keywords": [
+    "Telegram 42",
+    "Singapore",
+    "Patton",
+    "Ministry of Shipping",
+    "Japanese vessels",
+    "fuel restrictions",
+    "Dutch authorities",
+    "enemy raiders"
+   ]
+  },
+  {
+   "title": "Memorandum on reported convoy and dock reservations in Chile",
+   "doc_type": "memorandum",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1942-04-20",
+   "from": "Unidentified official, Division of the American Republics",
+   "to": "Mr. Woodward and Mr. Bonsal",
+   "about": "The memorandum reports renewed rumors of a heavily escorted convoy approaching Chile and an anonymous request to reserve dock space for three ships.",
+   "summary": "The memorandum notes a revival of the story that a convoy guarded by heavy ships would soon reach Chile. It also records a telephone request to reserve dock space for three ships between March 23 and April 2. The caller reportedly refused to give his name when questioned. One intervening line is too garbled in the OCR to interpret reliably.",
+   "keywords": [
+    "Chile",
+    "convoy rumor",
+    "heavy ships",
+    "dock space",
+    "three ships",
+    "anonymous caller",
+    "maritime intelligence"
+   ]
+  }
+ ],
+ "interest": "The file is useful for tracing how wartime economic-control policy was translated into practical restrictions on ordinary merchant shipping before and after the United States entered the Pacific War. The Buenos Aires memorandum reveals concern that denying coal could carry diplomatic costs in Latin America, while the Singapore cross-reference places the policy within a broader British-Dutch effort to prevent aid to enemy raiders. The Chile memorandum is especially suggestive as an example of fragmentary maritime intelligence—rumor, anonymous telephone inquiries, and port logistics—circulating inside the Division of the American Republics.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 99.9,
+  "identifier": "japan-internal-affairs-894.8593-merchant-vessels-yachts-1",
+  "file": "894.8593 Merchant Vessels. Yachts. Immunities Of Government -Controlled., Other Matters Respecting Merchant Vessels., Fueling. Fuel Stations. ** Country Of Regulation, Not Nationality Of Vessel., August 1, 1941 - April 20, 1942 1344.pdf",
+  "created": "2026-09-29 05:22:16"
+ }
+}

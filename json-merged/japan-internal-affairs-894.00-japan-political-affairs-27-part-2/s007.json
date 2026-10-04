@@ -1,0 +1,2425 @@
+{
+ "section_summary": "This section contains SCAP and State Department reporting on Japan’s rapidly changing postwar party system, including coalition negotiations, cabinet rumors, Communist tactics, women in politics, and a detailed survey of the minor parties represented in the 90th Diet. It also documents the appointment of Elizabeth Gray Vining as tutor to the crown prince, profiles political financier Tsuji Karoku, assesses the Japanese Communist Party, and discusses the nationality and policing of Formosans in occupied Japan. The final pages request administrative reports and list the principal officers of Japan’s six major political parties.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Japen",
+    "Japun",
+    "Japn"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Tokyn",
+    "Foryo",
+    "Tokyo-to"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "Aomori-ken"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Karazawa prefectures",
+    "Kanagawa ken"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinoe"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi-ken",
+    "Yamanashi prefecture"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki City"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka distriet"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "North Dakota",
+   "variants": [
+    "North Dakota"
+   ]
+  },
+  {
+   "name": "New Mexico",
+   "variants": [
+    "Ne Mexico"
+   ]
+  },
+  {
+   "name": "Texas",
+   "variants": [
+    "Texas"
+   ]
+  },
+  {
+   "name": "Alabama",
+   "variants": [
+    "Alabama"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Aita prefecture",
+    "Akita-ken",
+    "Akita"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba",
+    "Chiba Prefecture"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyesi prefecture",
+    "Miyagi-ken",
+    "Miyag1",
+    "Miyagi",
+    "Mio-bun"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshime",
+    "Hiroshima",
+    "Hiroshima Prefeotur",
+    "Hiroshima Prefecture"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "rokkaio",
+    "Lokkaido",
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Potsdam",
+   "variants": [
+    "Potsdam"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "variants": [
+    "Illinois",
+    "Illimois",
+    "ILDNOIS"
+   ]
+  },
+  {
+   "name": "Urbana",
+   "variants": [
+    "Urbana",
+    "Urbame",
+    "JEBANA"
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "Philadelphia",
+    "Philadolphia"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pennsylvania",
+    "Ponnsylvania",
+    "Pennylvania"
+   ]
+  },
+  {
+   "name": "Germantown",
+   "variants": [
+    "Germantown"
+   ]
+  },
+  {
+   "name": "Bryn Mawr",
+   "variants": [
+    "Bryn Mawr"
+   ]
+  },
+  {
+   "name": "Rydal",
+   "variants": [
+    "Rydal"
+   ]
+  },
+  {
+   "name": "North Carolina",
+   "variants": [
+    "North Carolina",
+    "North Parolina",
+    "Horth Carolina"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama-ken",
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Prefecture"
+   ]
+  },
+  {
+   "name": "Tōhoku region",
+   "variants": [
+    "Northeastern Japan",
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimo-ken"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyasaki-ken"
+   ]
+  },
+  {
+   "name": "Hyūga",
+   "variants": [
+    "Hyuga"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshimaken"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oita",
+    "Oita-ken",
+    "Oita-kon"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi-ken"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu prefecture"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Hoscow",
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Yan’an",
+   "variants": [
+    "Yenan"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "USSR",
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Balkans",
+   "variants": [
+    "Balkuns"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Southern California",
+   "variants": [
+    "Southern Califcrnia"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "Shioguma City"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata Prefecture"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Ushigome ward, Tokyo",
+   "variants": [
+    "Ushigomo-ku"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Hita District, Ōita",
+   "variants": [
+    "Citagun"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Hiratsuka",
+   "role": "Close associate of Hatoyama and Liberal Party figure.",
+   "variants": [
+    "HIRATSUKA"
+   ]
+  },
+  {
+   "name": "Okubo Tomejiro",
+   "role": "Experienced Liberal politician, Hatoyama associate, and member of the Liberal Party General Affairs Committee.",
+   "variants": [
+    "OKUBO",
+    "OkUBO",
+    "OKUBO Tomejiro"
+   ]
+  },
+  {
+   "name": "Yoshida Shigeru",
+   "role": "Prime Minister of Japan and president-designate, later president, of the Japan Liberal Party.",
+   "variants": [
+    "YOSHIDA",
+    "YOSHIDA Shigeru",
+    "YoSHIDA Shigeru",
+    "YosHIDA",
+    "YCSHInA",
+    "YCSHIlA"
+   ]
+  },
+  {
+   "name": "Hatoyama Ichiro",
+   "role": "Purged former Liberal leader who continued to advise the party informally.",
+   "variants": [
+    "HoTOYAMA",
+    "HATOYAMA",
+    "HATOYAMA'S",
+    "Kateyame"
+   ]
+  },
+  {
+   "name": "Kono Ichiro",
+   "role": "Political adviser consulted by the Liberals as a private citizen.",
+   "variants": [
+    "KONo Ichiro"
+   ]
+  },
+  {
+   "name": "Kono Mitsu",
+   "role": "Purged Social Democratic director subsequently employed as the party’s budget expert.",
+   "variants": [
+    "KoNo Mitsu",
+    "Kono Mitsu"
+   ]
+  },
+  {
+   "name": "Wada Hiroo",
+   "role": "Minister of Agriculture and Forestry.",
+   "variants": [
+    "WADA Hiroo",
+    "WADA"
+   ]
+  },
+  {
+   "name": "Ishibashi Tanzan",
+   "role": "Finance Minister.",
+   "variants": [
+    "ISiIBASHI Tanzan"
+   ]
+  },
+  {
+   "name": "Inukai Ken",
+   "role": "De facto Progressive Party leader and chairman of its General Affairs Committee.",
+   "variants": [
+    "INUKAI Ken",
+    "INUKAI"
+   ]
+  },
+  {
+   "name": "Nishio Suehiro",
+   "role": "Right-wing Social Democrat and member of the party’s Standing Central Executive Committee.",
+   "variants": [
+    "NISHIO Suyehiro",
+    "NISHIo",
+    "NISHIO",
+    "NISHIO Suehiro"
+   ]
+  },
+  {
+   "name": "Shidehara Kijuro",
+   "role": "Prime-ministerial candidate favored by Inukai and president of the Japan Progressive Party.",
+   "variants": [
+    "SHIDEHARA",
+    "SHIDEHARA Kijuro"
+   ]
+  },
+  {
+   "name": "Hirano Rikizo",
+   "role": "Right-wing Social Democrat considered for the Agriculture portfolio; party executive.",
+   "variants": [
+    "HIRANo Rikizo",
+    "HIRANo",
+    "HIRANO Rikizo"
+   ]
+  },
+  {
+   "name": "Katayama Tetsu",
+   "role": "Social Democratic leader and chief secretary of the Japan Social Democratic Party.",
+   "variants": [
+    "KAToYA A Tetsu",
+    "KATAYAMA Tetsu"
+   ]
+  },
+  {
+   "name": "Sasamori Junzo",
+   "role": "Educator and leader of the Shinsei-kai, later a National Party central committee member.",
+   "variants": [
+    "SASAMORI Junzo",
+    "SASAIORI",
+    "JASAORI JunZO"
+   ]
+  },
+  {
+   "name": "Ishizaki Sensatsu",
+   "role": "Shinsei-kai leader, former Japanese-American newspaper publisher, and independent Diet member from Fukuoka.",
+   "variants": [
+    "ISHIZAKI Seusatsu",
+    "IsHIzAKI",
+    "ISHIZAkI"
+   ]
+  },
+  {
+   "name": "Ikegami Takusuke",
+   "role": "Educator and Shinsei-kai leader.",
+   "variants": [
+    "IKEGAMI Takusuko",
+    "IKEGAII"
+   ]
+  },
+  {
+   "name": "Matsubara Kazuhiko",
+   "role": "Educator, Shinsei-kai leader, and chairman of the National Party’s Diet-members’ meeting.",
+   "variants": [
+    "MATSUBARA Kazuhiko",
+    "MATSUBARA"
+   ]
+  },
+  {
+   "name": "Kenneth Colegrove",
+   "role": "Northwestern University professor under whom Ishizaki studied.",
+   "variants": [
+    "Dr. Kenneth Colegrove"
+   ]
+  },
+  {
+   "name": "Hikida Toshio",
+   "role": "Founder of the Shinsei-kai; president and Diet representative of the Young Men’s Democratic League; later a National Party central committee member.",
+   "variants": [
+    "HIKIDA Toshio",
+    "HIKIDA Toshie",
+    "HIKITA Toshio"
+   ]
+  },
+  {
+   "name": "Hosozako Kanemitsu",
+   "role": "Shinko Club figure who declined to enter the Shinsei-kai.",
+   "variants": [
+    "NoSoSAko Kanemitsu",
+    "NosoSAko"
+   ]
+  },
+  {
+   "name": "P. K. Roest",
+   "role": "Chief of the Political Parties Branch and later Chief of the Political Affairs Division, Government Section, SCAP.",
+   "variants": [
+    "P. K. ROEST"
+   ]
+  },
+  {
+   "name": "Harry Emerson Wildes",
+   "role": "Assistant Chief of SCAP’s Political Affairs Division; prepared the party report and the Tsuji pen portrait.",
+   "variants": [
+    "HARRY EL.ERSON WILDES",
+    "Dr. Harcy nerson Wildes",
+    "HARRY MERSON WILBOS",
+    "Dr. Wildes"
+   ]
+  },
+  {
+   "name": "Tsurumi Yusuke",
+   "role": "Purged political figure rumored to be returning to public life.",
+   "variants": [
+    "Tourumi"
+   ]
+  },
+  {
+   "name": "Ashida Hitoshi",
+   "role": "Liberal politician rumored to be forming a new party; Liberal General Affairs Committee member.",
+   "variants": [
+    "Dr. Achida",
+    "Ashida",
+    "ASHIDA Hitoshi"
+   ]
+  },
+  {
+   "name": "N. Kallgren",
+   "role": "Departmental official associated with the abstract of the July political-party report.",
+   "variants": [
+    "N. Kallgren"
+   ]
+  },
+  {
+   "name": "Matsuoka Komakichi",
+   "role": "Right-wing Socialist labor leader elected president of the National Federation of Labor; Social Democratic adviser.",
+   "variants": [
+    "ATsuuka Komakichi",
+    "MaTsUokh",
+    "Matsuoka",
+    "MATSUOKA Komakichi"
+   ]
+  },
+  {
+   "name": "Sano Gaku",
+   "role": "Former Communist who launched the Federation of Democratic Vanguards and advocated socialism under the emperor system.",
+   "variants": [
+    "SANo Gaku",
+    "SAllo Gaku",
+    "Sano Gaku"
+   ]
+  },
+  {
+   "name": "Kimura Tokutaro",
+   "role": "Minister of Justice.",
+   "variants": [
+    "KIMUna",
+    "KIMURA"
+   ]
+  },
+  {
+   "name": "Tanaka Kotaro",
+   "role": "Minister of Education.",
+   "variants": [
+    "TiKa"
+   ]
+  },
+  {
+   "name": "Yamamoto Sanehiko",
+   "role": "President of the Co-operative Democratic Party and chief of its Central Executive Committee.",
+   "variants": [
+    "YAMAMoTo Sanehiko",
+    "YAMamOTo",
+    "YAMAMOTO Sanehiko"
+   ]
+  },
+  {
+   "name": "Ikawa Tadao",
+   "role": "Co-operative financial expert, Diet member, and chief secretary of the Co-operative Democratic Party.",
+   "variants": [
+    "WIKAWA",
+    "WIkAWA Tadao",
+    "IKAWA Tadao"
+   ]
+  },
+  {
+   "name": "Kato Kanju",
+   "role": "Left-wing Socialist labor leader and Social Democratic executive.",
+   "variants": [
+    "KATo",
+    "KATO Kanju"
+   ]
+  },
+  {
+   "name": "Aka Toraichi",
+   "role": "Labor official elected secretary-general at the National Federation of Labor congress.",
+   "variants": [
+    "Aka Toraichi"
+   ]
+  },
+  {
+   "name": "Matsumoto Takizo",
+   "role": "Former professor, centrist politician, and vice-chief of the Co-operative Democratic Party’s Political Investigation Society.",
+   "variants": [
+    "MATSUMOTO Takizo"
+   ]
+  },
+  {
+   "name": "Mizutani Chozaburo",
+   "role": "Social Democratic executive identified in the report as a coal-union official whose resignation embarrassed the Communists.",
+   "variants": [
+    "Ko IZUlAI",
+    "Mizutami",
+    "MIZUTANI Chozaburo"
+   ]
+  },
+  {
+   "name": "Fujita Eiichi",
+   "role": "Independent Diet member from Chiba who joined the Social Democratic Party.",
+   "variants": [
+    "FUJITA Eiichi"
+   ]
+  },
+  {
+   "name": "Alice Curran",
+   "role": "Assistant or special assistant in Assistant Secretary William Benton’s office; handled the Stoddard correspondence.",
+   "variants": [
+    "Miss Curran",
+    "Mix Cana",
+    "Alice Carram",
+    "ALIGN CUMRAN",
+    "ATCurran"
+   ]
+  },
+  {
+   "name": "F. P. Latimer",
+   "role": "State Department official involved in routing the Stoddard material.",
+   "variants": [
+    "F.P. Latinn.",
+    "Mr. Latimer"
+   ]
+  },
+  {
+   "name": "G. T. Bowles",
+   "role": "State Department official who sent the draft Vining announcement for approval.",
+   "variants": [
+    "Mr. Bowles",
+    "GTBowles"
+   ]
+  },
+  {
+   "name": "George Stoddard",
+   "role": "President of the University of Illinois and chairman of the American Education Mission to Japan.",
+   "variants": [
+    "Dr. George Stoddard",
+    "Dr. Stodaard",
+    "Dr. Steddard",
+    "D. OGE STODDAND",
+    "STODDARD"
+   ]
+  },
+  {
+   "name": "Elizabeth Gray Vining",
+   "role": "Writer, teacher, and appointee as tutor to Japan’s crown prince.",
+   "variants": [
+    "Mrs. Elizabeth Gray Vining",
+    "Mrs. Vining",
+    "Elizabeth Cray Vining",
+    "irs. Vining"
+   ]
+  },
+  {
+   "name": "Elizabeth Janet Gray",
+   "role": "Pen name under which Elizabeth Gray Vining published books.",
+   "variants": [
+    "Elizabeth Janet Gray"
+   ]
+  },
+  {
+   "name": "Walter Scott",
+   "role": "Historical author named in the title of one of Vining’s books.",
+   "variants": [
+    "Walter Sc tt"
+   ]
+  },
+  {
+   "name": "William Benton",
+   "role": "Assistant Secretary of State who announced Vining’s selection and sponsored the American Education Mission.",
+   "variants": [
+    "Mr. Benton",
+    "Mr. Denten",
+    "William Besten",
+    "William Benton",
+    "Mr. Bent on"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers.",
+   "variants": [
+    "General Mcarthur"
+   ]
+  },
+  {
+   "name": "Miyato Mitsuo",
+   "role": "Wealthy House of Peers member, purged politician, and backer of the Japan Agricultural Party Central Federation.",
+   "variants": [
+    "MIYATO Mitsuo"
+   ]
+  },
+  {
+   "name": "Ando Hatsu",
+   "role": "Diet representative of the Japan Peace Party and former schoolteacher.",
+   "variants": [
+    "ANDo Hatsu",
+    "ANDO Hatsu",
+    "AND0 Hatsu",
+    "Mrs. ANDO"
+   ]
+  },
+  {
+   "name": "Nakano Shiro",
+   "role": "Japan Agricultural Party representative who joined the Independent Club.",
+   "variants": [
+    "NAKANC Shiro",
+    "NaKANO Shiro",
+    "NAKaNC",
+    "Mr. NAKANO"
+   ]
+  },
+  {
+   "name": "Ishiwara Noboru",
+   "role": "President and Diet representative of the People’s Rights Fellowship Association.",
+   "variants": [
+    "ISHIWARA Noboru",
+    "IShIWARA",
+    "ISHI..RA Noboru",
+    "ISHI.ARa",
+    "IS!IiARA"
+   ]
+  },
+  {
+   "name": "Konishi Toramatsu",
+   "role": "Contractor, labor-union chief, gambler, and Diet representative of the All Japan Professionals Fellowship Association.",
+   "variants": [
+    "KONISHI Toramatsu",
+    "KONISHI Toromatsu",
+    "KoNISHI"
+   ]
+  },
+  {
+   "name": "Yoneyama Hachiya",
+   "role": "President of the Middle Way Association and husband of Yoneyama Fumiko.",
+   "variants": [
+    "YONEYAlA Hachiya",
+    "YONEYalA Hachiya"
+   ]
+  },
+  {
+   "name": "Yoneyama Fumiko",
+   "role": "Former primary-school teacher and Diet representative of the Middle Way Association.",
+   "variants": [
+    "YONEYALMA Fumiko",
+    "YONEYAlA Funiko",
+    "Mrs. YONEYAMA",
+    "Ers. YUNlYALA"
+   ]
+  },
+  {
+   "name": "Toyoguchi Eitaro",
+   "role": "President of the Educational Democratic Party.",
+   "variants": [
+    "TOYOGUCHI Eitaro"
+   ]
+  },
+  {
+   "name": "Maruyama Shuichiro",
+   "role": "Teacher, cultural organizer, and Diet representative of the Educational Democratic Party.",
+   "variants": [
+    "MARUYAMA Shuichiro",
+    "HARUYAMA"
+   ]
+  },
+  {
+   "name": "Ono Notoji",
+   "role": "President of the Japan Peace Party.",
+   "variants": [
+    "ONO Notoj1"
+   ]
+  },
+  {
+   "name": "Ishida Ichimatsu",
+   "role": "Humorist-actor, president, and Diet representative of the Japan Righteousness Party.",
+   "variants": [
+    "ISHIDA Ichimatsu",
+    "Mr. ISHIDA"
+   ]
+  },
+  {
+   "name": "Isoda Masunori",
+   "role": "Farmer, former village head, and president and Diet representative of the Saitama Prefectural Administration Progress Association.",
+   "variants": [
+    "ISODA Masunor1",
+    "IS0DA",
+    "ISoDA"
+   ]
+  },
+  {
+   "name": "Miyato Yoshiko",
+   "role": "President of the New Japan Women’s Party and wife of the former president of the New Japan Party.",
+   "variants": [
+    "MIYATO Yoshiko"
+   ]
+  },
+  {
+   "name": "Yoshida Sei",
+   "role": "Dentist, champion shot-putter, and Diet representative of the New Japan Women’s Party.",
+   "variants": [
+    "YOSHIDA Sei",
+    "Mrs. YOSHIDA"
+   ]
+  },
+  {
+   "name": "Suzuki Yagoro",
+   "role": "Business and fishery-labor official, president, and Diet representative of the Northeastern Japan People’s Party.",
+   "variants": [
+    "SUZUKI Yagoro",
+    "SUZUKI Yagorc",
+    "Mr. SUZUKI"
+   ]
+  },
+  {
+   "name": "Matsutani Tenkoko",
+   "role": "Waseda law graduate and president and Diet representative of the Starvation Prevention League.",
+   "variants": [
+    "MATSUPANI Tenkoko",
+    "MATSUTANI Tenkoko"
+   ]
+  },
+  {
+   "name": "Enomoto Saichi",
+   "role": "President of the Democratic Party.",
+   "variants": [
+    "ENOMOTO Saich1"
+   ]
+  },
+  {
+   "name": "Miki Kiyoko",
+   "role": "Diet representative of the Democratic Party; former tea-parlor and apartment-house manager.",
+   "variants": [
+    "MIKI Kiyoko"
+   ]
+  },
+  {
+   "name": "Sato Yayoji",
+   "role": "President of the Miyagi Local Party.",
+   "variants": [
+    "SATO Yayoji"
+   ]
+  },
+  {
+   "name": "Takeya Gentaro",
+   "role": "Former police and prefectural official, Miyagi Local Party Diet representative, and later Social Democrat.",
+   "variants": [
+    "TAKFYA Centaro",
+    "TAKEYA Centaro",
+    "TAkEYA Centaro",
+    "TAk YA Cent: re"
+   ]
+  },
+  {
+   "name": "Abe Shungo",
+   "role": "Miyagi Local Party Diet representative and former Japanese-community leader in Southern California and Los Angeles.",
+   "variants": [
+    "ASF Shungo",
+    "ABE Shungo"
+   ]
+  },
+  {
+   "name": "Inoue Tojiro",
+   "role": "Company director and Miyagi Local Party Diet representative.",
+   "variants": [
+    "INOUS Tojirc",
+    "INOUE Tojirc"
+   ]
+  },
+  {
+   "name": "Hashimoto Tomisaburo",
+   "role": "Former newspaperman and president of the Japan People’s Party.",
+   "variants": [
+    "HAsHIMOTO Tomisaburo"
+   ]
+  },
+  {
+   "name": "Togano Satoko",
+   "role": "Former instructor and Diet representative of the Japan People’s Party.",
+   "variants": [
+    "TOGAMO Satoko",
+    "TOGANO Satoko",
+    "ToGANO Satoko"
+   ]
+  },
+  {
+   "name": "Tanaka Hisao",
+   "role": "Former retailers’ association director, farmer, and president and Diet representative of the New Japan Construction League.",
+   "variants": [
+    "TANAKA Risao",
+    "TANAKA H1sao",
+    "TANAKA Hisao",
+    "Mr. TANAKA"
+   ]
+  },
+  {
+   "name": "Ozaki Yukio",
+   "role": "Veteran parliamentarian and mentor of Tanaka Hisao.",
+   "variants": [
+    "JZAkI Yukio"
+   ]
+  },
+  {
+   "name": "Tsuguta Torao",
+   "role": "President of the All Japan Professionals Fellowship Association.",
+   "variants": [
+    "TSUGUTA Torao"
+   ]
+  },
+  {
+   "name": "Nuno Toshiaki",
+   "role": "Author, traveler, and president and Diet representative of the Japan Democratic Party.",
+   "variants": [
+    "NUMO Toshiaki",
+    "NUNO Toshiaki",
+    "Mr. NUNo"
+   ]
+  },
+  {
+   "name": "Ito Iwao",
+   "role": "Businessman, former Seiyukai secretary, president and Diet representative of the Hyuga Democratic Party, and later Co-operative Democratic Party officer.",
+   "variants": [
+    "IT0 Iwao",
+    "ITO Iwao",
+    "Mr. ITo",
+    "ITU Iwao"
+   ]
+  },
+  {
+   "name": "Mori Yukio",
+   "role": "Lawyer and Hyuga Democratic Party Diet representative.",
+   "variants": [
+    "MonI Yukio",
+    "MORI Yukio"
+   ]
+  },
+  {
+   "name": "Kawano Yoshimitsu",
+   "role": "Brewer and Hyuga Democratic Party Diet representative.",
+   "variants": [
+    "TAWaNo Yeehimi tsu",
+    "KAWANc Yoshimitsu"
+   ]
+  },
+  {
+   "name": "Ohashi Kimi",
+   "role": "Schoolteacher and Hyuga Democratic Party Diet representative.",
+   "variants": [
+    "OHAsHI Kimi",
+    "OHASHI Kind"
+   ]
+  },
+  {
+   "name": "Ohara Hiroo",
+   "role": "Physician, former Minseito member, and president and Diet representative of the Hiroshima Co-operative Democratic Party; later national party executive.",
+   "variants": [
+    "OHARA Hiro",
+    "CHARA Hiro",
+    "OHARA Hiroo"
+   ]
+  },
+  {
+   "name": "Chiya Gosaburo",
+   "role": "Press-company manager and Hiroshima Co-operative Democratic Party Diet representative.",
+   "variants": [
+    "CIYA Gosuburo",
+    "CHIYA Cosabure"
+   ]
+  },
+  {
+   "name": "Nishi Torioto",
+   "role": "House of Peers member and president of the Japan Agricultural Party Central Federation.",
+   "variants": [
+    "NISHI Torioto"
+   ]
+  },
+  {
+   "name": "Uda Kunie",
+   "role": "Former news-agency director, publisher, Foreign Office staff member, and Japan Agricultural Party Diet representative.",
+   "variants": [
+    "UDA, Kunis",
+    "UDA Kunie",
+    "Mr. UDA"
+   ]
+  },
+  {
+   "name": "Hara Kuni",
+   "role": "Diet representative of the Japan Agricultural Party Central Federation.",
+   "variants": [
+    "HaRA Kuni",
+    "HARA"
+   ]
+  },
+  {
+   "name": "Mizuno Fumihiko",
+   "role": "Former IRAA member and president of the Ōita Prefecture Agricultural Party.",
+   "variants": [
+    "MIZUNON Fumihiko"
+   ]
+  },
+  {
+   "name": "Hirano Hachiro",
+   "role": "Agricultural-association official and Diet representative of the Ōita Prefecture Agricultural Party.",
+   "variants": [
+    "HIRANO Machiro",
+    "HIRANO Hachiro",
+    "Mr. HIRANO"
+   ]
+  },
+  {
+   "name": "Tajima Yoshibumi",
+   "role": "President of the New Born People’s Party.",
+   "variants": [
+    "TAJIMA Yoshibumi"
+   ]
+  },
+  {
+   "name": "Koshihara Haru",
+   "role": "Principal of Nagoya Girls’ High School and Diet representative of the New Born People’s Party.",
+   "variants": [
+    "KOSHIHARA Haru",
+    "Mrs. KOSHIHARA"
+   ]
+  },
+  {
+   "name": "Chizaki Usaburo",
+   "role": "Company director, president and Diet representative of the Hokkaido Political League, and Progressive Party executive.",
+   "variants": [
+    "CHIZAKI Usaburo",
+    "CHIZAKI Unaburo"
+   ]
+  },
+  {
+   "name": "Shiikuma Saburo",
+   "role": "Company employee and Hokkaido Political League Diet representative.",
+   "variants": [
+    "SHIIKUMA Saburo"
+   ]
+  },
+  {
+   "name": "Homma Takeshi",
+   "role": "Lumber merchant and Hokkaido Political League Diet representative.",
+   "variants": [
+    "HOMA Takashi",
+    "HOMMA Takeshi",
+    "Mr. HOMMA"
+   ]
+  },
+  {
+   "name": "Tanaka Seigi",
+   "role": "Writer, former Minseito propaganda director, and president of the New Japan Youth Party.",
+   "variants": [
+    "TANAKA Seigi"
+   ]
+  },
+  {
+   "name": "Takeuchi Utako",
+   "role": "Diet representative of the New Japan Youth Party and Progressive Party member.",
+   "variants": [
+    "TAKEUCHI Utaki",
+    "TAKEUCHI Utako",
+    "Miss TAKEUCHI"
+   ]
+  },
+  {
+   "name": "Tsuji Karoku",
+   "role": "Political financier, former contractor, adventurer, and alleged behind-the-scenes patronage broker.",
+   "variants": [
+    "TSUJI Karoku",
+    "ToUJI Karoku",
+    "TUSJI Karoku",
+    "2ou31",
+    "tsuJI",
+    "TsujI",
+    "rsuJI",
+    "TI Kareks",
+    "TsJI Kareks"
+   ]
+  },
+  {
+   "name": "Robin Hood",
+   "role": "Legendary figure used as a comparison in the Tsuji profile.",
+   "variants": [
+    "Robin Hood"
+   ]
+  },
+  {
+   "name": "Hiranuma Kiichiro",
+   "role": "Militarist political leader mentioned in the Tsuji profile.",
+   "variants": [
+    "IIRamoMA"
+   ]
+  },
+  {
+   "name": "Tokuda Kyuichi",
+   "role": "Japanese Communist leader and Central Committee member.",
+   "variants": [
+    "Tokuda",
+    "Toxudu",
+    "TOKUDA Kyuichi"
+   ]
+  },
+  {
+   "name": "Shiga Yoshio",
+   "role": "Japanese Communist leader and Central Committee member.",
+   "variants": [
+    "Shiga",
+    "SHIGA Yoshio"
+   ]
+  },
+  {
+   "name": "Nozaka Sanzo",
+   "role": "Japanese Communist leader returned from Moscow and Yan’an; Central Committee member.",
+   "variants": [
+    "osaka",
+    "Nosaka",
+    "NOZAKA SanzO"
+   ]
+  },
+  {
+   "name": "Chu Shih-Ming",
+   "role": "Ambassador and head of the Chinese Mission in Japan.",
+   "variants": [
+    "Ambassador Chu Shih-Ming",
+    "General Chu"
+   ]
+  },
+  {
+   "name": "T. V. Soong",
+   "role": "Chinese government official at whose instance Bayne visited Tokyo.",
+   "variants": [
+    "T. V Scong"
+   ]
+  },
+  {
+   "name": "Bayne",
+   "role": "Visitor to Tokyo assigned to discuss the exchange rate and Formosan property liquidation with SCAP officials.",
+   "variants": [
+    "Bayne"
+   ]
+  },
+  {
+   "name": "George Atcheson Jr.",
+   "role": "United States Political Adviser for Japan and sender of the Formosan telegrams.",
+   "variants": [
+    "ATCHESON",
+    "ATCSON"
+   ]
+  },
+  {
+   "name": "Cabot Coville",
+   "role": "First Secretary of Embassy in London, signing for the chargé d’affaires ad interim.",
+   "variants": [
+    "Cabot Covrille",
+    "Cabot Coville"
+   ]
+  },
+  {
+   "name": "Charles B. Smith",
+   "role": "Lieutenant colonel in the War Department to whom the London request was forwarded.",
+   "variants": [
+    "Lt. Galenel Charles B. andth"
+   ]
+  },
+  {
+   "name": "J. D. Beal",
+   "role": "Chief of the Division of Foreign Activity Correlation.",
+   "variants": [
+    "J. D. Beal"
+   ]
+  },
+  {
+   "name": "Asanuma Inejiro",
+   "role": "Member of the Social Democratic Party Standing Central Executive Committee.",
+   "variants": [
+    "ASANUIMA InaJiro"
+   ]
+  },
+  {
+   "name": "Hara Hyonosuke",
+   "role": "Member of the Social Democratic Party Standing Central Executive Committee.",
+   "variants": [
+    "HARA Hyonosuke"
+   ]
+  },
+  {
+   "name": "Kuroda Hisao",
+   "role": "Member of the Social Democratic Party Standing Central Executive Committee.",
+   "variants": [
+    "KURODA Hisao"
+   ]
+  },
+  {
+   "name": "Tahara Haruji",
+   "role": "Member of the Social Democratic Party Standing Central Executive Committee.",
+   "variants": [
+    "TAHARA Haruji"
+   ]
+  },
+  {
+   "name": "Nomizo Masaru",
+   "role": "Member of the Social Democratic Party Standing Central Executive Committee.",
+   "variants": [
+    "NOMIZO Masaru"
+   ]
+  },
+  {
+   "name": "Suzuki Mosaburo",
+   "role": "Member of the Social Democratic Party Standing Central Executive Committee.",
+   "variants": [
+    "SUZUKI Mosaburo"
+   ]
+  },
+  {
+   "name": "Yonekubo Mitsusuke",
+   "role": "Accountant supervisor of the Japan Social Democratic Party.",
+   "variants": [
+    "YONEKUBO Mitsusuke"
+   ]
+  },
+  {
+   "name": "Matsumoto Haruichiro",
+   "role": "Accountant of the Japan Social Democratic Party.",
+   "variants": [
+    "MATSUMOTO Haruichiro"
+   ]
+  },
+  {
+   "name": "Abe Isoo",
+   "role": "Adviser to the Japan Social Democratic Party.",
+   "variants": [
+    "ABE Isoo"
+   ]
+  },
+  {
+   "name": "Kagawa Toyohiko",
+   "role": "Adviser to the Japan Social Democratic Party.",
+   "variants": [
+    "KAGAWA Toyohiko"
+   ]
+  },
+  {
+   "name": "Yagi Hidetsugu",
+   "role": "Adviser to the Japan Social Democratic Party.",
+   "variants": [
+    "YAGI Hidetsugu"
+   ]
+  },
+  {
+   "name": "Tokugawa Yoshichika",
+   "role": "Adviser to the Japan Social Democratic Party.",
+   "variants": [
+    "TOKUGA!!A Yoshichika"
+   ]
+  },
+  {
+   "name": "Baba Tsunego",
+   "role": "Adviser to the Japan Social Democratic Party.",
+   "variants": [
+    "BABA Tsunego"
+   ]
+  },
+  {
+   "name": "Hanashi Shingoro",
+   "role": "Member of the Japan Liberal Party General Affairs Committee.",
+   "variants": [
+    "HANASHI Shingoro"
+   ]
+  },
+  {
+   "name": "Otsuka Motonosuke",
+   "role": "Member of the Japan Liberal Party General Affairs Committee.",
+   "variants": [
+    "OTSUKA Motonosuke"
+   ]
+  },
+  {
+   "name": "Honda Ichiro",
+   "role": "Member of the Japan Liberal Party General Affairs Committee.",
+   "variants": [
+    "HONDA Ichiro"
+   ]
+  },
+  {
+   "name": "Ono Tomomutsu",
+   "role": "Chief manager of the Japan Liberal Party.",
+   "variants": [
+    "ONO Tomomutsu"
+   ]
+  },
+  {
+   "name": "Takeda Shinosuke",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "TAKEDA Shinosuke"
+   ]
+  },
+  {
+   "name": "Takahashi Eikichi",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "TAKAHASHI Eikichi"
+   ]
+  },
+  {
+   "name": "Tonoda Takatsugu",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "TONODA Takatsugu"
+   ]
+  },
+  {
+   "name": "Ozeki Giichi",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "OZEKI Giichi"
+   ]
+  },
+  {
+   "name": "Arita Jiro",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "ARITA Jiro"
+   ]
+  },
+  {
+   "name": "Mitzuda Mikio",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "MITZUDA Mikio"
+   ]
+  },
+  {
+   "name": "Suzuki Senhachi",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "SUZUKI Senhachi"
+   ]
+  },
+  {
+   "name": "Yamaguchi Kikuichiro",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "YAMAGUCHI Kikuichiro"
+   ]
+  },
+  {
+   "name": "Ezaki Masumi",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "EZAKI Masumi"
+   ]
+  },
+  {
+   "name": "Watari Shiro",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "WATARI Shiro"
+   ]
+  },
+  {
+   "name": "Sugita Ichiro",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "SUGITA Ichiro"
+   ]
+  },
+  {
+   "name": "Kimura Kohei",
+   "role": "Manager of the Japan Liberal Party.",
+   "variants": [
+    "KIMURA Kohei"
+   ]
+  },
+  {
+   "name": "Honda Eisaku",
+   "role": "Vice-chairman of the Liberal Party Diet-members’ meeting.",
+   "variants": [
+    "HONDA Eisaku"
+   ]
+  },
+  {
+   "name": "Shoji Ichiro",
+   "role": "Vice-chairman of the Liberal Party Diet-members’ meeting.",
+   "variants": [
+    "SHOJI Ichiro"
+   ]
+  },
+  {
+   "name": "Nakajima Moritoshi",
+   "role": "Chairman of the Liberal Party standing Diet-members’ meeting.",
+   "variants": [
+    "NAKAJIMA Moritoshi"
+   ]
+  },
+  {
+   "name": "Kita Reikichi",
+   "role": "Chief of the Liberal Party Political Affairs Investigation Society.",
+   "variants": [
+    "KITA Reikichi"
+   ]
+  },
+  {
+   "name": "Yamamoto Katsuichi",
+   "role": "Vice-chief of the Liberal Party Political Affairs Investigation Society.",
+   "variants": [
+    "YAMAMOTO Katsuich1"
+   ]
+  },
+  {
+   "name": "Aoki Takayoshi",
+   "role": "Vice-chief of the Liberal Party Political Affairs Investigation Society.",
+   "variants": [
+    "AOKI Takayoshi"
+   ]
+  },
+  {
+   "name": "Tomeji Hidatoshi",
+   "role": "Vice-chief of the Liberal Party Political Affairs Investigation Society.",
+   "variants": [
+    "TOMEJL Hidatoshi"
+   ]
+  },
+  {
+   "name": "Saito Takao",
+   "role": "Adviser to the Japan Progressive Party.",
+   "variants": [
+    "SAITO Takao"
+   ]
+  },
+  {
+   "name": "Hitotsumatsu Sadakichi",
+   "role": "Adviser to the Japan Progressive Party.",
+   "variants": [
+    "HITOTSUMATSU Sadakich1"
+   ]
+  },
+  {
+   "name": "Kawai Yoshinari",
+   "role": "Adviser to the Japan Progressive Party.",
+   "variants": [
+    "KA/AAI Yoshinar1"
+   ]
+  },
+  {
+   "name": "Inoue Tomoharu",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "I'CUE Tomoharu"
+   ]
+  },
+  {
+   "name": "Kitamura Tokutaro",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "KITA'URA Tokutaro"
+   ]
+  },
+  {
+   "name": "Sugamata Kaoru",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "SUGAMATA Kaoru"
+   ]
+  },
+  {
+   "name": "Hara Fujiro",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "HARA Fujiro"
+   ]
+  },
+  {
+   "name": "Yasutoshi Shigeru",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "YASUTOSHI Shigeru"
+   ]
+  },
+  {
+   "name": "Yoshioka Yayoi",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "YOSHIOKA Yayoi"
+   ]
+  },
+  {
+   "name": "Jitsutaro (surname partly illegible)",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "CHA'OTO Jitsutaro"
+   ]
+  },
+  {
+   "name": "Yoshizo (surname partly illegible)",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "TO'EJI Yoshizo"
+   ]
+  },
+  {
+   "name": "Nagao Tatsuo",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "NAGAO Tatsuo"
+   ]
+  },
+  {
+   "name": "Takizawa Hamakichi",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "TAKIZAWA Hamakich1"
+   ]
+  },
+  {
+   "name": "Tsukuda Ryoichi",
+   "role": "Member of the Progressive Party General Affairs Committee.",
+   "variants": [
+    "TSUKUDA Ryoichi"
+   ]
+  },
+  {
+   "name": "Tanaka Manitsu",
+   "role": "Chief manager of the Japan Progressive Party.",
+   "variants": [
+    "TANAKA Manitsu"
+   ]
+  },
+  {
+   "name": "Marushima Isamu",
+   "role": "Chairman of the Progressive Party Political Affairs Investigation Society.",
+   "variants": [
+    "ARUSHIA Isamu"
+   ]
+  },
+  {
+   "name": "Hayashi Ren",
+   "role": "Chairman of the Progressive Party Diet-members’ meeting.",
+   "variants": [
+    "HAYASHI Ren"
+   ]
+  },
+  {
+   "name": "Hoshi Hajime",
+   "role": "Accountant supervisor of the Japan Progressive Party.",
+   "variants": [
+    "HOSHI Hajime"
+   ]
+  },
+  {
+   "name": "Aizawa Kan",
+   "role": "Chairman of the Progressive Party standing Diet-members’ meeting.",
+   "variants": [
+    "AIZAWA Kan"
+   ]
+  },
+  {
+   "name": "Hakamada Satomi",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "HAKAMADA Satomi"
+   ]
+  },
+  {
+   "name": "Miyamoto Kenji",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "IYA\"CTO Kenji"
+   ]
+  },
+  {
+   "name": "Yauiyama Shigeo",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "YAUIYAMA Shigeo"
+   ]
+  },
+  {
+   "name": "Kin Tenkai",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "KIN Tenkai"
+   ]
+  },
+  {
+   "name": "Ito Ritsu",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "ITC Ritsu"
+   ]
+  },
+  {
+   "name": "Ito Kenichi",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "ITO Kenichi"
+   ]
+  },
+  {
+   "name": "Hasegawa Ko",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "HASEGA/A KO"
+   ]
+  },
+  {
+   "name": "Kasuga Shoichi",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "KASUGA Shoichi"
+   ]
+  },
+  {
+   "name": "Suga Shojiro",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "SUGA Shojiro"
+   ]
+  },
+  {
+   "name": "Kono Yojiro",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "KOVO Yojiro"
+   ]
+  },
+  {
+   "name": "Ichizawa Ryuichi",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "ICHIZAVA Ryuichi"
+   ]
+  },
+  {
+   "name": "Matsuzaki Kumaji",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "MAT3UZAKI Kumaji"
+   ]
+  },
+  {
+   "name": "Uchino Takechiyo",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "UCHINO Takechiyo"
+   ]
+  },
+  {
+   "name": "Kurahara Korehito",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "KRAHARA Koreto"
+   ]
+  },
+  {
+   "name": "Okada Bunkichi",
+   "role": "Member of the Japanese Communist Party Central Committee.",
+   "variants": [
+    "OKADA Bunkichi"
+   ]
+  },
+  {
+   "name": "Miki Takeo",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "MIKI Takeo"
+   ]
+  },
+  {
+   "name": "Maramoto Futahe",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "MARAMOTO Futahe"
+   ]
+  },
+  {
+   "name": "Matsumoto Hokutaro",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "MATSUMOTO Hokutaro"
+   ]
+  },
+  {
+   "name": "Morita Yukio",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "ORITA Yukio"
+   ]
+  },
+  {
+   "name": "Yonekura Tatsuya",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "YCNEKURA Tatsuya"
+   ]
+  },
+  {
+   "name": "Hayashi Heima",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "HAYASHI Heima"
+   ]
+  },
+  {
+   "name": "Akita Josuke",
+   "role": "Member of the Co-operative Democratic Party Standing Central Committee.",
+   "variants": [
+    "AKITA Josuke"
+   ]
+  },
+  {
+   "name": "Fukuda Kyoji",
+   "role": "Chief of the Co-operative Democratic Party Political Investigation Society.",
+   "variants": [
+    "FUADA Kyoji"
+   ]
+  },
+  {
+   "name": "Aizawa Takashi",
+   "role": "Vice-chief of the Co-operative Democratic Party Political Investigation Society.",
+   "variants": [
+    "AZWA Takashi"
+   ]
+  },
+  {
+   "name": "Akazawa Masanichi",
+   "role": "Vice-chief of the Co-operative Democratic Party Political Investigation Society.",
+   "variants": [
+    "AKAZAIA Masanichi"
+   ]
+  },
+  {
+   "name": "Shozo (surname illegible)",
+   "role": "Vice-chairman of the Co-operative Democratic Party Diet-members’ meeting.",
+   "variants": [
+    "ast shozo"
+   ]
+  },
+  {
+   "name": "Hayashi Ichiro",
+   "role": "Vice-chairman of the Co-operative Democratic Party Diet-members’ meeting.",
+   "variants": [
+    "HavasI Ichiro"
+   ]
+  },
+  {
+   "name": "Shinakichi (surname illegible)",
+   "role": "Central committee member of the National Party.",
+   "variants": [
+    "HC CTO Shinakichi"
+   ]
+  },
+  {
+   "name": "Ogawa Ippei",
+   "role": "Central committee member of the National Party.",
+   "variants": [
+    "OGA IA Ippei"
+   ]
+  },
+  {
+   "name": "Ito Kyoichi",
+   "role": "Central committee member of the National Party.",
+   "variants": [
+    "IT0 Kyoichi"
+   ]
+  },
+  {
+   "name": "Okada Seiichi",
+   "role": "Central committee member of the National Party.",
+   "variants": [
+    "CKADA Seiichi"
+   ]
+  },
+  {
+   "name": "Hayakawa Takashi",
+   "role": "Central committee member of the National Party.",
+   "variants": [
+    "HAYAKAWA Takashi"
+   ]
+  },
+  {
+   "name": "Kubo Takeo",
+   "role": "Central committee member of the National Party.",
+   "variants": [
+    "KUBO Takeo"
+   ]
+  },
+  {
+   "name": "Otsu Keiichi",
+   "role": "Accountant supervisor of the National Party.",
+   "variants": [
+    "OTSU Keiichi"
+   ]
+  },
+  {
+   "name": "Masui Keitaro",
+   "role": "Accountant supervisor of the National Party.",
+   "variants": [
+    "MASUI Keitaro"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese political parties",
+  "90th Diet",
+  "coalition politics",
+  "minor parties",
+  "constitutional reform",
+  "food crisis",
+  "women’s rights",
+  "Elizabeth Gray Vining",
+  "Tsuji Karoku",
+  "Japanese Communist Party",
+  "Formosan nationality",
+  "Allied occupation"
+ ],
+ "subfiles": [
+  {
+   "title": "Political Parties Semi-Monthly Report, 16–31 July 1946, concluding pages",
+   "doc_type": "report enclosure",
+   "start_page": 338,
+   "end_page": 341,
+   "continues_previous": true,
+   "date": "1946-07-31",
+   "from": "Political Parties Branch, Political Affairs Division, Government Section, SCAP",
+   "to": "Chief, Government Section, SCAP",
+   "about": "Reports party disputes, coalition negotiations, the creation of the Shinsei-kai, and restrictions on Communist speaking in the Diet.",
+   "summary": "The report describes rumors that Prime Minister Yoshida might resign or reorganize his cabinet, while Hatoyama continued to influence the Liberal Party informally. It analyzes a possible Progressive–Social Democratic–Co-operative coalition, concluding that disagreements over leadership, policy, and cabinet posts made it unlikely. It also profiles the newly formed Shinsei-kai and recounts Communist overuse of Diet interpellation time and disappointing Communist-supported local-election results.",
+   "keywords": [
+    "Yoshida cabinet",
+    "Liberal Party",
+    "coalition negotiations",
+    "Shinsei-kai",
+    "Diet interpellations",
+    "local elections"
+   ]
+  },
+  {
+   "title": "Departmental abstract of the Political Party Fortnightly Report, 16–31 July 1946",
+   "doc_type": "abstract sheet",
+   "start_page": 342,
+   "end_page": 342,
+   "continues_previous": false,
+   "date": "1946-09-23",
+   "from": "N. Kallgren",
+   "to": "William Benton",
+   "about": "Summarizes the late-July report on party realignment, constitutional work, Communist Diet restrictions, and political rumors.",
+   "summary": "The abstract notes the formation of the Shinsei-kai by minor groups and independents, giving it the procedural rights of a Diet group with more than twenty-five members. It also records restrictions on Communist speaking, rumors of Yoshida’s resignation and Liberal division, and speculation about the political return of purged leaders and new conservative alliances.",
+   "keywords": [
+    "departmental abstract",
+    "Shinsei-kai",
+    "Communists",
+    "Yoshida",
+    "party realignment"
+   ]
+  },
+  {
+   "title": "Despatch No. 564 forwarding the Political Parties Semi-Monthly Report, 1–15 August 1946",
+   "doc_type": "despatch",
+   "start_page": 343,
+   "end_page": 343,
+   "continues_previous": false,
+   "date": "1946-08-21",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards SCAP’s semi-monthly report on Japanese political parties for the first half of August 1946.",
+   "summary": "The Political Adviser transmits a Government Section report covering party affairs from 1 through 15 August. The despatch states that the report is adequately summarized in its opening paragraphs.",
+   "keywords": [
+    "despatch",
+    "SCAP",
+    "political parties",
+    "August 1946"
+   ]
+  },
+  {
+   "title": "Political Parties Semi-Monthly Report, 1–15 August 1946",
+   "doc_type": "report enclosure",
+   "start_page": 344,
+   "end_page": 348,
+   "continues_previous": false,
+   "date": "1946-08-16",
+   "from": "Political Affairs Division, Government Section, SCAP",
+   "to": "Chief, Government Section, SCAP",
+   "about": "Surveys cabinet politics, failed conservative merger talks, Socialist consolidation, centrist reorganization, Communist setbacks, women’s initiatives, and public opinion.",
+   "summary": "The report describes Yoshida’s planned inauguration as Liberal Party president, the stalemate over a Liberal–Progressive merger, and pressure to replace bureaucratic ministers with party politicians. It gives particular attention to the proposed merger of the Co-operative Democratic Party and Shinsei-kai into a new centrist party capable of holding the Diet balance of power. Other sections discuss Socialist labor support, Communist setbacks, Sano Gaku’s proposed movement for socialism under the emperor system, women’s peace and legal initiatives, and an Asahi poll showing unusually strong Socialist support.",
+   "keywords": [
+    "Yoshida",
+    "centrist coalition",
+    "Co-operative Democratic Party",
+    "Social Democrats",
+    "Communists",
+    "women in the Diet",
+    "Asahi poll"
+   ]
+  },
+  {
+   "title": "Office memorandum concerning the Stoddard–Vining file",
+   "doc_type": "office memorandum and handwritten note",
+   "start_page": 349,
+   "end_page": 350,
+   "continues_previous": false,
+   "date": "",
+   "from": "F. P. Latimer",
+   "to": "Alice Curran",
+   "about": "Internal correspondence concerning the Stoddard file and related material, preserved in badly garbled OCR.",
+   "summary": "The memorandum appears to thank Curran for access to a file and to discuss further handling of material concerning Stoddard. A handwritten continuation is largely illegible but belongs to the same internal exchange.",
+   "keywords": [
+    "Stoddard file",
+    "internal correspondence",
+    "press material"
+   ]
+  },
+  {
+   "title": "Memorandum submitting draft announcement of the crown prince’s tutor",
+   "doc_type": "office memorandum",
+   "start_page": 351,
+   "end_page": 351,
+   "continues_previous": false,
+   "date": "1946-08-22",
+   "from": "G. T. Bowles",
+   "to": "Alice Curran",
+   "about": "Submits for approval a draft concerning the appointment of an American tutor to Japan’s crown prince.",
+   "summary": "Bowles forwards an attached draft for Curran’s approval. He explains that it follows an earlier Department press release in March concerning the search for the crown prince’s tutor.",
+   "keywords": [
+    "crown prince",
+    "tutor",
+    "draft press release",
+    "Elizabeth Gray Vining"
+   ]
+  },
+  {
+   "title": "Draft press release on Elizabeth Gray Vining’s appointment",
+   "doc_type": "draft press release",
+   "start_page": 352,
+   "end_page": 353,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "Press and public",
+   "about": "Announces that the Japanese Imperial Household accepted George Stoddard’s recommendation of Elizabeth Gray Vining as tutor to the crown prince.",
+   "summary": "The draft identifies Vining as a Philadelphia Quaker, teacher, children’s author, and trained librarian. It explains that Emperor Hirohito had asked Stoddard to recommend a suitable American woman and reviews Vining’s education and teaching career. Her duties were to include both private instruction of the crown prince and teaching at the Peers’ School.",
+   "keywords": [
+    "Elizabeth Gray Vining",
+    "George Stoddard",
+    "crown prince",
+    "Imperial Household",
+    "education"
+   ]
+  },
+  {
+   "title": "Letter transmitting copies of the Vining press release",
+   "doc_type": "letter",
+   "start_page": 354,
+   "end_page": 354,
+   "continues_previous": false,
+   "date": "1946-08-27",
+   "from": "Alice Curran",
+   "to": "George Stoddard",
+   "about": "Sends Stoddard copies of the Department’s press release concerning Vining.",
+   "summary": "Curran explains that William Benton is out of town and encloses copies of the press release for Stoddard’s use. The brief letter is sent to Stoddard at the University of Illinois in Urbana.",
+   "keywords": [
+    "press release",
+    "Elizabeth Gray Vining",
+    "George Stoddard",
+    "William Benton"
+   ]
+  },
+  {
+   "title": "Telegram to George Stoddard about the press release",
+   "doc_type": "telegram",
+   "start_page": 355,
+   "end_page": 355,
+   "continues_previous": false,
+   "date": "1946-08-27",
+   "from": "Alice Curran",
+   "to": "George Stoddard",
+   "about": "Advises Stoddard that attempts to reach him failed and that a copy of the press release is being sent by air mail.",
+   "summary": "Curran tells Stoddard that she was unable to reach him. She states that the press release is being air-mailed that day.",
+   "keywords": [
+    "telegram",
+    "George Stoddard",
+    "press release",
+    "air mail"
+   ]
+  },
+  {
+   "title": "Urgent instruction to obtain the press release and call Stoddard",
+   "doc_type": "instruction note",
+   "start_page": 356,
+   "end_page": 356,
+   "continues_previous": false,
+   "date": "",
+   "from": "Alice Curran’s office",
+   "to": "Department staff",
+   "about": "Directs staff to obtain copies of the press release and place a firm telephone call to Stoddard.",
+   "summary": "The terse handwritten or typed instruction marks the matter urgent. It requests copies of the release and a confirmed call to Stoddard, with his number noted elsewhere.",
+   "keywords": [
+    "urgent instruction",
+    "telephone call",
+    "George Stoddard",
+    "press release"
+   ]
+  },
+  {
+   "title": "Routing note for the Stoddard file",
+   "doc_type": "routing note",
+   "start_page": 357,
+   "end_page": 357,
+   "continues_previous": false,
+   "date": "",
+   "from": "Office of the Assistant Secretary of State",
+   "to": "F. P. Latimer",
+   "about": "Routes attached Stoddard material within the Department of State.",
+   "summary": "The fragment identifies a Stoddard file as attached and directs it to Mr. Latimer. A handwritten instruction appears to request its return after review.",
+   "keywords": [
+    "routing note",
+    "Stoddard",
+    "Department of State"
+   ]
+  },
+  {
+   "title": "Department of State Press Release No. 599: Selection of Elizabeth Gray Vining",
+   "doc_type": "press release",
+   "start_page": 358,
+   "end_page": 358,
+   "continues_previous": false,
+   "date": "1946-08-26",
+   "from": "Department of State",
+   "to": "Press and public",
+   "about": "Officially announces Elizabeth Gray Vining’s selection as tutor to Japan’s crown prince.",
+   "summary": "At Stoddard’s request, Assistant Secretary William Benton discloses Vining’s selection and explains how the emperor asked the American Education Mission to find a tutor. The release summarizes Vining’s teaching, writing, and library-science background and states that she will also teach at the Peers’ School.",
+   "keywords": [
+    "Press Release No. 599",
+    "Elizabeth Gray Vining",
+    "crown prince",
+    "William Benton",
+    "American Education Mission"
+   ]
+  },
+  {
+   "title": "DC/R routing slip for the Vining material",
+   "doc_type": "routing slip",
+   "start_page": 359,
+   "end_page": 359,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Communications and Records",
+   "to": "Department offices listed for action or copies",
+   "about": "Records the internal distribution and routing of the Vining appointment papers.",
+   "summary": "The slip assigns action and copy destinations within the Department. It contains no substantive discussion of the appointment.",
+   "keywords": [
+    "routing slip",
+    "records management",
+    "internal distribution"
+   ]
+  },
+  {
+   "title": "Despatch No. 567 forwarding a study of minor parties in the 90th Diet",
+   "doc_type": "despatch",
+   "start_page": 360,
+   "end_page": 361,
+   "continues_previous": false,
+   "date": "1946-08-22",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards a SCAP study of the minor political parties represented in Japan’s 90th Diet.",
+   "summary": "The despatch outlines the study’s treatment of election results, post-election alignments, party objectives, representatives’ biographies, and their views on the constitution and food crisis. It notes broad support for the government constitution draft, repeated demands for fertilizer, and the report’s description of most minor-party representatives as conservative. It emphasizes the quantity of biographical intelligence in the enclosure.",
+   "keywords": [
+    "90th Diet",
+    "minor parties",
+    "constitutional views",
+    "food problem",
+    "biographical intelligence"
+   ]
+  },
+  {
+   "title": "Minor Parties Represented in the 90th Diet, with annex on twenty-three parties",
+   "doc_type": "political study and annex",
+   "start_page": 362,
+   "end_page": 396,
+   "continues_previous": false,
+   "date": "1946-08-06",
+   "from": "Political Parties Branch, Public Administration Division, Government Section, SCAP",
+   "to": "Government Section, SCAP",
+   "about": "Analyzes minor-party election results and alignments and supplies profiles of twenty-three parties and their Diet representatives.",
+   "summary": "The study explains that only twenty-five minor parties elected members in April 1946 and that most of their representatives were soon absorbed into major parties or the Independent Club and Shinsei-kai. It characterizes their organizations as small, weakly disciplined, conservative, opportunistic, or tied to particular interests, while noting some sincere reformers. The annex gives each party’s leadership, membership, objectives, election results, affiliations, and representatives’ views on the constitution, food, women’s rights, labor, local government, land reform, bureaucracy, and reconstruction. Recurring proposals include increased fertilizer production, higher rice prices, improved distribution, food imports through SCAP, preservation of the emperor system, and expansion of women’s legal and economic rights.",
+   "keywords": [
+    "minor parties",
+    "90th Diet",
+    "April 1946 election",
+    "Shinsei-kai",
+    "Independent Club",
+    "food shortage",
+    "constitution",
+    "women’s rights",
+    "land reform"
+   ]
+  },
+  {
+   "title": "DC/R routing slip for Despatch No. 567",
+   "doc_type": "routing slip",
+   "start_page": 397,
+   "end_page": 397,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Communications and Records",
+   "to": "Department offices listed for action or copies",
+   "about": "Records the internal distribution of the despatch and study on minor parties.",
+   "summary": "The routing slip identifies Tokyo Despatch No. 567 and lists offices receiving action or information copies. It contains no additional substantive analysis.",
+   "keywords": [
+    "routing slip",
+    "Despatch No. 567",
+    "minor parties"
+   ]
+  },
+  {
+   "title": "Despatch No. 568 transmitting a pen portrait of Tsuji Karoku",
+   "doc_type": "despatch",
+   "start_page": 398,
+   "end_page": 398,
+   "continues_previous": false,
+   "date": "1946-08-22",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Transmits Harry Emerson Wildes’s biographical and political profile of Tsuji Karoku.",
+   "summary": "The Political Adviser forwards a pen portrait prepared by Wildes, Assistant Chief of SCAP’s Political Affairs Division. The enclosure is identified as a memorandum on Tsuji Karoku.",
+   "keywords": [
+    "Tsuji Karoku",
+    "Harry Emerson Wildes",
+    "political biography",
+    "despatch"
+   ]
+  },
+  {
+   "title": "Memorandum for the Record: Tsuji Karoku",
+   "doc_type": "biographical memorandum",
+   "start_page": 399,
+   "end_page": 402,
+   "continues_previous": false,
+   "date": "1946-08-16",
+   "from": "Harry Emerson Wildes, Political Affairs Division, SCAP",
+   "to": "The record",
+   "about": "Profiles Tsuji Karoku’s career as a political financier, contractor, adventurer, and informal broker of influence.",
+   "summary": "Wildes depicts Tsuji as a small, enigmatic figure who financed candidates from 1920 onward while claiming that gratitude was his only desired return. The profile traces his early activities in China and Formosa, his return to Tokyo, his party connections, and allegations that he used visiting cards and personal access to advance business or political interests. Tsuji denied seeking contracts or wielding political power, but the memorandum presents him as an enduring behind-the-scenes operator linked to controversial transactions and politicians.",
+   "keywords": [
+    "Tsuji Karoku",
+    "political finance",
+    "patronage",
+    "contracting",
+    "China",
+    "Formosa"
+   ]
+  },
+  {
+   "title": "Departmental abstract of the Tsuji Karoku pen portrait",
+   "doc_type": "abstract sheet",
+   "start_page": 403,
+   "end_page": 403,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State staff",
+   "to": "Department files",
+   "about": "Summarizes Wildes’s report on Tsuji Karoku’s political history and current influence.",
+   "summary": "The abstract describes the enclosure as a Government Section account of Tsuji’s history and present activities. It notes allegations that Tsuji influenced politicians while they held office.",
+   "keywords": [
+    "Tsuji Karoku",
+    "abstract",
+    "political influence",
+    "Government Section"
+   ]
+  },
+  {
+   "title": "Duplicate departmental abstract of the Tsuji Karoku pen portrait",
+   "doc_type": "duplicate abstract sheet",
+   "start_page": 404,
+   "end_page": 404,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State staff",
+   "to": "Department files",
+   "about": "Duplicate abstract describing Wildes’s report on Tsuji Karoku.",
+   "summary": "This page substantially duplicates the preceding abstract. It again characterizes the Wildes report as an account of Tsuji’s history, current political position, and influence over officeholders.",
+   "keywords": [
+    "Tsuji Karoku",
+    "duplicate abstract",
+    "political influence"
+   ]
+  },
+  {
+   "title": "Moscow Embassy comments on SCAP’s study of the Japanese Communist Party",
+   "doc_type": "embassy despatch",
+   "start_page": 405,
+   "end_page": 406,
+   "continues_previous": false,
+   "date": "1946-09-12",
+   "from": "American Embassy, Moscow",
+   "to": "Secretary of State, with copy to Tokyo",
+   "about": "Comments on SCAP’s July 1946 paper concerning Japanese Communist strategy and its possible dependence on Moscow.",
+   "summary": "The Embassy contrasts the initially militant line of Tokuda and Shiga, imprisoned since the 1920s, with the gradualist tactics brought back by Nozaka after years in Moscow and Yan’an. It argues that the party is clearly seeking power but that the degree of subservience to Moscow is harder to prove, suggesting investigation of Nozaka’s Yan’an associates, Soviet-returned Japanese, and the party’s alignment with Soviet foreign-policy positions. The despatch recommends fostering a strong economy and liberal movement while permitting Japanese democrats to publish accurate information about conditions in the Soviet Union.",
+   "keywords": [
+    "Japanese Communist Party",
+    "Moscow",
+    "Nozaka Sanzo",
+    "Tokuda Kyuichi",
+    "Shiga Yoshio",
+    "Soviet influence",
+    "gradualism"
+   ]
+  },
+  {
+   "title": "Telegram No. 402 on the treatment and nationality of Formosans in Japan",
+   "doc_type": "incoming telegram",
+   "start_page": 407,
+   "end_page": 410,
+   "continues_previous": false,
+   "date": "1946-09-13",
+   "from": "George Atcheson Jr., Tokyo",
+   "to": "Secretary of State",
+   "about": "Requests policy review concerning Formosan nationality, policing, repatriation, and Chinese diplomatic protection in occupied Japan.",
+   "summary": "Atcheson reports that roughly 100,000 Formosans in Japan were viewed by occupation authorities as an unruly element heavily involved in black-market activity and violent clashes with Japanese police. He explains that Chinese claims of nationality and diplomatic protection had created uncertainty over arrest, trial, repatriation, welfare responsibility, and jurisdiction because no Chinese occupation courts existed. After discussions with Ambassador Chu Shih-Ming, Atcheson concluded that China lacked definite repatriation and support plans. He asks SCAP and the Department to reconsider whether all Formosans should be treated as United Nations nationals exempt from ordinary Japanese police authority.",
+   "keywords": [
+    "Formosans",
+    "Chinese nationality",
+    "black market",
+    "Japanese police",
+    "repatriation",
+    "Chinese Mission",
+    "occupation jurisdiction"
+   ]
+  },
+  {
+   "title": "Telegram No. 424 requesting an urgent reply on the Formosan problem",
+   "doc_type": "incoming telegram",
+   "start_page": 411,
+   "end_page": 411,
+   "continues_previous": false,
+   "date": "1946-09-26",
+   "from": "George Atcheson Jr., Tokyo",
+   "to": "Secretary of State",
+   "about": "Urgently requests the Department’s response to the earlier telegram on Formosans in Japan.",
+   "summary": "Atcheson states that the Formosan problem is becoming more aggravated each day. He asks for the Department’s comments on Telegram No. 402 as soon as possible and references related communications with Nanjing.",
+   "keywords": [
+    "Formosans",
+    "urgent reply",
+    "Tokyo",
+    "Nanjing",
+    "occupation policy"
+   ]
+  },
+  {
+   "title": "Despatch No. 2021 requesting monthly summaries of nonmilitary activities in Tokyo",
+   "doc_type": "embassy despatch",
+   "start_page": 412,
+   "end_page": 412,
+   "continues_previous": false,
+   "date": "1946-10-11",
+   "from": "Cabot Coville for the Chargé d’Affaires ad interim, American Embassy, London",
+   "to": "Secretary of State",
+   "about": "Requests regular copies of the military authorities’ monthly summary of nonmilitary activities in Tokyo.",
+   "summary": "The London Embassy understands that American military authorities prepare a monthly summation of nonmilitary activities in Tokyo. It asks that copies be supplied to the Embassy each month if possible.",
+   "keywords": [
+    "monthly summary",
+    "nonmilitary activities",
+    "Tokyo",
+    "London Embassy"
+   ]
+  },
+  {
+   "title": "Memorandum forwarding London’s request for Tokyo activity summaries",
+   "doc_type": "interdepartmental memorandum",
+   "start_page": 413,
+   "end_page": 413,
+   "continues_previous": false,
+   "date": "",
+   "from": "J. D. Beal, Chief, Division of Foreign Activity Correlation",
+   "to": "Lieutenant Colonel Charles B. Smith, War Department",
+   "about": "Asks the War Department to provide copies of the military’s Tokyo nonmilitary-activity summaries for transmission to London.",
+   "summary": "Beal forwards a copy of London Despatch No. 2021 and repeats the Embassy’s understanding that U.S. military authorities issue a monthly nonmilitary summary. He asks that the material be supplied for onward transmission to the Embassy.",
+   "keywords": [
+    "War Department",
+    "London Embassy",
+    "monthly summary",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Despatch No. 650 transmitting a list of principal political-party officers",
+   "doc_type": "despatch",
+   "start_page": 414,
+   "end_page": 414,
+   "continues_previous": false,
+   "date": "1946-10-14",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards a list of the principal officers of Japan’s six major political parties.",
+   "summary": "The Political Adviser encloses a roster of senior officers in the six major Japanese parties. He states that a more detailed report on political parties will follow in the near future.",
+   "keywords": [
+    "party officers",
+    "six major parties",
+    "Japanese politics",
+    "despatch"
+   ]
+  },
+  {
+   "title": "Principal officers of the six major political parties in Japan",
+   "doc_type": "party-officer roster",
+   "start_page": 415,
+   "end_page": 417,
+   "continues_previous": false,
+   "date": "1946-10-14",
+   "from": "United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Lists the leadership and principal committees of Japan’s Social Democratic, Liberal, Progressive, Communist, Co-operative Democratic, and National parties.",
+   "summary": "The roster identifies party presidents or chief secretaries, executive and general-affairs committees, managers, political-research officials, accountants, advisers, and Diet caucus officers. It records Yoshida Shigeru as Liberal president, Shidehara Kijuro as Progressive president, the Japanese Communist Central Committee headed by figures including Tokuda, Shiga, and Nozaka, and Yamamoto Sanehiko and Ikawa Tadao as leading Co-operative Democratic officials. The National Party list continues through the end of this section.",
+   "keywords": [
+    "party leadership",
+    "Social Democratic Party",
+    "Liberal Party",
+    "Progressive Party",
+    "Communist Party",
+    "Co-operative Democratic Party",
+    "National Party"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 7,
+  "sections": 8,
+  "pages": [
+   338,
+   417
+  ],
+  "pdf": "894.00 Japan, Political Affairs., January 6, 1945 - November 25, 1946 1546-part-2.pdf",
+  "seconds": 480.1,
+  "created": "2026-10-01 02:08:20",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-27-part-2"
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "interest": "A Japanese 'noiseless machine gun' and an airfield in Siam.",
+ "keywords": [
+  "Japan",
+  "small arms",
+  "machine gun",
+  "Yoshitaro Shimizu",
+  "Warrington Dawson",
+  "Paris Embassy",
+  "La Tribune des Nations",
+  "Tokyo Military Laboratory",
+  "Division of Far Eastern Affairs",
+  "Joseph W. Ballantine",
+  "Siam",
+  "airfield construction"
+ ],
+ "overview": "This State Department file contains documents from January 1935 and April 1939 relating to Japanese military equipment, weaponry, and strategic installations, primarily filed under decimal classifications 894.243 (small arms and ammunition) and 894.24592 (military aviation and airfields). The primary component consists of a January 1935 confidential report and transmittal from Special Assistant Warrington Dawson at the U.S. Embassy in Paris forwarding a clipping from the French periodical La Tribune des Nations regarding an alleged noiseless, powderless electric machine gun invented by Yoshitaro Shimizu at the Tokyo Military Laboratory. The file also preserves an April 1939 internal memorandum from Joseph W. Ballantine of the Division of Far Eastern Affairs concerning reports from Singapore of Japanese airfield construction and material deliveries in southern Siam (Thailand).",
+ "people": [
+  {
+   "name": "Warrington Dawson",
+   "role": "Special Assistant, Embassy of the United States of America, Paris",
+   "variants": [
+    "Warrington Dawson",
+    "Mr. Warrington Dawson",
+    "WD"
+   ]
+  },
+  {
+   "name": "Yoshitaro Shimizu",
+   "role": "Director of Physico-Chemical Researches at the Military Laboratory in Tokyo",
+   "variants": [
+    "Yoshitaro Shimizu",
+    "Mr. Yoshitaro Shimizu",
+    "M. Yoshitaro Shimizu"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Officer, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "Ballantine"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japon"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam",
+    "south Siam"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal note forwarding Confidential Report No. W.D. 1490 from the Paris Embassy to the Department of State.",
+   "date": "1935-01-07",
+   "doc_type": "transmittal note",
+   "end_page": 1,
+   "from": "American Chargé d'Affaires ad interim, Paris",
+   "keywords": [
+    "Paris Embassy",
+    "transmittal",
+    "Warrington Dawson",
+    "Confidential Report",
+    "State Department"
+   ],
+   "start_page": 1,
+   "summary": "Paris Embassy forwards Dawson's report W.D. 1490, January 1935.",
+   "title": "Transmittal of Confidential Report W.D. 1490 from Paris Embassy",
+   "to": "Secretary of State, Washington, D.C."
+  },
+  {
+   "about": "Confidential report reporting on a French press account of an alleged noiseless ultra-rapid Japanese machine gun.",
+   "date": "1935-01-07",
+   "doc_type": "report",
+   "end_page": 3,
+   "from": "Warrington Dawson, Special Assistant",
+   "keywords": [
+    "Warrington Dawson",
+    "Yoshitaro Shimizu",
+    "noiseless machine gun",
+    "Tokyo Military Laboratory",
+    "La Tribune des Nations",
+    "military technology"
+   ],
+   "start_page": 2,
+   "summary": "Dawson reports a French claim that Yoshitaro Shimizu invented a noiseless gun firing 60,000 shots a minute.",
+   "title": "Confidential Report W.D. 1490: A French Report Concerning a New Japanese Arm",
+   "to": "Secretary of State, Washington, D.C."
+  },
+  {
+   "about": "French newspaper clipping reporting on an electrically driven, noiseless machine gun invented by a Japanese military researcher.",
+   "date": "1934-12-20",
+   "doc_type": "clipping",
+   "end_page": 4,
+   "from": "La Tribune des Nations",
+   "keywords": [
+    "La Tribune des Nations",
+    "Yoshitaro Shimizu",
+    "mitrailleuse",
+    "Tokio",
+    "machine gun",
+    "laboratoire militaire"
+   ],
+   "start_page": 4,
+   "summary": "La Tribune des Nations article on a Japanese electric machine gun.",
+   "title": "Press Clipping: 'La machine qui tuera la guerre' from La Tribune des Nations",
+   "to": ""
+  },
+  {
+   "about": "Internal Department of State memorandum concerning reports of a Japanese airfield in southern Siam.",
+   "date": "1939-04-24",
+   "doc_type": "memorandum",
+   "end_page": 5,
+   "from": "Joseph W. Ballantine, Division of Far Eastern Affairs",
+   "keywords": [
+    "Far Eastern Affairs",
+    "Joseph W. Ballantine",
+    "Singapore",
+    "Siam",
+    "Bangkok",
+    "airfield construction"
+   ],
+   "start_page": 5,
+   "summary": "Ballantine notes no action is needed on reports of a Japanese airfield in southern Siam.",
+   "title": "Division of Far Eastern Affairs Memorandum on Reported Japanese Airfield in South Siam",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14332,
+   "output_tokens": 6060,
+   "thinking_tokens": 4368,
+   "cache_read_tokens": 0,
+   "total_tokens": 20392
+  },
+  "backend": "agy",
+  "seconds": 19.4,
+  "identifier": "japan-internal-affairs-894.243-equipment-and-supplies-1",
+  "file": "894.243 Equipment And Supplies., Japan, Small Arms And Ammunition. Exchange Of Small Arms And Ammunition, 800.243., January 7, 1935 - April 24, 1939 1096.pdf",
+  "created": "2026-09-29 03:47:26"
+ }
+}

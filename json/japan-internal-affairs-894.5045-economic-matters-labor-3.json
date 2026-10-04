@@ -1,0 +1,114 @@
+{
+ "interest": "This document offers a striking illustration of early Cold War information warfare and the international political sensitivity surrounding labor relations in occupied Japan. It demonstrates how Soviet propaganda, through the state newspaper Izvestiya, seized upon reports from the left-wing Allied Labor News to frame General Douglas MacArthur's administration as reactionary, anti-labor, and secretly colluding with Japanese authorities to suppress unions and groom Japan as a future military ally. The sensational invocation of 'kamikaze strike breakers' also highlights contemporary anxieties over the survival and re-emergence of wartime militarist elements under the American occupation.",
+ "keywords": [
+  "labor strikes",
+  "kamikaze strike breakers",
+  "Izvestiya",
+  "Allied Labor News",
+  "General Douglas MacArthur",
+  "occupation of Japan",
+  "SCAP",
+  "trade unions",
+  "Soviet propaganda",
+  "Cold War diplomacy",
+  "wages and collective bargaining"
+ ],
+ "overview": "This file consists of an incoming restricted airgram (A-566) dated September 4, 1946, sent from the U.S. Embassy in Moscow by Elbridge Durbrow to the Secretary of State in Washington, with a copy to SCAP Political Adviser in Tokyo. The dispatch reports on an article published in the Soviet government newspaper Izvestiya on August 25, 1946, which drew upon an Allied Labor News report concerning alleged 'kamikaze strike breakers' in Tokyo. According to the report, these strike breakers dispersed picketing Japanese workers fighting for union recognition and higher wages with the clandestine backing of the Japanese Government and General MacArthur's headquarters. Izvestiya seized on this incident to launch a sharp ideological critique of American occupation policy, arguing that Japanese reactionaries were being revitalized, anti-labor laws maintained, and Japan trained into a potential anti-Soviet ally rather than fostered into a genuine democracy.",
+ "people": [
+  {
+   "name": "Elbridge Durbrow",
+   "role": "U.S. Chargé d'Affaires ad interim in Moscow",
+   "variants": [
+    "DURHROW"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army; Supreme Commander for the Allied Powers (SCAP)",
+   "variants": [
+    "General MacArthur",
+    "MacArthur"
+   ]
+  },
+  {
+   "name": "Charles",
+   "role": "Embassy drafter",
+   "variants": [
+    "Charles"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Moscow",
+   "variants": [
+    "MOSCOW"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American",
+    "United States"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Airgram reporting on a Soviet Izvestiya article regarding alleged 'kamikaze strike breakers' attacking picketing workers in Japan with alleged SCAP and Japanese government support.",
+   "date": "1946-09-04",
+   "doc_type": "airgram",
+   "end_page": 1,
+   "from": "Elbridge Durbrow (Moscow)",
+   "keywords": [
+    "Izvestiya",
+    "Allied Labor News",
+    "kamikaze strike breakers",
+    "labor strikes",
+    "trade unions",
+    "General Douglas MacArthur",
+    "SCAP",
+    "American occupation policy",
+    "Soviet propaganda"
+   ],
+   "start_page": 1,
+   "summary": "Airgram A-566 from the U.S. Embassy in Moscow reports on an August 25 article in the Soviet state newspaper Izvestiya citing an Allied Labor News dispatch from Tokyo. The report claimed that 'kamikaze strike breakers,' backed covertly by the Japanese Government and General MacArthur's headquarters, attacked picketing workers striking for wage increases and organizing rights. Izvestiya used the report to denounce American occupation policy, alleging that reactionary forces were reviving imperial symbols and that the United States was grooming Japan as a potential future military ally rather than permitting free democratic trade unions.",
+   "title": "Airgram A-566 from Moscow (Durbrow) on Soviet Press Coverage of Japanese Kamikaze Strike Breakers",
+   "to": "Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13985,
+   "output_tokens": 3481,
+   "thinking_tokens": 2565,
+   "cache_read_tokens": 0,
+   "total_tokens": 17466
+  },
+  "backend": "agy",
+  "seconds": 16.9,
+  "identifier": "japan-internal-affairs-894.5045-economic-matters-labor-3",
+  "file": "894.5045 Economic Matters., Labor., Japan, Strikes And Lockouts., September 4, 1946 1532.pdf",
+  "created": "2026-09-29 08:56:15"
+ }
+}

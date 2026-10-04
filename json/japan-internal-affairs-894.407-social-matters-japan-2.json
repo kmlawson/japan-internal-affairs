@@ -1,0 +1,92 @@
+{
+ "interest": "Lehrbas jokes that MacArthur's birthday should be a holiday.",
+ "keywords": [
+  "Douglas MacArthur",
+  "Lloyd Lehrbas",
+  "national holiday",
+  "Japan",
+  "Tokyo",
+  "birthday greeting",
+  "Supreme Commander for the Allied Powers",
+  "SCAP",
+  "State Department telegram",
+  "Allied Occupation of Japan"
+ ],
+ "overview": "Lehrbas's 1949 telegram to MacArthur: 'Today should be national Japanese holiday'.",
+ "people": [
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Allied Commander",
+   "variants": [
+    "General Douglas MacArthur",
+    "Douglas MacArthur"
+   ]
+  },
+  {
+   "name": "Lloyd Allen Lehrbas",
+   "role": "Department of State official (former aide to MacArthur)",
+   "variants": [
+    "Lloyd A. Lehrbas",
+    "Larry",
+    "Lloyd Lehrbas"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A personal birthday telegram from Lloyd Lehrbas to General Douglas MacArthur in Tokyo playfully proposing a Japanese national holiday.",
+   "date": "1949-01-25",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Lloyd A. Lehrbas ('Larry')",
+   "keywords": [
+    "Douglas MacArthur",
+    "Lloyd Lehrbas",
+    "national holiday",
+    "Tokyo",
+    "birthday",
+    "SCAP"
+   ],
+   "start_page": 1,
+   "summary": "Lehrbas tells MacArthur his birthday should be a Japanese national holiday.",
+   "title": "Telegram from Lloyd A. Lehrbas to General Douglas MacArthur",
+   "to": "General Douglas MacArthur"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13784,
+   "output_tokens": 3551,
+   "thinking_tokens": 2814,
+   "cache_read_tokens": 0,
+   "total_tokens": 17335
+  },
+  "backend": "agy",
+  "seconds": 15.0,
+  "identifier": "japan-internal-affairs-894.407-social-matters-japan-2",
+  "file": "894.407 Social Matters., Japan, Holidays., January 25, 1949 1686.pdf",
+  "created": "2026-09-29 06:51:20"
+ }
+}

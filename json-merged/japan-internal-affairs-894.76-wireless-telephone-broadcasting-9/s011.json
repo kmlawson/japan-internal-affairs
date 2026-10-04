@@ -1,0 +1,1979 @@
+{
+ "section_summary": "This section continues a SCAP register of Japanese radio stations, arranged by prefecture, giving registration numbers, frequencies, call signs, power and emission classes, service types, operating limitations, locations and coordinates. Pages 800–879 cover stations from Kanagawa south and west through Chūbu, Kansai, Chūgoku, Shikoku and Kyūshū, then resume in northern Honshū from Aomori through Miyagi. The listed services include public broadcasting, domestic and police communications, fisheries and maritime safety, aeronautical, meteorological, railway, direction-finding, mine-sweeping and research stations.",
+ "places": [
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "KANAGAWA-KEN",
+    "KANAGAWA"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOKOHAMA",
+    "Yokohama-shi"
+   ]
+  },
+  {
+   "name": "Futago",
+   "variants": [
+    "FUTAGO",
+    "Futago",
+    "Aza Futago"
+   ]
+  },
+  {
+   "name": "Ashinoyu",
+   "variants": [
+    "Ashinoyu-mura"
+   ]
+  },
+  {
+   "name": "Nagatsuda",
+   "variants": [
+    "NAGATSUDA",
+    "Nagatsuda-machi"
+   ]
+  },
+  {
+   "name": "Hatsuse",
+   "variants": [
+    "HATSUSE",
+    "Hatsuse-mura"
+   ]
+  },
+  {
+   "name": "Fujisawa",
+   "variants": [
+    "FUJISAWA",
+    "Fujisawa-shi"
+   ]
+  },
+  {
+   "name": "Kugenuma",
+   "variants": [
+    "Kugenuma"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "ISHIKAWA-KEN",
+    "ISHIKAWA"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "KANAZAWA",
+    "KANAZAWA (NONOICHI)",
+    "KANAZAWA (Studio)",
+    "KANAZAWA (Revg. Stn.)",
+    "Kanazawa-shi"
+   ]
+  },
+  {
+   "name": "Nonoichi",
+   "variants": [
+    "NONOICHI",
+    "Nonoichi-machi"
+   ]
+  },
+  {
+   "name": "Miyaho",
+   "variants": [
+    "Miyaho-mura"
+   ]
+  },
+  {
+   "name": "Wajima",
+   "variants": [
+    "WAJIMA",
+    "Wajima·machi",
+    "Wajima-machi"
+   ]
+  },
+  {
+   "name": "Hegurajima",
+   "variants": [
+    "HEKURAJIMA",
+    "Hekurajima"
+   ]
+  },
+  {
+   "name": "Noto",
+   "variants": [
+    "NOTO"
+   ]
+  },
+  {
+   "name": "Ōya",
+   "variants": [
+    "Oya-mura"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "TOYAMA-KEN"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "TOYAMA",
+    "Toyama-shi"
+   ]
+  },
+  {
+   "name": "Tateyama",
+   "variants": [
+    "TATEYAMA",
+    "Tateyama-mura"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "GIFU-KEN"
+   ]
+  },
+  {
+   "name": "Takayama",
+   "variants": [
+    "TAKAYAMA",
+    "Takayama-shi"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "GIFU",
+    "Gifu-shi"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "AICHI-KEN",
+    "AICHI"
+   ]
+  },
+  {
+   "name": "Toyohama",
+   "variants": [
+    "TOYOHAMA",
+    "Oaza Toyohama",
+    "Toyohama-machi"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "NAGOYA",
+    "NAGOYA (OKEHAZAMA)",
+    "NAGOYA (Studio)",
+    "Nagoya-shi"
+   ]
+  },
+  {
+   "name": "Ōbu",
+   "variants": [
+    "Obu-machi"
+   ]
+  },
+  {
+   "name": "Okehazama",
+   "variants": [
+    "Okehazama"
+   ]
+  },
+  {
+   "name": "Arimatsu",
+   "variants": [
+    "Arimatsu-machi"
+   ]
+  },
+  {
+   "name": "Ōtaka",
+   "variants": [
+    "Otaka-machi"
+   ]
+  },
+  {
+   "name": "Ōyama, Aichi",
+   "variants": [
+    "ÖYAMA",
+    "ÓYAMA"
+   ]
+  },
+  {
+   "name": "Akabane",
+   "variants": [
+    "Akabane-mura"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "SHIZUOKA-KEN"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "SHIZUOKA",
+    "Shizuoka-shi"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "HAMAMAPSU",
+    "HAMAMATSU",
+    "Hamamatsu-shì"
+   ]
+  },
+  {
+   "name": "Yaizu",
+   "variants": [
+    "YAIZU",
+    "Yaizu-machi"
+   ]
+  },
+  {
+   "name": "Ōtomi",
+   "variants": [
+    "Ótomi-mura"
+   ]
+  },
+  {
+   "name": "Omaezaki",
+   "variants": [
+    "OMAEZAKI",
+    "Omaezaki-mura",
+    "Omaezaki--mura"
+   ]
+  },
+  {
+   "name": "Shimizu, Shizuoka",
+   "variants": [
+    "SHIMIZU",
+    "Shimizu-shi"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo"
+   ]
+  },
+  {
+   "name": "Irozaki",
+   "variants": [
+    "IROZAKI",
+    "IRÓZAKI"
+   ]
+  },
+  {
+   "name": "Minamizaki",
+   "variants": [
+    "Minamizaki-mura"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul",
+    "Keijā",
+    "Keijō"
+   ]
+  },
+  {
+   "name": "Mikomotojima",
+   "variants": [
+    "MIKOMOTOJIMA"
+   ]
+  },
+  {
+   "name": "Shimoda",
+   "variants": [
+    "Shimoda-machi"
+   ]
+  },
+  {
+   "name": "Mount Fuji",
+   "variants": [
+    "FUJISAN",
+    "FUJI",
+    "Mt. Fuji"
+   ]
+  },
+  {
+   "name": "Ōmiya",
+   "variants": [
+    "Ómiya"
+   ]
+  },
+  {
+   "name": "Fujinomiya",
+   "variants": [
+    "Fujimiya-shi"
+   ]
+  },
+  {
+   "name": "Mishima, Shizuoka",
+   "variants": [
+    "MISHIMA",
+    "Mishima-shi"
+   ]
+  },
+  {
+   "name": "Shiraha",
+   "variants": [
+    "SHIRAHA",
+    "Shiraha-mura"
+   ]
+  },
+  {
+   "name": "Itō",
+   "variants": [
+    "rTā",
+    "ITO",
+    "Itō-machi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "MIE-KEN",
+    "MIE"
+   ]
+  },
+  {
+   "name": "Ueno",
+   "variants": [
+    "UENO",
+    "Ueno-shi"
+   ]
+  },
+  {
+   "name": "Owase",
+   "variants": [
+    "OWASE",
+    "Owase-machi"
+   ]
+  },
+  {
+   "name": "Kamishima",
+   "variants": [
+    "KAMISHIMA",
+    "Kamishima-mura"
+   ]
+  },
+  {
+   "name": "Toba",
+   "variants": [
+    "TOBA",
+    "Toba-machi"
+   ]
+  },
+  {
+   "name": "Yamada, Mie",
+   "variants": [
+    "YAMADA"
+   ]
+  },
+  {
+   "name": "Ujiyamada",
+   "variants": [
+    "Ujiyamada-shi"
+   ]
+  },
+  {
+   "name": "Tōshi",
+   "variants": [
+    "TÖSHI",
+    "Tōshi-mura"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "TSU",
+    "Óaza Tsu",
+    "Tsu-shi"
+   ]
+  },
+  {
+   "name": "Hamajima",
+   "variants": [
+    "HAMAJIMA",
+    "Hamajima-machi"
+   ]
+  },
+  {
+   "name": "Nagonoura",
+   "variants": [
+    "NAGOYA (NAGONOURA)"
+   ]
+  },
+  {
+   "name": "Suzuka",
+   "variants": [
+    "Suzuka-shi"
+   ]
+  },
+  {
+   "name": "Aoyama",
+   "variants": [
+    "AOYAMA"
+   ]
+  },
+  {
+   "name": "Kōzu",
+   "variants": [
+    "Kōzu-mura"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "FUKUI-KEN",
+    "FUKUI"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "FUKUI",
+    "Fukui-shi"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "TSURUGA",
+    "Tsuruga-shi"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "SHIGA-KEN",
+    "SHIGA"
+   ]
+  },
+  {
+   "name": "Hikone",
+   "variants": [
+    "HIKONE",
+    "Hikone-shi"
+   ]
+  },
+  {
+   "name": "Ōtsu",
+   "variants": [
+    "OTSU",
+    "Ótsu-shi",
+    "Ötsu-shi"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "KYOTO-FU"
+   ]
+  },
+  {
+   "name": "Fukuchiyama",
+   "variants": [
+    "FUKUCHIYAMA",
+    "Fukuchiyama-shi"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "KYÓTO",
+    "KYOTO",
+    "KYÖTO",
+    "Kyōto-shi"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "MAIZURU",
+    "MAIZURU (UESUGI)",
+    "Maizuru-shi"
+   ]
+  },
+  {
+   "name": "Uesugi",
+   "variants": [
+    "MAIZURU (UESUGI)"
+   ]
+  },
+  {
+   "name": "Higashihatsuta",
+   "variants": [
+    "Higashihatsuta-mura",
+    "Higashihatșuta-mura"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tōkyō",
+    "Tōkyā"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "HYOGO-KEN",
+    "HYÖGO-KEN",
+    "HYÖGO",
+    "HYOGO"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "ÖSAKA",
+    "OSAKA",
+    "ÓSAKA",
+    "Ösaka-shi",
+    "Ósaka-shi"
+   ]
+  },
+  {
+   "name": "Kawanishi",
+   "variants": [
+    "Kawanishi-machi"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "HIMEJI",
+    "Himeji-shi"
+   ]
+  },
+  {
+   "name": "Toyooka",
+   "variants": [
+    "TOYOOKA",
+    "Toyooka-machi"
+   ]
+  },
+  {
+   "name": "Sumoto",
+   "variants": [
+    "SUMOTO",
+    "Sumoto-shi"
+   ]
+  },
+  {
+   "name": "Nada",
+   "variants": [
+    "NADA",
+    "Nada-mura"
+   ]
+  },
+  {
+   "name": "Nushima",
+   "variants": [
+    "NUSHIMA",
+    "Nushima-mura"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "KÖBE",
+    "KΟBE",
+    "KÓBE",
+    "KOBE",
+    "Köbe-shi",
+    "Kōbe-shi",
+    "Kōbe shi"
+   ]
+  },
+  {
+   "name": "Kasumi",
+   "variants": [
+    "KASUMI",
+    "Kasumi-machi"
+   ]
+  },
+  {
+   "name": "Kobe Kawasaki Dockyard",
+   "variants": [
+    "KOBE (Kawasaki Dockyard)"
+   ]
+  },
+  {
+   "name": "Kobe Mitsubishi Dockyard",
+   "variants": [
+    "KOBE (Mitsubishi Dockyard)",
+    "KÖBE (Mitsubishi Dockyard)"
+   ]
+  },
+  {
+   "name": "Iwaoka",
+   "variants": [
+    "IWAOKA",
+    "Iwaoka-machi"
+   ]
+  },
+  {
+   "name": "Rokkō",
+   "variants": [
+    "ROKKÓ",
+    "ROKKO"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "OSAKA-FU",
+    "ÖSAKA-FU"
+   ]
+  },
+  {
+   "name": "Senri",
+   "variants": [
+    "ÖSAKA (SENRI)"
+   ]
+  },
+  {
+   "name": "Suita",
+   "variants": [
+    "Suita-shi"
+   ]
+  },
+  {
+   "name": "Fukai",
+   "variants": [
+    "OSAKA (FUKAI)",
+    "ÖSAKA (FUKAI)"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "variants": [
+    "Sakai-shi"
+   ]
+  },
+  {
+   "name": "Moriguchi",
+   "variants": [
+    "ÖSAKA (MORIGUCHI)"
+   ]
+  },
+  {
+   "name": "Kadoma",
+   "variants": [
+    "Kadoma-machi"
+   ]
+  },
+  {
+   "name": "Kawachi",
+   "variants": [
+    "ÖSAKA (KAWACHI)"
+   ]
+  },
+  {
+   "name": "Senriyama",
+   "variants": [
+    "Senriyama"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki",
+    "SHIMONOSEKI",
+    "Shimonoseki-shi"
+   ]
+  },
+  {
+   "name": "Abuyama",
+   "variants": [
+    "ABUYAMA"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "NARA-KEN"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "NARA",
+    "Nara-shi"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "WAKAYAMA-KEN"
+   ]
+  },
+  {
+   "name": "Kushimoto",
+   "variants": [
+    "KUSHIMOTO",
+    "Kushimoto"
+   ]
+  },
+  {
+   "name": "Shionomisaki",
+   "variants": [
+    "SHIOMISAKJ",
+    "SHIOMISAKI",
+    "SHIONOMISAKI",
+    "Shionomisaki-mura"
+   ]
+  },
+  {
+   "name": "Shingū",
+   "variants": [
+    "SHINGU",
+    "Shingū",
+    "Shingū-shi"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "WAKAYAMA",
+    "Wakayama-shi"
+   ]
+  },
+  {
+   "name": "Tanabe",
+   "variants": [
+    "TANABE",
+    "Tanabe-shi"
+   ]
+  },
+  {
+   "name": "Katsuura, Wakayama",
+   "variants": [
+    "KATSUURA",
+    "Katsuura-machi"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "SHIMANE-KEN",
+    "SHIMANE"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "MATSUE",
+    "Matsue-shi"
+   ]
+  },
+  {
+   "name": "Hamada",
+   "variants": [
+    "HAMADA",
+    "Hamada-shi"
+   ]
+  },
+  {
+   "name": "Masuda",
+   "variants": [
+    "MASUDA",
+    "Masuda-machi"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "TOTTORI-KEN"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "TOTTORI",
+    "Tottori-shi"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "YONAGO (FUKUHARA)",
+    "TOTTORI (FUKUHARA)",
+    "YONAGO",
+    "Yonago-shi"
+   ]
+  },
+  {
+   "name": "Fukuhara",
+   "variants": [
+    "FUKUHARA",
+    "Nishifukuhara"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "OKAYAMA-KEN"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "OKAYAMA",
+    "Okayama-shi"
+   ]
+  },
+  {
+   "name": "Tsuyama",
+   "variants": [
+    "TSUYAMA",
+    "Tsuyama-shi"
+   ]
+  },
+  {
+   "name": "Shimotsui",
+   "variants": [
+    "SHIMOTSUI",
+    "Shimotsui-machi"
+   ]
+  },
+  {
+   "name": "Kojima",
+   "variants": [
+    "Kojima-shi"
+   ]
+  },
+  {
+   "name": "Tamano",
+   "variants": [
+    "TAMANO",
+    "TAMANO (Mitsui Dockyard)",
+    "Tamano-shi"
+   ]
+  },
+  {
+   "name": "Uno",
+   "variants": [
+    "Uno-machi"
+   ]
+  },
+  {
+   "name": "Tsuneyama",
+   "variants": [
+    "TSUNEYAMA"
+   ]
+  },
+  {
+   "name": "Shōnai",
+   "variants": [
+    "Shōnai-mura"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "HIROSHIMA-KEN"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "HIROSHIMA",
+    "HIROSHIMÁ",
+    "Hiroshima-shi",
+    "HIROSHIMA (HARA)",
+    "HIROSHIMA (Studio)",
+    "HIROSHIMA (YAKEYAMA)"
+   ]
+  },
+  {
+   "name": "Hara, Hiroshima",
+   "variants": [
+    "HARA"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "ONOMICHI",
+    "Onomichi-shi"
+   ]
+  },
+  {
+   "name": "Yakeyama",
+   "variants": [
+    "YAKEYAMA",
+    "Oaza Yakeyama",
+    "Öza Yakeyama"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "KURE",
+    "KURE (YAKEYAMA)",
+    "Kure-shi"
+   ]
+  },
+  {
+   "name": "Shiwa",
+   "variants": [
+    "SHIWA",
+    "Nishishiwa-mura"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "YAMAGUCHI-KEN"
+   ]
+  },
+  {
+   "name": "Hōfu",
+   "variants": [
+    "HÓFU",
+    "HOFU",
+    "Hōfu-shi"
+   ]
+  },
+  {
+   "name": "Hagi",
+   "variants": [
+    "HAGI",
+    "Hagi-shi"
+   ]
+  },
+  {
+   "name": "Tsunoshima",
+   "variants": [
+    "TSUNOSHIMA",
+    "TSUNOSHIMA (KAWATANA)",
+    "Tsunoshima-mura"
+   ]
+  },
+  {
+   "name": "Kawatana",
+   "variants": [
+    "KAWATANA",
+    "Kawatana-mura"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "YAMAGUCHI",
+    "Yamaguchi-shi"
+   ]
+  },
+  {
+   "name": "Mishima, Yamaguchi",
+   "variants": [
+    "MISHIMA",
+    "Mishima-mura"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "TOKUYAMA",
+    "Tokuyama-shi"
+   ]
+  },
+  {
+   "name": "Sofu",
+   "variants": [
+    "SOFU",
+    "Sofu-mura"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "EHIME-KEN",
+    "EHIME"
+   ]
+  },
+  {
+   "name": "Imabari",
+   "variants": [
+    "IMABARI",
+    "Imabari-shi"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "UWAJIMA",
+    "Uwajima-shi"
+   ]
+  },
+  {
+   "name": "Niihama",
+   "variants": [
+    "NIIHAMA",
+    "Niihama-shi"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "MATSUYAMA",
+    "MATSUYAMA (YOSHIDAHAMA)",
+    "Matsuyama-shi"
+   ]
+  },
+  {
+   "name": "Yoshidahama",
+   "variants": [
+    "YOSHIDAHAMA"
+   ]
+  },
+  {
+   "name": "Ryūoka",
+   "variants": [
+    "RYūOKA",
+    "RYÜOKA",
+    "RYDOKA",
+    "Ryūoka-mura"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "KAGAWA-KEN",
+    "KAGAWA"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "TAKAMATSU",
+    "Takamatsu-shi"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "TOKUSHIMA-KEN"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "TOKUSHIMA",
+    "TOKUSHIMA (BANDO)",
+    "TOKUSHIMA (BANDā)",
+    "Tokushima-shi"
+   ]
+  },
+  {
+   "name": "Bandō",
+   "variants": [
+    "BANDO",
+    "BANDā",
+    "Bandō-machi"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "KÖCHI-KEN"
+   ]
+  },
+  {
+   "name": "Kōchi",
+   "variants": [
+    "KÖCHI",
+    "KΟCHI",
+    "KÓCHI",
+    "KOCHI",
+    "KCH",
+    "Kōchi-shi",
+    "Kōchishi"
+   ]
+  },
+  {
+   "name": "Nakamura, Kōchi",
+   "variants": [
+    "NAKAMURA",
+    "Nakamura-machi"
+   ]
+  },
+  {
+   "name": "Kashiwajima",
+   "variants": [
+    "KASHIWAJIMA",
+    "Kashiwajima"
+   ]
+  },
+  {
+   "name": "Moshima",
+   "variants": [
+    "MOSHIMA",
+    "Moshima"
+   ]
+  },
+  {
+   "name": "Suzaki",
+   "variants": [
+    "SUZAKI",
+    "Suzaki-machi"
+   ]
+  },
+  {
+   "name": "Muroto",
+   "variants": [
+    "MUROTO",
+    "Muroto-machi"
+   ]
+  },
+  {
+   "name": "Shimizu, Kōchi",
+   "variants": [
+    "SHIMIZU",
+    "Shimizu-machi"
+   ]
+  },
+  {
+   "name": "Murotomisaki",
+   "variants": [
+    "MUROTOMISAKI",
+    "Murotomisaki-machi"
+   ]
+  },
+  {
+   "name": "Ashizurimisaki",
+   "variants": [
+    "ASHIZURIMISAKI"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "FUKUOKA-KEN"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "FUKUOKA",
+    "FUKUOKA (SHINGÜ)",
+    "FUKUOKA (SHINGU)",
+    "FUKUOKA (WAJIRO)",
+    "Fukuoka-shi"
+   ]
+  },
+  {
+   "name": "Shingū, Fukuoka",
+   "variants": [
+    "SHINGÜ",
+    "SHINGU",
+    "Shingü.mura",
+    "Shingū-mura"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "KOKURA",
+    "Kokura-shi"
+   ]
+  },
+  {
+   "name": "Iizuka",
+   "variants": [
+    "IIZUKA",
+    "Iizuka-shi"
+   ]
+  },
+  {
+   "name": "Wajiro",
+   "variants": [
+    "WAJIRO",
+    "Wajiro-mura"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "KURUME",
+    "Kurume-shi"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "MOJI",
+    "Moji-shi"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "HAKATA",
+    "Hakata"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "TOBATA",
+    "Tobata-shi"
+   ]
+  },
+  {
+   "name": "Okinoshima, Fukuoka",
+   "variants": [
+    "OKINOSHIMA",
+    "Oshima-mura"
+   ]
+  },
+  {
+   "name": "Eboshijima",
+   "variants": [
+    "EBOSHIJIMA"
+   ]
+  },
+  {
+   "name": "Ōneji",
+   "variants": [
+    "ONEJI",
+    "ÖNEJI",
+    "ÓNEJI"
+   ]
+  },
+  {
+   "name": "Koga",
+   "variants": [
+    "Koga-machi"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "OITA-KEN"
+   ]
+  },
+  {
+   "name": "Ōita",
+   "variants": [
+    "ÓITA",
+    "ÖITA",
+    "OITA",
+    "Óita-shi",
+    "Öita-shi"
+   ]
+  },
+  {
+   "name": "Hita",
+   "variants": [
+    "HIDA",
+    "Hida-shi"
+   ]
+  },
+  {
+   "name": "Nakatsu",
+   "variants": [
+    "NAKATSU",
+    "Nakatsu-shi"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "KUMAMOTO-KEN"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "KUMAMOTO",
+    "KUMAMOTO.(SHIMIZU)",
+    "KUMAMOTO (SHIMIZU)",
+    "KUMAMOTO (Studio)",
+    "KUMAMOTO (TATSUTA)",
+    "Kumamoto-shi"
+   ]
+  },
+  {
+   "name": "Shimizu, Kumamoto",
+   "variants": [
+    "SHIMIZU",
+    "Shimizu-machi"
+   ]
+  },
+  {
+   "name": "Hitoyoshi",
+   "variants": [
+    "HITOYOSHI",
+    "Hitoyoshi-shi"
+   ]
+  },
+  {
+   "name": "Tatsuta",
+   "variants": [
+    "TATSUTA",
+    "Tatsuta-mura"
+   ]
+  },
+  {
+   "name": "Yushima",
+   "variants": [
+    "YUSHIMA",
+    "Yushima-mura"
+   ]
+  },
+  {
+   "name": "Hondo",
+   "variants": [
+    "HONDO",
+    "Hondo-machi"
+   ]
+  },
+  {
+   "name": "Ōtake, Amakusa",
+   "variants": [
+    "OITAKE"
+   ]
+  },
+  {
+   "name": "Yunotsuru",
+   "variants": [
+    "YUNOTSURU",
+    "Yunotsuru"
+   ]
+  },
+  {
+   "name": "Minamata",
+   "variants": [
+    "Minamata-machi"
+   ]
+  },
+  {
+   "name": "Ushibuka",
+   "variants": [
+    "USHIBUKA",
+    "Ushibuka-machi"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "MIYAZAKI-KEN"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "MIYAZAKI",
+    "Miyazaki-shi"
+   ]
+  },
+  {
+   "name": "Nobeoka",
+   "variants": [
+    "NOBEOKA",
+    "Nobeoka-shi"
+   ]
+  },
+  {
+   "name": "Miyakonojō",
+   "variants": [
+    "MIYAKONOJO",
+    "Miyakonojō-shi"
+   ]
+  },
+  {
+   "name": "Aburatsu",
+   "variants": [
+    "ABURATSU",
+    "Aburatsu-machi"
+   ]
+  },
+  {
+   "name": "Shimanoura",
+   "variants": [
+    "SHIMANOURA"
+   ]
+  },
+  {
+   "name": "Totoro",
+   "variants": [
+    "TOTORO"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "KAGOSHIMA-KEN",
+    "KAGOSH1MA-KEN"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "KAGOSHIMA",
+    "KAGOSHIMA (YOSHINO)",
+    "KAGOSHIMA-(YOSHINO)",
+    "Kagoshima-shi"
+   ]
+  },
+  {
+   "name": "Yoshino",
+   "variants": [
+    "YOSHINO",
+    "Yoshino-chō"
+   ]
+  },
+  {
+   "name": "Sendai, Kagoshima",
+   "variants": [
+    "SENDAI",
+    "Sendai-shi"
+   ]
+  },
+  {
+   "name": "Miyanoura, Yakushima",
+   "variants": [
+    "MIYANOURA",
+    "Miyanoura"
+   ]
+  },
+  {
+   "name": "Tanegashima",
+   "variants": [
+    "TANEGASHIMA"
+   ]
+  },
+  {
+   "name": "Nishinoomote",
+   "variants": [
+    "Nishinoomote",
+    "Nishinoomote-machi"
+   ]
+  },
+  {
+   "name": "Kuchinoerabujima",
+   "variants": [
+    "KUCHINOERABU",
+    "Kuchinoerabujima"
+   ]
+  },
+  {
+   "name": "Makurazaki",
+   "variants": [
+    "MAKURAZAKI",
+    "Makurazaki-machi"
+   ]
+  },
+  {
+   "name": "Yakushima",
+   "variants": [
+    "YAKUSHIMA"
+   ]
+  },
+  {
+   "name": "Yamakawa",
+   "variants": [
+    "YAMAKAWA",
+    "Yamakawa-machi"
+   ]
+  },
+  {
+   "name": "Muregaoka",
+   "variants": [
+    "MUREGAOKA"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "SAGA-KEN"
+   ]
+  },
+  {
+   "name": "Karatsu",
+   "variants": [
+    "KARATSU",
+    "Karatsu-shi",
+    "Karatsushi"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "SAGA",
+    "Saga-shi"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "NAGASAKI-KEN"
+   ]
+  },
+  {
+   "name": "Tomie",
+   "variants": [
+    "TOMIE",
+    "Tomie-machi"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "NAGASAKI",
+    "NAGASAKI (AINO)",
+    "NAGASAKI (Mitsubishi Dockyard)",
+    "Nagasaki-shi"
+   ]
+  },
+  {
+   "name": "Aino",
+   "variants": [
+    "AINO",
+    "Aino-mura"
+   ]
+  },
+  {
+   "name": "Sasebo, Nagasaki",
+   "variants": [
+    "SASEBO",
+    "SASEBO (HARIO)",
+    "SASEBO (HARIQ)",
+    "Saseboshi",
+    "Sasebo-shi"
+   ]
+  },
+  {
+   "name": "Izuhara",
+   "variants": [
+    "IZUHARA",
+    "Izuhara-machi"
+   ]
+  },
+  {
+   "name": "Fukue",
+   "variants": [
+    "FUKUE",
+    "Fukue-machi"
+   ]
+  },
+  {
+   "name": "Narao",
+   "variants": [
+    "NARAO",
+    "Narao-machi"
+   ]
+  },
+  {
+   "name": "Hario",
+   "variants": [
+    "HARIO",
+    "HARIQ",
+    "Sakihario-mura"
+   ]
+  },
+  {
+   "name": "Tateura",
+   "variants": [
+    "TATEURA"
+   ]
+  },
+  {
+   "name": "Ikitsuki",
+   "variants": [
+    "Ikitsuki-machi"
+   ]
+  },
+  {
+   "name": "Mushōzu",
+   "variants": [
+    "MUSHOZU",
+    "Mushōzu-machi"
+   ]
+  },
+  {
+   "name": "Niyaku",
+   "variants": [
+    "NIYAKU"
+   ]
+  },
+  {
+   "name": "Koshikijima",
+   "variants": [
+    "KOSHIKJIMA",
+    "Koshikijima"
+   ]
+  },
+  {
+   "name": "Ōdatejima",
+   "variants": [
+    "ÖDATEJIMA",
+    "Ödatejima"
+   ]
+  },
+  {
+   "name": "Sasuna",
+   "variants": [
+    "SASUNA",
+    "Oaza Sasuna",
+    "Sasuna-mura"
+   ]
+  },
+  {
+   "name": "Arikawa",
+   "variants": [
+    "ARIKAWA",
+    "Arikawa-machi"
+   ]
+  },
+  {
+   "name": "Mitsushima",
+   "variants": [
+    "MITSUSHIMA"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "AOMORI-KEN"
+   ]
+  },
+  {
+   "name": "Hirosaki",
+   "variants": [
+    "HIROSAKI",
+    "Hirosaki-shi"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "AOMORI",
+    "AOMORI (CHIKAGAWA)",
+    "AOMORI (OKIDATE)",
+    "AOMORI (URAMACHI)",
+    "Aomori-shi"
+   ]
+  },
+  {
+   "name": "Chikagawa",
+   "variants": [
+    "CHIKAGAWA",
+    "Chikagawa"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "HACHINOHE",
+    "Hachinohe-shi"
+   ]
+  },
+  {
+   "name": "Ōminato",
+   "variants": [
+    "OMINATO",
+    "Ómitato-machi",
+    "Öminato-machi"
+   ]
+  },
+  {
+   "name": "Shiriyazaki",
+   "variants": [
+    "SHIRIYAZAKI"
+   ]
+  },
+  {
+   "name": "Ōmazaki",
+   "variants": [
+    "OMAZAKI",
+    "ÖMAZAKI"
+   ]
+  },
+  {
+   "name": "Tappizaki",
+   "variants": [
+    "TAPPIZAKI"
+   ]
+  },
+  {
+   "name": "Ishizaki, Aomori",
+   "variants": [
+    "ISHIZAKI",
+    "Öaza Ishizaki",
+    "Aza Ishizaki"
+   ]
+  },
+  {
+   "name": "Kominato",
+   "variants": [
+    "KOMINATO",
+    "Kominato-machi"
+   ]
+  },
+  {
+   "name": "Arito",
+   "variants": [
+    "ARITO"
+   ]
+  },
+  {
+   "name": "Noheji",
+   "variants": [
+    "Noheji-machi"
+   ]
+  },
+  {
+   "name": "Fukaura",
+   "variants": [
+    "FUKAURA",
+    "Fukaura-machi"
+   ]
+  },
+  {
+   "name": "Kamabuse",
+   "variants": [
+    "KAMABUSE",
+    "Aza Kamabuse"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "AKITA-KEN"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "AKITA",
+    "Akita-shi"
+   ]
+  },
+  {
+   "name": "Ōdate, Akita",
+   "variants": [
+    "ÓDATE",
+    "Ódate-machi"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "IWATE-KEN",
+    "IWATE"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "MORIOKA",
+    "Morioka-shi"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "KAMAISHI",
+    "Aza Kamaishi",
+    "Kamaishi-shi"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "MIYAKO",
+    "Miyako-shi"
+   ]
+  },
+  {
+   "name": "Yamada, Iwate",
+   "variants": [
+    "YAMADA",
+    "Yamada-machi"
+   ]
+  },
+  {
+   "name": "Todosaki",
+   "variants": [
+    "TODOSAKI"
+   ]
+  },
+  {
+   "name": "Mount Iwate",
+   "variants": [
+    "IWATESAN"
+   ]
+  },
+  {
+   "name": "Orizume",
+   "variants": [
+    "ORIZUME"
+   ]
+  },
+  {
+   "name": "Tabashine",
+   "variants": [
+    "TABASHINE"
+   ]
+  },
+  {
+   "name": "Niiyama",
+   "variants": [
+    "NIIYAMA"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "YAMAGATA-KEN"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "YAMAGATA",
+    "Yamagata-shi"
+   ]
+  },
+  {
+   "name": "Tsuruoka",
+   "variants": [
+    "TSURUOKA",
+    "Tsuruoka-shi"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "SAKATA",
+    "Sakatashi"
+   ]
+  },
+  {
+   "name": "Tobishima",
+   "variants": [
+    "TOBISHIMA",
+    "Tobishima-mura"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "MIYAGI-KEN"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "SENDAI",
+    "SENDAI (HARAMACHI)",
+    "SENDAI (Studio)",
+    "SENDAI (TAKASAGO)",
+    "Sendai-shi"
+   ]
+  },
+  {
+   "name": "Haramachi, Sendai",
+   "variants": [
+    "HARAMACHI",
+    "Hara-machi"
+   ]
+  },
+  {
+   "name": "Takasago, Sendai",
+   "variants": [
+    "TAKASAGO"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "ISHINOMAKI",
+    "Ishinomaki-shi"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "SCAP",
+  "Japanese radio stations",
+  "frequency allocations",
+  "call signs",
+  "broadcasting",
+  "domestic communications",
+  "fisheries radio",
+  "maritime safety",
+  "police radio",
+  "meteorological radio",
+  "railway radio",
+  "station coordinates"
+ ],
+ "subfiles": [
+  {
+   "title": "SCAP Register of Japanese Radio Stations by Prefecture (continued: Kanagawa–Miyagi)",
+   "doc_type": "radio station register",
+   "start_page": 800,
+   "end_page": 879,
+   "continues_previous": true,
+   "date": "",
+   "from": "Supreme Commander for the Allied Powers (SCAP)",
+   "to": "",
+   "about": "Continuation of a nationwide technical register listing authorized Japanese radio stations and their operating characteristics by prefecture.",
+   "summary": "The register tabulates station registration numbers, frequencies, call signs, power and emission classes, service categories, limitations, names, addresses and geographic coordinates. This portion proceeds from Kanagawa through central and western Honshū, Shikoku and Kyūshū, then begins the northern-prefecture sequence from Aomori through Miyagi. It documents broadcasting alongside domestic, police, railway, fisheries, maritime, aeronautical, meteorological, mine-sweeping and specialized radio services.",
+   "keywords": [
+    "radio station register",
+    "SCAP",
+    "Japan",
+    "frequencies",
+    "call signs",
+    "broadcast transmitters",
+    "maritime communications",
+    "police communications",
+    "meteorological stations",
+    "railway radio",
+    "aeronautical radio",
+    "geographic coordinates"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 11,
+  "sections": 14,
+  "pages": [
+   800,
+   879
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 3, 1946 - December 24, 1949 1827.pdf",
+  "seconds": 401.0,
+  "created": "2026-10-04 00:45:01",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-9"
+ }
+}

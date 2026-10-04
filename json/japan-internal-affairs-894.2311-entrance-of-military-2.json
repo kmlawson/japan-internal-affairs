@@ -1,0 +1,120 @@
+{
+ "interest": "U.S. tracking of Major Ichiji Sugita and Japanese flights over Guam in 1941.",
+ "keywords": [
+  "Japan",
+  "United States",
+  "War Department",
+  "Navy Department",
+  "Major Sugita",
+  "Japanese General Staff",
+  "SS Nitta Maru",
+  "San Francisco",
+  "Guam",
+  "military transit",
+  "unauthorized flights",
+  "airspace violations"
+ ],
+ "overview": "Two 1941 docket sheets for 894.231: Major Sugita's three-month U.S. tour and Navy protests over Japanese flights above Guam.",
+ "people": [
+  {
+   "name": "Ichiji Sugita",
+   "role": "Chief of American Section of the Japanese General Staff; Major",
+   "variants": [
+    "Major Sugita",
+    "Sugita"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers docket sheet recording War Department reports on the arrival and three-month itinerary of Major Sugita of the Japanese General Staff in the United States.",
+   "date": "1941-01-14",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "War Department",
+   "keywords": [
+    "War Department",
+    "Major Sugita",
+    "Japanese General Staff",
+    "SS Nitta Maru",
+    "San Francisco",
+    "itinerary",
+    "Division of Far Eastern Affairs"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.231: Major Sugita of the Japanese General Staff sails for San Francisco, January 1941.",
+   "title": "List of Papers: Entrance of Military Bodies and Aircraft of Japan into U.S.",
+   "to": "Department of State (Division of Far Eastern Affairs)"
+  },
+  {
+   "about": "A State Department non-jacket case sheet cross-referencing a Navy Department letter concerning unauthorized Japanese aircraft flights over Guam.",
+   "date": "1941-06-19",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Navy Department",
+   "keywords": [
+    "Navy Department",
+    "Guam",
+    "Japanese aircraft",
+    "unauthorized flights",
+    "airspace violations",
+    "811d.0144/2",
+    "Japanese Government"
+   ],
+   "start_page": 2,
+   "summary": "Docket: Navy reports unauthorized Japanese flights over Guam, June 1941.",
+   "title": "List of Papers / Cross-Reference Sheet: Unauthorized Flights of Japanese Aircraft over Guam",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13958,
+   "output_tokens": 14526,
+   "thinking_tokens": 13423,
+   "cache_read_tokens": 0,
+   "total_tokens": 28484
+  },
+  "backend": "agy",
+  "seconds": 48.5,
+  "identifier": "japan-internal-affairs-894.2311-entrance-of-military-2",
+  "file": "894.2311 Entrance Of Military Bodies And Aircraft Of Japan Into United States In Transit Or On Visit.,  97.pdf",
+  "created": "2026-09-29 03:32:24"
+ }
+}

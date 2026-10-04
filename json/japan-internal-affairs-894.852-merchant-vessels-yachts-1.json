@@ -1,0 +1,813 @@
+{
+ "overview": "This file documents U.S. monitoring of the sale, attempted purchase, reflagging, and possible Japanese government control of merchant vessels during 1940. It begins with a cross-reference concerning the sale of the S.S. ASTORIA, continues with FBI intelligence about Mitsubishi-linked purchases of California purse seiners, and then concentrates on the Panamanian-registered ATLANTICO, a former American ship carrying Chilean copper to Japan and reportedly destined for Japanese ownership and registry. Telegrams, diplomatic despatches, internal memoranda, and Maritime Commission correspondence trace suspected front companies, changes of flag, ownership claims, and conflicting accounts of the ATLANTICO’s former identity. A final cross-reference broadens the subject to Japanese interest in German and Italian ships sheltering in Western Hemisphere ports.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "U.S.",
+    "American",
+    "America"
+   ]
+  },
+  {
+   "name": "San Francisco, California",
+   "variants": [
+    "San Francisco, California",
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Valparaíso",
+   "variants": [
+    "Valparaiso",
+    "Valparaiso, Chile"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile",
+    "Chilean"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "Argentine",
+    "Argentinian"
+   ]
+  },
+  {
+   "name": "Antofagasta",
+   "variants": [
+    "Antofagasta"
+   ]
+  },
+  {
+   "name": "San Pedro, California",
+   "variants": [
+    "San Pedro, California"
+   ]
+  },
+  {
+   "name": "Portland, Oregon",
+   "variants": [
+    "Portland, Oregon"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "Oregon"
+   ]
+  },
+  {
+   "name": "Seattle, Washington",
+   "variants": [
+    "Seattle, Washington"
+   ]
+  },
+  {
+   "name": "Washington state",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama",
+    "Panamanian",
+    "Panamaian"
+   ]
+  },
+  {
+   "name": "Panama City",
+   "variants": [
+    "Panama City, Panama"
+   ]
+  },
+  {
+   "name": "Santiago",
+   "variants": [
+    "Santiago"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "Yugoslavian"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italian"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "British"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Danish"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greek"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Bahía Blanca",
+   "variants": [
+    "Bahía Blanca"
+   ]
+  },
+  {
+   "name": "Antwerp",
+   "variants": [
+    "Antwerp"
+   ]
+  },
+  {
+   "name": "Rotterdam",
+   "variants": [
+    "Rotterdam"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany's"
+   ]
+  },
+  {
+   "name": "Low Countries",
+   "variants": [
+    "Low Countries"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Talara",
+   "variants": [
+    "Talara"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Perd",
+    "Perú",
+    "Peru"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Philadelphia, Pennsylvania",
+   "variants": [
+    "Philadelphia, Pa."
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pa."
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "Western Hemisphere"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russian"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "U.S. Assistant Secretary of State",
+   "variants": [
+    "Honorable Adolf A. Berle, Jr.",
+    "Mr. Berle",
+    "Ad. If A. Berle, Jr."
+   ]
+  },
+  {
+   "name": "John Joseph Callaghan",
+   "role": "San Francisco ship broker",
+   "variants": [
+    "John Joseph Callaghan"
+   ]
+  },
+  {
+   "name": "Castanelli",
+   "role": "Ship broker associated with John Joseph Callaghan; first name unknown",
+   "variants": [
+    "Castanelli"
+   ]
+  },
+  {
+   "name": "Tibbitts",
+   "role": "Representative or associate of the Mitsubishi Company",
+   "variants": [
+    "Tibbitts"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "J. Edgar Hoover",
+    "Mr. Hoover"
+   ]
+  },
+  {
+   "name": "Renwick S. McNiece",
+   "role": "American consul at Valparaíso",
+   "variants": [
+    "Renwick S. McNiece",
+    "McNiece"
+   ]
+  },
+  {
+   "name": "Galvagno",
+   "role": "Captain of the ATLANTICO and source for the Valparaíso report",
+   "variants": [
+    "Captain Galvagno"
+   ]
+  },
+  {
+   "name": "John H. Butrick",
+   "role": "U.S. diplomatic officer in Shanghai and sender of the October 2 telegram",
+   "variants": [
+    "BUTRICK"
+   ]
+  },
+  {
+   "name": "Mr. Saugstad",
+   "role": "Department of State official addressed by an internal shipping memorandum",
+   "variants": [
+    "Mr. Saugstad"
+   ]
+  },
+  {
+   "name": "Herbert Mittler",
+   "role": "Informant who reported the ATLANTICO’s sale to Japan",
+   "variants": [
+    "Mittley Herbert",
+    "Herbert Mittler",
+    "Mittler"
+   ]
+  },
+  {
+   "name": "Fritz Mandl",
+   "role": "Businessman and ATLANTICO owner or seller; stockholder in La Interoceánica",
+   "variants": [
+    "Fritz Mandl",
+    "Mandl"
+   ]
+  },
+  {
+   "name": "S. Pinkney Tuck",
+   "role": "U.S. Chargé d’Affaires ad interim in Buenos Aires",
+   "variants": [
+    "S. Pinkney Tuck"
+   ]
+  },
+  {
+   "name": "R. H. McCaffery",
+   "role": "Department of State official associated with the October 19 Maritime Commission inquiry",
+   "variants": [
+    "R. H. McCaffery"
+   ]
+  },
+  {
+   "name": "Breckinridge Long",
+   "role": "U.S. Assistant Secretary of State",
+   "variants": [
+    "Mr. Long",
+    "Breckinridge Long"
+   ]
+  },
+  {
+   "name": "Alberto A. Dodero",
+   "role": "Argentine businessman, director and president of La Interoceánica",
+   "variants": [
+    "Mr. Alberto A. Bodero",
+    "Mr. A.A. Dodero",
+    "Mr. Dodero"
+   ]
+  },
+  {
+   "name": "Boni Boncompagni Ludovisi",
+   "role": "Director and stockholder of La Interoceánica",
+   "variants": [
+    "Prince Boni Boncompagni Ludovisi"
+   ]
+  },
+  {
+   "name": "Loris Niccie",
+   "role": "Director and stockholder of La Interoceánica",
+   "variants": [
+    "Count Loris niccie"
+   ]
+  },
+  {
+   "name": "Rafael Creamuno",
+   "role": "Director and stockholder of La Interoceánica",
+   "variants": [
+    "Mr. Rafael Creamuno"
+   ]
+  },
+  {
+   "name": "Emory S. Land",
+   "role": "Admiral and chairman of the United States Maritime Commission",
+   "variants": [
+    "E. S. Land",
+    "Admiral Land",
+    "Henry S. Land"
+   ]
+  },
+  {
+   "name": "Claude G. Bowers",
+   "role": "U.S. Ambassador to Chile",
+   "variants": [
+    "Claude G. Bowers"
+   ]
+  },
+  {
+   "name": "William H. Hornibrook",
+   "role": "U.S. diplomatic representative in Costa Rica named on the final cross-reference",
+   "variants": [
+    "Hornibreak"
+   ]
+  }
+ ],
+ "keywords": [
+  "merchant-vessel sales",
+  "Japanese shipping purchases",
+  "ship registry transfers",
+  "Panamanian flag",
+  "ATLANTICO",
+  "S.S. ASTORIA",
+  "United States Maritime Commission",
+  "Mitsubishi Company",
+  "purse seiners",
+  "Chilean copper",
+  "front companies",
+  "maritime intelligence",
+  "flags of convenience",
+  "Japanese government control",
+  "Second World War shipping"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference on sale of S.S. ASTORIA to Japanese buyers",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1940-01-11",
+   "from": "Department of State file staff",
+   "to": "",
+   "about": "The sheet directs researchers to the original Maritime Commission letter concerning the sale and Japanese reflagging of the S.S. ASTORIA.",
+   "summary": "The referenced transaction involved the sale of the S.S. ASTORIA to Kogyo Kaiun Kabushiki Kaisha of Tokyo. The vessel was to be transferred to Japanese registry and flag, with the original paper filed under 195.2-ASTORIA.",
+   "keywords": [
+    "S.S. ASTORIA",
+    "Kogyo Kaiun Kabushiki Kaisha",
+    "Japanese registry",
+    "Maritime Commission",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "FBI report on proposed Mitsubishi purchase of purse seiners",
+   "doc_type": "letter",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1940-06-19",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Hoover reports confidential intelligence that San Francisco brokers were arranging the possible purchase of ten purse seiners for Mitsubishi or the Japanese government.",
+   "summary": "John Joseph Callaghan and Castanelli were reportedly negotiating through Tibbitts of the Mitsubishi Company for ten roughly 100-ton purse seiners costing $40,000–$50,000 each. Possible vessels included the VIVIAN A., OREGON, and OLYMPIC II, with the latter two thought suitable for reduction plants. The FBI warned that Mitsubishi might be acting for the Japanese government and circulated the information to Treasury and naval and military intelligence.",
+   "keywords": [
+    "FBI",
+    "Mitsubishi Company",
+    "purse seiners",
+    "San Francisco",
+    "Japanese government",
+    "ship purchases",
+    "maritime intelligence"
+   ]
+  },
+  {
+   "title": "Berle acknowledgment of FBI purse-seiner intelligence",
+   "doc_type": "letter",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1940-06-25",
+   "from": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "to": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "about": "Berle acknowledges Hoover’s confidential report and asks to receive further information about the vessel purchases.",
+   "summary": "Berle thanks Hoover for the June 19 report concerning the proposed purchase of purse seiners through a San Francisco brokerage. He notes that Treasury and naval and military intelligence also received the information and welcomes any additional findings.",
+   "keywords": [
+    "Adolf A. Berle Jr.",
+    "J. Edgar Hoover",
+    "FBI",
+    "purse seiners",
+    "acknowledgment",
+    "intelligence sharing"
+   ]
+  },
+  {
+   "title": "Valparaíso report on ATLANTICO and Chilean copper",
+   "doc_type": "shipping report",
+   "start_page": 4,
+   "end_page": 5,
+   "date": "1940-09-13",
+   "from": "Renwick S. McNiece, American Consul, Valparaíso",
+   "to": "Department of State",
+   "about": "McNiece reports that the former American steamship ATLANTICO was carrying 7,500 tons of Chilean copper to Japan for Japanese buyers.",
+   "summary": "The Panamanian-registered ATLANTICO arrived at Valparaíso on September 12 and was proceeding to Antofagasta to load electrolytic copper before sailing via San Pedro to Japan. The report identifies it as the former SAN BERNARDINO of the Pacific-Atlantic Steamship Company, renamed and reflagged in April 1940 under ownership of La Interoceánica of Panama. Captain Galvagno supplied the information, and the report was mailed on September 17.",
+   "keywords": [
+    "ATLANTICO",
+    "SAN BERNARDINO",
+    "Valparaíso",
+    "Antofagasta",
+    "Chilean copper",
+    "Panamanian registry",
+    "Japanese buyers"
+   ]
+  },
+  {
+   "title": "Shanghai telegram on Japanese negotiations for eight ships",
+   "doc_type": "telegram",
+   "start_page": 6,
+   "end_page": 6,
+   "date": "1940-10-02",
+   "from": "John H. Butrick, Shanghai",
+   "to": "Secretary of State",
+   "about": "Butrick reports that Japanese interests were attempting to buy eight ships in the United States through a Japanese-controlled Panamanian company.",
+   "summary": "The telegram lists the EMERGENCY AID, ESSO CITY, VELEBIT, PANAMA, ERNEST H. MEYER, CHRISTOS MARKETTOS, POINT ARENA, and POINT BONITA, together with construction dates and tonnages. Butrick could not learn the company’s name and suggested that the Maritime Commission be informed. The information was telephoned to the Commission on October 5.",
+   "keywords": [
+    "Shanghai",
+    "Japanese interests",
+    "Panamanian company",
+    "ship purchases",
+    "Maritime Commission",
+    "merchant tonnage"
+   ]
+  },
+  {
+   "title": "Internal memorandum identifying vessels in the Shanghai telegram",
+   "doc_type": "memorandum",
+   "start_page": 7,
+   "end_page": 7,
+   "date": "1940-10-05",
+   "from": "Division of International Communications, Department of State",
+   "to": "Mr. Saugstad",
+   "about": "The memorandum identifies the ownership, registry, and prior nationality of ships named in Butrick’s telegram.",
+   "summary": "The memorandum matches several reported ships to current names and owners, including EMERGENCY AID as WEST PORTAL and the former POINT ARENA and POINT BONITA as Panamanian vessels ARENA and BONITA. It records Yugoslav, Danish, Greek, British, Italian, Panamanian, and former U.S. connections. Subject to the unresolved status of ESSO CITY, it concludes that only three vessels appeared to be American-registered.",
+   "keywords": [
+    "vessel identification",
+    "ship registry",
+    "ARENA",
+    "BONITA",
+    "WEST PORTAL",
+    "Panamanian registry",
+    "ownership research"
+   ]
+  },
+  {
+   "title": "Buenos Aires despatch reporting sale of ATLANTICO to Japan",
+   "doc_type": "despatch",
+   "start_page": 8,
+   "end_page": 9,
+   "date": "1940-10-18",
+   "from": "S. Pinkney Tuck, Chargé d’Affaires ad interim",
+   "to": "Secretary of State",
+   "about": "Tuck reports Herbert Mittler’s statement that Fritz Mandl sold the ATLANTICO to the Japanese government.",
+   "summary": "Mittler said Mandl had bought the ship in the United States for a Buenos Aires–Antwerp–Rotterdam service, but Germany’s invasion of the Low Countries frustrated that plan. An Embassy investigation found that the Panamanian-flagged vessel left Buenos Aires for Bahía Blanca and then the Pacific under orders from Dodero Hermanos. The despatch says Mandl and Dodero Hermanos were partners and that the Argentine crew would be repatriated on a Japanese passenger vessel; it also calls the ATLANTICO the former WEST TAMPA, conflicting with other documents.",
+   "keywords": [
+    "ATLANTICO",
+    "Fritz Mandl",
+    "Herbert Mittler",
+    "Japanese government",
+    "Buenos Aires",
+    "Dodero Hermanos",
+    "WEST TAMPA"
+   ]
+  },
+  {
+   "title": "Instruction to Tokyo on ATLANTICO’s registry and copper cargo",
+   "doc_type": "instruction",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1940-10-19",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "The Department forwards a Santiago report alleging that ATLANTICO was carrying copper to Japan and would pass into Japanese registry.",
+   "summary": "The extract says ATLANTICO was loading 7,500 tons of copper cathodes at Antofagasta and needed additional fuel at Talara. It identifies the vessel as the former BALTIMORE, transferred to Panamanian registry by Mihanovich Ltd. and purchased by Kitagawa Sangyo Kaiun of Osaka. It also alleges that the ship carried both Panamanian and Japanese papers.",
+   "keywords": [
+    "ATLANTICO",
+    "Tokyo",
+    "copper cathodes",
+    "Kitagawa Sangyo Kaiun",
+    "dual papers",
+    "Japanese registry"
+   ]
+  },
+  {
+   "title": "Instruction to Buenos Aires on ATLANTICO’s registry and copper cargo",
+   "doc_type": "instruction",
+   "start_page": 11,
+   "end_page": 11,
+   "date": "1940-10-19",
+   "from": "Secretary of State",
+   "to": "American Chargé d’Affaires ad interim, Buenos Aires",
+   "about": "The Department sends Buenos Aires the Santiago report about ATLANTICO’s cargo, ownership, registry, and alleged dual documentation.",
+   "summary": "The enclosed extract reports the loading of 7,500 tons of copper cathodes for Japan and a planned fueling call at Talara, Peru. It describes ATLANTICO as the former American BALTIMORE and says Mihanovich Ltd. transferred it to Panamanian registry. The vessel was allegedly bought by Kitagawa Sangyo Kaiun and carried both Panamanian and Japanese papers.",
+   "keywords": [
+    "ATLANTICO",
+    "Buenos Aires",
+    "BALTIMORE",
+    "Panamanian registry",
+    "Kitagawa Sangyo Kaiun",
+    "dual documentation"
+   ]
+  },
+  {
+   "title": "Request to Maritime Commission for ATLANTICO registry information",
+   "doc_type": "letter",
+   "start_page": 12,
+   "end_page": 13,
+   "date": "1940-10-19",
+   "from": "R. H. McCaffery, Department of State",
+   "to": "Chairman, United States Maritime Commission",
+   "about": "The Department asks the Maritime Commission to explain ATLANTICO’s reported transfer from American to Panamanian registry.",
+   "summary": "The letter repeats the Santiago intelligence concerning ATLANTICO’s Chilean copper cargo, fuel stop at Talara, alleged former identity as BALTIMORE, purchase by Kitagawa Sangyo Kaiun, and possession of two sets of papers. It asks specifically for information about the vessel’s change from American to Panamanian registry.",
+   "keywords": [
+    "ATLANTICO",
+    "Maritime Commission",
+    "registry transfer",
+    "BALTIMORE",
+    "Panamanian flag",
+    "information request"
+   ]
+  },
+  {
+   "title": "Maritime Commission history of the ATLANTICO transaction",
+   "doc_type": "letter",
+   "start_page": 14,
+   "end_page": 15,
+   "date": "1940-10-28",
+   "from": "Emory S. Land, Chairman, United States Maritime Commission",
+   "to": "Breckinridge Long, Assistant Secretary of State",
+   "about": "Land explains the Commission’s approval of the former SAN BERNARDINO’s sale to the Panamanian company La Interoceánica.",
+   "summary": "The Commission identifies ATLANTICO as the former SAN BERNARDINO and states that it approved the $425,000 sale to La Interoceánica and transfer to Panamanian registry in March 1940, with the transfer effected April 3. It lists Alberto A. Dodero, Boni Boncompagni Ludovisi, Loris Niccie, Rafael Creamuno, and Fritz Mandl among the company’s directors or shareholders. Dodero represented that the ship would trade between South America, the United Kingdom, and France and that no American interest was involved; the Commission considered the transaction bona fide and the vessel unnecessary to the U.S. merchant marine.",
+   "keywords": [
+    "ATLANTICO",
+    "SAN BERNARDINO",
+    "La Interoceánica",
+    "Emory S. Land",
+    "Alberto A. Dodero",
+    "Fritz Mandl",
+    "Section 9 approval",
+    "Panamanian registry"
+   ]
+  },
+  {
+   "title": "Instruction to Buenos Aires enclosing Maritime Commission findings",
+   "doc_type": "instruction",
+   "start_page": 16,
+   "end_page": 16,
+   "date": "1940-11-09",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Buenos Aires",
+   "about": "The Department forwards the Maritime Commission’s October 28 account of ATLANTICO’s transfer to Panamanian registry.",
+   "summary": "The instruction refers to the earlier Departmental correspondence about the vessel now named ATLANTICO. It encloses the Commission letter identifying the ship’s American antecedents and explaining approval of the sale and registry change.",
+   "keywords": [
+    "ATLANTICO",
+    "Buenos Aires",
+    "Maritime Commission",
+    "Panamanian registry",
+    "enclosure"
+   ]
+  },
+  {
+   "title": "Instruction to Tokyo enclosing Maritime Commission findings",
+   "doc_type": "instruction",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1940-11-09",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "The Department sends Tokyo the Maritime Commission’s explanation of ATLANTICO’s transfer from U.S. to Panamanian registry.",
+   "summary": "The instruction follows up the October 19 communication to Tokyo. It encloses the Commission’s October 28 letter concerning the sale, ownership, and reflagging of ATLANTICO.",
+   "keywords": [
+    "ATLANTICO",
+    "Tokyo",
+    "Maritime Commission",
+    "registry transfer",
+    "enclosure"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Land concerning ATLANTICO",
+   "doc_type": "letter",
+   "start_page": 18,
+   "end_page": 18,
+   "date": "1940-11-09",
+   "from": "Breckinridge Long, for the Secretary of State",
+   "to": "Emory S. Land, Chairman, United States Maritime Commission",
+   "about": "Long thanks Land for the ATLANTICO data and explains how the information is being distributed.",
+   "summary": "Long acknowledges the Commission’s October 28 letter and says copies are going to the embassies at Santiago, Buenos Aires, and Tokyo and to the consulate at Antofagasta. He promises to provide the Commission with further information about the ship’s activities or status.",
+   "keywords": [
+    "Breckinridge Long",
+    "Emory S. Land",
+    "ATLANTICO",
+    "information sharing",
+    "diplomatic posts"
+   ]
+  },
+  {
+   "title": "Instruction to Antofagasta enclosing ATLANTICO findings",
+   "doc_type": "instruction",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1940-11-09",
+   "from": "Secretary of State",
+   "to": "American Consular Officer in charge, Antofagasta",
+   "about": "The Department supplies the Antofagasta consulate with the Maritime Commission’s history of ATLANTICO’s registry transfer.",
+   "summary": "The instruction refers to the consulate’s September 26 report on the loading of copper cathodes for Japan. It encloses the Commission letter about the vessel’s transfer from United States registry.",
+   "keywords": [
+    "ATLANTICO",
+    "Antofagasta",
+    "copper cathodes",
+    "Maritime Commission",
+    "registry transfer"
+   ]
+  },
+  {
+   "title": "Instruction to Santiago enclosing ATLANTICO findings",
+   "doc_type": "instruction",
+   "start_page": 20,
+   "end_page": 20,
+   "date": "1940-11-09",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Santiago",
+   "about": "The Department forwards the Maritime Commission’s findings to the embassy that had reported ATLANTICO’s registry change.",
+   "summary": "The instruction cites Santiago’s October 5 despatch concerning the former American vessel. It encloses the Commission’s October 28 account of ATLANTICO’s sale and transfer to Panamanian registry.",
+   "keywords": [
+    "ATLANTICO",
+    "Santiago",
+    "Maritime Commission",
+    "Panamanian registry",
+    "enclosure"
+   ]
+  },
+  {
+   "title": "Santiago follow-up on ATLANTICO intelligence",
+   "doc_type": "despatch",
+   "start_page": 21,
+   "end_page": 21,
+   "date": "1940-11-25",
+   "from": "Claude G. Bowers, American Embassy, Santiago",
+   "to": "Secretary of State",
+   "about": "Bowers reports that Chile has no further information on ATLANTICO and identifies British intelligence as the source of the earlier allegations.",
+   "summary": "The embassy confirms that its earlier account concerned ATLANTICO’s call at Antofagasta for 7,500 tons of copper cathodes bound for Japan. Bowers explains that the naval attaché’s memorandum rested on British intelligence sources and that no additional Chilean information was available. He suggests that San Francisco sources might verify the alleged transfer to Japanese registry.",
+   "keywords": [
+    "Claude G. Bowers",
+    "ATLANTICO",
+    "British intelligence",
+    "Santiago",
+    "San Francisco",
+    "Japanese registry"
+   ]
+  },
+  {
+   "title": "Cross-reference on Japanese interest in German and Italian ships",
+   "doc_type": "cross-reference sheet",
+   "start_page": 22,
+   "end_page": 22,
+   "date": "1940-09-26",
+   "from": "Department of State file staff, citing Costa Rica despatch by Hornibrook",
+   "to": "",
+   "about": "The sheet points to a Costa Rica despatch reporting Japanese interest in buying German and Italian ships sheltering in Western Hemisphere ports.",
+   "summary": "A Japanese shipping company reportedly wished to purchase all available German and Italian ships seeking refuge in Western Hemisphere ports. The proposed service would connect Japan with Russian and Western Hemisphere ports. The original was filed as despatch 140 in file 800.30210/659.",
+   "keywords": [
+    "German ships",
+    "Italian ships",
+    "Japanese shipping company",
+    "Western Hemisphere",
+    "Russian ports",
+    "Costa Rica",
+    "cross-reference"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for reconstructing how U.S. diplomatic, intelligence, and maritime agencies pieced together opaque vessel transactions involving flags of convenience and suspected Japanese front companies before American entry into the Second World War. The ATLANTICO papers preserve strikingly conflicting identifications—SAN BERNARDINO, WEST TAMPA, and BALTIMORE—as well as allegations of dual Panamanian and Japanese papers, illustrating the uncertainty of contemporary maritime intelligence. They also connect ship transfers to strategic commodity movements, particularly 7,500 tons of Chilean copper bound for Japan, while revealing the Maritime Commission’s legal and commercial reasoning when it originally approved the sale.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 222.9,
+  "identifier": "japan-internal-affairs-894.852-merchant-vessels-yachts-1",
+  "file": "894.852 Merchant Vessels. Yachts. Immunities Of Government -Controlled., Japan, Sale. Purchase. Charter. Hypothecation. Status Of National-Owned Vessels, Not Documented., January 11, 1940 - September 26, 1940 1213.pdf",
+  "created": "2026-09-29 06:10:59"
+ }
+}

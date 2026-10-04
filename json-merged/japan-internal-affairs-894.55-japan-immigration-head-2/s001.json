@@ -1,0 +1,955 @@
+{
+ "section_summary": "This section combines translated Japanese and colonial immigration regulations with consular correspondence about their administration. It includes extensive Taiwan rules governing Chinese laborers and alien entry, followed by a detailed 1933 dispute over Yokohama police delaying the S.S. President Jefferson after an immigration-inspection misunderstanding. The final pages begin a 1934 report surveying Japanese emigration, immigration, overseas settlement, and foreign restrictions on Japanese migrants.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "the Empire",
+    "Japanese territory",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "Japanese South Seas Mandate",
+   "variants": [
+    "South Sea Islands of Japan",
+    "South Sea Islands",
+    "the Islands"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "Railway Zone"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo-fu"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "liashington",
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "TAIWAN",
+    "Taiwan",
+    "Ta iwan"
+   ]
+  },
+  {
+   "name": "Tamsui",
+   "variants": [
+    "Tamsui"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Fuzhou",
+   "variants": [
+    "Foochow"
+   ]
+  },
+  {
+   "name": "Xiamen",
+   "variants": [
+    "Amoy"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Swatow"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "YOKOHAMA",
+    "Yokohame",
+    "Tokohama"
+   ]
+  },
+  {
+   "name": "Yokohama Harbor",
+   "variants": [
+    "Yokohama harbor",
+    "Yokohama Harbour",
+    "the harbor of Yokohama",
+    "Yokohama port"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa Prefecture",
+    "Kanagawa Frefecture",
+    "Kanagawa-Ken",
+    "Kanagawa-ken",
+    "Kanagawa Ken",
+    "Kenagawa Prefecture"
+   ]
+  },
+  {
+   "name": "New Customs Pier, Yokohama",
+   "variants": [
+    "New Customs Pier",
+    "Customs pier"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle",
+    "seattle"
+   ]
+  },
+  {
+   "name": "Washington State",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "UNITED STATES OF AMERICA",
+    "continental United States",
+    "America"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawaiian Islands",
+    "Hawai1",
+    "Hawa11",
+    "Hawuii"
+   ]
+  },
+  {
+   "name": "Pacific Coast of the United States",
+   "variants": [
+    "Pacific Coast"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "South American Countries"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Mano hukuo"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "the Dominion"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "W. Cameron Forbes",
+   "role": "Sender of Despatch No. 179 and United States Ambassador to Japan",
+   "variants": [
+    "i. Cameron Forbes"
+   ]
+  },
+  {
+   "name": "Hutchinson",
+   "role": "Author of Tokyo Despatch No. 114 concerning Japanese immigration laws",
+   "variants": [
+    "Hutchinson"
+   ]
+  },
+  {
+   "name": "Charles L. De Vault",
+   "role": "American Consul at Taihoku and later Yokohama; occasionally called Consul General in the ship reports",
+   "variants": [
+    "Chas. L. De Vault",
+    "Charles L. De Vault",
+    "Mr. De Vault",
+    "Mr. Do Vault"
+   ]
+  },
+  {
+   "name": "Sukenari Yokoyama",
+   "role": "Governor of Kanagawa Prefecture",
+   "variants": [
+    "Sukenari Yokoyama",
+    "Sukenari YOKOYAMA",
+    "Sukenar1 YOKOYAMA",
+    "SUKENARI YOKOYAMA",
+    "J. Yokoyama"
+   ]
+  },
+  {
+   "name": "A. O. Lustie",
+   "role": "Master and commander of the S.S. President Jefferson",
+   "variants": [
+    "A. O. Lustie",
+    "A.O. Lustie",
+    "A. 0. Lustie",
+    "A. C. Lustie",
+    "Captain Lustie"
+   ]
+  },
+  {
+   "name": "F. Clare Thompson",
+   "role": "Resident general agent at Yokohama for the American Mail Line or Dollar Line",
+   "variants": [
+    "F. Clare Thompson",
+    "F. C. Thompson",
+    "Mr F C Thompson",
+    "F. C. P.OIISOH",
+    "Hr. F. U. Phompson"
+   ]
+  },
+  {
+   "name": "Robert Sweetser",
+   "role": "Junior deck officer of the S.S. President Jefferson",
+   "variants": [
+    "Robert Sweetser",
+    "Mr. Sweetser",
+    "Officer Sweetser"
+   ]
+  },
+  {
+   "name": "Lawrence Neitman",
+   "role": "American Mail Line port captain and supervisor of cargo and stevedoring at Yokohama",
+   "variants": [
+    "Lawrence Neitman",
+    "Mr. Neitman",
+    "Mr. Noitman",
+    "Mr. Nietman"
+   ]
+  },
+  {
+   "name": "Koibuchi",
+   "role": "Secretary to the Governor of Kanagawa Prefecture",
+   "variants": [
+    "Mr. Koibuchi",
+    "Mr. koibuchi"
+   ]
+  },
+  {
+   "name": "A. F. Haines",
+   "role": "Seattle recipient of a blind copy of F. C. Thompson's protest",
+   "variants": [
+    "A. F. Haines"
+   ]
+  },
+  {
+   "name": "Erik G. Froberg",
+   "role": "Superintendent of the American Mail Line",
+   "variants": [
+    "Erik G. Froberg"
+   ]
+  },
+  {
+   "name": "William Phillips",
+   "role": "State Department official signing for the Secretary of State",
+   "variants": [
+    "Williaw Phillipa"
+   ]
+  },
+  {
+   "name": "J. M. Allison",
+   "role": "American Vice Consul and preparer of the 1934 migration report",
+   "variants": [
+    "J. M. Allison"
+   ]
+  },
+  {
+   "name": "Arthur Garrels",
+   "role": "American Consul General who approved the 1934 migration report",
+   "variants": [
+    "Arthur Garrels"
+   ]
+  },
+  {
+   "name": "Matthew C. Perry",
+   "role": "United States commodore whose 1853 arrival opened negotiations with Japan",
+   "variants": [
+    "Commodore Perry"
+   ]
+  },
+  {
+   "name": "Theodore Roosevelt",
+   "role": "President of the United States who negotiated the 1907 Gentlemen's Agreement",
+   "variants": [
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Tokugawa Iemitsu",
+   "role": "Third Tokugawa shogun, credited with the 1636 isolation decree",
+   "variants": [
+    "Tokugawa Iyemitsu"
+   ]
+  },
+  {
+   "name": "Kalākaua",
+   "role": "King of Hawaii whose visit preceded renewed Japanese migration to Hawaii",
+   "variants": [
+    "King Kalakaua"
+   ]
+  }
+ ],
+ "keywords": [
+  "immigration law",
+  "passport control",
+  "Chinese laborers",
+  "Taiwan",
+  "alien admission and deportation",
+  "Yokohama port incident",
+  "S.S. President Jefferson",
+  "consular diplomacy",
+  "Japanese emigration",
+  "restrictive legislation",
+  "overseas settlement",
+  "government-controlled migration"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch No. 179 Transmitting Japanese Alien-Entry Regulations",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1931-03-31",
+   "from": "W. Cameron Forbes",
+   "to": "Secretary of State",
+   "about": "Transmits translations of the alien-entry laws applying to Japan and the Japanese South Seas Mandate.",
+   "summary": "Forbes responds to the Department's circular instruction of January 30, 1931, by forwarding two translated sets of alien-entry regulations. He notes that the corresponding law for the Kwantung Leased Territory and South Manchuria Railway Zone had already been sent by the American consul at Dairen in 1918.",
+   "keywords": [
+    "alien entry",
+    "Japan",
+    "South Seas Mandate",
+    "Kwantung Leased Territory",
+    "legal translations"
+   ]
+  },
+  {
+   "title": "Regulations Governing the Entry of Aliens into Japan",
+   "doc_type": "translated ordinance",
+   "start_page": 3,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1918-01-04",
+   "from": "Department of Home Affairs, Japan",
+   "to": "",
+   "about": "Sets the passport, visa, exclusion, inspection, and deportation rules for aliens entering Japan.",
+   "summary": "The ordinance permits prefectural governors to exclude persons lacking passports, suspected enemies, threats to public order or morals, paupers, persons with dangerous diseases, and those likely to become public charges. It prescribes photographs and Japanese consular visas, truthful answers to police inquiries, and deportation for fraud or noncompliance. Diplomats, foreign officials, their families, and foreign ship crews are exempted; the text incorporates amendments made in 1921 and 1924.",
+   "keywords": [
+    "alien entry",
+    "passports",
+    "visas",
+    "exclusion",
+    "deportation",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Matters Relating to the Entry of Aliens into the South Sea Islands",
+   "doc_type": "translated ordinance",
+   "start_page": 6,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1925-02-02",
+   "from": "South Sea Administration Office",
+   "to": "",
+   "about": "Extends passport-based alien admission and exclusion controls to the Japanese South Seas Mandate.",
+   "summary": "The ordinance closely follows the Japanese home-islands rules by allowing local branch chiefs to exclude aliens without valid documents or those considered dangerous, indigent, diseased, or likely to become public charges. It requires passports bearing photographs and Japanese visas, authorizes deportation for false statements or fraud, and exempts diplomats, foreign officials, and ship crews. The ordinance was gazetted on May 13, 1925.",
+   "keywords": [
+    "South Seas Mandate",
+    "alien entry",
+    "passports",
+    "visas",
+    "deportation"
+   ]
+  },
+  {
+   "title": "Cross-Reference to Tokyo Despatch No. 114",
+   "doc_type": "cross-reference sheet",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1932-11-18",
+   "from": "Tokyo (Hutchinson)",
+   "to": "Department of State files",
+   "about": "Directs researchers to another file containing a report on Japanese immigration laws.",
+   "summary": "The sheet records Tokyo Despatch No. 114 by Hutchinson, dated November 18, 1932. It states that the despatch transmitted a report on Japan's immigration laws and cross-references file 800.504/36.",
+   "keywords": [
+    "cross-reference",
+    "immigration laws",
+    "Tokyo",
+    "file control"
+   ]
+  },
+  {
+   "title": "Transmission of Translations of Taiwan Immigration Laws",
+   "doc_type": "consular despatch",
+   "start_page": 10,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1925-12-16",
+   "from": "Charles L. De Vault, American Consul, Taihoku",
+   "to": "Secretary of State",
+   "about": "Transmits comprehensive translations of Taiwan's laws governing Chinese laborers, other Chinese entrants, and aliens generally.",
+   "summary": "De Vault confirms that the regulations on Chinese laborers previously reported in 1910 remained substantially in force, while special restrictions on other immigrants had been abolished in 1921. The translations were checked against the Taiwan Government-General's police authorities, although local immigration officers retained wide discretion and admitted aliens remained under surveillance. He reports no significant contemporary Chinese immigration problem and gives 1924 figures of 6,819 admitted Chinese laborers and 3,543 admitted Chinese non-laborers.",
+   "keywords": [
+    "Taiwan",
+    "Chinese immigration",
+    "legal translations",
+    "police surveillance",
+    "admission statistics"
+   ]
+  },
+  {
+   "title": "Regulations Governing Chinese Laborers",
+   "doc_type": "translated administrative order",
+   "start_page": 13,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1904-09-24",
+   "from": "Taiwan Government-General",
+   "to": "",
+   "about": "Regulates the recruitment, documentation, landing, employment, support, and deportation of Chinese laborers in Taiwan.",
+   "summary": "Chinese manual laborers were required to possess sailing certificates issued by licensed agents and to obtain and carry landing permits in Taiwan. Labor agents had to post security, screen applicants, provide relief in cases of sickness or accident, and pay deportation costs. The regulations authorized deportation of persons considered harmful and imposed fines on unlicensed agents, ship captains, facilitators, and noncompliant laborers. Amendments through 1920 altered provisions including the required security.",
+   "keywords": [
+    "Chinese laborers",
+    "Taiwan",
+    "landing permits",
+    "labor agents",
+    "deportation",
+    "penalties"
+   ]
+  },
+  {
+   "title": "Regulations Regarding Enforcement of the Regulations Governing Chinese Laborers",
+   "doc_type": "translated administrative instruction",
+   "start_page": 17,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1904-09",
+   "from": "Taiwan Government-General",
+   "to": "Provincial and prefectural governments in Taiwan",
+   "about": "Provides administrative procedures for examining, documenting, supervising, and deporting Chinese laborers.",
+   "summary": "The instruction directs officials to examine arriving laborers and sailing certificates, record admissions, and issue landing permits. It governs investigations of labor-agent license applicants, relief for sick or deported workers, and reports on violations. Officials could deport specified categories, including quack medicine vendors, fortune tellers, rumor-spreading entertainers, habitual thieves, and persons refusing classification as laborers. Deportees were to remain under police surveillance, and relevant Japanese consuls in China were to be notified.",
+   "keywords": [
+    "enforcement",
+    "Chinese laborers",
+    "landing permits",
+    "police surveillance",
+    "deportation",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Form No. 1: Register of Landing Permits Granted to Chinese Laborers",
+   "doc_type": "blank administrative form",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "",
+   "from": "Taiwan Government-General",
+   "to": "",
+   "about": "Provides a register for recording landing permits issued to Chinese laborers.",
+   "summary": "The form records the permit number, native place, name, age, type of labor, landing port, and responsible labor agent or agency. It implements the recordkeeping required by the enforcement regulations.",
+   "keywords": [
+    "landing permits",
+    "register",
+    "Chinese laborers",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Form No. 2: Landing Permit",
+   "doc_type": "blank administrative form",
+   "start_page": 22,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "",
+   "from": "Taiwan Government-General",
+   "to": "Chinese laborer",
+   "about": "Provides the official landing permit issued to an admitted Chinese laborer.",
+   "summary": "The permit records the laborer's name, age, native place, occupation, landing port, and labor agent. It includes space for a photograph, date, seal, and issuing provincial or prefectural government, together with printed Chinese-language provisions from the governing regulations.",
+   "keywords": [
+    "landing permit",
+    "Chinese laborers",
+    "photograph",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Form No. 3: Report on Chinese Laborers Deported",
+   "doc_type": "blank administrative form",
+   "start_page": 23,
+   "end_page": 23,
+   "continues_previous": false,
+   "date": "",
+   "from": "Provincial or prefectural governor",
+   "to": "Governor-General of Taiwan",
+   "about": "Provides a standardized report for individual deportations of Chinese laborers.",
+   "summary": "The form requests the deportation order date, embarkation details, ship, native place, temporary residence, occupation, name, age, and reason for deportation. It was designed for reporting provincial or prefectural deportation actions to the Taiwan Government-General.",
+   "keywords": [
+    "deportation",
+    "reporting form",
+    "Chinese laborers",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Form No. 4: Monthly List of Chinese Laborers Landed in or Returned from Taiwan",
+   "doc_type": "blank statistical form",
+   "start_page": 24,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "",
+   "from": "Provincial or prefectural government",
+   "to": "Taiwan Government-General",
+   "about": "Provides a monthly statistical table for Chinese laborers entering or leaving Taiwan.",
+   "summary": "The table classifies laborers by native place, sex, and occupation, with columns for Canton, Fuzhou, and Xiamen. Suggested occupational categories include farm laborers, firemen, chair carriers, rickshaw pullers, miners, and fishermen. Arrivals and departures were to be reported separately.",
+   "keywords": [
+    "migration statistics",
+    "Chinese laborers",
+    "occupations",
+    "Taiwan",
+    "monthly reporting"
+   ]
+  },
+  {
+   "title": "Regulations Governing Entry of Aliens in Taiwan",
+   "doc_type": "translated administrative order",
+   "start_page": 25,
+   "end_page": 26,
+   "continues_previous": false,
+   "date": "1918-02-10",
+   "from": "Taiwan Government-General",
+   "to": "",
+   "about": "Establishes general passport, exclusion, inspection, and deportation rules for aliens arriving in Taiwan.",
+   "summary": "Provincial or prefectural governors could refuse entry to undocumented aliens, suspected enemies, threats to public order, paupers, persons with dangerous diseases, and those likely to become public charges. Passports or nationality certificates normally required photographs and a recent Japanese diplomatic or consular visa. Police could demand documents and truthful answers, while governors could deport persons using fraudulent or improperly obtained papers. Diplomats, officials, their families, and foreign ship crews were exempt.",
+   "keywords": [
+    "alien entry",
+    "Taiwan",
+    "passports",
+    "exclusion",
+    "deportation"
+   ]
+  },
+  {
+   "title": "Memorandum on the President Jefferson Incident",
+   "doc_type": "State Department memorandum",
+   "start_page": 27,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1933-03-30",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State file",
+   "about": "Reviews the Yokohama detention of the S.S. President Jefferson and recommends no further action.",
+   "summary": "The memorandum attributes the incident to a junior deck officer initially preventing police and immigration officers from boarding during quarantine inspection, partly because some were not in uniform. Yokohama authorities then restricted normal communication and work aboard the vessel until Consul De Vault intervened. Because subsequent exchanges produced a satisfactory local settlement, the division concluded that the file need only be retained for reference in case of recurrence.",
+   "keywords": [
+    "President Jefferson",
+    "Yokohama",
+    "harbor police",
+    "immigration inspection",
+    "no further action"
+   ]
+  },
+  {
+   "title": "Despatch No. 132: Detention of the S.S. President Jefferson in Yokohama Harbor",
+   "doc_type": "consular despatch",
+   "start_page": 29,
+   "end_page": 36,
+   "continues_previous": false,
+   "date": "1933-02-28",
+   "from": "Charles L. De Vault, American Consul, Yokohama",
+   "to": "Secretary of State",
+   "about": "Reports the three-hour restriction of an American passenger vessel by Yokohama Harbor Police and the negotiated settlement.",
+   "summary": "De Vault explains that junior deck officer Robert Sweetser mistakenly barred plainclothes immigration officers from boarding while the vessel was under quarantine inspection. The police retaliated by restricting passengers, cargo handling, fueling, and other activities until the consul secured the vessel's release. De Vault considered the police response excessive but acknowledged the ship officer's poor judgment and found no political, racial, or anti-American motive. He handled the dispute locally and obtained assurances satisfactory to the ship, its management, the embassy, and the Tokyo consulate general.",
+   "keywords": [
+    "President Jefferson",
+    "Yokohama Harbor Police",
+    "consular intervention",
+    "immigration officers",
+    "shipping delay",
+    "settlement"
+   ]
+  },
+  {
+   "title": "De Vault's Initial Letter Concerning the Boarding Misunderstanding",
+   "doc_type": "letter",
+   "start_page": 37,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1933-02-05",
+   "from": "Charles L. De Vault",
+   "to": "Sukenari Yokoyama",
+   "about": "Expresses regret for the misunderstanding that prevented Japanese immigration officers from boarding the President Jefferson.",
+   "summary": "De Vault explains that the quartermaster did not understand Japanese and could not identify the plainclothes officers because they displayed no badges. He states that ship personnel invited the officers aboard once their identity became known, but they declined. The letter hopes that no similar incident will occur again.",
+   "keywords": [
+    "boarding misunderstanding",
+    "immigration officers",
+    "President Jefferson",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Captain Lustie's Letter Concerning the Boarding Misunderstanding",
+   "doc_type": "letter",
+   "start_page": 38,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "1933-02-05",
+   "from": "A. O. Lustie",
+   "to": "Sukenari Yokoyama",
+   "about": "Explains the captain's view of the mistaken refusal to admit Japanese immigration officers.",
+   "summary": "Lustie's letter repeats De Vault's explanation that language difficulties and the officers' lack of uniforms or badges caused the misunderstanding. He adds that the ship's officers had no intention of interfering with immigration officials and believed they were obeying Japanese quarantine rules.",
+   "keywords": [
+    "President Jefferson",
+    "quarantine",
+    "immigration officers",
+    "apology",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Robert Sweetser's Letter Concerning the Boarding Misunderstanding",
+   "doc_type": "letter",
+   "start_page": 39,
+   "end_page": 39,
+   "continues_previous": false,
+   "date": "1933-02-05",
+   "from": "Robert Sweetser",
+   "to": "Sukenari Yokoyama",
+   "about": "Gives the junior deck officer's written explanation of why he initially refused entry to plainclothes immigration officers.",
+   "summary": "Sweetser repeats that the officers did not wear uniforms or badges and were not initially identifiable to him. He states that there was no intention to obstruct immigration inspection and that the ship's personnel were attempting to comply with quarantine regulations.",
+   "keywords": [
+    "Robert Sweetser",
+    "boarding refusal",
+    "immigration inspection",
+    "quarantine",
+    "President Jefferson"
+   ]
+  },
+  {
+   "title": "American Mail Line Protest over Delay to the President Jefferson",
+   "doc_type": "business letter",
+   "start_page": 40,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1933-02-05",
+   "from": "F. C. Thompson",
+   "to": "Sukenari Yokoyama",
+   "about": "Protests the harbor police restrictions that delayed the President Jefferson's passengers, cargo work, and refueling.",
+   "summary": "Thompson describes how unidentified immigration officials were initially refused entry but were invited aboard immediately after ship personnel learned who they were. He protests the officials' subsequent refusal to begin passport examination or permit stevedores and fuel suppliers aboard until 11:45 a.m. The delay threatened the vessel's schedule through Kobe and Shanghai and allegedly caused substantial financial loss. Thompson asks for confirmation that the police action was unwarranted and assurances against recurrence.",
+   "keywords": [
+    "shipping protest",
+    "President Jefferson",
+    "stevedoring",
+    "fueling",
+    "Yokohama Harbor Police",
+    "delay"
+   ]
+  },
+  {
+   "title": "Formal Consular Protest over the President Jefferson's Detention",
+   "doc_type": "diplomatic representation",
+   "start_page": 42,
+   "end_page": 52,
+   "continues_previous": false,
+   "date": "1933-02-07",
+   "from": "Charles L. De Vault",
+   "to": "Sukenari Yokoyama",
+   "about": "Presents a detailed protest against the police restriction of the vessel, its officers, passengers, cargo operations, and shore access.",
+   "summary": "De Vault characterizes the restriction as an unjustified virtual arrest that interfered with fueling, cargo handling, immigration processing, and the work of the captain, general agent, and port captain. He reconstructs the boarding misunderstanding, emphasizing the plainclothes officers' failure to identify themselves and Sweetser's immediate effort to reverse his refusal. The protest also describes repeated police demands for written admissions or apologies before the vessel was released following consular telephone intervention. Although De Vault rejects suggestions of anti-foreign, racial, or political motives, he requests firm measures preventing any recurrence.",
+   "keywords": [
+    "formal protest",
+    "President Jefferson",
+    "harbor police",
+    "passport inspection",
+    "shipping operations",
+    "consular protection"
+   ]
+  },
+  {
+   "title": "Governor Yokoyama's Reply to the American Mail Line",
+   "doc_type": "letter",
+   "start_page": 53,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1933-02-09",
+   "from": "Sukenari Yokoyama",
+   "to": "F. C. Thompson",
+   "about": "Defends the immigration officers and disputes the company's account of the President Jefferson incident.",
+   "summary": "Yokoyama states that the immigration personnel boarded early for the convenience of the ship and passengers but were forcibly prevented from performing passport work. He argues that their regular clothing, police identification books, official launch, and identification by a company representative should have established their status. He denies that the passport dispute caused the stevedore-license inspection and refuses to guarantee non-recurrence if ship crews continue such conduct. He suggests that future immigration examinations could instead wait until ships are moored at the pier.",
+   "keywords": [
+    "official reply",
+    "immigration officers",
+    "passport examination",
+    "stevedores",
+    "President Jefferson"
+   ]
+  },
+  {
+   "title": "De Vault's Proposed Understanding on the President Jefferson Incident",
+   "doc_type": "consular letter",
+   "start_page": 55,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1933-02-24",
+   "from": "Charles L. De Vault",
+   "to": "Sukenari Yokoyama",
+   "about": "Seeks written confirmation of a conciliatory interpretation and settlement of the harbor incident.",
+   "summary": "De Vault states that the affair resulted from a mutual misunderstanding, primarily caused by language difficulties. He records an understanding that both American ship personnel and Japanese authorities would receive instructions to observe customary courtesies and prevent recurrence. He also seeks confirmation that the Japanese authorities did not intend to restrict lawful American shipping operations or discriminate against American vessels.",
+   "keywords": [
+    "conciliation",
+    "mutual misunderstanding",
+    "American shipping",
+    "non-discrimination",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Governor Yokoyama's Confirmation of Settlement",
+   "doc_type": "letter",
+   "start_page": 57,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1933-02-25",
+   "from": "Sukenari Yokoyama",
+   "to": "Charles L. De Vault",
+   "about": "Confirms the agreed characterization of the incident as a mutual misunderstanding and promises preventive instructions.",
+   "summary": "Yokoyama concurs with De Vault's February 24 letter and expresses regret for the occurrence. He attributes it to a mutual misunderstanding during passport inspection and promises careful instructions to the officials concerned. He asks that the consul similarly inform the ship's officers.",
+   "keywords": [
+    "settlement",
+    "mutual misunderstanding",
+    "passport inspection",
+    "preventive instructions"
+   ]
+  },
+  {
+   "title": "Port Report—Yokohama, Voyage No. 40 West",
+   "doc_type": "ship master's report",
+   "start_page": 58,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1933-02-06",
+   "from": "A. O. Lustie",
+   "to": "Erik G. Froberg",
+   "about": "Reports the boarding dispute, police-imposed delay, cargo operations, fueling, and passenger movements during the President Jefferson's Yokohama call.",
+   "summary": "Lustie describes the plainclothes immigration officers' unsuccessful attempt to board during quarantine and Sweetser's prompt effort to correct the misunderstanding. After the ship docked, police prevented most stevedores, passengers, and company personnel from proceeding until De Vault intervened and the ship was released at 11:45 a.m. The report records the ensuing cargo delays, fuel and water received, passenger movements, and a departure for Kobe two days and three hours behind schedule. Lustie also notes that the consul intended to seek assurances against similar interference with American-flag vessels.",
+   "keywords": [
+    "port report",
+    "President Jefferson",
+    "Yokohama",
+    "cargo operations",
+    "passenger movements",
+    "harbor police"
+   ]
+  },
+  {
+   "title": "Robert Sweetser's Report on the Immigration-Officer Incident",
+   "doc_type": "ship officer's report",
+   "start_page": 62,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1933-02-06",
+   "from": "Robert Sweetser",
+   "to": "A. O. Lustie",
+   "about": "Provides Sweetser's first-person account of his encounter with the plainclothes immigration officers.",
+   "summary": "Sweetser explains that he was stationed at the accommodation ladder to exclude unauthorized persons during quarantine inspection. He admitted uniformed officials but questioned the unidentified men in civilian clothes, whose replies he could not understand and who displayed no identification. After learning from Neitman that they were immigration officers, Sweetser and Neitman tried unsuccessfully to recall and explain matters to them before their launch departed.",
+   "keywords": [
+    "Robert Sweetser",
+    "eyewitness report",
+    "quarantine",
+    "immigration officers",
+    "accommodation ladder"
+   ]
+  },
+  {
+   "title": "Department of State Acknowledgment of the President Jefferson Settlement",
+   "doc_type": "official letter",
+   "start_page": 64,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1933-04-12",
+   "from": "William Phillips, for the Secretary of State",
+   "to": "Charles L. De Vault",
+   "about": "Approves the mutually satisfactory and unpublicized resolution of the Yokohama incident.",
+   "summary": "The Department refers to De Vault's Despatch No. 132 of February 28, 1933. It expresses gratification that the President Jefferson incident was adjusted to mutual satisfaction and without publicity.",
+   "keywords": [
+    "State Department",
+    "approval",
+    "President Jefferson",
+    "settlement",
+    "publicity"
+   ]
+  },
+  {
+   "title": "Trend of Migratory Movements—Japan",
+   "doc_type": "analytical report",
+   "start_page": 65,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1934-10-19",
+   "from": "J. M. Allison, American Vice Consul; approved by Arthur Garrels",
+   "to": "Department of State",
+   "about": "Begins a broad study of Japanese emigration, immigration, colonial settlement, and foreign immigration restrictions.",
+   "summary": "The title page and contents outline a report covering Japanese migration to Brazil, other parts of South America, Asia, Manchukuo, and the Philippines, as well as immigration into Japan and restrictive legislation. The introduction traces migration from Hawaii and the United States to the growing government-directed movement toward Brazil, while comparing overseas Japanese populations with foreign and Korean migration into Japan. It discusses exclusionary measures in the United States, Canada, and Australia and identifies Japanese emigration as a controlled instrument of government policy. The historical section begins with Tokugawa isolation, Commodore Perry's arrival, early Hawaiian migration, the Gentlemen's Agreement, and the subsequent restriction of passport issuance; the report continues beyond page 72.",
+   "keywords": [
+    "Japanese emigration",
+    "Hawaii",
+    "Brazil",
+    "Gentlemen's Agreement",
+    "Immigration Act of 1924",
+    "migration statistics",
+    "government policy",
+    "restrictive legislation"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 3,
+  "pages": [
+   1,
+   72
+  ],
+  "pdf": "894.55 Japan, Immigration. Head Tax., March 31, 1931 - June 19, 1939 1105.pdf",
+  "seconds": 252.8,
+  "created": "2026-09-29 20:29:00",
+  "key": "japan-internal-affairs-894.55-japan-immigration-head-2"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "interest": "A 1940 memo on Japan curbing its bureaucracy, and a 1944 OSS withdrawal sheet.",
+ "keywords": [
+  "Japanese civil service",
+  "administrative reform",
+  "Ministry of Foreign Affairs",
+  "Manchukuo",
+  "bureaucracy",
+  "Office of Strategic Services",
+  "William J. Donovan",
+  "Secret Intelligence Branch",
+  "Division of Far Eastern Affairs",
+  "State Department decimal file",
+  "diplomatic examinations",
+  "classified records"
+ ],
+ "overview": "Ivan B. White's July 1940 memo on Japanese Cabinet civil service reform proposals, plus a withdrawal notice for a 1944 OSS letter to William J. Donovan.",
+ "people": [
+  {
+   "name": "William J. Donovan",
+   "role": "Director, Office of Strategic Services (OSS)",
+   "variants": [
+    "DONOVAN"
+   ]
+  },
+  {
+   "name": "Ivan B. White",
+   "role": "Officer, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "White",
+    "IBW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "\"Manchukuo\"",
+    "Manchukuo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A withdrawal sheet indicating that a classified letter from the OSS Secret Intelligence Branch to William J. Donovan was removed from the file.",
+   "date": "1944-09-12",
+   "doc_type": "withdrawal notice",
+   "end_page": 1,
+   "from": "Chief, Secret Intelligence Branch, Office of Strategic Services (OSS)",
+   "keywords": [
+    "Office of Strategic Services",
+    "William J. Donovan",
+    "Secret Intelligence Branch",
+    "security-classified information",
+    "withdrawal notice",
+    "CIA/OSS"
+   ],
+   "start_page": 1,
+   "summary": "Withdrawal notice for a September 12, 1944 OSS Secret Intelligence letter to William J. Donovan, removed 1981.",
+   "title": "Withdrawal Notice for Letter from Chief, SI Branch to William J. Donovan (894.0146/9-12-44)",
+   "to": "William J. Donovan"
+  },
+  {
+   "about": "A State Department memorandum summarizing Tokyo Embassy Despatch No. 4767 regarding proposed reforms to the Japanese civil service system.",
+   "date": "1940-07-12",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Ivan B. White, Division of Far Eastern Affairs, Department of State",
+   "keywords": [
+    "Japanese civil service",
+    "bureaucracy",
+    "Cabinet",
+    "diplomatic examinations",
+    "Ministry of Foreign Affairs",
+    "Manchukuo",
+    "administrative reform"
+   ],
+   "start_page": 2,
+   "summary": "Ivan B. White summarizes Tokyo Despatch No. 4767 on Cabinet proposals to reform Japan's civil service, including merged examinations and curbs on bureaucratic tenure.",
+   "title": "Memorandum by Division of Far Eastern Affairs on Proposed Changes in the Japanese Civil Service",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14181,
+   "output_tokens": 7458,
+   "thinking_tokens": 6249,
+   "cache_read_tokens": 0,
+   "total_tokens": 21639
+  },
+  "backend": "agy",
+  "seconds": 25.4,
+  "identifier": "japan-internal-affairs-894.0146-government-mandates-recognition-2",
+  "file": "894.0146 Government. Mandates, Recognition., Territory. Maps, Japan, Territory Occupied By Foreign Military Forces., July 12, 1940 - September 12, 1944 1446.pdf",
+  "created": "2026-09-28 22:10:37"
+ }
+}

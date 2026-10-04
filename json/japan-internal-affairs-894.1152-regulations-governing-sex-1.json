@@ -1,0 +1,92 @@
+{
+ "interest": "1932 FBI tracking of Ted Dunn for suspected vice traffic.",
+ "keywords": [
+  "Ted Dunn",
+  "Bureau of Investigation",
+  "Department of Justice",
+  "Seattle",
+  "white-slave traffic",
+  "procurement",
+  "human trafficking",
+  "sex relations regulations",
+  "Orient",
+  "surveillance",
+  "cross-reference sheet"
+ ],
+ "overview": "Cross-reference note (1932) on a Bureau of Investigation report about Ted Dunn's suspicious travels in the Orient.",
+ "people": [
+  {
+   "name": "Ted Dunn",
+   "role": "Traveler suspected of illicit activities",
+   "variants": [
+    "Ted Dunn",
+    "Dunn, Ted"
+   ]
+  },
+  {
+   "name": "John A. Dowd",
+   "role": "Special Agent in Charge, Bureau of Investigation, Seattle, Washington",
+   "variants": [
+    "John A. Dowd",
+    "Mr. John A. Dowd"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "East Asia",
+   "variants": [
+    "Orient"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Washington",
+   "variants": [
+    "Washington"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet recording a Department of Justice report on the suspicious activities and travels of Ted Dunn in the Orient.",
+   "date": "1932-04-16",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of Justice",
+   "keywords": [
+    "Ted Dunn",
+    "Bureau of Investigation",
+    "Department of Justice",
+    "Seattle",
+    "white-slave traffic",
+    "Orient",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to a 1932 Justice Department report on Ted Dunn's travels in the Orient.",
+   "title": "Document File Note regarding Ted Dunn",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13676,
+   "output_tokens": 3158,
+   "thinking_tokens": 2467,
+   "cache_read_tokens": 0,
+   "total_tokens": 16834
+  },
+  "backend": "agy",
+  "seconds": 12.2,
+  "identifier": "japan-internal-affairs-894.1152-regulations-governing-sex-1",
+  "file": "894.1152 Regulations Governing %D0, Sex Relations., Japan, Procurement. White-Slave Traffic., April 16, 1932 749.pdf",
+  "created": "2026-09-28 23:15:41"
+ }
+}

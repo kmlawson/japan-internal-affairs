@@ -1,0 +1,78 @@
+{
+ "interest": "This document provides rare, early World War II intelligence (dated January 14, 1942, just weeks after the outbreak of the Pacific War) on Japanese chemical warfare and anti-tank munitions derived from captured battlefield materiel and prisoner documentation. It illustrates early Allied technical intelligence cooperation between British and American authorities analyzing chemical composition, stabilizers, and incendiary properties of captured weapons. Additionally, it highlights initial American and British anxieties regarding Japanese employment of toxic chemical agents against armored fighting vehicles.",
+ "keywords": [
+  "chemical warfare",
+  "gas grenade",
+  "Japanese military",
+  "ordnance",
+  "War Department",
+  "Military Intelligence Division",
+  "anti-tank weapons",
+  "incendiary agents",
+  "hydrocyanic acid",
+  "phosphorus",
+  "Chemical Warfare Service",
+  "prisoner of war"
+ ],
+ "overview": "This file consists of a single-page War Department military intelligence bulletin (I.B. No. 32 / No. 1662) dated January 14, 1942, forwarded to the Department of State's Division of Far Eastern Affairs. The document reports on intelligence recovered from a captured Japanese soldier's notebook and laboratory tests regarding a Japanese chemical gas grenade designed for use against enclosed targets such as tanks. It describes the physical construction of the grenade—a one-pint glass flask filled with liquid acid packed inside a tin canister—and details British ballistic and chemical tests assessing its detonator mechanism, potential chemical stabilizer (phosphoric acid), and possible incendiary properties (phosphorus).",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Eastern"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A War Department intelligence bulletin reporting specifications and British test results on captured Japanese chemical anti-tank gas grenades.",
+   "date": "1942-01-14",
+   "doc_type": "military intelligence bulletin",
+   "end_page": 1,
+   "from": "War Department, Military Intelligence Division",
+   "keywords": [
+    "gas grenade",
+    "chemical warfare",
+    "hydrochloric acid",
+    "tanks",
+    "British tests",
+    "phosphorus",
+    "incendiary agent",
+    "prisoner notebook"
+   ],
+   "start_page": 1,
+   "summary": "This intelligence bulletin details information recovered from a notebook found on a Japanese prisoner concerning a gas grenade designed for enclosed spaces such as armored vehicles and effective for 30 seconds after detonation. The device is described as a one-pint glass flask filled with liquid acid (transcribed as HCl, likely referring to hydrocyanic acid) packed in a tin canister. The report also conveys findings from British testing regarding detonator performance, identifying container sediment as phosphoric acid stabilizer, while American or allied analysts suggest it may function as an incendiary phosphorus agent.",
+   "title": "War Department Intelligence Bulletin on Japanese Gas Grenades",
+   "to": "Department of State, Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14159,
+   "output_tokens": 3884,
+   "thinking_tokens": 3216,
+   "cache_read_tokens": 0,
+   "total_tokens": 18043
+  },
+  "backend": "agy",
+  "seconds": 16.1,
+  "identifier": "japan-internal-affairs-894.2424-equipment-and-supplies-2",
+  "file": "894.2424 Equipment And Supplies., Armaments. Ordnance., Japan, Chemicals. Gas., January 14, 1942 1321.pdf",
+  "created": "2026-09-29 03:45:18"
+ }
+}

@@ -1,0 +1,886 @@
+{
+ "section_summary": "This section traces Japanese labor conditions from 1930 through 1939, beginning with wage increases, statutory limits on working hours, and extensive consular surveys of wages, employment, benefits, and prices. The reports cover Japan nationally and such districts as Tokyo, Yokohama, Nagoya, Nagasaki, Kobe–Osaka, and colonial Taiwan, while repeatedly warning that basic wages omit bonuses, housing, food, pensions, and medical care. The final documents show labor policy shifting toward wartime state control under the National General Mobilization Law, culminating in comprehensive price, wage, rent, and utility controls in 1939.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japan Proper",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yakehmme",
+    "Yokohama Consular District"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Jokyo",
+    "Toryo",
+    "Tokvo",
+    "Tokyo district"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON",
+    "Washington, D. J."
+   ]
+  },
+  {
+   "name": "Western countries",
+   "variants": [
+    "western countries"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "9saka",
+    "Osaka Prefecture",
+    "Kobe-Osaka"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "U.S.A.",
+    "United States"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European countries",
+    "European war"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki",
+    "Magasaki",
+    "Nagasaki District",
+    "Nagasaki consular district"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagoye",
+    "MAGOYA",
+    "Nagoya District",
+    "Nagoya Consular District"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Kebe",
+    "Kob•",
+    "Kobe area",
+    "Kobe-Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kyeto"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Koohi"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gunma"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "ukui"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano",
+    "Nagano Prefecture"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aiohi"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Tai wan",
+    "Formosan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku",
+    "Tainoku"
+   ]
+  },
+  {
+   "name": "Hsinchu",
+   "variants": [
+    "Shinchiku"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Tai chu"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "Takmo"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "South anehuria"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Castle",
+   "role": "Sender identified in the February 1930 document-file note from Japan",
+   "variants": [
+    "Castle"
+   ]
+  },
+  {
+   "name": "Arthur Garrels",
+   "role": "American Consul General at Tokyo; author, compiler, and approving officer for several labor reports",
+   "variants": [
+    "Arthur Garrels",
+    "Garrels",
+    "Garrel"
+   ]
+  },
+  {
+   "name": "Robert J. Phillips",
+   "role": "Liaison officer, Bureau of Foreign and Domestic Commerce",
+   "variants": [
+    "Robert J. Phillips",
+    "hovert J. Philiips"
+   ]
+  },
+  {
+   "name": "Carr",
+   "role": "Assistant Secretary of State and recipient of the Bureau of Foreign and Domestic Commerce letter",
+   "variants": [
+    "Mr. Carr"
+   ]
+  },
+  {
+   "name": "Hamaguchi",
+   "role": "Head of the Hamaguchi Cabinet mentioned in the discussion of retrenchment and the gold embargo",
+   "variants": [
+    "Hamaguohi",
+    "Hamaguchi"
+   ]
+  },
+  {
+   "name": "Henry B. Hitchcock",
+   "role": "American Consul at Nagasaki and compiler of the Nagasaki wage report",
+   "variants": [
+    "Henry B. Hitohoook",
+    "Hitchcock"
+   ]
+  },
+  {
+   "name": "H. Merrel Benninghoff",
+   "role": "American Vice Consul who supplied Nagoya textile and pottery wage data",
+   "variants": [
+    "H. Merrel Benninghofr",
+    "H. Merrel Benninghoff"
+   ]
+  },
+  {
+   "name": "C. A. Hutchinson",
+   "role": "American Vice Consul who prepared the 1934 national wage report",
+   "variants": [
+    "C. A. Hutchinson",
+    "Hutcinson"
+   ]
+  },
+  {
+   "name": "Walter P. McConaughy",
+   "role": "Vice Consul who prepared the January 1934 Kobe consular-district wage report",
+   "variants": [
+    "Walter P. MoConaughy"
+   ]
+  },
+  {
+   "name": "Howard Donovan",
+   "role": "American Consul who approved the Kobe consular-district wage report",
+   "variants": [
+    "Howard Donovan"
+   ]
+  },
+  {
+   "name": "Boyce",
+   "role": "American consular officer associated with the 1936 Yokohama wage report",
+   "variants": [
+    "Boyce"
+   ]
+  },
+  {
+   "name": "C. H. Stephan",
+   "role": "American Vice Consul who prepared the 1936 Nagoya wage report",
+   "variants": [
+    "C. H. Stophan",
+    "Stephan"
+   ]
+  },
+  {
+   "name": "A. F. Tower",
+   "role": "American Consul who prepared the September 1936 national wage report",
+   "variants": [
+    "A. F. Tower"
+   ]
+  },
+  {
+   "name": "Howard S. Maney",
+   "role": "American Consul at Taihoku who prepared the Taiwan wage report",
+   "variants": [
+    "Maney",
+    "Roward S. Meney"
+   ]
+  },
+  {
+   "name": "Cameron",
+   "role": "Officer associated with report No. 291 from Tokyo on wages in the Kobe consular district",
+   "variants": [
+    "Cameron"
+   ]
+  },
+  {
+   "name": "Grew",
+   "role": "Sender of the January 1939 Embassy despatch from Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Dooman",
+   "role": "Sender of the May 1939 despatch referenced by the cross-reference sheet",
+   "variants": [
+    "Dooman"
+   ]
+  }
+ ],
+ "keywords": [
+  "wages",
+  "working hours",
+  "labor conditions",
+  "miners",
+  "women and juvenile workers",
+  "employment statistics",
+  "commodity prices",
+  "bonuses and employee benefits",
+  "regional wage surveys",
+  "Taiwan labor",
+  "National General Mobilization Law",
+  "price and wage controls"
+ ],
+ "subfiles": [
+  {
+   "title": "Document-file note and attached press excerpt on the Ford wage increase at Yokohama",
+   "doc_type": "Document-file note with attached press excerpt",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1930-02-08",
+   "from": "Japan (Castle)",
+   "to": "",
+   "about": "Records Ford Motor Company's increase of its Yokohama factory minimum wage from five to six yen per day effective January 1.",
+   "summary": "The file note points to an attached copy concerning Ford's wage increase. The excerpt says the company attributed the rise to a policy of encouraging employees and improving efficiency rather than to increased business activity.",
+   "keywords": [
+    "Ford Motor Company",
+    "Yokohama",
+    "minimum wage",
+    "wage increase",
+    "employee efficiency"
+   ]
+  },
+  {
+   "title": "The Application of a Ten-hour Day for Miners in Japan",
+   "doc_type": "Consular despatch",
+   "start_page": 3,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1930-09-03",
+   "from": "Arthur Garrels, American Consul General, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports the implementation of Japan's first effective statutory limitation on hours of labor.",
+   "summary": "Garrels reports that Article 5 of the 1928 miners' protection law, prescribing a ten-hour day, became effective on September 1, 1930. Because the ten-hour span included recesses, it represented eight hours of actual work and conformed to the International Labor Conference agreement. He regards the measure as a significant step toward the westernization of Japanese labor standards, though much export production still came from small establishments and home industry.",
+   "keywords": [
+    "miners",
+    "ten-hour day",
+    "eight-hour workday",
+    "labor legislation",
+    "International Labor Conference"
+   ]
+  },
+  {
+   "title": "Transmittal of despatch on the ten-hour day for miners",
+   "doc_type": "Departmental transmittal letter",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1930-10-02",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Forwards a copy of Arthur Garrels's despatch concerning the ten-hour day for Japanese miners.",
+   "summary": "The Secretary of State transmits despatch No. 68 of September 3, 1930, to the Secretary of Labor for information. The enclosure concerns the implementation of statutory working-hour limits for miners in Japan.",
+   "keywords": [
+    "transmittal",
+    "Department of Labor",
+    "miners",
+    "ten-hour day"
+   ]
+  },
+  {
+   "title": "Bureau of Foreign and Domestic Commerce appreciation for the miners' hours report",
+   "doc_type": "Interdepartmental letter",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1930-10-07",
+   "from": "Robert J. Phillips, Liaison Officer, Bureau of Foreign and Domestic Commerce",
+   "to": "Mr. Carr, Assistant Secretary of State",
+   "about": "Acknowledges Garrels's report and announces its use in an article for Commerce Reports.",
+   "summary": "The Commercial Laws Division expresses appreciation for the Tokyo consulate's report on Japan's first operative legal limitation of working hours. It plans to publish the information in Commerce Reports, emphasizing the measure as evidence of Japan's gradual westernization.",
+   "keywords": [
+    "Bureau of Foreign and Domestic Commerce",
+    "Commerce Reports",
+    "labor law",
+    "miners",
+    "appreciation"
+   ]
+  },
+  {
+   "title": "Instruction forwarding Commerce's appreciation to the Consul General",
+   "doc_type": "Departmental instruction",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1930-10-15",
+   "from": "Secretary of State",
+   "to": "American Consul General, Tokyo",
+   "about": "Forwards the Bureau of Foreign and Domestic Commerce's appreciation for the report on miners' working hours.",
+   "summary": "The Department refers to despatch No. 68 and encloses the Commerce Bureau's October 7 letter. The enclosure conveys the Commercial Laws Division's appreciation for the labor data submitted by the Consul General.",
+   "keywords": [
+    "departmental instruction",
+    "miners",
+    "working hours",
+    "Commerce Bureau"
+   ]
+  },
+  {
+   "title": "Transmission of data regarding wages, employment, and commodity prices in Japan",
+   "doc_type": "Consular despatch with printed enclosure",
+   "start_page": 8,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1930-10-28",
+   "from": "Arthur Garrels, American Consul General, Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits statistical material from Present-Day Japan on depression-era prices, wages, and employment.",
+   "summary": "Garrels encloses data from the Asahi's Present-Day Japan showing rising unemployment, slowly declining wages, and falling commodity prices. The enclosure attributes the price decline to overproduction, weak purchasing power, government retrenchment, anticipation of lifting the gold embargo, and the American stock-market crash. Tables and charts compare Japanese prices internationally and trace monthly employment, wage, and earnings indices by sex.",
+   "keywords": [
+    "commodity prices",
+    "wages",
+    "employment",
+    "economic depression",
+    "gold embargo",
+    "price indices",
+    "gender"
+   ]
+  },
+  {
+   "title": "Extension of Working Hours of Minors and Women, and Violations of the Factory Law",
+   "doc_type": "Consular despatch",
+   "start_page": 14,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1931-03-17",
+   "from": "Arthur Garrels, American Consul General, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports authorized extensions of hours for protected workers and violations of juvenile labor regulations in Osaka Prefecture.",
+   "summary": "The Home Office reportedly authorized eleven- to twelve-hour days for women and minors in canning and other special factories for as many as 120 days annually. An Osaka Prefectural investigation found ten of sixty-six small textile plants violating juvenile-hour rules, including cases of minors working fifteen uninterrupted hours. Employers blamed urgent orders and workforces reduced during the 1930 depression.",
+   "keywords": [
+    "women workers",
+    "juvenile labor",
+    "Factory Law",
+    "Osaka Prefecture",
+    "working hours",
+    "textile mills"
+   ]
+  },
+  {
+   "title": "Eight-hour Day for Miners in Japan",
+   "doc_type": "Consular despatch",
+   "start_page": 16,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1931-04-01",
+   "from": "Arthur Garrels, American Consul General, Tokyo",
+   "to": "Secretary of State",
+   "about": "Explains the Japanese government's opposition to an international eight-hour standard for coal miners.",
+   "summary": "Garrels reports that Japan intended to resist reducing its recently instituted ten-hour miners' day to eight hours at the forthcoming Geneva conference. The Social Welfare Bureau argued that the proposed convention addressed European overproduction and that Japan could not move directly from its new ten-hour system to the lower standard.",
+   "keywords": [
+    "coal miners",
+    "eight-hour day",
+    "ten-hour day",
+    "International Labor Conference",
+    "Geneva",
+    "Japanese government"
+   ]
+  },
+  {
+   "title": "Current Wages in Japan",
+   "doc_type": "Required consular report with statistical tables",
+   "start_page": 18,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1931-10-09",
+   "from": "Arthur Garrels, American Consul General, Tokyo",
+   "to": "U.S. Department of State and Department of Labor",
+   "about": "Compiles basic wage schedules for major Japanese industries and selected regional centers.",
+   "summary": "The report cautions that Japanese wage scales do not represent total remuneration because paternalistic employment commonly included bonuses, housing, board, pensions, and dismissal payments. It presents national average basic wages and specialized schedules for Nagasaki shipbuilding, Nagoya pottery and textiles, and multiple industries and centers. The accompanying notes describe overtime, company housing, family allowances, medical insurance, and other benefits.",
+   "keywords": [
+    "current wages",
+    "basic wages",
+    "bonuses",
+    "paternalistic employment",
+    "shipbuilding",
+    "textiles",
+    "pottery"
+   ]
+  },
+  {
+   "title": "Report on Current Wages in the Nagasaki Consular District",
+   "doc_type": "Required consular report",
+   "start_page": 29,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1931-10-02",
+   "from": "Henry B. Hitchcock, American Consul, Nagasaki",
+   "to": "American Consulate General, Tokyo",
+   "about": "Reports compliance with instructions to supply Nagasaki wage information for a consolidated national report.",
+   "summary": "Hitchcock states that the Nagasaki office transmitted its current-wage data to the Consulate General at Tokyo. The figures were intended for incorporation into the consolidated national report rather than presentation as a separate substantive analysis here.",
+   "keywords": [
+    "Nagasaki",
+    "current wages",
+    "consular district",
+    "consolidated report"
+   ]
+  },
+  {
+   "title": "Supplement to Report, Current Wages in Japan",
+   "doc_type": "Supplementary consular report",
+   "start_page": 32,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1931-10-13",
+   "from": "Arthur Garrels, American Consul General, Tokyo",
+   "to": "U.S. Department of State and Department of Labor",
+   "about": "Adds delayed wage figures for logging and lumbering to the October 9 national wage report.",
+   "summary": "The supplement supplies wage rates for cutters, horse transport workers, sawyers, and lumber stackers. It notes that the wages exclude family and housing allowances, that no bonuses are paid, and that legally required insurance contributions are divided between employers and employees.",
+   "keywords": [
+    "logging",
+    "lumbering",
+    "wage rates",
+    "insurance contributions",
+    "supplement"
+   ]
+  },
+  {
+   "title": "Current Wages in Japan",
+   "doc_type": "Required consular report with enclosures",
+   "start_page": 35,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "1934-03-22",
+   "from": "American Consulate General, Tokyo; prepared by C. A. Hutchinson and approved by Arthur Garrels",
+   "to": "U.S. Department of State and Department of Labor",
+   "about": "Surveys Japanese wage levels in late 1933 and early 1934 while explaining the difficulty of measuring total compensation.",
+   "summary": "Hutchinson stresses that published daily wages are distorted by regional variation, household production, deductions, company housing, medical care, bonuses, and dismissal allowances. The report finds little general wage growth in 1933 except in industries supported by defense spending and observes higher wages where unions were strongest in Tokyo and Kobe–Osaka. Its enclosures provide national occupational averages, a detailed Kobe district survey, and a government statistical table covering 1,485 establishments.",
+   "keywords": [
+    "1933 wages",
+    "total remuneration",
+    "labor unions",
+    "Kobe district",
+    "occupational wages",
+    "household production",
+    "defense industries"
+   ]
+  },
+  {
+   "title": "Current Wages in the Yokohama Consular District",
+   "doc_type": "Required consular report with document-file note",
+   "start_page": 48,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1936-08-24",
+   "from": "American Consulate, Yokohama (Boyce)",
+   "to": "American Consulate General, Tokyo",
+   "about": "States that Yokohama would not prepare a separate wage report because the Consulate General was compiling one for all Japan.",
+   "summary": "The file note identifies the item as a report on current wages. The short report explains that no separate Yokohama compilation was being made because the Tokyo Consulate General was submitting a countrywide report.",
+   "keywords": [
+    "Yokohama",
+    "current wages",
+    "national report",
+    "consular reporting"
+   ]
+  },
+  {
+   "title": "Current Wages in the Nagoya Consular District",
+   "doc_type": "Required consular report with wage table",
+   "start_page": 51,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1936-09-21",
+   "from": "C. H. Stephan, American Vice Consul, Nagoya",
+   "to": "Supervisory Consul General, Tokyo",
+   "about": "Presents July 1936 wage scales and working conditions in the Nagoya district's principal industries.",
+   "summary": "The report tabulates ordinary, highest, and lowest wages, working hours, and index numbers for textile, pottery, machinery, food, miscellaneous, and building trades. Detailed commentary describes shifts, rest days, overtime, bonuses, dormitories, subsidized food and housing, medical care, recreation, and education in textile mills. It also summarizes hours, benefits, and welfare arrangements in large pottery factories.",
+   "keywords": [
+    "Nagoya",
+    "wage scales",
+    "textiles",
+    "pottery",
+    "working conditions",
+    "company welfare",
+    "bonuses"
+   ]
+  },
+  {
+   "title": "Current Wages in Japan",
+   "doc_type": "Required consular report with statistical tables",
+   "start_page": 58,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "1936-09-24",
+   "from": "American Consulate General, Tokyo; prepared by A. F. Tower and approved by Arthur Garrels",
+   "to": "U.S. Department of State and Department of Labor",
+   "about": "Reports 1936 wage conditions, emphasizing Tokyo occupational wages, government employment, and declining real wages.",
+   "summary": "Tower warns that daily-wage averages omit varying charges or benefits for housing, food, medical services, bonuses, and dismissal allowances. He compares June 1936 Tokyo occupational wages with 1935, relates Tokyo wages to thirteen major Japanese cities and the United States, and notes that government factory wages were about twenty percent above private wages. A final table documents a sustained decline in the real value of wages after October 1931, especially for female labor.",
+   "keywords": [
+    "Tokyo wages",
+    "government employment",
+    "private industry",
+    "real wages",
+    "wage indices",
+    "female labor",
+    "international comparison"
+   ]
+  },
+  {
+   "title": "Current Wages in Taiwan",
+   "doc_type": "Required consular report",
+   "start_page": 67,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1936-10-16",
+   "from": "Howard S. Maney, American Consul, Taihoku",
+   "to": "Commercial Office, Department of State; Commercial Attaché and Consul General, Tokyo",
+   "about": "Reports wage levels and employment practices for export and other industries in Japanese-ruled Taiwan.",
+   "summary": "The report lists wages in mining, tea, rice, pineapple canning, paper-hat making, and other export trades across several Taiwanese provinces. It states that Formosan Chinese workers generally labored ten hours a day, seven days a week, without unions, labor laws, bonuses, or premium overtime, though accident compensation and dismissal notice were customary. A second table compares Japanese and Formosan Chinese wages in building and printing trades and notes superior pay and free housing for Japanese railway employees.",
+   "keywords": [
+    "Taiwan",
+    "Formosan Chinese labor",
+    "export industries",
+    "racial wage differences",
+    "working hours",
+    "railway workers",
+    "labor unions"
+   ]
+  },
+  {
+   "title": "File note on current wages in the Kobe consular district",
+   "doc_type": "Document-file note",
+   "start_page": 72,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1938-07-08",
+   "from": "Tokyo (Cameron)",
+   "to": "",
+   "about": "Records report No. 291 enclosing a report on current wages in the Kobe consular district.",
+   "summary": "The file note identifies a Tokyo report concerning current wages in the Kobe consular district. The referenced enclosure is not present within this section.",
+   "keywords": [
+    "Kobe",
+    "current wages",
+    "file note",
+    "report No. 291"
+   ]
+  },
+  {
+   "title": "Local wage-scale data for alien employees of the Embassy",
+   "doc_type": "Embassy despatch with document-file note",
+   "start_page": 73,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1939-01-18",
+   "from": "American Embassy, Tokyo (Grew)",
+   "to": "Secretary of State",
+   "about": "Explains that a requested alien-employee wage schedule did not apply to the Embassy's staff.",
+   "summary": "The Department had requested local wage scales for alien commercial investigators, research clerks, principal clerks, stenographers, accountants, cashiers, typists, and file clerks. Because the Embassy employed no aliens in those classifications, it could not complete the schedule and referred the Department to a separate reply from the Consulate General, which did employ such personnel.",
+   "keywords": [
+    "alien employees",
+    "local wage scales",
+    "Embassy staff",
+    "clerical occupations",
+    "Consulate General"
+   ]
+  },
+  {
+   "title": "Invocation of Parts of Article 6 of the Mobilization Law",
+   "doc_type": "Cross-reference file note with excerpt",
+   "start_page": 76,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1939-05-24",
+   "from": "Japan (Dooman)",
+   "to": "",
+   "about": "Cross-references a despatch describing decrees implementing labor-control provisions of the National Mobilization Law.",
+   "summary": "The excerpt states that two Imperial Decrees promulgated March 31 invoked Article 6 of the National Mobilization Law. One empowered the government to regulate wages in designated industries from April 10, while the other limited working hours in machinery, shipbuilding, fuel, machine-tool, steel, and military plants from May 1.",
+   "keywords": [
+    "National Mobilization Law",
+    "Article 6",
+    "wage regulation",
+    "working-hour limits",
+    "Imperial Decrees",
+    "defense industries"
+   ]
+  },
+  {
+   "title": "Price and Wage Control Measures in Japan: Inflation and the Capstones to a Controlled Economy",
+   "doc_type": "Embassy despatch with enclosures",
+   "start_page": 78,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1939-12-14",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Introduces five October 1939 ordinances establishing comprehensive controls over prices, wages, allowances, rents, and electric power.",
+   "summary": "The Embassy encloses translations of five ordinances issued under the National General Mobilization Law and effective from October 20, 1939, to October 19, 1940. They generally froze prices, charges, wages, salaries, bonuses, and allowances at September 18 levels, rents at August 4 levels, and authorized controls over electric power. The despatch situates these measures as the third stage of wartime price control, accelerated by the European war, while noting important exemptions for exchanges, land, securities, export goods, and export raw materials. The document continues beyond page 80.",
+   "keywords": [
+    "price controls",
+    "wage controls",
+    "inflation",
+    "National General Mobilization Law",
+    "rent controls",
+    "electric power",
+    "wartime economy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 2,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.5041 Economic Matters., Labor., Japan, Hours. Wages., February 8, 1930 - December 14, 1939 1158.pdf",
+  "seconds": 242.5,
+  "created": "2026-10-01 09:38:53",
+  "key": "japan-internal-affairs-894.5041-economic-matters-labor-4"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "interest": "FBI diagrams of Japan's Foreign Office, intelligence and police shared with State in 1942.",
+ "keywords": [
+  "Japan",
+  "Executive departments",
+  "Japanese Foreign Office",
+  "Japanese Police System",
+  "Cabinet Intelligence Department",
+  "Ministry of Greater East Asiatic Affairs",
+  "Federal Bureau of Investigation",
+  "Military Intelligence Service",
+  "Office of Naval Intelligence",
+  "State Department",
+  "Intelligence coordination",
+  "World War II"
+ ],
+ "overview": "1942 records on Japan's executive departments: Hoover's diagrams of Japanese government and police bodies, and a note on the Greater East Asia Ministry.",
+ "people": [
+  {
+   "name": "Adolf A. Berle, Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Balle, Jr.",
+    "Honorable Adolf A. Balle, Jr.",
+    "Mr. Balle"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation",
+   "variants": [
+    "J. E. Hoover"
+   ]
+  },
+  {
+   "name": "Theodore Stark Wilkinson",
+   "role": "Rear Admiral; Director, Office of Naval Intelligence",
+   "variants": [
+    "Rear Admiral T. S. Wilkinson",
+    "T. S. Wilkinson"
+   ]
+  },
+  {
+   "name": "Hayes A. Kroner",
+   "role": "Colonel, General Staff; Chief, Military Intelligence Service",
+   "variants": [
+    "Colonel Hayes A. Kroner",
+    "Hayes A. Kroner"
+   ]
+  },
+  {
+   "name": "H. Merrell Benninghoff",
+   "role": "Officer, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "Benninghoff"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "greater east Asiatic"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "FAR EASTERN",
+    "Far Eastern"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal of photostatic diagrams illustrating the organizational structure of key Japanese civilian, diplomatic, intelligence, and police apparatuses.",
+   "date": "1942-06-01",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "J. Edgar Hoover",
+   "keywords": [
+    "Federal Bureau of Investigation",
+    "J. Edgar Hoover",
+    "Adolf A. Berle, Jr.",
+    "Japanese Foreign Office",
+    "Japanese Embassy",
+    "Cabinet Intelligence Department",
+    "Japanese Police System",
+    "intelligence coordination"
+   ],
+   "start_page": 1,
+   "summary": "Hoover sends Berle diagrams of Japan's Foreign Office, its U.S. Embassy, the Cabinet Intelligence Department and police, copied to ONI and MIS.",
+   "title": "Letter from J. Edgar Hoover to Adolf A. Berle, Jr., transmitting diagrams of Japanese government and police structure",
+   "to": "Adolf A. Berle, Jr."
+  },
+  {
+   "about": "Cross-reference sheet indexing a memorandum concerning the creation of the Japanese Ministry of Greater East Asiatic Affairs.",
+   "date": "1942-11-05",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "State Department",
+   "keywords": [
+    "cross-reference sheet",
+    "executive departments",
+    "Ministry of Greater East Asiatic Affairs",
+    "Far Eastern Affairs",
+    "H. Merrell Benninghoff",
+    "State Department"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to a November 1942 memo to Benninghoff on Japan's new Ministry of Greater East Asiatic Affairs.",
+   "title": "Cross-reference sheet for memorandum regarding the Japanese Ministry of Greater East Asiatic Affairs",
+   "to": "Far Eastern Affairs (Benninghoff)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13980,
+   "output_tokens": 18007,
+   "thinking_tokens": 16681,
+   "cache_read_tokens": 0,
+   "total_tokens": 31987
+  },
+  "backend": "agy",
+  "seconds": 57.6,
+  "identifier": "japan-internal-affairs-894.02-japan-executive-departments-2",
+  "file": "894.02 Japan, Executive Departments Of Government., November 5, 1942 1370.pdf",
+  "created": "2026-09-28 22:29:54"
+ }
+}

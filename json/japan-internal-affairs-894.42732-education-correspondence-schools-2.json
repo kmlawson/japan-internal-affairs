@@ -1,0 +1,111 @@
+{
+ "interest": "Japanese-funded trips for Brazilian students, 1940.",
+ "keywords": [
+  "cultural relations",
+  "student exchange",
+  "cultural diplomacy",
+  "Brazil-Japan relations",
+  "Japanese Government",
+  "University of São Paulo",
+  "Grêmio Cultural Brasileiro-Nippônico",
+  "Liga Estudantina Nippo-Brasileira",
+  "Caravana de Intercâmbio Cultural Brasil-Japão",
+  "State Department cross-reference sheet",
+  "Consul General Foster",
+  "William C. Burdett"
+ ],
+ "overview": "Two 1940 cross-references on Japan funding trips to Japan by Brazilian students.",
+ "people": [
+  {
+   "name": "William C. Burdett",
+   "role": "U.S. Diplomatic Representative in Brazil",
+   "variants": [
+    "Burdett"
+   ]
+  },
+  {
+   "name": "Carol H. Foster",
+   "role": "Consul General",
+   "variants": [
+    "Consul General Foster",
+    "Foster"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "Sao Paulo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a diplomatic despatch on a planned visit of Brazilian students from the Grêmio Cultural Brasileiro-Nippônico to Japan as guests of the Japanese Government.",
+   "date": "1940-01-22",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "William C. Burdett",
+   "keywords": [
+    "Grêmio Cultural Brasileiro-Nippônico",
+    "Caravana de Intercâmbio Cultural Brasil-Japão",
+    "student exchange",
+    "Brazil",
+    "Japan",
+    "cultural relations"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: Brazilian student caravan to Japan as government guests.",
+   "title": "Cross-Reference Sheet for Despatch No. 2431 regarding Visit of Brazilian Students to Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing a diplomatic report on a prospective trip to Japan by twenty University of São Paulo graduates under the Liga Estudantina Nippo-Brasileira.",
+   "date": "1940-03-02",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "William C. Burdett",
+   "keywords": [
+    "University of São Paulo",
+    "Liga Estudantina Nippo-Brasileira",
+    "Consul General Foster",
+    "student exchange",
+    "Brazil",
+    "Japan",
+    "transportation expenses"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference: twenty São Paulo graduates to visit Japan at Japan's expense.",
+   "title": "Cross-Reference Sheet for Despatch No. 2660 regarding University of São Paulo Graduates' Trip to Japan",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13906,
+   "output_tokens": 4716,
+   "thinking_tokens": 3560,
+   "cache_read_tokens": 0,
+   "total_tokens": 18622
+  },
+  "backend": "agy",
+  "seconds": 22.2,
+  "identifier": "japan-internal-affairs-894.42732-education-correspondence-schools-2",
+  "file": "894.42732 Education. Correspondence Schools., Cultural Relations. Exchange Of Professors And Students. Attendance At Schools Of Japan Of Student Of Brazil., January 22, 1940 - March 2, 1940 1179.pdf",
+  "created": "2026-09-29 07:13:14"
+ }
+}

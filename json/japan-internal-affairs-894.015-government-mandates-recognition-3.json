@@ -1,0 +1,98 @@
+{
+ "interest": "Wartime questions about making Japanese flags and the misuse of flag markings.",
+ "keywords": [
+  "Japanese flag",
+  "flag regulations",
+  "flag manufacturing",
+  "misuse of flag",
+  "maritime markings",
+  "World War II",
+  "Department of State",
+  "Joseph C. Grew",
+  "Walter J. Flannigan",
+  "postal regulations",
+  "neutrality",
+  "European War"
+ ],
+ "overview": "Two dockets for 894.015: a 1944 inquiry on making Japanese flags and Grew's telegram on flag misuse.",
+ "people": [
+  {
+   "name": "Walter J. Flannigan",
+   "role": "Inquirer",
+   "variants": [
+    "Flannigan, Walter J."
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jap"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers docket recording an inquiry by Walter J. Flannigan regarding regulations on the manufacture and mailing of Japanese flags.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Flannigan, Walter J.",
+   "keywords": [
+    "Department of State",
+    "Japanese flag",
+    "flag manufacturing",
+    "mail regulations",
+    "Legal Adviser",
+    "Walter J. Flannigan"
+   ],
+   "start_page": 1,
+   "summary": "Docket: Walter J. Flannigan's 1944 inquiry about rules on making and mailing Japanese flags.",
+   "title": "List of Papers on Japanese Flag Regulations",
+   "to": "L. A."
+  },
+  {
+   "about": "A State Department List of Papers docket recording a telegram from Ambassador Joseph C. Grew concerning the misuse of Japanese flags and markings.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Joseph C. Grew",
+    "Japan",
+    "misuse of flag",
+    "naval markings",
+    "European War",
+    "Great Britain"
+   ],
+   "start_page": 2,
+   "summary": "Docket: Grew's telegram No. 35 on Japan's attitude toward illegal use of its flag.",
+   "title": "List of Papers on Misuse of Japanese Flag and Markings",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13873,
+   "output_tokens": 4190,
+   "thinking_tokens": 3182,
+   "cache_read_tokens": 0,
+   "total_tokens": 18063
+  },
+  "backend": "agy",
+  "seconds": 15.8,
+  "identifier": "japan-internal-affairs-894.015-government-mandates-recognition-3",
+  "file": "894.015 Government. Mandates, Recognition., Japan, Flag.,  122.pdf",
+  "created": "2026-09-28 22:11:09"
+ }
+}

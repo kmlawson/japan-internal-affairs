@@ -1,0 +1,81 @@
+{
+ "interest": "This document provides valuable historical evidence of diplomatic and immigration coordination between Nazi Germany and Imperial Japan in late 1938, just weeks after the Kristallnacht pogroms. It reveals how the Japanese government sought to stem the influx of German Jewish refugees by arranging for German authorities to withhold travel passports unless prior Japanese entry permission had been secured, while demonstrating how U.S. diplomats closely monitored Axis policies on Jewish emigration.",
+ "keywords": [
+  "Japan",
+  "Germany",
+  "German Jews",
+  "Jewish refugees",
+  "immigration restrictions",
+  "passports",
+  "visa policy",
+  "Tokyo Embassy",
+  "travel permits",
+  "bilateral relations"
+ ],
+ "overview": "This file consists of a single State Department document file note (cross-reference sheet) dated November 29, 1938, referencing Despatch No. 383 from Tokyo filed under decimal classification 894.111/75. The document records a report by diplomatic officer Cameron regarding the entry of German Jews into Japan, specifically relaying information on a reported understanding between the Japanese and German governments under which Germany would refrain from issuing passports valid for travel to Japan to German Jews unless prior permission for their entry had been granted by the Japanese government.",
+ "people": [
+  {
+   "name": "Charles R. Cameron",
+   "role": "U.S. diplomatic official at the Tokyo Embassy",
+   "variants": [
+    "Cameron"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department cross-reference sheet recording a Tokyo despatch regarding an arrangement between Germany and Japan to restrict the travel of German Jews to Japan.",
+   "date": "1938-11-29",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Cameron",
+   "keywords": [
+    "German Jews",
+    "passports",
+    "immigration",
+    "Japan",
+    "Germany",
+    "refugees"
+   ],
+   "start_page": 1,
+   "summary": "This document file note cross-references Despatch No. 383, dated November 29, 1938, from Cameron in Tokyo to the Department of State, originally filed under 894.111/75. It summarizes reporting on a potential bilateral understanding between the Japanese and German governments regarding the entry of German Jews into Japan. Under the reported agreement, the German government would not issue passports valid for travel to Japan to German Jews without obtaining prior Japanese approval.",
+   "title": "Cross-Reference Sheet on Entry of German Jews into Japan",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13662,
+   "output_tokens": 2648,
+   "thinking_tokens": 2038,
+   "cache_read_tokens": 0,
+   "total_tokens": 16310
+  },
+  "backend": "agy",
+  "seconds": 13.3,
+  "identifier": "japan-internal-affairs-894.5562-immigration-to-japan-1",
+  "file": "894.5562 Immigration To Japan From Germany., November 29, 1938 1060.pdf",
+  "created": "2026-09-29 10:20:13"
+ }
+}

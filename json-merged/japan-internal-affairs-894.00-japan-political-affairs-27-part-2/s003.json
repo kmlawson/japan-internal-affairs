@@ -1,0 +1,3420 @@
+{
+ "section_summary": "This section documents the April 10, 1946 Japanese general election, including pre-election maneuvering, Soviet and British press criticism, State and War Department discussion of occupation policy, preliminary results, and competing plans for a post-election coalition cabinet. It contains a comprehensive roster of major-party officials, a Political Adviser report analyzing turnout, women voters, registration problems, party strength, constitutional policy, and the possible continuation of Prime Minister Shidehara. The final pages comprise the Japanese-language Asahi and Mainichi election issues forwarded for their biographical directories of successful candidates, together with editorials, election tables, political commentary, and other contemporary news.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jspan",
+    "Jepen",
+    "Jepan",
+    "J:pan",
+    "日本"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Toi:yo",
+    "Toky•",
+    "Tokye",
+    "東京",
+    "東京都",
+    "東東"
+   ]
+  },
+  {
+   "name": "Tokyo 1st Election District",
+   "variants": [
+    "Tokye lst",
+    "Tokyo lst",
+    "東京一區",
+    "東京都一區"
+   ]
+  },
+  {
+   "name": "Tokyo 2nd Election District",
+   "variants": [
+    "*Tokyo 2nd",
+    "2nd Tokye Electien District",
+    "東京二區",
+    "東京都二"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow",
+    "Noscow",
+    "Noscov",
+    "Nosoow"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "ロンドン"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Frankfurt",
+   "variants": [
+    "Frankfurt"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "US",
+    "U.S.",
+    "米國",
+    "米"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "England",
+    "British",
+    "Brtish",
+    "英國",
+    "イキリス",
+    "イギリス"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet",
+    "Russian",
+    "Russia",
+    "ソ聯"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "フランス",
+    "佛"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "中國"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Aslatic",
+    "アジア"
+   ]
+  },
+  {
+   "name": "Near East",
+   "variants": [
+    "Near East",
+    "近東"
+   ]
+  },
+  {
+   "name": "Zurich",
+   "variants": [
+    "チューリツヒ"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "パリ"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "ベルリン"
+   ]
+  },
+  {
+   "name": "Versailles",
+   "variants": [
+    "ウエルサイユ"
+   ]
+  },
+  {
+   "name": "Utrecht",
+   "variants": [
+    "ユトレヒト"
+   ]
+  },
+  {
+   "name": "Vienna",
+   "variants": [
+    "ウィーン"
+   ]
+  },
+  {
+   "name": "Trieste",
+   "variants": [
+    "トリエスト"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "伊"
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "ソインランド"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "トルコ"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "イラク",
+    "イフク",
+    "イプク"
+   ]
+  },
+  {
+   "name": "Jordan",
+   "variants": [
+    "Transjordan",
+    "トランスヨルタン",
+    "トランスヨルダン"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "アンカラ"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "エジプト",
+    "エンプト"
+   ]
+  },
+  {
+   "name": "Saudi Arabia",
+   "variants": [
+    "サウド・アラビア",
+    "サウド・アプハア"
+   ]
+  },
+  {
+   "name": "Palestine",
+   "variants": [
+    "バレスタイン"
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "variants": [
+    "レパノン",
+    "レパハン"
+   ]
+  },
+  {
+   "name": "Oman",
+   "variants": [
+    "オーマン"
+   ]
+  },
+  {
+   "name": "Muscat",
+   "variants": [
+    "マスカット"
+   ]
+  },
+  {
+   "name": "Kuwait",
+   "variants": [
+    "クュート"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "インドネシヤ"
+   ]
+  },
+  {
+   "name": "Dutch East Indies",
+   "variants": [
+    "蘭印"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "ジヤワ"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "スマトラ"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "シンガポール"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "マレー"
+   ]
+  },
+  {
+   "name": "Seletar",
+   "variants": [
+    "セレター"
+   ]
+  },
+  {
+   "name": "Remban Island",
+   "variants": [
+    "レンバン島"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "マニラ"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "滿洲"
+   ]
+  },
+  {
+   "name": "Fengman",
+   "variants": [
+    "豐滿"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "朝鮮"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "北海道",
+    "北海"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "青森縣",
+    "齊森縣"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita",
+    "秋田",
+    "秋田縣"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwato",
+    "岩手縣"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi",
+    "宮城縣"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata",
+    "山形",
+    "山形縣"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima",
+    "福島",
+    "福賜縣"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaragi",
+    "茨城縣"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Techigi",
+    "栃木縣"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma",
+    "群馬縣"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama",
+    "埼玉縣"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba",
+    "Chiba Prefecture",
+    "千葉縣"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "神奈川縣"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yaranashi",
+    "Yamanashi Prefecture",
+    "山梨縣"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano",
+    "長野縣"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata",
+    "新潟"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama",
+    "富山"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa",
+    "石川縣"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "*Duaui",
+    "Fukui Prefecture",
+    "福井"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka",
+    "靜岡縣",
+    "岡縣"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi",
+    "Aichi Prefecture",
+    "愛知"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu",
+    "岐阜"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Miye",
+    "三重縣"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga",
+    "滋賀"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyote",
+    "京都",
+    "京都府"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka",
+    "大阪府"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Hyog)",
+    "兵庫"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Hare",
+    "奈良縣"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama",
+    "和歌山縣"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "廣島縣"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "山口"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushim"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "香川"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukueka",
+    "福岡縣"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga",
+    "佐國縣"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki",
+    "長崎縣",
+    "長騎縣"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita",
+    "大分縣",
+    "大分"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumaneto"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyasaki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima",
+    "鹿兒島縣"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "八戶"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "水戶"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "松本市"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "川崎市"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "立川"
+   ]
+  },
+  {
+   "name": "Yoyogi",
+   "variants": [
+    "代々木"
+   ]
+  },
+  {
+   "name": "Koto, Tokyo",
+   "variants": [
+    "江東"
+   ]
+  },
+  {
+   "name": "Kanda, Tokyo",
+   "variants": [
+    "神田",
+    "神田區"
+   ]
+  },
+  {
+   "name": "Shinagawa, Tokyo",
+   "variants": [
+    "品川",
+    "品川區"
+   ]
+  },
+  {
+   "name": "Gotanda, Tokyo",
+   "variants": [
+    "五反田"
+   ]
+  },
+  {
+   "name": "Koishikawa, Tokyo",
+   "variants": [
+    "小石川"
+   ]
+  },
+  {
+   "name": "Akasaka, Tokyo",
+   "variants": [
+    "赤坂"
+   ]
+  },
+  {
+   "name": "Arakawa, Tokyo",
+   "variants": [
+    "荒川"
+   ]
+  },
+  {
+   "name": "Ōtake Port",
+   "variants": [
+    "大竹港"
+   ]
+  },
+  {
+   "name": "Harvard University",
+   "variants": [
+    "ハイバード大學"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "ポストン"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "シカゴ"
+   ]
+  },
+  {
+   "name": "Denver",
+   "variants": [
+    "デンバー"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "ニューヨーク"
+   ]
+  },
+  {
+   "name": "Columbia University",
+   "variants": [
+    "コロンビア大學"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ichirō Hatoyama",
+   "role": "President of the Liberal Party and prospective prime minister",
+   "variants": [
+    "Mr. Haroxaka",
+    "HatoraMa",
+    "HAToYaMA",
+    "Hato-YAMA",
+    "HATOYAMA Ichiro",
+    "HAtoYAM Ichire",
+    "Mr. HAToYAMA",
+    "Mr. HatoyAma"
+   ]
+  },
+  {
+   "name": "Chōzaburō Mizutani",
+   "role": "Socialist Party information chief and right-wing Social Democrat",
+   "variants": [
+    "MIZUTANI",
+    "MIZUTANI Chozaburo",
+    "水谷長三"
+   ]
+  },
+  {
+   "name": "Jiichirō Matsumoto",
+   "role": "Social Democratic leader",
+   "variants": [
+    "MaTSUmOTO"
+   ]
+  },
+  {
+   "name": "Sanzō Nosaka",
+   "role": "Japanese Communist Party leader and propaganda/research chief",
+   "variants": [
+    "Nosk Sanso",
+    "OZAKA Sanzo",
+    "NOZAkA Sanzo",
+    "NOZAKA Sanzo",
+    "野坂君"
+   ]
+  },
+  {
+   "name": "Kijūrō Shidehara",
+   "role": "Prime Minister and prospective head of a post-election coalition",
+   "variants": [
+    "SHIDmhARa",
+    "SHIDmHARA",
+    "SHIDEHARA",
+    "Shideharas",
+    "Shidehare",
+    "shidehare",
+    "SHIDmHaRÀ",
+    "Baron SHIDEHARA",
+    "階原首相"
+   ]
+  },
+  {
+   "name": "Chūzō Mitsuchi",
+   "role": "Minister of Home Affairs and advocate of a new government party",
+   "variants": [
+    "MITSUCHI Chuso",
+    "MITSUCHI Chuse",
+    "MITSUCHI Chuzo",
+    "三土内相"
+   ]
+  },
+  {
+   "name": "Emperor Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor",
+    "Eaperor",
+    "Amporor",
+    "His Majesty the Emperor"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "U.S. Foreign Service officer and author of Political Adviser reports",
+   "variants": [
+    "William J. Sobald",
+    "William J. Sebald",
+    "Williams J. Sebald",
+    "WJSebald"
+   ]
+  },
+  {
+   "name": "Nikolai Kudryavtsev",
+   "role": "Izvestiya special correspondent in Tokyo",
+   "variants": [
+    "Kudrevatych"
+   ]
+  },
+  {
+   "name": "Major Seely",
+   "role": "G-2, War Department",
+   "variants": [
+    "Major Seely"
+   ]
+  },
+  {
+   "name": "William R. Braisted",
+   "role": "Political Branch, G-2, War Department",
+   "variants": [
+    "Mr. Braisted",
+    "Mr. Bralsted"
+   ]
+  },
+  {
+   "name": "Hugh Borton",
+   "role": "State Department Division of Japanese Affairs official",
+   "variants": [
+    "Mr. Borton"
+   ]
+  },
+  {
+   "name": "John K. Emmerson",
+   "role": "State Department Division of Japanese Affairs official",
+   "variants": [
+    "Mr. Emmerson",
+    "JKEnrson"
+   ]
+  },
+  {
+   "name": "Max Bishop",
+   "role": "U.S. official whose Tokyo telegram on Japanese political groups was discussed",
+   "variants": [
+    "Mr. Bishop"
+   ]
+  },
+  {
+   "name": "Boris Gorbatov",
+   "role": "Pravda correspondent in Tokyo",
+   "variants": [
+    "B. Gorbator"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Former Japanese prime minister and accused war criminal",
+   "variants": [
+    "fojo",
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "Macarthur",
+    "Mechrthur",
+    "MacArthur",
+    "General MacArthur",
+    "マッカーサー"
+   ]
+  },
+  {
+   "name": "Takao Saitō",
+   "role": "Progressive Party vice-chairman and election manager",
+   "variants": [
+    "SAITO Takao"
+   ]
+  },
+  {
+   "name": "Ken Inukai",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "INUKAI Ken"
+   ]
+  },
+  {
+   "name": "Ryōsei Kawai",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "KAWAI Ryosei"
+   ]
+  },
+  {
+   "name": "Kyō Kiuchi",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "Mrs. KIUCHI Kyo"
+   ]
+  },
+  {
+   "name": "Tetsuo Kudō",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "KUDO Tetsuo"
+   ]
+  },
+  {
+   "name": "Kanaye Kobayashi",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "KOBAYASHI Kanaye"
+   ]
+  },
+  {
+   "name": "Hyoichirō Shibata",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "SHIBATA Hyoichiro",
+    "柴田兵一郎"
+   ]
+  },
+  {
+   "name": "Tomiko Kōra",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "Mrs. KORA Tomiko"
+   ]
+  },
+  {
+   "name": "Mitsugu Tanaka",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "TANAKA Mitsugu"
+   ]
+  },
+  {
+   "name": "Somei Tsuchikura",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "TSUCHIKURA Somei"
+   ]
+  },
+  {
+   "name": "Shigeharu Nakagawa",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "NAKAGAWA Shigeharu"
+   ]
+  },
+  {
+   "name": "Gen Nagai",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "NAGAI Gen"
+   ]
+  },
+  {
+   "name": "Isamu Narishima",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "NARISHIMA Isamu",
+    "NARISHIMA Isam"
+   ]
+  },
+  {
+   "name": "Fujirō Hara",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "HARA Jujiro",
+    "HARA Fujiro"
+   ]
+  },
+  {
+   "name": "Shōichi Matsuda",
+   "role": "Progressive Party official and Diet candidate",
+   "variants": [
+    "MATSUDA Shoich1",
+    "松田正一"
+   ]
+  },
+  {
+   "name": "Hanako Muraoka",
+   "role": "Chief of the Progressive Party women's department",
+   "variants": [
+    "Mrs. MURAOKA Hanako"
+   ]
+  },
+  {
+   "name": "Yaoi Yoshioka",
+   "role": "Progressive Party committee member",
+   "variants": [
+    "Mrs. YOSHIOKA Yaoi",
+    "Mrs. YOSHIOKA Yao1"
+   ]
+  },
+  {
+   "name": "Kozaemon Kimura",
+   "role": "Progressive Party committee member and Diet candidate",
+   "variants": [
+    "KIMURA Kozayemon"
+   ]
+  },
+  {
+   "name": "Yūji Satsuma",
+   "role": "Progressive Party election-campaign chief",
+   "variants": [
+    "SATSUMA Yuji",
+    "SATSUMA Yuj1"
+   ]
+  },
+  {
+   "name": "Minotarō Kawasaki",
+   "role": "Chairman of the Progressive Party Standing Committee",
+   "variants": [
+    "KAWASAKI Minotaro"
+   ]
+  },
+  {
+   "name": "Keiichi Ishiguro",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "ISHIGURE Keiich1"
+   ]
+  },
+  {
+   "name": "Kasaburō Uemura",
+   "role": "Progressive Party vice-chief secretary",
+   "variants": [
+    "UYEMURA Kasaburo"
+   ]
+  },
+  {
+   "name": "Shōgo Kusumi",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "KUSUMI Shogo"
+   ]
+  },
+  {
+   "name": "Yūjirō Koshino",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "KOSHINO Yujiro"
+   ]
+  },
+  {
+   "name": "Senichirō Sakashita",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "SAKASHITA Senichiro"
+   ]
+  },
+  {
+   "name": "Kaoru Sugamata",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "SUGAMATA Kaoru"
+   ]
+  },
+  {
+   "name": "Shitsu Takami",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "TAKAMI Shitsu"
+   ]
+  },
+  {
+   "name": "Sadakichi Hitotsumatsu",
+   "role": "Progressive Party chief secretary and election-committee chief",
+   "variants": [
+    "HITOTSUMATSU Sadakich1",
+    "HITOTSUMATSU Sadakichi"
+   ]
+  },
+  {
+   "name": "Shigeru Hori",
+   "role": "Progressive Party standing committee member and Diet candidate",
+   "variants": [
+    "HORI Shigeru"
+   ]
+  },
+  {
+   "name": "Hajime Hoshi",
+   "role": "Progressive Party standing committee member and auditor",
+   "variants": [
+    "HOSHI Hajime"
+   ]
+  },
+  {
+   "name": "Hideko Murakami",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "Mrs. MURAKAMI Hideko"
+   ]
+  },
+  {
+   "name": "Takeji Yamada",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "YAMADA TakeJi"
+   ]
+  },
+  {
+   "name": "Takeo Yamamoto",
+   "role": "Progressive Party information chief",
+   "variants": [
+    "YAMAMOTO TakeO",
+    "山本武夫"
+   ]
+  },
+  {
+   "name": "Yoshimori Yoneda",
+   "role": "Progressive Party standing committee member",
+   "variants": [
+    "YONEDA Yoshimori"
+   ]
+  },
+  {
+   "name": "Tadao Tanabe",
+   "role": "President of the Progressive Party Political Affairs Investigation Association",
+   "variants": [
+    "TANABE Tadao"
+   ]
+  },
+  {
+   "name": "Shinji Ōtsuki",
+   "role": "Progressive Party auditor",
+   "variants": [
+    "OTSUKI Shinji"
+   ]
+  },
+  {
+   "name": "Junichirō Hara",
+   "role": "Progressive Party auditor",
+   "variants": [
+    "HARA Junichiro"
+   ]
+  },
+  {
+   "name": "Masazō Sase",
+   "role": "Chief of the Progressive Party cultural department",
+   "variants": [
+    "SASE Masazo"
+   ]
+  },
+  {
+   "name": "Ganyoku Kuwaki",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "KUWAKI Ganyoku"
+   ]
+  },
+  {
+   "name": "Etsujirō Uehara",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "UYEHARA Etsujiro"
+   ]
+  },
+  {
+   "name": "Jirō Hoshijima",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "HOSHIJIMA Jiro"
+   ]
+  },
+  {
+   "name": "Tsunejirō Hiratsuka",
+   "role": "Liberal Party General Affairs Committee member and Diet candidate",
+   "variants": [
+    "HIRATSUKA Tsunejiro",
+    "平塚常次郎"
+   ]
+  },
+  {
+   "name": "Kwan Kikuchi",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "KIKUCHI Kwan"
+   ]
+  },
+  {
+   "name": "Bunpei Go",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "GO Bunhei"
+   ]
+  },
+  {
+   "name": "Yūsaku Shimanaka",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "SHIMANAKA Yusaku"
+   ]
+  },
+  {
+   "name": "Reikichi Kita",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "KITA Reikichi"
+   ]
+  },
+  {
+   "name": "Kōtarō Hanto",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "HANTO Kotaro"
+   ]
+  },
+  {
+   "name": "Yasutarō Fujiu",
+   "role": "Liberal Party General Affairs Committee member",
+   "variants": [
+    "FUJIU Yasutaro"
+   ]
+  },
+  {
+   "name": "Tomejirō Ōkubo",
+   "role": "Liberal Party General Affairs Committee member and successful Diet candidate",
+   "variants": [
+    "OKUBO Tomejiro",
+    "大久保留次郎"
+   ]
+  },
+  {
+   "name": "Ichirō Kōno",
+   "role": "Liberal Party secretary-general",
+   "variants": [
+    "KONO Ichiro"
+   ]
+  },
+  {
+   "name": "Ichirō Shōji",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "SHOJI Ichiro"
+   ]
+  },
+  {
+   "name": "Ichirō Honda",
+   "role": "Liberal Party secretary and Diet candidate",
+   "variants": [
+    "HONDA Ichiro",
+    "本多市郎"
+   ]
+  },
+  {
+   "name": "Kikuchirō Yamaguchi",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "YAMAGUCHI Kikuchiro"
+   ]
+  },
+  {
+   "name": "Shingorō Hanashi",
+   "role": "Liberal Party secretary and Diet candidate",
+   "variants": [
+    "HANASHI Shingoro",
+    "葉梨新五郎"
+   ]
+  },
+  {
+   "name": "Matsuhei Matsuoka",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "MATSUOKA Matsuhei"
+   ]
+  },
+  {
+   "name": "Masabumi Suzuki",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "SUZUKI Masabumi"
+   ]
+  },
+  {
+   "name": "Shūzō Yoshino",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "YOSHINO Shuzo"
+   ]
+  },
+  {
+   "name": "Hisakichi Shinomiya",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "SHINOMIYA H1sakichi"
+   ]
+  },
+  {
+   "name": "Kiyoshi Kawanishi",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "KAWANICHI Kiyoshi"
+   ]
+  },
+  {
+   "name": "Marukichi Ishihara",
+   "role": "Liberal Party secretary and Diet candidate",
+   "variants": [
+    "ISHIHARA Marukichi",
+    "石原圓吉"
+   ]
+  },
+  {
+   "name": "Natsuo Etō",
+   "role": "Liberal Party secretary",
+   "variants": [
+    "ETO Natsuo"
+   ]
+  },
+  {
+   "name": "Shirō Hanamura",
+   "role": "Liberal Party secretary and Diet candidate",
+   "variants": [
+    "HANAMURA Shiro",
+    "花村 四郎"
+   ]
+  },
+  {
+   "name": "Hideo Shutō",
+   "role": "Vice-president of the Liberal Party Political Affairs Investigation Association",
+   "variants": [
+    "SHUTO Hideo"
+   ]
+  },
+  {
+   "name": "Katsuichi Yamamoto",
+   "role": "Vice-president of the Liberal Party Political Affairs Investigation Association",
+   "variants": [
+    "YAMAMOTO Katsuichi",
+    "山本勝市"
+   ]
+  },
+  {
+   "name": "Senzō Higai",
+   "role": "Vice-president of the Liberal Party Political Affairs Investigation Association",
+   "variants": [
+    "HIGAI Senzo"
+   ]
+  },
+  {
+   "name": "Tadao Ikawa",
+   "role": "Representative organizer of the Cooperative Party",
+   "variants": [
+    "IKAWA Tadao"
+   ]
+  },
+  {
+   "name": "Kyōji Funada",
+   "role": "Cooperative Party organizer",
+   "variants": [
+    "FUNADA Kyoj1"
+   ]
+  },
+  {
+   "name": "Sanehiko Yamamoto",
+   "role": "Cooperative Party organizer",
+   "variants": [
+    "YAMAMOTO Sanehiko"
+   ]
+  },
+  {
+   "name": "Takeji Miyagi",
+   "role": "Cooperative Party organizer",
+   "variants": [
+    "MIYAGI Takej1"
+   ]
+  },
+  {
+   "name": "Tetsu Katayama",
+   "role": "Socialist Party secretary-general and Diet member",
+   "variants": [
+    "KATAYAMA Tetsu",
+    "片山 哲"
+   ]
+  },
+  {
+   "name": "Inejirō Asanuma",
+   "role": "Chief of the Socialist Party organizing department",
+   "variants": [
+    "ASANUMA Inajiro",
+    "淺沼稻次郎"
+   ]
+  },
+  {
+   "name": "Mitsu Kōno",
+   "role": "Chief of the Socialist Party education department",
+   "variants": [
+    "KONO Mitsu",
+    "河野密"
+   ]
+  },
+  {
+   "name": "Hyō Hara",
+   "role": "Chief of the Socialist Party research department",
+   "variants": [
+    "HARA Hyo"
+   ]
+  },
+  {
+   "name": "Takaichi Nakamura",
+   "role": "Chief of the Socialist Party young men's department and Diet member",
+   "variants": [
+    "NAKAMURA Takaichi",
+    "中村高一"
+   ]
+  },
+  {
+   "name": "Hisao Kuroda",
+   "role": "Chief of the Socialist Party women's department and Diet member",
+   "variants": [
+    "KURODA HiBao",
+    "黑田壽用"
+   ]
+  },
+  {
+   "name": "Haruji Tahara",
+   "role": "Chief of the Socialist Party international department and Diet member",
+   "variants": [
+    "TAHARA Haruj1",
+    "田原春次"
+   ]
+  },
+  {
+   "name": "Kanjū Katō",
+   "role": "Chief of the Socialist Party labor liaison department and Diet member",
+   "variants": [
+    "KATO Kanju",
+    "加藤勘十"
+   ]
+  },
+  {
+   "name": "Masaru Nomizo",
+   "role": "Chief of the Socialist Party agricultural liaison department",
+   "variants": [
+    "NOMIZO Masaru"
+   ]
+  },
+  {
+   "name": "Mosaburō Suzuki",
+   "role": "Chief of the Socialist Party industry department and Diet member",
+   "variants": [
+    "SUZUKI Mosaburo",
+    "鈴木茂三郎"
+   ]
+  },
+  {
+   "name": "Suehiro Nishio",
+   "role": "Chief of the Socialist Party Diet department",
+   "variants": [
+    "NISHIO Suyehiro"
+   ]
+  },
+  {
+   "name": "Rikizō Hirano",
+   "role": "Chief of the Socialist Party election department and right-wing Social Democrat",
+   "variants": [
+    "HIRANO Rikizo",
+    "Mr. HIRAmo Rikise",
+    "Mr. HIRANO",
+    "平野力三"
+   ]
+  },
+  {
+   "name": "Konomu Sunaga",
+   "role": "Socialist Party auditor",
+   "variants": [
+    "SUNAGA Konomu"
+   ]
+  },
+  {
+   "name": "Mitsusuke Yonekubo",
+   "role": "Socialist Party auditor",
+   "variants": [
+    "YONEKUBO Mitsusuke"
+   ]
+  },
+  {
+   "name": "Isoo Abe",
+   "role": "Socialist Party adviser",
+   "variants": [
+    "ABE IBOO"
+   ]
+  },
+  {
+   "name": "Iwasaburō Takano",
+   "role": "Socialist Party adviser",
+   "variants": [
+    "TAKANO Iwasaburo"
+   ]
+  },
+  {
+   "name": "Toyohiko Kagawa",
+   "role": "Socialist Party adviser",
+   "variants": [
+    "KAGAWA Toyohiko"
+   ]
+  },
+  {
+   "name": "Hideji Yagi",
+   "role": "Socialist Party adviser",
+   "variants": [
+    "YAGI Hideji"
+   ]
+  },
+  {
+   "name": "Yoshichika Tokugawa",
+   "role": "Socialist Party adviser",
+   "variants": [
+    "TCKUGAWA Yoshichika"
+   ]
+  },
+  {
+   "name": "Tsunego Baba",
+   "role": "Socialist Party adviser",
+   "variants": [
+    "BABA Tsunego"
+   ]
+  },
+  {
+   "name": "Komakichi Matsuoka",
+   "role": "Socialist Party adviser and labor leader",
+   "variants": [
+    "MATSUCKA Komakichi",
+    "松岡駒吉"
+   ]
+  },
+  {
+   "name": "Kyūichi Tokuda",
+   "role": "Japanese Communist Party secretary-general",
+   "variants": [
+    "TCKUDA Kyuichi",
+    "TOKUDA Kyuichi",
+    "TOKUDA Kyuich1",
+    "德田氏"
+   ]
+  },
+  {
+   "name": "Yoshio Shiga",
+   "role": "Japanese Communist Party Political Bureau member and organ chief",
+   "variants": [
+    "SHIGA Yoshio",
+    "志寶義雄"
+   ]
+  },
+  {
+   "name": "Satomi Hakamada",
+   "role": "Japanese Communist Party Central Committee and Political Bureau member",
+   "variants": [
+    "HAKAMADA Satom1",
+    "HAKAMADA Satomi"
+   ]
+  },
+  {
+   "name": "Kenji Miyamoto",
+   "role": "Japanese Communist Party Political Bureau and cultural-department member",
+   "variants": [
+    "MIYAMOTO KenJ1",
+    "MIYAMOTO Ken",
+    "MIYAMOTO Kenji"
+   ]
+  },
+  {
+   "name": "Shigeo Kamiyama",
+   "role": "Japanese Communist Party Central Committee and publications/finance official",
+   "variants": [
+    "KAMIYAMA Shigeo",
+    "神山茂夫"
+   ]
+  },
+  {
+   "name": "Ryūji Nishizawa",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "NISHISAWA Ryuji"
+   ]
+  },
+  {
+   "name": "Takechiyo Uchino",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "UCHINO Takechiyo"
+   ]
+  },
+  {
+   "name": "Korehito Kurahara",
+   "role": "Japanese Communist Party cultural official",
+   "variants": [
+    "FUJIWARA Koreto",
+    "KURAHARA Korehito"
+   ]
+  },
+  {
+   "name": "Kim Chon-hae",
+   "role": "Japanese Communist Party Political Bureau member",
+   "variants": [
+    "KIN Ten Kai"
+   ]
+  },
+  {
+   "name": "Ritsu Itō",
+   "role": "Japanese Communist Party Central Committee and Secretariat member",
+   "variants": [
+    "ITO Ritsu"
+   ]
+  },
+  {
+   "name": "Kenichi Itō",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "ITO Kenichi"
+   ]
+  },
+  {
+   "name": "Hiroshi Hasegawa",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "HASEGAWA Hiroshi"
+   ]
+  },
+  {
+   "name": "Shōichi Kasuga",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "KASUGA Shoichi"
+   ]
+  },
+  {
+   "name": "Shōjirō Kasuga",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "KASUGA Shojiro"
+   ]
+  },
+  {
+   "name": "Yōjirō Konno",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "KONNO Yojiro"
+   ]
+  },
+  {
+   "name": "Kumaji Matsuzaki",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "MATSUSAKI Kumaj1"
+   ]
+  },
+  {
+   "name": "Takashi Mizutani",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "MIZUTANI Takashi"
+   ]
+  },
+  {
+   "name": "Bunkichi Okada",
+   "role": "Japanese Communist Party Central Committee member",
+   "variants": [
+    "OKADA Bunkichi"
+   ]
+  },
+  {
+   "name": "Shigetoku Kuroki",
+   "role": "Japanese Communist Party Secretariat and finance chief",
+   "variants": [
+    "KUROKI Shigetoku"
+   ]
+  },
+  {
+   "name": "Kim Du-yong",
+   "role": "Japanese Communist Party publications official",
+   "variants": [
+    "KIN To Yo"
+   ]
+  },
+  {
+   "name": "J. Deane Potter",
+   "role": "Daily Express staff reporter in Tokyo",
+   "variants": [
+    "J. Deane Potter"
+   ]
+  },
+  {
+   "name": "Owen Lattimore",
+   "role": "Writer on Japanese industry and Asian security",
+   "variants": [
+    "Oven Lattimore"
+   ]
+  },
+  {
+   "name": "George H. Gallman",
+   "role": "U.S. Embassy London officer who signed the press-summary telegram",
+   "variants": [
+    "GALLMAN"
+   ]
+  },
+  {
+   "name": "Walter Bedell Smith",
+   "role": "U.S. Ambassador in Moscow",
+   "variants": [
+    "SMITH"
+   ]
+  },
+  {
+   "name": "George Atcheson Jr.",
+   "role": "United States Political Adviser in Japan",
+   "variants": [
+    "George Atcheson, Jr."
+   ]
+  },
+  {
+   "name": "Wataru Narahashi",
+   "role": "Chief Cabinet Secretary and minister without portfolio",
+   "variants": [
+    "NARAHASHI Wataru",
+    "Mr. MARAHASHI Wataru",
+    "NARARASNI"
+   ]
+  },
+  {
+   "name": "Takeshige Ishiguro",
+   "role": "Cabinet minister advocating a new government party",
+   "variants": [
+    "ISHIGURO Takeshige",
+    "ISHIGURO",
+    "石黑武重"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Minister of Foreign Affairs",
+   "variants": [
+    "YOSHIDA Shigeru",
+    "西田外相"
+   ]
+  },
+  {
+   "name": "Jane Alden",
+   "role": "Person to whom the newspaper copies were to be returned",
+   "variants": [
+    "Jane Alden"
+   ]
+  },
+  {
+   "name": "Chen Gongbo",
+   "role": "Former Chinese collaborationist official reported sentenced to death",
+   "variants": [
+    "陳公博"
+   ]
+  },
+  {
+   "name": "Francisco Franco",
+   "role": "Head of the Spanish government discussed in a foreign-news item",
+   "variants": [
+    "フランコ"
+   ]
+  },
+  {
+   "name": "Joseph B. Keenan",
+   "role": "Chief prosecutor at the International Military Tribunal for the Far East",
+   "variants": [
+    "キーナン氏"
+   ]
+  },
+  {
+   "name": "Yuriko Miyamoto",
+   "role": "Writer mentioned at Tokuda's wedding reception",
+   "variants": [
+    "宮本百合子"
+   ]
+  },
+  {
+   "name": "Boswell",
+   "role": "American food expert commenting on potato preservation",
+   "variants": [
+    "ボスウエル氏"
+   ]
+  },
+  {
+   "name": "Kiyojūrō Arafune",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "荒船清十郎"
+   ]
+  },
+  {
+   "name": "Nobuyuki Iwamoto",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "岩本 信行",
+    "信行"
+   ]
+  },
+  {
+   "name": "Shōichi Yamamoto",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "山本正一"
+   ]
+  },
+  {
+   "name": "Kaiji Onogi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "小此木歌治"
+   ]
+  },
+  {
+   "name": "Chōjirō Kuriyama",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "栗山長次郎"
+   ]
+  },
+  {
+   "name": "Senpachi Suzuki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "鈴木仙八"
+   ]
+  },
+  {
+   "name": "Morikazu Nakajima",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "中島守和"
+   ]
+  },
+  {
+   "name": "Shigeyo Takeuchi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "竹內茂代"
+   ]
+  },
+  {
+   "name": "Mikio Mizuta",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "水田三男",
+    "水田三喜男"
+   ]
+  },
+  {
+   "name": "Isaburō Kataoka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "片岡伊三郎",
+    "片岡里三郎"
+   ]
+  },
+  {
+   "name": "Shinjirō Yamamura",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "山村新治郎"
+   ]
+  },
+  {
+   "name": "Tomohira Iida",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "井田友平"
+   ]
+  },
+  {
+   "name": "Yasuo Takahashi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "高橋 泰雄"
+   ]
+  },
+  {
+   "name": "Ryōzō Hiraoka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "平岡良藏"
+   ]
+  },
+  {
+   "name": "Kōtarō Bandō",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "坂東幸大郎",
+    "坂東幸太郎"
+   ]
+  },
+  {
+   "name": "Masanobu Ogawara",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "小川原段信",
+    "小川原政信"
+   ]
+  },
+  {
+   "name": "Ichirō Sugita",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "杉田一郎"
+   ]
+  },
+  {
+   "name": "Yoshio Kimijima",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "木島 義夫"
+   ]
+  },
+  {
+   "name": "Rinji Ōishi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "大石倫治"
+   ]
+  },
+  {
+   "name": "Yasomi Ogasawara",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "小笠賓八十美",
+    "小笠原八十美"
+   ]
+  },
+  {
+   "name": "Gisuke Takeda",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "武田宮之助"
+   ]
+  },
+  {
+   "name": "Torakichi Nakano",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "中野 寅吉"
+   ]
+  },
+  {
+   "name": "Ankichi Utsumi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "內海安吉"
+   ]
+  },
+  {
+   "name": "Jirō Satō",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "佐藤次郎"
+   ]
+  },
+  {
+   "name": "Heiichirō Suzuki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "鈴不平一郎",
+    "鈴木平一郎"
+   ]
+  },
+  {
+   "name": "Jinnosuke Ōtsuka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "大塚助",
+    "大塚甚之助"
+   ]
+  },
+  {
+   "name": "Hideji Kanaya",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "金谷秀次"
+   ]
+  },
+  {
+   "name": "Jisaku Itakura",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "板倉治作"
+   ]
+  },
+  {
+   "name": "Ichirō Arita",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "有田一郎"
+   ]
+  },
+  {
+   "name": "Banboku Ōno",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "大野伴睦"
+   ]
+  },
+  {
+   "name": "Masumi Ezaki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "江崎 圓澄"
+   ]
+  },
+  {
+   "name": "Tamaichirō Fukatsu",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "深津玉一郎"
+   ]
+  },
+  {
+   "name": "Seiichi Sekō",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "世耕 正一"
+   ]
+  },
+  {
+   "name": "Sanjirō Kitaura",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "北浦三大郎"
+   ]
+  },
+  {
+   "name": "Iwaki Hattori",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "服部岩吉"
+   ]
+  },
+  {
+   "name": "Genzaburō Tanaka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "田中源三郎"
+   ]
+  },
+  {
+   "name": "Tadayoshi Saeki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "佐伯忠義"
+   ]
+  },
+  {
+   "name": "Tadao Watanabe",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "渡邊 忠雄"
+   ]
+  },
+  {
+   "name": "Mitsujirō Ishii",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "石井光次郎"
+   ]
+  },
+  {
+   "name": "Eikichi Uehayashiyama",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "上林山榮吉"
+   ]
+  },
+  {
+   "name": "Eisaku Honda",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "本田英作"
+   ]
+  },
+  {
+   "name": "Chōichirō Fuchida",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "淵田長一郎"
+   ]
+  },
+  {
+   "name": "Tsukasa Kamitsuka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "上塚司"
+   ]
+  },
+  {
+   "name": "Akira Suzuki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "鈴木明良"
+   ]
+  },
+  {
+   "name": "Shōsuke Miyahara",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "宮原庄助"
+   ]
+  },
+  {
+   "name": "Susumu Miyamae",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "宮前進"
+   ]
+  },
+  {
+   "name": "Kyūzō Sekine",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "關根 久藏"
+   ]
+  },
+  {
+   "name": "Sadakichi Ōshima",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "大島定吉"
+   ]
+  },
+  {
+   "name": "Kōichirō Yamaguchi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "山口光一郎"
+   ]
+  },
+  {
+   "name": "Kyōhei Suzuki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "鈴木 強平"
+   ]
+  },
+  {
+   "name": "Chūbei Onozuka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "小野漱忠兵禰"
+   ]
+  },
+  {
+   "name": "Shun'ichi Honda",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "本間俊一",
+    "本間俊一制"
+   ]
+  },
+  {
+   "name": "Denzō Ōkubo",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "大久保傳藏"
+   ]
+  },
+  {
+   "name": "Gizō Kuremuchi",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "苦米地義三"
+   ]
+  },
+  {
+   "name": "Bunji Sameshima",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "渾島 文治",
+    "鮫島 文治"
+   ]
+  },
+  {
+   "name": "Hidekichi Shirai",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "白井 秀吉"
+   ]
+  },
+  {
+   "name": "Shūdairō Suzuki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "鈴木周大郎"
+   ]
+  },
+  {
+   "name": "Hachirō Murai",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "村井 八郎"
+   ]
+  },
+  {
+   "name": "Harue Yamamoto",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "山春江"
+   ]
+  },
+  {
+   "name": "Akinosuke Ōta",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "大田秋之助",
+    "太田秋之助"
+   ]
+  },
+  {
+   "name": "Hide Kawasaki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "川崎秀"
+   ]
+  },
+  {
+   "name": "Monjūrō Kuki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "九鬼紋十郎"
+   ]
+  },
+  {
+   "name": "Nitarō Yoshizawa",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "吉澤仁天郎",
+    "吉澤仁太郎"
+   ]
+  },
+  {
+   "name": "Hanji Ogawa",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "小川 半次"
+   ]
+  },
+  {
+   "name": "Man'itsu Tanaka",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "田中 万逸"
+   ]
+  },
+  {
+   "name": "Minpei Hibino",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "日比野民平"
+   ]
+  },
+  {
+   "name": "Masukichi Hirano",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "平野增吉"
+   ]
+  },
+  {
+   "name": "Sataji Yagi",
+   "role": "Diet candidate",
+   "variants": [
+    "八木佐太治"
+   ]
+  },
+  {
+   "name": "Tei Saitō",
+   "role": "Diet candidate",
+   "variants": [
+    "齋藤てい"
+   ]
+  },
+  {
+   "name": "Fusajirō Nakagawa",
+   "role": "Diet candidate",
+   "variants": [
+    "仲川房次郎"
+   ]
+  },
+  {
+   "name": "Takejirō Araki",
+   "role": "Diet candidate",
+   "variants": [
+    "荒木丈大郎"
+   ]
+  },
+  {
+   "name": "Sanae Inamura",
+   "role": "Diet candidate",
+   "variants": [
+    "稻本早苗"
+   ]
+  },
+  {
+   "name": "Satoru Inoue",
+   "role": "Diet candidate",
+   "variants": [
+    "井上 知"
+   ]
+  },
+  {
+   "name": "Ichirō Yasaka",
+   "role": "Diet candidate",
+   "variants": [
+    "八坂一郎"
+   ]
+  },
+  {
+   "name": "Tokutarō Kitamura",
+   "role": "Diet candidate",
+   "variants": [
+    "北村經太郎"
+   ]
+  },
+  {
+   "name": "Masaharu Hayashida",
+   "role": "Diet candidate",
+   "variants": [
+    "林田正治"
+   ]
+  },
+  {
+   "name": "Shizue Katō",
+   "role": "Socialist Diet member and women's-rights advocate",
+   "variants": [
+    "加藤シツエ",
+    "加勝シツエ"
+   ]
+  },
+  {
+   "name": "Shizue Yamaguchi",
+   "role": "Socialist Diet member",
+   "variants": [
+    "山口シツエ"
+   ]
+  },
+  {
+   "name": "Yūtarō Takeyama",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "竹山祐太郎"
+   ]
+  },
+  {
+   "name": "Kanemitsu Aoki",
+   "role": "Successful Diet candidate",
+   "variants": [
+    "青川兼光",
+    "酉川 兼言"
+   ]
+  },
+  {
+   "name": "Naozō Doi",
+   "role": "Socialist Diet member",
+   "variants": [
+    "土井 直作"
+   ]
+  },
+  {
+   "name": "Toshiko Matsuo",
+   "role": "Socialist Diet member",
+   "variants": [
+    "松尾 敏子"
+   ]
+  },
+  {
+   "name": "Kanson Arahata",
+   "role": "Socialist Diet member and labor leader",
+   "variants": [
+    "荒畑 勝三"
+   ]
+  },
+  {
+   "name": "Haruo Okada",
+   "role": "Socialist Diet member",
+   "variants": [
+    "岡田春夫"
+   ]
+  },
+  {
+   "name": "Ito Niizuma",
+   "role": "Socialist Diet member",
+   "variants": [
+    "新妻 イ卜",
+    "新妻イト"
+   ]
+  },
+  {
+   "name": "Saburō Machida",
+   "role": "Socialist Diet member",
+   "variants": [
+    "町田三郎"
+   ]
+  },
+  {
+   "name": "Susumu Nikaidō",
+   "role": "Diet member",
+   "variants": [
+    "二階堂進"
+   ]
+  },
+  {
+   "name": "Kinjirō Ishikawa",
+   "role": "Diet member",
+   "variants": [
+    "石川金郎",
+    "石川金次郎"
+   ]
+  },
+  {
+   "name": "Mitsuo Hosono",
+   "role": "Diet member",
+   "variants": [
+    "細野三千雄"
+   ]
+  },
+  {
+   "name": "Shinsaku Karata",
+   "role": "Diet member",
+   "variants": [
+    "唐田晉作"
+   ]
+  },
+  {
+   "name": "Kiyoichi Ōsawa",
+   "role": "Diet member",
+   "variants": [
+    "大澤喜代一"
+   ]
+  },
+  {
+   "name": "Mikiji Mori",
+   "role": "Diet member",
+   "variants": [
+    "森 三樹二"
+   ]
+  },
+  {
+   "name": "Hisao Tanaka",
+   "role": "Diet member",
+   "variants": [
+    "田中久雄"
+   ]
+  },
+  {
+   "name": "Shirō Nakano",
+   "role": "Diet member",
+   "variants": [
+    "中野四郎"
+   ]
+  },
+  {
+   "name": "Chiyo Kamibayashi",
+   "role": "Socialist Diet member and journalist",
+   "variants": [
+    "神原千代"
+   ]
+  },
+  {
+   "name": "Yoshio Suzuki",
+   "role": "Socialist Diet member",
+   "variants": [
+    "鈴木義勇"
+   ]
+  },
+  {
+   "name": "Junzō Inamura",
+   "role": "Socialist Diet member",
+   "variants": [
+    "稻村順臧"
+   ]
+  },
+  {
+   "name": "Kimi Ōhashi",
+   "role": "Diet member",
+   "variants": [
+    "大橋喜美"
+   ]
+  },
+  {
+   "name": "Ryōichi Inoue",
+   "role": "Socialist Diet member",
+   "variants": [
+    "井上良一"
+   ]
+  },
+  {
+   "name": "Hisa Sawada",
+   "role": "Diet member",
+   "variants": [
+    "澤田ひさ"
+   ]
+  },
+  {
+   "name": "Kisaburō Yao",
+   "role": "Diet member",
+   "variants": [
+    "矢尾臺三郎"
+   ]
+  },
+  {
+   "name": "Kazuo Nagae",
+   "role": "Diet member",
+   "variants": [
+    "永江一夫"
+   ]
+  },
+  {
+   "name": "Taminosuke Tsujii",
+   "role": "Diet member",
+   "variants": [
+    "辻井民之助"
+   ]
+  },
+  {
+   "name": "Eiichi Nishimura",
+   "role": "Diet member",
+   "variants": [
+    "西村榮一"
+   ]
+  },
+  {
+   "name": "Seijirō Ueda",
+   "role": "Diet member",
+   "variants": [
+    "上田清次郎"
+   ]
+  },
+  {
+   "name": "Makio Morimoto",
+   "role": "Diet member",
+   "variants": [
+    "森本 卷夫"
+   ]
+  },
+  {
+   "name": "Usaburō Itō",
+   "role": "Diet member",
+   "variants": [
+    "伊勝卯四郎"
+   ]
+  },
+  {
+   "name": "Kaichi Mutō",
+   "role": "Diet member",
+   "variants": [
+    "武藤 嘉一"
+   ]
+  },
+  {
+   "name": "Kyōichi Itō",
+   "role": "Diet member",
+   "variants": [
+    "伊藤恭一"
+   ]
+  },
+  {
+   "name": "Senshō Ishizaki",
+   "role": "Diet member",
+   "variants": [
+    "石崎千松",
+    "右綺 千燈"
+   ]
+  },
+  {
+   "name": "Shigeki Nakajima",
+   "role": "Diet member",
+   "variants": [
+    "中島 茂喜"
+   ]
+  },
+  {
+   "name": "Daisuke Akita",
+   "role": "Diet member",
+   "variants": [
+    "秋田大助"
+   ]
+  },
+  {
+   "name": "Masamichi Akazawa",
+   "role": "Diet member",
+   "variants": [
+    "赤澤正道"
+   ]
+  },
+  {
+   "name": "Kanemitsu Hosozako",
+   "role": "Diet member",
+   "variants": [
+    "細迫 兼光"
+   ]
+  },
+  {
+   "name": "Seiichirō Kuba",
+   "role": "Diet member",
+   "variants": [
+    "久芳生一郎"
+   ]
+  },
+  {
+   "name": "Seitarō Ōta",
+   "role": "Diet member",
+   "variants": [
+    "太田誠太郎"
+   ]
+  },
+  {
+   "name": "Masanori Tobita",
+   "role": "Diet member",
+   "variants": [
+    "體田正則"
+   ]
+  },
+  {
+   "name": "Tenkōkō Matsutani",
+   "role": "Woman Diet member",
+   "variants": [
+    "松谷天光光"
+   ]
+  },
+  {
+   "name": "Ichimatsu Ishida",
+   "role": "Diet member and entertainer",
+   "variants": [
+    "石田一松"
+   ]
+  },
+  {
+   "name": "Sakae Kinoshita",
+   "role": "Diet member",
+   "variants": [
+    "木下榮"
+   ]
+  },
+  {
+   "name": "Saburō Kawasaki",
+   "role": "Diet member",
+   "variants": [
+    "地崎三郎",
+    "川崎三郎"
+   ]
+  },
+  {
+   "name": "Saburō Kumazawa",
+   "role": "Diet member",
+   "variants": [
+    "熊三郎"
+   ]
+  },
+  {
+   "name": "Satoko Tō",
+   "role": "Woman Diet member",
+   "variants": [
+    "戶叶 里子"
+   ]
+  },
+  {
+   "name": "Utako Takeuchi",
+   "role": "Woman Diet member",
+   "variants": [
+    "竹內 歌子"
+   ]
+  },
+  {
+   "name": "Tōhei Komai",
+   "role": "Diet member",
+   "variants": [
+    "駒井 藤平"
+   ]
+  },
+  {
+   "name": "Haru Koshihara",
+   "role": "Woman Diet member",
+   "variants": [
+    "越原はる"
+   ]
+  },
+  {
+   "name": "Tōjirō Inoue",
+   "role": "Diet member",
+   "variants": [
+    "井上東治郎"
+   ]
+  },
+  {
+   "name": "Fumiko Yoneyama",
+   "role": "Woman Diet member",
+   "variants": [
+    "米山文子"
+   ]
+  },
+  {
+   "name": "Yagorō Suzuki",
+   "role": "Diet member",
+   "variants": [
+    "鈴木彌五郎"
+   ]
+  },
+  {
+   "name": "Shūichirō Maruyama",
+   "role": "Diet member",
+   "variants": [
+    "丸山修一郎"
+   ]
+  },
+  {
+   "name": "Saburō Ōmiya",
+   "role": "Diet member",
+   "variants": [
+    "大宮位三郎"
+   ]
+  },
+  {
+   "name": "Hanako Honda",
+   "role": "Woman Diet member",
+   "variants": [
+    "本多花子"
+   ]
+  },
+  {
+   "name": "Toramatsu Konishi",
+   "role": "Diet member",
+   "variants": [
+    "小西寅松"
+   ]
+  },
+  {
+   "name": "Kayoko Miki",
+   "role": "Woman Diet member",
+   "variants": [
+    "三木嘉代子"
+   ]
+  },
+  {
+   "name": "Kenji Inada",
+   "role": "Diet member",
+   "variants": [
+    "稻田健治"
+   ]
+  },
+  {
+   "name": "Hatsu Andō",
+   "role": "Woman Diet member",
+   "variants": [
+    "安藤はつ"
+   ]
+  },
+  {
+   "name": "Hachirō Hirano",
+   "role": "Diet member",
+   "variants": [
+    "平野八郎"
+   ]
+  },
+  {
+   "name": "Hisao Kikuchi",
+   "role": "Diet member",
+   "variants": [
+    "菊池 久雄"
+   ]
+  },
+  {
+   "name": "Keiichi Ōtsu",
+   "role": "Diet member",
+   "variants": [
+    "大津桂一"
+   ]
+  },
+  {
+   "name": "Ryūtarō Takadera",
+   "role": "Diet member",
+   "variants": [
+    "寺高隆太郎",
+    "寺局隆太郎"
+   ]
+  },
+  {
+   "name": "Iwao Itō",
+   "role": "Diet member",
+   "variants": [
+    "伊東岩男"
+   ]
+  },
+  {
+   "name": "Katsujiro Nagai",
+   "role": "Diet member",
+   "variants": [
+    "永井勝次郎"
+   ]
+  },
+  {
+   "name": "Eiichi Arima",
+   "role": "Diet member and physician",
+   "variants": [
+    "有馬 英一"
+   ]
+  },
+  {
+   "name": "Eiichi Nakayama",
+   "role": "Diet member",
+   "variants": [
+    "中山榮一"
+   ]
+  },
+  {
+   "name": "Yoshimitsu Kawano",
+   "role": "Diet member",
+   "variants": [
+    "川野芳滿"
+   ]
+  },
+  {
+   "name": "Akira Mori",
+   "role": "Diet member who joined the Liberal Party",
+   "variants": [
+    "森曉氏",
+    "森曉"
+   ]
+  },
+  {
+   "name": "Zentarō Kosaka",
+   "role": "Diet member",
+   "variants": [
+    "小坂善大郎"
+   ]
+  },
+  {
+   "name": "Ichitarō Ide",
+   "role": "Diet member",
+   "variants": [
+    "井出一大郎",
+    "井出一太郎"
+   ]
+  },
+  {
+   "name": "Ryūyū Ikegami",
+   "role": "Diet member",
+   "variants": [
+    "池上 隆祐",
+    "池上降祐"
+   ]
+  },
+  {
+   "name": "Yukio Ozaki",
+   "role": "Veteran Diet member and former cabinet minister",
+   "variants": [
+    "尾崎 行雄"
+   ]
+  },
+  {
+   "name": "Shichirō Hozumi",
+   "role": "Diet member",
+   "variants": [
+    "穗積七郎"
+   ]
+  },
+  {
+   "name": "Eijun Ōtani",
+   "role": "Buddhist cleric and Diet member",
+   "variants": [
+    "大谷 經潤"
+   ]
+  },
+  {
+   "name": "Toshio Sakai",
+   "role": "Diet member",
+   "variants": [
+    "酒井 俊雄"
+   ]
+  },
+  {
+   "name": "Makoto Egawa",
+   "role": "Diet member",
+   "variants": [
+    "江川信"
+   ]
+  },
+  {
+   "name": "Shigeo Gonen",
+   "role": "Diet member",
+   "variants": [
+    "五年 茂雄"
+   ]
+  },
+  {
+   "name": "Eitarō Nakata",
+   "role": "Diet member",
+   "variants": [
+    "中田榮太郎"
+   ]
+  },
+  {
+   "name": "Sata Nishiyama",
+   "role": "Diet member",
+   "variants": [
+    "西山佐太"
+   ]
+  },
+  {
+   "name": "Takashi Hayakawa",
+   "role": "Diet member",
+   "variants": [
+    "早川崇"
+   ]
+  },
+  {
+   "name": "Yoshinobu Inoue",
+   "role": "Diet member",
+   "variants": [
+    "井上便命"
+   ]
+  },
+  {
+   "name": "Kin'emon Matoba",
+   "role": "Diet member",
+   "variants": [
+    "的場金右南門",
+    "的場金右衛門"
+   ]
+  },
+  {
+   "name": "Kaiji Kai",
+   "role": "Diet member",
+   "variants": [
+    "甲斐 改治"
+   ]
+  },
+  {
+   "name": "Takeo Kubo",
+   "role": "Diet member",
+   "variants": [
+    "久保猛夫",
+    "久保蠶夫"
+   ]
+  },
+  {
+   "name": "Tazō Ōshima",
+   "role": "Diet member",
+   "variants": [
+    "大島多藏"
+   ]
+  },
+  {
+   "name": "Niko Hashimoto",
+   "role": "Diet member",
+   "variants": [
+    "橋本二"
+   ]
+  },
+  {
+   "name": "Haruko Yamashita",
+   "role": "Woman Diet member",
+   "variants": [
+    "山下 子"
+   ]
+  },
+  {
+   "name": "Toraki Fujimoto",
+   "role": "Diet member",
+   "variants": [
+    "藤本 虎喜"
+   ]
+  },
+  {
+   "name": "Sadao Sano",
+   "role": "Political commentator on the new Diet and coalition government",
+   "variants": [
+    "佐野學氏"
+   ]
+  },
+  {
+   "name": "Teizō Taira",
+   "role": "Political commentator on democratic forces",
+   "variants": [
+    "平 貞藏氏"
+   ]
+  },
+  {
+   "name": "Hajime Kawakami",
+   "role": "Author advertised in the newspapers",
+   "variants": [
+    "河上鑒"
+   ]
+  },
+  {
+   "name": "Kenji Miyazawa",
+   "role": "Author discussed in an advertised book",
+   "variants": [
+    "宮澤賢治"
+   ]
+  },
+  {
+   "name": "Sōseki Natsume",
+   "role": "Author discussed in an advertised book",
+   "variants": [
+    "漱石"
+   ]
+  },
+  {
+   "name": "Leo Tolstoy",
+   "role": "Author advertised in the newspapers",
+   "variants": [
+    "トルストイ"
+   ]
+  },
+  {
+   "name": "Thomas Macaulay",
+   "role": "Historian advertised in the newspapers",
+   "variants": [
+    "マコーリー"
+   ]
+  },
+  {
+   "name": "Konstantin Simonov",
+   "role": "Soviet author advertised in the newspapers",
+   "variants": [
+    "シーモノフ"
+   ]
+  },
+  {
+   "name": "Hachirō Satō",
+   "role": "Writer advertised in the newspapers",
+   "variants": [
+    "サ卜ウハチロー"
+   ]
+  },
+  {
+   "name": "Joseph Stalin",
+   "role": "Soviet leader mentioned in a book advertisement",
+   "variants": [
+    "スターリン"
+   ]
+  },
+  {
+   "name": "Guy de Maupassant",
+   "role": "Author advertised in the newspapers",
+   "variants": [
+    "モーパッサン"
+   ]
+  },
+  {
+   "name": "Heinrich Heine",
+   "role": "Author advertised in the newspapers",
+   "variants": [
+    "ハィネ"
+   ]
+  },
+  {
+   "name": "Lord Byron",
+   "role": "Poet advertised in the newspapers",
+   "variants": [
+    "バィロン"
+   ]
+  },
+  {
+   "name": "August Strindberg",
+   "role": "Writer named in an advertised study",
+   "variants": [
+    "ストリンドベルグ"
+   ]
+  },
+  {
+   "name": "Vincent van Gogh",
+   "role": "Artist named in an advertised study",
+   "variants": [
+    "ゴッホ"
+   ]
+  },
+  {
+   "name": "Karl Jaspers",
+   "role": "Philosopher named in an advertised book",
+   "variants": [
+    "K・ヤスパース"
+   ]
+  }
+ ],
+ "keywords": [
+  "1946 Japanese general election",
+  "political parties",
+  "coalition cabinet",
+  "Shidehara government",
+  "Hatoyama",
+  "Diet",
+  "occupation policy",
+  "constitutional revision",
+  "women voters and candidates",
+  "Communist Party",
+  "Soviet and British press",
+  "candidate biographies"
+ ],
+ "subfiles": [
+  {
+   "title": "Conclusion of report on pre-election party maneuvering and coalition prospects",
+   "doc_type": "political report",
+   "start_page": 150,
+   "end_page": 150,
+   "continues_previous": true,
+   "date": "",
+   "from": "William J. Sebald",
+   "to": "",
+   "about": "Concludes an analysis of Hatoyama's coalition proposal and efforts to retain Shidehara as prime minister after the election.",
+   "summary": "Hatoyama's approach to Social Democratic leaders is interpreted as an effort to moderate his reactionary reputation and prepare a Liberal-led coalition. Communist leader Nosaka attacks the proposal, while rumors circulate of a broader government party supporting Shidehara or Mitsuchi. Sebald concludes that post-election realignment is likely, but doubts that the current party leaders possess the prestige and leadership needed for a stable cabinet.",
+   "keywords": [
+    "Hatoyama",
+    "Shidehara",
+    "coalition cabinet",
+    "Social Democrats",
+    "Liberal Party",
+    "party realignment"
+   ]
+  },
+  {
+   "title": "Telegram 1135: Izvestiya on pre-election conditions in Japan",
+   "doc_type": "incoming telegram",
+   "start_page": 151,
+   "end_page": 152,
+   "continues_previous": false,
+   "date": "1946-04-11",
+   "from": "U.S. Embassy, Moscow, via War Department",
+   "to": "Secretary of State",
+   "about": "Summarizes Soviet criticism of the timing and political conditions of Japan's April 1946 election.",
+   "summary": "Izvestiya's Tokyo correspondent portrays Japanese voters, especially women, as politically unprepared and vulnerable to conservative or clerical influence. The article alleges that occupation authorities favor Shidehara's reactionary government, condemns the Social Democrats for rejecting a Communist united front, and claims that rightist parties enjoy superior funding and paper supplies. A TASS item also outlines the Democratic People's League's call for a popular-front government, a democratic constitution, economic planning, and the destruction of militarist and monopolistic power.",
+   "keywords": [
+    "Izvestiya",
+    "Soviet press",
+    "Japanese election",
+    "women voters",
+    "Shidehara",
+    "popular front"
+   ]
+  },
+  {
+   "title": "Memorandum of conversation on Tokyo's election-policy telegram",
+   "doc_type": "memorandum of conversation",
+   "start_page": 153,
+   "end_page": 154,
+   "continues_previous": false,
+   "date": "1946-04-12",
+   "from": "Division of Japanese Affairs",
+   "to": "Department of State files",
+   "about": "Records a State–War Department discussion of Bishop's recommendation that occupation policy support non-Communist Japanese political groups.",
+   "summary": "Braisted reports G-2 concern that Bishop has oversimplified Japanese politics into Communist and non-Communist camps and that blanket support for non-Communists could conflict with the January 4 purge directive. Borton and Emmerson agree that ultranationalists may be found among non-Communists and urge evaluation of individuals rather than labels. The participants also doubt that the Far Eastern Commission would invalidate the election, despite earlier concern that it was being held too soon.",
+   "keywords": [
+    "G-2",
+    "occupation policy",
+    "purge directive",
+    "Communists",
+    "Far Eastern Commission",
+    "election validity"
+   ]
+  },
+  {
+   "title": "Telegram 1149: Pravda on the Emperor, constitution, and election",
+   "doc_type": "incoming telegram",
+   "start_page": 155,
+   "end_page": 156,
+   "continues_previous": false,
+   "date": "1946-04-12",
+   "from": "U.S. Embassy, Moscow, via War Department",
+   "to": "Secretary of State",
+   "about": "Summarizes a Pravda editorial attacking the imperial institution, the Shidehara government, and the occupation-sponsored constitution.",
+   "summary": "Pravda correspondent Boris Gorbatov presents the fate of the Emperor as the central issue of Japanese politics and endorses the Communist demand to abolish the imperial system and try Hirohito with Tojo. The article argues that the Emperor's democratized public image strengthens reactionaries and that fascist officials, generals, police, and capitalists remain entrenched. It also condemns the draft constitution for legalizing a constitutional monarchy and cites British criticism of U.S. tolerance for the old ruling clique.",
+   "keywords": [
+    "Pravda",
+    "Emperor system",
+    "Hirohito",
+    "Japanese constitution",
+    "Shidehara",
+    "MacArthur",
+    "Soviet criticism"
+   ]
+  },
+  {
+   "title": "Despatch No. 370: List of officers of major Japanese political parties",
+   "doc_type": "despatch with enclosure",
+   "start_page": 157,
+   "end_page": 162,
+   "continues_previous": false,
+   "date": "1946-04-15",
+   "from": "Officer in Charge, Office of the United States Political Adviser, Tokyo",
+   "to": "Department of State",
+   "about": "Forwards a party-supplied roster of officers and committee members of Japan's five principal political parties as of April 5, 1946.",
+   "summary": "The enclosure lists the leadership, committees, secretariats, and departmental chiefs of the Progressive, Liberal, Cooperative, Socialist, and Communist parties. It provides unusually detailed organizational information, including women's, election, labor, agricultural, propaganda, publication, cultural, research, and finance posts. Hatoyama, Katayama, Tokuda, Nosaka, and numerous other national political figures appear in the roster.",
+   "keywords": [
+    "party organization",
+    "Progressive Party",
+    "Liberal Party",
+    "Cooperative Party",
+    "Socialist Party",
+    "Communist Party",
+    "political leaders"
+   ]
+  },
+  {
+   "title": "Telegram 4141: British press reaction to the Japanese election",
+   "doc_type": "incoming telegram",
+   "start_page": 163,
+   "end_page": 166,
+   "continues_previous": false,
+   "date": "1946-04-15",
+   "from": "George H. Gallman, U.S. Embassy London",
+   "to": "Department of State and Allied Commander, Tokyo",
+   "about": "Reviews British editorials and feature articles on Japan's election, constitution, occupation, reparations, and industrial power.",
+   "summary": "The Yorkshire Post, Observer, Times, and Manchester Guardian question whether formally free elections can produce democracy amid apathy, uncertainty, unchanged administration, and surviving militarist influence. They urge early clarification of peace terms and reparations and criticize MacArthur for accepting Japan's conversion too readily. Reports by J. Deane Potter and Owen Lattimore emphasize continuing rightist networks and warn that industrial capacity could again threaten Asian peace unless surplus plant is transferred to neighboring countries.",
+   "keywords": [
+    "British press",
+    "Japanese election",
+    "MacArthur",
+    "constitution",
+    "reparations",
+    "militarism",
+    "Japanese industry"
+   ]
+  },
+  {
+   "title": "Telegram 1218: Soviet press response after the election",
+   "doc_type": "incoming telegram",
+   "start_page": 167,
+   "end_page": 167,
+   "continues_previous": false,
+   "date": "1946-04-16",
+   "from": "Walter Bedell Smith, U.S. Embassy Moscow",
+   "to": "Secretary of State",
+   "about": "Reports the Soviet press's initial post-election silence and its focus on defective voter-registration lists.",
+   "summary": "Moscow newspapers had not yet published factual results or even announced that the April 10 election occurred. Their likely line is indicated by reports that nearly one million eligible voters were omitted from registration lists and that the Japanese Communist Party demanded a new election with better lists and stricter candidate verification.",
+   "keywords": [
+    "Soviet press",
+    "voter registration",
+    "Communist Party",
+    "new election",
+    "Moscow"
+   ]
+  },
+  {
+   "title": "DC/R routing slip",
+   "doc_type": "routing slip",
+   "start_page": 168,
+   "end_page": 168,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Communications and Records",
+   "to": "Department of State offices",
+   "about": "Routes the preceding telegram for action and distribution.",
+   "summary": "A brief administrative routing sheet directs the associated record to the relevant action office and notes the number of copies. It contains no substantive political analysis.",
+   "keywords": [
+    "routing",
+    "records management",
+    "telegram distribution"
+   ]
+  },
+  {
+   "title": "Despatch No. 379: Political Parties in Japan—Developments During the Week Ending April 13, 1946",
+   "doc_type": "despatch with report and appendices",
+   "start_page": 169,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1946-04-18",
+   "from": "George Atcheson Jr., United States Political Adviser, Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits a detailed report on the April 10 election results, voter participation, party strength, and post-election cabinet negotiations.",
+   "summary": "The report estimates turnout at about 72 percent, notes the independent participation of women and election of 38 women, and gives preliminary party totals showing a Liberal plurality with strong Progressive and Social Democratic contingents. It judges the electorate broadly conservative but identifies a significant desire for change, dismisses most registration defects as products of wartime disruption rather than official negligence, and anticipates gradual development of democratic legislative practice. Post-election analysis considers a Hatoyama or Shidehara coalition, a new government party organized by Narahashi, Mitsuchi, and Ishiguro, or a disciplined Socialist opposition. Appendices compare the five parties' policies on the Emperor, food, inflation, industrial reconstruction, unemployment, and land; reproduce Shidehara's election appeal quoting the Emperor; and tabulate successful candidates by prefecture.",
+   "keywords": [
+    "election results",
+    "women voters",
+    "party platforms",
+    "coalition negotiations",
+    "Shidehara",
+    "Hatoyama",
+    "constitution",
+    "registration lists"
+   ]
+  },
+  {
+   "title": "Despatch No. 381: Biographical data on successful Diet candidates",
+   "doc_type": "despatch",
+   "start_page": 181,
+   "end_page": 181,
+   "continues_previous": false,
+   "date": "1946-04-19",
+   "from": "Office of the United States Political Adviser, Tokyo",
+   "to": "Department of State",
+   "about": "Forwards copies of the April 14 Asahi and Mainichi containing names and biographical information for successful Diet candidates.",
+   "summary": "The Political Adviser recommends the original Japanese newspaper material to the Division of Japanese Affairs and the Office of Research and Information. Staff limitations prevented translation, so three copies of each newspaper were transmitted under separate cover.",
+   "keywords": [
+    "Diet candidates",
+    "biographical data",
+    "Asahi",
+    "Mainichi",
+    "newspaper enclosures"
+   ]
+  },
+  {
+   "title": "Asahi, April 14, 1946: election results and candidate biographies",
+   "doc_type": "Japanese newspaper accompaniment",
+   "start_page": 182,
+   "end_page": 198,
+   "continues_previous": false,
+   "date": "1946-04-14",
+   "from": "Asahi",
+   "to": "Department of State",
+   "about": "Provides Japanese-language election analysis, returns, candidate biographies, and related domestic and international news.",
+   "summary": "The issue reports the Liberal plurality, debates whether the Shidehara cabinet should remain or resign, discusses Socialist strategy and a possible three-party coalition, and comments on the strength of conservative and democratic forces. Extensive tables and biographical sketches identify successful candidates by party and prefecture, with particular attention to the unprecedented number of women elected. Other articles cover the Tokyo food crisis, voter sentiment, election-law violations, returning civilians from Java and Sumatra, labor disputes, war-crimes proceedings, and international diplomacy in Europe and the Middle East.",
+   "keywords": [
+    "Asahi",
+    "candidate biographies",
+    "election returns",
+    "women Diet members",
+    "coalition government",
+    "food shortages",
+    "labor disputes"
+   ]
+  },
+  {
+   "title": "The Mainichi, April 14, 1946: directory of elected representatives and post-election commentary",
+   "doc_type": "Japanese newspaper accompaniment",
+   "start_page": 199,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1946-04-14",
+   "from": "The Mainichi",
+   "to": "Department of State",
+   "about": "Presents a Japanese-language directory of elected representatives, detailed returns, and commentary on the formation and responsibilities of the new Diet.",
+   "summary": "The newspaper prints portraits or biographical entries for successful candidates from Tokyo and numerous prefectures, alongside updated vote totals and notices of required re-elections in Tokyo and Fukui. Political reporting follows negotiations among the Liberal, Progressive, and Socialist parties, the expected resignation of the Shidehara cabinet, and debate over whether Socialists should join a coalition or organize an opposition and broader democratic front. Editorial commentators urge scrutiny and possible recall of unsuitable legislators while emphasizing constitutional revision, economic reconstruction, labor rights, food policy, and resistance to surviving reactionary influence.",
+   "keywords": [
+    "Mainichi",
+    "Diet directory",
+    "party coalition",
+    "cabinet resignation",
+    "re-elections",
+    "democratic front",
+    "constitutional reform"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 8,
+  "pages": [
+   150,
+   205
+  ],
+  "pdf": "894.00 Japan, Political Affairs., January 6, 1945 - November 25, 1946 1546-part-2.pdf",
+  "seconds": 483.0,
+  "created": "2026-10-01 01:44:00",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-27-part-2"
+ }
+}

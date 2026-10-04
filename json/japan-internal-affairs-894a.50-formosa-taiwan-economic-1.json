@@ -1,0 +1,401 @@
+{
+ "overview": "This file traces Japanese colonial economic planning for Taiwan from a detailed 1939 investigation by leading Japanese bankers through wartime assessments in 1941 and 1944. The principal report describes an island-wide inspection tour, evaluates Taiwan’s agricultural and industrial resources, identifies deficiencies in transport, labor, irrigation, and port facilities, and recommends closer integration with Japan’s expansion into South China and the South Seas. A 1941 cross-reference records Naoki Hoshino’s claim that Formosan industrial development had reached its limit and that Hainan should be developed next, while a 1944 Stockholm airgram summarizes a German newspaper’s assessment of Taiwan’s geopolitical position, food production, sugar industry, and possible contribution to high-octane fuel production.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Taiwan's",
+    "Formosa",
+    "Formosa's"
+   ]
+  },
+  {
+   "name": "Eastern Taiwan",
+   "variants": [
+    "East Taiwan",
+    "east of Taiwan"
+   ]
+  },
+  {
+   "name": "Western Taiwan",
+   "variants": [
+    "western part of the island"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku",
+    "Tainoku"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Keelung"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "Takao"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "Heito"
+   ]
+  },
+  {
+   "name": "Taitung",
+   "variants": [
+    "Heito"
+   ]
+  },
+  {
+   "name": "Eluanbi",
+   "variants": [
+    "Garambi"
+   ]
+  },
+  {
+   "name": "Hengchun",
+   "variants": [
+    "Koshun"
+   ]
+  },
+  {
+   "name": "Sichongxi",
+   "variants": [
+    "Shijimei"
+   ]
+  },
+  {
+   "name": "Shimen, Taiwan",
+   "variants": [
+    "Seiliman"
+   ]
+  },
+  {
+   "name": "Loo Shun, Taiwan (locality not securely identified)",
+   "variants": [
+    "Loo Shun"
+   ]
+  },
+  {
+   "name": "Banryu Plantation, Taiwan",
+   "variants": [
+    "Banryu Plantation"
+   ]
+  },
+  {
+   "name": "Hualien",
+   "variants": [
+    "Narenko"
+   ]
+  },
+  {
+   "name": "Jinguashi",
+   "variants": [
+    "Kinkaseki"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan's"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Northeast China (Manchuria)",
+   "variants": [
+    "Manchukuo",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Hainan Island, China",
+   "variants": [
+    "Hainan Island"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines'"
+   ]
+  },
+  {
+   "name": "Greater East Asia Co-Prosperity Sphere",
+   "variants": [
+    "Great Asiatic Prosperity Sphere"
+   ]
+  },
+  {
+   "name": "Stockholm, Sweden",
+   "variants": [
+    "Stockholm"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Atlanta, Georgia",
+   "variants": [
+    "ATLANTA"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S.",
+    "American"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ichimatsu Horai",
+   "role": "President, Industrial Bank of Japan",
+   "variants": [
+    "Ichimatsu Horai",
+    "Mr. Horai"
+   ]
+  },
+  {
+   "name": "Kyujiro Murai",
+   "role": "Secretary to Ichimatsu Horai",
+   "variants": [
+    "Kyujiro Murai"
+   ]
+  },
+  {
+   "name": "Nobu Akiyama",
+   "role": "Director, Mitsui Bank",
+   "variants": [
+    "Nobu Akiyama"
+   ]
+  },
+  {
+   "name": "Kazu Saito",
+   "role": "Director, Mitsubishi Bank",
+   "variants": [
+    "Kazu Saito"
+   ]
+  },
+  {
+   "name": "Kenji Marukawa",
+   "role": "Director, Sanwa Bank",
+   "variants": [
+    "Kenji Marukawa"
+   ]
+  },
+  {
+   "name": "Kenji Kamijo",
+   "role": "Director, First Bank",
+   "variants": [
+    "Kenji Kamijo"
+   ]
+  },
+  {
+   "name": "Seiichi Annen",
+   "role": "Director, Yasuda Bank",
+   "variants": [
+    "Seiichi Annen"
+   ]
+  },
+  {
+   "name": "Naoshi Yasugi",
+   "role": "Director, Hundredth Bank",
+   "variants": [
+    "Naoshi Yasugi"
+   ]
+  },
+  {
+   "name": "Naruyo Shibuya",
+   "role": "Director, Sumitomo Bank",
+   "variants": [
+    "Naruyo Shibuya"
+   ]
+  },
+  {
+   "name": "Shishiro Kudo",
+   "role": "Chief of the Statistical Department, Industrial Bank of Japan",
+   "variants": [
+    "Shishiro Kudo"
+   ]
+  },
+  {
+   "name": "Yakichi Suitsu",
+   "role": "President, Bank of Taiwan",
+   "variants": [
+    "Yakichi Suitsu"
+   ]
+  },
+  {
+   "name": "Gan",
+   "role": "Taiwan resident who hosted the bankers for breakfast; given name and position not stated",
+   "variants": [
+    "Mr. Gan"
+   ]
+  },
+  {
+   "name": "Naoki Hoshino",
+   "role": "President of the Japanese Cabinet Planning Board",
+   "variants": [
+    "Hoshino"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Otani",
+   "role": "President of the Central Union of Japanese Industries",
+   "variants": [
+    "Otani"
+   ]
+  },
+  {
+   "name": "Herschel V. Johnson",
+   "role": "Signer of the Stockholm airgram; U.S. Minister to Sweden",
+   "variants": [
+    "JOHNSON"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan colonial economy",
+  "Japanese banking",
+  "industrialization",
+  "Southward expansion",
+  "agricultural development",
+  "transport infrastructure",
+  "irrigation",
+  "labor shortage",
+  "sugar industry",
+  "natural resources",
+  "Hainan development",
+  "Greater East Asia Co-Prosperity Sphere",
+  "wartime economic intelligence",
+  "butanol and aviation fuel"
+ ],
+ "subfiles": [
+  {
+   "title": "Investigation of Taiwan by Japanese Bankers",
+   "doc_type": "commercial report",
+   "start_page": 1,
+   "end_page": 9,
+   "date": "1939-12-04",
+   "from": "American Vice Consul, Taihoku",
+   "to": "Commercial Office, U.S. Department of State",
+   "about": "Reports on an inspection of Taiwan’s economy and industries by eleven representatives of major Japanese banks.",
+   "summary": "At the invitation of Taiwan’s governor-general, eleven senior Japanese bankers toured the island during November 1939 to assess its economic and industrial prospects. The report gives the party’s membership and itinerary, then summarizes favorable conditions such as agricultural prosperity, coal, potential hydroelectric power, effective administration, and Taiwan’s strategic position for expansion toward South China and the South Seas. It also records inadequate railways and ports, labor shortages, poor soils, limited nonagricultural resources, and insufficient irrigation, followed by recommendations for infrastructure, research, mechanization, agricultural processing, and export-oriented manufacturing.",
+   "keywords": [
+    "Japanese bankers",
+    "economic investigation",
+    "Taiwan industrialization",
+    "agriculture",
+    "railways",
+    "port facilities",
+    "hydroelectric power",
+    "irrigation",
+    "labor shortage",
+    "South China",
+    "South Seas"
+   ]
+  },
+  {
+   "title": "Cross-reference to Grew telegram on Formosa and Hainan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1941-03-28",
+   "from": "Joseph C. Grew, Japan",
+   "to": "U.S. Department of State",
+   "about": "Points to a telegram reporting Hoshino’s assertion that Formosan industry had reached its developmental zenith and Hainan should be developed next.",
+   "summary": "The sheet cross-references Tokyo telegram no. 475 of March 28, 1941. It records Cabinet Planning Board president Hoshino’s view that Formosa had reached the limit of its industrial development and that Hainan Island should become Japan’s next target for territorial economic development.",
+   "keywords": [
+    "cross-reference",
+    "Naoki Hoshino",
+    "Joseph C. Grew",
+    "Formosan industry",
+    "Hainan Island",
+    "Japanese expansion"
+   ]
+  },
+  {
+   "title": "Stockholm airgram on the economic and geopolitical potential of Formosa",
+   "doc_type": "airgram",
+   "start_page": 11,
+   "end_page": 12,
+   "date": "1944-11-30",
+   "from": "Herschel V. Johnson, Stockholm",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits a German newspaper’s wartime appraisal of Taiwan’s strategic position, agricultural output, trade, and fuel-related sugar industry.",
+   "summary": "Airgram A-995 summarizes a November 1, 1944 article in the Krakauer Zeitung entitled “Within the Interior Zone.” The article portrays American action against Taiwan as politically and militarily significant because of the island’s intended central position in Japan’s Greater East Asia sphere. It cites rice and prewar trade statistics and claims that sugar cane supplied both the Japanese home market and butanol potentially usable in high-octane gasoline, while acknowledging uncertainty over whether such fuel production had begun on the island.",
+   "keywords": [
+    "wartime intelligence",
+    "Krakauer Zeitung",
+    "American military action",
+    "Greater East Asia Co-Prosperity Sphere",
+    "rice production",
+    "sugar cane",
+    "butanol",
+    "high-octane gasoline",
+    "Japanese navy",
+    "Formosa"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for comparing optimistic prewar colonial development planning with increasingly strategic wartime interpretations of Taiwan’s economy. The unusually detailed 1939 bankers’ itinerary connects policy judgments to particular factories, plantations, mines, research stations, and infrastructure, while the recommendations reveal how financiers understood Taiwan’s role in Japan’s southward expansion. The 1941 and 1944 items show that this role was contested and changing: one declared the island industrially saturated, whereas the other still presented it as the economic and geopolitical center of Japan’s regional empire. The presence of the 1939 report in a file nominally dated 1941–1944 also illustrates how State Department subject files accumulated earlier background material.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 159.7,
+  "identifier": "japan-internal-affairs-894a.50-formosa-taiwan-economic-1",
+  "file": "894A.50 Formosa. Taiwan, Economic Matters., March 28, 1941 - November 30, 1944 1470.pdf",
+  "created": "2026-09-29 02:51:01"
+ }
+}

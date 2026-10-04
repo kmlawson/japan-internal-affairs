@@ -1,0 +1,109 @@
+{
+ "interest": "This file provides a useful glimpse into the legal and financial entanglements of Japanese nationals residing in the United States during the interwar era, specifically concerning the administration of estates of individuals declared mentally incompetent. It highlights the role of the State Department's Division of Far Eastern Affairs as an informational resource or intermediary for American attorneys seeking to navigate the legal status of foreign banking branches, notably the New York branch of the Yokohama Specie Bank. Furthermore, it exemplifies the State Department's standard internal registry system through the 'List of Papers' docket sheet used to track incoming and outgoing correspondence.",
+ "keywords": [
+  "Yokohama Specie Bank",
+  "branch banks",
+  "bank deposits",
+  "Samuel Mack",
+  "guardianship",
+  "incompetency",
+  "Division of Far Eastern Affairs",
+  "Department of State",
+  "banking regulations",
+  "New York City"
+ ],
+ "overview": "This file consists of a Department of State 'List of Papers' docket sheet for decimal file 894.51611, classified under Japanese branch banks in the United States. Spanning entries from November and December 1932, the document indexes correspondence involving attorney Daniel R. Rothermel, who represented Edward J. Murtaugh, the guardian of Samuel Mack (also known as Shoraku Mack), an incompetent Japanese subject. Rothermel inquired with the Division of Far Eastern Affairs (FE) regarding the legal status of the Yokohama Specie Bank, Limited branch in New York City and the proper procedure for securing deposits held there under Mack's name, culminating in a departmental response on December 5, 1932.",
+ "people": [
+  {
+   "name": "Daniel R. Rothermel",
+   "role": "Attorney representing Edward J. Murtaugh",
+   "variants": [
+    "Rothermel, Daniel R.",
+    "Rothermel, Daniel"
+   ]
+  },
+  {
+   "name": "Samuel Mack",
+   "role": "Japanese subject and depositor declared of incompetent mind",
+   "variants": [
+    "Samuel Mack",
+    "Samuel Mack in",
+    "Shoraku Mack",
+    "Mack"
+   ]
+  },
+  {
+   "name": "Edward J. Murtaugh",
+   "role": "Guardian of Samuel Mack",
+   "variants": [
+    "Edward J. Murtaugh"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York City"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohama Specie Bank"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State list of papers docket sheet recording correspondence regarding bank deposits of an incompetent Japanese subject held in the Yokohama Specie Bank in New York City.",
+   "date": "1932-12-05",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "",
+   "keywords": [
+    "List of Papers",
+    "Yokohama Specie Bank",
+    "Samuel Mack",
+    "Daniel R. Rothermel",
+    "Edward J. Murtaugh",
+    "bank deposits",
+    "incompetency"
+   ],
+   "start_page": 1,
+   "summary": "This docket sheet records three communications from late 1932 concerning funds deposited at the Yokohama Specie Bank, Limited, in New York City. Attorney Daniel R. Rothermel, acting for Edward J. Murtaugh, guardian of incompetent Japanese subject Samuel Mack (also known as Shoraku Mack), wrote to the Division of Far Eastern Affairs on November 21, 1932, requesting advice on procedures to retrieve the deposits and asking about the branch bank's legal status in the United States. Rothermel sent a follow-up inquiry on December 1, 1932, and the Division of Far Eastern Affairs replied on December 5, 1932.",
+   "title": "List of Papers: Japanese Branch Banks in the United States",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13821,
+   "output_tokens": 7857,
+   "thinking_tokens": 6973,
+   "cache_read_tokens": 0,
+   "total_tokens": 21678
+  },
+  "backend": "agy",
+  "seconds": 29.4,
+  "identifier": "japan-internal-affairs-894.51611-financial-conditions-budget-6",
+  "file": "894.51611 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Branch Banks Of Japan In United States.,  322.pdf",
+  "created": "2026-09-29 09:47:55"
+ }
+}

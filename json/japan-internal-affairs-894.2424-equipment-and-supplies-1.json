@@ -1,0 +1,209 @@
+{
+ "interest": "Japanese purchases of U.S. phenol and sulphur, and export freedom in 1935.",
+ "keywords": [
+  "Japan",
+  "chemicals",
+  "phenol",
+  "sulphur",
+  "Mitsui",
+  "Monsanto Chemical Company",
+  "export controls",
+  "Cordell Hull",
+  "William H. King",
+  "military intelligence",
+  "Second Corps Area",
+  "munitions"
+ ],
+ "overview": "1933–35 file on Mitsui phenol orders, Senator King's sulphur inquiry and a Japanese 'noiseless machine gun'.",
+ "people": [
+  {
+   "name": "Kenyon A. Joyce",
+   "role": "Colonel, General Staff Corps; Assistant Chief of Staff, G-2/C-2, Headquarters Second Corps Area",
+   "variants": [
+    "KENYON A. JOYCE"
+   ]
+  },
+  {
+   "name": "William H. King",
+   "role": "U.S. Senator from Utah; Chairman, Senate Committee on the District of Columbia",
+   "variants": [
+    "WILLIAM H. KING",
+    "William H. King",
+    "Senator King"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordeli Huli",
+    "The Secretary of State",
+    "Mr. Secretary"
+   ]
+  },
+  {
+   "name": "Warrington Dawson",
+   "role": "Transmitter of intelligence report from Paris",
+   "variants": [
+    "Warrington Dawson",
+    "Mr. Warrington Dawson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Indianapolis",
+   "variants": [
+    "Indianapolis"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "Wall Street",
+    "N.Y."
+   ]
+  },
+  {
+   "name": "Midwestern United States",
+   "variants": [
+    "Mid-Western"
+   ]
+  },
+  {
+   "name": "Western United States",
+   "variants": [
+    "the West",
+    "West"
+   ]
+  },
+  {
+   "name": "Utah",
+   "variants": [
+    "UTAH"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Colonel Kenyon A. Joyce forwards military intelligence concerning large-scale Japanese procurement orders for phenol placed with American firms.",
+   "date": "1933-11-24",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "Kenyon A. Joyce",
+   "keywords": [
+    "phenol",
+    "Mitsui",
+    "Monsanto Chemical Company",
+    "Kenyon A. Joyce",
+    "Second Corps Area",
+    "G-2",
+    "War Department",
+    "chemical procurement"
+   ],
+   "start_page": 1,
+   "summary": "G-2 reports that Mitsui and others ordered large amounts of U.S. phenol, including from Monsanto.",
+   "title": "Intelligence Memorandum on Japanese Purchases of Phenol",
+   "to": "Assistant Chief of Staff, G-2, War Department"
+  },
+  {
+   "about": "Senator William H. King inquires whether federal laws or regulations prohibit the commercial sale and exportation of western American sulphur deposits to Japan.",
+   "date": "1935-08-02",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "William H. King",
+   "keywords": [
+    "sulphur",
+    "William H. King",
+    "Japan",
+    "export restrictions",
+    "Senate Committee on the District of Columbia",
+    "neutrality"
+   ],
+   "start_page": 2,
+   "summary": "Senator King asks Hull whether any law bars selling western sulphur to Japan.",
+   "title": "Letter from Senator William H. King Regarding Exportation of Sulphur to Japan",
+   "to": "Cordell Hull"
+  },
+  {
+   "about": "Secretary of State Cordell Hull informs Senator King that there are no statutory or treaty restrictions on exporting sulphur from the United States to Japan.",
+   "date": "1935-08-08",
+   "doc_type": "letter",
+   "end_page": 3,
+   "from": "Cordell Hull",
+   "keywords": [
+    "Cordell Hull",
+    "William H. King",
+    "sulphur",
+    "export controls",
+    "statutes",
+    "treaties",
+    "Japan"
+   ],
+   "start_page": 3,
+   "summary": "Hull tells Senator King no law or treaty restricts sulphur exports.",
+   "title": "Letter from Secretary Cordell Hull to Senator William H. King on Sulphur Exports",
+   "to": "William H. King"
+  },
+  {
+   "about": "A State Department cross-reference sheet indexing a report from Paris by Warrington Dawson regarding an alleged Japanese noiseless machine gun invention.",
+   "date": "1935-01-18",
+   "doc_type": "cross-reference sheet",
+   "end_page": 4,
+   "from": "Division of Far Eastern Affairs",
+   "keywords": [
+    "Warrington Dawson",
+    "noiseless machine gun",
+    "Paris",
+    "Far Eastern Affairs",
+    "ordnance",
+    "cross-reference"
+   ],
+   "start_page": 4,
+   "summary": "Cross-reference to Dawson's report of a Japanese noiseless machine gun.",
+   "title": "Cross-Reference Sheet on Report of Japanese Noiseless Machine Gun",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14683,
+   "output_tokens": 11371,
+   "thinking_tokens": 9533,
+   "cache_read_tokens": 0,
+   "total_tokens": 26054
+  },
+  "backend": "agy",
+  "seconds": 38.5,
+  "identifier": "japan-internal-affairs-894.2424-equipment-and-supplies-1",
+  "file": "894.2424 Equipment And Supplies., Armaments. Ordnance., Japan, Chemicals. Gas., March 21, 1933 - January 18, 1935 843.pdf",
+  "created": "2026-09-29 03:45:57"
+ }
+}

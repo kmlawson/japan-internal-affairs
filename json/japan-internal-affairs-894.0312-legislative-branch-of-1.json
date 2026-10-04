@@ -1,0 +1,133 @@
+{
+ "interest": "Indexes the 1937 Hamada–Terauchi 'harakiri debate' and the Hayashi cabinet's sudden Diet dissolution.",
+ "keywords": [
+  "Japan",
+  "Diet",
+  "House of Representatives",
+  "Lower House",
+  "dissolution",
+  "general election",
+  "political crisis",
+  "Seiyukai",
+  "Army",
+  "Minister for War",
+  "prorogation",
+  "Cabinet"
+ ],
+ "overview": "Three 1937 cross-reference sheets on the Diet: the party–Army clash and prorogation, and dissolution of the House of Representatives before the April 30 election.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Kunimatsu Hamada",
+   "role": "Member of the Japanese Diet (Seiyukai)",
+   "variants": [
+    "Hamada"
+   ]
+  },
+  {
+   "name": "Hisaichi Terauchi",
+   "role": "Minister for War",
+   "variants": [
+    "Terauchi"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Officer, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Ballantine"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet for a telegram reporting conflict between the Army and political parties in the Diet and the resulting prorogation.",
+   "date": "1937-01-22",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Diet",
+    "Lower House",
+    "prorogation",
+    "Seiyukai",
+    "Hamada Kunimatsu",
+    "Terauchi Hisaichi",
+    "Cabinet",
+    "Army",
+    "Asahi"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Grew's Telegram No. 13 (January 22, 1937) on the Hamada–Terauchi clash and Diet prorogation.",
+   "title": "Cross-Reference Sheet for Telegram No. 13 from Grew (Tokyo) on Diet Conflict and Prorogation",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Cross-reference sheet for a State Department memorandum analyzing the political crisis and dissolution of the House of Representatives.",
+   "date": "1937-03-31",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Joseph W. Ballantine",
+   "keywords": [
+    "political crisis",
+    "dissolution",
+    "House of Representatives",
+    "general election",
+    "Far Eastern Division",
+    "Ballantine"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Ballantine's March 31, 1937 memo on the House dissolution and April 30 election.",
+   "title": "Cross-Reference Sheet for Memorandum by Ballantine on Japanese Political Crisis and Dissolution",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet for a telegram reporting the dissolution of the Lower House and the date of the general election.",
+   "date": "1937-03-30",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Lower House",
+    "dissolution",
+    "general election",
+    "Diet",
+    "Grew",
+    "Japan"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to Grew's Telegram No. 101 (March 30, 1937): Lower House dissolved, election set for April 30.",
+   "title": "Cross-Reference Sheet for Telegram No. 101 from Grew (Tokyo) on Dissolution of the Lower House",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13983,
+   "output_tokens": 5245,
+   "thinking_tokens": 3898,
+   "cache_read_tokens": 0,
+   "total_tokens": 19228
+  },
+  "backend": "agy",
+  "seconds": 17.4,
+  "identifier": "japan-internal-affairs-894.0312-legislative-branch-of-1",
+  "file": "894.0312 Legislative Branch Of Government., Organization., Japan, Lowe House., January 22, 1937 - March 30, 1937 946.pdf",
+  "created": "2026-09-28 22:37:44"
+ }
+}

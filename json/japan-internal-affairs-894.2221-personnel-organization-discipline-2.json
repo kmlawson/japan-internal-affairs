@@ -1,0 +1,102 @@
+{
+ "interest": "Japan extends military volunteering to Taiwan, 1941.",
+ "keywords": [
+  "Taiwan",
+  "Chosen",
+  "Korea",
+  "voluntary military service",
+  "military enlistment",
+  "War Ministry",
+  "colonial assimilation",
+  "amalgamation",
+  "Imperial Japanese Army",
+  "Joseph C. Grew",
+  "State Department decimal file 894.2221"
+ ],
+ "overview": "Grew's 1941 telegram: Japan will start voluntary military service in Taiwan, as in Korea.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "GREW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Telegram reporting a Japanese cabinet decision to establish voluntary military service in Taiwan modeled on the 1938 Korean system.",
+   "date": "1941-06-21",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Taiwan",
+    "Chosen",
+    "voluntary military service",
+    "enlistment",
+    "War Minister",
+    "assimilation",
+    "amalgamation"
+   ],
+   "start_page": 1,
+   "summary": "Grew reports Japan's plan for voluntary military service in Taiwan, framed as assimilation.",
+   "title": "Telegram from Grew (Tokyo) on Voluntary Military Service in Taiwan",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13788,
+   "output_tokens": 3373,
+   "thinking_tokens": 2667,
+   "cache_read_tokens": 0,
+   "total_tokens": 17161
+  },
+  "backend": "agy",
+  "seconds": 13.9,
+  "identifier": "japan-internal-affairs-894.2221-personnel-organization-discipline-2",
+  "file": "894.2221 Personnel. Organization. Discipline. Mutiny. Compulsory Military Service., Enlisted Men., Japan, Enlistment., June 21, 1941 1274.pdf",
+  "created": "2026-09-29 03:22:51"
+ }
+}

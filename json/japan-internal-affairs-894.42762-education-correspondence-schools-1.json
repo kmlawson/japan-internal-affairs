@@ -1,0 +1,100 @@
+{
+ "interest": "German-funded Kempff tour of Japan, 1936.",
+ "keywords": [
+  "Wilhelm Kempff",
+  "cultural diplomacy",
+  "German-Japanese relations",
+  "goodwill tour",
+  "classical music",
+  "concert tour",
+  "American Consulate General Singapore",
+  "pianist",
+  "Straits Settlements",
+  "soft power",
+  "cultural exchange"
+ ],
+ "overview": "McEnelly's 1936 despatch: pianist Wilhelm Kempff's Japan tour was funded by the German government.",
+ "people": [
+  {
+   "name": "Wilhelm Kempff",
+   "role": "German pianist and professor",
+   "variants": [
+    "Wilhelm Kempff",
+    "Professor Wilhelm Kempff",
+    "Professor Kempff"
+   ]
+  },
+  {
+   "name": "Thomas McEnelly",
+   "role": "American Consul at Singapore",
+   "variants": [
+    "Thomas McEnelly",
+    "McE."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "Singapore, S.S."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consular report on German pianist Wilhelm Kempff's concert tour of Japan and stopover recital in Singapore, highlighting official German government sponsorship as cultural diplomacy.",
+   "date": "1936-06-18",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Thomas McEnelly, American Consul, Singapore",
+   "keywords": [
+    "Wilhelm Kempff",
+    "cultural diplomacy",
+    "German-Japanese relations",
+    "Singapore",
+    "Japan",
+    "concert tour",
+    "goodwill tour"
+   ],
+   "start_page": 1,
+   "summary": "McEnelly reports the Japanese Consul General said Kempff's Japan tour was a German government goodwill mission.",
+   "title": "Despatch from Thomas McEnelly on German Government-Sponsored Tour of Japan by Wilhelm Kempff",
+   "to": "The Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13925,
+   "output_tokens": 4314,
+   "thinking_tokens": 3466,
+   "cache_read_tokens": 0,
+   "total_tokens": 18239
+  },
+  "backend": "agy",
+  "seconds": 19.0,
+  "identifier": "japan-internal-affairs-894.42762-education-correspondence-schools-1",
+  "file": "894.42762 Education. Correspondence Schools., Cultural Relations. Exchange Of Professors And Students. Attendance At Schools Of Japan Of Student Of Germany., June 18, 1936 915.pdf",
+  "created": "2026-09-29 07:16:18"
+ }
+}

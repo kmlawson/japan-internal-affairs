@@ -1,0 +1,17 @@
+
+User-agent: *
+Disallow: reference/japan-internal-affairs/pagefind/
+Disallow: /admin/
+Disallow: /config/
+Disallow: /tmp/
+Disallow: /logs/
+Disallow: /backup/
+Disallow: /.env
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Crawl-delay: 10
+
+# The full text is available as one download, described in /japan-internal-affairs/llms.txt:
+#   /japan-internal-affairs/downloads/japan-internal-affairs-ocr-text.jsonl.gz
+
+

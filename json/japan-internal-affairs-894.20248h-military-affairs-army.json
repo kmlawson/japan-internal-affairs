@@ -1,0 +1,96 @@
+{
+ "interest": "1942 sharing of a Vancouver report on Japanese Canadians.",
+ "keywords": [
+  "Japanese in British Columbia",
+  "British Columbia",
+  "Vancouver",
+  "transmittal sheet",
+  "intelligence sharing",
+  "Military Intelligence Division",
+  "Office of Naval Intelligence",
+  "Federal Bureau of Investigation",
+  "espionage",
+  "Japanese Canadians",
+  "World War II",
+  "State Department decimal file"
+ ],
+ "overview": "Transmittal of February 7, 1942 sending Vancouver's report 'Japanese in British Columbia' to MID, ONI and FBI.",
+ "people": [],
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Vancouver"
+   ]
+  },
+  {
+   "name": "British Columbia",
+   "variants": [
+    "B. C.",
+    "British Columbia"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Botswana",
+   "variants": [
+    "Bechuanaland"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal of a confidential consular despatch from Vancouver concerning Japanese residents in British Columbia to U.S. military and civilian intelligence agencies.",
+   "date": "1942-02-07",
+   "doc_type": "transmittal sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "transmittal sheet",
+    "Japanese in British Columbia",
+    "Vancouver",
+    "Military Intelligence Division",
+    "Office of Naval Intelligence",
+    "Federal Bureau of Investigation",
+    "intelligence sharing",
+    "World War II"
+   ],
+   "start_page": 1,
+   "summary": "Transmittal of Vancouver despatch No. 1049 on Japanese in British Columbia to MID, ONI and FBI.",
+   "title": "Department of State transmittal sheet forwarding Vancouver despatch on Japanese in British Columbia",
+   "to": "Military Intelligence Division, Office of Naval Intelligence, and Federal Bureau of Investigation"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13767,
+   "output_tokens": 5277,
+   "thinking_tokens": 4467,
+   "cache_read_tokens": 0,
+   "total_tokens": 19044
+  },
+  "backend": "agy",
+  "seconds": 20.2,
+  "identifier": "japan-internal-affairs-894.20248h-military-affairs-army",
+  "file": "894.20248H Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Bechuanaland Including Gathering Of Information. Espionage. Propaganda.,  140.pdf",
+  "created": "2026-09-29 02:19:34"
+ }
+}

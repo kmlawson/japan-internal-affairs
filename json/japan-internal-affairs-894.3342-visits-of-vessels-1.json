@@ -1,0 +1,171 @@
+{
+ "interest": "Japanese training squadron's 1933 goodwill visit to Vancouver.",
+ "keywords": [
+  "Japanese Training Squadron",
+  "Imperial Japanese Navy",
+  "Vice Admiral Gengo Hyakutake",
+  "Cruiser Yakumo",
+  "Cruiser Iwate",
+  "Naval diplomacy",
+  "Vancouver",
+  "Canada-Japan relations",
+  "Manchukuo",
+  "U.S. Consulate General Vancouver",
+  "Thirteenth Naval District"
+ ],
+ "overview": "This file comprises records from April 1933 documenting the goodwill visit of the Imperial Japanese Navy's Training Squadron, consisting of the cruisers Yakumo and Iwate under the command of Vice Admiral Gengo Hyakutake, to Vancouver, British Columbia, Canada. The file contains a Department of State cross-reference sheet (Document File Note) referencing Despatch No. 1382 and the four-page consular despatch dated April 11, 1933, prepared by American Consul General Ely E. Palmer in Vancouver. The despatch describes the squadron's arrival on April 5 following official calls at Victoria, Vice Admiral Hyakutake's public statement emphasizing Pacific peace and goodwill, a municipal banquet hosted by the Mayor and City Council of Vancouver, a reception hosted by the acting Japanese Consul, and shipboard visits by Canadian dignitaries and the public. It also details diplomatic and naval communication with the U.S. Navy's Thirteenth Naval District in Seattle regarding the squadron's departure for San Francisco, and incorporates local press reaction, notably an editorial from the Vancouver Sun expressing friendship with the Japanese people while noting disapproval of Japan's policies in Manchukuo.",
+ "people": [
+  {
+   "name": "Ely E. Palmer",
+   "role": "American Consul General at Vancouver",
+   "variants": [
+    "Palmer",
+    "M. Palmer"
+   ]
+  },
+  {
+   "name": "Gengo Hyakutake",
+   "role": "Vice Admiral, Commander of the Japanese Training Squadron",
+   "variants": [
+    "Vice Admiral John C. Houtche",
+    "Vice Admiral Hyakutake"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Vancouver"
+   ]
+  },
+  {
+   "name": "Victoria",
+   "variants": [
+    "Victoria"
+   ]
+  },
+  {
+   "name": "British Columbia",
+   "variants": [
+    "B. C.",
+    "British Columbia"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "Dominion of Canada"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Washington (state)",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Ottawa",
+   "variants": [
+    "Ottawa"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting that Despatch No. 1382 from Vancouver regarding the visit of the Japanese Training Squadron is filed under decimal file 894.3311/168.",
+   "date": "1933-04-11",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Document File Note",
+    "cross-reference sheet",
+    "Vancouver",
+    "Palmer",
+    "Japanese Training Squadron",
+    "Despatch No. 1382"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Palmer's despatch on the Japanese Training Squadron at Vancouver, April 1933.",
+   "title": "State Department Document File Note for Despatch No. 1382",
+   "to": "Department of State"
+  },
+  {
+   "about": "Consular despatch reporting on the goodwill visit of the Japanese Training Squadron to Vancouver, British Columbia, including civic entertainment, public reception, and scheduled departure for San Francisco.",
+   "date": "1933-04-11",
+   "doc_type": "despatch",
+   "end_page": 5,
+   "from": "Ely E. Palmer, American Consul General at Vancouver",
+   "keywords": [
+    "Vancouver",
+    "Japanese Training Squadron",
+    "Vice Admiral Gengo Hyakutake",
+    "Yakumo",
+    "Iwate",
+    "naval goodwill visit",
+    "Canada-Japan relations",
+    "Vancouver Sun",
+    "Manchukuo",
+    "San Francisco",
+    "Thirteenth Naval District"
+   ],
+   "start_page": 2,
+   "summary": "Palmer reports the Japanese Training Squadron's 1933 Vancouver visit, with civic welcomes and a Vancouver Sun editorial criticizing Manchukuo policy.",
+   "title": "Despatch No. 1382 from Consul General Ely E. Palmer on the Visit of the Japanese Training Squadron to Vancouver",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14745,
+   "output_tokens": 6281,
+   "thinking_tokens": 4826,
+   "cache_read_tokens": 0,
+   "total_tokens": 21026
+  },
+  "backend": "agy",
+  "seconds": 20.3,
+  "identifier": "japan-internal-affairs-894.3342-visits-of-vessels-1",
+  "file": "894.3342 Visits Of Vessels And Aircraft Of Japan To Ports Of Canada., April 11, 1933 779.pdf",
+  "created": "2026-09-29 04:30:21"
+ }
+}

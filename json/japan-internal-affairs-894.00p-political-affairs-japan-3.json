@@ -1,0 +1,161 @@
+{
+ "interest": "SCAPIN-824 pulping of wartime propaganda, with copies salvaged for Washington.",
+ "keywords": [
+  "Propaganda",
+  "Confiscation",
+  "Censorship",
+  "SCAPIN 824",
+  "Allied Occupation of Japan",
+  "Supreme Commander for the Allied Powers",
+  "Imperial Japanese Government",
+  "Central Liaison Office",
+  "Wartime publications",
+  "Pulping",
+  "Intelligence collection"
+ ],
+ "overview": "Despatch No. 420 (May 16, 1946) sends SCAPIN-824 ordering ten wartime propaganda titles collected and pulped; copies were sent to Washington.",
+ "people": [
+  {
+   "name": "Burdette M. Fitch",
+   "role": "Brigadier General, AGD, Adjutant General, General Headquarters, Supreme Commander for the Allied Powers",
+   "variants": [
+    "B. M. Fitch",
+    "B. M. FITCH"
+   ]
+  },
+  {
+   "name": "Hachiro Arita",
+   "role": "Author; former Japanese Minister for Foreign Affairs",
+   "variants": [
+    "Hachiro Arita"
+   ]
+  },
+  {
+   "name": "Kensuke Horiuchi",
+   "role": "Author; former Japanese Ambassador and diplomat",
+   "variants": [
+    "Kensuku Horiuchi"
+   ]
+  },
+  {
+   "name": "Eiji Amau",
+   "role": "Author; Japanese diplomat and former Vice-Minister for Foreign Affairs",
+   "variants": [
+    "Eigi Amo"
+   ]
+  },
+  {
+   "name": "Tokijiro Hirata",
+   "role": "Author",
+   "variants": [
+    "Tokijiro Hirata"
+   ]
+  },
+  {
+   "name": "J. W. Burnett",
+   "role": "Drafter, Office of the United States Political Adviser for Japan",
+   "variants": [
+    "JWBurnett"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American",
+    "Bei"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British",
+    "Ei"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Toa",
+    "Dai Toa"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asiatic"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Despatch transmitting a copy of SCAP directive SCAPIN-824 regarding the confiscation of wartime Japanese propaganda publications and forwarding collected copies to Washington.",
+   "date": "1946-05-16",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "United States Political Adviser for Japan",
+   "keywords": [
+    "confiscated publications",
+    "propaganda",
+    "SCAPIN 824",
+    "United States Political Adviser",
+    "sea pouch"
+   ],
+   "start_page": 1,
+   "summary": "Despatch No. 420 forwards SCAPIN-824 on seizing ten propaganda titles and sends copies of each by sea pouch.",
+   "title": "Despatch No. 420 from US Political Adviser for Japan on Confiscated Japanese Propaganda Publications",
+   "to": "Department of State"
+  },
+  {
+   "about": "SCAP directive ordering the Japanese Government to collect, centrally store, and report on ten specific wartime propaganda publications pending pulping.",
+   "date": "1946-03-17",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Brigadier General B. M. Fitch, Adjutant General (for the Supreme Commander for the Allied Powers)",
+   "keywords": [
+    "SCAPIN 824",
+    "propaganda publications",
+    "confiscation",
+    "censorship",
+    "pulping",
+    "Central Liaison Office",
+    "Imperial Japanese Government"
+   ],
+   "start_page": 2,
+   "summary": "SCAPIN-824 orders bulk stocks of ten wartime propaganda titles, including works by Arita and Amau, seized and pulped, exempting private copies.",
+   "title": "SCAPIN-824: Memorandum for Imperial Japanese Government on Confiscation of Propaganda Publications",
+   "to": "Imperial Japanese Government (through Central Liaison Office, Tokyo)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14567,
+   "output_tokens": 6204,
+   "thinking_tokens": 4840,
+   "cache_read_tokens": 0,
+   "total_tokens": 20771
+  },
+  "backend": "agy",
+  "seconds": 22.1,
+  "identifier": "japan-internal-affairs-894.00p-political-affairs-japan-3",
+  "file": "894.00P Political Affairs., Japan, General Correspondence, Re - Propaganda., May 16, 1946 1523.pdf",
+  "created": "2026-09-28 21:40:57"
+ }
+}

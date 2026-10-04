@@ -1,0 +1,101 @@
+{
+ "interest": "U.S. view of the Seinendan youth association, 1934.",
+ "keywords": [
+  "Young Men's Association",
+  "Seinendan",
+  "Fumio Goto",
+  "Yoshisuke Tazawa",
+  "Kokuihai",
+  "military intelligence report",
+  "civic education",
+  "militarized societies",
+  "strike breaking",
+  "Tokyo streetcar strike",
+  "youth mobilization"
+ ],
+ "overview": "Military Attaché report No. 7860 (1934) on the Seinendan, with 2.7 million members and nationalist leadership.",
+ "people": [
+  {
+   "name": "Fumio Goto",
+   "role": "Home Minister; President of the Federation of Young Men's Associations",
+   "variants": [
+    "Fumio Goto"
+   ]
+  },
+  {
+   "name": "Yoshisuke Tazawa",
+   "role": "Principal Director of the Federation of Young Men's Associations",
+   "variants": [
+    "Mr. Yoshisuke Tazawa",
+    "Yoshisuke Tazawa"
+   ]
+  },
+  {
+   "name": "T. M. Martin",
+   "role": "Captain, Infantry, DOL., Assistant Military Attaché",
+   "variants": [
+    "T. M. Martin"
+   ]
+  },
+  {
+   "name": "William C. Crane",
+   "role": "Major, General Staff, Military Attaché",
+   "variants": [
+    "William C. Crane"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A U.S. military intelligence report evaluating the organization, membership, leadership, activities, and strike-breaking actions of the Japanese Young Men's Association (Seinendan).",
+   "date": "1934-11-24",
+   "doc_type": "report",
+   "end_page": 2,
+   "from": "T. M. Martin, Captain, Infantry, DOL, Assistant Military Attaché (with indorsement by William C. Crane, Major, General Staff, Military Attaché)",
+   "keywords": [
+    "Young Men's Association",
+    "Seinendan",
+    "civic training",
+    "Fumio Goto",
+    "Yoshisuke Tazawa",
+    "Kokuihai",
+    "strikebreaking",
+    "Tokyo streetcar strike",
+    "Military Intelligence Division"
+   ],
+   "start_page": 1,
+   "summary": "Report on the Seinendan: 2.7 million members, nationalist ties and use as strikebreakers.",
+   "title": "Military Intelligence Report No. 7860: Young Men's Association (Seinendan)",
+   "to": "Chief, Military Intelligence Division"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14414,
+   "output_tokens": 7082,
+   "thinking_tokens": 6058,
+   "cache_read_tokens": 0,
+   "total_tokens": 21496
+  },
+  "backend": "agy",
+  "seconds": 26.0,
+  "identifier": "japan-internal-affairs-894.408-social-matters-japan-1",
+  "file": "894.408 Social Matters., Japan, Organizations In Interest Of Better Citizenship. Americanization., November 24, 1934 840.pdf",
+  "created": "2026-09-29 06:52:00"
+ }
+}

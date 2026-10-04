@@ -1,0 +1,124 @@
+{
+ "interest": "1930s reporting on Japanese harbors, including Kobe's 1938 closure.",
+ "keywords": [
+  "harbors",
+  "ports",
+  "Japan",
+  "public works",
+  "Yokohama",
+  "Osaka",
+  "Kobe",
+  "Tsuruga",
+  "typhoon damage",
+  "reconstruction",
+  "foreign shipping",
+  "military attaché"
+ ],
+ "overview": "Docket for 894.156 (1930–38) on Japanese harbors: Yokohama rebuilding, Osaka typhoon damage, Tsuruga and Kobe's closure.",
+ "people": [
+  {
+   "name": "George H. Kemper",
+   "role": "Consular officer at Yokohama",
+   "variants": [
+    "Kemper"
+   ]
+  },
+  {
+   "name": "Robert M. McClintock",
+   "role": "Consular officer at Kobe",
+   "variants": [
+    "McClintock"
+   ]
+  },
+  {
+   "name": "George A. Makinson",
+   "role": "Consular officer at Osaka",
+   "variants": [
+    "Makinson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tsuruga",
+    "Tsurugaminato"
+   ]
+  },
+  {
+   "name": "Tsuruga Bay",
+   "variants": [
+    "Tsuruga Bay"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department docket sheet listing four indexed communications and cross-references regarding Japanese harbor facilities and shipping regulations between 1930 and 1938.",
+   "date": "1945-10-17",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "harbors",
+    "ports",
+    "Yokohama",
+    "Osaka",
+    "Kobe",
+    "Tsuruga",
+    "earthquake reconstruction",
+    "foreign shipping"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.156 on Japanese harbors, 1930–38, including Kobe's 1938 closure to foreign ships.",
+   "title": "Department of State List of Papers: Harbors - Japan (894.156)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13878,
+   "output_tokens": 5177,
+   "thinking_tokens": 4273,
+   "cache_read_tokens": 0,
+   "total_tokens": 19055
+  },
+  "backend": "agy",
+  "seconds": 15.3,
+  "identifier": "japan-internal-affairs-894.156-public-works-japan-2",
+  "file": "894.156 Public Works., Japan, Harbors.,  405.pdf",
+  "created": "2026-09-28 23:30:43"
+ }
+}

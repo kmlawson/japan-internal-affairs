@@ -1,0 +1,886 @@
+{
+ "section_summary": "The section concludes a report on the Yomiuri Newspaper with labor-contract provisions, Management Council bylaws, and a bibliography, then contains a major SCAP study of rural and urban circulation for 113 Japanese daily newspapers. The circulation study compares readership density across Japan’s prefectures and regions and supplies detailed tables, charts, rankings, distribution areas, and an index. The remaining correspondence concerns the proposed sale of a long run of the Mainichi Shimbun to an American research library and personnel changes intended to improve Pacific Stars and Stripes.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Jepen",
+    "Jenen",
+    "Jepεn",
+    "Ja, an",
+    "Southern Japen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Toisyo",
+    "Tokyo City",
+    "Tolyo Prefecture"
+   ]
+  },
+  {
+   "name": "Chubu region",
+   "variants": [
+    "Chubu",
+    "Crubu",
+    "CHUBU REGION"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture",
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Furui",
+    "Fukui",
+    "Fukui Prefecture"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu",
+    "Gifu Prefecture"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikava",
+    "Ishikawa",
+    "Ishikawa Prefecture"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie",
+    "Mie Prefecture"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoke",
+    "Shizuoka",
+    "Shizuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama",
+    "Toyama Prefecture"
+   ]
+  },
+  {
+   "name": "Chugoku region",
+   "variants": [
+    "Chugoku",
+    "Crugoku",
+    "CHUGOKU REGION"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "Hiroshima Prefs."
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama",
+    "Ckayama",
+    "Okeyama",
+    "Okayama Prefecture"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane",
+    "Chimane",
+    "Shimane Prefecture"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori",
+    "To tori Prefecture"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yameguchi",
+    "Yamaguchi",
+    "Yamaguchi Prefecture"
+   ]
+  },
+  {
+   "name": "Kansai region",
+   "variants": [
+    "Kansai",
+    "Kansei",
+    "KANSAI REGION"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Kyogo",
+    "Hyogo Prefecture"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto",
+    "Kyoto Prefecture"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara",
+    "IHara Prefecture",
+    "Nara Prefecture"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka",
+    "Osala",
+    "Uska",
+    "Osaka Prefecture"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga",
+    "Shica",
+    "Shiga Prefecture"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakeyama",
+    "Waltayana",
+    "Walayama",
+    "Wakayama",
+    "Wakayama Prefecture"
+   ]
+  },
+  {
+   "name": "Kanto region",
+   "variants": [
+    "Kanto",
+    "Kento",
+    "Lanto",
+    "KAITO",
+    "KAITO REGION"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba",
+    "Chiba Prefecture"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma",
+    "Gumma Prefecture"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibarali",
+    "Ibara'i",
+    "Ibaraki",
+    "Ibaraki Prefecture"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kanagava",
+    "Kanagawa Prefecture"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nacano",
+    "Nagano",
+    "Magano",
+    "Hagano",
+    "Nagano Prefecture"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "liiga'a",
+    "Niigata",
+    "Miigata",
+    "Higata",
+    "Niigata Prefecture"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitana",
+    "Saitama",
+    "Saitama Prefecture"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochi",
+    "Tochigi",
+    "Tochigi Prefecture"
+   ]
+  },
+  {
+   "name": "Tokyo Metropolis",
+   "variants": [
+    "Tokyo Prefecture",
+    "Tolyo Prefecture",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi",
+    "Yamanashi Prefecture"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "KYUSHU REGION"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka",
+    "Fukuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshine",
+    "Kagoshima",
+    "Kagoshima Prefecture"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kunanoto",
+    "Kumamoto",
+    "Kumamoto Prefecture"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazai",
+    "Miyazaki",
+    "Miyazaki Prefecture"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Hagasaki",
+    "Nagasaki",
+    "Nagasald",
+    "Nagasakd",
+    "Nagasaki Prefecture"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita",
+    "Oita Prefecture"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga",
+    "Saga Prefecture"
+   ]
+  },
+  {
+   "name": "Tohoku region",
+   "variants": [
+    "Tohoku",
+    "Toroku",
+    "Toholu",
+    "TOHOKU REGION"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkaiao",
+    "Hok:aido",
+    "Holkaido",
+    "Hokaido"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Alita",
+    "Akita",
+    "Akita Prefecture"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "Aomori Prefecture"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fulushima",
+    "Fukushima",
+    "Fukushima Prefecture"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate",
+    "Iwate Prefecture"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "iyagi",
+    "Miyagi",
+    "Miyagi Prefecture"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata",
+    "Yamagata Prefecture"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku",
+    "Shiicoku",
+    "SIIKOKU",
+    "SHIKOKU REGION"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime",
+    "Ehime Prefecture"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "Kagawa Prefecture"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi",
+    "Kochi Prefecture"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima",
+    "Tokushima Prefecture"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "United States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington 25, D.C.",
+    "Washington 25, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Cambridge, Massachusetts",
+   "variants": [
+    "Cambridge, Massachusetts",
+    "Cembridge",
+    "CAMBRIDGE 38·MASSACHUSETTS"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Missouri",
+   "variants": [
+    "Missouri"
+   ]
+  },
+  {
+   "name": "Lebanon, Missouri",
+   "variants": [
+    "Lebanon (Missouri)"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Japan-Korea",
+    "Japan-Korean"
+   ]
+  },
+  {
+   "name": "British Commonwealth",
+   "variants": [
+    "British Commonwealth"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Takashiyo Uemura",
+   "role": "Author of “Democracy and Journalism”",
+   "variants": [
+    "UE:URA, Takashiyo"
+   ]
+  },
+  {
+   "name": "Tsunego Baba",
+   "role": "President of Yomiuri Shimbun Sha",
+   "variants": [
+    "BABA, Tsunego",
+    "President BABA"
+   ]
+  },
+  {
+   "name": "Sudo Kanda",
+   "role": "Member of the General Affairs Office, Yomiuri Shimbun Sha",
+   "variants": [
+    "KANDA, Sudo"
+   ]
+  },
+  {
+   "name": "Shinichi Kobayashi",
+   "role": "Member of the Business Bureau, Yomiuri Shimbun Sha",
+   "variants": [
+    "KOBAYASHI, Shinichi"
+   ]
+  },
+  {
+   "name": "Hidetoshi Shibata",
+   "role": "Secretary to President Baba",
+   "variants": [
+    "SHIBATA, Hidetoshi"
+   ]
+  },
+  {
+   "name": "Fumitaro Watanabe",
+   "role": "Yomiuri editorial writer and leader of the Yomiuri Employees’ Union",
+   "variants": [
+    "WaTANABE, Fumitaro"
+   ]
+  },
+  {
+   "name": "Hide Yoshimura",
+   "role": "Central Committee member of the Japan Communications, Newspaper, and Radio Workers’ Union and former committee leader during the Yomiuri dispute",
+   "variants": [
+    "YOSHMMURA, Hide"
+   ]
+  },
+  {
+   "name": "Suzuki",
+   "role": "Yomiuri employee whose discharge was discussed by the union Reform Committee",
+   "variants": [
+    "SuzukI"
+   ]
+  },
+  {
+   "name": "J. D. Edwards",
+   "role": "Drafting or processing official for Despatch No. 301",
+   "variants": [
+    "JDEdwards"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    ". J. ebald",
+    "W.J. Sebald",
+    "Mr. Sebald"
+   ]
+  },
+  {
+   "name": "Frank A. Schuler Jr.",
+   "role": "Chief, Japan and Korea Branch, Office of Information and Educational Exchange",
+   "variants": [
+    "Frank",
+    "Frank A.chuler, Jr.",
+    "Frank A. Schuler, Jr.",
+    "Mr. Schuler"
+   ]
+  },
+  {
+   "name": "D. C. Buchanan",
+   "role": "Department of State official in POS/J",
+   "variants": [
+    "Dr. D. C. Buchanan"
+   ]
+  },
+  {
+   "name": "Clarence E. Walton",
+   "role": "Department of State Libraries Section official",
+   "variants": [
+    "C. E. Walton",
+    "CEWAton",
+    "Mr. Clarence E. Walton",
+    "Clarence"
+   ]
+  },
+  {
+   "name": "C. A. Sher",
+   "role": "Department of State official through whom Walton’s memorandum was routed",
+   "variants": [
+    "CA Sher"
+   ]
+  },
+  {
+   "name": "Keyes Metcalf",
+   "role": "Director of the Harvard University Library",
+   "variants": [
+    "Mr. Keyes Metcalf",
+    "Mr. Metcalf"
+   ]
+  },
+  {
+   "name": "Andrew D. Osborn",
+   "role": "Harvard bibliographic expert and Assistant Librarian",
+   "variants": [
+    "Dr. Andrew Osborn",
+    "Dr. Osborn",
+    "Andrew D. Osborn",
+    "Andres"
+   ]
+  },
+  {
+   "name": "John K. Fairbank",
+   "role": "Harvard China specialist and former Department of State staff member in China",
+   "variants": [
+    "Mr. Fairbanks"
+   ]
+  },
+  {
+   "name": "Fred W. May",
+   "role": "Officer in charge of Pacific Stars and Stripes; formerly chief of the Public Information Office News Division and editor-publisher of the Lebanon Daily News",
+   "variants": [
+    "Hajor Fred W. Y",
+    "Major May",
+    "Major may",
+    "Major ay"
+   ]
+  },
+  {
+   "name": "M. H. Hathaway",
+   "role": "Managing Editor of Pacific Stars and Stripes",
+   "variants": [
+    "M.h. HiTaalwaY"
+   ]
+  },
+  {
+   "name": "George W. Hu",
+   "role": "City Editor of Pacific Stars and Stripes",
+   "variants": [
+    "deorge W. Hu"
+   ]
+  },
+  {
+   "name": "Ben Griffin",
+   "role": "Predecessor to Major May in the Public Information Office News Division",
+   "variants": [
+    "mr. be SIhiIN"
+   ]
+  },
+  {
+   "name": "Michael Patrick Cross",
+   "role": "Colonel and Public Information Officer",
+   "variants": [
+    "Colonel Michael Patrick CnoS"
+   ]
+  },
+  {
+   "name": "Amaden",
+   "role": "Drafting official for Despatch No. 794",
+   "variants": [
+    "Amaden"
+   ]
+  },
+  {
+   "name": "Luther H. Evans",
+   "role": "Librarian of Congress",
+   "variants": [
+    "Luther A. vans",
+    "Luther H. Evans"
+   ]
+  },
+  {
+   "name": "Chiu",
+   "role": "Scholar who preferred the Asahi Shimbun for Harvard’s collection",
+   "variants": [
+    "Dr. Chiu"
+   ]
+  }
+ ],
+ "keywords": [
+  "Yomiuri Shimbun",
+  "newspaper labor relations",
+  "Management Council",
+  "rural-urban circulation",
+  "Japanese daily newspapers",
+  "SCAP Civil Information and Education Section",
+  "prefectural readership",
+  "Mainichi Shimbun archive",
+  "library acquisitions",
+  "Pacific Stars and Stripes",
+  "occupation-era press"
+ ],
+ "subfiles": [
+  {
+   "title": "The Yomiuri Newspaper: Appendix B and Sources",
+   "doc_type": "special report appendix and bibliography",
+   "start_page": 57,
+   "end_page": 60,
+   "continues_previous": true,
+   "date": "",
+   "from": "Civil Information and Education Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "",
+   "about": "This concluding portion documents the Yomiuri labor agreement, the joint Management Council, and the sources used for a study of the newspaper.",
+   "summary": "The appendix permits union members to participate in politics while requiring that such activity not interfere with their duties or the company’s editorial policy. It defines a twelve-member Management Council, divided equally between management and union representatives, with authority over working conditions, personnel, compensation, regulations, and company policy. The closing bibliography identifies SCAP studies, newspaper and union records, press translations, and interviews with Yomiuri executives and labor leaders.",
+   "keywords": [
+    "Yomiuri Newspaper",
+    "labor contract",
+    "Management Council",
+    "employees’ union",
+    "collective consultation",
+    "bibliography"
+   ]
+  },
+  {
+   "title": "Despatch No. 301: Rural-Urban Circulation of Principal Dailies in Japan",
+   "doc_type": "despatch",
+   "start_page": 61,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1948-05-25",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch forwards two copies of a SCAP special report on rural and urban newspaper circulation in Japan.",
+   "summary": "The Acting Political Adviser encloses two copies of Special Report AR-310-IM-102-PP-B-28, prepared by the Analysis and Research Division of the Civil Information and Education Section. The report is dated May 5, 1948, and no additional copies were available.",
+   "keywords": [
+    "foreign-service despatch",
+    "SCAP",
+    "newspaper circulation",
+    "rural readership",
+    "urban readership",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Rural-Urban Circulation of Principal Dailies in Japan",
+   "doc_type": "special report",
+   "start_page": 62,
+   "end_page": 91,
+   "continues_previous": false,
+   "date": "1948-05-05",
+   "from": "Information Media Branch, Research Unit, Analysis and Research Division, Civil Information and Education Section, SCAP",
+   "to": "",
+   "about": "The report analyzes the rural and urban circulation of 113 principal Japanese daily newspapers as of September 1, 1947.",
+   "summary": "Using publisher returns supplied through the Japan Press Association and 1947 census figures, the study compares newspaper circulation per thousand inhabitants in rural and urban portions of every prefecture. It finds that rural newspaper supply was generally less than half the urban supply, with Kansai having the greatest circulation density and southern Japan the sparsest distribution. Extensive tables give circulation by newspaper and prefecture, while charts and appendices rank all 113 papers and identify their distribution areas.",
+   "keywords": [
+    "newspaper circulation",
+    "rural-urban comparison",
+    "Japanese prefectures",
+    "readership density",
+    "Japan Press Association",
+    "1947 census",
+    "circulation tables",
+    "regional disparities"
+   ]
+  },
+  {
+   "title": "Personal Letter Concerning a Complete File of the Mainichi Shimbun",
+   "doc_type": "letter",
+   "start_page": 92,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1948-11-18",
+   "from": "William J. Sebald",
+   "to": "Frank A. Schuler Jr.",
+   "about": "Sebald asks whether an American library or university might purchase a nearly complete run of the Mainichi Shimbun from 1917 onward.",
+   "summary": "A Japanese acquaintance is offering a nearly complete file of the Japanese-language Mainichi Shimbun beginning June 17, 1917. The papers are reportedly in excellent condition apart from slightly singed edges, with only about fifteen dates missing or represented by substitute newspapers. Sebald suggests the Library of Congress or a major university as possible buyers and reports an asking price of approximately 400,000–500,000 yen.",
+   "keywords": [
+    "Mainichi Shimbun",
+    "newspaper collection",
+    "Library of Congress",
+    "university libraries",
+    "cultural acquisitions",
+    "Tokyo bombing"
+   ]
+  },
+  {
+   "title": "Memorandum: Attached Letter",
+   "doc_type": "memorandum",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1948-12-30",
+   "from": "Clarence E. Walton",
+   "to": "D. C. Buchanan",
+   "about": "Walton reports Harvard University Library’s preliminary interest in the Mainichi Shimbun collection offered through Sebald.",
+   "summary": "Walton contacted Harvard Library director Keyes Metcalf and discussed the offer with bibliographic expert Andrew Osborn. Osborn considered the price reasonable and said Harvard wanted original Japanese source materials for its developing area-studies program. Harvard requested a week or ten days to consult John K. Fairbank before answering.",
+   "keywords": [
+    "Harvard University Library",
+    "Mainichi Shimbun",
+    "Japanese studies",
+    "library acquisition",
+    "Andrew Osborn",
+    "John K. Fairbank"
+   ]
+  },
+  {
+   "title": "Despatch No. 794: New Head for Pacific Stars and Stripes",
+   "doc_type": "despatch",
+   "start_page": 94,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1948-12-20",
+   "from": "William J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch reports Major Fred W. May’s appointment to lead Pacific Stars and Stripes and explains the editorial and administrative problems prompting the change.",
+   "summary": "Professional journalists reportedly regarded Pacific Stars and Stripes as the weakest of Japan’s four English-language newspapers because of poor layout, careless captions, weak news judgment, and internal administrative difficulties. Major Fred W. May, a Missouri newspaperman and former chief of the Public Information Office News Division, was placed in charge on December 13, 1948. He was expected to supervise editorial practices while leaving day-to-day editing to Managing Editor M. H. Hathaway and City Editor George W. Hu, and to improve relations with occupation headquarters’ public-relations officials.",
+   "keywords": [
+    "Pacific Stars and Stripes",
+    "Fred W. May",
+    "occupation press",
+    "editorial management",
+    "Public Information Office",
+    "English-language newspapers"
+   ]
+  },
+  {
+   "title": "Letter Declining Purchase of the Mainichi Shimbun File",
+   "doc_type": "letter",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1948-12-21",
+   "from": "Luther H. Evans, Librarian of Congress",
+   "to": "Frank A. Schuler Jr.",
+   "about": "The Librarian of Congress declines for the present to buy the offered Mainichi Shimbun file because a microfilm copy may be obtainable.",
+   "summary": "Evans acknowledges the existence in Tokyo of a complete Mainichi Shimbun file extending from June 17, 1917. Because Japanese newsprint is highly perishable and the Library expects that a microfilm reproduction may be available, it does not wish to purchase the originals immediately. The Library may reconsider if a complete microfilm cannot be obtained and the physical file remains available.",
+   "keywords": [
+    "Library of Congress",
+    "Mainichi Shimbun",
+    "microfilm",
+    "newsprint preservation",
+    "collection purchase"
+   ]
+  },
+  {
+   "title": "Harvard College Library Letter on the Mainichi Shimbun",
+   "doc_type": "letter",
+   "start_page": 97,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "1949-01-18",
+   "from": "Andrew D. Osborn",
+   "to": "Clarence E. Walton",
+   "about": "Osborn reports that Harvard will not buy the offered Mainichi Shimbun collection and suggests approaching Yale or the Hoover Library.",
+   "summary": "Osborn says he could not persuade Harvard’s Chinese-studies personnel to purchase the Mainichi Shimbun file. They hoped another American library would acquire it and suggested Yale, followed by the Hoover Library. Harvard already held the Asahi Shimbun, which Dr. Chiu preferred.",
+   "keywords": [
+    "Harvard College Library",
+    "Mainichi Shimbun",
+    "Asahi Shimbun",
+    "Yale",
+    "Hoover Library",
+    "newspaper acquisition"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 2,
+  "pages": [
+   57,
+   97
+  ],
+  "pdf": "894.911 Public Press., Japan, Newspapers., September 5, 1945 - January 18, 1949 1685.pdf",
+  "seconds": 255.3,
+  "created": "2026-10-04 01:14:34",
+  "key": "japan-internal-affairs-894.911-public-press-japan-7"
+ }
+}

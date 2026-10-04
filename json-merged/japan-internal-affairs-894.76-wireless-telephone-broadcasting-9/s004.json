@@ -1,0 +1,2265 @@
+{
+ "section_summary": "This section continues a SCAP tabular register of Japanese vessels equipped with radio facilities, arranged by administrative region and prefecture. Entries cover Shizuoka, Mie, Shiga, Kyoto, Hyōgo, Osaka, Wakayama, Shimane, Tottori, Hiroshima, Yamaguchi, Ehime, Kagawa, Tokushima, and Kōchi, recording registry port, tonnage, operator, call sign, frequencies, emission changes, and vessel type. The vessels include fishing boats, merchant ships, passenger ships, guard boats, and Maritime Safety Bureau minesweepers.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Nagoya Region",
+   "variants": [
+    "NAGOYA REGION"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-ken"
+   ]
+  },
+  {
+   "name": "Tago",
+   "variants": [
+    "Tago"
+   ]
+  },
+  {
+   "name": "Yaizu",
+   "variants": [
+    "Yaizu"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu"
+   ]
+  },
+  {
+   "name": "Mochimune",
+   "variants": [
+    "Mochimune"
+   ]
+  },
+  {
+   "name": "Iwachi",
+   "variants": [
+    "Iwachi"
+   ]
+  },
+  {
+   "name": "Heda",
+   "variants": [
+    "Heda"
+   ]
+  },
+  {
+   "name": "Ogawa",
+   "variants": [
+    "Ogawa"
+   ]
+  },
+  {
+   "name": "Itō",
+   "variants": [
+    "Itō"
+   ]
+  },
+  {
+   "name": "Omaezaki",
+   "variants": [
+    "Omaezaki"
+   ]
+  },
+  {
+   "name": "Higashimasuzu",
+   "variants": [
+    "Higashimasuzu"
+   ]
+  },
+  {
+   "name": "Wada",
+   "variants": [
+    "Wada"
+   ]
+  },
+  {
+   "name": "Enoura",
+   "variants": [
+    "Enoura"
+   ]
+  },
+  {
+   "name": "Ishizu",
+   "variants": [
+    "Ishizu"
+   ]
+  },
+  {
+   "name": "Matsuzaki",
+   "variants": [
+    "Matsuzaki"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie-ken"
+   ]
+  },
+  {
+   "name": "Mikiura",
+   "variants": [
+    "Mikiura"
+   ]
+  },
+  {
+   "name": "Sugari",
+   "variants": [
+    "Sugari"
+   ]
+  },
+  {
+   "name": "Hikimoto",
+   "variants": [
+    "Hikimoto"
+   ]
+  },
+  {
+   "name": "Hamajima",
+   "variants": [
+    "Hamajima",
+    "Hamashima",
+    "Hanajima"
+   ]
+  },
+  {
+   "name": "Wagu",
+   "variants": [
+    "Wagu",
+    "Wage"
+   ]
+  },
+  {
+   "name": "Taso-ura",
+   "variants": [
+    "Tasoura",
+    "Taso"
+   ]
+  },
+  {
+   "name": "Asoura",
+   "variants": [
+    "Asoura"
+   ]
+  },
+  {
+   "name": "Owase",
+   "variants": [
+    "Owase"
+   ]
+  },
+  {
+   "name": "Aigaura",
+   "variants": [
+    "Aigaura",
+    "Aiga"
+   ]
+  },
+  {
+   "name": "Nankai",
+   "variants": [
+    "Nankai"
+   ]
+  },
+  {
+   "name": "Shukutaso",
+   "variants": [
+    "Shukutaso"
+   ]
+  },
+  {
+   "name": "Nakajima",
+   "variants": [
+    "Nakajima"
+   ]
+  },
+  {
+   "name": "Furue",
+   "variants": [
+    "Furue",
+    "Furueura"
+   ]
+  },
+  {
+   "name": "Minamiwauchi",
+   "variants": [
+    "Minamiwauchi"
+   ]
+  },
+  {
+   "name": "Kowa",
+   "variants": [
+    "Kowa"
+   ]
+  },
+  {
+   "name": "Ukura",
+   "variants": [
+    "Ukura"
+   ]
+  },
+  {
+   "name": "Kitawauchi",
+   "variants": [
+    "Kitawauchi"
+   ]
+  },
+  {
+   "name": "Tashigaraura",
+   "variants": [
+    "Tashigaraura"
+   ]
+  },
+  {
+   "name": "Aso",
+   "variants": [
+    "Aso"
+   ]
+  },
+  {
+   "name": "Kodomari",
+   "variants": [
+    "Kodomari"
+   ]
+  },
+  {
+   "name": "Sazaraura",
+   "variants": [
+    "Sazaraura"
+   ]
+  },
+  {
+   "name": "Katada",
+   "variants": [
+    "Katada"
+   ]
+  },
+  {
+   "name": "Osaka Region",
+   "variants": [
+    "ÖSAKA REGION",
+    "OSAKA REGION",
+    "ÓSAKA REGION",
+    "ÖSAKA REGIGN"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga-ken"
+   ]
+  },
+  {
+   "name": "Ōtsu",
+   "variants": [
+    "Ótsu"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyōto-fu"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Maizuru-"
+   ]
+  },
+  {
+   "name": "Maizuru-higashi",
+   "variants": [
+    "Maizuruhigashi"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyðgo-ken",
+    "Hyōgo-ken",
+    "Hyōgō Prefecture"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki"
+   ]
+  },
+  {
+   "name": "Kasumi",
+   "variants": [
+    "Kasumi"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kōbe",
+    "Köbe"
+   ]
+  },
+  {
+   "name": "Shibayama",
+   "variants": [
+    "Shibayama"
+   ]
+  },
+  {
+   "name": "Minatomura",
+   "variants": [
+    "Minatomura"
+   ]
+  },
+  {
+   "name": "Kuchisatsu",
+   "variants": [
+    "Kuchisatsu"
+   ]
+  },
+  {
+   "name": "Aioi",
+   "variants": [
+    "Aioi"
+   ]
+  },
+  {
+   "name": "Sumoto",
+   "variants": [
+    "Sumoto"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Ösaka-fu",
+    "OSsaka-fu",
+    "Osaka·fu",
+    "Osaka-fu"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Ósaka",
+    "Ösaka"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama.ken",
+    "Wakayama-ken"
+   ]
+  },
+  {
+   "name": "Katsuura",
+   "variants": [
+    "Katsuura",
+    "Katsura"
+   ]
+  },
+  {
+   "name": "Kōza",
+   "variants": [
+    "Kōza",
+    "Koza"
+   ]
+  },
+  {
+   "name": "Tanabe",
+   "variants": [
+    "Tanabe"
+   ]
+  },
+  {
+   "name": "Taiji",
+   "variants": [
+    "Taiji",
+    "Taji"
+   ]
+  },
+  {
+   "name": "Futoji",
+   "variants": [
+    "Futoji"
+   ]
+  },
+  {
+   "name": "Ōshima",
+   "variants": [
+    "Óshima"
+   ]
+  },
+  {
+   "name": "Shimozato",
+   "variants": [
+    "Shimozato"
+   ]
+  },
+  {
+   "name": "Shionomisaki",
+   "variants": [
+    "Shionomisaki"
+   ]
+  },
+  {
+   "name": "Hiroshima Region",
+   "variants": [
+    "HIROSHIMA REGION"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane-ken"
+   ]
+  },
+  {
+   "name": "Hamada",
+   "variants": [
+    "Hamada"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori-ken"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima-ken",
+    "Hirosh:ma-ken"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Ujina",
+   "variants": [
+    "Ujina"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "Onomichi"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi-ken",
+    "Yamaguehi-ken"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Yoshimi",
+   "variants": [
+    "Yoshimi"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Kudamatsu",
+   "variants": [
+    "Kudamatsu"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Matsuyama Region",
+   "variants": [
+    "MATSUYAMA REGION"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime-ken"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "Uwajima"
+   ]
+  },
+  {
+   "name": "Higashisotomi",
+   "variants": [
+    "Higashisotomi"
+   ]
+  },
+  {
+   "name": "Uchikami",
+   "variants": [
+    "Uchikami"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa-ken"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima-ken"
+   ]
+  },
+  {
+   "name": "Mugi",
+   "variants": [
+    "Mugi"
+   ]
+  },
+  {
+   "name": "Komatsujima",
+   "variants": [
+    "Komatsujima"
+   ]
+  },
+  {
+   "name": "Mikita",
+   "variants": [
+    "Mikita"
+   ]
+  },
+  {
+   "name": "Asakawa",
+   "variants": [
+    "Asakawa"
+   ]
+  },
+  {
+   "name": "Nishiyuki",
+   "variants": [
+    "Nishiyuki"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kōchi-ken"
+   ]
+  },
+  {
+   "name": "Murotozaki",
+   "variants": [
+    "Murotozaki"
+   ]
+  },
+  {
+   "name": "Muroto",
+   "variants": [
+    "Muroto",
+    "Musoto"
+   ]
+  },
+  {
+   "name": "Tsuro",
+   "variants": [
+    "Tsuro"
+   ]
+  },
+  {
+   "name": "Kōchi",
+   "variants": [
+    "Kōchi",
+    "Köchi"
+   ]
+  },
+  {
+   "name": "Sakihama",
+   "variants": [
+    "Sakihama"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "G. Yamazaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Yamazaki"
+   ]
+  },
+  {
+   "name": "R. Misaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Misaki"
+   ]
+  },
+  {
+   "name": "J. Matsushita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "J. Matsushita"
+   ]
+  },
+  {
+   "name": "B. Takahashi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "B. Takahashi"
+   ]
+  },
+  {
+   "name": "T. Kubota",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Kubota"
+   ]
+  },
+  {
+   "name": "C. Funagi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "C. Funagi"
+   ]
+  },
+  {
+   "name": "K. Yamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Yamada"
+   ]
+  },
+  {
+   "name": "K. Nemoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Nemoto"
+   ]
+  },
+  {
+   "name": "I. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Suzuki"
+   ]
+  },
+  {
+   "name": "Y. Egawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Egawa"
+   ]
+  },
+  {
+   "name": "S. Matsumoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Matsumoto"
+   ]
+  },
+  {
+   "name": "E. Yanagihara",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Yanagihara"
+   ]
+  },
+  {
+   "name": "G. Masuda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Masuda"
+   ]
+  },
+  {
+   "name": "M. Ōsawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Ósawa"
+   ]
+  },
+  {
+   "name": "S. Masuda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Masuda"
+   ]
+  },
+  {
+   "name": "T. Endō",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Endō"
+   ]
+  },
+  {
+   "name": "H. Onoda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Onoda"
+   ]
+  },
+  {
+   "name": "S. Ueda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Ueda"
+   ]
+  },
+  {
+   "name": "Y. Masuda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Masuda"
+   ]
+  },
+  {
+   "name": "T. Arakawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Arakawa"
+   ]
+  },
+  {
+   "name": "M. Muramatsu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Muramatsu"
+   ]
+  },
+  {
+   "name": "M. Kuboyama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Kuboyama"
+   ]
+  },
+  {
+   "name": "M. Sawabe",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Sawabe"
+   ]
+  },
+  {
+   "name": "J. Iwasaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "J. Iwasaki"
+   ]
+  },
+  {
+   "name": "T. Kawaguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Kawaguchi"
+   ]
+  },
+  {
+   "name": "Y. Shimomura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Shimomura"
+   ]
+  },
+  {
+   "name": "T. Yagi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Yagi"
+   ]
+  },
+  {
+   "name": "H. Ōsawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Ósawa"
+   ]
+  },
+  {
+   "name": "I. Ueda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Ueda"
+   ]
+  },
+  {
+   "name": "S. Misaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Misaki"
+   ]
+  },
+  {
+   "name": "Y. Teraoka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Teraoka"
+   ]
+  },
+  {
+   "name": "Z. Yanagihara",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Z. Yanagihara"
+   ]
+  },
+  {
+   "name": "S. Yamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Yamamoto"
+   ]
+  },
+  {
+   "name": "S. Ōishi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Oishi"
+   ]
+  },
+  {
+   "name": "K. Koike",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Koike"
+   ]
+  },
+  {
+   "name": "G. Ōishi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Oishi"
+   ]
+  },
+  {
+   "name": "M. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Suzuki"
+   ]
+  },
+  {
+   "name": "K. Saitō",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Saitō"
+   ]
+  },
+  {
+   "name": "M. Takechi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Takechi"
+   ]
+  },
+  {
+   "name": "T. Saitō",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Saitō"
+   ]
+  },
+  {
+   "name": "H. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Suzuki"
+   ]
+  },
+  {
+   "name": "G. Kitahara",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Kitahara"
+   ]
+  },
+  {
+   "name": "U. Iijima",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "U. Iijima"
+   ]
+  },
+  {
+   "name": "G. Shimizu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Shimizu"
+   ]
+  },
+  {
+   "name": "K. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Suzuki"
+   ]
+  },
+  {
+   "name": "N. Yamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "N. Yamada"
+   ]
+  },
+  {
+   "name": "T. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Suzuki",
+    "T. Súzuki"
+   ]
+  },
+  {
+   "name": "E. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Suzuki"
+   ]
+  },
+  {
+   "name": "K. Yamashita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Yamashita"
+   ]
+  },
+  {
+   "name": "T. Morita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Morita"
+   ]
+  },
+  {
+   "name": "K. Yagi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Yagi"
+   ]
+  },
+  {
+   "name": "F. Masuda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "F. Masuda"
+   ]
+  },
+  {
+   "name": "K. Fukumoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Fukumoto"
+   ]
+  },
+  {
+   "name": "Y. Ishii",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Ishii"
+   ]
+  },
+  {
+   "name": "S. Ishikawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Ishikawa"
+   ]
+  },
+  {
+   "name": "M. Tomioka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Tomioka"
+   ]
+  },
+  {
+   "name": "W. Takahashi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "W. Takahashi"
+   ]
+  },
+  {
+   "name": "C. Ōkado",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "C. Okao",
+    "C. Ókado"
+   ]
+  },
+  {
+   "name": "R. Nishioka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Nishioka"
+   ]
+  },
+  {
+   "name": "K. Taniguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Taniguchi"
+   ]
+  },
+  {
+   "name": "T. Sasayama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Sasayama"
+   ]
+  },
+  {
+   "name": "T. Hiratsuka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Hiratsuka"
+   ]
+  },
+  {
+   "name": "S. Shimada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Shimada"
+   ]
+  },
+  {
+   "name": "R. Yamashita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Yamashita"
+   ]
+  },
+  {
+   "name": "H. Yamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Yamamoto"
+   ]
+  },
+  {
+   "name": "K. Yamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Yamamoto",
+    "K.Yamamoto"
+   ]
+  },
+  {
+   "name": "K. Abe",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Abe"
+   ]
+  },
+  {
+   "name": "E. Seko",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Seko"
+   ]
+  },
+  {
+   "name": "S. Yamashita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Yamashita"
+   ]
+  },
+  {
+   "name": "I. Sanki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Sanki"
+   ]
+  },
+  {
+   "name": "M. Masutomi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Masutomi"
+   ]
+  },
+  {
+   "name": "M. Uchiyama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Uchiyama"
+   ]
+  },
+  {
+   "name": "S. Tanaka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Tanaka"
+   ]
+  },
+  {
+   "name": "I. Nakamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Nakamura"
+   ]
+  },
+  {
+   "name": "Y. Nakamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Nakamura"
+   ]
+  },
+  {
+   "name": "G. Hashimoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Hashimoto"
+   ]
+  },
+  {
+   "name": "H. Yuasa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Yuasa"
+   ]
+  },
+  {
+   "name": "D. Hamaji",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "D. Hamaji"
+   ]
+  },
+  {
+   "name": "R. Nakamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Nakamura"
+   ]
+  },
+  {
+   "name": "S. Uchiyama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Uchiyama"
+   ]
+  },
+  {
+   "name": "Y. Murata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Murata"
+   ]
+  },
+  {
+   "name": "Y. Katō",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Katō",
+    "Y. Kato"
+   ]
+  },
+  {
+   "name": "F. Takahama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "F. Takahama"
+   ]
+  },
+  {
+   "name": "K. Okinaka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Okinaka"
+   ]
+  },
+  {
+   "name": "H. Ōkawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Ökawa"
+   ]
+  },
+  {
+   "name": "E. Yamashiro",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Yamashiro"
+   ]
+  },
+  {
+   "name": "K. Matsuda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Matsuda"
+   ]
+  },
+  {
+   "name": "K. Kido",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Kido"
+   ]
+  },
+  {
+   "name": "Y. Yuasa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Yuasa"
+   ]
+  },
+  {
+   "name": "S. Takahama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Takahama"
+   ]
+  },
+  {
+   "name": "T. Miki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Miki"
+   ]
+  },
+  {
+   "name": "K. Ōkawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Ökawa",
+    "K. Ókawa"
+   ]
+  },
+  {
+   "name": "Y. Hamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Hamada"
+   ]
+  },
+  {
+   "name": "R. Saitō",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Saitō"
+   ]
+  },
+  {
+   "name": "I. Miki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Miki"
+   ]
+  },
+  {
+   "name": "Y. Ōkawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Ókawa"
+   ]
+  },
+  {
+   "name": "S. Murata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Murata"
+   ]
+  },
+  {
+   "name": "F. Okumura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "F. Okumura"
+   ]
+  },
+  {
+   "name": "J. Tsujikawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "J. Tsujikawa"
+   ]
+  },
+  {
+   "name": "Y. Miki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Miki"
+   ]
+  },
+  {
+   "name": "M. Yamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Yamamoto"
+   ]
+  },
+  {
+   "name": "M. Shōji",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Shōji"
+   ]
+  },
+  {
+   "name": "Y. Yamato",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Yamato"
+   ]
+  },
+  {
+   "name": "E. Nakamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Nakamura"
+   ]
+  },
+  {
+   "name": "E. Kishi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Kishi"
+   ]
+  },
+  {
+   "name": "A. Terata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "A. Terata"
+   ]
+  },
+  {
+   "name": "T. Yamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Yamamoto"
+   ]
+  },
+  {
+   "name": "K. Hamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Hamada"
+   ]
+  },
+  {
+   "name": "M. Shimada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Shimada"
+   ]
+  },
+  {
+   "name": "C. Kawaguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "C. Kawaguchi"
+   ]
+  },
+  {
+   "name": "T. Ōkawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Ókawa"
+   ]
+  },
+  {
+   "name": "S. Terada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Terada"
+   ]
+  },
+  {
+   "name": "J. Yamakawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "J. Yamakawa"
+   ]
+  },
+  {
+   "name": "T. Takasu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Takasu"
+   ]
+  },
+  {
+   "name": "S. Ōkawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Ókawa"
+   ]
+  },
+  {
+   "name": "G. Ōkawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Ókawa"
+   ]
+  },
+  {
+   "name": "Y. Yamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Yamamoto"
+   ]
+  },
+  {
+   "name": "E. Hamaguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Hamaguchi"
+   ]
+  },
+  {
+   "name": "T. Murase",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Murase"
+   ]
+  },
+  {
+   "name": "O. Hayamizu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "O. Hayamizu"
+   ]
+  },
+  {
+   "name": "G. Seko",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Seko"
+   ]
+  },
+  {
+   "name": "Y. Shiroyama",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Shiroyama"
+   ]
+  },
+  {
+   "name": "B. Nagao",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "B. Nagao"
+   ]
+  },
+  {
+   "name": "H. Takenaka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Takenaka"
+   ]
+  },
+  {
+   "name": "T. Yamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Yamada"
+   ]
+  },
+  {
+   "name": "A. Isoda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "A. Isoda"
+   ]
+  },
+  {
+   "name": "S. Terakawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Terakawa"
+   ]
+  },
+  {
+   "name": "Y. Ametani",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Ametani"
+   ]
+  },
+  {
+   "name": "M. Shioya",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Shioya"
+   ]
+  },
+  {
+   "name": "Y. Marutani",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Marutani"
+   ]
+  },
+  {
+   "name": "S. Ōhichi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Öhichi"
+   ]
+  },
+  {
+   "name": "M. Kobayashi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Kobayashi"
+   ]
+  },
+  {
+   "name": "T. Tanaka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Tanaka"
+   ]
+  },
+  {
+   "name": "K. Isoda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Isoda"
+   ]
+  },
+  {
+   "name": "T. Taniguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Taniguchi"
+   ]
+  },
+  {
+   "name": "M. Hamamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Hamamoto"
+   ]
+  },
+  {
+   "name": "W. Wake",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "W. Wake"
+   ]
+  },
+  {
+   "name": "S. Iguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "SIguchi"
+   ]
+  },
+  {
+   "name": "S. Sakai",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Sakai"
+   ]
+  },
+  {
+   "name": "M. Nakagawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Nakagawa"
+   ]
+  },
+  {
+   "name": "Y. Kita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Kita"
+   ]
+  },
+  {
+   "name": "K. Teramoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Teramoto"
+   ]
+  },
+  {
+   "name": "I. Tsui",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Tsui"
+   ]
+  },
+  {
+   "name": "T. Hamaguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Hamaguchi"
+   ]
+  },
+  {
+   "name": "T. Hagata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Hagata"
+   ]
+  },
+  {
+   "name": "K. Hamanaka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Hamanaka"
+   ]
+  },
+  {
+   "name": "T. Shōji",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Shōji"
+   ]
+  },
+  {
+   "name": "T. Yamagata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Yamagata"
+   ]
+  },
+  {
+   "name": "S. Teramoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Teramoto"
+   ]
+  },
+  {
+   "name": "S. Tsui",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Tsui"
+   ]
+  },
+  {
+   "name": "S. Hamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Hamada"
+   ]
+  },
+  {
+   "name": "S. Oi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Oi"
+   ]
+  },
+  {
+   "name": "K. Urakawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Urakawa"
+   ]
+  },
+  {
+   "name": "K. Yukawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Yukawa"
+   ]
+  },
+  {
+   "name": "I. Iwami",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Iwami"
+   ]
+  },
+  {
+   "name": "I. Hamaji",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Hamaji"
+   ]
+  },
+  {
+   "name": "S. Fuji",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Fuji"
+   ]
+  },
+  {
+   "name": "T. Munetoki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Munetoki"
+   ]
+  },
+  {
+   "name": "M. Isozaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Isozaki"
+   ]
+  },
+  {
+   "name": "K. Tamaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Tamaki"
+   ]
+  },
+  {
+   "name": "K. Murakami",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Murakami"
+   ]
+  },
+  {
+   "name": "I. Teramoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Teramoto"
+   ]
+  },
+  {
+   "name": "I. Hatae",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "I. Hatae"
+   ]
+  },
+  {
+   "name": "Y. Azuma",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Azuma"
+   ]
+  },
+  {
+   "name": "H. Kinoshita",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Kinoshita"
+   ]
+  },
+  {
+   "name": "T. Isetani",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Isetani"
+   ]
+  },
+  {
+   "name": "H. Nagata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Nagata"
+   ]
+  },
+  {
+   "name": "Y. Yamami",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Yamami"
+   ]
+  },
+  {
+   "name": "R. Shintani",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Shintani"
+   ]
+  },
+  {
+   "name": "K. Tani",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Tani"
+   ]
+  },
+  {
+   "name": "C. Hayata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "C. Hayata"
+   ]
+  },
+  {
+   "name": "G. Suzuki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G.Suzuki"
+   ]
+  },
+  {
+   "name": "S. Hamanaka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Hamanaka"
+   ]
+  },
+  {
+   "name": "K. Izumi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Lzumi"
+   ]
+  },
+  {
+   "name": "M. Hamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Hamada"
+   ]
+  },
+  {
+   "name": "M. Shiba",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Shiba"
+   ]
+  },
+  {
+   "name": "S. Kishino",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Kishino"
+   ]
+  },
+  {
+   "name": "S. Inoue",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Inoue"
+   ]
+  },
+  {
+   "name": "J. Okada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "J. Okada"
+   ]
+  },
+  {
+   "name": "C. Okada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "C. Okada"
+   ]
+  },
+  {
+   "name": "R. Hamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Hamada"
+   ]
+  },
+  {
+   "name": "Z. Katō",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Z. Katǒ"
+   ]
+  },
+  {
+   "name": "N. Nishida",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "N. Nishida"
+   ]
+  },
+  {
+   "name": "T. Yamashiro",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T.Yamashiro"
+   ]
+  },
+  {
+   "name": "Y. Takeda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y.Takeda"
+   ]
+  },
+  {
+   "name": "R. Kuwabara",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Kuwabara"
+   ]
+  },
+  {
+   "name": "T. Kawamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Kawamura"
+   ]
+  },
+  {
+   "name": "Nakao",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Nakao"
+   ]
+  },
+  {
+   "name": "T. Hirata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Hirata"
+   ]
+  },
+  {
+   "name": "H. Yokota",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Yokota"
+   ]
+  },
+  {
+   "name": "S. Wada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Wada"
+   ]
+  },
+  {
+   "name": "K. Mukai",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Mukai"
+   ]
+  },
+  {
+   "name": "T. Nishiguchi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Nishiguchi"
+   ]
+  },
+  {
+   "name": "R. Sakishima",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "R. Sakishima"
+   ]
+  },
+  {
+   "name": "S. Fukushima",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Fukushima"
+   ]
+  },
+  {
+   "name": "T. Maeda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Maeda"
+   ]
+  },
+  {
+   "name": "T. Mori",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Mori",
+    "T. Möri"
+   ]
+  },
+  {
+   "name": "M. Taniwaki",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Taniwaki"
+   ]
+  },
+  {
+   "name": "S. Hisamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Hisamura"
+   ]
+  },
+  {
+   "name": "T. Takemura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Takemura"
+   ]
+  },
+  {
+   "name": "K. Nakashisa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Nakashisa"
+   ]
+  },
+  {
+   "name": "T. Yoshikawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Yoshikawa"
+   ]
+  },
+  {
+   "name": "T. Akizawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Akizawa"
+   ]
+  },
+  {
+   "name": "S. Matsui",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Matsui"
+   ]
+  },
+  {
+   "name": "Y. Kawamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "Y. Kawamoto"
+   ]
+  },
+  {
+   "name": "M. Kubo",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Kubo"
+   ]
+  },
+  {
+   "name": "E. Yamada",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Yamada"
+   ]
+  },
+  {
+   "name": "H. Sakamoto",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Sakamoto"
+   ]
+  },
+  {
+   "name": "S. Miyata",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Miyata"
+   ]
+  },
+  {
+   "name": "G. Ōnishi",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "G. Ónishi"
+   ]
+  },
+  {
+   "name": "T. Ujihara",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Ujihara"
+   ]
+  },
+  {
+   "name": "S. Takei",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Takei"
+   ]
+  },
+  {
+   "name": "J. Kitagawa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "J. Kitagawa"
+   ]
+  },
+  {
+   "name": "M. Fukumitsu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Fukumitsu"
+   ]
+  },
+  {
+   "name": "H. Ueda",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "H. Ueda"
+   ]
+  },
+  {
+   "name": "S. Kuroiwa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Kuroiwa"
+   ]
+  },
+  {
+   "name": "S. Kawamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Kawamura"
+   ]
+  },
+  {
+   "name": "N. Hiromatsu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "N. Hiromatsu"
+   ]
+  },
+  {
+   "name": "S. Tokunaga",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Tokunaga"
+   ]
+  },
+  {
+   "name": "S. Kitamura",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "S. Kitamura"
+   ]
+  },
+  {
+   "name": "M. Inoue",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "M. Inoue"
+   ]
+  },
+  {
+   "name": "E. Hiromatsu",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "E. Hiromatsu"
+   ]
+  },
+  {
+   "name": "K. Kuroiwa",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "K. Kuroiwa"
+   ]
+  },
+  {
+   "name": "T. Kataoka",
+   "role": "operational agent or vessel operator",
+   "variants": [
+    "T. Kataoka"
+   ]
+  }
+ ],
+ "keywords": [
+  "ship radio stations",
+  "SCAP registration",
+  "call signs",
+  "radio frequencies",
+  "emission types",
+  "fishing vessels",
+  "merchant shipping",
+  "Maritime Safety Bureau",
+  "minesweepers",
+  "guard boats",
+  "operational agencies",
+  "Japanese ports"
+ ],
+ "subfiles": [
+  {
+   "title": "SCAP Register of Japanese Ship Radio Stations by Region and Prefecture (continuation)",
+   "doc_type": "tabular vessel radio-station register",
+   "start_page": 241,
+   "end_page": 320,
+   "continues_previous": true,
+   "date": "",
+   "from": "SCAP",
+   "to": "",
+   "about": "Continuation of a prefecture-by-prefecture register identifying Japanese radio-equipped vessels and their technical and administrative particulars.",
+   "summary": "The register lists each vessel's SCAP registration number, name, registry port, tonnage, operational agency, call sign, authorized frequencies or frequency changes, emission classification, and vessel type. These pages proceed from the Nagoya Region through the Osaka, Hiroshima, and Matsuyama Regions, covering both commercial craft and government vessels. Numerous entries document additions and removals of frequencies, while the Hiroshima and Yamaguchi portions contain substantial groups of Maritime Safety Bureau minesweepers and guard boats.",
+   "keywords": [
+    "SCAP",
+    "ship registry",
+    "wireless communications",
+    "call signs",
+    "frequency assignments",
+    "emission classifications",
+    "fishing fleet",
+    "merchant marine",
+    "Maritime Safety Bureau",
+    "minesweepers"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 14,
+  "pages": [
+   241,
+   320
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 3, 1946 - December 24, 1949 1827.pdf",
+  "seconds": 341.4,
+  "created": "2026-10-04 00:04:13",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-9"
+ }
+}

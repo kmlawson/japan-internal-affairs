@@ -1,0 +1,93 @@
+{
+ "interest": "Seattle Bureau of Investigation tracked suspected trafficker Ted Dunn.",
+ "keywords": [
+  "white-slave traffic",
+  "procurement",
+  "Bureau of Investigation",
+  "Department of Justice",
+  "Ted Dunn",
+  "John A. Dowd",
+  "Seattle",
+  "Japan",
+  "Orient",
+  "sex relations",
+  "surveillance"
+ ],
+ "overview": "List of Papers for 894.1152 recording a Justice Department report on Ted Dunn, traveling suspiciously in the Orient.",
+ "people": [
+  {
+   "name": "Ted Dunn",
+   "role": "Individual alleged to be travelling in the Orient under suspicious circumstances",
+   "variants": [
+    "Ted Dunn",
+    "Dunn, Ted"
+   ]
+  },
+  {
+   "name": "John A. Dowd",
+   "role": "Special Agent in Charge of the Bureau of Investigation at Seattle",
+   "variants": [
+    "Mr. John A. Dowd",
+    "John A. Dowd"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Orient"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department 'List of Papers' docket sheet indexing a Justice Department report on the suspicious travel of Ted Dunn to the Orient under the classification for procurement and white-slave traffic in Japan.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "white-slave traffic",
+    "procurement",
+    "Ted Dunn",
+    "John A. Dowd",
+    "Bureau of Investigation",
+    "Department of Justice",
+    "Seattle",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "List of Papers recording a Justice Department report on Ted Dunn's suspicious travels in the Orient; see 811.108 Dunn.",
+   "title": "List of Papers: Procurement - White-Slave Traffic - Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13728,
+   "output_tokens": 3011,
+   "thinking_tokens": 2286,
+   "cache_read_tokens": 0,
+   "total_tokens": 16739
+  },
+  "backend": "agy",
+  "seconds": 12.9,
+  "identifier": "japan-internal-affairs-894.1152-regulations-governing-sex-2",
+  "file": "894.1152 Regulations Governing %D0, Sex Relations., Japan, Procurement. White-Slave Traffic.,  402.pdf",
+  "created": "2026-09-28 23:15:28"
+ }
+}

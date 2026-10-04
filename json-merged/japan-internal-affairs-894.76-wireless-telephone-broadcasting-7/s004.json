@@ -1,0 +1,1950 @@
+{
+ "section_summary": "This section consists chiefly of Federal Communications Commission transcripts of Domei press broadcasts from July 1943, together with two cover letters forwarding the intercepts to the State Department. The broadcasts combine Japanese wartime propaganda and military claims with reports on Hideki Tojo’s tour of occupied Asia, economic mobilization, colonial administration, Philippine independence preparations, and cultural programs throughout the Greater East Asia Co-Prosperity Sphere. Several Japanese-language transmissions cover the Solomon Islands campaign, government coordination councils, and domestic patriotic or mobilization stories.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "UNISTATES",
+    "UNISTATED",
+    "UNISTATEX",
+    "AMERICA",
+    "AMERICAN",
+    "AMERICANS",
+    "UNITED STATES",
+    "UNISTATES AMERICA"
+   ]
+  },
+  {
+   "name": "Solomon Islands",
+   "variants": [
+    "SOLOMONS",
+    "SOLOMONS GROUP",
+    "SOROMONGUNTOO",
+    "SOROMONGUNTOONO",
+    "SOROMON"
+   ]
+  },
+  {
+   "name": "Kula Gulf",
+   "variants": [
+    "KULA"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "JAPANESE",
+    "NIPPON",
+    "NIHON"
+   ]
+  },
+  {
+   "name": "Honolulu, Hawaii",
+   "variants": [
+    "HONOLULU, T. H.",
+    "HONOLULU T.H.",
+    "HONOLULUT.H",
+    "HONOLULUTOH.",
+    "HONOLULU, T.H.",
+    "HONOLULU. T.H.",
+    "MONOLULU, TaM."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "WASHINGTON 25. D. C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "TOOKYOO",
+    "TOOKYOOE",
+    "TOKYOWISE",
+    "TOOKYOONI"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "TAIKOKU",
+    "THAILAND",
+    "THAILANDWARD",
+    "THAI"
+   ]
+  },
+  {
+   "name": "Southern and Southeast Asia",
+   "variants": [
+    "NANPOO SHOTIYIKI",
+    "SOUTHERN AREAS",
+    "SOUTHERN REGIONS",
+    "SOUTHERN REGIC'S",
+    "SOUTHERN REGIONSWISE"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "SUMATORA",
+    "SUMATRA",
+    "SUMATRAS"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "BORUNEO",
+    "BORNEO"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "JAWA",
+    "DJAWA",
+    "DJAWAWISE",
+    "DJAWANESE"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "CHINA",
+    "CHINAWARD",
+    "CHINAWISE",
+    "CHUUKAMINKOKU"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "MANSHUUKOKU",
+    "MANCHOUKUO",
+    "MANCHOUKUOWISE"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "FRENCH INDOCHINA",
+    "FRENCHINDOCHINA",
+    "NITIFUTUIN"
+   ]
+  },
+  {
+   "name": "New Georgia Island",
+   "variants": [
+    "NEWGEORGIA",
+    "NEW-GEORGIA",
+    "NEWGEORGIA ISLAND",
+    "NYUUJOOJIATOO",
+    "GEORGIA ISLAD"
+   ]
+  },
+  {
+   "name": "Kolombangara Island",
+   "variants": [
+    "KORONBANGARATOO",
+    "COLOMBANGARA",
+    "COLOMBANGARA ISLAND"
+   ]
+  },
+  {
+   "name": "Munda",
+   "variants": [
+    "MUNDA",
+    "MUNDAO",
+    "MUNDAKARA",
+    "MUNDANI"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "BANKOKMU",
+    "BANGKOK"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "SHOONAN",
+    "SHONAN"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "INDO",
+    "INDIA",
+    "INDIAN",
+    "INDIAWISE"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "BRITAIN",
+    "BRITISH",
+    "ENGLAND",
+    "ENGLASH MAINLAND",
+    "EIKOKU"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "FUKUOKA",
+    "FUKUDKA"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "KYUUSHUU"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "GERMANY",
+    "DOKUI",
+    "DOITU"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "FRANCE",
+    "FURANSU"
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "DAITOOA",
+    "GREATER EASTASIA",
+    "GREAT P EASTASIA",
+    "EASTASIA"
+   ]
+  },
+  {
+   "name": "Yangon",
+   "variants": [
+    "RANGOIN",
+    "RANGOON"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "PEARL-HARBOF"
+   ]
+  },
+  {
+   "name": "Roviana",
+   "variants": [
+    "ROBIANA",
+    "RDBIANA",
+    "RUBIANATOO",
+    "RUGIANATOO"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "TURKISH",
+    "TURKICH"
+   ]
+  },
+  {
+   "name": "Hiratsuka",
+   "variants": [
+    "HIRATSUKA"
+   ]
+  },
+  {
+   "name": "Karuizawa",
+   "variants": [
+    "KARUIZAWA"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "NANKING",
+    "NANK1:G"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "NORTHCHINA",
+    "NORTHCHINA POLITICAL AFFAIRS"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "SHANGHAI",
+    "SHANHAI",
+    "CHANGHAI"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "CHUNGKING",
+    "JUUKEI"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "HAKATA"
+   ]
+  },
+  {
+   "name": "Busan",
+   "variants": [
+    "FUSAN"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "CHOSEN"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "CALIFORNIA",
+    "CALTFORNIA",
+    "CALTFOPNIA",
+    "CALIF."
+   ]
+  },
+  {
+   "name": "Guadalcanal",
+   "variants": [
+    "GUADALCANAL"
+   ]
+  },
+  {
+   "name": "Midway Atoll",
+   "variants": [
+    "MIDWAY"
+   ]
+  },
+  {
+   "name": "Aleutian Islands",
+   "variants": [
+    "ALEUTIANS",
+    "ALEUTIAN AREA"
+   ]
+  },
+  {
+   "name": "Tibet",
+   "variants": [
+    "TIBET"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "BURNA",
+    "BURMA",
+    "BURMAWARD",
+    "BURMESE"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "NORTHAFRICA",
+    "NORTH AFRICA"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "EUROPE",
+    "EUROPEAN",
+    "OOSHUU"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "PACIFIC",
+    "MIDPACIFIC",
+    "NORTHERNMOST PACIFIC",
+    "PACIFIC THEATER"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "SOVIETUNION",
+    "SOVUNION"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "AUSTRALIA"
+   ]
+  },
+  {
+   "name": "South Pacific",
+   "variants": [
+    "SOUTHPACIFIC",
+    "MINAMITAIMEIYOO"
+   ]
+  },
+  {
+   "name": "Rendova Island",
+   "variants": [
+    "RENDOVA",
+    "RENDOBATOO",
+    "PORT RENDOVA"
+   ]
+  },
+  {
+   "name": "New Guinea",
+   "variants": [
+    "NEWGUINEA",
+    "NYUUGINIA"
+   ]
+  },
+  {
+   "name": "Nassau Bay",
+   "variants": [
+    "NASSAU BAY"
+   ]
+  },
+  {
+   "name": "Salamaua",
+   "variants": [
+    "SALAMAUS",
+    "SALUS"
+   ]
+  },
+  {
+   "name": "Bobdubi",
+   "variants": [
+    "BOBDUBI"
+   ]
+  },
+  {
+   "name": "Woodlark Island",
+   "variants": [
+    "MURAA ISLAND"
+   ]
+  },
+  {
+   "name": "Kiriwina Island",
+   "variants": [
+    "KIREWINA ISLANI"
+   ]
+  },
+  {
+   "name": "Rabaul",
+   "variants": [
+    "RABAUL"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "EASTASIA",
+    "EASTASIA WISE"
+   ]
+  },
+  {
+   "name": "Indian Ocean",
+   "variants": [
+    "INDIAN OCEAN"
+   ]
+  },
+  {
+   "name": "Tunisia",
+   "variants": [
+    "TUNISIA"
+   ]
+  },
+  {
+   "name": "Arakan",
+   "variants": [
+    "ARAKAN"
+   ]
+  },
+  {
+   "name": "Mayu Peninsula",
+   "variants": [
+    "MAYU"
+   ]
+  },
+  {
+   "name": "Wuhan",
+   "variants": [
+    "HANKOW"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "CANTON"
+   ]
+  },
+  {
+   "name": "Haiphong",
+   "variants": [
+    "HAIPHONG",
+    "APHONG"
+   ]
+  },
+  {
+   "name": "Attu Island",
+   "variants": [
+    "ATTU ISLAND"
+   ]
+  },
+  {
+   "name": "Kiska Island",
+   "variants": [
+    "KISKA"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "MANILA",
+    "NANILA",
+    "ANILA",
+    "1 VAILA"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "PHILIPPINES",
+    "PHILLPPINES",
+    "NEW PHILIPPINES",
+    "PHILIPPINESWISE"
+   ]
+  },
+  {
+   "name": "Gwa Bay",
+   "variants": [
+    "GWA",
+    "GWA BAY"
+   ]
+  },
+  {
+   "name": "Toungup",
+   "variants": [
+    "TAUNGUP"
+   ]
+  },
+  {
+   "name": "Sittwe",
+   "variants": [
+    "AKYAB"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "KYOOTOFU"
+   ]
+  },
+  {
+   "name": "Atago District",
+   "variants": [
+    "ATAGOGUN",
+    "ATAGOYAMA GUNCHOO"
+   ]
+  },
+  {
+   "name": "Kumogahata",
+   "variants": [
+    "KUMOGAHATAMURA"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "MAIZURU"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "KURE"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "YOKOSUKA"
+   ]
+  },
+  {
+   "name": "Davao",
+   "variants": [
+    "DAVAO"
+   ]
+  },
+  {
+   "name": "Mindanao",
+   "variants": [
+    "MINDANAO"
+   ]
+  },
+  {
+   "name": "Luzon",
+   "variants": [
+    "LUZON"
+   ]
+  },
+  {
+   "name": "Jiamusi",
+   "variants": [
+    "CHIAMUSSU"
+   ]
+  },
+  {
+   "name": "Mongkuli",
+   "variants": [
+    "MONGKULI"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "PEKING"
+   ]
+  },
+  {
+   "name": "Mengjiang",
+   "variants": [
+    "MONGCHIANG"
+   ]
+  },
+  {
+   "name": "Zhangjiakou",
+   "variants": [
+    "KALGAN"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "BRAZIL"
+   ]
+  },
+  {
+   "name": "Marunouchi",
+   "variants": [
+    "MARUNOUTI"
+   ]
+  },
+  {
+   "name": "Saigon",
+   "variants": [
+    "SAIGON"
+   ]
+  },
+  {
+   "name": "Cebu",
+   "variants": [
+    "CEBU"
+   ]
+  },
+  {
+   "name": "Visayas",
+   "variants": [
+    "VIBAYAS",
+    "VISAYAN"
+   ]
+  },
+  {
+   "name": "Negros",
+   "variants": [
+    "VEGOS",
+    "NEGROSOCCIDENTAL"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "MALAI",
+    "MALAIS"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "HANOI",
+    "HANO1"
+   ]
+  },
+  {
+   "name": "Tonkin",
+   "variants": [
+    "TONKING",
+    "TONGKING PROVINCE"
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "DJAKARTA",
+    "DJAMARTA"
+   ]
+  },
+  {
+   "name": "Gambir Plaza",
+   "variants": [
+    "GANBIL PLAZA"
+   ]
+  },
+  {
+   "name": "East Indies",
+   "variants": [
+    "EASTINDIANS"
+   ]
+  },
+  {
+   "name": "Fabrica, Negros Occidental",
+   "variants": [
+    "FABRICA NEGROSOCCIDENTAL PROVINCE"
+   ]
+  },
+  {
+   "name": "Banjarmasin",
+   "variants": [
+    "BANJERMASIN",
+    "BAUJERASI"
+   ]
+  },
+  {
+   "name": "South Kalimantan",
+   "variants": [
+    "SOUTHBORNEC"
+   ]
+  },
+  {
+   "name": "Pontianak",
+   "variants": [
+    "PCTIA AK",
+    "PONTIANAK"
+   ]
+  },
+  {
+   "name": "West Kalimantan",
+   "variants": [
+    "WESTBORYEC"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "HDNGKNG",
+    "HONGK NG",
+    "HONGKONG"
+   ]
+  },
+  {
+   "name": "Kowloon",
+   "variants": [
+    "KOWLDON"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "THISIHAR",
+    "TSITSIHAR"
+   ]
+  },
+  {
+   "name": "Nen River",
+   "variants": [
+    "NONNI RIVER"
+   ]
+  },
+  {
+   "name": "Longjiang Province",
+   "variants": [
+    "LUNG KIANG",
+    "LUNGKIANG PROVINCEWISE"
+   ]
+  },
+  {
+   "name": "Hạ Long Bay",
+   "variants": [
+    "ALONG BAY"
+   ]
+  },
+  {
+   "name": "Hải Dương",
+   "variants": [
+    "HAIDUONG"
+   ]
+  },
+  {
+   "name": "Vĩnh Yên",
+   "variants": [
+    "VINHYEN"
+   ]
+  },
+  {
+   "name": "Nam Định",
+   "variants": [
+    "NAMDINH"
+   ]
+  },
+  {
+   "name": "Whampoa",
+   "variants": [
+    "WHAMPAO"
+   ]
+  },
+  {
+   "name": "Pearl River",
+   "variants": [
+    "PEARLRIVER"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "PARIS"
+   ]
+  },
+  {
+   "name": "Chao Phraya River",
+   "variants": [
+    "MENAM RIVER"
+   ]
+  },
+  {
+   "name": "Magelang",
+   "variants": [
+    "MAGELANG"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Furuno",
+   "role": "Domei radio sign-off name or operator",
+   "variants": [
+    "FURUNO",
+    "FUKUNO",
+    "FURUNI"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Prime Minister and War Minister of Japan",
+   "variants": [
+    "TOOJOO",
+    "TOJO",
+    "HIDEKI TOJO",
+    "GENERAL HIDEKI TOJO"
+   ]
+  },
+  {
+   "name": "Hisaichi Terauchi",
+   "role": "Japanese commander-in-chief in the southern theater",
+   "variants": [
+    "TERAUTI"
+   ]
+  },
+  {
+   "name": "Kaibara Ekiken",
+   "role": "Japanese scholar and author of Yōjōkun",
+   "variants": [
+    "KAIBARACON",
+    "EKIKEN"
+   ]
+  },
+  {
+   "name": "Moriichi Kaibara",
+   "role": "Kyushu Imperial University medical professor involved in translating Yōjōkun",
+   "variants": [
+    "KAIBARAMORIITI",
+    "KAIBURA"
+   ]
+  },
+  {
+   "name": "Otto Ulihan",
+   "role": "German-language lecturer in Fukuoka assisting with a translation",
+   "variants": [
+    "OTTOO URIHAN"
+   ]
+  },
+  {
+   "name": "Genken Chō",
+   "role": "Kyushu Imperial University engineering professor and author",
+   "variants": [
+    "CHOOGENKEN"
+   ]
+  },
+  {
+   "name": "Professor Shindō",
+   "role": "Translator of a work on the Japanese way of flowers",
+   "variants": [
+    "SINDOO"
+   ]
+  },
+  {
+   "name": "Hatsukō Kokubun",
+   "role": "Professor associated with an English-language work on flower arrangement",
+   "variants": [
+    "KOKUBUN HATIKOO"
+   ]
+  },
+  {
+   "name": "Tsuneyoshi Tsuzumi",
+   "role": "Professor associated with an English-language work on flower arrangement",
+   "variants": [
+    "TUZUMITUNEYOSI"
+   ]
+  },
+  {
+   "name": "Ichitoshi Kono",
+   "role": "Japanese Army medical captain credited with isolating the dengue agent",
+   "variants": [
+    "CAPTAITOHITCSHI KONO",
+    "ICHITOSHI YONO",
+    "KONO"
+   ]
+  },
+  {
+   "name": "Hideo Hiraide",
+   "role": "Japanese Navy captain and former chief of the Navy Press Section, Imperial Headquarters",
+   "variants": [
+    "HIDLO HIRAIDE",
+    "HIDEC HIPAIDE",
+    "HIRAIDE",
+    "HIRAIDES",
+    "NIRAIDENIDEO"
+   ]
+  },
+  {
+   "name": "Etsuzō Kurihara",
+   "role": "Japanese Navy captain appointed to succeed Hiraide in the Navy Press Section",
+   "variants": [
+    "ETSUZO KURIHARA",
+    "KURINARA ETUZOOTAISA"
+   ]
+  },
+  {
+   "name": "Hüsrev Gerede",
+   "role": "Turkish ambassador to Japan",
+   "variants": [
+    "HUESREV GEFEDE",
+    "HIESREV GEI EDE",
+    "GEREDE",
+    "GEREDES"
+   ]
+  },
+  {
+   "name": "Yoshio Omura",
+   "role": "Chief of Hiratsuka Police Station and former chief at Karuizawa",
+   "variants": [
+    "YOSHIO OMURA",
+    "OMURA"
+   ]
+  },
+  {
+   "name": "Wang Kemin",
+   "role": "Chairman of the North China Political Affairs Commission",
+   "variants": [
+    "WANG KEHMIN"
+   ]
+  },
+  {
+   "name": "Wang Jingwei",
+   "role": "President of the Japanese-sponsored National Government of China",
+   "variants": [
+    "WANGCHI GWEI",
+    "WANGCHINGWEI",
+    "WAG CHINGEI"
+   ]
+  },
+  {
+   "name": "Shunroku Hata",
+   "role": "Supreme commander of Japanese expeditionary forces in China",
+   "variants": [
+    "SHUNROKU HATA"
+   ]
+  },
+  {
+   "name": "Masayuki Tani",
+   "role": "Japanese ambassador to China",
+   "variants": [
+    "MASAYUKI TANI"
+   ]
+  },
+  {
+   "name": "Sōtarō Ishiwata",
+   "role": "Economic adviser to the National Government of China",
+   "variants": [
+    "SOTARO ISHIWATA",
+    "SOTARC ISHIW A"
+   ]
+  },
+  {
+   "name": "Chou Fo-hai",
+   "role": "Finance minister of the National Government of China",
+   "variants": [
+    "CHDU FOHAI",
+    "CHOU FOHAI"
+   ]
+  },
+  {
+   "name": "Masatsune Ogura",
+   "role": "Former Japanese finance minister and head of an economic mission to China",
+   "variants": [
+    "ASATSUNE CGUFA",
+    "ASATCUNELA",
+    "MASATSUNE OGURA"
+   ]
+  },
+  {
+   "name": "Tang Chou-yin",
+   "role": "Chinese financial leader",
+   "variants": [
+    "TANG CHOUIN"
+   ]
+  },
+  {
+   "name": "Chou Tso-yin",
+   "role": "Chinese financial leader",
+   "variants": [
+    "CHOU TSOYIN"
+   ]
+  },
+  {
+   "name": "Wu Chen-hsin",
+   "role": "Chinese financial leader",
+   "variants": [
+    "WU CHENHSIN"
+   ]
+  },
+  {
+   "name": "Mei Ssu-ping",
+   "role": "Commerce and industry minister in the National Government of China",
+   "variants": [
+    "EISSUPING"
+   ]
+  },
+  {
+   "name": "Ku Jao-heng",
+   "role": "Foodstuffs minister in the National Government of China",
+   "variants": [
+    "KU JADHENG"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Berle, Jr.",
+    "Mr. Berle",
+    "BERLE"
+   ]
+  },
+  {
+   "name": "G. E. Sterling",
+   "role": "Assistant Chief Engineer and chief of the FCC Radio Intelligence Division",
+   "variants": [
+    "G. E. Sterling",
+    "Ststerling"
+   ]
+  },
+  {
+   "name": "T. J. Slowie",
+   "role": "Secretary of the Federal Communications Commission",
+   "variants": [
+    "T. J. SLOWIE"
+   ]
+  },
+  {
+   "name": "M. Shorey",
+   "role": "FCC intercept analyst",
+   "variants": [
+    "M. SHOREY",
+    "M.SHOREY",
+    "H.SHOREY",
+    "M. SHCREY",
+    "M.SHCREY",
+    "M. SHIREY",
+    "SHORLY"
+   ]
+  },
+  {
+   "name": "Griffin",
+   "role": "FCC intercept analyst",
+   "variants": [
+    "GRIFFIN"
+   ]
+  },
+  {
+   "name": "Nakao Yahagi",
+   "role": "Japanese Army major general",
+   "variants": [
+    "NAKAO YAHAGI",
+    "YAHAGI"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "ROOSEVELT"
+   ]
+  },
+  {
+   "name": "Abraham Lincoln",
+   "role": "Former president of the United States",
+   "variants": [
+    "LINCOLN"
+   ]
+  },
+  {
+   "name": "Archibald Wavell",
+   "role": "British field marshal appointed Viceroy of India",
+   "variants": [
+    "SIR ARCHIBALD WAVELL"
+   ]
+  },
+  {
+   "name": "Claire Chennault",
+   "role": "Commander of the U.S. Fourteenth Air Force in China",
+   "variants": [
+    "CLAIRE CHENNSULT"
+   ]
+  },
+  {
+   "name": "Tomokazu Hori",
+   "role": "Spokesman for the Japanese Board of Information",
+   "variants": [
+    "TOMOKAZU HORI"
+   ]
+  },
+  {
+   "name": "Isoroku Yamamoto",
+   "role": "Japanese marshal admiral invoked as a patriotic example",
+   "variants": [
+    "YAMAMOTO"
+   ]
+  },
+  {
+   "name": "Fukujiro Hasegawa",
+   "role": "Kyoto-area father whose sons served or sought to serve in the Japanese Navy",
+   "variants": [
+    "HASEGAWA FUKUJIROO"
+   ]
+  },
+  {
+   "name": "Ina Hasegawa",
+   "role": "Wife of Fukujiro Hasegawa",
+   "variants": [
+    "INASAN"
+   ]
+  },
+  {
+   "name": "Yoshiichi Hasegawa",
+   "role": "Eldest Hasegawa son and Japanese sailor",
+   "variants": [
+    "YOSIITI"
+   ]
+  },
+  {
+   "name": "Takeo Hasegawa",
+   "role": "Second Hasegawa son and sailor who died during naval training",
+   "variants": [
+    "TAKEO",
+    "TAKIO"
+   ]
+  },
+  {
+   "name": "Saburo Hasegawa",
+   "role": "Third Hasegawa son and naval petty officer",
+   "variants": [
+    "SABUROO"
+   ]
+  },
+  {
+   "name": "Yasuro Hasegawa",
+   "role": "Fourth Hasegawa son accepted for naval service",
+   "variants": [
+    "YASUROO"
+   ]
+  },
+  {
+   "name": "Akio Hasegawa",
+   "role": "Fifth Hasegawa son preparing for naval service",
+   "variants": [
+    "AKIO"
+   ]
+  },
+  {
+   "name": "Hisao Hasegawa",
+   "role": "Sixth Hasegawa son seeking to become a naval aviator",
+   "variants": [
+    "HISAO"
+   ]
+  },
+  {
+   "name": "Sodejiro",
+   "role": "Name given in the report for a parent of the six brothers",
+   "variants": [
+    "SODEJIROOSAN"
+   ]
+  },
+  {
+   "name": "Kahei Hasegawa",
+   "role": "Young grandson whom the family hoped to raise for naval service",
+   "variants": [
+    "KAHEI"
+   ]
+  },
+  {
+   "name": "Shao Hoan",
+   "role": "Chinese Christian student and son of Shao Chung-hsiang",
+   "variants": [
+    "SHOA HOAN",
+    "SHAO SHAO HOAN",
+    "SHAO HOAN"
+   ]
+  },
+  {
+   "name": "Shao Hokuo",
+   "role": "Chinese Christian student and son of Shao Chung-hsiang",
+   "variants": [
+    "SHAO HOKUO"
+   ]
+  },
+  {
+   "name": "Shao Chung-hsiang",
+   "role": "Vice-minister of commerce and industry in the National Government of China",
+   "variants": [
+    "SHAO CHUN-GHSIANG"
+   ]
+  },
+  {
+   "name": "Wang Ming-teh",
+   "role": "Chief secretary of the Japan-China Christian League of Nanking",
+   "variants": [
+    "WANG MINGTEH"
+   ]
+  },
+  {
+   "name": "Yasuo Iguchi",
+   "role": "Director of the Japanese YMCA in Nanking",
+   "variants": [
+    "YASUO IGUCHI"
+   ]
+  },
+  {
+   "name": "Kan Kikuchi",
+   "role": "Japanese writer on a committee selecting representative literature",
+   "variants": [
+    "KAN KIKUCHI"
+   ]
+  },
+  {
+   "name": "Yoshirō Nagayo",
+   "role": "Japanese writer on a committee selecting representative literature",
+   "variants": [
+    "YOSHIRO NAGAYO"
+   ]
+  },
+  {
+   "name": "Haruo Satō",
+   "role": "Japanese writer on a committee selecting representative literature",
+   "variants": [
+    "HARUO SATO"
+   ]
+  },
+  {
+   "name": "Jun Takami",
+   "role": "Japanese writer on a committee selecting representative literature",
+   "variants": [
+    "JUN TAKAMI"
+   ]
+  },
+  {
+   "name": "Itarō Ishii",
+   "role": "Former Japanese ambassador to Brazil",
+   "variants": [
+    "ITARO ISHII"
+   ]
+  },
+  {
+   "name": "Subhas Chandra Bose",
+   "role": "Indian nationalist leader associated with the Indian Independence League and Indian National Army",
+   "variants": [
+    "SUBHAS CHANDRA BOSE",
+    "SUBHAS CHNDRA BOSE"
+   ]
+  },
+  {
+   "name": "Kobayashi",
+   "role": "Chairman of the Central Cooperative Council meeting",
+   "variants": [
+    "KOBAYASIGICHOO",
+    "KOBASIGICHPP"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Leader of the Chongqing government",
+   "variants": [
+    "SHOOKAISEKI"
+   ]
+  },
+  {
+   "name": "Hu Zongnan",
+   "role": "Chinese military commander and deputy commander of the First War Zone",
+   "variants": [
+    "KOSOONAN"
+   ]
+  },
+  {
+   "name": "He Yingqin",
+   "role": "Senior Chinese Nationalist military figure",
+   "variants": [
+    "KAOOKIN"
+   ]
+  },
+  {
+   "name": "Xu Yongchang",
+   "role": "Senior Chinese Nationalist military figure",
+   "variants": [
+    "JOEI SHOO"
+   ]
+  },
+  {
+   "name": "Xiao Jinguang",
+   "role": "Acting commander associated with the Eighteenth Group Army",
+   "variants": [
+    "SHOOKEIKOO"
+   ]
+  },
+  {
+   "name": "Takuichi Ōmura",
+   "role": "President of the South Manchuria Railway Company",
+   "variants": [
+    "OOMURA TAKUITI"
+   ]
+  },
+  {
+   "name": "Naotoshi Kohiyama",
+   "role": "Former director of the Japan Iron and Steel Control Association and proposed railway-company successor",
+   "variants": [
+    "KOHIYAMA NAOTOSI"
+   ]
+  },
+  {
+   "name": "Suzuki",
+   "role": "Japanese consul general involved in Franco-Japanese economic negotiations",
+   "variants": [
+    "SUZUKI"
+   ]
+  },
+  {
+   "name": "Marutan",
+   "role": "French economic bureau chief involved in negotiations with Japan",
+   "variants": [
+    "MARUTAN"
+   ]
+  },
+  {
+   "name": "Iwane Matsui",
+   "role": "Former commander-in-chief of the Japanese Expeditionary Force in China",
+   "variants": [
+    "GENERAL IWANE MATSUI"
+   ]
+  },
+  {
+   "name": "José P. Laurel",
+   "role": "Chairman of the Philippine Independence Preparatory Committee",
+   "variants": [
+    "JOSEP LAUREL"
+   ]
+  },
+  {
+   "name": "Shōzō Murata",
+   "role": "Highest civilian adviser to the Japanese military administration in the Philippines",
+   "variants": [
+    "SHOZO MURATA"
+   ]
+  },
+  {
+   "name": "Sukarno",
+   "role": "Director of Putera and Indonesian nationalist leader",
+   "variants": [
+    "IR SOEKARNO",
+    "SOEKARNO"
+   ]
+  },
+  {
+   "name": "Kumakichi Harada",
+   "role": "Japanese lieutenant general and senior military administrator in Java",
+   "variants": [
+    "KUNAKICHI HARADA",
+    "KUMAKICHI HARADA"
+   ]
+  },
+  {
+   "name": "Jorge B. Vargas",
+   "role": "Chairman of the Philippine Executive Commission",
+   "variants": [
+    "JORGEB VARGAS"
+   ]
+  },
+  {
+   "name": "Ba Maw",
+   "role": "Head of the Burmese government",
+   "variants": [
+    "BA MAW"
+   ]
+  },
+  {
+   "name": "Plaek Phibunsongkhram",
+   "role": "Prime Minister of Thailand",
+   "variants": [
+    "PHIBUN SONGKHRAM"
+   ]
+  },
+  {
+   "name": "Jean Decoux",
+   "role": "Governor-General of French Indochina",
+   "variants": [
+    "JEAN DECOUX"
+   ]
+  },
+  {
+   "name": "Toshitake Ōkubo",
+   "role": "Member of the Japanese House of Peers and president of the Japan-German Cultural Society",
+   "variants": [
+    "TOSHITAKE OKUBO",
+    "TOSHITAKE DKUBO",
+    "OKUBO"
+   ]
+  },
+  {
+   "name": "Toshimichi Ōkubo",
+   "role": "Meiji-era Japanese statesman and father of Toshitake Ōkubo",
+   "variants": [
+    "TOSHIMICHI OKUBO"
+   ]
+  }
+ ],
+ "keywords": [
+  "Domei press",
+  "radio interception",
+  "Japanese wartime propaganda",
+  "Pacific War",
+  "Solomon Islands campaign",
+  "Greater East Asia Co-Prosperity Sphere",
+  "occupation administration",
+  "Hideki Tojo",
+  "economic mobilization",
+  "Philippine independence",
+  "Sino-Japanese cooperation",
+  "Federal Communications Commission"
+ ],
+ "subfiles": [
+  {
+   "title": "Domei commentary on Allied reporting of the Solomon Islands naval fighting",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 136,
+   "end_page": 137,
+   "continues_previous": true,
+   "date": "",
+   "from": "Domei News Agency broadcast",
+   "to": "Japanese radio audience; intercepted by U.S. monitors",
+   "about": "A Japanese commentator contrasts Allied and Japanese accounts of recent Solomon Islands naval battles and accuses American authorities of concealing losses.",
+   "summary": "The fragment attacks supposed contradictions between United Press and Reuters accounts of the Kula fighting. It asserts that Japanese Imperial Headquarters communiqués from July 7 through July 13 were precise and truthful, while American statements used vague categories and qualifications. The commentator also cites a U.S. Navy total of 101 ships lost as evidence of systematic concealment and distorted reporting.",
+   "keywords": [
+    "Kula battle",
+    "Solomon Islands",
+    "naval losses",
+    "American communiqués",
+    "Japanese propaganda"
+   ]
+  },
+  {
+   "title": "Japanese-language Domei news broadcast on Tojo’s southern tour and wartime production",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 138,
+   "end_page": 139,
+   "continues_previous": false,
+   "date": "1943-07-13",
+   "from": "Domei News Agency via JUP/JUQ",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "The broadcast reports Tojo’s return from a tour of Thailand and the southern territories, followed by war and production news.",
+   "summary": "The first item praises Tojo’s conferences with Thai leaders and inspections of Japanese forces and civilian conditions in Singapore, Sumatra, Borneo, and Java. It presents the trip as strengthening Japanese-Thai cooperation and the construction of Greater East Asia. Subsequent items report fighting around Kolombangara and New Georgia, Thai agricultural output, and Japanese air operations.",
+   "keywords": [
+    "Tojo tour",
+    "Thailand",
+    "southern territories",
+    "Solomon Islands",
+    "food production"
+   ]
+  },
+  {
+   "title": "Domei interview on the proposed Provisional Government of Free India",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 140,
+   "end_page": 141,
+   "continues_previous": false,
+   "date": "1943-07-12",
+   "from": "Domei News Agency via JUP/JUQ",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "A question-and-answer report explains plans for a wartime provisional Indian government and the mobilization of the Indian National Army.",
+   "summary": "The speaker describes a Provisional Government of Free India as a fighting government intended to mobilize Indians and expel British power. The organization would strengthen the Indian Independence League, extend its branches, organize women, and coordinate the entire independence movement. It also calls for a modern million-man force capable of defeating the British Army.",
+   "keywords": [
+    "Indian independence",
+    "provisional government",
+    "Indian National Army",
+    "Subhas Chandra Bose",
+    "anti-British propaganda"
+   ]
+  },
+  {
+   "title": "Domei broadcast on Kyushu cultural translation projects",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 142,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "1943-07-13",
+   "from": "Domei News Agency via JUP3",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "The Kyushu International Cultural Association reports translations presenting Japanese medical and flower-arrangement writings to German and French readers.",
+   "summary": "The report describes a German translation of Kaibara Ekiken’s Yōjōkun led by Moriichi Kaibara and collaborators at Kyushu Imperial University. It also discusses a French translation of a scholarly treatment of kadō, or Japanese flower arrangement. An additional English-language work was being prepared to explain the distinctive qualities of Japanese culture abroad.",
+   "keywords": [
+    "cultural diplomacy",
+    "translation",
+    "Yōjōkun",
+    "flower arrangement",
+    "Kyushu"
+   ]
+  },
+  {
+   "title": "Domei English broadcast on dengue research, New Georgia, naval appointments, and the Turkish ambassador",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 144,
+   "end_page": 147,
+   "continues_previous": false,
+   "date": "1943-07-15",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "A multi-item broadcast celebrates Japanese medical and military achievements and announces personnel changes and diplomatic news.",
+   "summary": "The broadcast credits Army medical captain Ichitoshi Kono with isolating the agent of dengue fever after research in Rangoon. Imperial Headquarters claims that Japanese forces repulsed Allied landings and advances near Munda and Roviana. It also announces Hideo Hiraide’s transfer from the Navy Press Section, Etsuzō Kurihara’s succession, and Hüsrev Gerede’s appointment as Turkish ambassador to Japan.",
+   "keywords": [
+    "dengue fever",
+    "New Georgia",
+    "Munda",
+    "Hideo Hiraide",
+    "Turkish diplomacy"
+   ]
+  },
+  {
+   "title": "Domei English broadcast on Chinese collaboration, Sumatra, the Hakata–Busan ferry, and an economic mission",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 147,
+   "end_page": 151,
+   "continues_previous": false,
+   "date": "1943-07-15",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "The broadcast reports political and economic collaboration within Japanese-controlled China and Southeast Asia.",
+   "summary": "Wang Kemin is reported conferring in Nanjing with Wang Jingwei, Japanese military leaders, and economic advisers. Chou Fo-hai discusses war finance, enemy assets, taxation, and plans to reopen the Shanghai Stock Exchange. Further items describe a Sumatran inspection delegation to Japan, the opening of the Hakata–Busan ferry, and Masatsune Ogura’s economic mission to China.",
+   "keywords": [
+    "Wang Kemin",
+    "Chou Fo-hai",
+    "Sino-Japanese economics",
+    "Sumatra",
+    "Hakata–Busan ferry"
+   ]
+  },
+  {
+   "title": "FCC cover letter forwarding additional Domei Press intercepts",
+   "doc_type": "letter",
+   "start_page": 152,
+   "end_page": 152,
+   "continues_previous": false,
+   "date": "1943-07-22",
+   "from": "G. E. Sterling, FCC Radio Intelligence Division",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Sterling forwards additional copies of Domei Press broadcasts intercepted from Japanese stations.",
+   "summary": "The confidential letter accompanies a group of Domei Press interception transcripts. It is identified as FCC file 12718 and State Department file 894.76/141.",
+   "keywords": [
+    "FCC",
+    "State Department",
+    "Domei Press",
+    "radio intelligence",
+    "cover letter"
+   ]
+  },
+  {
+   "title": "Domei broadcast containing Major General Yahagi’s assessment of Allied strategy",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 153,
+   "end_page": 159,
+   "continues_previous": false,
+   "date": "1943-07-16",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "After a report on donated medical supplies, Major General Nakao Yahagi presents a lengthy propaganda analysis of American strategy and industrial capacity.",
+   "summary": "The opening item says Japanese forces will donate medical and veterinary equipment to the National Government of China. Yahagi then argues that American material strength is overrated and predicts a major counteroffensive against Japan within a year. He discusses bases in China, the Burma supply route, India, Allied strategy in Europe and the Pacific, and claims Japan can destroy American manpower and morale by accepting battle.",
+   "keywords": [
+    "Nakao Yahagi",
+    "American strategy",
+    "Burma route",
+    "China bases",
+    "material versus spiritual power"
+   ]
+  },
+  {
+   "title": "Domei continuation on Allied operations in the South Pacific and Asia",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 159,
+   "end_page": 163,
+   "continues_previous": false,
+   "date": "1943-07-16",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "This continuation reviews Allied landings and air operations before turning to prisoner exchange, Philippine administration, and a Gwa Bay combat story.",
+   "summary": "The military survey covers Rendova, New Georgia, Nassau Bay, Bobdubi, Woodlark, Kiriwina, Burma, China, Attu, and Kiska, consistently claiming that Allied operations were failing or incurring severe losses. Other dispatches report progress on exchanging nationals, increased Philippine tax collections, and training for Junior Kalibapi organizers. The final item claims a Japanese fishing-trawler crew shot down an attacking aircraft over Gwa Bay.",
+   "keywords": [
+    "South Pacific",
+    "New Guinea",
+    "Burma",
+    "Aleutians",
+    "Philippines",
+    "Gwa Bay"
+   ]
+  },
+  {
+   "title": "Domei feature on a Kyoto family’s six sons in naval service",
+   "doc_type": "intercepted Japanese-language Domei feature broadcast",
+   "start_page": 164,
+   "end_page": 165,
+   "continues_previous": false,
+   "date": "1943-07-14",
+   "from": "Domei News Agency via JUP3",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "A patriotic human-interest story praises a rural Kyoto family whose six sons served or aspired to serve in the Imperial Japanese Navy.",
+   "summary": "The report presents the Hasegawa household as inheriting Admiral Yamamoto’s spirit and recounts the naval careers or ambitions of six brothers. One son died during training, while others were serving in southern areas, awaiting induction, or studying to become sailors and aviators. Their parents express pride and hope that a grandson will also enter naval service.",
+   "keywords": [
+    "naval family",
+    "Kyoto",
+    "patriotic propaganda",
+    "Japanese Navy",
+    "Yamamoto"
+   ]
+  },
+  {
+   "title": "Japanese-language Domei broadcast on the New Georgia campaign and local administrative councils",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 166,
+   "end_page": 168,
+   "continues_previous": false,
+   "date": "1943-07-14",
+   "from": "Domei News Agency via JUP/JUQ",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "The broadcast reports fighting around Munda and Kolombangara and explains new regional administrative councils for wartime mobilization.",
+   "summary": "Imperial Headquarters claims that Japanese defenders were counterattacking Allied forces advancing on Munda from landings around New Georgia and Roviana. It also claims a Japanese destroyer force sank or damaged several cruisers near Kolombangara while losing one cruiser. The domestic item describes councils intended to accelerate food production, priority industry, transportation, and stabilization of civilian life.",
+   "keywords": [
+    "Munda",
+    "Kolombangara",
+    "Imperial Headquarters",
+    "local government",
+    "war production"
+   ]
+  },
+  {
+   "title": "Domei broadcast on domestic coordination and occupied-territory development",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 169,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1943-07-17",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "A wide-ranging news transmission covers Japan’s Central Cooperative Council and administrative, cultural, agricultural, and industrial projects across occupied Asia.",
+   "summary": "Mainichi praises the Central Cooperative Council as a channel between officials and the public. Reports from Davao, Nanjing, and Tokyo concern disease-control vaccines, a Chinese Christian student delegation, and a plan to translate representative East Asian literature. Further items celebrate Philippine food self-sufficiency, a new Manchukuo paper mill, Itarō Ishii’s travels, and mass recruitment for the Indian National Army in Singapore.",
+   "keywords": [
+    "Central Cooperative Council",
+    "public health",
+    "cultural exchange",
+    "Philippine agriculture",
+    "Manchukuo",
+    "Indian National Army"
+   ]
+  },
+  {
+   "title": "Chairman Kobayashi’s closing remarks to the Central Cooperative Council",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 176,
+   "end_page": 176,
+   "continues_previous": false,
+   "date": "1943-07-16",
+   "from": "Domei News Agency via JUP3",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "Chairman Kobayashi closes the council meeting by promising prompt action on delegates’ wartime proposals.",
+   "summary": "Kobayashi says the proposals were thoroughly considered in plenary and committee sessions and that ministers, including Tojo, provided direct guidance. Matters requiring government action were to be forwarded promptly, while the Imperial Rule Assistance Association would turn others into public campaigns or additional study. He promises that no proposal’s underlying spirit will be neglected.",
+   "keywords": [
+    "Kobayashi",
+    "Central Cooperative Council",
+    "Imperial Rule Assistance Association",
+    "wartime administration"
+   ]
+  },
+  {
+   "title": "Kobayashi’s retrospective on chairing the Central Cooperative Council",
+   "doc_type": "intercepted Japanese-language Domei press item",
+   "start_page": 177,
+   "end_page": 177,
+   "continues_previous": false,
+   "date": "1943-07-16",
+   "from": "Domei News Agency via JUP3",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "Kobayashi reflects on the council’s atmosphere and his experience presiding over a large national meeting.",
+   "summary": "He says he initially worried about chairing such a large meeting but was relieved by the seriousness of the delegates. Looking back, he acknowledges possible improvements while praising the determined, energetic atmosphere of both plenary and committee sessions.",
+   "keywords": [
+    "Kobayashi",
+    "Central Cooperative Council",
+    "conference proceedings",
+    "wartime politics"
+   ]
+  },
+  {
+   "title": "Domei broadcast of Tojo’s council address and military-political news",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 178,
+   "end_page": 181,
+   "continues_previous": false,
+   "date": "1943-07-15",
+   "from": "Domei News Agency via JUP/JUQ",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "Tojo addresses the Central Cooperative Council on total mobilization, followed by reports on the Solomons, Chinese Communist tensions, and a Manchurian railway succession.",
+   "summary": "Tojo praises Japanese forces and the cooperation of Thailand and the occupied southern territories, while demanding sacrifice, austerity, savings, and increased production from the Japanese public. A military item claims success against American forces around Rendova and Munda. Other reports describe Nationalist pressure on Communist forces in China and the proposed replacement of South Manchuria Railway president Takuichi Ōmura by Naotoshi Kohiyama.",
+   "keywords": [
+    "Tojo speech",
+    "total mobilization",
+    "Munda",
+    "Chinese Civil War",
+    "South Manchuria Railway"
+   ]
+  },
+  {
+   "title": "Domei broadcast on Munda fighting, naval appointments, Indochina negotiations, and air operations",
+   "doc_type": "intercepted Japanese-language Domei press broadcast transcript",
+   "start_page": 182,
+   "end_page": 183,
+   "continues_previous": false,
+   "date": "1943-07-16",
+   "from": "Domei News Agency via JUP/JUQ",
+   "to": "Japanese radio audience; intercepted at Honolulu",
+   "about": "The transmission gives a dramatic account of fighting near Munda and several military and diplomatic announcements.",
+   "summary": "The principal story claims Japanese defenders destroyed landing craft and repelled a much larger Allied force approaching from Roviana. The Navy announces Hideo Hiraide’s transfer and Etsuzō Kurihara’s appointment as his successor. The broadcast also reports agreement in Franco-Japanese economic negotiations at Saigon and summarizes claimed Japanese air victories in the South Pacific.",
+   "keywords": [
+    "Munda",
+    "Roviana",
+    "Hideo Hiraide",
+    "French Indochina",
+    "air warfare"
+   ]
+  },
+  {
+   "title": "FCC cover letter forwarding another group of Domei Press intercepts",
+   "doc_type": "letter",
+   "start_page": 184,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "1943-07-23",
+   "from": "G. E. Sterling, FCC Radio Intelligence Division",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Sterling transmits additional Domei Press intercepts from Japanese radio stations.",
+   "summary": "The confidential letter identifies the enclosed material as further copies of intercepted Domei Press. It bears FCC file 12718 and State Department file 894.76/142.",
+   "keywords": [
+    "FCC",
+    "State Department",
+    "Domei Press",
+    "radio intelligence",
+    "cover letter"
+   ]
+  },
+  {
+   "title": "Domei broadcast on Iwane Matsui, Visayan postal service, and Marine Day",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 185,
+   "end_page": 186,
+   "continues_previous": false,
+   "date": "1943-07-11",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "A fragmentary transmission reports Iwane Matsui’s appeal for Japanese leadership in East Asia and administrative news from Japan and the Philippines.",
+   "summary": "Matsui is quoted stressing that Japanese leaders must guide the inhabitants of the southern regions in constructing a new East Asia. Another item says thirty-five post offices had reopened in the Visayas, including new offices in Cebu and Negros. The final item announces honors for seamen and cultural events associated with Japan’s Marine Day.",
+   "keywords": [
+    "Iwane Matsui",
+    "East Asia",
+    "Visayas",
+    "postal service",
+    "Marine Day"
+   ]
+  },
+  {
+   "title": "Domei broadcast on rubber paving and predicted Anglo-American collapse",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 186,
+   "end_page": 189,
+   "continues_previous": false,
+   "date": "1943-07-11",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "The broadcast promotes a Sumatra rubber-based paving material and repeats Philippine propaganda predicting British and American collapse.",
+   "summary": "A Medan dispatch describes a road material made from palm oil, lime, and rubber scrap as a prospective boon to road construction in Sumatra and Malaya. A Manila commentary claims Britain might seek a separate peace and alleges that labor conflict, transportation shortages, and raw-material bottlenecks would cause internal collapse in the United States. The transmission ends with a report that American aircraft attacked Haiphong and caused civilian casualties.",
+   "keywords": [
+    "Sumatra rubber",
+    "road construction",
+    "anti-Allied propaganda",
+    "United States",
+    "Britain",
+    "Haiphong"
+   ]
+  },
+  {
+   "title": "Domei broadcast reviewing Tojo’s tour of Southeast Asia",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 190,
+   "end_page": 195,
+   "continues_previous": false,
+   "date": "1943-07-12",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "A lengthy broadcast recounts Tojo’s visits to Thailand, Singapore, Jakarta, and Manila and presents them as proof of Asian unity under Japan.",
+   "summary": "The report traces Tojo’s journey from Bangkok through Singapore, Jakarta, and Manila, linking it to Thai territorial changes, the Indian National Army, Indonesian cooperation, and preparations for Philippine independence. José Laurel, Jorge Vargas, Sukarno, Shōzō Murata, Kumakichi Harada, and Ba Maw appear in accounts of meetings or welcoming statements. Tojo concludes that the ideal of universal brotherhood and the Greater East Asia Co-Prosperity Sphere was rapidly being realized.",
+   "keywords": [
+    "Hideki Tojo",
+    "Southeast Asian tour",
+    "Philippine independence",
+    "Sukarno",
+    "Indian National Army",
+    "Co-Prosperity Sphere"
+   ]
+  },
+  {
+   "title": "Domei broadcast on the China economic mission, Kolombangara battle, and Malayan administration",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 196,
+   "end_page": 199,
+   "continues_previous": false,
+   "date": "1943-07-13",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "The transmission combines Sino-Japanese economic talks, official battle claims from New Georgia, and new administrative policy for Malaya.",
+   "summary": "Masatsune Ogura’s economic mission meets Chinese representatives under Chou Fo-hai to discuss production, trade, prices, and currency. Imperial Headquarters announces the Battle of Kolombangara and separate air attacks around Rendova and New Georgia, claiming numerous Allied ships and aircraft destroyed. A Singapore dispatch explains plans for local participation, food self-sufficiency, rubber-estate reorganization, public welfare, and financial controls in Malaya.",
+   "keywords": [
+    "Masatsune Ogura",
+    "Chou Fo-hai",
+    "Kolombangara",
+    "New Georgia",
+    "Malaya",
+    "military administration"
+   ]
+  },
+  {
+   "title": "Domei broadcast on communications, administration, industry, and air-raid casualties",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 199,
+   "end_page": 202,
+   "continues_previous": false,
+   "date": "1943-07-13",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "A collection of regional dispatches reports new administrative, industrial, educational, and communications measures across occupied Asia.",
+   "summary": "Items announce telegraph service at Fabrica, a conference of Japanese administrators in Java, and the transfer of Japanese spinning machinery to Burma. Other reports concern a Javanese inspection party, American bombing in Tonkin, Jean Decoux’s relief donation, the death of Toshitake Ōkubo, civilian casualties near Canton, Thai rice harvests, and a new agricultural school at Magelang. The overall presentation emphasizes economic development under Japanese occupation while condemning Allied air attacks.",
+   "keywords": [
+    "Java administration",
+    "Burma textiles",
+    "Tonkin air raids",
+    "Thai rice",
+    "Magelang",
+    "occupation economy"
+   ]
+  },
+  {
+   "title": "Domei broadcast on Manila public assistance, Pontianak broadcasting, and regional mining",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 203,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1943-07-18",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "The broadcast describes a Japanese liaison office in Manila, a planned radio station at Pontianak, and economic developments in China and Hong Kong.",
+   "summary": "The Manila Kanmin Renraku Sho is credited with teaching Japanese, assisting the unemployed, resolving disputes, and processing civilian petitions. A Banjarmasin report says a broadcasting station at Pontianak should begin operation by the end of September. Further dispatches announce the return of Ogura’s economic mission and the reopening of lead, tungsten, molybdenum, tin, manganese, and iron resources around Hong Kong and Kowloon.",
+   "keywords": [
+    "Manila liaison office",
+    "Japanese-language education",
+    "Pontianak broadcasting",
+    "Ogura mission",
+    "Hong Kong mining"
+   ]
+  },
+  {
+   "title": "Domei broadcast on Manchukuo and Philippine agricultural development",
+   "doc_type": "intercepted Domei press broadcast transcript",
+   "start_page": 205,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1943-07-18",
+   "from": "Domei News Agency via JUO/JAU2",
+   "to": "Foreign press audience; intercepted by FCC monitors",
+   "about": "The broadcast promotes industrial and agricultural projects in Manchukuo and the Philippines and reports Wang Kemin’s return from Nanjing.",
+   "summary": "A Qiqihar dispatch lists fishing, spinning, pulp, settlement, and irrigation projects intended to develop Longjiang Province and the Nen River region. Manila authorities claim that irrigation, fertilizer storage, pest control, and crop rotation are making the Philippines self-sufficient in staple foods. The final item states that Wang Kemin returned to Beijing after conferring with Wang Jingwei in Nanjing.",
+   "keywords": [
+    "Manchukuo development",
+    "Nen River",
+    "Longjiang",
+    "Philippine agriculture",
+    "food self-sufficiency",
+    "Wang Kemin"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 9,
+  "pages": [
+   136,
+   207
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., August 16, 1943 - October 17, 1944 1456.pdf",
+  "seconds": 533.9,
+  "created": "2026-10-03 19:41:14",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-7"
+ }
+}

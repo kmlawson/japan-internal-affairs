@@ -1,0 +1,169 @@
+{
+ "interest": "Japanese warships plan a visit to Barranquilla, 1937.",
+ "keywords": [
+  "Barranquilla",
+  "Colombia",
+  "naval vessels",
+  "warships",
+  "Japan",
+  "port visits",
+  "naval diplomacy",
+  "Department of Atlántico",
+  "William Dawson",
+  "Raymond Phelan",
+  "U.S.S. Omaha",
+  "U.S.S. Manley"
+ ],
+ "overview": "Dawson's despatch No. 1320 (1937): two Japanese warships to visit Barranquilla, after British, German and other visits.",
+ "people": [
+  {
+   "name": "William Dawson",
+   "role": "U.S. Minister to Colombia",
+   "variants": [
+    "William Dawson"
+   ]
+  },
+  {
+   "name": "Raymond Phelan",
+   "role": "Vice Consul",
+   "variants": [
+    "Vice Consul Raymond Phelan",
+    "Raymond Phelan"
+   ]
+  },
+  {
+   "name": "Williams",
+   "role": "Admiral, U.S. Navy",
+   "variants": [
+    "Admiral Williams"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Barranquilla",
+   "variants": [
+    "Barranquilla"
+   ]
+  },
+  {
+   "name": "Bogotá",
+   "variants": [
+    "Bogota",
+    "Bogotá"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Atlántico Department",
+   "variants": [
+    "Department of Atlanticco"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Swedish"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "French"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "U.S. Minister William Dawson reports planned visits of two Japanese naval warships and other foreign naval vessels to the newly inaugurated port of Barranquilla.",
+   "date": "1937-02-19",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "William Dawson",
+   "keywords": [
+    "Barranquilla",
+    "Colombia",
+    "naval vessels",
+    "Japan",
+    "William Dawson",
+    "Raymond Phelan",
+    "U.S.S. Omaha",
+    "U.S.S. Manley"
+   ],
+   "start_page": 1,
+   "summary": "Dawson reports two Japanese warships will visit Barranquilla and asks the consulate to report foreign naval calls.",
+   "title": "Despatch No. 1320 from William Dawson on Visits of Foreign War Vessels to Barranquilla",
+   "to": "The Secretary of State"
+  },
+  {
+   "about": "Duplicate confirmation copy of Despatch No. 1320 concerning Japanese and foreign naval visits to the port of Barranquilla.",
+   "date": "1937-02-19",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "William Dawson",
+   "keywords": [
+    "Barranquilla",
+    "Colombia",
+    "naval vessels",
+    "Japan",
+    "confirmation copy",
+    "Department of Atlántico",
+    "William Dawson"
+   ],
+   "start_page": 3,
+   "summary": "Confirmation copy of despatch No. 1320 on Japanese warships visiting Barranquilla.",
+   "title": "Despatch No. 1320 (Confirmation Copy) from William Dawson on Visits of Foreign War Vessels to Barranquilla",
+   "to": "The Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14127,
+   "output_tokens": 5604,
+   "thinking_tokens": 4361,
+   "cache_read_tokens": 0,
+   "total_tokens": 19731
+  },
+  "backend": "agy",
+  "seconds": 20.2,
+  "identifier": "japan-internal-affairs-894.3321-visits-of-vessels-1",
+  "file": "894.3321 Visits Of Vessels And Aircraft Of Japan To Ports Of Colombia., February 19, 1937 942.pdf",
+  "created": "2026-09-29 04:28:47"
+ }
+}

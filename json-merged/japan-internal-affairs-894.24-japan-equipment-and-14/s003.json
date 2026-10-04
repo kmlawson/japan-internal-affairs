@@ -1,0 +1,957 @@
+{
+ "section_summary": "Pages 161–203 continue Bulletin No. 19 of the Chinese Council for Economic Research, a statistical study of Japan’s dependence on foreign sources—especially the United States and the British Empire—for petroleum, metals, machinery, vehicles, aircraft, and other materials essential to war. The report evaluates the effect of the European war, the American “moral embargo,” export licensing, and a possible comprehensive embargo, followed by extensive commodity and country tables for 1937–1940. Pages 204–216 contain State Department and congressional correspondence concerning the bulletin and public protests against scrap-metal, steel-rail, and aviation-gasoline shipments to Japan.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japas",
+    "Jepan",
+    "Nippon",
+    "Nippon Empire",
+    "Ialand Empire"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S. A.",
+    "U.S.A.",
+    "U. S.",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "British Malay"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Dutch East Indies (Indonesia)",
+   "variants": [
+    "Netherland India",
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "British India"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "South and East Asia and Oceania",
+   "variants": [
+    "South and East Asia and Oceania",
+    "South and Bast Asia and Oceania",
+    "South and East Asiatic countries and Oceania",
+    "South & East Asiatic Countrios and Oceania"
+   ]
+  },
+  {
+   "name": "Oceania",
+   "variants": [
+    "Oceania"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Burope"
+   ]
+  },
+  {
+   "name": "South and Central America",
+   "variants": [
+    "South and Central America",
+    "South & Central America",
+    "South and Central American countries"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "North and Central China",
+   "variants": [
+    "North and Central China"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Aus tralia"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "Frengh Indo-China"
+   ]
+  },
+  {
+   "name": "New Caledonia",
+   "variants": [
+    "French New Caledonia",
+    "Frenoh New Caledonia",
+    "French New Calodonia"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden",
+    "Swoden"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland",
+    "Switserland"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Luxembourg",
+   "variants": [
+    "Luxemburg"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "Franoe"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czechoslovakia",
+    "Cseohoslovakia"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austria"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "U. S. S. R."
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Empire"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Netherlands proper"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentine",
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania"
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "variants": [
+    "Ecuador",
+    "Bouador"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Mexioo"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Pacific Ocean region",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "Western Hemisphere",
+    "Western Eamisphere",
+    "Wessern Nemisphere"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shangha1"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "London E. C. 2"
+   ]
+  },
+  {
+   "name": "Bishopsgate, London",
+   "variants": [
+    "Bishops-gate"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washington, DC."
+   ]
+  },
+  {
+   "name": "Pulau Sambu, Indonesia",
+   "variants": [
+    "Poeloe Samboe"
+   ]
+  },
+  {
+   "name": "Bintan Island, Indonesia",
+   "variants": [
+    "Poeloe Bintan"
+   ]
+  },
+  {
+   "name": "British Borneo",
+   "variants": [
+    "British Borneo"
+   ]
+  },
+  {
+   "name": "San Antonio, Texas",
+   "variants": [
+    "San Antonio, Texas",
+    "Ran Antenie, Tezas"
+   ]
+  },
+  {
+   "name": "Mirando City, Texas",
+   "variants": [
+    "Mirando City. Texas",
+    "Mirando City, Texas",
+    "Nirande Gity. Tezas"
+   ]
+  },
+  {
+   "name": "Corpus Christi, Texas",
+   "variants": [
+    "Corpus Christi",
+    "Corpus"
+   ]
+  },
+  {
+   "name": "Laredo, Texas",
+   "variants": [
+    "Laredo, Texas",
+    "Laredo"
+   ]
+  },
+  {
+   "name": "Veracruz, Mexico",
+   "variants": [
+    "Vera Cruz"
+   ]
+  },
+  {
+   "name": "Kansas",
+   "variants": [
+    "Kansas",
+    "Konsns"
+   ]
+  },
+  {
+   "name": "Midwestern United States",
+   "variants": [
+    "Middle West"
+   ]
+  },
+  {
+   "name": "Kansas City, Missouri",
+   "variants": [
+    "Kansas City, Missouri",
+    "Kansas City, Mo. U.S.A.",
+    "Kamsas City, Missour1"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain",
+    "Great Britein"
+   ]
+  },
+  {
+   "name": "Cleveland, Ohio",
+   "variants": [
+    "CLEVELAND, OHIO"
+   ]
+  },
+  {
+   "name": "San Francisco, California",
+   "variants": [
+    "SANFRANCISCO"
+   ]
+  },
+  {
+   "name": "Maine",
+   "variants": [
+    "MAINE"
+   ]
+  },
+  {
+   "name": "North Dakota",
+   "variants": [
+    "N. DAK."
+   ]
+  },
+  {
+   "name": "New Hampshire",
+   "variants": [
+    "N. H."
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "MASS."
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "GRES."
+   ]
+  },
+  {
+   "name": "Wyoming",
+   "variants": [
+    "WTO."
+   ]
+  },
+  {
+   "name": "Missouri",
+   "variants": [
+    "MO."
+   ]
+  },
+  {
+   "name": "Rhode Island",
+   "variants": [
+    "R. 1."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George A. Roush",
+   "role": "Author of “Strategic Mineral Supplies,” cited as a source",
+   "variants": [
+    "G. A. Rousch"
+   ]
+  },
+  {
+   "name": "John W. Finch",
+   "role": "Co-author of a cited analysis of the United States strategic-mineral problem",
+   "variants": [
+    "John W. Finch"
+   ]
+  },
+  {
+   "name": "James W. Furness",
+   "role": "Co-author of a cited analysis of the United States strategic-mineral problem",
+   "variants": [
+    "James W. Furness"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Stuart J. Fuller",
+   "role": "Assistant Chief, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Stuart J. Fuller"
+   ]
+  },
+  {
+   "name": "Hu Shih",
+   "role": "Chinese Ambassador to the United States",
+   "variants": [
+    "Dr, Ma thsn"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordell Hull",
+    "Cordell Aull",
+    "Cordeld Hull",
+    "cordell Bull"
+   ]
+  },
+  {
+   "name": "Milton H. West",
+   "role": "U.S. representative and member of the House Committee on Ways and Means",
+   "variants": [
+    "MILTON H. WEST",
+    "Milton West"
+   ]
+  },
+  {
+   "name": "Herbert F. Danmier",
+   "role": "Past Commander, American Legion Mirando Post No. 385",
+   "variants": [
+    "Herbert F. Danmier",
+    "HERBERT F. DANMIER",
+    "Mr. Danmier"
+   ]
+  },
+  {
+   "name": "E. T. Harvey",
+   "role": "Commander, American Legion Mirando Post No. 385",
+   "variants": [
+    "E. T. Harvey",
+    "E. T. Hafvey"
+   ]
+  },
+  {
+   "name": "Richard M. Kleberg",
+   "role": "U.S. representative copied on the American Legion letter",
+   "variants": [
+    "Richard M. Kleberg"
+   ]
+  },
+  {
+   "name": "Arthur Capper",
+   "role": "U.S. senator from Kansas",
+   "variants": [
+    "Arthur Capper",
+    "Senator Capper",
+    "Benater Capper"
+   ]
+  },
+  {
+   "name": "E. H. Witte",
+   "role": "President of Witte Engine Works",
+   "variants": [
+    "E. H. Witte",
+    "E.H.WITTE",
+    "E. H. Vitte",
+    "Mr. Witte"
+   ]
+  },
+  {
+   "name": "Frederick Hale",
+   "role": "U.S. senator from Maine, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "PREDERICK HALE"
+   ]
+  },
+  {
+   "name": "Gerald P. Nye",
+   "role": "U.S. senator from North Dakota, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "GERALD P. NYE"
+   ]
+  },
+  {
+   "name": "Styles Bridges",
+   "role": "U.S. senator from New Hampshire, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "STYLES BRAGES"
+   ]
+  },
+  {
+   "name": "Henry Cabot Lodge Jr.",
+   "role": "U.S. senator from Massachusetts, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "HEDNRY CABOT LODGE, JR."
+   ]
+  },
+  {
+   "name": "Rufus C. Holman",
+   "role": "U.S. senator from Oregon, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "RUFUS C. HOLMAN"
+   ]
+  },
+  {
+   "name": "Joseph C. O’Mahoney",
+   "role": "U.S. senator from Wyoming, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "C.BMAHONEY"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "U.S. senator from Missouri, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "MY S. TRMAN"
+   ]
+  },
+  {
+   "name": "Theodore Francis Green",
+   "role": "U.S. senator from Rhode Island, named on the Senate Appropriations Committee letterhead",
+   "variants": [
+    "RE FRANCIS GREEN"
+   ]
+  },
+  {
+   "name": "Everard H. Smith",
+   "role": "Clerk of the Senate Committee on Appropriations",
+   "variants": [
+    "EVERARD H. SMITH"
+   ]
+  },
+  {
+   "name": "John W. R. Smith",
+   "role": "Assistant Clerk of the Senate Committee on Appropriations",
+   "variants": [
+    "JOHN W. R. SMITH"
+   ]
+  },
+  {
+   "name": "Robert A. Taft",
+   "role": "U.S. senator from Ohio",
+   "variants": [
+    "Robert A. Taft",
+    "ROBERT A.TAFT",
+    "Semater Tars"
+   ]
+  },
+  {
+   "name": "A. C. Newell",
+   "role": "Cleveland constituent protesting shipments to Japan",
+   "variants": [
+    "A C VEWELL",
+    "A. C. Newell",
+    "Mr. A. C. Newell"
+   ]
+  },
+  {
+   "name": "A. J. P. Esplin",
+   "role": "Cleveland constituent protesting shipments to Japan",
+   "variants": [
+    "A J P ESPLIN"
+   ]
+  },
+  {
+   "name": "John Boland",
+   "role": "Cleveland constituent protesting shipments to Japan",
+   "variants": [
+    "JOHN BOLAND"
+   ]
+  },
+  {
+   "name": "John Newell Jr.",
+   "role": "Cleveland constituent protesting shipments to Japan",
+   "variants": [
+    "JOHN NEWELL JR."
+   ]
+  },
+  {
+   "name": "William Dickey",
+   "role": "Cleveland constituent protesting shipments to Japan",
+   "variants": [
+    "WILLIAM DICKEY"
+   ]
+  }
+ ],
+ "keywords": [
+  "war materials",
+  "exports to Japan",
+  "strategic commodities",
+  "U.S. export controls",
+  "scrap iron and steel",
+  "petroleum and aviation gasoline",
+  "machine tools",
+  "moral embargo",
+  "Chinese Council for Economic Research",
+  "congressional correspondence"
+ ],
+ "subfiles": [
+  {
+   "title": "World Exports to Japan Essential for War Purposes, 1937–39 (Bulletin No. 19)",
+   "doc_type": "research bulletin and statistical report",
+   "start_page": 161,
+   "end_page": 203,
+   "continues_previous": true,
+   "date": "1940-07",
+   "from": "Chinese Council for Economic Research",
+   "to": "",
+   "about": "Analyzes Japan’s foreign procurement of commodities and equipment needed for war and the strategic leverage held by the United States.",
+   "summary": "The report traces changes in Japan’s 1937–1939 imports of petroleum, scrap iron, copper, machine tools, vehicles, aircraft, ferro-alloys, and other strategic goods, identifying the United States as the dominant supplier. It examines supplies from Canada, European countries, colonial Asia, and Oceania, then argues that wartime disruption and American export controls placed Japan’s military economy in a precarious position. Charts and extensive appendices provide country and commodity values, quantities, percentage shares, and comparisons through the first half of 1940.",
+   "keywords": [
+    "Japanese war economy",
+    "strategic imports",
+    "United States–Japan trade",
+    "petroleum",
+    "scrap iron",
+    "machine tools",
+    "export licensing",
+    "statistical tables"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Chinese Council Bulletin No. 19",
+   "doc_type": "letter",
+   "start_page": 204,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1940-09-12",
+   "from": "Stuart J. Fuller, Division of Far Eastern Affairs",
+   "to": "Hu Shih, Chinese Ambassador",
+   "about": "Thanks the Chinese ambassador for providing a copy of the council’s bulletin on war-essential exports to Japan.",
+   "summary": "Fuller acknowledges receipt of Bulletin No. 19, “World Exports to Japan Essential for War Purposes, 1937–39.” He expresses appreciation and says that he looks forward to reading it.",
+   "keywords": [
+    "Bulletin No. 19",
+    "Chinese Council for Economic Research",
+    "Hu Shih",
+    "Far Eastern Affairs",
+    "acknowledgment"
+   ]
+  },
+  {
+   "title": "Milton H. West forwards American Legion protest over scrap exports",
+   "doc_type": "letter",
+   "start_page": 205,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1940-09-24",
+   "from": "Milton H. West",
+   "to": "Cordell Hull",
+   "about": "Forwards a Texas American Legion letter alleging that scrap iron was being routed through Mexico to Japan.",
+   "summary": "West sends Hull a carbon copy of a letter from Herbert F. Danmier and E. T. Harvey to the FBI in San Antonio. He asks that their opposition to scrap-iron exports receive consideration, requests the Department’s reaction, and asks that the enclosure be returned.",
+   "keywords": [
+    "scrap iron",
+    "American Legion",
+    "Japan",
+    "Mexico",
+    "congressional inquiry",
+    "Milton H. West"
+   ]
+  },
+  {
+   "title": "American Legion report of scrap iron routed through Mexico to Japan",
+   "doc_type": "letter",
+   "start_page": 206,
+   "end_page": 206,
+   "continues_previous": false,
+   "date": "1940-09-20",
+   "from": "Herbert F. Danmier and E. T. Harvey, American Legion Mirando Post No. 385",
+   "to": "Federal Bureau of Investigation, San Antonio, Texas",
+   "about": "Reports suspected daily shipments of scrap iron from Corpus Christi through Laredo and Mexico for eventual delivery to Japan.",
+   "summary": "The writers argue that selling scrap iron to Japan is unpatriotic and report observing two to six railcars of scrap passing Mirando City each day. They allege that the material, reportedly handled by the Federal Export Company, was nominally sold to Mexico and then sent through Veracruz to Japan. They urge investigation of all scrap dealers.",
+   "keywords": [
+    "scrap iron",
+    "Federal Export Company",
+    "Mexico transshipment",
+    "Texas Mexican Railway",
+    "American Legion",
+    "FBI"
+   ]
+  },
+  {
+   "title": "State Department reply to Milton H. West on scrap exports",
+   "doc_type": "letter",
+   "start_page": 207,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1940-10-01",
+   "from": "Cordell Hull",
+   "to": "Milton H. West",
+   "about": "Answers West’s inquiry by citing the President’s September 26 restrictions on iron-and-steel scrap exports.",
+   "summary": "Hull acknowledges West’s letter and the enclosed American Legion complaint. He points to the September 26 presidential press release, under which licenses after October 16 would authorize scrap exports only to Western Hemisphere countries and Great Britain. The original enclosure is returned.",
+   "keywords": [
+    "scrap-export controls",
+    "presidential press release",
+    "Western Hemisphere",
+    "Great Britain",
+    "Milton H. West"
+   ]
+  },
+  {
+   "title": "Arthur Capper requests action on scrap-metal exports",
+   "doc_type": "letter",
+   "start_page": 208,
+   "end_page": 208,
+   "continues_previous": false,
+   "date": "1940-09-25",
+   "from": "Arthur Capper",
+   "to": "Cordell Hull",
+   "about": "Renews a request for an embargo on scrap-metal exports and forwards a manufacturer’s complaint about rising domestic prices.",
+   "summary": "Capper recalls earlier protests from Kansas and Midwestern iron and steel firms and the Department’s explanation of the new export-control system. He forwards E. H. Witte’s argument that continued exports had sharply increased the cost of materials needed for national-defense production and asks that the proposed embargo receive sympathetic consideration.",
+   "keywords": [
+    "Arthur Capper",
+    "scrap-metal embargo",
+    "Kansas manufacturers",
+    "national defense",
+    "domestic prices",
+    "export control"
+   ]
+  },
+  {
+   "title": "E. H. Witte urges a comprehensive scrap-iron embargo",
+   "doc_type": "letter",
+   "start_page": 209,
+   "end_page": 210,
+   "continues_previous": false,
+   "date": "1940-09-20",
+   "from": "E. H. Witte, Witte Engine Works",
+   "to": "Arthur Capper",
+   "about": "Argues that all iron-and-steel scrap exports, except possibly shipments to England, should be embargoed.",
+   "summary": "Witte contends that licensing only No. 1 heavy scrap leaves most scrap exports unrestricted and creates severe problems for American foundries. Citing his company’s defense orders for diesel-electric submarine and mine-base lighting units, he says scrap prices had risen from roughly $10–$12 to $17–$18 per ton. He asks Capper to take substantive action on behalf of iron and steel users performing government work.",
+   "keywords": [
+    "Witte Engine Works",
+    "scrap-iron embargo",
+    "foundries",
+    "defense production",
+    "steel prices",
+    "Arthur Capper"
+   ]
+  },
+  {
+   "title": "State Department reply to Arthur Capper on scrap exports",
+   "doc_type": "letter",
+   "start_page": 211,
+   "end_page": 212,
+   "continues_previous": false,
+   "date": "1940-10-04",
+   "from": "Cordell Hull",
+   "to": "Arthur Capper",
+   "about": "Explains the new restrictions limiting exports of all grades of iron-and-steel scrap to the Western Hemisphere and Great Britain.",
+   "summary": "Hull acknowledges Capper’s letter and E. H. Witte’s concern about export volumes and rising scrap prices. He states that outstanding licenses would be revoked October 15 and that subsequent licenses for all grades of scrap would be issued only for Western Hemisphere destinations and Great Britain. A presidential press release is enclosed, and Witte’s letter is returned.",
+   "keywords": [
+    "scrap-export licensing",
+    "Cordell Hull",
+    "Arthur Capper",
+    "E. H. Witte",
+    "Western Hemisphere",
+    "Great Britain"
+   ]
+  },
+  {
+   "title": "Robert A. Taft asks about reported steel-rail and aviation-gasoline shipments",
+   "doc_type": "letter",
+   "start_page": 213,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1940-09-25",
+   "from": "Robert A. Taft",
+   "to": "Cordell Hull",
+   "about": "Requests verification of a constituent report that steel rails and aviation gasoline were being shipped to Japan from San Francisco.",
+   "summary": "Taft forwards a telegram from A. C. Newell and other Cleveland constituents concerning alleged shipments to Japan. Believing that such exports were not permitted, he asks Hull for facts that he can relay to the correspondents.",
+   "keywords": [
+    "Robert A. Taft",
+    "steel rails",
+    "aviation gasoline",
+    "Japan",
+    "San Francisco",
+    "constituent inquiry"
+   ]
+  },
+  {
+   "title": "Cleveland constituents protest reported shipments to Japan",
+   "doc_type": "telegram",
+   "start_page": 214,
+   "end_page": 214,
+   "continues_previous": false,
+   "date": "1940-09-23",
+   "from": "A. C. Newell, A. J. P. Esplin, John Boland, John Newell Jr., and William Dickey",
+   "to": "Robert A. Taft",
+   "about": "Protests a newspaper report that large quantities of steel rails and aviation gasoline would be shipped from San Francisco to Japan.",
+   "summary": "The Cleveland correspondents say they strongly disapprove of the reported shipments. Describing Japan as a potential menace to the United States, they ask Taft to investigate the facts and try to prevent the exports.",
+   "keywords": [
+    "Cleveland constituents",
+    "steel rails",
+    "aviation gasoline",
+    "San Francisco",
+    "Japan",
+    "protest telegram"
+   ]
+  },
+  {
+   "title": "State Department reply to Robert A. Taft on scrap and gasoline controls",
+   "doc_type": "letter",
+   "start_page": 215,
+   "end_page": 216,
+   "continues_previous": false,
+   "date": "1940-10-07",
+   "from": "Cordell Hull",
+   "to": "Robert A. Taft",
+   "about": "Explains restrictions on scrap exports and distinguishes embargoed high-quality aviation fuel from other gasoline exports.",
+   "summary": "Hull cites the President’s September 26 statement rescinding existing scrap licenses and limiting future licenses to the Western Hemisphere and Great Britain. He says licenses were not being issued for the high-quality aviation gasoline used by the U.S. armed forces when destined for Japan, although other gasoline types were licensed freely. Customs collectors were instructed to prevent unlicensed shipments, and the constituent telegram was returned with a copy of the press release.",
+   "keywords": [
+    "aviation gasoline",
+    "scrap export restrictions",
+    "customs enforcement",
+    "Robert A. Taft",
+    "Japan",
+    "presidential press release"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 5,
+  "pages": [
+   161,
+   216
+  ],
+  "pdf": "894.24 Japan, Equipment And Supplies., July 23rd, 1940 - June 24, 1941 1277.pdf",
+  "seconds": 244.9,
+  "created": "2026-09-29 22:36:38",
+  "key": "japan-internal-affairs-894.24-japan-equipment-and-14"
+ }
+}

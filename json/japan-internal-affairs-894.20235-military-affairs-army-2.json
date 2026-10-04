@@ -1,0 +1,209 @@
+{
+ "interest": "Japanese bids for Argentine submarines and coastal fishing rights.",
+ "keywords": [
+  "Argentina",
+  "Japan",
+  "naval intelligence",
+  "submarines",
+  "fishing concessions",
+  "Nippon Sangyo Kaisha",
+  "South American Fishery Company",
+  "Zárate",
+  "espionage",
+  "Ministry of Marine",
+  "Latin America",
+  "commercial expansion"
+ ],
+ "overview": "This file (State Department decimal file 894.20235, covering Japanese military, espionage, and propaganda activities in Argentina) consists of cross-reference sheets and an embassy despatch from 1933 to 1936 documenting American monitoring of Japanese strategic and commercial activities in the Southern Cone. The earliest documents note U.S. Navy Department intelligence regarding Japanese overtures to acquire an English meatpacking plant at Zárate and an offer to purchase three naval submarines from the Argentine government at a 30 percent markup over cost. The subsequent records, culminating in Tokyo Despatch No. 1670 from Ambassador Joseph C. Grew, examine Japanese press reports and diplomatic soundings regarding an Atlantic coast fishing concession obtained by Nippon Sangyo Kaisha through its subsidiary, the South American Fishery Company. While Argentine diplomats in Tokyo downplayed any official endorsement and noted the Ministry of Marine's strict resistance to foreign coastal concessions, they acknowledged the move as another persistent Japanese effort to secure a strategic foothold in South America.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Joseph C. Crew"
+   ]
+  },
+  {
+   "name": "Arturo A. Montenegro",
+   "role": "Secretary of the Argentine Legation in Tokyo",
+   "variants": [
+    "Arturo A. Montenegro",
+    "Mr. Arturo A. Montenegro",
+    "Mr. Montenegro"
+   ]
+  },
+  {
+   "name": "Mr. Be",
+   "role": "Secretary to the Imperial Fisheries Association (Teikoku Suisankai)",
+   "variants": [
+    "Mr. Be"
+   ]
+  },
+  {
+   "name": "Mr. Amari",
+   "role": "Managing Director of the South American Fishery Company",
+   "variants": [
+    "Mr. Amari"
+   ]
+  },
+  {
+   "name": "Mr. Yasuhaga",
+   "role": "Assistant to the Managing Director of the South American Fishery Company",
+   "variants": [
+    "Mr. Yasuhaga"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "Argentine",
+    "Argentines"
+   ]
+  },
+  {
+   "name": "Zárate",
+   "variants": [
+    "Zarate"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantic",
+    "Atlantic coast of Argentina"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a Navy Department report on Japanese meatpacking plant purchases and an offer to buy Argentine submarines.",
+   "date": "1933-03-16",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Navy Department",
+   "keywords": [
+    "Zárate",
+    "meatpacking",
+    "submarines",
+    "Argentina",
+    "naval affairs",
+    "arms purchase"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: Japanese bought a meatpacking plant at Zárate and offered to buy Argentine submarines, 1933.",
+   "title": "Cross-reference sheet for Navy Department letter on Japanese plant purchase at Zárate and submarine offer",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing a Navy Department letter concerning Japanese attempts to acquire Argentine submarines.",
+   "date": "1933-06-16",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Navy Department",
+   "keywords": [
+    "submarines",
+    "naval intelligence",
+    "Argentina",
+    "arms acquisition",
+    "Navy Department"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference: continued Japanese efforts to buy Argentine submarines, June 1933.",
+   "title": "Cross-reference sheet for Navy Department letter on Japanese efforts to purchase Argentine submarines",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing Tokyo Despatch No. 1670 concerning a reported Japanese fishing concession in Argentine waters.",
+   "date": "1936-02-08",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Joseph C. Grew (Embassy Tokyo)",
+   "keywords": [
+    "fishing concession",
+    "Nippon Sangyo Kaisha",
+    "Argentina",
+    "Tokyo Embassy"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to Grew's despatch No. 1670 on a Japanese fishing concession off Argentina.",
+   "title": "Cross-reference sheet for Tokyo Despatch No. 1670 on Japanese fishing concession in Argentine waters",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Despatch reporting Japanese press reports and Argentine diplomatic responses regarding a commercial fishing concession along the Argentine coast.",
+   "date": "1936-02-06",
+   "doc_type": "despatch",
+   "end_page": 6,
+   "from": "Joseph C. Grew (American Ambassador, Tokyo)",
+   "keywords": [
+    "fishing concession",
+    "Nippon Sangyo Kaisha",
+    "South American Fishery Company",
+    "Argentine Legation",
+    "Ministry of Marine",
+    "Arturo A. Montenegro",
+    "Atlantic coast"
+   ],
+   "start_page": 4,
+   "summary": "Grew reports Japanese press claims that Nippon Sangyo Kaisha won Argentine fishing rights; the Argentine Legation had no confirmation and said its Navy was reluctant.",
+   "title": "Tokyo Despatch No. 1670: Japanese Fishing Concession in Argentine Waters",
+   "to": "Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14466,
+   "output_tokens": 5464,
+   "thinking_tokens": 3706,
+   "cache_read_tokens": 0,
+   "total_tokens": 19930
+  },
+  "backend": "agy",
+  "seconds": 18.6,
+  "identifier": "japan-internal-affairs-894.20235-military-affairs-army-2",
+  "file": "894.20235 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Argentina Including Gathering Of Information. Espionage. Propaganda., March 893.pdf",
+  "created": "2026-09-29 01:53:08"
+ }
+}

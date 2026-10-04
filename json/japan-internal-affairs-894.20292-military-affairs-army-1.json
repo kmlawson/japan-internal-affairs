@@ -1,0 +1,102 @@
+{
+ "interest": "This document is interesting to historians as a concise administrative and intelligence record showing how the U.S. State Department tracked Japanese covert operations and propaganda in Thailand during World War II. It highlights the use of journalistic cover—specifically a Domei News Agency representative—for espionage and subversive activities designed to justify Japanese intervention. Additionally, it documents the flow of wartime intelligence gathered by repatriated American diplomats aboard the exchange ship S.S. Gripsholm and its dissemination to the Office of War Information.",
+ "keywords": [
+  "espionage",
+  "propaganda",
+  "Thailand",
+  "Japan",
+  "Domei News Agency",
+  "military intelligence",
+  "subversive activities",
+  "S.S. Gripsholm",
+  "Office of War Information",
+  "Indochina",
+  "diplomatic repatriation"
+ ],
+ "overview": "This file (decimal file 894.20292) is a single-page State Department 'List of Papers' (Non Jacket Case) indexing records on Japanese military, espionage, and propaganda activities in Thailand. It records two primary items: Sub. No. 1, indexing a March 18 report from Military Attaché O'Rear regarding a Domei News representative named Ata suspected of carrying out subversive activities to facilitate Japanese intervention (cross-referenced to 894.20312/621); and Sub. No. 2, an August 22 despatch transmitted by Willys R. Peck aboard the diplomatic exchange vessel S.S. Gripsholm containing a report on Japanese wartime propaganda in Thailand, which was subsequently referred to the Office of War Information on October 21.",
+ "people": [
+  {
+   "name": "Ata",
+   "role": "Domei News Agency representative in Thailand; suspected Japanese direct agent",
+   "variants": [
+    "Ata (?)",
+    "Ata"
+   ]
+  },
+  {
+   "name": "Charles A. O'Rear",
+   "role": "Military Attaché",
+   "variants": [
+    "O'Rear"
+   ]
+  },
+  {
+   "name": "Willys R. Peck",
+   "role": "American diplomat / Minister to Thailand",
+   "variants": [
+    "Peck"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Thai",
+    "Siam"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department list of papers indexing records on Japanese military, espionage, and propaganda activities in Thailand.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Thailand",
+    "Japan",
+    "espionage",
+    "propaganda",
+    "Domei News Agency",
+    "S.S. Gripsholm",
+    "Office of War Information"
+   ],
+   "start_page": 1,
+   "summary": "This document serves as the State Department List of Papers (Non Jacket Case) for decimal file 894.20292, titled 'Japanese military and espionage activities in Thailand'. It indexes a report from Military Attaché O'Rear regarding Domei News representative Ata and his subversive activities aimed at Japanese intervention. It also records a despatch transmitted by Willys R. Peck from the exchange ship S.S. Gripsholm transmitting a detailed report on Japanese wartime propaganda in Thailand, which was forwarded to the Office of War Information.",
+   "title": "List of Papers: Japanese military and espionage activities in Thailand",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13916,
+   "output_tokens": 6421,
+   "thinking_tokens": 5637,
+   "cache_read_tokens": 0,
+   "total_tokens": 20337
+  },
+  "backend": "agy",
+  "seconds": 23.4,
+  "identifier": "japan-internal-affairs-894.20292-military-affairs-army-1",
+  "file": "894.20292 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Thailand Including Gathering Of Information. Espionage. Propaganda.,  96.pdf",
+  "created": "2026-09-29 03:07:20"
+ }
+}

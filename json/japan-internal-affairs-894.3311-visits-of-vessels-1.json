@@ -1,0 +1,126 @@
+{
+ "interest": "This file provides historians with a concrete view of diplomatic and interdepartmental protocols governing Japanese naval auxiliary movements in strategically sensitive U.S. ports—notably Honolulu, Hawaii—in late 1938 during the Second Sino-Japanese War. It illustrates the routine coordination among the Department of State, Navy, Interior, and War departments to extend standard diplomatic courtesies and port facilities to Japanese military vessels just three years before Pearl Harbor. Additionally, it highlights the logistics of Japanese maritime operations in the Pacific, specifically the rendezvous between the naval transport Shiriya and the commercial liner Chichibu Maru to deliver repair materials.",
+ "keywords": [
+  "Japanese transport Shiriya",
+  "Chichibu Maru",
+  "Honolulu",
+  "Los Angeles",
+  "ship repair",
+  "port visit",
+  "naval transport",
+  "Department of State",
+  "Secretary of the Navy",
+  "Secretary of the Interior",
+  "Japanese Ambassador",
+  "diplomatic courtesies"
+ ],
+ "overview": "This file contains official U.S. Department of State correspondence dated December 8, 1938, concerning the Japanese naval transport Shiriya, which altered its schedule and arrived in Honolulu, Hawaii, on December 4, 1938, in need of repairs. Awaiting replacement parts to be delivered by the motorship Chichibu Maru on December 16, the vessel arranged to remain in Honolulu until repairs could be completed. The Acting Secretary of State acknowledged receipt of diplomatic note No. 219 from the Japanese Ambassador in Washington and transmitted notifications to the Secretaries of the Interior, the Navy, and War to facilitate the extension of customary courtesies and port facilities to the vessel.",
+ "people": [],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Notification to the Secretary of the Interior regarding the revised schedule and repair stay of the Japanese transport Shiriya in Honolulu.",
+   "date": "1938-12-08",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Acting Secretary of State",
+   "keywords": [
+    "Shiriya",
+    "Chichibu Maru",
+    "Honolulu",
+    "Secretary of the Interior",
+    "ship repair",
+    "port visit"
+   ],
+   "start_page": 1,
+   "summary": "The Acting Secretary of State informs the Secretary of the Interior that the Japanese transport Shiriya arrived in Honolulu on December 4, 1938, following a change in schedule. The vessel plans to remain in port until necessary repair work is completed using materials delivered by the motorship Chichibu Maru, expected on December 16. The letter notes that parallel communications were sent to the Secretary of War and the Secretary of the Navy.",
+   "title": "Letter from the Acting Secretary of State to the Secretary of the Interior regarding the Japanese transport Shiriya",
+   "to": "Secretary of the Interior"
+  },
+  {
+   "about": "Notification to the Secretary of the Navy regarding the revised schedule and repair stay of the Japanese transport Shiriya in Honolulu.",
+   "date": "1938-12-08",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Acting Secretary of State",
+   "keywords": [
+    "Shiriya",
+    "Chichibu Maru",
+    "Honolulu",
+    "Secretary of the Navy",
+    "naval transport",
+    "ship repair"
+   ],
+   "start_page": 2,
+   "summary": "The Acting Secretary of State transmits compliments to the Secretary of the Navy regarding the revised schedule of the Japanese transport Shiriya, which arrived at Honolulu on December 4, 1938. The transport is scheduled to stay in Honolulu until repairs are completed with materials arriving aboard the motorship Chichibu Maru on December 16. It notes that similar notices were directed to the Secretary of War and the Secretary of the Interior.",
+   "title": "Letter from the Acting Secretary of State to the Secretary of the Navy regarding the Japanese transport Shiriya",
+   "to": "Secretary of the Navy"
+  },
+  {
+   "about": "Acknowledgment of the Japanese Ambassador's note concerning the Japanese transport Shiriya's arrival and repair stay at Honolulu.",
+   "date": "1938-12-08",
+   "doc_type": "diplomatic note",
+   "end_page": 3,
+   "from": "Acting Secretary of State",
+   "keywords": [
+    "Japanese Ambassador",
+    "Shiriya",
+    "Honolulu",
+    "diplomatic note",
+    "port courtesies",
+    "ship repair"
+   ],
+   "start_page": 3,
+   "summary": "The Acting Secretary of State acknowledges note No. 219 dated December 5, 1938, from the Japanese Ambassador regarding the arrival of the Japanese transport Shiriya in Honolulu on December 4. The note confirms that the vessel will remain in port until repair work is finished. It assures the Ambassador that interested Federal departments have been notified to extend customary courtesies and facilities to the vessel.",
+   "title": "Diplomatic note from the Acting Secretary of State to the Japanese Ambassador acknowledging note on the Shiriya",
+   "to": "Japanese Ambassador"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14326,
+   "output_tokens": 5010,
+   "thinking_tokens": 3833,
+   "cache_read_tokens": 0,
+   "total_tokens": 19336
+  },
+  "backend": "agy",
+  "seconds": 17.6,
+  "identifier": "japan-internal-affairs-894.3311-visits-of-vessels-1",
+  "file": "894.3311 Visits Of Vessels And Aircraft Of Japan To Ports Of United States., December 8, 1938 1062.pdf",
+  "created": "2026-09-29 04:17:42"
+ }
+}

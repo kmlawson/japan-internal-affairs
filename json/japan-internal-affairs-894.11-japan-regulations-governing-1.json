@@ -1,0 +1,95 @@
+{
+ "interest": "Tracing a lost American leather shipment to Shanghai, 1945–46.",
+ "keywords": [
+  "Dungan, Hood & Co., Inc.",
+  "Vienna Shoes Company",
+  "SS President Van Buren",
+  "Shanghai",
+  "leather shipment",
+  "cargo restitution",
+  "commercial claims",
+  "consular instruction",
+  "postwar trade",
+  "Department of State"
+ ],
+ "overview": "February 5, 1946 instruction asking Shanghai to trace Dungan, Hood & Co.'s leather shipped on the SS President Van Buren.",
+ "people": [
+  {
+   "name": "Mr. Penrose",
+   "role": "Representative of Dungan, Hood & Co., Inc. and author of the enclosed letter",
+   "variants": [
+    "Mr. Penrose"
+   ]
+  },
+  {
+   "name": "V. A. Smith",
+   "role": "State Department drafting officer",
+   "variants": [
+    "VASmith"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "Philadelphia"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pennsylvania"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "The Department of State instructs the American consular officer in Shanghai to investigate the status of a commercial leather shipment sent to the Vienna Shoes Company and determine procedures for recovering the goods or obtaining compensation.",
+   "date": "1946-02-05",
+   "doc_type": "instruction",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Dungan, Hood & Co., Inc.",
+    "Vienna Shoes Company",
+    "SS President Van Buren",
+    "Shanghai",
+    "leather shipment",
+    "property recovery",
+    "compensation"
+   ],
+   "start_page": 1,
+   "summary": "State asks the Shanghai consulate to trace leather shipped by Dungan, Hood & Co. on the SS President Van Buren in September 1945 and advise on recovery.",
+   "title": "Instruction from Department of State to American Consular Officer in Charge at Shanghai regarding leather shipment by Dungan, Hood & Co., Inc.",
+   "to": "American Consular Officer in Charge, Shanghai"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13889,
+   "output_tokens": 5079,
+   "thinking_tokens": 4347,
+   "cache_read_tokens": 0,
+   "total_tokens": 18968
+  },
+  "backend": "agy",
+  "seconds": 20.4,
+  "identifier": "japan-internal-affairs-894.11-japan-regulations-governing-1",
+  "file": "894.11 Japan, Regulations Governing , November 6, 1945 1496.pdf",
+  "created": "2026-09-28 23:00:24"
+ }
+}

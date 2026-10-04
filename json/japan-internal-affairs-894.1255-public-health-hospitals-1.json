@@ -1,0 +1,120 @@
+{
+ "interest": "Consuls reported Japanese tuberculosis remedies, from Dr. Seigo Funaoka's serum to kerosene therapy.",
+ "keywords": [
+  "Japan",
+  "public health",
+  "tuberculosis",
+  "serum therapy",
+  "Seigo Funaoka",
+  "Kyoto Imperial University",
+  "kerosene treatment",
+  "medical research",
+  "pharmacopoeia",
+  "consular reporting"
+ ],
+ "overview": "Two cross-reference sheets (1932–34) on Japanese tuberculosis treatments: Dr. Seigo Funaoka's serum, reported from Kobe, and a kerosene 'cure' reported from Singapore.",
+ "people": [
+  {
+   "name": "Erle R. Dickover",
+   "role": "U.S. Consul at Kobe",
+   "variants": [
+    "Dickover"
+   ]
+  },
+  {
+   "name": "Seigo Funaoka",
+   "role": "Professor and medical researcher at Kyoto Imperial University",
+   "variants": [
+    "Dr. Seigo Funaoka"
+   ]
+  },
+  {
+   "name": "Armin H. Zeilinger",
+   "role": "U.S. Vice Consul at Singapore",
+   "variants": [
+    "Zeilinger"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet for a despatch from Kobe transmitting publications on a new tuberculosis serum developed by Dr. Seigo Funaoka.",
+   "date": "1932-04-30",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Erle R. Dickover",
+   "keywords": [
+    "tuberculosis",
+    "serum",
+    "Seigo Funaoka",
+    "Kyoto Imperial University",
+    "Kobe",
+    "medical research"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Dickover's April 30, 1932 Kobe despatch on Dr. Seigo Funaoka's tuberculosis serum.",
+   "title": "Cross-Reference Sheet for Despatch from Kobe on Tuberculosis Serum",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet for a despatch from Singapore enclosing a newspaper article on an experimental kerosene treatment for tuberculosis being tested in Japan.",
+   "date": "1934-01-29",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Armin H. Zeilinger",
+   "keywords": [
+    "tuberculosis",
+    "kerosene",
+    "Singapore",
+    "Japan",
+    "newspaper clipping",
+    "medical treatment"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Singapore Despatch No. 104 (January 1934) on a kerosene tuberculosis 'cure' tried in Japan.",
+   "title": "Cross-Reference Sheet for Despatch No. 104 from Singapore on Kerosene Treatment for Tuberculosis",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13790,
+   "output_tokens": 4500,
+   "thinking_tokens": 3459,
+   "cache_read_tokens": 0,
+   "total_tokens": 18290
+  },
+  "backend": "agy",
+  "seconds": 16.3,
+  "identifier": "japan-internal-affairs-894.1255-public-health-hospitals-1",
+  "file": "894.1255 Public Health. Hospitals. Hospital Service., Supervision Of Food And Drugs., Japan, Materia Medica. Pharmacopoeia., April 30, 1932 - January 29, 1934 801.pdf",
+  "created": "2026-09-28 23:20:13"
+ }
+}

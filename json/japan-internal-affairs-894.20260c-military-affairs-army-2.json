@@ -1,0 +1,236 @@
+{
+ "interest": "Japanese General Sawada's propaganda in Warsaw at the fall of Nanking.",
+ "keywords": [
+  "Japanese military intelligence",
+  "Second Sino-Japanese War",
+  "Fall of Nanking",
+  "Shigeru Sawada",
+  "Seishiro Itagaki",
+  "Japanese propaganda",
+  "Military Attaché Warsaw",
+  "Netherlands East Indies",
+  "Chiang Kai-shek",
+  "Anti-Comintern",
+  "Soviet-Japanese relations",
+  "Java"
+ ],
+ "overview": "Two reports: General Sawada's 1937 Warsaw interview on Nanking and peace terms, and a 1934 note on General Itagaki in Java.",
+ "people": [
+  {
+   "name": "Shigeru Sawada",
+   "role": "Major General; Japanese Military Attaché in Warsaw and Chief of the Japanese Military Mission in Poland; former Chief of the Japanese Mission in Manchuria",
+   "variants": [
+    "General S. S. S.",
+    "Gen. S. S. S.",
+    "General Sawada"
+   ]
+  },
+  {
+   "name": "Iwane Matsui",
+   "role": "General, Imperial Japanese Army commander of the Japanese expeditionary force capturing Nanking",
+   "variants": [
+    "General Matsui"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Marshal; Generalissimo and head of the Chinese Nationalist Government and armed forces",
+   "variants": [
+    "Marshal Chang-Kai-Sheek"
+   ]
+  },
+  {
+   "name": "Takahashi",
+   "role": "Colonel, Chief of the Chinese Section of the Japanese Army General Staff",
+   "variants": [
+    "Colonel Takahashi"
+   ]
+  },
+  {
+   "name": "Seishiro Itagaki",
+   "role": "Major General, Imperial Japanese Army",
+   "variants": [
+    "Major General Itagaki",
+    "Major General Seishiro Itagaki"
+   ]
+  },
+  {
+   "name": "Johannes F. Osten",
+   "role": "Rear Admiral, Director of the Department of Marine of the Netherlands East Indies",
+   "variants": [
+    "Admiral Osten"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Warsaw",
+   "variants": [
+    "Warsaw",
+    "WARSAW",
+    "WA YUW"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking",
+    "Nanking's"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Wuhan",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "Yangtze-kang river"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "northern China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviets"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON, D.C."
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Surabaya",
+   "variants": [
+    "Surabaya"
+   ]
+  },
+  {
+   "name": "Bandung",
+   "variants": [
+    "Bandoeng"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Motherland India",
+    "Motherland in is is"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Far East"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmits an English translation of a Polish press interview with the Japanese Military Attaché in Warsaw regarding the capture of Nanking and Japanese strategic objectives in China.",
+   "date": "1937-12-10",
+   "doc_type": "report",
+   "end_page": 3,
+   "from": "Office of the U.S. Military Attaché, Warsaw",
+   "keywords": [
+    "Shigeru Sawada",
+    "Nanking",
+    "Shanghai",
+    "Hankow",
+    "Chiang Kai-shek",
+    "Iwane Matsui",
+    "Sino-Japanese War",
+    "Soviet Union",
+    "Express Poranny",
+    "propaganda"
+   ],
+   "start_page": 1,
+   "summary": "Military Attaché sends a Polish interview in which General Sawada claims Nanking's fall and sets Japan's peace terms, threatening an advance on Hankow.",
+   "title": "U.S. Military Attaché Warsaw Report No. 3034: Japanese Propaganda in Poland (Interview with General Sawada)",
+   "to": "War Department (G-2) / Department of State, Washington, D.C."
+  },
+  {
+   "about": "Reports on confidential inquiries made with the Dutch colonial naval administration concerning the visit of Imperial Japanese Army Major General Seishiro Itagaki to Java.",
+   "date": "1934-02-18",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "American Consulate General, Batavia, Java",
+   "keywords": [
+    "Seishiro Itagaki",
+    "Batavia",
+    "Surabaya",
+    "Bandoeng",
+    "Johannes F. Osten",
+    "Netherlands East Indies",
+    "Imperial Japanese Army",
+    "espionage"
+   ],
+   "start_page": 4,
+   "summary": "Batavia reports consulting Admiral Osten on General Itagaki's visit to Java.",
+   "title": "Despatch from Consulate General Batavia: Visit to Java of Major General Itagaki of the Imperial Japanese Army",
+   "to": "Secretary of State, Washington, D.C."
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 15048,
+   "output_tokens": 7081,
+   "thinking_tokens": 5327,
+   "cache_read_tokens": 0,
+   "total_tokens": 22129
+  },
+  "backend": "agy",
+  "seconds": 24.9,
+  "identifier": "japan-internal-affairs-894.20260c-military-affairs-army-2",
+  "file": "894.20260C Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Poland Including Gathering Of Information. Espionage. Propaganda., Februar 806.pdf",
+  "created": "2026-09-29 02:52:56"
+ }
+}

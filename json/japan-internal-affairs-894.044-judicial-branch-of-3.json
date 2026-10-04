@@ -1,0 +1,87 @@
+{
+ "interest": "U.S. tracking of Japan's jury law and wartime emergency measures.",
+ "keywords": [
+  "Japan",
+  "Department of State",
+  "Form DS-46",
+  "List of Papers",
+  "Laws and statutes",
+  "Trial by jury",
+  "1923 jury law",
+  "Wartime measures",
+  "Extraordinary measures",
+  "Military Attaché",
+  "Moscow",
+  "W. Averell Harriman"
+ ],
+ "overview": "Docket for 894.044 listing a 1940 report on Japan's jury law and Harriman's 1944 telegrams on wartime measures.",
+ "people": [
+  {
+   "name": "W. Averell Harriman",
+   "role": "U.S. Ambassador to the Soviet Union",
+   "variants": [
+    "Harpman"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "USSH"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department list of papers indexing records on Japanese laws, jury trial legislation, and wartime extraordinary measures between 1940 and 1944.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Department of State",
+    "Form DS-46",
+    "List of Papers",
+    "Laws - Japan",
+    "trial by jury",
+    "wartime measures",
+    "extraordinary measures",
+    "Military Attaché",
+    "Moscow"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.044: 1940 jury law report and two 1944 Moscow telegrams on wartime measures.",
+   "title": "Department of State List of Papers: Laws - Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13812,
+   "output_tokens": 6424,
+   "thinking_tokens": 5548,
+   "cache_read_tokens": 0,
+   "total_tokens": 20236
+  },
+  "backend": "agy",
+  "seconds": 22.7,
+  "identifier": "japan-internal-affairs-894.044-judicial-branch-of-3",
+  "file": "894.044 Judicial Branch Of Government., Japan, Laws. Statutes. Ordnances. Decrees. Codes. Procedures.,  112.pdf",
+  "created": "2026-09-28 22:49:25"
+ }
+}

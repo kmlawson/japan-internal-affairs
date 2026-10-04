@@ -1,0 +1,99 @@
+{
+ "overview": "The file consists of an archival withdrawal notice and a Department of State transmittal concerning a Strategic Services Unit report on the Japanese newspaper Asahi Shimbun. The original report, dated December 27, 1945, was removed from the file in 1976 because it contained security-classified information and is therefore not present. The surviving transmittal shows that the Secretary of State sent a copy of the report to the Acting United States Political Adviser to the Supreme Commander for the Allied Powers in Tokyo in early January 1946.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JA"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "F. Cherp",
+   "role": "Department of State staff member associated with preparation or processing of the transmittal",
+   "variants": [
+    "F/Cherp"
+   ]
+  }
+ ],
+ "keywords": [
+  "Asahi Shimbun",
+  "Japanese press",
+  "news-gathering agencies",
+  "dissemination of news",
+  "Strategic Services Unit",
+  "Supreme Commander for the Allied Powers",
+  "Department of State",
+  "Tokyo",
+  "security-classified information",
+  "archival withdrawal",
+  "Allied occupation of Japan",
+  "press intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Withdrawal notice for classified Strategic Services Unit report",
+   "doc_type": "withdrawal notice",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1976-04-20",
+   "from": "Central Intelligence Agency/Special Security Office; General Services Administration",
+   "to": "National Archives file 894.91254/12-2745",
+   "about": "This notice records the removal of the December 27, 1945 item because it contains security-classified information.",
+   "summary": "The notice identifies a loose document dated December 27, 1945, formerly filed as 894.91254/12-2745, and states that it was transferred to restricted location L 4-10,055. It was withdrawn because it contains security-classified information. The removal was recorded by CIA/SSO on April 20, 1976, using GSA Form 7117.",
+   "keywords": [
+    "withdrawal notice",
+    "classified information",
+    "access restriction",
+    "National Archives",
+    "CIA/SSO",
+    "General Services Administration",
+    "894.91254/12-2745"
+   ]
+  },
+  {
+   "title": "State Department transmittal of report on Asahi Shimbun",
+   "doc_type": "letter of transmittal",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1946-01-07",
+   "from": "Secretary of State",
+   "to": "Acting United States Political Adviser to the Supreme Commander for the Allied Powers, Tokyo",
+   "about": "The Secretary of State transmits a Strategic Services Unit report concerning Asahi Shimbun to the Acting Political Adviser in Tokyo.",
+   "summary": "Transmittal No. 61 forwards, for the Acting Political Adviser’s information, a copy of a Strategic Services Unit report dated December 27, 1945, regarding Asahi Shimbun. The referenced enclosure is the security-classified item documented as withdrawn on page 1 and is absent from the file. Although the stamp is OCRed as “JAN 7 1945,” the January 4, 1946 preparation notation makes January 7, 1946 the evident date.",
+   "keywords": [
+    "Asahi Shimbun",
+    "Strategic Services Unit",
+    "Secretary of State",
+    "SCAP",
+    "Political Adviser",
+    "Tokyo",
+    "intelligence report",
+    "press"
+   ]
+  }
+ ],
+ "interest": "The file is useful chiefly for documenting the existence, circulation, and later archival restriction of an otherwise unavailable Strategic Services Unit report on Asahi Shimbun. It demonstrates how wartime or occupation intelligence about the Japanese press moved from an intelligence body through the State Department to the American political apparatus under SCAP. The withdrawal sheet also provides a concise record of changing access controls and declassification review practices, while the surviving routing notation helps date the transmittal despite an apparent OCR error in the stamped year.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 37.2,
+  "identifier": "japan-internal-affairs-894.91254-public-press-news",
+  "file": "894.91254 Public Press., News-Gathering Agencies. Dissemination Of News.** Nationality. %A0%A0 Field Of Operation., December 27, 1945 1503.pdf",
+  "created": "2026-09-29 04:27:07"
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "overview": "A one-page Office of Far Eastern Affairs memorandum dated June 21, 1944, prepared in response to requests from Joseph W. Ballantine and Joseph C. Grew, catalogues submarine telegraph cables connecting wartime Japan with the wider world. It distinguishes foreign-owned lines from cables owned or operated by the Japanese government and identifies their overseas origins, intermediate points, and Japanese landing stations. The memorandum also notes a former German cable running through Guam and Yap whose ownership remained unsettled.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Midway Atoll",
+   "variants": [
+    "Midway"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonin"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Wusong",
+   "variants": [
+    "Woosung"
+   ]
+  },
+  {
+   "name": "Gutzlaff Island",
+   "variants": [
+    "Gutzlaff Is."
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Baoshan, Shanghai",
+   "variants": [
+    "Paoshan"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "Yangtze"
+   ]
+  },
+  {
+   "name": "Sharp Peak",
+   "variants": [
+    "Sharp Peak"
+   ]
+  },
+  {
+   "name": "Fuzhou",
+   "variants": [
+    "Foochow"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Busan",
+   "variants": [
+    "Fusan"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonaki"
+   ]
+  },
+  {
+   "name": "Wonsan",
+   "variants": [
+    "Gensan"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "Matsuya"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtau"
+   ]
+  },
+  {
+   "name": "Yap",
+   "variants": [
+    "Yap"
+   ]
+  },
+  {
+   "name": "Naha",
+   "variants": [
+    "Nawa"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "State Department official in the Office of Far Eastern Affairs",
+   "variants": [
+    "Mr. Ballantine"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "Former U.S. Ambassador to Japan and State Department official for whom the information was requested",
+   "variants": [
+    "Mr. Grew"
+   ]
+  },
+  {
+   "name": "Woodard",
+   "role": "Official credited in the memorandum's drafting or preparation line",
+   "variants": [
+    "Woodard"
+   ]
+  }
+ ],
+ "keywords": [
+  "submarine telegraph cables",
+  "international communications",
+  "Japan",
+  "Office of Far Eastern Affairs",
+  "Japanese government",
+  "foreign-owned cables",
+  "cable landing stations",
+  "Commercial Pacific Cable Company",
+  "Great Northern Telegraph Company",
+  "wartime communications",
+  "telecommunications infrastructure",
+  "former German cable",
+  "East Asia",
+  "Pacific Ocean"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum on marine cables entering Japan",
+   "doc_type": "memorandum",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1944-06-21",
+   "from": "Office of Far Eastern Affairs; Woodard",
+   "to": "Joseph W. Ballantine",
+   "about": "The memorandum lists foreign-owned and Japanese-operated submarine cables entering Japan and identifies their routes and landing points.",
+   "summary": "Prepared as information requested for Joseph C. Grew, the memorandum inventories marine telegraph connections between Japan and locations across the Pacific and East Asia. It separates lines belonging to the Commercial Pacific Cable Company and Great Northern Telegraph Company from those owned or operated by the Japanese government or jointly by the Chinese and Japanese governments. It also records a former German cable from Guam through Yap to Naha, noting that its ownership had never been settled.",
+   "keywords": [
+    "marine cables",
+    "Japan",
+    "cable routes",
+    "landing points",
+    "Office of Far Eastern Affairs",
+    "Joseph C. Grew",
+    "Joseph W. Ballantine",
+    "Japanese government",
+    "Pacific communications",
+    "former German cable"
+   ]
+  }
+ ],
+ "interest": "The memorandum provides a compact snapshot of the physical infrastructure that connected Japan to the international communications network during the Pacific War. Its route-by-route detail is useful for reconstructing strategic cable geography, including links involving colonial-era place names and Japanese landing stations. The distinction among foreign, Japanese, joint Chinese-Japanese, and unresolved former German ownership also illuminates how successive imperial regimes shaped the region's telecommunications system.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 48.5,
+  "identifier": "japan-internal-affairs-894.7300-communication-between-japan",
+  "file": "894.7300 Communication Between Japan And The World. Use Smaller Number Of Country For **., June 21, 1944 1432.pdf",
+  "created": "2026-09-29 08:27:02"
+ }
+}

@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Japan Internal Affairs 1930–1949</title>
+<style>
+:root{--era1:#0f766e;--era2:#b45309;--era3:#4d7c0f;--bg:#f8f5fc;--panel:#fff;--ink:#221b2e;--muted:#6c6280;--line:#e4dcef;--accent:#6b2fa3;--accent2:#4a1f75;--chip:#efe8f8;--hl:#f6e27a;--head:#fff;--band:#6b2fa3;--bandink:#fff}
+body.detail{--bg:#ece3f7;--panel:#fcfaff;--line:#d6c8ea;--chip:#e3d6f3;--head:#f4eefb}
+@media (prefers-color-scheme:dark){
+ :root:not([data-theme=light]){--era1:#2dd4bf;--era2:#f59e0b;--era3:#a3e635;--bg:#15111c;--panel:#1e1828;--ink:#ece6f5;--muted:#a79cb8;--line:#342b42;--accent:#c39bf0;--accent2:#e0c8ff;--chip:#2c2439;--hl:#6b5a14;--head:#1e1828;--band:#3a2358;--bandink:#f1e8ff}
+ :root:not([data-theme=light]) body.detail{--bg:#231833;--panel:#2a1f3b;--line:#443659;--chip:#3a2d4e;--head:#2a1f3b}}
+:root[data-theme=dark]{--era1:#2dd4bf;--era2:#f59e0b;--era3:#a3e635;--bg:#15111c;--panel:#1e1828;--ink:#ece6f5;--muted:#a79cb8;--line:#342b42;--accent:#c39bf0;--accent2:#e0c8ff;--chip:#2c2439;--hl:#6b5a14;--head:#1e1828;--band:#3a2358;--bandink:#f1e8ff}
+:root[data-theme=dark] body.detail{--bg:#231833;--panel:#2a1f3b;--line:#443659;--chip:#3a2d4e;--head:#2a1f3b}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Georgia,"Iowan Old Style",serif;transition:background .2s}
+header{border-bottom:1px solid var(--line);background:var(--head);position:sticky;top:0;z-index:5}
+.band{height:4px;background:var(--band)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+.top{display:flex;gap:12px;align-items:center;padding:12px 0 8px}
+h1{font-size:18px;margin:0;font-weight:600;flex:1;min-width:0}
+h1 a{color:var(--accent2);text-decoration:none}
+nav{display:flex;gap:16px;overflow-x:auto;white-space:nowrap;padding-bottom:8px;scrollbar-width:none}
+nav a{color:var(--muted);text-decoration:none;font:14px system-ui,sans-serif;padding:2px 0;border-bottom:2px solid transparent}
+nav a.on{color:var(--accent);font-weight:600;border-bottom-color:var(--accent)}
+.search{display:flex;gap:8px;flex-wrap:wrap;padding:6px 0 14px}
+input,select{font:14px system-ui,sans-serif;padding:9px 10px 8px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);min-height:38px}
+input:focus,select:focus{outline:2px solid var(--accent);outline-offset:-1px}
+input[type=search]{flex:1;min-width:220px}
+main{padding:26px 0 60px}
+.meta{color:var(--muted);font:13px system-ui,sans-serif}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:0 0 12px}
+.card h2{font-size:16px;margin:0 0 4px;font-weight:600;overflow-wrap:anywhere}
+.card h2 a{color:var(--ink);text-decoration:none}.card h2 a:hover{color:var(--accent)}
+body.detail .card{border-top:4px solid var(--accent)}
+body.detail .card>h2{font-size:19px;color:var(--accent2)}
+.back{display:inline-block;margin:0 0 10px;font:14px system-ui,sans-serif;text-decoration:none}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0}
+.pgpill{display:inline-block;border-radius:999px;padding:0 8px;font:600 12px/1.65 system-ui,sans-serif;white-space:nowrap;background:hsl(calc(332 - var(--t)*22) calc(90% + var(--t)*10%) calc(91% - var(--t)*51%));color:#7a1452}
+.pgpill.hi{color:#fff}
+.pgpill.one{background:#e4e1e7;color:#55505c}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root:not([data-theme=light]) .pgpill.one{background:#3b3542;color:#c9c2d3}}
+:root[data-theme=dark] .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root[data-theme=dark] .pgpill.one{background:#3b3542;color:#c9c2d3}
+[data-mk].sel{outline:3px solid var(--era1);outline-offset:2px}
+[data-mk].mkd{box-shadow:inset 5px 0 0 var(--era1)}
+.chip.utag{background:var(--era1);color:#fff;font-weight:600}
+#mkbar{position:fixed;left:16px;bottom:16px;z-index:60;display:flex;flex-wrap:wrap;gap:8px;align-items:center;max-width:calc(100vw - 32px);padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--panel);box-shadow:0 6px 24px rgba(0,0,0,.18);font:13px system-ui,sans-serif}
+#mkbar[hidden]{display:none}
+#mkbar .n{color:var(--muted);margin-right:2px}
+.mkbtn{background:var(--era1);color:#fff;border-color:var(--era1);font-weight:600}
+#mkbar input{font:14px system-ui,sans-serif;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);min-width:0;flex:1 1 180px}
+#mkbar form{display:flex;gap:6px;flex:1 1 100%}
+#mkbar form[hidden]{display:none}
+.unote{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 14px;padding:10px 12px;border-radius:8px;background:var(--chip);border-left:4px solid var(--era1);font:14px system-ui,sans-serif}
+.unote span{flex:1 1 240px}
+.ucloud{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline;line-height:1.3}
+.ucloud a{color:var(--era1);text-decoration:none;font-family:system-ui,sans-serif;font-weight:600}
+.ucloud a.on{text-decoration:underline}
+.ucloud b{font-size:11px;color:var(--muted);font-weight:400;margin-left:2px}
+.urow{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-top:1px solid var(--line)}
+.urow>div{flex:1;min-width:0}
+.urow.mkd{padding-left:12px}
+.urow button{flex:none;min-height:30px;padding:3px 10px;font-size:13px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .chip.utag,:root:not([data-theme=light]) .mkbtn{color:#15111c}}
+:root[data-theme=dark] .chip.utag,:root[data-theme=dark] .mkbtn{color:#15111c}
+.chip{background:var(--chip);border-radius:12px;padding:2px 9px;font:12.5px system-ui,sans-serif;color:var(--ink);text-decoration:none;cursor:pointer;border:0}
+.chip b{color:var(--accent);font-weight:600;margin-left:4px}
+.chip:hover{outline:1px solid var(--accent)}
+mark{background:var(--hl);color:inherit;border-radius:2px}
+.sub{border-top:1px solid var(--line);padding:12px 0}
+.sub h3{font-size:15px;margin:0 0 2px}
+.sub h3 a{color:var(--accent2);text-decoration:none}.sub h3 a:hover{text-decoration:underline}
+.label{font:600 12px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--accent);margin:18px 0 4px}
+a{color:var(--accent)}
+.cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:4px 16px}
+.cols a{text-decoration:none;color:var(--ink);font-size:14px}.cols a:hover{color:var(--accent)}
+.cols span{color:var(--muted);font:12px system-ui,sans-serif}
+.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:0 0 14px;padding-top:4px}.toolbar .meta{flex:1;min-width:180px}.toolbar #rev{min-width:38px;padding:7px 0;font-size:16px;line-height:1}
+.toolbar label{font:13px system-ui,sans-serif;color:var(--muted);display:flex;gap:6px;align-items:center}
+@media (max-width:640px){.toolbar label{flex:1}.toolbar select{flex:1}}
+.pager{display:flex;gap:8px;align-items:center;margin:16px 0;flex-wrap:wrap}
+button{font:14px system-ui,sans-serif;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);cursor:pointer;min-height:38px}
+button:disabled{opacity:.4;cursor:default}
+.sp-modes{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:6px 0 8px;font:13px system-ui,sans-serif}
+.sp-modes .lbl{color:var(--muted);margin-right:2px}
+.sp-modes button{min-height:36px;padding:6px 14px;border-radius:999px}
+.sp-modes button.on{background:var(--accent);color:var(--bandink);border-color:var(--accent)}
+.sp-modes select{margin-left:auto;font:13px system-ui,sans-serif;min-height:36px;max-width:42%}
+.sp-warn{margin:0 0 8px;padding:8px 12px;border-radius:8px;background:var(--chip);border-left:4px solid #c0392b;font:13.5px/1.45 system-ui,sans-serif}
+.sp-view{position:relative;border:1px solid var(--line);border-radius:8px;background:var(--bg);height:78vh;overflow:auto;-webkit-overflow-scrolling:touch}
+.sp-pgbar{position:sticky;top:0;z-index:2;padding:5px 12px;border-bottom:1px solid var(--line);background:var(--chip);font:600 12px system-ui,sans-serif;color:var(--muted)}
+.sp-pgbar a{margin-left:8px;font-weight:400}
+.sp-row{display:grid;gap:0;border-bottom:3px solid var(--line)}
+.sp-row.n2{grid-template-columns:1fr 1fr}
+.sp-cell{min-width:0;padding:10px 12px;border-right:1px solid var(--line)}.sp-cell:last-child{border-right:0}
+.sp-cell .tag{display:block;font:600 11px system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--accent2);margin-bottom:6px}
+.sp-raw{font:13px/1.5 ui-monospace,Menlo,Consolas,monospace;white-space:pre-wrap;overflow-wrap:anywhere}
+.sp-clean{font:15px/1.55 Georgia,serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.sp-cell img{display:block;width:100%;height:auto;min-height:160px;background:var(--chip);border:1px solid var(--line)}
+.sp-parent{margin:8px 0 0;padding:8px 12px;border-radius:8px;background:var(--chip);border-left:4px solid var(--accent);font:14px system-ui,sans-serif}
+@media (max-width:820px){.sp-row.n2{grid-template-columns:1fr}.sp-cell{border-right:0;border-bottom:1px dashed var(--line)}.sp-cell:last-child{border-bottom:0}.sp-view{height:72vh}.sp-modes select{max-width:none;margin-left:0;flex:1 0 100%}}
+.theme{flex:none}
+.infile{margin:14px 0 4px;padding:10px 12px;border-radius:8px;background:var(--chip);border-left:4px solid var(--accent);font:14px system-ui,sans-serif}
+.chip.on{background:var(--accent);color:var(--bandink)}
+.sub.nomatch{padding:5px 0;opacity:.6;font-size:13.5px}.sub.nomatch a{color:var(--ink);text-decoration:none}.sub.nomatch a:hover{color:var(--accent)}
+.sub.onpage{background:var(--chip);margin:0 -10px;padding:12px 10px;border-radius:8px}
+.ftx{font-size:14.5px}
+.subhit{font-size:14px;margin:6px 0 0;padding-left:10px;border-left:2px solid var(--accent)}
+p{overflow-wrap:break-word}
+@media (max-width:640px){
+ body{font-size:15.5px}
+ header{position:static}
+ h1{font-size:15.5px;line-height:1.3}
+ .search{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+ .search input[type=search]{grid-column:1/-1;min-width:0;font-size:16px}
+ .search select{width:100%;min-width:0;font-size:15px}
+ #reset{grid-column:1/-1}
+ .card{padding:12px;border-radius:8px}
+ .card h2{font-size:15px}
+ body.detail .card>h2{font-size:17px}
+ .cols{grid-template-columns:1fr 1fr}
+ .chip{font-size:13px;padding:3px 10px}
+}
+.linklike{background:none;border:0;padding:0;color:var(--accent);text-decoration:underline;cursor:pointer;font:inherit}
+.grouphits{margin-top:8px}.grouphits .card{border:0;border-top:1px solid var(--line);border-radius:0;padding:10px 0 2px;margin:0}.grouphits .card h2{font-size:14px}.grouphits .pager{margin:8px 0 0}
+.cardhead{display:flex;gap:10px;align-items:flex-start;justify-content:space-between}
+.cardhead h2{flex:1;min-width:0}
+.datebub{flex:none;background:var(--era1);color:#fff;font:600 12px/1 ui-monospace,Menlo,monospace;padding:5px 9px;border-radius:999px;white-space:nowrap;margin-top:1px}
+.datebub.e2{background:var(--era2)}.datebub.e3{background:var(--era3)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .datebub{color:#15111c}}:root[data-theme=dark] .datebub{color:#15111c}
+@media (max-width:640px){.cardhead{flex-direction:column-reverse;gap:6px}.datebub{align-self:flex-end}}
+</style>
+</head>
+<body>
+<header><div class="band"></div><div class="wrap">
+ <div class="top">
+  <h1><a href="#">Records of the Department of State Relating to Internal Affairs of Japan, 1930–1949</a></h1>
+  <button class="theme" id="theme" title="Toggle light/dark">◐</button>
+ </div>
+ <nav><a href="#" data-v="files">Files</a><a href="#people" data-v="people">People</a><a href="#places" data-v="places">Places</a><a href="#keywords" data-v="keywords">Keywords</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#spotlight" data-v="spotlight">Spotlight</a><a href="#about" data-v="about">About</a><a href="#marked" data-v="marked">View Marked</a><a href="#tags" data-v="tags">View Tags</a></nav>
+ <div class="search" id="searchbar">
+  <input type="search" id="q" placeholder="Search titles, summaries, people, places, keywords…">
+  <select id="cls"><option value="">All subjects</option></select>
+  <select id="yr"><option value="">All years</option></select>
+  <button id="reset" type="button" title="Clear search, filters and sorting">Reset</button>
+ </div>
+</div></header>
+<main class="wrap" id="main"></main>
+<script src="data.js"></script>
+<script src="spotlight-data.js"></script>
+<script>
+const D = window.CATALOG || [], EXPECTED = window.CATALOG_EXPECTED || D.length;
+const $ = s => document.querySelector(s), main = $('#main');
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const IA = id => 'https://archive.org/details/' + id;
+const IAX = x => IA(x.ia || x.id);
+// archive.org page links: /details/<item>/page/n<leaf>. Items holding several PDFs (split files) need the PDF's
+// name WITHOUT ".pdf" before /page/ to pick the part; with ".pdf" the viewer does not load.
+const iaBook = (ia, iaf, id) => IA(ia || id) + (iaf && /-part-\d+$/.test(id) ? '/' + encodeURIComponent(iaf.replace(/\.pdf$/i, '')) : '');
+const IAP = (x, p) => iaBook(x.ia, x.iaf, x.id) + '/page/n' + ((p||1) - 1);
+const PDF = f => '../' + encodeURIComponent(f);
+const CLASSES = {'00':'Political affairs','01':'Government','02':'Executive','03':'Legislature','04':'Judiciary & law','05':'International courts',
+ '1':'Public order, health & regulation','2':'Military','3':'Naval','4':'Social & cultural','5':'Economic & financial','6':'Industry & agriculture',
+ '7':'Communications & transport','8':'Navigation & shipping','9':'Press & science'};
+function cls(dec){const m=dec.match(/^89\d[A-Z]?\.(\d+)/); if(!m) return 'Other (outside 894)'; const n=m[1];
+ if(n[0]==='0') return CLASSES[n.slice(0,2)] || 'Political affairs'; return CLASSES[n[0]] || 'Other';}
+const years = x => { const ys = (x.t.match(/\b19[1-5]\d\b/g) || []).map(Number); return ys.length ? [Math.min(...ys), Math.max(...ys)] : null; };
+D.forEach(x => { x.c = cls(x.dec); x.y = years(x);
+  x.blob = [x.t, x.o, x.i, x.k.join(' '), x.pl.map(p=>p[0]).join(' '), x.pe.map(p=>p[0]+' '+p[1]).join(' '),
+    x.sub.map(s => [s.t, s.a, s.s, s.fr, s.to, s.k.join(' ')].join(' ')).join(' ')].join(' ').toLowerCase(); });
+
+// filters
+[...new Set(D.map(x => x.c))].sort().forEach(c => $('#cls').insertAdjacentHTML('beforeend', `<option>${esc(c)}</option>`));
+$('#yr').insertAdjacentHTML('beforeend', '<optgroup label="Periods">' + ['1930-1935','1936-1940','1941-1945','1946-1949','1930-1941']
+  .map(r => `<option value="${r}">${r.replace('-','–')}</option>`).join('') + '</optgroup><optgroup label="Single years">');
+for (let y = 1920; y <= 1953; y++) if (D.some(x => x.y && x.y[0] <= y && y <= x.y[1])) $('#yr optgroup:last-child').insertAdjacentHTML('beforeend', `<option value="${y}-${y}">${y}</option>`);
+
+const MONS=['january','february','march','april','may','june','july','august','september','october','november','december'];
+function titleDates(t){ const out=[]; const rx=/\b(January|February|March|April|May|June|July|August|September|October|November|December)(?:\s+(\d{1,2})(?:st|nd|rd|th)?)?,\s*(\d{4})\b/g; let m;
+  while((m=rx.exec(t))) out.push(m[3]+'.'+String(MONS.indexOf(m[1].toLowerCase())+1).padStart(2,'0')+(m[2]?'.'+m[2].padStart(2,'0'):''));
+  return out.length ? out.slice(0,2).join(' – ') : ''; }
+function era(db){ const d = db.split(' – ')[0].split('.').map(Number); const v = d[0]*10000 + d[1]*100 + (d[2]||0);
+  return v < 19411200 ? ['e1','Pre-war (to November 1941)'] : v <= 19450815 ? ['e2','Pacific War (December 1941 – 15 August 1945)'] : ['e3','Occupation (from 16 August 1945)']; }
+const S = {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'};
+function terms(){ return S.q.toLowerCase().match(/"[^"]+"|\S+/g)?.map(t => t.replace(/"/g,'')) || []; }
+function hl(s, extra=[]){ let out = esc(s); for (const t of [...terms(), ...extra]) if (t.length > 1) out = out.replace(new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'), '<mark>$1</mark>'); return out; }
+function filtered(){
+  const ts = terms();
+  let r = D.filter(x => x.pg >= S.minpg && (!S.cls || x.c === S.cls) && (!S.yr || (x.y && x.y[0] <= +S.yr.split('-')[1] && +S.yr.split('-')[0] <= x.y[1]))
+    && ts.every(t => x.blob.includes(t)));
+  if (S.facet){ const [k,v] = S.facet; r = r.filter(x => k==='pe' ? x.pe.some(p=>p[0]===v) : k==='pl' ? x.pl.some(p=>p[0]===v)
+      : x.k.includes(v) || x.sub.some(s => s.k.includes(v))); }
+  const hits = x => ts.reduce((n,t) => n + x.blob.split(t).length - 1, 0);
+  const yr = x => x.y ? x.y[0] : 9999;
+  const key = {year: x => [yr(x), x.d || '9999', x.n], title: x => [x.t.replace(/^\S+\s+/,'').toLowerCase(), x.n], pages: x => [-x.pg, x.n],
+    docs: x => [-x.sub.length, x.n], subject: x => [x.c, x.dec, yr(x), x.n], dec: x => [x.dec, yr(x), x.n], hits: x => [-hits(x), x.n]}[S.sort];
+  r.sort((a,b) => { const A = key(a), B = key(b); for (let i=0;i<A.length;i++){ if (A[i]<B[i]) return -1; if (A[i]>B[i]) return 1;} return 0; });
+  return S.rev ? r.reverse() : r;
+}
+const inFile = (x, kind, v) => `#d/${x.id}/${kind}/${encodeURIComponent(v)}`;
+let CUR = null;  // [kind, value] of the in-file search on the detail page
+const on = (kind, v) => CUR && CUR[0] === kind && CUR[1] === v ? ' on' : '';
+function chipsPe(x, n=8){ return x.pe.slice(0,n).map(p => `<a class="chip${on('pe',p[0])}" href="${inFile(x,'pe',p[0])}" title="${esc(p[1])}">${esc(p[0])}${p[2]>3?`<b>${p[2]}</b>`:''}</a>`).join(''); }
+function chipsPl(x, n=8){ return x.pl.slice(0,n).map(p => `<a class="chip${on('pl',p[0])}" href="${inFile(x,'pl',p[0])}">${esc(p[0])}${p[1]>3?`<b>${p[1]}</b>`:''}</a>`).join(''); }
+function chipsK(x, ks){ return ks.map(k => `<a class="chip${on('k',k)}" href="${inFile(x,'k',k)}">${esc(k)}</a>`).join(''); }
+// words to look for when searching a file for a person / place / keyword
+function searchTerms(kind, v){
+  const t = [v];
+  if (kind === 'pe'){ const w = v.replace(/[.,]/g,' ').split(/\s+/).filter(Boolean).filter(w => !/^(jr|sr|ii|iii|mr|mrs|dr|prince|baron|count|marquis|viscount|general|admiral|colonel|major|captain)$/i.test(w));
+    const last = w[w.length-1]; if (last && last.length >= 4 && last.toLowerCase() !== v.toLowerCase()) t.push(last); }
+  if (kind === 'pl' && v.includes(',')) t.push(v.split(',')[0].trim());
+  return t.map(w => w.toLowerCase());
+}
+
+function listView(){
+  const r = filtered(), per = S.per, pages = Math.ceil(r.length/per); S.page = Math.min(S.page, Math.max(0,pages-1));
+  const ts = terms();
+  const facetNote = S.facet ? `<p class="meta">Filtered by ${ {pe:'person',pl:'place',k:'keyword'}[S.facet[0]] }: <b>${esc(S.facet[1])}</b> — <a href="#">clear</a></p>` : '';
+  const opt = (v,l,cur) => `<option value="${v}"${String(cur)===String(v)?' selected':''}>${l}</option>`;
+  main.innerHTML = facetNote + `<div class="toolbar"><span class="meta">${r.length} of ${D.length} files${D.length < EXPECTED ? ' (cataloguing in progress: '+D.length.toLocaleString()+' of '+EXPECTED.toLocaleString()+' done)' : ''}</span>
+    <label>Sort <select id="sort">${[['year','Year'],['title','Title'],['pages','Number of pages'],['docs','Number of documents'],['subject','Subject'],['dec','Decimal number'],['hits','Relevance (search)']].map(([v,l])=>opt(v,l,S.sort)).join('')}</select>
+      <button id="rev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${S.rev ? '↑' : '↓'}</button></label>
+    <label>Min. pages <select id="minpg">${[[0,'Any'],[2,2],[4,4],[6,6],[10,10],[20,20],[50,50],[100,100]].map(([v,l])=>opt(v,l,S.minpg)).join('')}</select></label>
+    <label>Show <select id="per">${[50,100,200,500,1000].map(n=>opt(n,n,S.per)).join('')}</select></label></div>` +
+    r.slice(S.page*per, S.page*per+per).map(x => {
+      const subhits = ts.length ? x.sub.filter(s => ts.every(t => [s.t,s.a,s.s,s.k.join(' ')].join(' ').toLowerCase().includes(t))).slice(0,3) : [];
+      const db = titleDates(x.t);
+      return `<div class="card" data-mk="f|${esc(x.id)}"><div class="cardhead"><h2><a href="#d/${x.id}">${hl(x.t)}</a></h2>${db?`<span class="datebub ${era(db)[0]}" title="${era(db)[1]}">${db}</span>`:''}</div>
+      <div class="meta">${esc(x.c)} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} · <a href="${IAX(x)}" target="_blank">archive.org</a></div>
+      <p>${hl(x.o)}</p>${subhits.map(s => `<div class="subhit"><b>${hl(s.t)}</b> <span class="meta">${esc(s.d)} · pp. ${s.p[0]}–${s.p[1]}</span><br>${hl(s.a)}</div>`).join('')}
+      <div class="chips">${chipsU('f|'+x.id)}${chipsPe(x,6)}${chipsPl(x,6)}</div></div>`; }).join('') +
+    (pages > 1 ? `<div class="pager"><button id="prev" ${S.page?'':'disabled'}>← Prev</button><span class="meta">Page ${S.page+1} of ${pages}</span><button id="next" ${S.page<pages-1?'':'disabled'}>Next →</button></div>` : '');
+  $('#sort').addEventListener('change', e => { S.sort = e.target.value; S.page = 0; listView(); });
+  $('#rev').addEventListener('click', () => { S.rev = !S.rev; S.page = 0; listView(); });
+  $('#minpg').addEventListener('change', e => { S.minpg = +e.target.value; S.page = 0; listView(); });
+  $('#per').addEventListener('change', e => { S.per = +e.target.value; S.page = 0; listView(); });
+  $('#prev')?.addEventListener('click', () => { S.page--; listView(); scrollTo(0,0); });
+  $('#next')?.addEventListener('click', () => { S.page++; listView(); scrollTo(0,0); });
+}
+function detailView(id, kind, term){
+  const x = D.find(x => x.id === id); if (!x){ main.innerHTML = '<p>Not found.</p>'; return; }
+  const pgN = kind === 'pg' ? +term : null; if (pgN) { kind = null; term = null; }
+  CUR = term ? [kind, term] : null;
+  const ts = term ? searchTerms(kind, term) : [];
+  const hit = s => ts.some(t => [s.t, s.a, s.s, s.fr, s.to, s.k.join(' ')].join(' ').toLowerCase().includes(t)) || (kind === 'k' && s.k.includes(term));
+  const hits = x.sub.filter(hit).length;
+  const H = str => hl(str, ts);
+  const banner = term ? `<div class="infile">Searching this file for <b>${esc(term)}</b> <span class="meta">(${ {pe:'person',pl:'place',k:'keyword'}[kind] })</span>:
+     ${hits} of ${x.sub.length} documents mention it. <a href="#d/${x.id}">Clear</a></div>` : '';
+  main.innerHTML = `<a class="back" href="javascript:history.length>1?history.back():location.hash=''">← Back to files</a><div class="card" data-mk="f|${esc(x.id)}"><h2>${esc(x.t)}</h2>
+   <div class="meta">${esc(x.c)} · decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} ·
+   <a href="${IAX(x)}" target="_blank">archive.org</a></div>
+   ${banner}
+   <div class="label">Overview</div><p>${H(x.o)}</p>
+   ${x.sk ? (chipsU('f|'+x.id) ? `<div class="label">Your tags</div><div class="chips">${chipsU('f|'+x.id)}</div>` : '') + '<p class="meta">The full text of this file is searchable under Full-text search.</p></div>' : `<div class="label">What is interesting, unique or useful</div><p>${H(x.i)}</p>
+   <div class="label">Keywords</div><div class="chips">${chipsU('f|'+x.id)}${chipsK(x, x.k)}</div>
+   <div class="label">People</div><div class="chips">${chipsPe(x, 9999) || '<span class="meta">none</span>'}</div>
+   <div class="label">Places</div><div class="chips">${chipsPl(x, 9999) || '<span class="meta">none</span>'}</div>
+   <div class="label">Documents in this file${term ? ` — ${hits} mention ${esc(term)}` : ''}</div>
+   ${x.sub.map((s,i) => (!term || hit(s)) ? `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub${term ? ' match' : ''}${pgN && s.p[0] <= pgN && pgN <= s.p[1] ? ' onpage' : ''}"><h3><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${H(s.t)}</a></h3>
+     <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a href="${IAP(x, s.p[0])}" target="_blank">pp. ${s.p[0]}–${s.p[1]}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''}</div>
+     <p><i>${H(s.a)}</i></p><p>${H(s.s)}</p><div class="chips">${chipsU(`s|${x.id}|${i+1}`)}${chipsK(x, s.k)}</div></div>`
+     : `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub nomatch"><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${esc(s.t)}</a> <span class="meta">${esc(s.d)} · pp. ${s.p[0]}–${s.p[1]}</span></div>`).join('')}
+  </div>`}<p class="meta">Catalogue entries are machine-generated from OCR text and may contain errors. Mention counts are shown when greater than 3.</p>`;
+  if (term) document.querySelector('.infile')?.scrollIntoView({block: 'center'});
+  if (pgN) document.querySelector('.sub.onpage')?.scrollIntoView({block: 'center'});
+}
+// ---- full-text search of the OCR pages (Pagefind index in pagefind/) ----
+let PF = null, FTQ = 0;
+async function getPF(){
+  if (PF) return PF;
+  PF = await import('./pagefind/pagefind.js');
+  await PF.options({ excerptLength: 45 }); PF.init(); return PF;
+}
+function yearList(r){ if (!r) return null; const [a,b] = r.split('-').map(Number); const o = []; for (let y=a; y<=b; y++) o.push(String(y)); return o; }
+async function ftView(){
+  const q = S.q.trim(), token = ++FTQ;
+  if (location.protocol === 'file:'){ main.innerHTML = `<div class="card"><h2>Full-text search</h2><p>Full-text search works when the site is served from a web server. To try it on this computer, run <code>python3 -m http.server</code> in this folder and open <code>http://localhost:8000</code>.</p></div>`; return; }
+  if (!q){ main.innerHTML = `<div class="card"><h2>Full-text search</h2><p>Search the OCR text of every page (${D.length ? 'about ' + (Math.round(D.reduce((n,x)=>n+x.pg,0)/1000)*1000).toLocaleString() + ' pages' : ''}). Use the box above; the subject and year menus narrow the results. Results link to the page on archive.org and to the file's catalogue entry.</p>
+    <p class="meta">The text is machine OCR and contains misreadings, so try variant spellings. Wrap a phrase in "quotes" to match it exactly.</p></div>`; return; }
+  main.innerHTML = `<p class="meta">Searching…</p>`;
+  let pf; try { pf = await getPF(); } catch(e){ main.innerHTML = `<p class="meta">Full-text index could not be loaded.</p>`; return; }
+  const filters = {}; if (S.cls) filters.subject = S.cls; if (S.yr) filters.year = { any: yearList(S.yr) };
+  const DM = new Map(D.map(x => [x.id, x]));
+  const opt = (v, l, cur) => `<option value="${v}"${v === cur ? ' selected' : ''}>${l}</option>`;
+  const dateOf = x => !x ? '' : x.d || ((x.sub || []).map(s => s.d).filter(v => /^19[1-5]\d/.test(v || '')).sort())[0] || '';
+  const hitHTML = (d, inGroup) => { const m = d.meta, x = DM.get(m.id), inCat = !!x, db = titleDates(m.title) || dateOf(x).replace(/-/g, '.');
+    const img = iaBook(m.ia, m.iaf, m.id) + '/page/n' + (m.page - 1);
+    return `<div class="card">${inGroup ? '' : `<div class="cardhead"><h2>${inCat ? `<a href="${d.url}">${esc(m.title)}</a>` : esc(m.title)}</h2>${db ? `<span class="datebub ${era(db)[0]}">${db}</span>` : ''}</div>`}
+      <div class="meta">page ${esc(m.page)} · ${esc(m.src)} · <a href="${img}" target="_blank">page image on archive.org</a>${inCat ? ` · <a href="${d.url}">catalogue entry</a>` : ''}</div>
+      <p class="ftx">…${d.excerpt}…</p></div>`; };
+  // paged list of hits into el; newest-first/oldest-first comes from the Pagefind "date" sort key built into the index
+  const pagedHits = (res, el, btn, inGroup) => { let shown = 0;
+    const more = async () => { const batch = await Promise.all(res.results.slice(shown, shown + 20).map(r => r.data())); if (token !== FTQ) return;
+      shown += batch.length; el.insertAdjacentHTML('beforeend', batch.map(d => hitHTML(d, inGroup)).join('')); btn.hidden = shown >= res.results.length; };
+    btn.addEventListener('click', more); return more(); };
+  const sortOpt = S.ftSort === 'rel' ? undefined : { date: S.ftSort };
+  const tb = total => `<div class="toolbar"><span class="meta">${total}</span>
+    <label><input type="checkbox" id="ftgroup" ${S.ftGroup ? 'checked' : ''}> Group by document</label>
+    <label>Order <select id="ftsort">${(S.ftGroup ? [['rel', 'Most matching pages'], ['asc', 'Date, oldest first'], ['desc', 'Date, newest first']] : [['rel', 'Relevance'], ['asc', 'Date, oldest first'], ['desc', 'Date, newest first']]).map(([v, l]) => opt(v, l, S.ftSort)).join('')}</select></label></div>`;
+  const wire = () => { $('#ftgroup').addEventListener('change', e => { S.ftGroup = e.target.checked; ftView(); }); $('#ftsort').addEventListener('change', e => { S.ftSort = e.target.value; ftView(); }); };
+  if (!S.ftGroup){
+    const res = await pf.search(q, { filters, sort: sortOpt }); if (token !== FTQ) return;
+    main.innerHTML = tb(`${res.results.length.toLocaleString()} pages match <b>${esc(q)}</b>`) + `<div id="ftres"></div><div class="pager"><button id="ftmore" hidden>Show more</button></div>`;
+    wire(); await pagedHits(res, $('#ftres'), $('#ftmore')); return;
+  }
+  await pf.filters();  // loads the filter index so that search() returns per-document match counts
+  const res = await pf.search(q, { filters }); if (token !== FTQ) return;
+  const dk = g => { const d = dateOf(g.x); return !d ? '9999' : d.length === 4 ? d + '-01-01' : d.length === 7 ? d + '-01' : d; };
+  const docs = Object.entries(res.filters.doc || {}).filter(([, n]) => n > 0).map(([id, n]) => ({ id, n, x: DM.get(id) }));
+  docs.sort(S.ftSort === 'asc' ? (a, b) => dk(a) < dk(b) ? -1 : dk(a) > dk(b) ? 1 : a.id.localeCompare(b.id)
+    : S.ftSort === 'desc' ? (a, b) => (dk(a) === '9999') - (dk(b) === '9999') || (dk(a) > dk(b) ? -1 : dk(a) < dk(b) ? 1 : a.id.localeCompare(b.id)) : (a, b) => b.n - a.n || dk(a).localeCompare(dk(b)));
+  main.innerHTML = tb(`${res.results.length.toLocaleString()} pages in ${docs.length.toLocaleString()} documents match <b>${esc(q)}</b>`) + `<div id="ftres"></div><div class="pager"><button id="ftmoredocs" hidden>Show more documents</button></div>`;
+  wire();
+  let shownDocs = 0;
+  const moreDocs = () => { docs.slice(shownDocs, shownDocs + 25).forEach(g => { const x = g.x, title = x ? x.t : g.id, db = titleDates(title) || dateOf(x).replace(/-/g, '.');
+      const card = document.createElement('div'); card.className = 'card';
+      card.innerHTML = `<div class="cardhead"><h2>${x ? `<a href="#d/${x.id}">${esc(title)}</a>` : esc(title)}</h2>${db ? `<span class="datebub ${era(db)[0]}">${db}</span>` : ''}</div>
+        <div class="meta">${g.n.toLocaleString()} matching page${g.n === 1 ? '' : 's'} · <button type="button" class="linklike">show pages</button></div>
+        <div class="grouphits" hidden><div class="gh"></div><div class="pager"><button type="button" class="gmore" hidden>Show more pages</button></div></div>`;
+      const btn = card.querySelector('.linklike'), box = card.querySelector('.grouphits'); let loaded = false;
+      btn.addEventListener('click', async () => { box.hidden = !box.hidden; btn.textContent = box.hidden ? 'show pages' : 'hide pages'; if (loaded) return; loaded = true;
+        const r = await pf.search(q, { filters: { ...filters, doc: g.id }, sort: { date: 'asc' } }); if (token !== FTQ) return;
+        await pagedHits(r, box.querySelector('.gh'), box.querySelector('.gmore'), true); });
+      $('#ftres').appendChild(card); });
+    shownDocs = Math.min(docs.length, shownDocs + 25); $('#ftmoredocs').hidden = shownDocs >= docs.length; };
+  $('#ftmoredocs').addEventListener('click', moreDocs); moreDocs();
+}
+function facetView(kind){
+  const m = new Map();
+  D.forEach(x => { const vals = kind==='people' ? x.pe.map(p=>p[0]) : kind==='places' ? x.pl.map(p=>p[0]) : [...new Set([...x.k, ...x.sub.flatMap(s=>s.k)])];
+    new Set(vals).forEach(v => m.set(v, (m.get(v)||0) + 1)); });
+  const key = {people:'pe', places:'pl', keywords:'k'}[kind];
+  const ts = terms();
+  const items = [...m].filter(([v]) => ts.every(t => v.toLowerCase().includes(t))).sort(S.fsort==='a' ? (a,b) => a[0].localeCompare(b[0], 'en', {sensitivity:'base'}) : (a,b) => b[1]-a[1] || a[0].localeCompare(b[0]));
+  main.innerHTML = `<p class="meta">${items.length} ${kind}. Type in the search box to narrow the list. <label>Sort <select id="fsort"><option value="n"${S.fsort==='n'?' selected':''}>Number of files</option><option value="a"${S.fsort==='a'?' selected':''}>Alphabetical</option></select></label></p><div class="cols">` +
+    items.slice(0, 3000).map(([v,n]) => `<div><a href="#f/${key}/${encodeURIComponent(v)}">${esc(v)}</a> <span>${n}</span></div>`).join('') + '</div>';
+  $('#fsort').addEventListener('change', e => { S.fsort = e.target.value; facetView(kind); });
+}
+// ---- Spotlight: hand-picked sub-files with raw OCR beside a cleaned transcription (spotlight-data.js, built by build_spotlight.py) ----
+const SP = window.SPOTLIGHT || [];
+const pgPill = n => { const t = n <= 10 ? 0 : n <= 20 ? .25 : n <= 50 ? .5 : n <= 100 ? .75 : 1; return `<span class="pgpill${n <= 1 ? ' one' : t >= .5 ? ' hi' : ''}" style="--t:${t}">${n} page${n === 1 ? '' : 's'}</span>`; };
+function spCtx(e){ const x = D.find(x => x.id === e.file); let s = x && x.sub.find(s => s.p[0] === e.p[0] && s.p[1] === e.p[1]) || (x && x.sub[e.seq-1]); return [x, s]; }
+function spotlightView(){
+  main.innerHTML = `<div class="card"><h2>Spotlight</h2><p>Documents picked out of the files for a closer look. Each page shows the catalogue entry, the raw machine OCR of the document's pages, and a cleaned transcription made by reading the page images.</p></div>` +
+    SP.map(e => { const [x, s] = spCtx(e); if (!x || !s) return '';
+      return `<div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2><a href="#s/${esc(e.id)}">${esc(s.t)}</a></h2>
+        <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · pp. ${s.p[0]}–${s.p[1]} · ${e.clean ? 'cleaned transcription available' : 'cleaned transcription in progress'}</div>
+        <div class="meta">In file: <a href="#d/${esc(x.id)}">${esc(x.t)}</a></div><p>${esc(s.a)}</p></div>`; }).join('');
+}
+function spotlightDetail(id){
+  const e = SP.find(e => e.id === id), [x, s] = e ? spCtx(e) : []; if (!e || !x || !s){ main.innerHTML = '<p>Not found.</p>'; return; }
+  const i = SP.indexOf(e), prev = SP[i-1], next = SP[i+1];
+  const rawM = new Map(e.raw), cleanM = e.clean ? new Map(e.clean) : null;
+  const pages = []; for (let p = e.p[0]; p <= e.p[1]; p++) pages.push(p);
+  const img = p => `spotlight/img/${e.file}/${p}.jpg`;
+  let modes; try { modes = JSON.parse(localStorage.getItem('spModes')); } catch (_) {}
+  if (!Array.isArray(modes) || !modes.length) modes = matchMedia('(max-width:820px)').matches ? ['clean'] : ['clean', 'image'];
+  if (modes.length > 2) modes = modes.slice(-2);
+  const NAMES = {raw: 'Raw OCR', clean: 'Clean', image: 'Page image'}, ORDER = ['raw', 'clean', 'image'];
+  main.innerHTML = `<a class="back" href="#spotlight">← Back to Spotlight</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
+   <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a href="${IAP(x, s.p[0])}" target="_blank">pp. ${s.p[0]}–${s.p[1]} on archive.org</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
+   <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length}. <a href="${IAX(x)}" target="_blank">archive.org</a></div>
+   <div class="label">Description</div><p><i>${esc(s.a)}</i></p><div class="label">Summary</div><p>${esc(s.s)}</p>
+   <div class="label">Keywords</div><div class="chips">${chipsU(`s|${x.id}|${x.sub.indexOf(s)+1}`)}${chipsK(x, s.k)}</div>
+   <div class="label">Text of the document</div>
+   <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}</div>
+   <div class="sp-warn" id="spw" hidden><b>Important:</b> The cleaned transcript is an extraction of the text using a large language model (Claude Sonnet 5.5 or Opus 5.5, depending on the text) in comparison with the PaddleOCR software which produced the raw transcript. Errors and hallucinations in the cleaned transcript will be harder to detect than the shortcomings of the raw transcript.</div>
+   <div class="sp-view" id="spv"></div>
+   <p class="meta">Square brackets mark illegible or uncertain words, and editorial notes such as stamps, marginalia and handwriting. Tap a page image to open it full size.</p></div>
+   <div class="pager">${prev ? `<a href="#s/${esc(prev.id)}">← previous</a>` : ''}${next ? `<a href="#s/${esc(next.id)}">next →</a>` : ''}</div>`;
+  const view = $('#spv');
+  const cell = (m, p) => m === 'image' ? `<div class="sp-cell"><span class="tag">Page image</span><a href="${img(p)}" target="_blank"><img loading="lazy" src="${img(p)}" alt="Scan of page ${p}"></a></div>`
+    : m === 'raw' ? `<div class="sp-cell"><span class="tag">Raw OCR (unedited)</span><div class="sp-raw">${esc(rawM.get(p) || '[no OCR text]')}</div></div>`
+    : `<div class="sp-cell"><span class="tag">Cleaned transcription</span><div class="sp-clean">${cleanM ? esc(cleanM.has(p) ? cleanM.get(p) : '[not transcribed]') : '<span class="meta">Not yet available.</span>'}</div></div>`;
+  const draw = () => {
+    const on = ORDER.filter(m => modes.includes(m)), keep = view.scrollTop;
+    $('#spw').hidden = !modes.includes('clean');
+    document.querySelectorAll('#spm button').forEach(b => b.classList.toggle('on', modes.includes(b.dataset.m)));
+    view.innerHTML = pages.map(p => `<div id="sp-p${p}"><div class="sp-pgbar">Page ${p}<a href="${IAP(x, p)}" target="_blank">on archive.org</a></div><div class="sp-row n${on.length}">${on.map(m => cell(m, p)).join('')}</div></div>`).join('');
+    view.scrollTop = keep;
+  };
+  $('#spm').onclick = ev => {
+    const m = ev.target.dataset && ev.target.dataset.m; if (!m) return;
+    modes = modes.includes(m) ? modes.filter(k => k !== m) : modes.concat(m).slice(-2);
+    if (!modes.length) modes = [m];
+    try { localStorage.setItem('spModes', JSON.stringify(modes)); } catch (_) {}
+    draw();
+  };
+  const j = $('#spj'); if (j) j.onchange = () => { const el = j.value && document.getElementById('sp-p' + j.value); if (el) view.scrollTop = el.offsetTop; j.value = ''; };
+  draw();
+}
+// ---- Mark & Tag: Option-click (Alt-click) selects a file or document, Shift-Option-click adds to the selection.
+// Marks and user tags are kept for this browser session only (sessionStorage), never sent anywhere.
+const SEL = new Set(), U = {marked: new Set(), tags: new Map()};
+const MAXTAG = 60, MAXTAGS = 30, MAXITEMS = 20000;
+const cleanTag = t => String(t ?? '').normalize('NFC').replace(/[\u0000-\u001f\u007f-\u009f\u200b-\u200f\u2028-\u202e\u2060-\u206f\ufeff<>]/g, '').replace(/\s+/g, ' ').trim().slice(0, MAXTAG).trim();
+const DIX = new Map(D.map(x => [x.id, x]));
+function entryOf(k){
+  const p = String(k).split('|'); const x = DIX.get(p[1]); if (!x) return null;
+  if (p[0] === 'f' && p.length === 2) return {k, x, type: 'file', title: x.t, href: '#d/' + x.id};
+  const seq = Number(p[2]);
+  if (p[0] === 's' && p.length === 3 && Number.isInteger(seq) && seq >= 1 && seq <= x.sub.length){ const s = x.sub[seq-1];
+    return {k, x, s, seq, type: 'subfile', title: s.t, href: `#d/${x.id}/pg/${s.p[0]}`}; }
+  return null;
+}
+function uSave(){ try { sessionStorage.setItem('jiaUser', JSON.stringify({marked: [...U.marked], tags: [...U.tags].map(([k, v]) => [k, [...v]])})); } catch (_) {} }
+function uLoad(){ try { const o = JSON.parse(sessionStorage.getItem('jiaUser') || 'null'); if (!o) return;
+  (o.marked || []).forEach(k => entryOf(k) && U.marked.add(k));
+  (o.tags || []).forEach(([k, v]) => { if (!entryOf(k) || !Array.isArray(v)) return; const s = new Set(v.map(cleanTag).filter(Boolean).slice(0, MAXTAGS)); if (s.size) U.tags.set(k, s); }); } catch (_) {} }
+uLoad();
+function chipsU(k){ const s = U.tags.get(k); return s ? [...s].map(t => `<a class="chip utag" href="#tags/${encodeURIComponent(t)}" title="Your tag">${esc(t)}</a>`).join('') : ''; }
+function addTags(keys, tags){ keys.forEach(k => { const s = U.tags.get(k) || new Set(); tags.forEach(t => s.size < MAXTAGS && s.add(t)); if (s.size) U.tags.set(k, s); }); uSave(); }
+function removeTag(k, t){ const s = U.tags.get(k); if (!s) return; s.delete(t); if (!s.size) U.tags.delete(k); uSave(); }
+document.body.insertAdjacentHTML('beforeend', `<div id="mkbar" hidden role="region" aria-label="Selection"><span class="n" id="mkn"></span>
+  <button type="button" class="mkbtn" id="mkMark">Mark</button><button type="button" class="mkbtn" id="mkTag">Tag</button>
+  <button type="button" id="mkClr" title="Clear selection (Esc)" aria-label="Clear selection">✕</button>
+  <form id="mkTagForm" hidden><input id="mkTagIn" maxlength="300" placeholder="Tags, separated by commas" aria-label="Tags" autocomplete="off"><button type="submit" class="mkbtn">Add</button></form></div>`);
+function paintSel(){
+  document.querySelectorAll('[data-mk]').forEach(el => { el.classList.toggle('sel', SEL.has(el.dataset.mk)); el.classList.toggle('mkd', U.marked.has(el.dataset.mk)); });
+  const bar = $('#mkbar'); bar.hidden = !SEL.size; if (!SEL.size){ $('#mkTagForm').hidden = true; return; }
+  $('#mkn').textContent = SEL.size === 1 ? '1 selected' : SEL.size + ' selected';
+  $('#mkMark').textContent = [...SEL].every(k => U.marked.has(k)) ? 'Unmark' : 'Mark';
+}
+document.addEventListener('click', ev => {
+  if (!ev.altKey) return; const el = ev.target.closest('[data-mk]'); if (!el || !entryOf(el.dataset.mk)) return;
+  ev.preventDefault(); ev.stopPropagation(); const k = el.dataset.mk;
+  if (ev.shiftKey) SEL.has(k) ? SEL.delete(k) : SEL.add(k);
+  else { const only = SEL.size === 1 && SEL.has(k); SEL.clear(); if (!only) SEL.add(k); }
+  paintSel();
+}, true);
+addEventListener('keydown', ev => { if (ev.key === 'Escape' && SEL.size){ SEL.clear(); paintSel(); } });
+$('#mkClr').onclick = () => { SEL.clear(); paintSel(); };
+$('#mkMark').onclick = () => { const all = [...SEL].every(k => U.marked.has(k)); SEL.forEach(k => all ? U.marked.delete(k) : U.marked.add(k)); uSave(); SEL.clear(); route(); };
+$('#mkTag').onclick = () => { const f = $('#mkTagForm'); f.hidden = !f.hidden; if (!f.hidden) $('#mkTagIn').focus(); };
+$('#mkTagForm').onsubmit = ev => { ev.preventDefault(); const tags = [...new Set($('#mkTagIn').value.split(',').map(cleanTag).filter(Boolean))];
+  if (!tags.length) return; addTags([...SEL], tags); $('#mkTagIn').value = ''; SEL.clear(); route(); };
+new MutationObserver(paintSel).observe(main, {childList: true});
+function download(name, type, text){ const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text], {type})); a.download = name; document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000); }
+function userEntries(){ const keys = new Set([...U.marked, ...U.tags.keys()]); return [...keys].map(entryOf).filter(Boolean); }
+function saveJSON(){
+  const row = e => Object.assign({type: e.type, file: e.x.id}, e.seq ? {seq: e.seq} : {}, {title: e.title});
+  const out = {format: 'japan-internal-affairs-user-data', version: 1, saved: new Date().toISOString(),
+    marked: [...U.marked].map(entryOf).filter(Boolean).map(row),
+    tags: [...U.tags].map(([k, v]) => { const e = entryOf(k); return e && Object.assign(row(e), {tags: [...v]}); }).filter(Boolean)};
+  download('japan-internal-affairs-marks-tags.json', 'application/json', JSON.stringify(out, null, 1));
+}
+function saveCSV(){
+  const cell = v => { let s = String(v ?? ''); if (/^[=+\-@\t\r]/.test(s)) s = "'" + s; return /[",\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
+  const rows = [['type', 'file_id', 'seq', 'title', 'file_title', 'pages', 'marked', 'tags', 'url']];
+  userEntries().forEach(e => rows.push([e.type, e.x.id, e.seq || '', e.title, e.x.t, e.s ? `${e.s.p[0]}-${e.s.p[1]}` : e.x.pg,
+    U.marked.has(e.k) ? 'yes' : '', [...(U.tags.get(e.k) || [])].join('; '), e.s ? IAP(e.x, e.s.p[0]) : IAX(e.x)]));
+  download('japan-internal-affairs-marks-tags.csv', 'text/csv', '﻿' + rows.map(r => r.map(cell).join(',')).join('\r\n') + '\r\n');
+}
+function loadJSON(file, done){
+  if (!file) return; if (file.size > 2e6) return done('That file is larger than 2 MB, so it was not loaded.');
+  file.text().then(txt => {
+    let o; try { o = JSON.parse(txt); } catch (_) { return done('That file is not valid JSON, so nothing was loaded.'); }
+    if (!o || typeof o !== 'object' || Array.isArray(o)) return done('That file is not a saved marks-and-tags file.');
+    const key = r => { if (!r || typeof r !== 'object') return null; const f = typeof r.file === 'string' ? r.file : '';
+      const k = r.type === 'file' ? 'f|' + f : r.type === 'subfile' ? 's|' + f + '|' + Number(r.seq) : null; return k && entryOf(k) ? k : null; };
+    let m = 0, tg = 0, skip = 0;
+    (Array.isArray(o.marked) ? o.marked.slice(0, MAXITEMS) : []).forEach(r => { const k = key(r); if (k){ U.marked.add(k); m++; } else skip++; });
+    (Array.isArray(o.tags) ? o.tags.slice(0, MAXITEMS) : []).forEach(r => { const k = key(r);
+      const ts = k && Array.isArray(r.tags) ? r.tags.filter(t => typeof t === 'string').map(cleanTag).filter(Boolean).slice(0, MAXTAGS) : [];
+      if (k && ts.length){ addTags([k], ts); tg++; } else skip++; });
+    uSave(); done(`Loaded ${m} marked and ${tg} tagged entries${skip ? `; skipped ${skip} that did not match this catalogue or were invalid` : ''}.`);
+  }).catch(() => done('That file could not be read.'));
+}
+let UMSG = '';
+function userHead(){
+  return `<div class="unote"><span><b>Note:</b> This information is only available for this session.</span>
+    <button type="button" id="uCSV">Save CSV</button><button type="button" id="uJSON">Save JSON</button><button type="button" id="uLoad">Load JSON</button>
+    <input type="file" id="uFile" accept=".json,application/json" hidden></div>${UMSG ? `<p class="meta" role="status">${esc(UMSG)}</p>` : ''}`;
+}
+function wireUserHead(){
+  UMSG = ''; $('#uCSV').onclick = saveCSV; $('#uJSON').onclick = saveJSON; $('#uLoad').onclick = () => $('#uFile').click();
+  $('#uFile').onchange = ev => loadJSON(ev.target.files[0], msg => { UMSG = msg; route(); });
+}
+const HOWTO = '<p class="meta">Option-click (Alt-click on Windows) a file or a document to select it; Shift-Option-click to select several. Then use <b>Mark</b> or <b>Tag</b> at the bottom left of the screen.</p>';
+function uRow(e, extra){
+  return `<div class="urow" data-mk="${esc(e.k)}"><div><a href="${esc(e.href)}"><b>${esc(e.title)}</b></a>
+    <div class="meta">${e.type === 'file' ? 'File' : 'Document'} · ${e.s ? `pp. ${e.s.p[0]}–${e.s.p[1]} in ${esc(e.x.t)}` : pgPill(e.x.pg)}</div>
+    <div class="chips">${chipsU(e.k)}</div></div>${extra}</div>`;
+}
+function markedView(){
+  const es = [...U.marked].map(entryOf).filter(Boolean);
+  main.innerHTML = userHead() + `<div class="card"><h2>Marked (${es.length})</h2>${es.length ? es.map(e => uRow(e, `<button type="button" data-unmark="${esc(e.k)}">Remove</button>`)).join('') +
+    `<div class="pager"><button type="button" id="uClearM">Clear all marks</button></div>` : '<p>Nothing is marked yet.</p>' + HOWTO}</div>`;
+  wireUserHead();
+  main.querySelectorAll('[data-unmark]').forEach(b => b.onclick = () => { U.marked.delete(b.dataset.unmark); uSave(); route(); });
+  $('#uClearM')?.addEventListener('click', () => { if (confirm('Remove all marks?')){ U.marked.clear(); uSave(); route(); } });
+}
+function tagsView(tag){
+  const count = new Map(); U.tags.forEach(s => s.forEach(t => count.set(t, (count.get(t) || 0) + 1)));
+  const tags = [...count].sort((a, b) => a[0].localeCompare(b[0])), max = Math.max(1, ...count.values());
+  const cur = tag && count.has(tag) ? tag : null;
+  const es = cur ? [...U.tags].filter(([, s]) => s.has(cur)).map(([k]) => entryOf(k)).filter(Boolean) : [];
+  main.innerHTML = userHead() + `<div class="card"><h2>Your tags</h2>${tags.length ? `<div class="ucloud">${tags.map(([t, n]) =>
+      `<a href="#tags/${encodeURIComponent(t)}" class="${t === cur ? 'on' : ''}" style="font-size:${(14 + 12 * Math.log(n) / Math.log(max + 1)).toFixed(1)}px">${esc(t)}<b>${n}</b></a>`).join('')}</div>`
+      : '<p>No tags yet.</p>' + HOWTO}</div>` +
+    (cur ? `<div class="card"><h2>Tagged “${esc(cur)}” (${es.length})</h2>${es.map(e => uRow(e, `<button type="button" data-untag="${esc(e.k)}">Remove tag</button>`)).join('')}</div>`
+      : tag ? `<p class="meta">No entries are tagged “${esc(tag)}”.</p>` : (tags.length ? '<p class="meta">Choose a tag to list its files and documents.</p>' : ''));
+  wireUserHead();
+  main.querySelectorAll('[data-untag]').forEach(b => b.onclick = () => { removeTag(b.dataset.untag, cur); route(); });
+}
+function aboutView(){
+  const pages = D.reduce((n,x)=>n+x.pg,0), subs = D.reduce((n,x)=>n+x.sub.length,0);
+  main.innerHTML = `<div class="card"><h2>About this catalogue</h2>
+  <p>A searchable catalogue of the files in <i>Records of the Department of State Relating to Internal Affairs of Japan, 1930–1949</i> (decimal file 894, Record Group 59, U.S. National Archives), from the Scholarly Resources microfilm edition. These are public domain U.S. government documents.</p>
+  <p>${D.length} files, ${pages.toLocaleString()} pages and ${subs.toLocaleString()} individual documents are catalogued so far. Each entry was generated by a language model (Gemini 3.8 Flash or OpenAI GPT-5.6 via Codex; the model used for each file is recorded in <code>catalog.sqlite</code>) from OCR text (Mistral OCR 3, or PaddleOCR for the large merged files), so summaries, names and dates may contain errors — check the page images before relying on them. Mention counts for people and places are counted in the OCR text.</p>
+  <p>Full collection: <a href="https://archive.org/details/japan-internal-affairs-1930-1949" target="_blank">archive.org/details/japan-internal-affairs-1930-1949</a>. </p>
+  <p><b>Downloads.</b> <a href="downloads/japan-internal-affairs-ocr-text.jsonl.gz">All OCR text</a> (one JSON line per page, gzip, about 21 MB) and the <a href="downloads/japan-internal-affairs-catalog.sqlite">catalogue database</a> (SQLite, about 50 MB). Please use these rather than scraping the site; see also <a href="llms.txt">llms.txt</a>.</p></div>`;
+}
+function route(){
+  let h = decodeURIComponent(location.hash.slice(1)); S.facet = null;
+  if (h.startsWith('fulltext/')){ S.q = h.slice(9); $('#q').value = S.q; h = 'fulltext'; }  // shareable link: #fulltext/<query>
+  const view = h.startsWith('d/') ? 'detail' : h.startsWith('s/') ? 'spotdetail' : h === 'tags' || h.startsWith('tags/') ? 'tags' : ['people','places','keywords','about','fulltext','spotlight','marked'].includes(h) ? h : 'files';
+  document.body.classList.toggle('detail', view==='detail' || view==='spotdetail');
+  document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.v === (view==='detail'?'files':view==='spotdetail'?'spotlight':view)));
+  $('#cls').style.display = $('#yr').style.display = $('#reset').style.display = (view==='files' || view==='fulltext') ? '' : 'none';
+  $('#q').placeholder = view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…';
+  if (view === 'detail'){ const [, id, kind, ...v] = h.split('/'); return detailView(id, kind, v.length ? v.join('/') : null); }
+  if (view === 'spotdetail') return spotlightDetail(h.slice(2));
+  if (view === 'spotlight') return spotlightView();
+  if (view === 'about') return aboutView();
+  if (view === 'marked') return markedView();
+  if (view === 'tags') return tagsView(h.startsWith('tags/') ? h.slice(5) : null);
+  if (view === 'fulltext') return ftView();
+  if (view !== 'files') return facetView(view);
+  if (h.startsWith('f/')){ const [, k, ...v] = h.split('/'); S.facet = [k, v.join('/')]; }
+  listView();
+}
+let tmr; $('#q').addEventListener('input', e => { clearTimeout(tmr); tmr = setTimeout(() => { S.q = e.target.value; S.page = 0;
+  if (S.q && S.sort==='year') S.sort='hits'; if (!S.q && S.sort==='hits') S.sort='year'; if (location.hash.startsWith('#d/')) location.hash = ''; else route(); }, 200); });
+['cls','yr'].forEach(k => $('#'+k).addEventListener('change', e => { S[k] = e.target.value; S.page = 0; route(); }));
+$('#reset').addEventListener('click', () => { Object.assign(S, {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'});
+  $('#q').value = ''; $('#cls').value = ''; $('#yr').value = '';
+  if (location.hash && location.hash !== '#') location.hash = ''; else route(); scrollTo(0,0); });
+addEventListener('hashchange', () => { route(); scrollTo(0,0); });
+$('#theme').addEventListener('click', () => { const r = document.documentElement, dark = matchMedia('(prefers-color-scheme: dark)').matches;
+  const cur = r.dataset.theme || (dark ? 'dark' : 'light'); r.dataset.theme = cur === 'dark' ? 'light' : 'dark';
+  try { localStorage.setItem('theme', r.dataset.theme); } catch(e){} });
+try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch(e){}
+route();
+</script>
+</body>
+</html>

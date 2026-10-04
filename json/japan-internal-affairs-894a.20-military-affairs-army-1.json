@@ -1,0 +1,587 @@
+{
+ "overview": "This file assembles American diplomatic and intelligence reporting on Japanese military preparations in Taiwan from late 1941 through 1943. It begins with a consular telegram describing conspicuous troop concentrations and exercises around Taipei and across central and southern Taiwan, followed by an FBI report on the fortification of southern Taiwan, the expansion of Kaohsiung harbor, civil-defense preparations, and Japanese efforts to mobilize and indoctrinate Taiwanese and Koreans. The later documents transmit unverified intelligence supplied in Chongqing by Taiwanese associated with the Taiwan Revolutionary League, covering Japanese expectations of a direct American attack, defenses and naval bases, conscription and declining agricultural production, and the locations, garrisons, and aircraft complements of Taiwanese airfields.",
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku",
+    "(合武)"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan",
+    "the Island",
+    "the island"
+   ]
+  },
+  {
+   "name": "Central Taiwan",
+   "variants": [
+    "Central"
+   ]
+  },
+  {
+   "name": "Southern Taiwan",
+   "variants": [
+    "Southern Taiwan",
+    "South Formosa",
+    "S. Formosa",
+    "southern half of Formosa",
+    "southern Formosa"
+   ]
+  },
+  {
+   "name": "Northern Taiwan",
+   "variants": [
+    "North Formosa"
+   ]
+  },
+  {
+   "name": "Eastern Taiwan",
+   "variants": [
+    "East Formosa"
+   ]
+  },
+  {
+   "name": "Southern and southwestern Taiwan plain",
+   "variants": [
+    "SOUTHERN PLAIN OF FORMOSA",
+    "southwestern plain"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "Province of Takao",
+    "Takao",
+    "Takao (嘉穗) County",
+    "(お尚)",
+    "嘉穗"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Penghu Islands",
+   "variants": [
+    "Pescadores",
+    "Pescadores Bay",
+    "(崇湖)"
+   ]
+  },
+  {
+   "name": "Coastal China",
+   "variants": [
+    "China coast"
+   ]
+  },
+  {
+   "name": "Fujian Province",
+   "variants": [
+    "Fukien"
+   ]
+  },
+  {
+   "name": "Zhejiang Province",
+   "variants": [
+    "Chekiang Provinces"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hongkong Bay"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Pacific Ocean and Pacific theater",
+   "variants": [
+    "Pacific theater",
+    "Pacific"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Sea islands",
+    "South Seas",
+    "South Seas regions"
+   ]
+  },
+  {
+   "name": "Attu Island",
+   "variants": [
+    "Attu Island"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Xiaoqingshui, Taiwan",
+   "variants": [
+    "(小清水)"
+   ]
+  },
+  {
+   "name": "Su'ao, Taiwan",
+   "variants": [
+    "Central (蘇湖)"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Taiju",
+    "(合中)"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan",
+    "(合南)"
+   ]
+  },
+  {
+   "name": "Songshan, Taipei",
+   "variants": [
+    "(松山)"
+   ]
+  },
+  {
+   "name": "Taoyuan",
+   "variants": [
+    "(桃園)"
+   ]
+  },
+  {
+   "name": "Unidentified railway station in Hsinchu County",
+   "variants": [
+    "(番票) railway station"
+   ]
+  },
+  {
+   "name": "Hsinchu County",
+   "variants": [
+    "Sinjigu (新行) County"
+   ]
+  },
+  {
+   "name": "Chiayi",
+   "variants": [
+    "(嘉義)"
+   ]
+  },
+  {
+   "name": "Gangshan, Kaohsiung",
+   "variants": [
+    "(岡山)"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "(清東)",
+    "(清東) City"
+   ]
+  },
+  {
+   "name": "Hualien",
+   "variants": [
+    "Karenko",
+    "(花蓮港)"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Bruner",
+   "role": "American official reporting from Taihoku",
+   "variants": [
+    "Bruner"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "GREW"
+   ]
+  },
+  {
+   "name": "Mr. Hoskins",
+   "role": "Department of State official",
+   "variants": [
+    "Mr. Hoskins"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "MR. BERLE",
+    "Honorable Adolf M. Berle, Jr.",
+    "Mr. Berle"
+   ]
+  },
+  {
+   "name": "Laurence E. Salisbury",
+   "role": "Official in the Department of State's Division of Far Eastern Affairs",
+   "variants": [
+    "Salisbury"
+   ]
+  },
+  {
+   "name": "M. H. Hollsberg",
+   "role": "Department of State official associated with the Division of Foreign Affairs",
+   "variants": [
+    "M. H. HOLLSBERG"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "J. E. Hoover"
+   ]
+  },
+  {
+   "name": "Theodore S. Wilkinson",
+   "role": "Captain and Director of the Office of Naval Intelligence",
+   "variants": [
+    "Captain T. S. Wilkinson"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Department of State Adviser on Political Relations",
+   "variants": [
+    "MR. HUGHES ECK",
+    "MIL HONORE"
+   ]
+  },
+  {
+   "name": "Max W. Bishop",
+   "role": "Official in the Department of State's Division of Far Eastern Affairs",
+   "variants": [
+    "Bishop"
+   ]
+  },
+  {
+   "name": "Joseph W. Stilwell",
+   "role": "United States Army general commanding in the China-Burma-India theater",
+   "variants": [
+    "General Stilwell's"
+   ]
+  },
+  {
+   "name": "George Atcheson Jr.",
+   "role": "American Chargé d'Affaires ad interim at Chungking",
+   "variants": [
+    "George Atcheson, Jr."
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan",
+  "Japanese military preparations",
+  "fortifications",
+  "airfields",
+  "naval bases",
+  "Kaohsiung harbor",
+  "civil defense",
+  "military conscription",
+  "Taiwanese mobilization",
+  "Korean nationalism",
+  "wartime indoctrination",
+  "Pacific War",
+  "agricultural production",
+  "Taiwan Revolutionary League",
+  "U.S. intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram on Japanese troop concentrations and exercises in Taiwan",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1941-11-10",
+   "from": "Bruner at Taihoku, forwarded by Joseph C. Grew at Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports unusually large Japanese troop concentrations, billeting, training, and military displays in Taiwan.",
+   "summary": "Bruner reports that troops are quartered in Taipei schools and allegedly billeted in even greater numbers throughout central and southern Taiwan. Around Taipei, visible preparations include field telephone lines, military exercises, artillery, tanks, engineers, machine-gun units, sham attacks, and aircraft maneuvers. He also describes thousands of soldiers making an organized pilgrimage to Taiwan's principal shrine; the underlying Taihoku message was dated November 5 and was forwarded through Tokyo and Shanghai.",
+   "keywords": [
+    "troop concentrations",
+    "Taihoku",
+    "military training",
+    "billeting",
+    "field exercises",
+    "aircraft maneuvers",
+    "military pilgrimage"
+   ]
+  },
+  {
+   "title": "Hoskins note concerning the Koreans",
+   "doc_type": "note",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "",
+   "from": "Mr. Hoskins",
+   "to": "",
+   "about": "Briefly urges that something be done concerning the Koreans.",
+   "summary": "This short handwritten Department of State note states that action should be taken concerning the Koreans. Its precise relationship to the surrounding papers is unstated, but its placement connects it to the subsequent discussion of Japanese military indoctrination in Korea and Taiwan.",
+   "keywords": [
+    "Korea",
+    "Department of State",
+    "policy proposal",
+    "Japanese rule"
+   ]
+  },
+  {
+   "title": "Berle memorandum recommending circulation of the December 11 report",
+   "doc_type": "memorandum",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1941-12-26",
+   "from": "Adolf A. Berle Jr.",
+   "to": "Department of State internal circulation",
+   "about": "Recommends distributing the December 11 memorandum to senior American intelligence and military authorities.",
+   "summary": "Berle calls the December 11 memorandum highly significant and recommends sending copies to the Coordinator of Information and the Secretaries of War and the Navy. He argues that agencies concerned with winning both the war and the subsequent peace in the Far East should consider its contents.",
+   "keywords": [
+    "Adolf A. Berle Jr.",
+    "intelligence dissemination",
+    "Coordinator of Information",
+    "War Department",
+    "Navy Department",
+    "Far East",
+    "postwar planning"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum on Japanese indoctrination of Koreans and Taiwanese",
+   "doc_type": "memorandum",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1941-12-22",
+   "from": "Division of Far Eastern Affairs; drafted by Salisbury",
+   "to": "Department of State internal circulation",
+   "about": "Highlights the FBI report's warning that Japanese military nationalism had influenced young Koreans and Taiwanese.",
+   "summary": "The memorandum extracts the most politically significant argument from the attached FBI material: that Japanese education and military ideology had conditioned Koreans and Taiwanese to fervent nationalism. It warns that the younger generation could become a powerful instrument of Japanese nationalism unless Japanese military power and doctrine were discredited quickly.",
+   "keywords": [
+    "Koreans",
+    "Taiwanese",
+    "Japanese nationalism",
+    "military indoctrination",
+    "education",
+    "propaganda",
+    "Division of Far Eastern Affairs"
+   ]
+  },
+  {
+   "title": "Hoover letter forwarding intelligence on South Formosa",
+   "doc_type": "letter",
+   "start_page": 6,
+   "end_page": 6,
+   "date": "1941-12-11",
+   "from": "J. Edgar Hoover",
+   "to": "Adolf A. Berle Jr.; copy to Captain T. S. Wilkinson",
+   "about": "Forwards confidential-source information about the Province of Takao in southern Taiwan.",
+   "summary": "Hoover sends Berle a personal and confidential memorandum based on information supplied to the FBI by an outside confidential source. He states that the material concerns the Province of Takao and may interest the State Department. A copy was directed to the head of the Office of Naval Intelligence.",
+   "keywords": [
+    "FBI",
+    "J. Edgar Hoover",
+    "Adolf A. Berle Jr.",
+    "Takao",
+    "confidential source",
+    "Office of Naval Intelligence"
+   ]
+  },
+  {
+   "title": "FBI memorandum on military preparations and political conditioning in Taiwan",
+   "doc_type": "memorandum",
+   "start_page": 7,
+   "end_page": 8,
+   "date": "1941-12-11",
+   "from": "Federal Bureau of Investigation, based on an outside confidential source",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Describes southern Taiwan's militarization, air-defense preparations, and the ideological mobilization of Taiwanese and Koreans.",
+   "summary": "The report says southern Taiwan had been closed to foreigners, converted into a military garrison, and fortified, while Kaohsiung harbor was improved for troop embarkation and transports were based in the Penghu Islands. It discusses air-raid drills, inadequate shelters, aircraft modernization, and operations against coastal China. Its second part argues that Japanese schooling and nationalism had deeply affected young Taiwanese and Koreans and advances sweeping, prejudicial claims about Japanese racial loyalties and Japanese-descended citizens abroad.",
+   "keywords": [
+    "southern Taiwan",
+    "Kaohsiung harbor",
+    "Penghu Islands",
+    "fortifications",
+    "air-raid drills",
+    "military aviation",
+    "Taiwanese volunteers",
+    "Korean volunteers",
+    "indoctrination",
+    "wartime prejudice"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum summarizing the Chungking despatch",
+   "doc_type": "memorandum",
+   "start_page": 9,
+   "end_page": 9,
+   "date": "1943-09-07",
+   "from": "Division of Far Eastern Affairs; drafted by Max W. Bishop",
+   "to": "Department of State internal circulation",
+   "about": "Summarizes intelligence on Japanese preparations for a possible American attack on Taiwan and on Taiwanese airfields.",
+   "summary": "The memorandum reviews the attached July 21 despatch from Chungking and its two translated intelligence documents. It emphasizes the reported Japanese expectation of a direct American attack on Taiwan and Japanese efforts to meet it. It also records that the airfield report had been supplied to General Stilwell's headquarters.",
+   "keywords": [
+    "Formosa intelligence",
+    "American strategy",
+    "Japanese defenses",
+    "airfields",
+    "Chungking",
+    "Joseph W. Stilwell"
+   ]
+  },
+  {
+   "title": "Despatch No. 134 transmitting information concerning Formosa",
+   "doc_type": "despatch",
+   "start_page": 10,
+   "end_page": 10,
+   "date": "1943-07-21",
+   "from": "George Atcheson Jr., American Chargé d'Affaires ad interim, Chungking",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits two translated reports obtained from Taiwanese connected with the Taiwan Revolutionary League.",
+   "summary": "Atcheson forwards reports concerning Japanese defensive planning, the economic effects of mobilization, and Taiwanese airfields. The sources claim that Japan expected the United States might attack Taiwan directly instead of advancing island by island and that conscription, military land use, and cattle slaughter had reduced production. The embassy explicitly states that it could neither verify the information nor vouch for its providers.",
+   "keywords": [
+    "George Atcheson Jr.",
+    "Taiwan Revolutionary League",
+    "confidential intelligence",
+    "Japanese defenses",
+    "conscription",
+    "agricultural decline",
+    "airfields",
+    "source reliability"
+   ]
+  },
+  {
+   "title": "Enclosure 1: Increasing Significance of Formosa in International Problems",
+   "doc_type": "translated intelligence report enclosure",
+   "start_page": 11,
+   "end_page": 12,
+   "date": "",
+   "from": "Research Office identified as (金山), through Formosa News No. 223",
+   "to": "Enclosed with Despatch No. 134",
+   "about": "Reports Japanese preparations against a direct American attack and the military and economic effects of mobilization in Taiwan.",
+   "summary": "The report claims Japan was strengthening Taiwan's northern and southern defenses and submarine facilities after recognizing the possibility of a direct American attack, particularly following the U.S. recovery of Attu and submarine attacks near Hong Kong and the Penghu Islands. It describes tree planting on the southern plain as an effort to provide battlefield cover and roads suitable for armored vehicles. It further attributes a 20–30 percent decline in production to the conscription of more than 280,000 men, military expropriation of farmland, and extensive slaughter of draft cattle.",
+   "keywords": [
+    "American attack plans",
+    "naval bases",
+    "submarine bases",
+    "Attu Island",
+    "southern Taiwan plain",
+    "battlefield preparation",
+    "conscription",
+    "farm production",
+    "Taiwanese resistance"
+   ]
+  },
+  {
+   "title": "Enclosure 2: Further Establishments of Air Force Bases in Formosa",
+   "doc_type": "translated intelligence report enclosure",
+   "start_page": 13,
+   "end_page": 14,
+   "date": "",
+   "from": "Research Office identified as (合二), through News from Formosa No. 224",
+   "to": "Enclosed with Despatch No. 134",
+   "about": "Inventories Japanese civil, army, and naval airfields in Taiwan and supplies estimates of their troops and aircraft.",
+   "summary": "The report identifies dual-use fields at Taichung and Tainan; army fields at Songshan, Taoyuan, and Chiayi; and naval or joint-service fields at Gangshan and Pingtung. It gives construction dates, locations, stationed formations, troop strengths, and estimated aircraft numbers, describing Gangshan and Pingtung as especially active southern bases. An eighth field at Hualien was reportedly under expedited construction for future Pacific operations.",
+   "keywords": [
+    "airfields",
+    "Japanese Army aviation",
+    "Japanese naval aviation",
+    "Taichung",
+    "Tainan",
+    "Songshan",
+    "Taoyuan",
+    "Chiayi",
+    "Gangshan",
+    "Pingtung",
+    "Hualien",
+    "aircraft strength"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful because it preserves several layers of the American intelligence process: field observation, confidential FBI reporting, departmental interpretation, diplomatic transmission, and information supplied by Taiwanese political exiles. Its detailed—though explicitly unverified—figures for troops, aircraft, airfields, conscription, land loss, and production offer leads for comparison with Japanese and Taiwanese records. It also exposes contemporary assumptions and prejudices within wartime intelligence, particularly in the 1941 memorandum's treatment of nationalism, colonial education, race, and the loyalty of Japanese-descended citizens.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 258.2,
+  "identifier": "japan-internal-affairs-894a.20-military-affairs-army-1",
+  "file": "894A.20 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., November 10, 1941 - July 21, 1943 1393.pdf",
+  "created": "2026-09-29 03:18:42"
+ }
+}

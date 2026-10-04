@@ -1,0 +1,142 @@
+{
+ "interest": "This file provides a revealing contrast between public occupation rhetoric and private diplomatic realism concerning the permanence of postwar Japanese land reform. While General MacArthur publicly celebrated the reform as an unqualified triumph and a bedrock of Japanese democracy, internal State Department correspondence reveals high-level apprehension that the reform might unravel once Japan regained sovereignty. Significantly, the memorandum documents early State Department deliberations on the Japanese Peace Treaty, acknowledging that the contemplated treaty terms would leave the United States with no legal leverage or post-treaty control mechanisms to safeguard occupation reforms beyond standard diplomatic channels.",
+ "keywords": [
+  "Land reform",
+  "Japan",
+  "Douglas MacArthur",
+  "Shigeru Yoshida",
+  "Japanese Peace Treaty",
+  "Agriculture",
+  "Land tenure",
+  "Occupation of Japan",
+  "Far Eastern Affairs",
+  "Post-treaty controls",
+  "Nippon Times",
+  "Agricultural commissions"
+ ],
+ "overview": "This file relates to agricultural land reform in occupied Japan, comprising a November 7, 1949 State Department memorandum and an attached newspaper copy of General Douglas MacArthur's letter of October 21, 1949 to Prime Minister Shigeru Yoshida. The memorandum, sent to Philip C. Jessup by CWY of the U.S. Delegation to the United Nations General Assembly following consultation with John Allison, highlights concerns regarding the sustainability of the land reform and acknowledges that the draft Japanese Peace Treaty contains no mechanisms for post-treaty U.S. intervention beyond standard diplomatic representations. MacArthur's letter, published in the Nippon Times to mark the third anniversary of the Japanese Diet's land reform legislation, commends rural Japan for the reform's success, warns against any reversion to pre-war feudal tenancy, and emphasizes the need for continuous legal protections, local agricultural commissions, and farmer vigilance.",
+ "people": [
+  {
+   "name": "Philip C. Jessup",
+   "role": "Ambassador at Large, U.S. Delegation to the United Nations General Assembly",
+   "variants": [
+    "MR. JESSUP"
+   ]
+  },
+  {
+   "name": "John M. Allison",
+   "role": "State Department official, Office of Far Eastern Affairs",
+   "variants": [
+    "John Allison",
+    "Allison"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers (SCAP)",
+   "variants": [
+    "MacArthur",
+    "DOUGLAS MacARTHUR"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Yoshida",
+    "Mr. Prime Minister"
+   ]
+  },
+  {
+   "name": "Charles W. Yost",
+   "role": "Drafter, U.S. Delegation to the United Nations General Assembly",
+   "variants": [
+    "CWY"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "NEW YORK"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A memorandum reporting consultations with John Allison on U.S. policy regarding Japanese land reform and the lack of post-treaty enforcement mechanisms under the draft Japanese Peace Treaty.",
+   "date": "1949-11-07",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "Charles W. Yost",
+   "keywords": [
+    "Land reform",
+    "Japanese Peace Treaty",
+    "John Allison",
+    "Philip C. Jessup",
+    "Far Eastern Affairs",
+    "Post-treaty controls",
+    "Tokyo"
+   ],
+   "start_page": 1,
+   "summary": "The memorandum informs Ambassador Philip C. Jessup of discussions with John Allison regarding agricultural land reform in Japan. Allison provided a copy of General MacArthur's letter to Prime Minister Yoshida and noted that the Bureau of Far Eastern Affairs had instructed the U.S. Political Adviser in Tokyo to support MacArthur's position. However, Allison observed that post-treaty controls under the current draft of the Japanese Peace Treaty would provide the United States with no authority to intervene in Japanese land tenure matters after the treaty's ratification, other than via routine diplomatic representations.",
+   "title": "Memorandum from CWY to Mr. Jessup on Land Reform in Japan and Post-Treaty Controls",
+   "to": "Philip C. Jessup"
+  },
+  {
+   "about": "A letter from General Douglas MacArthur to Prime Minister Shigeru Yoshida commemorating the third anniversary of Japan's land reform legislation and urging vigilance to prevent reversion to pre-reform land tenure.",
+   "date": "1949-10-21",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Douglas MacArthur",
+   "keywords": [
+    "Douglas MacArthur",
+    "Shigeru Yoshida",
+    "Land reform",
+    "Japanese Diet",
+    "Land tenure",
+    "Owner-farmers",
+    "Agricultural commissions",
+    "Nippon Times"
+   ],
+   "start_page": 2,
+   "summary": "Marking the third anniversary of the Japanese Diet's enactment of land reform legislation, General MacArthur congratulates the people of rural Japan for executing what he describes as one of the most successful land reform programs in history. He states that the achievement has won worldwide admiration and serves as a vital demonstration of Japan's maturity as a democratic nation preparing to rejoin the international community. MacArthur cautions that future reversion to pre-reform tenancy must be prevented through rigorous enforcement of land laws, administrative support, local agricultural commissions, and constant vigilance by Japanese farmers in defending their rights.",
+   "title": "Letter from Douglas MacArthur to Prime Minister Shigeru Yoshida on Land Reform",
+   "to": "Shigeru Yoshida"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14270,
+   "output_tokens": 5572,
+   "thinking_tokens": 4354,
+   "cache_read_tokens": 0,
+   "total_tokens": 19842
+  },
+  "backend": "agy",
+  "seconds": 23.5,
+  "identifier": "japan-internal-affairs-894.611-agriculture-japan-soil",
+  "file": "894.611 Agriculture., Japan, Soil. Properties. Tillage., October 21, 1949 - November 7, 1949 1777.pdf",
+  "created": "2026-09-29 10:39:32"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "interest": "This document serves as an institutional pointer illustrating the State Department's decimal filing practices for Japanese domestic affairs on the eve of World War II. Although the substantive report was filed under 894.02/18, this reference sheet records the establishment of Japan's Ministry of Health and Social Affairs (Kōseishō) in December 1937, reflecting U.S. diplomatic observation of Japanese wartime bureaucratic restructuring in public health and social welfare.",
+ "keywords": [
+  "Japan",
+  "Tokyo",
+  "Social Matters",
+  "Ministry of Social Affairs and Health",
+  "List of Papers",
+  "Department of State",
+  "bureaucracy",
+  "public health",
+  "social welfare",
+  "cross-reference"
+ ],
+ "overview": "This file (decimal file 894.40, 'Japan, Social Matters') consists of a single Department of State 'List of Papers' sheet recording a document originating from Tokyo. Dated December 15, 1937, and attributed to Cameron (#7), the entry notes a report on the establishment of the new Japanese Ministry of Social Affairs and Health in December 1937 and directs researchers to decimal file 894.02/18 for the complete paper.",
+ "people": [
+  {
+   "name": "Cameron",
+   "role": "U.S. Foreign Service Officer",
+   "variants": [
+    "Cameron"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Iokyo",
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State List of Papers indexing a December 15, 1937 report from Tokyo on the creation of the Japanese Ministry of Social Affairs and Health.",
+   "date": "1937-12-15",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Tokyo (Cameron)",
+   "keywords": [
+    "Ministry of Social Affairs and Health",
+    "Tokyo",
+    "Japan",
+    "Cameron",
+    "List of Papers",
+    "public health",
+    "social welfare"
+   ],
+   "start_page": 1,
+   "summary": "This List of Papers sheet under decimal file 894.40 indexes a report sent from Tokyo by Cameron on December 15, 1937. The entry summarizes a report regarding the establishment of the new Japanese Ministry of Social Affairs and Health in December 1937. It includes a cross-reference noting that the full report is filed under 894.02/18.",
+   "title": "Department of State List of Papers sheet referencing report on Ministry of Social Affairs and Health",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13673,
+   "output_tokens": 2242,
+   "thinking_tokens": 1626,
+   "cache_read_tokens": 0,
+   "total_tokens": 15915
+  },
+  "backend": "agy",
+  "seconds": 12.7,
+  "identifier": "japan-internal-affairs-894.40-japan-social-matters-2",
+  "file": "894.40 Japan, Social Matters.,  245.pdf",
+  "created": "2026-09-29 05:07:02"
+ }
+}

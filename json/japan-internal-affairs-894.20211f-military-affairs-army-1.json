@@ -1,0 +1,132 @@
+{
+ "interest": "1930s fears of Japanese espionage and sabotage at the Panama Canal.",
+ "keywords": [
+  "Panama Canal",
+  "Canal Zone",
+  "Japanese espionage",
+  "military intelligence",
+  "sabotage conspiracy",
+  "Republic of Panama",
+  "War Department",
+  "Department of Justice",
+  "Department of State",
+  "inter-agency intelligence",
+  "security surveillance"
+ ],
+ "overview": "Docket and cross-reference sheets for 894.20211F (1932–36) on alleged Japanese espionage and a plot to dynamite the Panama Canal.",
+ "people": [
+  {
+   "name": "Walter S. Reineck",
+   "role": "U.S. Consul at Santo Domingo",
+   "variants": [
+    "Reineck"
+   ]
+  },
+  {
+   "name": "Herbert Wilcox",
+   "role": "Finder of memoranda and map regarding alleged canal sabotage conspiracy",
+   "variants": [
+    "Herbert Wilcox"
+   ]
+  },
+  {
+   "name": "T. Suzuki",
+   "role": "Subject of alleged Japanese espionage investigation",
+   "variants": [
+    "Suzuki, T.",
+    "Suzuki"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Canal Zone"
+   ]
+  },
+  {
+   "name": "Panama Canal",
+   "variants": [
+    "Panama Canal"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Republic of Panama",
+    "Panama"
+   ]
+  },
+  {
+   "name": "Santo Domingo",
+   "variants": [
+    "Santo Domingo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department cross-reference sheet indexing documents and notes from 1932 and 1933 regarding alleged Japanese military activities, sabotage plots, and espionage in the Panama Canal Zone.",
+   "date": "1933-10-09",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Canal Zone",
+    "Panama Canal",
+    "Justice Dept.",
+    "Santo Domingo",
+    "Herbert Wilcox",
+    "T. Suzuki",
+    "dynamite plot",
+    "espionage"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference on Japanese activity in the Canal Zone, including an alleged plot to dynamite the canal.",
+   "title": "Cross-Reference Sheet on Japanese Military Activities in the Canal Zone",
+   "to": "File"
+  },
+  {
+   "about": "A Department of State list of papers entry recording a 1936 War Department communication requesting intelligence-gathering cooperation against Japanese espionage in Panama and the Canal Zone.",
+   "date": "1936-03-17",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "War Department",
+   "keywords": [
+    "War Department",
+    "Republic of Panama",
+    "Panama Canal",
+    "espionage",
+    "intelligence gathering",
+    "Confidential File"
+   ],
+   "start_page": 2,
+   "summary": "Docket: 1936 War Department request for help gathering intelligence on Japanese espionage in Panama.",
+   "title": "List of Papers on Japanese Espionage in Panama and Canal Zone (War Department)",
+   "to": "Confidential File"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13887,
+   "output_tokens": 5563,
+   "thinking_tokens": 4397,
+   "cache_read_tokens": 0,
+   "total_tokens": 19450
+  },
+  "backend": "agy",
+  "seconds": 20.1,
+  "identifier": "japan-internal-affairs-894.20211f-military-affairs-army-1",
+  "file": "894.20211F Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Canal Zone Including Gathering Of Information. Espionage. Propaganda.,  379.pdf",
+  "created": "2026-09-28 23:59:43"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "interest": "Grew's use of a Japanese confidential contact in April 1941.",
+ "keywords": [
+  "Japan",
+  "United States",
+  "Joseph C. Grew",
+  "State Department",
+  "Tokyo Embassy",
+  "internal situation",
+  "political intelligence",
+  "confidential informant",
+  "diplomatic communications",
+  "pre-war diplomacy"
+ ],
+ "overview": "Grew's Telegram 535 (April 10, 1941) reports a Japanese confidential contact's visit; details follow in Telegram 536.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "GREW"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "Secretary of State"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Ambassador Grew reports that a regular Japanese confidential contact visited the Embassy with intelligence on Japan's internal situation, cross-referenced to Telegram 536.",
+   "date": "1941-04-10",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Joseph C. Grew",
+    "Tokyo Embassy",
+    "confidential contact",
+    "internal situation",
+    "State Department",
+    "Telegram 535",
+    "Telegram 536",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Grew reports a Japanese contact visited to discuss Japan's internal politics; details are in Telegram No. 536.",
+   "title": "Telegram No. 535 from Ambassador Grew to Secretary of State on Japanese Contact",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13726,
+   "output_tokens": 2741,
+   "thinking_tokens": 2068,
+   "cache_read_tokens": 0,
+   "total_tokens": 16467
+  },
+  "backend": "agy",
+  "seconds": 12.2,
+  "identifier": "japan-internal-affairs-894.00-japan-political-affairs-3",
+  "file": "894.00 Japan, Political Affairs., April 10, 1941 1259.pdf",
+  "created": "2026-09-28 21:09:37"
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "overview": "This file consists of a confidential U.S. consular despatch from Taihoku concerning the December 1930 earthquakes in central and south-central Taiwan and their effects on the Wushantou dam and reservoir of the Chianan Irrigation Project. Vice Consul Charles S. Reed II reports damage to buildings, roads, bridges, and the dam; plans to drain and repair the reservoir; an estimated repair cost of ¥1,000,000; and the resulting threat to rice and sugar cultivation from the interruption of irrigation. The account was compiled from reports in the local press and was forwarded to the Department of State, with a copy to the Consulate General in Tokyo.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Western Coastal Plain of Taiwan",
+   "variants": [
+    "the central and south central regions of the western coastal plains of Taiwan"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan"
+   ]
+  },
+  {
+   "name": "Chiayi",
+   "variants": [
+    "Kagi"
+   ]
+  },
+  {
+   "name": "Wushantou Reservoir",
+   "variants": [
+    "Uzanto"
+   ]
+  },
+  {
+   "name": "Chianan Irrigation Project",
+   "variants": [
+    "Kahan Irrigation Project"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Charles S. Reed II",
+   "role": "U.S. Vice Consul at Taihoku, Taiwan",
+   "variants": [
+    "Vice Consul Charles S. Reed II",
+    "CSR"
+   ]
+  },
+  {
+   "name": "Yoichi Hatta",
+   "role": "Chief Engineer of the Taiwan Government-General and designer of the Wushantou dam and irrigation undertaking",
+   "variants": [
+    "Mr. Hatta"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan earthquakes",
+  "Wushantou dam",
+  "Chianan Irrigation Project",
+  "reservoir drainage",
+  "earthquake damage",
+  "irrigation",
+  "rice cultivation",
+  "sugar cultivation",
+  "Japanese colonial administration",
+  "public works",
+  "agricultural water supply",
+  "Taiwan Government-General",
+  "local press reporting"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch from Reed on earthquake damage to the Wushantou dam",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 4,
+   "date": "1930-12-30",
+   "from": "Charles S. Reed II, U.S. Vice Consul at Taihoku",
+   "to": "U.S. Department of State; copy to the U.S. Consulate General, Tokyo",
+   "about": "Reports how the December 1930 Taiwan earthquakes damaged the Wushantou dam and disrupted irrigation essential to regional rice and sugar production.",
+   "summary": "A succession of earthquakes beginning on December 8, followed by stronger shocks on December 21, damaged buildings, roads, bridges, and the Wushantou dam in western Taiwan. Nearly 8,000 cubic yards of earth reportedly collapsed from the dam, and cracks appeared across its inner and outer surfaces, prompting officials to drain the reservoir and consider extensive reconstruction. Yoichi Hatta estimated repairs at ¥1,000,000, although limited funds might restrict work to the most visibly damaged sections. Because irrigation water would be unavailable until late March or early April, the report warned of serious consequences for rice and sugar; all information was drawn from the local press.",
+   "keywords": [
+    "December 1930 earthquakes",
+    "Wushantou Reservoir",
+    "dam damage",
+    "Yoichi Hatta",
+    "reservoir drainage",
+    "repair costs",
+    "irrigation shortage",
+    "rice",
+    "sugar",
+    "local press"
+   ]
+  }
+ ],
+ "interest": "The despatch offers a compact contemporary account of the vulnerability of one of colonial Taiwan’s most important irrigation works to seismic activity. Its precise estimates of earth displacement, drainage rate, repair costs, and the expected irrigation interruption are especially useful for studying the relationship between infrastructure, natural disasters, and agricultural production. The source note is also important: it establishes that the consular account depended on local press reporting rather than direct inspection.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 54.2,
+  "identifier": "japan-internal-affairs-894a.6113-agriculture-soil-properties-1",
+  "file": "894A.6113 Agriculture., Soil. Properties. Tillage., Formosa. Taiwan, Irrigation.,  280.pdf",
+  "created": "2026-09-29 02:25:04"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "interest": "Answers a 1944 inquiry on Japanese merchant marine insurance.",
+ "keywords": [
+  "Japan",
+  "marine insurance",
+  "merchant marine",
+  "Pacific Northwest Underwriter",
+  "Department of State",
+  "Far Eastern Affairs",
+  "wartime economy",
+  "shipping insurance",
+  "maritime commerce",
+  "economic affairs"
+ ],
+ "overview": "April 1944 docket: Healy's inquiry on Japanese merchant marine insurance prompts memos by Grew and Williams and a reply.",
+ "people": [
+  {
+   "name": "William S. Healy",
+   "role": "Associate Editor, Pacific Northwest Underwriter",
+   "variants": [
+    "Healy",
+    "William S. Healy"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "Official, State Department Far Eastern Affairs",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Williams",
+   "role": "Official, State Department Far Eastern Affairs",
+   "variants": [
+    "Williams"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Washington",
+   "variants": [
+    "Wash."
+   ]
+  },
+  {
+   "name": "Pacific Northwest",
+   "variants": [
+    "PACIFIC NORTHWEST"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers docket sheet indexing correspondence and internal memoranda from April 1944 regarding Japanese merchant marine insurance.",
+   "date": "1944-04",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "marine insurance",
+    "Japan",
+    "merchant marine",
+    "List of Papers",
+    "Far Eastern Affairs",
+    "Pacific Northwest Underwriter"
+   ],
+   "start_page": 1,
+   "summary": "Lists April 1944 items on Japanese merchant marine insurance: Healy's inquiry, Grew's and Williams's memos, and the reply to Healy.",
+   "title": "List of Papers: Marine Insurance in Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13779,
+   "output_tokens": 5208,
+   "thinking_tokens": 4477,
+   "cache_read_tokens": 0,
+   "total_tokens": 18987
+  },
+  "backend": "agy",
+  "seconds": 20.9,
+  "identifier": "japan-internal-affairs-894.5062-economic-matters-insurance-4",
+  "file": "894.5062 Economic Matters., Insurance., Japan, Marine.,  124.pdf",
+  "created": "2026-09-29 09:04:50"
+ }
+}

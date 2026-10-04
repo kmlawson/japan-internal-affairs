@@ -1,0 +1,132 @@
+{
+ "interest": "This correspondence highlights the inter-agency intelligence coordination between the U.S. Navy's Office of Naval Intelligence and the State Department's Division of Far Eastern Affairs regarding Japanese industrial and military capabilities in late 1935. It is particularly interesting for showing early American scrutiny of Japan's potential transformation into a major arms producer and exporter, as well as the multilateral nature of pre-WWII intelligence channels originating in Germany and touching upon Latin America (Brazil).",
+ "keywords": [
+  "Japan",
+  "Office of Naval Intelligence",
+  "Division of Far Eastern Affairs",
+  "armaments",
+  "ordnance",
+  "munitions industry",
+  "Germany",
+  "Brazil",
+  "Stanley K. Hornbeck",
+  "W. D. Puleston",
+  "military intelligence",
+  "arms trade"
+ ],
+ "overview": "This file consists of confidential correspondence from late December 1935 between Captain W. D. Puleston, Director of Naval Intelligence, and Dr. Stanley K. Hornbeck, Chief of the State Department's Division of Far Eastern Affairs, filed under decimal classification 894.242 (Japan: Armaments; Ordnance). Captain Puleston forwards an intelligence report obtained via Germany highlighting the potential for Japan to emerge as a major producer of armaments, noting that the Navy Department is investigating specific claims in the report, particularly regarding Brazil. In response, Hornbeck returns the document after review and requests that any pertinent findings from ONI's ongoing inquiries be shared with the State Department.",
+ "people": [
+  {
+   "name": "William D. Puleston",
+   "role": "Captain, U.S. Navy; Director of Naval Intelligence",
+   "variants": [
+    "W. D. Puleston",
+    "Captain Puleston",
+    "Captain, U. S. Navy",
+    "J. D. Puleston",
+    "Captain J. D. Puleston, U.S.N."
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Chief, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "Dr. Hornbeck",
+    "Dr. Stanley K. Hornbeck",
+    "Stanley K. Hornbeck"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S.",
+    "U.S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmission of a confidential intelligence report received via Germany regarding Japan's potential to become a major producer and exporter of armaments.",
+   "date": "1935-12-27",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Captain W. D. Puleston, Director of Naval Intelligence",
+   "keywords": [
+    "Office of Naval Intelligence",
+    "Stanley K. Hornbeck",
+    "W. D. Puleston",
+    "Japan",
+    "armaments",
+    "Germany",
+    "Brazil",
+    "intelligence report"
+   ],
+   "start_page": 1,
+   "summary": "Captain W. D. Puleston, Director of Naval Intelligence, transmits a confidential intelligence report received via Germany to Dr. Stanley K. Hornbeck of the State Department's Division of Far Eastern Affairs. Puleston suggests that Japan's prospects of becoming a major producer of armaments warrant serious consideration. He mentions that ONI is attempting to verify various statements in the report, especially an allegation concerning Brazil, and asks Hornbeck to return the enclosed report after reading.",
+   "title": "Letter from Captain W. D. Puleston to Dr. Stanley K. Hornbeck transmitting report on Japanese armament production",
+   "to": "Dr. Stanley K. Hornbeck, Division of Far Eastern Affairs, Department of State"
+  },
+  {
+   "about": "Acknowledgment and return of the intelligence report on Japanese armament production, with a request for updates on ONI's findings.",
+   "date": "1935-12-28",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Dr. Stanley K. Hornbeck, Chief, Division of Far Eastern Affairs",
+   "keywords": [
+    "Division of Far Eastern Affairs",
+    "Stanley K. Hornbeck",
+    "W. D. Puleston",
+    "Office of Naval Intelligence",
+    "Japan",
+    "armaments",
+    "intelligence sharing"
+   ],
+   "start_page": 2,
+   "summary": "Dr. Stanley K. Hornbeck acknowledges receipt of Captain Puleston's letter of December 27 and the enclosed report received via Germany concerning Japanese armament production capabilities. Hornbeck returns the document as requested. He notes ONI's ongoing investigation into statements in the report and asks to be informed of any findings of interest.",
+   "title": "Letter from Dr. Stanley K. Hornbeck to Captain W. D. Puleston acknowledging and returning report",
+   "to": "Captain W. D. Puleston, Director of Naval Intelligence"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13996,
+   "output_tokens": 4767,
+   "thinking_tokens": 3659,
+   "cache_read_tokens": 0,
+   "total_tokens": 18763
+  },
+  "backend": "agy",
+  "seconds": 16.7,
+  "identifier": "japan-internal-affairs-894.242-equipment-and-supplies-1",
+  "file": "894.242 Equipment And Supplies., Japan, Armaments. Ordnance., December 27, 1935 - December 28, 1935 886.pdf",
+  "created": "2026-09-29 03:44:21"
+ }
+}

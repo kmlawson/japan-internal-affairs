@@ -1,0 +1,86 @@
+{
+ "interest": "Reports a 1938 Japanese mission exploring hydropower investment in Bolivia.",
+ "keywords": [
+  "Japan",
+  "Bolivia",
+  "La Paz",
+  "Japanese Commercial Mission",
+  "foreign investment",
+  "capital investment",
+  "hydroelectric power",
+  "water power",
+  "electrical equipment",
+  "factory construction",
+  "economic diplomacy",
+  "Latin America"
+ ],
+ "overview": "Cross-references a 1938 despatch on a Japanese mission's visit to La Paz to assess hydroelectric power for factory construction.",
+ "people": [
+  {
+   "name": "Robert G. Caldwell",
+   "role": "U.S. diplomatic representative in Bolivia",
+   "variants": [
+    "Caldwell"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department list of papers entry cross-referencing a despatch from Caldwell concerning Japanese commercial interest and water-power investigations in La Paz, Bolivia.",
+   "date": "1938-01-25",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Caldwell",
+   "keywords": [
+    "Bolivia",
+    "Japan",
+    "La Paz",
+    "Japanese Commercial Mission",
+    "capital investment",
+    "water power",
+    "electrical equipment",
+    "factories"
+   ],
+   "start_page": 1,
+   "summary": "Indexes a 1938 Caldwell despatch on a Japanese mission's La Paz visit to assess water power for factory construction.",
+   "title": "List of Papers: Investment of Japanese capital in Bolivia (Despatch No. 126 from Caldwell)",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13689,
+   "output_tokens": 3753,
+   "thinking_tokens": 3071,
+   "cache_read_tokens": 0,
+   "total_tokens": 17442
+  },
+  "backend": "agy",
+  "seconds": 19.1,
+  "identifier": "japan-internal-affairs-894.503124-economic-matters-capital-2",
+  "file": "894.503124 Economic Matters., Capital., Investment Of, Or Field For Investment Of, Capital Of Japan In Bolivia.,  251.pdf",
+  "created": "2026-09-29 08:07:57"
+ }
+}

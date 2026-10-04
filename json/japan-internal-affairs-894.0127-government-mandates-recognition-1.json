@@ -1,0 +1,144 @@
+{
+ "interest": "Japan's 1939 registration of foreign-born Nisei, with a translated 'List of the Second Generation' questionnaire.",
+ "keywords": [
+  "Nisei",
+  "dual nationality",
+  "foreign-born Japanese",
+  "military service",
+  "conscription",
+  "espionage",
+  "special registration",
+  "Yokohama",
+  "Second Generation",
+  "citizenship",
+  "Japanese Americans"
+ ],
+ "overview": "Consul Richard F. Boyce's September 1939 Yokohama despatch on Japan's registration of foreign-national residents of Japanese ancestry, with the translated questionnaire 'List of the Second Generation.'",
+ "people": [
+  {
+   "name": "Richard F. Boyce",
+   "role": "American Consul at Yokohama",
+   "variants": [
+    "Richard F. Boyce",
+    "RFB"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Despatch reporting the Japanese government's registration of foreign-born residents of Japanese race to identify potential military conscripts and prevent espionage.",
+   "date": "1939-09-06",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Richard F. Boyce, American Consul",
+   "keywords": [
+    "special registration",
+    "foreign nationality",
+    "dual nationality",
+    "conscription",
+    "espionage",
+    "Nisei",
+    "Yokohama"
+   ],
+   "start_page": 1,
+   "summary": "Boyce reports Japan registered foreign-national residents of Japanese race, mostly U.S.-born, to find dual citizens for service and guard against espionage.",
+   "title": "Despatch No. 556 from Richard F. Boyce on Japanese Government's Special Registration of Foreigners of Japanese Race",
+   "to": "The Secretary of State, Washington"
+  },
+  {
+   "about": "English translation of the questionnaire issued by Japanese authorities to register second-generation foreign-born persons of Japanese descent.",
+   "date": "1939-09-06",
+   "doc_type": "questionnaire",
+   "end_page": 3,
+   "from": "Japanese authorities",
+   "keywords": [
+    "List of the Second Generation",
+    "questionnaire",
+    "dual nationality",
+    "conscription",
+    "school history",
+    "registration form"
+   ],
+   "start_page": 3,
+   "summary": "Translated Japanese registration form 'List of the Second Generation' for foreign-national residents of Japanese ancestry.",
+   "title": "Questionnaire: List of the Second Generation",
+   "to": "Foreigners of Japanese race / Second Generation residents"
+  },
+  {
+   "about": "Department of State cross-reference sheet indexing a document concerning the control and status of persons under Japanese law.",
+   "date": "",
+   "doc_type": "cross-reference sheet",
+   "end_page": 4,
+   "from": "",
+   "keywords": [
+    "cross-reference sheet",
+    "State Department",
+    "citizenship",
+    "Japanese law"
+   ],
+   "start_page": 4,
+   "summary": "Cross-reference sheet, file 894.01272, with a fragmentary note on control of persons under Japanese law.",
+   "title": "Cross-Reference File Sheet on Control of Persons Under Japanese Law",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14300,
+   "output_tokens": 4576,
+   "thinking_tokens": 3398,
+   "cache_read_tokens": 0,
+   "total_tokens": 18876
+  },
+  "backend": "agy",
+  "seconds": 16.5,
+  "identifier": "japan-internal-affairs-894.0127-government-mandates-recognition-1",
+  "file": "894.0127 Government. Mandates, Recognition., Citizenship. Divide As 130 To 139., Japan, Registration., September 6, 1939 1126.pdf",
+  "created": "2026-09-28 21:55:31"
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "interest": "Shows American skepticism toward Nationalist China's state operation of former Japanese factories, via Solomon Trone's 1946 report.",
+ "keywords": [
+  "China",
+  "Shanghai",
+  "National Resources Commission",
+  "state enterprises",
+  "planned economy",
+  "enemy property",
+  "textile industry",
+  "Shanghai Power Company",
+  "electric power",
+  "industrial management",
+  "economic reconstruction"
+ ],
+ "overview": "November 1946 State Department memoranda on Solomon R. Trone's report to T. V. Soong on former Japanese plants run as Chinese state enterprises, criticizing their overstaffing and losses.",
+ "people": [
+  {
+   "name": "Solomon R. Trone",
+   "role": "Industrial Advisor to the Chinese Government",
+   "variants": [
+    "Trone",
+    "Mr. Trone"
+   ]
+  },
+  {
+   "name": "T. V. Soong",
+   "role": "President of the Executive Yuan",
+   "variants": [
+    "Dr. Soong"
+   ]
+  },
+  {
+   "name": "Charles R. Bennett",
+   "role": "Officer, Office of Far Eastern Affairs",
+   "variants": [
+    "CRB",
+    "Mr. Bennett",
+    "CRBennett"
+   ]
+  },
+  {
+   "name": "Arthur R. Ringwalt",
+   "role": "Officer, Division of Chinese Affairs",
+   "variants": [
+    "ARR",
+    "Mr. Ringwalt"
+   ]
+  },
+  {
+   "name": "James K. Penfield",
+   "role": "Deputy Director, Office of Far Eastern Affairs",
+   "variants": [
+    "Mr. Penfield"
+   ]
+  },
+  {
+   "name": "John Carter Vincent",
+   "role": "Director, Office of Far Eastern Affairs",
+   "variants": [
+    "JCV"
+   ]
+  },
+  {
+   "name": "George Woodard",
+   "role": "Officer, Division of Chinese Affairs",
+   "variants": [
+    "GWoodard",
+    "GOW"
+   ]
+  },
+  {
+   "name": "Charles Bayne",
+   "role": "Author of transmitting letter",
+   "variants": [
+    "Bayne",
+    "Mr. Bayne"
+   ]
+  },
+  {
+   "name": "A. E. P.",
+   "role": "State Department official",
+   "variants": [
+    "AEP"
+   ]
+  },
+  {
+   "name": "A. T. M.",
+   "role": "State Department official",
+   "variants": [
+    "ATM"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Internal State Department memorandum evaluating Solomon Trone's report on former enemy industrial plants taken over and operated by the Chinese Government.",
+   "date": "1946-11-07",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "AEP",
+   "keywords": [
+    "China",
+    "enemy property",
+    "industrial plants",
+    "state enterprises",
+    "textile industry",
+    "chemical industry"
+   ],
+   "start_page": 1,
+   "summary": "AEP evaluates Trone's report on seized enemy plants, noting over 100 of more than 400 were sold while China kept others as state enterprises, and suggests referral to DRF.",
+   "title": "Memorandum from AEP to JCV on Trone's Report on Taken-over Enemy Industrial Plants",
+   "to": "JCV"
+  },
+  {
+   "about": "Brief memorandum transmitting comments on the Bayne letter and criticizing Solomon Trone's advocacy of a planned economy in China.",
+   "date": "1946-11-05",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "CRB",
+   "keywords": [
+    "China",
+    "planned economy",
+    "private enterprise",
+    "state control",
+    "economic policy"
+   ],
+   "start_page": 2,
+   "summary": "Charles R. Bennett criticizes Trone's acceptance of a planned economy, arguing China would boom within two years if the government left business to private enterprise.",
+   "title": "Memorandum from CRB to ARR on the Bayne Letter and Planned Economy in China",
+   "to": "ARR"
+  },
+  {
+   "about": "Detailed memorandum analyzing Solomon Trone's report to T. V. Soong on Shanghai industrial conditions, enemy plants, and Chinese state enterprise management.",
+   "date": "1946-11-05",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "Mr. Bennett",
+   "keywords": [
+    "Shanghai",
+    "China",
+    "National Resources Commission",
+    "textile industry",
+    "Shanghai Power Company",
+    "electric power",
+    "overstaffing"
+   ],
+   "start_page": 3,
+   "summary": "Charles R. Bennett analyzes Trone's letter to T. V. Soong, citing mismanagement of former enemy plants and arguing state monopolies need Western managerial direction.",
+   "title": "Memorandum from Mr. Bennett to Mr. Penfield and Mr. Ringwalt on Industrial Conditions in Shanghai",
+   "to": "Mr. Penfield and Mr. Ringwalt"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14933,
+   "output_tokens": 8222,
+   "thinking_tokens": 6715,
+   "cache_read_tokens": 0,
+   "total_tokens": 23155
+  },
+  "backend": "agy",
+  "seconds": 27.0,
+  "identifier": "japan-internal-affairs-893.60-china-industrial-matters",
+  "file": "893.60 China, Industrial Matters., November 5, 1946 1540.pdf",
+  "created": "2026-09-28 21:00:23"
+ }
+}

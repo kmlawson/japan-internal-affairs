@@ -1,0 +1,120 @@
+{
+ "interest": "1940 Diet under the New Structure and 1944 news of Hara's death.",
+ "keywords": [
+  "Japanese Diet",
+  "New Structure",
+  "Privy Council",
+  "Yoshimichi Hara",
+  "Joseph C. Grew",
+  "W. Averell Harriman",
+  "Domei News Agency",
+  "Legislative Branch",
+  "National Solidarity",
+  "Imperial Diet"
+ ],
+ "overview": "Two papers on the Japanese Diet: Grew's 1940 despatch on the Diet and the New Structure, and Harriman's 1944 report of Privy Council President Hara's death.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "W. Averell Harriman",
+   "role": "U.S. Ambassador to the Soviet Union",
+   "variants": [
+    "HARRIMAN"
+   ]
+  },
+  {
+   "name": "Yoshimichi Hara",
+   "role": "President of the Japanese Privy Council",
+   "variants": [
+    "Yosi Mitsihara"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing Despatch No. 5154 concerning the convening of the Japanese Diet and national solidarity under the New Structure.",
+   "date": "1940-11-20",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "cross-reference sheet",
+    "Japanese Diet",
+    "New Structure",
+    "Joseph C. Grew",
+    "national solidarity"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Grew's despatch No. 5154 on the Diet session of December 24, 1940 and the New Structure.",
+   "title": "Cross-reference sheet for Despatch No. 5154 on the Japanese Diet and New Structure",
+   "to": "Department of State"
+  },
+  {
+   "about": "Telegram from Moscow transmitting a Japanese press report announcing the death of Privy Council President Yoshimichi Hara.",
+   "date": "1944-08-10",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "W. Averell Harriman",
+   "keywords": [
+    "telegram",
+    "W. Averell Harriman",
+    "Privy Council",
+    "Yoshimichi Hara",
+    "Domei",
+    "Moscow",
+    "Tokyo"
+   ],
+   "start_page": 2,
+   "summary": "Harriman relays a Domei report that Privy Council President Yoshimichi Hara died on August 7, 1944.",
+   "title": "Telegram from Harriman (Moscow) reporting death of Privy Council President Yoshimichi Hara",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13964,
+   "output_tokens": 4087,
+   "thinking_tokens": 3023,
+   "cache_read_tokens": 0,
+   "total_tokens": 18051
+  },
+  "backend": "agy",
+  "seconds": 14.9,
+  "identifier": "japan-internal-affairs-894.031-legislative-branch-of-1",
+  "file": "894.031 Legislative Branch Of Government., Japan, Organization., November 20, 1940 - August 10, 1944 1439.pdf",
+  "created": "2026-09-28 22:36:36"
+ }
+}

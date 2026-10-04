@@ -1,0 +1,96 @@
+{
+ "interest": "Japanese propaganda in Morocco, 1942.",
+ "keywords": [
+  "Japan",
+  "Morocco",
+  "Casablanca",
+  "propaganda",
+  "espionage",
+  "military intelligence",
+  "Prince Nabil",
+  "Jeunesse",
+  "Vichy France",
+  "State Department"
+ ],
+ "overview": "Docket for 894.20281 (1942) on Japanese activity in Morocco, including Prince Nabil and a propaganda article.",
+ "people": [
+  {
+   "name": "Prince Nabil",
+   "role": "Prince",
+   "variants": [
+    "Prince Nabil"
+   ]
+  },
+  {
+   "name": "H. Earle Russell",
+   "role": "U.S. Consul, Casablanca",
+   "variants": [
+    "Russell"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Morocco",
+   "variants": [
+    "Morocco"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Casablanca",
+   "variants": [
+    "Casablanca"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "French"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "List of papers cataloguing State Department documentation on Japanese military, intelligence, and propaganda activities in Morocco.",
+   "date": "1942-08-04",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "list of papers",
+    "Morocco",
+    "Japan",
+    "Casablanca",
+    "Prince Nabil",
+    "propaganda",
+    "Jeunesse",
+    "espionage"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.20281 on Japanese activity in Morocco, 1942.",
+   "title": "List of Papers: Military activities of Japan in Morocco",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13841,
+   "output_tokens": 7313,
+   "thinking_tokens": 6580,
+   "cache_read_tokens": 0,
+   "total_tokens": 21154
+  },
+  "backend": "agy",
+  "seconds": 26.4,
+  "identifier": "japan-internal-affairs-894.20281-military-affairs-army-1",
+  "file": "894.20281 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Morocco Including Gathering Of Information. Espionage. Propaganda.,  480.pdf",
+  "created": "2026-09-29 03:01:08"
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "interest": "Hitler gives Hirohito a 14th-century Japanese painting, 1935.",
+ "keywords": [
+  "Japanese history",
+  "historical relics",
+  "manuscripts",
+  "Viscount Kikujiro Ishii",
+  "diplomatic memoirs",
+  "Adolf Hitler",
+  "Prussian museum",
+  "Buddhist relics",
+  "Daihannayakyo",
+  "State Department decimal file 894.412"
+ ],
+ "overview": "Docket for 894.412: Ishii's memoirs, Hitler's gift of a painting and Daihannayakyo photos.",
+ "people": [
+  {
+   "name": "Kikujiro Ishii",
+   "role": "Viscount and Japanese diplomat",
+   "variants": [
+    "Viscount Ishii",
+    "Ishii, Viscount"
+   ]
+  },
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d'Affaires in Japan",
+   "variants": [
+    "Neville"
+   ]
+  },
+  {
+   "name": "William E. Dodd",
+   "role": "U.S. Ambassador to Germany",
+   "variants": [
+    "Dodd"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "Chancellor of Germany",
+   "variants": [
+    "Hitler"
+   ]
+  },
+  {
+   "name": "Arthur Garrels",
+   "role": "U.S. Consul General in Tokyo",
+   "variants": [
+    "Garrela"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Prussia",
+   "variants": [
+    "Prussian"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State list of papers cross-referencing three documents on Japanese historical relics, manuscripts, and diplomatic memoirs dated between 1931 and 1936.",
+   "date": "1936-07-23",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Viscount Kikujiro Ishii",
+    "Adolf Hitler",
+    "Prussian museum",
+    "Japanese Emperor",
+    "Daihannayakyo",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.412: Ishii memoirs, Hitler's painting gift and Buddhist scripture photos.",
+   "title": "List of Papers for Decimal File 894.412",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13779,
+   "output_tokens": 7987,
+   "thinking_tokens": 6981,
+   "cache_read_tokens": 0,
+   "total_tokens": 21766
+  },
+  "backend": "agy",
+  "seconds": 29.9,
+  "identifier": "japan-internal-affairs-894.412-history-japan-historical-3",
+  "file": "894.412 History., Japan, Historical Relics. Manuscripts.,  221.pdf",
+  "created": "2026-09-29 06:53:31"
+ }
+}

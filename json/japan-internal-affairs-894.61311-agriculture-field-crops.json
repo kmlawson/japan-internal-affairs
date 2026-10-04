@@ -1,0 +1,177 @@
+{
+ "interest": "This file provides a candid view of high-stakes bureaucratic and geopolitical decision-making within the U.S. government during the acute global food crisis of early 1946. It illustrates the stark trade-offs American officials faced when allocating desperately scarce grain, weighing the risk of political unrest and starvation in liberated and occupied Western Europe against General Douglas MacArthur's urgent warnings of famine in occupied Japan. Additionally, the documents expose administrative tensions between civilian departments and military authorities over minimum caloric baselines, export quotas, and the capabilities of the Department of Agriculture versus the Army Transportation Corps.",
+ "keywords": [
+  "wheat allocation",
+  "food relief",
+  "Japan",
+  "Europe",
+  "starvation",
+  "General Douglas MacArthur",
+  "caloric consumption",
+  "rations",
+  "Department of State",
+  "Department of Agriculture",
+  "Army Transportation Corps",
+  "postwar relief"
+ ],
+ "overview": "This file consists of two internal U.S. Department of State memoranda from February and March 1946 addressing the severe global wheat shortage and the competing demands for emergency food shipments between postwar Europe and occupied Japan. The documents illuminate internal policy conflicts over whether to divert grain from European allocations—specifically threatening rations in France, Italy, and the western occupation zones of Germany—to satisfy General Douglas MacArthur's urgent demands for 1.5 million tons of wheat to prevent mass starvation in Japan, ultimately recommending increased March and April shipments to sustain a minimal 900-calorie daily baseline in Japan.",
+ "people": [
+  {
+   "name": "William L. Clayton",
+   "role": "Assistant Secretary of State for Economic Affairs",
+   "variants": [
+    "Mr. Clayton",
+    "A-C"
+   ]
+  },
+  {
+   "name": "H. Freeman Matthews",
+   "role": "Director, Office of European Affairs",
+   "variants": [
+    "H. Freeman Matthews"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Mr. Acheson",
+    "U - Mr. Acheson"
+   ]
+  },
+  {
+   "name": "James A. Stillwell",
+   "role": "Adviser on Supplies and Resources, International Resources Division",
+   "variants": [
+    "Mr. Stillwell",
+    "JAStillwell"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army / Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "President of the United States",
+   "variants": [
+    "the President"
+   ]
+  },
+  {
+   "name": "James F. Byrnes",
+   "role": "Secretary of State",
+   "variants": [
+    "the Secretary"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italian"
+   ]
+  },
+  {
+   "name": "Western Germany",
+   "variants": [
+    "three western zones"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Memorandum arguing against reducing European wheat allocations to fulfill the U.S. Army's wheat request for Japan.",
+   "date": "1946-02-26",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "H. Freeman Matthews (Office of European Affairs)",
+   "keywords": [
+    "wheat allocation",
+    "Office of European Affairs",
+    "Europe",
+    "Japan",
+    "France",
+    "Italy",
+    "Germany",
+    "food rations",
+    "starvation"
+   ],
+   "start_page": 1,
+   "summary": "Matthews expresses alarm over an upcoming meeting regarding the Army's request for 1,500,000 tons of wheat for Japan, noting that meeting it would require cuts to European nations, including Germany. He argues that preserving the Italian ration and the 300-gram French ration is essential, and while Germany could be rationed more severely, starving the three western zones would cause political unrest. Believing that shifting several hundred thousand tons from Europe would trigger European starvation while having little real impact on Japanese starvation, he advocates prioritizing Europe's food supply.",
+   "title": "Memorandum from H. Freeman Matthews to William L. Clayton on Wheat Allocations for Europe and Japan",
+   "to": "William L. Clayton (Assistant Secretary of State for Economic Affairs)"
+  },
+  {
+   "about": "Memorandum recommending an immediate increase in wheat allocations to Japan for March and April 1946 to prevent mass starvation.",
+   "date": "1946-03-12",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "James A. Stillwell (International Resources Division)",
+   "keywords": [
+    "wheat allocation",
+    "Japan",
+    "Douglas MacArthur",
+    "caloric consumption",
+    "starvation",
+    "Department of Agriculture",
+    "Army Transportation Corps",
+    "Dean Acheson"
+   ],
+   "start_page": 2,
+   "summary": "Stillwell urges an immediate commitment to load 150,000 tons of wheat for Japan in March (an increase of 110,000 tons) and 200,000 tons in April to avert an extreme emergency reported by General MacArthur. He notes that both MacArthur and State Department experts conclude these amounts are necessary to maintain a bare survival diet of just under 900 calories per person per day. Stillwell argues that with the support of the Army Transportation Corps the higher March export quota can be met despite conservative Department of Agriculture estimates, and recommends clearing the position with the Secretary of State and the Cabinet Subcommittee on food.",
+   "title": "Memorandum from James A. Stillwell to Dean Acheson on Allocation of Wheat to Japan for March and April",
+   "to": "Dean Acheson (Under Secretary of State)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14393,
+   "output_tokens": 5733,
+   "thinking_tokens": 4444,
+   "cache_read_tokens": 0,
+   "total_tokens": 20126
+  },
+  "backend": "agy",
+  "seconds": 21.5,
+  "identifier": "japan-internal-affairs-894.61311-agriculture-field-crops",
+  "file": "894.61311 Agriculture., Field Crops. Seeds., Grains., Japan, Wheat., February 26, 1946 - March 12, 1946 1508.pdf",
+  "created": "2026-09-29 10:44:02"
+ }
+}

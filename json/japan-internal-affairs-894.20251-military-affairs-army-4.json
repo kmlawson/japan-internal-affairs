@@ -1,0 +1,170 @@
+{
+ "interest": "Japanese paid press propaganda in France after Manchuria.",
+ "keywords": [
+  "Japanese propaganda",
+  "France",
+  "Paris",
+  "French press",
+  "L'Écho de Paris",
+  "Manchukuo",
+  "Manchuria",
+  "monetary policy",
+  "deflation",
+  "foreign loans",
+  "diplomatic recognition",
+  "Warrington Dawson"
+ ],
+ "overview": "This file from State Department Decimal File 894.20251 (Military activities of Japan in France, including espionage and propaganda) contains records from late 1932 and early 1933 concerning Japanese press propaganda and diplomatic initiatives in France. The central document is Despatch No. W.D. 1144 (November 22–23, 1932), comprising a transmittal from the American Chargé d'Affaires ad interim in Paris and a confidential report by Special Assistant Warrington Dawson detailing an instance of paid Japanese propaganda in the French daily L'Écho de Paris regarding Japan's monetary policy, trade surplus, and deflationary discipline. The file also includes State Department Document File Notes (cross-reference sheets) indexing Despatch W.D. 1144 under file 894.51/391 and referencing Telegram No. 15 of January 10, 1933, from Ambassador Walter E. Edge (filed under 893.01 Manchuria/752) regarding the establishment of a central Japanese mission in Paris to seek European recognition and financial assistance for Manchukuo and orchestrate press propaganda.",
+ "people": [
+  {
+   "name": "Warrington Dawson",
+   "role": "Special Assistant, American Embassy, Paris",
+   "variants": [
+    "Dawson",
+    "Warrington Lawson",
+    "Warrington Dawson",
+    "Carrington Dawson"
+   ]
+  },
+  {
+   "name": "Walter Evans Edge",
+   "role": "U.S. Ambassador to France",
+   "variants": [
+    "Edge"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "French"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "America",
+    "America's"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "European"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Document File Note cross-referencing Despatch No. W.D. 1144 from Paris regarding Japanese press propaganda in France.",
+   "date": "1932-11-22",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "American Embassy, Paris (Warrington Dawson)",
+   "keywords": [
+    "cross-reference",
+    "Despatch W.D. 1144",
+    "France",
+    "Japanese propaganda",
+    "press",
+    "Warrington Dawson"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Dawson's 1932 report on Japanese propaganda in the French press.",
+   "title": "Document File Note for Despatch No. W.D. 1144 on Japanese Propaganda in France",
+   "to": "Department of State"
+  },
+  {
+   "about": "Despatch transmitting a confidential report by Warrington Dawson analyzing paid Japanese economic propaganda in the French press.",
+   "date": "1932-11-22",
+   "doc_type": "despatch",
+   "end_page": 4,
+   "from": "American Chargé d'Affaires ad interim and Warrington Dawson",
+   "keywords": [
+    "Japanese propaganda",
+    "French press",
+    "L'Écho de Paris",
+    "monetary policy",
+    "deflation",
+    "inflation",
+    "foreign loans",
+    "Warrington Dawson"
+   ],
+   "start_page": 2,
+   "summary": "Dawson reports a Japanese-paid article in L'Écho de Paris praising Japan's finances, likely to prepare for a loan.",
+   "title": "Despatch No. W.D. 1144 Forwarding Confidential Report on Japanese Propaganda in France",
+   "to": "Secretary of State, Washington, D.C."
+  },
+  {
+   "about": "Document File Note cross-referencing Telegram No. 15 from Ambassador Edge regarding a Japanese central mission in Paris for Manchukuo recognition and propaganda.",
+   "date": "1933-01-10",
+   "doc_type": "cross-reference sheet",
+   "end_page": 5,
+   "from": "Walter E. Edge",
+   "keywords": [
+    "cross-reference",
+    "Telegram No. 15",
+    "Manchukuo",
+    "Manchuria",
+    "Japan",
+    "Paris",
+    "Walter E. Edge",
+    "diplomatic recognition",
+    "propaganda"
+   ],
+   "start_page": 5,
+   "summary": "Cross-reference: Japan sets up a Paris mission to win recognition and loans for Manchukuo.",
+   "title": "Document File Note for Telegram No. 15 on Japanese Central Mission in Paris for Manchukuo",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14340,
+   "output_tokens": 36951,
+   "thinking_tokens": 35327,
+   "cache_read_tokens": 0,
+   "total_tokens": 51291
+  },
+  "backend": "agy",
+  "seconds": 106.1,
+  "identifier": "japan-internal-affairs-894.20251-military-affairs-army-4",
+  "file": "894.20251 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In France Including Gathering Of Information. Espionage. Propaganda., November 770.pdf",
+  "created": "2026-09-29 02:25:00"
+ }
+}

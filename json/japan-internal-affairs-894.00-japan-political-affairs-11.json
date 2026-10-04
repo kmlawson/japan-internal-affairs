@@ -1,0 +1,78 @@
+{
+ "interest": "Naval Attaché reports on Yonai Cabinet and Japanese unrest, 1940.",
+ "keywords": [
+  "Japan",
+  "Naval Attaché",
+  "Yonai Cabinet",
+  "Abe Cabinet",
+  "General Intelligence Summary",
+  "social unrest",
+  "international relations",
+  "political affairs",
+  "Department of State",
+  "internal affairs"
+ ],
+ "overview": "List of Papers for 894.00 indexing three 1940 Naval Attaché reports on the Yonai Cabinet, international relations and social unrest.",
+ "people": [
+  {
+   "name": "Mitsumasa Yonai",
+   "role": "Admiral and Prime Minister of Japan",
+   "variants": [
+    "Admiral Yonai",
+    "Yonai"
+   ]
+  },
+  {
+   "name": "Nobuyuki Abe",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Abe"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department list of papers indexing three intelligence reports from the U.S. Naval Attaché in Japan concerning political changes and social conditions in early 1940.",
+   "date": "1940",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Naval Attaché",
+    "Japan",
+    "Yonai Cabinet",
+    "Abe Cabinet",
+    "social unrest",
+    "intelligence summary"
+   ],
+   "start_page": 1,
+   "summary": "List of Papers logging three 1940 Naval Attaché reports on the Yonai Cabinet, international relations and Japanese social unrest.",
+   "title": "Department of State List of Papers for File 894.00 (Japan, Political Affairs)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13722,
+   "output_tokens": 4256,
+   "thinking_tokens": 3533,
+   "cache_read_tokens": 0,
+   "total_tokens": 17978
+  },
+  "backend": "agy",
+  "seconds": 18.2,
+  "identifier": "japan-internal-affairs-894.00-japan-political-affairs-11",
+  "file": "894.00 Japan, Political Affairs.,  78.pdf",
+  "created": "2026-09-28 21:09:22"
+ }
+}

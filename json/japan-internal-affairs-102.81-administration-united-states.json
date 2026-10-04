@@ -1,0 +1,129 @@
+{
+ "interest": "Shows Japan seeking American bank credit in 1940 to buy China coast shipping, which U.S. consuls warned against.",
+ "keywords": [
+  "coastal shipping",
+  "freight rates",
+  "Japanese capital shortage",
+  "American banks",
+  "Shanghai currency market",
+  "foreign exchange reserves",
+  "Chinese yuan",
+  "Panamanian-flag vessels",
+  "commercial credit",
+  "Sino-Japanese War",
+  "economic sanctions",
+  "occupied China"
+ ],
+ "overview": "Section Three of Shanghai Telegram No. 883 (September 7, 1940, Butrick) warns that letting American banks finance Japanese coastal shipping in occupied China would set a damaging precedent.",
+ "people": [
+  {
+   "name": "Richard P. Butrick",
+   "role": "U.S. Consul at Shanghai",
+   "variants": [
+    "BUTRICK"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "Secretary of State"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Shanghai",
+   "variants": [
+    "SHANGHAI",
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panaman"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Telegram reporting on Japanese attempts to secure American bank financing and shipping tonnage in Shanghai and warning against creating a precedent for financing Japanese expansion in China.",
+   "date": "1940-09-07",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Richard P. Butrick (Shanghai)",
+   "keywords": [
+    "coastal shipping",
+    "freight rates",
+    "Japanese financing",
+    "American banks",
+    "Shanghai open market",
+    "foreign exchange",
+    "Panamanian flag",
+    "Chinese yuan"
+   ],
+   "start_page": 1,
+   "summary": "Butrick reports Japanese efforts to finance China coast shipping through New York credits and Shanghai dollar purchases, warning against American bank accommodation.",
+   "title": "Telegram No. 883 (Section Three) from Butrick (Shanghai) on Japanese Shipping and American Bank Financing in China",
+   "to": "Secretary of State (Washington)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14023,
+   "output_tokens": 5024,
+   "thinking_tokens": 4101,
+   "cache_read_tokens": 0,
+   "total_tokens": 19047
+  },
+  "backend": "agy",
+  "seconds": 15.3,
+  "identifier": "japan-internal-affairs-102.81-administration-united-states",
+  "file": "102.81, Administration, United States Government, Bureau Of Foreign And Domestic Commerce., September 7, 1940 1210.pdf",
+  "created": "2026-09-28 20:53:41"
+ }
+}

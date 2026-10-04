@@ -1,0 +1,81 @@
+{
+ "interest": "No Japanese presence in Portuguese East Africa, 1942.",
+ "keywords": [
+  "Portuguese East Africa",
+  "Mozambique",
+  "Lourenço Marques",
+  "Japan",
+  "World War II",
+  "military intelligence",
+  "espionage",
+  "diplomatic representation",
+  "consular reporting",
+  "cross-reference sheet"
+ ],
+ "overview": "Cross-reference note of March 19, 1942: Consul Preston reports no Japanese representation or interests in Portuguese East Africa.",
+ "people": [
+  {
+   "name": "Austin R. Preston",
+   "role": "U.S. Consul at Lourenço Marques",
+   "variants": [
+    "Preston"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Mozambique",
+   "variants": [
+    "Portuguese East Africa"
+   ]
+  },
+  {
+   "name": "Maputo",
+   "variants": [
+    "Lourenco Marques"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet indexing a telegram reporting that there is no Japanese representation or interests in Portuguese East Africa.",
+   "date": "1942-03-19",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Austin R. Preston",
+   "keywords": [
+    "Portuguese East Africa",
+    "Mozambique",
+    "Lourenço Marques",
+    "Japanese representation",
+    "cross-reference sheet",
+    "World War II"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Preston's telegram No. 447: no Japanese interests in Portuguese East Africa.",
+   "title": "Cross-Reference Sheet: Japanese representation and interests in Portuguese East Africa",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13746,
+   "output_tokens": 2664,
+   "thinking_tokens": 2023,
+   "cache_read_tokens": 0,
+   "total_tokens": 16410
+  },
+  "backend": "agy",
+  "seconds": 13.3,
+  "identifier": "japan-internal-affairs-894.20253n-military-affairs-army-2",
+  "file": "894.20253N Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Portuguese East Africa Including Gathering Of Information. Espionage. Prop 1337.pdf",
+  "created": "2026-09-29 02:41:34"
+ }
+}

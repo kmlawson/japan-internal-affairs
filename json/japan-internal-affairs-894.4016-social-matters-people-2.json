@@ -1,0 +1,116 @@
+{
+ "interest": "Private talks with Hornbeck on Jewish questions.",
+ "keywords": [
+  "Stanley K. Hornbeck",
+  "M. Kleiman",
+  "State Department",
+  "Japan",
+  "Palestine",
+  "race problems",
+  "Jewish refugees",
+  "clipping",
+  "Mr. Wattawa",
+  "The New York Times"
+ ],
+ "overview": "M. Kleiman's 1939 letter thanking Hornbeck for a meeting, with a New York Times clipping on Palestine.",
+ "people": [
+  {
+   "name": "M. Kleiman",
+   "role": "Author and correspondent (Paramount Bldg., New York City)",
+   "variants": [
+    "M. Kleiman",
+    "MK"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Adviser on Political Relations, U.S. Department of State",
+   "variants": [
+    "Stanley K. Hornbeck",
+    "Mr. Stanley K. Hornbeck"
+   ]
+  },
+  {
+   "name": "Wattawa",
+   "role": "Associate of M. Kleiman who visited the State Department",
+   "variants": [
+    "Mr. Wattawa"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "New York City",
+   "variants": [
+    "New York City",
+    "NEW YORK, N.Y."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Palestine",
+   "variants": [
+    "PALESTINE"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cover letter from M. Kleiman to Stanley K. Hornbeck expressing appreciation for a meeting and enclosing a related newspaper clipping.",
+   "date": "1939-03-02",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "M. Kleiman",
+   "keywords": [
+    "Stanley K. Hornbeck",
+    "M. Kleiman",
+    "Mr. Wattawa",
+    "Department of State",
+    "memorandum",
+    "clipping"
+   ],
+   "start_page": 1,
+   "summary": "M. Kleiman thanks Hornbeck for a meeting and promises a memorandum.",
+   "title": "Letter from M. Kleiman to Stanley K. Hornbeck",
+   "to": "Stanley K. Hornbeck"
+  },
+  {
+   "about": "Newspaper clipping from The New York Times reporting on Jewish rejection of a plan concerning Palestine.",
+   "date": "1931-01-24",
+   "doc_type": "clipping",
+   "end_page": 2,
+   "from": "The New York Times",
+   "keywords": [
+    "The New York Times",
+    "Palestine",
+    "Jews",
+    "newspaper clipping",
+    "press report"
+   ],
+   "start_page": 2,
+   "summary": "New York Times clipping, 1931: 'Plan on Palestine Rejected by Jews'.",
+   "title": "Clipping from The New York Times: 'Plan on Palestine Rejected by Jews'",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14201,
+   "output_tokens": 2824,
+   "thinking_tokens": 1820,
+   "cache_read_tokens": 0,
+   "total_tokens": 17025
+  },
+  "backend": "agy",
+  "seconds": 12.6,
+  "identifier": "japan-internal-affairs-894.4016-social-matters-people-2",
+  "file": "894.4016 Social Matters., People., Japan, Race Problems. Racial Disturbances, Their Suppression. Massacres. Pogroms., March 2, 1939 1083.pdf",
+  "created": "2026-09-29 05:13:59"
+ }
+}

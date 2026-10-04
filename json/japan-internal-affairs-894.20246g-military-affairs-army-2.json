@@ -1,0 +1,193 @@
+{
+ "interest": "Japanese spying and propaganda in Hong Kong, 1936–39.",
+ "keywords": [
+  "Hong Kong",
+  "Japan",
+  "espionage",
+  "propaganda",
+  "military intelligence",
+  "harbour defenses",
+  "Hong Kong News",
+  "Japanese Secret Service",
+  "salvage operations",
+  "Kenkichi Fujiyama",
+  "Addison E. Southard",
+  "British intelligence"
+ ],
+ "overview": "Docket for 894.20246G (1936–39) on Japanese spying and propaganda in Hong Kong, including the Hong Kong News.",
+ "people": [
+  {
+   "name": "Kenkichi Fujiyama",
+   "role": "Japanese national in Hong Kong arrested for photographing the harbour",
+   "variants": [
+    "Kenkichi Fujiyama"
+   ]
+  },
+  {
+   "name": "John D. Hoover",
+   "role": "U.S. Consular officer in Hong Kong",
+   "variants": [
+    "Hoover"
+   ]
+  },
+  {
+   "name": "Addison E. Southard",
+   "role": "U.S. Consul General in Hong Kong",
+   "variants": [
+    "Southard"
+   ]
+  },
+  {
+   "name": "Leonid Nicolaevitch Gutman",
+   "role": "Japanese Secret Service Agent",
+   "variants": [
+    "Leonid Nicolaevitch Gutman"
+   ]
+  },
+  {
+   "name": "Leon Bielfeld",
+   "role": "Japanese Secret Service Agent",
+   "variants": [
+    "Leon Bielfeld"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hong Kong harbour"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Emb.Tokyo"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Reports on the arrest and investigation of Japanese national Kenkichi Fujiyama for photographing Hong Kong harbour.",
+   "date": "1936-10-06",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Hoover",
+   "keywords": [
+    "Hong Kong",
+    "Kenkichi Fujiyama",
+    "espionage",
+    "photography",
+    "Hong Kong harbour",
+    "arrest"
+   ],
+   "start_page": 1,
+   "summary": "Report on the arrest of Kenkichi Fujiyama for photographing Hong Kong harbour; no forbidden photos found.",
+   "title": "Despatch from Hoover on arrest of Kenkichi Fujiyama in Hong Kong",
+   "to": "Embassy, Tokyo"
+  },
+  {
+   "about": "Transmits newspaper clippings regarding criticism of the Hong Kong government for allowing a Japanese salvage company to work in a fortified area.",
+   "date": "1938-03-17",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Southard",
+   "keywords": [
+    "Hong Kong",
+    "salvage",
+    "fortified area",
+    "President Hoover",
+    "defenses",
+    "Southard"
+   ],
+   "start_page": 1,
+   "summary": "Southard forwards press criticism of letting a Japanese salvage firm work in a Hong Kong fortified area.",
+   "title": "Despatch No. 137 from Southard on Japanese salvage operations in Hong Kong fortified area",
+   "to": "Department of State"
+  },
+  {
+   "about": "Reports on the publication of a new Japanese English-language propaganda newspaper in Hong Kong titled the Hong Kong News.",
+   "date": "1939-07-26",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Southard",
+   "keywords": [
+    "Hong Kong News",
+    "propaganda",
+    "English-language press",
+    "Southard",
+    "Hong Kong"
+   ],
+   "start_page": 1,
+   "summary": "Southard reports the launch of the Japanese English-language Hong Kong News.",
+   "title": "Despatch No. 493 from Southard on publication of the Hong Kong News",
+   "to": "FE EU"
+  },
+  {
+   "about": "Encloses a copy of an editorial from the Hong Kong Telegraph discussing the newly established Japanese propaganda organ, the Hong Kong News.",
+   "date": "1939-07-26",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Southard",
+   "keywords": [
+    "Hong Kong Telegraph",
+    "Hong Kong News",
+    "editorial",
+    "propaganda",
+    "Southard"
+   ],
+   "start_page": 1,
+   "summary": "Southard sends a Hong Kong Telegraph editorial on the new Hong Kong News.",
+   "title": "Despatch No. 494 from Southard enclosing Hong Kong Telegraph editorial on the Hong Kong News",
+   "to": "FE EU"
+  },
+  {
+   "about": "Furnishes intelligence and personal particulars regarding Japanese Secret Service agents Leonid Nicolaevitch Gutman and Leon Bielfeld.",
+   "date": "1939-11-13",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "Great Britain",
+   "keywords": [
+    "Leonid Nicolaevitch Gutman",
+    "Leon Bielfeld",
+    "Japanese Secret Service",
+    "espionage",
+    "intelligence agents",
+    "Great Britain"
+   ],
+   "start_page": 1,
+   "summary": "British memo identifying Leonid Gutman and Leon Bielfeld as Japanese Secret Service agents.",
+   "title": "British Memorandum No. 167 on Japanese Secret Service agents Gutman and Bielfeld",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14010,
+   "output_tokens": 34536,
+   "thinking_tokens": 32747,
+   "cache_read_tokens": 0,
+   "total_tokens": 48546
+  },
+  "backend": "agy",
+  "seconds": 106.1,
+  "identifier": "japan-internal-affairs-894.20246g-military-affairs-army-2",
+  "file": "894.20246G Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Hong Kong Including Gathering Of Information. Espionage. Propaganda.,  510.pdf",
+  "created": "2026-09-29 02:15:22"
+ }
+}

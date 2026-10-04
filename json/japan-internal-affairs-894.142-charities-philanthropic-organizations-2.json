@@ -1,0 +1,147 @@
+{
+ "interest": "Spain and Switzerland brokered wartime Red Cross exchanges, including Prince Tadatsugu Shimazu's Teia Maru voyage.",
+ "keywords": [
+  "Japanese Red Cross",
+  "American Red Cross",
+  "repatriation",
+  "exchange vessels",
+  "Teia Maru",
+  "protecting powers",
+  "Spanish Embassy",
+  "Switzerland",
+  "Tadatsugu Shimazu",
+  "civilian exchange",
+  "Singapore",
+  "World War II humanitarian diplomacy"
+ ],
+ "overview": "Four cross-reference sheets (1942–43) on wartime Red Cross exchanges through Spain and Switzerland, including Prince Tadatsugu Shimazu's travel on the Teia Maru.",
+ "people": [
+  {
+   "name": "Prince Tadatsugu Shimazu",
+   "role": "Vice-President of the Japanese Red Cross",
+   "variants": [
+    "Prince Tadatugu Simazu",
+    "Tadatugu Simazu"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese-controlled areas"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spanish Embassy"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State cross-reference sheet recording agreement to a proposal regarding the inclusion of Red Cross representatives and their dependents in civilian exchange.",
+   "date": "1942-02-05",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Red Cross",
+    "repatriation",
+    "civilian exchange",
+    "Spanish Embassy",
+    "dependents"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to a February 5, 1942 note to the Spanish Embassy agreeing to include Red Cross representatives in the exchange.",
+   "title": "Cross-reference sheet on inclusion of Red Cross representatives and dependents in exchange",
+   "to": "Spanish Embassy"
+  },
+  {
+   "about": "A cross-reference sheet regarding instructions sent to Switzerland seeking confirmation of the evacuation of all Red Cross personnel from Japan and Japanese-controlled areas.",
+   "date": "1942-04-24",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "Red Cross",
+    "repatriation",
+    "exchange vessel",
+    "Switzerland",
+    "Japan",
+    "Japanese-controlled areas"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to Telegram No. 1033 (April 1942) seeking all Red Cross personnel in Japanese territory on the first exchange ship.",
+   "title": "Cross-reference sheet on evacuation of Red Cross personnel on first exchange vessel",
+   "to": "Switzerland"
+  },
+  {
+   "about": "A cross-reference sheet noting a Japanese Government request via the Spanish Embassy for Prince Tadatsugu Shimazu and two secretaries to board the exchange ship Teia Maru.",
+   "date": "1943-08-28",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Spanish Embassy",
+   "keywords": [
+    "Prince Tadatugu Simazu",
+    "Japanese Red Cross",
+    "Teia Maru",
+    "Spanish Embassy",
+    "exchange vessel"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to an August 1943 Japanese request for Prince Tadatsugu Shimazu to sail on the Teia Maru.",
+   "title": "Cross-reference sheet on request for Prince Tadatsugu Shimazu to embark on the Teia Maru",
+   "to": "Department of State"
+  },
+  {
+   "about": "A cross-reference sheet recording State Department approval for Prince Tadatsugu Shimazu and two secretaries to travel on the Teia Maru to Singapore and return.",
+   "date": "1943-08-30",
+   "doc_type": "cross-reference sheet",
+   "end_page": 4,
+   "from": "Department of State",
+   "keywords": [
+    "Prince Tadatugu Simazu",
+    "Japanese Red Cross",
+    "Teia Maru",
+    "Singapore",
+    "Japan",
+    "Spanish Embassy",
+    "travel authorization"
+   ],
+   "start_page": 4,
+   "summary": "Cross-reference to State's August 30, 1943 approval of Prince Tadatsugu Shimazu's Teia Maru trip to Singapore.",
+   "title": "Cross-reference sheet approving travel of Prince Tadatsugu Shimazu on the Teia Maru to Singapore",
+   "to": "Spanish Embassy"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14144,
+   "output_tokens": 6116,
+   "thinking_tokens": 4587,
+   "cache_read_tokens": 0,
+   "total_tokens": 20260
+  },
+  "backend": "agy",
+  "seconds": 20.7,
+  "identifier": "japan-internal-affairs-894.142-charities-philanthropic-organizations-2",
+  "file": "894.142 Charities. Philanthropic Organizations., Japan, Red Cross., February 5, 1942 - August 30, 1943 1398.pdf",
+  "created": "2026-09-28 23:26:42"
+ }
+}

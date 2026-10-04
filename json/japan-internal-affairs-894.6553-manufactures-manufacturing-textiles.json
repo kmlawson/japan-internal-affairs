@@ -1,0 +1,189 @@
+{
+ "overview": "This file traces the U.S. occupation administration’s handling of a fourth-quarter 1946 allocation of abaca fiber for Japanese cordage manufacture. It begins with the Department of State’s tentative authorization of 685,000 pounds of spinnable fiber, plus monthly quantities of tow, continues with SCAP’s brief notice that action was pending, and concludes with a detailed request that the Reconstruction Finance Corporation confirm available grades and arrange shipment from the Philippines to Japan. The correspondence also records interagency clearances, the proposed landed-price calculation, and authorization to pay from the SCAP export fund.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "US",
+    "United States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Unspecified port in Japan",
+   "variants": [
+    "Japanese Port"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "I. A. Baldwin",
+   "role": "International Resources official or drafter",
+   "variants": [
+    "IABaldwin"
+   ]
+  },
+  {
+   "name": "D. K.",
+   "role": "Acting approving official or signatory",
+   "variants": [
+    "DK"
+   ]
+  },
+  {
+   "name": "J. K. McCormick",
+   "role": "Clearance official, listed with the code or initials JK",
+   "variants": [
+    "McCormick"
+   ]
+  },
+  {
+   "name": "Kidd",
+   "role": "Civilian Production Administration clearance official",
+   "variants": [
+    "Kidd"
+   ]
+  },
+  {
+   "name": "Wall",
+   "role": "Civilian Production Administration clearance official",
+   "variants": [
+    "Wall"
+   ]
+  },
+  {
+   "name": "Palmer",
+   "role": "Agriculture clearance official",
+   "variants": [
+    "Palmer"
+   ]
+  },
+  {
+   "name": "Henry",
+   "role": "Office of International Trade clearance official",
+   "variants": [
+    "Henry"
+   ]
+  }
+ ],
+ "keywords": [
+  "abaca",
+  "cordage",
+  "textile manufacture",
+  "fiber allocation",
+  "SCAP",
+  "Reconstruction Finance Corporation",
+  "Philippines",
+  "Japanese economic recovery",
+  "commodity grades",
+  "shipping schedules",
+  "tow fiber",
+  "fourth quarter 1946",
+  "SCAP export fund",
+  "FOB pricing",
+  "interagency coordination"
+ ],
+ "subfiles": [
+  {
+   "title": "State Department authorization for Japanese abaca allocation",
+   "doc_type": "outgoing telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1946-09-13",
+   "from": "U.S. Department of State, Washington",
+   "to": "Supreme Commander for the Allied Powers (SCAP), Tokyo",
+   "about": "The Department tentatively authorizes an abaca allocation for Japanese cordage production and instructs SCAP to begin negotiations with the Reconstruction Finance Corporation.",
+   "summary": "Pending formal Civilian Production Administration authorization, the Department tentatively establishes a fourth-quarter allocation of 685,000 pounds of spinnable abaca fiber in cordage grades J and below. It also reports that 100 tons of tow grades are available monthly and directs SCAP to begin negotiations with the Reconstruction Finance Corporation. Maguey and Canton fiber are stated not to fall under U.S. allocations, and the telegram records clearances from several U.S. agencies and offices.",
+   "keywords": [
+    "abaca",
+    "cordage grades",
+    "Civilian Production Administration",
+    "Reconstruction Finance Corporation",
+    "tow fiber",
+    "allocation",
+    "Japan",
+    "interagency clearance"
+   ]
+  },
+  {
+   "title": "SCAP notice that action on the abaca allocation is pending",
+   "doc_type": "incoming telegram",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1946-09-21",
+   "from": "SCAP, Tokyo",
+   "to": "U.S. Department of State, Washington, via the War Department",
+   "about": "SCAP acknowledges the State Department’s abaca instruction and reports that a substantive reply will follow when action has been taken.",
+   "summary": "This short restricted relay refers to State Department telegram 481 of September 14. SCAP reports that action remains pending and promises a reply at the earliest opportunity. The page also documents the cable’s routing through the War Department and its receipt and filing by State Department offices.",
+   "keywords": [
+    "SCAP",
+    "status report",
+    "abaca allocation",
+    "Tokyo",
+    "War Department",
+    "Department of State",
+    "restricted telegram",
+    "communications routing"
+   ]
+  },
+  {
+   "title": "SCAP request for RFC confirmation and shipment of abaca",
+   "doc_type": "incoming telegram",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1946-10-08",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers, Tokyo",
+   "to": "War Department (SD)",
+   "about": "SCAP asks the Reconstruction Finance Corporation to confirm abaca quantities and grades, arrange shipment from the Philippines, and accept payment from the SCAP export fund.",
+   "summary": "SCAP requests confirmation and a shipping schedule for 685,000 pounds of spinnable abaca fiber in grades J and below for delivery during the fourth quarter of 1946, expressing a preference for higher grades. It separately seeks monthly quantities of 100 tons of abaca tow, again preferring higher grades. Prices are to equal the cost of comparable grades shipped to the United States plus freight and insurance to produce an FOB Japanese-port price. Payment to the Reconstruction Finance Corporation from the SCAP export fund is explicitly authorized.",
+   "keywords": [
+    "abaca",
+    "Reconstruction Finance Corporation",
+    "Philippines",
+    "shipping schedule",
+    "cordage grades",
+    "tow grades",
+    "FOB Japanese port",
+    "freight and insurance",
+    "SCAP export fund",
+    "payment authorization"
+   ]
+  }
+ ],
+ "interest": "The file offers a compact view of how occupation authorities secured raw materials for Japan’s postwar industrial recovery through U.S.-controlled allocation and purchasing systems. Its unusually specific quantities, fiber grades, delivery period, pricing formula, and funding authorization make it useful for reconstructing the mechanics of commodity procurement rather than merely its policy aims. The routing marks and interagency clearances also reveal how the State Department, War Department, Civilian Production Administration, Reconstruction Finance Corporation, and SCAP divided responsibility and communicated across the occupation bureaucracy.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 69.5,
+  "identifier": "japan-internal-affairs-894.6553-manufactures-manufacturing-textiles",
+  "file": "894.6553 Manufactures. Manufacturing., Textiles., Japan, Cordage., September 13, 1946 - October 8, 1946 1535.pdf",
+  "created": "2026-09-29 09:40:05"
+ }
+}

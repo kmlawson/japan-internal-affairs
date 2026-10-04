@@ -1,0 +1,88 @@
+{
+ "interest": "This document illustrates how U.S. intelligence and the State Department monitored Axis espionage networks immediately following American entry into World War II in January 1942. It highlights neutral Switzerland's function as a critical intelligence crossroad, pinpointing the Japanese Military Attaché in Bern as the director of Japanese espionage throughout continental Europe. Furthermore, the cross-reference connection to North Africa underscores the intercontinental scope of Allied tracking of Japanese intelligence and military attachés.",
+ "keywords": [
+  "Japanese Intelligence Service",
+  "espionage net",
+  "Military Attaché",
+  "Bern",
+  "Switzerland",
+  "Europe",
+  "North Africa",
+  "World War II",
+  "intelligence operations",
+  "cross-reference sheet"
+ ],
+ "overview": "This file consists of a single State Department cross-reference sheet dated January 8, 1942, filed under classification 894.20240 (Confidential File). It cross-references an underlying military intelligence document (Military Attaché report No. 26.318-W, filed under 862.20280/3) concerning the Japanese Intelligence Service, noting that the Japanese Military Attaché in Bern, Switzerland served as the head of an espionage network operating across Europe, with an associated communication relating to North Africa.",
+ "people": [
+  {
+   "name": "Schew",
+   "role": "Military Attaché",
+   "variants": [
+    "Schew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "North Africa"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department cross-reference sheet recording that the Japanese Military Attaché in Bern directed Japanese espionage operations in Europe.",
+   "date": "1942-01-08",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Military Attaché",
+   "keywords": [
+    "Japanese Intelligence Service",
+    "Military Attaché",
+    "espionage net",
+    "Bern",
+    "Switzerland",
+    "Europe",
+    "North Africa"
+   ],
+   "start_page": 1,
+   "summary": "A State Department cross-reference note dated January 8, 1942, indexing Military Attaché paper No. 26.318-W located in decimal file 862.20280/3. It highlights intelligence indicating that the Japanese Military Attaché in Bern, Switzerland was directing an espionage network operating across Europe. The reference also notes a communication involving the Military Attaché in North Africa.",
+   "title": "Cross-Reference Sheet on Japanese Intelligence Service in Europe",
+   "to": "Military Attaché"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13750,
+   "output_tokens": 2431,
+   "thinking_tokens": 1810,
+   "cache_read_tokens": 0,
+   "total_tokens": 16181
+  },
+  "backend": "agy",
+  "seconds": 11.2,
+  "identifier": "japan-internal-affairs-894.20240-military-affairs-army-2",
+  "file": "894.20240 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Europe Including Gathering Of Information. Espionage. Propaganda., January  1320.pdf",
+  "created": "2026-09-29 01:59:23"
+ }
+}

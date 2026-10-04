@@ -1,0 +1,95 @@
+{
+ "interest": "Ireland reports only four Japanese in the country, 1942.",
+ "keywords": [
+  "Ireland",
+  "Japan",
+  "espionage",
+  "subversive activities",
+  "Axis agents",
+  "World War II",
+  "Irish neutrality",
+  "Department of State",
+  "Irish Legation",
+  "Sumner Welles",
+  "Robert Brennan",
+  "Sean Nunan"
+ ],
+ "overview": "Docket for 894.20241d (1942): Ireland reports only four Japanese residents, and Welles discusses Japanese tourists with Minister Brennan.",
+ "people": [
+  {
+   "name": "Sumner Welles",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Welles",
+    "Mr. Welles"
+   ]
+  },
+  {
+   "name": "Robert Brennan",
+   "role": "Irish Minister to the United States",
+   "variants": [
+    "Mr. Brennan"
+   ]
+  },
+  {
+   "name": "Sean Nunan",
+   "role": "Counselor, Irish Legation",
+   "variants": [
+    "Nunan"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Ireland",
+   "variants": [
+    "Ireland",
+    "twenty-six counties of Ireland"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Docket sheet listing State Department records on alleged Japanese subversive activities and intelligence presence in Ireland.",
+   "date": "1942-11-25",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Ireland",
+    "Japan",
+    "espionage",
+    "subversive activities",
+    "Axis agents",
+    "Irish Legation",
+    "Sumner Welles",
+    "Robert Brennan"
+   ],
+   "start_page": 1,
+   "summary": "Docket on alleged Japanese activity in Ireland: only four Japanese residents, and talk of Japanese tourists.",
+   "title": "List of Papers: Alleged Japanese Subversive Activities in Ireland",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13801,
+   "output_tokens": 4131,
+   "thinking_tokens": 3475,
+   "cache_read_tokens": 0,
+   "total_tokens": 17932
+  },
+  "backend": "agy",
+  "seconds": 17.0,
+  "identifier": "japan-internal-affairs-894.20241d-military-affairs-army-1",
+  "file": "894.20241D Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Ireland Including Gathering Of Information. Espionage. Propaganda.,  41.pdf",
+  "created": "2026-09-29 02:01:31"
+ }
+}

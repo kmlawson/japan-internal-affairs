@@ -1,0 +1,150 @@
+{
+ "overview": "This file brings together a June 1941 Department of State memorandum and two versions of a July 17 telegram from the U.S. Legation in Bangkok concerning Japanese merchant shipping and commerce. The telegram reports unconfirmed claims that Japan had suspended merchant-vessel operations between Japan and Thailand, recalled ships already at sea, and curtailed orders for Japanese goods; its confidential paraphrase was circulated to the U.S. Navy. The earlier memorandum records that Commander McCollum had been informed about an approach to the Department by the counselor of the Japanese Embassy, although the attached memorandum explaining the matter is not present.",
+ "places": [
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Hugh Gladney Grant",
+   "role": "U.S. Minister to Thailand; signer of the Bangkok telegram",
+   "variants": [
+    "GRANT"
+   ]
+  },
+  {
+   "name": "Arthur H. McCollum",
+   "role": "Commander; recipient of information conveyed by the Department of State",
+   "variants": [
+    "Commander McCollum"
+   ]
+  },
+  {
+   "name": "Cabot Coville",
+   "role": "Official in the Department of State's Division of Far Eastern Affairs and apparent drafter of the June 4 memorandum",
+   "variants": [
+    "Coville"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant shipping",
+  "government-controlled vessels",
+  "Japan–Thailand trade",
+  "shipping suspension",
+  "ship recall",
+  "Japanese exports",
+  "commercial orders",
+  "U.S. Legation Bangkok",
+  "U.S. Navy liaison",
+  "Japanese Embassy",
+  "wartime intelligence",
+  "economic disruption"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram from Bangkok on reported suspension of Japanese shipping",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1941-07-17",
+   "from": "U.S. Legation, Bangkok (Hugh Gladney Grant)",
+   "to": "Secretary of State, Washington",
+   "about": "Reports rumors that Japan had suspended merchant shipping between Japan and Thailand, recalled vessels, and restricted commercial orders.",
+   "summary": "Grant reports unconfirmed information circulating in the Bangkok press and business community that the Japanese government had ordered merchant ships operating between Japan and Thailand to suspend operations. Ships already underway were reportedly recalled by wireless to Japanese ports, while Japanese firms were said to be rejecting new orders and canceling existing ones. The telegram requests that Shanghai repeat the message to Tokyo and bears later Navy-distribution annotations.",
+   "keywords": [
+    "Bangkok telegram",
+    "Japanese merchant vessels",
+    "shipping suspension",
+    "wireless recall",
+    "Japan–Thailand trade",
+    "Japanese goods",
+    "Shanghai relay",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Confidential paraphrase of Bangkok Telegram No. 251",
+   "doc_type": "paraphrase of telegram",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1941-07-17",
+   "from": "U.S. Legation, Bangkok (Hugh Gladney Grant)",
+   "to": "Department of State, Washington",
+   "about": "Provides a confidential paraphrase of the report concerning the alleged suspension and recall of Japanese merchant vessels.",
+   "summary": "This document restates Telegram No. 251 in paraphrased form for controlled circulation. It repeats the unconfirmed reports that Japan had halted merchant shipping with Thailand, recalled vessels already departed, and that Japanese firms were declining new orders and canceling old ones. A notation records that copies were sent to the U.S. Navy on July 21, 1941.",
+   "keywords": [
+    "confidential paraphrase",
+    "Telegram No. 251",
+    "Japan",
+    "Thailand",
+    "merchant shipping",
+    "ship recall",
+    "commercial cancellations",
+    "U.S. Navy"
+   ]
+  },
+  {
+   "title": "Memorandum concerning notification of Commander McCollum",
+   "doc_type": "memorandum",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1941-06-04",
+   "from": "Division of Far Eastern Affairs (apparently drafted by Cabot Coville)",
+   "to": "Department of State internal files",
+   "about": "Records that Commander McCollum was informed of an approach made to the Department by the counselor of the Japanese Embassy.",
+   "summary": "The memorandum refers to an attached record of a June 2 telephone conversation with Commander McCollum, but that attachment is not included in this file. It states that on June 4 McCollum was told about an approach made to the Department on June 3 by the counselor of the Japanese Embassy. The brief entry documents interagency communication without revealing the substance of the embassy's approach.",
+   "keywords": [
+    "Commander McCollum",
+    "Japanese Embassy",
+    "Division of Far Eastern Affairs",
+    "telephone conversation",
+    "interagency communication",
+    "diplomatic approach"
+   ]
+  }
+ ],
+ "interest": "The file preserves both the incoming telegram and its closely controlled paraphrase, allowing historians to compare the raw diplomatic report with the version circulated internally and to the U.S. Navy. Its reports of shipping recalls and canceled orders offer evidence of the rumors, commercial anxiety, and intelligence signals surrounding Japanese policy in the weeks before the wider crisis of late July 1941. The June memorandum is especially suggestive of State–Navy coordination and Japanese diplomatic contact, although the absence of its referenced attachment leaves the underlying issue unresolved.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 53.8,
+  "identifier": "japan-internal-affairs-894.85-japan-merchant-vessels-2",
+  "file": "894.85 Japan, Merchant Vessels. Yachts. Immunities Of Government -Controlled., June 4, 1941 - July 17, 1941 1286.pdf",
+  "created": "2026-09-29 06:15:53"
+ }
+}

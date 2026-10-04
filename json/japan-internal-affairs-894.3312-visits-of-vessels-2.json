@@ -1,0 +1,177 @@
+{
+ "interest": "1942 submarine panic off Mazatlán.",
+ "keywords": [
+  "World War II",
+  "Japanese submarine",
+  "Mexico-United States relations",
+  "Mazatlán",
+  "Pacific coast",
+  "Secretaría de Marina",
+  "coastal surveillance",
+  "war rumors",
+  "oil tankers",
+  "Baja California",
+  "naval intelligence"
+ ],
+ "overview": "January 1942 despatch with Mexican clippings on a rumored Japanese submarine off Mazatlán and the Navy's denial.",
+ "people": [
+  {
+   "name": "Raleigh A. Gibson",
+   "role": "First Secretary of Embassy, U.S. Embassy in Mexico",
+   "variants": [
+    "Raleigh A. Gibson"
+   ]
+  },
+  {
+   "name": "José Delgado",
+   "role": "Captain of the fishermen",
+   "variants": [
+    "José Delgado"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico, D. F.",
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "Mazatlán",
+   "variants": [
+    "Mazatlan",
+    "MAZATLAN"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacífico"
+   ]
+  },
+  {
+   "name": "Sinaloa",
+   "variants": [
+    "Sin.",
+    "Sinrón"
+   ]
+  },
+  {
+   "name": "Puerto Viejo",
+   "variants": [
+    "Puerto Viejo"
+   ]
+  },
+  {
+   "name": "Baja California",
+   "variants": [
+    "Baja California"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPON"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Despatch from the U.S. Embassy in Mexico City transmitting newspaper articles on rumors and investigations regarding an alleged Japanese submarine off Mazatlán.",
+   "date": "1942-01-30",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Raleigh A. Gibson",
+   "keywords": [
+    "Raleigh A. Gibson",
+    "U.S. Embassy Mexico",
+    "Mazatlán",
+    "Japanese submarine",
+    "Secretaría de Marina",
+    "coastal defense"
+   ],
+   "start_page": 1,
+   "summary": "Gibson sends clippings on fishermen's report of a submarine off Mazatlán and the Mexican Navy's denial.",
+   "title": "Despatch from Gibson transmitting news reports on alleged Japanese submarine near Mazatlán",
+   "to": "The Secretary of State"
+  },
+  {
+   "about": "Newspaper clipping detailing claims by three local fishermen that they observed an unidentified submarine signalling near Mazatlán.",
+   "date": "1942-01-21",
+   "doc_type": "clipping",
+   "end_page": 3,
+   "from": "Excélsior",
+   "keywords": [
+    "Excélsior",
+    "Mazatlán",
+    "submarine sighting",
+    "José Delgado",
+    "fishermen",
+    "searchlight",
+    "oil tankers",
+    "Puerto Viejo"
+   ],
+   "start_page": 3,
+   "summary": "Excélsior reports fishermen saw lights off Mazatlán, possibly a submarine.",
+   "title": "Clipping from Excélsior: 'Presúmese que un submarino navega en las aguas inmediatas a Mazatlán'",
+   "to": ""
+  },
+  {
+   "about": "Newspaper clipping reporting the Mexican Ministry of the Navy's categorical denial of Japanese submarine sightings off Baja California and Sinaloa.",
+   "date": "1942-01-22",
+   "doc_type": "clipping",
+   "end_page": 4,
+   "from": "El Nacional",
+   "keywords": [
+    "El Nacional",
+    "Secretaría de Marina",
+    "denial",
+    "Japanese submarine",
+    "Baja California",
+    "Sinaloa",
+    "coastal patrol"
+   ],
+   "start_page": 4,
+   "summary": "El Nacional reports Mexico's Navy denied any Japanese submarine sightings.",
+   "title": "Clipping from El Nacional: 'Ningún submarino del Japón ha sido visto en nuestro litoral'",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14778,
+   "output_tokens": 8043,
+   "thinking_tokens": 6582,
+   "cache_read_tokens": 0,
+   "total_tokens": 22821
+  },
+  "backend": "agy",
+  "seconds": 25.1,
+  "identifier": "japan-internal-affairs-894.3312-visits-of-vessels-2",
+  "file": "894.3312 Visits Of Vessels And Aircraft Of Japan To Ports Of Mexico., January 30, 1942 1327.pdf",
+  "created": "2026-09-29 04:25:39"
+ }
+}

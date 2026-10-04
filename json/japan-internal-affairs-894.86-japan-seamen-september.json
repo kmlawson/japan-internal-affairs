@@ -1,0 +1,115 @@
+{
+ "overview": "The file contains two documents concerning Japanese wartime policy and opinion: a March 1944 telegram from Moscow reporting a TASS account of Japan’s extraordinary mobilization of merchant seamen, and a September 1940 Department of State memorandum commenting on Japan Times cartoons about American rearmament and reluctance to sell oil to Japan. Together they illustrate U.S. monitoring of Japanese maritime manpower, press reporting, propaganda, and attitudes toward the United States during the years surrounding America’s entry into the Pacific War.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "W. Averell Harriman",
+   "role": "Sender of the telegram from Moscow; U.S. Ambassador to the Soviet Union",
+   "variants": [
+    "HARRIMAN"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "merchant seamen",
+  "merchant marine",
+  "wartime mobilization",
+  "seamen registration",
+  "labor conscription",
+  "maritime education",
+  "TASS",
+  "Asahi",
+  "Japanese press",
+  "The Japan Times",
+  "political cartoons",
+  "U.S.–Japan relations",
+  "American rearmament",
+  "oil exports"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram from Harriman on the mobilization of Japanese merchant seamen",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1944-03-20",
+   "from": "W. Averell Harriman, Moscow",
+   "to": "Secretary of State, Washington",
+   "about": "Reports a Soviet news-agency account of extraordinary Japanese measures to mobilize merchant-fleet personnel.",
+   "summary": "Harriman transmits a TASS dispatch from Tokyo, published in Moscow newspapers on March 19, concerning new Japanese merchant-marine manpower measures. According to Asahi, the Japanese government approved the registration and mobilization of all seamen up to age sixty, including those already employed in other important work. Japan also intended to make fuller use of merchant-marine students by sharply shortening their periods of instruction.",
+   "keywords": [
+    "TASS",
+    "Asahi",
+    "merchant fleet",
+    "seamen registration",
+    "manpower mobilization",
+    "maritime students",
+    "wartime labor",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Department of State memorandum on Japan Times cartoons",
+   "doc_type": "memorandum",
+   "start_page": 2,
+   "end_page": 2,
+   "date": "1940-09-11",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Comments on three Japan Times cartoons transmitted with Tokyo despatch no. 4890 concerning the United States.",
+   "summary": "The memorandum records the attachment of three cartoons published in The Japan Times on July 19, July 30, and August 2, 1940. It judges their probable influence on Japanese readers to have been salutary from the American perspective. One cartoon depicted the United States awakening to the need for armament, while another suggested American unwillingness to sell oil to Japan; the writer regarded both implications as serving U.S. interests.",
+   "keywords": [
+    "The Japan Times",
+    "newspaper cartoons",
+    "Japanese public opinion",
+    "United States",
+    "rearmament",
+    "oil sales",
+    "propaganda",
+    "Tokyo despatch"
+   ]
+  }
+ ],
+ "interest": "The file juxtaposes two revealing snapshots from different phases of the Pacific crisis: prewar Japanese press commentary on American armament and oil policy in 1940, and Japan’s acute wartime need for merchant-marine manpower in 1944. The telegram is particularly useful for evidence of the widening age range for seamen, the diversion of workers from other essential occupations, and accelerated maritime training. The memorandum also preserves an unusually candid State Department assessment that selected Japanese press messages could advance American interests.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 39.4,
+  "identifier": "japan-internal-affairs-894.86-japan-seamen-september",
+  "file": "894.86 Japan, Seamen., September 11, 1940 - March 20, 1944 1419.pdf",
+  "created": "2026-09-29 05:18:47"
+ }
+}

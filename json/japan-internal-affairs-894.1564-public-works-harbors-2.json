@@ -1,0 +1,116 @@
+{
+ "interest": "Japan's full dry docks in 1940 strand a U.S. ship.",
+ "keywords": [
+  "West Cusseta",
+  "dry docks",
+  "Yokohama",
+  "Tokyo",
+  "Maritime Commission",
+  "ship repair",
+  "Japanese Foreign Office",
+  "Colestream",
+  "Shanghai",
+  "Joseph C. Grew",
+  "harbor facilities",
+  "shipping"
+ ],
+ "overview": "Grew's April 1940 telegram on the disabled West Cusseta, towed to Yokohama, where dry docks were full.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "GREW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a telegram regarding the availability of dry dock facilities in Yokohama for the disabled ship West Cusseta.",
+   "date": "1940-04-18",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "",
+   "keywords": [
+    "West Cusseta",
+    "Yokohama",
+    "dry dock",
+    "cross-reference sheet",
+    "Foreign Office",
+    "ship repair"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Grew's telegram No. 260 on dry docks for the West Cusseta, 1940.",
+   "title": "Cross-Reference Sheet on Dry Dock Facilities for the West Cusseta",
+   "to": ""
+  },
+  {
+   "about": "Ambassador Grew reports on the arrival of the disabled West Cusseta in Yokohama and the shortage of dry dock facilities in Japan.",
+   "date": "1940-04-18",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "West Cusseta",
+    "Joseph C. Grew",
+    "Tokyo",
+    "Yokohama",
+    "dry dock",
+    "Colestream",
+    "Shanghai",
+    "Maritime Commission"
+   ],
+   "start_page": 2,
+   "summary": "Grew reports the rudderless West Cusseta towed into Yokohama; docks were full, so agents considered towing it to Shanghai.",
+   "title": "Telegram No. 260 from Ambassador Grew to the Secretary of State",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13926,
+   "output_tokens": 3862,
+   "thinking_tokens": 2886,
+   "cache_read_tokens": 0,
+   "total_tokens": 17788
+  },
+  "backend": "agy",
+  "seconds": 14.8,
+  "identifier": "japan-internal-affairs-894.1564-public-works-harbors-2",
+  "file": "894.1564 Public Works., Harbors., Japan, Drydocks., April 18, 1940 1185.pdf",
+  "created": "2026-09-28 23:33:28"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "overview": "A single cross-reference sheet filed under sugar-cane agriculture in Formosa (Taiwan), directing researchers to item no. 123 and file 894a.61/2 for an original document dated October 4, 1940, from Warner at Taihoku (Taipei). The referenced document reported that the island’s 1940 sugar production was expected to be the lowest in years.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Warner",
+   "role": "Author or sender of the referenced document from Taihoku",
+   "variants": [
+    "Warner"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan",
+  "Formosa",
+  "Taipei",
+  "Taihoku",
+  "sugar production",
+  "sugar cane",
+  "agriculture",
+  "field crops",
+  "1940 harvest",
+  "crop decline",
+  "cross-reference",
+  "wartime economy"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference to Warner report on 1940 sugar production",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1940-10-04",
+   "from": "Warner, Taihoku (referenced document)",
+   "to": "",
+   "about": "The sheet refers researchers to the original report that Taiwan’s 1940 sugar production was expected to be the lowest in years.",
+   "summary": "This cross-reference records the subject of an original document dated October 4, 1940, from Warner at Taihoku. It directs the reader to item no. 123 and file 894a.61/2, where the original paper was filed.",
+   "keywords": [
+    "cross-reference",
+    "Warner",
+    "Taihoku",
+    "Taiwan",
+    "sugar production",
+    "sugar cane",
+    "1940 crop",
+    "894a.61/2"
+   ]
+  }
+ ],
+ "interest": "Although the original report is absent, this sheet preserves evidence that officials anticipated an unusually poor Taiwanese sugar crop in 1940. It is useful for tracing the document across State Department filing categories and for identifying Warner’s Taihoku report, which may illuminate wartime agricultural conditions and sugar supplies in colonial Taiwan.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 20.4,
+  "identifier": "japan-internal-affairs-894a.61351-agriculture-field-crops-1",
+  "file": "894A.61351 Agriculture., Field Crops. Seeds., Sugar-Yielding Plants., Formosa. Taiwan, Cane., October 4, 1940 1215.pdf",
+  "created": "2026-09-29 02:17:52"
+ }
+}

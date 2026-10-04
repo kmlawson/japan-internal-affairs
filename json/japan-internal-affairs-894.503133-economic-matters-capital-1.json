@@ -1,0 +1,189 @@
+{
+ "interest": "Shows 1930s Japanese commercial expansion into South America and diplomatic maneuvering by a Uruguayan envoy seeking U.S. trade data.",
+ "keywords": [
+  "Japanese commercial expansion",
+  "foreign direct investment",
+  "Uruguay",
+  "Colonia Free Port",
+  "Osaka Shosen Kaisha",
+  "Mitsui",
+  "textile industry",
+  "protective tariffs",
+  "trade competition",
+  "Latin America-Japan relations",
+  "U.S. State Department"
+ ],
+ "overview": "This file documents diplomatic correspondence between the U.S. Embassy in Tokyo and the Department of State in late 1934 regarding a major Japanese commercial initiative to establish a manufacturing foothold in Uruguay. In Despatch No. 910, Ambassador Joseph C. Grew reports that Uruguayan Chargé d'Affaires Eduardo Arteaga disclosed an ambitious proposal by a Japanese industrial consortium—including Osaka Shosen Kaisha and potentially Mitsui—to invest approximately ¥100,000,000 to construct factories in the newly established Free Port of Colonia. Arteaga, concerned that such a 100-percent Japanese-owned and operated venture would harm domestic Uruguayan and Argentine manufacturing, covertly sought American data on Japanese export penetration and protective tariff measures to assist his cousin, Uruguay's Foreign Minister, in rejecting the project. In response, Acting Secretary of State William Phillips instructed Grew to exercise caution, avoid unprompted action, and suggest that any further inquiries for trade data be handled directly by the Uruguayan Legation in Washington to prevent the United States from appearing actively opposed to Japanese commercial expansion.",
+ "people": [
+  {
+   "name": "Eduardo Arteaga",
+   "role": "Uruguayan Chargé d'Affaires in Tokyo",
+   "variants": [
+    "Eduardo Arteaga",
+    "Mr. Eduardo Arteaga",
+    "Mr. Arteaga",
+    "Arteaga"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Joseph C. Grew."
+   ]
+  },
+  {
+   "name": "Francis Bowes Sayre",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "MR. SAYRE"
+   ]
+  },
+  {
+   "name": "William Phillips",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "William Phillips"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Colonia del Sacramento",
+   "variants": [
+    "Colonia",
+    "Free Port of Colonia"
+   ]
+  },
+  {
+   "name": "Río de la Plata",
+   "variants": [
+    "River Plate"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "South American"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "America"
+   ]
+  },
+  {
+   "name": "Montevideo",
+   "variants": [
+    "Montevideo"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Ambassador Grew reports on a ¥100,000,000 proposal by a Japanese industrial consortium to establish manufacturing plants in the Free Port of Colonia, Uruguay, and a request from the Uruguayan Chargé d'Affaires for U.S. data to counter the plan.",
+   "date": "1934-08-02",
+   "doc_type": "despatch",
+   "end_page": 6,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Joseph C. Grew",
+    "Eduardo Arteaga",
+    "Uruguay",
+    "Colonia",
+    "Free Port",
+    "Osaka Shosen Kaisha",
+    "Mitsui",
+    "foreign direct investment",
+    "textiles",
+    "protective tariffs"
+   ],
+   "start_page": 1,
+   "summary": "Ambassador Joseph C. Grew reports that Uruguayan Chargé d'Affaires Eduardo Arteaga disclosed an initiative by a Japanese industrial consortium, including Osaka Shosen Kaisha and likely Mitsui, to construct several factories in the newly established Free Port of Colonia. The plan entailed an investment of ¥100,000,000 and complete Japanese staffing to produce textiles, porcelain, toys, and other goods for South American markets, taking advantage of tax exemptions and cheaper regional raw materials. Opposed to the proposal out of concern for domestic and regional textile manufacturers, Arteaga sought U.S. data on Japanese export growth and American tariff restrictions to help convince Uruguay's Foreign Minister to reject the deal. Grew provided only public statistics and referred the request to the State Department, noting the diplomatic sensitivity of appearing to undermine Japanese interests.",
+   "title": "Despatch No. 910 from Joseph C. Grew on planned Japanese industrial penetration of Uruguay",
+   "to": "The Secretary of State"
+  },
+  {
+   "about": "Acting Secretary of State Phillips instructs Ambassador Grew to take no further action on Arteaga's request and suggest routing future inquiries through the Uruguayan Legation in Washington.",
+   "date": "1934-11-09",
+   "doc_type": "instruction",
+   "end_page": 8,
+   "from": "William Phillips",
+   "keywords": [
+    "William Phillips",
+    "Joseph C. Grew",
+    "Eduardo Arteaga",
+    "Department of State",
+    "trade statistics",
+    "tariff policy",
+    "Uruguayan Legation"
+   ],
+   "start_page": 7,
+   "summary": "Phillips instructs Grew not to pursue Uruguayan Chargé Arteaga's request for data on Japanese exports and tariffs unless Arteaga raises it again, and then only to say little further information is available, suggesting Uruguay seek data through its Washington Legation.",
+   "title": "Instruction No. 633 from William Phillips to Joseph C. Grew regarding Uruguayan inquiry on Japanese trade",
+   "to": "Joseph C. Grew"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 15866,
+   "output_tokens": 6944,
+   "thinking_tokens": 5411,
+   "cache_read_tokens": 0,
+   "total_tokens": 22810
+  },
+  "backend": "agy",
+  "seconds": 25.5,
+  "identifier": "japan-internal-affairs-894.503133-economic-matters-capital-1",
+  "file": "894.503133 Economic Matters., Capital., Investment Of, Or Field For Investment Of, Capital Of Japan In Uruguay., August 2, 1934 827.pdf",
+  "created": "2026-09-29 08:10:30"
+ }
+}

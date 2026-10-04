@@ -1,0 +1,69 @@
+{
+ "overview": "This single-page file consists of a List of Papers sheet for the 1943 subject “Diamond—Japan.” It registers one May 1 item from Great Britain, numbered 1900 and apparently associated with Ambassador John Gilbert Winant, concerning industrial diamonds for Japan and enclosing copies of related correspondence; the underlying communication and enclosures are not present in the supplied file.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "John Gilbert Winant",
+   "role": "U.S. Ambassador to the United Kingdom; identified from the parenthetical sender entry, where “Illinois” is evidently an OCR error for “Winant”",
+   "variants": [
+    "Illinois"
+   ]
+  }
+ ],
+ "keywords": [
+  "industrial diamonds",
+  "Japan",
+  "Great Britain",
+  "strategic materials",
+  "wartime trade",
+  "enclosed correspondence",
+  "document register",
+  "diplomatic correspondence",
+  "1943"
+ ],
+ "subfiles": [
+  {
+   "title": "List of Papers: Industrial Diamonds for Japan",
+   "doc_type": "list of papers",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1943-05-01",
+   "from": "Great Britain (Winant), no. 1900",
+   "to": "dm, dea, eu, fe, er, es",
+   "about": "A filing index records a British-based communication enclosing correspondence about industrial diamonds for Japan.",
+   "summary": "The sheet lists a single paper under the 1943 subject “Diamond—Japan.” The entry is dated May 1 and identifies Great Britain, a parenthetical name apparently intended as Winant, and the number 1900. Its purport states that it encloses copies of correspondence concerning industrial diamonds for Japan; the referenced documents themselves are absent.",
+   "keywords": [
+    "list of papers",
+    "industrial diamonds",
+    "Japan",
+    "Great Britain",
+    "John Gilbert Winant",
+    "enclosures",
+    "correspondence",
+    "May 1943"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful as a finding aid and as evidence for correspondence that is not included in the surviving OCR bundle. It points to wartime diplomatic attention to industrial diamonds as a strategic material connected with Japan and preserves internal routing codes for the item. The contrast between the broader file title, which emphasizes radium, and this sheet’s explicit subject, diamonds, also illustrates the heterogeneous filing practices of the State Department decimal file.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 61.8,
+  "identifier": "japan-internal-affairs-894.6347-mines-mining-concessions-3",
+  "file": "894.6347 Mines. Mining. Concessions., Precious Metals And Precious Stones., Japan, Radium.,  3.pdf",
+  "created": "2026-09-29 11:52:54"
+ }
+}

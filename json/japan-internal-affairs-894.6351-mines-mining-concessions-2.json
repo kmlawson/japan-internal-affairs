@@ -1,0 +1,699 @@
+{
+ "overview": "This file consists of a March 18, 1943 despatch from the American Embassy in Kuibyshev transmitting a British-supplied English translation of E. Pigulevskaya’s Soviet journal article, “Ferrous Metallurgy in Japan Under War Conditions,” published in November–December 1942. The article surveys Japan’s wartime supplies and productive capacity in iron ore, pig iron, steel, scrap metal, coking coal, and metallurgical coke across Japan, Korea, Manchuria, occupied China, Malaya, the Philippines, and other Southeast Asian territories. Using production estimates, Japanese press reports, and descriptions of individual mines, plants, railways, and ports, it argues that blockade, shipping vulnerability, damaged infrastructure, shortages of capital and skilled labor, and partisan warfare prevented the Japanese empire from securing enough raw materials for a prolonged mechanized war.",
+ "places": [
+  {
+   "name": "Samara",
+   "variants": [
+    "Kuibyshev"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "U.S.S.R."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Pacific Ocean and region",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Southern French Indochina",
+   "variants": [
+    "South Indo-China"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S. A."
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Hirohata",
+   "variants": [
+    "Birobata",
+    "Hirobata"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hego"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yavata",
+    "Javata"
+   ]
+  },
+  {
+   "name": "Wanishi, Muroran",
+   "variants": [
+    "Vanisi"
+   ]
+  },
+  {
+   "name": "Songnim (formerly Kenjiho)",
+   "variants": [
+    "Kendziho"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaisi"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "Kokura"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Peninsular Malaysia",
+   "variants": [
+    "British Malaya",
+    "Br. Malaya"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kiushu",
+    "Kiushu island"
+   ]
+  },
+  {
+   "name": "Nakadani Mine",
+   "variants": [
+    "Nakadani mine"
+   ]
+  },
+  {
+   "name": "Gutyan Mine",
+   "variants": [
+    "Gutyan"
+   ]
+  },
+  {
+   "name": "Musan",
+   "variants": [
+    "Mosan"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Korea"
+   ]
+  },
+  {
+   "name": "Chongjin",
+   "variants": [
+    "Seisin"
+   ]
+  },
+  {
+   "name": "Anshan",
+   "variants": [
+    "Anshang"
+   ]
+  },
+  {
+   "name": "Mia'ergou Mine",
+   "variants": [
+    "Myaoerguo mine"
+   ]
+  },
+  {
+   "name": "Benxihu",
+   "variants": [
+    "Bensihu"
+   ]
+  },
+  {
+   "name": "Dongbiandao",
+   "variants": [
+    "Dunbendao"
+   ]
+  },
+  {
+   "name": "East Manchuria",
+   "variants": [
+    "East Manchuria"
+   ]
+  },
+  {
+   "name": "China–North Korea border",
+   "variants": [
+    "Korean frontier"
+   ]
+  },
+  {
+   "name": "Daye",
+   "variants": [
+    "Dae"
+   ]
+  },
+  {
+   "name": "Hubei Province",
+   "variants": [
+    "Hopei province"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Anhui Province",
+   "variants": [
+    "Anhwei province",
+    "Anhwei"
+   ]
+  },
+  {
+   "name": "Longyan, Chahar",
+   "variants": [
+    "Lunyan"
+   ]
+  },
+  {
+   "name": "Chahar Province",
+   "variants": [
+    "province of Chahar"
+   ]
+  },
+  {
+   "name": "Shanxi Province",
+   "variants": [
+    "Shansi province",
+    "Shansi"
+   ]
+  },
+  {
+   "name": "Shandong Province",
+   "variants": [
+    "Shantung",
+    "Shantung province"
+   ]
+  },
+  {
+   "name": "Jinlingzhen",
+   "variants": [
+    "Tsinlinchen"
+   ]
+  },
+  {
+   "name": "Jiangsu Province",
+   "variants": [
+    "Kiangsu province"
+   ]
+  },
+  {
+   "name": "Hunshansyan",
+   "variants": [
+    "Hunshansyan"
+   ]
+  },
+  {
+   "name": "Liguo",
+   "variants": [
+    "Ligon"
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan Island"
+   ]
+  },
+  {
+   "name": "Taiyuan",
+   "variants": [
+    "Taiwan",
+    "Taiuan"
+   ]
+  },
+  {
+   "name": "Yangquan",
+   "variants": [
+    "Yantsyuan",
+    "Yantzuan"
+   ]
+  },
+  {
+   "name": "Shijingshan",
+   "variants": [
+    "Shitsinshan",
+    "Shitzinshan"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Beipin"
+   ]
+  },
+  {
+   "name": "Hebei Province",
+   "variants": [
+    "Hupeh province",
+    "Hupen"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "British India"
+   ]
+  },
+  {
+   "name": "Takashima",
+   "variants": [
+    "Takasimi",
+    "Kiushu-Takasimi"
+   ]
+  },
+  {
+   "name": "Kagomati",
+   "variants": [
+    "Kagomati"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Mishan",
+   "variants": [
+    "Mishan"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "South Manchurian coal regions"
+   ]
+  },
+  {
+   "name": "Kailan Mines",
+   "variants": [
+    "Hailan mines"
+   ]
+  },
+  {
+   "name": "Zhongxing Mines",
+   "variants": [
+    "Chunsin mines"
+   ]
+  },
+  {
+   "name": "Jingxing Mines",
+   "variants": [
+    "Tsinsin mines"
+   ]
+  },
+  {
+   "name": "Shijiazhuang",
+   "variants": [
+    "Shintzenhuan"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsindao port"
+   ]
+  },
+  {
+   "name": "Tanggu",
+   "variants": [
+    "Tangu port"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Datong",
+   "variants": [
+    "Datun"
+   ]
+  },
+  {
+   "name": "Cixian",
+   "variants": [
+    "Tisap"
+   ]
+  },
+  {
+   "name": "Boshan",
+   "variants": [
+    "Boshan"
+   ]
+  },
+  {
+   "name": "Zichuan",
+   "variants": [
+    "Tsichuan"
+   ]
+  },
+  {
+   "name": "Dawenkou",
+   "variants": [
+    "Davenko"
+   ]
+  },
+  {
+   "name": "Henan Province",
+   "variants": [
+    "Hunan"
+   ]
+  },
+  {
+   "name": "Jiaozuo",
+   "variants": [
+    "Tzaotzo"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "Dungun",
+   "variants": [
+    "Dungun"
+   ]
+  },
+  {
+   "name": "Terengganu",
+   "variants": [
+    "Trenganu"
+   ]
+  },
+  {
+   "name": "Sri Medan",
+   "variants": [
+    "Ilimedan"
+   ]
+  },
+  {
+   "name": "Johor",
+   "variants": [
+    "Johore"
+   ]
+  },
+  {
+   "name": "Temangan",
+   "variants": [
+    "Tamangan"
+   ]
+  },
+  {
+   "name": "Kelantan",
+   "variants": [
+    "Kelantan"
+   ]
+  },
+  {
+   "name": "Kemaman",
+   "variants": [
+    "Kemaman",
+    "Kamaman"
+   ]
+  },
+  {
+   "name": "Luzon",
+   "variants": [
+    "Luzon Island"
+   ]
+  },
+  {
+   "name": "Camarines",
+   "variants": [
+    "Kamarines",
+    "Kamarines province"
+   ]
+  },
+  {
+   "name": "Samar",
+   "variants": [
+    "Samar"
+   ]
+  },
+  {
+   "name": "Marinduque",
+   "variants": [
+    "Marindo"
+   ]
+  },
+  {
+   "name": "Surigao",
+   "variants": [
+    "Surigao"
+   ]
+  },
+  {
+   "name": "Mindanao",
+   "variants": [
+    "Mindanao Island"
+   ]
+  },
+  {
+   "name": "Calambayungan Mines",
+   "variants": [
+    "Kalnbayungan mines"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "Sulawesi",
+   "variants": [
+    "Celebes"
+   ]
+  },
+  {
+   "name": "Sebuku Island",
+   "variants": [
+    "Sebuku"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Borneo",
+    "southeastern part of Borneo"
+   ]
+  },
+  {
+   "name": "British Borneo",
+   "variants": [
+    "British Borneo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Eugene H. Dooman",
+   "role": "Minister Counselor of the American Embassy in Kuibyshev; signed the despatch for the Ambassador",
+   "variants": [
+    "Eugene H. Dooman"
+   ]
+  },
+  {
+   "name": "E. Pigulevskaya",
+   "role": "Soviet writer and author of “Ferrous Metallurgy in Japan Under War Conditions”",
+   "variants": [
+    "E. Pigulevskaya"
+   ]
+  },
+  {
+   "name": "General Sato",
+   "role": "General cited for a March 10, 1942 speech concerning Japanese war expenditure and material reserves",
+   "variants": [
+    "General Sato"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "ferrous metallurgy",
+  "iron ore mining",
+  "steel production",
+  "pig iron",
+  "scrap metal",
+  "coking coal",
+  "economic blockade",
+  "wartime industry",
+  "occupied territories",
+  "raw-material shortages",
+  "transportation and shipping",
+  "partisan warfare",
+  "industrial intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch No. 270 transmitting a Soviet article on Japanese metallurgy",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1943-03-18",
+   "from": "Eugene H. Dooman, for the Ambassador, American Embassy, Kuibyshev",
+   "to": "The Secretary of State, Washington",
+   "about": "The American Embassy transmits copies of a British-supplied translation of a Soviet analysis of Japan’s wartime ferrous-metals industry.",
+   "summary": "Dooman reports that the Commercial Secretariat of the British Embassy in Kuibyshev supplied an English translation of an article from the November–December 1942 issue of Mirovoe Khozyaistvo i Mirovaya Politika. The Embassy reproduced the translation for the State Department and sent a copy to Moscow.",
+   "keywords": [
+    "Kuibyshev",
+    "American Embassy",
+    "British Embassy",
+    "Soviet press",
+    "Japan",
+    "ferrous metallurgy",
+    "translation",
+    "wartime economic intelligence"
+   ]
+  },
+  {
+   "title": "Translation of E. Pigulevskaya, “Ferrous Metallurgy in Japan Under War Conditions”",
+   "doc_type": "translated journal article (enclosure)",
+   "start_page": 2,
+   "end_page": 11,
+   "date": "1942",
+   "from": "E. Pigulevskaya",
+   "to": "",
+   "about": "A Soviet writer assesses the productive capacity, raw-material base, and wartime vulnerabilities of the Japanese empire’s iron and steel industry.",
+   "summary": "Pigulevskaya argues that Japan entered the Pacific War with accumulated metal reserves but remained heavily dependent on imported iron ore, scrap, pig iron, and coking coal. The article compares industrial capacity and actual production in Japan, Korea, and Manchuria and then surveys mines, plants, coalfields, railways, and ports throughout occupied China, Malaya, the Philippines, French Indochina, and the Netherlands East Indies. It emphasizes the effects of blockade, destroyed equipment, inadequate transportation, shortages of capital and skilled labor, and partisan warfare on Japanese efforts to exploit conquered resources. It concludes that scrap-collection campaigns and imperial expansion could provide only temporary relief and that Japan’s comparatively weak metallurgical base was inadequate for a long, large-scale mechanized war.",
+   "keywords": [
+    "ferrous metallurgy",
+    "Japan",
+    "iron ore",
+    "steel",
+    "pig iron",
+    "scrap iron",
+    "coking coal",
+    "Manchuria",
+    "Korea",
+    "occupied China",
+    "Southeast Asia",
+    "economic blockade",
+    "industrial capacity",
+    "resource exploitation",
+    "partisan warfare"
+   ]
+  }
+ ],
+ "interest": "The file preserves a detailed Soviet wartime assessment of Japanese industrial weakness as it circulated through British and American diplomatic channels in Kuibyshev. Its mine-by-mine and plant-by-plant discussion, production estimates, citations to Japanese newspapers, and attention to transport routes make it useful for studying Allied economic intelligence, Japan’s imperial resource system, and contemporary expectations about the sustainability of its war economy. It is also valuable as evidence of Soviet analytical and propagandistic framing, although its estimates, polemical conclusions, and heavily transliterated place names require comparison with Japanese and other Allied sources.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 256.0,
+  "identifier": "japan-internal-affairs-894.6351-mines-mining-concessions-2",
+  "file": "894.6351 Mines. Mining. Concessions., Base Metals., Japan, Iron., March 18, 1943 1381.pdf",
+  "created": "2026-09-29 11:37:36"
+ }
+}

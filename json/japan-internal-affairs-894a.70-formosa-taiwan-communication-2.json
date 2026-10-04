@@ -1,0 +1,73 @@
+{
+ "overview": "A one-page State Department list of papers for the file on communication and transportation in Taiwan (Formosa). It records a June 7 report from Taihoku, identified as despatch or communication no. 17 and associated with Howa, concerning foreign communications laws, decrees, and regulations submitted in response to the Department’s instruction of April 19, 1937; it also notes August 20 referrals or distributions to another department and the Federal Communications Commission.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Howa",
+   "role": "Person associated with Taihoku communication no. 17; position not stated",
+   "variants": [
+    "Howa"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan",
+  "Formosa",
+  "Taipei",
+  "Taihoku",
+  "communications",
+  "transportation",
+  "communications law",
+  "decrees",
+  "regulations",
+  "Federal Communications Commission",
+  "State Department instructions",
+  "interagency circulation"
+ ],
+ "subfiles": [
+  {
+   "title": "List of Papers: Communication and Transportation—Taiwan",
+   "doc_type": "list of papers",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "An administrative contents sheet records a Taihoku report on foreign communications legislation and its subsequent circulation.",
+   "summary": "The sheet lists Taihoku communication no. 17, dated June 7 and associated with Howa, as a response to the Department’s instruction of April 19, 1937. Its subject is foreign communications laws, decrees, and regulations. The entry also records August 20 circulation or referral, including to the Federal Communications Commission; one additional recipient’s name is garbled in the OCR.",
+   "keywords": [
+    "list of papers",
+    "Taihoku report",
+    "foreign communications",
+    "laws",
+    "decrees",
+    "regulations",
+    "April 19, 1937 instruction",
+    "Federal Communications Commission"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful as a provenance and routing record even though the substantive report itself is absent from the surviving page. It shows that Washington sought systematic information about Taiwan’s communications regulations and circulated the response among relevant federal bodies, illustrating interagency handling of technical intelligence concerning Japanese-ruled Taiwan.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 32.0,
+  "identifier": "japan-internal-affairs-894a.70-formosa-taiwan-communication-2",
+  "file": "894A.70 Formosa. Taiwan, Communication And Transportation.,  680.pdf",
+  "created": "2026-09-29 01:57:32"
+ }
+}

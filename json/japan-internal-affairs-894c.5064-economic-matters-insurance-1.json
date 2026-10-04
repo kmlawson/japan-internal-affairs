@@ -1,0 +1,142 @@
+{
+ "overview": "The file combines a 1930 despatch from the American Consulate at Dairen supplying 1928–1929 life-insurance statistics for the Kwantung Leased Territory with a 1933 State Department memorandum summarizing the Kwantung Government’s proposed budget. The insurance report distinguishes post-office life insurance from other insurers and records policies, coverage, premiums, claims, new business, and terminated policies. The later memorandum addresses increased taxation, national subsidies, new borrowing for the “Manchuria situation,” the opium monopoly, and the Kwantung Government’s close relationship with the South Manchuria Railway and Kwantung Army.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen",
+    "Dairen's"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory",
+    "KWANTUNG LEASED TERRITORY",
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Cabot Coville",
+   "role": "American Vice Consul at Dairen",
+   "variants": [
+    "Cabot Coville"
+   ]
+  }
+ ],
+ "keywords": [
+  "life insurance",
+  "insurance statistics",
+  "Kwantung Leased Territory",
+  "Dairen",
+  "post-office insurance",
+  "Kwantung Government budget",
+  "taxation",
+  "government borrowing",
+  "opium monopoly",
+  "Manchuria situation",
+  "South Manchuria Railway",
+  "Kwantung Army"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch from Cabot Coville on life-insurance statistics in the Kwantung Leased Territory",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1930-12-18",
+   "from": "Cabot Coville, American Vice Consul at Dairen",
+   "to": "U.S. Secretary of State",
+   "about": "The despatch supplies 1928–1929 statistics for post-office and other life insurance in the Kwantung Leased Territory.",
+   "summary": "Coville explains that the Department’s May 1, 1930 instruction to include insurance conditions in annual commercial reviews arrived too late for inclusion in his predecessor’s 1929 review, so he submits supplementary statistics. Post-office insurance rose from 59,206 to 62,638 policies between 1928 and 1929, while the insured amount increased from ¥11.1 million to ¥11.7 million. Other insurers declined from 39 to 36 companies but showed modest growth in policies, total coverage, premiums, and claims; the tables also detail new, terminated, and dissolved policies.",
+   "keywords": [
+    "life insurance",
+    "statistical tables",
+    "post-office insurance",
+    "private insurers",
+    "policies",
+    "premiums",
+    "claims",
+    "Kwantung Leased Territory",
+    "Dairen",
+    "1928–1929"
+   ]
+  },
+  {
+   "title": "Division of Far Eastern Affairs memorandum on the Kwantung Government budget",
+   "doc_type": "memorandum",
+   "start_page": 3,
+   "end_page": 4,
+   "date": "1933-02-17",
+   "from": "U.S. Department of State, Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The memorandum summarizes a Dairen despatch concerning the Kwantung Government’s proposed budget and its political and fiscal implications.",
+   "summary": "The memorandum reports that the proposed Kwantung Government budget totals ¥25,864,792, an increase of ¥3,128,776 over the preceding year, with additional ordinary revenue expected from higher taxation. Extraordinary revenue includes a ¥5 million National Treasury grant and a new ¥3,226,643 loan corresponding to expenses for the “Manchuria situation,” while opium-monopoly receipts pass directly to the National Treasury. It also notes increased spending on the Opium Monopoly Bureau and concludes that the budget reflects the Kwantung Government’s close relationship with the South Manchuria Railway and the Kwantung Army.",
+   "keywords": [
+    "Kwantung Government",
+    "budget",
+    "taxation",
+    "National Treasury",
+    "government loan",
+    "Manchuria situation",
+    "opium monopoly",
+    "Manchukuo",
+    "South Manchuria Railway",
+    "Kwantung Army"
+   ]
+  }
+ ],
+ "interest": "The insurance tables offer unusually granular evidence about the scale and structure of life insurance in the Japanese-administered Kwantung Leased Territory immediately before the Manchurian crisis. They permit comparison between the large post-office system and commercial insurers, including changes in claims, new policies, and cancellations. The 1933 memorandum broadens the file’s value by documenting the territory’s fiscal response to the Manchurian occupation, including new borrowing, opium revenue, and financial ties among the civilian government, railway, and army; its presence in an insurance file also illustrates the heterogeneous character of State Department decimal-file bundles.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 49.2,
+  "identifier": "japan-internal-affairs-894c.5064-economic-matters-insurance-1",
+  "file": "894C.5064 Economic Matters., Insurance., Kwantung Leased Territory, Life., December 18, 1930 - February 17, 1933 774.pdf",
+  "created": "2026-09-29 00:53:00"
+ }
+}

@@ -1,0 +1,1128 @@
+{
+ "section_summary": "This section continues a SCAP tabular register of Japanese ship radio stations, listing registration numbers, vessel names, ports of registry, tonnage, operating agents, call signs, frequency changes, and emission classes. It completes listings for Chiba and Tokyo, then covers Kanagawa, Ishikawa, Aichi, and part of Shizuoka prefectures. The vessels include merchant ships, fishing and whaling vessels, tankers, weather and training ships, salvage craft, cable ships, survey boats, and Maritime Safety Bureau craft.",
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYÖ",
+    "TOKYO",
+    "TÖKYO",
+    "TōKYā",
+    "TÓKYO",
+    "TOKYā",
+    "TOKYQ",
+    "TÖKYā",
+    "TÓKYÖ",
+    "Tōkyō",
+    "Tôkyǒ",
+    "Tōkyð",
+    "Tōkyö",
+    "Tökyō",
+    "Tokyō",
+    "Tōkyō-to",
+    "Tôkyǒ-to",
+    "Tôkyð-to",
+    "Tökyō-to",
+    "Tōkyō-tō",
+    "Tkyōto",
+    "Tčkyō-to",
+    "Tokyō-to",
+    "Tōkyōto",
+    "Tōkyō-prefecture"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba-ken"
+   ]
+  },
+  {
+   "name": "Chōshi",
+   "variants": [
+    "Chōshi"
+   ]
+  },
+  {
+   "name": "Chikura",
+   "variants": [
+    "Chikura"
+   ]
+  },
+  {
+   "name": "Katsuura",
+   "variants": [
+    "Katsuura",
+    "Katauura"
+   ]
+  },
+  {
+   "name": "Otohama",
+   "variants": [
+    "Otohama"
+   ]
+  },
+  {
+   "name": "Katsuyama",
+   "variants": [
+    "Katsuyama"
+   ]
+  },
+  {
+   "name": "Shiramatsu",
+   "variants": [
+    "Shiramatsu"
+   ]
+  },
+  {
+   "name": "Nanaura",
+   "variants": [
+    "Nanaura"
+   ]
+  },
+  {
+   "name": "Ōhara",
+   "variants": [
+    "Óhara"
+   ]
+  },
+  {
+   "name": "Hirakata",
+   "variants": [
+    "Hirakata"
+   ]
+  },
+  {
+   "name": "Habu",
+   "variants": [
+    "Habu"
+   ]
+  },
+  {
+   "name": "Yaene",
+   "variants": [
+    "Yahene"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa-ken",
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Misaki",
+   "variants": [
+    "Misaki",
+    "Masaki"
+   ]
+  },
+  {
+   "name": "Manazuru",
+   "variants": [
+    "Manazuru"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokahama"
+   ]
+  },
+  {
+   "name": "Uraga",
+   "variants": [
+    "Uraga"
+   ]
+  },
+  {
+   "name": "Kurihama",
+   "variants": [
+    "Kurihama"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuga"
+   ]
+  },
+  {
+   "name": "Odawara",
+   "variants": [
+    "Odawara"
+   ]
+  },
+  {
+   "name": "Komegami",
+   "variants": [
+    "Komegami"
+   ]
+  },
+  {
+   "name": "Enoura, Kanagawa Prefecture",
+   "variants": [
+    "Enoura"
+   ]
+  },
+  {
+   "name": "Nagaura",
+   "variants": [
+    "Nagaura"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "KANAZAWA"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa-ken"
+   ]
+  },
+  {
+   "name": "Suemori",
+   "variants": [
+    "Suemori"
+   ]
+  },
+  {
+   "name": "Nanao",
+   "variants": [
+    "Nanao",
+    "Nonao"
+   ]
+  },
+  {
+   "name": "Fukuura",
+   "variants": [
+    "Fukuura"
+   ]
+  },
+  {
+   "name": "Ushitsu",
+   "variants": [
+    "Usetsu"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "NAGOYA",
+    "Nagoya",
+    "Nayoya"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi-ken"
+   ]
+  },
+  {
+   "name": "Miya",
+   "variants": [
+    "Miya"
+   ]
+  },
+  {
+   "name": "Toyohama",
+   "variants": [
+    "Toyohama"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-ken"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu"
+   ]
+  },
+  {
+   "name": "Yaizu",
+   "variants": [
+    "Yaizu"
+   ]
+  },
+  {
+   "name": "Heda",
+   "variants": [
+    "Heda"
+   ]
+  },
+  {
+   "name": "Omaezaki",
+   "variants": [
+    "Omaezaki"
+   ]
+  },
+  {
+   "name": "Enoura, Shizuoka Prefecture",
+   "variants": [
+    "Enoura"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "S. Yamaguchi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Yamaguchi"
+   ]
+  },
+  {
+   "name": "S. Zako",
+   "role": "Listed operational agent or owner of registered vessels.",
+   "variants": [
+    "S. Zako"
+   ]
+  },
+  {
+   "name": "M. Satō",
+   "role": "Listed operational agent or owner of registered vessels.",
+   "variants": [
+    "M. Satō"
+   ]
+  },
+  {
+   "name": "E. Iizuka",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "E. lizuka"
+   ]
+  },
+  {
+   "name": "S. Aminaka",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Aminaka"
+   ]
+  },
+  {
+   "name": "T. Zako",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Zako"
+   ]
+  },
+  {
+   "name": "T. Tsuruoka",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Tsuruoka"
+   ]
+  },
+  {
+   "name": "K. Hayashi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "K. Hayashi"
+   ]
+  },
+  {
+   "name": "C. Yahoya",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "C. Yahoya"
+   ]
+  },
+  {
+   "name": "Y. Tanaka",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "Y. Tanaka"
+   ]
+  },
+  {
+   "name": "H. Kanai",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "H. Kànai"
+   ]
+  },
+  {
+   "name": "C. Saiga",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "C. Saiga"
+   ]
+  },
+  {
+   "name": "S. Sakamoto",
+   "role": "Listed operational agent or owner of registered vessels.",
+   "variants": [
+    "S. Sakamoto"
+   ]
+  },
+  {
+   "name": "T. Itō",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Itō"
+   ]
+  },
+  {
+   "name": "T. Izumi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Izumi"
+   ]
+  },
+  {
+   "name": "K. Ozaki",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "K. Ozaki"
+   ]
+  },
+  {
+   "name": "S. Dote",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Dote"
+   ]
+  },
+  {
+   "name": "D. Tsujino",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "D. Tsujino"
+   ]
+  },
+  {
+   "name": "C. Saitō",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "C. Saitō"
+   ]
+  },
+  {
+   "name": "E. Nakamura",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "E. Nakamura"
+   ]
+  },
+  {
+   "name": "H. Miyauchi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "H. Miyauchi"
+   ]
+  },
+  {
+   "name": "M. Uyama",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "M. Uyama"
+   ]
+  },
+  {
+   "name": "M. Ueki",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "M. Ueki"
+   ]
+  },
+  {
+   "name": "T. Takanashi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Takanashi"
+   ]
+  },
+  {
+   "name": "K. J. Suzuki",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "KJ Suzuki"
+   ]
+  },
+  {
+   "name": "Y. Marutani",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "Y. Marutani"
+   ]
+  },
+  {
+   "name": "R. Abi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "R. Abi"
+   ]
+  },
+  {
+   "name": "S. Miyazaki",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Miyzaki"
+   ]
+  },
+  {
+   "name": "Y. Maeno",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "Y. Maeno"
+   ]
+  },
+  {
+   "name": "S. Iida",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Iida"
+   ]
+  },
+  {
+   "name": "Z. Sakai",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "Z. Sakai"
+   ]
+  },
+  {
+   "name": "S. Innami",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Innami"
+   ]
+  },
+  {
+   "name": "O. Usui",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "O. Usui"
+   ]
+  },
+  {
+   "name": "T. Ishii",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Ishii"
+   ]
+  },
+  {
+   "name": "T. One",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. One"
+   ]
+  },
+  {
+   "name": "I. Tomura",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "I. Tomura"
+   ]
+  },
+  {
+   "name": "C. Eushū",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "C. Eushū"
+   ]
+  },
+  {
+   "name": "T. Tanaka",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Tanaka"
+   ]
+  },
+  {
+   "name": "I. Itō",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "I. Itō"
+   ]
+  },
+  {
+   "name": "K. Tsuzuki",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "K. Tsuzuki"
+   ]
+  },
+  {
+   "name": "K. Oshimoto",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "K. Oshimoto"
+   ]
+  },
+  {
+   "name": "Y. Shindō",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "Y. Shindō"
+   ]
+  },
+  {
+   "name": "J. Yamaguchi",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "J. Yamaguchi"
+   ]
+  },
+  {
+   "name": "S. Suzuki",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "S. Suzuki"
+   ]
+  },
+  {
+   "name": "H. Honda",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "H. Honda"
+   ]
+  },
+  {
+   "name": "K. Murai",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "K. Murai"
+   ]
+  },
+  {
+   "name": "T. Sakuma",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "T. Sakuma"
+   ]
+  },
+  {
+   "name": "E. Gotō",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "E. Gotō"
+   ]
+  },
+  {
+   "name": "I. Tanaka",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "I. Tanaka"
+   ]
+  },
+  {
+   "name": "U. Matsumoto",
+   "role": "Listed operational agent or owner of a registered vessel.",
+   "variants": [
+    "U. Matsumoto"
+   ]
+  },
+  {
+   "name": "I. Saitō",
+   "role": "Listed operational agent or owner of the Yawata-maru.",
+   "variants": [
+    "I. Saitō"
+   ]
+  },
+  {
+   "name": "K. Kawaguchi",
+   "role": "Listed operational agent or owner of the Kumaei-maru vessels.",
+   "variants": [
+    "K. Kawaguchi"
+   ]
+  },
+  {
+   "name": "B. Fujii",
+   "role": "Listed operational agent or owner of the Bunsei-maru.",
+   "variants": [
+    "B. Fujii"
+   ]
+  },
+  {
+   "name": "R. Ishikawa",
+   "role": "Listed operational agent or owner of the Keiyo-maru No. 101.",
+   "variants": [
+    "R. Ishikawa"
+   ]
+  },
+  {
+   "name": "T. Asanuma",
+   "role": "Listed operational agent or owner of the Kaiko-maru No. 5.",
+   "variants": [
+    "T. Asanuma"
+   ]
+  },
+  {
+   "name": "H. Suzuki",
+   "role": "Listed operational agent or owner of fishing vessels.",
+   "variants": [
+    "H. Suzuki"
+   ]
+  },
+  {
+   "name": "K. Yamashita",
+   "role": "Listed operational agent or owner of the Tenei-maru.",
+   "variants": [
+    "K. Yamashita"
+   ]
+  },
+  {
+   "name": "K. Nakagawa",
+   "role": "Listed operational agent or owner of the Taiyo-maru No. 23.",
+   "variants": [
+    "K. Nakagawa"
+   ]
+  },
+  {
+   "name": "S. Yotsumiya",
+   "role": "Listed operational agent or owner of the Kairyu-maru.",
+   "variants": [
+    "S. Yotsumiya"
+   ]
+  },
+  {
+   "name": "S. Amano",
+   "role": "Listed operational agent or owner of the Kaiun-maru.",
+   "variants": [
+    "S. Amano"
+   ]
+  },
+  {
+   "name": "O. Kanazawa",
+   "role": "Listed operational agent or owner of the Kōei-maru No. 11.",
+   "variants": [
+    "O. Kanazawa"
+   ]
+  },
+  {
+   "name": "S. Teramoto",
+   "role": "Listed operational agent or owner of Kotoshiro-maru vessels.",
+   "variants": [
+    "S. Teramoto"
+   ]
+  },
+  {
+   "name": "M. Teramoto",
+   "role": "Listed operational agent or owner of the Shoei-maru No. 2.",
+   "variants": [
+    "M. Teramoto"
+   ]
+  },
+  {
+   "name": "H. Shinomiya",
+   "role": "Listed operational agent or owner of Sumiyoshi-maru vessels.",
+   "variants": [
+    "H. Shinomiya",
+    "H. Shimiya"
+   ]
+  },
+  {
+   "name": "S. Shinomiya",
+   "role": "Listed operational agent or owner of Sumiyoshi-maru vessels.",
+   "variants": [
+    "S. Shinomiya",
+    "S. 6hinomiya"
+   ]
+  },
+  {
+   "name": "T. Suzuki",
+   "role": "Listed operational agent or owner of fishing vessels.",
+   "variants": [
+    "T. Suzuki"
+   ]
+  },
+  {
+   "name": "T. Kanazawa",
+   "role": "Listed operational agent or owner of Kōei-maru vessels.",
+   "variants": [
+    "T. Kanasawa",
+    "T. Kanzawa"
+   ]
+  },
+  {
+   "name": "F. Tomizawa",
+   "role": "Listed operational agent or owner of the Shinko-maru.",
+   "variants": [
+    "F. Tomizawa"
+   ]
+  },
+  {
+   "name": "T. Miyoshi",
+   "role": "Listed operational agent or owner of fishing vessels.",
+   "variants": [
+    "T. Miyoshi"
+   ]
+  },
+  {
+   "name": "Y. Yanagishita",
+   "role": "Listed operational agent or owner of Kaiko-maru vessels.",
+   "variants": [
+    "Y. Yagishita",
+    "Y. Yanagishita"
+   ]
+  },
+  {
+   "name": "T. Abe",
+   "role": "Listed operational agent or owner of Kaiko-maru vessels.",
+   "variants": [
+    "T. Abe"
+   ]
+  },
+  {
+   "name": "M. Shinomiya",
+   "role": "Listed operational agent or owner of the Shōten-maru No. 3.",
+   "variants": [
+    "M. Shinomiya"
+   ]
+  },
+  {
+   "name": "G. Natsubori",
+   "role": "Listed operational agent or owner of the Genei-maru No. 1.",
+   "variants": [
+    "G. Natsubori"
+   ]
+  },
+  {
+   "name": "K. Fujii",
+   "role": "Listed operational agent or owner of the M. S. Martha.",
+   "variants": [
+    "K. Fujii"
+   ]
+  },
+  {
+   "name": "F. Fukushima",
+   "role": "Listed operational agent or owner of Fukusei-maru vessels.",
+   "variants": [
+    "F. Fukushima"
+   ]
+  },
+  {
+   "name": "W. Takahashi",
+   "role": "Listed operational agent or owner of Marutaka-maru vessels.",
+   "variants": [
+    "W. Takahashi"
+   ]
+  },
+  {
+   "name": "T. Uehara",
+   "role": "Listed operational agent or owner of Kōchi-maru vessels.",
+   "variants": [
+    "T. Uehara"
+   ]
+  },
+  {
+   "name": "M. Kojima",
+   "role": "Listed operational agent or owner of Daikoku-maru vessels.",
+   "variants": [
+    "M. Kojima"
+   ]
+  },
+  {
+   "name": "K. Watanabe",
+   "role": "Listed operational agent or owner of Uraga-maru vessels.",
+   "variants": [
+    "K. Watanabe"
+   ]
+  },
+  {
+   "name": "K. Nishi",
+   "role": "Listed operational agent or owner of Nishi-maru vessels.",
+   "variants": [
+    "K. Nishi"
+   ]
+  },
+  {
+   "name": "T. Hatakeyama",
+   "role": "Listed operational agent or owner of the Hinode-maru No. 6.",
+   "variants": [
+    "T. Hatakeyama"
+   ]
+  },
+  {
+   "name": "I. Oyama",
+   "role": "Listed operational agent or owner of the Fukutoku-maru No. 2.",
+   "variants": [
+    "I. Oyama"
+   ]
+  },
+  {
+   "name": "S. Kosugi",
+   "role": "Listed operational agent or owner of the Fuji-maru.",
+   "variants": [
+    "S. Kosugi"
+   ]
+  },
+  {
+   "name": "N. Endō",
+   "role": "Listed operational agent or owner of Shinyo-maru vessels.",
+   "variants": [
+    "N. Endō"
+   ]
+  },
+  {
+   "name": "T. Satō",
+   "role": "Listed operational agent or owner of the Seisho-maru No. 12.",
+   "variants": [
+    "T. Satō"
+   ]
+  },
+  {
+   "name": "R. Ogata",
+   "role": "Listed operational agent or owner of the Kaiko-maru.",
+   "variants": [
+    "R. Ogata"
+   ]
+  },
+  {
+   "name": "W. Shimosato",
+   "role": "Listed operational agent or owner of the Suiyo-maru No. 1.",
+   "variants": [
+    "W. Shimosato"
+   ]
+  },
+  {
+   "name": "E. Arimitsu",
+   "role": "Listed operational agent or owner of the Shinsei-maru No. 21.",
+   "variants": [
+    "E. Arimitsu"
+   ]
+  },
+  {
+   "name": "M. Okuzu",
+   "role": "Listed operational agent or owner of the Kaisei-maru No. 3.",
+   "variants": [
+    "M. Okuzu"
+   ]
+  },
+  {
+   "name": "K. Ishikawa",
+   "role": "Listed operational agent or owner of the Heion-maru No. 5.",
+   "variants": [
+    "K. Ishikawa"
+   ]
+  },
+  {
+   "name": "H. Teramoto",
+   "role": "Listed operational agent or owner of the Kotoshiro-maru No. 5.",
+   "variants": [
+    "H. Teramoto"
+   ]
+  },
+  {
+   "name": "H. Mizuno",
+   "role": "Listed operational agent or owner of the Junko-maru No. 3.",
+   "variants": [
+    "H. Mizuno"
+   ]
+  },
+  {
+   "name": "J. Obata",
+   "role": "Listed operational agent or owner of the Jūshō-maru No. 2.",
+   "variants": [
+    "J. Obata"
+   ]
+  },
+  {
+   "name": "T. Yamamura",
+   "role": "Listed operational agent or owner of the Daikoku-maru No. 1.",
+   "variants": [
+    "T. Yamamura"
+   ]
+  },
+  {
+   "name": "I. Ikeda",
+   "role": "Listed operational agent or owner of the Koyo-maru No. 1.",
+   "variants": [
+    "I. Ikeda"
+   ]
+  },
+  {
+   "name": "T. Morita",
+   "role": "Listed operational agent or owner of the Keizan-maru No. 7.",
+   "variants": [
+    "T. Morita"
+   ]
+  },
+  {
+   "name": "M. Suzuki",
+   "role": "Listed operational agent or owner of the Hiro-maru No. 8.",
+   "variants": [
+    "M. Suzuki"
+   ]
+  },
+  {
+   "name": "M. Masutomi",
+   "role": "Listed operational agent or owner of the Zenshō-maru No. 17.",
+   "variants": [
+    "M. Masutomi"
+   ]
+  },
+  {
+   "name": "N. Maruta",
+   "role": "Listed operational agent or owner of the Daikoko-maru No. 23.",
+   "variants": [
+    "N. Maruta"
+   ]
+  },
+  {
+   "name": "K. Yoshii",
+   "role": "Listed operational agent or owner of vessels registered at Suemori.",
+   "variants": [
+    "K. Yoshii"
+   ]
+  },
+  {
+   "name": "Y. Motoyoshi",
+   "role": "Listed operational agent or owner of Taki-maru vessels.",
+   "variants": [
+    "Y. Motoyoshi"
+   ]
+  },
+  {
+   "name": "Y. Koshikiri",
+   "role": "Listed operational agent or owner of the Kaga-maru No. 1.",
+   "variants": [
+    "Y. Koshikiri"
+   ]
+  },
+  {
+   "name": "S. Yamashita",
+   "role": "Listed operational agent or owner of Yushō-maru vessels.",
+   "variants": [
+    "S. Yamashita",
+    "S. Yamáshita"
+   ]
+  },
+  {
+   "name": "H. Ieda",
+   "role": "Listed operational agent or owner of the Dairyo-maru No. 1.",
+   "variants": [
+    "H. Ieda"
+   ]
+  },
+  {
+   "name": "D. Matsuda",
+   "role": "Listed operational agent or owner of the Horyo-maru.",
+   "variants": [
+    "D. Matsuda"
+   ]
+  },
+  {
+   "name": "T. Iida",
+   "role": "Listed operational agent or owner of the Azuma-maru.",
+   "variants": [
+    "T. lida"
+   ]
+  },
+  {
+   "name": "E. Kawaguchi",
+   "role": "Listed operational agent or owner of Tokai-maru vessels.",
+   "variants": [
+    "E. Kawaguchi"
+   ]
+  },
+  {
+   "name": "B. Takanashi",
+   "role": "Listed operational agent or owner of the Dainichi-maru.",
+   "variants": [
+    "B. Takanashi"
+   ]
+  },
+  {
+   "name": "U. Yamamoto",
+   "role": "Listed operational agent or owner of the Kinoene-maru No. 8.",
+   "variants": [
+    "U. Yamamoto"
+   ]
+  },
+  {
+   "name": "A. Takeuchi",
+   "role": "Listed operational agent or owner of the Hinode-maru.",
+   "variants": [
+    "A. Takeuchi"
+   ]
+  },
+  {
+   "name": "G. Ōsawa",
+   "role": "Listed operational agent or owner of Kaikata-maru vessels.",
+   "variants": [
+    "G. Ósawa"
+   ]
+  },
+  {
+   "name": "K. Koike",
+   "role": "Listed operational agent or owner of the Kongo-maru No. 1.",
+   "variants": [
+    "K. Koike"
+   ]
+  },
+  {
+   "name": "Y. Isozaki",
+   "role": "Listed operational agent or owner of the Kotoshiro-maru No. 1.",
+   "variants": [
+    "Y. Isozaki"
+   ]
+  }
+ ],
+ "keywords": [
+  "SCAP",
+  "ship radio stations",
+  "maritime communications",
+  "vessel registry",
+  "call signs",
+  "radio frequencies",
+  "emission classes",
+  "fishing vessels",
+  "merchant shipping",
+  "Maritime Safety Bureau",
+  "Tokyo Region",
+  "Japanese ports"
+ ],
+ "subfiles": [
+  {
+   "title": "SCAP register of ship radio stations for the Tokyo, Kanazawa, and Nagoya regions (continuation)",
+   "doc_type": "Tabular register",
+   "start_page": 161,
+   "end_page": 240,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Continuation of a regional register identifying Japanese vessels and their authorized radio-station particulars.",
+   "summary": "The register records SCAP registration numbers, vessel names, registry ports, tonnage, operating agencies, call signs, authorized frequencies or frequency amendments, and emission types. Pages 161–222 cover the remainder of Chiba and Tokyo listings; pages 223–236 cover Kanagawa; page 237 covers Ishikawa; page 238 covers Aichi; and pages 239–240 begin Shizuoka. Entries encompass commercial cargo ships, tankers, fishing and whaling vessels, meteorological ships, training vessels, salvage craft, cable ships, survey boats, and Maritime Safety Bureau vessels.",
+   "keywords": [
+    "SCAP ship register",
+    "radio call signs",
+    "frequency allocations",
+    "Tokyo Region",
+    "Kanagawa Prefecture",
+    "Ishikawa Prefecture",
+    "Aichi Prefecture",
+    "Shizuoka Prefecture",
+    "fishing boats",
+    "merchant vessels"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 14,
+  "pages": [
+   161,
+   240
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 3, 1946 - December 24, 1949 1827.pdf",
+  "seconds": 291.7,
+  "created": "2026-10-03 23:58:29",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-9"
+ }
+}

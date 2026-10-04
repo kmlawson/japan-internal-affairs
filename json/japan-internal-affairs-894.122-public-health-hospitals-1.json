@@ -1,0 +1,69 @@
+{
+ "interest": "Points to a 1935 reference sheet on Japanese vital statistics.",
+ "keywords": [
+  "vital statistics",
+  "Japan",
+  "public health",
+  "cross-reference sheet",
+  "Department of State",
+  "Arthur Garrels",
+  "regulations",
+  "despatch",
+  "consular reporting",
+  "document file note"
+ ],
+ "overview": "Cross-reference to Arthur Garrels's Despatch No. 993 (February 4, 1935) on availability of vital statistics in Japan.",
+ "people": [
+  {
+   "name": "Arthur Garrels",
+   "role": "",
+   "variants": [
+    "Garrels"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State cross-reference sheet directing researchers to Despatch No. 993 concerning the availability of vital statistics in Japan.",
+   "date": "1935-02-04",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Arthur Garrels",
+   "keywords": [
+    "vital statistics",
+    "Japan",
+    "Arthur Garrels",
+    "cross-reference sheet",
+    "despatch",
+    "regulations"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Garrels's Despatch No. 993 (1935) on availability of Japanese vital statistics; see 811.111 Regulations/1730a.",
+   "title": "Document File Note regarding Despatch No. 993 on Vital Statistics in Japan",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13655,
+   "output_tokens": 3015,
+   "thinking_tokens": 2419,
+   "cache_read_tokens": 0,
+   "total_tokens": 16670
+  },
+  "backend": "agy",
+  "seconds": 13.2,
+  "identifier": "japan-internal-affairs-894.122-public-health-hospitals-1",
+  "file": "894.122 Public Health. Hospitals. Hospital Service., Japan, Vital Statistics., February 4, 1935 845.pdf",
+  "created": "2026-09-28 23:16:41"
+ }
+}

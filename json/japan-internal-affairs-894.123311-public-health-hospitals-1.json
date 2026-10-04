@@ -1,0 +1,107 @@
+{
+ "interest": "Points to 1943–44 files on returning Japanese soldiers' ashes and treatment of Japanese war dead.",
+ "keywords": [
+  "Disposal of the Dead",
+  "Japanese Soldiers",
+  "War Dead",
+  "Treatment of Remains",
+  "Repatriation of Ashes",
+  "American Red Cross",
+  "War Department",
+  "Navy Department",
+  "Pacific War",
+  "Military Cemeteries",
+  "Geneva Convention",
+  "Cross-Reference Sheets"
+ ],
+ "overview": "Three cross-reference sheets (1943–44) on returning Japanese soldiers' ashes via the Red Cross and on press reports about treatment of Japanese war dead.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet recording a letter sent to the American Red Cross concerning a proposal to repatriate the ashes of deceased Japanese soldiers.",
+   "date": "1943-05-24",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "American Red Cross",
+    "ashes",
+    "repatriation",
+    "deceased soldiers",
+    "Pacific War",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to a May 24, 1943 letter to the American Red Cross on returning Japanese soldiers' ashes.",
+   "title": "State Department Cross-Reference Sheet on Proposal to Return Deceased Japanese Soldiers' Ashes",
+   "to": "American Red Cross"
+  },
+  {
+   "about": "Cross-reference sheet recording correspondence and clippings sent to the War Department concerning the treatment of fallen Japanese soldiers' remains.",
+   "date": "1944-08-19",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "War Department",
+    "fallen soldiers",
+    "war dead",
+    "treatment of remains",
+    "press clippings",
+    "Pacific War"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference to an August 19, 1944 letter to the War Department on treatment of fallen Japanese soldiers' remains.",
+   "title": "State Department Cross-Reference Sheet to the War Department on Treatment of Remains of Fallen Japanese Soldiers",
+   "to": "War Department"
+  },
+  {
+   "about": "Cross-reference sheet recording correspondence and clippings sent to the Navy Department concerning the treatment of fallen Japanese soldiers' remains.",
+   "date": "1944-08-19",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Department of State",
+   "keywords": [
+    "Navy Department",
+    "fallen soldiers",
+    "war dead",
+    "treatment of remains",
+    "press clippings",
+    "Pacific War"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to an August 19, 1944 letter to the Navy Department on treatment of fallen Japanese soldiers' remains.",
+   "title": "State Department Cross-Reference Sheet to the Navy Department on Treatment of Remains of Fallen Japanese Soldiers",
+   "to": "Navy Department"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14016,
+   "output_tokens": 3588,
+   "thinking_tokens": 2440,
+   "cache_read_tokens": 0,
+   "total_tokens": 17604
+  },
+  "backend": "agy",
+  "seconds": 14.2,
+  "identifier": "japan-internal-affairs-894.123311-public-health-hospitals-1",
+  "file": "894.123311 Public Health. Hospitals. Hospital Service., Disposal Of The Dead., Japan, Cemeteries. Maintenance Of U.S. Soldiers And Sailors Cemeteries., United States, May 24, 1943 - August 19, 1944 1443.pdf",
+  "created": "2026-09-28 23:18:45"
+ }
+}

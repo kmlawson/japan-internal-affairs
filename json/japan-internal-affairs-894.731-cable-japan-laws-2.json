@@ -1,0 +1,97 @@
+{
+ "overview": "A one-page confidential telegram filed under Japanese cable censorship reports that official British cables sent from Tokyo to the Pacific Coast were being held by Japanese authorities for approximately four days before transmission. Originating in San Francisco on July 15, 1941, the information was circulated within the U.S. diplomatic, military, and naval intelligence establishment shortly before the Pacific War.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "United States Pacific Coast",
+   "variants": [
+    "Pacific Coast"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "FAR EASTERN"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Wilson",
+   "role": "Reporting officer or sender in San Francisco; exact position not stated",
+   "variants": [
+    "WILSON"
+   ]
+  }
+ ],
+ "keywords": [
+  "cable censorship",
+  "telecommunications",
+  "British diplomatic cables",
+  "Japanese authorities",
+  "transmission delays",
+  "Tokyo",
+  "Pacific Coast",
+  "San Francisco",
+  "wartime intelligence",
+  "Anglo-Japanese relations",
+  "U.S. Department of State",
+  "Office of Naval Intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram from Wilson on delays to British cables from Tokyo",
+   "doc_type": "telegram",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1941-07-15",
+   "from": "Wilson, San Francisco",
+   "to": "U.S. Department of State",
+   "about": "Reports that Japanese authorities were delaying official British cables from Tokyo to the Pacific Coast by about four days.",
+   "summary": "Wilson relays information that official British cable traffic from Tokyo to the Pacific Coast had recently been detained for roughly four days before being forwarded. The confidential report was distributed to the State Department and senior U.S. Army and Navy intelligence and planning offices.",
+   "keywords": [
+    "British cables",
+    "Tokyo",
+    "Pacific Coast",
+    "Japanese censorship",
+    "communications delay",
+    "confidential intelligence",
+    "War Department",
+    "naval intelligence"
+   ]
+  }
+ ],
+ "interest": "The telegram provides concise evidence of Japanese interference with British official communications during the tense months preceding the Pacific War. Its broad distribution to diplomatic, military-intelligence, war-planning, and naval-intelligence offices shows that cable delays were treated as strategically significant. The document is useful for studying communications surveillance, censorship, and growing Anglo-American concern about Japanese policy in mid-1941.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 26.6,
+  "identifier": "japan-internal-affairs-894.731-cable-japan-laws-2",
+  "file": "894.731 Cable., Japan, Laws And Regulations. Censorship.,  213.pdf",
+  "created": "2026-09-29 08:26:13"
+ }
+}

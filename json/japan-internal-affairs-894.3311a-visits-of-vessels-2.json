@@ -1,0 +1,102 @@
+{
+ "interest": "Japanese naval ships seeking oil at U.S. ports, 1940.",
+ "keywords": [
+  "Japanese naval vessels",
+  "Hawaii",
+  "port visits",
+  "crude petroleum",
+  "naval transports",
+  "oil tankers",
+  "Shiriya",
+  "Hayatomo",
+  "Iro",
+  "Kyokuto Maru",
+  "Honolulu",
+  "San Francisco",
+  "U.S. Navy Department",
+  "Department of State"
+ ],
+ "overview": "Docket for 894.3311A (1940) on Japanese naval transports and tankers seeking visits to Hawaii and California for crude oil.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "HAWAII",
+    "Hawaii",
+    "HAWAIIAN IS."
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Hilo",
+   "variants": [
+    "Hilo"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet indexing correspondence from October and November 1940 regarding proposed visits of Japanese naval transports and tankers to ports in Hawaii and California.",
+   "date": "1940-11-14",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese naval vessels",
+    "Hawaii",
+    "Honolulu",
+    "San Francisco",
+    "Shiriya",
+    "Hayatomo",
+    "Iro",
+    "Kyokuto Maru",
+    "crude petroleum",
+    "Navy Department"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.3311A (1940) on Shiriya, Hayatomo, Iro and Kyokuto Maru port visits for oil.",
+   "title": "Department of State List of Papers: Visit of Japanese Vessels to Ports of Hawaii",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13955,
+   "output_tokens": 6024,
+   "thinking_tokens": 5123,
+   "cache_read_tokens": 0,
+   "total_tokens": 19979
+  },
+  "backend": "agy",
+  "seconds": 22.8,
+  "identifier": "japan-internal-affairs-894.3311a-visits-of-vessels-2",
+  "file": "894.3311A Visits Of Vessels And Aircraft Of Japan To Ports Of Hawaii.,  183.pdf",
+  "created": "2026-09-29 04:19:45"
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "interest": "Japanese diplomats in London feeding intelligence to Germany.",
+ "keywords": [
+  "espionage",
+  "intelligence gathering",
+  "military activities",
+  "Great Britain",
+  "Japan",
+  "Germany",
+  "London",
+  "Hong Kong",
+  "propaganda leaflets",
+  "Axis collaboration",
+  "Department of State",
+  "diplomatic communications"
+ ],
+ "overview": "Docket for 894.20241: Gunther's report that Japanese officials in London passed intelligence to Germany, and Grew's Hong Kong leaflets.",
+ "people": [
+  {
+   "name": "Franklin Mott Gunther",
+   "role": "U.S. Minister to Romania",
+   "variants": [
+    "Gunther"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Genji 'tura",
+   "role": "Head of espionage network for Germany in London",
+   "variants": [
+    "Genji 'tura i",
+    "Genji 'tura"
+   ]
+  },
+  {
+   "name": "Svenson",
+   "role": "Espionage operative rendering services to Germany in London",
+   "variants": [
+    "Svenson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Ib:Hnia",
+    "Rumania"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers docket sheet listing incoming records concerning Japanese espionage, intelligence gathering, and propaganda activities in Great Britain and Hong Kong.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "military activities",
+    "Great Britain",
+    "London",
+    "espionage",
+    "Hong Kong",
+    "propaganda leaflets",
+    "Franklin Mott Gunther",
+    "Joseph C. Grew"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.20241: Japanese in London spying for Germany, and Japanese leaflets dropped over Hong Kong.",
+   "title": "Department of State List of Papers on Military Activities of Japan in Great Britain",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13802,
+   "output_tokens": 7138,
+   "thinking_tokens": 6188,
+   "cache_read_tokens": 0,
+   "total_tokens": 20940
+  },
+  "backend": "agy",
+  "seconds": 24.7,
+  "identifier": "japan-internal-affairs-894.20241-military-affairs-army-1",
+  "file": "894.20241 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In United Kingdom Including Gathering Of Information. Espionage. Propaganda.,  40.pdf",
+  "created": "2026-09-29 02:00:02"
+ }
+}

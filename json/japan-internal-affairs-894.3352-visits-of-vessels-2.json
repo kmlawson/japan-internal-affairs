@@ -1,0 +1,103 @@
+{
+ "interest": "Japanese cherry trees planted in Barcelona, 1934.",
+ "keywords": [
+  "naval diplomacy",
+  "goodwill cruise",
+  "training cruisers",
+  "Imperial Japanese Navy",
+  "Barcelona",
+  "Spain",
+  "Japan",
+  "Iwate",
+  "Asama",
+  "Jaime I",
+  "cherry trees",
+  "Calle de Tokio"
+ ],
+ "overview": "Docket for 894.3352 (1934): Japanese cruisers Iwate and Asama visit Barcelona and plant cherry trees.",
+ "people": [
+  {
+   "name": "Claude I. Dawson",
+   "role": "U.S. Consul General at Barcelona",
+   "variants": [
+    "Dawson"
+   ]
+  },
+  {
+   "name": "Claude G. Bowers",
+   "role": "U.S. Ambassador to Spain",
+   "variants": [
+    "Bowers"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain",
+    "Spanish",
+    "Spanish Waters"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Barcelona",
+   "variants": [
+    "Barcelona",
+    "Catalogport of Barcelona"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Docket sheet listing State Department documents concerning the goodwill visit of Japanese naval training cruisers to Barcelona, Spain in May 1934.",
+   "date": "1934-05-22",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Barcelona",
+    "Spain",
+    "naval visit",
+    "Iwate",
+    "Asama",
+    "Jaime I",
+    "cherry trees",
+    "Calle de Tokio"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.3352: Japanese cruisers visit Barcelona and plant cherry trees, 1934.",
+   "title": "List of Papers: Visits of Japanese War Vessels to Spain",
+   "to": "FE A-C/C WE"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13827,
+   "output_tokens": 5144,
+   "thinking_tokens": 4267,
+   "cache_read_tokens": 0,
+   "total_tokens": 18971
+  },
+  "backend": "agy",
+  "seconds": 18.8,
+  "identifier": "japan-internal-affairs-894.3352-visits-of-vessels-2",
+  "file": "894.3352 Visits Of Vessels And Aircraft Of Japan To Ports Of Spain.,  497.pdf",
+  "created": "2026-09-29 04:33:20"
+ }
+}

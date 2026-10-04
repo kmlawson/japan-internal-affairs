@@ -1,0 +1,92 @@
+{
+ "interest": "Japanese aircraft engineers visit U.S. plants, 1935.",
+ "keywords": [
+  "Aviation",
+  "Airplanes",
+  "Aircraft manufacturing",
+  "Visas",
+  "Aichi Tokei Denki",
+  "Nagoya",
+  "Japanese Army",
+  "Japanese Navy",
+  "Aeronautical engineering",
+  "Technology transfer",
+  "Military intelligence"
+ ],
+ "overview": "Cross-reference: visas for Aichi engineers to study U.S. aircraft manufacturing, 1935.",
+ "people": [
+  {
+   "name": "Charles H. Stephan",
+   "role": "U.S. Consul at Nagoya",
+   "variants": [
+    "Stephan"
+   ]
+  },
+  {
+   "name": "Takeo Yasuba",
+   "role": "Aeronautical Engineer, Aichi Tokai Denki K.K.",
+   "variants": [
+    "Yasuba,Takeo",
+    "Takeo Yasuba"
+   ]
+  },
+  {
+   "name": "Shigeru Kamiya",
+   "role": "Aeronautical Engineer, Aichi Tokai Denki K.K.",
+   "variants": [
+    "Shigeru Kamiya"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet noting the issuance of temporary visitor visas to two Japanese aeronautical engineers traveling to the United States to investigate airplane design and manufacturing.",
+   "date": "1935-06-22",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "American Consulate, Nagoya (Charles H. Stephan)",
+   "keywords": [
+    "Visas",
+    "Aviation",
+    "Airplane manufacture",
+    "Aichi Tokei Denki",
+    "Takeo Yasuba",
+    "Shigeru Kamiya",
+    "Nagoya"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: visas for Aichi Tokei Denki engineers studying U.S. aircraft.",
+   "title": "Cross-Reference Sheet for Despatch No. 7 from Nagoya on Visas for Takeo Yasuba and Shigeru Kamiya",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13720,
+   "output_tokens": 3120,
+   "thinking_tokens": 2254,
+   "cache_read_tokens": 0,
+   "total_tokens": 16840
+  },
+  "backend": "agy",
+  "seconds": 12.7,
+  "identifier": "japan-internal-affairs-894.34-japan-equipment-and-1",
+  "file": "894.34 Japan, Equipment And Supplies. Included Construction, Purchase And Sale Of Vessels. Repairs To Foreign Naval Vessels., June 22, 1935 867.pdf",
+  "created": "2026-09-29 04:48:02"
+ }
+}

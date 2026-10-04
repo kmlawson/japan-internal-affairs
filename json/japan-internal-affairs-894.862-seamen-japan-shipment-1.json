@@ -1,0 +1,71 @@
+{
+ "overview": "A single-page State Department cross-reference sheet concerning a report from Kobe dated August 25, 1937, about the shipment or employment of American citizens as seamen aboard foreign vessels at American ports. The sheet identifies Scott as the sender and directs researchers to decimal file 196.2/1005 for telegram or document no. 158 rather than preserving the underlying report here.",
+ "places": [
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Scott",
+   "role": "Sender of the report from Kobe",
+   "variants": [
+    "Scott"
+   ]
+  }
+ ],
+ "keywords": [
+  "American seamen",
+  "American citizens",
+  "foreign vessels",
+  "American ports",
+  "maritime employment",
+  "shipping",
+  "Kobe",
+  "cross-reference",
+  "State Department records",
+  "document no. 158"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference to Scott report on American seamen aboard foreign vessels",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1937-08-25",
+   "from": "Scott, Kobe",
+   "to": "",
+   "about": "The sheet refers researchers to another file for a report about shipping American citizens as seamen on foreign vessels at American ports.",
+   "summary": "This filing note records a communication sent from Kobe by Scott on August 25, 1937. Its subject is the shipment of American citizens as seamen aboard foreign vessels at American ports. The substantive document, identified as no. 158, was filed under reference 196.2/1005.",
+   "keywords": [
+    "cross-reference",
+    "Scott",
+    "Kobe",
+    "American citizens",
+    "seamen",
+    "foreign vessels",
+    "American ports",
+    "196.2/1005",
+    "document no. 158"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful chiefly as evidence of State Department filing practices: a maritime-labor report found under the Japan decimal file was redirected to another subject file. It also points historians to a potentially substantive missing document on Americans serving aboard foreign-flag vessels during the opening phase of the Second Sino-Japanese War.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 18.6,
+  "identifier": "japan-internal-affairs-894.862-seamen-japan-shipment-1",
+  "file": "894.862 Seamen., Japan, Shipment Of Seamen., August 25, 1937 966.pdf",
+  "created": "2026-09-29 05:16:01"
+ }
+}

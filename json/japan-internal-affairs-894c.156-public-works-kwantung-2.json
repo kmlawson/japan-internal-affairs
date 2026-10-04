@@ -1,0 +1,91 @@
+{
+ "overview": "The file consists of a single Department of State “List of Papers” sheet indexing two communications concerning harbor administration and military use of port facilities in the Kwantung Leased Territory. One entry refers to revised regulations for Port Arthur and directs the reader to another decimal-file item; the other reports that twenty berths at Dairen would close from March 12 to accommodate non-seasonal troop movements, citing a local forwarding agent. The OCR appears to combine two catalogue entries, associated with Vincent and Langdon, and ends with the second entry incomplete.",
+ "places": [
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Lüshun (Port Arthur)",
+   "variants": [
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukien"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "John Carter Vincent",
+   "role": "U.S. diplomatic officer at Dairen; identified parenthetically with the communication to the Embassy",
+   "variants": [
+    "Vincent"
+   ]
+  },
+  {
+   "name": "William Russell Langdon",
+   "role": "U.S. consular officer at Mukden; identified parenthetically with Telegram No. 5",
+   "variants": [
+    "Langdon"
+   ]
+  }
+ ],
+ "keywords": [
+  "Kwantung Leased Territory",
+  "harbors",
+  "Port Arthur",
+  "Dairen",
+  "port regulations",
+  "shipping berths",
+  "troop movements",
+  "military transportation",
+  "forwarding agents",
+  "Department of State",
+  "decimal-file cross-reference"
+ ],
+ "subfiles": [
+  {
+   "title": "Department of State list of papers on Port Arthur and Dairen harbors",
+   "doc_type": "list of papers / cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "",
+   "from": "U.S. Department of State",
+   "to": "",
+   "about": "The sheet indexes communications about revised Port Arthur regulations and the temporary military use of shipping berths at Dairen.",
+   "summary": "The first indexed item is a May 13, 1933 communication from Dairen to the Embassy, associated with Vincent, concerning revised port regulations for Port Arthur and cross-referenced to file 894.34594c/1. A second item, apparently a March 8 telegram from Mukden associated with Langdon, reports that twenty Dairen berths were to close beginning March 12 for non-seasonal troop movements. Its information is attributed to a local forwarding agent, but the entry is truncated in the surviving OCR.",
+   "keywords": [
+    "list of papers",
+    "Port Arthur",
+    "Dairen",
+    "harbor regulations",
+    "shipping berths",
+    "troop movements",
+    "Vincent",
+    "Langdon",
+    "cross-reference"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful chiefly as a finding aid linking harbor regulation to military logistics in the Kwantung Leased Territory. Its reference to the closure of twenty Dairen berths for unusual troop movements may help date or corroborate Japanese military transportation activity. The discrepancy between the supplied file title, 894C.156, and the sheet’s printed heading, 894C.153, is also significant for reconstructing the State Department’s filing and cross-reference practices.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 51.7,
+  "identifier": "japan-internal-affairs-894c.156-public-works-kwantung-2",
+  "file": "894C.156 Public Works., Kwantung Leased Territory, Harbors.,  637.pdf",
+  "created": "2026-09-29 01:13:06"
+ }
+}

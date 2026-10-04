@@ -1,0 +1,147 @@
+{
+ "interest": "This file provides a valuable look into the inter-agency intelligence coordination and investigative procedures of the U.S. State Department's Division of Far Eastern Affairs in early 1939. It illustrates how U.S. officials used commercial reference works—notably the Shanghai Hong List and World Trade Directory Reports—to vet suspected front companies associated with Japanese personnel. Additionally, the exchange reveals routine collaboration between the State Department, postal authorities, and the Office of Naval Intelligence (ONI) as American officials tracked Japanese individuals prior to the outbreak of the Pacific War.",
+ "keywords": [
+  "Japan",
+  "Division of Far Eastern Affairs",
+  "Office of Naval Intelligence",
+  "ONI",
+  "Takahashi",
+  "Post Office Department",
+  "Shanghai",
+  "Chinese Import and Export Company",
+  "Shanghai Hong List",
+  "World Trade Directory Reports",
+  "military intelligence",
+  "language study"
+ ],
+ "overview": "This State Department file (decimal 894.2211/234), classified under Japanese commissioned officers detailed for foreign language study, consists of internal memoranda and routing notes from the Division of Far Eastern Affairs dated February 15–17, 1939, concerning an investigation into an individual named Takahashi. After M.M.H. requested a recommendation from J.W.B. regarding appropriate action, officer J.E.S. investigated the Chinese Import and Export Company of Shanghai—a firm mentioned in an associated letter—and found no listing for it in either the Shanghai Hong List or the Department's World Trade Directory Reports. Concluding that the available evidence was too indefinite to warrant positive diplomatic action, J.E.S. recommended awaiting a further report from postal authorities and sharing the file with the Office of Naval Intelligence (ONI), where it was examined by a naval commander.",
+ "people": [
+  {
+   "name": "Takahashi",
+   "role": "Subject of investigation / Japanese officer",
+   "variants": [
+    "Takahashi"
+   ]
+  },
+  {
+   "name": "J. E. S.",
+   "role": "Officer, Division of Far Eastern Affairs",
+   "variants": [
+    "J.E.S.",
+    "JES",
+    "LES"
+   ]
+  },
+  {
+   "name": "J. W. B.",
+   "role": "Official, Department of State",
+   "variants": [
+    "JWB"
+   ]
+  },
+  {
+   "name": "M. M. H.",
+   "role": "Official, Division of Far Eastern Affairs",
+   "variants": [
+    "mm H"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "FAR EASTERN"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Recommends awaiting further postal reports and sharing information on Takahashi with the Office of Naval Intelligence.",
+   "date": "1939-02-17",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "J.E.S.",
+   "keywords": [
+    "Takahashi",
+    "Office of Naval Intelligence",
+    "ONI",
+    "Post Office",
+    "Division of Far Eastern Affairs",
+    "intelligence coordination"
+   ],
+   "start_page": 1,
+   "summary": "J.E.S. concludes that the existing information regarding Takahashi is insufficient to justify positive action by the Department of State. He suggests waiting for a forthcoming report from Post Office authorities and transmitting the file to the Office of Naval Intelligence (ONI) for any additional intelligence they might uncover. A handwritten marginal notation records that the file was subsequently shown to a Commander in ONI.",
+   "title": "Memorandum by J.E.S. recommending liaison with ONI concerning Takahashi",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Transmits a request for a recommendation on action regarding the Takahashi file.",
+   "date": "1939-02-16",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "M.M.H.",
+   "keywords": [
+    "routing slip",
+    "recommendation",
+    "Far Eastern Affairs",
+    "Department of State"
+   ],
+   "start_page": 2,
+   "summary": "A brief handwritten inter-office note dated February 16 from M.M.H. asking J.W.B. for a recommendation regarding what action should be taken. This administrative query led directly to the assessment and recommendations finalized the following day.",
+   "title": "Routing slip from M.M.H. requesting recommendation on action",
+   "to": "J.W.B."
+  },
+  {
+   "about": "Reports that the Chinese Import and Export Company of Shanghai cannot be identified in standard commercial directories.",
+   "date": "1939-02-15",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "J.E.S.",
+   "keywords": [
+    "Shanghai",
+    "Chinese Import and Export Company",
+    "Shanghai Hong List",
+    "World Trade Directory Reports",
+    "commercial directories"
+   ],
+   "start_page": 3,
+   "summary": "J.E.S. reports that the Chinese Import and Export Company of Shanghai, cited in an attached letter, could not be found in either the Shanghai Hong List or the State Department's World Trade Directory Reports. Having failed to verify the entity in standard commercial registries, J.E.S. states he has no suggestions or action to propose at that time.",
+   "title": "Memorandum by J.E.S. on Chinese Import and Export Company of Shanghai",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13828,
+   "output_tokens": 6585,
+   "thinking_tokens": 5370,
+   "cache_read_tokens": 0,
+   "total_tokens": 20413
+  },
+  "backend": "agy",
+  "seconds": 23.8,
+  "identifier": "japan-internal-affairs-894.2211-personnel-organization-discipline",
+  "file": "894.2211 Personnel. Organization. Discipline. Mutiny. Compulsory Military Service., Commissioned Officers., Japan, Detail For Language Study In Foreign Countries., February 17, 1939 1075.pdf",
+  "created": "2026-09-29 03:21:51"
+ }
+}

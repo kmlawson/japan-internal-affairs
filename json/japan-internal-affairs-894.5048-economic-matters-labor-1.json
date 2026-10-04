@@ -1,0 +1,172 @@
+{
+ "interest": "Documents 1930s convict labor reports and the 1934 Tohoku famine's forced daughter-indenturing amid Japan's rising military spending.",
+ "keywords": [
+  "Compulsory labor",
+  "Convict labor",
+  "U.S. Tariff Act",
+  "Tohoku famine of 1934",
+  "Indentured servitude",
+  "Human trafficking",
+  "Yoshiwara",
+  "Rural poverty",
+  "Rice crop failure",
+  "State Department decimal file 894.5048",
+  "Humanitarian relief",
+  "Japanese military expenditure"
+ ],
+ "overview": "File 894.5048 covers 1930s involuntary labor: a cross-reference to a Tokyo despatch on Japanese convict and compulsory labor under U.S. tariff law, and a 1934 Denver citizen's letter on the Tohoku famine forcing families to indenture daughters into brothels and factories, urging international protest and relief.",
+ "people": [
+  {
+   "name": "Bingham",
+   "role": "U.S. diplomatic official in Tokyo",
+   "variants": [
+    "Bingham"
+   ]
+  },
+  {
+   "name": "Dudley O. Paterson",
+   "role": "Private citizen, Denver, Colorado",
+   "variants": [
+    "Dudley, O. Paterson",
+    "Dudley O. Paterson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Denver, Colorado",
+   "variants": [
+    "Denver, Colo."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JAP",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Los Angeles, California",
+   "variants": [
+    "Angeles"
+   ]
+  },
+  {
+   "name": "Marchena Island",
+   "variants": [
+    "Malchena"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "Ohio"
+   ]
+  },
+  {
+   "name": "Paraguay",
+   "variants": [
+    "Paraguays"
+   ]
+  },
+  {
+   "name": "Tōhoku region",
+   "variants": [
+    "six northern prefectures",
+    "famine area"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "Yoshiwara",
+   "variants": [
+    "Yoshitwara"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a diplomatic report from Tokyo regarding convict and compulsory labor in Japan under U.S. tariff laws.",
+   "date": "1930-03-27",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Bingham (Tokyo)",
+   "keywords": [
+    "convict labor",
+    "compulsory labor",
+    "U.S. tariff",
+    "Tokyo",
+    "State Department"
+   ],
+   "start_page": 1,
+   "summary": "Indexes a March 1930 Tokyo report on Japanese convict and compulsory labor under U.S. tariff provisions.",
+   "title": "Document File Note on Japanese Convict and Compulsory Labor",
+   "to": "Department of State"
+  },
+  {
+   "about": "Letter from a Denver resident urging international diplomatic protest and humanitarian assistance regarding reports of indentured labor in famine-stricken Japan.",
+   "date": "1934-09-25",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "Dudley O. Paterson",
+   "keywords": [
+    "Dudley O. Paterson",
+    "Denver",
+    "diplomatic protest",
+    "humanitarian aid",
+    "State Department"
+   ],
+   "start_page": 2,
+   "summary": "Dudley O. Paterson of Denver urges a joint international protest and humanitarian aid offer over reported exploitation of distressed Japanese agrarian communities.",
+   "title": "Letter from Dudley O. Paterson Proposing Joint International Protest and Relief for Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Syndicated press dispatch detailing the indenturing of young rural women and girls amid severe famine in northern Japan.",
+   "date": "1934-11-23",
+   "doc_type": "clipping",
+   "end_page": 3,
+   "from": "International News Service",
+   "keywords": [
+    "International News Service",
+    "famine",
+    "rice crop failure",
+    "Tohoku",
+    "Yoshiwara",
+    "indentured labor",
+    "military budget"
+   ],
+   "start_page": 3,
+   "summary": "News clipping: repeated crop failures in six northern Japanese prefectures drove destitute families to indenture an estimated 60,000 daughters to Yoshiwara brokers, cafes, and factories, even as the Cabinet approved a record military budget.",
+   "title": "Press Clipping on Famine Distress and Indentured Servitude in Northern Japan",
+   "to": "General public"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 48497,
+   "output_tokens": 10710,
+   "thinking_tokens": 7728,
+   "cache_read_tokens": 0,
+   "total_tokens": 59207
+  },
+  "backend": "agy",
+  "seconds": 43.9,
+  "identifier": "japan-internal-affairs-894.5048-economic-matters-labor-1",
+  "file": "894.5048 Economic Matters., Labor., Japan, Slavery. Compulsory Labor. Peonage., March 27, 1930 697.pdf",
+  "created": "2026-09-29 08:59:02"
+ }
+}

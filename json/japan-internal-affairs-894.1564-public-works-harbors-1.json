@@ -1,0 +1,113 @@
+{
+ "interest": "Japan's navy restricted foreign ship repairs in 1934; P. and O. was the consul's source.",
+ "keywords": [
+  "dry docks",
+  "dockyards",
+  "naval authorities",
+  "ship repairs",
+  "Imperial Japanese Navy",
+  "foreign steamship companies",
+  "P. and O. Steamship Company",
+  "Kobe",
+  "Tokyo",
+  "Joseph C. Grew",
+  "naval intelligence",
+  "military readiness"
+ ],
+ "overview": "Grew's January 20, 1934 telegram and paraphrase: Japanese naval authorities told dockyards to refuse foreign repair orders over thirty days ahead.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "GREW",
+    "American Ambassador at Tokyo"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Ambassador Grew reports Japanese naval instructions restricting domestic dockyards from booking foreign ship repairs more than 30 days in advance.",
+   "date": "1934-01-20",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "dry docks",
+    "dockyards",
+    "naval authorities",
+    "P. and O. Steamship Company",
+    "Kobe",
+    "Tokyo",
+    "ship repairs",
+    "Office of Naval Intelligence"
+   ],
+   "start_page": 1,
+   "summary": "Grew reports Japanese naval authorities told dockyards not to accept foreign repair orders more than thirty days ahead, keeping docks free for emergencies.",
+   "title": "Telegram No. 10 from Ambassador Joseph C. Grew to the Secretary of State regarding Japanese dockyard repair restrictions",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A State Department paraphrase of Ambassador Grew's telegram concerning Japanese naval restrictions on foreign ship repairs in domestic dockyards.",
+   "date": "1934-01-22",
+   "doc_type": "paraphrase",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "paraphrase",
+    "dry docks",
+    "naval authorities",
+    "foreign steamship companies",
+    "P. and O. Steamship Company",
+    "Kobe",
+    "dockyards"
+   ],
+   "start_page": 2,
+   "summary": "Paraphrase of Grew's January 20, 1934 telegram on naval limits on foreign ship repairs, prepared for ONI and MID.",
+   "title": "Paraphrase of Telegram No. 10 from Tokyo on foreign ship repairs in Japanese dockyards",
+   "to": "Office of Naval Intelligence and Military Intelligence Division"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13928,
+   "output_tokens": 4006,
+   "thinking_tokens": 2944,
+   "cache_read_tokens": 0,
+   "total_tokens": 17934
+  },
+  "backend": "agy",
+  "seconds": 15.5,
+  "identifier": "japan-internal-affairs-894.1564-public-works-harbors-1",
+  "file": "894.1564 Public Works., Harbors., Japan, Drydocks., January 20, 1934 799.pdf",
+  "created": "2026-09-28 23:33:44"
+ }
+}

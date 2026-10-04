@@ -1,0 +1,150 @@
+{
+ "interest": "Shows FBI surveillance of the Portland Japanese consulate's 1941 asset survey, file destruction, and a Nisei citizenship renunciation form.",
+ "keywords": [
+  "Japanese Consulate",
+  "Portland, Oregon",
+  "Federal Bureau of Investigation",
+  "J. Edgar Hoover",
+  "Adolf A. Berle, Jr.",
+  "Yutaka Oka",
+  "Issei",
+  "Nisei",
+  "Asset survey",
+  "Destruction of records",
+  "Citizenship renunciation",
+  "Pre-war surveillance"
+ ],
+ "overview": "August 1941 Hoover letter to Berle reports the Portland Japanese consulate surveyed Issei assets (over $2.18 million), and that Acting Consul Oka burned confidential files and moved codebooks after the Cabinet's fall; encloses a Nisei form for renouncing Japanese citizenship.",
+ "people": [
+  {
+   "name": "Adolf A. Berle, Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Honorable Adolf A. Berle, Jr.",
+    "Adolf A. Berle, Jr.",
+    "Mr. Berle"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation",
+   "variants": [
+    "J. E. Hoover"
+   ]
+  },
+  {
+   "name": "Yutaka Oka",
+   "role": "Japanese Acting Consul in Portland",
+   "variants": [
+    "Yutaka Oka",
+    "Oka"
+   ]
+  },
+  {
+   "name": "H. Y. Kato",
+   "role": "Resident of Oregon listed as the wealthiest Japanese in the state",
+   "variants": [
+    "H. Y. Kato"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Portland",
+   "variants": [
+    "Portland"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "Oregon",
+    "State of Oregon"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "FBI Director J. Edgar Hoover reports confidential intelligence on the Portland Japanese Consulate's survey of Issei assets, destruction of confidential records, and emergency security measures.",
+   "date": "1941-08-14",
+   "doc_type": "letter",
+   "end_page": 2,
+   "from": "J. E. Hoover",
+   "keywords": [
+    "Federal Bureau of Investigation",
+    "J. Edgar Hoover",
+    "Adolf A. Berle, Jr.",
+    "Portland",
+    "Japanese Consulate",
+    "Yutaka Oka",
+    "Issei",
+    "Asset census",
+    "Furnace burning",
+    "Code book"
+   ],
+   "start_page": 1,
+   "summary": "Hoover tells Berle the Portland Japanese consulate surveyed Oregon Issei, reporting $2,187,920 in assets for Tokyo; after the Cabinet's resignation, Acting Consul Oka burned confidential files and moved the codebook to his home amid heightened espionage concerns.",
+   "title": "Letter from J. E. Hoover to Adolf A. Berle, Jr., Regarding Japanese Consulate Activities in Portland, Oregon",
+   "to": "Adolf A. Berle, Jr."
+  },
+  {
+   "about": "English translation of a standard Japanese administrative form for renouncing Japanese citizenship under the Law of Nationality.",
+   "date": "",
+   "doc_type": "form",
+   "end_page": 3,
+   "from": "",
+   "keywords": [
+    "Citizenship renunciation",
+    "Law of Nationality",
+    "Second Generation Japanese",
+    "Nisei",
+    "Minister of Foreign Affairs",
+    "Expatriation",
+    "Dual nationality"
+   ],
+   "start_page": 3,
+   "summary": "Translated Japanese form for Nisei to renounce citizenship under the Law of Nationality, with fields for family and residence details.",
+   "title": "Enclosure: Translation of Japanese Petition to Renounce Citizenship",
+   "to": "Minister of Foreign Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14548,
+   "output_tokens": 6098,
+   "thinking_tokens": 4830,
+   "cache_read_tokens": 0,
+   "total_tokens": 20646
+  },
+  "backend": "agy",
+  "seconds": 23.3,
+  "identifier": "japan-internal-affairs-894.503111-economic-matters-capital-2",
+  "file": "894.503111 Economic Matters., Capital., Investment Of, Or Field For Investment Of, Capital Of Japan In United States., August 14, 1941 1290.pdf",
+  "created": "2026-09-29 08:05:58"
+ }
+}

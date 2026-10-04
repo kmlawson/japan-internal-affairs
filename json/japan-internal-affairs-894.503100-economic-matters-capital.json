@@ -1,0 +1,156 @@
+{
+ "interest": "Shows 1945 Allied tracking of Japanese capital flight and Takasaki's account of Manchuria's industrial collapse under looting and Soviet removals.",
+ "keywords": [
+  "Japanese capital",
+  "foreign assets",
+  "capital flight",
+  "expropriation",
+  "Manchuria",
+  "Manchuria Heavy Industry Development Co.",
+  "German banks",
+  "neutral European countries",
+  "Latin America",
+  "Soviet removals",
+  "wartime finance",
+  "reparations"
+ ],
+ "overview": "File 894.503100 (1945) covers Japanese overseas capital: cross-reference sheets on Japanese funds moved from German to neutral banks and Latin American expropriation decrees, plus a note on Tatsunosuke Takasaki's finding that Manchuria's industrial capital was nearly wiped out by looting and Soviet dismantling.",
+ "people": [
+  {
+   "name": "Tatsunosuke Takasaki",
+   "role": "Former President of the Manchuria Heavy Industry Development Co.",
+   "variants": [
+    "Takasaki"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "German"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "American Republics"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting a report forwarded by the Treasury Department and FEA concerning Japanese residents transferring funds from German banks to neutral European nations.",
+   "date": "1945-03-13",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Legation, Bern",
+   "keywords": [
+    "capital flight",
+    "Japanese residents",
+    "Germany",
+    "German banks",
+    "neutral countries",
+    "Bern",
+    "Foreign Economic Administration"
+   ],
+   "start_page": 1,
+   "summary": "Indexes a March 1945 Bern telegram reporting Japanese nationals in Germany moved their bank funds to neutral European countries.",
+   "title": "Cross-Reference Sheet for Bern Telegram No. 1044 on Japanese Capital Flight from Germany",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing a circular telegram regarding expropriation decrees over commercial and financial entities representing German or Japanese interests in the American Republics.",
+   "date": "1945-04-03",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "expropriation decree",
+    "Council of Administration",
+    "Axis assets",
+    "American Republics",
+    "Argentina",
+    "financial controls"
+   ],
+   "start_page": 2,
+   "summary": "Indexes an April 1945 circular placing German- and Japanese-linked firms in American Republics under a Council of Administration.",
+   "title": "Cross-Reference Sheet for Circular Telegram on Expropriation Decrees in American Republics",
+   "to": "Chiefs of Missions in the American Republics (except Argentina)"
+  },
+  {
+   "about": "Memorandum note summarizing an assessment by former Mangyo president Takasaki on the destruction and residual value of Japanese capital in Manchuria.",
+   "date": "",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Unidentified State Department official",
+   "keywords": [
+    "Tatsunosuke Takasaki",
+    "Manchuria Heavy Industry Development Co.",
+    "Manchuria",
+    "Japanese investments",
+    "Soviet removals",
+    "mob looting",
+    "industrial reconstruction"
+   ],
+   "start_page": 3,
+   "summary": "May 23 note on Takasaki's finding that only 10% of Japanese industrial investment value in Manchuria survived the war, mostly due to mob looting rather than Soviet removals; he hoped many Japanese personnel would stay to help rebuild.",
+   "title": "Note on Takasaki's Assessment of Japanese Capital and Industry in Manchuria",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13996,
+   "output_tokens": 5549,
+   "thinking_tokens": 4193,
+   "cache_read_tokens": 0,
+   "total_tokens": 19545
+  },
+  "backend": "agy",
+  "seconds": 23.0,
+  "identifier": "japan-internal-affairs-894.503100-economic-matters-capital",
+  "file": "894.503100 Economic Matters., Capital., Investment Of, Or Field For Investment Of, Capital Of Japan In The World., March 13, 1945 - April 3, 1945 1488.pdf",
+  "created": "2026-09-29 08:05:20"
+ }
+}

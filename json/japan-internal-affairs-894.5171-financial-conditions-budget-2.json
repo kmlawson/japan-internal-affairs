@@ -1,0 +1,134 @@
+{
+ "interest": "This file provides valuable insight into Japan's wartime economic mobilization and state-led restructuring of financial markets during World War II. It highlights the Imperial Japanese Government's use of wartime emergency powers to subordinate private capitalism, break the traditional dominance of zaibatsu cliques like Mitsui and Mitsubishi, and eliminate speculative trading in favor of state-directed capital allocation. Additionally, the U.S. State Department memorandum reveals how American intelligence utilized intercepted domestic Japanese radio broadcasts to track internal policy debates and gauge Japanese domestic morale and economic health, correlating Tokyo stock price drops directly with Allied military victories in the Solomon Islands campaign.",
+ "keywords": [
+  "Stock exchanges",
+  "Japan Negotiable Securities Exchange",
+  "Tokyo Stock Exchange",
+  "Osaka Stock Exchange",
+  "Wartime finance",
+  "Zaibatsu",
+  "Speculation",
+  "Capital mobilization",
+  "Ministry of Finance",
+  "Solomon Islands campaign",
+  "Greater East Asia Co-prosperity Sphere",
+  "Economic controls"
+ ],
+ "overview": "This file contains a January 20, 1943 memorandum prepared by F. S. Williams of the Division of Far Eastern Affairs in the U.S. Department of State, together with an attached radio broadcast intercept transcript of an address by Japanese Vice-Minister of Finance Tsuneji Taniguchi. The documents detail and analyze the Japanese Government's wartime legislative plan to reorganize its financial structure by dissolving existing private stock exchanges—most notably the Tokyo and Osaka stock exchanges and nine regional bourses—and replacing them by September 30, 1943, with the Japan Negotiable Securities Exchange, a unified government-controlled agency. The records examine the Imperial Japanese Government's objectives to curb market speculation, break the financial stranglehold of major zaibatsu cliques like Mitsui and Mitsubishi, rigidly control corporate capital issuance, and mobilize investment for heavy industries and the Greater East Asia Co-prosperity Sphere, while noting that Japanese equity markets plummeted following the announcement and recent military reversals in the Solomon Islands.",
+ "people": [
+  {
+   "name": "F. S. Williams",
+   "role": "Officer, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "F. S. Williams",
+    "FSW"
+   ]
+  },
+  {
+   "name": "Tsuneji Taniguchi",
+   "role": "Vice-minister of the Finance Ministry",
+   "variants": [
+    "Taniguchi",
+    "Vice-minister Taniguchi"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan's"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Pearl Harbor"
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "Greater East Asia"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Solomon Islands",
+   "variants": [
+    "Solomons"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department memorandum analyzing the Japanese Government's plan to dissolve private stock exchanges and establish a state-controlled securities exchange during wartime.",
+   "date": "1943-01-20",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "F. S. Williams",
+   "keywords": [
+    "Stock exchange reform",
+    "Japan Negotiable Securities Exchange",
+    "Tokyo Stock Exchange",
+    "Osaka Stock Exchange",
+    "Zaibatsu",
+    "Speculation",
+    "Solomon Islands",
+    "Wartime finance"
+   ],
+   "start_page": 1,
+   "summary": "F. S. Williams of the Division of Far Eastern Affairs outlines the Japanese Government's bill submitted to the Diet to reform the nation's stock exchanges. The legislation dissolves the Tokyo and Osaka exchanges and consolidates eleven regional bourses into the state-administered Japan Negotiable Securities Exchange by September 30, 1943. Williams explains that the reform is designed to break the financial dominance of zaibatsu cliques such as Mitsui and Mitsubishi, curb speculation, and direct capital toward heavy industries. He also analyzes stock price movements, noting that Japanese equity prices plunged significantly following naval losses in the Solomons and the public announcement of the reorganization plan.",
+   "title": "Memorandum by F. S. Williams on Reform of Japanese Stock Exchanges",
+   "to": "Division of Far Eastern Affairs, Department of State"
+  },
+  {
+   "about": "A translated Japanese radio broadcast by Vice-Minister of Finance Taniguchi outlining the government's rationale and statutory provisions for nationalizing and reorganizing the stock exchanges.",
+   "date": "1943-01",
+   "doc_type": "radio broadcast transcript",
+   "end_page": 10,
+   "from": "Tsuneji Taniguchi",
+   "keywords": [
+    "Ministry of Finance",
+    "Tsuneji Taniguchi",
+    "Stock exchange reform",
+    "Wartime economic controls",
+    "Greater East Asia War",
+    "Juridical persons",
+    "Heavy industry",
+    "Radio intercept"
+   ],
+   "start_page": 5,
+   "summary": "In a domestic and imperial radio address, Vice-Minister of Finance Taniguchi explains the wartime necessity of restructuring Japan's stock exchanges to harmonize national production and secure people's savings. He asserts that private speculative trading and price volatility disrupt the wartime economy, requiring the unification of regional exchanges under government-appointed officials. The reform restricts market participants to qualified juridical entities and empowers the new organ to stabilize share values and facilitate capital issuance for national objectives. Taniguchi emphasizes that war-essential heavy industries and shipyards will be protected under the new system and appeals to exchange affiliates for full cooperation.",
+   "title": "Radio Address by Vice-Minister Taniguchi on the Reform of the Stock Exchange",
+   "to": "Home & Empire Audience"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 16606,
+   "output_tokens": 6085,
+   "thinking_tokens": 4847,
+   "cache_read_tokens": 0,
+   "total_tokens": 22691
+  },
+  "backend": "agy",
+  "seconds": 23.3,
+  "identifier": "japan-internal-affairs-894.5171-financial-conditions-budget-2",
+  "file": "894.5171 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Exchanges., Japan, Stock., January 20, 1943 1376.pdf",
+  "created": "2026-09-29 09:56:49"
+ }
+}

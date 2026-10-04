@@ -1,0 +1,85 @@
+{
+ "overview": "A single-page State Department cross-reference sheet points to a February 27, 1937 report from Scott at Kobe concerning an automobile accident that killed Yoshio Tsukiyama. The note warns that failure to settle the matter promptly through a generous gesture by A. Paul Brown could turn the affair into an unpleasant incident, and directs researchers to a related Brown file.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "A. Paul Brown",
+   "role": "Person expected to make a generous gesture toward settling the accident case",
+   "variants": [
+    "Brown, A. Paul",
+    "Mr A. Paul Brown"
+   ]
+  },
+  {
+   "name": "Yoshio Tsukiyama",
+   "role": "Fatality in the automobile accident",
+   "variants": [
+    "Yoshio Tsukiyama"
+   ]
+  },
+  {
+   "name": "Scott",
+   "role": "Reporting official at Kobe",
+   "variants": [
+    "Scott"
+   ]
+  }
+ ],
+ "keywords": [
+  "automobile accident",
+  "traffic fatality",
+  "Yoshio Tsukiyama",
+  "A. Paul Brown",
+  "Kobe",
+  "Japan",
+  "settlement",
+  "compensation",
+  "potential incident",
+  "cross-reference"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference on fatal automobile accident at Kobe",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1937-02-27",
+   "from": "Scott, Kobe",
+   "to": "",
+   "about": "The sheet refers researchers to another file containing Scott's report on the automobile accident that killed Yoshio Tsukiyama.",
+   "summary": "Scott reported from Kobe on an automobile accident resulting in the death of Yoshio Tsukiyama. He feared that a nasty incident might arise unless A. Paul Brown made a generous gesture and the affair was settled soon. The sheet cross-references the report to the file headed “Brown, A. Paul.”",
+   "keywords": [
+    "cross-reference",
+    "Kobe",
+    "automobile accident",
+    "Yoshio Tsukiyama",
+    "A. Paul Brown",
+    "fatality",
+    "settlement",
+    "diplomatic incident"
+   ]
+  }
+ ],
+ "interest": "This sheet is useful chiefly as a documentary pointer connecting a transportation-accident classification with a separate personal file on A. Paul Brown. Its terse warning shows how a private fatal accident could acquire diplomatic significance when compensation or conciliation was delayed, while also preserving the names of the victim, the person expected to settle the matter, and the reporting official.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 20.6,
+  "identifier": "japan-internal-affairs-894.7975-other-means-of-1",
+  "file": "894.7975 Other Means Of Communication And Transportation. Carrier Pigeons., Automobile. Bus Line., Japan, Accidents., February 27, 1937 943.pdf",
+  "created": "2026-09-29 06:39:40"
+ }
+}

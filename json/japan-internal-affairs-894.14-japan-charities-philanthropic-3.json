@@ -1,0 +1,76 @@
+{
+ "interest": "SCAP review of Japan's private welfare agencies, 1947.",
+ "keywords": [
+  "Japan",
+  "SCAP",
+  "Public Health and Welfare Section",
+  "welfare agencies",
+  "charities",
+  "philanthropic organizations",
+  "social welfare",
+  "Japanese Government",
+  "USPOLAD",
+  "postwar reconstruction"
+ ],
+ "overview": "USPOLAD despatch of December 30, 1947 sending a SCAP report on Japan's national private welfare agencies.",
+ "people": [
+  {
+   "name": "Rolland H. Bushner",
+   "role": "",
+   "variants": [
+    "RHBushner"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cover despatch forwarding a SCAP Public Health and Welfare Section report on national welfare agencies in Japan.",
+   "date": "1947-12-30",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Acting Political Adviser, United States Political Adviser for Japan",
+   "keywords": [
+    "welfare agencies",
+    "Public Health and Welfare Section",
+    "SCAP",
+    "Japan",
+    "charities",
+    "Japanese Government"
+   ],
+   "start_page": 1,
+   "summary": "USPOLAD sends a SCAP report on Japan's private welfare agencies and their close ties to the government.",
+   "title": "Despatch from Acting Political Adviser transmitting SCAP report on national welfare agencies in Japan",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13852,
+   "output_tokens": 4201,
+   "thinking_tokens": 3616,
+   "cache_read_tokens": 0,
+   "total_tokens": 18053
+  },
+  "backend": "agy",
+  "seconds": 16.4,
+  "identifier": "japan-internal-affairs-894.14-japan-charities-philanthropic-3",
+  "file": "894.14 Japan, Charities. Philanthropic Organizations., December 30, 1947 1609.pdf",
+  "created": "2026-09-28 23:24:37"
+ }
+}

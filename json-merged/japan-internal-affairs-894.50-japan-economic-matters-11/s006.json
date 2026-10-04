@@ -1,0 +1,794 @@
+{
+ "section_summary": "This section closes a confidential 1941 economic estimate of Japan, covering transportation, communications, finance, population, labor, foreign investment, and the relationship between economic weakness and expansionist foreign policy. It then begins Frank S. Williams’s Annual Economic Review of Japan for 1940, which documents recession, mounting debt, intensified state control, shortages, troubled foreign trade, and declining industrial and agricultural production. Particular attention is given to cotton textiles, iron and steel, employment, wages, prices, and living costs.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japan proper",
+    "Japan Proper",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "Seto Inland Sea",
+   "variants": [
+    "inland sea"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Cnina"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoko",
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Tokys"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapparo",
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peking"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Palau",
+   "variants": [
+    "Palau"
+   ]
+  },
+  {
+   "name": "Timor",
+   "variants": [
+    "Timor"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "iberia",
+    "Siberia",
+    "eastern Siberia",
+    "Siberian shores"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Hanila"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "Bonin Islands"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "a asali"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "Unitod States",
+    "United Statos"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Lurope",
+    "urope"
+   ]
+  },
+  {
+   "name": "South Asia",
+   "variants": [
+    "Couth Asia",
+    "Southern Asia"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "hanghai"
+   ]
+  },
+  {
+   "name": "Yap",
+   "variants": [
+    "Yap"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kurile Island"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Sees",
+    "South Seas",
+    "South Scas"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "Mandate Islands",
+    "South Sea Mandated Islends"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korean border",
+    "Chosen",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "anchuria",
+    "lanchuria",
+    "Hanchuria",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Western Pacific",
+   "variants": [
+    "Western Pacific"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "Onomichi"
+   ]
+  },
+  {
+   "name": "Ōita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Hōfu",
+   "variants": [
+    "Bofu"
+   ]
+  },
+  {
+   "name": "Koriyama",
+   "variants": [
+    "Koriyima"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Latsuyama"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "Forth and Couth America"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "Forth and Couth America",
+    "Couth America",
+    "South America"
+   ]
+  },
+  {
+   "name": "Nazaki",
+   "variants": [
+    "Nazaki"
+   ]
+  },
+  {
+   "name": "Komuro",
+   "variants": [
+    "Komuro"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Thilippines",
+    "Philippines",
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "Sumatra"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-China",
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "eastern Asia",
+    "Eastern Asia",
+    "East Asiatic area",
+    "East Asia",
+    "East Asic",
+    "Ecst Asian ports"
+   ]
+  },
+  {
+   "name": "Greater East Asia Co-Prosperity Sphere",
+   "variants": [
+    "Great East Asia",
+    "Greater East Asia Co-prosperity Sphere"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "Hanchoukuo",
+    "Manchuokuo",
+    "lanchoukuo",
+    "lianchoulkuo",
+    "iianchoukuo",
+    "llanchoukuo",
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung leased Territory"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "South anchuria Railvay zone"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "southeast Asie",
+    "southeestern Asia"
+   ]
+  },
+  {
+   "name": "East Indies",
+   "variants": [
+    "East Indies"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Miyakonojō",
+   "variants": [
+    "Miyakonojo"
+   ]
+  },
+  {
+   "name": "Toyonaka",
+   "variants": [
+    "Toyonaka"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokoyama"
+   ]
+  },
+  {
+   "name": "Funabashi",
+   "variants": [
+    "Funabashi"
+   ]
+  },
+  {
+   "name": "Handa",
+   "variants": [
+    "Handa"
+   ]
+  },
+  {
+   "name": "Fuse",
+   "variants": [
+    "Fuse"
+   ]
+  },
+  {
+   "name": "Kōfu",
+   "variants": [
+    "3ofu"
+   ]
+  },
+  {
+   "name": "Hitachi",
+   "variants": [
+    "Hidachi"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Mainland Asia",
+   "variants": [
+    "Asiatic mainlend",
+    "the Continent"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Soviet Russia"
+   ]
+  },
+  {
+   "name": "Northern Sakhalin",
+   "variants": [
+    "North Saghalien"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Havaii"
+   ]
+  },
+  {
+   "name": "Davao",
+   "variants": [
+    "Davao"
+   ]
+  },
+  {
+   "name": "Mindanao",
+   "variants": [
+    "lfindanao"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya",
+    "British Malaya"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands East Indies",
+    "Netherlands' Dast Indies",
+    "Netherlands East Indics",
+    "Notherlands East Indics"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Near East",
+   "variants": [
+    "ilear East"
+   ]
+  },
+  {
+   "name": "Southwest Pacific",
+   "variants": [
+    "south-western Pacific"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Enpire"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Moxico"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "British India"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Finance minister and financial policymaker from 1932 to 1936; assassinated during the February 1936 incident.",
+   "variants": [
+    "Minister Takahashi",
+    "r. Takahashi"
+   ]
+  },
+  {
+   "name": "Frank S. Williams",
+   "role": "American Embassy official in Tokyo and named author of Annual Economic Review of Japan, Report No. 136.",
+   "variants": [
+    "Frank S. Williams"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Japanese prime minister whose 1940 cabinet intensified enforcement of price controls.",
+   "variants": [
+    "Konoye"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese wartime economy",
+  "state economic control",
+  "public finance and debt",
+  "industrial recession",
+  "foreign trade",
+  "raw-material shortages",
+  "population and labor",
+  "cotton textiles",
+  "iron and steel",
+  "commodity prices",
+  "agriculture",
+  "Greater East Asia Co-Prosperity Sphere"
+ ],
+ "subfiles": [
+  {
+   "title": "Economic Estimate of Japan (continuation)",
+   "doc_type": "confidential economic estimate",
+   "start_page": 313,
+   "end_page": 328,
+   "continues_previous": true,
+   "date": "1941-05",
+   "from": "",
+   "to": "",
+   "about": "Continuation and conclusion of a broad assessment of Japan’s transportation, communications, finances, population, labor, foreign investments, and expansionist economic policy.",
+   "summary": "The report surveys civil aviation and communications before examining national budgets, defense spending, taxation, banking, savings, public debt, and the increasingly artificial basis of Japan’s financial stability. It argues that the China war had subordinated finance and industry to military policy, while compelled savings and state controls temporarily concealed inflationary pressures and weakening productivity. Population growth, urbanization, labor conditions, foreign investment, and Japan’s penetration of China and Manchukuo are treated as parts of the same drive for an autarkic Asian bloc. The conclusion stresses Japan’s dependence on imported raw materials and American trade, warning that an embargo could encourage military seizure of resources in Southeast Asia and the Netherlands East Indies.",
+   "keywords": [
+    "civil aviation",
+    "communications",
+    "defense expenditure",
+    "taxation",
+    "banking and savings",
+    "public debt",
+    "population and urbanization",
+    "wartime labor",
+    "foreign investment",
+    "bloc economy",
+    "raw materials",
+    "United States–Japan trade"
+   ]
+  },
+  {
+   "title": "Annual Economic Review of Japan, 1940 (Report No. 136)",
+   "doc_type": "annual economic review",
+   "start_page": 329,
+   "end_page": 371,
+   "continues_previous": false,
+   "date": "1941-02-10",
+   "from": "Frank S. Williams, American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Annual review of Japan’s economy in 1940, emphasizing intensified state control, financial strain, industrial contraction, foreign-trade problems, and worsening living conditions.",
+   "summary": "Completed on January 25 and mailed on February 10, 1941, the report describes 1940 as a year of economic recession despite the government’s drive for national defense and a Greater East Asia Co-Prosperity Sphere. Its general review attributes falling production and trade to the prolonged war in China, the European war, shortages of labor, power and raw materials, and the defects of the controlled economy. Detailed chapters cover legislation, debt and budgets, bond absorption, taxation, money and securities markets, foreign exchange, industrial output, cotton textiles, iron and steel, employment, wages, and prices. The section ends in the opening portion of the agriculture chapter, where official controls are judged unable to overcome shortages of fertilizer, equipment, labor, and agricultural finance.",
+   "keywords": [
+    "annual economic review",
+    "New National Structure",
+    "state control",
+    "national debt",
+    "bond absorption",
+    "foreign exchange",
+    "industrial production",
+    "cotton industry",
+    "iron and steel",
+    "employment and wages",
+    "price controls",
+    "agriculture"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 8,
+  "pages": [
+   313,
+   371
+  ],
+  "pdf": "894.50 Japan, Economic Matters., February 15, 1940 - June 3, 1942 1351.pdf",
+  "seconds": 186.3,
+  "created": "2026-10-03 22:06:57",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-11"
+ }
+}

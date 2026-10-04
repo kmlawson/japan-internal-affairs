@@ -1,0 +1,110 @@
+{
+ "interest": "This file provides valuable insight into the administrative indexing and record-keeping practices of the U.S. State Department regarding Japanese affairs across different bureaus. The first entry highlights wartime and immediate post-war hemispheric security concerns regarding the Japanese diaspora in South America, specifically showing the Peruvian government seeking U.S. assistance in securing Japanese-speaking personnel to monitor or manage the Japanese colony in Peru. The second entry illustrates the State Department's tracking of private American commercial interests and intellectual property abroad, demonstrating how individual patent infringement claims against Japanese entities were referred to local legal counsel in Tokyo for investigation.",
+ "keywords": [
+  "Japan",
+  "Lands",
+  "Peru",
+  "Japanese colony",
+  "Japanese-speaking agents",
+  "Peruvian Minister of Finance",
+  "patent infringement",
+  "Albert White",
+  "hooked rug machine",
+  "Tokyo",
+  "State Department",
+  "List of Papers"
+ ],
+ "overview": "This file, classified under State Department decimal file 894.52 (Japan, Lands; File 32), comprises two Department of State 'List of Papers' docket sheets indexing communications related to Japanese affairs. The first sheet, recorded on Form DS-46 and dated October 12, 1945, references an April 20 memorandum from the Division of American Republics regarding a Japanese colony in Peru, specifically noting a conversation with the Peruvian Minister of Finance who requested one or more Japanese-speaking agents on loan (cross-referenced to 894.20223/127). The second sheet records a June 12 entry concerning an alleged patent infringement in Japan involving a hooked rug machine belonging to Albert White of New York, noting that the case was referred to an attorney in Tokyo for investigation.",
+ "people": [
+  {
+   "name": "Albert White",
+   "role": "Machine owner / patentee",
+   "variants": [
+    "Albert White"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Department of State List of Papers sheet indexing a memorandum concerning a Japanese colony in Peru and a Peruvian request for Japanese-speaking agents.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "State Dept. Amer. Republics Memo.",
+   "keywords": [
+    "Japan",
+    "Peru",
+    "Japanese colony",
+    "Minister of Finance",
+    "Japanese-speaking agents",
+    "Form DS-46",
+    "Lands"
+   ],
+   "start_page": 1,
+   "summary": "This Department of State List of Papers docket sheet (Form DS-46), dated October 12, 1945, indexes Sub No. 68 under file subject 'Lands. Japan'. It records an April 20 memorandum from the State Department's Division of American Republics reporting a discussion with the Peruvian Minister of Finance, who requested that one or more Japanese-speaking agents be lent to Peru to assist regarding the Japanese colony there. The entry directs researchers to cross-reference decimal file 894.20223/127.",
+   "title": "List of Papers entry on Japanese Colony in Peru and request for Japanese-speaking agents",
+   "to": ""
+  },
+  {
+   "about": "List of Papers docket entry reporting on an alleged patent infringement in Japan involving a machine belonging to Albert White.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "Corporate Dept.",
+   "keywords": [
+    "Japan",
+    "patent infringement",
+    "Albert White",
+    "hooked rug machine",
+    "Tokyo",
+    "New York",
+    "Corporate Dept."
+   ],
+   "start_page": 2,
+   "summary": "This Department of State List of Papers sheet documents an entry (No. 17) dated June 12 regarding a patent infringement case in Japan. The matter concerns a hooked rug machine belonging to Albert White of New York. The entry notes that the case was handed over to an attorney in Tokyo for formal investigation.",
+   "title": "List of Papers entry on patent infringement in Japan of Albert White's machine",
+   "to": "1CA T1 FB"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13758,
+   "output_tokens": 6236,
+   "thinking_tokens": 5265,
+   "cache_read_tokens": 0,
+   "total_tokens": 19994
+  },
+  "backend": "agy",
+  "seconds": 23.9,
+  "identifier": "japan-internal-affairs-894.52-japan-lands-1",
+  "file": "894.52 Japan, Lands.,  32.pdf",
+  "created": "2026-09-29 09:59:13"
+ }
+}

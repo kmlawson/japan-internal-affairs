@@ -1,0 +1,145 @@
+{
+ "interest": "This file offers a fascinating glimpse into naval diplomacy and cultural exchange between Imperial Japan and the Second Spanish Republic in 1934. It is particularly interesting for documenting the gift and ceremonial planting of Japanese cherry trees on Barcelona's Calle de Tokio—a cultural diplomacy gesture reminiscent of Japan's 1912 gift to Washington, D.C.—accompanied by a joint military parade of Japanese marines and Spanish troops. The file also illustrates diplomatic reciprocity, showing how interwar goodwill visits built upon previous royal engagements, specifically Prince Takamatsu's 1930 tour of Spain.",
+ "keywords": [
+  "naval diplomacy",
+  "goodwill visit",
+  "Imperial Japanese Navy",
+  "training cruisers",
+  "Barcelona",
+  "Spain",
+  "Spanish Navy",
+  "cherry trees",
+  "Calle de Tokio",
+  "Prince Takamatsu",
+  "Iwate",
+  "Asama"
+ ],
+ "overview": "This file consists of State Department records from May 1934 concerning the official visit of a Japanese naval training squadron, comprising the cruisers Iwate and Asama, to the port of Barcelona, Spain. It contains a preliminary cross-reference note referencing advance notification sent by U.S. Ambassador Claude G. Bowers in Madrid, followed by a comprehensive despatch from American Consul General Claude I. Dawson in Barcelona. Dawson details the extensive festivities surrounding the visit from May 14 to May 18, 1934, including official receptions hosted aboard the Spanish battleship Jaime I by the Spanish Minister of Marine, attendance by the Japanese Minister in Madrid, a joint parade of Japanese marines and local Spanish garrison troops, and the ceremonial planting of Japanese cherry trees along Calle de Tokio in reciprocal recognition of the street's naming and Prince Takamatsu's 1930 visit.",
+ "people": [
+  {
+   "name": "Claude I. Dawson",
+   "role": "American Consul General at Barcelona",
+   "variants": [
+    "Claude I. Dawson"
+   ]
+  },
+  {
+   "name": "Claude G. Bowers",
+   "role": "U.S. Ambassador to Spain",
+   "variants": [
+    "Bowers"
+   ]
+  },
+  {
+   "name": "Prince Takamatsu",
+   "role": "Imperial Japanese Prince",
+   "variants": [
+    "Prince Takamatsu"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Barcelona",
+   "variants": [
+    "Barcelona"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain",
+    "Spanish"
+   ]
+  },
+  {
+   "name": "Madrid",
+   "variants": [
+    "Madrid"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio",
+    "Calle de Tokio"
+   ]
+  },
+  {
+   "name": "Catalonia",
+   "variants": [
+    "Catalan"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Despatch reporting the goodwill visit of Japanese training cruisers Iwate and Asama to Barcelona, highlighting official ceremonies, joint parades, and the planting of cherry trees.",
+   "date": "1934-05-22",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Claude I. Dawson, American Consul General, Barcelona",
+   "keywords": [
+    "Barcelona",
+    "Iwate",
+    "Asama",
+    "Jaime I",
+    "Minister of Marine",
+    "cherry trees",
+    "Calle de Tokio",
+    "Prince Takamatsu",
+    "Claude I. Dawson"
+   ],
+   "start_page": 1,
+   "summary": "American Consul General Claude I. Dawson reports on the official port visit of the Japanese naval training cruisers Iwate and Asama to Barcelona from May 14 to 18, 1934. The Spanish Minister of Marine arrived aboard the battleship Jaime I to officially receive the visitors, accompanied by the Japanese Minister in Madrid. In addition to official banquets, the Japanese squadron gifted cherry trees that were formally planted along Calle de Tokio, and Japanese marines participated in a joint parade through Barcelona with local Spanish garrison troops. Dawson explains that these unusual honors reflected Japanese appreciation for the naming of Calle de Tokio and reciprocal goodwill following Prince Takamatsu's visit in November 1930.",
+   "title": "Despatch from Consul General Dawson on the Visit of Japanese Warships to Barcelona",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "Document file note cross-referencing an advance dispatch from Ambassador Bowers regarding the scheduled arrival of a Japanese naval squadron in Barcelona.",
+   "date": "1934-05-14",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Claude G. Bowers, U.S. Embassy, Spain",
+   "keywords": [
+    "cross-reference sheet",
+    "Claude G. Bowers",
+    "Barcelona",
+    "Spanish waters",
+    "Japanese squadron"
+   ],
+   "start_page": 3,
+   "summary": "This State Department cross-reference sheet records document No. 370 (filed under 852.00 P.R./341) sent from Spain by Ambassador Claude G. Bowers on May 14, 1934. It summarizes an advance notice reporting that a Japanese naval squadron was scheduled to arrive at the Catalan port of Barcelona for a goodwill visit to Spanish waters from May 15 to May 17, 1934.",
+   "title": "Cross-Reference Sheet for Despatch No. 370 on Japanese Squadron in Spanish Waters",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14157,
+   "output_tokens": 4284,
+   "thinking_tokens": 3102,
+   "cache_read_tokens": 0,
+   "total_tokens": 18441
+  },
+  "backend": "agy",
+  "seconds": 16.1,
+  "identifier": "japan-internal-affairs-894.3352-visits-of-vessels-1",
+  "file": "894.3352 Visits Of Vessels And Aircraft Of Japan To Ports Of Spain., May 14, 1934 - May 22, 1934 817.pdf",
+  "created": "2026-09-29 04:33:36"
+ }
+}

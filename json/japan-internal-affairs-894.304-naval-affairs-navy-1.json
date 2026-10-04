@@ -1,0 +1,131 @@
+{
+ "interest": "U.S. condolences for the destroyer Sawarabi's loss, 1932.",
+ "keywords": [
+  "Sawarabi",
+  "Japanese Navy",
+  "destroyer",
+  "naval disaster",
+  "shipwreck",
+  "Office of Naval Intelligence",
+  "Division of Far Eastern Affairs",
+  "Division of Protocol",
+  "diplomatic condolences",
+  "Formosa",
+  "Pescadores",
+  "naval attache"
+ ],
+ "overview": "December 1932 papers on the sinking of the destroyer Sawarabi and how to convey U.S. condolences.",
+ "people": [
+  {
+   "name": "Joseph V. Ogan",
+   "role": "Captain, Office of Naval Intelligence",
+   "variants": [
+    "Captain Ogan",
+    "Ogan"
+   ]
+  },
+  {
+   "name": "Charles Lee Cooke",
+   "role": "Officer, Division of Protocol",
+   "variants": [
+    "Mr. Cooke",
+    "Cooke"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Penghu",
+   "variants": [
+    "Pescadores"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Memorandum reporting the sinking of the Japanese destroyer Sawarabi and noting consultations on diplomatic protocol regarding condolences.",
+   "date": "1932-12-05",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "Division of Far Eastern Affairs",
+   "keywords": [
+    "Sawarabi",
+    "Office of Naval Intelligence",
+    "Division of Protocol",
+    "Formosa",
+    "Pescadores",
+    "naval casualty",
+    "condolences"
+   ],
+   "start_page": 1,
+   "summary": "Captain Ogan reports the Sawarabi's sinking; Protocol advises no further action.",
+   "title": "Memorandum on the Sinking of the Japanese Destroyer Sawarabi",
+   "to": "Department of State files"
+  },
+  {
+   "about": "Telegram authorizing the American Embassy in Tokyo to express condolences to the Japanese Government for the loss of the Sawarabi.",
+   "date": "1932-12-05",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "Tokyo",
+    "American Embassy",
+    "Sawarabi",
+    "condolences",
+    "diplomatic telegram",
+    "naval disaster"
+   ],
+   "start_page": 2,
+   "summary": "The Department of State notifies the American Embassy in Tokyo that the Japanese Naval Attaché reported the sinking of the destroyer Sawarabi with the loss of approximately ninety lives. The telegram authorizes the embassy, at its discretion, to convey the sympathy of the United States Government to the Japanese Government.",
+   "title": "Telegram to American Embassy, Tokyo Authorizing Expression of Condolences",
+   "to": "American Embassy, Tokyo"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14023,
+   "output_tokens": 4807,
+   "thinking_tokens": 3852,
+   "cache_read_tokens": 0,
+   "total_tokens": 18830
+  },
+  "backend": "agy",
+  "seconds": 17.9,
+  "identifier": "japan-internal-affairs-894.304-naval-affairs-navy-1",
+  "file": "894.304 Naval Affairs. Navy Naval Vessels. Naval Instructors Advisers. ** Country In Which Serving., Japan, Accidents To Or On Naval Vessels. Salvage., December 5, 1932 762.pdf",
+  "created": "2026-09-29 03:58:53"
+ }
+}

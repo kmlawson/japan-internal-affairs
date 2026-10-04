@@ -1,0 +1,170 @@
+{
+ "interest": "1933 trials of the May 15 assassins and 1935 exclusion of foreign lawyers.",
+ "keywords": [
+  "Japan",
+  "judiciary",
+  "trials",
+  "court-martial",
+  "assassinations",
+  "May 15 Incident",
+  "Inukai Tsuyoshi",
+  "Inoue Junnosuke",
+  "Dan Takuma",
+  "lawyers' law",
+  "foreign lawyers",
+  "Far Eastern Affairs",
+  "legal practice"
+ ],
+ "overview": "1933 records on the trials of the 1932 assassins of Inukai, Inoue and Dan, and a 1935 memo on a law barring foreign lawyers.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Inoue Junnosuke",
+   "role": "Finance Minister of Japan",
+   "variants": [
+    "Finance Minister Inouye",
+    "Inouye"
+   ]
+  },
+  {
+   "name": "Dan Takuma",
+   "role": "Baron and business leader",
+   "variants": [
+    "Baron Dan",
+    "Dan"
+   ]
+  },
+  {
+   "name": "Inukai Tsuyoshi",
+   "role": "Premier of Japan",
+   "variants": [
+    "Premier Inukai",
+    "Inukai"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Officer in the Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "MHH"
+   ]
+  },
+  {
+   "name": "W. T. T.",
+   "role": "Drafter/Officer in the Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "WTT"
+   ]
+  },
+  {
+   "name": "D. L. Y.",
+   "role": "Typist/Stenographer, Department of State",
+   "variants": [
+    "DLY"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "States of the Union"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet indexing a despatch from Ambassador Grew concerning the public trials and court-martials of the 1932 political assassins.",
+   "date": "1933-08-09",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "cross-reference sheet",
+    "Joseph C. Grew",
+    "trials",
+    "court-martial",
+    "May 15 Incident",
+    "Inouye Junnosuke",
+    "Dan Takuma",
+    "Inukai Tsuyoshi"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Grew's despatch No. 490 on trials of the 1932 assassins.",
+   "title": "Cross-Reference Sheet for Despatch No. 490 on Trials of Assassins",
+   "to": "Department of State"
+  },
+  {
+   "about": "A report excerpt discussing the ongoing trials and background of civilian, military, and naval perpetrators of the 1932 assassinations in Tokyo.",
+   "date": "1933-08-09",
+   "doc_type": "report",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "trials",
+    "court-martial",
+    "assassinations",
+    "May 15 Incident",
+    "Inouye Junnosuke",
+    "Dan Takuma",
+    "Inukai Tsuyoshi"
+   ],
+   "start_page": 2,
+   "summary": "Report extract on the trials of civilians, naval officers and army cadets for the 1932 assassinations, plotted by young rural men.",
+   "title": "Report Extract on the Trials of Civilian, Military and Naval Assassins",
+   "to": "Department of State"
+  },
+  {
+   "about": "A State Department memorandum discussing a Japanese statute scheduled for April 1936 that would debar foreign attorneys from practicing law in Japan.",
+   "date": "1935-12-12",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "W. T. T.",
+   "keywords": [
+    "lawyers' law",
+    "foreign lawyers",
+    "reciprocity",
+    "legal practice",
+    "Division of Far Eastern Affairs",
+    "American lawyers"
+   ],
+   "start_page": 3,
+   "summary": "FE memo: Japan's lawyers' law of April 1936 will bar the three American lawyers in Japan, absent reciprocity; no formal protest is warranted.",
+   "title": "Memorandum on Japanese Lawyers' Law and Debarment of Foreign Lawyers",
+   "to": "Maxwell M. Hamilton"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14198,
+   "output_tokens": 6397,
+   "thinking_tokens": 4869,
+   "cache_read_tokens": 0,
+   "total_tokens": 20595
+  },
+  "backend": "agy",
+  "seconds": 20.6,
+  "identifier": "japan-internal-affairs-894.041-judicial-branch-of-1",
+  "file": "894.041 Judicial Branch Of Government., Japan, National Courts., August 9, 1933 - December 12, 1935 884.pdf",
+  "created": "2026-09-28 22:45:18"
+ }
+}

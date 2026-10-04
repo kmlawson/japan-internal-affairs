@@ -1,0 +1,112 @@
+{
+ "interest": "Japanese flag from imperial protocol to 1937 coercion.",
+ "keywords": [
+  "Japan",
+  "Flag",
+  "Japanese flag",
+  "Imperial family",
+  "Sino-Japanese War",
+  "North China",
+  "Peiping",
+  "Beijing",
+  "Yenching",
+  "John Leighton Stuart",
+  "Frank P. Lockhart",
+  "List of Papers"
+ ],
+ "overview": "Docket for 894.015 (1931–37): an imperial flag query and Chinese forced to fly Japanese flags near Peiping.",
+ "people": [
+  {
+   "name": "A. M. Baldwin",
+   "role": "Inquirer / Correspondent",
+   "variants": [
+    "Baldwin, A.M."
+   ]
+  },
+  {
+   "name": "Frank P. Lockhart",
+   "role": "U.S. Diplomat / Consul General",
+   "variants": [
+    "Lockhart"
+   ]
+  },
+  {
+   "name": "John Leighton Stuart",
+   "role": "President of Yenching University / Educator",
+   "variants": [
+    "Leighton Stuart"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Yenching",
+   "variants": [
+    "Yunching"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet summarizing documents filed under decimal file 894.015 relating to the flag of Japan between 1931 and 1937.",
+   "date": "1937-07-30",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japan",
+    "Flag",
+    "Imperial family",
+    "Sino-Japanese crisis",
+    "North China",
+    "Peiping",
+    "Yenching"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.015: 1931 imperial flag query and 1937 forced flag display near Peiping.",
+   "title": "Department of State List of Papers: Flag - Japan (894.015)",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13786,
+   "output_tokens": 5684,
+   "thinking_tokens": 4756,
+   "cache_read_tokens": 0,
+   "total_tokens": 19470
+  },
+  "backend": "agy",
+  "seconds": 20.7,
+  "identifier": "japan-internal-affairs-894.015-government-mandates-recognition-4",
+  "file": "894.015 Government. Mandates, Recognition., Japan, Flag.,  555.pdf",
+  "created": "2026-09-28 22:11:30"
+ }
+}

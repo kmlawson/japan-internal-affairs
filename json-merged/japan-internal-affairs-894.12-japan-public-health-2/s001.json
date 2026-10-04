@@ -1,0 +1,977 @@
+{
+ "section_summary": "This section combines embassy transmittals of Japanese Home Department sanitary reports, internal filing notes, and cross-references concerning tuberculosis treatments, public-health institutions, and administrative changes. Its principal document is Richard F. Boyce’s extensive 1936 report on sanitary conditions in Japan, covering hospitals, medical personnel, tuberculosis, leprosy, infectious diseases, quarantine, mortality, and the Japan Red Cross Society. The section concludes with Treasury and State Department correspondence praising Boyce’s report and a 1937 reference to the establishment of Japan’s Ministry of Health and Social Affairs.",
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "rpkyo",
+    "Tokyo",
+    "tgo",
+    "olyo",
+    "okyo",
+    "Tokvo",
+    "TokyQ"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "K-oto"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Jupan",
+    "JAPA",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yoxohama",
+    "Yokohama",
+    "Yokohame"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "ited t tes",
+    "nited itutes",
+    "U. 3. A.",
+    "America"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "urope"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki",
+    "Magasaki"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "okkaice",
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "'ukushime"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Csaka",
+    "Osaka",
+    "(saka"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "no.ori",
+    "(lomori"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumemoto",
+    "umamoto"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "umma"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Lakamatsu"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "kaya"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akite"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo prefecture"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "P'ersie"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "akayana"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tsuruga"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Miike",
+   "variants": [
+    "Miike"
+   ]
+  },
+  {
+   "name": "Kuchinotsu",
+   "variants": [
+    "Kuchinotsu"
+   ]
+  },
+  {
+   "name": "Matsushima",
+   "variants": [
+    "Matsushima"
+   ]
+  },
+  {
+   "name": "Sakito",
+   "variants": [
+    "Sakito"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "Yokkaiohi"
+   ]
+  },
+  {
+   "name": "Karatsu",
+   "variants": [
+    "Karatsu"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Saar",
+   "variants": [
+    "Saar distriot"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Wuchang",
+   "variants": [
+    "Wuohang"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Soviet-Russia"
+   ]
+  },
+  {
+   "name": "Eastern Siberia",
+   "variants": [
+    "East Siberia"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Jaghelien"
+   ]
+  },
+  {
+   "name": "Jinan",
+   "variants": [
+    "Tsinan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "lanchuria",
+    "Manchuria",
+    "Manchoukuo",
+    "Manohurian"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukdon"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Hokuroku district",
+   "variants": [
+    "Hokuroku district",
+    "Hokuroku"
+   ]
+  },
+  {
+   "name": "Kansai region",
+   "variants": [
+    "Kwansai"
+   ]
+  },
+  {
+   "name": "San'in region",
+   "variants": [
+    "San-in"
+   ]
+  },
+  {
+   "name": "San'yō region",
+   "variants": [
+    "San-yo"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Hetherlands"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czeoho-Slovakia"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "W. Cameron Forbes",
+   "role": "United States Ambassador to Japan and sender of the 1930 and 1931 sanitary-report despatches",
+   "variants": [
+    "W. Cameron Forbes",
+    "W. Cameren Forbes",
+    "Forbes"
+   ]
+  },
+  {
+   "name": "Edwin L. Neville",
+   "role": "Chargé d’Affaires ad interim at Tokyo",
+   "variants": [
+    "Edwin L. Neville"
+   ]
+  },
+  {
+   "name": "Dickover",
+   "role": "Author of the referenced Kobe despatch concerning Seigo Funaoka’s tuberculosis serum",
+   "variants": [
+    "Dickover"
+   ]
+  },
+  {
+   "name": "Seigo Funaoka",
+   "role": "Kyoto Imperial University physician credited with developing a tuberculosis serum",
+   "variants": [
+    "Dr.Seigo Funaoka"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew"
+   ]
+  },
+  {
+   "name": "Keblinger",
+   "role": "Author of the referenced Singapore despatch about a kerosene treatment for tuberculosis",
+   "variants": [
+    "Keblinger"
+   ]
+  },
+  {
+   "name": "Richard F. Boyce",
+   "role": "United States consul at Yokohama and author of the report on sanitary conditions in Japan",
+   "variants": [
+    "Richard F. Boyce",
+    "Richerd"
+   ]
+  },
+  {
+   "name": "Francis Xavier",
+   "role": "Christian missionary identified as an early conduit of European civilization and medicine to Japan",
+   "variants": [
+    "t. raneis Kavier"
+   ]
+  },
+  {
+   "name": "Carl Peter Thunberg",
+   "role": "Swedish physician and naturalist associated with the Dutch community at Nagasaki",
+   "variants": [
+    "Thunberg"
+   ]
+  },
+  {
+   "name": "Philipp Franz von Siebold",
+   "role": "European physician and scholar associated with the Dutch community at Nagasaki",
+   "variants": [
+    "von Jiebold"
+   ]
+  },
+  {
+   "name": "William Willis",
+   "role": "First physician engaged by the Imperial Japanese Government and head of its first military hospital in Tokyo",
+   "variants": [
+    "Dr. William illis"
+   ]
+  },
+  {
+   "name": "William Anderson",
+   "role": "Physician placed in charge of Japan’s naval hospital",
+   "variants": [
+    "Dr. W. Anderson"
+   ]
+  },
+  {
+   "name": "James Curtis Hepburn",
+   "role": "Physician and compiler of an early Japanese-English dictionary",
+   "variants": [
+    "Dr. J. G. Hepburn"
+   ]
+  },
+  {
+   "name": "Alexander M. Vedder",
+   "role": "American naval surgeon active in early modern Japanese medicine",
+   "variants": [
+    "Dr. Alexander E. Veader"
+   ]
+  },
+  {
+   "name": "Stuart Eldridge",
+   "role": "Physician who advised in Hokkaido on public-health regulations and quarantine training",
+   "variants": [
+    "Dr. ldrio e"
+   ]
+  },
+  {
+   "name": "Horace Capron",
+   "role": "General with whom Eldridge traveled to Hokkaido",
+   "variants": [
+    "General capron"
+   ]
+  },
+  {
+   "name": "William Clark Eastlake",
+   "role": "American described as Japan’s first modern dentist",
+   "variants": [
+    "br. lastlake"
+   ]
+  },
+  {
+   "name": "Erwin Bälz",
+   "role": "German specialist who taught internal medicine in Japan",
+   "variants": [
+    "Dr. aelz"
+   ]
+  },
+  {
+   "name": "Julius Scriba",
+   "role": "German specialist who taught surgery in Japan",
+   "variants": [
+    "Dr. scriba"
+   ]
+  },
+  {
+   "name": "Shibasaburō Kitasato",
+   "role": "Bacteriologist, tuberculosis-research leader, and founder-director of the Kitasato Epidemic Laboratory",
+   "variants": [
+    "r. itazato",
+    "Dr. hiseburo Kitazato",
+    "Dr. Kitazato",
+    "Dr. Kita-zato"
+   ]
+  },
+  {
+   "name": "William Booth",
+   "role": "Founder of the Salvation Army, commemorated by its tuberculosis sanatorium near Tokyo",
+   "variants": [
+    ". iliiu cotl"
+   ]
+  },
+  {
+   "name": "Sensai Nagayo",
+   "role": "Early organizer of Japan’s modern public-health administration",
+   "variants": [
+    "jensai agayo"
+   ]
+  },
+  {
+   "name": "Robert Koch",
+   "role": "German bacteriologist with whom Kitasato studied",
+   "variants": [
+    "Dr. Koch"
+   ]
+  },
+  {
+   "name": "Yukichi Fukuzawa",
+   "role": "Founder of Keio University and supporter of Kitasato’s laboratory",
+   "variants": [
+    "Yukiohi Fukuzawa"
+   ]
+  },
+  {
+   "name": "Ichizaemon Morimura",
+   "role": "Baron and supporter of the establishment of Kitasato’s laboratory",
+   "variants": [
+    "Baron Iohizayemon Morimura"
+   ]
+  },
+  {
+   "name": "T. Hasegawa",
+   "role": "Physician and member of parliament who recommended that the epidemic laboratory be placed under state control",
+   "variants": [
+    "Dr. T. Hasegawa"
+   ]
+  },
+  {
+   "name": "Baron Aoyama",
+   "role": "Physician placed in charge of the government epidemic laboratory",
+   "variants": [
+    "Dr. Baron Aoyama"
+   ]
+  },
+  {
+   "name": "H. Hayashi",
+   "role": "Physician associated with management of the government epidemic laboratory",
+   "variants": [
+    "Dr. H. Hayashi"
+   ]
+  },
+  {
+   "name": "Yonejirō Miyagawa",
+   "role": "Tokyo Imperial University professor and supervisor of the government epidemic laboratory",
+   "variants": [
+    "Dr. Yone jiro Miyagawe"
+   ]
+  },
+  {
+   "name": "Prince Kan'in",
+   "role": "Honorary President of the Japan Red Cross Society",
+   "variants": [
+    "H.I.H. Prince Kan-in"
+   ]
+  },
+  {
+   "name": "Iyesato Tokugawa",
+   "role": "President of the Japan Red Cross Society",
+   "variants": [
+    "Prince Iyesato Tokugawa"
+   ]
+  },
+  {
+   "name": "R. Tokugawa",
+   "role": "Vice-President of the Japan Red Cross Society",
+   "variants": [
+    "Prince R. Tokugawa"
+   ]
+  },
+  {
+   "name": "N. Nakagawa",
+   "role": "Vice-President of the Japan Red Cross Society",
+   "variants": [
+    "Mr. IN. Nakagawa"
+   ]
+  },
+  {
+   "name": "Josephine Roche",
+   "role": "Assistant Secretary of the Treasury who conveyed the Public Health Service’s appreciation of Boyce’s report",
+   "variants": [
+    "Fosephne oche"
+   ]
+  },
+  {
+   "name": "Cameron",
+   "role": "Author of the referenced 1937 Tokyo despatch on the new Ministry of Health and Social Affairs",
+   "variants": [
+    "Cameron"
+   ]
+  }
+ ],
+ "keywords": [
+  "public health",
+  "hospitals",
+  "sanitary statistics",
+  "tuberculosis",
+  "infectious diseases",
+  "medical personnel",
+  "leprosy",
+  "quarantine",
+  "mortality",
+  "Japan Red Cross Society",
+  "Home Department",
+  "health administration"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch no. 5 transmitting the Sanitary Bureau annual report for 1928",
+   "doc_type": "embassy despatch",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1930-09-22",
+   "from": "W. Cameron Forbes, United States Ambassador at Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits two copies of the Japanese Home Department Sanitary Bureau’s annual report for 1928.",
+   "summary": "Forbes reports receiving two copies of the Sanitary Bureau’s annual report for the third year of Shōwa from the Japanese Home Department. He forwards both copies to the Department of State.",
+   "keywords": [
+    "Sanitary Bureau",
+    "annual report",
+    "Home Department",
+    "public health",
+    "Shōwa 3"
+   ]
+  },
+  {
+   "title": "Despatch no. 327 transmitting the Sanitary Bureau annual report for 1929",
+   "doc_type": "embassy despatch",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1931-09-15",
+   "from": "W. Cameron Forbes, United States Ambassador at Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits two copies of the Japanese Home Department Sanitary Bureau’s annual report for 1929.",
+   "summary": "Forbes forwards two newly received copies of the Sanitary Bureau report for the fourth year of Shōwa. Filing annotations indicate that a copy of the enclosure was routed to the library and Commerce.",
+   "keywords": [
+    "Sanitary Bureau",
+    "annual report",
+    "Home Department",
+    "publications",
+    "Shōwa 4"
+   ]
+  },
+  {
+   "title": "Despatch no. 596 transmitting the Sanitary Bureau annual report for 1930",
+   "doc_type": "embassy despatch",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1932-04-26",
+   "from": "Edwin L. Neville, Chargé d’Affaires ad interim",
+   "to": "Secretary of State",
+   "about": "Transmits two copies of the Japanese Home Department Sanitary Bureau’s annual report for 1930.",
+   "summary": "Neville forwards two copies of the Sanitary Bureau report for the fifth year of Shōwa. The copies had just been received from the Japanese Home Department.",
+   "keywords": [
+    "Sanitary Bureau",
+    "annual report",
+    "Home Department",
+    "publications",
+    "Shōwa 5"
+   ]
+  },
+  {
+   "title": "Document file note on Seigo Funaoka’s tuberculosis serum",
+   "doc_type": "cross-reference sheet",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1932-04-30",
+   "from": "Dickover, Kobe",
+   "to": "Department of State files",
+   "about": "Refers researchers to a Kobe despatch transmitting a publication about a new tuberculosis serum developed at Kyoto Imperial University.",
+   "summary": "The filing note points to despatch material under another decimal-file number. That material concerned a publication describing Seigo Funaoka’s newly developed tuberculosis serum.",
+   "keywords": [
+    "tuberculosis",
+    "serum",
+    "Seigo Funaoka",
+    "Kyoto Imperial University",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Memorandum evaluating the 1931 Sanitary Bureau report",
+   "doc_type": "internal memorandum",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1933-07-28",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Assesses the reference value of the 1931 Sanitary Bureau report forwarded from Tokyo.",
+   "summary": "The memorandum notes that Tokyo forwarded the report on June 26, 1933, and judges it useful for reference. It highlights the population statistics on pages 94–117, including a reported October 1931 population of 64,450,005 excluding Korea and the colonies.",
+   "keywords": [
+    "Sanitary Bureau",
+    "population statistics",
+    "1931 population",
+    "reference material",
+    "Far Eastern Affairs"
+   ]
+  },
+  {
+   "title": "Despatch no. 443 transmitting the Sanitary Bureau annual report for 1931",
+   "doc_type": "embassy despatch",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1933-06-26",
+   "from": "Joseph C. Grew, United States Ambassador at Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits two copies of the Japanese Home Department Sanitary Bureau’s annual report for 1931.",
+   "summary": "Grew reports that the embassy received two copies of the Sanitary Bureau report for the sixth year of Shōwa. He forwards the copies to the Department of State as enclosures.",
+   "keywords": [
+    "Sanitary Bureau",
+    "annual report",
+    "Home Department",
+    "Joseph C. Grew",
+    "Shōwa 6"
+   ]
+  },
+  {
+   "title": "Document file note on the Rockefeller gift for a public hygiene institute",
+   "doc_type": "cross-reference sheet",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1933-12-11",
+   "from": "Department of State document file",
+   "to": "Department of State files",
+   "about": "Points to Grew’s despatch no. 607 on Japan’s acceptance of a Rockefeller Foundation gift for a public hygiene institute.",
+   "summary": "The cross-reference identifies a December 11, 1933 despatch filed under another decimal number. The referenced despatch reported the Cabinet’s November 22 acceptance of the Rockefeller gift.",
+   "keywords": [
+    "Rockefeller Foundation",
+    "public hygiene institute",
+    "Cabinet",
+    "cross-reference",
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "title": "Excerpt from despatch no. 607 on the Rockefeller Foundation gift",
+   "doc_type": "despatch excerpt",
+   "start_page": 8,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1933-12-11",
+   "from": "Joseph C. Grew, United States Embassy at Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports Japan’s acceptance of a Rockefeller Foundation donation to establish a public hygiene institute.",
+   "summary": "The Cabinet announced its acceptance of a large Rockefeller Foundation donation for a public hygienic institute. A Central Sanitary Bureau official described the cooperative government-foundation project as the basis for a systematic campaign against disease with importance throughout Japan and the Far East.",
+   "keywords": [
+    "Rockefeller Foundation",
+    "public hygiene institute",
+    "Central Sanitary Bureau",
+    "disease prevention",
+    "philanthropy"
+   ]
+  },
+  {
+   "title": "Document file note on a kerosene treatment for tuberculosis",
+   "doc_type": "cross-reference sheet",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1934-01-29",
+   "from": "Keblinger, Singapore",
+   "to": "Department of State files",
+   "about": "Refers to a Singapore despatch containing a newspaper article about a supposed Japanese tuberculosis cure using kerosene.",
+   "summary": "The file note directs readers to despatch no. 254 under another decimal-file number. The referenced article concerned experimental treatment of tuberculosis with kerosene in Japan.",
+   "keywords": [
+    "tuberculosis",
+    "kerosene treatment",
+    "newspaper article",
+    "Singapore",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Sanitary Conditions of Japan",
+   "doc_type": "consular report",
+   "start_page": 11,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1936-03-02",
+   "from": "Richard F. Boyce, American Consul at Yokohama",
+   "to": "Department of State",
+   "about": "Provides a broad statistical and institutional survey of medicine, sanitation, hospitals, disease control, quarantine, mortality, and Red Cross work in Japan.",
+   "summary": "Boyce compiled the report chiefly from the 1935 and 1936 Japan-Manchoukuo Year Books and a February 11, 1936 Japan Advertiser article, intending it as background material for the United States Public Health Service. It surveys medical practitioners, hospitals, asylums, tuberculosis and leprosy institutions, venereal- and infectious-disease facilities, vaccination, trachoma, patent medicines, laboratories, and quarantine. Extensive tables record hospital capacity, patient numbers, disease incidence, mortality, and life expectancy, while the tuberculosis sections emphasize the disease’s heavy toll and a proposed nationwide program of free clinics and sanatoria. The final portion describes the Japan Red Cross Society’s hospitals, disaster relief, overseas work, leadership, finances, and the 1934 International Red Cross Congress in Tokyo.",
+   "keywords": [
+    "sanitary conditions",
+    "hospitals",
+    "tuberculosis",
+    "leprosy",
+    "infectious diseases",
+    "medical statistics",
+    "quarantine",
+    "life expectancy",
+    "Japan Red Cross Society",
+    "public health"
+   ]
+  },
+  {
+   "title": "Treasury Department appreciation of Boyce’s sanitary report",
+   "doc_type": "interdepartmental letter",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1936-04-03",
+   "from": "Josephine Roche, Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Conveys the Public Health Service’s appreciation for Richard F. Boyce’s report on sanitary conditions in Japan.",
+   "summary": "The Treasury Department acknowledges receipt of Boyce’s March 2 report through the State Department. Roche states that the report is of great interest to the Public Health Service and asks that Boyce be thanked and encouraged to provide further information on Japanese health conditions.",
+   "keywords": [
+    "Public Health Service",
+    "Richard F. Boyce",
+    "Treasury Department",
+    "sanitary report",
+    "appreciation"
+   ]
+  },
+  {
+   "title": "State Department letter forwarding Treasury appreciation to Yokohama",
+   "doc_type": "departmental instruction",
+   "start_page": 46,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1936-04-15",
+   "from": "Secretary of State",
+   "to": "American Consul, Yokohama",
+   "about": "Forwards the Treasury Department’s thanks for the report Sanitary Conditions of Japan and informs the consul that it received a very-good rating.",
+   "summary": "The State Department encloses the Assistant Secretary of the Treasury’s April 3 letter praising Boyce’s report. It notes that favorable recognition of consular work is gratifying and states that the Department rated the report “VERY GOOD.”",
+   "keywords": [
+    "Richard F. Boyce",
+    "Treasury Department",
+    "consular reporting",
+    "sanitary conditions",
+    "report rating"
+   ]
+  },
+  {
+   "title": "Document file note on the new Ministry of Health and Social Affairs",
+   "doc_type": "cross-reference sheet",
+   "start_page": 47,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "1937-12-15",
+   "from": "Cameron, Tokyo",
+   "to": "Department of State files",
+   "about": "Refers to a Tokyo despatch reporting the establishment of Japan’s Ministry of Health and Social Affairs in December 1937.",
+   "summary": "The filing note points to despatch no. 7 under decimal file 894.02/13. The referenced report described the creation of the new Japanese Ministry of Health and Social Affairs.",
+   "keywords": [
+    "Ministry of Health and Social Affairs",
+    "health administration",
+    "government reorganization",
+    "Tokyo",
+    "cross-reference"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   47
+  ],
+  "pdf": "894.12 Japan, Public Health. Hospitals. Hospital Service., September 22, 1930 - December 15, 1937 987.pdf",
+  "seconds": 766.9,
+  "created": "2026-09-30 11:51:13",
+  "key": "japan-internal-affairs-894.12-japan-public-health-2"
+ }
+}

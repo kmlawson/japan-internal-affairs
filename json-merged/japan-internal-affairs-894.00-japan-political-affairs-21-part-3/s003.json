@@ -1,0 +1,954 @@
+{
+ "keywords": [
+  "Hayashi Cabinet",
+  "House of Representatives",
+  "general election",
+  "Naotake Sato",
+  "Yukio Ozaki",
+  "military influence",
+  "raw materials",
+  "disarmament",
+  "anti-Comintern pact",
+  "totalitarianism"
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "GREW"
+   ]
+  },
+  {
+   "name": "Yukio Ozaki",
+   "role": "Independent member of the Japanese House of Representatives and veteran liberal politician",
+   "variants": [
+    "Mr. Ozaki",
+    "Lir. Ozeki's",
+    "Mr. Yuklo Ozaki",
+    "Yukio Ozaki",
+    "Ozaki"
+   ]
+  },
+  {
+   "name": "Naotake Sato",
+   "role": "Japanese Minister for Foreign Affairs and former Ambassador to France",
+   "variants": [
+    "Naotake Sato",
+    "Foreign Minister",
+    "Mr. Naotake Sato",
+    "Mr. Sato",
+    "Foreign Minister Naotake Sato",
+    "Minister Sato",
+    "Sato"
+   ]
+  },
+  {
+   "name": "Hajime Sugiyama",
+   "role": "Japanese Minister of War, General",
+   "variants": [
+    "Hajime Sugiyama",
+    "Sugiyama",
+    "War Minister",
+    "Gen Sugiyama",
+    "General Gen Sugiyama"
+   ]
+  },
+  {
+   "name": "Mitsumasa Yonai",
+   "role": "Japanese Minister of the Navy, Admiral",
+   "variants": [
+    "Mitsumasa Yonai",
+    "Navy Minister",
+    "Admiral Yonai"
+   ]
+  },
+  {
+   "name": "Senjuro Hayashi",
+   "role": "Prime Minister of Japan, General",
+   "variants": [
+    "the Premier",
+    "Hayashi",
+    "General Hayashi",
+    "Premier Hayashi",
+    "General Senjuro Hayashi"
+   ]
+  },
+  {
+   "name": "Toyotaro Yuki",
+   "role": "Japanese Minister of Finance and former President of the Industrial Bank of Japan",
+   "variants": [
+    "the Finance Minister",
+    "Mr. Yuki",
+    "Toyotaro Yuki",
+    "Mr. Toyotaro Yuki",
+    "Finance Minister Yuki"
+   ]
+  },
+  {
+   "name": "Maxwell S. Myers",
+   "role": "Officer in the Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Myers",
+    "MSM"
+   ]
+  },
+  {
+   "name": "William T. Turner",
+   "role": "Officer in the Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "WTT",
+    "WTT/DLY"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Chief of the Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "SKH"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Officer in the Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "JVB",
+    "JVB/DLY"
+   ]
+  },
+  {
+   "name": "Koki Hirota",
+   "role": "Former Prime Minister of Japan",
+   "variants": [
+    "Hirota",
+    "Mr. Koki Hirota"
+   ]
+  },
+  {
+   "name": "Yonezo Maeda",
+   "role": "Seiyukai member of the Diet and former Railways Minister",
+   "variants": [
+    "Yonezo Maeda"
+   ]
+  },
+  {
+   "name": "Zembei Horikiri",
+   "role": "Seiyukai member of the Diet",
+   "variants": [
+    "Zembei Horikiri"
+   ]
+  },
+  {
+   "name": "Chikuhei Nakajima",
+   "role": "Seiyukai member of the Diet",
+   "variants": [
+    "Chikuhei Nakajima"
+   ]
+  },
+  {
+   "name": "Ryutaro Nagai",
+   "role": "Chief Secretary of the Minseito",
+   "variants": [
+    "Ryutaro Nagai"
+   ]
+  },
+  {
+   "name": "Seiichi Aoki",
+   "role": "Showakai member of the Diet",
+   "variants": [
+    "Seiichi Aoki"
+   ]
+  },
+  {
+   "name": "Keisuke Mochizuki",
+   "role": "Showakai member of the Diet",
+   "variants": [
+    "Keisuke Mochizuki"
+   ]
+  },
+  {
+   "name": "Tatsunosuke Yamazaki",
+   "role": "Japanese Minister of Agriculture and Forestry, formerly Showakai",
+   "variants": [
+    "Tatsunosuke Yamazaki"
+   ]
+  },
+  {
+   "name": "Hideo Kodama",
+   "role": "Japanese Minister of Commerce and Industry, Count",
+   "variants": [
+    "Count Hideo Kodama"
+   ]
+  },
+  {
+   "name": "Seigo Nakano",
+   "role": "Tohokai leader and member of the Diet",
+   "variants": [
+    "Seigo Nakano"
+   ]
+  },
+  {
+   "name": "Kiyoshi Akita",
+   "role": "Former Speaker of the Japanese House of Representatives",
+   "variants": [
+    "Kiyoshi Akita"
+   ]
+  },
+  {
+   "name": "Ichiro Kiyose",
+   "role": "Kokumin Domei member of the Diet, Doctor",
+   "variants": [
+    "Dr. Ichiro Kiyose"
+   ]
+  },
+  {
+   "name": "Yoriyasu Arima",
+   "role": "Kenkyukai member of the House of Peers, Count",
+   "variants": [
+    "Count Yoriyasu Arima"
+   ]
+  },
+  {
+   "name": "Fumio Goto",
+   "role": "Former Japanese Minister for Home Affairs",
+   "variants": [
+    "Fumio Goto"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoye",
+   "role": "President of the Japanese House of Peers, Prince",
+   "variants": [
+    "Prince Fumimaro Konoye",
+    "Prince Konoye",
+    "Prince Konoe"
+   ]
+  },
+  {
+   "name": "Suehiko Shiono",
+   "role": "Japanese Minister of Justice, Doctor",
+   "variants": [
+    "Dr. Shiono"
+   ]
+  },
+  {
+   "name": "Makoto Saito",
+   "role": "Former Prime Minister of Japan, Admiral, Viscount",
+   "variants": [
+    "Saito"
+   ]
+  },
+  {
+   "name": "Kunimatsu Hamada",
+   "role": "Seiyukai leader and former Speaker of the Lower House",
+   "variants": [
+    "Kunimatsu Hamada",
+    "Hamada"
+   ]
+  },
+  {
+   "name": "Hisaichi Terauchi",
+   "role": "Former Japanese Minister of War, General",
+   "variants": [
+    "General Terauchi"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor",
+    "sovereign"
+   ]
+  },
+  {
+   "name": "Osami Nagano",
+   "role": "Former Japanese Minister of the Navy, Admiral",
+   "variants": [
+    "Admiral Nagano"
+   ]
+  },
+  {
+   "name": "Kazunari Ugaki",
+   "role": "Former Governor General of Korea and Minister of War, Premier designate, General",
+   "variants": [
+    "General Kazunari Ugaki",
+    "General Ugaki",
+    "Ugaki"
+   ]
+  },
+  {
+   "name": "Seishiro Itagaki",
+   "role": "Chief of Staff of the Kwantung Army, Lieutenant General",
+   "variants": [
+    "Lieutenant General Seishiro Itagaki",
+    "Itagaki",
+    "General Itagaki"
+   ]
+  },
+  {
+   "name": "Keisuke Okada",
+   "role": "Former Prime Minister of Japan, Admiral",
+   "variants": [
+    "Okada"
+   ]
+  },
+  {
+   "name": "Tetsuzan Nagata",
+   "role": "Chief War Office assistant to General Hayashi, Lieutenant General (assassinated August 12, 1935)",
+   "variants": [
+    "Lieutenant General Nagata"
+   ]
+  },
+  {
+   "name": "Kijuro Shidehara",
+   "role": "Former Japanese Minister for Foreign Affairs",
+   "variants": [
+    "Shidehara"
+   ]
+  },
+  {
+   "name": "Nobumasa Suetsugu",
+   "role": "Japanese Admiral",
+   "variants": [
+    "Admiral Suetsugu"
+   ]
+  },
+  {
+   "name": "Benito Mussolini",
+   "role": "Prime Minister and Dictator of Italy",
+   "variants": [
+    "Mussolini",
+    "Il Duce"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "Chancellor and Dictator of Germany",
+   "variants": [
+    "Hitler"
+   ]
+  },
+  {
+   "name": "Claudius T. Murchison",
+   "role": "Head of the American cotton textile economic mission to Japan",
+   "variants": [
+    "Murchison"
+   ]
+  },
+  {
+   "name": "Samuel Hoare",
+   "role": "Former British Secretary of State for Foreign Affairs, Sir",
+   "variants": [
+    "Sir Samuel Hoare",
+    "Sir Samuel Hoare's"
+   ]
+  },
+  {
+   "name": "Edward Mandell House",
+   "role": "American diplomat and presidential adviser, Colonel",
+   "variants": [
+    "Colonel House",
+    "Colonel Edward M. House",
+    "Colonel Edward Mandell House"
+   ]
+  },
+  {
+   "name": "Cabot Coville",
+   "role": "Officer and staff member at the American Embassy in Tokyo",
+   "variants": [
+    "Mr. Coville"
+   ]
+  },
+  {
+   "name": "Teijiro Ueda",
+   "role": "Japanese economist and professor in Tokyo",
+   "variants": [
+    "Professor Teijiro Ueda",
+    "Professor Ueda"
+   ]
+  },
+  {
+   "name": "Inazo Nitobe",
+   "role": "Japanese internationalist scholar, Doctor",
+   "variants": [
+    "Dr. Inazo Nitobe"
+   ]
+  },
+  {
+   "name": "Yasundo Sudo",
+   "role": "Commercial Secretary at the Japanese Embassy in Berlin",
+   "variants": [
+    "Mr. Yasundo Sudo",
+    "Mr. Sudo"
+   ]
+  },
+  {
+   "name": "George Sylvester Viereck",
+   "role": "American author and journalist",
+   "variants": [
+    "George Sylvester Viereck"
+   ]
+  },
+  {
+   "name": "Otto von Bismarck",
+   "role": "Former Chancellor of Germany, Prince",
+   "variants": [
+    "Bismarck"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peipine",
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Reich"
+   ]
+  },
+  {
+   "name": "South Pacific Mandate",
+   "variants": [
+    "South Sea Mandated Islands",
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Russia",
+    "Soviet Far East"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "Great Britain",
+    "England"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "East"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchukuo",
+    "Manchoukuo",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kanto Region",
+   "variants": [
+    "Kwanto"
+   ]
+  },
+  {
+   "name": "Hibiya",
+   "variants": [
+    "Hibiya"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Central Europe"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malayan"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Columbian",
+    "Colombian"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chilean"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa",
+    "African"
+   ]
+  },
+  {
+   "name": "Congo Basin",
+   "variants": [
+    "Congo Basin",
+    "Belgian Congo"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Versailles",
+   "variants": [
+    "Versailles"
+   ]
+  },
+  {
+   "name": "Portuguese Empire",
+   "variants": [
+    "Portuguese colonies"
+   ]
+  },
+  {
+   "name": "Western World",
+   "variants": [
+    "West"
+   ]
+  }
+ ],
+ "section_summary": "This section comprises U.S. State Department despatches, telegrams, and internal research memoranda from April to June 1937 detailing Japanese domestic political instability and foreign economic policy during the administration of General Senjuro Hayashi. The correspondence closely monitors the aftermath of the March 31 dissolution of the Diet, the April 30 general election in which opposition parties decisively defeated the military-backed government, and the aborted effort by conservative politicians to construct a pro-government rightist party. In addition, the documents extensively analyze Foreign Minister Naotake Sato's diplomatic platform and his economic thesis advocating international cooperation, unimpeded access to raw materials, and the avoidance of exclusionary trade blocs as alternatives to territorial aggression.",
+ "subfiles": [
+  {
+   "about": "Concluding section of a despatch transmitting a newspaper clipping on Diet member Yukio Ozaki's interpellations to the Japanese Government and official ministerial replies.",
+   "continues_previous": true,
+   "date": "1937-04-02",
+   "doc_type": "despatch",
+   "end_page": 105,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Yukio Ozaki",
+    "Naotake Sato",
+    "Hajime Sugiyama",
+    "Mitsumasa Yonai",
+    "South Sea Mandated Islands",
+    "anti-Comintern pact",
+    "disarmament"
+   ],
+   "start_page": 104,
+   "summary": "This concluding portion of Despatch No. 2346 transmits a clipping from The Japan Advertiser of March 25, 1937, reporting independent Diet member Yukio Ozaki's twelve interpellations to the Cabinet. Government ministers reply to questions on tax increases, national defense parity, the anti-Comintern pact, the mandated South Sea islands, and the February 26 incident. Foreign Minister Sato states that Japan has no intention of returning the South Sea Mandated Islands to Germany, while cabinet ministers agree that proposing international disarmament talks would be futile under existing world conditions.",
+   "title": "Despatch No. 2346 from Tokyo: Questionnaire of Yukio Ozaki and Government Replies",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Cross-reference sheet noting a Far Eastern Division memorandum regarding the Japanese political situation preceding the April 30 election.",
+   "continues_previous": false,
+   "date": "1937-04-24",
+   "doc_type": "cross-reference",
+   "end_page": 106,
+   "from": "Maxwell S. Myers",
+   "keywords": [
+    "Far Eastern Division",
+    "general election",
+    "House of Representatives",
+    "Myers"
+   ],
+   "start_page": 106,
+   "summary": "A State Department cross-reference file note (894.00/725) citing a memorandum dated April 24, 1937, by Myers of the Division of Far Eastern Affairs, originally filed under 793.003/869. The memorandum notes that during the week ending April 24, 1937, the Japanese Government appeared to be marking time pending the outcome of the general election on April 30 for the House of Representatives.",
+   "title": "Document File Note: Memorandum on Far Eastern Situation (Week Ending April 24, 1937)",
+   "to": ""
+  },
+  {
+   "about": "Reporting election returns indicating a major defeat for the Hayashi Cabinet and analyzing the Government's prospects for remaining in power.",
+   "continues_previous": false,
+   "date": "1937-05-03",
+   "doc_type": "telegram",
+   "end_page": 108,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "general election",
+    "Hayashi Cabinet",
+    "Minseito",
+    "Seiyukai",
+    "Shakai Taishuto",
+    "House of Representatives"
+   ],
+   "start_page": 107,
+   "summary": "Ambassador Grew reports on the Japanese general election of April 30, 1937, noting that the press views the outcome as a distinct defeat for the Hayashi administration. Opposition parties Minseito and Seiyukai won 354 seats, Shakai Taishuto increased its standing to 37 seats, while pro-government groups were reduced to 30 seats. Despite this setback, the Cabinet announced its intent to continue in office, and Grew assesses that it may survive until the extraordinary Diet session because neither major party holds a decisive popular mandate and the Diet remains wary of direct military opposition.",
+   "title": "Telegram No. 122 from Tokyo on the Results of the General Election",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "State Department summary and analysis of Embassy Despatch No. 2359 regarding the announced domestic and economic policies of the Hayashi Cabinet.",
+   "continues_previous": false,
+   "date": "1937-05-12",
+   "doc_type": "memorandum",
+   "end_page": 110,
+   "from": "William T. Turner",
+   "keywords": [
+    "Hayashi Cabinet",
+    "Division of Far Eastern Affairs",
+    "totalitarian state",
+    "regimentation",
+    "Hirota Cabinet"
+   ],
+   "start_page": 109,
+   "summary": "Turner summarizes Tokyo Despatch No. 2359 for Hornbeck, highlighting that the Hayashi Cabinet's eight-point program consists of idealistic, vague aims rather than concrete proposals. The memorandum notes that the policies reflect continued military dominance, pointing toward regimentation on a semi-wartime basis and the emergence of a totalitarian state similar to the preceding Hirota administration. It concludes that the Cabinet will face strong Diet resistance and will likely be compelled to resign, dissolve the Lower House again, or sharply curtail its ambitions.",
+   "title": "Memorandum by the Division of Far Eastern Affairs on the Policies of the Hayashi Cabinet",
+   "to": "Stanley K. Hornbeck"
+  },
+  {
+   "about": "Detailed review and critique of the eight-point policy platform promulgated by the Hayashi Cabinet ahead of the April 30 general election.",
+   "continues_previous": false,
+   "date": "1937-04-14",
+   "doc_type": "despatch",
+   "end_page": 119,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Hayashi Cabinet",
+    "policy platform",
+    "totalitarian state",
+    "national mobilization",
+    "The Japan Advertiser",
+    "economic control",
+    "Toyotaro Yuki"
+   ],
+   "start_page": 111,
+   "summary": "Ambassador Grew transmits and analyzes the official eight-point platform announced by Premier Hayashi following the dissolution of the Diet. The despatch examines proposed reforms in education, administrative machinery, armaments, industry, social insurance, and taxation, noting widespread domestic criticism of their vagueness and resemblance to Hirota Cabinet policies. Grew highlights the military's underlying goal of creating a Japanese variety of a totalitarian state through national mobilization and economic controls, while business and financial circles express deep apprehension over inflation and state regimentation. An enclosure reproduces The Japan Advertiser translation of the platform published on April 11, 1937.",
+   "title": "Despatch No. 2359 from Tokyo: Policies of the Hayashi Cabinet",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Summary of Embassy Despatch No. 2364 reporting on the failed political effort to create a rightist, pro-government party in Japan.",
+   "continues_previous": false,
+   "date": "1937-05-12",
+   "doc_type": "memorandum",
+   "end_page": 120,
+   "from": "William T. Turner",
+   "keywords": [
+    "new party movement",
+    "Hayashi Cabinet",
+    "Division of Far Eastern Affairs",
+    "military dictatorship",
+    "Lower House"
+   ],
+   "start_page": 120,
+   "summary": "Turner summarizes Tokyo Despatch No. 2364, explaining that the Hayashi Cabinet engineered the dissolution of the Diet in the hope that a rubber-stamp rightist party would emerge to provide legislative support under military auspices. However, the movement faced strong public and press opposition due to fears of military dictatorship, and no first-rank politicians could be persuaded to lead it. The memorandum agrees with the Embassy that Premier Hayashi seriously miscalculated national sentiment in dissolving the Diet.",
+   "title": "Memorandum by the Division of Far Eastern Affairs on the New Party Movement in Japan",
+   "to": "Stanley K. Hornbeck"
+  },
+  {
+   "about": "Comprehensive report on political maneuvers by politicians and the military to organize a new rightist party following the dissolution of the Diet.",
+   "continues_previous": false,
+   "date": "1937-04-16",
+   "doc_type": "despatch",
+   "end_page": 127,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "new party movement",
+    "Fumimaro Konoye",
+    "Toyotaro Yuki",
+    "Hayashi Cabinet",
+    "Seiyukai",
+    "Minseito",
+    "dictatorship"
+   ],
+   "start_page": 121,
+   "summary": "Ambassador Grew reports on the emergence and subsequent stalling of a movement among professional politicians to establish a rightist political party supporting the military-dominated Hayashi Cabinet. Prominent figures from established parties and minor factions were approached, and Premier Hayashi unsuccessfully sought Prince Fumimaro Konoye to lead the organization, while Finance Minister Toyotaro Yuki disavowed involvement. Public and newspaper resistance stiffened against the move over fears of an authoritarian dictatorship, forcing the Cabinet to abandon hope of organizing the party before the April 30 election. Grew observes that General Hayashi, by his own admission a soldier untrained in politics, fundamentally misjudged public hostility toward the arbitrary dissolution of the Diet.",
+   "title": "Despatch No. 2364 from Tokyo: New Party Movement in Japan",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Brief internal State Department routing and evaluation note on Tokyo Despatch No. 2367 concerning the pre-election campaign for the House of Representatives.",
+   "continues_previous": false,
+   "date": "1937-05-10",
+   "doc_type": "memorandum",
+   "end_page": 128,
+   "from": "William T. Turner",
+   "keywords": [
+    "House of Representatives",
+    "election campaign",
+    "Division of Far Eastern Affairs",
+    "Turner"
+   ],
+   "start_page": 128,
+   "summary": "A brief internal State Department memorandum initialed by W. T. Turner for Hornbeck and Ballantine regarding Tokyo Despatch No. 2367. The note states that because the despatch describes the progress of the campaign for the election of a new Japanese House of Representatives and was written prior to the voting, it is now of small interest.",
+   "title": "Memorandum by the Division of Far Eastern Affairs on the Japanese Election Campaign",
+   "to": "Stanley K. Hornbeck"
+  },
+  {
+   "about": "Account of the political campaign, candidate registrations, and party manifestos leading up to the April 30 general election.",
+   "continues_previous": false,
+   "date": "1937-04-16",
+   "doc_type": "despatch",
+   "end_page": 135,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "election campaign",
+    "House of Representatives",
+    "Minseito",
+    "Seiyukai",
+    "Shakai Taishuto",
+    "The Japan Times",
+    "The Japan Advertiser"
+   ],
+   "start_page": 129,
+   "summary": "Ambassador Grew details the opening stages of the campaign for 466 seats in the House of Representatives following the March 31 dissolution of the Diet. He reviews candidate registrations, the Government's ambiguous eight-point platform, fierce counterattacks by the Seiyukai and Minseito against the Cabinet's unconstitutional behavior, and the energetic social-reform platform put forward by the Shakai Taishuto. Grew predicts that the major parties will fail to present a unified front, allowing the Hayashi Government to survive by dividing the opposition despite potential gains by the Shakai Taishuto and independents. Two newspaper clippings from The Japan Times and The Japan Advertiser containing candidate statistics and the Minseito appeal are enclosed.",
+   "title": "Despatch No. 2367 from Tokyo: Japanese Election Campaign to April 16, 1937",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Weekly intelligence briefing on political conditions in China and prospective courses of action for the Japanese Government following the April 30 election.",
+   "continues_previous": false,
+   "date": "1937-05-01",
+   "doc_type": "memorandum",
+   "end_page": 136,
+   "from": "Maxwell S. Myers",
+   "keywords": [
+    "Situation in the Far East",
+    "general election",
+    "Hayashi Cabinet",
+    "Division of Far Eastern Affairs"
+   ],
+   "start_page": 136,
+   "summary": "A confidential weekly intelligence memorandum prepared by the Division of Far Eastern Affairs for the Secretary of State. It reports no significant developments in China, while in Japan the general election took place on April 30 with results still pending. The memorandum outlines four possible paths for the Hayashi Government in the event of an expected adverse vote: remaining in office regardless, dissolving the new House immediately upon convening, resigning, or reconstructing the Cabinet with party figures.",
+   "title": "Weekly Memorandum: The Situation in the Far East (May 1, 1937)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Detailed analytical study tracing the escalating confrontation between the Japanese military hierarchy and parliamentary parties during 1937.",
+   "continues_previous": false,
+   "date": "1937-04-30",
+   "doc_type": "report",
+   "end_page": 142,
+   "from": "Division of Far Eastern Affairs",
+   "keywords": [
+    "Kunimatsu Hamada",
+    "Hisaichi Terauchi",
+    "Kazunari Ugaki",
+    "Seishiro Itagaki",
+    "Yukio Ozaki",
+    "Naotake Sato",
+    "Kwantung Army",
+    "February 26 incident"
+   ],
+   "start_page": 137,
+   "summary": "This State Department study reviews the political crisis precipitated by Kunimatsu Hamada's confrontation with War Minister Terauchi in January 1937, which triggered the collapse of the Hirota Cabinet. It examines the military's obstruction of General Ugaki's attempt to form a cabinet, General Hayashi's assumption of the premiership, budget debates, and veteran liberal Yukio Ozaki's outspoken parliamentary attacks against militarism and the anti-Comintern pact. The report further discusses Foreign Minister Naotake Sato's moderate diplomatic rhetoric, the sudden dissolution of the Diet on March 31, and the emergence of fascist tendencies within the Kwantung Army under General Itagaki, concluding with an analysis of structural differences between Japanese militarism and European totalitarian dictatorships.",
+   "title": "Report on Japan: The Clash Between the Army and the Political Parties",
+   "to": ""
+  },
+  {
+   "about": "Analysis of the April 30 Japanese parliamentary election results and their implications for military influence and cabinet survival.",
+   "continues_previous": false,
+   "date": "1937-05-05",
+   "doc_type": "memorandum",
+   "end_page": 144,
+   "from": "William T. Turner",
+   "keywords": [
+    "parliamentary elections",
+    "Hayashi Cabinet",
+    "military influence",
+    "House of Representatives",
+    "compromise"
+   ],
+   "start_page": 143,
+   "summary": "An internal Far Eastern Division memorandum analyzing the decisive victory of opposition parties in the April 30 parliamentary elections. Turner notes that while the press has characterized the result as a stinging defeat for General Hayashi and a resurgence of liberalism, the outcome represents a specific repudiation of the Cabinet rather than a fundamental rejection of military rule. The memorandum observes that the military remains deeply entrenched in governance, and suggests that the Cabinet and Diet may arrive at a pragmatic compromise to avoid an immediate constitutional crisis.",
+   "title": "Memorandum on the Parliamentary Elections in Japan",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Weekly intelligence briefing covering the Japanese election aftermath and Foreign Minister Sato's statements on China policy.",
+   "continues_previous": false,
+   "date": "1937-05-08",
+   "doc_type": "memorandum",
+   "end_page": 145,
+   "from": "Maxwell S. Myers",
+   "keywords": [
+    "Situation in the Far East",
+    "Naotake Sato",
+    "China policy",
+    "general election",
+    "Hayashi Cabinet"
+   ],
+   "start_page": 145,
+   "summary": "A confidential weekly intelligence report by the Far Eastern Division for the Secretary of State noting that the Hayashi Cabinet intends to remain in office despite the opposition's heavy electoral majority. It highlights Foreign Minister Naotake Sato's May 6 press conference proposing to improve Sino-Japanese relations by settling minor issues first, which would abandon previous demands for comprehensive Chinese acceptance of broad political principles. The memorandum questions whether the Japanese military will tolerate or support this conciliatory diplomatic approach.",
+   "title": "Weekly Memorandum: The Situation in the Far East (May 8, 1937)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reporting addresses by Premier Hayashi and Foreign Minister Sato before the Conference of Prefectural Governors on domestic and foreign relations.",
+   "continues_previous": false,
+   "date": "1937-05-17",
+   "doc_type": "telegram",
+   "end_page": 148,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Conference of Prefectural Governors",
+    "Naotake Sato",
+    "Senjuro Hayashi",
+    "anti-Comintern pact",
+    "Murchison Mission",
+    "foreign trade"
+   ],
+   "start_page": 146,
+   "summary": "Ambassador Grew transmits the substance of major addresses delivered to the Conference of Prefectural Governors by Premier Hayashi and Foreign Minister Naotake Sato. Sato delivers an extensive foreign policy address reviewing relations with China, the Soviet Far East, Great Britain, the United States, and Germany under the anti-Comintern pact. He stresses the need for cultural and economic cooperation with China, cautions governors against unnecessary friction with Soviet officials, commends trade negotiations with the United States following the Murchison Mission, defends international freedom of trade and access to raw materials for Japan, and urges officials to treat resident foreigners fairly.",
+   "title": "Telegram No. 131 from Tokyo on Addresses to the Conference of Prefectural Governors",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Assessment of Tokyo Despatch No. 2390 and Foreign Minister Sato's economic philosophy regarding international resource allocation and trade.",
+   "continues_previous": false,
+   "date": "1937-06-11",
+   "doc_type": "memorandum",
+   "end_page": 150,
+   "from": "Joseph W. Ballantine",
+   "keywords": [
+    "Naotake Sato",
+    "Division of Far Eastern Affairs",
+    "Edward M. House",
+    "Samuel Hoare",
+    "raw materials",
+    "League of Nations"
+   ],
+   "start_page": 149,
+   "summary": "Ballantine evaluates Tokyo Despatch No. 2390, observing that while Foreign Minister Sato has recently left office, his economic views remain highly representative of Japanese thinking on the necessity of removing international barriers to economic expansion. The memorandum discusses Sato's 1936 Paris lecture on Japanese population and industrialization, his reliance on Colonel Edward M. House's article 'Wanted—A New Deal Among Nations,' and Sir Samuel Hoare's League of Nations address. It also notes Sato's plans to protest against raw material monopolies—such as Malayan tin, Colombian oil, and Chilean saltpeter—and trade blocs before the League of Nations raw materials committee.",
+   "title": "Memorandum by the Division of Far Eastern Affairs on Foreign Minister Sato's Basic Economic Views",
+   "to": "Stanley K. Hornbeck"
+  },
+  {
+   "about": "Comprehensive analysis of Foreign Minister Sato's international economic theories, accompanied by supporting articles and speeches.",
+   "continues_previous": false,
+   "date": "1937-04-30",
+   "doc_type": "despatch",
+   "end_page": 164,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Naotake Sato",
+    "Edward M. House",
+    "Cabot Coville",
+    "Teijiro Ueda",
+    "Samuel Hoare",
+    "raw materials",
+    "Liberty",
+    "League of Nations"
+   ],
+   "start_page": 151,
+   "summary": "Ambassador Grew provides an in-depth analysis of Foreign Minister Naotake Sato's convictions that international peace depends upon equitable access to raw materials and open markets rather than territorial aggression. Following conversations between Sato and Embassy officer Cabot Coville, Grew examines Sato's intellectual alignment with Colonel Edward M. House's thesis in 'Wanted—A New Deal Among Nations' and Professor Teijiro Ueda's population studies, contrasting Sato's restrained, trade-oriented solutions with House's calls for territorial readjustments. The despatch includes enclosures comprising a Japan Advertiser clipping on Sato's planned appeal to the League of Nations raw materials committee, and a Japanese Foreign Office reprint and translation of Colonel House's 1935 Liberty article.",
+   "title": "Despatch No. 2390 from Tokyo: Foreign Minister Sato's Basic Economic Views",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 37892,
+   "output_tokens": 26441,
+   "thinking_tokens": 19284,
+   "cache_read_tokens": 0,
+   "total_tokens": 64333
+  },
+  "backend": "agy",
+  "section": 3,
+  "sections": 9,
+  "pages": [
+   104,
+   164
+  ],
+  "pdf": "894.00 Japan, Political Affairs., May 2, 1935 - March 17, 1938 1006-part-3.pdf",
+  "seconds": 70.2,
+  "created": "2026-09-29 21:04:36",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-21-part-3"
+ }
+}

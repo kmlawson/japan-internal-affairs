@@ -1,0 +1,147 @@
+{
+ "interest": "Index of Japanese espionage and propaganda tracked by U.S. agencies, 1940–42.",
+ "keywords": [
+  "Japanese propaganda",
+  "military intelligence",
+  "espionage",
+  "Nippon Trade Agency",
+  "Cabinet Intelligence Bureau",
+  "radio propaganda",
+  "armament production",
+  "shipping intelligence",
+  "Far East",
+  "State Department decimal file 894.202",
+  "Axis propaganda"
+ ],
+ "overview": "Dockets for 894.202 (1940–42) on Japanese espionage and propaganda, including the Cabinet Intelligence Bureau and FBI reports.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation",
+   "variants": [
+    "Hoover"
+   ]
+  },
+  {
+   "name": "Laurence E. Salisbury",
+   "role": "Officer, Division of Far Eastern Affairs, Department of State",
+   "variants": [
+    "Salisbury"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Nippon"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Eastern"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department docket sheet indexing communications and intelligence reports concerning Japanese military activities, diplomatic propaganda, and the Cabinet Intelligence Bureau from 1940 to 1941.",
+   "date": "1940",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese propaganda",
+    "Nippon Trade Agency",
+    "Cabinet Intelligence Bureau",
+    "Joseph C. Grew",
+    "radio propaganda",
+    "Malaya",
+    "War Department"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.202 on Japanese propaganda via the Nippon Trade Agency and Malaya, and the Cabinet Intelligence Bureau.",
+   "title": "List of Papers: Japanese Military Activities -- Japanese - Propaganda (Sub. Nos. 32-38)",
+   "to": ""
+  },
+  {
+   "about": "A duplicate State Department docket sheet indexing FBI reports on Japanese espionage operations and a Far Eastern Affairs review of Japanese propaganda literature in 1942.",
+   "date": "1942",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "espionage",
+    "J. Edgar Hoover",
+    "Department of Justice",
+    "armament production",
+    "shipping intelligence",
+    "Japanese strategy",
+    "Laurence E. Salisbury",
+    "Far Eastern Affairs"
+   ],
+   "start_page": 2,
+   "summary": "Docket for 894.202 (1942): FBI reports on Japanese intelligence and Salisbury's review of Japanese books.",
+   "title": "Duplicate List of Papers: Japanese Military Activities -- Espionage -- Propaganda (Sub. Nos. 50-52)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14386,
+   "output_tokens": 7906,
+   "thinking_tokens": 6705,
+   "cache_read_tokens": 0,
+   "total_tokens": 22292
+  },
+  "backend": "agy",
+  "seconds": 26.6,
+  "identifier": "japan-internal-affairs-894.20-military-affairs-army-1",
+  "file": "894.20 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving.,  113.pdf",
+  "created": "2026-09-28 23:34:25"
+ }
+}

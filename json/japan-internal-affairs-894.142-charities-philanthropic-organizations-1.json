@@ -1,0 +1,123 @@
+{
+ "interest": "Japanese Red Cross aid to Americans in 1918 and Ethiopia in 1935.",
+ "keywords": [
+  "Japanese Red Cross",
+  "American Red Cross",
+  "Ethiopian Red Cross",
+  "Baron Tadanori Ishiguro",
+  "Prince Yoshihisa",
+  "Prentiss Gilbert",
+  "humanitarian aid",
+  "medical supplies",
+  "materiel sanitaire",
+  "World War I",
+  "Italo-Ethiopian War",
+  "Korea Maru"
+ ],
+ "overview": "Cross-references on Japanese Red Cross aid: Prince Yoshihisa's 1918 mission to France and 1935 supplies to Ethiopia.",
+ "people": [
+  {
+   "name": "Tadanori Ishiguro",
+   "role": "President of Japanese Red Cross",
+   "variants": [
+    "Baron Ishigure"
+   ]
+  },
+  {
+   "name": "Prince Yoshihisa",
+   "role": "Envoy to American Red Cross in France",
+   "variants": [
+    "Prince Yoshihisa"
+   ]
+  },
+  {
+   "name": "Prentiss Bailey Gilbert",
+   "role": "U.S. Consul at Geneva",
+   "variants": [
+    "Gilbert"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Ethiopia",
+   "variants": [
+    "Ethiopian"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting a despatch regarding Japanese Red Cross President Baron Ishiguro sending Prince Yoshihisa as an envoy with relief materials to the American Red Cross in France.",
+   "date": "1918-05-23",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "American Embassy, Tokyo, Japan",
+   "keywords": [
+    "Japanese Red Cross",
+    "American Red Cross",
+    "Baron Ishiguro",
+    "Prince Yoshihisa",
+    "Korea Maru",
+    "France",
+    "World War I"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: Prince Yoshihisa named Japanese Red Cross envoy to the American Red Cross in France, 1918.",
+   "title": "Cross-reference note on Japanese Red Cross envoy Prince Yoshihisa to American Red Cross in France",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet regarding a telegram reporting that the Japanese Red Cross is dispatching medical supplies to the Ethiopian Red Cross for 10,000 wounded.",
+   "date": "1935-11-18",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Prentiss Bailey Gilbert (Geneva)",
+   "keywords": [
+    "Japanese Red Cross",
+    "Ethiopian Red Cross",
+    "Geneva",
+    "materiel sanitaire",
+    "Italo-Ethiopian War",
+    "medical aid"
+   ],
+   "start_page": 2,
+   "summary": "Cross-reference: Japanese Red Cross sends medical supplies for 10,000 wounded to Ethiopia, 1935.",
+   "title": "Cross-reference note on Japanese Red Cross medical aid to Ethiopian Red Cross",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13793,
+   "output_tokens": 3681,
+   "thinking_tokens": 2550,
+   "cache_read_tokens": 0,
+   "total_tokens": 17474
+  },
+  "backend": "agy",
+  "seconds": 13.4,
+  "identifier": "japan-internal-affairs-894.142-charities-philanthropic-organizations-1",
+  "file": "894.142 Charities. Philanthropic Organizations., Japan, Red Cross., November 18, 1935 882.pdf",
+  "created": "2026-09-28 23:26:55"
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "interest": "Although consisting solely of a List of Papers docket sheet, this record provides a valuable archival index and tracer into Japanese covert intelligence and espionage operations in the Netherlands East Indies. It highlights the use of journalistic cover ('alleged economic reporter') by Japanese military officers such as Major Hashoda and points to Dutch colonial counter-espionage vigilance in Batavia. Additionally, the entry demonstrates State Department records management and cross-referencing practices during the era, directing researchers to substantive diplomatic reporting filed under decimal file 701.9447/13.",
+ "keywords": [
+  "Japanese military activities",
+  "Java",
+  "Batavia",
+  "Dutch East Indies",
+  "espionage",
+  "Major Hashoda",
+  "military intelligence",
+  "economic reporter",
+  "State Department decimal file",
+  "Australia"
+ ],
+ "overview": "This file consists of a single Department of State 'List of Papers' docket sheet (Form DS-46) under decimal classification 894.20256E, concerning Japanese military activities in Java. The sheet records a single entry (sub-number 4), identifying an April 1 communication (No. 115) sent by Winter from Australia. The purport summarizes a report on the arrest of Major Hashoda, an alleged economic reporter detained and charged with espionage by Dutch colonial officials in Batavia, and provides a cross-reference directing researchers to decimal file 701.9447/13 for the substantive document.",
+ "people": [
+  {
+   "name": "Major Hashoda",
+   "role": "Major; alleged economic reporter accused of espionage",
+   "variants": [
+    "Major Hashoda",
+    "Hashoda"
+   ]
+  },
+  {
+   "name": "Winter",
+   "role": "U.S. diplomatic or consular officer in Australia (sender of report #115)",
+   "variants": [
+    "Winter"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Madura",
+   "variants": [
+    "Madura"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Dutch"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State List of Papers indexing a report on the arrest of Major Hashoda in Batavia for espionage.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese military activities",
+    "Java",
+    "Batavia",
+    "Major Hashoda",
+    "espionage",
+    "cross-reference"
+   ],
+   "start_page": 1,
+   "summary": "This single-page Department of State List of Papers (Form DS-46) serves as the docket sheet for file 894.20256E regarding Japanese military activities in Java. It logs document sub-number 4, an April 1 dispatch or telegram (#115) sent by Winter from Australia regarding the detention of Major Hashoda by Dutch authorities at Batavia on espionage charges under the guise of an economic reporter. A cross-reference notation instructs researchers to consult decimal file 701.9447/13 for the underlying report.",
+   "title": "Department of State List of Papers for File 894.20256E (Japanese Military Activities in Java)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13736,
+   "output_tokens": 3516,
+   "thinking_tokens": 2738,
+   "cache_read_tokens": 0,
+   "total_tokens": 17252
+  },
+  "backend": "agy",
+  "seconds": 14.3,
+  "identifier": "japan-internal-affairs-894.20256e-military-affairs-army-1",
+  "file": "894.20256E Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Java And Madura Including Gathering Of Information. Espionage. Propaganda. 197.pdf",
+  "created": "2026-09-29 02:48:00"
+ }
+}

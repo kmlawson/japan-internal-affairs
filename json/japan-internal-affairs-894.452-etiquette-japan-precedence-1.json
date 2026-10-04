@@ -1,0 +1,105 @@
+{
+ "interest": "This file illustrates the practical and procedural dilemmas of interwar diplomacy, where ambassadors actively consulted Washington on nuanced matters of social protocol and official precedence. It highlights how diplomatic corps in foreign capitals functioned as collective deliberative bodies requiring envoys to vote on etiquette rules, such as the comparative ranking of foreign ministers plenipotentiary against the Under Secretary of State or retired ambassadors. Additionally, the document file note provides insight into the State Department's decimal indexing and cross-referencing system between country-specific files (894.452) and internal U.S. etiquette records (811.452).",
+ "keywords": [
+  "diplomatic precedence",
+  "diplomatic etiquette",
+  "protocol",
+  "diplomatic corps",
+  "Joseph C. Grew",
+  "Tokyo",
+  "ministers plenipotentiary",
+  "Under Secretary of State",
+  "Department of State",
+  "foreign service retirement"
+ ],
+ "overview": "This file concerns questions of diplomatic precedence and etiquette raised by the United States Embassy in Tokyo in March 1937. It consists of a cross-reference document file note and an urgent telegram from Ambassador Joseph C. Grew to the Secretary of State inquiring about Washington's prevailing practices regarding the relative precedence of foreign ministers plenipotentiary vis-à-vis the Under Secretary of State, as well as American ambassadors and ministers at home on leave or in retirement, when attending functions in diplomatic and American households. Ambassador Grew sought this clarification urgently to determine how to cast his vote at a forthcoming meeting of the diplomatic corps in Tokyo convened to settle local protocol questions.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Mr. Grew",
+    "GREW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D.C."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State document file note cross-referencing Ambassador Grew's telegram no. 65 on diplomatic precedence to file 811.452/154.",
+   "date": "1937-03-03",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "document file note",
+    "cross-reference sheet",
+    "precedence",
+    "diplomatic corps",
+    "Joseph C. Grew",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "This document file note records that telegram no. 65 (noon) dated March 3, 1937, from Ambassador Grew in Tokyo, is filed under decimal file 811.452/154. It abstracts Grew's inquiry regarding Washington's practices on the relative precedence of foreign ministers plenipotentiary with the Under Secretary of State and American ambassadors and ministers on leave or in retirement. The note indicates that this information was requested to help determine protocol decisions within the diplomatic corps in Japan.",
+   "title": "Document File Note on Tokyo Telegram No. 65 Regarding Diplomatic Precedence",
+   "to": "Department of State"
+  },
+  {
+   "about": "An urgent telegram from Ambassador Joseph C. Grew requesting Washington's guidance on diplomatic precedence to determine how to vote in a Tokyo diplomatic corps meeting.",
+   "date": "1937-03-03",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "telegram",
+    "Tokyo",
+    "diplomatic precedence",
+    "protocol",
+    "diplomatic corps",
+    "ministers plenipotentiary",
+    "Under Secretary of State",
+    "Joseph C. Grew"
+   ],
+   "start_page": 2,
+   "summary": "Ambassador Joseph C. Grew in Tokyo sends an urgent telegram to the Secretary of State in Washington requesting information on the current practice in Washington regarding diplomatic precedence. Specifically, he inquires about the standing of foreign ministers plenipotentiary relative to the Under Secretary of State, as well as American ambassadors and ministers at home on leave or in retirement, in both diplomatic and American houses. Grew explains that this guidance is needed to inform his vote at an upcoming meeting of the local diplomatic corps convened to decide protocol matters.",
+   "title": "Telegram No. 65 from Ambassador Grew to the Secretary of State on Diplomatic Precedence",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13828,
+   "output_tokens": 4526,
+   "thinking_tokens": 3513,
+   "cache_read_tokens": 0,
+   "total_tokens": 18354
+  },
+  "backend": "agy",
+  "seconds": 17.0,
+  "identifier": "japan-internal-affairs-894.452-etiquette-japan-precedence-1",
+  "file": "894.452 Etiquette., Japan, Precedence., March 3, 1937 944.pdf",
+  "created": "2026-09-29 07:26:39"
+ }
+}

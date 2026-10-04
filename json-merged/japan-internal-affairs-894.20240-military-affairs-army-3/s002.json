@@ -1,0 +1,2156 @@
+{
+ "section_summary": "This section continues a classified interrogation report on Japanese wartime intelligence operations in Europe, first discussing deception material received by Onodera and then detailing Japanese cooperation with Polish, Finnish, Baltic, German, Hungarian, and Swedish intelligence personnel. It describes agent networks against the Soviet Union, exchanges of military and political intelligence, Finnish cryptanalytic cooperation, German Abwehr contacts, and liaison among Japanese military missions. The final pages begin a source-by-source table summarizing the intelligence supplied and its targets.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Soviet Union (former)",
+   "variants": [
+    "USSR",
+    "UssR",
+    "USsR",
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Germuny",
+    "Gerriany",
+    "Cormuny",
+    "Gormany"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin",
+    "Borlin"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain",
+    "G. at Britain",
+    "Gr. Brit.",
+    "Gr. Brit"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway",
+    "Horvay"
+   ]
+  },
+  {
+   "name": "Stockholm",
+   "variants": [
+    "Stockholm",
+    "Stogkholm",
+    "Suoukiolm",
+    "Stookholm",
+    "Stookhal",
+    "Stookhol."
+   ]
+  },
+  {
+   "name": "Normandy",
+   "variants": [
+    "Hornandy"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome",
+    "Romo",
+    "Poro"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Tc.cyo",
+    "Tokyc"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Eastern Siberia",
+   "variants": [
+    "Eastern Siberic",
+    "eastern Siperia"
+   ]
+  },
+  {
+   "name": "Suisoewke (unidentified locality near Vladivostok)",
+   "variants": [
+    "Suisoewke"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Warsaw",
+   "variants": [
+    "Warsaw",
+    "Warsev",
+    "Warcew"
+   ]
+  },
+  {
+   "name": "Lisbon",
+   "variants": [
+    "Lisbon"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Riga",
+   "variants": [
+    "Riga",
+    "Rige",
+    "Rica"
+   ]
+  },
+  {
+   "name": "Baltic region",
+   "variants": [
+    "Baltic countries",
+    "Balsic countries",
+    "Baltic States",
+    "Baltic republics",
+    "Baltic area",
+    "Baltic region",
+    "Baltic coast"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden",
+    "Sveden"
+   ]
+  },
+  {
+   "name": "Copenhagen",
+   "variants": [
+    "Copcnhagon"
+   ]
+  },
+  {
+   "name": "Gothenburg",
+   "variants": [
+    "Goteburg"
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "Finland",
+    "Pinlend"
+   ]
+  },
+  {
+   "name": "Northeastern Europe",
+   "variants": [
+    "northeastern Europe"
+   ]
+  },
+  {
+   "name": "Kaliningrad (then Königsberg)",
+   "variants": [
+    "Koonigcberg",
+    "Koenigaberg",
+    "Koenigsberg"
+   ]
+  },
+  {
+   "name": "Helsinki",
+   "variants": [
+    "Helsinki",
+    "Hclsinki",
+    "Ilelsinki",
+    "llelsinki",
+    "Helsinkd",
+    "He sind"
+   ]
+  },
+  {
+   "name": "Białystok",
+   "variants": [
+    "Bialystok",
+    "Bialy. bok"
+   ]
+  },
+  {
+   "name": "Minsk",
+   "variants": [
+    "Minsk",
+    "Minak",
+    "Hinsk"
+   ]
+  },
+  {
+   "name": "Smolensk",
+   "variants": [
+    "Smolensk",
+    "Smoleasl"
+   ]
+  },
+  {
+   "name": "Kaunas",
+   "variants": [
+    "Kaunca",
+    "Kaunas",
+    "Kaunes"
+   ]
+  },
+  {
+   "name": "Lithuania",
+   "variants": [
+    "Lithuanic",
+    "Lithuania"
+   ]
+  },
+  {
+   "name": "Narva",
+   "variants": [
+    "Narva",
+    "Narwa"
+   ]
+  },
+  {
+   "name": "Estonia",
+   "variants": [
+    "Estonia",
+    "Estonit"
+   ]
+  },
+  {
+   "name": "Latvia",
+   "variants": [
+    "Latvia"
+   ]
+  },
+  {
+   "name": "Ural region",
+   "variants": [
+    "Ura?"
+   ]
+  },
+  {
+   "name": "Caucasus",
+   "variants": [
+    "Caucasus"
+   ]
+  },
+  {
+   "name": "Eastern Russia",
+   "variants": [
+    "eastern Russia"
+   ]
+  },
+  {
+   "name": "Southern Russia",
+   "variants": [
+    "southern Russia"
+   ]
+  },
+  {
+   "name": "Iran (then Persia)",
+   "variants": [
+    "Persic"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey",
+    "Turkoy"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "Ankara",
+    "Ankarn"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow",
+    "Mescow",
+    "Moscon"
+   ]
+  },
+  {
+   "name": "Bucharest",
+   "variants": [
+    "Bucharost",
+    "Bucharest"
+   ]
+  },
+  {
+   "name": "Hailar",
+   "variants": [
+    "Hailar"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "USA",
+    "U.S.",
+    "America"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Suomussalmi",
+   "variants": [
+    "Suomusalmi"
+   ]
+  },
+  {
+   "name": "Karelian Isthmus",
+   "variants": [
+    "Kannas sector"
+   ]
+  },
+  {
+   "name": "Karelia",
+   "variants": [
+    "Karelia",
+    "central Karelian front"
+   ]
+  },
+  {
+   "name": "Tampere",
+   "variants": [
+    "Tanmerbors"
+   ]
+  },
+  {
+   "name": "Mikkeli",
+   "variants": [
+    "Mikkeli",
+    "Hikkeli",
+    "Mikleli",
+    "Ifikkeli"
+   ]
+  },
+  {
+   "name": "Northern Finland",
+   "variants": [
+    "northern Finland"
+   ]
+  },
+  {
+   "name": "Rovaniemi",
+   "variants": [
+    "Rokniemi",
+    "Rovaniomi"
+   ]
+  },
+  {
+   "name": "Central Finland",
+   "variants": [
+    "central Finland"
+   ]
+  },
+  {
+   "name": "Hanko",
+   "variants": [
+    "Hangc"
+   ]
+  },
+  {
+   "name": "Saint-Cyr, France",
+   "variants": [
+    "Saint Cyr"
+   ]
+  },
+  {
+   "name": "Kauniainen (Grankulla)",
+   "variants": [
+    "Grankura"
+   ]
+  },
+  {
+   "name": "Savonlinna",
+   "variants": [
+    "Savonlinna"
+   ]
+  },
+  {
+   "name": "Sortavala",
+   "variants": [
+    "Soldavala"
+   ]
+  },
+  {
+   "name": "Lake Ladoga",
+   "variants": [
+    "Lake Ladoga"
+   ]
+  },
+  {
+   "name": "Budapest",
+   "variants": [
+    "Budapest"
+   ]
+  },
+  {
+   "name": "Volgograd (then Stalingrad)",
+   "variants": [
+    "Stalingrad front"
+   ]
+  },
+  {
+   "name": "Sofia",
+   "variants": [
+    "Sophia"
+   ]
+  },
+  {
+   "name": "Eastern Front",
+   "variants": [
+    "Eastern Front",
+    "eastern front",
+    "Russian front"
+   ]
+  },
+  {
+   "name": "Iceland",
+   "variants": [
+    "Iceland"
+   ]
+  },
+  {
+   "name": "Murmansk",
+   "variants": [
+    "Murmanak"
+   ]
+  },
+  {
+   "name": "Arkhangelsk",
+   "variants": [
+    "frohangolsk"
+   ]
+  },
+  {
+   "name": "Vatican City",
+   "variants": [
+    "Vatiean"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portugal"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "Yugoslavia"
+   ]
+  },
+  {
+   "name": "Daugavpils",
+   "variants": [
+    "Dunabruck (Daugavpils)"
+   ]
+  },
+  {
+   "name": "Ostrov",
+   "variants": [
+    "Ostrov"
+   ]
+  },
+  {
+   "name": "Pskov",
+   "variants": [
+    "Pskov"
+   ]
+  },
+  {
+   "name": "Volga region",
+   "variants": [
+    "Volga region"
+   ]
+  },
+  {
+   "name": "Saint Petersburg (then Leningrad)",
+   "variants": [
+    "Leningrad",
+    "Leningrud"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Uppsala",
+   "variants": [
+    "Upsala"
+   ]
+  },
+  {
+   "name": "Flensburg",
+   "variants": [
+    "FLEiSBURG"
+   ]
+  },
+  {
+   "name": "Tallinn",
+   "variants": [
+    "Tallinn"
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "variants": [
+    "Ukreine"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "North Africa"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Madrid",
+   "variants": [
+    "Madrid"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne"
+   ]
+  },
+  {
+   "name": "Scandinavia",
+   "variants": [
+    "Scandanavian matters",
+    "Scandinavian countries"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Myanmar (then Burma)",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Arnhem",
+   "variants": [
+    "Arnhem"
+   ]
+  },
+  {
+   "name": "Mannerheim Line",
+   "variants": [
+    "Mannerheim Line"
+   ]
+  },
+  {
+   "name": "Kremlin, Moscow",
+   "variants": [
+    "Kremlin"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Maasing",
+   "role": "Former chief of Estonian General Staff Department II, Estonian military attaché in Stockholm, and Onodera's principal Baltic intelligence collaborator.",
+   "variants": [
+    "MAASI!G",
+    "MAAsInG",
+    "MAASING",
+    "HAAsInG",
+    "MAASIlG",
+    "AASIlIG"
+   ]
+  },
+  {
+   "name": "Onodera",
+   "role": "Japanese military attaché in Riga from 1936 to 1938 and subsequently in Stockholm; principal interrogation subject.",
+   "variants": [
+    "ONODERA",
+    "OllODERA",
+    "OHODERA",
+    "OMODERA",
+    "ONoDERA",
+    "OloDERA",
+    "OlODERA",
+    "O'ODERA",
+    "ONonERA",
+    "OlloDERA"
+   ]
+  },
+  {
+   "name": "Ōshima",
+   "role": "Japanese ambassador in Berlin.",
+   "variants": [
+    "OSIIMA",
+    "OSHMA",
+    "OSlnla",
+    "OSlIA"
+   ]
+  },
+  {
+   "name": "Nikolaus von Falkenhorst",
+   "role": "German commander-in-chief in Norway.",
+   "variants": [
+    "FALKENHORST",
+    "von FALKEHORST",
+    "FALKEIORST",
+    "FALKEmORST"
+   ]
+  },
+  {
+   "name": "Voronitsky",
+   "role": "German colonel who repeated invasion deception material to Onodera.",
+   "variants": [
+    "VORONITSKY"
+   ]
+  },
+  {
+   "name": "Scheel",
+   "role": "Estonian refugee in Stockholm and source of a false separate-peace rumor.",
+   "variants": [
+    "SCIEEL"
+   ]
+  },
+  {
+   "name": "Dmitrievsky",
+   "role": "Renegade Soviet diplomat who passed false separate-peace information.",
+   "variants": [
+    "DUITRIEVSKY"
+   ]
+  },
+  {
+   "name": "Vagy",
+   "role": "Hungarian intelligence officer and military-attaché staff member in Stockholm who exchanged intelligence with Onodera.",
+   "variants": [
+    "VAGY"
+   ]
+  },
+  {
+   "name": "Karl Heinz Kraemer",
+   "role": "Abwehr intelligence officer and important source for Onodera.",
+   "variants": [
+    "KRAEiER",
+    "KRArtER",
+    "KRAE ER",
+    "KRA ER",
+    "KRAmiER"
+   ]
+  },
+  {
+   "name": "Akashi",
+   "role": "Japanese general and baron who served as military attaché in Stockholm and collaborated with Piłsudski.",
+   "variants": [
+    "AKAslI"
+   ]
+  },
+  {
+   "name": "Józef Piłsudski",
+   "role": "Polish leader associated with early Polish-Japanese military cooperation.",
+   "variants": [
+    "PILSUDSK1",
+    "PILsSUDSKI"
+   ]
+  },
+  {
+   "name": "Yamawaki Masataka",
+   "role": "Japanese major general said to know the history of Polish-Japanese collaboration.",
+   "variants": [
+    "YAIAWAKI Masataka"
+   ]
+  },
+  {
+   "name": "Fujitsuka",
+   "role": "Japanese lieutenant general involved in Polish-Japanese intelligence cooperation; later worked with Poles in Bucharest.",
+   "variants": [
+    "FUJITSUKA",
+    "FUJITrsUkA"
+   ]
+  },
+  {
+   "name": "Hyakutake Seikichi",
+   "role": "Japanese general trained by the Polish General Staff in Russian codes.",
+   "variants": [
+    "HYAkUTAkE Seikichi"
+   ]
+  },
+  {
+   "name": "Kubo Shunjiro",
+   "role": "Japanese general trained by the Polish General Staff in Russian codes.",
+   "variants": [
+    "KUBO Shunjiro"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "role": "Deceased Japanese colonel trained in Russian codes in Poland.",
+   "variants": [
+    "SAKAI"
+   ]
+  },
+  {
+   "name": "Kudo",
+   "role": "Japanese colonel trained in Russian codes in Poland.",
+   "variants": [
+    "KUDO"
+   ]
+  },
+  {
+   "name": "Sakurai Nobuta",
+   "role": "Japanese colonel and cryptanalytic specialist trained in Poland and later liaison with German cryptanalytic services.",
+   "variants": [
+    "SAKURAI Nobuta",
+    "SAyUkAI Nobuta",
+    "SAkURAI",
+    "SAKURAI"
+   ]
+  },
+  {
+   "name": "Fukai Eiichi",
+   "role": "Japanese colonel trained in Russian codes in Poland.",
+   "variants": [
+    "FUKAI Eiichi"
+   ]
+  },
+  {
+   "name": "Jan Kowalewski",
+   "role": "Polish cryptanalytic and document-analysis authority who instructed Japanese personnel.",
+   "variants": [
+    "KOWALESKI",
+    "KOWAL.ESKJ"
+   ]
+  },
+  {
+   "name": "Gano",
+   "role": "Chief of the Polish intelligence service who arranged covert cooperation with Japanese officers.",
+   "variants": [
+    "GANO",
+    "GAllO",
+    "GAlo"
+   ]
+  },
+  {
+   "name": "Ueda",
+   "role": "Japanese military attaché in Warsaw who negotiated with Gano.",
+   "variants": [
+    "UEDA"
+   ]
+  },
+  {
+   "name": "Revetow",
+   "role": "Polish military attaché in Tokyo who returned to Europe with most of the Polish Far Eastern mission.",
+   "variants": [
+    "REVEToW"
+   ]
+  },
+  {
+   "name": "Skora",
+   "role": "Polish lieutenant who remained in the Far East for secret work against the Soviet Union.",
+   "variants": [
+    "SKoRA",
+    "SKORA"
+   ]
+  },
+  {
+   "name": "Władysław Sikorski",
+   "role": "Head of the Polish government in London who approved continued clandestine Polish-Japanese cooperation.",
+   "variants": [
+    "SIKORSKI",
+    "SIkORSkI"
+   ]
+  },
+  {
+   "name": "Rybikowski",
+   "role": "Former Polish General Staff intelligence officer employed in Onodera's Stockholm office; used several aliases and directed an extensive anti-Soviet and anti-German network.",
+   "variants": [
+    "RYBIKOWSKI",
+    "RYBIkowsKI",
+    "RYBIkOWSKI",
+    "RYBIkowSkI",
+    "RYPIKCUSYI",
+    "PIOTRE IWAlOW",
+    "PI(TRE JWAW",
+    "IWAiow",
+    "HICHAILOWSKY",
+    "LIBITSkI"
+   ]
+  },
+  {
+   "name": "Nishimura",
+   "role": "Japanese colonel, Onodera's predecessor in Stockholm, and an organizer of Polish and Finnish intelligence cooperation.",
+   "variants": [
+    "NISIDURA",
+    "NISHIMURA",
+    "MISIMURA",
+    "NISHlURA",
+    "NISHDMURA"
+   ]
+  },
+  {
+   "name": "Onouchi",
+   "role": "Japanese military attaché in Riga and Helsinki and a principal interrogation subject.",
+   "variants": [
+    "ONoucuI",
+    "OIOUCHI",
+    "OHOUCHI",
+    "ONOUCHI",
+    "OlouCllJ",
+    "ONCUCllI",
+    "OUOUCIII",
+    "OHOuC'II"
+   ]
+  },
+  {
+   "name": "Girevitch",
+   "role": "Polish intelligence operative initially based in Sweden.",
+   "variants": [
+    "GIREVITCl",
+    "Gl. EvIrCl"
+   ]
+  },
+  {
+   "name": "Konar",
+   "role": "Polish operative working in Sweden with Rybikowski and Girevitch.",
+   "variants": [
+    "KoNAR"
+   ]
+  },
+  {
+   "name": "Jakubik-Kuncewicz",
+   "role": "Polish intelligence officer working under Japanese cover in the Berlin embassy.",
+   "variants": [
+    "JAkUBIC KUNCEWICZ",
+    "JAKUBIC @ KUNCEVICZ"
+   ]
+  },
+  {
+   "name": "Miura",
+   "role": "Japanese attaché in Berlin who worked with Jakubik-Kuncewicz.",
+   "variants": [
+    "IURA"
+   ]
+  },
+  {
+   "name": "Ishida",
+   "role": "Japanese attaché in Berlin who worked with Jakubik-Kuncewicz.",
+   "variants": [
+    "ISlIDA"
+   ]
+  },
+  {
+   "name": "Sugihara",
+   "role": "Japanese consul whose Königsberg and Kaunas offices supported Polish intelligence networks.",
+   "variants": [
+    "SUGIIARA",
+    "SUGIllARA",
+    "SUGIlIARA"
+   ]
+  },
+  {
+   "name": "Zaba",
+   "role": "Polish newspaperman at the Polish legation in Helsinki and intelligence source on Russia and Finland.",
+   "variants": [
+    "ZABA"
+   ]
+  },
+  {
+   "name": "Poeyhonen",
+   "role": "Finnish intelligence officer specializing in espionage and sabotage against the Soviet Union and Onouchi's closest Finnish General Staff contact.",
+   "variants": [
+    "POEYlony",
+    "BOEYIIONEll",
+    "POEYHONEN",
+    "POEYIONE",
+    "POLYIONE",
+    "POEriolE",
+    "POEYHOlnEm"
+   ]
+  },
+  {
+   "name": "Isomura",
+   "role": "Japanese military attaché in Ankara, believed responsible for liaison with agents in the Soviet Union.",
+   "variants": [
+    "ISOMURA"
+   ]
+  },
+  {
+   "name": "Shibayama",
+   "role": "Japanese colonel who collaborated with Polish officers in Bucharest after Fujitsuka.",
+   "variants": [
+    "SIlANUYI"
+   ]
+  },
+  {
+   "name": "Higuchi Fukashi",
+   "role": "Japanese liaison officer in Berlin with Abwehr departments II and III.",
+   "variants": [
+    "HIGucI Fukashi",
+    "HIGuchl Fukasn!",
+    "HIGU-CII"
+   ]
+  },
+  {
+   "name": "Yuyatkowski",
+   "role": "Consul who directed Polish instruction in document and cryptanalysis at Harbin.",
+   "variants": [
+    "YUYATKOWSKI"
+   ]
+  },
+  {
+   "name": "Riputski",
+   "role": "Cover name remembered for a Polish document-analysis specialist in Harbin.",
+   "variants": [
+    "RIPUTSKI"
+   ]
+  },
+  {
+   "name": "Pawlowicz",
+   "role": "Person associated with Polish instruction of Japanese intelligence personnel in Harbin.",
+   "variants": [
+    "PAVLOWICZ"
+   ]
+  },
+  {
+   "name": "Yamamoto",
+   "role": "Japanese officer under whom Polish instructors worked in Harbin; the surname also appears for a Berlin assistant military attaché.",
+   "variants": [
+    "YAILA'OTo",
+    "YAA OTO"
+   ]
+  },
+  {
+   "name": "Suzuki",
+   "role": "Japanese colonel supervising intelligence instruction in Harbin.",
+   "variants": [
+    "SUZUKI"
+   ]
+  },
+  {
+   "name": "Ishizeki Sakae",
+   "role": "Japanese officer trained by Polish specialists in Harbin.",
+   "variants": [
+    "ISIHIZEKI Sakae"
+   ]
+  },
+  {
+   "name": "Nomura Saburo",
+   "role": "Japanese officer trained by Polish specialists in Harbin.",
+   "variants": [
+    "NOURA Saburo"
+   ]
+  },
+  {
+   "name": "Ehara",
+   "role": "Counsellor of the Manchurian Legation in Berlin who arranged Rybikowski's passport.",
+   "variants": [
+    "ELARA"
+   ]
+  },
+  {
+   "name": "Kubkewiecz",
+   "role": "Former painter who headed Rybikowski's Latvian agent organization.",
+   "variants": [
+    "KUBKEWIECZ"
+   ]
+  },
+  {
+   "name": "Brzeskwinski",
+   "role": "Polish military attaché in Riga and later a source cited in the intelligence summary.",
+   "variants": [
+    "BRZESKWINSKI",
+    "BRZESK-WINSKI"
+   ]
+  },
+  {
+   "name": "Paasonen",
+   "role": "Chief of Finnish General Staff Department II and a major Finnish intelligence contact.",
+   "variants": [
+    "PAASONEN",
+    "PAAsOlE",
+    "PAASONM!",
+    "PAAsOllEl",
+    "PAlsonEll"
+   ]
+  },
+  {
+   "name": "Salokorpi",
+   "role": "Finnish espionage and cryptanalytic officer who handled contacts with Onouchi and agents behind Soviet lines.",
+   "variants": [
+    "SALOKORPI",
+    "SALOkORPI",
+    "SALOKORPT"
+   ]
+  },
+  {
+   "name": "Berson",
+   "role": "Polish refugee and former Moscow resident who supplied superficial information on Russia.",
+   "variants": [
+    "BERSON",
+    "BERsoN"
+   ]
+  },
+  {
+   "name": "Los",
+   "role": "Polish military attaché in Helsinki and later Polish intelligence worker in Stockholm.",
+   "variants": [
+    "LOS",
+    "Los"
+   ]
+  },
+  {
+   "name": "Terada",
+   "role": "First Japanese military attaché in Helsinki.",
+   "variants": [
+    "TERADA"
+   ]
+  },
+  {
+   "name": "Kato",
+   "role": "Japanese colonel who succeeded Terada as military attaché in Helsinki.",
+   "variants": [
+    "KAto"
+   ]
+  },
+  {
+   "name": "Risto Ryti",
+   "role": "President of Finland.",
+   "variants": [
+    "RYTTI"
+   ]
+  },
+  {
+   "name": "Kaila",
+   "role": "Finnish colonel and winter-warfare specialist sent to the Far East.",
+   "variants": [
+    "KAIlA"
+   ]
+  },
+  {
+   "name": "Reiner",
+   "role": "Finnish artillery major sent to the Far East as Kaila's assistant.",
+   "variants": [
+    "REINER"
+   ]
+  },
+  {
+   "name": "Kotani Etsuo",
+   "role": "Japanese colonel, chief of the Kwantung Army Intelligence Section and later an active member of the Berlin military-attaché office.",
+   "variants": [
+    "KoTAJI Etsue",
+    "KOTAMI",
+    "KOTAll Etsuo",
+    "KOTANI"
+   ]
+  },
+  {
+   "name": "Kato Yoshihide",
+   "role": "Japanese colonel who worked with the Finnish winter-warfare mission in Manchuria.",
+   "variants": [
+    "KATO Yoshihide"
+   ]
+  },
+  {
+   "name": "Horiuchi",
+   "role": "Japanese colonel initially assigned to study Finnish cryptanalysis.",
+   "variants": [
+    "HORIUCHI"
+   ]
+  },
+  {
+   "name": "Hirose Eiichi",
+   "role": "Japanese assistant military attaché and cryptanalytic specialist assigned to Finnish code-breaking centers.",
+   "variants": [
+    "HIROSE Eichi",
+    "HIROSE Eiichi",
+    "HIR0SE Eiichi",
+    "HIRoSE",
+    "IIRoSE"
+   ]
+  },
+  {
+   "name": "Reino Hallamaa",
+   "role": "Chief of Finnish military cryptanalysis and an important Japanese intelligence collaborator.",
+   "variants": [
+    "HALLAMAA",
+    "HALLAlAA",
+    "HALlAMAA",
+    "HALLAiAA",
+    "HALLAAA",
+    "HALLAIIAA"
+   ]
+  },
+  {
+   "name": "Ninomiya",
+   "role": "Nishimura's assistant who introduced Onouchi to Finnish General Staff circles.",
+   "variants": [
+    "NINOIIYA",
+    "UNO:IYA"
+   ]
+  },
+  {
+   "name": "Koori",
+   "role": "Japanese doctor from the Berlin embassy who inspected a Finnish army hospital.",
+   "variants": [
+    "KOORI"
+   ]
+  },
+  {
+   "name": "Ishizuka",
+   "role": "Japanese technical-intelligence specialist and liaison with German economic and armaments sections.",
+   "variants": [
+    "ISHIZUKA",
+    "IS IZuKA"
+   ]
+  },
+  {
+   "name": "Somerto",
+   "role": "Finnish colonel who headed the positive-intelligence section.",
+   "variants": [
+    "SOMERTO",
+    "SonRTo"
+   ]
+  },
+  {
+   "name": "Koekkonen",
+   "role": "Finnish intelligence officer who headed the estimates section and later succeeded Somerto.",
+   "variants": [
+    "KOEkKONEN",
+    "KOEkKONE",
+    "KOEKKONE"
+   ]
+  },
+  {
+   "name": "Rantanen",
+   "role": "Finnish major and air specialist in the estimates section.",
+   "variants": [
+    "RANTANEN"
+   ]
+  },
+  {
+   "name": "Melander",
+   "role": "Former chief of Finnish General Staff Department II and friend of Maasing.",
+   "variants": [
+    "IELAnDER",
+    "HELA DE?",
+    "MßLAnDE!",
+    "'TLADER",
+    "NELANDER"
+   ]
+  },
+  {
+   "name": "Enkel",
+   "role": "Assistant chief of Finnish General Staff Department II.",
+   "variants": [
+    "ENkEL"
+   ]
+  },
+  {
+   "name": "Pale",
+   "role": "Finnish cryptanalyst, later chief of cryptanalytic services and custodian of the refugee intelligence archives.",
+   "variants": [
+    "PALE",
+    "PALB"
+   ]
+  },
+  {
+   "name": "Parko",
+   "role": "Finnish cryptanalyst who commanded the combined Sortavala interception center.",
+   "variants": [
+    "PARko",
+    "PARKO"
+   ]
+  },
+  {
+   "name": "Bogojablenski",
+   "role": "White Russian refugee and Finnish cryptanalytic worker.",
+   "variants": [
+    "BOGOJABLENSKI"
+   ]
+  },
+  {
+   "name": "Santavuori",
+   "role": "Finnish lieutenant colonel associated with espionage and sabotage work.",
+   "variants": [
+    "SANTAVUOR",
+    "SAITAVUORI"
+   ]
+  },
+  {
+   "name": "Runela",
+   "role": "Finnish lieutenant working on Soviet radio activities.",
+   "variants": [
+    "RUIELA",
+    "RUELA",
+    "RUNELA"
+   ]
+  },
+  {
+   "name": "Walden",
+   "role": "Chief of the Finnish counterintelligence section.",
+   "variants": [
+    "WALDEI"
+   ]
+  },
+  {
+   "name": "Rautsuo",
+   "role": "Assistant in the Finnish counterintelligence section.",
+   "variants": [
+    "RAUTSUO"
+   ]
+  },
+  {
+   "name": "Rosenbreuer",
+   "role": "Chief of the Finnish liaison section.",
+   "variants": [
+    "ROSEIBREUER"
+   ]
+  },
+  {
+   "name": "Sloeor",
+   "role": "Assistant in the Finnish liaison section and source on Finnish and German military matters.",
+   "variants": [
+    "SLOEOR"
+   ]
+  },
+  {
+   "name": "Carl Gustaf Emil Mannerheim",
+   "role": "Finnish commander whose order ended Hirose's access to the Sortavala center.",
+   "variants": [
+    "ANIRiIEI!",
+    "MANNERIEIM",
+    "MANNERJiEIM"
+   ]
+  },
+  {
+   "name": "Shihiman",
+   "role": "Finnish lawyer and paid source on internal Finnish conditions.",
+   "variants": [
+    "SHIHIliAn",
+    "SHIHIMAN"
+   ]
+  },
+  {
+   "name": "Sakaya",
+   "role": "Japanese minister who dismissed Shihiman from the legation.",
+   "variants": [
+    "SAkAYA"
+   ]
+  },
+  {
+   "name": "Hakkarainen",
+   "role": "Finnish Foreign Office section chief responsible for liaison with Japanese diplomats.",
+   "variants": [
+    "HAKKARAIlEI"
+   ]
+  },
+  {
+   "name": "Nissonen",
+   "role": "Finnish Foreign Office employee who handled invitations, visas, and ration coupons.",
+   "variants": [
+    "NISSOIEI"
+   ]
+  },
+  {
+   "name": "G. J. Ramstedt",
+   "role": "Former Finnish minister to Japan, language professor, and president of the Japanese-Finnish Society.",
+   "variants": [
+    "Dr. RASTEAD",
+    "RAMUSUTEDDO"
+   ]
+  },
+  {
+   "name": "Lautkari",
+   "role": "Former Finnish Foreign Office member and newspaper employee who supplied political information.",
+   "variants": [
+    "LAUTKARI"
+   ]
+  },
+  {
+   "name": "Pokarinen",
+   "role": "Finnish captain commanding the Grankulla naval monitoring and cryptanalysis station.",
+   "variants": [
+    "POKARIlEN"
+   ]
+  },
+  {
+   "name": "Nagata Kozaemon",
+   "role": "Japanese civilian language-school graduate assigned as Hirose's assistant.",
+   "variants": [
+    "HAGATA Kozaemon"
+   ]
+  },
+  {
+   "name": "Willman",
+   "role": "Finnish naval attaché in Stockholm and intelligence intermediary.",
+   "variants": [
+    "WILLuan",
+    "WILLlLAN",
+    "WILIl'All",
+    "WILLAil",
+    "WILLJLAiI",
+    "WILLMAN"
+   ]
+  },
+  {
+   "name": "Stewen",
+   "role": "Finnish military attaché in Stockholm and paid intelligence source.",
+   "variants": [
+    "STEWEN",
+    "STEWEI",
+    "STEWEl",
+    "STEVIEN"
+   ]
+  },
+  {
+   "name": "Petersen",
+   "role": "Swedish espionage-section major who assisted Finnish intelligence refugees and exchanged intelligence with Onodera.",
+   "variants": [
+    "PETERSEI",
+    "PETERSEl",
+    "PETERs",
+    "PETERSEW",
+    "PETERSEN"
+   ]
+  },
+  {
+   "name": "von Uthmann",
+   "role": "German military attaché in Stockholm and Onodera's closest official German contact.",
+   "variants": [
+    "VO! UTilAnN",
+    "VOU UMEAIIN",
+    "von Utirianll",
+    "VOU UTEAlll",
+    "vou UTF Am!"
+   ]
+  },
+  {
+   "name": "Horngren",
+   "role": "Finnish naval attaché and predecessor of Willman.",
+   "variants": [
+    "HORIGREN",
+    "HORiGREn",
+    "HORMGREN"
+   ]
+  },
+  {
+   "name": "Mäkinen",
+   "role": "Employee of the Finnish legation who delivered weekly reports to Onodera.",
+   "variants": [
+    "Mrs. MAEKINEI"
+   ]
+  },
+  {
+   "name": "Kalmus",
+   "role": "Former Finnish military attaché in Moscow who helped direct agents behind Soviet lines.",
+   "variants": [
+    "KALMUS"
+   ]
+  },
+  {
+   "name": "Alius",
+   "role": "Latvian radio cryptanalyst associated with Hallamaa's refugee group.",
+   "variants": [
+    "Alius"
+   ]
+  },
+  {
+   "name": "Kumenius",
+   "role": "Former Finnish police officer employed by Onodera as a counterespionage informant.",
+   "variants": [
+    "KUrIUs",
+    "KUElIUS",
+    "KUMENIUS"
+   ]
+  },
+  {
+   "name": "Horn",
+   "role": "German intelligence officer and Cellarius's assistant; also a source used by Kumenius.",
+   "variants": [
+    "HORN"
+   ]
+  },
+  {
+   "name": "Salzinger",
+   "role": "German Abwehr III F officer and intelligence source used by Kumenius.",
+   "variants": [
+    "SALZINGER",
+    "SALZIIGER",
+    "SALZJIGER"
+   ]
+  },
+  {
+   "name": "Alexander Cellarius",
+   "role": "German Abwehr officer directing operations in Finland and the Baltic region.",
+   "variants": [
+    "CELLARIUS",
+    "GELLARIUS",
+    "CELLAPIUS"
+   ]
+  },
+  {
+   "name": "T. Ouchi",
+   "role": "Japanese military attaché in Riga who preceded Onodera.",
+   "variants": [
+    "T. OucllI"
+   ]
+  },
+  {
+   "name": "T. Takatsuki",
+   "role": "Japanese military attaché in Riga who succeeded Onodera and continued Baltic cooperation.",
+   "variants": [
+    "T. TAkatsukI",
+    "TAkATSUKI"
+   ]
+  },
+  {
+   "name": "Kikkus",
+   "role": "Chief of Latvian General Staff Department II and Japanese intelligence collaborator.",
+   "variants": [
+    "KIkkUs",
+    "KIKKUS",
+    "kixkUs"
+   ]
+  },
+  {
+   "name": "Peterson",
+   "role": "Latvian lieutenant colonel and assistant to Kikkus.",
+   "variants": [
+    "PETERSON"
+   ]
+  },
+  {
+   "name": "Zerins",
+   "role": "Latvian intelligence officer who succeeded Peterson and committed suicide after the Soviet occupation.",
+   "variants": [
+    "ZERINS",
+    "ZERMINS"
+   ]
+  },
+  {
+   "name": "Birzins",
+   "role": "Latvian minister of the interior and chief of the Latvian Volunteer Corps.",
+   "variants": [
+    "BIRZINS"
+   ]
+  },
+  {
+   "name": "Frau von Rosmprml",
+   "role": "Wife of a Latvian general and Japanese intermediary for obtaining favors from the SS; surname is unclear in the OCR.",
+   "variants": [
+    "Erau Von Rosmprml"
+   ]
+  },
+  {
+   "name": "Tomberg",
+   "role": "Estonian Air Force colonel captured and employed by the Soviets as a military-academy instructor.",
+   "variants": [
+    "TOBERG",
+    "TOMERG",
+    "TOMBERG"
+   ]
+  },
+  {
+   "name": "Raidna",
+   "role": "Former Estonian chief of staff employed by the Soviets after capture.",
+   "variants": [
+    "DArnua",
+    "RAIDNA"
+   ]
+  },
+  {
+   "name": "Udens",
+   "role": "Former Estonian chief of operations employed by the Soviets after capture.",
+   "variants": [
+    "UDE'S",
+    "UDENS"
+   ]
+  },
+  {
+   "name": "Wilhelm Canaris",
+   "role": "Chief of the Abwehr and friend of Onodera, Maasing, and other Baltic officers.",
+   "variants": [
+    "CAllARIS",
+    "CAilARIS",
+    "CANARIS",
+    "CAAIS",
+    "CAlARIs"
+   ]
+  },
+  {
+   "name": "Jacobsen",
+   "role": "Estonian colonel and Abwehr operative who supplied intelligence on Germany and occupied Soviet territory.",
+   "variants": [
+    "JACOB-SM",
+    "JACOBSEN",
+    "JACOBSEI",
+    "JACOBS",
+    "JAOSEN"
+   ]
+  },
+  {
+   "name": "Saidra",
+   "role": "Estonian general in the SS and informant for Maasing.",
+   "variants": [
+    "SAIDRA"
+   ]
+  },
+  {
+   "name": "Grossman",
+   "role": "Estonian colonel active in Sweden and Germany.",
+   "variants": [
+    "GROsS'A!",
+    "GROSSMAN"
+   ]
+  },
+  {
+   "name": "Juhlin-Dannfeld",
+   "role": "Swedish intelligence chief, former military attaché in Berlin, and Maasing contact.",
+   "variants": [
+    "JULIN-DAlnFELD",
+    "JUHLIN-DANNFEID",
+    "JUILIN-DANNFELD",
+    "JUHLIN-DANNFELD"
+   ]
+  },
+  {
+   "name": "Kaempf",
+   "role": "Officer of the Swedish intelligence service and former pupil of Maasing.",
+   "variants": [
+    "KAEMPF",
+    "KAEIP"
+   ]
+  },
+  {
+   "name": "Jung",
+   "role": "Swedish general and friend of Maasing.",
+   "variants": [
+    "JUNG"
+   ]
+  },
+  {
+   "name": "Palmgren",
+   "role": "Probable director of the Swedish State Police and Maasing contact.",
+   "variants": [
+    "PALJIGREM (?)",
+    "PALMGREN"
+   ]
+  },
+  {
+   "name": "Garnier",
+   "role": "French Gaullist assistant military attaché and source for Maasing.",
+   "variants": [
+    "GArNImR",
+    "GARnIER"
+   ]
+  },
+  {
+   "name": "Carlson",
+   "role": "American consul or intelligence contact associated with Maasing and Bellegarde.",
+   "variants": [
+    "CARLsOl",
+    "CARLSON",
+    "CARLSCN"
+   ]
+  },
+  {
+   "name": "McKebbing",
+   "role": "British contact associated with Maasing.",
+   "variants": [
+    "CKEBBIIIG (?)",
+    "ICKEBBIIG (?)",
+    "McKEBBING"
+   ]
+  },
+  {
+   "name": "Cheshire",
+   "role": "British contact associated with Maasing and Bellegarde.",
+   "variants": [
+    "CHESHIRE",
+    "CIESIIIRE",
+    "CHESHTRE"
+   ]
+  },
+  {
+   "name": "Aldercreutz",
+   "role": "Head of Swedish intelligence and an intelligence-exchange contact of Onodera.",
+   "variants": [
+    "ALDERKREUTZ",
+    "ALPYREUT"
+   ]
+  },
+  {
+   "name": "Saarsen",
+   "role": "Maasing's successor as chief of Estonian intelligence and a wartime German collaborator who remained in contact with Onodera.",
+   "variants": [
+    "SAARSEN"
+   ]
+  },
+  {
+   "name": "Kristian",
+   "role": "Estonian major who recruited, trained, and dispatched agents and later worked with the Abwehr.",
+   "variants": [
+    "KRIsTIAN",
+    "KRISTIAll",
+    "KRis",
+    "YRISTiAi"
+   ]
+  },
+  {
+   "name": "Alexei de Bellegarde",
+   "role": "Estonian Abwehr operative who reported to Onodera from Germany and later England.",
+   "variants": [
+    "Aloxei de  GA",
+    "BELLEGARDE",
+    "BELLBGARDE",
+    "BELI ECARDE",
+    "BEL EGA DE",
+    "BELLB-GARDE"
+   ]
+  },
+  {
+   "name": "Pitka",
+   "role": "Estonian admiral who sold Onouchi reports on Estonia under Soviet occupation.",
+   "variants": [
+    "PTTKA",
+    "PITKA"
+   ]
+  },
+  {
+   "name": "Komatsu",
+   "role": "Japanese general and military attaché in Berlin.",
+   "variants": [
+    "KOlHATSU",
+    "KOATSU",
+    "KOHATSU",
+    "KOMATSU"
+   ]
+  },
+  {
+   "name": "Mikhail Tukhachevsky",
+   "role": "Purged Soviet marshal whose execution dated Onodera's first meeting with Canaris.",
+   "variants": [
+    "TUkiachlEVSkI"
+   ]
+  },
+  {
+   "name": "Watzlau",
+   "role": "Russian specialist who worked with Kraemer and attended some of his meetings with Onodera.",
+   "variants": [
+    "wazLaU"
+   ]
+  },
+  {
+   "name": "Hans Wagner",
+   "role": "German colonel and chief of Abwehr K.O. Schweden in Stockholm.",
+   "variants": [
+    "WAG ER",
+    "WAGNER",
+    "WAGi!ER",
+    "WAcuER",
+    "WAGER",
+    "Dr. (Col.) Hans Wamm"
+   ]
+  },
+  {
+   "name": "Utermark",
+   "role": "Wagner's assistant and later successor in K.O. Schweden.",
+   "variants": [
+    "UTERARk",
+    "UTER ARK",
+    "UTERLARK"
+   ]
+  },
+  {
+   "name": "von Heinemann",
+   "role": "German air attaché in Stockholm and intelligence-exchange contact of Onodera.",
+   "variants": [
+    "VON HEIllELAlll",
+    "Vol HEIl miAll",
+    "VOI HEIHEAmi",
+    "VOII HEINELAIIN",
+    "VOII IHEINLAIIll"
+   ]
+  },
+  {
+   "name": "Jungdahl",
+   "role": "Chief of staff of the Swedish Air Force and probable contact of von Heinemann.",
+   "variants": [
+    "JU GDAHL"
+   ]
+  },
+  {
+   "name": "Golcher",
+   "role": "Successor to von Heinemann as German air attaché.",
+   "variants": [
+    "GoLCHER"
+   ]
+  },
+  {
+   "name": "von Rosenblatt",
+   "role": "German assistant air attaché and aircraft engineer who supplied technical material.",
+   "variants": [
+    "VoU ROSENBLATT",
+    "VOI ROS NBLATT",
+    "Vou ROSElmLATT"
+   ]
+  },
+  {
+   "name": "Kaljus",
+   "role": "Baltic intermediary who passed information on Cellarius's activities.",
+   "variants": [
+    "KALJUS"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German leader targeted in the July 20, 1944 assassination plot.",
+   "variants": [
+    "Hitlor"
+   ]
+  },
+  {
+   "name": "Garbea",
+   "role": "Romanian military attaché who toured Norway with Onodera.",
+   "variants": [
+    "GARBmA",
+    "GARBEA"
+   ]
+  },
+  {
+   "name": "Roero",
+   "role": "Italian military attaché who toured Norway with Onodera.",
+   "variants": [
+    "ROERO"
+   ]
+  },
+  {
+   "name": "von Rosenberg",
+   "role": "German colonel on Falkenhorst's staff who guided Onodera through Norwegian installations.",
+   "variants": [
+    "VON ROsBkRG"
+   ]
+  },
+  {
+   "name": "Hoerst",
+   "role": "Colonel on Falkenhorst's staff who introduced Onodera to the Oslo Abwehr station.",
+   "variants": [
+    "IIOERST",
+    "HOERST"
+   ]
+  },
+  {
+   "name": "von Bonin",
+   "role": "Captain who headed the Oslo Abwehr station and also appears as German naval attaché in Helsinki.",
+   "variants": [
+    "VOn BOl!I!u",
+    "von BOnIll",
+    "Voll BoliIll"
+   ]
+  },
+  {
+   "name": "von Gallen",
+   "role": "Major who assisted and succeeded von Bonin at the Oslo Abwehr station.",
+   "variants": [
+    "von GALLEI"
+   ]
+  },
+  {
+   "name": "Ito",
+   "role": "Onodera's assistant who received German reports on Allied activity.",
+   "variants": [
+    "ITo",
+    "Iro"
+   ]
+  },
+  {
+   "name": "von Königsegg",
+   "role": "German assistant military attaché who transmitted Oslo reports to Onodera's office.",
+   "variants": [
+    "VOU KOE IGSEGG",
+    "KOEIGSBGG"
+   ]
+  },
+  {
+   "name": "von Watzdorf",
+   "role": "German assistant military attaché who transmitted Oslo reports to Onodera's office.",
+   "variants": [
+    "VON WATZDORF"
+   ]
+  },
+  {
+   "name": "Kitcl A",
+   "role": "German military attaché in Helsinki; name is unclear in the OCR.",
+   "variants": [
+    "KITCL A",
+    "KIToL A"
+   ]
+  },
+  {
+   "name": "Hayashi",
+   "role": "Japanese military attaché in Budapest who cooperated with Hungarian code experts.",
+   "variants": [
+    "HAyAsII"
+   ]
+  },
+  {
+   "name": "Kobor",
+   "role": "Hungarian military attaché accredited to Sweden and Finland.",
+   "variants": [
+    "KOBOR",
+    "KOnOR",
+    "koson",
+    "KOßOR"
+   ]
+  },
+  {
+   "name": "Voeczkoedy",
+   "role": "Hungarian intelligence officer who replaced Vagy in Stockholm.",
+   "variants": [
+    "VOECZKOEDY"
+   ]
+  },
+  {
+   "name": "Freytag von Loringhoven",
+   "role": "German officer who cooperated with Voeczkoedy in organizing Polish agents and parachutists behind Soviet lines.",
+   "variants": [
+    "FREYTAG VON LORIIIGIOVEI"
+   ]
+  },
+  {
+   "name": "Countess Czernin",
+   "role": "Intermediary through whom Voeczkoedy claimed to obtain Allied publications.",
+   "variants": [
+    "Countess CZERNIN"
+   ]
+  },
+  {
+   "name": "Gadelius family",
+   "role": "Swedish commercial family with longstanding ties to Japan.",
+   "variants": [
+    "GADELIUS family"
+   ]
+  },
+  {
+   "name": "Iurt Asol family",
+   "role": "Swedish family described as having ties to Japan; OCR reading is uncertain.",
+   "variants": [
+    "IURT  Asol family"
+   ]
+  },
+  {
+   "name": "Bagge",
+   "role": "Former Swedish minister to Japan and acquaintance of Onodera's family.",
+   "variants": [
+    "BAGGE"
+   ]
+  },
+  {
+   "name": "Ripa",
+   "role": "Former Swedish counsellor in Japan.",
+   "variants": [
+    "RIPA"
+   ]
+  },
+  {
+   "name": "Schidow",
+   "role": "Former Swedish counsellor in Japan; OCR reading is uncertain.",
+   "variants": [
+    "SCIJD(W"
+   ]
+  },
+  {
+   "name": "Professor Bock",
+   "role": "Swedish ichthyologist and Onodera's closest Swedish friend.",
+   "variants": [
+    "Professor Bock"
+   ]
+  },
+  {
+   "name": "Olof Thörnell",
+   "role": "Swedish general and social acquaintance of Onodera.",
+   "variants": [
+    "THOERIlELL"
+   ]
+  },
+  {
+   "name": "Ehrensvärd",
+   "role": "Swedish general and social acquaintance of Onodera.",
+   "variants": [
+    "EIREISVARD"
+   ]
+  },
+  {
+   "name": "Strömbäck",
+   "role": "Swedish admiral and social acquaintance of Onodera.",
+   "variants": [
+    "STROEIW OC"
+   ]
+  },
+  {
+   "name": "Count Douglas",
+   "role": "Swedish count and social acquaintance of Onodera.",
+   "variants": [
+    "Count DOUGIAS"
+   ]
+  },
+  {
+   "name": "Count Bonde",
+   "role": "Swedish count and social acquaintance of Onodera; a Bonde also appears in counterespionage.",
+   "variants": [
+    "Count BOIIDE",
+    "BOHDE"
+   ]
+  },
+  {
+   "name": "Admiral de Champs",
+   "role": "President of the Japan-Sweden Club.",
+   "variants": [
+    "Admiral DESCiAlPS"
+   ]
+  },
+  {
+   "name": "Okamoto",
+   "role": "Japanese minister in Sweden.",
+   "variants": [
+    "OKA oTO"
+   ]
+  },
+  {
+   "name": "Nordenskiöld",
+   "role": "Commander-in-chief of the Swedish Air Force who supplied Onodera with information at a party.",
+   "variants": [
+    "NORDEISCIIIL)"
+   ]
+  },
+  {
+   "name": "Landquist",
+   "role": "Swedish commander who succeeded Aldercreutz as chief of General Staff Department II.",
+   "variants": [
+    "LANDQUIST",
+    "LAHDQUIST"
+   ]
+  },
+  {
+   "name": "Björnstjerna",
+   "role": "Swedish military-intelligence colonel; OCR reading is uncertain.",
+   "variants": [
+    "BOERNSTR JORNA"
+   ]
+  },
+  {
+   "name": "Banzai",
+   "role": "Japanese general who presided over European military-attaché meetings.",
+   "variants": [
+    "BAilZAI"
+   ]
+  },
+  {
+   "name": "Oya Oto",
+   "role": "Japanese general recorded as presiding over the 1944 Budapest attaché meeting; OCR reading is uncertain.",
+   "variants": [
+    "OYA OTO"
+   ]
+  },
+  {
+   "name": "StI izush",
+   "role": "Japanese officer in Berlin who obtained troop-movement reports and liaised with German Air Force headquarters; name is unclear in the OCR.",
+   "variants": [
+    "StI izush"
+   ]
+  },
+  {
+   "name": "Sakurai Keizo",
+   "role": "Japanese military attaché in Spain who arranged intelligence exchanges with Onodera.",
+   "variants": [
+    "SAkURAI Keizo"
+   ]
+  },
+  {
+   "name": "Mishima",
+   "role": "Japanese major general and military attaché in Portugal who exchanged press studies with Onodera.",
+   "variants": [
+    "MISIiIliA",
+    "ISiILA"
+   ]
+  },
+  {
+   "name": "Tateichi",
+   "role": "Japanese military attaché in Ankara who possessed Polish sources.",
+   "variants": [
+    "ArEIclI",
+    "TATEICI"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese military intelligence",
+  "espionage networks",
+  "Polish-Japanese cooperation",
+  "Finnish cryptanalysis",
+  "Baltic intelligence services",
+  "Abwehr contacts",
+  "Soviet Union",
+  "Stockholm",
+  "military attachés",
+  "intelligence exchange",
+  "deception operations",
+  "source summaries"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese wartime intelligence in Europe: contacts, sources, and intelligence obtained",
+   "doc_type": "classified intelligence interrogation report",
+   "start_page": 47,
+   "end_page": 77,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Continuation of a report reconstructing the European intelligence contacts, cooperative arrangements, agent networks, and information sources of Japanese military attachés Onodera and Onouchi.",
+   "summary": "The report first records deceptive Allied and German information passed to Onodera, then describes the historical and wartime development of Japanese cooperation with Polish, Finnish, Estonian, Latvian, German, Hungarian, and Swedish intelligence personnel. It gives detailed accounts of Rybikowski's Polish network, Finnish cryptanalytic stations and refugee organization, Baltic agent systems inside the Soviet Union, and Onodera's contacts with the Abwehr and other military attachés. It also surveys exchanges among Japanese missions in Berlin, Helsinki, Madrid, Lisbon, Ankara, and elsewhere. Pages 74-77 begin a tabular summary identifying sources, subsources, intelligence supplied, and target countries.",
+   "keywords": [
+    "Onodera",
+    "Onouchi",
+    "military attachés",
+    "Polish intelligence",
+    "Finnish intelligence",
+    "Baltic agents",
+    "cryptanalysis",
+    "Abwehr",
+    "Soviet military intelligence",
+    "Stockholm networks",
+    "wartime deception",
+    "intelligence-source table"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   47,
+   77
+  ],
+  "pdf": "894.20240 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Europe Including Gathering Of Information. Espionage. Propaganda., February 1506.pdf",
+  "seconds": 419.0,
+  "created": "2026-09-30 23:29:36",
+  "key": "japan-internal-affairs-894.20240-military-affairs-army-3"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "interest": "This document provides valuable insight into the operational and geopolitical pressures placed on Japanese financial institutions abroad in the months preceding the outbreak of the Pacific War. It illustrates how wartime communications controls imposed by Allied-aligned authorities in Egypt—specifically the prohibition of telegraphic transmissions in secret code—directly impeded Japanese international banking operations, compelling the closure of the Yokohama Specie Bank's Alexandria branch. Additionally, it highlights State Department indexing and cross-referencing procedures connecting Japanese financial affairs (decimal file 894.51683) with internal Egyptian matters (decimal file 883.721/17).",
+ "keywords": [
+  "Yokohama Specie Bank",
+  "Alexandria",
+  "Egypt",
+  "Japan",
+  "Japanese banking",
+  "branch banks",
+  "telegraphic communications",
+  "code restrictions",
+  "wartime controls",
+  "Alexander C. Kirk",
+  "cross-reference sheet"
+ ],
+ "overview": "This file consists of a single State Department cross-reference sheet dated May 29, 1941, catalogued under decimal file 894.51683 (Branch Banks of Japan in Egypt). The sheet references incoming Telegram No. 612 (dated May 29, 1941, 6:00 p.m.) from Alexander C. Kirk, the American Minister to Egypt, which was originally filed under decimal number 883.721/17. The document notes the closure of the Alexandria branch of the Yokohama Specie Bank, reporting that the shutdown was understood to be caused by Egyptian government wartime restrictions barring telegraphic communications sent in code.",
+ "people": [
+  {
+   "name": "Alexander C. Kirk",
+   "role": "U.S. Minister to Egypt",
+   "variants": [
+    "Kirk"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Alexandria",
+   "variants": [
+    "Alexandria"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt",
+    "Egyptian"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting a telegram from Egypt regarding the closure of the Yokohama Specie Bank's branch in Alexandria due to telegraphic code restrictions.",
+   "date": "1941-05-29",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Alexander C. Kirk",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "Alexandria",
+    "Egypt",
+    "branch banking",
+    "telegraphic code",
+    "wartime restrictions",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "This cross-reference sheet indexes Telegram No. 612 sent from Egypt at 6:00 p.m. on May 29, 1941, by Alexander C. Kirk, with the original paper catalogued under file number 883.721/17. It informs the Department of State of the closure of the Alexandria branch of the Yokohama Specie Bank. The closing is reported as being attributed to Egyptian regulations restricting telegraphic communications in code, which crippled the bank's ability to conduct overseas financial transactions securely.",
+   "title": "Cross-Reference Sheet for Telegram No. 612 Regarding Closing of Yokohama Specie Bank Alexandria Branch",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13678,
+   "output_tokens": 3238,
+   "thinking_tokens": 2479,
+   "cache_read_tokens": 0,
+   "total_tokens": 16916
+  },
+  "backend": "agy",
+  "seconds": 15.0,
+  "identifier": "japan-internal-affairs-894.51683-financial-conditions-budget",
+  "file": "894.51683 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Branch Banks Of Japan In Egypt., May 29, 1941 1268.pdf",
+  "created": "2026-09-29 09:54:52"
+ }
+}

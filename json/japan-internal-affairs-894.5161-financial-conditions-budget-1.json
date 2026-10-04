@@ -1,0 +1,134 @@
+{
+ "interest": "This file is particularly valuable to economic historians because it illustrates two diametrically opposed phases of Japanese monetary and fiscal policy during the 1930s. The 1931 document captures the orthodox, contractionary stance of Finance Minister Junnosuke Inouye and Bank of Japan Governor Hisaakira Hijikata, who aggressively raised discount rates to protect gold reserves and maintain the gold standard despite intense backlash from the business community—a policy that collapsed weeks later following the departure from gold in December 1931. In sharp contrast, the 1936 document shows the post-February 26 Incident shift under Finance Minister Eiichi Baba, who abandoned Korekiyo Takahashi's cautious policy of tapering deficit bonds in favor of lowering discount and interest rates across the banking system, thereby creating favorable conditions to absorb massive new government bond emissions and convert existing 5% debt to lower-interest 3.5% securities to finance state expenditure.",
+ "keywords": [
+  "Bank of Japan",
+  "discount rate",
+  "interest rates",
+  "gold standard",
+  "government bonds",
+  "bond conversion",
+  "public debt",
+  "commercial bills",
+  "overdrafts",
+  "taxation readjustment",
+  "Junnosuke Inouye",
+  "Hisaakira Hijikata",
+  "Eiichi Baba",
+  "Korekiyo Takahashi"
+ ],
+ "overview": "This file (State Department decimal file 894.5161, File 910) contains records on Japanese banking, interest, and discount rates between November 1931 and May 1936, consisting of two State Department cross-reference sheets with attached extracts from Embassy Tokyo despatches. The first document, dating from November 6, 1931 (cross-referencing Despatch No. 379 from Ambassador W. Cameron Forbes), reports on the Bank of Japan's October 1931 decision to sharply increase its official discount and loan rates under Bank Governor Hisaakira Hijikata and Finance Minister Junnosuke Inouye in an effort to stem gold outflows and defend the gold standard. The second document, dated May 13, 1936 (cross-referencing Despatch No. 1829 from Ambassador Joseph C. Grew), details the coordinated reduction of discount and interest rates by an average of 0.37% in April 1936 by the Bank of Japan and semi-official banks under Finance Minister Eiichi Baba. This reduction was designed to stimulate demand for government bonds, facilitate the conversion of 5% government bonds into 3.5% bonds, abandon Korekiyo Takahashi's policy of tapering bond issuance, and prepare the financial ground for upcoming taxation readjustments.",
+ "people": [
+  {
+   "name": "W. Cameron Forbes",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Forbes"
+   ]
+  },
+  {
+   "name": "Hisaakira Hijikata",
+   "role": "Governor of the Bank of Japan",
+   "variants": [
+    "Mr. Hijikata",
+    "Hijikata"
+   ]
+  },
+  {
+   "name": "Junnosuke Inouye",
+   "role": "Minister of Finance",
+   "variants": [
+    "Mr. Inouye",
+    "Inouye"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Eiichi Baba",
+   "role": "Finance Minister",
+   "variants": [
+    "Mr. Baba",
+    "Baba"
+   ]
+  },
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Former Minister of Finance (referenced in relation to the 'Takahashi policy')",
+   "variants": [
+    "Takahashi"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department cross-reference sheet and attached extract from Despatch No. 379 reporting the Bank of Japan's increase of its official discount and loan rates in October 1931 to defend the gold standard.",
+   "date": "1931-11-06",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "W. Cameron Forbes",
+   "keywords": [
+    "Bank of Japan",
+    "discount rate",
+    "gold standard",
+    "interest rates",
+    "commercial bills",
+    "national bonds",
+    "Hisaakira Hijikata",
+    "Junnosuke Inouye"
+   ],
+   "start_page": 1,
+   "summary": "On October 6, 1931, the Bank of Japan announced an increase in its official discount rate effective October 5, setting the commercial bill discount rate at 16 rin per diem and the interest rate on loans secured by national bonds at over 17 rin per diem. Bank Governor Hisaakira Hijikata stated that the rate increase was intended to curb the outflow of gold reserves. Despite sharp criticism from Japanese banking and commercial circles, both Governor Hijikata and Finance Minister Junnosuke Inouye maintained that the policy would not destabilize the financial sector. An additional increase of two rin per day per hundred yen was also announced, with Minister Inouye conceding that the high rates imposed hardships on business but were essential to maintain the gold standard.",
+   "title": "Despatch No. 379 (Cross-Reference Sheet and Attached Copy) from Forbes on Bank of Japan Discount Rate Increase",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A State Department cross-reference sheet and attached report extract from Despatch No. 1829 detailing the lowering of interest and discount rates by the Bank of Japan and semi-official banks in April 1936 to support government bond issues.",
+   "date": "1936-05-13",
+   "doc_type": "cross-reference sheet",
+   "end_page": 4,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Bank of Japan",
+    "interest rates",
+    "discount rate",
+    "government bonds",
+    "bond conversion",
+    "Eiichi Baba",
+    "Korekiyo Takahashi",
+    "taxation readjustment"
+   ],
+   "start_page": 3,
+   "summary": "On April 6, 1936, the Bank of Japan and semi-official financial institutions reduced discount rates on commercial bills and interest rates on loans and overdrafts by an average of 0.37% annually. Finance Minister Eiichi Baba announced that this reduction marked the first step toward a general lowering of interest rates in Japan, while the Governor of the Bank of Japan noted that the policy aimed to make government bonds more attractive than bank deposits to cultivate a robust market for state debt. The move facilitated the conversion of 5% government bonds into 3.5% issues on April 18 and signaled the abandonment of former Finance Minister Korekiyo Takahashi's policy of tapering bond emissions. Additionally, Baba indicated in a press interview that a comprehensive taxation readjustment program would be completed by October for implementation in the 1937-1938 fiscal year.",
+   "title": "Despatch No. 1829 (Cross-Reference Sheet and Attached Extract) from Grew on Bank of Japan Interest Rate Reductions and Government Finance",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14451,
+   "output_tokens": 34080,
+   "thinking_tokens": 32493,
+   "cache_read_tokens": 0,
+   "total_tokens": 48531
+  },
+  "backend": "agy",
+  "seconds": 100.4,
+  "identifier": "japan-internal-affairs-894.5161-financial-conditions-budget-1",
+  "file": "894.5161 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Banks. Banking., Japan, Interest. Discount., November 6, 1931 - May 13, 1936 910.pdf",
+  "created": "2026-09-29 09:47:25"
+ }
+}

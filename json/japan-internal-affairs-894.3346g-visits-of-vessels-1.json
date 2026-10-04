@@ -1,0 +1,136 @@
+{
+ "interest": "Anglo-Japanese naval courtesies in Hong Kong, 1937–38.",
+ "keywords": [
+  "Hong Kong",
+  "Imperial Japanese Navy",
+  "Royal Navy",
+  "naval diplomacy",
+  "courtesy visit",
+  "Ashigara",
+  "Myoko",
+  "Koichi Shiozawa",
+  "South China waters",
+  "Sino-Japanese War",
+  "Anglo-Japanese relations",
+  "naval squadron"
+ ],
+ "overview": "1937–38 records on Japanese cruiser visits to Hong Kong: Ashigara and Myoko.",
+ "people": [
+  {
+   "name": "Howard Donovan",
+   "role": "U.S. Consul at Hong Kong",
+   "variants": [
+    "Donovan"
+   ]
+  },
+  {
+   "name": "Kōichi Shiozawa",
+   "role": "Vice Admiral, commanding officer of the Fifth Cruiser Squadron, Imperial Japanese Navy",
+   "variants": [
+    "Vice Admiral Shiozawa",
+    "Shiozawa",
+    "Admiral"
+   ]
+  },
+  {
+   "name": "Addison E. Southard",
+   "role": "U.S. Consul General at Hong Kong",
+   "variants": [
+    "SOUTHARD"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference note indexing Despatch No. 585 regarding British resentment at Hong Kong over the visit of the Japanese cruiser Ashigara.",
+   "date": "1937-07-10",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Howard Donovan (Consul, Hong Kong)",
+   "keywords": [
+    "Hong Kong",
+    "Ashigara",
+    "British officials",
+    "Anglo-Japanese relations",
+    "naval visit"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: British resentment in Hong Kong after the cruiser Ashigara's visit, 1937.",
+   "title": "Cross-Reference Sheet for Despatch No. 585 on British Reaction to IJN Ashigara Visit",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Telegram reporting on the courtesy visit of the Japanese cruiser Myoko under Vice Admiral Shiozawa to Hong Kong.",
+   "date": "1938-11-17",
+   "doc_type": "telegram",
+   "end_page": 3,
+   "from": "Addison E. Southard (Consul General, Hong Kong)",
+   "keywords": [
+    "Hong Kong",
+    "Myoko",
+    "Koichi Shiozawa",
+    "naval diplomacy",
+    "Royal Navy",
+    "South China waters",
+    "banzai"
+   ],
+   "start_page": 2,
+   "summary": "Southard reports the cruiser Myoko's November 1938 visit to Hong Kong, the first Japanese warship call in two years.",
+   "title": "Telegram No. 77 from Southard on Courtesy Visit of IJN Myoko to Hong Kong",
+   "to": "Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14145,
+   "output_tokens": 5969,
+   "thinking_tokens": 4740,
+   "cache_read_tokens": 0,
+   "total_tokens": 20114
+  },
+  "backend": "agy",
+  "seconds": 21.5,
+  "identifier": "japan-internal-affairs-894.3346g-visits-of-vessels-1",
+  "file": "894.3346G Visits Of Vessels And Aircraft Of Japan To Ports Of Hong Kong., July 10, 1937 - November 17, 1938 1055.pdf",
+  "created": "2026-09-29 04:31:35"
+ }
+}

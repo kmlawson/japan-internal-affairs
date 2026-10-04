@@ -1,0 +1,842 @@
+{
+ "overview": "This file documents U.S. diplomatic and intelligence monitoring of Japanese news organizations and Japanese-language newspapers in Argentina from 1940 to 1944. It traces the establishment of the Dōmei News Agency’s Buenos Aires office under Masao Tsuda; profiles the ownership, circulation, finances, and political affiliations of local Japanese newspapers; translates a wartime telephone conversation between correspondents in Buenos Aires and Tokyo; and surveys Japanese propaganda and international-news coverage during 1943. Embassy and FBI reports emphasize Argentine communications controls, the use of shortwave radio to evade cable restrictions, newsprint shortages, Japanese attitudes toward Argentina’s neutrality, and Tsuda’s collection of American press material for the Japanese government. Cross-reference sheets point to related records concerning financial support for Tsuda and Tokujiro Furuta’s connection with the Yomiuri News Agency.",
+ "places": [
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "ARGENTINA",
+    "Argentine"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires",
+    "BUENOS AIRES",
+    "City of Buenos Aires",
+    "Caital"
+   ]
+  },
+  {
+   "name": "Buenos Aires Province",
+   "variants": [
+    "Province of Buenos Aires"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON, D.C.",
+    "Washington, D. C.",
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "San Diego",
+   "variants": [
+    "SAN DIEGO"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "CALIF."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES",
+    "United States of America",
+    "UNITED STATES OF AMERICA",
+    "America",
+    "American",
+    "Americans",
+    "U.S.",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "JAPANESE",
+    "Nipones",
+    "Japanese mainland"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokyo city",
+    "Tokyo Prefecture",
+    "Tokyo Metropolis"
+   ]
+  },
+  {
+   "name": "Constitución, Buenos Aires",
+   "variants": [
+    "Constitution"
+   ]
+  },
+  {
+   "name": "La Boca, Buenos Aires",
+   "variants": [
+    "Boca"
+   ]
+  },
+  {
+   "name": "Barracas, Buenos Aires",
+   "variants": [
+    "Barracas"
+   ]
+  },
+  {
+   "name": "Avellaneda",
+   "variants": [
+    "Avellandesa"
+   ]
+  },
+  {
+   "name": "General San Martín",
+   "variants": [
+    "San Martin"
+   ]
+  },
+  {
+   "name": "Haedo",
+   "variants": [
+    "Haedo"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Solomon Sea",
+   "variants": [
+    "Solomons Sea"
+   ]
+  },
+  {
+   "name": "French North Africa",
+   "variants": [
+    "French North Africa"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "Great Britain",
+    "British"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England",
+    "English"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "French"
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "Greater East Asia",
+    "Greater East Asia Co-Prosperity Sphere"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese",
+    "occupied China"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Filipino"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Kiska Island",
+   "variants": [
+    "Kiska"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "South Pacific",
+   "variants": [
+    "South Pacific"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "Yangtao"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peruvian"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Swatow"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French East-China"
+   ]
+  },
+  {
+   "name": "Japanese-occupied Southeast Asia",
+   "variants": [
+    "captured Southern Regions"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australian"
+   ]
+  },
+  {
+   "name": "Santiago",
+   "variants": [
+    "Santiago"
+   ]
+  },
+  {
+   "name": "Asunción",
+   "variants": [
+    "Asunción"
+   ]
+  },
+  {
+   "name": "Montevideo",
+   "variants": [
+    "Montevideo"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "Sao Paulo"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Masao Tsuda",
+   "role": "Japanese correspondent and local manager or representative of the Dōmei News Agency in Buenos Aires",
+   "variants": [
+    "Masao Tsuda",
+    "Mr. Tsuda",
+    "Tsuda",
+    "Mr. Masao TSULA"
+   ]
+  },
+  {
+   "name": "Norman Armour",
+   "role": "U.S. Ambassador to Argentina",
+   "variants": [
+    "Norman Armour"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "U.S. State Department official named in a routing stamp",
+   "variants": [
+    "MR. WELLES"
+   ]
+  },
+  {
+   "name": "Edward L. Reed",
+   "role": "Counselor of the U.S. Embassy in Buenos Aires",
+   "variants": [
+    "Reed",
+    "Edward L. Reed"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director of the Federal Bureau of Investigation",
+   "variants": [
+    "J. Edgar Hoover",
+    "JOHN EDGAR HOOVER",
+    "Hoover",
+    "HOOVER",
+    "Mr. Hoover",
+    "J. Edgar Hoover, Jr."
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Berle, Jr.",
+    "F.A. Berle, Jr."
+   ]
+  },
+  {
+   "name": "Hayes A. Kroner",
+   "role": "Brigadier general and Chief of the Military Intelligence Service",
+   "variants": [
+    "Hayes A. Kroner"
+   ]
+  },
+  {
+   "name": "T. Mizuno",
+   "role": "Director and proprietor of Argentin Djijo; Japanese community leader and supporter of the Japanese School",
+   "variants": [
+    "T. Midjo",
+    "Mr. T. Midzuno"
+   ]
+  },
+  {
+   "name": "Tekama",
+   "role": "Assistant to the director of Argentin Djijo",
+   "variants": [
+    "Tekama"
+   ]
+  },
+  {
+   "name": "Yasumiko Niimura",
+   "role": "Director, proprietor, and publisher of Nichi-A Jiji",
+   "variants": [
+    "JS. Niiruma",
+    "Yasumiko Niimura",
+    "Mr. Y. S. Niimura"
+   ]
+  },
+  {
+   "name": "Tsuji",
+   "role": "Japanese importer in Argentina",
+   "variants": [
+    "Tsuji"
+   ]
+  },
+  {
+   "name": "Takaichi Shintaku",
+   "role": "Director and owner of Nan-A; described as formerly active in an extreme party in Japan",
+   "variants": [
+    "Takaichi Shintaku"
+   ]
+  },
+  {
+   "name": "Ryuichi Shintaku",
+   "role": "Publisher of Diario Nan-A",
+   "variants": [
+    "Mr. Ryuichi SHINTAKU"
+   ]
+  },
+  {
+   "name": "T. Suzuki",
+   "role": "Director and manager of Nichi Nichi",
+   "variants": [
+    "T. Suzuki",
+    "Suzuki"
+   ]
+  },
+  {
+   "name": "Shinya",
+   "role": "Person said to control or employ Suzuki and to hold an important position in Maison Satama",
+   "variants": [
+    "Sr. Shinya"
+   ]
+  },
+  {
+   "name": "Iwashita",
+   "role": "Buenos Aires reporter for El Argentin Djijo",
+   "variants": [
+    "Mr. Iwashita"
+   ]
+  },
+  {
+   "name": "Yamauchi",
+   "role": "Tokyo branch manager of the Manchuria Daily News",
+   "variants": [
+    "Mr. Yamauchi"
+   ]
+  },
+  {
+   "name": "Richard Ford",
+   "role": "First Secretary of the U.S. Embassy in Buenos Aires",
+   "variants": [
+    "Richard Ford"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Premier Tojo"
+   ]
+  },
+  {
+   "name": "Subhas Chandra Bose",
+   "role": "Indian independence leader",
+   "variants": [
+    "Bose"
+   ]
+  },
+  {
+   "name": "Nobuyuki Abe",
+   "role": "Japanese general identified as head of the Imperial Rule Assistance Association",
+   "variants": [
+    "General Abe"
+   ]
+  },
+  {
+   "name": "Isoroku Yamamoto",
+   "role": "Japanese admiral posthumously promoted to Fleet Admiral",
+   "variants": [
+    "Admiral Yamamoto"
+   ]
+  },
+  {
+   "name": "Kazuo Aoki",
+   "role": "Japanese Minister of Greater East Asia",
+   "variants": [
+    "Greater East Asia Minister Aoki"
+   ]
+  },
+  {
+   "name": "Iwane Matsui",
+   "role": "Japanese general who reportedly toured the occupied Southern Regions",
+   "variants": [
+    "General Matsui"
+   ]
+  },
+  {
+   "name": "Hugh Millard",
+   "role": "First Secretary of the U.S. Embassy in Buenos Aires",
+   "variants": [
+    "Hugh Millard"
+   ]
+  },
+  {
+   "name": "Tokujiro Furuta",
+   "role": "Person identified in a cross-reference as connected with the Yomiuri News Agency in Buenos Aires",
+   "variants": [
+    "Tokuziro Huruta"
+   ]
+  },
+  {
+   "name": "George V. Strong",
+   "role": "Major general and Assistant Chief of Staff, G-2, U.S. War Department",
+   "variants": [
+    "George V. Strong"
+   ]
+  },
+  {
+   "name": "George A. Gordon",
+   "role": "Acting Chief of the State Department’s Division of Foreign Activity Coordination",
+   "variants": [
+    "George A. Gordon"
+   ]
+  }
+ ],
+ "keywords": [
+  "Dōmei News Agency",
+  "Japanese-language press",
+  "Buenos Aires",
+  "Argentina",
+  "wartime propaganda",
+  "press surveillance",
+  "Japanese diaspora",
+  "communications censorship",
+  "shortwave radio",
+  "newsprint shortages",
+  "intelligence reporting",
+  "Greater East Asia War",
+  "Argentine neutrality",
+  "Federal Bureau of Investigation",
+  "press monitoring"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch No. 1711 on the establishment of a Dōmei office in Buenos Aires",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1940-12-23",
+   "from": "Norman Armour, U.S. Ambassador to Argentina",
+   "to": "U.S. Secretary of State",
+   "about": "Reports Masao Tsuda’s arrival in Buenos Aires to establish the first direct local representation of the Dōmei News Agency.",
+   "summary": "Masao Tsuda arrived from New York aboard the S.S. Uruguay on December 17, intending to act as a correspondent and possibly distribute a regular Dōmei press service. Previously, the Japanese Embassy had distributed only selected Dōmei material, especially speeches by officials in Tokyo. Given Argentina’s small Japanese population and the limited importance of its two Japanese newspapers, the Embassy believed that any broader Dōmei service would probably seek to place propaganda in Argentine daily newspapers.",
+   "keywords": [
+    "Masao Tsuda",
+    "Dōmei News Agency",
+    "Buenos Aires",
+    "Japanese propaganda",
+    "Japanese newspapers",
+    "S.S. Uruguay"
+   ]
+  },
+  {
+   "title": "Cross-reference on payments to Masao Tsuda",
+   "doc_type": "cross-reference sheet",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1942-05-05",
+   "from": "U.S. Embassy in Argentina (Edward L. Reed), as cited",
+   "to": "",
+   "about": "Points to a separate despatch concerning payments made to Dōmei’s Buenos Aires representative Masao Tsuda.",
+   "summary": "The sheet cross-references Despatch No. 4958 of May 5, 1942, filed as 894.20235/44. Its subject is support of the Dōmei News Agency in Argentina, specifically payments made to local representative Masao Tsuda.",
+   "keywords": [
+    "cross-reference",
+    "Masao Tsuda",
+    "Dōmei News Agency",
+    "financial support",
+    "Argentina",
+    "Despatch No. 4958"
+   ]
+  },
+  {
+   "title": "FBI transmittal on Japanese newspapers in Buenos Aires",
+   "doc_type": "letter",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1942-10-29",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Forwards confidential information about Japanese newspapers published in Buenos Aires.",
+   "summary": "Hoover sends Berle an enclosed memorandum based on a reliable confidential source. He notes that the same information had been made available to the American Embassy in Buenos Aires. Copies were also directed to U.S. naval and military intelligence officials.",
+   "keywords": [
+    "FBI",
+    "Japanese newspapers",
+    "Buenos Aires",
+    "confidential source",
+    "Adolf A. Berle Jr.",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "FBI memorandum profiling four Japanese newspapers",
+   "doc_type": "memorandum enclosure",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "",
+   "from": "Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., as enclosure",
+   "about": "Profiles the ownership, readership, circulation, political connections, and publication difficulties of four Japanese newspapers in Buenos Aires.",
+   "summary": "The memorandum describes Argentin Djijo, Nighia Gjiji, Nan-A, and Nichi Nichi, giving their addresses, proprietors, circulation figures, prices, intended social constituencies, and relationships with the Japanese Embassy. It characterizes Argentin Djijo as an embassy organ and notes that Nan-A had been suspended by the embassy, while Nichi Nichi had been barred from the Argentine mails. Paper shortages and poor-quality newsprint affected all four publications.",
+   "keywords": [
+    "Argentin Djijo",
+    "Nichi-A Jiji",
+    "Nan-A",
+    "Nichi Nichi",
+    "circulation",
+    "Japanese Embassy",
+    "newsprint shortage",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "title": "Despatch No. 7746 on a Tokyo–Buenos Aires telephone conversation",
+   "doc_type": "despatch",
+   "start_page": 6,
+   "end_page": 7,
+   "date": "1942-12-16",
+   "from": "Edward L. Reed, Counselor of Embassy",
+   "to": "U.S. Secretary of State",
+   "about": "Encloses and analyzes a Japanese newspaper account of a wartime telephone conversation between correspondents in Buenos Aires and Tokyo.",
+   "summary": "The Embassy reports a December 4 conversation between Iwashita of El Argentin Djijo and Yamauchi of the Manchuria Daily News. It warns that their discussion of American military strength, production, the Solomon Sea battle, and French North Africa might have disclosed military information, while noting that new Argentine communications controls should prevent further Japanese-language calls. Reed also highlights comments about Argentina and Chile drifting away from neutrality, Japanese government efforts to stimulate hatred of the United States and Britain, and ambiguities beneath claims of popular confidence in victory.",
+   "keywords": [
+    "international telephone",
+    "communications control",
+    "Iwashita",
+    "Yamauchi",
+    "Japanese morale",
+    "wartime intelligence",
+    "Argentine neutrality",
+    "propaganda"
+   ]
+  },
+  {
+   "title": "Translation of the Tokyo–Buenos Aires telephone conversation",
+   "doc_type": "translated newspaper article enclosure",
+   "start_page": 8,
+   "end_page": 9,
+   "date": "1942-12-06",
+   "from": "El Argentin Djijo",
+   "to": "Readers of El Argentin Djijo",
+   "about": "Reproduces the reported conversation between Iwashita in Buenos Aires and Yamauchi in Tokyo about the war, neutrality, treatment of nationals, and Japanese morale.",
+   "summary": "Iwashita says Argentina and Chile preserve neutrality only in name but predicts no immediate danger to resident Japanese before a formal break with the Axis. Yamauchi claims that reports of mistreatment of Japanese nationals in America and Britain have strengthened popular anger and support for destroying those countries. He portrays Japan as prepared for a long production war, citing the slogan “If one ship is sunk we’ll build two” and public donations of scrap metal.",
+   "keywords": [
+    "El Argentin Djijo",
+    "Japan",
+    "Argentina",
+    "Chile",
+    "Japanese morale",
+    "anti-American propaganda",
+    "scrap-metal collection",
+    "Greater East Asia War"
+   ]
+  },
+  {
+   "title": "Despatch No. 8500 on increased newspaper subscription rates",
+   "doc_type": "despatch",
+   "start_page": 10,
+   "end_page": 11,
+   "date": "1943-02-02",
+   "from": "Richard Ford, First Secretary of Embassy",
+   "to": "U.S. Secretary of State",
+   "about": "Reports the decision of Argentina’s three Japanese-language newspapers to raise subscription prices because of wartime newsprint shortages.",
+   "summary": "The three newspapers raised their monthly subscription rate from two to 2.50 pesos rather than reduce publication frequency or amalgamate. Ford supplies details about their page dimensions, poor paper, advertisements, staffing, and subscription-only distribution. Most international news came through Axis-based Dōmei offices and local representative Masao Tsuda, while Japanese dailies also maintained their own local correspondents.",
+   "keywords": [
+    "subscription rates",
+    "newsprint shortage",
+    "Japanese newspapers",
+    "Masao Tsuda",
+    "Dōmei News Agency",
+    "advertising",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "title": "Joint subscription-rate notice by three Japanese newspapers",
+   "doc_type": "translated advertisement enclosure",
+   "start_page": 12,
+   "end_page": 12,
+   "date": "1943-01-27",
+   "from": "Publishers of El Argentin Djijo, Diario Nan-A, and El Nichi-A Djidji",
+   "to": "Their readers and subscribers",
+   "about": "Announces a coordinated subscription increase intended to preserve frequent publication despite the scarcity and rising cost of newsprint.",
+   "summary": "The publishers state that newsprint costs had quadrupled since the war began and that supplies were extremely difficult to obtain. They argue that reducing publication to two or three issues weekly would weaken their duty to counter fabricated reports in the enemy foreign press. The notice lists the Buenos Aires addresses and publishers of all three newspapers and raises each monthly subscription to 2.50 pesos from February 1, 1943.",
+   "keywords": [
+    "subscription notice",
+    "newsprint",
+    "El Argentin Djijo",
+    "Diario Nan-A",
+    "El Nichi-A Djidji",
+    "enemy propaganda",
+    "publishers"
+   ]
+  },
+  {
+   "title": "Report No. 10959 on Japanese coverage of international news",
+   "doc_type": "despatch/report",
+   "start_page": 13,
+   "end_page": 16,
+   "date": "1943-07-27",
+   "from": "Hugh Millard, First Secretary of Embassy",
+   "to": "U.S. Secretary of State",
+   "about": "Surveys the international-news themes published by Argentina’s Japanese newspapers during May and June 1943.",
+   "summary": "Millard reports that the papers relied chiefly on Spanish-language Dōmei reports retranslated into Japanese, but increasingly received Japanese-language news directly by shortwave radio to evade Argentine cable restrictions. The survey covers Japan’s “new China policy,” defenses against air raids, promises of independence for Burma and the Philippines, economic mobilization, the Imperial Rule Assistance Association, Yamamoto’s death, occupation policies, the Shanghai Jewish ghetto, and military developments across Asia and the Pacific. It also records claims concerning hospital ships, action against foreign currency, Taiwanese naval recruiting, a Buddhist conference, and Japanese anxieties about Argentina’s revolution and a possible break with the Axis. Reports of strikes and political discord in the United States were welcomed in Tokyo as evidence that internal division might assist Japan.",
+   "keywords": [
+    "Japanese press coverage",
+    "shortwave radio",
+    "Dōmei News Agency",
+    "China policy",
+    "Greater East Asia Co-Prosperity Sphere",
+    "wartime mobilization",
+    "occupation propaganda",
+    "Argentine Revolution",
+    "United States"
+   ]
+  },
+  {
+   "title": "Cross-reference on Tokujiro Furuta and the Yomiuri News Agency",
+   "doc_type": "cross-reference sheet",
+   "start_page": 17,
+   "end_page": 17,
+   "date": "1944-05-01",
+   "from": "Department of Justice (J. Edgar Hoover), as cited",
+   "to": "",
+   "about": "Points to a Justice Department letter concerning Tokujiro Furuta’s connection with the Yomiuri News Agency in Buenos Aires.",
+   "summary": "The sheet refers researchers to a May 1, 1944 letter from the Department of Justice and Hoover. The original, filed as 894.20235/172, contains information about Tokujiro Furuta and the Yomiuri News Agency’s Buenos Aires operation.",
+   "keywords": [
+    "cross-reference",
+    "Tokujiro Furuta",
+    "Yomiuri News Agency",
+    "Buenos Aires",
+    "Department of Justice",
+    "J. Edgar Hoover"
+   ]
+  },
+  {
+   "title": "FBI report on Masao Tsuda’s collection of American press material",
+   "doc_type": "letter",
+   "start_page": 18,
+   "end_page": 18,
+   "date": "1943-02-09",
+   "from": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Reports that Masao Tsuda was sending extracts from selected American newspapers and magazines to the Japanese government for propaganda purposes.",
+   "summary": "According to a confidential source, Tsuda had instructions to transmit material from Time, the New York Times, the Wall Street Journal, and the New Republic because copies reached Tokyo only after delays, often through Russia and India. A cable sent shortly after publication of the “United States White Book” demanded an urgent five-hundred-word summary of its treatment of Japan. The FBI concluded that Tsuda supplied material for Japanese propaganda; the OCR date is garbled, but the receipt stamp and the following reply identify the letter as February 9, 1943.",
+   "keywords": [
+    "Masao Tsuda",
+    "FBI",
+    "press monitoring",
+    "Japanese government",
+    "American periodicals",
+    "United States White Book",
+    "propaganda",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "State Department reply concerning the Tsuda report",
+   "doc_type": "letter",
+   "start_page": 19,
+   "end_page": 19,
+   "date": "1943-02-15",
+   "from": "George A. Gordon, Acting Chief, Division of Foreign Activity Coordination",
+   "to": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
+   "about": "Acknowledges the FBI’s information about Masao Tsuda and recommends sharing it with the Office of Censorship.",
+   "summary": "Gordon thanks Hoover for the February 9 report concerning Masao Tsuda and says that it is of interest to the State Department. He suggests that the FBI also transmit the information to the Office of Censorship because Tsuda’s activities fall within that office’s responsibilities.",
+   "keywords": [
+    "Masao Tsuda",
+    "Office of Censorship",
+    "State Department",
+    "FBI",
+    "George A. Gordon",
+    "press intelligence"
+   ]
+  }
+ ],
+ "interest": "The file is especially useful for its unusually detailed evidence about the small Japanese-language press in wartime Argentina, including circulation figures, addresses, staffing, prices, paper quality, political alignments, and relationships with the Japanese Embassy. The translated telephone conversation and the reports on cable controls and shortwave reception reveal how news moved between Tokyo and Buenos Aires and how correspondents adapted to censorship. The documents also show the overlap between journalism, propaganda, diaspora politics, and intelligence collection, while the Embassy’s sometimes speculative and hostile language provides evidence of U.S. wartime perceptions as well as of Japanese activity. The cross-reference sheets demonstrate how relevant intelligence was dispersed across the State Department’s decimal filing system and identify related records that may preserve additional financial and personnel information.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 330.1,
+  "identifier": "japan-internal-affairs-894.91235-public-press-news-1",
+  "file": "894.91235 Public Press., News-Gathering Agencies. Dissemination Of News.** Nationality. %A0%A0 Field Of Operation., December 23, 1940 - May 1, 1944 1427.pdf",
+  "created": "2026-09-29 04:35:55"
+ }
+}

@@ -1,0 +1,855 @@
+{
+ "overview": "This file traces the acquisition, shipment, inspection, pricing, and eventual compensation dispute surrounding roughly 15,000–17,000 metric tons of lead exported from occupied Japan to the United States after World War II. Early papers connect the shipment to an acute American lead shortage affecting ammunition production, while later British Embassy correspondence argues that ingots bearing Burmese markings were British-owned material looted by Japan and should be returned or properly compensated. The file includes diplomatic correspondence, contracts and amendments, inspection procedures, shipping and accounting schedules, an invoice, title-transfer instruments, and a warranty, documenting how SCAP, the U.S. Commercial Company, the Reconstruction Finance Corporation’s Office of Metals Reserve, and British authorities attempted to reconcile commodity procurement with restitution policy.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "U.S.",
+    "U. S.",
+    "U.S.A.",
+    "USA",
+    "US",
+    "U S"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British",
+    "U.K.",
+    "UK"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "Canadians"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma",
+    "Burmese"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Dutch"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "German"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "South East Asia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "ENG",
+    "ENG."
+   ]
+  },
+  {
+   "name": "Connecticut",
+   "variants": [
+    "CONN.",
+    "Connecticut"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "OHIO"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "N.Y."
+   ]
+  },
+  {
+   "name": "Middlesex",
+   "variants": [
+    "MIDDLESEX",
+    "BROADLESEX"
+   ]
+  },
+  {
+   "name": "Bridgeport",
+   "variants": [
+    "BRIDGEPORT",
+    "Bridgeport",
+    "BROOKPORT"
+   ]
+  },
+  {
+   "name": "Kings Mills",
+   "variants": [
+    "KINGS MILLS"
+   ]
+  },
+  {
+   "name": "Findlay",
+   "variants": [
+    "FINDLAY"
+   ]
+  },
+  {
+   "name": "Ilion",
+   "variants": [
+    "ILION"
+   ]
+  },
+  {
+   "name": "Brimsdown",
+   "variants": [
+    "BRIMSDOWN",
+    "BRIMERS"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "WASHINGTON 8, D. C.",
+    "WASHINGTON, D.C.",
+    "WASHINGTON 25, D.C.",
+    "WASHINGTON 25 D",
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washington D. C.",
+    "Washington 25, D. C.",
+    "Washington 25, D.C."
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Kalaya",
+   "variants": [
+    "Kalaya"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "New York, N.Y."
+   ]
+  },
+  {
+   "name": "Baltimore",
+   "variants": [
+    "Baltimore"
+   ]
+  },
+  {
+   "name": "North Atlantic",
+   "variants": [
+    "North Atlantic"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Mr. Kennedy",
+   "role": "IR official and recipient of the April 12, 1946 memorandum",
+   "variants": [
+    "Mr. Kennedy"
+   ]
+  },
+  {
+   "name": "C. A. Wendel",
+   "role": "IR official and author of the April 12, 1946 memorandum",
+   "variants": [
+    "Mr. Wendel",
+    "CAWendel"
+   ]
+  },
+  {
+   "name": "Roswell H. Whitman",
+   "role": "Acting Chief and later Associate Chief, Division of Japanese and Korean Economic Affairs, Department of State",
+   "variants": [
+    "Mr. Whitman",
+    "Mr. Whitman's",
+    "Roswill H. Whitman",
+    "Roswell H. Whitman",
+    "RHWhitman"
+   ]
+  },
+  {
+   "name": "Marion Worthing",
+   "role": "Official of the Civilian Production Administration",
+   "variants": [
+    "Miss Worthing",
+    "Miss Marion Worthing"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Mr. Brown",
+   "role": "Participant in the State Department discussion of lead procurement",
+   "variants": [
+    "Mr. Brown"
+   ]
+  },
+  {
+   "name": "Mr. Jewett",
+   "role": "Official whom Marion Worthing was to advise",
+   "variants": [
+    "Mr. Jewett"
+   ]
+  },
+  {
+   "name": "Mr. Johnston",
+   "role": "Official whom Marion Worthing was to advise",
+   "variants": [
+    "Mr. Johnston"
+   ]
+  },
+  {
+   "name": "William L. Clayton",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "W. L CLAYTON"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "Deputy to the Assistant Secretary of State for Economic Affairs; elsewhere addressed as Special Assistant",
+   "variants": [
+    "Mr. Willard Thorpe",
+    "Mr. Thorpe",
+    "Willard L. Thorp"
+   ]
+  },
+  {
+   "name": "D. F. Carpenter",
+   "role": "Vice President and Assistant General Manager, Remington Arms Company",
+   "variants": [
+    "DFCarpenter",
+    "Mr. Carpenter",
+    "Mr. D. F. Carpenter"
+   ]
+  },
+  {
+   "name": "K. W. Hamilton",
+   "role": "Department of State drafter or staff member",
+   "variants": [
+    "KWHamilton"
+   ]
+  },
+  {
+   "name": "Mr. Wilcox",
+   "role": "Official referenced in the routing notation on the reply to Carpenter",
+   "variants": [
+    "Mr. Wilcox"
+   ]
+  },
+  {
+   "name": "Jesse C. Johnson",
+   "role": "Deputy Director, Office of Metals Reserve, Reconstruction Finance Corporation",
+   "variants": [
+    "Mr. Johnson",
+    "Mr. Jesse C. Johnson",
+    "Jesse C. Johnson"
+   ]
+  },
+  {
+   "name": "J. A. E. Smart",
+   "role": "British Embassy official",
+   "variants": [
+    "J.A. Smart",
+    "J.A.E. Smart"
+   ]
+  },
+  {
+   "name": "Mr. Everson",
+   "role": "Recipient of a copy of the October 14, 1946 British Embassy letter",
+   "variants": [
+    "Mr. Everson"
+   ]
+  },
+  {
+   "name": "J. H. Page",
+   "role": "Department of State drafter or staff member",
+   "variants": [
+    "JH/Page"
+   ]
+  },
+  {
+   "name": "Edwin M. Martin",
+   "role": "Chief, Division of Japanese and Korean Economic Affairs, Department of State",
+   "variants": [
+    "Edwin M. Martin"
+   ]
+  },
+  {
+   "name": "R. Burr Smith",
+   "role": "Chief, Reparation and Property Branch, Division of Economic Property Policy, Department of State",
+   "variants": [
+    "Mr. R. B. Smith",
+    "Mr. R. Burr Smith",
+    "Mr. Burr Smith",
+    "R. Burr Smith"
+   ]
+  },
+  {
+   "name": "Roger Williams",
+   "role": "State Department official involved in the Burmese-lead settlement",
+   "variants": [
+    "Mr. Roger Williams",
+    "RWilliams"
+   ]
+  },
+  {
+   "name": "W. F. McKinnon",
+   "role": "Associate Director, Office of Metals Reserve",
+   "variants": [
+    "W. F. McKINNON"
+   ]
+  },
+  {
+   "name": "DeWitt C. Schieck",
+   "role": "President, U.S. Commercial Company",
+   "variants": [
+    "Mr. D. C. Schieck",
+    "Mr. Schieck",
+    "Mr. DeWitt C. Schieck"
+   ]
+  },
+  {
+   "name": "A. T. Hobson",
+   "role": "Secretary",
+   "variants": [
+    "A. T. Hobson"
+   ]
+  },
+  {
+   "name": "Morris Levinson",
+   "role": "Executive Director, Office of Metals Reserve",
+   "variants": [
+    "MORRIS LEVINSON"
+   ]
+  },
+  {
+   "name": "Robert P. Patterson",
+   "role": "U.S. Secretary of War",
+   "variants": [
+    "Honorable Robert P. Patterson",
+    "Mr. Patterson"
+   ]
+  },
+  {
+   "name": "N. Sugimoto",
+   "role": "Director, Kansai Trade Office of the Trade Board",
+   "variants": [
+    "N. Sugimoto",
+    "N. SUGIMOTO",
+    "N. SUGMOT"
+   ]
+  },
+  {
+   "name": "Lee R. Fleming",
+   "role": "Chief, Foreign Trade Division, General Headquarters for the Supreme Commander for the Allied Powers",
+   "variants": [
+    "Lee R. Fleming"
+   ]
+  },
+  {
+   "name": "C. B. Wilson",
+   "role": "First Secretary, British Embassy in Washington",
+   "variants": [
+    "C.B. Wilson",
+    "Mr. C. B. Wilson",
+    "Mr. Wilson"
+   ]
+  }
+ ],
+ "keywords": [
+  "lead imports",
+  "Japanese surplus stocks",
+  "Burmese lead",
+  "looted property",
+  "restitution and compensation",
+  "SCAP",
+  "U.S. Commercial Company",
+  "Office of Metals Reserve",
+  "postwar commodity shortages",
+  "ammunition production",
+  "inspection and assay",
+  "ingot markings",
+  "lead pricing",
+  "shipping and accounting",
+  "Anglo-American relations"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum on procuring surplus Japanese lead",
+   "doc_type": "memorandum",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1946-04-12",
+   "from": "C. A. Wendel, IR",
+   "to": "Mr. Kennedy, IR",
+   "about": "Reports an interagency discussion about importing the first 15,000 tons of lead declared surplus in Japan.",
+   "summary": "Wendel reports that General MacArthur had declared 15,000 tons available out of 57,000 tons of reported Japanese stocks. Participants favored immediate shipment, subject to British agreement, while postponing final price negotiations with the Reconstruction Finance Corporation and seeking a price below the Canadian benchmark of 7.75 cents per pound.",
+   "keywords": [
+    "Japanese lead",
+    "surplus stocks",
+    "General MacArthur",
+    "price negotiation",
+    "Reconstruction Finance Corporation",
+    "British agreement"
+   ]
+  },
+  {
+   "title": "Remington letter on lead quotas and threatened curtailment",
+   "doc_type": "letter",
+   "start_page": 2,
+   "end_page": 3,
+   "date": "1946-06-21",
+   "from": "D. F. Carpenter, Remington Arms Company",
+   "to": "Willard L. Thorp, Department of State",
+   "about": "Requests help obtaining more lead after the Civilian Production Administration imposed an inadequate ammunition-industry quota.",
+   "summary": "Remington was allotted 4,410 tons from a third-quarter ammunition-industry quota of 9,000 tons, an amount insufficient to maintain operations. A temporary supply of low-antimony lead allowed layoffs to be avoided, but the company expected shutdowns in July and August and warned that a formal quota appeal would be necessary. Carpenter framed continued ammunition production as important to national defense.",
+   "keywords": [
+    "Remington Arms",
+    "lead quota",
+    "ammunition industry",
+    "employment",
+    "plant shutdowns",
+    "national defense"
+   ]
+  },
+  {
+   "title": "Duplicate copy of Remington lead-quota letter",
+   "doc_type": "letter copy",
+   "start_page": 4,
+   "end_page": 5,
+   "date": "1946-06-21",
+   "from": "D. F. Carpenter, Remington Arms Company",
+   "to": "Willard L. Thorp, Department of State",
+   "about": "Duplicates Remington’s request for assistance in augmenting lead supplies.",
+   "summary": "This second copy repeats the company’s account of its 4,410-ton allocation, threatened layoffs, use of low-antimony lead to supplement difficult high-antimony scrap inventories, and planned summer shutdowns. The OCR date of 1940 on page 5 is an error; the duplicate is dated June 21, 1946.",
+   "keywords": [
+    "Remington Arms",
+    "duplicate copy",
+    "lead shortage",
+    "ammunition",
+    "employment",
+    "production curtailment"
+   ]
+  },
+  {
+   "title": "Thorp reply to Carpenter on the lead shortage",
+   "doc_type": "letter",
+   "start_page": 6,
+   "end_page": 6,
+   "date": "1946-06-25",
+   "from": "Willard L. Thorp, Department of State",
+   "to": "D. F. Carpenter, Remington Arms Company",
+   "about": "Acknowledges Remington’s concerns and states that the lead-supply problem is under consideration.",
+   "summary": "Thorp acknowledges Carpenter’s June 21 letter concerning the shortage of lead and the need to increase supplies. He promises a further communication after the matter has received consideration.",
+   "keywords": [
+    "lead shortage",
+    "Remington Arms",
+    "Department of State",
+    "acknowledgment"
+   ]
+  },
+  {
+   "title": "Whitman request to record markings on Japanese lead",
+   "doc_type": "letter",
+   "start_page": 7,
+   "end_page": 7,
+   "date": "1946-06-24",
+   "from": "Roswell H. Whitman, Department of State",
+   "to": "Jesse C. Johnson, Office of Metals Reserve",
+   "about": "Requests documentation of markings on imported Japanese lead so that looted material can be identified.",
+   "summary": "Whitman explains that lead imported from Japan by the U.S. Commercial Company may include metal looted from Southeast Asia. He asks the Office of Metals Reserve to record identifying markings during assay so that material subject to restitution can be recognized.",
+   "keywords": [
+    "lead markings",
+    "looted property",
+    "assay",
+    "Southeast Asia",
+    "Office of Metals Reserve",
+    "restitution"
+   ]
+  },
+  {
+   "title": "British Embassy warning concerning marked lead",
+   "doc_type": "letter",
+   "start_page": 8,
+   "end_page": 8,
+   "date": "1946-07-18",
+   "from": "J. A. Smart, British Embassy",
+   "to": "Marion Worthing, Civilian Production Administration",
+   "about": "Warns that lead bearing specified Burmese markings is British-owned material looted by Japan.",
+   "summary": "Smart states that SCAP is preparing to ship 5,000 metric tons of refined pig lead to the United States, some bearing British-associated markings. London maintains that lead marked “B. M. Refined” or “Burma Roll” is identifiable British property and asks that American authorities in Japan be notified before it is shipped. Britain otherwise expected American inspection procedures comparable to those used for tin and rubber.",
+   "keywords": [
+    "British claim",
+    "Burmese lead",
+    "ingot markings",
+    "SCAP",
+    "looted property",
+    "inspection"
+   ]
+  },
+  {
+   "title": "Smart letter pressing for return of Burmese lead",
+   "doc_type": "letter",
+   "start_page": 9,
+   "end_page": 10,
+   "date": "1946-08-30",
+   "from": "J. A. E. Smart, British Embassy",
+   "to": "Marion Worthing, Civilian Production Administration",
+   "about": "Transmits the British Ministry of Supply’s case that marked lead in Japan was prewar British property and should be shipped to the United Kingdom.",
+   "summary": "Smart quotes London’s account that the Japanese produced little new lead in occupied Burma and instead recast pre-invasion stocks belonging to the Burma Corporation. Britain therefore regarded lead marked “B.M. Refined” or “Burma Roll” as looted British property outside the prior Anglo-American allocation agreement. Smart asks whether any such lead had already reached the United States and urges inquiries in both Tokyo and Washington.",
+   "keywords": [
+    "Burma Corporation",
+    "British Ministry of Supply",
+    "looted lead",
+    "restitution",
+    "Tokyo",
+    "direct shipment"
+   ]
+  },
+  {
+   "title": "British request to reconsider the Japanese lead allocation",
+   "doc_type": "letter",
+   "start_page": 11,
+   "end_page": 11,
+   "date": "1946-10-14",
+   "from": "J. A. E. Smart, British Embassy",
+   "to": "Marion Worthing, Civilian Production Administration",
+   "about": "Reopens Britain’s claim to the British-owned portion of 15,000 tons of Japanese lead already shipped to the United States.",
+   "summary": "Smart accepts that, under the Far Eastern Commission policy, property already removed from Japan is formally subject to compensation rather than physical restitution. He nevertheless argues that the allocation is inequitable because the United States obtained 15,000 tons from Japan while Britain received only 7,000 tons from Germany. Citing Britain’s desperate lead position, he requests reconsideration once inspection establishes the amount of British-marked metal.",
+   "keywords": [
+    "lead allocation",
+    "British claim",
+    "Far Eastern Commission",
+    "compensation",
+    "German lead",
+    "Anglo-American negotiations"
+   ]
+  },
+  {
+   "title": "Whitman request for a consolidated markings report",
+   "doc_type": "letter",
+   "start_page": 12,
+   "end_page": 12,
+   "date": "1946-10-31",
+   "from": "Roswell H. Whitman, Department of State",
+   "to": "Jesse C. Johnson, Reconstruction Finance Corporation",
+   "about": "Requests a report of the marks and tonnages found on imported Japanese lead and tin.",
+   "summary": "Whitman refers to earlier requests that the Office of Metals Reserve record identifying marks on Japanese tin and lead. He asks for a summary showing each mark and its associated tonnage for metal received through September 30 or another convenient date.",
+   "keywords": [
+    "markings report",
+    "lead",
+    "tin",
+    "tonnage",
+    "Metals Reserve",
+    "Japanese imports"
+   ]
+  },
+  {
+   "title": "Martin request to record markings on Japanese tin",
+   "doc_type": "letter",
+   "start_page": 13,
+   "end_page": 13,
+   "date": "1946-04-22",
+   "from": "Edwin M. Martin, Department of State",
+   "to": "Jesse C. Johnson, Office of Metals Reserve",
+   "about": "Requests preservation of identifying marks on 4,000 tons of Japanese tin so its possible Southeast Asian origin can be determined.",
+   "summary": "Martin reports that the Combined Tin Committee approved importing 4,000 tons of tin from Japan for assay and later allocation. Because other governments suspected that some tin had been looted from Southeast Asia, he asks Metals Reserve to document all identifying ingot markings. The letter provides the precedent referenced in later lead correspondence.",
+   "keywords": [
+    "tin",
+    "Combined Tin Committee",
+    "ingot markings",
+    "Southeast Asia",
+    "looted property",
+    "assay"
+   ]
+  },
+  {
+   "title": "McKinnon letter on settlement for Burmese-marked lead",
+   "doc_type": "letter",
+   "start_page": 14,
+   "end_page": 15,
+   "date": "1948-09-29",
+   "from": "W. F. McKinnon, Office of Metals Reserve",
+   "to": "R. Burr Smith, attention Roger Williams, Department of State",
+   "about": "Supplies contract, price, title-transfer, and accounting information for determining compensation owed Britain for looted Burmese lead.",
+   "summary": "McKinnon explains that the Office of Metals Reserve purchased about 17,000 metric tons of lead from the U.S. Commercial Company under contract P-5151, initially at 6.5 cents and later at 8.5 cents per pound. The Burmese-marked lead met contract specifications, while 117,623 pounds aboard the Flying Arrow remained outside the purchase and was held for the American Military Government in Korea. He describes transfer of title, freight and storage issues, comparative American and British prices, and encloses contracts and the SCAP–USCC agreement.",
+   "keywords": [
+    "contract P-5151",
+    "Burmese lead",
+    "compensation",
+    "lead prices",
+    "title transfer",
+    "Office of Metals Reserve",
+    "British claim"
+   ]
+  },
+  {
+   "title": "Burma lead proceeds, expenses, and vessel schedule",
+   "doc_type": "accounting report enclosure",
+   "start_page": 16,
+   "end_page": 17,
+   "date": "",
+   "from": "Office of Metals Reserve",
+   "to": "Department of State",
+   "about": "Provides financial and shipment-level accounting for Burmese-marked lead imported from Japan.",
+   "summary": "The schedules show sales proceeds and claims totaling $1,590,079, expenses of $287,767.15, and net proceeds of $1,302,311.85. A vessel table distributes 18,688,993 pounds among the Mount Rogers, Vanderbilt Victory, Aberdeen Victory, and San Mateo Victory and classifies the metal as corroding, common, or off-grade.",
+   "keywords": [
+    "financial accounting",
+    "net proceeds",
+    "shipping vessels",
+    "Burmese lead",
+    "freight expenses",
+    "lead grades"
+   ]
+  },
+  {
+   "title": "Hobson letter establishing inspection procedures",
+   "doc_type": "letter",
+   "start_page": 18,
+   "end_page": 19,
+   "date": "1947-01-21",
+   "from": "A. T. Hobson",
+   "to": "D. C. Schieck, U.S. Commercial Company",
+   "about": "Proposes standardized inspection, lotting, weighing, and cost-allocation procedures for Japanese tin, lead, and antimony.",
+   "summary": "The letter responds to delays caused by uncertainty over the reports required by SCAP and interested foreign governments. It prescribes lot sizes, assays, weighing, brand segregation, and independent inspection, including special arrangements for Banka tin and already-sold “BM Refined” lead. The U.S. Commercial Company would reimburse inspection and handling costs and charge them in its accounting with SCAP.",
+   "keywords": [
+    "inspection procedures",
+    "Banka tin",
+    "lead brands",
+    "antimony",
+    "assaying",
+    "foreign claims",
+    "SCAP accounting"
+   ]
+  },
+  {
+   "title": "Levinson proposal for settling off-grade lead lots",
+   "doc_type": "letter",
+   "start_page": 20,
+   "end_page": 21,
+   "date": "1947-06-24",
+   "from": "Morris Levinson, Office of Metals Reserve",
+   "to": "U.S. Commercial Company, attention DeWitt C. Schieck",
+   "about": "Proposes payment terms for three Mount Rogers lots containing substandard lead but appreciable tin.",
+   "summary": "Levinson identifies three lots totaling about 179,000 pounds with lead contents between 94.661 and 96.634 percent and tin contents between 2.55 and 4.31 percent. Because both metals had value, he proposes settlement at 8.5 cents per pound of lead content plus 69 cents per pound of tin content under the relevant contracts.",
+   "keywords": [
+    "off-grade lead",
+    "tin content",
+    "Mount Rogers",
+    "contract pricing",
+    "assay results",
+    "P-5151"
+   ]
+  },
+  {
+   "title": "Johnson amendment increasing the refined-lead price",
+   "doc_type": "contract amendment letter",
+   "start_page": 22,
+   "end_page": 22,
+   "date": "1946-11-14",
+   "from": "Jesse C. Johnson, Office of Metals Reserve",
+   "to": "U.S. Commercial Company, attention DeWitt C. Schieck",
+   "about": "Amends contract P-5151 to pay 8.5 cents per pound for Japanese lead meeting the common-grade specification.",
+   "summary": "Johnson states that the original price schedule did not conform to the general pricing policy for Japanese material. He proposes 8.5 cents per pound for lead of at least 99.73 percent purity, with a mutually agreed penalty for material below that specification, while leaving all other contract terms unchanged.",
+   "keywords": [
+    "contract amendment",
+    "refined lead",
+    "price increase",
+    "purity specification",
+    "Office of Metals Reserve",
+    "P-5151"
+   ]
+  },
+  {
+   "title": "RFC letter revising terms for exports from Japan",
+   "doc_type": "letter copy",
+   "start_page": 23,
+   "end_page": 24,
+   "date": "1947-01-27",
+   "from": "Reconstruction Finance Corporation",
+   "to": "Robert P. Patterson, Secretary of War",
+   "about": "Sets revised legal and commercial terms governing merchandise transferred from occupied Japan to the U.S. Commercial Company.",
+   "summary": "The letter requires the Japanese government to vest clear title in itself and then transfer that title to the U.S. Commercial Company through documentation acceptable to USCC and endorsed by SCAP. It defines delivery at issuance of the ocean bill of lading, authorizes USCC to store and sell goods in the United States, and permits deduction of expenses plus a three-percent administrative charge. It also limits shipments to USCC-approved merchandise and disclaims USCC liability beyond accounting for proceeds.",
+   "keywords": [
+    "export agreement",
+    "clear title",
+    "SCAP",
+    "U.S. Commercial Company",
+    "War Department",
+    "bill of lading",
+    "sales proceeds"
+   ]
+  },
+  {
+   "title": "Invoice for 1,500 metric tons of ESS lead",
+   "doc_type": "invoice",
+   "start_page": 25,
+   "end_page": 25,
+   "date": "1946-07-15",
+   "from": "Kansai Trade Office of the Trade Board",
+   "to": "U.S. Commercial Company",
+   "about": "Invoices 29,126 ESS lead ingots for shipment from Kobe to New York.",
+   "summary": "The invoice covers 1,500,000 kilograms of ESS-marked lead ingots, lot 172/231, loaded for shipment from Kobe to New York. It identifies the U.S. Commercial Company as consignee and certifies that the goods were marked, tested, and inspected in accordance with destination-country law.",
+   "keywords": [
+    "lead invoice",
+    "ESS ingots",
+    "Kobe",
+    "New York",
+    "shipment",
+    "Kansai Trade Office"
+   ]
+  },
+  {
+   "title": "Transfer of title for ESS lead ingots",
+   "doc_type": "transfer-of-title instrument",
+   "start_page": 26,
+   "end_page": 26,
+   "date": "1946-07-15",
+   "from": "Kansai Trade Office of the Trade Board",
+   "to": "U.S. Commercial Company",
+   "about": "Transfers ownership of 29,126 ESS lead ingots to the U.S. Commercial Company for disposal under War Department direction.",
+   "summary": "The Kansai Trade Office warrants sole and unencumbered ownership and transfers the ingots to USCC, which is to dispose of them and account for proceeds according to War Department instructions. An endorsement dated July 30, 1946, signed by Lee R. Fleming for SCAP confirms delivery under the governing agreement.",
+   "keywords": [
+    "title transfer",
+    "ESS lead",
+    "U.S. Commercial Company",
+    "War Department",
+    "SCAP endorsement",
+    "N. Sugimoto"
+   ]
+  },
+  {
+   "title": "Warranty of clear title to the invoiced lead",
+   "doc_type": "warranty enclosure",
+   "start_page": 27,
+   "end_page": 27,
+   "date": "1946-07-15",
+   "from": "Kansai Trade Office of the Trade Board",
+   "to": "SCAP, the U.S. War Department, the U.S. Commercial Company, and subsequent recipients",
+   "about": "Guarantees clear title to the lead covered by the attached bill of sale and promises to hold all later parties harmless.",
+   "summary": "The instrument warrants that the Trade Board agency possessed absolute, unencumbered title and that no claims or interests attached to the merchandise. Five original copies were signed by Director N. Sugimoto. Its categorical warranty is notable because part of the imported lead later became the subject of a British looted-property claim.",
+   "keywords": [
+    "warranty",
+    "clear title",
+    "bill of sale",
+    "hold harmless",
+    "Kansai Trade Office",
+    "looted property"
+   ]
+  },
+  {
+   "title": "Wilson letter on the valuation of Burmese lead",
+   "doc_type": "letter",
+   "start_page": 28,
+   "end_page": 29,
+   "date": "1948-10-26",
+   "from": "C. B. Wilson, British Embassy",
+   "to": "R. Burr Smith, Department of State",
+   "about": "Challenges the proposed basis for compensating Britain for Burmese lead shipped from Japan to the United States.",
+   "summary": "Wilson recounts Smith’s view that compensation should reflect the 6.5-cent price prevailing when USCC contracted with the RFC in April 1946 and should be paid by SCAP after a British claim was filed in Tokyo. He explains that the Ministry of Supply instead regarded the United States government as Britain’s agent and expected the actual domestic-sale proceeds, less legitimate charges. Wilson also asks whether about 1,600 tons remained stockpiled and whether SCAP would determine how much had been looted.",
+   "keywords": [
+    "compensation valuation",
+    "Burmese lead",
+    "British Ministry of Supply",
+    "sale proceeds",
+    "SCAP claim",
+    "stockpiling",
+    "government agency"
+   ]
+  },
+  {
+   "title": "Smith reply concerning stockpiled Burmese lead",
+   "doc_type": "letter",
+   "start_page": 30,
+   "end_page": 30,
+   "date": "1948-11-16",
+   "from": "R. Burr Smith, Department of State",
+   "to": "C. B. Wilson, British Embassy",
+   "about": "Confirms that approximately 1,600 tons remained outside consumption and states the expected basis of SCAP compensation.",
+   "summary": "Smith confirms that the Reconstruction Finance Corporation had allocated approximately 1,600 tons of the Burmese lead for stockpiling rather than consumption. He states his understanding that the Supreme Commander would compensate Britain for whatever quantity could be proven to have been looted by Japan.",
+   "keywords": [
+    "Burmese lead",
+    "stockpiling",
+    "RFC",
+    "SCAP compensation",
+    "proof of looting",
+    "British Embassy"
+   ]
+  }
+ ],
+ "interest": "The file is unusually valuable because it joins domestic industrial-supply concerns to the legal and diplomatic aftermath of Japanese wartime looting. It permits close reconstruction of a commodity’s movement from Japanese custody through SCAP, the U.S. Commercial Company, ocean transport, inspection, federal purchase, and sale or stockpiling, with precise figures for weights, grades, prices, expenses, and vessels. The title-transfer warranty is especially revealing when read beside the British claim: American paperwork declared the metal free of competing interests even while markings on the ingots supplied evidence of British ownership. Together, the subfiles illuminate the practical tension between urgent postwar shortages, occupation finance, restitution rules, and government-to-government compensation.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 268.4,
+  "identifier": "japan-internal-affairs-894.6353-mines-mining-concessions",
+  "file": "894.6353 Mines. Mining. Concessions., Base Metals., Japan, Lead., April 12, 1946 - October 26, 1948 1672.pdf",
+  "created": "2026-09-29 11:26:29"
+ }
+}

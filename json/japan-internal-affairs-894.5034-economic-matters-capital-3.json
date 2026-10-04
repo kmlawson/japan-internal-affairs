@@ -1,0 +1,188 @@
+{
+ "interest": "Shows 1940-43 U.S. multinationals (IBM, Paraffine, American Express) navigating Japanese controls, plus State's retaliation debate and Mitsui/NYK shipping intelligence.",
+ "keywords": [
+  "Japanese corporations",
+  "American businesses in Japan",
+  "industrial production control",
+  "foreign investment",
+  "retaliatory measures",
+  "frozen credits",
+  "royalties",
+  "shipping companies",
+  "American Express Company",
+  "International Business Machines Corp.",
+  "Paraffine Companies, Inc.",
+  "Nippon Yusen Kaisha",
+  "Mitsui Shipping Company"
+ ],
+ "overview": "Docket sheets for file 894.5034 (Aug 1940-Feb 1943) track American firms (Paraffine, American Express, IBM) facing Japanese controls, Grew and Livesey's debate on retaliatory measures against Japanese holdings, and wartime despatches from Argentina and Sweden on Mitsui Shipping and Nippon Yusen Kaisha.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Prew"
+   ]
+  },
+  {
+   "name": "Frederick Livesey",
+   "role": "State Department Adviser on International Economic Affairs",
+   "variants": [
+    "Livesey"
+   ]
+  },
+  {
+   "name": "M. John Silver",
+   "role": "Inquirer regarding American Express Company",
+   "variants": [
+    "Silver, M. John"
+   ]
+  },
+  {
+   "name": "R. S. Shainwald",
+   "role": "Official, Paraffine Companies, Inc.",
+   "variants": [
+    "Shainwald"
+   ]
+  },
+  {
+   "name": "J. A. Phillips",
+   "role": "Official, International Business Machines Corp.",
+   "variants": [
+    "Phillips J. A."
+   ]
+  },
+  {
+   "name": "Richard Ford",
+   "role": "U.S. diplomatic representative in Argentina",
+   "variants": [
+    "Ford"
+   ]
+  },
+  {
+   "name": "Herschel V. Johnson",
+   "role": "U.S. Minister to Sweden",
+   "variants": [
+    "Johnson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "N.Y.C.",
+    "New York, N. Y."
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet recording a 1940 communication regarding the Paraffine Companies, Inc.'s interest in a Japanese roofing plant and its desire to sell stock for U.S. dollars.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Paraffine Companies, Inc.",
+    "roofing plant",
+    "stockholders",
+    "U.S. dollars",
+    "foreign investment",
+    "Form DS-46"
+   ],
+   "start_page": 1,
+   "summary": "Lists an August 1940 report: Paraffine Companies sought to sell its 60% Japanese roofing-plant stake, with payment guaranteed in dollars.",
+   "title": "Department of State List of Papers regarding Japanese Corporations (Sub. No. 22)",
+   "to": "Department of State"
+  },
+  {
+   "about": "A Non-Jacket Case List of Papers sheet indexing 1941 records on Japanese industrial control legislation, conditions of American businesses, and corporate inquiries.",
+   "date": "1941",
+   "doc_type": "list of papers",
+   "end_page": 2,
+   "from": "Department of State",
+   "keywords": [
+    "industrial production",
+    "government control",
+    "American firms in Japan",
+    "retaliatory measures",
+    "American Express Company",
+    "Yokohama",
+    "Department of Justice",
+    "frozen credits"
+   ],
+   "start_page": 2,
+   "summary": "Sheet 4 (1941) lists Grew's telegrams on Japanese industrial controls and retaliation, and Livesey's memos on foreign officer bans.",
+   "title": "Non-Jacket Case List of Papers, Sheet No. 4, regarding Japanese Corporations (Sub. Nos. 23-28)",
+   "to": "Department of State"
+  },
+  {
+   "about": "A List of Papers sheet indexing 1941-1943 communications regarding IBM interests in Japan and diplomatic reports on Japanese shipping firms.",
+   "date": "1941-1943",
+   "doc_type": "list of papers",
+   "end_page": 3,
+   "from": "Department of State",
+   "keywords": [
+    "International Business Machines Corp.",
+    "Watson Business Machine Japan, Ltd.",
+    "royalties",
+    "Mitsui Shipping Company Ltd.",
+    "Nippon Yusen Kaisha",
+    "shipping industry",
+    "Argentina",
+    "Sweden"
+   ],
+   "start_page": 3,
+   "summary": "Sheet 5 (1941-43) lists IBM's request to protect its Japanese subsidiary, plus reports on Mitsui Shipping and Nippon Yusen Kaisha.",
+   "title": "Department of State List of Papers, Sheet No. 5, regarding Japanese Corporations (Sub. Nos. 29-31)",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14691,
+   "output_tokens": 26376,
+   "thinking_tokens": 24536,
+   "cache_read_tokens": 0,
+   "total_tokens": 41067
+  },
+  "backend": "agy",
+  "seconds": 80.7,
+  "identifier": "japan-internal-affairs-894.5034-economic-matters-capital-3",
+  "file": "894.5034 Economic Matters., Capital., Japan, Corporations, Other Businesses. Formulation. Regulation. Bond Issues. Stock Certificates.,  138.pdf",
+  "created": "2026-09-29 08:22:52"
+ }
+}

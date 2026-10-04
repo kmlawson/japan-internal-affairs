@@ -1,0 +1,97 @@
+{
+ "interest": "Japanese cruisers' 1933 goodwill visit to the Canal Zone.",
+ "keywords": [
+  "Panama Canal Zone",
+  "Japan",
+  "Imperial Japanese Navy",
+  "naval visits",
+  "cruiser Iwate",
+  "cruiser Yakumo",
+  "Julian L. Schley",
+  "diplomatic despatches",
+  "List of Papers",
+  "official receptions"
+ ],
+ "overview": "Docket for 894.3311F: two 1933 despatches on the cruisers Iwate and Yakumo visiting the Canal Zone.",
+ "people": [
+  {
+   "name": "Julian L. Schley",
+   "role": "Governor of the Panama Canal Zone",
+   "variants": [
+    "Governor Schley",
+    "Schley"
+   ]
+  },
+  {
+   "name": "Roy Tasco Davis",
+   "role": "U.S. Envoy Extraordinary and Minister Plenipotentiary to Panama",
+   "variants": [
+    "Davis"
+   ]
+  },
+  {
+   "name": "Harold D. Finley",
+   "role": "U.S. Chargé d'Affaires / Diplomatic Officer in Panama",
+   "variants": [
+    "Finley"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Canal Zone"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Department of State list of papers registering two 1933 despatches from Panama concerning the visit of the Japanese cruisers Iwate and Yakumo to the Canal Zone.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Panama Canal Zone",
+    "Japan",
+    "Iwate",
+    "Yakumo",
+    "Governor Schley",
+    "naval visit"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.3311F: 1933 visit of the cruisers Iwate and Yakumo to the Canal Zone.",
+   "title": "List of Papers: Visit of Japanese Vessels to Canal Zone",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13771,
+   "output_tokens": 3555,
+   "thinking_tokens": 2665,
+   "cache_read_tokens": 0,
+   "total_tokens": 17326
+  },
+  "backend": "agy",
+  "seconds": 14.7,
+  "identifier": "japan-internal-affairs-894.3311f-visits-of-vessels-2",
+  "file": "894.3311F Visits Of Vessels And Aircraft Of Japan To Ports Of Canal Zone.,  464.pdf",
+  "created": "2026-09-29 04:24:04"
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "interest": "Japanese accusations against Naval Attaché Ofstie near Kure.",
+ "keywords": [
+  "photography",
+  "espionage accusations",
+  "naval attaché",
+  "Ralph A. Ofstie",
+  "Kure air station",
+  "Japan",
+  "Far Eastern Affairs",
+  "J. K. Caldwell",
+  "Seoul",
+  "Chosen",
+  "presidential audience",
+  "military intelligence"
+ ],
+ "overview": "File 894.4035: a 1936 note on Ofstie accused of photographing near Kure, and a misfiled 1932 memo.",
+ "people": [
+  {
+   "name": "Ralph A. Ofstie",
+   "role": "Assistant American Naval Attaché to Japan",
+   "variants": [
+    "R. A. Ofstie"
+   ]
+  },
+  {
+   "name": "Erle R. Dickover",
+   "role": "First Secretary of Embassy / American Diplomatic Officer",
+   "variants": [
+    "Diskover"
+   ]
+  },
+  {
+   "name": "John K. Caldwell",
+   "role": "Foreign Service Officer, Division of Far Eastern Affairs",
+   "variants": [
+    "J. K. Caldwell",
+    "JKC"
+   ]
+  },
+  {
+   "name": "George Shannon McCune",
+   "role": "Missionary and educator in Korea (author of referenced letter)",
+   "variants": [
+    "McCune"
+   ]
+  },
+  {
+   "name": "Hirayama",
+   "role": "Subject of proposed audience with the President",
+   "variants": [
+    "Mr Hirayama"
+   ]
+  },
+  {
+   "name": "Herbert Hoover",
+   "role": "President of the United States",
+   "variants": [
+    "the President",
+    "President"
+   ]
+  },
+  {
+   "name": "D. P.",
+   "role": "State Department official (Division of Far Eastern Affairs)",
+   "variants": [
+    "D P"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department cross-reference sheet concerning allegations that Assistant Naval Attaché R. A. Ofstie took photographs near the Kure naval air station.",
+   "date": "1936-10-09",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Embassy in Japan (Erle R. Dickover)",
+   "keywords": [
+    "photography",
+    "R. A. Ofstie",
+    "Kure",
+    "naval attaché",
+    "air station",
+    "Foreign Office",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference: Japan accused Ofstie of photographing near Kure; Embassy denied it.",
+   "title": "Cross-Reference Sheet on Accusation of Photography by R. A. Ofstie Near Kure Air Station",
+   "to": "Department of State"
+  },
+  {
+   "about": "An internal State Department memorandum concerning a proposed response to McCune regarding an audience of Mr. Hirayama with the President.",
+   "date": "1932-03-12",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "J. K. Caldwell",
+   "keywords": [
+    "J. K. Caldwell",
+    "McCune",
+    "Mr Hirayama",
+    "President",
+    "Seoul",
+    "Chosen",
+    "Far Eastern Affairs"
+   ],
+   "start_page": 2,
+   "summary": "Caldwell memo on McCune's letter about Hirayama's audience with the President, misfiled.",
+   "title": "Memorandum on Letter from McCune Regarding Audience of Mr. Hirayama with the President",
+   "to": "D P"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13820,
+   "output_tokens": 5819,
+   "thinking_tokens": 4625,
+   "cache_read_tokens": 0,
+   "total_tokens": 19639
+  },
+  "backend": "agy",
+  "seconds": 26.0,
+  "identifier": "japan-internal-affairs-894.4035-social-matters-fine-1",
+  "file": "894.4035 Social Matters., Fine Arts., Japan, Photography., October 9, 1936 933.pdf",
+  "created": "2026-09-29 05:20:33"
+ }
+}

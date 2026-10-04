@@ -1,0 +1,104 @@
+{
+ "interest": "Japanese navy reserved drydocks; the disabled West Cusseta sought space.",
+ "keywords": [
+  "Japan",
+  "drydocks",
+  "harbors",
+  "ship repairs",
+  "naval authorities",
+  "foreign steamships",
+  "Kobe",
+  "Yokohama",
+  "West Cusseta",
+  "P. and O. Steamship Company",
+  "Joseph C. Grew",
+  "maritime commerce"
+ ],
+ "overview": "List of Papers for 894.1564: Grew's telegrams on naval limits on foreign repairs and drydock space for the West Cusseta.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Telegram reporting naval restrictions on Japanese dockyards accepting advance repair bookings for foreign steamships.",
+   "date": "1944-01-20",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "drydocks",
+    "ship repairs",
+    "naval authorities",
+    "foreign steamships",
+    "Kobe",
+    "P. and O. Steamship Company",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Grew reports naval orders barring Japanese dockyards from accepting foreign repair orders over thirty days ahead.",
+   "title": "Telegram from Grew on restriction of foreign steamship repairs",
+   "to": "Division of Far Eastern Affairs (FE)"
+  },
+  {
+   "about": "Telegram regarding the availability of drydock facilities at Yokohama for the disabled American vessel West Cusseta.",
+   "date": "1944-04-18",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "West Cusseta",
+    "Yokohama",
+    "drydocks",
+    "ship repairs",
+    "rudder",
+    "Foreign Office",
+    "Japan"
+   ],
+   "start_page": 1,
+   "summary": "Grew reports the rudderless West Cusseta towed to Yokohama; drydocks are full, but Japan will try to free space.",
+   "title": "Telegram from Grew on drydock accommodation for the West Cusseta",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13857,
+   "output_tokens": 28301,
+   "thinking_tokens": 27385,
+   "cache_read_tokens": 0,
+   "total_tokens": 42158
+  },
+  "backend": "agy",
+  "seconds": 84.3,
+  "identifier": "japan-internal-affairs-894.1564-public-works-harbors-3",
+  "file": "894.1564 Public Works., Harbors., Japan, Drydocks.,  406.pdf",
+  "created": "2026-09-28 23:33:13"
+ }
+}

@@ -1,0 +1,910 @@
+{
+ "section_summary": "This section combines reports on Japanese Army leadership changes, national-defense mobilization, military industry, anti-foreign controls, and proposed legislation protecting military-resource secrets. It includes biographical intelligence on senior generals, diplomatic and attaché reporting from 1937–1939, and administrative cross-reference sheets. The largest subfile is the opening portion of a March 1939 U.S. Army combat estimate detailing Japan’s defense command, manpower, field organization, weapons, aviation, logistics, and reserve forces.",
+ "places": [
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "CHINA",
+    "Chine",
+    "chine",
+    "Chint."
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden",
+    "MukdEn"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "PEiping",
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Weshingt on",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyc",
+    "Tokye",
+    "Tekyo"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Wuhan",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russie",
+    "Russit"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory (Guandong)",
+   "variants": [
+    "Kwantung",
+    "Kwantung Leased Territery",
+    "Kwangtung"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "anchurie",
+    "anehuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "anchoukuo"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America",
+    "Amorica"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "hilippines"
+   ]
+  },
+  {
+   "name": "Nagasaki Consular District",
+   "variants": [
+    "Nagasaki Consular District",
+    "lagasaki consular district"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Kudamatsu",
+   "variants": [
+    "Kudamatsu"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Ken"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Hondo"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "Tobata"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "Kokura"
+   ]
+  },
+  {
+   "name": "Yahata, Kitakyushu",
+   "variants": [
+    "Yawata"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "Hakata"
+   ]
+  },
+  {
+   "name": "Kitakyushu industrial region",
+   "variants": [
+    "Yawata-Kokura region"
+   ]
+  },
+  {
+   "name": "Miike",
+   "variants": [
+    "Miike"
+   ]
+  },
+  {
+   "name": "Ōmuta",
+   "variants": [
+    "Omuta"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Saseho"
+   ]
+  },
+  {
+   "name": "Nagasaki Bay",
+   "variants": [
+    "Nagasaki Bay"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Loo Choo"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN",
+    "Jepen",
+    "Japen"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Itely"
+   ]
+  },
+  {
+   "name": "Mediterranean Sea",
+   "variants": [
+    "Mediterranean"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africen"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Sea Islands"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Southern Sakhalin",
+   "variants": [
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "Japanese home islands",
+   "variants": [
+    "Japan proper",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Kakamigahara",
+   "variants": [
+    "Kagamigahara"
+   ]
+  },
+  {
+   "name": "Yōkaichi",
+   "variants": [
+    "Yokaichi"
+   ]
+  },
+  {
+   "name": "Tachiarai",
+   "variants": [
+    "Tachiarai"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "Tachikawa"
+   ]
+  },
+  {
+   "name": "Pyongyang",
+   "variants": [
+    "Heiju"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "Heito"
+   ]
+  },
+  {
+   "name": "Hoeryong",
+   "variants": [
+    "Kainei"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Tsitsihar"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Gongzhuling",
+   "variants": [
+    "Kungchuling",
+    "Koshurei"
+   ]
+  },
+  {
+   "name": "Imazu",
+   "variants": [
+    "Imazu"
+   ]
+  },
+  {
+   "name": "Kakogawa",
+   "variants": [
+    "Kakogawa"
+   ]
+  },
+  {
+   "name": "Chiayi",
+   "variants": [
+    "Kagi"
+   ]
+  },
+  {
+   "name": "Mudanjiang",
+   "variants": [
+    "Mutankiang",
+    "Botanko"
+   ]
+  },
+  {
+   "name": "Hailar",
+   "variants": [
+    "Hailar"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Salisbury",
+   "role": "U.S. diplomatic officer who transmitted the Peiping telegram and later worked in the Division of Far Eastern Affairs",
+   "variants": [
+    "Sal1sbury)",
+    "SALISBURY",
+    "SaLabury"
+   ]
+  },
+  {
+   "name": "Kanji Ishiwara",
+   "role": "General and Vice Chief of Staff of the Kwantung Army, described as favoring war with Russia",
+   "variants": [
+    "Ishihara"
+   ]
+  },
+  {
+   "name": "Kenkichi Ueda",
+   "role": "Commander-in-Chief of the Kwantung Army and ambassador, reportedly slated for transfer to an advisory office",
+   "variants": [
+    "UEda"
+   ]
+  },
+  {
+   "name": "Hisaichi Terauchi",
+   "role": "Japanese general proposed as Ueda's replacement and later reportedly subject to replacement himself",
+   "variants": [
+    "Terauchi",
+    "Torauchi"
+   ]
+  },
+  {
+   "name": "Kenji Doihara",
+   "role": "Japanese general proposed for a senior command and mentioned in connection with political arrangements in China",
+   "variants": [
+    "Doihara",
+    "Doiheras"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Lieutenant general and Vice Minister of War",
+   "variants": [
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Seishirō Itagaki",
+   "role": "Lieutenant general, China and Manchuria specialist, and Minister of War from June 1938",
+   "variants": [
+    "gls lro lagak",
+    "itegaki",
+    "t ki"
+   ]
+  },
+  {
+   "name": "Shigeru Honjō",
+   "role": "Major general and Japanese military attaché in China under whom Itagaki served",
+   "variants": [
+    "tru onjo"
+   ]
+  },
+  {
+   "name": "Harry I. T. Creswell",
+   "role": "U.S. Army military attaché in Tokyo; major and later lieutenant colonel, Acting General Staff",
+   "variants": [
+    "Harry I.T. Creswell",
+    "Harry I. T. Creswell"
+   ]
+  },
+  {
+   "name": "Masao Kishimoto",
+   "role": "Lieutenant general and Inspector General of Artillery",
+   "variants": [
+    "masuo simoto",
+    "Kimoto"
+   ]
+  },
+  {
+   "name": "Glen Bruner",
+   "role": "American Vice Consul and author of the Nagasaki defense report",
+   "variants": [
+    "Glen Bruner"
+   ]
+  },
+  {
+   "name": "Kuniaki Koiso",
+   "role": "Commander of Japanese forces in Korea and reported prospective replacement for Terauchi",
+   "variants": [
+    "Koisonow"
+   ]
+  },
+  {
+   "name": "Wu Peifu",
+   "role": "Chinese military and political figure being pressed to head a new government",
+   "variants": [
+    "Wupei Fu"
+   ]
+  },
+  {
+   "name": "Wang Kemin",
+   "role": "Head of the existing Japanese-sponsored government whom Wu Peifu might replace",
+   "variants": [
+    "Wang Keh Min"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department adviser and principal recipient of the July 1938 confidential memorandum",
+   "variants": [
+    "MR. HORBECK",
+    "Dr. Hornbeck"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "State Department official who received copies of the July 1938 memorandum",
+   "variants": [
+    "Mr. Hamilton"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan and author of cited Tokyo despatches",
+   "variants": [
+    "Grow",
+    "Joseph C. Grew",
+    "Joh 6. frm"
+   ]
+  },
+  {
+   "name": "Max W. Schmidt",
+   "role": "Preparer of a memorandum on Japanese national mobilization",
+   "variants": [
+    "Max W. Schmidt"
+   ]
+  },
+  {
+   "name": "William Henry Chamberlin",
+   "role": "Author whose views on the likelihood of a Japanese-Soviet war were cited by a retired Japanese naval officer",
+   "variants": [
+    "William Henry Chambarlin"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese Army",
+  "Kwantung Army",
+  "national defense",
+  "military mobilization",
+  "military-resource secrecy",
+  "industrial espionage",
+  "military industry",
+  "Army Air Corps",
+  "China war",
+  "combat estimate",
+  "anti-foreign restrictions",
+  "military intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Document File Note: Shifts in the Japanese Mukden Command",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1938-07-12",
+   "from": "",
+   "to": "894.20/21 file",
+   "about": "A filing note summarizes and cross-references a telegram reporting imminent changes in the Japanese high command at Mukden.",
+   "summary": "The note states that changes in the Japanese Mukden command were expected shortly. It interprets General Ishiwara's removal as evidence of détente with Russia and a concentration of Japanese effort in China, and directs the reader to the attached telegram.",
+   "keywords": [
+    "Mukden",
+    "Kwantung Army",
+    "command changes",
+    "Ishiwara",
+    "Russia",
+    "China"
+   ]
+  },
+  {
+   "title": "Telegram No. 436: Japanese Command Changes at Mukden",
+   "doc_type": "telegram",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1938-07-12",
+   "from": "Salisbury, Peiping",
+   "to": "Secretary of State, Washington",
+   "about": "Salisbury forwards a Mukden report forecasting transfers and replacements among the senior commanders of the Kwantung Army.",
+   "summary": "The report says Commander-in-Chief and Ambassador Ueda would be transferred to an advisory office in Tokyo and replaced by General Terauchi, whose place would be taken by General Doihara. General Ishiwara, Vice Chief of Staff of the Kwantung Army, was also expected to be relieved. His removal was interpreted as a move away from conflict with Russia and toward concentrating Japanese efforts in China.",
+   "keywords": [
+    "Mukden",
+    "Ueda",
+    "Terauchi",
+    "Doihara",
+    "Ishiwara",
+    "Kwantung Army",
+    "Russia"
+   ]
+  },
+  {
+   "title": "Who's Who in the Army: Lieutenant General Hideki Tojo",
+   "doc_type": "military attaché report",
+   "start_page": 3,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1938-06-01",
+   "from": "Military Attaché, Tokyo",
+   "to": "Military Intelligence Division, War Department",
+   "about": "A biographical intelligence report traces Hideki Tojo's military career and assesses his appointment as Vice Minister of War.",
+   "summary": "The report supplies a chronological service record culminating in Tojo's leadership in the Kwantung Army and appointment as Vice Minister of War. It links the appointment to the May 1938 cabinet reorganization and the selection of officers aligned with the conduct of operations in China. Tojo is characterized as able and generally approved within the Army.",
+   "keywords": [
+    "Hideki Tojo",
+    "Vice Minister of War",
+    "biographical intelligence",
+    "Kwantung Army",
+    "China operations"
+   ]
+  },
+  {
+   "title": "Who's Who in National Defense: Lieutenant General Seishirō Itagaki",
+   "doc_type": "military attaché report",
+   "start_page": 5,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1938-06-06",
+   "from": "Harry I. T. Creswell, Military Attaché, Tokyo",
+   "to": "Military Intelligence Division, War Department",
+   "about": "The report reviews Seishirō Itagaki's career and evaluates his appointment as Japan's Minister of War.",
+   "summary": "Itagaki's record includes service in the Russo-Japanese War, duty in China and Manchuria, senior posts in the Kwantung Army, and command of the 5th Division. His June 1938 appointment as Minister of War is treated as notable because many officers were senior to him. The report describes him as able, knowledgeable about China and Manchuria, popular among commissioned personnel, and likely to favor aggressive operations in China.",
+   "keywords": [
+    "Seishirō Itagaki",
+    "Minister of War",
+    "Kwantung Army",
+    "Manchuria",
+    "China",
+    "military biography"
+   ]
+  },
+  {
+   "title": "Who's Who in the Army: Lieutenant General Masao Kishimoto",
+   "doc_type": "military attaché report",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1938-06-21",
+   "from": "Harry I. T. Creswell, Military Attaché, Tokyo",
+   "to": "Military Intelligence Division, War Department",
+   "about": "A personnel report outlines the artillery career of Lieutenant General Masao Kishimoto.",
+   "summary": "The report follows Kishimoto from his commissioning in 1904 through artillery regimental, instructional, and school commands to his appointment as Inspector General of Artillery in 1938. It describes him as one of the artillery branch's foremost officers. It also notes that he attained general-officer rank without attending the Staff College.",
+   "keywords": [
+    "Masao Kishimoto",
+    "artillery",
+    "Inspector General of Artillery",
+    "Army schools",
+    "military biography"
+   ]
+  },
+  {
+   "title": "Observations in Relation to Matters of Possible Military Interest: Nagasaki Consular District",
+   "doc_type": "consular report",
+   "start_page": 8,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1937-05-17",
+   "from": "Glen Bruner, American Vice Consul",
+   "to": "Department of State",
+   "about": "Bruner reports on defense-related industrial expansion, civil mobilization, and growing restrictions on foreigners in the Nagasaki consular district.",
+   "summary": "The report describes oil storage, fortifications, steel and chemical production, a reported poison-gas plant near Moji, naval activity at Sasebo, and Mitsubishi industrial expansion around Nagasaki Bay. It examines propaganda, military training, air-raid drills, troop send-offs, and commemorative rituals used to create public solidarity around national defense. Bruner also reports heightened surveillance and harassment of foreigners, missionary withdrawals from the Ryukyus and southern Kyushu, and attributes much of the regional anti-foreign campaign to the gendarmerie commandant at Kumamoto.",
+   "keywords": [
+    "Nagasaki",
+    "defense industry",
+    "Moji",
+    "Sasebo",
+    "Mitsubishi",
+    "civil defense",
+    "anti-foreign sentiment",
+    "gendarmerie"
+   ]
+  },
+  {
+   "title": "Confidential Memorandum on Japanese Army and Government Changes in China",
+   "doc_type": "confidential memorandum",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1938-07-08",
+   "from": "Unstated; information received from Peiping",
+   "to": "Stanley K. Hornbeck",
+   "about": "The memorandum reports anticipated Japanese command changes and renewed pressure on Wu Peifu to lead a Japanese-sponsored government in China.",
+   "summary": "A Peiping source believed Kuniaki Koiso, commander of Japanese forces in Korea, would replace Terauchi and pursue a more active North China policy. The change was expected to strengthen Kwantung Army control in Tokyo and across Japanese-occupied China. The memorandum also says Wu Peifu's resistance to replacing Wang Kemin was weakening, while Doihara was mentioned as a less likely alternative.",
+   "keywords": [
+    "Koiso",
+    "Terauchi",
+    "North China",
+    "Kwantung Army",
+    "Wu Peifu",
+    "Wang Kemin",
+    "collaborationist government"
+   ]
+  },
+  {
+   "title": "Document File Note: National Mobilization in Japan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 15,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1938-11-01",
+   "from": "Department of State filing office",
+   "to": "894.20/218 file",
+   "about": "A cross-reference points to Ambassador Grew's despatch No. 3380 and its enclosed memorandum on Japanese national mobilization.",
+   "summary": "The sheet refers the reader to despatch No. 3380 from Japan, dated November 1, 1938. That despatch enclosed a memorandum prepared by Max W. Schmidt concerning national mobilization in Japan.",
+   "keywords": [
+    "national mobilization",
+    "Japan",
+    "Joseph Grew",
+    "Max W. Schmidt",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Document File Note: Further Implementation of the National General Mobilization Law",
+   "doc_type": "cross-reference sheet",
+   "start_page": 16,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1939-01-30",
+   "from": "Department of State filing office",
+   "to": "894.20/219 file",
+   "about": "A cross-reference directs readers to Grew's despatch No. 3640 concerning an ordinance implementing Japan's National General Mobilization Law.",
+   "summary": "The sheet identifies a January 30, 1939 despatch from Japan on further implementation of the National General Mobilization Law. The referenced despatch enclosed a translation of Imperial Ordinance No. 5, promulgated January 6, 1939, together with an appendix.",
+   "keywords": [
+    "National General Mobilization Law",
+    "Imperial Ordinance No. 5",
+    "Japan",
+    "Joseph Grew",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Departmental Note on Proposed Legislation to Suppress Industrial Espionage",
+   "doc_type": "departmental memorandum",
+   "start_page": 17,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1939-03-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note summarizes Tokyo despatch No. 3714 and warns that Japan's proposed military-resource secrecy law could impede American commercial reporting.",
+   "summary": "The Division of Far Eastern Affairs characterizes the proposed legislation as exceptionally broad, covering materials that possessed or might later acquire military significance. It predicts that enactment would seriously handicap American consulates and other government representatives seeking commercial information in Japan.",
+   "keywords": [
+    "industrial espionage",
+    "military resources",
+    "secrecy legislation",
+    "commercial intelligence",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Despatch No. 3714: Proposed Legislation to Suppress Industrial Espionage",
+   "doc_type": "diplomatic despatch",
+   "start_page": 18,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1939-03-01",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Grew reports on a proposed Japanese law intended to preserve secrecy concerning a sweeping range of military resources.",
+   "summary": "The despatch lists fifteen categories of protected information, including war-production capacity, strategic stocks and imports, technicians, aircraft, vehicles, horses, railways, airports, ships, communications, research, weather, and concealed installations. War and Navy ministers would receive broad powers to demand reports, restrict access, order concealment, and prohibit disclosure. Grew concludes that strict enforcement could obstruct legitimate commercial information gathering and promises a translation after passage and promulgation.",
+   "keywords": [
+    "Joseph Grew",
+    "industrial espionage",
+    "military resources",
+    "secrecy law",
+    "War Ministry",
+    "Navy Ministry",
+    "commercial reporting"
+   ]
+  },
+  {
+   "title": "Attaché's Report No. 44: Japanese Military Police",
+   "doc_type": "naval attaché report",
+   "start_page": 21,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "1939-03-01",
+   "from": "United States Naval Attaché, Japan",
+   "to": "Office of the Chief of Naval Operations, Navy Department",
+   "about": "The Naval Attaché analyzes three foreign-policy questions that Japanese military police reportedly sought to have him answer.",
+   "summary": "The military police wanted opinions on the duration of the China war, the United States reaction to the occupation of Hainan, and whether Russia would attack Japan during a European war. The report treats the questions as possible evidence of uncertainty about China, concern over the diplomatic consequences of Japan's southward expansion, and limited knowledge of Soviet intentions. It also considers possible German-Italian-Japanese military understandings and cites William Henry Chamberlin's views on the improbability of a Japanese-Soviet war.",
+   "keywords": [
+    "Japanese military police",
+    "China war",
+    "Hainan",
+    "Soviet-Japanese relations",
+    "Europe",
+    "Axis relations",
+    "intelligence collection"
+   ]
+  },
+  {
+   "title": "G-2 Report No. 9735: Law for the Protection of Secrets Concerning Military Resources",
+   "doc_type": "military attaché report",
+   "start_page": 23,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1939-03-08",
+   "from": "Harry I. T. Creswell, Military Attaché, Tokyo",
+   "to": "Military Intelligence Division, War Department",
+   "about": "Creswell supplies a translation and assessment of Japan's proposed law protecting secrets connected with military resources.",
+   "summary": "The translated draft defines protected information broadly, covering industrial output and capacity, stockpiles, imports, technical personnel, transport, aviation, shipping, communications, research, weather, and concealed facilities. It authorizes ministers to designate secrets, mark documents, conceal installations, restrict entry and observation, control official records, conduct inspections, and compensate affected owners. Severe penalties apply to espionage, publication, disclosure to foreigners, prohibited observation, false reporting, and organized attempts to acquire secrets, including offenses committed outside Japan. Creswell concludes that the measure supplements the earlier Military Secrets Protection Law so comprehensively that almost any military-related information could be restricted and even the list of secrets concealed.",
+   "keywords": [
+    "Military Secrets Protection Law",
+    "military resources",
+    "espionage",
+    "industrial secrecy",
+    "criminal penalties",
+    "War Minister",
+    "Navy Minister",
+    "Creswell"
+   ]
+  },
+  {
+   "title": "Charge Slip: File 894.27 Enclosure",
+   "doc_type": "charge slip",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "An administrative charge slip records circulation or temporary removal of an enclosure associated with file 894.27.",
+   "summary": "The page contains routing abbreviations, clerks' entries, and several handwritten or stamped numbers and dates. It provides no substantive discussion of Japanese military affairs.",
+   "keywords": [
+    "charge slip",
+    "file circulation",
+    "enclosure",
+    "records administration"
+   ]
+  },
+  {
+   "title": "Japan Combat Estimate",
+   "doc_type": "military intelligence estimate",
+   "start_page": 31,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1939-03-31",
+   "from": "G-2, War Department General Staff",
+   "to": "Department of State",
+   "about": "The opening portion of a comprehensive U.S. military estimate describes Japan's national-defense system, Army manpower, organization, combat arms, aviation, services, and reserves.",
+   "summary": "After a detailed table of contents, the estimate explains the Emperor's supreme command and the roles of the Board of Marshals and Admirals, High Military Council, Imperial Headquarters, War Ministry, General Staff, training inspectorates, and aviation authorities. It estimates Japanese manpower and wartime deployments across Manchukuo, Korea, Taiwan, China, and the home islands, then describes heavy and proposed light divisions and the organization and equipment of infantry, armor, artillery, cavalry, engineers, signals, transport, and military police. Extensive tables cover Army Air Corps personnel, aircraft, squadron organization, bases, maintenance, and command arrangements. The surviving pages end during discussions of chemical warfare, ordnance, intendance, medical and veterinary services, and reserve manpower, with the estimate continuing beyond this section.",
+   "keywords": [
+    "Japan Combat Estimate",
+    "Japanese Army",
+    "national defense organization",
+    "mobilization",
+    "divisions",
+    "Army Air Corps",
+    "artillery",
+    "logistics",
+    "military manpower",
+    "reserve forces"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 2,
+  "pages": [
+   1,
+   57
+  ],
+  "pdf": "894.20 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., July 12, 1938 - May 6, 1940 1190.pdf",
+  "seconds": 854.6,
+  "created": "2026-09-30 08:50:30",
+  "key": "japan-internal-affairs-894.20-military-affairs-army-9"
+ }
+}

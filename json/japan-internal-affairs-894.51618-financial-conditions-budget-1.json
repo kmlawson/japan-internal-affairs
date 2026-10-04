@@ -1,0 +1,138 @@
+{
+ "interest": "This file provides valuable insight into Japan's economic expansion into Latin America during the mid-1930s and the commercial and political resistance it provoked. It highlights diplomatic coordination between the United States and Central American republics regarding Japanese trade penetration, revealing that the Costa Rican government actively sought to curb Japanese imports and deny banking facilities to Japan's Yokohama Specie Bank. Additionally, the document illuminates consumer-level reactions and grassroots commercial evasion, specifically noting that merchants removed 'Made in Japan' labels or falsely claimed merchandise was not Japanese to overcome rising consumer boycotts.",
+ "keywords": [
+  "Yokohama Specie Bank",
+  "Costa Rica",
+  "Japan",
+  "Japanese exports",
+  "banking",
+  "foreign trade",
+  "import restrictions",
+  "trade rivalry",
+  "Made in Japan",
+  "consumer boycotts",
+  "San José",
+  "Central America"
+ ],
+ "overview": "This file consists of a confidential diplomatic despatch (No. 857) dated September 18, 1935, sent from the U.S. Legation in San José, Costa Rica, to the Secretary of State in Washington. It addresses persistent rumors in local financial circles that the Japanese-owned Yokohama Specie Bank planned to establish a branch in San José to facilitate the influx of Japanese exports into Costa Rica. U.S. Minister Leo R. Sack reports that upon inquiring with Costa Rican Foreign Minister Raúl Gurdián, he was assured the rumors were unfounded and that Costa Rica would refuse authorization for such a branch while actively working to restrict Japanese imports. The despatch also details mounting anti-Japanese consumer sentiment in Costa Rica, prompting local merchants to conceal or erase 'Made in Japan' markings on goods to maintain sales.",
+ "people": [
+  {
+   "name": "Leo R. Sack",
+   "role": "U.S. Minister to Costa Rica",
+   "variants": [
+    "LEO M. RACK.",
+    "LRS"
+   ]
+  },
+  {
+   "name": "Raúl Gurdián",
+   "role": "Minister for Foreign Affairs of Costa Rica",
+   "variants": [
+    "Mr. Gurdián",
+    "Minister for Foreign Affairs"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "The Secretary of State"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "San José",
+   "variants": [
+    "San José",
+    "San Jose"
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Guatemala",
+   "variants": [
+    "Guatemala"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "Salvador"
+   ]
+  },
+  {
+   "name": "Honduras",
+   "variants": [
+    "Honduras"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nicaragua"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Report on rumors of the Yokohama Specie Bank opening a branch in San José and the Costa Rican government's refusal to permit Japanese banking expansion.",
+   "date": "1935-09-18",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Leo R. Sack (U.S. Minister to Costa Rica)",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "San José",
+    "Costa Rica",
+    "Japanese exports",
+    "trade restrictions",
+    "consumer boycotts",
+    "labeling"
+   ],
+   "start_page": 1,
+   "summary": "U.S. Minister Leo R. Sack reports on rumors circulating in San José financial circles regarding the prospective opening of a Yokohama Specie Bank branch to finance Japanese merchandise exports. In response to Sack's inquiry, Costa Rican Minister for Foreign Affairs Raúl Gurdián denied the rumors, stating that no authority for a branch would be granted and that Costa Rica was actively acting to reduce Japanese imports. Sack additionally notes growing public opposition among Costa Rican consumers toward Japanese goods, leading merchants to falsely deny their origin and sell merchandise stripped of 'Made in Japan' markings.",
+   "title": "Despatch No. 857 from Leo R. Sack on Rumored Yokohama Specie Bank Branch in San José",
+   "to": "The Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14066,
+   "output_tokens": 3635,
+   "thinking_tokens": 2691,
+   "cache_read_tokens": 0,
+   "total_tokens": 17701
+  },
+  "backend": "agy",
+  "seconds": 19.6,
+  "identifier": "japan-internal-affairs-894.51618-financial-conditions-budget-1",
+  "file": "894.51618 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Branch Banks Of Japan In Costa Rica., September 18, 1935 879.pdf",
+  "created": "2026-09-29 09:53:20"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "interest": "Japanese airfields and machinery for Siam, 1941.",
+ "keywords": [
+  "Siam",
+  "Thailand",
+  "Japan",
+  "military bases",
+  "airfield construction",
+  "heavy machinery",
+  "road-building equipment",
+  "Malaya",
+  "Singapore",
+  "State Department records",
+  "Division of Far Eastern Affairs",
+  "pre-war intelligence"
+ ],
+ "overview": "Docket for 894.24595: Singapore reports on Japanese airfield building and machinery purchases for Siam.",
+ "people": [
+  {
+   "name": "Kenneth S. Patton",
+   "role": "U.S. Consul General in Singapore (Foreign Service Officer)",
+   "variants": [
+    "Patton"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam",
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Southern Thailand",
+   "variants": [
+    "South Siam"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "State Department List of Papers docket sheet listing incoming consular communications from Singapore concerning Japanese military base and airfield construction in Siam.",
+   "date": "",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Siam",
+    "Thailand",
+    "military bases",
+    "airfield construction",
+    "machinery purchases",
+    "Malaya",
+    "Singapore"
+   ],
+   "start_page": 1,
+   "summary": "Docket: Japanese airfield building and machinery purchases for Siam.",
+   "title": "List of Papers: Military Bases of Japan in Siam",
+   "to": "Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13745,
+   "output_tokens": 3367,
+   "thinking_tokens": 2668,
+   "cache_read_tokens": 0,
+   "total_tokens": 17112
+  },
+  "backend": "agy",
+  "seconds": 14.1,
+  "identifier": "japan-internal-affairs-894.24592-equipment-and-supplies-2",
+  "file": "894.24592 Equipment And Supplies., Military Bases Of Japan In Thailand.,  528.pdf",
+  "created": "2026-09-29 03:48:30"
+ }
+}

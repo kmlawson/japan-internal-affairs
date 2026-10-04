@@ -1,0 +1,849 @@
+{
+ "section_summary": "This section continues a British economic report on Japan, surveying commodity production and trade, major industries, automobiles, cinema, radio, transport, communications, commercial treaties, tariffs, and export-promotion measures through mid-1930. It then begins an annex by Acting British Consul A. R. Ovens on Taiwan (Formosa), covering its finances, foreign trade, agriculture, extractive industries, fuels, motor vehicles, and economic conditions in 1929 and the first part of 1930.",
+ "places": [
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "China and Manchuria"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "China and Manchuria",
+    "south Manchuria"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "Straits Settlements"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Dutch East Indies"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "British overseas territories",
+   "variants": [
+    "British overseas territories"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Southern and Eastern Africa",
+   "variants": [
+    "South and East Africa"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "British India",
+    "India"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Asiatic Russia",
+    "Soviet Russia"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "French Indo China"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European countries",
+    "Europe"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Denmark"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Corea",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "leased territory of Kwantung",
+    "Kwantung",
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Sinuiju",
+   "variants": [
+    "Shingishu"
+   ]
+  },
+  {
+   "name": "Anshan",
+   "variants": [
+    "Anshan"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austria"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czechoslovakia"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "North Sakhalin",
+   "variants": [
+    "North Saghalien"
+   ]
+  },
+  {
+   "name": "South Sakhalin",
+   "variants": [
+    "South (Japanese) Sighalien",
+    "Japanese Saghalien"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Chennai",
+   "variants": [
+    "Madras"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Shinjuku",
+   "variants": [
+    "Shinjuku"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osaku"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Valparaíso",
+   "variants": [
+    "Valparaiso"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Beppu",
+   "variants": [
+    "Beppu"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Ulsan",
+   "variants": [
+    "Urusan"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "South Corea"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Pyongyang",
+   "variants": [
+    "Heija",
+    "Heijo"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Corea"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matsuyama"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "North Island of Japan"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Tokyo Bay",
+   "variants": [
+    "Tokyo Bay"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "Haramachi",
+   "variants": [
+    "Hara No Machi"
+   ]
+  },
+  {
+   "name": "Tomioka",
+   "variants": [
+    "Tomioka"
+   ]
+  },
+  {
+   "name": "Sainte-Assise",
+   "variants": [
+    "Ste. Assise"
+   ]
+  },
+  {
+   "name": "Nauen",
+   "variants": [
+    "Nauen"
+   ]
+  },
+  {
+   "name": "Warsaw",
+   "variants": [
+    "Warsaw"
+   ]
+  },
+  {
+   "name": "Yosami",
+   "variants": [
+    "Yosami"
+   ]
+  },
+  {
+   "name": "Kaizo",
+   "variants": [
+    "Kaizo"
+   ]
+  },
+  {
+   "name": "Malabar, West Java",
+   "variants": [
+    "Malabar"
+   ]
+  },
+  {
+   "name": "Petropavlovsk-Kamchatsky",
+   "variants": [
+    "Petropavlovsk"
+   ]
+  },
+  {
+   "name": "Kamchatka",
+   "variants": [
+    "Kamchatka"
+   ]
+  },
+  {
+   "name": "Ochiishi",
+   "variants": [
+    "Ochiishi"
+   ]
+  },
+  {
+   "name": "Mumbai",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Sydney",
+   "variants": [
+    "Sydney"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Iwatsuki",
+   "variants": [
+    "Iwatsuki"
+   ]
+  },
+  {
+   "name": "Kemigawa",
+   "variants": [
+    "Kemikawa"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Persia"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Marunouchi",
+   "variants": [
+    "Marunouchi"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Seas Mandated Territory"
+   ]
+  },
+  {
+   "name": "Tamsui (Danshui)",
+   "variants": [
+    "Tamsui"
+   ]
+  },
+  {
+   "name": "Xiamen",
+   "variants": [
+    "Amoy"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Keelung"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Swatow"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Taichu"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "Takao"
+   ]
+  },
+  {
+   "name": "Shinkō",
+   "variants": [
+    "Shinko"
+   ]
+  },
+  {
+   "name": "Sun Moon Lake",
+   "variants": [
+    "Lake Candidius"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Yangon",
+   "variants": [
+    "Rangoon"
+   ]
+  },
+  {
+   "name": "Ho Chi Minh City",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "Linkou",
+   "variants": [
+    "Rinkosho"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "Jinguashi",
+   "variants": [
+    "Kinkaseki"
+   ]
+  },
+  {
+   "name": "Saganoseki",
+   "variants": [
+    "Sagonoseki"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "A. R. Ovens",
+   "role": "Acting British Consul at Tamsui and author of the annexed report on Formosa",
+   "variants": [
+    "A. R. Ovens"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese foreign trade",
+  "industrial production",
+  "imports and exports",
+  "economic depression",
+  "transport and communications",
+  "shipping and aviation",
+  "tariffs and trade policy",
+  "domestic-product campaign",
+  "Formosa",
+  "agriculture",
+  "sugar and rice",
+  "British commercial interests"
+ ],
+ "subfiles": [
+  {
+   "title": "Report on Economic Conditions in Japan, 1930 (continued)",
+   "doc_type": "economic report",
+   "start_page": 48,
+   "end_page": 80,
+   "continues_previous": true,
+   "date": "1930-06",
+   "from": "",
+   "to": "",
+   "about": "Continues a comprehensive survey of Japanese trade, industry, transport, communications, and commercial policy through mid-1930.",
+   "summary": "The report supplies extensive statistics on wheat flour, preserved foods, cement, iron and steel, machinery, woollens, petroleum, chemicals, automobiles, motorcycles, cinema films, and radio apparatus. It emphasizes expanding Japanese domestic production, import substitution, industrial overcapacity, depressed markets, and British efforts to retain export business. Later sections examine roads, railways, merchant shipping, shipbuilding, commercial aviation, wireless services, treaties, tariffs, export-promotion legislation, and the official campaign to favor Japanese goods. It closes with notes on the 1929 World Engineering Congress and forthcoming international meetings in Tokyo.",
+   "keywords": [
+    "commodity trade",
+    "industrial rationalization",
+    "import substitution",
+    "machinery",
+    "automobiles",
+    "cinema and radio",
+    "railways and shipping",
+    "commercial aviation",
+    "wireless communications",
+    "tariffs and legislation"
+   ]
+  },
+  {
+   "title": "Annex I: Report on the Trade of Formosa for 1929 and Conditions to June, 1930",
+   "doc_type": "consular economic report",
+   "start_page": 81,
+   "end_page": 89,
+   "continues_previous": false,
+   "date": "1930-06",
+   "from": "A. R. Ovens, Acting British Consul, Tamsui",
+   "to": "",
+   "about": "Reports on Taiwan's trade, public finances, agriculture, industries, transportation, and commercial conditions in 1929 and early 1930.",
+   "summary": "Ovens provides statistical summaries of Taiwan's population, imports, exports, principal trading partners, railway system, travel conditions, and government budget. He describes a trade surplus driven chiefly by exports to Japan, while warning of falling prices, weak purchasing power, accumulating stocks, and the island's dependence on agriculture. Detailed sections cover sugar, rice, tea, camphor, imitation Panama hats, alcohol, tinned pineapples, mineral ores, coal, cement, fertilizers, petroleum products, and motor vehicles. The report also notes government subsidies, irrigation and infrastructure works, import restrictions, and attempts to improve or diversify production and overseas markets.",
+   "keywords": [
+    "Formosa trade",
+    "colonial economy",
+    "government finance",
+    "sugar",
+    "rice",
+    "tea",
+    "camphor",
+    "pineapples",
+    "fertilizers",
+    "petroleum",
+    "motor vehicles"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   48,
+   89
+  ],
+  "pdf": "894.50 Japan, Economic Matters., July 21, 1930 - April 7, 1932 745.pdf",
+  "seconds": 232.7,
+  "created": "2026-10-03 21:09:56",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-9"
+ }
+}

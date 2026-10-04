@@ -1,0 +1,1375 @@
+{
+ "section_summary": "This section completes one weekly press survey and contains four further despatches analyzing Japanese newspaper reactions to elections, labor policy, economic stabilization, foreign investment, Asian security, and international affairs in January and early February 1949. It also includes a short internal summary and a transmittal despatch enclosing The Japanese Press, Past and Present, 1949. The enclosure begins with maps, front matter, contents, advertisements, an account of the Japan Newspaper Publishers' and Editors' Association, its Canons of Journalism, and the opening of a history of the Japanese press.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN",
+    "Japan's",
+    "Occupied Japan",
+    "Nippon",
+    "Nihon"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokyo's",
+    "Yedo",
+    "Tokyo Area"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "China's",
+    "Chinese",
+    "central plains of China"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asiatic",
+    "Orient",
+    "central plains of Asia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Western world",
+   "variants": [
+    "West",
+    "Western"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russia's"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES OF AMERICA",
+    "America's",
+    "American",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "British"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia",
+    "Indonesian"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Korea"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Last",
+    "Far Eastern",
+    "Far Lastern"
+   ]
+  },
+  {
+   "name": "Pacific",
+   "variants": [
+    "Pacific",
+    "racific"
+   ]
+  },
+  {
+   "name": "North Atlantic",
+   "variants": [
+    "North Atlantic"
+   ]
+  },
+  {
+   "name": "North Pacific",
+   "variants": [
+    "North racific"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "northern Honshu"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Northern Kyushu",
+    "Northern Kyushu District"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Saghalien"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington Conference"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "HOKKAIDO",
+    "Hokkaido",
+    "Hokkaido District"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture and Niigata",
+   "variants": [
+    "Niigata Prefecture",
+    "Niigata",
+    "NIGATA"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture and Tottori",
+   "variants": [
+    "TOTTORI",
+    "OTOTTORI"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture and Aomori",
+   "variants": [
+    "AOMORI",
+    "AOMORT"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture and Toyama",
+   "variants": [
+    "TOYAMA"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture and Okayama",
+   "variants": [
+    "OKAYAMA"
+   ]
+  },
+  {
+   "name": "Akita Prefecture and Akita",
+   "variants": [
+    "AKITA"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "ISHIKAWA"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "SHIMANE"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "IWATE"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture and Fukui",
+   "variants": [
+    "FUKUI"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture and Hiroshima",
+   "variants": [
+    "HIROSHIMA",
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture and Yamagata",
+   "variants": [
+    "YAMAGATA"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture and Nagano",
+   "variants": [
+    "Nagano Prefecture",
+    "NAGANO"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture and Yamaguchi",
+   "variants": [
+    "YAMAGUCHI"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "MIYAGI"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture and Gifu",
+   "variants": [
+    "GIFU",
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "KAGAWA"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture and Fukushima",
+   "variants": [
+    "FUKUSHIMA",
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture and Shizuoka",
+   "variants": [
+    "SHIZUOKA",
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture and Tokushima",
+   "variants": [
+    "TOKUSHIMA"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "GUNMA"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "AICHI"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "EHIME"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "TOCHIGI"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "MIE"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture and Kochi",
+   "variants": [
+    "KÖ CHI",
+    "KOCHI"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "IBARAGI"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "SHIGA"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture and Fukuoka",
+   "variants": [
+    "FUKUOKA",
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "SAITAMA"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture and Kyoto",
+   "variants": [
+    "KYOTO",
+    "HYOTO",
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Saga Prefecture and Saga",
+   "variants": [
+    "Saga Prefecture",
+    "SAGA"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture and Chiba",
+   "variants": [
+    "CHIBA"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture and Osaka",
+   "variants": [
+    "OSAKA",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture and Nagasaki",
+   "variants": [
+    "NAGASAKI",
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "YAMANASHI"
+   ]
+  },
+  {
+   "name": "Nara Prefecture and Nara",
+   "variants": [
+    "NARA"
+   ]
+  },
+  {
+   "name": "Oita Prefecture and Oita",
+   "variants": [
+    "ÔITA",
+    "OITA"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture and Wakayama",
+   "variants": [
+    "WAKAYAMA",
+    "WARAYAMA"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture and Kumamoto",
+   "variants": [
+    "KUMAMOTO",
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "KANAGAWA"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "HYOGO"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture and Miyazaki",
+   "variants": [
+    "MIYAZAKI"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture and Kagoshima",
+   "variants": [
+    "KAGOSHIMA"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "HANAZA"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "MATSUE"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "YONAGD"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "OTSU"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "KOBE",
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "MOJI",
+    "Moji"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "KOKURA",
+    "Kokura"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "TAKAMATSU"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "SASEHOO"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "MATSUYAMA"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "YOHKAIG"
+   ]
+  },
+  {
+   "name": "Shimabara",
+   "variants": [
+    "SHIMABARA"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "TSU",
+    "Tsu"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "ASAHIKAWA",
+    "Asahikawa"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "SAPPORO",
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "HAKODATE",
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "MURORAN"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "HACHINOHE"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "MORIOKA"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "SENDAI"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "UTSUNQMI YA"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "MATSUMOTO"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "MAEBASHI"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "MITO"
+   ]
+  },
+  {
+   "name": "Suwa",
+   "variants": [
+    "SUWA"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "URAWA"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "KOFU"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOKOHAMA",
+    "Yokohama",
+    "Yokohama settlement"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "Kurume"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagoya District"
+   ]
+  },
+  {
+   "name": "Beppu",
+   "variants": [
+    "Beppu"
+   ]
+  },
+  {
+   "name": "Ise",
+   "variants": [
+    "Ise"
+   ]
+  },
+  {
+   "name": "Chubu region",
+   "variants": [
+    "Chubu"
+   ]
+  },
+  {
+   "name": "Chugoku region",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Tohoku region",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Shinano Province",
+   "variants": [
+    "Shinano"
+   ]
+  },
+  {
+   "name": "Ginza",
+   "variants": [
+    "Ginza",
+    "Nishi-Ginza",
+    "Nishi, Ginza"
+   ]
+  },
+  {
+   "name": "Chuo City, Tokyo",
+   "variants": [
+    "Chuo-ku"
+   ]
+  },
+  {
+   "name": "Chiyoda City, Tokyo",
+   "variants": [
+    "Chiyoda-ku"
+   ]
+  },
+  {
+   "name": "Uchisaiwaicho",
+   "variants": [
+    "Uchisaiwai-Cho",
+    "Uchisaiwai-cho"
+   ]
+  },
+  {
+   "name": "Yurakucho",
+   "variants": [
+    "Yurakucho"
+   ]
+  },
+  {
+   "name": "Dojima",
+   "variants": [
+    "Dojima Kami"
+   ]
+  },
+  {
+   "name": "Kita Ward, Osaka",
+   "variants": [
+    "Kita-ku"
+   ]
+  },
+  {
+   "name": "Kiyotaki-cho",
+   "variants": [
+    "Kiyotaki-cho"
+   ]
+  },
+  {
+   "name": "Hibiya",
+   "variants": [
+    "Hibiya"
+   ]
+  },
+  {
+   "name": "Shisei Kaikan",
+   "variants": [
+    "Shisei Kaikan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan and author of the press-survey despatches",
+   "variants": [
+    "W.J. Sebald",
+    "W. J. Sebald",
+    "W. J. Sehald"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army and Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur",
+    "General MacArthur's",
+    "General of the Army MacArthur"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Generalissimo and Chinese Nationalist leader",
+   "variants": [
+    "Generalissimo CHIANG Kai-shek",
+    "Chiang",
+    "Generalissimo"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "resigning United States Secretary of State",
+   "variants": [
+    "General MARSHALL",
+    "General Marshall"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "incoming United States Secretary of State and former Undersecretary",
+   "variants": [
+    "Mr. Dean ACHESON",
+    "Mr. Acheson",
+    "Secretary of State ACHESON",
+    "Secretary of State Acheson"
+   ]
+  },
+  {
+   "name": "Masuda",
+   "role": "Japanese Labor Minister",
+   "variants": [
+    "Labor Minister MASUDA"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Japanese premier and president of the Democratic Liberal Party",
+   "variants": [
+    "Premier YOSHIDA",
+    "Premier Yoshida",
+    "YOSHIDA",
+    "Yoshida",
+    "Yoshida's"
+   ]
+  },
+  {
+   "name": "Arthur Raper",
+   "role": "consultant in the Agricultural Division, Natural Resources Section, General Headquarters",
+   "variants": [
+    "Dr. Arthur RAPER",
+    "Doctor Raper"
+   ]
+  },
+  {
+   "name": "Kenneth C. Royall",
+   "role": "United States Secretary of the Army",
+   "variants": [
+    "Secretary of the Army Kenneth C. Royall",
+    "Secretary of the Army Kenneth C. RoYAl",
+    "Secretary of the Army Kenneth C. ROYALL",
+    "Secretary Royall",
+    "Secretary Rovall",
+    "Secretary Royall's"
+   ]
+  },
+  {
+   "name": "Jawaharlal Nehru",
+   "role": "premier of India",
+   "variants": [
+    "irurier EhRU"
+   ]
+  },
+  {
+   "name": "Tetsu Katayama",
+   "role": "former Japanese premier, referenced through the Katayama cabinet",
+   "variants": [
+    "KATAYAMA",
+    "Katayama"
+   ]
+  },
+  {
+   "name": "Hitoshi Ashida",
+   "role": "former Japanese premier, referenced through the Ashida cabinet",
+   "variants": [
+    "AShDA",
+    "ashida"
+   ]
+  },
+  {
+   "name": "Takeru Inukai",
+   "role": "president of the Democratic Party",
+   "variants": [
+    "IUtI"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "President of the United States",
+   "variants": [
+    "Fresident Truman",
+    "President TRUMAN"
+   ]
+  },
+  {
+   "name": "Joseph Stalin",
+   "role": "Soviet premier",
+   "variants": [
+    "Premier Stalin",
+    "STALIN",
+    "Stalin",
+    "Stalin's"
+   ]
+  },
+  {
+   "name": "Lucius D. Clay",
+   "role": "United States general",
+   "variants": [
+    "General CLAY"
+   ]
+  },
+  {
+   "name": "Fred M. Vinson",
+   "role": "Chief Justice of the United States",
+   "variants": [
+    "Chief Justice VINSON"
+   ]
+  },
+  {
+   "name": "William F. Marquat",
+   "role": "chief of the Economic and Scientific Section, General Headquarters",
+   "variants": [
+    "General W.F. MARQUAT"
+   ]
+  },
+  {
+   "name": "Albert C. Wedemeyer",
+   "role": "United States lieutenant general accompanying Secretary Royall",
+   "variants": [
+    "Lieutenant General Albert C. WEDEMEYER",
+    "Lieutenant General Wedemeyer"
+   ]
+  },
+  {
+   "name": "A. Haden",
+   "role": "mission staff member identified in drafting or typing initials",
+   "variants": [
+    "AHaden"
+   ]
+  },
+  {
+   "name": "Masanori Ito",
+   "role": "president of the Japan Newspaper Publishers' and Editors' Association and author",
+   "variants": [
+    "MASANORI ITO",
+    "M. Ito",
+    "Mr. Masanori Ito"
+   ]
+  },
+  {
+   "name": "H. Ono",
+   "role": "author of the handbook's section on the postwar press",
+   "variants": [
+    "H. Ono"
+   ]
+  },
+  {
+   "name": "K. Nishibe",
+   "role": "author of the handbook's section on newspaper advertising",
+   "variants": [
+    "K. Nishibe"
+   ]
+  },
+  {
+   "name": "D. Nagai",
+   "role": "author of the handbook's section on newspaper cooperative distribution",
+   "variants": [
+    "D. Nagai"
+   ]
+  },
+  {
+   "name": "C. Koito",
+   "role": "author of the handbook's section on newspaper publishing",
+   "variants": [
+    "C. Koito"
+   ]
+  },
+  {
+   "name": "Masao Tsuda",
+   "role": "secretary-general of the Japan Newspaper Publishers' and Editors' Association, author, editor and publisher",
+   "variants": [
+    "M. Tsuda",
+    "Masao Tsuda",
+    "津田正夫"
+   ]
+  },
+  {
+   "name": "M. Ishimitsu",
+   "role": "author of the handbook's section on newsprint",
+   "variants": [
+    "M. Ishimitsu"
+   ]
+  },
+  {
+   "name": "J. Taneda",
+   "role": "author of the handbook's section on newspaper-production materials",
+   "variants": [
+    "J. Taneda"
+   ]
+  },
+  {
+   "name": "Frank Luther Mott",
+   "role": "lecturer on democratic press principles",
+   "variants": [
+    "Dr. Mott"
+   ]
+  },
+  {
+   "name": "K. Hatano",
+   "role": "professor and author of a study of newspaper stories",
+   "variants": [
+    "Prof. K. Hatano"
+   ]
+  },
+  {
+   "name": "Yukichi Fukuzawa",
+   "role": "Japanese journalist and intellectual named in the contents",
+   "variants": [
+    "Yukichi Fukuzawa"
+   ]
+  },
+  {
+   "name": "Winston Churchill",
+   "role": "author of war memoirs serialized by the English Mainichi",
+   "variants": [
+    "Winston Churchill"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "author of Ten Years in Japan",
+   "variants": [
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Ken R. Dyke",
+   "role": "first chief of SCAP's Civil Information and Education Section",
+   "variants": [
+    "Brigadier-General Ken R. Dyke",
+    "Brigadier-General Dyke"
+   ]
+  },
+  {
+   "name": "D. Imboden",
+   "role": "SCAP official responsible for the Japanese press",
+   "variants": [
+    "Major D. Imboden"
+   ]
+  },
+  {
+   "name": "D. R. Nugent",
+   "role": "chief of the Civil Information and Education Section, GHQ, SCAP",
+   "variants": [
+    "Lt. Colonel D. R. Nugent"
+   ]
+  },
+  {
+   "name": "G. Splane Jr.",
+   "role": "news editor in the Press and Publication Unit, CI&E, SCAP",
+   "variants": [
+    "Mr, G. Splane, Jr."
+   ]
+  },
+  {
+   "name": "Henry Redman",
+   "role": "chief of the Information Section of the British Mission in Japan",
+   "variants": [
+    "Mr. Henry Redman"
+   ]
+  },
+  {
+   "name": "Vaughn",
+   "role": "chief of United Press's Tokyo bureau",
+   "variants": [
+    "Mr. Vaughn"
+   ]
+  },
+  {
+   "name": "R. Brines",
+   "role": "chief of Associated Press's Tokyo bureau",
+   "variants": [
+    "Mr. R. Brines"
+   ]
+  },
+  {
+   "name": "Charles P. Gorry",
+   "role": "Associated Press photographic reporter",
+   "variants": [
+    "Mr. Charles P. Gorry"
+   ]
+  },
+  {
+   "name": "R. Fergus",
+   "role": "ACME correspondent in Tokyo",
+   "variants": [
+    "Mr. R. Fergus"
+   ]
+  },
+  {
+   "name": "Burton Crane",
+   "role": "New York Times correspondent in Tokyo",
+   "variants": [
+    "Mr. Burton Crane"
+   ]
+  },
+  {
+   "name": "Heigoro Yorozuya",
+   "role": "foreign-book dealer credited with publishing the Batavia Shimbun",
+   "variants": [
+    "Heigoro Yorozuya"
+   ]
+  },
+  {
+   "name": "Shunzo Yanagawa",
+   "role": "Shogunate official associated with publishing the Chugai in Yedo",
+   "variants": [
+    "Shunzo Yanagawa"
+   ]
+  },
+  {
+   "name": "Genichiro Fukuchi",
+   "role": "author of A Firm Stand in the Kocho Shimbun",
+   "variants": [
+    "Genichiro Fukuchi",
+    "Fukuchi"
+   ]
+  },
+  {
+   "name": "Ryuhoku Narushima",
+   "role": "publisher of the Choya Shimbun",
+   "variants": [
+    "Ryuhoku Narushima"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese press",
+  "newspaper editorials",
+  "1949 general election",
+  "economic stabilization",
+  "labor-management relations",
+  "foreign investment",
+  "yen exchange rate",
+  "Asian security",
+  "political purge",
+  "press freedom",
+  "journalism ethics",
+  "Allied occupation"
+ ],
+ "subfiles": [
+  {
+   "title": "Tokyo Despatch No. 10: Japanese Newspaper Reactions for the Week Ending January 6, 1949",
+   "doc_type": "diplomatic despatch",
+   "start_page": 45,
+   "end_page": 47,
+   "continues_previous": true,
+   "date": "1949-01-07",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch surveys Japanese press reactions to New Year developments, elections, China, agriculture, forced labor and the Allied Council for Japan.",
+   "summary": "The concluding pages quote optimistic newspaper assessments of Japan's stabilization during 1948 and discuss reactions to General MacArthur's New Year's message and the restored use of the Japanese flag. Editorials address election candidates and parties, the Chinese Civil War and Chiang Kai-shek's peace proposal, and the relationship between developments in China and Japan's international position. The despatch also reviews agricultural reform, crop-delivery burdens, a report about forced-labor brokers in northern Honshu, and coverage of the Allied Council's discussion of Japanese policing.",
+   "keywords": [
+    "New Year editorials",
+    "Japanese flag",
+    "general election",
+    "Chinese Civil War",
+    "Chiang Kai-shek",
+    "land reform",
+    "crop quotas",
+    "forced labor",
+    "Allied Council for Japan"
+   ]
+  },
+  {
+   "title": "Internal Summary of Tokyo Despatch No. 22",
+   "doc_type": "internal memorandum and routing summary",
+   "start_page": 48,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1949-02-01",
+   "from": "Department of State staff; routing initials partly illegible",
+   "to": "Department of State offices",
+   "about": "The memorandum condenses the principal findings of Tokyo Despatch No. 22 concerning Japanese press reactions for the week ending January 13.",
+   "summary": "The summary notes press support for labor-law revision, criticism of police selection and training, and exhortations for greater electoral participation. It records the Nippon Times's attack on the electoral law, the denial by GHQ of plans for a purge-appeal committee, and widespread concern over rice prices and farmers' costs. It observes that newspapers did not criticize the economic-stabilization directive's demand for increased food production.",
+   "keywords": [
+    "labor laws",
+    "Japanese police",
+    "elections",
+    "electoral law",
+    "purge appeals",
+    "rice prices",
+    "economic stabilization"
+   ]
+  },
+  {
+   "title": "Tokyo Despatch No. 22: Japanese Newspaper Reactions for the Week Ending January 13, 1949",
+   "doc_type": "diplomatic despatch",
+   "start_page": 49,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1949-01-14",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch analyzes metropolitan and prefectural newspaper comment on labor legislation, policing, elections, the purge and agricultural quotas.",
+   "summary": "Japanese editorials generally treated proposed labor-law amendments as a response to unions' lack of restraint while insisting that collective bargaining and strike rights would remain. Newspapers discussed the Allied Council's examination of Japanese policing, the succession of Dean Acheson to George Marshall, weak election interest, and alleged defects in campaign restrictions. The despatch also describes Yoshida's abortive proposal for a purge-appeal committee and provincial concern over the squeeze between low farm prices and high production costs. It concludes with limited coverage of Arthur Raper's observations on rural Japan.",
+   "keywords": [
+    "labor-law revision",
+    "Allied Council",
+    "Dean Acheson",
+    "general election",
+    "electoral restrictions",
+    "purge directive",
+    "rice quotas",
+    "agricultural depression"
+   ]
+  },
+  {
+   "title": "Tokyo Despatch No. 39: Japanese Newspaper Reactions for the Week Ending January 20, 1949",
+   "doc_type": "diplomatic despatch",
+   "start_page": 54,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1949-01-21",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch surveys press discussion immediately before the January 23 election and reactions to foreign-investment policy, the exchange rate and proposals for an Asian defense pact.",
+   "summary": "Newspapers deplored voter apathy, debated party versus candidate loyalty, and criticized the publicly managed campaign system; they also considered the constitutional vote on Supreme Court justices. The despatch reports Communist claims of socialist-communist unity and the Socialist press's rejection of those claims. Editorials cautiously welcomed foreign capital while connecting it to price stabilization and a single yen-dollar rate. Press speculation also focused on Kenneth Royall's impending visit and the possibility of a Far Eastern defense arrangement amid events in China and Indonesia.",
+   "keywords": [
+    "general election",
+    "voter apathy",
+    "Supreme Court plebiscite",
+    "Communist Party",
+    "foreign investment",
+    "yen-dollar exchange rate",
+    "Kenneth Royall",
+    "Asian defense pact"
+   ]
+  },
+  {
+   "title": "Tokyo Despatch No. 58: Japanese Newspaper Reactions for the Week Ending January 27, 1949",
+   "doc_type": "diplomatic despatch",
+   "start_page": 60,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1949-01-28",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch analyzes Japanese editorial interpretations of the January 23 House of Representatives election.",
+   "summary": "The press concentrated on the Democratic Liberal landslide, the Communist Party's rise from four to thirty-five seats, and the high voter turnout. Editorialists debated whether the results heralded a dangerous polarization between the conservative right and Communist left, and they blamed the Katayama and Ashida governments for the collapse of centrist parties. Several papers urged the Socialist Party to reform itself. Jiji Shimpo and Yomiuri opposed Democratic participation in a coalition with Yoshida and favored a clear parliamentary opposition and consolidation of ideologically similar parties.",
+   "keywords": [
+    "1949 election results",
+    "Democratic Liberal Party",
+    "Communist gains",
+    "left-right polarization",
+    "Socialist Party",
+    "centrist defeat",
+    "coalition government",
+    "parliamentary opposition"
+   ]
+  },
+  {
+   "title": "Tokyo Despatch No. 71: Japanese Newspaper Reactions for the Week Ending February 3, 1949",
+   "doc_type": "diplomatic despatch",
+   "start_page": 64,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1949-02-04",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch reviews press treatment of Stalin's peace proposal, labor-management cooperation, party realignment, purge appeals and Secretary Royall's visit.",
+   "summary": "Two newspapers treated Stalin's peace statement skeptically, with Nihon Keizai arguing that Soviet policy made peace declarations unreliable. Extensive editorials on the Tokyo Labor-Management Conference urged cooperation, increased production, shared burdens and self-help under the Economic Stabilization Program. The press also discussed the Socialist Party's refusal to merge with the Communists and the Yoshida government's proposed Public Officials Re-screening Committee. Secretary Royall's visit prompted speculation about economic stabilization, the yen-dollar rate, China and American strategy in the Far East.",
+   "keywords": [
+    "Stalin peace proposal",
+    "labor-management conference",
+    "economic stabilization",
+    "industrial production",
+    "Socialist Party",
+    "Communist Party",
+    "purge appeals",
+    "Kenneth Royall",
+    "Far Eastern strategy"
+   ]
+  },
+  {
+   "title": "Tokyo Despatch No. 83: Transmitting Copies of The Japanese Press, Past and Present, 1949",
+   "doc_type": "transmittal despatch",
+   "start_page": 68,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1949-02-08",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch transmits five copies of a handbook prepared by the Japan Newspaper Publishers' and Editors' Association.",
+   "summary": "In accordance with standing instructions, the Acting Political Adviser forwards five copies of The Japanese Press, Past and Present, 1949. The publication was prepared and issued by the Japan Newspaper Publishers' and Editors' Association.",
+   "keywords": [
+    "publication transmittal",
+    "Japanese press",
+    "Japan Newspaper Publishers' and Editors' Association",
+    "press handbook"
+   ]
+  },
+  {
+   "title": "The Japanese Press, Past and Present, 1949",
+   "doc_type": "published handbook and enclosure",
+   "start_page": 69,
+   "end_page": 83,
+   "continues_previous": false,
+   "date": "1948-12-20",
+   "from": "Japan Newspaper Publishers' and Editors' Association",
+   "to": "",
+   "about": "The opening of this English-language handbook describes the geography, institutions, ethics, organization and history of the Japanese newspaper industry.",
+   "summary": "The enclosure begins with a map of newspaper publication centers, title pages, a list of association publications, a foreword by Masanori Ito, a detailed contents list and advertisements for Japanese newspapers and advertising services. Its first substantive article recounts the founding, organization, committees, publications, educational work and other activities of the Japan Newspaper Publishers' and Editors' Association. The Canons of Journalism proclaim press freedom, factual reporting, responsible editorial comment, impartiality, tolerance and professional decency. The opening historical chapter traces Japanese newspapers from translations of Dutch material through early Meiji regulation and the emergence of important early papers.",
+   "keywords": [
+    "Japanese newspaper industry",
+    "press directory",
+    "Japan Newspaper Publishers' and Editors' Association",
+    "Canons of Journalism",
+    "press freedom",
+    "journalism ethics",
+    "newsprint",
+    "advertising",
+    "labor movement",
+    "history of the Japanese press"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 9,
+  "pages": [
+   45,
+   83
+  ],
+  "pdf": "894.9111 Public Press., Newspapers., Japan, Clippings And Items., January 19, 1946 - February 8, 1949 1692.pdf",
+  "seconds": 346.3,
+  "created": "2026-10-04 01:28:11",
+  "key": "japan-internal-affairs-894.9111-public-press-newspapers-6"
+ }
+}

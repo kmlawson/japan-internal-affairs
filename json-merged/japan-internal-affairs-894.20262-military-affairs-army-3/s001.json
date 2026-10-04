@@ -1,0 +1,901 @@
+{
+ "section_summary": "This section documents Japanese military intelligence-gathering and propaganda activity in Germany during 1932–1933. It includes reports of disguised Japanese army officers inspecting German industrial machinery, two substantial pro-Japanese publications defending Japan’s position in Manchuria, and observations about Japanese diplomatic personnel in Berlin. The final documents concern anti-American comments attributed to Japanese Embassy staff and a Japanese Club bulletin defending Japan’s naval policy under the Washington and London treaties.",
+ "places": [
+  {
+   "name": "Stuttgart",
+   "variants": [
+    "4tuttgart",
+    "Stuttgart",
+    "tuttart"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Deutschland",
+    "Deutschlands",
+    "Doutschlands"
+   ]
+  },
+  {
+   "name": "Feuerbach",
+   "variants": [
+    "Feuerbach"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin",
+    "BERLIN",
+    "Merlin"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Europa"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japans",
+    "Japen",
+    "Jepen",
+    "Jaran"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Mamehuris",
+    "Mandschurei",
+    "Mandeohnrei",
+    "Menleohurei",
+    "Mandschnrei",
+    "endsoharei",
+    "Mendechure",
+    "Mandschurel",
+    "Manschurei"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Fernem Osten",
+    "Fernen Osten"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva",
+    "Geneve",
+    "Genf"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chims",
+    "Chins",
+    "Chinas",
+    "Chine"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Oeaka"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Parie"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "yoto"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Koreas",
+    "Korot"
+   ]
+  },
+  {
+   "name": "Liaodong Peninsula",
+   "variants": [
+    "Liactung",
+    "Liautung"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russlands",
+    "Rußland",
+    "RuBland"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "Frankrsiots",
+    "Frankreich",
+    "Frankreichs",
+    "Fraskreich"
+   ]
+  },
+  {
+   "name": "Port Arthur (Lüshunkou)",
+   "variants": [
+    "Port-Arthur",
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "Portsmouth, New Hampshire",
+   "variants": [
+    "Portsmouth"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kuantuns"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "Süd-Mandschurei",
+    "Südmandschurei"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchung",
+    "Changchun",
+    "Chengohung"
+   ]
+  },
+  {
+   "name": "Mukden (Shenyang)",
+   "variants": [
+    "Mukden",
+    "akden",
+    "Jukden"
+   ]
+  },
+  {
+   "name": "Antung (Dandong)",
+   "variants": [
+    "Aatung"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Panama Canal",
+   "variants": [
+    "Denawa-Kanal"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Columbien"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Haiti",
+   "variants": [
+    "Haiti"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nikarage"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United stutes",
+    "uited States",
+    "U.S. A.",
+    "Vereinigten Staaten von Amerika",
+    "Vereinigten Steatun",
+    "America",
+    "Amerika"
+   ]
+  },
+  {
+   "name": "Tongliao",
+   "variants": [
+    "Tungkiao",
+    "Tumgkiao"
+   ]
+  },
+  {
+   "name": "Hailong, Jilin",
+   "variants": [
+    "Hailung",
+    "Heilungcheng",
+    "Hailungcheng"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Paking",
+    "Peking",
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Jilin",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Linjiang",
+   "variants": [
+    "Linkangze"
+   ]
+  },
+  {
+   "name": "Wanpaoshan",
+   "variants": [
+    "Wampaoshun"
+   ]
+  },
+  {
+   "name": "Benxi",
+   "variants": [
+    "Pensihu"
+   ]
+  },
+  {
+   "name": "Jiandao (Gando)",
+   "variants": [
+    "Chiemtao"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Schanghai",
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "Nordchina"
+   ]
+  },
+  {
+   "name": "Great Wall of China",
+   "variants": [
+    "Große Mauer"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Sibirien"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Sowjet-Rußland",
+    "Sowjetrußlands"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Charbin"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Stillen Ozeans",
+    "Stillen Ozean",
+    "Pacifio",
+    "Pacific"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Ostasien",
+    "Ostasiens"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England",
+    "Englands",
+    "Esglasd"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "Indien",
+    "India"
+   ]
+  },
+  {
+   "name": "Tibet",
+   "variants": [
+    "Tibet"
+   ]
+  },
+  {
+   "name": "Mongolia",
+   "variants": [
+    "Mongolei"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Gdynia",
+   "variants": [
+    "Gdingen"
+   ]
+  },
+  {
+   "name": "Gdańsk",
+   "variants": [
+    "Danzig"
+   ]
+  },
+  {
+   "name": "Ruhr region",
+   "variants": [
+    "Ruhrgebiet",
+    "Ruhr"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italien"
+   ]
+  },
+  {
+   "name": "Americas",
+   "variants": [
+    "amerikanischen Kontinent"
+   ]
+  },
+  {
+   "name": "Rhineland",
+   "variants": [
+    "Rheinland"
+   ]
+  },
+  {
+   "name": "Yangtze Valley",
+   "variants": [
+    "Yangtsetal"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtau"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Ssupingkai"
+   ]
+  },
+  {
+   "name": "Taonan",
+   "variants": [
+    "Taonan"
+   ]
+  },
+  {
+   "name": "Hulan",
+   "variants": [
+    "Hulan"
+   ]
+  },
+  {
+   "name": "Hailun",
+   "variants": [
+    "Hailun"
+   ]
+  },
+  {
+   "name": "Tonghua",
+   "variants": [
+    "Tunghua"
+   ]
+  },
+  {
+   "name": "Ang’angxi",
+   "variants": [
+    "Angangchi"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Tsitsihar"
+   ]
+  },
+  {
+   "name": "Keshan",
+   "variants": [
+    "Koshan"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Kanada"
+   ]
+  },
+  {
+   "name": "Hungary",
+   "variants": [
+    "Ungarn"
+   ]
+  },
+  {
+   "name": "Austria-Hungary",
+   "variants": [
+    "Donau-Monarchie"
+   ]
+  },
+  {
+   "name": "Hamburg",
+   "variants": [
+    "Hamburg"
+   ]
+  },
+  {
+   "name": "31 Motzstraße, Berlin",
+   "variants": [
+    "Motzstrasse 3l",
+    "Motzstrasse 31"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonia-Inseln",
+    "Bonin Islands"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kurilen",
+    "Kurile - group"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Riukiu-InseIn",
+    "Riu-Kiu Islands"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantic"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Leon Dominian",
+   "role": "American Consul General in charge at Stuttgart",
+   "variants": [
+    "Leon Dominian",
+    "Dominian"
+   ]
+  },
+  {
+   "name": "Frederic M. Sackett",
+   "role": "United States Ambassador to Germany",
+   "variants": [
+    "Frederio M. Saokett"
+   ]
+  },
+  {
+   "name": "Wilhelm Solf",
+   "role": "Former German Ambassador to Tokyo and pro-Japanese lecturer; rumored author of the Manchuria pamphlet",
+   "variants": [
+    "Dr. Solf",
+    "Solf"
+   ]
+  },
+  {
+   "name": "Ichiro Banzai",
+   "role": "Japanese Military Attaché in Berlin",
+   "variants": [
+    "Iohiro Banzai",
+    "Banzai"
+   ]
+  },
+  {
+   "name": "Colonel Morawski",
+   "role": "Polish Military Attaché in Germany",
+   "variants": [
+    "Colonel Morawski",
+    "Morawski"
+   ]
+  },
+  {
+   "name": "Max Schmit",
+   "role": "Belgian Military Attaché and close associate of Ichiro Banzai",
+   "variants": [
+    "Major General Max Sohmit"
+   ]
+  },
+  {
+   "name": "Georges Bonneau",
+   "role": "Professor at the Imperial University in Kyoto and author of a French-language defense of Japan’s Manchurian policy",
+   "variants": [
+    "D, Georges Eonnoau",
+    "Prof. Bonneau",
+    "Bonneau"
+   ]
+  },
+  {
+   "name": "George S. Messersmith",
+   "role": "American Consul General in Berlin",
+   "variants": [
+    "George'S. Messersmith"
+   ]
+  },
+  {
+   "name": "Matsuzō Nagai",
+   "role": "Japanese Ambassador in Berlin",
+   "variants": [
+    "Nagai",
+    "Exzellenz Nagai",
+    "Mr. Nagai"
+   ]
+  },
+  {
+   "name": "Sadao Araki",
+   "role": "Japanese Minister of War",
+   "variants": [
+    "General Sraki",
+    "Araki",
+    "General Araki"
+   ]
+  },
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Takahashi"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese military intelligence",
+  "industrial espionage",
+  "German armaments industry",
+  "Japanese propaganda",
+  "Manchurian conflict",
+  "Japanese Embassy in Berlin",
+  "Japanischer Verein in Deutschland",
+  "anti-American sentiment",
+  "Washington Naval Treaty",
+  "London Naval Treaty",
+  "naval armaments",
+  "German-Japanese relations"
+ ],
+ "subfiles": [
+  {
+   "title": "Visit to Factories by Japanese",
+   "doc_type": "consular despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1932-01-28",
+   "from": "Leon Dominian, American Consulate General, Stuttgart",
+   "to": "Secretary of State, Washington",
+   "about": "Reports suspected Japanese army officers inspecting specialized machinery at the Robert Bosch factory near Stuttgart.",
+   "summary": "Dominian reports that Japanese visitors presenting themselves as merchants asked questions at the Bosch factory that led company officials to suspect they were army officers. Bosch’s Berlin branch reportedly confirmed that the visitors worked under the Japanese Military Attaché, whose large staff was said to conduct systematic inspections of European factories.",
+   "keywords": [
+    "Robert Bosch A.G.",
+    "factory inspection",
+    "Japanese army officers",
+    "industrial intelligence",
+    "steel-working machinery",
+    "Japanese Military Attaché"
+   ]
+  },
+  {
+   "title": "Shipments of War Materials to Japan: Cross-Reference to Despatch of March 3, 1932",
+   "doc_type": "document file cross-reference sheet",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1932-03-03",
+   "from": "Leon Dominian, Stuttgart",
+   "to": "",
+   "about": "Cross-references a Stuttgart report concerning German shipments of war materials to Japan.",
+   "summary": "The sheet directs the reader to file 894.24/52 for the substantive report. It identifies the source as an article in the communist newspaper Süddeutsche Arbeiter-Zeitung dated March 2, 1932.",
+   "keywords": [
+    "war materials",
+    "German exports",
+    "Japan",
+    "Süddeutsche Arbeiter-Zeitung",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Shipments of War Materials to Japan: Cross-Reference to Despatch of March 4, 1932",
+   "doc_type": "document file cross-reference sheet",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1932-03-04",
+   "from": "Leon Dominian, Stuttgart",
+   "to": "",
+   "about": "Cross-references a further press-based report about German shipments of war materials to Japan.",
+   "summary": "The sheet points to file 894.24/53 for the underlying document. It describes the report as additional information gathered from the press concerning shipments of certain war materials from Germany to Japan.",
+   "keywords": [
+    "war materials",
+    "Germany",
+    "Japan",
+    "press reporting",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Japanese Propaganda",
+   "doc_type": "embassy despatch",
+   "start_page": 5,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1932-05-09",
+   "from": "Frederic M. Sackett, American Embassy, Berlin",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits and evaluates two examples of Japanese propaganda circulating in Germany about Manchuria.",
+   "summary": "Sackett forwards the pamphlet Betrachtungen zur Mandschurei-Frage and a multigraphed sheet issued by the Japanischer Verein in Deutschland, reporting that the Japanese Embassy financed or distributed both. He notes criticism that the anonymous German-language propaganda was tactless and potentially harmful to German interests, while describing German opinion as generally sympathetic to China. The despatch also discusses Wilhelm Solf’s pro-Japanese activity and characterizes Military Attaché Ichiro Banzai as exceptionally active, informed, and intriguing.",
+   "keywords": [
+    "Japanese propaganda",
+    "Manchuria",
+    "Japanischer Verein in Deutschland",
+    "Wilhelm Solf",
+    "Ichiro Banzai",
+    "German public opinion",
+    "Japanese Embassy"
+   ]
+  },
+  {
+   "title": "Japan und die Mandschurei",
+   "doc_type": "propaganda press sheet",
+   "start_page": 9,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japanischer Verein in Deutschland",
+   "to": "German newspaper editors",
+   "about": "Summarizes Georges Bonneau’s arguments defending Japan’s intervention and position in Manchuria.",
+   "summary": "The article invokes the Sino-Japanese and Russo-Japanese wars and Japan’s inherited treaty rights to justify its position in Manchuria. It compares Japanese action with United States interventions in Panama, Haiti, and Nicaragua and catalogs alleged Chinese treaty violations, anti-Japanese attacks, and violence against Koreans. It concludes by emphasizing Japanese investment, factories, hospitals, schools, relief work, and employment in Manchuria.",
+   "keywords": [
+    "Georges Bonneau",
+    "Manchuria",
+    "Japanese intervention",
+    "treaty rights",
+    "anti-Japanese boycott",
+    "Korean settlers",
+    "Japanese investment",
+    "press propaganda"
+   ]
+  },
+  {
+   "title": "Betrachtungen zur Mandschurei-Frage",
+   "doc_type": "propaganda pamphlet",
+   "start_page": 13,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1932",
+   "from": "An anonymous “East Asia German”",
+   "to": "German public",
+   "about": "Presents an extensive German-language defense of Japanese influence and military action in Manchuria.",
+   "summary": "The pamphlet argues that Japanese power brought order, economic development, infrastructure, and protection from civil war and Bolshevism to Manchuria, while China benefited from mass migration into the region. It portrays Japan’s military operations as defensive enforcement of treaty rights and criticizes China’s boycotts, competing railways, violence against Koreans, and inability to maintain order. Later sections defend Japan’s position under international law and before the League of Nations, endorse Manchurian self-government, and present extensive population, investment, railway, and trade statistics.",
+   "keywords": [
+    "Manchurian conflict",
+    "Japanese colonial policy",
+    "South Manchurian Railway",
+    "League of Nations",
+    "international law",
+    "Manchurian self-government",
+    "Chinese civil war",
+    "economic statistics",
+    "anti-Bolshevism"
+   ]
+  },
+  {
+   "title": "Memorandum on Despatch No. 1616 and Japanese Naval Propaganda",
+   "doc_type": "Department of State memorandum",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1933-10-20",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State officials",
+   "about": "Calls attention to Japanese Embassy hostility toward the United States and recommends reading a bulletin’s explanation of Japanese naval policy.",
+   "summary": "The memorandum summarizes Consul General Messersmith’s report that Japanese Embassy personnel in Berlin were making nearly hostile comments about the United States. It recommends Part II of the enclosed translation as an unusually intelligible, though specious, statement of Japan’s position on the naval treaties of 1922 and 1930.",
+   "keywords": [
+    "Japanese Embassy",
+    "anti-American sentiment",
+    "naval treaties",
+    "Japanese propaganda",
+    "Berlin",
+    "Far Eastern Affairs"
+   ]
+  },
+  {
+   "title": "Transmitting News Bulletin Issued by the Japanischer Verein in Deutschland",
+   "doc_type": "consular despatch",
+   "start_page": 46,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1933-09-26",
+   "from": "George S. Messersmith, American Consulate General, Berlin",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits Japanese Club bulletin No. 273 and reports increasingly hostile comments about the United States by Japanese diplomats in Berlin.",
+   "summary": "Messersmith reports that well-placed German contacts had heard Japanese Embassy staff speak with growing hostility about the United States, partly on the premise that Germany and Japan were similarly isolated. He describes the Japanischer Verein in Deutschland as a convenient propaganda channel through which the Embassy supplied material to the press. He also reports the recall of an unnamed Japanese commercial attaché whose German parentage allegedly made colleagues distrust his foreign-influenced outlook.",
+   "keywords": [
+    "George S. Messersmith",
+    "Japanese Club in Germany",
+    "Japanese Embassy",
+    "anti-American comments",
+    "propaganda bulletin",
+    "commercial attaché"
+   ]
+  },
+  {
+   "title": "Japanischer Verein in Deutschland Bulletin No. 273",
+   "doc_type": "German-language propaganda bulletin",
+   "start_page": 49,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1933-09-13",
+   "from": "Japanischer Verein in Deutschland",
+   "to": "German press and public",
+   "about": "Reports Japanese diplomatic and policy news and defends Japan’s naval construction under the Washington and London agreements.",
+   "summary": "The bulletin announces Ambassador Nagai’s visit to Hamburg and discusses Japanese budget policy, Manchuria, disarmament, naval parity, and plans for petroleum self-sufficiency. Its principal article argues that the Washington and London naval ratios disadvantaged Japan and forced it to restrict construction while permitting extensive American building. It insists that Japan strengthened its lighter naval forces gradually and remained within treaty limits.",
+   "keywords": [
+    "Ambassador Nagai",
+    "Hamburg",
+    "Japanese naval policy",
+    "Washington Naval Treaty",
+    "London Naval Treaty",
+    "naval parity",
+    "petroleum autarky",
+    "Japanese propaganda"
+   ]
+  },
+  {
+   "title": "English Translation of Japanischer Verein in Deutschland Bulletin No. 273",
+   "doc_type": "translated propaganda bulletin",
+   "start_page": 52,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1933-09-13",
+   "from": "Japanischer Verein in Deutschland",
+   "to": "American diplomatic and Department of State readers",
+   "about": "Provides an English translation of bulletin No. 273 on Japanese diplomacy, economic policy, and naval armaments.",
+   "summary": "The translation covers Ambassador Nagai’s Hamburg visit, consultations between War Minister Araki and Finance Minister Takahashi, Japanese demands for naval parity, and a proposed petroleum self-sufficiency program. The naval article traces the ratios established by the Washington Conference and London Agreement and argues that they required Japanese restraint and vessel destruction while allowing American expansion. It concludes that Japan’s naval construction remained within treaty limits and focused mainly on lighter vessels, submarines, transports, oil-supply ships, and naval aviation.",
+   "keywords": [
+    "English translation",
+    "Japanese naval armaments",
+    "Washington Conference",
+    "London Agreement",
+    "naval ratios",
+    "Sadao Araki",
+    "Korekiyo Takahashi",
+    "petroleum policy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   57
+  ],
+  "pdf": "894.20262 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Germany Including Gathering Of Information. Espionage. Propaganda., January 792.pdf",
+  "seconds": 274.2,
+  "created": "2026-09-30 01:02:33",
+  "key": "japan-internal-affairs-894.20262-military-affairs-army-3"
+ }
+}

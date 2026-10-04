@@ -1,0 +1,183 @@
+{
+ "interest": "Publisher seeks State's endorsement of a Tsurumi novel.",
+ "keywords": [
+  "Yusuke Tsurumi",
+  "Rae D. Henkle",
+  "Henry L. Stimson",
+  "Japanese literature",
+  "cultural diplomacy",
+  "book publishing",
+  "translation",
+  "The Mother",
+  "Richard Southgate",
+  "Department of State policy",
+  "U.S.-Japan relations",
+  "The Retail Bookseller"
+ ],
+ "overview": "1931 correspondence: publisher Rae D. Henkle asks Stimson to endorse Yusuke Tsurumi's novel; State declines.",
+ "people": [
+  {
+   "name": "Yūsuke Tsurumi",
+   "role": "Member of the Japanese Parliament and author",
+   "variants": [
+    "Yusuke Tsurumi",
+    "Mr. Yusuke Tsurumi",
+    "Mr. Tsurumi"
+   ]
+  },
+  {
+   "name": "Henry L. Stimson",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Henry L. Simpson",
+    "Secretary of State"
+   ]
+  },
+  {
+   "name": "Rae D. Henkle",
+   "role": "American publisher",
+   "variants": [
+    "Hae H. Henkle",
+    "Rae D. Henkle"
+   ]
+  },
+  {
+   "name": "Richard Southgate",
+   "role": "Assistant Chief, Division of International Conferences and Protocol, Department of State",
+   "variants": [
+    "Richard Souther"
+   ]
+  },
+  {
+   "name": "Meredith Reed",
+   "role": "Author",
+   "variants": [
+    "Meredith Reed"
+   ]
+  },
+  {
+   "name": "Gene Stratton-Porter",
+   "role": "Author",
+   "variants": [
+    "Gene Stratton Porter"
+   ]
+  },
+  {
+   "name": "Temple Bailey",
+   "role": "Author",
+   "variants": [
+    "Temple Bailey"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "American"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "PENNSYLVANIA"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Publisher Rae D. Henkle informs the Secretary of State of his upcoming publication of Yusuke Tsurumi's novel and requests an official comment for press release.",
+   "date": "1931-02-06",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Rae D. Henkle",
+   "keywords": [
+    "Rae D. Henkle",
+    "Henry L. Stimson",
+    "Yusuke Tsurumi",
+    "The Night",
+    "Japanese literature",
+    "book publishing",
+    "cultural diplomacy",
+    "translation"
+   ],
+   "start_page": 1,
+   "summary": "Rae D. Henkle asks Stimson to endorse his English edition of Yusuke Tsurumi's novel.",
+   "title": "Letter from Rae D. Henkle to Secretary of State Henry L. Stimson",
+   "to": "Henry L. Stimson"
+  },
+  {
+   "about": "A trade review excerpt from The Retail Bookseller reviewing Meredith Reed's novel 'The Glory Trail'.",
+   "date": "1931-02-01",
+   "doc_type": "clipping",
+   "end_page": 2,
+   "from": "The Retail Bookseller",
+   "keywords": [
+    "The Retail Bookseller",
+    "The Glory Trail",
+    "Meredith Reed",
+    "The Baker & Taylor Company",
+    "Gene Stratton Porter",
+    "Temple Bailey",
+    "book reviews"
+   ],
+   "start_page": 2,
+   "summary": "Retail Bookseller review of Meredith Reed's 'The Glory Trail'.",
+   "title": "Clipping from The Retail Bookseller on Meredith Reed's 'The Glory Trail'",
+   "to": ""
+  },
+  {
+   "about": "The Department of State declines to comment publicly on the forthcoming publication of Yusuke Tsurumi's novel.",
+   "date": "1931-02-14",
+   "doc_type": "letter",
+   "end_page": 3,
+   "from": "Richard Southgate (for the Secretary of State)",
+   "keywords": [
+    "Department of State",
+    "Richard Southgate",
+    "Rae D. Henkle",
+    "Yusuke Tsurumi",
+    "The Mother",
+    "State Department policy",
+    "protocol"
+   ],
+   "start_page": 3,
+   "summary": "Southgate declines to comment on Tsurumi's novel, citing policy.",
+   "title": "Letter from Department of State to Rae D. Henkle",
+   "to": "Rae D. Henkle"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14449,
+   "output_tokens": 7164,
+   "thinking_tokens": 5541,
+   "cache_read_tokens": 0,
+   "total_tokens": 21613
+  },
+  "backend": "agy",
+  "seconds": 25.9,
+  "identifier": "japan-internal-affairs-894.4021-social-matters-language-1",
+  "file": "894.4021 Social Matters., Language., Japan, Literature., February 6th, 1931 717.pdf",
+  "created": "2026-09-29 05:17:51"
+ }
+}

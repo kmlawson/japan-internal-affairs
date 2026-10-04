@@ -1,0 +1,181 @@
+{
+ "interest": "This file provides valuable insight into interwar intelligence gathering and the perceived threat of Japanese recruitment of Western intermediaries for covert operations prior to World War II. It documents U.S. diplomatic and naval surveillance of British subjects—specifically highlighting the case of T. H. Greene—employed by Japan to conduct espionage directed against the United States and the Philippines. Additionally, the Division of Far Eastern Affairs memorandum illustrates how regional consular posts monitored the public relations and propaganda battle between Chinese and Japanese representatives in North American communities following the 1932 Shanghai crisis.",
+ "keywords": [
+  "Japanese espionage",
+  "British subjects",
+  "Naval Attaché",
+  "United Kingdom",
+  "Propaganda",
+  "Division of Far Eastern Affairs",
+  "Shanghai Incident",
+  "Victoria",
+  "Philippines",
+  "T. H. Greene",
+  "Navy Department",
+  "Intelligence gathering"
+ ],
+ "overview": "This file (State Department decimal file 894.20241) comprises records from 1932 to 1934 concerning Japanese military intelligence activities, espionage, and propaganda related to Great Britain, British subjects, and British territories. The file consists of two cross-reference sheets (Document File Notes) indexing confidential U.S. Navy Department and Naval Attaché reports, along with an internal Department of State memorandum from the Division of Far Eastern Affairs. The naval records track the Japanese employment of British subjects, notably T. H. Greene, to conduct espionage against the United States and the Philippines. The Far Eastern Affairs memorandum analyzes consular reporting from Victoria, British Columbia, reviewing local newspaper articles, film screenings of the 1932 Shanghai conflict, and competing Japanese and Chinese propaganda efforts affecting Canadian and American public opinion.",
+ "people": [
+  {
+   "name": "T. H. Greene",
+   "role": "British subject engaged in espionage activities on behalf of Japan",
+   "variants": [
+    "Greene, T. H.",
+    "Mr. Greene"
+   ]
+  },
+  {
+   "name": "Staunton",
+   "role": "Navy Department official",
+   "variants": [
+    "Staunton"
+   ]
+  },
+  {
+   "name": "M. R. H.",
+   "role": "Official, State Department Division of Far Eastern Affairs (addressee)",
+   "variants": [
+    "MRH"
+   ]
+  },
+  {
+   "name": "L. E. S.",
+   "role": "Official, State Department Division of Far Eastern Affairs (drafter)",
+   "variants": [
+    "LES"
+   ]
+  },
+  {
+   "name": "E. J. L.",
+   "role": "State Department typist or reviewing officer",
+   "variants": [
+    "EJL"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Victoria",
+   "variants": [
+    "Victoria"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Victoria's Little China",
+   "variants": [
+    "Little China",
+    "Victoria's Little China"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a report from the U.S. Naval Attaché in Great Britain regarding Japanese employment of British subjects for espionage against the United States or the Philippines.",
+   "date": "1934-02-02",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Naval Attaché, Great Britain",
+   "keywords": [
+    "Naval Attaché",
+    "Great Britain",
+    "espionage",
+    "British subjects",
+    "Philippines",
+    "United States"
+   ],
+   "start_page": 1,
+   "summary": "This Document File Note indexes Report No. 61, dated February 2, 1934, sent by the U.S. Naval Attaché in Great Britain. The original report was filed under 894.20211/118 in the State Department's confidential files. It details the employment of British subjects by Japanese intelligence for espionage operations in the United States and the Philippines.",
+   "title": "Cross-reference sheet for Naval Attaché Report No. 61 on Japanese espionage",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing a Navy Department letter regarding T. H. Greene, a British subject engaged in Japanese espionage.",
+   "date": "1934-04-11",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Navy Department (Staunton)",
+   "keywords": [
+    "T. H. Greene",
+    "Navy Department",
+    "Naval Attaché",
+    "London",
+    "espionage",
+    "British subject"
+   ],
+   "start_page": 2,
+   "summary": "This Document File Note cross-references a Navy Department letter dated April 11, 1934, originally filed under 311.111 Greene, T. H. The document concerns a report from the U.S. Naval Attaché in London regarding T. H. Greene, an identified British subject recently engaged in espionage activities on behalf of Japan. It connects the correspondence to decimal file 894.20241/2.",
+   "title": "Cross-reference sheet regarding espionage activities of T. H. Greene for Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Internal memorandum summarizing consular reports from Victoria, British Columbia, on Japanese and Chinese propaganda and public sentiment following the Shanghai conflict.",
+   "date": "1932-11-11",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "L. E. S. (LES), Division of Far Eastern Affairs",
+   "keywords": [
+    "propaganda",
+    "Victoria",
+    "Daily Colonist",
+    "Shanghai fighting",
+    "Japanese Consul",
+    "Far Eastern Affairs"
+   ],
+   "start_page": 3,
+   "summary": "This memorandum from the Division of Far Eastern Affairs reviews confidential despatch No. 1246 of November 4, 1932, from the American consulate in Victoria, British Columbia. The despatch enclosed two clippings from the Victoria Daily Colonist, featuring a statement of the Japanese viewpoint by the local Japanese Consul and an announcement regarding films of the Shanghai fighting shown in Victoria's Chinatown. The memorandum notes the Consul's assessment that local Chinese propaganda appeared friendly toward the United States, whereas Japanese propaganda appeared unfriendly.",
+   "title": "Memorandum on Japanese and Chinese propaganda in Victoria, B.C.",
+   "to": "M. R. H. (MRH), Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 5817,
+   "output_tokens": 6190,
+   "thinking_tokens": 4734,
+   "cache_read_tokens": 8136,
+   "total_tokens": 12007
+  },
+  "backend": "agy",
+  "seconds": 21.8,
+  "identifier": "japan-internal-affairs-894.20241-military-affairs-army-3",
+  "file": "894.20241 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In United Kingdom Including Gathering Of Information. Espionage. Propaganda.,  804.pdf",
+  "created": "2026-09-29 02:01:01"
+ }
+}

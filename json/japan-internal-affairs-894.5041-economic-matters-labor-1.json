@@ -1,0 +1,93 @@
+{
+ "interest": "Reports 1943-44 Japanese industrial working hours via German press intelligence.",
+ "keywords": [
+  "Japanese labor",
+  "working hours",
+  "wartime industry",
+  "Tokyo industrial chamber",
+  "German press",
+  "Bern legation",
+  "war production",
+  "heavy industry",
+  "chemical industry",
+  "labor mobilization"
+ ],
+ "overview": "August 1944 Bern telegram gives German-press data on Japanese industrial working hours by sector, comparing April 1943 and April 1944.",
+ "people": [
+  {
+   "name": "Leland Harrison",
+   "role": "U.S. Minister to Switzerland",
+   "variants": [
+    "HARRISON"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Incoming telegram reporting average daily working hours of laborers in Japanese industries in April 1944 compared to April 1943 based on German press reports citing the Tokyo industrial chamber.",
+   "date": "1944-08-19",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Leland Harrison",
+   "keywords": [
+    "working hours",
+    "laborers",
+    "Japanese industry",
+    "Tokyo industrial chamber",
+    "German press",
+    "wartime production"
+   ],
+   "start_page": 1,
+   "summary": "Bern telegram relays German press citing Tokyo's industrial chamber: average Japanese industrial working time was 10 hours 29 minutes in April 1944, with comparative sector averages for textiles, metal, machinery, ceramics, chemicals, food, clothing, and woodworking between April 1943 and April 1944.",
+   "title": "Telegram from Bern on Working Hours in Japanese Industry",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13828,
+   "output_tokens": 3149,
+   "thinking_tokens": 2496,
+   "cache_read_tokens": 0,
+   "total_tokens": 16977
+  },
+  "backend": "agy",
+  "seconds": 14.0,
+  "identifier": "japan-internal-affairs-894.5041-economic-matters-labor-1",
+  "file": "894.5041 Economic Matters., Labor., Japan, Hours. Wages., August 19, 1944 1442.pdf",
+  "created": "2026-09-29 08:34:44"
+ }
+}

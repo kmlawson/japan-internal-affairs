@@ -1,0 +1,1362 @@
+{
+ "section_summary": "This section documents the South Manchuria Railway Company's purchasing, contracting, finances, transportation network, industrial properties, and declining profitability between 1930 and 1934. Consular and diplomatic reports attribute much of the decline to depression, silver exchange, and competition from Chinese railways and ports, and connect that rivalry to the Japanese occupation of Manchuria. Later documents cover the Chinchow–Pitsuwo Railway, proposals to place the company under Japanese Army control, renewed procurement for Manchukuo and the Kwantung Army, and large railway and industrial investments.",
+ "places": [
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen",
+    "Dairem",
+    "Dairon"
+   ]
+  },
+  {
+   "name": "Dalian Bay",
+   "variants": [
+    "Dairen Bay"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manohuria",
+    "Manohmria",
+    "Manehuria",
+    "Manoharia",
+    "Man-churia",
+    "Lanchuria",
+    "Memohuria",
+    "Menchuria",
+    "Wanchuria"
+   ]
+  },
+  {
+   "name": "South Manchuria",
+   "variants": [
+    "South Manchuria",
+    "South Manohuria",
+    "South Manohmria",
+    "South Manoharia",
+    "South Man-churla",
+    "outh Manohuria"
+   ]
+  },
+  {
+   "name": "North Manchuria",
+   "variants": [
+    "North Manchuria"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory",
+    "Kwan-tung Leased Territory",
+    "KWANTUNG LEASKD TERRITORY",
+    "Kwantung Leased Torritory",
+    "Japanese leased territory"
+   ]
+  },
+  {
+   "name": "South Manchuria Railway Zone",
+   "variants": [
+    "Japanese railway area",
+    "railway area",
+    "railway zone",
+    "Railway zone"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japun"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO,JAPAN"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping",
+    "Peking"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Lüshun",
+   "variants": [
+    "Port Arthur",
+    "PORT ARTHUR"
+   ]
+  },
+  {
+   "name": "Wafangdian",
+   "variants": [
+    "WAFANGTIEN",
+    "Wafangtion",
+    "Now Town, Wafangtion"
+   ]
+  },
+  {
+   "name": "Yingkou",
+   "variants": [
+    "YINGKOU",
+    "Yingkou",
+    "Yingkow",
+    "Newchwang",
+    "Newohwang",
+    "Now Town, Yingkou"
+   ]
+  },
+  {
+   "name": "Tieling",
+   "variants": [
+    "TIEHLING",
+    "Tiehling"
+   ]
+  },
+  {
+   "name": "Kaiyuan",
+   "variants": [
+    "KAIYUAN",
+    "Kaiyuan"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Changchun",
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun",
+    "uahun"
+   ]
+  },
+  {
+   "name": "Dandong",
+   "variants": [
+    "ANTUNG",
+    "Antung",
+    "antung",
+    "ntung"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Jilin",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Ssupingkai"
+   ]
+  },
+  {
+   "name": "Taonan",
+   "variants": [
+    "Taonan"
+   ]
+  },
+  {
+   "name": "Hailong",
+   "variants": [
+    "Hailung"
+   ]
+  },
+  {
+   "name": "Ang'angxi",
+   "variants": [
+    "Anganchi"
+   ]
+  },
+  {
+   "name": "Dahushan",
+   "variants": [
+    "Tahushan"
+   ]
+  },
+  {
+   "name": "Tongliao",
+   "variants": [
+    "Tungliao"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "Huludao",
+   "variants": [
+    "Hulutao"
+   ]
+  },
+  {
+   "name": "Jinzhou District, Dalian",
+   "variants": [
+    "Chinchow",
+    "Chinohow",
+    "Chinahow",
+    "shinohow",
+    "hinohow"
+   ]
+  },
+  {
+   "name": "Pikou",
+   "variants": [
+    "Pitsuwo",
+    "Pitmwo",
+    "Pitzuwo",
+    "ritzuwo",
+    "PITZUWO"
+   ]
+  },
+  {
+   "name": "Chengzitan",
+   "variants": [
+    "Chengtzutung",
+    "Ch'engtzut'ung",
+    "Oh'enstout ung"
+   ]
+  },
+  {
+   "name": "Liaoning Province",
+   "variants": [
+    "Fengtien Province"
+   ]
+  },
+  {
+   "name": "Zhoushuizi",
+   "variants": [
+    "Choushuitze"
+   ]
+  },
+  {
+   "name": "Dashiqiao",
+   "variants": [
+    "Tashihohiao"
+   ]
+  },
+  {
+   "name": "Yantai Colliery, Liaoning",
+   "variants": [
+    "Yentai",
+    "Yentai Colliery"
+   ]
+  },
+  {
+   "name": "Ganjingzi",
+   "variants": [
+    "Kanohingtze",
+    "Kanchingtze"
+   ]
+  },
+  {
+   "name": "Jijiko",
+   "variants": [
+    "Jijiko"
+   ]
+  },
+  {
+   "name": "Anshan",
+   "variants": [
+    "Anshan"
+   ]
+  },
+  {
+   "name": "Tokuyama, Japan",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Tsurumi, Yokohama",
+   "variants": [
+    "Tsurumi"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Manohukuo",
+    "Mancnukuo",
+    "Nanohukuo",
+    "Manchukno"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Dunhua",
+   "variants": [
+    "Tunhua"
+   ]
+  },
+  {
+   "name": "Tumen",
+   "variants": [
+    "Tumen"
+   ]
+  },
+  {
+   "name": "Lafa",
+   "variants": [
+    "Lafa"
+   ]
+  },
+  {
+   "name": "Keshan",
+   "variants": [
+    "Koahan"
+   ]
+  },
+  {
+   "name": "Hailun",
+   "variants": [
+    "Hailun"
+   ]
+  },
+  {
+   "name": "Heihe",
+   "variants": [
+    "Tahotke"
+   ]
+  },
+  {
+   "name": "Jehol Province",
+   "variants": [
+    "Johal"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Wakasa-chō, historical Dalian",
+   "variants": [
+    "wakasa-cho",
+    "Wakasa-cho",
+    "Walasa-cho"
+   ]
+  },
+  {
+   "name": "Shinmei-chō, historical Dalian",
+   "variants": [
+    "Shimmei-cho",
+    "Shinmei-cho"
+   ]
+  },
+  {
+   "name": "Kirishima-chō, historical Dalian",
+   "variants": [
+    "Kirishima-cho"
+   ]
+  },
+  {
+   "name": "Yahata-chō, historical Dalian",
+   "variants": [
+    "Yahataocho"
+   ]
+  },
+  {
+   "name": "Higashi-kōen-chō, historical Dalian",
+   "variants": [
+    "Higashi-koen-cho"
+   ]
+  },
+  {
+   "name": "Yamagata-dōri, historical Dalian",
+   "variants": [
+    "Yamagata-dori",
+    "Yamagate-dori"
+   ]
+  },
+  {
+   "name": "Suma-chō, historical Dalian",
+   "variants": [
+    "Suma-cho"
+   ]
+  },
+  {
+   "name": "Irifune-chō, historical Dalian",
+   "variants": [
+    "Irifune-cho"
+   ]
+  },
+  {
+   "name": "Kii-machi, historical Dalian",
+   "variants": [
+    "Kii-machi"
+   ]
+  },
+  {
+   "name": "Awaji-chō, historical Dalian",
+   "variants": [
+    "Awaji-cho"
+   ]
+  },
+  {
+   "name": "Tajima-chō, historical Dalian",
+   "variants": [
+    "Tajima-cho"
+   ]
+  },
+  {
+   "name": "Noto-machi, historical Dalian",
+   "variants": [
+    "Noto-machi"
+   ]
+  },
+  {
+   "name": "Ebisu-chō, historical Dalian",
+   "variants": [
+    "Ebisu-cho"
+   ]
+  },
+  {
+   "name": "Echigo-chō, historical Dalian",
+   "variants": [
+    "Echigo-oho",
+    "Bahigo-cho"
+   ]
+  },
+  {
+   "name": "Sakura-machi, historical Dalian",
+   "variants": [
+    "Sakura-machi"
+   ]
+  },
+  {
+   "name": "Shinano-machi, historical Dalian",
+   "variants": [
+    "Shinano-machi"
+   ]
+  },
+  {
+   "name": "Mayumi-chō, historical Dalian",
+   "variants": [
+    "Mayumi-cho"
+   ]
+  },
+  {
+   "name": "Nishi-kōen-chō, historical Dalian",
+   "variants": [
+    "Nishi-koen-cho"
+   ]
+  },
+  {
+   "name": "Nagoya-machi, historical Lüshun",
+   "variants": [
+    "Nagoya-machi"
+   ]
+  },
+  {
+   "name": "Tadami-chō, historical Lüshun",
+   "variants": [
+    "Tadami-cho"
+   ]
+  },
+  {
+   "name": "Kita-Sanjō-machi, historical Lüshun",
+   "variants": [
+    "Kita-Sanjo-machi"
+   ]
+  },
+  {
+   "name": "Minami-Nijō-machi, historical Lüshun",
+   "variants": [
+    "Minami-Nijo-machi"
+   ]
+  },
+  {
+   "name": "Matsushima-chō, historical Shenyang or Tieling",
+   "variants": [
+    "Matsushima-oho",
+    "Matsushima-cho"
+   ]
+  },
+  {
+   "name": "Hashidate-chō, historical Shenyang",
+   "variants": [
+    "Hashidate-cho"
+   ]
+  },
+  {
+   "name": "Sumiyoshi-chō, historical Shenyang",
+   "variants": [
+    "Sumiyoshi-cho"
+   ]
+  },
+  {
+   "name": "Fujinami-chō, historical Shenyang",
+   "variants": [
+    "Fujinami-cho"
+   ]
+  },
+  {
+   "name": "Heian-dōri, historical Shenyang",
+   "variants": [
+    "Heian-dori"
+   ]
+  },
+  {
+   "name": "Moto-machi, historical Tieling",
+   "variants": [
+    "Moto-machi"
+   ]
+  },
+  {
+   "name": "Yamato-dōri, historical Changchun",
+   "variants": [
+    "Yamato-dori"
+   ]
+  },
+  {
+   "name": "Yoshino-chō, historical Changchun or Dalian",
+   "variants": [
+    "Yoshino-cho"
+   ]
+  },
+  {
+   "name": "Hinode-chō, historical Changchun",
+   "variants": [
+    "Hinode-cho"
+   ]
+  },
+  {
+   "name": "Higashi-sanban-chō, historical Fushun",
+   "variants": [
+    "Higashi-sanban-cho"
+   ]
+  },
+  {
+   "name": "Higashi-nijō-dōri, historical Fushun",
+   "variants": [
+    "Higashi-nijo-dori"
+   ]
+  },
+  {
+   "name": "Nishi-ichiban-chō, historical Fushun",
+   "variants": [
+    "Nishi-échiban-cho"
+   ]
+  },
+  {
+   "name": "Higashi-sanjō-dōri, historical Fushun",
+   "variants": [
+    "Higashi-sanjo-dori"
+   ]
+  },
+  {
+   "name": "Kasuga-chō, historical Fushun",
+   "variants": [
+    "Kasuga-cho"
+   ]
+  },
+  {
+   "name": "Ichiban-dōri, historical Dandong",
+   "variants": [
+    "Ichiban-dori"
+   ]
+  },
+  {
+   "name": "Yamatobashi-dōri, historical Dandong",
+   "variants": [
+    "Yamatobashi-dori"
+   ]
+  },
+  {
+   "name": "Goban-dōri, historical Dandong",
+   "variants": [
+    "Goban-dori"
+   ]
+  },
+  {
+   "name": "Daisan-chō, historical Dalian",
+   "variants": [
+    "Daisan-cho",
+    "Daizan-cho"
+   ]
+  },
+  {
+   "name": "Sakae-machi, historical Dalian",
+   "variants": [
+    "Sakae-machi",
+    "Sakaye-machi"
+   ]
+  },
+  {
+   "name": "Hiyoshi-chō, historical Dalian",
+   "variants": [
+    "Hiyoshi-cho"
+   ]
+  },
+  {
+   "name": "Hama-chō, historical Dalian",
+   "variants": [
+    "Hama-cho"
+   ]
+  },
+  {
+   "name": "Ōmi-chō, historical Dalian",
+   "variants": [
+    "Omi-cho"
+   ]
+  },
+  {
+   "name": "Ise-machi, historical Dalian",
+   "variants": [
+    "Ise-machi"
+   ]
+  },
+  {
+   "name": "Oyama-dōri, historical Dalian",
+   "variants": [
+    "Oyama-dori"
+   ]
+  },
+  {
+   "name": "Tsushima-chō, historical Dalian",
+   "variants": [
+    "Tsushima-cho"
+   ]
+  },
+  {
+   "name": "Yamate-chō, historical Dalian",
+   "variants": [
+    "Yamate-cho"
+   ]
+  },
+  {
+   "name": "Kambu-dōri, historical Dalian",
+   "variants": [
+    "Kambu-dori"
+   ]
+  },
+  {
+   "name": "Kyō-machi, historical Dalian",
+   "variants": [
+    "Kyo-machi"
+   ]
+  },
+  {
+   "name": "Chigusa-chō, historical Dalian",
+   "variants": [
+    "Chigusa-cho"
+   ]
+  },
+  {
+   "name": "Tango-chō, historical Dalian",
+   "variants": [
+    "Tango-cho"
+   ]
+  },
+  {
+   "name": "Shikishima-chō, historical Dalian",
+   "variants": [
+    "Shikishima-cho"
+   ]
+  },
+  {
+   "name": "Susono-chō, historical Dalian",
+   "variants": [
+    "Susono-cho"
+   ]
+  },
+  {
+   "name": "Chain Store Block, Dalian",
+   "variants": [
+    "Chain Store Block"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "William R. Langdon",
+   "role": "American consul at Dairen and author of reports on railway purchasing, finances, and Chinese competition",
+   "variants": [
+    "wm. R. Langdon",
+    "wm. R. Langaon",
+    "Wm. R. Langdon",
+    "William R. Langdon",
+    "Consul Wm. R. Langdon",
+    "Consul Langdon"
+   ]
+  },
+  {
+   "name": "Mitsugu Sengoku",
+   "role": "President of the South Manchuria Railway Company who resigned in June 1931",
+   "variants": [
+    "Dr. M. Sengoku",
+    "Dr. Sengokm",
+    "Dr. Mtsugu Sengoks"
+   ]
+  },
+  {
+   "name": "Osachi Hamaguchi",
+   "role": "Former Japanese premier; Sengoku is described as his appointee",
+   "variants": [
+    "ex-Premier Hamaguchi"
+   ]
+  },
+  {
+   "name": "Count Kōsai Uchida",
+   "role": "Former foreign minister and privy councillor appointed president of the South Manchuria Railway",
+   "variants": [
+    "Count Kosai Uchida",
+    "Count Kosai Uohida",
+    "Count Uohide",
+    "Count Uohida",
+    "Count Johida",
+    "count Uohida",
+    "Count Dehida"
+   ]
+  },
+  {
+   "name": "Kijūrō Shidehara",
+   "role": "Japanese foreign minister associated with policy in Manchuria",
+   "variants": [
+    "Baron Shidehara",
+    "Baron Shidohara",
+    "aron Shidehare"
+   ]
+  },
+  {
+   "name": "Teijō Eguchi",
+   "role": "Mitsubishi-connected businessman appointed vice president of the South Manchuria Railway",
+   "variants": [
+    "Hr.Teijo Xguehi",
+    "Mr. Egmeki",
+    "r. guahi"
+   ]
+  },
+  {
+   "name": "Mr. Chira (name uncertain)",
+   "role": "Outgoing South Manchuria Railway vice president mentioned in noisy OCR",
+   "variants": [
+    "mr. chira"
+   ]
+  },
+  {
+   "name": "Baron Iwasaki",
+   "role": "Head of the Mitsubishi interests and brother-in-law of Baron Shidehara",
+   "variants": [
+    "Baron Iwasaki"
+   ]
+  },
+  {
+   "name": "Nakamura",
+   "role": "Japanese national whose death is cited in the delegation's list of attacks in Manchuria",
+   "variants": [
+    "Nakanura"
+   ]
+  },
+  {
+   "name": "Gilbert",
+   "role": "American diplomatic officer at Geneva and sender of Telegram 239",
+   "variants": [
+    "Gilbert",
+    "GIL BERT"
+   ]
+  },
+  {
+   "name": "Forbes",
+   "role": "Source or author of the June 30, 1931 report from Japan recorded by the cross-reference sheet",
+   "variants": [
+    "Forbes"
+   ]
+  },
+  {
+   "name": "T. Hama",
+   "role": "Lumber contractor or supplier listed in the 1929 sales annex",
+   "variants": [
+    "T. Hama"
+   ]
+  },
+  {
+   "name": "H. Nakajima",
+   "role": "Heating-installation contractor in Dairen",
+   "variants": [
+    "H. Nakajima"
+   ]
+  },
+  {
+   "name": "S. Imai",
+   "role": "Heating and plumbing contractor in Mukden",
+   "variants": [
+    "S. Dmai"
+   ]
+  },
+  {
+   "name": "R. Kawamura",
+   "role": "Heating and plumbing contractor in Mukden",
+   "variants": [
+    "R. Kawamura"
+   ]
+  },
+  {
+   "name": "H. Kondo",
+   "role": "Heating and plumbing contractor in Mukden",
+   "variants": [
+    "H. Kondo"
+   ]
+  },
+  {
+   "name": "T. Suda",
+   "role": "Heating and plumbing contractor in Antung",
+   "variants": [
+    "T. suda"
+   ]
+  },
+  {
+   "name": "U. Anzai",
+   "role": "Painting contractor in Dairen",
+   "variants": [
+    "U. Anzai"
+   ]
+  },
+  {
+   "name": "John Carter Vincent",
+   "role": "American consul at Dairen",
+   "variants": [
+    "John Carter Vimsemt",
+    "John Garter Vinoemt"
+   ]
+  },
+  {
+   "name": "J. Kadono",
+   "role": "Director of Okura Gumi and president of the Chinchow–Pitsuwo Railway Company",
+   "variants": [
+    "ur. J. Kadono",
+    "J. Kadono"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States ambassador to Japan and author or recipient of several documents",
+   "variants": [
+    "Mr. Grew",
+    "Joseph C. Grew",
+    "Joseph O. Grew"
+   ]
+  },
+  {
+   "name": "Sadao Araki",
+   "role": "Japanese Army general associated with national-defence reorganization proposals",
+   "variants": [
+    "General Araki"
+   ]
+  },
+  {
+   "name": "Takashi Hishikari",
+   "role": "Japanese ambassador to Manchukuo and commander of the Kwantung Army",
+   "variants": [
+    "General Hishikari"
+   ]
+  },
+  {
+   "name": "Makoto Saitō",
+   "role": "Japanese admiral and head of the cabinet faced with the Army's railway proposals",
+   "variants": [
+    "Admiral Saito"
+   ]
+  },
+  {
+   "name": "Arnold Van Benschoten",
+   "role": "American vice consul at Dairen and author of the 1934 purchasing report",
+   "variants": [
+    "Arnold Van Bensahoten",
+    "Armold Van Benschoten",
+    "Vice Gonsul Arnold Van Bensahoten"
+   ]
+  }
+ ],
+ "keywords": [
+  "South Manchuria Railway Company",
+  "railway procurement",
+  "Japanese contractors",
+  "financial statements",
+  "Chinese railway competition",
+  "Dairen harbor",
+  "Kwantung Leased Territory",
+  "Manchukuo",
+  "Japanese Army control",
+  "railway construction",
+  "industrial investment",
+  "Great Depression"
+ ],
+ "subfiles": [
+  {
+   "title": "Transmittal: Purchases of the South Manchuria Railway Company",
+   "doc_type": "consular despatch",
+   "start_page": 1,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1931-06-24",
+   "from": "William R. Langdon, American Consul, Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits a detailed report on South Manchuria Railway Company purchases since its 1907 reorganization.",
+   "summary": "Langdon reports that annual purchases fell sharply from about ¥54.5 million to ¥19.8 million because of declining revenue and President Sengoku's economy program. He notes the collapse of American sales and the increasing predominance of Japanese and Manchurian goods, many produced by railway subsidiaries. He warns that the company's policy of favoring Japanese industry leaves poor prospects for American suppliers and asks that its confidential source material be used cautiously.",
+   "keywords": [
+    "procurement",
+    "American exports",
+    "Japanese goods",
+    "economic depression",
+    "trade promotion",
+    "confidential information"
+   ]
+  },
+  {
+   "title": "Purchases of the South Manchuria Railway Company, 1907–1930",
+   "doc_type": "commercial report with statistical tables and annexes",
+   "start_page": 5,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1931-06-24",
+   "from": "William R. Langdon, American Consul, Dairen",
+   "to": "Department of State",
+   "about": "Surveys the value, composition, sources, procedures, suppliers, and contractors involved in South Manchuria Railway Company purchasing.",
+   "summary": "The report tabulates annual purchases, merchandise classes, and countries of origin from 1907 through 1930, showing the rising share taken by Japanese and locally manufactured goods. It describes the company's nonpublic tendering system, reliance on Dairen intermediaries, direct foreign purchasing, and large building and municipal-development program. Annexes list sales by leading Dairen firms and approved building and specialist contractors throughout the railway zone and Kwantung Leased Territory. The report concludes that access through established local firms was the most effective route to company business.",
+   "keywords": [
+    "purchase statistics",
+    "sources of supply",
+    "Dairen firms",
+    "competitive tenders",
+    "building contractors",
+    "municipal development"
+   ]
+  },
+  {
+   "title": "File note: Sengoku resignation and Uchida appointment",
+   "doc_type": "cross-reference sheet",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1931-06-30",
+   "from": "Forbes, Japan",
+   "to": "",
+   "about": "Indexes a report on the resignation of Mitsugu Sengoku and the appointment of Count Kōsai Uchida as railway president.",
+   "summary": "The sheet cross-references another decimal-file location for a June 30 report from Japan. Its subject is the change in leadership of the South Manchuria Railway Company.",
+   "keywords": [
+    "file cross-reference",
+    "Sengoku",
+    "Uchida",
+    "railway presidency"
+   ]
+  },
+  {
+   "title": "Change in leadership of the South Manchuria Railway",
+   "doc_type": "report or memorandum fragment",
+   "start_page": 22,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1931-06-30",
+   "from": "Forbes, Japan",
+   "to": "Department of State",
+   "about": "Explains Sengoku's resignation, Uchida's appointment, and the political and economic problems facing the railway.",
+   "summary": "Mitsugu Sengoku resigned on grounds of poor health and was succeeded by Count Kōsai Uchida, whose selection was intended to keep railway policy above party politics. The report identifies declining profits, competition from Chinese railways, and China's export tax on Fushun coal as major problems. It also discusses Uchida's diplomatic background and the appointment of Mitsubishi-connected Teijō Eguchi as vice president.",
+   "keywords": [
+    "leadership change",
+    "Kōsai Uchida",
+    "Mitsugu Sengoku",
+    "Fushun coal tax",
+    "Chinese railways",
+    "party politics"
+   ]
+  },
+  {
+   "title": "File note: Second report on progress in Manchuria in 1930",
+   "doc_type": "cross-reference sheet",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1931-10-07",
+   "from": "South Manchuria Railway Company",
+   "to": "",
+   "about": "Records receipt of the railway company's second report on progress in Manchuria during 1930.",
+   "summary": "This document-file note identifies a report received October 7, 1931, and supplies a cross-reference to another decimal-file location. The substantive report itself is not reproduced on this page.",
+   "keywords": [
+    "file cross-reference",
+    "progress report",
+    "Manchuria",
+    "South Manchuria Railway"
+   ]
+  },
+  {
+   "title": "File note for Geneva Telegram 239",
+   "doc_type": "cross-reference sheet",
+   "start_page": 26,
+   "end_page": 26,
+   "continues_previous": false,
+   "date": "1931-10-21",
+   "from": "Gilbert, Geneva",
+   "to": "",
+   "about": "Indexes a telegram concerning Japanese accusations that China violated treaty obligations affecting railway interests in Manchuria.",
+   "summary": "The note summarizes the Japanese delegation's second communiqué to the League of Nations Council. It highlights Japanese capital in China and allegations that Chinese authorities obstructed Japanese nationals and railway interests.",
+   "keywords": [
+    "file cross-reference",
+    "League of Nations",
+    "treaty obligations",
+    "Japanese investment",
+    "Manchuria crisis"
+   ]
+  },
+  {
+   "title": "Telegram 239: Japanese delegation's second communiqué on Manchuria",
+   "doc_type": "diplomatic telegram",
+   "start_page": 27,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1931-10-21",
+   "from": "Gilbert, Geneva",
+   "to": "Secretary of State, Washington",
+   "about": "Reports Japanese claims that Chinese violations and hostility prevented troop withdrawal from Manchuria.",
+   "summary": "The Japanese delegation credits the South Manchurian Railway, Japanese troops, and extensive Japanese investment with developing Manchuria. It accuses China of treaty evasion, attacks on railway property and guards, discriminatory land policies, and mistreatment of Koreans. The communiqué asserts that Japan has no territorial designs but requires guarantees against hostile official action before withdrawing its forces.",
+   "keywords": [
+    "League of Nations",
+    "Manchurian Incident",
+    "railway interests",
+    "treaty violations",
+    "Japanese troops",
+    "Koreans in Manchuria"
+   ]
+  },
+  {
+   "title": "Business of the South Manchuria Railway Company",
+   "doc_type": "consular despatch",
+   "start_page": 30,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1931-10-20",
+   "from": "William R. Langdon, American Consul, Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Reviews the railway company's finances and operating divisions for the year ended March 31, 1931, and assesses its prospects for 1931–32.",
+   "summary": "Net profit fell from roughly ¥46 million to ¥22 million as passenger and freight traffic, coal sales, shipping, and harbor receipts declined. The report details railway mileage and rolling stock, Dairen's harbor works, the Fushun collieries and shale-oil plant, Anshan iron production, municipal administration, and affiliated enterprises. Although the company continued capital improvements, it used reserves to maintain dividends, halted new investments, dismissed employees, and sharply curtailed purchases. Langdon argues that competition from Chinese railways and Newchwang, intensified by the silver–gold exchange disparity, posed a more serious long-term threat than the general depression.",
+   "keywords": [
+    "annual business review",
+    "railway traffic",
+    "Dairen harbor",
+    "Fushun collieries",
+    "Anshan iron works",
+    "financial retrenchment"
+   ]
+  },
+  {
+   "title": "South Manchuria Railway Company general balance sheet as of March 31, 1931",
+   "doc_type": "financial statement",
+   "start_page": 47,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1931-03-31",
+   "from": "South Manchuria Railway Company",
+   "to": "Stockholders",
+   "about": "Presents the company's assets, liabilities, operating results, and disposition of profit for fiscal 1930–31.",
+   "summary": "The balance sheet values net assets and liabilities at approximately ¥1.116 billion and itemizes railway, harbor, mining, oil, iron, municipal, and investment properties. The profit-and-loss account shows a net profit of about ¥21.67 million, with losses in local administration and weak earnings from several industrial departments. Profit was allocated to reserves, government and public-stock dividends, officials' bonuses, and the balance carried forward.",
+   "keywords": [
+    "balance sheet",
+    "assets and liabilities",
+    "profit and loss",
+    "dividends",
+    "reserves",
+    "fixed assets"
+   ]
+  },
+  {
+   "title": "Chinese Railroad and Harbor Competition in Manchuria",
+   "doc_type": "consular despatch",
+   "start_page": 51,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1931-10-29",
+   "from": "William R. Langdon, American Consul, Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Analyzes Chinese railway and port competition as a cause of the South Manchuria Railway's decline and the Sino-Japanese conflict.",
+   "summary": "Langdon contrasts falling earnings on Japanese lines with rapid gains on Chinese routes and demonstrates the Chinese system's freight-rate advantage for soybean traffic. Newchwang's exports and imports were expanding rapidly, while future linkage to the deep, ice-free port of Huludao threatened Dairen further. The despatch argues that unsuccessful negotiations over traffic division helped motivate Japan's September 18 occupation of strategic railway centers. It predicts that the conflict will not be settled until the South Manchuria Railway and Dairen are protected from Chinese competition by agreement or other means.",
+   "keywords": [
+    "Chinese railway competition",
+    "Newchwang",
+    "soybean trade",
+    "Dairen",
+    "September 18 Incident",
+    "Sino-Japanese conflict"
+   ]
+  },
+  {
+   "title": "Acknowledgment of the despatch on Chinese railroad and harbor competition",
+   "doc_type": "official letter",
+   "start_page": 57,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "William R. Langdon, American Consul, Dairen",
+   "about": "Acknowledges and commends Langdon's report on Chinese transportation competition in Manchuria.",
+   "summary": "The Department states that it found the information timely and valuable. It commends Langdon for his alertness to the political significance of current developments.",
+   "keywords": [
+    "acknowledgment",
+    "commendation",
+    "Chinese competition",
+    "political reporting"
+   ]
+  },
+  {
+   "title": "Department memorandum on the Chinchow–Pitsuwo Railway",
+   "doc_type": "internal memorandum",
+   "start_page": 58,
+   "end_page": 58,
+   "continues_previous": false,
+   "date": "1933-04-29",
+   "from": "Division of Far Eastern Affairs, Department of State",
+   "to": "",
+   "about": "Summarizes a Dairen despatch and the railway company's denial of a proposed extension toward Antung.",
+   "summary": "The memorandum notes that much of the enclosed railway bulletin repeated information already known to the Department. It identifies the denial of press reports about a northeastern extension to Antung as the announcement's significant point.",
+   "keywords": [
+    "Chinchow–Pitsuwo Railway",
+    "Antung extension",
+    "Department of State",
+    "railway bulletin"
+   ]
+  },
+  {
+   "title": "Chinchow–Pitsuwo Railway in the Kwantung Leased Territory",
+   "doc_type": "consular despatch",
+   "start_page": 59,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1933-03-25",
+   "from": "John Carter Vincent, American Consul, Dairen",
+   "to": "American Ambassador, Tokyo",
+   "about": "Transmits and comments upon a South Manchuria Railway bulletin about the Chinchow–Pitsuwo line.",
+   "summary": "Vincent describes the line from Chinchow through Pitsuwo to Chengtzutung and its role in developing peanut farming, salt production, and stone quarrying. He notes a nearly completed motor road from Chengtzutung to Antung and questions the bulletin's claim that a railway over the same route would not be profitable. The despatch explains that Okura Gumi controlled the private railway, while the South Manchuria Railway held stock and probably exercised substantial influence.",
+   "keywords": [
+    "Chinchow–Pitsuwo Railway",
+    "Chengtzutung",
+    "Antung road",
+    "Okura Gumi",
+    "regional development"
+   ]
+  },
+  {
+   "title": "Bulletin on the Chinchow–Pitsuwo (Chengtzutung) Railway",
+   "doc_type": "corporate bulletin",
+   "start_page": 62,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1933-03-24",
+   "from": "South Manchuria Railway Company",
+   "to": "",
+   "about": "Describes the construction, finances, subsidies, economic effects, and proposed future of the Chinchow–Pitsuwo Railway.",
+   "summary": "The bulletin states that the 102.2-kilometre private railway was built in 1926–27 to open northeastern Kwantung to agriculture, salt production, and quarrying. An initial ¥559,000 subsidy was consumed in four years, and a later request for continued aid was first rejected, although the South Manchuria Railway subsequently reconsidered assistance. The line owned no rolling stock and rented equipment and crews from the South Manchuria Railway. The bulletin denies reports of an extension to Antung because mountainous terrain and tunneling costs would undermine commercial viability.",
+   "keywords": [
+    "private railway",
+    "subsidy",
+    "Kwantung development",
+    "rolling stock rental",
+    "Antung extension"
+   ]
+  },
+  {
+   "title": "Department memorandum on proposed military control of the South Manchuria Railway",
+   "doc_type": "internal memorandum",
+   "start_page": 64,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1933-12-07",
+   "from": "Division of Far Eastern Affairs, Department of State",
+   "to": "",
+   "about": "Summarizes Embassy reporting on Japanese Army plans to reorganize and control the South Manchuria Railway.",
+   "summary": "The proposed scheme would dissolve or reorganize the railway company, amalgamate Manchurian railways, and place the resulting holding company nominally under the ambassador but effectively under Army control. The memorandum connects the plan with preparation for possible war with Russia and a broader program for nationalizing industry. It notes opposition from the Department of Overseas Affairs, industrial interests, and the press, as well as assurances that the Open Door principle would not be affected.",
+   "keywords": [
+    "militarization",
+    "Kwantung Army",
+    "railway reorganization",
+    "Russia",
+    "industrial nationalization",
+    "Open Door"
+   ]
+  },
+  {
+   "title": "Despatch No. 584: Militarization of the South Manchuria Railway",
+   "doc_type": "embassy despatch",
+   "start_page": 66,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1933-11-16",
+   "from": "Joseph C. Grew, United States Ambassador, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the Japanese Army's plan to place the South Manchuria Railway and related industries under military direction.",
+   "summary": "The plan contemplated transforming the company into a holding organization, returning the railway zone to Manchukuo, combining the railway with Manchukuo's system, and assigning strategic industries such as coal and iron to Army supervision. Grew explains that the Army invoked administrative unity and national defence, while observers saw preparation for war with Russia and a test of industrial militarization. General Hishikari's remarks suggested a vision of permanent Japanese control and eventual annexation of Manchukuo. Civil agencies, business leaders, and newspapers objected to the financial, treaty, industrial, and constitutional implications, leaving the Saitō cabinet in a difficult position.",
+   "keywords": [
+    "South Manchuria Railway",
+    "Kwantung Army",
+    "Manchukuo",
+    "military control",
+    "industrial policy",
+    "retrocession of railway zone"
+   ]
+  },
+  {
+   "title": "Purchases of the South Manchuria Railway Company",
+   "doc_type": "commercial report with contractor appendix",
+   "start_page": 72,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1934-07-16",
+   "from": "Arnold Van Benschoten, American Vice Consul, Dairen",
+   "to": "Department of State",
+   "about": "Updates the 1931 purchasing report and lists the railway company's leading contractors for fiscal 1934–35.",
+   "summary": "The report states that purchases rose sharply with new railway construction and participation in industrial enterprises, while American goods—especially motor cars—accounted for about five percent of fiscal 1933–34 purchases. The company declined to furnish the detailed commodity, origin, and supplier data previously supplied confidentially. The appended contractor list contains only Japanese firms, unlike the more internationally mixed approved list of four years earlier.",
+   "keywords": [
+    "railway purchases",
+    "American motor cars",
+    "Manchukuo railways",
+    "Kwantung Army",
+    "Japanese contractors",
+    "commercial intelligence"
+   ]
+  },
+  {
+   "title": "Balance sheet of the South Manchuria Railway Company for fiscal 1933–34",
+   "doc_type": "consular despatch fragment",
+   "start_page": 77,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1934-09-05",
+   "from": "American Consulate, Dairen",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "Analyzes the company's March 31, 1934 balance sheet, capital expansion, investments, railway construction advances, and liabilities.",
+   "summary": "Total assets reached about ¥1.613 billion, though roughly ¥288 million represented uncalled stock following an increase in authorized capital from ¥440 million to ¥800 million. Fixed assets declined after transfer of the Anshan iron works to Showa Steel Works, while investments in subsidiary electric, gas, shipping, steel, chemical, petroleum, and coal companies rose substantially. The report suggests that large unadjusted advance payments concealed the construction costs of new Manchukuo railways, including the Dunhua–Tumen, Harbin–Lafa, and Keshan–Hailun lines and further projects toward Heihe and in Jehol. The surviving section also discusses increased paid-up capital, reserves, and changes in domestic and foreign bonds; the despatch continues beyond page 80.",
+   "keywords": [
+    "1934 balance sheet",
+    "capital increase",
+    "subsidiary companies",
+    "Manchukuo railways",
+    "advance payments",
+    "debentures"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 5,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894C.77 Kwantung Leased Territory, Railway. Concessions. Construction. Equipment., June 24, 1931 - October 20, 1939 1138.pdf",
+  "seconds": 446.7,
+  "created": "2026-10-03 20:26:56",
+  "key": "japan-internal-affairs-894c.77-kwantung-leased-territory-2"
+ }
+}

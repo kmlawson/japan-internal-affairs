@@ -1,0 +1,840 @@
+{
+ "section_summary": "This section documents State Department, consular, Treasury, and League of Nations exchanges concerning heroin and cocaine trafficking, cannabis controls, and scientific research on opium addiction in Taiwan. A translated Taiwan police report shows that a supposed scheme to export cocaine to China was actually a fraud in which investors were induced to advance money, with no cocaine apparently shipped. Much of the section consists of the opening portion of the Taiwan Government-General’s 1936 \"Opium System of Taiwan,\" covering the colonial opium monopoly, licensing and treatment of smokers, enforcement and smuggling statistics, and the text of the Taiwan Opium Ordinance and its implementing regulations.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa",
+    "TATWAN",
+    "臺灣",
+    "臺游",
+    "豪灣"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku",
+    "Taiboku",
+    "臺北"
+   ]
+  },
+  {
+   "name": "Taipei Prefecture (historical)",
+   "variants": [
+    "Taihoku-shu",
+    "臺北州",
+    "亳北州",
+    "豪北"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "Makassar",
+   "variants": [
+    "Makassar"
+   ]
+  },
+  {
+   "name": "Sulawesi",
+   "variants": [
+    "Celebes"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands Indies"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "中華民國",
+    "支那"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Japanese Settlement, Tianjin",
+   "variants": [
+    "Japanese Settlement, Tientsin"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Keelung",
+    "非隆"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kaigan-dori, Kobe",
+   "variants": [
+    "Kaigan-dori, Kobe"
+   ]
+  },
+  {
+   "name": "Beitou",
+   "variants": [
+    "Hokuto",
+    "Hokuto-sho"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tekye"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva",
+    "壽府"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "SWITZERI AUC"
+   ]
+  },
+  {
+   "name": "Sanxia District",
+   "variants": [
+    "Sankyo-sho"
+   ]
+  },
+  {
+   "name": "Haishan District",
+   "variants": [
+    "Kaizan-gun"
+   ]
+  },
+  {
+   "name": "Qixing District",
+   "variants": [
+    "Shichisei-gun"
+   ]
+  },
+  {
+   "name": "Keinan locality",
+   "variants": [
+    "Aza Keinan"
+   ]
+  },
+  {
+   "name": "Okei locality",
+   "variants": [
+    "Okei"
+   ]
+  },
+  {
+   "name": "Minato-cho, Taipei",
+   "variants": [
+    "Minato-cho 2 Chome"
+   ]
+  },
+  {
+   "name": "Taisho-cho, Taipei",
+   "variants": [
+    "Taisho-cho 1 Chome"
+   ]
+  },
+  {
+   "name": "Kateibetsu locality",
+   "variants": [
+    "Kateibetsu"
+   ]
+  },
+  {
+   "name": "Kamikeifu-cho, Taipei",
+   "variants": [
+    "Kamikeifu-cho 3 Chome"
+   ]
+  },
+  {
+   "name": "Shin Raku En Hotel, Beitou",
+   "variants": [
+    "Shin Raku En Hotel"
+   ]
+  },
+  {
+   "name": "Hsinchu",
+   "variants": [
+    "新竹",
+    "新竹州"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "臺中州"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "臺南",
+    "臺南州",
+    "崇南州"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "高雄",
+    "高雄州"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "屏東"
+   ]
+  },
+  {
+   "name": "Taitung",
+   "variants": [
+    "潮東",
+    "東"
+   ]
+  },
+  {
+   "name": "Hualien",
+   "variants": [
+    "花蓮",
+    "花蓮港"
+   ]
+  },
+  {
+   "name": "Penghu",
+   "variants": [
+    "湖"
+   ]
+  },
+  {
+   "name": "Songshan",
+   "variants": [
+    "松山"
+   ]
+  },
+  {
+   "name": "Anping",
+   "variants": [
+    "安平"
+   ]
+  },
+  {
+   "name": "Lukang",
+   "variants": [
+    "鹿港"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "波斯"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "土耳古"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "印度"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "M. Yuki",
+   "role": "Person previously implicated in smuggling narcotic drugs into Canada and the United States",
+   "variants": [
+    "M. Yuk1"
+   ]
+  },
+  {
+   "name": "Gan Kei Tan",
+   "role": "Coal-mining businessman and principal suspect in the fraudulent cocaine-export scheme",
+   "variants": [
+    "Gan Kei Tan"
+   ]
+  },
+  {
+   "name": "Kyosuke Matsui",
+   "role": "Taihoku resident who reportedly told Gan Kei Tan that cocaine exports were lucrative",
+   "variants": [
+    "Kyosuke Matsui"
+   ]
+  },
+  {
+   "name": "Yasuji Kikuchi",
+   "role": "Associate and witness whom Gan asked to obtain an export permit from the Taiwan Government-General",
+   "variants": [
+    "Yasuji Kikuchi"
+   ]
+  },
+  {
+   "name": "Seiryo Masuda",
+   "role": "Gan Kei Tan’s friend in Dairen, asked to seek a Chinese import license and a consular visa",
+   "variants": [
+    "Seiryo Masuda"
+   ]
+  },
+  {
+   "name": "Sogoro Horiuchi",
+   "role": "Witness and intermediary in the purported cocaine venture",
+   "variants": [
+    "Sogoro Horiuchi"
+   ]
+  },
+  {
+   "name": "Misao Miyata",
+   "role": "Witness and intermediary in the purported cocaine venture",
+   "variants": [
+    "Misao Miyata"
+   ]
+  },
+  {
+   "name": "Senjiro Teranishi",
+   "role": "President of Hokuto Yogyo Kabushiki Kaisha and victim of Gan Kei Tan’s fraud",
+   "variants": [
+    "Senjiro Teranishi"
+   ]
+  },
+  {
+   "name": "Kokuki Teranishi",
+   "role": "Nephew of Senjiro Teranishi who filed the police complaint",
+   "variants": [
+    "Kokuki Teranishi"
+   ]
+  },
+  {
+   "name": "Ri Ko Ki",
+   "role": "Tientsin resident examined during the investigation of the alleged licensing arrangements",
+   "variants": [
+    "Ri Ko Ki"
+   ]
+  },
+  {
+   "name": "Edward S. Maney",
+   "role": "American Consul at Taihoku",
+   "variants": [
+    "Ehand M",
+    "Edwardfs. Maney"
+   ]
+  },
+  {
+   "name": "Alvin T. Rowe, Jr.",
+   "role": "American Vice Consul at Taihoku",
+   "variants": [
+    "Alvin T. Rowe, Jr,",
+    "Alvin T. Rowe, Jr."
+   ]
+  },
+  {
+   "name": "Gerald Warner",
+   "role": "American Consul at Taihoku",
+   "variants": [
+    "Ted Wan",
+    "Gerald Warner"
+   ]
+  },
+  {
+   "name": "Kazuo Kubota",
+   "role": "Author of a pharmacological monograph on meconic acid",
+   "variants": [
+    "Kazuo Kubota"
+   ]
+  },
+  {
+   "name": "Keien Ko",
+   "role": "Author of monographs on opium addiction and opium alkaloids",
+   "variants": [
+    "Keien Ko"
+   ]
+  },
+  {
+   "name": "Asho Ro",
+   "role": "Author of studies on opium alkaloids and blood sugar",
+   "variants": [
+    "Asho Ro",
+    "Ro Asho"
+   ]
+  },
+  {
+   "name": "Chosei Ko",
+   "role": "Author of pharmacological studies involving rabbits and opium alkaloids",
+   "variants": [
+    "Chosei Ko",
+    "C. Ko"
+   ]
+  },
+  {
+   "name": "T. Ri",
+   "role": "Author of a series of studies on narcotine and isolated organs",
+   "variants": [
+    "T. Ri"
+   ]
+  },
+  {
+   "name": "K. Rai",
+   "role": "Author of a study on the blood pressure of opium addicts",
+   "variants": [
+    "K. Rai"
+   ]
+  },
+  {
+   "name": "Shôren Chô",
+   "role": "Author of a study on opium alkaloids and catalase content",
+   "variants": [
+    "Shôren Chô"
+   ]
+  }
+ ],
+ "keywords": [
+  "Taiwan opium system",
+  "opium addiction research",
+  "narcotics regulation",
+  "cocaine-export fraud",
+  "heroin smuggling",
+  "League of Nations",
+  "cannabis sativa",
+  "opium monopoly",
+  "addiction treatment",
+  "narcotics enforcement",
+  "Taiwan Government-General",
+  "United States Public Health Service"
+ ],
+ "subfiles": [
+  {
+   "title": "Instruction transmitting the Netherlands report on the Makassar heroin seizure",
+   "doc_type": "confidential instruction",
+   "start_page": 75,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1937-01-29",
+   "from": "Secretary of State",
+   "to": "American Consul, Taihoku",
+   "about": "Transmits a confidential League of Nations report on the arrest of two Formosan Chinese for heroin smuggling at Makassar.",
+   "summary": "The instruction encloses the Netherlands Government’s official report to the League of Nations concerning the Makassar seizure. It directs the consulate to keep the report confidential and not disclose it to Japanese authorities, and notes M. Yuki’s prior implication in narcotics smuggling to Canada and the United States.",
+   "keywords": [
+    "heroin smuggling",
+    "Makassar",
+    "League of Nations",
+    "confidential intelligence",
+    "M. Yuki"
+   ]
+  },
+  {
+   "title": "Despatch No. 62 and translated police report on the alleged Taiwan cocaine ring",
+   "doc_type": "consular despatch with enclosure",
+   "start_page": 76,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1937-01-20",
+   "from": "American Consulate, Taihoku",
+   "to": "Secretary of State",
+   "about": "Reports that an alleged cocaine-export ring was instead a fraudulent investment scheme and encloses the Taiwan police findings.",
+   "summary": "The consulate explains that no actual cocaine shipments appear to have been made and that the chief suspect, Gan Kei Tan, was prosecuted for fraud rather than smuggling. The translated report describes how Gan falsely claimed that export and Chinese import permits were assured and promised enormous profits from sending cocaine to China. Senjiro Teranishi advanced a total of approximately ¥5,600 before his nephew complained to the police, and Gan ultimately admitted that the licensing claims had been exaggerations based on wishful thinking.",
+   "keywords": [
+    "cocaine",
+    "fraud",
+    "Gan Kei Tan",
+    "Senjiro Teranishi",
+    "Taiwan police",
+    "China trade"
+   ]
+  },
+  {
+   "title": "Despatch transmitting fifteen monographs on opium smokers",
+   "doc_type": "consular despatch",
+   "start_page": 80,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1937-01-18",
+   "from": "Edward S. Maney, American Consul",
+   "to": "Secretary of State",
+   "about": "Reports the separate mailing of two copies each of fifteen requested studies concerning opium smokers in Taiwan.",
+   "summary": "The consulate responds to the Department’s October 22, 1936 instruction requesting fifteen research monographs. Two copies of every title were mailed separately to the Department.",
+   "keywords": [
+    "opium smokers",
+    "scientific research",
+    "monographs",
+    "Taiwan",
+    "publication transmission"
+   ]
+  },
+  {
+   "title": "Cross-reference sheet for Japan’s 1935 annual narcotics report",
+   "doc_type": "document file note",
+   "start_page": 81,
+   "end_page": 81,
+   "continues_previous": false,
+   "date": "1936-12-30",
+   "from": "",
+   "to": "",
+   "about": "Directs researchers to another decimal-file entry for the descriptive record of Japan’s 1935 annual report.",
+   "summary": "The sheet cross-references file 894.114 Narcotics/252. It identifies League document C.541.M.350.1936.XI, the annual report submitted by Japan for 1935.",
+   "keywords": [
+    "cross-reference",
+    "annual report",
+    "Japan",
+    "League of Nations",
+    "narcotics"
+   ]
+  },
+  {
+   "title": "Confidential transmittal of the Taiwan cocaine despatch to Treasury",
+   "doc_type": "interdepartmental note",
+   "start_page": 82,
+   "end_page": 82,
+   "continues_previous": false,
+   "date": "1937-02-20",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury, Customs Agency Service",
+   "about": "Forwards copies of the Taihoku consulate’s report on the alleged plan to smuggle cocaine from Taiwan to South China.",
+   "summary": "The State Department sends Treasury a confidential copy of the January 20 consular despatch and its translated police report. The material supplements an earlier communication concerning the supposed large-scale cocaine-smuggling plan.",
+   "keywords": [
+    "cocaine",
+    "Treasury Department",
+    "Customs Agency Service",
+    "Taiwan",
+    "South China"
+   ]
+  },
+  {
+   "title": "Transmittal of fifteen opium-research monographs to Treasury",
+   "doc_type": "interdepartmental note",
+   "start_page": 83,
+   "end_page": 83,
+   "continues_previous": false,
+   "date": "1937-02-23",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury, Public Health Service",
+   "about": "Forwards fifteen monographs on research involving opium smokers in Taiwan.",
+   "summary": "The State Department sends the requested research publications to the Treasury Department for Public Health Service use. The note refers to Treasury’s letter of October 16, 1936.",
+   "keywords": [
+    "opium research",
+    "monographs",
+    "Public Health Service",
+    "Treasury Department",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Treasury acknowledgment of fifteen opium monographs",
+   "doc_type": "acknowledgment letter",
+   "start_page": 84,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1937-03-04",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Acknowledges receipt of fifteen monographs concerning research on opium smokers in Taiwan.",
+   "summary": "Treasury confirms receipt of the State Department communication and its fifteen enclosures. Departmental receipt stamps date the exchange to early March 1937.",
+   "keywords": [
+    "acknowledgment",
+    "Treasury Department",
+    "opium smokers",
+    "monographs",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Instruction to obtain twenty-two additional opium-addiction studies",
+   "doc_type": "departmental instruction",
+   "start_page": 85,
+   "end_page": 85,
+   "continues_previous": false,
+   "date": "1937-04-14",
+   "from": "Secretary of State",
+   "to": "American Consul, Taihoku",
+   "about": "Requests two copies each of twenty-two additional Formosan opium-addiction studies listed by the League of Nations.",
+   "summary": "The Department encloses League document O.C. 1660(a), which identifies pamphlets numbered 16 through 37 in addition to the fifteen already supplied. The consul is asked to obtain the studies without cost so that one set can go to the Public Health Service’s Bureau of Mental Hygiene and another to the State Department library.",
+   "keywords": [
+    "opium addiction",
+    "scientific pamphlets",
+    "Bureau of Mental Hygiene",
+    "League of Nations",
+    "acquisitions"
+   ]
+  },
+  {
+   "title": "League note listing scientific research on opium addiction in Formosa",
+   "doc_type": "League of Nations committee document",
+   "start_page": 86,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1937-04-01",
+   "from": "Director, League of Nations Opium Traffic Section",
+   "to": "Advisory Committee on Traffic in Opium and Other Dangerous Drugs",
+   "about": "Lists twenty-two Japanese-supplied pamphlets on the physiology and pharmacology of opium addiction.",
+   "summary": "The Director reports that Japan’s representative supplied twenty-two further pamphlets, following fifteen received the previous year. The titles cover reproductive function, blood sugar, adrenal response, blood pressure, catalase, and the effects of opium alkaloids and related substances on animals and isolated organs. Named authors include Kazuo Kubota, Keien Ko, Asho Ro, Chosei Ko, T. Ri, K. Rai, and Shôren Chô.",
+   "keywords": [
+    "League of Nations",
+    "opium addiction",
+    "pharmacology",
+    "research bibliography",
+    "Formosa"
+   ]
+  },
+  {
+   "title": "State Department note transmitting League document O.C. 1660(a) to Treasury",
+   "doc_type": "interdepartmental note with duplicate copy",
+   "start_page": 88,
+   "end_page": 89,
+   "continues_previous": false,
+   "date": "1937-04-14",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury, Public Health Service",
+   "about": "Sends Treasury the League’s list of twenty-two additional scientific studies on opium addiction in Formosa.",
+   "summary": "The note advises Treasury that the American consul at Taihoku is being asked to obtain copies for the Bureau of Mental Hygiene. Pages 88 and 89 preserve substantially duplicate copies of the same communication and enclosure description.",
+   "keywords": [
+    "Public Health Service",
+    "League of Nations",
+    "opium research",
+    "Bureau of Mental Hygiene",
+    "duplicate copy"
+   ]
+  },
+  {
+   "title": "Follow-up inquiry concerning the requested opium pamphlets",
+   "doc_type": "departmental instruction",
+   "start_page": 90,
+   "end_page": 90,
+   "continues_previous": false,
+   "date": "1937-08-17",
+   "from": "Secretary of State",
+   "to": "American Consular Officer in Charge, Taihoku",
+   "about": "Asks whether the consulate has obtained the pamphlets on scientific research into opium addiction.",
+   "summary": "The Department follows up on its April 14 request for the additional research publications. It asks the officer in charge at Taihoku to report whether the pamphlets have been secured.",
+   "keywords": [
+    "follow-up",
+    "opium addiction",
+    "pamphlets",
+    "Taihoku consulate",
+    "publication procurement"
+   ]
+  },
+  {
+   "title": "Despatch transmitting twenty opium-addiction monographs",
+   "doc_type": "consular despatch",
+   "start_page": 91,
+   "end_page": 91,
+   "continues_previous": false,
+   "date": "1937-07-30",
+   "from": "Alvin T. Rowe, Jr., American Vice Consul",
+   "to": "Secretary of State",
+   "about": "Forwards two copies each of twenty of the twenty-two requested Taiwan opium-research pamphlets.",
+   "summary": "The Government-General supplied twenty pamphlets without charge. Copies of Keien Ko’s study of female genital function and Asho Ro’s study of opium alkaloids and rabbit blood sugar were exhausted, and the consulate reported that no alternative supplier existed.",
+   "keywords": [
+    "opium monographs",
+    "Taiwan Government-General",
+    "Keien Ko",
+    "Asho Ro",
+    "publication transmission"
+   ]
+  },
+  {
+   "title": "Transmittal of twenty opium pamphlets to Treasury",
+   "doc_type": "interdepartmental note",
+   "start_page": 92,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1937-09-10",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury, Public Health Service",
+   "about": "Forwards two copies each of twenty available pamphlets received from the American Consulate at Taihoku.",
+   "summary": "The shipment comprises pamphlet 16 and pamphlets 18 through 36 from League document O.C. 1660(a). State explains that pamphlets 17 and 37 cannot be obtained because the Government-General’s supply is exhausted.",
+   "keywords": [
+    "Public Health Service",
+    "opium research",
+    "pamphlets",
+    "Taihoku",
+    "exhausted publications"
+   ]
+  },
+  {
+   "title": "Treasury acknowledgment of twenty opium pamphlets",
+   "doc_type": "acknowledgment letter",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1937-09-16",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Acknowledges receipt of twenty pamphlets on scientific research concerning opium addiction in Formosa.",
+   "summary": "Treasury confirms receipt of State’s September 10 communication and the pamphlets numbered 16 and 18 through 36. The letter records that the publications originated with the American Consulate at Taihoku.",
+   "keywords": [
+    "acknowledgment",
+    "Treasury Department",
+    "opium addiction",
+    "pamphlets",
+    "Formosa"
+   ]
+  },
+  {
+   "title": "Instruction to obtain the 1936 amendment to the Taiwan Opium Ordinance",
+   "doc_type": "departmental instruction",
+   "start_page": 94,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "1937-10-09",
+   "from": "Secretary of State",
+   "to": "American Consular Officer in Charge, Taihoku",
+   "about": "Requests five copies and five translations of Taiwan Government-General Ordinance No. 5 of December 5, 1936.",
+   "summary": "The Department notes that it has not received the ordinance amending the Taiwan Opium Ordinance of 1928. The consular officer is asked to obtain the law and forward it with an English translation, both in quintuplicate.",
+   "keywords": [
+    "Taiwan Opium Ordinance",
+    "legislation",
+    "narcotics control",
+    "translation request",
+    "Government-General"
+   ]
+  },
+  {
+   "title": "Despatch reporting the earlier shipment of opium pamphlets",
+   "doc_type": "consular despatch",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1937-09-29",
+   "from": "Alvin T. Rowe, Jr., American Vice Consul",
+   "to": "Secretary of State",
+   "about": "Answers the Department’s follow-up by reporting that available opium-research pamphlets had already been sent with the July 30 despatch.",
+   "summary": "The vice consul states that the monographs were requested from the Bureau of Foreign Affairs on May 24 and received on July 27. All available copies were then forwarded as the accompaniment to the consulate’s July 30 despatch.",
+   "keywords": [
+    "opium pamphlets",
+    "Bureau of Foreign Affairs",
+    "Taihoku consulate",
+    "publication procurement",
+    "Alvin T. Rowe"
+   ]
+  },
+  {
+   "title": "Despatch on laws governing importation of Cannabis sativa",
+   "doc_type": "consular despatch",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1937-12-03",
+   "from": "Gerald Warner, American Consul",
+   "to": "Secretary of State",
+   "about": "Transmits the 1936 edition of \"Opium System of Taiwan\" in response to an inquiry about cannabis-import controls.",
+   "summary": "The consulate sends five copies of the Government-General publication compiled by its Bureau of Police Affairs. The Director General of Administration stated that Indian hemp and its preparations were not imported because there was no demand for them in Taiwan.",
+   "keywords": [
+    "Cannabis sativa",
+    "Indian hemp",
+    "import regulations",
+    "Opium System of Taiwan",
+    "Gerald Warner"
+   ]
+  },
+  {
+   "title": "Opium System of Taiwan, 1936 edition, with consular transmittal slip",
+   "doc_type": "government monograph with inserted transmittal form",
+   "start_page": 97,
+   "end_page": 154,
+   "continues_previous": false,
+   "date": "1936",
+   "from": "Bureau of Police Affairs, Taiwan Government-General",
+   "to": "",
+   "about": "Presents the history, administration, enforcement, statistics, and governing laws of Taiwan’s colonial opium and narcotics-control system.",
+   "summary": "The monograph traces Taiwan’s gradual-suppression policy, the licensing and declining number of opium smokers, sales and import statistics, and the 1928–1929 reforms intended to eliminate clandestine consumption. It describes medical examinations, compulsory treatment and rehabilitation, the government monopoly and retailer controls, cooperation between police and customs, and methods used to smuggle opium through Taiwan’s ports. Further sections summarize controls on other narcotics and reproduce the Taiwan Opium Ordinance and the opening articles of its implementing regulations. An inserted consular form records that five copies were sent on December 3, 1937, in connection with the inquiry about Cannabis sativa.",
+   "keywords": [
+    "opium monopoly",
+    "licensed smokers",
+    "addiction treatment",
+    "opium smuggling",
+    "police enforcement",
+    "Taiwan Opium Ordinance",
+    "narcotics regulation",
+    "Government-General statistics"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   75,
+   154
+  ],
+  "pdf": "894A.114 Regulations Governing %D0, Formosa. Taiwan, Traffic In Liquors And Habit-Forming Drugs. Each Subdivision Will Be Made A Separate Case., February 16, 1931 - March 17, 1939 1086.pdf",
+  "seconds": 663.3,
+  "created": "2026-09-30 11:36:54",
+  "key": "japan-internal-affairs-894a.114-regulations-governing-formosa-5"
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "keywords": [
+  "Imperial Diet",
+  "Sino-Japanese War",
+  "Minister of War",
+  "Navy Minister",
+  "protracted hostilities",
+  "military operations",
+  "budgetary measures",
+  "neutral commerce"
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "(REW",
+    "Grew",
+    "GREW"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JapanesE EmpirE",
+    "empirE",
+    "our empirE",
+    "Japan",
+    "Sino-Japanese"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "ChinesE",
+    "China",
+    "Sino-Japanese"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Orient",
+   "variants": [
+    "Orient"
+   ]
+  }
+ ],
+ "section_summary": "This section comprises diplomatic correspondence from the U.S. Embassy in Tokyo dated September 5, 1937, reporting on Japanese government statements to the 72nd session of the Imperial Diet regarding the Sino-Japanese conflict. It begins with the concluding page of Telegram No. 343 detailing Japan's resolve for protracted hostilities and need for wartime budgetary measures, followed by a State Department cross-reference file note. The section concludes with Telegram No. 347 summarizing addresses by the Ministers of War and Navy concerning military operations and third-power commercial shipping.",
+ "subfiles": [
+  {
+   "about": "Conclusion of a telegram reporting on a Japanese government address to the Diet outlining objectives against China and requesting approval for budgetary and legislative measures.",
+   "continues_previous": true,
+   "date": "1937-09-05",
+   "doc_type": "telegram",
+   "end_page": 498,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Telegram 343",
+    "Chinese army",
+    "protracted hostilities",
+    "Orient",
+    "Imperial Diet",
+    "budgetary measures"
+   ],
+   "start_page": 498,
+   "summary": "This page contains the second and concluding section of Telegram No. 343 from Ambassador Grew in Tokyo. It details an official address affirming Japan's determination to deliver a decisive blow to the Chinese army and sustain protracted hostilities if necessary to accomplish its mission in the Orient. The address closes with an appeal for unity, praise for the armed forces, and a formal request for Diet approval of emergency budgetary and legislative measures.",
+   "title": "Telegram No. 343 (Section 2) from Tokyo Regarding Address to the Diet",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A State Department cross-reference sheet indexing Telegram No. 347 concerning the Sino-Japanese situation and addresses of the War and Navy Ministers to the Diet.",
+   "continues_previous": false,
+   "date": "1937-09-05",
+   "doc_type": "cross-reference note",
+   "end_page": 499,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Document File Note",
+    "cross-reference",
+    "72nd Diet session",
+    "Minister of War",
+    "Minister of the Navy",
+    "Sino-Japanese situation"
+   ],
+   "start_page": 499,
+   "summary": "A State Department Document File Note recording that Telegram No. 347, sent at 5 p.m. on September 5, 1937, from Ambassador Grew in Japan, is filed under decimal file 793.94/9916 with a cross-reference to 894.032/175. The note outlines the telegram's topic as the Sino-Japanese situation and Japan's policy, specifically concerning the addresses of the Ministers of War and Navy to the 72nd session of the Diet.",
+   "title": "Document File Note 894.032/175 for Telegram No. 347",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A telegram transmitting summaries of speeches delivered by the Japanese Ministers of War and the Navy to the Diet regarding operations in China and neutral commerce.",
+   "continues_previous": false,
+   "date": "1937-09-05",
+   "doc_type": "telegram",
+   "end_page": 501,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Telegram 347",
+    "Minister of War",
+    "Navy Minister",
+    "punish Chinese army",
+    "third-country commerce",
+    "Imperial Diet"
+   ],
+   "start_page": 500,
+   "summary": "Telegram No. 347 from Ambassador Grew in Tokyo reports to the Secretary of State on the speeches delivered by the Ministers of War and Navy at the 72nd Diet session. The Minister of War emphasized that the situation had aggravated and expressed firm determination to punish the Chinese army, eliminate hostility toward Japan, and see the conflict through even if drawn out. The Navy Minister's address included an explicit assurance that Japan would not interfere with the peaceful commerce of third countries with China.",
+   "title": "Telegram No. 347 from Tokyo Regarding Addresses of the Ministers of War and Navy",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14126,
+   "output_tokens": 6136,
+   "thinking_tokens": 4963,
+   "cache_read_tokens": 0,
+   "total_tokens": 20262
+  },
+  "backend": "agy",
+  "section": 10,
+  "sections": 10,
+  "pages": [
+   498,
+   501
+  ],
+  "pdf": "894.032 Legislative Branch Of Government., Japan, Proceedings. Messages To The Parliament. Presidents Message To Congress., March 30, 1937 - September 5, 1937 968.pdf",
+  "seconds": 21.0,
+  "created": "2026-09-30 04:47:21",
+  "key": "japan-internal-affairs-894.032-legislative-branch-of-4"
+ }
+}

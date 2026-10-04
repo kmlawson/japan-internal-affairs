@@ -1,0 +1,166 @@
+{
+ "interest": "Yokohama's rebuilding, public works bidding and 1939 gas rationing.",
+ "keywords": [
+  "Japan",
+  "public works",
+  "Yokohama",
+  "Great Kanto Earthquake",
+  "reconstruction",
+  "harbor works",
+  "public bidding",
+  "government contracts",
+  "Philippines",
+  "gas rationing",
+  "diplomatic immunity",
+  "Joseph C. Grew",
+  "Cordell Hull"
+ ],
+ "overview": "This State Department file (decimal file 894.15) covers public works, municipal infrastructure, and public utility regulations in Japan between February 1930 and October 1939. The records begin with a 1930 consular despatch from Yokohama transmitting two official publications on the comprehensive post-earthquake reconstruction of the city and its harbor facilities. The file also includes a March 1936 diplomatic note from the Japanese Embassy, along with its State Department index sheet, confirming that Japanese regulations on government building contracts and public works operate under free competition through public bidding without discrimination against American or Philippine nationals. Finally, an October 1939 cross-reference sheet notes a telegram from Ambassador Joseph C. Grew concerning Japanese government restrictions on public gas consumption and whether members of the diplomatic corps should seek exemption on grounds of diplomatic immunity.",
+ "people": [
+  {
+   "name": "Graham A. Kemper",
+   "role": "American Consul",
+   "variants": [
+    "Graham A. Kemper"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "Cordell Hull"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Ambassador Grew",
+    "Grew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "American Consul Graham A. Kemper transmits two municipal publications illustrating the post-earthquake reconstruction and modernization of the city and port of Yokohama.",
+   "date": "1930-02-14",
+   "doc_type": "despatch",
+   "end_page": 2,
+   "from": "Graham A. Kemper",
+   "keywords": [
+    "Yokohama",
+    "reconstruction",
+    "Great Kanto Earthquake",
+    "harbor works",
+    "municipal government",
+    "urban planning"
+   ],
+   "start_page": 1,
+   "summary": "Kemper sends booklets on the rebuilding of Yokohama city and harbor after the 1923 earthquake, now superior to before.",
+   "title": "Despatch from Kemper (Yokohama) Transmitting Publications on Reconstruction of Yokohama",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "State Department document file note indexing a diplomatic note regarding Japanese public bidding regulations for government buildings and public works.",
+   "date": "1936-03-20",
+   "doc_type": "cross-reference sheet",
+   "end_page": 3,
+   "from": "Japanese Embassy",
+   "keywords": [
+    "public works",
+    "public bidding",
+    "government contracts",
+    "Philippines",
+    "cross-reference"
+   ],
+   "start_page": 3,
+   "summary": "Cross-reference to a 1936 Japanese Embassy note on open bidding for public works.",
+   "title": "Document File Note on Japanese Public Works and Bidding Regulations",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Diplomatic note from the Japanese Embassy clarifying that Japanese public works bidding regulations do not discriminate against American or Philippine citizens.",
+   "date": "1936-03-20",
+   "doc_type": "note",
+   "end_page": 4,
+   "from": "Japanese Embassy",
+   "keywords": [
+    "public bidding",
+    "government contracts",
+    "non-discrimination",
+    "Philippines",
+    "Cordell Hull",
+    "Japanese Embassy"
+   ],
+   "start_page": 4,
+   "summary": "The Japanese Embassy asks Hull to tell the Philippines that Japan's public works contracts are open to all bidders without discrimination.",
+   "title": "Note from Japanese Embassy to Secretary of State on Public Works Bidding",
+   "to": "Cordell Hull"
+  },
+  {
+   "about": "Cross-reference sheet indexing a telegram from Ambassador Grew inquiring whether to protest Japanese public gas rationing under diplomatic immunity.",
+   "date": "1939-10-18",
+   "doc_type": "cross-reference sheet",
+   "end_page": 5,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "gas rationing",
+    "diplomatic immunity",
+    "public utilities",
+    "Joseph C. Grew",
+    "Tokyo"
+   ],
+   "start_page": 5,
+   "summary": "Cross-reference to Grew's 1939 telegram asking whether to protest gas rationing applied to diplomats.",
+   "title": "Cross-Reference Note on Telegram from Grew Regarding Gas Consumption Restrictions",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 6401,
+   "output_tokens": 6225,
+   "thinking_tokens": 4668,
+   "cache_read_tokens": 8138,
+   "total_tokens": 12626
+  },
+  "backend": "agy",
+  "seconds": 20.5,
+  "identifier": "japan-internal-affairs-894.15-japan-public-works-1",
+  "file": "894.15 Japan, Public Works., February 14, 1930 - October 18, 1939 1137.pdf",
+  "created": "2026-09-28 23:29:57"
+ }
+}

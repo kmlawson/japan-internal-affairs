@@ -1,0 +1,152 @@
+{
+ "interest": "1944 State Department planning for a Japanese leadership flight to the mainland.",
+ "keywords": [
+  "Japanese Emperor",
+  "Imperial Family",
+  "Emperor abdication",
+  "Office of Far Eastern Affairs",
+  "Breckinridge Long",
+  "Joseph C. Grew",
+  "Stanley K. Hornbeck",
+  "Manchuria",
+  "Peking",
+  "Nanking",
+  "puppet regime",
+  "contingency planning",
+  "military government",
+  "psychological warfare"
+ ],
+ "overview": "Two July 1944 memoranda on the risk that Japan's Emperor and leaders might flee to China or Manchuria; Ballantine proposes treating flight as abdication.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "Director, Office of Far Eastern Affairs",
+   "variants": [
+    "Mr. Grew"
+   ]
+  },
+  {
+   "name": "Breckinridge Long",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Long",
+    "B. L."
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Adviser on Political Relations, Department of State",
+   "variants": [
+    "Dr. Hornbeck"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "Deputy Director, Office of Far Eastern Affairs",
+   "variants": [
+    "JMB",
+    "JWB"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Continental China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peking"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Recommendations by Far Eastern Affairs officer J. W. Ballantine for amending a memorandum to Assistant Secretary Long concerning continental Japanese resistance and the propaganda use of an imperial abdication.",
+   "date": "1944-07-10",
+   "doc_type": "memorandum",
+   "end_page": 2,
+   "from": "Joseph W. Ballantine (Office of Far Eastern Affairs)",
+   "keywords": [
+    "Emperor",
+    "abdication",
+    "Manchuria",
+    "propaganda",
+    "military government",
+    "Office of Far Eastern Affairs",
+    "resistance"
+   ],
+   "start_page": 1,
+   "summary": "Ballantine proposes that any continental regime would depend on Manchuria, and that a fleeing Emperor could be declared to have abdicated.",
+   "title": "Memorandum from J. W. Ballantine to Joseph C. Grew regarding Continental Regime and Emperor's Abdication",
+   "to": "Joseph C. Grew (Director, Office of Far Eastern Affairs)"
+  },
+  {
+   "about": "Inquiry by Assistant Secretary Breckinridge Long on whether State Department planning has addressed the potential flight of the Japanese Royal Family, High Command, and civilian leadership to China.",
+   "date": "1944-07-08",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Breckinridge Long (Assistant Secretary of State)",
+   "keywords": [
+    "Breckinridge Long",
+    "Joseph C. Grew",
+    "Stanley K. Hornbeck",
+    "Royal Family",
+    "High Command",
+    "China",
+    "Peking",
+    "Nanking",
+    "puppet regime",
+    "contingency planning"
+   ],
+   "start_page": 3,
+   "summary": "Breckinridge Long warns Grew that Japan's Emperor and leaders might flee to China for prolonged resistance and asks for plans to counter this.",
+   "title": "Memorandum from Assistant Secretary Breckinridge Long to Joseph C. Grew regarding Possible Japanese Flight to China",
+   "to": "Joseph C. Grew (Director, Office of Far Eastern Affairs)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14254,
+   "output_tokens": 6328,
+   "thinking_tokens": 5070,
+   "cache_read_tokens": 0,
+   "total_tokens": 20582
+  },
+  "backend": "agy",
+  "seconds": 23.2,
+  "identifier": "japan-internal-affairs-894.01-japan-government-mandates-3",
+  "file": "894.01 Japan, Government. Mandates, Recognition., July 8, 1944 1434.pdf",
+  "created": "2026-09-28 21:47:44"
+ }
+}

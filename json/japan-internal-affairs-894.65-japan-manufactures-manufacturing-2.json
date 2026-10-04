@@ -1,0 +1,72 @@
+{
+ "overview": "A single-page Department of State cross-reference sheet filed under Japanese manufacturing, directing researchers to file 800.20294/2 for a March 23, 1936 communication from Tokyo concerning proposed Japanese legislation to prevent the disclosure of commercial information about Japanese factories.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Garrels",
+   "role": "Sender or reporting officer in Tokyo; precise position not stated",
+   "variants": [
+    "Garrels"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "Tokyo",
+  "manufacturing",
+  "factories",
+  "commercial information",
+  "industrial secrecy",
+  "information disclosure",
+  "proposed legislation",
+  "Japanese law",
+  "cross-reference",
+  "Department of State records"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference sheet on proposed Japanese factory-secrecy law",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1936-03-23",
+   "from": "Garrels, Tokyo",
+   "to": "",
+   "about": "The sheet refers researchers to another file containing a communication about proposed Japanese legislation against divulging commercial information on Japanese factories.",
+   "summary": "This filing note points to document 800.20294/2, identified with the number 1225. The referenced communication originated in Tokyo from Garrels on March 23, 1936, and concerned a proposed Japanese law intended to prevent disclosure of commercial information about Japanese factories. The underlying communication itself is not included on this page.",
+   "keywords": [
+    "cross-reference",
+    "Japan",
+    "Tokyo",
+    "Garrels",
+    "factories",
+    "commercial information",
+    "industrial secrecy",
+    "proposed law",
+    "manufacturing"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful primarily as a provenance and discovery aid: it documents that reporting on proposed Japanese industrial-secrecy legislation existed but was filed elsewhere, apparently under 800.20294/2 rather than solely under the manufacturing classification 894.65. For historians, it highlights both Japanese concern with protecting factory information in 1936 and the State Department’s cross-classification practices, which can otherwise obscure related records.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 22.7,
+  "identifier": "japan-internal-affairs-894.65-japan-manufactures-manufacturing-2",
+  "file": "894.65 Japan, Manufactures. Manufacturing., March 23, 1936 901.pdf",
+  "created": "2026-09-29 10:09:48"
+ }
+}

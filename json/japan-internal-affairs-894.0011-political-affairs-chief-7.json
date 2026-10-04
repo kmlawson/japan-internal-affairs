@@ -1,0 +1,97 @@
+{
+ "interest": "1949 rumors of Prince Konoye and imperial visitors in Moscow.",
+ "keywords": [
+  "Imperial Family",
+  "Japan",
+  "Moscow",
+  "Soviet Union",
+  "Prince Konoye",
+  "telegrams",
+  "List of Papers",
+  "rumors",
+  "diplomatic communications",
+  "Department of State",
+  "Cold War",
+  "Allied Occupation"
+ ],
+ "overview": "Docket for 894.0011 listing Henderson's November 1949 Moscow telegrams on Prince Konoye rumors and a possible imperial visit.",
+ "people": [
+  {
+   "name": "Prince Fumimaro Konoe",
+   "role": "Prince",
+   "variants": [
+    "Prince Honoye"
+   ]
+  },
+  {
+   "name": "Henderson",
+   "role": "U.S. Embassy official, Moscow",
+   "variants": [
+    "Henderson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Kuibyshev",
+   "variants": [
+    "Kulipshov"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "DC"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers indexing telegrams from Moscow regarding rumors of Prince Konoye and a potential visit by a member of the Japanese imperial family.",
+   "date": "1949-11-15",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Imperial Family",
+    "Japan",
+    "Moscow",
+    "Prince Konoye",
+    "telegrams",
+    "Soviet Union"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.0011: Henderson's November 1949 telegrams on Konoye and a possible imperial visit to Moscow.",
+   "title": "List of Papers: Imperial Family - Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13809,
+   "output_tokens": 19080,
+   "thinking_tokens": 18260,
+   "cache_read_tokens": 0,
+   "total_tokens": 32889
+  },
+  "backend": "agy",
+  "seconds": 64.9,
+  "identifier": "japan-internal-affairs-894.0011-political-affairs-chief-7",
+  "file": "894.0011 Political Affairs., Chief Executive. Sovereign. Visits., Japan, Family.,  200.pdf",
+  "created": "2026-09-28 21:17:49"
+ }
+}

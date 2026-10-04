@@ -1,0 +1,510 @@
+{
+ "interest": "Shows Japan's wartime food crisis (1941-43): commodity shortages, Allied blockade effects, and Swedish vitamin relief via the Gripsholm.",
+ "keywords": [
+  "Food conditions",
+  "Food shortage",
+  "Food rationing",
+  "Japan",
+  "Meat shortage",
+  "Copra",
+  "Food oil",
+  "Salt",
+  "Economic warfare",
+  "Office of Strategic Services",
+  "Vitamins and medicines",
+  "Gripsholm",
+  "Food Council",
+  "Food autarky"
+ ],
+ "overview": "File 894.5018 (May 1941-Jan 1943) documents Japan's worsening food crisis, from civilian rationing and regional shortages to wartime mobilization, British embargoes on oils, OSS salt-supply analysis, and Swedish vitamin shipments via the exchange ship Gripsholm amid Allied blockade.",
+ "people": [
+  {
+   "name": "Samuel Sokobin",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Sokobin",
+    "Kobe-Sokobin"
+   ]
+  },
+  {
+   "name": "Chase Kimball",
+   "role": "Correspondent / Inquirer",
+   "variants": [
+    "Kimball, Chase"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Japan-Grew",
+    "Japan(Grew)"
+   ]
+  },
+  {
+   "name": "Lillian Konoye",
+   "role": "Witness / Deponent on food conditions",
+   "variants": [
+    "Lillian Konoye"
+   ]
+  },
+  {
+   "name": "John G. Winant",
+   "role": "U.S. Ambassador to Great Britain",
+   "variants": [
+    "Ninan!",
+    "Winant"
+   ]
+  },
+  {
+   "name": "Ernest F. Penrose",
+   "role": "Economic Advisor to the U.S. Ambassador to Great Britain",
+   "variants": [
+    "Penrose"
+   ]
+  },
+  {
+   "name": "Sir Donald Somerville",
+   "role": "British official",
+   "variants": [
+    "Somerville"
+   ]
+  },
+  {
+   "name": "Truman W. Martin",
+   "role": "War Department official",
+   "variants": [
+    "Martin, Truman W."
+   ]
+  },
+  {
+   "name": "Leland Harrison",
+   "role": "U.S. Minister to Switzerland",
+   "variants": [
+    "Harrison",
+    "Switzerland (Harrison)"
+   ]
+  },
+  {
+   "name": "William D. Leahy",
+   "role": "Admiral, U.S. Navy / Chief of Staff to the Commander in Chief",
+   "variants": [
+    "Leahy, Wm. D. Admiral",
+    "Leahy, Wm. D."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Aobe"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo prefecture"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Sino-Japanese"
+   ]
+  },
+  {
+   "name": "MS Gripsholm",
+   "variants": [
+    "Gripaholm"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consul Samuel Sokobin reports on the local meat shortage in Kobe.",
+   "date": "1941-05-07",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Samuel Sokobin (American Consul, Kobe)",
+   "keywords": [
+    "Kobe",
+    "Meat shortage",
+    "Food supply",
+    "Samuel Sokobin",
+    "Hyogo"
+   ],
+   "start_page": 1,
+   "summary": "Telegram: Consul Sokobin at Kobe reports an emerging meat shortage, sent to State's Commercial Affairs and Far Eastern Affairs divisions.",
+   "title": "Telegram from Sokobin (Kobe) on Meat Shortage",
+   "to": "Division of Commercial Affairs and Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Chase Kimball requests current information concerning food rationing systems in Japan.",
+   "date": "1941-03-14",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Chase Kimball",
+   "keywords": [
+    "Food rationing",
+    "Chase Kimball",
+    "Far Eastern Affairs",
+    "Civilian supply"
+   ],
+   "start_page": 1,
+   "summary": "Chase Kimball asks the Division of Far Eastern Affairs for current information on food rationing in Japan.",
+   "title": "Inquiry from Chase Kimball regarding Food Rationing in Japan",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "The Tokyo Embassy furnishes available information on food rationing in Japan in response to an inquiry.",
+   "date": "1941-03-25",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "American Embassy, Tokyo",
+   "keywords": [
+    "Food rationing",
+    "Tokyo Embassy",
+    "Chase Kimball",
+    "Economic controls"
+   ],
+   "start_page": 1,
+   "summary": "Despatch No. 142: the Tokyo Embassy furnishes data on Japanese food rationing in response to Chase Kimball's inquiry.",
+   "title": "Despatch #142 from Tokyo Embassy furnishing Information on Food Rationing",
+   "to": "Chase Kimball and Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Ambassador Grew reports on the distribution of foodstuffs in Hyogo Prefecture.",
+   "date": "1941-05-01",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew (Tokyo)",
+   "keywords": [
+    "Joseph C. Grew",
+    "Hyogo Prefecture",
+    "Food distribution",
+    "Tokyo"
+   ],
+   "start_page": 1,
+   "summary": "Telegram No. 759: Grew reports on the distribution of foodstuffs in Hyogo Prefecture.",
+   "title": "Telegram #759 from Grew (Tokyo) on Distribution of Foodstuffs in Hyogo Prefecture",
+   "to": "Division of Commercial Affairs and Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Ambassador Grew reports on Japanese representations to the British Ambassador concerning British embargoes on copra exports to Japan.",
+   "date": "1941-06-03",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Joseph C. Grew (Tokyo)",
+   "keywords": [
+    "Copra",
+    "Embargo",
+    "Joseph C. Grew",
+    "Food oil",
+    "British Ambassador",
+    "Foreign Minister"
+   ],
+   "start_page": 1,
+   "summary": "Telegram No. 792: Grew relays Japan's protest to Britain over its copra embargo, citing severe domestic shortages of vegetable fats and oils.",
+   "title": "Telegram #792 from Grew (Tokyo) on Japanese Representations regarding Copra Embargo",
+   "to": "Division of Far Eastern Affairs, Division of Commercial Affairs, and Division of European Affairs"
+  },
+  {
+   "about": "Quotes a message sent to London by the British Ambassador in Tokyo concerning Japan's acute shortage of food oil.",
+   "date": "1941-06-09",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "American Embassy, Tokyo (Joseph C. Grew)",
+   "keywords": [
+    "Food oil",
+    "British Ambassador",
+    "London",
+    "Economic warfare",
+    "Copra"
+   ],
+   "start_page": 1,
+   "summary": "Telegram quotes a May 1941 British Ambassador's message on Japan's worsening food oil shortage, following earlier reports on the copra embargo.",
+   "title": "Telegram quoting British Ambassador's Message on Shortage of Food Oil",
+   "to": "Department of State"
+  },
+  {
+   "about": "The Department of Justice transmits a statement by Lillian Konoye concerning food conditions in Japan.",
+   "date": "1941-09-24",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "Department of Justice",
+   "keywords": [
+    "Lillian Konoye",
+    "Department of Justice",
+    "Food conditions",
+    "Civilian life"
+   ],
+   "start_page": 1,
+   "summary": "Justice Department forwards Lillian Konoye's statement on food conditions in Japan to State's Far Eastern Affairs division.",
+   "title": "Justice Department Transmission of Lillian Konoye's Statement on Food Conditions",
+   "to": "Division of Far Eastern Affairs and Foreign Activity Correlation"
+  },
+  {
+   "about": "Transmits an assessment from the British Enemy Resources Department and comments by E. F. Penrose on Japan's 1942 food position.",
+   "date": "1942-01-16",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "John G. Winant (London)",
+   "keywords": [
+    "John G. Winant",
+    "E. F. Penrose",
+    "Enemy Resources Department",
+    "London",
+    "Food position 1942"
+   ],
+   "start_page": 1,
+   "summary": "Telegram No. 270: London transmits a British Enemy Resources Department assessment of Japan's 1942 food position, with commentary by economic adviser E. F. Penrose.",
+   "title": "Telegram #270 from Winant (London) on Japan's Food Position in 1942",
+   "to": "Division of Commercial Affairs and Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Cross-reference to Economic Warfare Intelligence Series No. 124 regarding the effects of the Pacific War on Far Eastern food supplies.",
+   "date": "1942-04-11",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Sir Donald Somerville (Great Britain)",
+   "keywords": [
+    "Economic warfare",
+    "Donald Somerville",
+    "Far East",
+    "Pacific War",
+    "Food supplies"
+   ],
+   "start_page": 1,
+   "summary": "Indexes an April 1942 British despatch on the Pacific War's effects on Japanese and Allied food supplies.",
+   "title": "Cross-Reference Sheet: Somerville Despatch #3418 on War Effects on Far East Food Supplies",
+   "to": "Department of State"
+  },
+  {
+   "about": "Transmits OSS Situation Report No. 7 analyzing the strategic importance of salt in the Sino-Japanese struggle.",
+   "date": "1942-06",
+   "doc_type": "report",
+   "end_page": 1,
+   "from": "Office of Strategic Services",
+   "keywords": [
+    "Office of Strategic Services",
+    "Salt",
+    "Sino-Japanese War",
+    "Economic intelligence"
+   ],
+   "start_page": 1,
+   "summary": "OSS Situation Report No. 7 (June 1942) analyzes salt production, supply routes, and dietary and industrial needs in East Asia, for Allied economic warfare planning.",
+   "title": "Office of Strategic Services Situation Report #7 on the Importance of Salt",
+   "to": "Department of State"
+  },
+  {
+   "about": "General resume by Ambassador Grew on the foodstuffs situation in Japan proper from December 1941 to April 1942.",
+   "date": "1942-04-15",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Joseph C. Grew",
+    "Japan proper",
+    "Foodstuffs resume",
+    "Wartime shortages"
+   ],
+   "start_page": 1,
+   "summary": "Despatch from Grew surveys Japan's food situation from December 1941 to April 1942, assessing how wartime isolation affected domestic food reserves and distribution.",
+   "title": "Despatch from Grew on Foodstuffs Situation in Japan (Dec 1941 - Apr 1942)",
+   "to": "Division of Far Eastern Affairs and Division of Public Affairs/Historical"
+  },
+  {
+   "about": "The War Department transmits a military intelligence summary of Japan's foodstuff position.",
+   "date": "1942-02-16",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "War Department (Truman W. Martin)",
+   "keywords": [
+    "War Department",
+    "Truman W. Martin",
+    "Military intelligence",
+    "Foodstuff position"
+   ],
+   "start_page": 1,
+   "summary": "War Department memo by Truman W. Martin assesses Japan's overall foodstuff position and its vulnerability to economic interdiction.",
+   "title": "War Department Memorandum by Truman W. Martin on Japan's Foodstuff Position",
+   "to": "Military Intelligence, Far Eastern Affairs, and Historical Division"
+  },
+  {
+   "about": "Cross-reference regarding a communication informing the Office of Economic Warfare of severe food and vitamin deficiencies in Japan.",
+   "date": "1942-08-28",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Office of Economic Warfare",
+    "Vitamins",
+    "Medicines",
+    "Malnutrition",
+    "Cross-reference"
+   ],
+   "start_page": 1,
+   "summary": "Indexes an August 1942 note to the Office of Economic Warfare on Japan's worsening food pinch and vitamin-deficient diet.",
+   "title": "Cross-Reference Sheet: Letter to Office of Economic Warfare on Vitamin and Medicine Scarcity",
+   "to": "Office of Economic Warfare"
+  },
+  {
+   "about": "Cross-reference concerning an OEW letter noting armed forces interest in Japanese food and medicine shortages.",
+   "date": "1942-09-20",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Office of Economic Warfare",
+   "keywords": [
+    "Office of Economic Warfare",
+    "Enemy Branch",
+    "Armed forces",
+    "Medicines",
+    "Scarcity"
+   ],
+   "start_page": 2,
+   "summary": "Indexes a September 1942 OEW letter calling the August report on Japanese food and medicine scarcity important for intelligence.",
+   "title": "Cross-Reference Sheet: Office of Economic Warfare Letter on Food and Medicine Scarcity",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference regarding a Swedish Legation request to transport 1,000 tons of vitamins and medicines to Tokyo aboard the Gripsholm.",
+   "date": "1942-08-23",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "Leland Harrison (Bern)",
+   "keywords": [
+    "Leland Harrison",
+    "William D. Leahy",
+    "Gripsholm",
+    "Sweden",
+    "Vitamins",
+    "Tokyo"
+   ],
+   "start_page": 2,
+   "summary": "Indexes an August 1942 Bern telegram on Sweden's request to ship 1,000 tons of vitamins to Tokyo via the Gripsholm.",
+   "title": "Cross-Reference Sheet: Telegram #7190 from Harrison on Swedish Shipment of Vitamins via Gripsholm",
+   "to": "Admiral William D. Leahy"
+  },
+  {
+   "about": "Minister Harrison reports German press accounts stating that Japanese authorities granted additional monthly rations to Germans in Japan.",
+   "date": "1942-11-16",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Leland Harrison (Bern)",
+   "keywords": [
+    "Leland Harrison",
+    "Bern",
+    "German press",
+    "Axis relations",
+    "Food rations"
+   ],
+   "start_page": 2,
+   "summary": "Telegram No. 8189: Harrison reports German press coverage that Japan agreed to give German nationals in Japan extra monthly food rations.",
+   "title": "Telegram #8189 from Harrison (Bern) on Additional Rations for Germans in Japan",
+   "to": "Division of Far Eastern Affairs, Communications and Records, and European Affairs"
+  },
+  {
+   "about": "Minister Harrison relays a Berlin press report on the Japanese Cabinet's approval of a permanent food council.",
+   "date": "1942-12-25",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Leland Harrison (Bern)",
+   "keywords": [
+    "Leland Harrison",
+    "Deutsche Allgemeine Zeitung",
+    "Food Council",
+    "Japanese Cabinet",
+    "Centralized control"
+   ],
+   "start_page": 2,
+   "summary": "Telegram No. 291: Harrison cites a Berlin paper on Japan's Cabinet approving a permanent Food Council to control food production and distribution.",
+   "title": "Telegram #291 from Harrison (Bern) on Cabinet Approval of Japanese Food Council",
+   "to": "Division of Far Eastern Affairs and Communications and Records"
+  },
+  {
+   "about": "Reports on Japanese efforts to achieve food autarky in Japan and occupied territories following the creation of the Food Council.",
+   "date": "1943-01-02",
+   "doc_type": "report",
+   "end_page": 2,
+   "from": "Berlin Press Monitoring / Leland Harrison",
+   "keywords": [
+    "Food autarky",
+    "Food Council",
+    "Berlin",
+    "Greater East Asia",
+    "Self-sufficiency"
+   ],
+   "start_page": 2,
+   "summary": "Berlin press report (January 1943) on Japan's new Food Council and its intensive push for agricultural and dietary self-sufficiency across occupied areas.",
+   "title": "Press Report on Japanese Food Autarky Efforts and the Food Council",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14675,
+   "output_tokens": 48705,
+   "thinking_tokens": 43690,
+   "cache_read_tokens": 0,
+   "total_tokens": 63380
+  },
+  "backend": "agy",
+  "seconds": 148.2,
+  "identifier": "japan-internal-affairs-894.5018-economic-matters-statistics-2",
+  "file": "894.5018 Economic Matters., Statistics, General., Japan, Food Conditions. Food Shortage.,  133.pdf",
+  "created": "2026-09-29 08:02:41"
+ }
+}

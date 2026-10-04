@@ -1,0 +1,115 @@
+{
+ "interest": "SCAP expands Provost Court powers, 1948.",
+ "keywords": [
+  "Provost Courts",
+  "SCAPIN 1937",
+  "Supreme Commander for the Allied Powers",
+  "Military Occupation Courts",
+  "Criminal Jurisdiction",
+  "Occupation of Japan",
+  "Military Conversion Rate",
+  "Military Commissions",
+  "Legal Administration",
+  "Hard Labor",
+  "United States Political Adviser for Japan"
+ ],
+ "overview": "Despatch No. 682 (1948) sends SCAPIN 1937 raising Provost Court limits to ten years and $5,000 fines.",
+ "people": [
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, Adjutant General's Department, Adjutant General, GHQ SCAP",
+   "variants": [
+    "R. M. LEVY",
+    "LEVY"
+   ]
+  },
+  {
+   "name": "K. B. Finn",
+   "role": "Drafter, Office of the United States Political Adviser for Japan",
+   "variants": [
+    "KBFinn"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "UNITED STATES",
+    "U. S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal of SCAPIN 1937 reporting expanded sentencing powers and fine limits for U.S. Army Provost Courts in Japan.",
+   "date": "1948-10-19",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Acting United States Political Adviser for Japan, Tokyo",
+   "keywords": [
+    "Provost Courts",
+    "SCAPIN 1937",
+    "POLAD",
+    "Military Conversion Rate",
+    "Military Commissions",
+    "Confinement",
+    "Fines"
+   ],
+   "start_page": 1,
+   "summary": "USPOLAD reports that Provost Courts may now impose ten years and $5,000 fines, so they can try large money cases.",
+   "title": "Despatch No. 682 from USPOLAD Tokyo enclosing SCAPIN 1937",
+   "to": "Department of State"
+  },
+  {
+   "about": "SCAP directive amending the criminal jurisdiction and sentencing powers of military occupation provost courts in Japan.",
+   "date": "1948-10-09",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Colonel R. M. Levy, Adjutant General, by order of the Supreme Commander for the Allied Powers",
+   "keywords": [
+    "SCAPIN 1937",
+    "Provost Courts",
+    "Criminal Jurisdiction",
+    "Japanese Government",
+    "Hard Labor",
+    "SCAPIN 756",
+    "Padlocking",
+    "Confiscation"
+   ],
+   "start_page": 2,
+   "summary": "SCAPIN 1937 lets Provost Courts impose ten years at hard labor and $5,000 fines.",
+   "title": "SCAPIN 1937: Amendment to Exercise of Criminal Jurisdiction",
+   "to": "Japanese Government"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14748,
+   "output_tokens": 5632,
+   "thinking_tokens": 4416,
+   "cache_read_tokens": 0,
+   "total_tokens": 20380
+  },
+  "backend": "agy",
+  "seconds": 22.6,
+  "identifier": "japan-internal-affairs-894.203-military-affairs-army",
+  "file": "894.203 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Japan, Military Courts. Law., October 19, 1948 1667.pdf",
+  "created": "2026-09-29 03:13:15"
+ }
+}

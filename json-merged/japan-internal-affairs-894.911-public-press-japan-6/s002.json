@@ -1,0 +1,908 @@
+{
+ "section_summary": "This section centers on the Japan News-Week’s presentation of American views in Japan, including editorials urging clearer Japanese diplomacy, criticizing the Tripartite Pact and Nazi expansion, and defending American aid to Britain. Embassy and Department of State correspondence also examines the newspaper’s financial difficulties, Japanese censorship and pressure on advertisers, and a proposal for support through American motion-picture advertising. The closing documents monitor Japanese press opinion on U.S. policy, the China conflict, the European war, and Japanese-American relations.",
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "America",
+    "U.S.",
+    "the States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Fort Winfield Scott",
+   "variants": [
+    "Fort Winfield Scott"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Eastern Asia",
+    "Far Eastern",
+    "Orient"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Third Reich",
+    "German Reich",
+    "Greater German Reich"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "European continent"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "British Isles",
+   "variants": [
+    "British Isles"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "occupied France"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Soviet Russia",
+    "Russia"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thai"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Denmark"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Luxembourg",
+   "variants": [
+    "Luxemburg"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas region"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "North Africa"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "Yugoslavia"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantic"
+   ]
+  },
+  {
+   "name": "Chōfu",
+   "variants": [
+    "CHOFU"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America"
+   ]
+  },
+  {
+   "name": "Caribbean",
+   "variants": [
+    "Caribbean"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Baltic states",
+   "variants": [
+    "Baltic states"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Guangdong",
+   "variants": [
+    "Kwangtung"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kichisaburo Nomura",
+   "role": "Japanese admiral and ambassador to the United States",
+   "variants": [
+    "Admiral Kichisaburo Nomura",
+    "Kichisaburo Nomura",
+    "Admiral Nomura",
+    "Nomura"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "United States Ambassador Joseph C. Grew",
+    "Ambassador Grew",
+    "Joseph C. Grew",
+    "Grew",
+    "GREW"
+   ]
+  },
+  {
+   "name": "W. R. Wills",
+   "role": "Editor and director of the Japan News-Week",
+   "variants": [
+    "Mr. W. R. Wills",
+    "Mr. Wills",
+    "Wills"
+   ]
+  },
+  {
+   "name": "Yosuke Matsuoka",
+   "role": "Japanese Foreign Minister",
+   "variants": [
+    "Foreign Minister Yosuke Matsuoka",
+    "Foreign Minister Matsuoka",
+    "Matsuoka"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "President Franklin Roosevelt",
+    "President Roosevelt",
+    "Mr. Roosevelt",
+    "Roosevelt"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "United States Secretary of State",
+   "variants": [
+    "Mr. Hull"
+   ]
+  },
+  {
+   "name": "Will H. Hays",
+   "role": "Head of the Motion Picture Producers and Distributors Association",
+   "variants": [
+    "Mr. Hays",
+    "Mr. Will Hays",
+    "Mr. Will Hayes",
+    "Mr. Hayes"
+   ]
+  },
+  {
+   "name": "Carl E. Milliken",
+   "role": "Acting Foreign Manager of the Hays organization",
+   "variants": [
+    "General Carl E. Milliken",
+    "General Milliken"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German chancellor and Nazi leader",
+   "variants": [
+    "Chancellor Adolf Hitler",
+    "Chancellor Hitler",
+    "Hitler"
+   ]
+  },
+  {
+   "name": "Winston Churchill",
+   "role": "British prime minister",
+   "variants": [
+    "Premier Winston Churchill",
+    "Churchill"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Leader of the Chinese Nationalist government at Chongqing",
+   "variants": [
+    "Chiang Kai-shek",
+    "General Chiang",
+    "Chiang"
+   ]
+  },
+  {
+   "name": "Charles A. Lindbergh",
+   "role": "American aviator, colonel, and isolationist spokesman",
+   "variants": [
+    "Colonel Charles A. Lindbergh",
+    "Colonel Lindbergh",
+    "Col. Lindbergh",
+    "Lindbergh"
+   ]
+  },
+  {
+   "name": "C. N. Spinks",
+   "role": "Associate editor of the Japan News-Week",
+   "variants": [
+    "Mr. C. N. Spinks"
+   ]
+  },
+  {
+   "name": "Toshi Go",
+   "role": "Editor of the Japan Times and Advertiser",
+   "variants": [
+    "Mr. Toshi Go",
+    "Toshi Go"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "United States Department of State official and memorandum recipient",
+   "variants": [
+    "Mr. Berle"
+   ]
+  },
+  {
+   "name": "Wang Ching-wei",
+   "role": "Chinese political leader who left Chongqing to accept terms from the Konoye government",
+   "variants": [
+    "Wang Ching-wei"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Japanese prime minister associated with the Konoye government",
+   "variants": [
+    "Konoye"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan News-Week",
+  "Japanese-American relations",
+  "Tripartite Pact",
+  "press censorship",
+  "newspaper advertising",
+  "American aid to Britain",
+  "motion-picture industry",
+  "Nazi Germany",
+  "editorial policy",
+  "Japanese public opinion",
+  "China conflict",
+  "press monitoring"
+ ],
+ "subfiles": [
+  {
+   "title": "“Japan’s Obligation”",
+   "doc_type": "newspaper editorial enclosure",
+   "start_page": 43,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1941-02-15",
+   "from": "Japan News-Week",
+   "to": "Readers",
+   "about": "An editorial calls upon Ambassador Nomura and the Japanese government to explain Japan’s aims clearly to the United States.",
+   "summary": "The editorial welcomes the unusually cordial American reception accorded Admiral Nomura as evidence that the United States still hopes for a peaceful settlement. It argues that Japan’s New Order and Greater East Asia program remain vague and that further negotiations require Japan to state plainly what it wants, what others must concede, and what Japan will offer in return.",
+   "keywords": [
+    "Kichisaburo Nomura",
+    "Joseph C. Grew",
+    "Japanese-American relations",
+    "New Order",
+    "Greater East Asia",
+    "diplomatic negotiations"
+   ]
+  },
+  {
+   "title": "“Sales Talk”",
+   "doc_type": "newspaper editorial enclosure with duplicated pages",
+   "start_page": 45,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1941-02-22",
+   "from": "Japan News-Week",
+   "to": "Readers",
+   "about": "An editorial rejects Japanese attempts to portray the Tripartite Pact as harmless to American interests and supportive of peace and racial equality.",
+   "summary": "The editorial maintains that Americans regard the military pact with Germany and Italy as a threat intended to deter assistance to Britain and possible American participation in the European war. It criticizes arguments defending German conquest, challenges Matsuoka’s invocation of racial equality, and warns that repeated efforts to sell the alliance as peaceful only deepen American distrust. Pages 45–46 and 47–48 respectively reproduce duplicate scans of the editorial’s two pages.",
+   "keywords": [
+    "Tripartite Pact",
+    "Yosuke Matsuoka",
+    "Germany",
+    "racial equality",
+    "American opinion",
+    "Japan Times and Advertiser"
+   ]
+  },
+  {
+   "title": "Letter from Joseph C. Grew to W. R. Wills",
+   "doc_type": "letter",
+   "start_page": 49,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1941-01-21",
+   "from": "Joseph C. Grew",
+   "to": "W. R. Wills",
+   "about": "Grew urges Wills not to criticize Roosevelt and Hull for distinguishing the Axis threat from Soviet Russia.",
+   "summary": "Grew explains that the Axis powers posed an avowed naval and military threat to the United States, whereas Soviet Russia did not then belong in the same category despite American hostility toward communism. He warns that an editorial attacking the President and Secretary of State on this point would invite serious criticism and argues that Americans abroad should support, or at least refrain from openly censuring, their government’s declared policies.",
+   "keywords": [
+    "Soviet Russia",
+    "Axis powers",
+    "American citizens abroad",
+    "editorial policy",
+    "national defense"
+   ]
+  },
+  {
+   "title": "Follow-up memorandum on advertising support for Japan News-Week",
+   "doc_type": "Department of State memorandum",
+   "start_page": 51,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1941-04-30",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "An internal memorandum records the status of efforts to obtain motion-picture-industry advertising for the Japan News-Week.",
+   "summary": "The memorandum notes that the Embassy had not responded to the Department’s suggestion that American motion-picture representatives in Japan submit a recommendation to Mr. Hays. It also records that the relevant Department division had not yet spoken to Acting Foreign Manager Carl E. Milliken but intended to do so.",
+   "keywords": [
+    "Japan News-Week",
+    "motion-picture advertising",
+    "Will Hays",
+    "Carl E. Milliken",
+    "Department of State"
+   ]
+  },
+  {
+   "title": "Memorandum on financing Japan News-Week through motion-picture advertising",
+   "doc_type": "Department of State memorandum",
+   "start_page": 52,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1941-03-27",
+   "from": "Division of Far Eastern Affairs",
+   "to": "IN, Department of State",
+   "about": "The Far Eastern Affairs division evaluates a proposal for American motion-picture companies to advertise in and thereby support the Japan News-Week.",
+   "summary": "The memorandum reviews the newspaper’s loss of Japanese advertising and Ambassador Grew’s belief that it usefully presents the American viewpoint. It nevertheless questions the paper’s earlier pro-Japanese reputation and warns that conspicuous American backing might cause Japanese authorities to isolate or suppress it. The memorandum recommends obtaining the views of American motion-picture representatives in Japan and informally briefing Carl E. Milliken.",
+   "keywords": [
+    "Japan News-Week",
+    "financial support",
+    "Japanese advertisers",
+    "motion-picture companies",
+    "censorship",
+    "Carl E. Milliken"
+   ]
+  },
+  {
+   "title": "Telegram 418 concerning Japan News-Week",
+   "doc_type": "telegram in three sections",
+   "start_page": 55,
+   "end_page": 58,
+   "continues_previous": false,
+   "date": "1941-03-17",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports pressure on the Japan News-Week, its financial difficulties, and a proposal for institutional advertising by American motion-picture companies.",
+   "summary": "Wills reportedly rejected an offer to sell the newspaper to the Japan Information Bureau, while Mitsui, Mitsubishi, and other Japanese firms withdrew advertising under apparent official pressure. He also declined a direct British subsidy to preserve editorial independence, although the British Information Bureau sought replacement advertising in Osaka. Grew endorses the paper as useful to American interests and asks the Department to consider approaching Will Hays about a campaign costing roughly 500 yen per month.",
+   "keywords": [
+    "Japan News-Week",
+    "Japan Information Bureau",
+    "advertising boycott",
+    "British Information Bureau",
+    "motion-picture industry",
+    "Will Hays"
+   ]
+  },
+  {
+   "title": "Telegram 204 on Japan News-Week advertising",
+   "doc_type": "outgoing Department of State telegram",
+   "start_page": 59,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1941-03-31",
+   "from": "Secretary of State",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department authorizes preliminary consultation with American motion-picture representatives concerning advertising support for the Japan News-Week.",
+   "summary": "The Department states that it is considering an informal approach to Mr. Hays about the information in Tokyo’s telegram 418. Meanwhile, the Embassy may tell company representatives in Japan that the Department is prepared to transmit their recommendation to Hays.",
+   "keywords": [
+    "Japan News-Week",
+    "telegram 204",
+    "Will Hays",
+    "motion-picture representatives",
+    "advertising"
+   ]
+  },
+  {
+   "title": "Opening page of memorandum on despatch 5500",
+   "doc_type": "Department of State memorandum fragment",
+   "start_page": 60,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1941-05-01",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The memorandum summarizes two Japan News-Week editorials forwarded with Embassy despatch 5500.",
+   "summary": "The opening discusses an editorial contrasting Roosevelt’s March 15 speech with Hitler’s recent address and presenting freedom, independence, peace, and security as irreconcilable with Nazi domination. It notes the editorial’s argument that American aid opposes forcible conquest rather than any particular domestic form of government and therefore need not preclude cooperation with Japan.",
+   "keywords": [
+    "despatch 5500",
+    "Franklin D. Roosevelt",
+    "Adolf Hitler",
+    "American aid",
+    "totalitarianism"
+   ]
+  },
+  {
+   "title": "Detached duplicate page from “Grim Contrast”",
+   "doc_type": "newspaper editorial fragment",
+   "start_page": 61,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1941-03-22",
+   "from": "Japan News-Week",
+   "to": "Readers",
+   "about": "A detached duplicate concluding page of “Grim Contrast” explains the principles behind American foreign assistance.",
+   "summary": "The fragment argues that the United States does not condition aid on a recipient’s democratic form of government but opposes powers that impose their systems by force. It tells Japan that friendship remains possible if Japan refrains from conquest and continues peaceful negotiations with Indochina, Thailand, and the Netherlands East Indies.",
+   "keywords": [
+    "Grim Contrast",
+    "American aid",
+    "Japan",
+    "totalitarianism",
+    "peaceful negotiations"
+   ]
+  },
+  {
+   "title": "Continuation of May 1 memorandum on despatch 5500",
+   "doc_type": "Department of State memorandum fragment",
+   "start_page": 62,
+   "end_page": 62,
+   "continues_previous": false,
+   "date": "1941-05-01",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The continuation summarizes the Japan News-Week editorial “Autonomous Japan.”",
+   "summary": "The memorandum describes the editorial’s response to a Japanese reader who claimed that attacking one Tripartite power meant attacking all three. It emphasizes the editorial’s warning that surrendering Japan’s autonomy to a Nazi-dominated superstate would destroy the traditional institutions that had sustained Japanese unity and strength.",
+   "keywords": [
+    "Autonomous Japan",
+    "Tripartite Alliance",
+    "Japanese autonomy",
+    "Nazi domination",
+    "editorial summary"
+   ]
+  },
+  {
+   "title": "Despatch 5500: Editorials on Roosevelt’s speech and the Tripartite Alliance",
+   "doc_type": "diplomatic despatch",
+   "start_page": 63,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1941-04-08",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew transmits and analyzes two Japan News-Week editorials presenting American views on the war and Japan’s relationship with the Axis.",
+   "summary": "The despatch summarizes “Grim Contrast,” which contrasts Roosevelt’s defense of freedom and small nations with Hitler’s racial doctrines, conquest, and uncertain predictions of British defeat. It then analyzes “Autonomous Japan,” which rejects the idea that the Tripartite Pact makes Japan, Germany, and Italy a single entity and warns against sacrificing Japan’s national polity to Nazi totalitarianism. Grew submits the pieces as examples of vigorous pro-American commentary surviving Japanese censorship.",
+   "keywords": [
+    "despatch 5500",
+    "Grim Contrast",
+    "Autonomous Japan",
+    "Roosevelt",
+    "Hitler",
+    "Japanese censorship"
+   ]
+  },
+  {
+   "title": "“Grim Contrast”",
+   "doc_type": "newspaper editorial enclosure",
+   "start_page": 68,
+   "end_page": 70,
+   "continues_previous": false,
+   "date": "1941-03-22",
+   "from": "Japan News-Week",
+   "to": "Readers",
+   "about": "The editorial contrasts Roosevelt’s democratic and humanitarian program with Hitler’s vision of conquest and racial domination.",
+   "summary": "Roosevelt’s speech is presented as a firm rejection of appeasement and a defense of national freedom, human dignity, and resistance to tyranny. Hitler’s address is portrayed as a boastful justification of German conquest, racial superiority, and the destruction of small states, while its shifting timetable for Britain’s collapse is interpreted as evidence of uncertainty. The editorial concludes that American aid is directed against forcible domination rather than against any particular form of domestic government.",
+   "keywords": [
+    "Franklin D. Roosevelt",
+    "Adolf Hitler",
+    "democracy",
+    "Nazi conquest",
+    "aid to Britain",
+    "humanitarian principles"
+   ]
+  },
+  {
+   "title": "“Autonomous Japan”",
+   "doc_type": "newspaper editorial enclosure",
+   "start_page": 71,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1941-03-29",
+   "from": "Japan News-Week",
+   "to": "Readers",
+   "about": "The editorial answers a Japanese reader who objected to criticism of Germany and argues that Japan must retain its autonomy within the Tripartite Alliance.",
+   "summary": "The editors explain that American aid to Chongqing, Greece, and Britain rests on strategic and moral considerations rather than a claim that every recipient is democratic. They reject the contention that criticism of Germany automatically attacks Japan, arguing that the alliance does not merge the three powers into a single state. The editorial warns that adopting Nazi-style totalitarianism would sacrifice Japan’s distinctive imperial polity, sovereignty, and national character.",
+   "keywords": [
+    "Japanese autonomy",
+    "Tripartite Alliance",
+    "Chongqing",
+    "totalitarianism",
+    "national polity",
+    "Japan News-Week"
+   ]
+  },
+  {
+   "title": "Telegram on official censure and financial support for Japan News-Week",
+   "doc_type": "confidential telegram",
+   "start_page": 74,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1941-04-30",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports official criticism of the Japan News-Week and the subsequent restoration of Japanese advertising.",
+   "summary": "Wills told Grew that the Information Bureau had censured him for allegedly anti-German material, to which he replied that his policy was to foster Japanese-American friendship. The Bureau nevertheless declared that it and the Japanese Navy wanted the paper to continue and offered a 10,000-yen subsidy, which Wills refused. After he requested renewed commercial advertising instead, Mitsui restored its contract and Mitsubishi was expected to follow.",
+   "keywords": [
+    "Japan News-Week",
+    "Information Bureau",
+    "anti-German material",
+    "Japanese Navy",
+    "subsidy",
+    "Mitsui"
+   ]
+  },
+  {
+   "title": "Telegram 627: Japanese press reaction and diplomatic themes",
+   "doc_type": "press-summary telegram",
+   "start_page": 76,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1941-05-01",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Embassy summarizes Japanese press discussion of American policy, Matsuoka, aid to Chongqing, and the European war.",
+   "summary": "The vernacular press depreciated expanded American naval patrols, stressed divisions in American opinion, and sympathized with Lindbergh, while a columnist suggested a Matsuoka–Roosevelt meeting. Kokumin argued that Japan’s Axis alignment sought to keep the United States out of the war and that Japanese diplomacy should concentrate on ending British and American aid to Chiang Kai-shek. Another editorial urged Germany to focus on defeating the British Isles before opinion in the United States consolidated behind Britain.",
+   "keywords": [
+    "Japanese press",
+    "Yosuke Matsuoka",
+    "Charles Lindbergh",
+    "aid to Chongqing",
+    "Axis strategy",
+    "Kokumin"
+   ]
+  },
+  {
+   "title": "Cross-reference sheet: Unfavorable cartoon of President Roosevelt",
+   "doc_type": "cross-reference sheet",
+   "start_page": 78,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1941-03-26",
+   "from": "Department of State records staff",
+   "to": "",
+   "about": "The sheet directs researchers to another file containing an unfavorable Roosevelt cartoon and a conversation with editor Toshi Go.",
+   "summary": "The cross-reference identifies despatch 5469 from Grew as the source for copies of an unfavorable cartoon of President Roosevelt in the Japan Times and Advertiser. It also notes that the despatch contains a memorandum of conversation with the publication’s editor, Toshi Go.",
+   "keywords": [
+    "Franklin D. Roosevelt",
+    "political cartoon",
+    "Japan Times and Advertiser",
+    "Toshi Go",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Memorandum on despatch 5575 and “No Compromise”",
+   "doc_type": "Department of State memorandum",
+   "start_page": 79,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1941-06-03",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The memorandum summarizes the Japan News-Week editorial “No Compromise” and comments on the departure of its associate editor.",
+   "summary": "The editorial is described as rebutting Japanese claims that American aid to Britain was futile because of German strength, isolationist opposition, and labor unrest in American defense industries. It insists that American policy rests on fundamental principles and would continue even if Britain fell, potentially extending to direct intervention against the Nazi-Fascist powers. The memorandum adds that associate editor C. N. Spinks had left for the United States but that the paper intended to maintain its editorial policy.",
+   "keywords": [
+    "No Compromise",
+    "aid to Britain",
+    "Charles Lindbergh",
+    "labor unrest",
+    "American intervention",
+    "C. N. Spinks"
+   ]
+  },
+  {
+   "title": "Despatch 5575: Transmitting “No Compromise”",
+   "doc_type": "diplomatic despatch",
+   "start_page": 81,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1941-05-07",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew transmits and analyzes a Japan News-Week editorial defending American aid to Britain and predicting possible intervention in the war.",
+   "summary": "The despatch outlines a Japanese reader’s doubts about shipping, rearmament, German military power, isolationist opposition, and labor disputes, all of which allegedly made aid to Britain hopeless. It explains that “No Compromise” treats American policy as an immutable commitment to humanitarian principles and the destruction of Nazi-Fascist power, possibly through eventual naval and military intervention. Grew also records that the editorial was the last in the series written by departing associate editor C. N. Spinks.",
+   "keywords": [
+    "despatch 5575",
+    "No Compromise",
+    "American aid to Britain",
+    "Nazi-Fascism",
+    "military intervention",
+    "C. N. Spinks"
+   ]
+  },
+  {
+   "title": "“No Compromise”",
+   "doc_type": "newspaper editorial enclosure",
+   "start_page": 85,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1941-04-26",
+   "from": "Japan News-Week",
+   "to": "Readers",
+   "about": "The editorial argues that military reverses, isolationism, and labor disputes will not deter the United States from defeating Nazi-Fascism.",
+   "summary": "Responding to Japanese doubts raised after Axis victories in Yugoslavia, Greece, and North Africa, the editorial says American aid to Britain serves ideals extending far beyond a British military victory. It rejects Lindbergh as representative of national opinion and explains that American labor disputes concern wages, hours, and jurisdiction rather than antiwar politics. The editorial declares American policy immutable and warns that direct military and naval intervention may follow if aid alone cannot destroy the Nazi-Fascist threat.",
+   "keywords": [
+    "American aid to Britain",
+    "Charles Lindbergh",
+    "labor disputes",
+    "Nazi-Fascism",
+    "American rearmament",
+    "military intervention"
+   ]
+  },
+  {
+   "title": "“Desires Enlightenment”",
+   "doc_type": "published reader letter enclosure",
+   "start_page": 88,
+   "end_page": 88,
+   "continues_previous": false,
+   "date": "1941-04-15",
+   "from": "A Chofu Reader",
+   "to": "Editor, Japan News-Week",
+   "about": "A reader questions whether American assistance can save Britain and whether defense-industry labor unrest will undermine U.S. policy.",
+   "summary": "The writer praises German military preparedness and argues that shipping shortages, submarine warfare, and the difficulty of landing American troops in Europe make aid to Britain appear hopeless. Citing Lindbergh, the reader asks whether Roosevelt could suppress defense strikes constitutionally and whether labor leaders were deliberately obstructing aid or promoting an early peace.",
+   "keywords": [
+    "reader letter",
+    "German Army",
+    "shipping shortage",
+    "Charles Lindbergh",
+    "defense labor",
+    "aid to Britain"
+   ]
+  },
+  {
+   "title": "Memorandum for Mr. Berle transmitting a newspaper report",
+   "doc_type": "cover memorandum",
+   "start_page": 89,
+   "end_page": 89,
+   "continues_previous": false,
+   "date": "1941-07-10",
+   "from": "",
+   "to": "Mr. Berle",
+   "about": "A brief memorandum forwards a report comparing the attitudes of two Japanese-American newspapers.",
+   "summary": "The writer submits the attached comparison of newspaper attitudes for possible interest. The Far Eastern and Intelligence Divisions are identified as the intended departmental audiences.",
+   "keywords": [
+    "Mr. Berle",
+    "newspaper comparison",
+    "Far Eastern Affairs",
+    "Intelligence Division",
+    "press analysis"
+   ]
+  },
+  {
+   "title": "Report comparing Japanese-American newspapers",
+   "doc_type": "press-analysis report",
+   "start_page": 90,
+   "end_page": 91,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "Department of State",
+   "about": "The report compares English- and Japanese-language Japanese-American newspaper content from May 17 and May 31, 1941.",
+   "summary": "The Japanese American Review is summarized as portraying American aid to Chiang Kai-shek as imperialistic, defending Wang Ching-wei’s accommodation with Japan, and praising the November 1940 Sino-Japanese treaty as unusually generous. The Japanese American criticizes the freezing of foreign balances but also praises Roosevelt’s watchful leadership and predicts that the United States may enter the war without a formal declaration. The report’s May 31 discussion compares Japan’s terms with the Treaty of Tianjin and Boxer Protocol and cites Guangdong and Qingdao before the supplied section breaks off.",
+   "keywords": [
+    "Japanese American Review",
+    "Japanese American",
+    "Wang Ching-wei",
+    "China-Japan treaty",
+    "American war entry",
+    "newspaper comparison"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 4,
+  "pages": [
+   43,
+   91
+  ],
+  "pdf": "894.911 Public Press., Japan, Newspapers., March 13, 1940 - January 10, 1941 1239.pdf",
+  "seconds": 945.3,
+  "created": "2026-09-30 15:35:21",
+  "key": "japan-internal-affairs-894.911-public-press-japan-6"
+ }
+}

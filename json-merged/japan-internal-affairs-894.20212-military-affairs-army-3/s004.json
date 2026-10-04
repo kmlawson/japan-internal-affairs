@@ -1,0 +1,1853 @@
+{
+ "section_summary": "This section documents U.S. diplomatic and military monitoring of alleged Japanese propaganda, espionage, immigration, fishing, surveying, resource acquisition, and strategic reconnaissance in Mexico from 1934 to 1937. Reports focus especially on Baja California, Magdalena Bay, the Gulf of California, Sonora, and Mexico’s Pacific coast, but many allegations—particularly that Japan had landed arms or was building fortifications at Magdalena Bay—were subsequently discounted or attributed to Mexican naval construction. Later material concerns Japanese fishing expeditions, possible coastal and river surveys, proposed road and fishing concessions, petroleum interests, and U.S. interdepartmental efforts to assess Japanese population and immigration figures.",
+ "places": [
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Mexioo",
+    "Mexieo",
+    "Mex1co",
+    "Moxioo",
+    "Mexic∞",
+    "Mex100",
+    "Mexio",
+    "exico",
+    "Nexieo",
+    "México"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico City",
+    "Mexico Oity",
+    "Mexioo City",
+    "Mexico ity",
+    "Mex1co City",
+    "Mexico city",
+    "exico city",
+    "Moxioo City"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United states",
+    "Uni ted States",
+    "U. S.",
+    "U.S.",
+    "US",
+    "U8",
+    "Estados Unidos",
+    "Estados Unidos del Norte",
+    "Norteamerica",
+    "North America"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Jupan",
+    "Japam",
+    "Japón"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "WASHINGTON",
+    "Washington",
+    "Washington.",
+    "Weshington, D.C."
+   ]
+  },
+  {
+   "name": "Pacific coast of Mexico",
+   "variants": [
+    "West Coast of Mexico",
+    "West Ooast of Wexioo",
+    "West Coast of kexioo",
+    "west coast of Mexico",
+    "west oast of Mexico",
+    "states of the Pacifie coast",
+    "costas oeste de México",
+    "Costa del Pacífico"
+   ]
+  },
+  {
+   "name": "Mazatlán",
+   "variants": [
+    "Mazatlan",
+    "Mazatlán",
+    "Mazatlan, Sin., Mexico"
+   ]
+  },
+  {
+   "name": "Acapulco",
+   "variants": [
+    "Acapulco",
+    "Acapuloo"
+   ]
+  },
+  {
+   "name": "Sinaloa",
+   "variants": [
+    "Sinaloa"
+   ]
+  },
+  {
+   "name": "Manzanillo",
+   "variants": [
+    "Manzanillo",
+    "Menzanillo",
+    "Manzanillo.",
+    "Mazanillo"
+   ]
+  },
+  {
+   "name": "Guerrero",
+   "variants": [
+    "Guerrero"
+   ]
+  },
+  {
+   "name": "Central Mexico",
+   "variants": [
+    "Central Mexico"
+   ]
+  },
+  {
+   "name": "Guaymas",
+   "variants": [
+    "Guaymas",
+    "Guaymes",
+    "Guayma",
+    "Guaymms",
+    "Guayuns",
+    "Cuaymas"
+   ]
+  },
+  {
+   "name": "Baja California Peninsula",
+   "variants": [
+    "Baja California",
+    "Ba ja Califormia",
+    "Baja Califormia",
+    "Lower California",
+    "wower Californie",
+    "Lower slifornie"
+   ]
+  },
+  {
+   "name": "Baja California",
+   "variants": [
+    "Northern Distriot of Baja California",
+    "District of Baja California",
+    "Baja California",
+    "Bajs California",
+    "Ba ja Califormia"
+   ]
+  },
+  {
+   "name": "Baja California Sur",
+   "variants": [
+    "Territorio Sur de la Baja Colifornia",
+    "lower portion of the peninsula"
+   ]
+  },
+  {
+   "name": "Guatemala",
+   "variants": [
+    "Guatemala"
+   ]
+  },
+  {
+   "name": "Sonora",
+   "variants": [
+    "Sonora",
+    "Sonora, Mexico",
+    "Sonora, Mexico.",
+    "southern Sonora",
+    "orora"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Magdalena Bay",
+   "variants": [
+    "Bay of Magaalena",
+    "Magdalena Bay",
+    "Bay of Magdalena",
+    "Megdalena Bay",
+    "Magdalems Bay"
+   ]
+  },
+  {
+   "name": "Los Angeles, California",
+   "variants": [
+    "Los Angeles, Cali cimia",
+    "Los Angeles",
+    "LOS ANOELNH, ALIPORNIA",
+    "!os Angeles"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Calif.",
+    "alifornia"
+   ]
+  },
+  {
+   "name": "Gulf of California",
+   "variants": [
+    "Gulf of Califom 1a",
+    "Gulf of California",
+    "Oulf of alif.",
+    "Gulf of aliformia",
+    "the Gulf"
+   ]
+  },
+  {
+   "name": "Santa Rosalía",
+   "variants": [
+    "Santa Rosalia"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki",
+    "Shimonseki"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohame",
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Nogales",
+   "variants": [
+    "Nogales",
+    "NOGALES",
+    "Nogeles"
+   ]
+  },
+  {
+   "name": "Ciudad Obregón",
+   "variants": [
+    "Ciudad Obregón",
+    "Ciudad Obregón, Sonora, Mexico",
+    "CIUDAD OBREGÓN"
+   ]
+  },
+  {
+   "name": "Yaqui River Valley",
+   "variants": [
+    "Yaqui River Valley",
+    "Yaqui Valley",
+    "Yequi Hiver valley",
+    "Yaqui Hiver valley"
+   ]
+  },
+  {
+   "name": "Yaqui River",
+   "variants": [
+    "Yaqui River",
+    "Yaqui River,",
+    "headwaters of that stream"
+   ]
+  },
+  {
+   "name": "Navojoa",
+   "variants": [
+    "Navojoa"
+   ]
+  },
+  {
+   "name": "Ensenada",
+   "variants": [
+    "Ensenada",
+    "Insenada",
+    "Rnsenada",
+    "nsenada",
+    "nseau"
+   ]
+  },
+  {
+   "name": "Mexicali",
+   "variants": [
+    "Mexicali",
+    "Mericali"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain",
+    "J pun"
+   ]
+  },
+  {
+   "name": "San Diego, California",
+   "variants": [
+    "San Diego",
+    "San Diogo, Calif."
+   ]
+  },
+  {
+   "name": "Calexico, California",
+   "variants": [
+    "Caléxico",
+    "Calexioo"
+   ]
+  },
+  {
+   "name": "Imperial Valley",
+   "variants": [
+    "Valle Imperial",
+    "Imperial Valley"
+   ]
+  },
+  {
+   "name": "Colorado River Delta",
+   "variants": [
+    "delta del Río Colorado",
+    "delta of the Colorado River"
+   ]
+  },
+  {
+   "name": "Colorado River",
+   "variants": [
+    "Colorado River",
+    "Colorado hiver"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Zona del Canal de Panama",
+    "Panama Canal Zone"
+   ]
+  },
+  {
+   "name": "Todos Santos Bay",
+   "variants": [
+    "Bahía de Todos Santos",
+    "Bay of Todos Santos"
+   ]
+  },
+  {
+   "name": "Pacific Ocean region",
+   "variants": [
+    "Pacific",
+    "Pacífico",
+    "Pacific Coasts"
+   ]
+  },
+  {
+   "name": "Arizona",
+   "variants": [
+    "Arizona",
+    "Arisona",
+    "Aris."
+   ]
+  },
+  {
+   "name": "Hawaii Island",
+   "variants": [
+    "Islas del.Hawai",
+    "Island of Hawaii"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Alemania",
+    "Germany"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Bélgica",
+    "Belgium",
+    "BERGIUM"
+   ]
+  },
+  {
+   "name": "San Francisco, California",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Guadalajara",
+   "variants": [
+    "Guadalajara",
+    "Cuadala jara",
+    "Guadalu jara"
+   ]
+  },
+  {
+   "name": "Clipperton Island",
+   "variants": [
+    "Clipperton Island"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Panama Canal",
+   "variants": [
+    "Panama Canal"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Fort Bliss, Texas",
+   "variants": [
+    "Fert Blims, Texas",
+    "Fort Bliss"
+   ]
+  },
+  {
+   "name": "El Paso, Texas",
+   "variants": [
+    "El Paso",
+    "Kl Pase"
+   ]
+  },
+  {
+   "name": "Temósachic",
+   "variants": [
+    "Tmso-SACHIC",
+    "TmmOSACHIC"
+   ]
+  },
+  {
+   "name": "El Valle, Chihuahua",
+   "variants": [
+    "KL VALLE"
+   ]
+  },
+  {
+   "name": "Las Delicias, Chihuahua",
+   "variants": [
+    "LAs DKLICIAs"
+   ]
+  },
+  {
+   "name": "Chihuahua",
+   "variants": [
+    "Chihuahua",
+    "northern Chihuahua"
+   ]
+  },
+  {
+   "name": "Yavaros",
+   "variants": [
+    "Yavaros",
+    "Yavuros",
+    "avaros"
+   ]
+  },
+  {
+   "name": "Maneadero Valley",
+   "variants": [
+    "Maneadoro relley"
+   ]
+  },
+  {
+   "name": "Guadalupe Island",
+   "variants": [
+    "Guadalupe Island",
+    "Guedelupe island"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York City"
+   ]
+  },
+  {
+   "name": "Fort Huachuca, Arizona",
+   "variants": [
+    "Fort Huachuee, Arisona",
+    "Fort Huachuea, Aris.",
+    "Fort Huachuca"
+   ]
+  },
+  {
+   "name": "Fort Sam Houston, Texas",
+   "variants": [
+    "Fort Sam Beustem, Texas",
+    "Fort Sam Houston. Texas",
+    "Fort San Houston, Texas"
+   ]
+  },
+  {
+   "name": "Empalme, Sonora",
+   "variants": [
+    "Empalme, Sonora"
+   ]
+  },
+  {
+   "name": "Ímuris, Sonora",
+   "variants": [
+    "Imuris"
+   ]
+  },
+  {
+   "name": "Hermosillo, Sonora",
+   "variants": [
+    "Hermosillo"
+   ]
+  },
+  {
+   "name": "Tampico",
+   "variants": [
+    "Tampico"
+   ]
+  },
+  {
+   "name": "Isthmus of Tehuantepec region",
+   "variants": [
+    "Isthmus Country"
+   ]
+  },
+  {
+   "name": "Tamaulipas",
+   "variants": [
+    "Temaulipas"
+   ]
+  },
+  {
+   "name": "Nuevo León",
+   "variants": [
+    "Nuevo Leon"
+   ]
+  },
+  {
+   "name": "Coatzacoalcos (formerly Puerto México)",
+   "variants": [
+    "Fort of Mexico",
+    "Port of Mexico"
+   ]
+  },
+  {
+   "name": "Bay of Campeche",
+   "variants": [
+    "Bay of Campeche"
+   ]
+  },
+  {
+   "name": "Salina Cruz",
+   "variants": [
+    "Saline Cruz",
+    "Salina Cruz",
+    "alina Cruz"
+   ]
+  },
+  {
+   "name": "Gulf of Tehuantepec",
+   "variants": [
+    "Gulf of Tehuantepec"
+   ]
+  },
+  {
+   "name": "Veracruz",
+   "variants": [
+    "Veracruz"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "ussia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Sumner Welles",
+   "role": "U.S. Assistant Secretary of State",
+   "variants": [
+    "Sumner Welles"
+   ]
+  },
+  {
+   "name": "Claude A. Swanson",
+   "role": "U.S. Secretary of the Navy",
+   "variants": [
+    "Claude A. Swanson"
+   ]
+  },
+  {
+   "name": "R. Henry Norweb",
+   "role": "U.S. chargé d’affaires ad interim in Mexico",
+   "variants": [
+    "R. HFNRY NORWEB",
+    "R. NRY NORWEB"
+   ]
+  },
+  {
+   "name": "Kinta Arai",
+   "role": "Japanese lecturer and propagandist",
+   "variants": [
+    "Dr. Kinta Ara1",
+    "Dr. Kinta Arai"
+   ]
+  },
+  {
+   "name": "Plutarco Elías Calles",
+   "role": "Mexican general and political leader",
+   "variants": [
+    "General Calles"
+   ]
+  },
+  {
+   "name": "George H. Dern",
+   "role": "U.S. Secretary of War",
+   "variants": [
+    "Geerge H. Dern"
+   ]
+  },
+  {
+   "name": "Josephus Daniels",
+   "role": "U.S. ambassador to Mexico",
+   "variants": [
+    "Yosephus Daniels",
+    "Josephus Daniels",
+    "Daniels"
+   ]
+  },
+  {
+   "name": "L. Hoor t",
+   "role": "Uncertainly read signer of a Navy Department acknowledgment",
+   "variants": [
+    "L. Hoor t"
+   ]
+  },
+  {
+   "name": "Elias García Cuadra",
+   "role": "Mexican traveling salesman and confidential informant",
+   "variants": [
+    "Elias Garcia Cuadra"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department Far Eastern affairs official; identification from initials and uncertain handwriting",
+   "variants": [
+    "SKH",
+    "M.. Hombeale"
+   ]
+  },
+  {
+   "name": "William D. Puleston",
+   "role": "Captain in the Office of Naval Operations",
+   "variants": [
+    "William D. Puleston",
+    "Paloston"
+   ]
+  },
+  {
+   "name": "Edward L. Reed",
+   "role": "Chief or officer of the State Department’s Division of Mexican Affairs",
+   "variants": [
+    "Mr. Reed",
+    "Reed",
+    "Edward L. Reed"
+   ]
+  },
+  {
+   "name": "Guy W. Ray",
+   "role": "American vice consul at Guaymas",
+   "variants": [
+    "Guy. Ray",
+    "Guy W. Ray",
+    "SyRay",
+    "JmmRan"
+   ]
+  },
+  {
+   "name": "A. F. Yepis",
+   "role": "American vice consul at Guaymas",
+   "variants": [
+    "Yepis",
+    "A F. Yopis"
+   ]
+  },
+  {
+   "name": "Tadahiro Tamaki",
+   "role": "Japanese subject, salesman and seasonal Baja California farmer",
+   "variants": [
+    "Tada iro Tamak1",
+    "Mr. Tamaki",
+    "Tamaki"
+   ]
+  },
+  {
+   "name": "Juan Domínguez",
+   "role": "Governor consulted about the Magdalena Bay naval base",
+   "variants": [
+    "General Juan Dominguez"
+   ]
+  },
+  {
+   "name": "Floyd Gibbons",
+   "role": "American journalist and author",
+   "variants": [
+    "Floyd Gibbons"
+   ]
+  },
+  {
+   "name": "Fred Pasley",
+   "role": "American journalist reporting on Japanese activities",
+   "variants": [
+    "Fred Pesley"
+   ]
+  },
+  {
+   "name": "Álvaro Obregón",
+   "role": "Former Mexican president commemorated by a statue",
+   "variants": [
+    "Obregón"
+   ]
+  },
+  {
+   "name": "John Stapler",
+   "role": "Captain, U.S. Navy, and acting director of Naval Intelligence",
+   "variants": [
+    "John Stapler",
+    "Captain John Stapler",
+    "Gaptaim Stapler"
+   ]
+  },
+  {
+   "name": "Donald Armstrong",
+   "role": "Lieutenant commander, U.S. Naval Reserve, and source on Japanese air travel",
+   "variants": [
+    "Lieutenant Commander Donald Armstrong"
+   ]
+  },
+  {
+   "name": "W. T. Tarrant",
+   "role": "Commandant of the Eleventh Naval District",
+   "variants": [
+    "W. T. TARR/NT"
+   ]
+  },
+  {
+   "name": "J. F. McGurk",
+   "role": "Assistant chief of Latin American Affairs, Department of State",
+   "variants": [
+    "J. F. McGurk",
+    "Mr. McGurk"
+   ]
+  },
+  {
+   "name": "Edwin C. Wilson",
+   "role": "State Department official",
+   "variants": [
+    "Edwin C. Wilsom",
+    "Mr. Wilson",
+    "Mr. wilep"
+   ]
+  },
+  {
+   "name": "Mr. Morgan",
+   "role": "Washington representative of Traders, Incorporated",
+   "variants": [
+    "Mr. Morgan"
+   ]
+  },
+  {
+   "name": "Leavitt",
+   "role": "Indexed author of a Mexico City report on Japanese activities",
+   "variants": [
+    "Leavitt"
+   ]
+  },
+  {
+   "name": "Pablo R. Nikami",
+   "role": "Japanese physician, chemist, and suspected intelligence collector",
+   "variants": [
+    "Dr. PABLO R. NIKAMI",
+    "Dr. Nikmm1"
+   ]
+  },
+  {
+   "name": "A. T. Lackey",
+   "role": "Major, General Staff, and assistant chief of staff, G-2, First Cavalry Division",
+   "variants": [
+    "A. T. LACKY"
+   ]
+  },
+  {
+   "name": "Fred Lewellyn",
+   "role": "Los Angeles correspondent concerning Japanese fishing interests",
+   "variants": [
+    "Frod Lewellyn",
+    "Freu ewellyn",
+    "Fred",
+    "ir. Lewellyn",
+    "Mr. Lewellyn"
+   ]
+  },
+  {
+   "name": "Lawrence",
+   "role": "Recipient at Pan American Fisheries",
+   "variants": [
+    "Lawrenee"
+   ]
+  },
+  {
+   "name": "Date",
+   "role": "Japanese visitor claiming to buy scrap iron",
+   "variants": [
+    "Date"
+   ]
+  },
+  {
+   "name": "Onishi",
+   "role": "Japanese acquaintance and informant of Fred Lewellyn",
+   "variants": [
+    "onish"
+   ]
+  },
+  {
+   "name": "Tamanosuke Suzuki",
+   "role": "Japanese rancher in the Maneadero Valley",
+   "variants": [
+    "Tamanosuke Suzukd",
+    "Tamanosuke uzuki",
+    "suzuki"
+   ]
+  },
+  {
+   "name": "Yamashiro",
+   "role": "Japanese national attached to the Minato Maru expedition; reading uncertain",
+   "variants": [
+    "Yamuaniro"
+   ]
+  },
+  {
+   "name": "Yamamoto",
+   "role": "Japanese professor attached to the Minato Maru expedition; reading uncertain",
+   "variants": [
+    "Yamawot"
+   ]
+  },
+  {
+   "name": "León del Razo Ángel",
+   "role": "Mexican interpreter lent to a Japanese commission; name reading uncertain",
+   "variants": [
+    "Len el raxo angel",
+    "el rago"
+   ]
+  },
+  {
+   "name": "Samel",
+   "role": "Indexed American consul at Ensenada; name reading uncertain",
+   "variants": [
+    "Samel"
+   ]
+  },
+  {
+   "name": "P. W. Parker",
+   "role": "Correspondent for the Standard-Vacuum Oil Company",
+   "variants": [
+    "P. W. Parker"
+   ]
+  },
+  {
+   "name": "A. L. Verdugo",
+   "role": "Correspondent on Japanese fishing activities",
+   "variants": [
+    "A.L. Verdugo"
+   ]
+  },
+  {
+   "name": "Bert Caudry",
+   "role": "Correspondent on Japanese fishing activities",
+   "variants": [
+    "Bert Caudry"
+   ]
+  },
+  {
+   "name": "F. D. Mallon",
+   "role": "Lieutenant colonel and assistant chief of staff, G-2, Eighth Corps Area",
+   "variants": [
+    "Colonel Mellon",
+    "Lt.Col.F.D.Mallon",
+    "F. B. MALLON",
+    "P. B. MALLN"
+   ]
+  },
+  {
+   "name": "John F. Franklin",
+   "role": "Colonel, 25th Infantry, commanding Fort Huachuca",
+   "variants": [
+    "John F. Fronklin",
+    "John F. Franklin"
+   ]
+  },
+  {
+   "name": "John George",
+   "role": "Representative of the Whitney interests in the Yaqui River Valley",
+   "variants": [
+    "John ceorge"
+   ]
+  },
+  {
+   "name": "Thompson",
+   "role": "Person associated with a referenced espionage case",
+   "variants": [
+    "Thompson"
+   ]
+  },
+  {
+   "name": "Walter B. Pyron",
+   "role": "Vice president of the Gulf Refining Company in Mexico and military-intelligence informant",
+   "variants": [
+    "Colonel Walter B. iyron",
+    "Colonel ryron"
+   ]
+  },
+  {
+   "name": "E. M. Hammond",
+   "role": "Major, General Staff, and chief of the War Department’s Latin American Section",
+   "variants": [
+    "E. M.lllumond",
+    "E.. IMOND"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese activities in Mexico",
+  "espionage and reconnaissance",
+  "anti-American propaganda",
+  "Baja California",
+  "Gulf of California fisheries",
+  "Magdalena Bay fortification rumors",
+  "Japanese immigration",
+  "oil and mineral concessions",
+  "naval intelligence",
+  "coastal surveying",
+  "U.S.–Mexico relations",
+  "military preparedness"
+ ],
+ "subfiles": [
+  {
+   "title": "Cover letter transmitting despatches on Japanese anti-American propaganda to the Navy Department",
+   "doc_type": "letter",
+   "start_page": 231,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "1934-10-13",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "Claude A. Swanson, Secretary of the Navy",
+   "about": "Transmits confidential copies of Mexico City despatches concerning Japanese anti-American propaganda.",
+   "summary": "Welles forwards despatches dated July 7 and October 2, 1934, from the American Embassy in Mexico City. He notes that copies are also being sent to the War Department.",
+   "keywords": [
+    "Japanese propaganda",
+    "Mexico City",
+    "Navy Department",
+    "War Department",
+    "confidential correspondence"
+   ]
+  },
+  {
+   "title": "Despatch No. 1582: Japanese Anti-American Propaganda",
+   "doc_type": "diplomatic despatch",
+   "start_page": 232,
+   "end_page": 236,
+   "continues_previous": false,
+   "date": "1934-07-07",
+   "from": "R. Henry Norweb, American Embassy, Mexico City",
+   "to": "Secretary of State",
+   "about": "Reports on Japanese propaganda, reconnaissance, economic penetration, and immigration in Mexico.",
+   "summary": "Norweb describes Japanese surveying parties, photography of Manzanillo, searches for strategic raw materials, propaganda, and rising legal and illegal immigration. He finds no clear evidence of direct anti-American propaganda but reports innuendo about a future U.S.–Japanese war. Although recommending vigilance, he judges Mexico’s ties to Japan to be weaker than its political, commercial, and cultural ties to the United States.",
+   "keywords": [
+    "Japanese propaganda",
+    "reconnaissance",
+    "raw materials",
+    "immigration",
+    "Baja California",
+    "U.S.–Mexico relations"
+   ]
+  },
+  {
+   "title": "Cover letter transmitting Japanese-propaganda despatches to the War Department",
+   "doc_type": "letter",
+   "start_page": 237,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1934-10-13",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "George H. Dern, Secretary of War",
+   "about": "Forwards confidential embassy reporting about Japanese anti-American propaganda in Mexico.",
+   "summary": "This is the War Department counterpart of the preceding Navy transmittal. It encloses the July 7 despatch and states that copies are also being forwarded to the Navy Department.",
+   "keywords": [
+    "Japanese propaganda",
+    "War Department",
+    "Mexico City",
+    "confidential correspondence"
+   ]
+  },
+  {
+   "title": "Duplicate copy of Despatch No. 1583: Japanese Anti-American Propaganda",
+   "doc_type": "diplomatic despatch",
+   "start_page": 238,
+   "end_page": 242,
+   "continues_previous": false,
+   "date": "1934-07-07",
+   "from": "R. Henry Norweb, American Embassy, Mexico City",
+   "to": "Secretary of State",
+   "about": "Duplicates the embassy assessment of Japanese political, commercial, and intelligence-related activity in Mexico.",
+   "summary": "The despatch recounts Japanese coastal surveying, resource prospecting, propaganda, and immigration into Baja California and the Pacific coast. It distinguishes insinuating pro-Japanese messaging from demonstrable direct anti-American propaganda. Norweb concludes that reputed Mexican–Japanese rapprochement is more apparent than real but merits close observation.",
+   "keywords": [
+    "Japanese propaganda",
+    "surveying parties",
+    "Baja California",
+    "immigration",
+    "economic penetration",
+    "Mexico"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum on delaying distribution of Despatch No. 1582",
+   "doc_type": "memorandum",
+   "start_page": 243,
+   "end_page": 243,
+   "continues_previous": false,
+   "date": "1934-08-17",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Division of Mexican Affairs",
+   "about": "Recommends awaiting further reporting before sending the July despatch to the War and Navy Departments.",
+   "summary": "Far Eastern Affairs advises that the Department first await Mexico City’s directed investigation of Japanese consular officers. Only after that report arrives should it decide whether to furnish Despatch No. 1582 to military departments.",
+   "keywords": [
+    "interdepartmental review",
+    "Japanese consuls",
+    "Mexico City",
+    "War Department",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Interdivisional routing and marginal-action sheets",
+   "doc_type": "routing sheets",
+   "start_page": 244,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State, Divisions of Mexican and Far Eastern Affairs",
+   "to": "Departmental reviewers",
+   "about": "Records largely illegible internal routing concerning the Japanese-propaganda reports.",
+   "summary": "These pages consist chiefly of division headings, marginal notations, and fragmentary instructions. The legible portions appear connected with the decision whether the material should go to the War and Navy Departments.",
+   "keywords": [
+    "routing",
+    "Mexican Affairs",
+    "Far Eastern Affairs",
+    "War Department",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Despatch No. 1821: Japanese Anti-American Propaganda",
+   "doc_type": "diplomatic despatch",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1934-10-02",
+   "from": "Josephus Daniels, American Embassy, Mexico City",
+   "to": "Secretary of State",
+   "about": "Reports the result of an investigation into alleged Japanese entertainment of Mexican officials and anti-American propaganda.",
+   "summary": "The embassy consulted the consuls at Mexicali, Ensenada, Guaymas, and Mazatlán. It found no evidence corroborating the rumored Japanese activity and had nothing to add to the July despatch.",
+   "keywords": [
+    "Japanese propaganda",
+    "consular investigation",
+    "West Coast of Mexico",
+    "unsubstantiated rumors"
+   ]
+  },
+  {
+   "title": "Navy Department acknowledgment of State Department propaganda reports",
+   "doc_type": "letter",
+   "start_page": 248,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1934-10",
+   "from": "Navy Department",
+   "to": "Secretary of State",
+   "about": "Acknowledges receipt of the July and October embassy despatches on Japanese propaganda.",
+   "summary": "The Navy Department confirms receipt of the State Department’s October 13 transmittal and its enclosures. It expresses appreciation for being kept informed.",
+   "keywords": [
+    "Navy Department",
+    "acknowledgment",
+    "Japanese propaganda",
+    "Mexico City"
+   ]
+  },
+  {
+   "title": "War Department acknowledgment of embassy despatches",
+   "doc_type": "letter",
+   "start_page": 249,
+   "end_page": 249,
+   "continues_previous": false,
+   "date": "1934-10",
+   "from": "Chief of Staff, War Department",
+   "to": "Secretary of State",
+   "about": "Acknowledges receipt of Despatches Nos. 1582 and 1821 concerning Japanese propaganda.",
+   "summary": "The Chief of Staff writes at the Secretary of War’s request. The letter thanks the State Department for information concerning Japanese anti-American propaganda in Mexico.",
+   "keywords": [
+    "War Department",
+    "Japanese propaganda",
+    "acknowledgment",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "Second Navy Department acknowledgment",
+   "doc_type": "letter",
+   "start_page": 250,
+   "end_page": 250,
+   "continues_previous": false,
+   "date": "1934-10-23",
+   "from": "Navy Department",
+   "to": "Secretary of State",
+   "about": "Acknowledges the State Department’s October 13 letter and enclosures.",
+   "summary": "This brief communication records receipt of file ME 894.20212/358. Its enclosures are not discussed substantively.",
+   "keywords": [
+    "Navy Department",
+    "acknowledgment",
+    "confidential correspondence"
+   ]
+  },
+  {
+   "title": "Cross-reference to report on Baja California Sur",
+   "doc_type": "cross-reference sheet",
+   "start_page": 251,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1934-11-28",
+   "from": "American Consulate, Guaymas; indexed under Ray",
+   "to": "State Department file",
+   "about": "Points to a report on political, religious, and Japanese conditions in the southern territory of Baja California.",
+   "summary": "The sheet directs researchers to file 812.00-Lower California/184. The referenced report arose from a recent trip through the territory and covered Japanese as well as political and religious conditions.",
+   "keywords": [
+    "cross-reference",
+    "Baja California Sur",
+    "Japanese residents",
+    "political reporting"
+   ]
+  },
+  {
+   "title": "War Department Intelligence Division distribution and forwarding sheets",
+   "doc_type": "routing form",
+   "start_page": 252,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "",
+   "from": "War Department Intelligence Division",
+   "to": "War Department and State Department offices",
+   "about": "Provides distribution options and a handwritten forwarding notation for intelligence material.",
+   "summary": "The printed form lists War Department branches and State Department regional divisions. The following page contains a mostly illegible handwritten note apparently accompanying the routed material.",
+   "keywords": [
+    "Military Intelligence Division",
+    "distribution",
+    "routing",
+    "State Department"
+   ]
+  },
+  {
+   "title": "Confidential letter alleging Japanese espionage on Mexico’s Pacific coast",
+   "doc_type": "letter",
+   "start_page": 254,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1934-11-19",
+   "from": "Elias García Cuadra",
+   "to": "Secretary of War",
+   "about": "A Mexican traveling salesman alleges that Japanese commercial, fishing, and propaganda activities conceal military espionage.",
+   "summary": "García Cuadra describes Japanese residents, failing businesses allegedly subsidized by Japan, a propagandist’s lectures, fishing vessels making coastal surveys, and a report of secretly landed aircraft parts. He argues that Mexico’s security is tied to that of the United States and urges counter-propaganda and preventive action. He offers to provide further confidential information through an address in Mazatlán.",
+   "keywords": [
+    "espionage allegations",
+    "Japanese fishing",
+    "propaganda lectures",
+    "aircraft material",
+    "Pacific coast",
+    "Elias García Cuadra"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs note recommending disclosure to the Navy",
+   "doc_type": "memorandum",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1935-03-15",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Departmental reviewer",
+   "about": "Recommends giving the Navy all available information about suspicious material near a proposed Mexican naval base.",
+   "summary": "The note observes that the latest Guaymas despatch identifies the material as probably belonging to the Mexican Government. It recommends letting the Navy decide whether any further investigation is warranted.",
+   "keywords": [
+    "Magdalena Bay",
+    "Mexican naval base",
+    "Navy Department",
+    "investigation"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum on proposed Magdalena Bay investigation",
+   "doc_type": "memorandum",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1935-02-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Division of Mexican Affairs",
+   "about": "Questions whether Despatch No. 87 justifies the expense of an on-site consular investigation.",
+   "summary": "Far Eastern Affairs agrees that the evidence does not warrant the proposed travel expense. It asks whether Military or Naval Intelligence has funds or facilities and suggests sharing pertinent excerpts in strict confidence.",
+   "keywords": [
+    "Magdalena Bay",
+    "investigation costs",
+    "Military Intelligence",
+    "Naval Intelligence",
+    "Despatch No. 87"
+   ]
+  },
+  {
+   "title": "Handwritten Far Eastern Affairs consultation note",
+   "doc_type": "memorandum",
+   "start_page": 258,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1935-03",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Departmental file",
+   "about": "Records an internal consultation, apparently involving Stanley K. Hornbeck and Captain William D. Puleston.",
+   "summary": "The handwriting is mostly illegible. The readable names and fragments indicate discussion with Naval Operations about how the matter should be handled.",
+   "keywords": [
+    "internal consultation",
+    "William D. Puleston",
+    "Naval Operations",
+    "Far Eastern Affairs"
+   ]
+  },
+  {
+   "title": "Mexican Affairs memorandum opposing consular travel to Magdalena Bay",
+   "doc_type": "memorandum",
+   "start_page": 259,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1935-02-19",
+   "from": "Division of Mexican Affairs",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Finds that the available evidence does not justify sending a Guaymas consular officer to Magdalena Bay.",
+   "summary": "The writer considers the expense and absence from duty unwarranted on the information presented. The note remains open to reconsideration and asks whether confidential extracts should instead be sent to Military and Naval Intelligence.",
+   "keywords": [
+    "Magdalena Bay",
+    "consular travel",
+    "Military Intelligence",
+    "Naval Intelligence",
+    "expense"
+   ]
+  },
+  {
+   "title": "Despatch No. 87: Japanese Activities in the Gulf of California and on the West Coast of Mexico",
+   "doc_type": "consular despatch",
+   "start_page": 260,
+   "end_page": 266,
+   "continues_previous": false,
+   "date": "1935-02-11",
+   "from": "Guy W. Ray, American Vice Consul, Guaymas",
+   "to": "Secretary of State",
+   "about": "Reports rumors of Japanese arms and fortifications, shipping and fishing ventures, scrap purchases, and agricultural activity.",
+   "summary": "Ray discusses reports of cement, cannon, and ammunition in Magdalena Bay, while recognizing that the material might belong to a Mexican naval-base project or a revolutionary plot. He details Japanese-crewed fishing vessels, the expected Banshu Maru, ship dismantling and scrap exports, Tadahiro Tamaki’s travels, and interest in cotton cultivation. Although skeptical of the fortification story, he recommends vigilance and suggests that Mexico restrict Japanese fishing and other concessions.",
+   "keywords": [
+    "Magdalena Bay",
+    "Gulf of California",
+    "Banshu Maru",
+    "scrap iron",
+    "cotton",
+    "Japanese concessions"
+   ]
+  },
+  {
+   "title": "Despatch No. 97: Japanese Activities",
+   "doc_type": "consular despatch",
+   "start_page": 267,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1935-03-07",
+   "from": "Guy W. Ray, American Vice Consul, Guaymas",
+   "to": "Secretary of State",
+   "about": "Retracts the implication that a foreign power landed military supplies at Magdalena Bay.",
+   "summary": "Ray quotes a reliable American resident who confirmed with Governor Juan Domínguez that Mexico was building a naval base at Magdalena Bay. He concludes that the cement and other materials were almost certainly placed there by the Mexican Government, though the earlier rumors had seemed sufficiently consistent to report.",
+   "keywords": [
+    "Magdalena Bay",
+    "Mexican naval base",
+    "rumor correction",
+    "Juan Domínguez"
+   ]
+  },
+  {
+   "title": "State Department transmittal of Guaymas despatches to the Navy",
+   "doc_type": "diplomatic note",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1935-03-20",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards three Guaymas despatches concerning Japanese activities and Magdalena Bay.",
+   "summary": "The note follows a conversation between the Far Eastern Affairs chief and Captain William D. Puleston. It highlights the latest evidence that cement and other supplies at Magdalena Bay were intended for a Mexican naval base serving ships purchased in Spain.",
+   "keywords": [
+    "Navy Department",
+    "Magdalena Bay",
+    "Mexican naval base",
+    "William D. Puleston",
+    "Guaymas"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs abstract of Japanese-activities reporting",
+   "doc_type": "file abstract",
+   "start_page": 270,
+   "end_page": 270,
+   "continues_previous": false,
+   "date": "1935-04-26",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State file",
+   "about": "Summarizes a Guaymas report, newspaper article, naval inquiry, and proposed Japanese shrimp shipment.",
+   "summary": "The abstract describes a Mexican newspaper’s warning that Mexico could become another Belgium in a U.S.–Japanese war. It also records a Mexican naval officer’s rejection of the Magdalena Bay munitions story and Mexican approval for a Japanese vessel to load shrimp at Guaymas.",
+   "keywords": [
+    "press reporting",
+    "Japanese menace",
+    "Magdalena Bay",
+    "shrimp trade",
+    "Mexico"
+   ]
+  },
+  {
+   "title": "Despatch No. 108: Japanese Activities",
+   "doc_type": "consular despatch",
+   "start_page": 271,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "1935-04-19",
+   "from": "Guy W. Ray, American Vice Consul, Guaymas",
+   "to": "Secretary of State",
+   "about": "Transmits and comments on a Mexican newspaper article alleging Japanese strategic activity along the Pacific coast.",
+   "summary": "Ray regards the article’s open criticism of Japan as more unusual than its largely familiar allegations. He reports continuing suspicion of a Japanese traveling salesman, official rejection of the Magdalena Bay rumor, planned Japanese shrimp purchases, and Japanese communities in the Yaqui Valley, Ciudad Obregón, and Navojoa. He concludes that local sentiment would favor the United States over Japan and that Japanese interest in the region probably exceeds purely commercial motives.",
+   "keywords": [
+    "Heraldo del Yaqui",
+    "Japanese communities",
+    "Mexican opinion",
+    "shrimp trade",
+    "Magdalena Bay",
+    "Navojoa"
+   ]
+  },
+  {
+   "title": "“Baja California, Área de Combate”",
+   "doc_type": "newspaper clipping in Spanish",
+   "start_page": 276,
+   "end_page": 278,
+   "continues_previous": false,
+   "date": "1935-04-17",
+   "from": "Heraldo del Yaqui",
+   "to": "Newspaper readers",
+   "about": "Claims that Japan maintains an intelligence system and is preparing Baja California for possible operations against the United States.",
+   "summary": "The article invokes Floyd Gibbons and Fred Pasley while alleging Japanese espionage among fishermen, merchants, restaurateurs, and farmers. It discusses a possible air base near Ensenada, the strategic position of Mexicali and Todos Santos Bay, and the risk that Mexico could be invaded like Belgium. It nevertheless argues that Mexico’s present government is friendlier to the United States and unlikely to assist Japanese plans.",
+   "keywords": [
+    "Baja California",
+    "Japanese espionage",
+    "air base",
+    "Ensenada",
+    "Mexicali",
+    "Heraldo del Yaqui"
+   ]
+  },
+  {
+   "title": "Translation of “Baja California, Area of Combat”",
+   "doc_type": "translation of newspaper clipping",
+   "start_page": 279,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1935-04-17",
+   "from": "Heraldo del Yaqui; translated for the American Consulate",
+   "to": "Department of State",
+   "about": "Provides an English translation of the Spanish article alleging Japanese preparations in Baja California.",
+   "summary": "The translation repeats allegations of a Japanese intelligence network, an Ensenada landing field, extensive Japanese fishing, and strategic use of Todos Santos Bay. It presents Mexico as a potential victim like Belgium in a conflict between Japan and the United States. The article also emphasizes the logistical hazards Japan would face in fighting far from its homeland.",
+   "keywords": [
+    "translation",
+    "Baja California",
+    "Japanese espionage",
+    "Ensenada",
+    "Todos Santos Bay",
+    "war planning"
+   ]
+  },
+  {
+   "title": "Military Intelligence Division routing form",
+   "doc_type": "routing form",
+   "start_page": 282,
+   "end_page": 282,
+   "continues_previous": false,
+   "date": "",
+   "from": "Military Intelligence Division, G-2",
+   "to": "General Staff branches",
+   "about": "Provides internal distribution and action options for attached intelligence correspondence.",
+   "summary": "The form lists administrative, intelligence, operations, geographic, and public-relations branches. It contains no substantive intelligence beyond its routing function.",
+   "keywords": [
+    "Military Intelligence Division",
+    "routing",
+    "General Staff",
+    "distribution"
+   ]
+  },
+  {
+   "title": "Naval Intelligence letter transmitting report on Japanese travelers to Mexico",
+   "doc_type": "letter",
+   "start_page": 283,
+   "end_page": 283,
+   "continues_previous": false,
+   "date": "1935-08-08",
+   "from": "John Stapler, Acting Director of Naval Intelligence",
+   "to": "J. F. McGurk, Assistant Chief of Latin American Affairs",
+   "about": "Transmits an Eleventh Naval District report about Japanese officials traveling by air to Mexico.",
+   "summary": "Stapler forwards a copy of the naval-district commandant’s letter. The State Department routed it as information relevant to Mexican affairs.",
+   "keywords": [
+    "Naval Intelligence",
+    "Japanese travelers",
+    "Mexico",
+    "Eleventh Naval District"
+   ]
+  },
+  {
+   "title": "Eleventh Naval District report: Japanese en route to Mexico",
+   "doc_type": "naval intelligence report",
+   "start_page": 284,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1935-08-02",
+   "from": "W. T. Tarrant, Commandant, Eleventh Naval District",
+   "to": "Chief of Naval Operations, Director of Naval Intelligence",
+   "about": "Reports unusually heavy Japanese air travel from California to Mexico City.",
+   "summary": "Lieutenant Commander Donald Armstrong reported that six to ten Japanese per day had recently flown from San Francisco and Los Angeles to Mexico City. Their passports showed origins in Tokyo and suggested official status, and Mexican consular officials reportedly gave them every consideration.",
+   "keywords": [
+    "Japanese travelers",
+    "Pan American Airways",
+    "Mexico City",
+    "Tokyo",
+    "naval intelligence"
+   ]
+  },
+  {
+   "title": "Reply thanking Naval Intelligence for the Japanese-travel report",
+   "doc_type": "letter",
+   "start_page": 285,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1935-08-12",
+   "from": "Edwin C. Wilson",
+   "to": "John Stapler, Acting Director of Naval Intelligence",
+   "about": "Acknowledges the naval report and forwards it to the chief of the Mexican Division.",
+   "summary": "Wilson thanks Stapler for the letter concerning Japanese travelers bound for Mexico. He states that he has sent it to Edward Reed because of its relevance to Mexican affairs.",
+   "keywords": [
+    "Naval Intelligence",
+    "Japanese travelers",
+    "Edward Reed",
+    "acknowledgment"
+   ]
+  },
+  {
+   "title": "Memorandum on a reported Japanese highway contract and Clipperton Island",
+   "doc_type": "memorandum",
+   "start_page": 286,
+   "end_page": 287,
+   "continues_previous": false,
+   "date": "1935",
+   "from": "Unidentified State Department officer",
+   "to": "Mr. Wilson",
+   "about": "Records claims relayed by Mr. Morgan about Japanese road construction in Mexico and French fortification of Clipperton Island.",
+   "summary": "Morgan reported that a Japanese firm allegedly contracted to build a highway from Mexico City to Guadalajara and possibly onward to Mazatlán, suggesting political as well as economic significance. He also relayed Mexican resentment over France’s acquisition of Clipperton Island and rumors that France was fortifying it. The writer doubted the highway report and directed Morgan to discuss both matters with the Mexican Division.",
+   "keywords": [
+    "Japanese highway contract",
+    "Guadalajara",
+    "Mazatlán",
+    "Clipperton Island",
+    "France",
+    "Panama Canal defense"
+   ]
+  },
+  {
+   "title": "Cross-reference and opening fragment of comprehensive report on Japanese activities",
+   "doc_type": "cross-reference sheet with report fragment",
+   "start_page": 288,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1935-08-28",
+   "from": "Leavitt, Mexico City",
+   "to": "Department of State file",
+   "about": "Points to and introduces a comprehensive report on Japanese governmental and commercial activity in Mexico.",
+   "summary": "The cross-reference directs researchers to file 812.154/268. The surviving introductory paragraph says that Japanese government-linked companies appeared very active in Mexico, but the writer could not determine what ultimate results they sought.",
+   "keywords": [
+    "cross-reference",
+    "Japanese companies",
+    "Mexico",
+    "strategic objectives",
+    "Leavitt"
+   ]
+  },
+  {
+   "title": "First Cavalry Division report on Dr. Pablo R. Nikami",
+   "doc_type": "military intelligence report",
+   "start_page": 290,
+   "end_page": 290,
+   "continues_previous": false,
+   "date": "1935-08-30",
+   "from": "A. T. Lackey, G-2, First Cavalry Division",
+   "to": "Assistant Chief of Staff, G-2, Eighth Corps Area",
+   "about": "Reports suspicious travel, photography, and technical interests of a Japanese national in northern Mexico.",
+   "summary": "A reliable El Paso informant stated that Dr. Pablo R. Nikami traveled with extensive pack equipment between Temósachic and El Valle while ostensibly prospecting. Nikami reportedly photographed dams and irrigation works at Las Delicias, possessed ample funds, and displayed expertise in geology, metallurgy, chemistry, and medicine.",
+   "keywords": [
+    "Pablo R. Nikami",
+    "northern Mexico",
+    "photography",
+    "dams",
+    "military intelligence",
+    "prospecting"
+   ]
+  },
+  {
+   "title": "Cross-reference to Despatch No. 162 on Japanese fishing",
+   "doc_type": "cross-reference sheet",
+   "start_page": 291,
+   "end_page": 291,
+   "continues_previous": false,
+   "date": "1935-10-16",
+   "from": "A. F. Yepis, Guaymas",
+   "to": "Department of State file",
+   "about": "Points to correspondence about Japanese fishing and other activity in the Gulf of California.",
+   "summary": "The referenced despatch reproduced two letters sent by Fred Lewellyn to the local manager of Pan American Fisheries. The index notes that parts of the situation described in the letters appeared to contain some truth.",
+   "keywords": [
+    "cross-reference",
+    "Japanese fishing",
+    "Gulf of California",
+    "Fred Lewellyn",
+    "Pan American Fisheries"
+   ]
+  },
+  {
+   "title": "Cross-reference to Despatch No. 164 on Japanese fishing",
+   "doc_type": "cross-reference sheet",
+   "start_page": 292,
+   "end_page": 292,
+   "continues_previous": false,
+   "date": "1935-10-21",
+   "from": "A. F. Yepis, Guaymas",
+   "to": "Department of State file",
+   "about": "Points to Pan American Fisheries correspondence concerning Japanese activity in the Gulf of California.",
+   "summary": "The sheet references file 812.628/284 and Despatch No. 164. Its subject is Japanese fishing activity and related commercial correspondence.",
+   "keywords": [
+    "cross-reference",
+    "Japanese fishing",
+    "Gulf of California",
+    "Pan American Fisheries"
+   ]
+  },
+  {
+   "title": "Despatch No. 164: Possible Fishing and Other Activities of Japanese in the Gulf of California",
+   "doc_type": "consular despatch",
+   "start_page": 293,
+   "end_page": 293,
+   "continues_previous": false,
+   "date": "1935-10-21",
+   "from": "A. F. Yepis, American Vice Consul, Guaymas",
+   "to": "Secretary of State",
+   "about": "Transmits another Fred Lewellyn letter about possible Japanese plans in the Gulf of California.",
+   "summary": "Yepis encloses Lewellyn’s October 15 letter at the request of the Pan American Fisheries manager. He cautions that the consulate cannot vouch for its accuracy, although some assertions may be true and of interest.",
+   "keywords": [
+    "Japanese fishing",
+    "Fred Lewellyn",
+    "Gulf of California",
+    "Pan American Fisheries",
+    "unverified intelligence"
+   ]
+  },
+  {
+   "title": "Fred Lewellyn letter on Japanese commercial and political intentions",
+   "doc_type": "private letter",
+   "start_page": 294,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1935-10-15",
+   "from": "Fred Lewellyn",
+   "to": "Lawrence",
+   "about": "Relays conversations alleging Japanese plans to obtain Gulf concessions and gain control of Mexican enterprises.",
+   "summary": "Lewellyn describes contacts with Japanese visitors named Date and Onishi, who questioned him closely about Mexico and the Gulf of California. He alleges that a Japanese group paid a prominent Mexican official for help securing a concession and sought concealed participation in established concerns. He warns that Japan intended to become heavily involved in Mexico and urges resistance to its efforts.",
+   "keywords": [
+    "Japanese concessions",
+    "Gulf of California",
+    "bribery allegation",
+    "Date",
+    "Onishi",
+    "Fred Lewellyn"
+   ]
+  },
+  {
+   "title": "Cross-reference to Ensenada despatch on road, fishing, and reconnaissance plans",
+   "doc_type": "cross-reference sheet",
+   "start_page": 296,
+   "end_page": 296,
+   "continues_previous": false,
+   "date": "1936-03-27",
+   "from": "American Consulate, Ensenada; indexed under Samel",
+   "to": "Department of State file",
+   "about": "Points to a report linking a proposed Japanese road-and-fishing agreement to coastal reconnaissance.",
+   "summary": "The sheet summarizes allegations that the Minato Maru’s exploratory work concealed military and naval reconnaissance. It also notes Tamanosuke Suzuki’s efforts to obtain information about Guadalupe Island.",
+   "keywords": [
+    "cross-reference",
+    "Minato Maru",
+    "coastal reconnaissance",
+    "Guadalupe Island",
+    "fishing rights"
+   ]
+  },
+  {
+   "title": "Despatch on Japanese activities on the west coast of Mexico",
+   "doc_type": "consular despatch",
+   "start_page": 297,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1936-03-27",
+   "from": "American Consul at Ensenada, indexed as Samel",
+   "to": "Secretary of State",
+   "about": "Reports suspicions that the Minato Maru expedition and Japanese residents were gathering strategic geographic information.",
+   "summary": "A Mexican shipmaster and naval reserve officer alleged that the Minato Maru’s exploration masked military and naval reconnaissance and identified Japanese personnel and a Mexican interpreter attached to the mission. Reports from Yavaros claimed ostensibly linguistic classes centered on maps and charts. Tamanosuke Suzuki also questioned the informant about Guadalupe Island’s topography and possible use as an aircraft landing field.",
+   "keywords": [
+    "Minato Maru",
+    "naval reconnaissance",
+    "Yavaros",
+    "Guadalupe Island",
+    "Tamanosuke Suzuki",
+    "maps and charts"
+   ]
+  },
+  {
+   "title": "Cross-reference to Standard-Vacuum letter on Japanese oil interests",
+   "doc_type": "cross-reference sheet",
+   "start_page": 300,
+   "end_page": 300,
+   "continues_previous": false,
+   "date": "1936-04-03",
+   "from": "P. W. Parker, Standard-Vacuum Oil Company, New York City",
+   "to": "Department of State file",
+   "about": "Points to information on Japanese individuals seeking oil concessions in Mexico.",
+   "summary": "The underlying letter concerned movements of Japanese believed interested in acquiring Mexican petroleum concessions. The substantive letter is filed elsewhere under 812.6363/2891.",
+   "keywords": [
+    "cross-reference",
+    "oil concessions",
+    "Standard-Vacuum",
+    "Japanese petroleum interests"
+   ]
+  },
+  {
+   "title": "Cross-reference to Embassy Despatch No. 3464",
+   "doc_type": "cross-reference sheet",
+   "start_page": 301,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1936-04-10",
+   "from": "Josephus Daniels, American Embassy, Mexico City",
+   "to": "Department of State file",
+   "about": "Points to the Japanese minister’s remarks on Japanese fishing and petroleum activities in Mexico.",
+   "summary": "The indexed despatch records comments by the Japanese minister. Its principal subjects were Japanese fishing and oil activity in Mexico.",
+   "keywords": [
+    "cross-reference",
+    "Japanese minister",
+    "fishing",
+    "petroleum",
+    "Josephus Daniels"
+   ]
+  },
+  {
+   "title": "Cross-reference to Embassy Despatch No. 3549",
+   "doc_type": "cross-reference sheet",
+   "start_page": 302,
+   "end_page": 302,
+   "continues_previous": false,
+   "date": "1936-05-12",
+   "from": "Josephus Daniels, American Embassy, Mexico City",
+   "to": "Department of State file",
+   "about": "Points to a confidential list of petroleum concessions obtained by a Japanese-controlled Mexican company.",
+   "summary": "The underlying memorandum concerned the Compañía Mexicana de Petróleo. It listed concessions reportedly obtained by the Japanese-controlled company to that date.",
+   "keywords": [
+    "cross-reference",
+    "petroleum concessions",
+    "Japanese investment",
+    "Compañía Mexicana de Petróleo"
+   ]
+  },
+  {
+   "title": "Cross-reference to Arizona governor’s correspondence on Japanese fishing",
+   "doc_type": "cross-reference sheet",
+   "start_page": 303,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1936-06-01",
+   "from": "Governor of Arizona",
+   "to": "Department of State file",
+   "about": "Points to letters from A. L. Verdugo and Bert Caudry about Japanese fishing in the Gulf of California.",
+   "summary": "The sheet references file 812.628/342. The underlying correspondence concerned Japanese fishing activities and included letters from Verdugo and Caudry.",
+   "keywords": [
+    "cross-reference",
+    "Japanese fishing",
+    "Gulf of California",
+    "A. L. Verdugo",
+    "Bert Caudry"
+   ]
+  },
+  {
+   "title": "Fort Huachuca letter reporting Japanese coastal and inland surveys",
+   "doc_type": "military intelligence letter",
+   "start_page": 304,
+   "end_page": 305,
+   "continues_previous": false,
+   "date": "1936-07-13",
+   "from": "John F. Franklin, Commanding Officer, Fort Huachuca",
+   "to": "F. D. Mallon, G-2, Eighth Corps Area",
+   "about": "Relays reports of Japanese charting, coastal colonies, a scientific vessel, and survey activity in Sonora.",
+   "summary": "An informant alleged that a Japanese steamer and sampans were charting the Gulf of California while colonies of men served as survey stations. Another party of five Japanese and a Mexican engineer was reportedly surveying the Yaqui River while posing as prospectors. The letter also reports a Mexican seizure of machine guns and pistols at Empalme and summarizes an agrarian dispute in the Yaqui Valley.",
+   "keywords": [
+    "Gulf of California",
+    "coastal charting",
+    "Yaqui River",
+    "Japanese colonies",
+    "arms seizure",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "Eighth Corps Area report on Japanese petroleum activity",
+   "doc_type": "military intelligence report",
+   "start_page": 306,
+   "end_page": 306,
+   "continues_previous": false,
+   "date": "1936-10-14",
+   "from": "F. D. Mallon, Assistant Chief of Staff, G-2, Eighth Corps Area",
+   "to": "Assistant Chief of Staff, G-2, War Department",
+   "about": "Reports Japanese acquisition and prospective development of Mexican oil concessions.",
+   "summary": "Walter B. Pyron stated that Japanese governmental representatives had long sought oil in the Isthmus region and had obtained concessions there and in Tamaulipas and Nuevo León. He believed development might begin in southern Veracruz, with oil moved by rail to Salina Cruz for export. The report also briefly notes increasingly difficult labor demands on the Gulf Refining Company.",
+   "keywords": [
+    "oil concessions",
+    "Isthmus of Tehuantepec",
+    "Veracruz",
+    "Salina Cruz",
+    "Walter B. Pyron",
+    "Japanese investment"
+   ]
+  },
+  {
+   "title": "Memorandum on reported Japanese activities in Baja California",
+   "doc_type": "memorandum",
+   "start_page": 307,
+   "end_page": 308,
+   "continues_previous": false,
+   "date": "1937-04-27",
+   "from": "Edward L. Reed, Division of Mexican Affairs",
+   "to": "Secretary of State",
+   "about": "Reviews departmental evidence concerning Japanese activity, population, and immigration privileges in Baja California.",
+   "summary": "Reed finds no reports of intensified Japanese activity beyond apparently legitimate fishing ventures and a few unconfirmed rumors. He also finds no evidence of an abnormally large recent influx of Japanese into Baja California. He explains that treaty-based Japanese immigration privileges had been terminated by a 1924 agreement between Mexico and Japan.",
+   "keywords": [
+    "Baja California",
+    "Japanese immigration",
+    "fishing",
+    "treaty privileges",
+    "Edward L. Reed"
+   ]
+  },
+  {
+   "title": "War Department request for Japanese population and immigration data",
+   "doc_type": "letter with State Department routing note",
+   "start_page": 309,
+   "end_page": 310,
+   "continues_previous": false,
+   "date": "1937-04-29",
+   "from": "E. M. Hammond, Chief, Latin American Section, G-2",
+   "to": "Chief, Division of Mexican Affairs, Department of State",
+   "about": "Requests statistics and reporting on Japanese residents, immigration, and coastal surveys in Mexico and Baja California.",
+   "summary": "The War Department asks for the number of Japanese in Mexico and Lower California, recent immigration totals, and the frequency of coastal-area surveys or reports. Page 310 contains a largely illegible Mexican Affairs notation concerning preparation or routing of the requested information.",
+   "keywords": [
+    "Japanese population",
+    "immigration statistics",
+    "Baja California",
+    "coastal surveys",
+    "War Department",
+    "Mexican Affairs"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 7,
+  "pages": [
+   231,
+   310
+  ],
+  "pdf": "894.20212 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Mexico Including Gathering Of Information. Espionage. Propaganda., January  894.pdf",
+  "seconds": 363.8,
+  "created": "2026-09-30 02:16:44",
+  "key": "japan-internal-affairs-894.20212-military-affairs-army-3"
+ }
+}

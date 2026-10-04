@@ -1,0 +1,103 @@
+{
+ "interest": "U.S. fears of Japanese bases on Madagascar, 1942.",
+ "keywords": [
+  "Madagascar",
+  "Japan",
+  "World War II",
+  "Vichy France",
+  "subversive activities",
+  "espionage",
+  "Mozambique Channel",
+  "naval intelligence",
+  "Allied shipping",
+  "William D. Leahy",
+  "Navy Department",
+  "Indian Ocean"
+ ],
+ "overview": "Docket for 894.20251W (1942) on suspected Japanese activity in Madagascar and plans to close the Mozambique Channel.",
+ "people": [
+  {
+   "name": "William D. Leahy",
+   "role": "U.S. Ambassador to France (Vichy)",
+   "variants": [
+    "Leahy"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Madagascar",
+   "variants": [
+    "Madagascar"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Vichy",
+   "variants": [
+    "Vichy"
+   ]
+  },
+  {
+   "name": "Mozambique",
+   "variants": [
+    "Mozambique"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Mozambique Channel",
+   "variants": [
+    "strai- between Madagascar and Mozambique"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers sheet recording incoming diplomatic and naval intelligence reports regarding alleged Japanese subversive activity and missions in Madagascar in March 1942.",
+   "date": "1942-03-31",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Madagascar",
+    "Japan",
+    "Vichy France",
+    "William D. Leahy",
+    "Navy Department",
+    "Mozambique Channel",
+    "subversive activities"
+   ],
+   "start_page": 1,
+   "summary": "Docket on Japanese activity in Madagascar: Leahy's telegram and a Navy report on three missions.",
+   "title": "List of Papers: Alleged Japanese subversive activities in Madagascar",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13832,
+   "output_tokens": 6997,
+   "thinking_tokens": 6164,
+   "cache_read_tokens": 0,
+   "total_tokens": 20829
+  },
+  "backend": "agy",
+  "seconds": 26.5,
+  "identifier": "japan-internal-affairs-894.20251w-military-affairs-army-1",
+  "file": "894.20251W Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Madagascar Including Gathering Of Information. Espionage. Propaganda.,  50.pdf",
+  "created": "2026-09-29 02:31:17"
+ }
+}

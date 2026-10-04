@@ -1,0 +1,88 @@
+{
+ "overview": "This single-page file consists of a State Department cross-reference sheet concerning Japanese news dissemination in Argentina during World War II. It records that the Domei Agency would supply news despatches to the Andi News Agency and that Matsuo Tsuda received despatches from Japan for redistribution to Argentine news agencies. The sheet points researchers to the original February 9, 1942 letter from the U.S. Department of Justice, associated with Hoover, filed as 894.20211/532.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentine"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Matsuo Tsuda",
+   "role": "Recipient and intermediary who passed Japanese news despatches to Argentine news agencies",
+   "variants": [
+    "Matsuo Tsuda"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "U.S. Justice Department official; Director of the Federal Bureau of Investigation",
+   "variants": [
+    "Hoover"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese news agencies",
+  "Domei Agency",
+  "Andi News Agency",
+  "news dissemination",
+  "news despatches",
+  "Argentina",
+  "Japan",
+  "Matsuo Tsuda",
+  "J. Edgar Hoover",
+  "U.S. Department of Justice",
+  "Federal Bureau of Investigation",
+  "World War II",
+  "cross-reference"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference sheet on Japanese news distribution in Argentina",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1942-02-09",
+   "from": "U.S. Department of Justice (Hoover)",
+   "to": "",
+   "about": "The sheet refers to a Justice Department letter about Domei news supplied to the Andi News Agency and distributed by Matsuo Tsuda to Argentine agencies.",
+   "summary": "This cross-reference note states that the Domei Agency would furnish news despatches to the Andi News Agency. It adds that Matsuo Tsuda received despatches from Japan and passed them to Argentine news agencies. Researchers are directed to the original February 9, 1942 letter from the Justice Department, associated with Hoover, in file 894.20211/532.",
+   "keywords": [
+    "cross-reference",
+    "Domei Agency",
+    "Andi News Agency",
+    "Matsuo Tsuda",
+    "Japanese news",
+    "Argentina",
+    "news distribution",
+    "Justice Department",
+    "894.20211/532"
+   ]
+  }
+ ],
+ "interest": "The sheet is useful for tracing the overseas circulation of Japanese-supplied news in wartime Latin America and identifies Matsuo Tsuda as a specific intermediary in Argentina. It also documents links between Domei and a local news agency while preserving the archival trail to a Justice Department—and likely FBI—source in another decimal-file classification.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 24.0,
+  "identifier": "japan-internal-affairs-894.91210-public-press-news",
+  "file": "894.91210 Public Press., News-Gathering Agencies. Dissemination Of News.** Nationality. %A0%A0 Field Of Operation., February 9, 1942 1330.pdf",
+  "created": "2026-09-29 04:46:01"
+ }
+}

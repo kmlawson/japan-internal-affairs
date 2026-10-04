@@ -1,0 +1,115 @@
+{
+ "interest": "Although consisting solely of State Department cross-reference sheets, this file provides valuable archival pointers for researchers investigating Japanese governance and military leadership following the conclusion of the Tripartite Pact in September 1940. It highlights how U.S. diplomats and military intelligence tracked both the Showa Emperor's personal stance toward the Axis alliance and personnel changes among commissioned officers in the Imperial Japanese Army in the months leading up to the Pacific War.",
+ "keywords": [
+  "Japan",
+  "Japanese Army",
+  "commissioned officers",
+  "Tripartite Pact",
+  "Axis alliance",
+  "Emperor Hirohito",
+  "Joseph C. Grew",
+  "Military Attaché",
+  "military appointments",
+  "cross-reference sheet"
+ ],
+ "overview": "This file consists of two U.S. Department of State cross-reference sheets filed under decimal classification 894.221 (Japan: Commissioned Officers) spanning October 1940 to January 1941. The first document, dated October 7, 1940, references a telegram from Ambassador Joseph C. Grew in Tokyo concerning the position of the Japanese Emperor regarding the German-Italian-Japanese alliance (originally filed under 762.9411/103). The second sheet, dated January 28, 1941, references an intelligence report from the U.S. Military Attaché in Japan containing biographical outlines and appointments of Japanese Army commissioned officers (originally filed under 894.00/1029). Together, these records reflect U.S. monitoring of imperial diplomacy and military personnel reorganization during the escalation toward World War II.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italian"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U. S.",
+    "U.S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet indexing a telegram from Ambassador Grew reporting on the Emperor's position concerning the Tripartite Pact.",
+   "date": "1940-10-07",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Joseph C. Grew",
+    "Emperor Hirohito",
+    "Tripartite Pact",
+    "German-Italian-Japanese alliance",
+    "Japan",
+    "cross-reference sheet"
+   ],
+   "start_page": 1,
+   "summary": "This cross-reference sheet records Telegram No. 954 sent at 10:00 p.m. on October 7, 1940, from Ambassador Joseph C. Grew in Japan. The underlying dispatch reported on the position of the Emperor regarding the German-Italian-Japanese alliance. The original communication is indexed under decimal file 762.9411/103.",
+   "title": "Cross-reference sheet for Telegram 954 from Grew on Emperor's position on Tripartite alliance",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference sheet indexing a military attaché report containing biographies of newly appointed Japanese Army commissioned officers.",
+   "date": "1941-01-28",
+   "doc_type": "cross-reference sheet",
+   "end_page": 2,
+   "from": "U.S. Military Attaché, Japan",
+   "keywords": [
+    "Japanese Army",
+    "commissioned officers",
+    "Military Attaché",
+    "Japan",
+    "military appointments",
+    "biographies",
+    "cross-reference sheet"
+   ],
+   "start_page": 2,
+   "summary": "This cross-reference sheet indexes Report No. 10299 dated January 28, 1941, submitted by the U.S. Military Attaché in Japan. The referenced report provided a one-page outline of biographies and appointment lists for Japanese Army commissioned officers and officials. The primary document was filed in decimal classification 894.00/1029.",
+   "title": "Cross-reference sheet for Report 10299 from Military Attaché on Japanese Army commissioned officers",
+   "to": "War Department / Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13880,
+   "output_tokens": 3581,
+   "thinking_tokens": 2586,
+   "cache_read_tokens": 0,
+   "total_tokens": 17461
+  },
+  "backend": "agy",
+  "seconds": 13.7,
+  "identifier": "japan-internal-affairs-894.221-personnel-organization-discipline-1",
+  "file": "894.221 Personnel. Organization. Discipline. Mutiny. Compulsory Military Service., Japan, Commissioned Officers., October 7, 1940 - January 28, 1941 1243.pdf",
+  "created": "2026-09-29 03:21:28"
+ }
+}

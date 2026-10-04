@@ -1,0 +1,69 @@
+{
+ "interest": "Embassy tracking of Japanese protocol books.",
+ "keywords": [
+  "Ceremonials",
+  "Etiquette",
+  "Protocols",
+  "Japan",
+  "Department of State",
+  "List of Papers",
+  "Joseph C. Grew",
+  "Despatch",
+  "U.S. Embassy Tokyo",
+  "Diplomatic correspondence"
+ ],
+ "overview": "Docket for 894.451: Grew's 1934 despatch on Japanese ceremonial publications.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State List of Papers sheet cataloguing diplomatic correspondence regarding ceremonials and protocol in Japan.",
+   "date": "1945-10-10",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "Ceremonials",
+    "Etiquette",
+    "Japan",
+    "List of Papers",
+    "Joseph C. Grew",
+    "Protocols"
+   ],
+   "start_page": 1,
+   "summary": "Docket: Grew's despatch on Japanese ceremonial literature, 1934.",
+   "title": "Department of State List of Papers: Ceremonials — Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13644,
+   "output_tokens": 4844,
+   "thinking_tokens": 4248,
+   "cache_read_tokens": 0,
+   "total_tokens": 18488
+  },
+  "backend": "agy",
+  "seconds": 20.0,
+  "identifier": "japan-internal-affairs-894.451-etiquette-japan-ceremonials-2",
+  "file": "894.451 Etiquette., Japan, Ceremonials.,  580.pdf",
+  "created": "2026-09-29 07:25:48"
+ }
+}

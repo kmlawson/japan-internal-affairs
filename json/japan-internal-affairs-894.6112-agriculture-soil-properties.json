@@ -1,0 +1,120 @@
+{
+ "interest": "This file provides valuable historical insight into early Allied Occupation (SCAP) agricultural policy in Japan and the acute food supply crisis confronting the nation after World War II following the loss of empire imports and wartime land conversion. It offers rare, detailed data on how Japan historically financed and subsidized irrigation, drainage, and land reclamation from 1899 through wartime legislation (1941) to the postwar period, including comparisons between pre-1941, official, and black-market rice prices during hyperinflation. Additionally, it highlights direct technical and administrative coordination between U.S. domestic agencies—specifically Michael W. Straus's Bureau of Reclamation—and SCAP's Natural Resources Section regarding public works financing, cost allocation, and agrarian settlement policies.",
+ "keywords": [
+  "Land reclamation",
+  "Japan",
+  "Irrigation",
+  "Agricultural Land Development Law",
+  "Rice cultivation",
+  "Postwar reconstruction",
+  "Natural Resources Section",
+  "Supreme Commander for the Allied Powers",
+  "Bureau of Reclamation",
+  "Public subsidies",
+  "Agricultural financing",
+  "Food shortage"
+ ],
+ "overview": "This file comprises Despatch No. 906 dated March 11, 1947, from the United States Political Adviser for Japan in Tokyo to the Department of State, transmitting an enclosed memorandum dated March 3, 1947, by Lyndsey A. Brown, Scientific Consultant in the Agricultural Division of SCAP's Natural Resources Section. Prepared in response to an inquiry from Michael W. Straus, Commissioner of the U.S. Bureau of Reclamation, the report details the history, statutory framework, and financing mechanisms of agricultural land reclamation and irrigation construction in Japan. It traces public subsidies from the late 19th century through the 1941 Agricultural Land Development Law, assesses the urgent postwar challenge of expanding arable land and food production following the loss of colonial food imports and population growth, and outlines the Japanese government's ambitious ten-year program to settle farmers, reclaim uncultivated land, and improve irrigation and drainage infrastructure.",
+ "people": [
+  {
+   "name": "Michael W. Straus",
+   "role": "Commissioner, Bureau of Reclamation, United States Department of the Interior",
+   "variants": [
+    "Michael W. Straus",
+    "Mr. Michael W. Straus"
+   ]
+  },
+  {
+   "name": "Lyndsey A. Brown",
+   "role": "Scientific Consultant, Agricultural Division, Natural Resources Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "variants": [
+    "LYNDSEY A. BROWN",
+    "Lyndsey A. Brown"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmittal of a SCAP Natural Resources Section memorandum regarding land reclamation and reclamation financing in Japan.",
+   "date": "1947-03-11",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "United States Political Adviser for Japan",
+   "keywords": [
+    "Land reclamation",
+    "United States Political Adviser for Japan",
+    "Department of State",
+    "Bureau of Reclamation",
+    "Natural Resources Section",
+    "Tokyo"
+   ],
+   "start_page": 1,
+   "summary": "Despatch No. 906 from the United States Political Adviser for Japan in Tokyo transmits to the Department of State an enclosed memorandum concerning land reclamation in Japan. The memorandum was prepared by the Agricultural Division of the Natural Resources Section, GHQ, SCAP, at the request of the Mission following an inquiry from the Commissioner of the U.S. Bureau of Reclamation. The transmittal notes that the original request reached Tokyo without covering instructions from the State Department.",
+   "title": "Despatch No. 906: Land Reclamation in Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "A detailed report on the history, legislation, financing mechanisms, and postwar plans for agricultural land reclamation and irrigation development in Japan.",
+   "date": "1947-03-03",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "Lyndsey A. Brown",
+   "keywords": [
+    "Land reclamation",
+    "Irrigation",
+    "Rice cultivation",
+    "Agricultural Land Development Law",
+    "Subsidies",
+    "Food production",
+    "Settlers",
+    "Natural Resources Section",
+    "Ministry of Agriculture and Forestry"
+   ],
+   "start_page": 2,
+   "summary": "Prepared by Lyndsey A. Brown of SCAP's Natural Resources Section in response to queries from U.S. Bureau of Reclamation Commissioner Michael W. Straus, this memorandum outlines the history and methods of financing land reclamation and irrigation construction in Japan. It examines government subsidy programs from 1899 to the 1941 Agricultural Land Development Law and highlights the acute postwar food crisis resulting from population growth, military land diversion, and the loss of colonial food imports. It sets forth an ambitious multi-year program aiming to reclaim and improve millions of acres by 1960 through land purchases, settler loans, subsidies, and government-funded infrastructure. The memorandum also directly answers specific questions regarding cost distribution for major dams, reservoirs, and canals, as well as amortization and interest terms on public loans.",
+   "title": "Memorandum on Land Reclamation: Financing Reclamation Construction Work in Japan",
+   "to": "United States Political Adviser for Japan"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 15898,
+   "output_tokens": 5335,
+   "thinking_tokens": 4126,
+   "cache_read_tokens": 0,
+   "total_tokens": 21233
+  },
+  "backend": "agy",
+  "seconds": 20.5,
+  "identifier": "japan-internal-affairs-894.6112-agriculture-soil-properties",
+  "file": "894.6112 Agriculture., Soil. Properties. Tillage., Japan, Reclamation., March 11, 1947 1564.pdf",
+  "created": "2026-09-29 10:39:52"
+ }
+}

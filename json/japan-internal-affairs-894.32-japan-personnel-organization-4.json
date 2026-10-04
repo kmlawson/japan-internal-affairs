@@ -1,0 +1,78 @@
+{
+ "interest": "For a historian, this record illustrates how the U.S. State Department tracked Japanese military accountability and internal disciplinary actions in the immediate wake of the December 1937 USS Panay incident. It sheds light on the diplomatic interpretation of Japanese naval honor and command responsibility, highlighting that the recall of Admiral Mitsunami was viewed as a profound disgrace denoting incompetence to lead in battle. Furthermore, it exemplifies the State Department's record-keeping and cross-referencing mechanisms between internal Japanese military personnel files (894.32) and major diplomatic incident files (394.115 PANAY).",
+ "keywords": [
+  "Japanese Navy",
+  "Panay incident",
+  "naval discipline",
+  "military personnel",
+  "Admiral Mitsunami",
+  "Joseph C. Grew",
+  "court-martial",
+  "command responsibility",
+  "Department of State",
+  "cross-reference"
+ ],
+ "overview": "This file consists of a single Department of State 'List of Papers' sheet (Form DS-46) under decimal file 894.32 (Personnel — Japanese Navy), cross-referencing telegram No. 679 of December 24, 1937, from Ambassador Joseph C. Grew in Tokyo. The record outlines disciplinary measures taken by the Japanese government in the aftermath of the USS Panay incident, focusing on the recall of Rear Admiral Teizo Mitsunami as the officer responsible, which was characterized as an extremely severe punishment signifying disgrace and unfitness for battlefield command. It also notes that a list of eleven naval officers disciplined under Japanese law was presented to Ambassador Grew, with the complete correspondence filed under decimal 394.115 PANAY /196.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Mr Grew"
+   ]
+  },
+  {
+   "name": "Teizo Mitsunami",
+   "role": "Japanese naval officer / Admiral responsible for the Panay incident",
+   "variants": [
+    "Admiral Mitsunami",
+    "Mitsunami"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department List of Papers sheet summarizing a telegram from Ambassador Grew concerning Japanese naval discipline following the Panay incident.",
+   "date": "1937-12-24",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Panay incident",
+    "Japanese Navy",
+    "Admiral Mitsunami",
+    "naval discipline",
+    "Joseph C. Grew",
+    "punishment"
+   ],
+   "start_page": 1,
+   "summary": "This document is a Department of State List of Papers sheet (Form DS-46) filed under classification 894.32, indexing telegram No. 679 sent from Japan by Ambassador Joseph C. Grew on December 24, 1937. It records that the recall of Admiral Mitsunami for the USS Panay incident was regarded as an extremely severe punishment carrying severe disgrace and disqualification from battlefield command. It also records that the Japanese Minister provided Grew with a list of eleven naval officers subjected to legal measures, directing researchers to decimal file 394.115 PANAY /196 for the full report.",
+   "title": "List of Papers: Discipline in connection with Panay incident",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13762,
+   "output_tokens": 3881,
+   "thinking_tokens": 3100,
+   "cache_read_tokens": 0,
+   "total_tokens": 17643
+  },
+  "backend": "agy",
+  "seconds": 16.1,
+  "identifier": "japan-internal-affairs-894.32-japan-personnel-organization-4",
+  "file": "894.32 Japan, Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services.,  536.pdf",
+  "created": "2026-09-29 04:03:05"
+ }
+}

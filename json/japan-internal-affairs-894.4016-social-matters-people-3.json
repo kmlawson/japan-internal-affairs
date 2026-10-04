@@ -1,0 +1,179 @@
+{
+ "interest": "Japan's non-discriminatory treatment of Jewish refugees, 1941.",
+ "keywords": [
+  "Jewish refugees",
+  "Japan",
+  "racial policy",
+  "non-discrimination",
+  "transit visas",
+  "Kobe",
+  "Manchukuo",
+  "sugar beet industry",
+  "Lew Zikman",
+  "Joseph C. Grew",
+  "Nazi Germany",
+  "Axis alliance",
+  "immigration laws"
+ ],
+ "overview": "Docket for 894.4016 (1941) on Japan and Jewish refugees, including Matsuoka's talk with Lew Zikman.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew",
+    "Japan (Grew)"
+   ]
+  },
+  {
+   "name": "Lew Zikman",
+   "role": "Polish national and Jewish sugar beet industrialist of Manchukuo",
+   "variants": [
+    "Law Zikman"
+   ]
+  },
+  {
+   "name": "Yōsuke Matsuoka",
+   "role": "Minister for Foreign Affairs of Japan",
+   "variants": [
+    "Minister for Foreign Affairs of Japan"
+   ]
+  },
+  {
+   "name": "Sokokin",
+   "role": "Reporting consular official at the American Consulate in Kobe",
+   "variants": [
+    "Sokokin"
+   ]
+  },
+  {
+   "name": "F. Kleiman",
+   "role": "Correspondent from New York, N.Y.",
+   "variants": [
+    "Kleiman, F."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Lobe"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York, N.Y.",
+    "New York"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Polish"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Transmits an English translation of a conversation between Japan's Minister for Foreign Affairs and Lew Zikman, a Polish Jewish sugar beet industrialist in Manchukuo.",
+   "date": "1941-01-08",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "Joseph C. Grew",
+    "Tokyo",
+    "Lew Zikman",
+    "Minister for Foreign Affairs",
+    "Manchukuo",
+    "sugar beet",
+    "Jewish refugees",
+    "Poland"
+   ],
+   "start_page": 1,
+   "summary": "Grew forwards a record of the Foreign Minister's talk with Lew Zikman, a Jewish sugar industrialist in Manchukuo.",
+   "title": "Despatch No. 5265 from Ambassador Joseph C. Grew on Conversation Between Foreign Minister and Lew Zikman",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Reports on Japanese official attitudes toward Jewish refugees, restrictions on transit visas issued in Europe, and the absence of discrimination.",
+   "date": "1941-05-22",
+   "doc_type": "report",
+   "end_page": 1,
+   "from": "American Consulate, Kobe (Sokokin)",
+   "keywords": [
+    "Kobe",
+    "Jewish refugees",
+    "transit visas",
+    "Germany",
+    "non-discrimination",
+    "consulate",
+    "Axis relations"
+   ],
+   "start_page": 1,
+   "summary": "Kobe report: Japan halted transit visas for refugees but showed no anti-Jewish discrimination.",
+   "title": "Voluntary Report from Kobe Consulate on Japanese Attitude Toward Jewish Refugee Problem",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Transmits information concerning Japanese immigration law and encloses a newspaper clipping reporting on non-discrimination against Jews in Japan.",
+   "date": "1941-03-02",
+   "doc_type": "letter",
+   "end_page": 1,
+   "from": "F. Kleiman",
+   "keywords": [
+    "F. Kleiman",
+    "New York",
+    "immigration law",
+    "non-discrimination",
+    "Jewish refugees",
+    "press clipping"
+   ],
+   "start_page": 1,
+   "summary": "F. Kleiman sends information on Japanese immigration law and non-discrimination against Jews.",
+   "title": "Letter from F. Kleiman Transmitting Information and Clipping on Non-Discrimination Against Jews in Japan",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13877,
+   "output_tokens": 27754,
+   "thinking_tokens": 26264,
+   "cache_read_tokens": 0,
+   "total_tokens": 41631
+  },
+  "backend": "agy",
+  "seconds": 88.0,
+  "identifier": "japan-internal-affairs-894.4016-social-matters-people-3",
+  "file": "894.4016 Social Matters., People., Japan, Race Problems. Racial Disturbances, Their Suppression. Massacres. Pogroms.,  188.pdf",
+  "created": "2026-09-29 05:09:56"
+ }
+}

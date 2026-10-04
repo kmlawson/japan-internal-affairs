@@ -1,0 +1,140 @@
+{
+ "interest": "U.S. intelligence on Japanese liberal Kunio Kishida via a Russian pianist.",
+ "keywords": [
+  "Kokushi Kishida",
+  "Anatole Kolpakoff",
+  "Rinzo Ando",
+  "Military Intelligence Division",
+  "G-2 Report",
+  "Office of War Information",
+  "short-wave broadcasts",
+  "Harbin",
+  "Tokyo",
+  "French literature",
+  "intelligence report",
+  "liberalism"
+ ],
+ "overview": "G-2 report of December 1942 on Japanese scholar Kokushi (Kunio) Kishida, from pianist Anatole Kolpakoff.",
+ "people": [
+  {
+   "name": "Kokushi Kishida",
+   "role": "Japanese liberal, French scholar, translator, and cultural figure",
+   "variants": [
+    "Kokushi Kishida",
+    "Kishida",
+    "Kokushi Mishida"
+   ]
+  },
+  {
+   "name": "Anatole Kolpakoff",
+   "role": "Concert pianist; first-string radio announcer for OWI short-wave broadcasts to Japan",
+   "variants": [
+    "Anatole Kolpakoff",
+    "Kolpakoff"
+   ]
+  },
+  {
+   "name": "Rinzo Ando",
+   "role": "Lieutenant General",
+   "variants": [
+    "Lt. Gen. Ando Rinzo",
+    "General"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan"
+   ]
+  },
+  {
+   "name": "Saint Petersburg",
+   "variants": [
+    "Petrograd"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "US"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A War Department G-2 intelligence report profiling Japanese liberal intellectual and French specialist Kokushi Kishida based on testimony from OWI broadcaster Anatole Kolpakoff.",
+   "date": "1942-12-11",
+   "doc_type": "report",
+   "end_page": 2,
+   "from": "Military Intelligence Division, War Department General Staff",
+   "keywords": [
+    "Kokushi Kishida",
+    "Anatole Kolpakoff",
+    "Rinzo Ando",
+    "Military Intelligence Division",
+    "G-2",
+    "Office of War Information",
+    "propaganda",
+    "France"
+   ],
+   "start_page": 1,
+   "summary": "G-2 report: Anatole Kolpakoff describes Kokushi Kishida as a respected liberal French scholar; a photo of both is attached.",
+   "title": "G-2 Report No. 1669: Kokushi Kishida",
+   "to": "Department of State, Division of Far Eastern Affairs"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14194,
+   "output_tokens": 10699,
+   "thinking_tokens": 9697,
+   "cache_read_tokens": 0,
+   "total_tokens": 24893
+  },
+  "backend": "agy",
+  "seconds": 37.3,
+  "identifier": "japan-internal-affairs-894.20251-military-affairs-army-2",
+  "file": "894.20251 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In France Including Gathering Of Information. Espionage. Propaganda.,  141.pdf",
+  "created": "2026-09-29 02:20:49"
+ }
+}

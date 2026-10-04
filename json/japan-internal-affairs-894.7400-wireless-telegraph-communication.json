@@ -1,0 +1,665 @@
+{
+ "overview": "This file documents the Supreme Commander for the Allied Powers’ regulation and expansion of occupied Japan’s international telecommunications between November 1947 and March 1948. Its despatches, SCAP directives, explanatory memorandum, and detailed rate enclosure address payment rules for radiotelegraph traffic with Europe, monthly accounting for American carriers, the extension of overseas radiotelephone service through the United States, divisions of revenue among carriers, and the technical authorization of a Japanese radiotelegraph newscast service. Together they show how telecommunications policy was being used both to reintegrate Japan into international communications and to protect its scarce foreign-exchange position.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York, N. Y."
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska",
+    "ALASKA"
+   ]
+  },
+  {
+   "name": "The Bahamas",
+   "variants": [
+    "Bahamas",
+    "BAHAMAS"
+   ]
+  },
+  {
+   "name": "New Providence",
+   "variants": [
+    "New Providence"
+   ]
+  },
+  {
+   "name": "Paradise Island",
+   "variants": [
+    "Hog Island",
+    "Hog"
+   ]
+  },
+  {
+   "name": "Bermuda",
+   "variants": [
+    "Bermuda"
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica"
+   ]
+  },
+  {
+   "name": "Guatemala",
+   "variants": [
+    "Guatemala"
+   ]
+  },
+  {
+   "name": "Honduras",
+   "variants": [
+    "Honduras"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nicaragua"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "Salvador"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Denmark"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "variants": [
+    "Ecuador"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Annette Island, Alaska",
+   "variants": [
+    "Annette"
+   ]
+  },
+  {
+   "name": "Douglas, Alaska",
+   "variants": [
+    "Douglas"
+   ]
+  },
+  {
+   "name": "Edna Bay, Alaska",
+   "variants": [
+    "Edna Bay"
+   ]
+  },
+  {
+   "name": "Gustavus, Alaska",
+   "variants": [
+    "Gustavus"
+   ]
+  },
+  {
+   "name": "Haines, Alaska",
+   "variants": [
+    "Haines"
+   ]
+  },
+  {
+   "name": "Hawk Inlet, Alaska",
+   "variants": [
+    "Hawk Inlet"
+   ]
+  },
+  {
+   "name": "Juneau, Alaska",
+   "variants": [
+    "Juneau"
+   ]
+  },
+  {
+   "name": "Ketchikan, Alaska",
+   "variants": [
+    "Ketchikan"
+   ]
+  },
+  {
+   "name": "Metlakatla, Alaska",
+   "variants": [
+    "Metlakahtla"
+   ]
+  },
+  {
+   "name": "Sitka, Alaska",
+   "variants": [
+    "Sitka"
+   ]
+  },
+  {
+   "name": "Skagway, Alaska",
+   "variants": [
+    "Skagway"
+   ]
+  },
+  {
+   "name": "Thane, Alaska",
+   "variants": [
+    "Thane"
+   ]
+  },
+  {
+   "name": "View Cove, Alaska",
+   "variants": [
+    "View Cove"
+   ]
+  },
+  {
+   "name": "Anchorage, Alaska",
+   "variants": [
+    "Anchorage"
+   ]
+  },
+  {
+   "name": "Big Delta, Alaska",
+   "variants": [
+    "Big Delta"
+   ]
+  },
+  {
+   "name": "Cathedral Bluffs, Alaska",
+   "variants": [
+    "Cathedral Bluffs"
+   ]
+  },
+  {
+   "name": "Joint Base Elmendorf–Richardson, Alaska (Elmendorf component)",
+   "variants": [
+    "Elmendorf Field"
+   ]
+  },
+  {
+   "name": "Fairbanks, Alaska",
+   "variants": [
+    "Fairbanks"
+   ]
+  },
+  {
+   "name": "Joint Base Elmendorf–Richardson, Alaska (Fort Richardson component)",
+   "variants": [
+    "Fort Richardson"
+   ]
+  },
+  {
+   "name": "Kodiak, Alaska",
+   "variants": [
+    "Kodiak"
+   ]
+  },
+  {
+   "name": "Northway, Alaska",
+   "variants": [
+    "Northway"
+   ]
+  },
+  {
+   "name": "Pederson Point, Alaska",
+   "variants": [
+    "Pederson Point"
+   ]
+  },
+  {
+   "name": "Scotty Creek Lodge, Alaska",
+   "variants": [
+    "Scotty Creek Lodge"
+   ]
+  },
+  {
+   "name": "Seward, Alaska",
+   "variants": [
+    "Seward"
+   ]
+  },
+  {
+   "name": "Whittier, Alaska",
+   "variants": [
+    "Whittier"
+   ]
+  },
+  {
+   "name": "Adak, Alaska",
+   "variants": [
+    "Adak"
+   ]
+  },
+  {
+   "name": "Nome, Alaska",
+   "variants": [
+    "Nome"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia"
+   ]
+  },
+  {
+   "name": "South China Sea",
+   "variants": [
+    "South China Sea"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, Adjutant General's Department; Adjutant General",
+   "variants": [
+    "R. A. LEVY",
+    "R. M. LEVY",
+    "B. M. LEVY"
+   ]
+  },
+  {
+   "name": "M. F. Noyes",
+   "role": "Lieutenant Colonel, Adjutant General's Department; Assistant Adjutant General",
+   "variants": [
+    "M. F. NOYES"
+   ]
+  },
+  {
+   "name": "A. J. Rehe",
+   "role": "",
+   "variants": [
+    "AJ Rehe",
+    "aJRehe",
+    "a J Rehe"
+   ]
+  },
+  {
+   "name": "R. H. Bushner",
+   "role": "",
+   "variants": [
+    "RHBushner"
+   ]
+  },
+  {
+   "name": "R. B. Finn",
+   "role": "",
+   "variants": [
+    "RBFinn"
+   ]
+  },
+  {
+   "name": "J. D. Edwards",
+   "role": "",
+   "variants": [
+    "JDEdwards"
+   ]
+  },
+  {
+   "name": "Harim",
+   "role": "",
+   "variants": [
+    "HARRIM",
+    "Harira",
+    "Harim"
+   ]
+  }
+ ],
+ "keywords": [
+  "Occupation of Japan",
+  "SCAP directives",
+  "international telecommunications",
+  "radiotelegraphy",
+  "radiotelephony",
+  "press messages",
+  "government messages",
+  "foreign exchange",
+  "telecommunications accounting",
+  "revenue sharing",
+  "American carriers",
+  "overseas telephone rates",
+  "Japanese Ministry of Communications",
+  "newscast service",
+  "radio frequencies"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch No. 1420 on payment for messages over European circuits",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "date": "1947-11-26",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards SCAPIN 1823 establishing prepaid and collect-payment rules for press and governmental messages between Japan and Sweden, Switzerland, and Russia.",
+   "summary": "The Acting Political Adviser reports that incoming press and government messages over the three direct circuits must be prepaid, while messages sent from Japan must go collect. The arrangement was intended to create foreign-exchange credits for Japan rather than collect charges in yen. The despatch also notes that the Soviet member of the Allied Council for Japan and diplomatic missions in Japan had been asked to inform their governments.",
+   "keywords": [
+    "SCAPIN 1823",
+    "press messages",
+    "government messages",
+    "direct circuits",
+    "foreign exchange",
+    "Sweden",
+    "Switzerland",
+    "Russia"
+   ]
+  },
+  {
+   "title": "SCAPIN 1823 on payment for Japan–Europe messages",
+   "doc_type": "directive",
+   "start_page": 3,
+   "end_page": 3,
+   "date": "1947-11-19",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government, through the Central Liaison Office, Tokyo",
+   "about": "The directive orders the Japanese Ministry of Communications to apply new payment rules to press and government traffic on direct circuits with Sweden, Switzerland, and Russia.",
+   "summary": "Effective December 1, 1947, messages sent from Japan were to be forwarded collect, while messages received in Japan had to be prepaid. The Ministry of Communications was prohibited from accepting traffic that failed to conform. Direct technical communication between SCAP’s Civil Communications Section and the ministry was authorized.",
+   "keywords": [
+    "SCAPIN 1823",
+    "Ministry of Communications",
+    "radiotelegraph circuits",
+    "collect messages",
+    "prepaid messages",
+    "Japan-Europe communications"
+   ]
+  },
+  {
+   "title": "Explanatory memorandum on SCAPIN 1823",
+   "doc_type": "memorandum",
+   "start_page": 4,
+   "end_page": 4,
+   "date": "1947-11-19",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Recipients of SCAPIN 1823 other than the Japanese Government",
+   "about": "The memorandum explains the history and foreign-exchange rationale behind the new payment arrangements for three European radiotelegraph circuits.",
+   "summary": "The memorandum states that Japan’s circuits with Sweden and Switzerland had operated throughout the war and that the Russian circuit had been interrupted only briefly. Existing arrangements caused charges to be paid in yen and were therefore unfavorable to Japan’s economy and foreign-exchange position. Reversing the payment direction would allow Japan to accrue its share of charges in foreign currencies, as was already done on other circuits.",
+   "keywords": [
+    "foreign exchange",
+    "wartime communications",
+    "radiotelegraph circuits",
+    "Japanese yen",
+    "SCAPIN 2",
+    "SCAPIN 1823",
+    "economic policy"
+   ]
+  },
+  {
+   "title": "Despatch No. 94 on monthly accounting for American carriers",
+   "doc_type": "despatch",
+   "start_page": 5,
+   "end_page": 5,
+   "date": "1948-02-12",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards SCAPIN 1228/7 revising the accounting and deposit schedule for telecommunications involving American carriers.",
+   "summary": "The enclosed directive required the Ministry of Communications to provide accounts for operations between Japan and the United States and between Japan and Manila. It changed deposits and statements from a semimonthly to a monthly basis. Five copies of the directive were forwarded to the Department of State.",
+   "keywords": [
+    "SCAPIN 1228/7",
+    "American carriers",
+    "telecommunications accounts",
+    "monthly deposits",
+    "United States",
+    "Manila"
+   ]
+  },
+  {
+   "title": "SCAPIN 1228/7 revising telecommunications accounting",
+   "doc_type": "directive",
+   "start_page": 6,
+   "end_page": 7,
+   "date": "1948-01-27",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government, through the Central Liaison Office, Tokyo",
+   "about": "The directive changes telecommunications statements and deposits for traffic with the United States and Manila from semimonthly to monthly submission.",
+   "summary": "Beginning February 1, 1948, the Ministry of Communications was to account monthly for telecommunications with the United States and Manila. Within thirty days of each month’s close it had to submit five preliminary statements, the related deposits, and final traffic-accounting statements. It also had to report collections and retained change funds in Military Payment Certificates and Foreign Trade Payment Certificates within five days.",
+   "keywords": [
+    "SCAPIN 1228/7",
+    "monthly accounting",
+    "Ministry of Communications",
+    "Military Payment Certificates",
+    "Foreign Trade Payment Certificates",
+    "Tokyo-Manila circuit",
+    "deposits"
+   ]
+  },
+  {
+   "title": "Despatch No. 163 on overseas radiotelephone service",
+   "doc_type": "despatch",
+   "start_page": 8,
+   "end_page": 8,
+   "date": "1948-03-15",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards SCAPIN 1830/2 authorizing additional radiotelephone calls between Japan and foreign countries through the United States.",
+   "summary": "The Acting Political Adviser refers to an earlier February despatch concerning expansion of Japan’s overseas radiotelephone service. The new directive authorized service, effective March 1, 1948, between Japan and a wider list of countries and territories via the United States. The authorization was subject to specified operational, accounting, and revenue-sharing conditions.",
+   "keywords": [
+    "SCAPIN 1830/2",
+    "overseas radiotelephone service",
+    "international calls",
+    "United States routing",
+    "Japan",
+    "service expansion"
+   ]
+  },
+  {
+   "title": "SCAPIN 1830/2 authorizing expanded radiotelephone service",
+   "doc_type": "directive",
+   "start_page": 9,
+   "end_page": 9,
+   "date": "1948-03-01",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "The directive authorizes radiotelephone service between Japan and listed foreign points via the United States and establishes operational and accounting conditions.",
+   "summary": "The directive extended existing rules for calls involving Canada, Cuba, and Mexico to the additional places listed in its rate enclosure. It also authorized collect calls from Japan to Hawaii beginning March 15, 1948. Incoming operating practices were to be directed by the Commanding General, Eighth Army, while SCAP communications and accounting sections could deal directly with the Ministry of Communications.",
+   "keywords": [
+    "SCAPIN 1830/2",
+    "radiotelephone calls",
+    "Hawaii",
+    "Eighth Army",
+    "Ministry of Communications",
+    "operating procedures",
+    "revenue division"
+   ]
+  },
+  {
+   "title": "Rates and division of revenue for radiotelephone service",
+   "doc_type": "rate schedule enclosure",
+   "start_page": 10,
+   "end_page": 12,
+   "date": "1948-03-01",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government, as an enclosure to SCAPIN 1830/2",
+   "about": "The enclosure supplies weekday and Sunday telephone rates and divides revenue among Japan, AT&T, and other carriers for service routed through the United States.",
+   "summary": "Separate schedules cover Japanese Zone A—Honshu and Shikoku—and Zone B—Hokkaido and Kyushu—for calls with Alaska, the Bahamas, Bermuda, Central America, several European countries, Ecuador, and Panama. Initial calls generally cost either $15 on weekdays or $12 on Sundays, with the shares assigned to Japan, AT&T, and the foreign carrier varying by destination and zone. Additional provisions establish overtime and report charges, identify three Alaska rate areas through a detailed list of communities, and specify extension-haul deductions within the Bahamas.",
+   "keywords": [
+    "international telephone rates",
+    "revenue sharing",
+    "AT&T",
+    "Japan Zone A",
+    "Japan Zone B",
+    "Alaska rate areas",
+    "Bahamas",
+    "weekday rates",
+    "Sunday rates",
+    "extension hauls"
+   ]
+  },
+  {
+   "title": "Despatch No. 200 on radiotelegraph newscasts",
+   "doc_type": "despatch",
+   "start_page": 13,
+   "end_page": 13,
+   "date": "1948-03-29",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The despatch forwards SCAPIN 1215/1 revising the technical authorization for radiotelegraph newscasts from Japan.",
+   "summary": "The despatch encloses the March 6 directive replacing paragraph 1b of the original September 18, 1946 authorization. The mission proposes that, unless the Department objects, similarly self-explanatory directives should henceforth be sent without covering despatches. This administrative observation also documents an effort to streamline reporting between Tokyo and Washington.",
+   "keywords": [
+    "SCAPIN 1215/1",
+    "radiotelegraph newscasts",
+    "technical authorization",
+    "covering despatches",
+    "reporting procedure"
+   ]
+  },
+  {
+   "title": "SCAPIN 1215/1 authorizing radiotelegraph newscast frequencies",
+   "doc_type": "directive",
+   "start_page": 14,
+   "end_page": 14,
+   "date": "1948-03-06",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "The directive replaces an earlier technical provision with new frequencies, power limits, emission type, and coverage areas for Japanese radiotelegraph newscasts.",
+   "summary": "The directive authorizes transmission on 8,175, 12,275, and 15,945 kilocycles, with a maximum output of ten kilowatts on each frequency. It specifies A-1 emission and beams directed toward East Asia and the South China Sea. SCAP’s Civil Communications Section and the Ministry of Communications could communicate directly about technical details.",
+   "keywords": [
+    "SCAPIN 1215/1",
+    "radiotelegraph newscast",
+    "radio frequencies",
+    "ten-kilowatt transmitters",
+    "A-1 emission",
+    "East Asia",
+    "South China Sea"
+   ]
+  }
+ ],
+ "interest": "The file captures the financial, administrative, and technical dimensions of rebuilding Japan’s international communications under the occupation. Particularly valuable are the explanation that several European radio circuits survived the war, the connection between message-payment rules and Japan’s foreign-exchange position, and the unusually detailed schedule showing how international telephone revenue was divided among Japan, AT&T, and foreign carriers. The Alaska exchange list, Japanese tariff zones, and exact newscast frequencies provide granular evidence for historians of communications infrastructure, occupation governance, and Japan’s postwar reintegration into global networks.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 181.5,
+  "identifier": "japan-internal-affairs-894.7400-wireless-telegraph-communication",
+  "file": "894.7400 Wireless Telegraph. Communication Between ** And ., November 26, 1947 - March 29, 1948 1622.pdf",
+  "created": "2026-09-29 08:12:39"
+ }
+}

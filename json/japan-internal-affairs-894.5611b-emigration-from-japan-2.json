@@ -1,0 +1,82 @@
+{
+ "interest": "This document highlights the administrative and geopolitical tensions surrounding pre-World War II Japanese migration and agricultural settlement in Davao, Mindanao, often historically dubbed 'Davaokuo.' It is particularly useful for researchers studying how the U.S. State Department coordinated with the War Department's Bureau of Insular Affairs and colonial authorities in Manila to monitor Japanese influence in the Philippines. Additionally, it illuminates archival filing conventions between State Department decimal files for Japanese emigration (894.5611B) and Philippine immigration (811B.5594).",
+ "keywords": [
+  "Japanese emigration",
+  "Philippine Islands",
+  "Davao",
+  "Mindanao",
+  "War Department",
+  "Bureau of Insular Affairs",
+  "Governor of the Philippine Islands",
+  "Japanese settlers",
+  "land settlement",
+  "colonial administration"
+ ],
+ "overview": "This file consists of a single State Department cross-reference docket sheet (decimal file 894.5611B) concerning Japanese emigration to the Philippine Islands. The sheet records an August 15 communication originating from the War Department that quotes a confidential message received by the Bureau of Insular Affairs from the Governor of the Philippine Islands. The referenced report details rising agitation and unrest in the Province of Davao on the island of Mindanao over the increasing numbers and activities of Japanese settlers. The docket notes that migration issues classified as immigration are treated under Philippine records (specifically directing researchers to file 811b.5594/orig) and notes that subsequent correspondence is indexed on cards.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Davao",
+   "variants": [
+    "Davao",
+    "Province of Davao"
+   ]
+  },
+  {
+   "name": "Mindanao",
+   "variants": [
+    "Mandanao",
+    "Island of Mandanao"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A cross-reference sheet recording an August 15 War Department notice concerning unrest in Davao, Mindanao, over expanding Japanese settlement.",
+   "date": "",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "War Department",
+   "keywords": [
+    "Davao",
+    "Mindanao",
+    "Japanese emigration",
+    "Philippine Islands",
+    "Bureau of Insular Affairs",
+    "War Department",
+    "unrest"
+   ],
+   "start_page": 1,
+   "summary": "This cross-reference sheet for decimal file 894.5611B records an August 15 communication from the War Department. It quotes a confidential dispatch transmitted to the Bureau of Insular Affairs from the Governor of the Philippine Islands reporting on agitation and unrest in the Province of Davao on the island of Mindanao resulting from the growing number and activities of Japanese settlers. The entry directs researchers to decimal file 811b.5594/orig for the primary correspondence and notes that subsequent materials are tracked via index cards.",
+   "title": "Cross-reference sheet on War Department report of unrest in Davao over Japanese activities",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13815,
+   "output_tokens": 2982,
+   "thinking_tokens": 2299,
+   "cache_read_tokens": 0,
+   "total_tokens": 16797
+  },
+  "backend": "agy",
+  "seconds": 14.6,
+  "identifier": "japan-internal-affairs-894.5611b-emigration-from-japan-2",
+  "file": "894.5611B Emigration From Japan To Philippine Islands. Wherever Correspondence Pertaining To Migration Is Capable Of Being Classified As Immigration Above It Is So Treated.,  561.pdf",
+  "created": "2026-09-29 10:26:47"
+ }
+}

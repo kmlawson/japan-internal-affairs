@@ -1,0 +1,2290 @@
+{
+ "section_summary": "This section continues a SCAP register of Japanese radio facilities, recording station locations, frequencies, call signs, power, emission classes, service types, operating restrictions, and coordinates. It includes amendments to geographical, international, Armed Forces Radio Service, frequency, and call-sign lists, followed by detailed prefecture-by-prefecture listings of emergency police fixed and portable stations. The entries cover broadcasting, police, maritime, fisheries, aeronautical, railway, international, and other radio services throughout Japan, with international circuits to Shanghai and Colombo.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "MORIOKA",
+    "Morioka-shi"
+   ]
+  },
+  {
+   "name": "Daiyonjūnichiwari",
+   "variants": [
+    "Daiyonjūnichiwari"
+   ]
+  },
+  {
+   "name": "Uedai",
+   "variants": [
+    "Uedai"
+   ]
+  },
+  {
+   "name": "Tsuruoka",
+   "variants": [
+    "TSURUOKA",
+    "Tsuruoka-shi"
+   ]
+  },
+  {
+   "name": "Takahata",
+   "variants": [
+    "Takahata"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "YAMAGATA"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "SAKATA"
+   ]
+  },
+  {
+   "name": "Sendai, Miyagi",
+   "variants": [
+    "SENDAI",
+    "SENDAI (HARAMACHI)",
+    "SENDAI (TAKASAGO)",
+    "Sendai-shi"
+   ]
+  },
+  {
+   "name": "Haramachi, Sendai",
+   "variants": [
+    "HARAMACHI",
+    "Hara-machi"
+   ]
+  },
+  {
+   "name": "Takasago, Sendai",
+   "variants": [
+    "TAKASAGO"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "ISHINOMAKI"
+   ]
+  },
+  {
+   "name": "Aizuwakamatsu",
+   "variants": [
+    "WAKAMATSU",
+    "Wakamatsu-shi"
+   ]
+  },
+  {
+   "name": "Kachino-machi",
+   "variants": [
+    "Kachino-machi"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "FUKUSHIMA",
+    "FUKUSHIMA-KEN"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "SAPPORO",
+    "SAPPORO (RETSUREPPU)",
+    "Sapporo-shi"
+   ]
+  },
+  {
+   "name": "Retsureppu",
+   "variants": [
+    "RETSUREPPU"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "ASAHIKAWA",
+    "Asahikawa-shi"
+   ]
+  },
+  {
+   "name": "Gojōdōri",
+   "variants": [
+    "Gojōdōri"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "HAKODATE",
+    "Hakodate-shi"
+   ]
+  },
+  {
+   "name": "Shiomi-chō",
+   "variants": [
+    "Shiomi-chō"
+   ]
+  },
+  {
+   "name": "Kitami",
+   "variants": [
+    "KITAMI",
+    "Kitami-shi"
+   ]
+  },
+  {
+   "name": "Takadai",
+   "variants": [
+    "Takadai"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "MURORAN",
+    "Muroran-shi",
+    "MURDRAN"
+   ]
+  },
+  {
+   "name": "Kōen-chō",
+   "variants": [
+    "Kōen-chō"
+   ]
+  },
+  {
+   "name": "Odōri",
+   "variants": [
+    "Odōri"
+   ]
+  },
+  {
+   "name": "Obihiro",
+   "variants": [
+    "OBIHIRO",
+    "Obihiro-shi",
+    "Obihiroshi"
+   ]
+  },
+  {
+   "name": "Minamihatchōme",
+   "variants": [
+    "Minamihatchōme"
+   ]
+  },
+  {
+   "name": "Nishinijō",
+   "variants": [
+    "Nishinijō"
+   ]
+  },
+  {
+   "name": "Higashiitchōme",
+   "variants": [
+    "Higashiitchōme"
+   ]
+  },
+  {
+   "name": "Gojō",
+   "variants": [
+    "Gojō"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "NEMURO",
+    "Nemuro-machi"
+   ]
+  },
+  {
+   "name": "Hon-machi",
+   "variants": [
+    "Hon-machi"
+   ]
+  },
+  {
+   "name": "Nemuro District",
+   "variants": [
+    "Nemuro-gun"
+   ]
+  },
+  {
+   "name": "Tomakomai",
+   "variants": [
+    "TOMAKOMAI",
+    "Tomakomai-shi",
+    "Tomakomaishi"
+   ]
+  },
+  {
+   "name": "Nakano, Tomakomai",
+   "variants": [
+    "Nakano"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tōkyō",
+    "TōKYō",
+    "TÖKYō",
+    "TÖKYÖ",
+    "TOKYO",
+    "TOKYΟ",
+    "TΟKYΟ",
+    "TOKYā",
+    "TOKYū",
+    "TÓKYÖ",
+    "TÓKY"
+   ]
+  },
+  {
+   "name": "Wakkanai",
+   "variants": [
+    "WAKKANAI"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "KUSHIRO",
+    "Kushiro-shi"
+   ]
+  },
+  {
+   "name": "Ōmachi, Kushiro",
+   "variants": [
+    "Omachi"
+   ]
+  },
+  {
+   "name": "Rumoi",
+   "variants": [
+    "RUMOI"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "NAGANO",
+    "NAGANO-KEN",
+    "Nagano-shi"
+   ]
+  },
+  {
+   "name": "Minaminagano",
+   "variants": [
+    "Minaminagano",
+    "Oaza Minaminagano"
+   ]
+  },
+  {
+   "name": "Usui, Chiba",
+   "variants": [
+    "USUI",
+    "Usui-machi"
+   ]
+  },
+  {
+   "name": "Imba District",
+   "variants": [
+    "Imba-gun"
+   ]
+  },
+  {
+   "name": "Mitaka",
+   "variants": [
+    "MITAKA",
+    "Mitaka-machi"
+   ]
+  },
+  {
+   "name": "Kitatama District",
+   "variants": [
+    "Kitatama-gun"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "KANAGAWA",
+    "KANAGAWA-KEN"
+   ]
+  },
+  {
+   "name": "Nihon-ōdōri",
+   "variants": [
+    "Nihon-ōdōri",
+    "Nihonōdōri"
+   ]
+  },
+  {
+   "name": "Naka Ward, Yokohama",
+   "variants": [
+    "Naka-ku"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama-shi"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "GIFU",
+    "GIFU-KEN",
+    "Gifu-shi"
+   ]
+  },
+  {
+   "name": "Tsukasa-machi",
+   "variants": [
+    "Tsukasa-machi"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "NAGOYA",
+    "Nagoya-shi"
+   ]
+  },
+  {
+   "name": "Washizuyama",
+   "variants": [
+    "Washizuyama"
+   ]
+  },
+  {
+   "name": "Ōtaka",
+   "variants": [
+    "Ötaka-machi"
+   ]
+  },
+  {
+   "name": "Chita District",
+   "variants": [
+    "Chita-gun"
+   ]
+  },
+  {
+   "name": "Fukuchiyama",
+   "variants": [
+    "FUKUCHIYAMA",
+    "Fukuchiyama-shi"
+   ]
+  },
+  {
+   "name": "Sasaoka Nyūchi",
+   "variants": [
+    "Sasaokanyüchi"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "HIMEJI",
+    "Himeji-shi",
+    "HIMEJJ"
+   ]
+  },
+  {
+   "name": "Toyosawa",
+   "variants": [
+    "Toyosawa"
+   ]
+  },
+  {
+   "name": "Sanyō Line",
+   "variants": [
+    "Sanyō-line"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "OSAKA",
+    "ÖSAKA",
+    "ÓSAKA",
+    "ÖSAKA-FU",
+    "Ösaka-shi"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "SHIMONOSEKI"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "TOTTORI",
+    "TOTTORI-KEN",
+    "Tottori-shi"
+   ]
+  },
+  {
+   "name": "Higashi-machi",
+   "variants": [
+    "Higashi-machi"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "KURE",
+    "KURE (YAKEYAMA)"
+   ]
+  },
+  {
+   "name": "Yakeyama",
+   "variants": [
+    "YAKEYAMA"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "MOJI",
+    "MOJI (NOBUYUKI)"
+   ]
+  },
+  {
+   "name": "Nobuyuki",
+   "variants": [
+    "NOBUYUKI"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "KAGAWA"
+   ]
+  },
+  {
+   "name": "Tenjin-machi",
+   "variants": [
+    "Tenjin-machi"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "TAKAMATSU",
+    "TAKAMATŚU",
+    "Takamatsu-shi"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "KAGOSHIMA",
+    "Kagoshima-shi"
+   ]
+  },
+  {
+   "name": "Yamashita-chō",
+   "variants": [
+    "Yamashita-chō"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "NAGASAKI",
+    "Nagasaki-shi"
+   ]
+  },
+  {
+   "name": "Tateyama-machi, Nagasaki",
+   "variants": [
+    "Tateyama-machi"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Colombo",
+   "variants": [
+    "Colombo"
+   ]
+  },
+  {
+   "name": "Oyama, Tokyo",
+   "variants": [
+    "OYAMA"
+   ]
+  },
+  {
+   "name": "Kawachi, Osaka",
+   "variants": [
+    "KAWACHI"
+   ]
+  },
+  {
+   "name": "Yosami",
+   "variants": [
+    "YOSAMI"
+   ]
+  },
+  {
+   "name": "Hatogaya",
+   "variants": [
+    "HATOGAYA"
+   ]
+  },
+  {
+   "name": "Satō, Kawaguchi",
+   "variants": [
+    "Sato",
+    "Satō",
+    "Öaza Satō",
+    "Oaza Sato"
+   ]
+  },
+  {
+   "name": "Kawaguchi",
+   "variants": [
+    "Kawaguchi-shi"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "SAITAMA",
+    "SAITAMA-KEN",
+    "Saitama-ken"
+   ]
+  },
+  {
+   "name": "Okehazama",
+   "variants": [
+    "OKEHAZAMA",
+    "Okehazama"
+   ]
+  },
+  {
+   "name": "Arimatsu",
+   "variants": [
+    "Arimatsu-machi"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "AICHI",
+    "AICHI-KEN",
+    "Aichi-ken"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "KOKURA",
+    "Kokura-shi"
+   ]
+  },
+  {
+   "name": "Kōshinzuka",
+   "variants": [
+    "Köshinzuka"
+   ]
+  },
+  {
+   "name": "Itabitsu",
+   "variants": [
+    "Itabitsu-chō"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "FUKUOKA",
+    "Fukuoka-ken"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "SAGA",
+    "SAGA-KEN",
+    "Saga-ken"
+   ]
+  },
+  {
+   "name": "Takagi",
+   "variants": [
+    "Takagi",
+    "Öaza Takagi"
+   ]
+  },
+  {
+   "name": "Takagise",
+   "variants": [
+    "Takagise-mura"
+   ]
+  },
+  {
+   "name": "Saga District",
+   "variants": [
+    "Saga-gun"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "KÓBE",
+    "Köbe-shi"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "variants": [
+    "SAKAI"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "KÖCHI",
+    "KOCHI",
+    "KÖCH",
+    "KCH",
+    "KCHI"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "SASEBO"
+   ]
+  },
+  {
+   "name": "Izuhara",
+   "variants": [
+    "IZUHARA"
+   ]
+  },
+  {
+   "name": "Hegurajima",
+   "variants": [
+    "HEKURAJIMA"
+   ]
+  },
+  {
+   "name": "Meshima",
+   "variants": [
+    "MESHIMA"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "SHIOGAMA"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "MATSUE",
+    "Matsue-shi"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "HIROSHIMA",
+    "HIKOSHIMA"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "MIYAZAKI"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "OITA",
+    "ÖITA"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "HAMAMATSU",
+    "Hamamatsu-shi"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "AKITA"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "NIIGATA",
+    "NIGATA",
+    "NnGATA",
+    "NIIGATA-KEN",
+    "Niigata-shi"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "KANAZAWA",
+    "Kanazawa-shi"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "SHIZUOKA",
+    "SHIZUOKA-KEN",
+    "Shizuoka-shi"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "KUMAMOTO"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "MATSUYAMA"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "TOYAMA",
+    "TOYAMA-KEN",
+    "Toyama-shi"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "KYOTO",
+    "KYÖTO",
+    "KYOTO-FU",
+    "Kyōto-shi"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "ONOMICHI"
+   ]
+  },
+  {
+   "name": "Hōfu",
+   "variants": [
+    "HOFU",
+    "HÓFU",
+    "HÕFU"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "UWAJIMA"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "HACHINOHE",
+    "HCHINOHE"
+   ]
+  },
+  {
+   "name": "Ueno",
+   "variants": [
+    "UENO"
+   ]
+  },
+  {
+   "name": "Nakatsu",
+   "variants": [
+    "NAKATSU"
+   ]
+  },
+  {
+   "name": "Nakamura, Kochi",
+   "variants": [
+    "NAKAMURA"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "MAEBASHI",
+    "Maebashi-shi"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "UTSUNOMIYA",
+    "Utsunomiya-shi"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "MITO",
+    "MITQ",
+    "Mito-shi"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "KOFU",
+    "KÖFU",
+    "Kōfu-shi"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "AOMORI"
+   ]
+  },
+  {
+   "name": "Takada",
+   "variants": [
+    "TAKADA"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "MATSUMOTO",
+    "Matsumoto-shi"
+   ]
+  },
+  {
+   "name": "Imabari",
+   "variants": [
+    "IMABARI"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "TOKUSHIMA"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "TSU",
+    "Tsu-shi"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "FUKUI",
+    "FUKUI-KEN",
+    "Fukui-shi"
+   ]
+  },
+  {
+   "name": "Shingū",
+   "variants": [
+    "SHINGU",
+    "SHINGÜ",
+    "Shingū-shi"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "WAKAYAMA",
+    "WAKAYAMA-KEN",
+    "Wakayama-shi"
+   ]
+  },
+  {
+   "name": "Yamada",
+   "variants": [
+    "YAMADA"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "YONAGO",
+    "Yonago-shi"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "OKAYAMA",
+    "OKAYAMA-KEN",
+    "Okayama-shi"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "YAMAGUCHI"
+   ]
+  },
+  {
+   "name": "Misaki",
+   "variants": [
+    "MISAKI"
+   ]
+  },
+  {
+   "name": "Yaizu",
+   "variants": [
+    "YAIZU"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "TOBATA"
+   ]
+  },
+  {
+   "name": "Norikura",
+   "variants": [
+    "NORIKURA"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "MAIZURU"
+   ]
+  },
+  {
+   "name": "Uraga",
+   "variants": [
+    "URAGA"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "TSURUGA"
+   ]
+  },
+  {
+   "name": "Tateishi",
+   "variants": [
+    "TATEISHI"
+   ]
+  },
+  {
+   "name": "Shimizugoe",
+   "variants": [
+    "SHIMIZUGOE"
+   ]
+  },
+  {
+   "name": "Kushimoto",
+   "variants": [
+    "KUSHIMOTO"
+   ]
+  },
+  {
+   "name": "Tamano",
+   "variants": [
+    "TAMANO"
+   ]
+  },
+  {
+   "name": "Ōminato",
+   "variants": [
+    "ÓMINATO",
+    "ÖMINATO"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "HAKATA"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "KURUME"
+   ]
+  },
+  {
+   "name": "Hirosaki",
+   "variants": [
+    "HIROSAKI"
+   ]
+  },
+  {
+   "name": "Ueda",
+   "variants": [
+    "UEDA"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "TOKUYAMA"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "TACHIKAWA",
+    "Tachikawa-shi"
+   ]
+  },
+  {
+   "name": "Fuchū",
+   "variants": [
+    "FUCHU",
+    "FUCHÜ",
+    "Fuchū-machi"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "IBARAGI",
+    "IBARAGI-KEN"
+   ]
+  },
+  {
+   "name": "Tsuchiura",
+   "variants": [
+    "TSUCHIURA",
+    "Tsuchiura-machi",
+    "Tsuchiura-shi"
+   ]
+  },
+  {
+   "name": "Shimodate",
+   "variants": [
+    "SHIMODATE",
+    "Shimodate-machi"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "CHIBA",
+    "CHIBA-KEN",
+    "Chiba-shi"
+   ]
+  },
+  {
+   "name": "Sahara",
+   "variants": [
+    "SAHARA",
+    "Sahara-machi"
+   ]
+  },
+  {
+   "name": "Kawagoe",
+   "variants": [
+    "KAWAGOE",
+    "Oaza Kawagoe",
+    "Kawagoe-shi"
+   ]
+  },
+  {
+   "name": "Kumagaya",
+   "variants": [
+    "KUMAGAYA",
+    "Óaza Kumagaya",
+    "Kumagaya-shi"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "YOKOSUKA",
+    "Yokosuka-shi"
+   ]
+  },
+  {
+   "name": "Odawara",
+   "variants": [
+    "ODAWARA",
+    "Odawara-shi"
+   ]
+  },
+  {
+   "name": "Nagaoka",
+   "variants": [
+    "NAGAOKA",
+    "Nagaoka-shi"
+   ]
+  },
+  {
+   "name": "Kashiwazaki",
+   "variants": [
+    "KASHIWAZAKI",
+    "Kashiwazaki-shi"
+   ]
+  },
+  {
+   "name": "Iida",
+   "variants": [
+    "IIDA",
+    "Iida-shi"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "TOCHIGI",
+    "TOCHIGI-KEN"
+   ]
+  },
+  {
+   "name": "Ashikaga",
+   "variants": [
+    "ASHIKAGA",
+    "Ashikaga-shi"
+   ]
+  },
+  {
+   "name": "Ōtawara",
+   "variants": [
+    "OTAHARA",
+    "ÖTAHARA",
+    "Otahara-machi"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "GUMMA",
+    "GUMMA-KEN"
+   ]
+  },
+  {
+   "name": "Tomioka",
+   "variants": [
+    "TOMIOKA",
+    "Tomioka-machi"
+   ]
+  },
+  {
+   "name": "Ōta, Gunma",
+   "variants": [
+    "OTA",
+    "ÖTA",
+    "Öta-machi"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "YAMANASHI",
+    "YAMANASHI-KEN"
+   ]
+  },
+  {
+   "name": "Ōtsuki",
+   "variants": [
+    "OTSUKI",
+    "ÖTSUKI",
+    "Otsuki-machi"
+   ]
+  },
+  {
+   "name": "Kajikazawa",
+   "variants": [
+    "KAJIKAZAWA",
+    "KAKAZAWA",
+    "Kajikazawa-machi"
+   ]
+  },
+  {
+   "name": "Minamiikeda",
+   "variants": [
+    "MINAMIIKEDA",
+    "Minamiikeda-mura"
+   ]
+  },
+  {
+   "name": "Handa",
+   "variants": [
+    "HANDA",
+    "Handa-shi"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "TOYOHASHI",
+    "Toyohashi-shi"
+   ]
+  },
+  {
+   "name": "Tajimi",
+   "variants": [
+    "TAJIMI",
+    "TAIMI",
+    "Tajimi-shi"
+   ]
+  },
+  {
+   "name": "Furukawa, Gifu",
+   "variants": [
+    "FURUKAWA",
+    "Furukawa-machi"
+   ]
+  },
+  {
+   "name": "Mie",
+   "variants": [
+    "MIE",
+    "MIE-KEN"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "YOKKAICHI",
+    "Yokkaichi-shi"
+   ]
+  },
+  {
+   "name": "Ise",
+   "variants": [
+    "UJIYAMADA",
+    "UYAMADA",
+    "Ujiyamada-shi"
+   ]
+  },
+  {
+   "name": "Uozu",
+   "variants": [
+    "UOZU",
+    "Uozu-machi"
+   ]
+  },
+  {
+   "name": "Demachi",
+   "variants": [
+    "DEMACHI",
+    "Demachi"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "ISHIKAWA",
+    "ISHIKAWA-KEN"
+   ]
+  },
+  {
+   "name": "Nanao",
+   "variants": [
+    "NANAO",
+    "Nanao-shi"
+   ]
+  },
+  {
+   "name": "Komatsu",
+   "variants": [
+    "KOMATSU",
+    "Komatsu-shi"
+   ]
+  },
+  {
+   "name": "Miyazu",
+   "variants": [
+    "MIYAZU",
+    "Miyazu-machi"
+   ]
+  },
+  {
+   "name": "Uji",
+   "variants": [
+    "UJI",
+    "Uji-gō",
+    "Uji-machi"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "SHIGA",
+    "SHIGA-KEN"
+   ]
+  },
+  {
+   "name": "Imazu",
+   "variants": [
+    "IMAZU",
+    "Imazu-machi"
+   ]
+  },
+  {
+   "name": "Maibara",
+   "variants": [
+    "MAIBARA",
+    "Oaza Maibara",
+    "Maibara-machi"
+   ]
+  },
+  {
+   "name": "Tanabe",
+   "variants": [
+    "TANABE",
+    "Tanabe-shi"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "NARA",
+    "NARA-KEN",
+    "Nara-shi"
+   ]
+  },
+  {
+   "name": "Wadayama",
+   "variants": [
+    "WADAYAMA",
+    "Wadayama-machi"
+   ]
+  },
+  {
+   "name": "Kamigōri",
+   "variants": [
+    "KAMIGÖRI",
+    "KAMIGORI",
+    "Kamigōri",
+    "Kamigōri-machi"
+   ]
+  },
+  {
+   "name": "Hyōgo",
+   "variants": [
+    "HYOGO",
+    "HYÖGO",
+    "HYÖGO-KEN"
+   ]
+  },
+  {
+   "name": "Fukuyama",
+   "variants": [
+    "FUKUYAMA"
+   ]
+  },
+  {
+   "name": "Miyoshi, Hiroshima",
+   "variants": [
+    "MIYOSHI"
+   ]
+  },
+  {
+   "name": "Tsuyama",
+   "variants": [
+    "TSUYAMA",
+    "Tsuyama-shi"
+   ]
+  },
+  {
+   "name": "Niimi",
+   "variants": [
+    "NIMI",
+    "NIIMI",
+    "Niimi-machi"
+   ]
+  },
+  {
+   "name": "Kurayoshi",
+   "variants": [
+    "KURAYOSHI",
+    "Kurayoshi-machi"
+   ]
+  },
+  {
+   "name": "Yanai",
+   "variants": [
+    "YANAI"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "SHIMANE",
+    "SHIMANE-KEN"
+   ]
+  },
+  {
+   "name": "Hamada",
+   "variants": [
+    "HAMADA",
+    "Hamada-shi"
+   ]
+  },
+  {
+   "name": "Saigō",
+   "variants": [
+    "SAIGO",
+    "Saigö-machi"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "EHIME"
+   ]
+  },
+  {
+   "name": "Niihama",
+   "variants": [
+    "NIIHAMA"
+   ]
+  },
+  {
+   "name": "Kannonji",
+   "variants": [
+    "KANNONJI"
+   ]
+  },
+  {
+   "name": "Sanbonmatsu",
+   "variants": [
+    "SAMBOMMATSU"
+   ]
+  },
+  {
+   "name": "Ikeda, Tokushima",
+   "variants": [
+    "IKEDA"
+   ]
+  },
+  {
+   "name": "Mugi",
+   "variants": [
+    "MUGI"
+   ]
+  },
+  {
+   "name": "Muroto",
+   "variants": [
+    "MUROTO"
+   ]
+  },
+  {
+   "name": "Ōmuta",
+   "variants": [
+    "OMUTA",
+    "ÖMUTA"
+   ]
+  },
+  {
+   "name": "Orio",
+   "variants": [
+    "ORIO"
+   ]
+  },
+  {
+   "name": "Shimabara",
+   "variants": [
+    "SHIMABARA"
+   ]
+  },
+  {
+   "name": "Emukae",
+   "variants": [
+    "EMUKAE"
+   ]
+  },
+  {
+   "name": "Takeo",
+   "variants": [
+    "TAKEO"
+   ]
+  },
+  {
+   "name": "Kashima, Saga",
+   "variants": [
+    "KASHIMA"
+   ]
+  },
+  {
+   "name": "Saeki",
+   "variants": [
+    "SAEKI"
+   ]
+  },
+  {
+   "name": "Hita",
+   "variants": [
+    "HIDA"
+   ]
+  },
+  {
+   "name": "Miyakonojo",
+   "variants": [
+    "MIYAKONOJÖ",
+    "MIYAKONOJO"
+   ]
+  },
+  {
+   "name": "Nobeoka",
+   "variants": [
+    "NOBECKA",
+    "NOBEOKA"
+   ]
+  },
+  {
+   "name": "Satsumasendai",
+   "variants": [
+    "SENDAI"
+   ]
+  },
+  {
+   "name": "Kanoya",
+   "variants": [
+    "KANOYA"
+   ]
+  },
+  {
+   "name": "Minamata",
+   "variants": [
+    "MINAMATA"
+   ]
+  },
+  {
+   "name": "Hondo",
+   "variants": [
+    "HONDO"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "MIYAGI"
+   ]
+  },
+  {
+   "name": "Kuji",
+   "variants": [
+    "KUJI"
+   ]
+  },
+  {
+   "name": "Sakari",
+   "variants": [
+    "SAKARI"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "IWATE"
+   ]
+  },
+  {
+   "name": "Noshiro",
+   "variants": [
+    "NOSHIRO"
+   ]
+  },
+  {
+   "name": "Yokote",
+   "variants": [
+    "YOKOTE"
+   ]
+  },
+  {
+   "name": "Yonezawa",
+   "variants": [
+    "YONEZAWA"
+   ]
+  },
+  {
+   "name": "Kōriyama",
+   "variants": [
+    "KÖRIYAMA",
+    "KORIYAMA"
+   ]
+  },
+  {
+   "name": "Taira",
+   "variants": [
+    "TAIRA"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "OTARU"
+   ]
+  },
+  {
+   "name": "Haboro",
+   "variants": [
+    "HABORO"
+   ]
+  },
+  {
+   "name": "Shibetsu, Hokkaido",
+   "variants": [
+    "SHIBETSU"
+   ]
+  },
+  {
+   "name": "Esashi, Hokkaido",
+   "variants": [
+    "ESASHI"
+   ]
+  },
+  {
+   "name": "Suttsu",
+   "variants": [
+    "SUTTSU"
+   ]
+  },
+  {
+   "name": "Okoppe",
+   "variants": [
+    "OKOPPE"
+   ]
+  },
+  {
+   "name": "Abashiri",
+   "variants": [
+    "ABASHIRI"
+   ]
+  },
+  {
+   "name": "Ichibanchō, Niigata",
+   "variants": [
+    "Ichibanchō"
+   ]
+  },
+  {
+   "name": "Gakkō-machi, Niigata",
+   "variants": [
+    "Gakkō-machi"
+   ]
+  },
+  {
+   "name": "Ōte-dōri, Nagaoka",
+   "variants": [
+    "Öte-dōri"
+   ]
+  },
+  {
+   "name": "Hizumi, Kashiwazaki",
+   "variants": [
+    "Hizumi"
+   ]
+  },
+  {
+   "name": "Habashita, Nagano",
+   "variants": [
+    "Aza Habashita"
+   ]
+  },
+  {
+   "name": "Chikumagenji, Matsumoto",
+   "variants": [
+    "Chikumagenji",
+    "Oaza Chikumagenji"
+   ]
+  },
+  {
+   "name": "Kuruwa-chō, Maebashi",
+   "variants": [
+    "Kuruwa-chō"
+   ]
+  },
+  {
+   "name": "Kitakanra District",
+   "variants": [
+    "Kitakanraku-gun"
+   ]
+  },
+  {
+   "name": "Nitta District",
+   "variants": [
+    "Nitta-gun"
+   ]
+  },
+  {
+   "name": "Hanawada-chō, Utsunomiya",
+   "variants": [
+    "Hanawada-chō"
+   ]
+  },
+  {
+   "name": "Ietomi-chō, Ashikaga",
+   "variants": [
+    "Ietomi-chō"
+   ]
+  },
+  {
+   "name": "Nasu District",
+   "variants": [
+    "Nasu-gun"
+   ]
+  },
+  {
+   "name": "Kitasannomaru, Mito",
+   "variants": [
+    "Kitasannomaru"
+   ]
+  },
+  {
+   "name": "Kamiichi, Mito",
+   "variants": [
+    "Kamiichi"
+   ]
+  },
+  {
+   "name": "Makabe District",
+   "variants": [
+    "Makabe-gun"
+   ]
+  },
+  {
+   "name": "Ichiba-chō, Chiba",
+   "variants": [
+    "Ichiba-chō"
+   ]
+  },
+  {
+   "name": "Hōjō, Tateyama",
+   "variants": [
+    "Hōjō"
+   ]
+  },
+  {
+   "name": "Katori District",
+   "variants": [
+    "Katori-gun"
+   ]
+  },
+  {
+   "name": "Takasago-chō, Urawa",
+   "variants": [
+    "Takasago-chō"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urawa-shi"
+   ]
+  },
+  {
+   "name": "Kasumigaseki",
+   "variants": [
+    "Kasumigaseki"
+   ]
+  },
+  {
+   "name": "Chiyoda Ward",
+   "variants": [
+    "Chiyoda-ku"
+   ]
+  },
+  {
+   "name": "Shibazaki-chō, Tachikawa",
+   "variants": [
+    "Shibazaki-chō"
+   ]
+  },
+  {
+   "name": "Tachibana-machi, Kofu",
+   "variants": [
+    "Tachibana-machi"
+   ]
+  },
+  {
+   "name": "Kitatsuru District",
+   "variants": [
+    "Kitatsuru-gun"
+   ]
+  },
+  {
+   "name": "Minamikoma District",
+   "variants": [
+    "Minamikoma-gun"
+   ]
+  },
+  {
+   "name": "Wakamatsu-chō, Yokosuka",
+   "variants": [
+    "Wakamatsu-chō"
+   ]
+  },
+  {
+   "name": "Midori-chō, Odawara",
+   "variants": [
+    "Midori-chō"
+   ]
+  },
+  {
+   "name": "Hirosaka-dōri, Kanazawa",
+   "variants": [
+    "Hirosaka-dōri"
+   ]
+  },
+  {
+   "name": "Mishima-chō, Nanao",
+   "variants": [
+    "Mishima-chō"
+   ]
+  },
+  {
+   "name": "Koumade-chō, Komatsu",
+   "variants": [
+    "Koumade-chō"
+   ]
+  },
+  {
+   "name": "Sōgawa-chō, Toyama",
+   "variants": [
+    "Sōgawa-chō"
+   ]
+  },
+  {
+   "name": "Shimoniikawa District",
+   "variants": [
+    "Shimoniikawa-gun"
+   ]
+  },
+  {
+   "name": "Higashitonami District",
+   "variants": [
+    "Higashi-tonami-gun"
+   ]
+  },
+  {
+   "name": "Mieji-machi, Gifu",
+   "variants": [
+    "Mieji-machi"
+   ]
+  },
+  {
+   "name": "Asahi-machi, Tajimi",
+   "variants": [
+    "Asahi-machi"
+   ]
+  },
+  {
+   "name": "Ninomachi, Furukawa",
+   "variants": [
+    "Aza Ninomachi"
+   ]
+  },
+  {
+   "name": "Yoshiki District",
+   "variants": [
+    "Yoshiki-gun"
+   ]
+  },
+  {
+   "name": "Minamisotobori-machi, Nagoya",
+   "variants": [
+    "Minamisotobori-machi"
+   ]
+  },
+  {
+   "name": "Minamiōmata-machi, Handa",
+   "variants": [
+    "Minamiōmata-machi"
+   ]
+  },
+  {
+   "name": "Nakahachi-machi, Toyohashi",
+   "variants": [
+    "Nakahachi-machi"
+   ]
+  },
+  {
+   "name": "Ōtemachi, Shizuoka",
+   "variants": [
+    "Ötemachi"
+   ]
+  },
+  {
+   "name": "Kamoe-mochi, Hamamatsu",
+   "variants": [
+    "Kamoe-mochi"
+   ]
+  },
+  {
+   "name": "Age-machi, Numazu",
+   "variants": [
+    "Age machi"
+   ]
+  },
+  {
+   "name": "Numazu",
+   "variants": [
+    "NUMAZU",
+    "Numazu-shi"
+   ]
+  },
+  {
+   "name": "Sakae-machi, Tsu",
+   "variants": [
+    "Sakae-machi"
+   ]
+  },
+  {
+   "name": "Tomita-machi, Yokkaichi",
+   "variants": [
+    "Tomita-machi"
+   ]
+  },
+  {
+   "name": "Iwafuchi-machi, Ise",
+   "variants": [
+    "Iwafuchi-machi"
+   ]
+  },
+  {
+   "name": "Gohommaru, Fukui",
+   "variants": [
+    "Gohommaru"
+   ]
+  },
+  {
+   "name": "Tōka, Awara",
+   "variants": [
+    "Tōka"
+   ]
+  },
+  {
+   "name": "Kanatsu",
+   "variants": [
+    "KANATSU",
+    "Kanaisu-machi"
+   ]
+  },
+  {
+   "name": "Sakai District, Fukui",
+   "variants": [
+    "Sakai-gun"
+   ]
+  },
+  {
+   "name": "Awatabe",
+   "variants": [
+    "AWATABE",
+    "Awatabe-machi"
+   ]
+  },
+  {
+   "name": "Imadate District",
+   "variants": [
+    "Imadate-gun"
+   ]
+  },
+  {
+   "name": "Higashiura, Ōtsu",
+   "variants": [
+    "Higashiura"
+   ]
+  },
+  {
+   "name": "Ōtsu",
+   "variants": [
+    "Ötsu-shi"
+   ]
+  },
+  {
+   "name": "Takashima District",
+   "variants": [
+    "Takashima-gun"
+   ]
+  },
+  {
+   "name": "Sakata District, Shiga",
+   "variants": [
+    "Sakata-gun"
+   ]
+  },
+  {
+   "name": "Yabunouchi-chō, Kyoto",
+   "variants": [
+    "Yabunouchi-chō"
+   ]
+  },
+  {
+   "name": "Shimodachiuri-dōri",
+   "variants": [
+    "Shimodachi-uridōri"
+   ]
+  },
+  {
+   "name": "Shimmachi-dōri",
+   "variants": [
+    "Shimmachi-dōri"
+   ]
+  },
+  {
+   "name": "Kamigyō Ward",
+   "variants": [
+    "Kamikyō-ku"
+   ]
+  },
+  {
+   "name": "Tsuruga-machi, Miyazu",
+   "variants": [
+    "Tsuruga-machi"
+   ]
+  },
+  {
+   "name": "Yosa District",
+   "variants": [
+    "Yosa-gun"
+   ]
+  },
+  {
+   "name": "Kuze District",
+   "variants": [
+    "Kuze-gun"
+   ]
+  },
+  {
+   "name": "Nakamichi-dōri, Kobe",
+   "variants": [
+    "Nakamichi-dōri"
+   ]
+  },
+  {
+   "name": "Hyōgo Ward",
+   "variants": [
+    "Hyōgo-ku"
+   ]
+  },
+  {
+   "name": "Asago District",
+   "variants": [
+    "Asako-gun"
+   ]
+  },
+  {
+   "name": "Akō District",
+   "variants": [
+    "Akaho-gun"
+   ]
+  },
+  {
+   "name": "Ōtemaeno-machi, Osaka",
+   "variants": [
+    "Ötemaeno-machi"
+   ]
+  },
+  {
+   "name": "Higashi Ward, Osaka",
+   "variants": [
+    "Higashi-ku"
+   ]
+  },
+  {
+   "name": "Ibaraki, Osaka",
+   "variants": [
+    "IBARAKI",
+    "Aza Ibaraki",
+    "Ibaraki-shi"
+   ]
+  },
+  {
+   "name": "Senboku District",
+   "variants": [
+    "Izukita-gun"
+   ]
+  },
+  {
+   "name": "Noboriōji, Nara",
+   "variants": [
+    "Noboriōji"
+   ]
+  },
+  {
+   "name": "Shimoichi",
+   "variants": [
+    "SHIMOICHI",
+    "Shimoichi-machi"
+   ]
+  },
+  {
+   "name": "Yoshino District",
+   "variants": [
+    "Yoshino-gun"
+   ]
+  },
+  {
+   "name": "Yagi-machi, Kashihara",
+   "variants": [
+    "Yagi-machi"
+   ]
+  },
+  {
+   "name": "Takaichi District",
+   "variants": [
+    "Takaichi-gun"
+   ]
+  },
+  {
+   "name": "Kashihara",
+   "variants": [
+    "KASHIHARA"
+   ]
+  },
+  {
+   "name": "Komatsubara-dōri, Wakayama",
+   "variants": [
+    "Komatsubara-dōri"
+   ]
+  },
+  {
+   "name": "Tono-machi, Matsue",
+   "variants": [
+    "Tono-machi"
+   ]
+  },
+  {
+   "name": "Asai, Hamada",
+   "variants": [
+    "Oaza Asai"
+   ]
+  },
+  {
+   "name": "Suki District",
+   "variants": [
+    "Suki-gun"
+   ]
+  },
+  {
+   "name": "Yabukatahara-machi, Tottori",
+   "variants": [
+    "Yabukatahara-machi"
+   ]
+  },
+  {
+   "name": "Kōji-machi, Yonago",
+   "variants": [
+    "Kōji-machi"
+   ]
+  },
+  {
+   "name": "Tōhaku District",
+   "variants": [
+    "Tōhaku-gun"
+   ]
+  },
+  {
+   "name": "Kamiifuku, Okayama",
+   "variants": [
+    "Kamiifuku"
+   ]
+  },
+  {
+   "name": "Tamachi, Tsuyama",
+   "variants": [
+    "Tamachi"
+   ]
+  },
+  {
+   "name": "Atetsu District",
+   "variants": [
+    "Atetsu-gun"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "SCAP",
+  "Japanese radio stations",
+  "frequency allocations",
+  "call signs",
+  "broadcasting",
+  "emergency police radio",
+  "AFRS",
+  "international radio circuits",
+  "maritime communications",
+  "station registers",
+  "radio regulation"
+ ],
+ "subfiles": [
+  {
+   "title": "SCAP geographical, frequency, call-sign, and emergency police radio-station lists (continued)",
+   "doc_type": "printed radio-station register and amendment list",
+   "start_page": 560,
+   "end_page": 639,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A continuing technical register records amendments and detailed assignments for Japanese broadcasting, police, maritime, international, and other radio stations.",
+   "summary": "The opening pages complete a geographical list and enumerate changes affecting domestic, international, and Armed Forces Radio Service stations, including circuits to Shanghai and Colombo. Long additions, deletions, and changes to the frequency and call-sign lists identify stations by SCAP registration number, call sign, frequency, and locality. After a blank page, the register begins detailed prefectural tables for emergency police stations, giving fixed and portable assignments, addresses, limitations, and coordinates from Niigata through Okayama; the document continues beyond page 639.",
+   "keywords": [
+    "SCAP registration numbers",
+    "geographical list",
+    "frequency list",
+    "call-sign list",
+    "emergency police stations",
+    "broadcast stations",
+    "AFRS",
+    "international circuits",
+    "station coordinates"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 8,
+  "sections": 14,
+  "pages": [
+   560,
+   639
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 3, 1946 - December 24, 1949 1827.pdf",
+  "seconds": 333.2,
+  "created": "2026-10-04 00:27:43",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-9"
+ }
+}

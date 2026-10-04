@@ -1,0 +1,119 @@
+{
+ "interest": "Shows State and Treasury tracking Japanese financial assets in the U.S. after the December 1937 Panay Incident, including gold shipments.",
+ "keywords": [
+  "Japanese assets",
+  "dollar reserves",
+  "gold shipments",
+  "Yokohama Specie Bank",
+  "Bank of Japan",
+  "dollar securities",
+  "Treasury Department",
+  "Federal Reserve Board",
+  "foreign exchange",
+  "trade balance",
+  "economic intelligence",
+  "Sino-Japanese War"
+ ],
+ "overview": "December 17, 1937 memo for Maxwell Hamilton surveys Japanese liquid resources in the U.S.: $45.2 million in New York bank balances, $233 million in gold shipped since March to build dollar reserves, and about $100 million total in liquid dollar availabilities.",
+ "people": [
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Chief, Division of Far Eastern Affairs (FE), Department of State",
+   "variants": [
+    "Mr. Hamilton",
+    "Hamilton"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "the Secretary",
+    "Secretary"
+   ]
+  },
+  {
+   "name": "Herbert Feis",
+   "role": "Adviser on International Economic Affairs, Department of State",
+   "variants": [
+    "Mr. Feis",
+    "Feis"
+   ]
+  },
+  {
+   "name": "Archie Lochhead",
+   "role": "Technical Assistant to the Secretary of the Treasury, Treasury Department",
+   "variants": [
+    "Mr. Lochhead",
+    "Lochhead"
+   ]
+  },
+  {
+   "name": "Harry Dexter White",
+   "role": "Principal Economic Analyst / Director of Monetary Research, Treasury Department",
+   "variants": [
+    "Mr. White",
+    "White"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "this country"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Memorandum detailing Japanese liquid assets, gold shipments, bank balances, and security holdings in the United States as of December 1937.",
+   "date": "1937-12-17",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Office of the Adviser on International Economic Affairs (initials H.S.P.)",
+   "keywords": [
+    "Japanese assets",
+    "dollar balances",
+    "gold shipments",
+    "Yokohama Specie Bank",
+    "dollar securities",
+    "Treasury Department",
+    "Federal Reserve Board",
+    "Bank of Japan"
+   ],
+   "start_page": 1,
+   "summary": "Memo for Maxwell Hamilton finds Japanese bank balances in New York at $45.2 million by December 8, 1937 (mostly Yokohama Specie Bank), $233 million in gold shipped since March used to build dollar reserves rather than cover trade, and total Japanese liquid dollar availabilities in the U.S. near $100 million.",
+   "title": "Memorandum from Office of the Adviser on International Economic Affairs to Maxwell M. Hamilton on Japanese Liquid Resources in the United States",
+   "to": "Maxwell M. Hamilton, Chief of the Division of Far Eastern Affairs (FE)"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14324,
+   "output_tokens": 4924,
+   "thinking_tokens": 3879,
+   "cache_read_tokens": 0,
+   "total_tokens": 19248
+  },
+  "backend": "agy",
+  "seconds": 19.5,
+  "identifier": "japan-internal-affairs-894.503111-economic-matters-capital-1",
+  "file": "894.503111 Economic Matters., Capital., Investment Of, Or Field For Investment Of, Capital Of Japan In United States., December 17, 1937 990.pdf",
+  "created": "2026-09-29 08:06:18"
+ }
+}

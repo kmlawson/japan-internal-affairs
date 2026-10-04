@@ -1,0 +1,85 @@
+{
+ "overview": "This one-page file consists of a cross-reference sheet directing researchers to a telegram filed at 893.516/513. The referenced telegram, sent from Canton by Linnell on April 12, 1937, reported that the Bank of Taiwan was arranging to transfer its silver holdings in Canton and Swatow to the Central Bank of China; Japanese consular confirmation supported the press reports.",
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Swatow"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Linnell",
+   "role": "Sender of the referenced telegram from Canton",
+   "variants": [
+    "Linnell"
+   ]
+  }
+ ],
+ "keywords": [
+  "Bank of Taiwan",
+  "Central Bank of China",
+  "silver holdings",
+  "banking",
+  "financial conditions",
+  "asset transfer",
+  "Canton",
+  "Swatow",
+  "Japanese consular reporting",
+  "press reports",
+  "cross-reference",
+  "Republic of China"
+ ],
+ "subfiles": [
+  {
+   "title": "Cross-reference to Linnell telegram on Bank of Taiwan silver holdings",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1937-04-12",
+   "from": "Linnell, Canton",
+   "to": "",
+   "about": "The sheet refers to a telegram reporting the planned transfer of the Bank of Taiwan's silver holdings in Canton and Swatow to the Central Bank of China.",
+   "summary": "The cross-reference directs the reader to file 893.516/513 for the underlying telegram from Canton. According to its précis, the Bank of Taiwan was arranging to hand over silver held in Canton and Swatow to the Central Bank of China. The report originated in the press and was confirmed by a Japanese consular representative.",
+   "keywords": [
+    "cross-reference",
+    "telegram",
+    "Bank of Taiwan",
+    "Central Bank of China",
+    "silver holdings",
+    "Canton",
+    "Swatow",
+    "Japanese consular representative"
+   ]
+  }
+ ],
+ "interest": "The sheet documents a financial transfer involving a Japanese colonial bank and China's central bank shortly before the outbreak of full-scale Sino-Japanese war in July 1937. Although the underlying telegram is not present, the précis preserves its central claim and identifies both press reporting and Japanese consular confirmation as sources. Its cross-reference to 893.516/513 is especially useful for reconstructing the archival relationship between the China and Formosa decimal-file series.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 23.5,
+  "identifier": "japan-internal-affairs-894a.516-financial-conditions-budget-1",
+  "file": "894A.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Formosa. Taiwan, Banks. Banking., April 12, 1937 948.pdf",
+  "created": "2026-09-29 02:34:29"
+ }
+}

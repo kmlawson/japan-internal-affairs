@@ -1,0 +1,221 @@
+{
+ "interest": "British-forced arrests of Axis suspects in Iran, 1942.",
+ "keywords": [
+  "World War II",
+  "Iran",
+  "Japanese Legation",
+  "Axis espionage",
+  "British occupation",
+  "Sumner Welles",
+  "Harold B. Minor",
+  "Tehran",
+  "Ahvaz",
+  "Fifth column",
+  "Allied surveillance",
+  "Ministry of Health"
+ ],
+ "overview": "April 1942 telegrams on the arrest of six Iranians accused of Axis work for the Japanese Legation, demanded by the British.",
+ "people": [
+  {
+   "name": "Sumner Welles",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "Welles",
+    "Acting"
+   ]
+  },
+  {
+   "name": "Harold B. Minor",
+   "role": "American diplomat / Chargé d'Affaires at Tehran",
+   "variants": [
+    "MINOR"
+   ]
+  },
+  {
+   "name": "Hesam-ed-Din Ghaffari",
+   "role": "Employee of Japanese Legation and active Axis agent",
+   "variants": [
+    "Hisian Chafarri",
+    "Hesamed Ing Haffary"
+   ]
+  },
+  {
+   "name": "Mohammad Hossein Vaziri",
+   "role": "Official of Government travel agency",
+   "variants": [
+    "Vaziri",
+    "Mohamad Hosein Vasiri"
+   ]
+  },
+  {
+   "name": "Asadollah Daryoush",
+   "role": "Official of Telegraph Department",
+   "variants": [
+    "Daryus",
+    "Asadollah Darush"
+   ]
+  },
+  {
+   "name": "Gholam-Reza Darugar",
+   "role": "Tehran soap manufacturer",
+   "variants": [
+    "Daruga",
+    "Gholamre Zadarugar"
+   ]
+  },
+  {
+   "name": "Sarem-ed-Din Zolfaghari",
+   "role": "High official of Ministry of Health (General / Colonel)",
+   "variants": [
+    "Colonel Sufagarri",
+    "General Saremeddin Zolfaqari"
+   ]
+  },
+  {
+   "name": "Ali Darroudi",
+   "role": "Rich Meshed merchant",
+   "variants": [
+    "Alid Arroudi"
+   ]
+  },
+  {
+   "name": "Reza Qoli Tabataba'i",
+   "role": "General, brother-in-law of the Shah, and head of Army Health Department",
+   "variants": [
+    "Rez Aghul Iataoai",
+    "general Rez Aghul Iataoai"
+   ]
+  },
+  {
+   "name": "Mohammad Reza Pahlavi",
+   "role": "Shah of Iran",
+   "variants": [
+    "Shah"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran",
+    "Iranian",
+    "Southern Iran"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tehran",
+   "variants": [
+    "Tehran"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Ahvaz",
+   "variants": [
+    "Ahwaz"
+   ]
+  },
+  {
+   "name": "Mashhad",
+   "variants": [
+    "Meshed"
+   ]
+  },
+  {
+   "name": "Yazd",
+   "variants": [
+    "Yadz"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Russian"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Inquiry regarding press and Axis radio reports concerning the arrest of six prominent Iranians suspected of Axis subversion under the direction of the Japanese Legation.",
+   "date": "1942-04-15",
+   "doc_type": "telegram",
+   "end_page": 1,
+   "from": "Sumner Welles (Acting Secretary of State)",
+   "keywords": [
+    "Sumner Welles",
+    "Tehran",
+    "Japanese Legation",
+    "Axis activities",
+    "United Press",
+    "arrests",
+    "espionage"
+   ],
+   "start_page": 1,
+   "summary": "Welles asks Tehran to verify reports that six Iranians were arrested for Axis activity under the Japanese Legation.",
+   "title": "Telegram from Welles to American Legation in Tehran on Reported Arrests of Axis Agents",
+   "to": "American Legation, Tehran"
+  },
+  {
+   "about": "Detailed report on British-instigated arrests of prominent Iranians accused of pro-German activities, their planned internment in Ahwaz, and domestic political fallout.",
+   "date": "1942-04-18",
+   "doc_type": "telegram",
+   "end_page": 4,
+   "from": "Harold B. Minor (American Legation, Tehran)",
+   "keywords": [
+    "Harold B. Minor",
+    "British Minister",
+    "Ahwaz",
+    "Hesam-ed-Din Ghaffari",
+    "pro-German",
+    "Shah of Iran",
+    "Yazd",
+    "Mashhad",
+    "surveillance"
+   ],
+   "start_page": 2,
+   "summary": "Minor reports the arrests were demanded by the British, who moved the six to Ahwaz; evidence was circumstantial.",
+   "title": "Telegram No. 111 from Minor (Tehran) to Secretary of State on British-Instigated Arrests and Exile to Ahwaz",
+   "to": "Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14617,
+   "output_tokens": 6595,
+   "thinking_tokens": 5025,
+   "cache_read_tokens": 0,
+   "total_tokens": 21212
+  },
+  "backend": "agy",
+  "seconds": 23.6,
+  "identifier": "japan-internal-affairs-894.20291-military-affairs-army-2",
+  "file": "894.20291 Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Iran Including Gathering Of Information. Espionage. Propaganda., April 18,  1343.pdf",
+  "created": "2026-09-29 03:06:56"
+ }
+}

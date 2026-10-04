@@ -1,0 +1,655 @@
+{
+ "interest": "This file provides an exceptionally valuable window into the domestic economic fragility and agricultural vulnerabilities that constrained Imperial Japan immediately prior to and during the Pacific War. It vividly illustrates how an environmental shock—the severe 1939 drought in western Japan and Korea—shattered the illusion of imperial food autarky, precipitating widespread farmer hoarding, urban discontent, and an unbudgeted foreign exchange crisis from emergency rice purchases in Southeast Asia. Furthermore, the file documents the evolution of American economic intelligence methodologies: while early pre-war despatches from Ambassador Joseph C. Grew and Agricultural Attaché Owen L. Dawson provided direct diplomatic and trade observations of Japanese price-pegging and Diet statistical blackouts, wartime monitoring shifted to the U.S. Legation in Bern, which systematically mined Axis and German press coverage of Japanese Ministry of Agriculture data to track harvests, wooden shipbuilding logistics, and coercive population transfers in Malaya and Java. Finally, the Division of Far Eastern Affairs' strategic analyses provide crucial context on pre-war American naval blockade planning, demonstrating the prescient finding that Japanese food imports from continental East Asia and Indochina could not be decisively severed by naval interdiction alone.",
+ "keywords": [
+  "Japan rice supply",
+  "food rationing",
+  "agricultural mobilization",
+  "drought of 1939",
+  "Chosen rice exports",
+  "price control",
+  "grain requisitioning",
+  "foreign exchange drain",
+  "French Indochina rice",
+  "Southeast Asian food exploitation",
+  "fertilizer shortage",
+  "wartime blockade vulnerability"
+ ],
+ "overview": "This file (decimal file 894.61317, covering December 22, 1939 to November 24, 1944) documents the escalating rice supply crisis and food administration within Japan and its overseas empire leading into and during World War II. Originating from diplomatic reporting by U.S. Ambassador Joseph C. Grew in Tokyo, analytical memoranda by State Department Far Eastern Affairs specialists, and wartime intelligence gathered by the U.S. Legation in Bern monitoring the German press, the records trace Japan's sudden transition from self-sufficiency to acute grain deficits following the severe summer drought of 1939 in southwestern Japan and southern Korea. Early despatches and internal studies detail the Konoe and Yonai cabinets' emergency interventions—including price ceilings, compulsory requisitioning, the establishment of the Japan Rice Company, milling restrictions, and urban rationing—alongside the severe drain on foreign exchange reserves incurred by emergency rice purchases from Thailand, Burma, and French Indochina. Later wartime intelligence tracks Japan's worsening structural agricultural problems, including severe shortages of fertilizer and rural labor, industrial encroachment on arable land, reliance on substitute crops, the exploitation of occupied territories in Southeast Asia and Manchuria, and State Department evaluations of Japan's vulnerability to an Allied naval blockade.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Takuo Godo",
+   "role": "Japanese Minister of Agriculture and Forestry",
+   "variants": [
+    "Godo",
+    "Mr. Godo"
+   ]
+  },
+  {
+   "name": "Count Tadamasa Sakai",
+   "role": "Japanese Minister of Agriculture and Forestry",
+   "variants": [
+    "Count Sakai"
+   ]
+  },
+  {
+   "name": "Kamekichi Takahashi",
+   "role": "Prominent economic commentator",
+   "variants": [
+    "Kamekichi Takahashi",
+    "Mr. Kamekichi Takahashi"
+   ]
+  },
+  {
+   "name": "Owen L. Dawson",
+   "role": "American Agricultural Attaché at Shanghai",
+   "variants": [
+    "Dawson",
+    "Mr. Dawson"
+   ]
+  },
+  {
+   "name": "J. M. Jones",
+   "role": "Officer, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "JmG",
+    "JmJ",
+    "Jones",
+    "Mr. Jones",
+    "ONES"
+   ]
+  },
+  {
+   "name": "Ivan B. White",
+   "role": "Officer, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "IBW",
+    "White"
+   ]
+  },
+  {
+   "name": "Henry F. Grady",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "MR. GRADY",
+    "Mr. Grady"
+   ]
+  },
+  {
+   "name": "Leland Harrison",
+   "role": "U.S. Minister to Switzerland",
+   "variants": [
+    "HARRISON"
+   ]
+  },
+  {
+   "name": "J. Klahr Huddle",
+   "role": "U.S. Foreign Service Officer / Minister, American Legation at Bern",
+   "variants": [
+    "HUDDLE"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper",
+    "Japanese",
+    "central Japan",
+    "southwestern Japan",
+    "southern Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokio",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Korea",
+    "Korean",
+    "southern Korea"
+   ]
+  },
+  {
+   "name": "Seoul, South Korea",
+   "variants": [
+    "Keijo"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formosan",
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Manchuria, China",
+   "variants": [
+    "Manchukuo",
+    "Manchuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "occupied areas of China"
+   ]
+  },
+  {
+   "name": "Shanghai, China",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Honshu, Japan",
+   "variants": [
+    "main island"
+   ]
+  },
+  {
+   "name": "Hokkaido, Japan",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Osaka, Japan",
+   "variants": [
+    "Osaka",
+    "Osaka-Kyoto area"
+   ]
+  },
+  {
+   "name": "Kyoto, Japan",
+   "variants": [
+    "Osaka-Kyoto area"
+   ]
+  },
+  {
+   "name": "Mito, Japan",
+   "variants": [
+    "Mito"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture, Japan",
+   "variants": [
+    "Ibaragi Prefecture"
+   ]
+  },
+  {
+   "name": "Kofu, Japan",
+   "variants": [
+    "Kofu"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture, Japan",
+   "variants": [
+    "Yamanashi Prefecture"
+   ]
+  },
+  {
+   "name": "Otsu, Japan",
+   "variants": [
+    "Otsu"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture, Japan",
+   "variants": [
+    "Shiga Prefecture"
+   ]
+  },
+  {
+   "name": "Kobe, Japan",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kagoshima, Japan",
+   "variants": [
+    "Kagoshima",
+    "Kagoshima Prefecture"
+   ]
+  },
+  {
+   "name": "Nagoya, Japan",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture, Japan",
+   "variants": [
+    "Aichi Prefecture"
+   ]
+  },
+  {
+   "name": "Sakhalin, Russia",
+   "variants": [
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Sea Islands"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam",
+    "Thai",
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Genkai Sea",
+   "variants": [
+    "Genkai Sea"
+   ]
+  },
+  {
+   "name": "Shimonoseki, Japan",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture, Japan",
+   "variants": [
+    "prefecture of Niigata"
+   ]
+  },
+  {
+   "name": "Kansai region, Japan",
+   "variants": [
+    "Kansai",
+    "Kwansai area"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture, Japan",
+   "variants": [
+    "Yamaguchi prefecture"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture, Japan",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Saga Prefecture, Japan",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture, Japan",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture, Japan",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture, Japan",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture, Japan",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indochina",
+    "Indochina",
+    "southern portion of Indochina"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Bern, Switzerland",
+   "variants": [
+    "Berm",
+    "Bern",
+    "Born"
+   ]
+  },
+  {
+   "name": "Essen, Germany",
+   "variants": [
+    "Essen"
+   ]
+  },
+  {
+   "name": "Java, Indonesia",
+   "variants": [
+    "Javanese"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Johor, Malaysia",
+   "variants": [
+    "Johore"
+   ]
+  },
+  {
+   "name": "Negeri Sembilan, Malaysia",
+   "variants": [
+    "Negri"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Ambassador Joseph C. Grew reports on the emerging rice crisis in Japan following severe summer droughts in southwestern Japan and southern Korea, detailing government price fixing, distribution controls, and supply calculations.",
+   "date": "1939-12-22",
+   "doc_type": "despatch",
+   "end_page": 10,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "rice crisis",
+    "drought",
+    "price fixing",
+    "Chosen",
+    "Taiwan",
+    "Japan Rice Company",
+    "carry-over stocks",
+    "rice requisitioning"
+   ],
+   "start_page": 1,
+   "summary": "Ambassador Grew provides a comprehensive review of the deteriorating rice supply situation facing the Japanese government at the outset of the 1939–1940 rice year, which observers likened to the conditions preceding the 1918 rice riots. A severe summer drought in southwestern Japan and southern Korea drastically curtailed domestic yields and colonial exports, cutting carry-over stocks by over 50 percent. In response, the Japanese Cabinet enacted price ceilings, established the monopolistic Japan Rice Company, restricted rice polishing to 94 percent, and authorized prefectural governors to requisition grain. Despite these interventions, smallholders and dealers hoarded supplies in anticipation of price increases, forcing the government to plan emergency purchases from abroad despite acute foreign exchange constraints.",
+   "title": "Despatch No. 4362 from Tokyo Embassy on the Present Rice Problem in Japan",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A reprint of an Oriental Economist article analyzing the rice supply and demand balance sheet following the disastrous drought in Chosen.",
+   "date": "1939-12-20",
+   "doc_type": "clipping",
+   "end_page": 13,
+   "from": "The Oriental Economist",
+   "keywords": [
+    "Oriental Economist",
+    "Chosen drought",
+    "rice polishing",
+    "millet imports",
+    "sake brewing",
+    "food conservation",
+    "crop forecasts"
+   ],
+   "start_page": 11,
+   "summary": "This article from The Oriental Economist, republished in The Japan Times, examines the impact of the worst drought in 90 years across southern Korea and western Japan. While acknowledging severe regional damage, the article argues that alarmist fears of widespread famine are unfounded and outlines agricultural countermeasures in Chosen, such as buckwheat planting and millet imports from Manchuria. It presents an imperial balance sheet estimating that with two million koku exported from Chosen and five million from Taiwan, Japan could achieve an 80-million-koku supply. By mandating 70-percent rice polishing, curbing sake brewing, and mixing grains, the article contends Japan can meet its consumption needs without squandering foreign exchange on Southeast Asian rice imports.",
+   "title": "Enclosure No. 1 to Despatch No. 4362: 'Rice Supply Situation' from The Japan Times / The Oriental Economist",
+   "to": "General readership / U.S. Embassy Tokyo"
+  },
+  {
+   "about": "A State Department memorandum discussing discrepancies in Japanese rice crop forecasts and the Japanese Diet's decision to suppress grain statistics as military secrets.",
+   "date": "1940-03-22",
+   "doc_type": "memorandum",
+   "end_page": 15,
+   "from": "J. M. Jones",
+   "keywords": [
+    "rice deficit",
+    "Owen L. Dawson",
+    "crop estimates",
+    "military secrecy",
+    "foreign exchange",
+    "Japanese Diet",
+    "food supply"
+   ],
+   "start_page": 14,
+   "summary": "This memorandum notes that U.S. Agricultural Attaché Owen L. Dawson in Shanghai estimated a massive Japanese Empire rice deficit of 10.5 million koku, requiring roughly 250 million yen in foreign exchange to offset through imports. Although the Japanese government subsequently revised its crop forecasts upward, Dawson maintained that official estimates were unrealistically optimistic. The memorandum highlights a report from the Commercial Attaché in Tokyo confirming that the Japanese government officially announced in the Diet that all figures covering rice supply, demand, and crop estimates would no longer be published due to their military significance. Jones concludes that this statistical blackout supports Dawson's pessimistic view and underscores the critical importance of the food crisis to Japan's wartime economy.",
+   "title": "State Department Memorandum on Japanese Rice Production Estimates and Diet Secrecy",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "An analytical memorandum by Ivan B. White evaluating Embassy Tokyo's reports on Japan's rice distribution crisis, colonial crop shortfalls, and structural agricultural challenges.",
+   "date": "1940-06-10",
+   "doc_type": "memorandum",
+   "end_page": 18,
+   "from": "Ivan B. White",
+   "keywords": [
+    "Ivan B. White",
+    "rice distribution",
+    "compulsory sales",
+    "Chosen",
+    "fertilizer shortage",
+    "labor shortage",
+    "Yen bloc autarky"
+   ],
+   "start_page": 16,
+   "summary": "Ivan B. White reviews Tokyo Despatch No. 4711, summarizing key manifestations of Japan's ongoing rice difficulties, including lagging state procurement, rampant producer hoarding, compulsory sales, and local rationing initiatives. The memorandum questions the Tokyo Embassy's optimistic estimate of three million koku in rice imports from Chosen, citing the severe Korean drought, reports of foreign rice entering Korea, and the food requirements of the Japanese military in China. White emphasizes that Japanese agricultural yields are facing long-term structural declines due to acute shortages of chemical fertilizers and farm labor. He concludes that agricultural self-sufficiency in Japan and the Yen bloc represents a vital strategic question warranting exhaustive study.",
+   "title": "State Department Memorandum by Ivan B. White Analyzing Tokyo Despatch No. 4711",
+   "to": "Division of Far Eastern Affairs"
+  },
+  {
+   "about": "Ambassador Grew reports on mounting domestic rice distribution difficulties, official secrecy, farmer resistance, and the severe foreign exchange drain caused by grain imports.",
+   "date": "1940-05-15",
+   "doc_type": "despatch",
+   "end_page": 23,
+   "from": "Joseph C. Grew",
+   "keywords": [
+    "rice purchasing program",
+    "farmer hoarding",
+    "rationing",
+    "fertilizer shortage",
+    "foreign exchange drain",
+    "Kansai",
+    "state secrecy"
+   ],
+   "start_page": 19,
+   "summary": "Ambassador Grew reports that the Japanese government encountered severe obstacles in fulfilling its program to purchase 10.5 million koku of domestic rice for carry-over stocks prior to the 1940 harvest. Intense farmer hoarding, peasant dissatisfaction over input prices, and official secrecy surrounding actual grain reserves provoked widespread public criticism and prompted municipal rationing in smaller centers, with plans to expand rationing to the Kansai region. Grew warns that agricultural productivity is deteriorating due to persistent deficits in commercial fertilizer, farm labor, machinery, and livestock feeds. The despatch underscores that emergency rice purchases from foreign exchange areas severely exceeded the initial estimate of 200 million yen, disrupting international remittances and depriving essential industrial expansion programs of vital capital.",
+   "title": "Despatch No. 4711 from Tokyo Embassy on Worsening Rice Distribution and Imports",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "A comprehensive State Department research memorandum assessing Japan's imperial rice balance, import requirements from Southeast Asia, and vulnerability to an Allied naval blockade.",
+   "date": "1940-11-02",
+   "doc_type": "memorandum",
+   "end_page": 30,
+   "from": "J. M. Jones",
+   "keywords": [
+    "Henry F. Grady",
+    "J. M. Jones",
+    "rice imports",
+    "French Indochina",
+    "Burma",
+    "Thailand",
+    "blockade vulnerability",
+    "rationing"
+   ],
+   "start_page": 24,
+   "summary": "Prepared for Assistant Secretary Henry F. Grady, this extensive study details Japan's shift from domestic self-sufficiency to heavy reliance on external rice imports during the 1939–1940 crop year. Jones estimates that Japan was forced to import approximately 3.5 billion pounds of foreign rice, obtaining 1.5 billion pounds from occupied China and 2.0 billion pounds from Thailand, Burma, and French Indochina. For the 1940–1941 season, domestic Japanese production is projected to contract further due to shortages of fertilizer, labor, and draft animals, but increased colonial shipments and strict state distribution controls are expected to reduce foreign import needs. The memorandum assesses that French Indochina possesses ample exportable surpluses to satisfy Japanese import deficits, and concludes that an Allied naval blockade operating from Hong Kong and Manila would harass shipping but could not decisively sever rice flows or cripple Japan's economy.",
+   "title": "Memorandum by J. M. Jones for Assistant Secretary Grady on Japan's Rice Supply",
+   "to": "Henry F. Grady"
+  },
+  {
+   "about": "Minister Harrison transmits German press reports indicating that typhoons reduced the 1942 Japanese rice harvest to 67 million koku.",
+   "date": "1942-10-31",
+   "doc_type": "telegram",
+   "end_page": 31,
+   "from": "Leland Harrison",
+   "keywords": [
+    "1942 rice crop",
+    "German press",
+    "crop yield",
+    "typhoons",
+    "central Japan"
+   ],
+   "start_page": 31,
+   "summary": "Minister Leland Harrison reports from Bern that German newspapers published dispatches on the 1942 Japanese rice harvest, which fell substantially below pre-season expectations at 67 million koku. The primary cause of the restricted yield was severe typhoon weather during September in central Japan. Despite the typhoon damage, the harvest was stated to remain slightly above long-term averages.",
+   "title": "Telegram No. 4920 from Bern Legation on Japanese 1942 Rice Crop",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Minister Harrison reports German press accounts of Japanese Ministry of Agriculture estimates projecting a reduced 1943 rice crop of 62.85 to 63 million koku.",
+   "date": "1943-12-11",
+   "doc_type": "telegram",
+   "end_page": 32,
+   "from": "Leland Harrison",
+   "keywords": [
+    "1943 rice crop",
+    "Ministry of Agriculture",
+    "mulberry conversion",
+    "potato substitute",
+    "typhoon damage",
+    "German press"
+   ],
+   "start_page": 32,
+   "summary": "Harrison forwards German press coverage of official Japanese Ministry of Agriculture crop forecasts, reporting a preliminary 1943 rice yield of 63 million koku and an October 31 second estimate of 62.85 million koku. The shortfall compared to the 1942 crop was attributed to autumn typhoons and a lack of sunshine during the growing season. The reports noted that state measures to stimulate production included rice price increases and converting mulberry acreage to paddy fields, with larger potato harvests and Manchurian grain imports intended to compensate for the rice deficit.",
+   "title": "Telegram No. 7773 from Bern Legation on 1943 Japanese Rice Crop Estimates",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Minister Harrison forwards German press reports detailing 1943–1944 crop yields and grain shipments across Japan, Korea, Manchuria, Formosa, and Java.",
+   "date": "1944-02-02",
+   "doc_type": "telegram",
+   "end_page": 34,
+   "from": "Leland Harrison",
+   "keywords": [
+    "National Zeitung",
+    "Korean rice",
+    "Manchurian grains",
+    "wooden ships",
+    "Formosa",
+    "Java food requisition",
+    "corn consumption"
+   ],
+   "start_page": 33,
+   "summary": "Citing a Tokyo dispatch in the Essen National Zeitung, Harrison reports on food supply conditions across the Japanese Empire and occupied territories. Flooding in Japan caused per-capita rice yields to fall below targets, but Korea, Formosa, and Manchuria reported favorable harvests, with Formosan rice shipments relying increasingly on wooden vessels to circumvent shipping losses. In occupied Java, adverse weather reduced the rice crop, but Japanese military authorities extracted exportable rice surpluses by compelling the local population to switch their diet to corn.",
+   "title": "Telegram No. 671 from Bern Legation on Far Eastern Rice and Grain Production",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Minister Harrison reports Japanese occupation plans to forcibly resettle 300,000 residents from Singapore to Malayan provinces to expand rice production.",
+   "date": "1944-02-25",
+   "doc_type": "telegram",
+   "end_page": 35,
+   "from": "Leland Harrison",
+   "keywords": [
+    "Malaya",
+    "Singapore",
+    "population transfer",
+    "Johor",
+    "Negeri Sembilan",
+    "rice cultivation",
+    "self-sufficiency"
+   ],
+   "start_page": 35,
+   "summary": "Harrison transmits a German press account of a Tokyo dispatch outlining Japanese food self-sufficiency measures in British Malaya. Japanese occupation authorities initiated a plan to transfer 300,000 inhabitants from urban Singapore into neighboring agricultural districts where rice production had expanded. The report adds that large tracts of land in the provinces of Johor and Negeri Sembilan were being cleared for intensive paddy cultivation to reduce regional rice imports to one-third of former volumes.",
+   "title": "Telegram No. 1150 from Bern Legation on Japanese Rice Self-Sufficiency Plans in Malaya",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Chargé Huddle reports German press releases of Japanese Ministry of Agriculture estimates placing the 1944 rice harvest at 62 million koku amid drought, typhoons, and industrial expansion.",
+   "date": "1944-11-24",
+   "doc_type": "telegram",
+   "end_page": 36,
+   "from": "J. Klahr Huddle",
+   "keywords": [
+    "1944 rice crop",
+    "Ministry of Agriculture",
+    "industrial expansion",
+    "acreage reduction",
+    "wheat and potatoes",
+    "German press",
+    "J. Klahr Huddle"
+   ],
+   "start_page": 36,
+   "summary": "J. Klahr Huddle reports German press accounts of the Japanese Ministry of Agriculture's forecast for the 1944 rice harvest, estimated at 62 million koku compared to 62.5 million in 1943. The crop suffered from unfavorable weather conditions, including planting season drought in southern Japan, heavy planting rains in the north, and autumn typhoons in central and southern regions. Significantly, the dispatch notes that overall paddy acreage decreased considerably as farmland was requisitioned for wartime industrial expansion, prompting the government to intensify the compulsory cultivation of wheat and potatoes.",
+   "title": "Telegram No. 7747 from Bern Legation on Japanese 1944 Rice Crop and Industrial Land Encroachment",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 25937,
+   "output_tokens": 20197,
+   "thinking_tokens": 15004,
+   "cache_read_tokens": 0,
+   "total_tokens": 46134
+  },
+  "backend": "agy",
+  "seconds": 73.3,
+  "identifier": "japan-internal-affairs-894.61317-agriculture-field-crops-2",
+  "file": "894.61317 Agriculture., Field Crops. Seeds., Grains., Japan, Rice., December 22, 1939 - November 24, 1944 1467.pdf",
+  "created": "2026-09-29 10:48:16"
+ }
+}

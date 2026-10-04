@@ -1,0 +1,110 @@
+{
+ "interest": "Tokyo trial defense sought an International Court of Justice opinion.",
+ "keywords": [
+  "Tokyo Trials",
+  "International Military Tribunal for the Far East",
+  "International Court of Justice",
+  "War crimes trials",
+  "General Douglas MacArthur",
+  "Advisory opinions",
+  "Defense counsel",
+  "International law",
+  "Nuremberg trials",
+  "United Nations General Assembly",
+  "Marjorie M. Whiteman",
+  "Department of State"
+ ],
+ "overview": "Commander Coleman, Tokyo trials defense chief, asks Marjorie M. Whiteman (October 19, 1948) about referring legal questions to the ICJ.",
+ "people": [
+  {
+   "name": "Beverly M. Coleman",
+   "role": "Chief of Defense Counsel in the Tokyo Trials for War Criminals; Commander, U.S. Navy",
+   "variants": [
+    "Commander Coleman, U.S.N.",
+    "Commander Coleman",
+    "The Commander",
+    "Commander"
+   ]
+  },
+  {
+   "name": "Marjorie M. Whiteman",
+   "role": "Legal Adviser's Office, Department of State",
+   "variants": [
+    "Miss Whiteman",
+    "MWhiteman"
+   ]
+  },
+  {
+   "name": "George O. Gray",
+   "role": "Official, Department of State (Office of the Legal Adviser)",
+   "variants": [
+    "Mr. George Gray",
+    "George Gray"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army; Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Nuremberg",
+   "variants": [
+    "Nuremberg"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japanese"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Memorandum detailing a conference between Commander Coleman and Miss Whiteman regarding the feasibility of referring legal questions from the Tokyo war crimes trials to the International Court of Justice.",
+   "date": "1948-10-19",
+   "doc_type": "memorandum",
+   "end_page": 1,
+   "from": "Marjorie M. Whiteman",
+   "keywords": [
+    "Tokyo Trials",
+    "International Court of Justice",
+    "War crimes",
+    "Advisory opinion",
+    "General Douglas MacArthur",
+    "Defense counsel",
+    "International law"
+   ],
+   "start_page": 1,
+   "summary": "Commander Coleman asks Marjorie M. Whiteman whether Tokyo trial law could go to the International Court of Justice before MacArthur's review; she explains only states or UN organs can seek rulings.",
+   "title": "Memorandum of Conversation on Possible Reference of Questions of Law Involved in Tokyo Trials to the International Court of Justice",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14006,
+   "output_tokens": 3575,
+   "thinking_tokens": 2635,
+   "cache_read_tokens": 0,
+   "total_tokens": 17581
+  },
+  "backend": "agy",
+  "seconds": 14.0,
+  "identifier": "japan-internal-affairs-894.05-mixed-international-courts",
+  "file": "894.05 Mixed International Courts. Divided As 8**.01., October 19, 1948 1668.pdf",
+  "created": "2026-09-28 22:57:11"
+ }
+}

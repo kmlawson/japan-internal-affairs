@@ -1,0 +1,167 @@
+{
+ "interest": "This file offers valuable insight into the intersection of Japan's domestic banking vulnerabilities, rural agrarian depression, and imperial militarism following the 1931-1932 military operations in Manchuria and Shanghai. It highlights how contemporary American observers, notably Economic Adviser Herbert Feis, recognized that Japan was financing both distressed domestic bank portfolios and military campaigns in China through central bank credit expansion and bond issues rather than foreign loans. Furthermore, the administrative instruction to cease telegraphic reporting illustrates Great Depression-era austerity within the U.S. State Department, where cost-saving measures constrained diplomatic communications even during a major East Asian crisis.",
+ "keywords": [
+  "Japan",
+  "bank loans",
+  "Bank of Japan",
+  "government finance",
+  "military expenditures",
+  "China",
+  "Manchuria",
+  "silk industry",
+  "agricultural distress",
+  "inflation",
+  "State Department",
+  "diplomatic communications"
+ ],
+ "overview": "This file (State Department decimal file 894.50, April 1932) documents U.S. diplomatic reporting and internal State Department analysis concerning Japan's precarious banking sector and deteriorating fiscal position amid military operations in China and Manchuria. A comprehensive telegraphic report from Edwin L. Neville at the Tokyo Embassy details approximately 9.46 billion yen in outstanding bank loans—emphasizing severe asset depreciation in agricultural real estate, industrial debt, and silk commodity collateral—along with growing government deficits driven by the costs of the expedition in China. In response, Acting Secretary Carter instructs the Tokyo Embassy to curtail costly cable summaries in favor of mail despatches. Concluding the file, an internal assessment by Economic Adviser Herbert Feis warns of growing fiscal deficits, inflationary central bank financing, rural economic collapse, and the compounding financial obligations of Japan's expansion into Manchuria.",
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "Counselor of Embassy / Chargé d'Affaires ad interim in Tokyo",
+   "variants": [
+    "NEVILLE"
+   ]
+  },
+  {
+   "name": "Harvey H. Bundy",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "MR. BUNDY"
+   ]
+  },
+  {
+   "name": "John Ridgely Carter",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "Carter, Acting",
+    "Carter"
+   ]
+  },
+  {
+   "name": "Herbert Feis",
+   "role": "Economic Adviser, Department of State",
+   "variants": [
+    "H F",
+    "H.F.",
+    "HF"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A telegraphic report detailing Japan's outstanding bank loans, bad debts, asset depreciation, and government budget deficits stemming from military operations in China.",
+   "date": "1932-04-07",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Edwin L. Neville",
+   "keywords": [
+    "Tokyo Embassy",
+    "bank loans",
+    "mortgage loans",
+    "commodity loans",
+    "Bank of Japan",
+    "silk loans",
+    "China military expenses",
+    "government deficit"
+   ],
+   "start_page": 1,
+   "summary": "Chargé d'Affaires Edwin L. Neville transmits a detailed summary based on Commercial Attaché findings regarding Japan's 9.458 billion yen in outstanding long-term bank loans. He notes that land mortgage collateral has lost roughly two-thirds of its original value, that industrial and commodity loans face substantial liquidation challenges, and that the Bank of Japan continues to carry unliquidated emergency advances from 1927. Neville also reports on fiscal strain, noting an anticipated 400 to 500 million yen bond issue and an estimated 137 million yen in unbudgeted military expenditures for operations in China without recourse to foreign borrowing.",
+   "title": "Telegram No. 107 from Neville (Tokyo) on Japanese Bank Loans and Government Finance",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "A telegraphic instruction from the State Department directing the Tokyo Embassy to send subsequent economic reports by mail rather than cable to reduce expenses.",
+   "date": "1932-04-07",
+   "doc_type": "telegram",
+   "end_page": 3,
+   "from": "Carter, Acting Secretary of State",
+   "keywords": [
+    "Department of State",
+    "American Embassy Tokyo",
+    "cable expenses",
+    "mail transmission",
+    "reporting instructions"
+   ],
+   "start_page": 3,
+   "summary": "Acting Secretary Carter instructs the American Embassy in Tokyo regarding instruction No. 75 of March 14 to transmit future economic reports by mail rather than telegraph. The Department explains that postal reporting will eliminate the expense of telegraphic summaries, particularly because the substantive issues will be fully addressed in comprehensive final reports.",
+   "title": "Telegram No. 86 from Acting Secretary Carter to American Embassy, Tokyo",
+   "to": "American Embassy, Tokyo (Japan)"
+  },
+  {
+   "about": "An internal Department of State memorandum analyzing Japan's growing revenue deficit, central bank credit inflation, agricultural crisis, and Manchurian financial commitments.",
+   "date": "1932-04-18",
+   "doc_type": "memorandum",
+   "end_page": 4,
+   "from": "Herbert Feis",
+   "keywords": [
+    "Office of the Economic Adviser",
+    "Herbert Feis",
+    "budget deficit",
+    "inflation",
+    "silk prices",
+    "agriculture",
+    "Manchuria"
+   ],
+   "start_page": 4,
+   "summary": "Economic Adviser Herbert Feis assesses the deteriorating Japanese fiscal situation, observing that declining revenues and impending deficits are continuing to expand. He notes that the Japanese government is covering this fiscal gap through official banking inflation, while the agricultural population suffers under depressed silk prices and rising costs. Feis concludes by emphasizing that these domestic fiscal and agricultural strains are further exacerbated by the financial requirements of the newly occupied region in Manchuria.",
+   "title": "Memorandum by Herbert Feis on Japanese Deficit, Inflation, and Manchurian Finances",
+   "to": "Department of State / Office of the Economic Adviser"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14738,
+   "output_tokens": 6120,
+   "thinking_tokens": 4730,
+   "cache_read_tokens": 0,
+   "total_tokens": 20858
+  },
+  "backend": "agy",
+  "seconds": 23.5,
+  "identifier": "japan-internal-affairs-894.50-japan-economic-matters-2",
+  "file": "894.50 Japan, Economic Matters., April 7, 1932 746.pdf",
+  "created": "2026-09-29 07:48:05"
+ }
+}

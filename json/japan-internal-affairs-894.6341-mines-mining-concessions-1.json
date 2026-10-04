@@ -1,0 +1,651 @@
+{
+ "overview": "This file traces Japanese gold policy and production from 1934 to 1939, beginning with a reference to regulations implementing Japan’s gold-purchasing law, continuing with a detailed 1938 U.S. Military Attaché report on plans to expand gold output throughout Japan and its colonial and occupied territories, and ending with references to reports on Japan’s gold position, exports, and bank reserves in late 1939. The principal report translates an article by mining executive Ichiro Koyama and supplies production estimates for mines in Japan, Korea, Manchukuo, China, and Taiwan, while describing subsidies, import and railway concessions, government control, and a five-year expansion program intended to support wartime imports and stabilize the yen.",
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Empire of Japan",
+   "variants": [
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "North and Central China",
+   "variants": [
+    "North and Central China"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Daiyudo Gold Mine",
+   "variants": [
+    "Daiyudo Gold Mine"
+   ]
+  },
+  {
+   "name": "Unsan Gold Mine",
+   "variants": [
+    "Unzan",
+    "Unzan Gold Mine",
+    "Unzan Mine"
+   ]
+  },
+  {
+   "name": "Ohshin gold-mining site",
+   "variants": [
+    "Ohshin"
+   ]
+  },
+  {
+   "name": "Kinsei gold-mining site",
+   "variants": [
+    "Kinsei"
+   ]
+  },
+  {
+   "name": "Seikoh gold-mining site",
+   "variants": [
+    "Seikoh"
+   ]
+  },
+  {
+   "name": "Kintei gold-mining site",
+   "variants": [
+    "Kintei"
+   ]
+  },
+  {
+   "name": "Cishu gold-mining site",
+   "variants": [
+    "Cishu"
+   ]
+  },
+  {
+   "name": "Kohyoh gold-mining site",
+   "variants": [
+    "Kohyoh"
+   ]
+  },
+  {
+   "name": "Tsuiian gold-mining site",
+   "variants": [
+    "Tsuiian"
+   ]
+  },
+  {
+   "name": "Getsuden gold-mining site",
+   "variants": [
+    "Getsuden"
+   ]
+  },
+  {
+   "name": "Rakusan gold-mining site",
+   "variants": [
+    "Rakusan"
+   ]
+  },
+  {
+   "name": "Junan gold-mining site",
+   "variants": [
+    "Junan"
+   ]
+  },
+  {
+   "name": "Jijo gold-mining site",
+   "variants": [
+    "Jijo"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo"
+   ]
+  },
+  {
+   "name": "Northern Manchuria",
+   "variants": [
+    "North Manchuria"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Jilin Province",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Rehe Province",
+   "variants": [
+    "Jehol Provinces",
+    "Jehol Province"
+   ]
+  },
+  {
+   "name": "Heihe",
+   "variants": [
+    "Heiho"
+   ]
+  },
+  {
+   "name": "Jiamusi",
+   "variants": [
+    "Chiamussu"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Tsitsihara"
+   ]
+  },
+  {
+   "name": "Chengde",
+   "variants": [
+    "Chengteh"
+   ]
+  },
+  {
+   "name": "Fenshui Gold Mine",
+   "variants": [
+    "Fenshui Gold Mine"
+   ]
+  },
+  {
+   "name": "Haicheng County",
+   "variants": [
+    "Haichenghsien"
+   ]
+  },
+  {
+   "name": "Liaoning Province",
+   "variants": [
+    "Fengtien Province"
+   ]
+  },
+  {
+   "name": "Tsangshih Gold Mine",
+   "variants": [
+    "Tsangshih Gold Mine"
+   ]
+  },
+  {
+   "name": "Qingyuan County",
+   "variants": [
+    "Tsingyuanhsien"
+   ]
+  },
+  {
+   "name": "Pokolatsu Gold Mine",
+   "variants": [
+    "Pokolatsu Gold Mine"
+   ]
+  },
+  {
+   "name": "Yanji County",
+   "variants": [
+    "Yenkihsien"
+   ]
+  },
+  {
+   "name": "Jiandao region",
+   "variants": [
+    "Chientao Pro"
+   ]
+  },
+  {
+   "name": "Great Wall of China",
+   "variants": [
+    "Great Wall"
+   ]
+  },
+  {
+   "name": "Hebei Province",
+   "variants": [
+    "Hopei Province"
+   ]
+  },
+  {
+   "name": "Shandong Province",
+   "variants": [
+    "Shantung Province"
+   ]
+  },
+  {
+   "name": "Linglong Gold Mine",
+   "variants": [
+    "Linglung",
+    "Linglung Gold Mine",
+    "Linglung Mine"
+   ]
+  },
+  {
+   "name": "Pingdu",
+   "variants": [
+    "Pingtu"
+   ]
+  },
+  {
+   "name": "Muping",
+   "variants": [
+    "Mouping"
+   ]
+  },
+  {
+   "name": "Zhaoyuan County",
+   "variants": [
+    "Chaoyuan-hsien"
+   ]
+  },
+  {
+   "name": "Pingjiang Gold Mine",
+   "variants": [
+    "Pingkiang Gold Mine"
+   ]
+  },
+  {
+   "name": "Hunan Province",
+   "variants": [
+    "Hunan Province"
+   ]
+  },
+  {
+   "name": "Middle Yangtze River region",
+   "variants": [
+    "middle stream of the Yangtze"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Jinguashi Gold Mine",
+   "variants": [
+    "Kinkaseki"
+   ]
+  },
+  {
+   "name": "Ruifang Gold Mine",
+   "variants": [
+    "Zuiho"
+   ]
+  },
+  {
+   "name": "Taiō Gold Mine",
+   "variants": [
+    "Taio Gold Mine"
+   ]
+  },
+  {
+   "name": "Hita",
+   "variants": [
+    "Hita"
+   ]
+  },
+  {
+   "name": "Konomai Gold Mine",
+   "variants": [
+    "Konomai Gold Mine"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kushikino Gold Mine",
+   "variants": [
+    "Kushikino Gold Mine"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kinoshima",
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Chitose Gold Mine",
+   "variants": [
+    "Chitose Gold Mine"
+   ]
+  },
+  {
+   "name": "Shizuhari Gold Mine",
+   "variants": [
+    "Shizuhari Gold Mine"
+   ]
+  },
+  {
+   "name": "Sanru Gold Mine",
+   "variants": [
+    "Sanru Gold Mine"
+   ]
+  },
+  {
+   "name": "Mochikoshi Gold Mine",
+   "variants": [
+    "Mochikoshi Gold Mine"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Yamagano Gold Mine",
+   "variants": [
+    "Yamagano Gold Mine"
+   ]
+  },
+  {
+   "name": "Hoshino Gold Mine",
+   "variants": [
+    "Hoshino Gold Mine"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Osarizawa Copper Mine",
+   "variants": [
+    "Ocaruzawa Copper Mine"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Hitachi Refinery",
+   "variants": [
+    "Hitachi Refinery"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "Saganoseki Refinery",
+   "variants": [
+    "Saganoseki Refinery"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Naoshima Refinery",
+   "variants": [
+    "Naoshima Refinery"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Kosaka Refinery",
+   "variants": [
+    "Kosaka Refinery"
+   ]
+  },
+  {
+   "name": "Shisaka Island refinery",
+   "variants": [
+    "Shisakajima Refinery"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Shime"
+   ]
+  },
+  {
+   "name": "Ashio Copper Mine",
+   "variants": [
+    "Ashio Copper Mine"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Hassei Refinery",
+   "variants": [
+    "Hassei Refinery"
+   ]
+  },
+  {
+   "name": "Sado Gold Mine",
+   "variants": [
+    "Sado Gold Mine"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Hiiwata"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Williams",
+   "role": "Commercial Attaché in Tokyo",
+   "variants": [
+    "Williams"
+   ]
+  },
+  {
+   "name": "H. C. Stuart",
+   "role": "Clerk who filed the 1938 report",
+   "variants": [
+    "H.C. STUART"
+   ]
+  },
+  {
+   "name": "Ichiro Koyama",
+   "role": "Director of the Shoin Mining Company, associate of Mitsubishi mining interests, and recognized authority on Japanese mining",
+   "variants": [
+    "Ichiro Koyama"
+   ]
+  },
+  {
+   "name": "Kazushige Ugaki",
+   "role": "Japanese Foreign Minister and former Governor-General of Korea",
+   "variants": [
+    "General Ugaki"
+   ]
+  },
+  {
+   "name": "Harry I. T. Creswell",
+   "role": "Major, Acting General Staff, and U.S. Military Attaché in Tokyo",
+   "variants": [
+    "Harry I. T. Creswell"
+   ]
+  },
+  {
+   "name": "Gourley",
+   "role": "Officer reporting from Kobe; exact title not stated",
+   "variants": [
+    "Gourley"
+   ]
+  }
+ ],
+ "keywords": [
+  "gold mining",
+  "gold production",
+  "Gold Production Law",
+  "wartime finance",
+  "Japanese Empire",
+  "colonial Korea",
+  "Manchukuo",
+  "China",
+  "Formosa",
+  "mining subsidies",
+  "five-year plan",
+  "government control",
+  "gold exports",
+  "bank reserves",
+  "yen stabilization"
+ ],
+ "subfiles": [
+  {
+   "title": "Reference to report on Japan’s gold-purchasing regulations",
+   "doc_type": "cross-reference sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "1934-04-13",
+   "from": "Commercial Attaché Williams, Tokyo",
+   "to": "",
+   "about": "The sheet directs researchers to Commercial Attaché report no. 114 concerning regulations under Japan’s gold-purchasing law.",
+   "summary": "The note refers to file 102.81 Tokyo/342 for report no. 114, dated April 13, 1934. That report concerned Japanese gold-purchasing regulations announced in the Official Gazette on April 7, 1934.",
+   "keywords": [
+    "gold purchasing law",
+    "regulations",
+    "Official Gazette",
+    "Commercial Attaché",
+    "cross-reference",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Military Attaché Report No. 9481: Plan for Increase in Gold Production",
+   "doc_type": "report",
+   "start_page": 2,
+   "end_page": 6,
+   "date": "1938-07-19",
+   "from": "Harry I. T. Creswell, Military Attaché, Tokyo",
+   "to": "G-2, War Department",
+   "about": "The report translates and comments upon Ichiro Koyama’s survey of Japanese plans to expand gold production across the empire and neighboring occupied areas.",
+   "summary": "Koyama links the drive for gold to the immense cost of Japan’s war in China, its trade deficit, military imports, and continental industrial expansion. He reviews subsidies, state purchasing and control, import-duty exemptions, reduced railway charges, production figures, and mining prospects in Korea, Manchukuo, China, Taiwan, and Japan proper. The government’s five-year plan sought to raise annual imperial output from roughly ¥200 million to ¥500 million through expanded production and a semipublic Gold Mining Promotion Company. Koyama criticizes companies for leaving claims idle and recommends compulsory development, joint management of adjacent properties, and central processing plants; Creswell concludes that substantial gains are plausible but unlikely to appear immediately.",
+   "keywords": [
+    "metallic minerals",
+    "gold production",
+    "Ichiro Koyama",
+    "Bungei Shunju",
+    "Sino-Japanese War",
+    "Korea",
+    "Manchukuo",
+    "Formosa",
+    "five-year plan",
+    "mining law",
+    "Gold Mining Promotion Company",
+    "wartime economy"
+   ]
+  },
+  {
+   "title": "Cross-reference to report on Japan’s gold situation",
+   "doc_type": "cross-reference sheet",
+   "start_page": 7,
+   "end_page": 7,
+   "date": "1939-09-30",
+   "from": "Gourley, Kobe",
+   "to": "",
+   "about": "The sheet points to a Kobe report on Japan’s gold situation filed elsewhere in the decimal records.",
+   "summary": "This cross-reference identifies a report from Gourley at Kobe dated September 30, 1939. The original document is filed under number 894.515/64 rather than with this gold-mining file.",
+   "keywords": [
+    "Japan’s gold situation",
+    "Kobe",
+    "Gourley",
+    "cross-reference",
+    "gold reserves"
+   ]
+  },
+  {
+   "title": "Cross-reference to report on accelerated gold exports and reduced bank reserves",
+   "doc_type": "cross-reference sheet",
+   "start_page": 8,
+   "end_page": 8,
+   "date": "1939-12-22",
+   "from": "Gourley, Kobe",
+   "to": "",
+   "about": "The sheet references a report on Japan’s acceleration of gold exports and reduction of bank gold reserves in late 1939.",
+   "summary": "The referenced Kobe report described Japan as speeding up gold exports while reducing bank gold reserves during the latter part of 1939. Dated December 22, 1939, the original is filed as 894.515/66.",
+   "keywords": [
+    "gold exports",
+    "bank reserves",
+    "Kobe",
+    "Gourley",
+    "1939",
+    "cross-reference"
+   ]
+  }
+ ],
+ "interest": "The file is especially valuable for its unusually detailed contemporary inventory of producing mines, refineries, output values, and expansion prospects throughout Japan’s imperial economic sphere. It shows how gold policy was tied directly to the financing of the war in China, the import of munitions, exchange-rate stability, and colonial resource extraction. Koyama’s criticism of dormant mining claims also reveals disagreement within Japanese industry over how far the state should compel production, while the 1939 cross-references connect mining policy to the subsequent depletion and export of monetary gold.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 163.7,
+  "identifier": "japan-internal-affairs-894.6341-mines-mining-concessions-1",
+  "file": "894.6341 Mines. Mining. Concessions., Precious Metals And Precious Stones., Japan, Gold., April 13, 1934 - December 22, 1939 1164.pdf",
+  "created": "2026-09-29 12:05:35"
+ }
+}

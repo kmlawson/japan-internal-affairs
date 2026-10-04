@@ -1,0 +1,968 @@
+{
+ "section_summary": "This section concludes one draft statement on postwar economic policy toward Japan, then presents internal critiques, an outline, and a fuller policy paper covering occupation, reparations, economic disarmament, internal reform, and Japan’s eventual integration into world trade. Later memoranda debate whether broad long-term policy was yet useful and propose concrete research on Japanese industry, shipping, overseas assets, subsistence, and reparations; field correspondence from New Delhi discusses intelligence staffing and Japanese supplies of petroleum coke and iron ore. The section also contains a cross-reference sheet, correspondence between Mrs. Fred L. Cagwin and Joseph C. Grew about Japan’s postwar future and Christianity, and the opening of Elizabeth Schumpeter’s study advocating a relatively liberal economic settlement in light of Japan’s population and limited resources.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japam",
+    "Japen",
+    "Japas",
+    "Jupan",
+    "Janan",
+    "Japan Proper",
+    "Japanese Empire",
+    "home islands",
+    "Sunrise Kingdom"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S."
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Far East",
+    "Far Eastern"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailend",
+    "Thai"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Germeany"
+   ]
+  },
+  {
+   "name": "Pearl Harbor, Hawaii",
+   "variants": [
+    "Pearl Harbor",
+    "fearl Harbor"
+   ]
+  },
+  {
+   "name": "Cairo, Egypt",
+   "variants": [
+    "Cairo"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "North Africa"
+   ]
+  },
+  {
+   "name": "Pacific Islands",
+   "variants": [
+    "Pacific Islands",
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Commonwealth",
+    "Philippines",
+    "hillppino Islands"
+   ]
+  },
+  {
+   "name": "Davao City, Philippines",
+   "variants": [
+    "Davao"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Qingdao, China",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Betherlands Sast Indes"
+   ]
+  },
+  {
+   "name": "New Delhi, India",
+   "variants": [
+    "New Delhi",
+    "Now DeIks, Imdia"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Imdia"
+   ]
+  },
+  {
+   "name": "Kandy, Sri Lanka",
+   "variants": [
+    "Kandy"
+   ]
+  },
+  {
+   "name": "Chongqing, China",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "China–Burma–India Theater",
+   "variants": [
+    "CBI Theater"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "Southeast Asia"
+   ]
+  },
+  {
+   "name": "Kolkata, India",
+   "variants": [
+    "Caloutta"
+   ]
+  },
+  {
+   "name": "Kashmir",
+   "variants": [
+    "Kashmir"
+   ]
+  },
+  {
+   "name": "Nepal",
+   "variants": [
+    "Nepal"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washington, DC",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Carbondale, Pennsylvania",
+   "variants": [
+    "Carbondale",
+    "Carbondale, Penna"
+   ]
+  },
+  {
+   "name": "Silver Bay, New York",
+   "variants": [
+    "Silver Bay, N Y"
+   ]
+  },
+  {
+   "name": "Scranton, Pennsylvania",
+   "variants": [
+    "Scranton"
+   ]
+  },
+  {
+   "name": "Nagasaki, Japan",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Schofield Barracks, Hawaii",
+   "variants": [
+    "Schofield Barracks"
+   ]
+  },
+  {
+   "name": "Kanton Island, Kiribati",
+   "variants": [
+    "Canton Island"
+   ]
+  },
+  {
+   "name": "Guadalcanal, Solomon Islands",
+   "variants": [
+    "Guad-hoanal"
+   ]
+  },
+  {
+   "name": "Vella Lavella, Solomon Islands",
+   "variants": [
+    "Vella LaVella"
+   ]
+  },
+  {
+   "name": "Kobe, Japan",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York 21, New York",
+    "New York, New York",
+    "New York 22, New York"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "N Y",
+    "New York"
+   ]
+  },
+  {
+   "name": "Boston, Massachusetts",
+   "variants": [
+    "Boston, Massachusetts"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "Princeton, New Jersey",
+   "variants": [
+    "Princeton"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Western and Northern Europe"
+   ]
+  },
+  {
+   "name": "England and Wales",
+   "variants": [
+    "England and Wales"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "The Netherlands"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Java and Madura, Indonesia",
+   "variants": [
+    "Java and Madura"
+   ]
+  },
+  {
+   "name": "British Dominions",
+   "variants": [
+    "British dominions"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Oliver C. Lockhart",
+   "role": "Official in the Division of Financial and Monetary Affairs; recipient, author, and reviewer of memoranda on economic policy toward Japan",
+   "variants": [
+    "Mr. Oliver Lockhart",
+    "Mr. Lockhart",
+    "r. O. C. Lockhart"
+   ]
+  },
+  {
+   "name": "Emilio G. Collado",
+   "role": "Department of State official receiving memoranda on economic policy and reparations",
+   "variants": [
+    "Mr. Collado"
+   ]
+  },
+  {
+   "name": "G. H. Blakeslee",
+   "role": "Area Committee reviewer of the paper on economic policy toward Japan",
+   "variants": [
+    "Mr. G. H. Blakeslee",
+    "G. H. Blakeslee"
+   ]
+  },
+  {
+   "name": "Harold G. Moulton",
+   "role": "Coauthor of The Control of Germany and Japan",
+   "variants": [
+    "Harold G. Moulton",
+    "Moulton"
+   ]
+  },
+  {
+   "name": "G. L. Luthringer",
+   "role": "Division of Financial and Monetary Affairs official and author of the memorandum on immediate Japan studies",
+   "variants": [
+    "Mr. Luthringer"
+   ]
+  },
+  {
+   "name": "Remer",
+   "role": "Official who proposed a reparations committee and directed preliminary studies",
+   "variants": [
+    "Mr. Remer"
+   ]
+  },
+  {
+   "name": "Andrew V. Corry",
+   "role": "Foreign Economic Administration Intelligence Division officer in New Delhi and author of three letters",
+   "variants": [
+    "Andrew. Corry",
+    "Andrew V. Corry"
+   ]
+  },
+  {
+   "name": "J. Z. Schneider",
+   "role": "Acting chief at the Department of State and recipient of Corry’s covering letter",
+   "variants": [
+    "J. Z. Schneider",
+    "Joe"
+   ]
+  },
+  {
+   "name": "Goodfellow",
+   "role": "Intelligence official requesting analysis of the Japanese economy and petroleum-coke supplies",
+   "variants": [
+    "Goodfellow",
+    "uoodfellow"
+   ]
+  },
+  {
+   "name": "Dyott",
+   "role": "Source of intelligence estimates concerning Japanese iron supplies from pyritic residues",
+   "variants": [
+    "Byott",
+    "Dyott",
+    "Dyets"
+   ]
+  },
+  {
+   "name": "Paul H. Johnstone",
+   "role": "Intelligence colleague stationed at Kandy and recipient of Corry’s letter",
+   "variants": [
+    "Mr. Paul H. Johnstone",
+    "Paul Johnstone",
+    "Johnstone"
+   ]
+  },
+  {
+   "name": "R. B. Forrester",
+   "role": "Lieutenant colonel who joined Johnstone in recommendations about McCune’s return to Kandy",
+   "variants": [
+    "Lt. Cel. R. B. Farrester",
+    "Forrester",
+    "FORRESTER"
+   ]
+  },
+  {
+   "name": "Gregory Hewlett",
+   "role": "Foreign Economic Administration official in Chongqing and recipient of Corry’s letter",
+   "variants": [
+    "Mr. Gregory Hewlett",
+    "Gregory Hewlett",
+    "Hewlett",
+    "Greg"
+   ]
+  },
+  {
+   "name": "Shannon McCune",
+   "role": "Foreign Economic Administration official whose return from Chongqing to Kandy was under discussion",
+   "variants": [
+    "Shannon MeCune",
+    "MeGune",
+    "MoCune",
+    "MCCUNE",
+    "MOCUNE"
+   ]
+  },
+  {
+   "name": "Meiklejohn",
+   "role": "Expected replacement whose arrival in Chongqing would release McCune for Kandy",
+   "variants": [
+    "Meiéklejohn",
+    "MEIKLEJOHN"
+   ]
+  },
+  {
+   "name": "Cawthorne",
+   "role": "General who inspected the New Delhi intelligence premises",
+   "variants": [
+    "Cawthorne"
+   ]
+  },
+  {
+   "name": "Lane",
+   "role": "General who inspected the New Delhi intelligence premises",
+   "variants": [
+    "Lane"
+   ]
+  },
+  {
+   "name": "Hayne",
+   "role": "Colonel who convened intelligence meetings in New Delhi",
+   "variants": [
+    "Hayne",
+    "Colonel Hayne"
+   ]
+  },
+  {
+   "name": "Beecroft",
+   "role": "Corry’s colleague in the New Delhi intelligence office",
+   "variants": [
+    "Bescroft",
+    "Beecroft"
+   ]
+  },
+  {
+   "name": "Mayer",
+   "role": "Official requesting transportation intelligence",
+   "variants": [
+    "Mayer"
+   ]
+  },
+  {
+   "name": "Traylor",
+   "role": "Major responsible for distributing intelligence material",
+   "variants": [
+    "Major Traylor",
+    "Traylor"
+   ]
+  },
+  {
+   "name": "Simon",
+   "role": "Colonel requesting sketches and updated objective folders",
+   "variants": [
+    "Colonel Bimon",
+    "Colohel Simon",
+    "Simon"
+   ]
+  },
+  {
+   "name": "Basil",
+   "role": "Colleague asked to seek systematic access to Pacific-command intelligence materials",
+   "variants": [
+    "Basil"
+   ]
+  },
+  {
+   "name": "Joseph Nolan",
+   "role": "Official to be notified about prewar port-capacity intelligence",
+   "variants": [
+    "Joseph Nolan"
+   ]
+  },
+  {
+   "name": "Selme",
+   "role": "Staff member awaiting travel authorization for transfer from New Delhi to Washington",
+   "variants": [
+    "Selme"
+   ]
+  },
+  {
+   "name": "Ruth Merrill",
+   "role": "Staff member handling a cable to Washington",
+   "variants": [
+    "Ruth Merrill"
+   ]
+  },
+  {
+   "name": "Andrus",
+   "role": "Interrogator specializing in psychological-warfare subjects",
+   "variants": [
+    "Andrus"
+   ]
+  },
+  {
+   "name": "Moore",
+   "role": "Lieutenant colonel attached to G-2 who briefed intelligence personnel on biological warfare",
+   "variants": [
+    "Lt. Colonel Moore",
+    "Colonel Moore"
+   ]
+  },
+  {
+   "name": "Swerling",
+   "role": "Intelligence colleague traveling from Calcutta to the United States",
+   "variants": [
+    "Swerling"
+   ]
+  },
+  {
+   "name": "Drew",
+   "role": "Intelligence colleague visiting New Delhi from Calcutta",
+   "variants": [
+    "Drew"
+   ]
+  },
+  {
+   "name": "McClurkin",
+   "role": "Intelligence colleague returning from Calcutta to the United States",
+   "variants": [
+    "MoClurkin"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "Department of State official addressed by Mrs. Cagwin and author of the reply",
+   "variants": [
+    "Honorable Joseph C Grew"
+   ]
+  },
+  {
+   "name": "Mrs. Fred L. Cagwin",
+   "role": "Carbondale club member, church peace chair, and correspondent seeking guidance about postwar Japan",
+   "variants": [
+    "Mrs Fred L Cagwin",
+    "Mrs. Cagwin",
+    "Mra. Fred L. Cagwin"
+   ]
+  },
+  {
+   "name": "Helen Couch",
+   "role": "Missionary who spent fourteen years in Japan",
+   "variants": [
+    "Helen Couch"
+   ]
+  },
+  {
+   "name": "Toyohiko Kagawa",
+   "role": "Japanese Christian leader cited by Mrs. Cagwin",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Marion Arnold",
+   "role": "Former secretary to Joseph C. Grew",
+   "variants": [
+    "Marion Arnold"
+   ]
+  },
+  {
+   "name": "Stephen P. House",
+   "role": "Mrs. Cagwin’s cousin and former British vice-consul in Japan, including service at Kobe",
+   "variants": [
+    "Stephen P House"
+   ]
+  },
+  {
+   "name": "Joe J. Mickle",
+   "role": "Foreign Mission Conference of North America representative and former Christian worker in Japan",
+   "variants": [
+    "Mr. Joe J. Mickle",
+    "Mr. Mickle"
+   ]
+  },
+  {
+   "name": "Elizabeth Schumpeter",
+   "role": "Author of The Postwar Treatment of Japan for the Council on Foreign Relations",
+   "variants": [
+    "Elizabeth Schumpoter"
+   ]
+  },
+  {
+   "name": "Louis Marlio",
+   "role": "Coauthor of The Control of Germany and Japan",
+   "variants": [
+    "Louis Marlio",
+    "Mario"
+   ]
+  },
+  {
+   "name": "Sir George Sansom",
+   "role": "British diplomat and authority on Japanese economics, language, and culture",
+   "variants": [
+    "Sir George B. Sanson",
+    "Sanson",
+    "Sir George Sansom"
+   ]
+  }
+ ],
+ "keywords": [
+  "postwar Japan",
+  "economic policy",
+  "reparations",
+  "economic disarmament",
+  "occupation policy",
+  "war potential",
+  "foreign trade",
+  "zaibatsu and monopolies",
+  "Japanese empire",
+  "industrial controls",
+  "population pressure",
+  "Christianity in Japan"
+ ],
+ "subfiles": [
+  {
+   "title": "Economic Policy Toward Japan: Summary Statement",
+   "doc_type": "policy paper",
+   "start_page": 88,
+   "end_page": 94,
+   "continues_previous": true,
+   "date": "1944-09-06",
+   "from": "",
+   "to": "",
+   "about": "The concluding sections prescribe controls over Japan’s war potential and internal economy while envisioning its eventual integration into an open world economy.",
+   "summary": "The paper recommends removing or converting war-related plants, restricting imports of strategic materials, and ending subsidies or other devices that sustain uneconomic industries tied to military self-sufficiency. It calls for reform of large corporations, banking, and labor conditions during a relatively short period of control, followed by equal access to international trade and rejection of Japanese-controlled economic blocs.",
+   "keywords": [
+    "war potential",
+    "strategic imports",
+    "industrial conversion",
+    "internal economic reform",
+    "banking",
+    "labor organization",
+    "world trade"
+   ]
+  },
+  {
+   "title": "Memorandum commenting on “Economic Policy Toward Japan: Summary Statement”",
+   "doc_type": "memorandum",
+   "start_page": 95,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1944-09-21",
+   "from": "Central Division",
+   "to": "Oliver C. Lockhart",
+   "about": "The memorandum praises the draft but argues that it understates the domestic and international role of Japanese monopolistic concerns.",
+   "summary": "The writer considers the draft more comprehensive and balanced than earlier treatments, particularly in connecting Japan policy with wider American policy toward East Asia and China. Using Mitsui and Mitsubishi operations in Thailand as an example, the memorandum urges fuller treatment of monopolies as instruments of war preparation and external aggression, comparable in relevant respects to German firms such as I. G. Farbenindustrie.",
+   "keywords": [
+    "Japanese monopolies",
+    "zaibatsu",
+    "Mitsui",
+    "Mitsubishi",
+    "Thailand",
+    "economic aggression",
+    "I. G. Farbenindustrie"
+   ]
+  },
+  {
+   "title": "Memorandum on Economic Policy Toward Japan",
+   "doc_type": "memorandum",
+   "start_page": 97,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "1944-09-23",
+   "from": "Oliver C. Lockhart",
+   "to": "Emilio G. Collado",
+   "about": "Lockhart explains the political assumptions behind the attached economic-policy paper and warns that major changes in those assumptions would require extensive rewriting.",
+   "summary": "The memorandum says the paper was conceived as a parallel to a German-policy document and rests on the Atlantic Charter’s support for multilateral trade and economic interdependence. It argues that military defeat and occupation may disillusion the Japanese public sufficiently to favor peaceful integration, but acknowledges that unsettled high-level policy toward defeated states could require changes in emphasis and tone.",
+   "keywords": [
+    "Atlantic Charter",
+    "Cairo decisions",
+    "political assumptions",
+    "military occupation",
+    "economic interdependence",
+    "policy revision"
+   ]
+  },
+  {
+   "title": "Outline of Economic Policy Toward Japan",
+   "doc_type": "outline",
+   "start_page": 98,
+   "end_page": 100,
+   "continues_previous": false,
+   "date": "1944-09-16",
+   "from": "",
+   "to": "",
+   "about": "This outline lists the sections and principal arguments of a proposed policy paper on Japan’s postwar economy.",
+   "summary": "The outline covers the foreign-policy background, Cairo decisions, general objectives, three postwar periods, a minimum economy, restitution and reparations, and control of the war potential. It concludes with proposed reforms of Japanese corporations, banking, and labor and the gradual integration of Japan into a free world economy.",
+   "keywords": [
+    "policy outline",
+    "Cairo decisions",
+    "minimum economy",
+    "reparations",
+    "war potential",
+    "zaibatsu",
+    "world economy"
+   ]
+  },
+  {
+   "title": "Economic Policy Toward Japan",
+   "doc_type": "policy paper",
+   "start_page": 101,
+   "end_page": 125,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The paper presents a comprehensive American program for Japan’s economy from surrender and occupation through long-term reintegration into peaceful international commerce.",
+   "summary": "It connects economic policy to enduring peace, the Open Door, the Atlantic Charter, and the Cairo decisions, proposing three stages: military occupation, close economic control, and gradual integration into a free world economy. The paper addresses emergency relief, transportation and finance, restitution, reparations limited by minimum living standards and essential imports, expropriation of major overseas holdings, and controls on strategic industries and materials. It also calls for reform of concentrated corporate and financial power, broader credit for small enterprises, an effective labor movement, and equal but non-discriminatory participation by Japan in world trade.",
+   "keywords": [
+    "occupation",
+    "Open Door policy",
+    "Cairo decisions",
+    "reparations",
+    "minimum living standard",
+    "economic disarmament",
+    "overseas holdings",
+    "labor reform",
+    "world trade"
+   ]
+  },
+  {
+   "title": "Comments on the Paper on Economic Policy Toward Japan",
+   "doc_type": "memorandum",
+   "start_page": 126,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "1944-10-03",
+   "from": "G. H. Blakeslee",
+   "to": "Oliver C. Lockhart",
+   "about": "Blakeslee offers editorial and substantive comments on the policy paper after reading it twice.",
+   "summary": "He finds its conclusions generally consistent with those of the Area Committee on the Far East and praises its measured presentation, especially the sections on reparations and integration into the world economy. He suggests adding statistical and historical support, responding to Moulton’s conclusions, clarifying the meaning of a minimum economy, reconsidering the possibility of foregoing all reparations, and mentioning agrarian reform.",
+   "keywords": [
+    "policy review",
+    "Area Committee",
+    "Moulton",
+    "statistics",
+    "minimum economy",
+    "reparations",
+    "agrarian reform"
+   ]
+  },
+  {
+   "title": "Character of Immediate Work to Be Done on Economic Treatment of Japan and Japanese Reparations",
+   "doc_type": "memorandum",
+   "start_page": 129,
+   "end_page": 133,
+   "continues_previous": false,
+   "date": "1944-11-03",
+   "from": "G. L. Luthringer",
+   "to": "Emilio G. Collado",
+   "about": "Luthringer recommends postponing a broad policy statement and formal reparations committee in favor of targeted analytical studies.",
+   "summary": "He argues that uncertain high-level policy toward Germany makes an abstract long-term statement on Japan premature and likely to invite misunderstanding. Proposed studies would examine the loss of Japan’s empire, destruction of heavy industry, restrictions on shipping and aviation, effects on national income and subsistence, reparations from output or seized equipment, overseas assets, transfers to China, and the personnel required for economic control. A small steering committee would guide this work before any formal reparations or economic-disarmament committee was created.",
+   "keywords": [
+    "research program",
+    "reparations committee",
+    "heavy industry",
+    "shipping restrictions",
+    "subsistence",
+    "overseas assets",
+    "economic control"
+   ]
+  },
+  {
+   "title": "Supply and Resources",
+   "doc_type": "letter",
+   "start_page": 134,
+   "end_page": 135,
+   "continues_previous": false,
+   "date": "1944-11-07",
+   "from": "Andrew V. Corry",
+   "to": "J. Z. Schneider",
+   "about": "Corry forwards letters to Johnstone and Hewlett and requests Washington analysis of Japanese aluminum and iron-resource questions.",
+   "summary": "Corry asks for a memorandum on how interruption of petroleum-coke supplies from Netherlands East Indies refineries would affect the Japanese economy and aluminum production. He also summarizes Dyott’s view that Japanese production of iron from pyritic residues was already included in a substantially higher estimate of domestic ore supply.",
+   "keywords": [
+    "petroleum coke",
+    "aluminum",
+    "iron ore",
+    "pyritic residues",
+    "Japanese resources",
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "title": "Letter to Paul H. Johnstone",
+   "doc_type": "letter",
+   "start_page": 136,
+   "end_page": 136,
+   "continues_previous": false,
+   "date": "1944-11-06",
+   "from": "Andrew V. Corry",
+   "to": "Paul H. Johnstone",
+   "about": "Corry reports action on Johnstone’s instructions concerning McCune’s return to Kandy and gives brief news from the New Delhi office.",
+   "summary": "Corry says Johnstone’s letters were being forwarded to Hewlett and that a cable endorsed delaying a final decision on McCune’s return until the correspondence was reviewed and Meiklejohn’s arrival in Chongqing became clearer. He also reports an inspection by Generals Cawthorne and Lane, an effort to justify expanded accommodations, and an upcoming meeting in Colonel Hayne’s office.",
+   "keywords": [
+    "Kandy staffing",
+    "McCune",
+    "Chongqing",
+    "New Delhi",
+    "office inspection",
+    "intelligence administration"
+   ]
+  },
+  {
+   "title": "Letter to Gregory Hewlett",
+   "doc_type": "letter",
+   "start_page": 137,
+   "end_page": 139,
+   "continues_previous": false,
+   "date": "1944-11-06",
+   "from": "Andrew V. Corry",
+   "to": "Gregory Hewlett",
+   "about": "Corry reports on personnel, intelligence distribution, biological-warfare collection, and travel in the China–Burma–India theater.",
+   "summary": "The letter reproduces a cable recommending that McCune postpone returning to Kandy until Meiklejohn could relieve him in Chongqing, and it addresses the distribution and evaluation of transportation, port, railroad, and Pacific-command intelligence. Corry also reports staffing and travel matters, a G-2 briefing by Lieutenant Colonel Moore on collecting biological-warfare information, and his own recent Kashmir trip and proposed journey to Nepal.",
+   "keywords": [
+    "intelligence distribution",
+    "Kandy",
+    "Chongqing",
+    "transportation intelligence",
+    "biological warfare",
+    "personnel",
+    "Kashmir",
+    "Nepal"
+   ]
+  },
+  {
+   "title": "Cross-Reference Note: Appointment of an Executive Committee of the Joint Conference Committee",
+   "doc_type": "cross-reference sheet",
+   "start_page": 140,
+   "end_page": 140,
+   "continues_previous": false,
+   "date": "1944-11-30",
+   "from": "Engineers Joint Conference",
+   "to": "Committee",
+   "about": "The sheet directs the reader to the original letter concerning appointment of an executive committee.",
+   "summary": "The cross-reference identifies a letter dated November 30, 1944, on advising of the appointment of an Executive Committee of the Joint Conference Committee. It gives the original file reference as 840.50/11-3044.",
+   "keywords": [
+    "cross-reference",
+    "executive committee",
+    "Joint Conference Committee",
+    "file reference"
+   ]
+  },
+  {
+   "title": "Letter asking about Japan’s collapse, comeback, and Christianity",
+   "doc_type": "letter",
+   "start_page": 141,
+   "end_page": 142,
+   "continues_previous": false,
+   "date": "1944-12-10",
+   "from": "Mrs. Fred L. Cagwin",
+   "to": "Joseph C. Grew",
+   "about": "Mrs. Cagwin seeks guidance for a club paper on whether Japan’s collapse or recovery would pose the greater postwar danger and asks about Christianity’s future in Japan.",
+   "summary": "She asks for points concerning the dangers of economic collapse, renewed Japanese power, loss of trade, and possible communist expansion. Drawing on Methodist mission work, local connections with missionaries, and her son’s combat service in the Pacific, she argues against treating all Japanese as irredeemable and asks about figures such as Kagawa and the prospects for the Japanese Christian church.",
+   "keywords": [
+    "public inquiry",
+    "postwar Japan",
+    "economic collapse",
+    "Japanese recovery",
+    "Communism",
+    "Christian missions",
+    "Kagawa"
+   ]
+  },
+  {
+   "title": "Reply to Mrs. Fred L. Cagwin",
+   "doc_type": "letter",
+   "start_page": 143,
+   "end_page": 144,
+   "continues_previous": false,
+   "date": "1945-01-23",
+   "from": "Joseph C. Grew",
+   "to": "Mrs. Fred L. Cagwin",
+   "about": "Grew responds to Mrs. Cagwin by recommending speeches, publications, research organizations, and a missionary expert rather than attempting a short substantive answer.",
+   "summary": "Grew welcomes informed public study of postwar international problems but says her questions are too complex for adequate treatment in a letter. He encloses three speeches and recommends the Council on Foreign Relations, Foreign Policy Association, Carnegie Endowment, World Peace Foundation, Institute of Pacific Relations, the State Department’s Foreign Relations volumes on Japan, and Joe J. Mickle for information on Japanese Christianity.",
+   "keywords": [
+    "public education",
+    "research organizations",
+    "Foreign Relations",
+    "postwar policy",
+    "Christianity in Japan",
+    "Joe J. Mickle"
+   ]
+  },
+  {
+   "title": "The Postwar Treatment of Japan",
+   "doc_type": "study paper",
+   "start_page": 145,
+   "end_page": 149,
+   "continues_previous": false,
+   "date": "",
+   "from": "Elizabeth Schumpeter",
+   "to": "Economic and Financial Group, Council on Foreign Relations",
+   "about": "Schumpeter reviews arguments for liberal economic treatment of defeated Japan and begins a demographic and resource analysis.",
+   "summary": "Drawing chiefly on the Princeton conference report, Harold G. Moulton and Louis Marlio, and Sir George Sansom, Schumpeter argues that a defeated and disarmed Japan would still need industry, international trade, a merchant marine, and eventual participation in international economic arrangements. She contrasts that position with proposals to eliminate heavy industry or reduce Japan to agriculture and stresses the administrative difficulties of extensive economic control. Population statistics for Japan, Korea, Taiwan, Manchuria, and comparator countries support her contention that the densely populated home islands could not subsist on agriculture alone and would probably continue to experience population growth.",
+   "keywords": [
+    "liberal economic treatment",
+    "Moulton and Marlio",
+    "George Sansom",
+    "merchant marine",
+    "population growth",
+    "arable land",
+    "industrialization",
+    "foreign trade"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 4,
+  "pages": [
+   88,
+   149
+  ],
+  "pdf": "894.50 Japan, Economic Matters., June 22, 1944 - December 29, 1944 1482.pdf",
+  "seconds": 191.8,
+  "created": "2026-10-03 22:48:03",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-14"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "interest": "Empty file class for Japanese military visits to Europe.",
+ "keywords": [
+  "Japan",
+  "Europe",
+  "military aircraft",
+  "military bodies",
+  "military visits",
+  "troop transit",
+  "State Department decimal file",
+  "894.2340",
+  "Record Group 59",
+  "file cover sheet"
+ ],
+ "overview": "Cover sheet only for 894.2340/1 on Japanese military bodies entering Europe; no correspondence present.",
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department file cover and docket sheet for document 894.2340/1 regarding the entrance of Japanese military bodies and aircraft into Europe in transit or on visit.",
+   "date": "",
+   "doc_type": "cover sheet",
+   "end_page": 1,
+   "from": "",
+   "keywords": [
+    "file cover",
+    "docket sheet",
+    "894.2340/1",
+    "Japan",
+    "Europe",
+    "military aircraft"
+   ],
+   "start_page": 1,
+   "summary": "Cover sheet for file 894.2340/1; no correspondence attached.",
+   "title": "Cover sheet for file 894.2340/1 on entrance of Japanese military bodies and aircraft into Europe",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13755,
+   "output_tokens": 5378,
+   "thinking_tokens": 4705,
+   "cache_read_tokens": 0,
+   "total_tokens": 19133
+  },
+  "backend": "agy",
+  "seconds": 22.2,
+  "identifier": "japan-internal-affairs-894.2340-entrance-of-military-1",
+  "file": "894.2340 Entrance Of Military Bodies And Aircraft Of Japan Into Europe In Transit Or On Visit.,  279.pdf",
+  "created": "2026-09-29 03:33:54"
+ }
+}

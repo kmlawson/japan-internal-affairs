@@ -1,0 +1,99 @@
+{
+ "interest": "Japanese naval construction at Tsingtao and the Spratlys, 1940.",
+ "keywords": [
+  "decimal file 894.345",
+  "naval stations",
+  "navy yards",
+  "coaling stations",
+  "Imperial Japanese Navy",
+  "Tsingtao",
+  "Spratly Island",
+  "Itu Aba Island",
+  "naval air bases",
+  "reinforced concrete",
+  "naval intelligence",
+  "Department of State"
+ ],
+ "overview": "Docket for 894.345 (1940): naval construction at Tsingtao and air bases at Spratly and Itu Aba.",
+ "people": [
+  {
+   "name": "Samuel Sokobin",
+   "role": "American Consul at Tsingtao",
+   "variants": [
+    "Sokobin"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jap."
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Spratly Islands",
+   "variants": [
+    "Spratly Island"
+   ]
+  },
+  {
+   "name": "Itu Aba Island",
+   "variants": [
+    "Itauba Island"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A State Department list of papers cataloguing records under decimal file 894.345 concerning Japanese naval stations, navy yards, and coaling stations.",
+   "date": "1945-10-12",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Form DS-46",
+    "naval stations",
+    "navy yards",
+    "coaling stations",
+    "Tsingtao",
+    "Spratly Island",
+    "Itu Aba Island",
+    "naval air bases"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.345: Tsingtao naval construction and Spratly air bases, 1940.",
+   "title": "Department of State List of Papers: Navy Yards, Coaling Stations, Naval Stations - Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13797,
+   "output_tokens": 7457,
+   "thinking_tokens": 6597,
+   "cache_read_tokens": 0,
+   "total_tokens": 21254
+  },
+  "backend": "agy",
+  "seconds": 25.9,
+  "identifier": "japan-internal-affairs-894.345-equipment-and-supplies-2",
+  "file": "894.345 Equipment And Supplies. Included Construction, Purchase And Sale Of Vessels. Repairs To Foreign Naval Vessels., Naval And Coaling Stations Of Japan In Country  Stationing Of Colliers.,  193.pdf",
+  "created": "2026-09-29 04:48:28"
+ }
+}

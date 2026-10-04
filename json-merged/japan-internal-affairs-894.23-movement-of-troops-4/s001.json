@@ -1,0 +1,1597 @@
+{
+ "section_summary": "This section assembles intelligence and diplomatic reporting on Japanese troop dispositions and movements from October 1940 through December 1941. It covers garrisons across China and Manchuria, withdrawals and embarkations from Canton, Shanghai, Haiphong, Kobe, and Woosung, reported concentrations for operations against Singapore or Southeast Asia, and large troop landings at Dairen. The section also contains statistical naval-intelligence reports, cross-reference sheets, internal paraphrases, and conversations with British and Chinese diplomats assessing Japanese intentions.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokge",
+    "Tokyo",
+    "Takyo",
+    "Tokye",
+    "Tblyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Guangxi",
+   "variants": [
+    "Kwmngms",
+    "Kwangai",
+    "Kwangsi"
+   ]
+  },
+  {
+   "name": "Qiqihar",
+   "variants": [
+    "Taitaihar"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Karbin",
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Yichang",
+   "variants": [
+    "Iehang",
+    "Iohang"
+   ]
+  },
+  {
+   "name": "Hubei",
+   "variants": [
+    "äupoh",
+    "Hupeh",
+    "Rupah"
+   ]
+  },
+  {
+   "name": "Jiamusi",
+   "variants": [
+    "Chiamsssu"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Eemabaria",
+    "Manahmria",
+    "monetaris",
+    "Kanenuria",
+    "Manchuria",
+    "Manehuria",
+    "Manohuria"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-Chins",
+    "French Indochina",
+    "Indochina",
+    "Indo-China",
+    "southern Indochina"
+   ]
+  },
+  {
+   "name": "Henan",
+   "variants": [
+    "Sonan",
+    "Hermn",
+    "Fonen"
+   ]
+  },
+  {
+   "name": "Hailar",
+   "variants": [
+    "Hailer",
+    "Hailar"
+   ]
+  },
+  {
+   "name": "Haiho",
+   "variants": [
+    "Haiho"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kan",
+    "Kamafute"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himaga"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Casten",
+    "Canton",
+    "Canten",
+    "Cantn",
+    "Cm tun",
+    "Ganten"
+   ]
+  },
+  {
+   "name": "Ranam",
+   "variants": [
+    "Raem"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Kovea",
+    "Hures"
+   ]
+  },
+  {
+   "name": "Yongsan, Seoul",
+   "variants": [
+    "Ryasm"
+   ]
+  },
+  {
+   "name": "Jiangsu",
+   "variants": [
+    "Kiangsu"
+   ]
+  },
+  {
+   "name": "Anhui",
+   "variants": [
+    "Ansdhai"
+   ]
+  },
+  {
+   "name": "Hangzhou",
+   "variants": [
+    "Hangohew"
+   ]
+  },
+  {
+   "name": "Zhangjiakou",
+   "variants": [
+    "Kalgae"
+   ]
+  },
+  {
+   "name": "Suiyuan",
+   "variants": [
+    "Suiyuan"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tiestain",
+    "Tientsin",
+    "Tientsih"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formome",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shautung"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "Hopei"
+   ]
+  },
+  {
+   "name": "Jiangxi",
+   "variants": [
+    "Kiengmi",
+    "Kiangai"
+   ]
+  },
+  {
+   "name": "Xinxiang",
+   "variants": [
+    "Sinsiang"
+   ]
+  },
+  {
+   "name": "Shanxi",
+   "variants": [
+    "Shansd",
+    "Shessi",
+    "Shamai",
+    "Shansi"
+   ]
+  },
+  {
+   "name": "Xinhui",
+   "variants": [
+    "Sumatui"
+   ]
+  },
+  {
+   "name": "Guangdong",
+   "variants": [
+    "Kwesting",
+    "KWANGT TUNG",
+    "Kwangtung"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Smatew"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Contral Ghins",
+    "Central China"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "Merth Sapai",
+    "North China"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "Saigon",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi"
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan",
+    "Hainan Island"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen",
+    "Dad ren"
+   ]
+  },
+  {
+   "name": "Haiphong",
+   "variants": [
+    "Haiphong"
+   ]
+  },
+  {
+   "name": "Lang Son",
+   "variants": [
+    "Langson"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Burma Road",
+   "variants": [
+    "Burma Road"
+   ]
+  },
+  {
+   "name": "Cavite",
+   "variants": [
+    "Cavite"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "Changking"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping",
+    "PEiping",
+    "Paiping",
+    "Poiping",
+    "Peking",
+    "Peining"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shangha1"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "yushu"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "SingaporE",
+    "Singapore",
+    "Singa-pore"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europε",
+    "Europe"
+   ]
+  },
+  {
+   "name": "Suez Canal",
+   "variants": [
+    "Suez Canal",
+    "Sues Canal"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Tanggu",
+   "variants": [
+    "Tangku"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "KOSCOW"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Beihai",
+   "variants": [
+    "PAKHOIY"
+   ]
+  },
+  {
+   "name": "Towshan",
+   "variants": [
+    "TOWSHAN"
+   ]
+  },
+  {
+   "name": "Daya Bay",
+   "variants": [
+    "BIAS BAY"
+   ]
+  },
+  {
+   "name": "Pearl River",
+   "variants": [
+    "Pearl River"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantic"
+   ]
+  },
+  {
+   "name": "Britain",
+   "variants": [
+    "Britain"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Japanese South Seas Mandate",
+   "variants": [
+    "mandated island"
+   ]
+  },
+  {
+   "name": "Fuzhou",
+   "variants": [
+    "FOOCHOW",
+    "Foochow",
+    "FOUCHO\""
+   ]
+  },
+  {
+   "name": "Fujian",
+   "variants": [
+    "FUKIEN",
+    "Fukien"
+   ]
+  },
+  {
+   "name": "Shilong",
+   "variants": [
+    "ShEklung",
+    "Sheklung"
+   ]
+  },
+  {
+   "name": "Dong River",
+   "variants": [
+    "East River"
+   ]
+  },
+  {
+   "name": "Bogue",
+   "variants": [
+    "Bocca Tigris"
+   ]
+  },
+  {
+   "name": "Huangpu",
+   "variants": [
+    "Whampoa"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KobE"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Seto Inland Sea",
+   "variants": [
+    "inland sEa"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "Vichy",
+   "variants": [
+    "Vichy"
+   ]
+  },
+  {
+   "name": "Lüshun",
+   "variants": [
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Rason",
+   "variants": [
+    "Rashin"
+   ]
+  },
+  {
+   "name": "China Proper",
+   "variants": [
+    "China Proper"
+   ]
+  },
+  {
+   "name": "Wusong",
+   "variants": [
+    "O0SUNG"
+   ]
+  },
+  {
+   "name": "Min River",
+   "variants": [
+    "MIN IVER"
+   ]
+  },
+  {
+   "name": "French Cochinchina",
+   "variants": [
+    "Cochin-China"
+   ]
+  },
+  {
+   "name": "American Republics",
+   "variants": [
+    "American Republics"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Panama-Canal-Department"
+   ]
+  },
+  {
+   "name": "France Field",
+   "variants": [
+    "France Field"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lime",
+    "Lima"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Coast of China",
+   "variants": [
+    "Chinese coast"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan",
+   "variants": [
+    "Grav",
+    "GREW",
+    "Grew",
+    "Ambassador Grew"
+   ]
+  },
+  {
+   "name": "Yōsuke Matsuoka",
+   "role": "Japanese Foreign Minister",
+   "variants": [
+    "Matsuoka"
+   ]
+  },
+  {
+   "name": "Kanji Ishiwara",
+   "role": "Retired Japanese general and former commander of the Sixteenth Division",
+   "variants": [
+    "General Ishihara",
+    "GenEral Ishihara",
+    "General Isbihara",
+    "General Ishihare"
+   ]
+  },
+  {
+   "name": "Albert F. Metze",
+   "role": "United States naval officer associated with the Peiping naval-attaché intelligence reports",
+   "variants": [
+    "ALBERT F. METZE",
+    "ALBERT F. MTZE"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "State Department Far Eastern affairs official and report recipient",
+   "variants": [
+    "r. Hamilton",
+    "Mr. Hamilton",
+    "Mr. Namilton"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department Far Eastern affairs official and report recipient",
+   "variants": [
+    "Mr. Hornbeck"
+   ]
+  },
+  {
+   "name": "McHugh",
+   "role": "Source of the Hong Kong station-ship report",
+   "variants": [
+    "MCHUGH"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "United States Under Secretary of State",
+   "variants": [
+    "WELLES",
+    "Mr. Welles"
+   ]
+  },
+  {
+   "name": "Edward Wood, Viscount Halifax",
+   "role": "British Ambassador to the United States",
+   "variants": [
+    "British Ambassador, Viscount Halifax",
+    "Lord Halifax"
+   ]
+  },
+  {
+   "name": "Winston Churchill",
+   "role": "British prime minister",
+   "variants": [
+    "Mr. Churchill"
+   ]
+  },
+  {
+   "name": "Myers",
+   "role": "United States reporting officer at Canton",
+   "variants": [
+    "MYERS",
+    "MEYERS"
+   ]
+  },
+  {
+   "name": "Warner",
+   "role": "United States reporting officer at Kobe",
+   "variants": [
+    "Warner",
+    "WARNER"
+   ]
+  },
+  {
+   "name": "Bruins",
+   "role": "United States reporting officer at Hong Kong",
+   "variants": [
+    "Bruins"
+   ]
+  },
+  {
+   "name": "Chase",
+   "role": "United States consular reporting officer at Dairen",
+   "variants": [
+    "CHASE"
+   ]
+  },
+  {
+   "name": "Kenneth C. Krentz",
+   "role": "American Consul at Mukden",
+   "variants": [
+    "KRENTZ",
+    "Kenneth C. Krentz",
+    "Kemneth C. Krentz"
+   ]
+  },
+  {
+   "name": "Nelson Trusler Johnson",
+   "role": "American Ambassador at Peiping",
+   "variants": [
+    "Nelsen Truslor Johnson"
+   ]
+  },
+  {
+   "name": "Saito",
+   "role": "Japanese colonel remaining at Saigon",
+   "variants": [
+    "Colonel Saito"
+   ]
+  },
+  {
+   "name": "Flood",
+   "role": "United States reporting officer at Saigon",
+   "variants": [
+    "Flood"
+   ]
+  },
+  {
+   "name": "Rinkichi Kaneko",
+   "role": "Japanese army officer traveling on a diplomatic passport",
+   "variants": [
+    "Rinkes Kaneko"
+   ]
+  },
+  {
+   "name": "Eitoro Yusicka",
+   "role": "Japanese army officer traveling on a diplomatic passport",
+   "variants": [
+    "Eitoro Yusicka",
+    "Tusicka"
+   ]
+  },
+  {
+   "name": "Atsunari Uchida",
+   "role": "Japanese army officer traveling on a diplomatic passport",
+   "variants": [
+    "Atunarh Utida",
+    "Atunarhi Utida"
+   ]
+  },
+  {
+   "name": "Lauchlin Currie",
+   "role": "United States official listed as a recipient of the War Department message",
+   "variants": [
+    "Mr. Currie"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "United States Secretary of State",
+   "variants": [
+    "SECRETARY OF STATE HULL"
+   ]
+  },
+  {
+   "name": "Wei Tao-ming",
+   "role": "Chinese Ambassador to the United States",
+   "variants": [
+    "WEI TAO-MING"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese troop movements",
+  "military intelligence",
+  "China",
+  "Manchuria",
+  "Indochina",
+  "Singapore invasion reports",
+  "troop transports",
+  "naval attachés",
+  "Dairen landings",
+  "Canton withdrawals",
+  "World War II",
+  "diplomatic reporting"
+ ],
+ "subfiles": [
+  {
+   "title": "Confidential List of Present Japanese Division Locations",
+   "doc_type": "confidential intelligence memorandum",
+   "start_page": 1,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1940-10-26",
+   "from": "",
+   "to": "United States military, naval, and executive officials",
+   "about": "Lists the believed current stations of Japanese divisions and the Imperial Guard.",
+   "summary": "The memorandum provides a division-by-division inventory of Japanese military locations in Japan, Korea, Manchuria, and occupied China. Stations include Tokyo, Qiqihar, Harbin, Yichang, Hailar, Canton, Tianjin, Taiwan, and numerous provincial fronts. The final page is principally a distribution list for senior American departments and intelligence offices.",
+   "keywords": [
+    "Japanese Army",
+    "divisional dispositions",
+    "China",
+    "Manchuria",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "Cross-Reference: Japanese Forces and Concessions in French Indochina",
+   "doc_type": "cross-reference sheet",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1940-11-07",
+   "from": "Saigon (Hanoi)",
+   "to": "Department of State files",
+   "about": "References a telegram on Japanese concessions, a Hainan concentration, and withdrawals from Guangxi.",
+   "summary": "The sheet points to Saigon telegram No. 31 concerning Japanese military concessions in French Indochina. It notes reports of a large concentration at Hainan, an almost complete withdrawal from Guangxi, and speculation about Japanese intentions in Indochina.",
+   "keywords": [
+    "French Indochina",
+    "Hainan",
+    "Guangxi",
+    "cross-reference",
+    "Japanese forces"
+   ]
+  },
+  {
+   "title": "Cross-Reference: Japanese Troops in Dairen",
+   "doc_type": "cross-reference sheet",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1941-01-29",
+   "from": "Japan (Grew)",
+   "to": "Department of State files",
+   "about": "References a message quoting the American consul at Dairen on Japanese troops there.",
+   "summary": "The filing note points to a January 29 telegram from Japan. That telegram quoted a January 28 message from the American consul at Dairen concerning Japanese troops.",
+   "keywords": [
+    "Dairen",
+    "Japanese troops",
+    "American consul",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Hanoi Telegram No. 46 on Troops Embarking at Haiphong",
+   "doc_type": "telegram",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1941-03-28",
+   "from": "Hanoi",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the departure of about 3,500 jungle-trained Japanese soldiers from Haiphong.",
+   "summary": "Reliable reports said approximately 3,500 Japanese soldiers had embarked at Haiphong for an unknown destination. They had received special jungle training near Lang Son, including maneuver and trail-opening work. Observers speculated that they might be used in Thailand against adjoining British territory or the Burma Road.",
+   "keywords": [
+    "Haiphong",
+    "jungle training",
+    "Thailand",
+    "Burma Road",
+    "troop embarkation"
+   ]
+  },
+  {
+   "title": "Hanoi Telegram No. 48 on Withdrawals from Tonkin and Saigon",
+   "doc_type": "telegram",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1941-04-01",
+   "from": "Hanoi",
+   "to": "Secretary of State, Washington",
+   "about": "Reports withdrawals of Japanese troops and modern artillery from northern and southern Indochina.",
+   "summary": "The sender estimated that about 5,000 Japanese soldiers had been withdrawn from Tonkin. The chief of the Military Cabinet expected all Japanese military personnel to leave Saigon shortly. Modern artillery was reportedly being shipped away from Haiphong and replaced by older guns, although additional light tanks had recently arrived.",
+   "keywords": [
+    "Tonkin",
+    "Saigon",
+    "Haiphong",
+    "troop withdrawal",
+    "artillery",
+    "tanks"
+   ]
+  },
+  {
+   "title": "Cross-Reference: Reports on Japanese Naval and Troop Movements",
+   "doc_type": "cross-reference sheet with filing slip",
+   "start_page": 8,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1941-02-15",
+   "from": "Saigon",
+   "to": "Department of State files",
+   "about": "References instructions to continue telegraphic reporting on Japanese naval vessels and troop movements.",
+   "summary": "The filing material refers to Saigon telegram No. 19. Its subject is the movement of Japanese naval vessels and troops, and it records an instruction that telegraphic reports on those movements should continue.",
+   "keywords": [
+    "Saigon",
+    "naval movements",
+    "troop movements",
+    "reporting instructions",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Tokyo Telegram No. 546 on a Reported Plan to Attack Singapore",
+   "doc_type": "telegram",
+   "start_page": 10,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1941-04-12",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Relays reports that twelve to fifteen Japanese divisions were concentrated for an imminent attack on Singapore.",
+   "summary": "Two sources, an American correspondent and a foreign diplomat, reported concentrations in Kyushu, Taiwan, and Hainan intended for an assault on Singapore. The attack was supposedly to occur within days and perhaps coincide with a German attack on the Suez Canal. The correspondent identified retired General Ishihara as a source who said the move had been decided upon but that he opposed it.",
+   "keywords": [
+    "Singapore",
+    "Kyushu",
+    "Formosa",
+    "Hainan",
+    "Suez Canal",
+    "General Ishihara"
+   ]
+  },
+  {
+   "title": "Paraphrase of Tokyo Telegram No. 546",
+   "doc_type": "paraphrased telegram",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1941-04-12",
+   "from": "American Ambassador at Tokyo",
+   "to": "Department of State circulation",
+   "about": "Paraphrases the reported Japanese plan for an imminent attack on Singapore.",
+   "summary": "The paraphrase repeats the claim that twelve or thirteen Japanese divisions were concentrated in Kyushu, Taiwan, and Hainan. It connects the projected Singapore attack with German action against the Suez Canal and identifies General Ishihara as a reported source. Ishihara was said to oppose the decision.",
+   "keywords": [
+    "Singapore",
+    "Japanese divisions",
+    "Suez Canal",
+    "General Ishihara",
+    "paraphrase"
+   ]
+  },
+  {
+   "title": "Tokyo Telegram No. 547 Evaluating the Singapore Report",
+   "doc_type": "telegram",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1941-04-13",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the limited results of efforts to assess the credibility of the alleged Singapore plan.",
+   "summary": "The embassy sought information that could help evaluate the previous day's report of an impending Japanese attack. Its only confirmed finding was that the foreign diplomat's own informant was a German businessman.",
+   "keywords": [
+    "source evaluation",
+    "Singapore report",
+    "German businessman",
+    "Tokyo embassy"
+   ]
+  },
+  {
+   "title": "Paraphrase of Tokyo Telegram No. 547",
+   "doc_type": "paraphrased telegram with duplicate copy",
+   "start_page": 14,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1941-04-13",
+   "from": "American Ambassador at Tokyo",
+   "to": "Department of State circulation",
+   "about": "Paraphrases the embassy's effort to assess the source behind the Singapore-attack report.",
+   "summary": "The document restates that the embassy was seeking evidence with which to judge telegram No. 546. The sole additional fact obtained was that a German businessman had supplied the information to the diplomat. Page 15 is a poor duplicate copy of the same paraphrase.",
+   "keywords": [
+    "source evaluation",
+    "German businessman",
+    "Tokyo",
+    "duplicate copy"
+   ]
+  },
+  {
+   "title": "Japanese Troop and Material Movement Through Tientsin in January 1941",
+   "doc_type": "naval intelligence report",
+   "start_page": 16,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1941-02-20",
+   "from": "Naval Attaché at Peiping",
+   "to": "Office of Naval Intelligence and Department of State",
+   "about": "Tabulates Japanese troops and military matériel passing through Tianjin during January 1941.",
+   "summary": "French sources reported 7,800 troops arriving from the sea toward Beijing and departures toward Tanggu that included troops, wounded men, and dead. Matériel figures included trucks, tanks or armored cars, aircraft, and trains carrying munitions, supplies, and barbed wire. Damaged guns, aircraft, and trucks were among the items shipped out.",
+   "keywords": [
+    "Tientsin",
+    "troop statistics",
+    "military equipment",
+    "French sources",
+    "North China"
+   ]
+  },
+  {
+   "title": "Japanese Troop and Material Movement in North China During 1940",
+   "doc_type": "naval intelligence report",
+   "start_page": 18,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1941-02-20",
+   "from": "Naval Attaché at Peiping",
+   "to": "Office of Naval Intelligence and Department of State",
+   "about": "Summarizes a year of Japanese troop and matériel traffic through Tianjin.",
+   "summary": "French military and police sources in Tianjin reported 110,300 Japanese and 17,000 Manchurian arrivals during 1940. Departures included 113,550 Japanese personnel, 40,990 wounded, and 33,500 dead. Incoming equipment included 1,072 trucks, 156 aircraft, 421 tanks or armored cars, and 142 guns.",
+   "keywords": [
+    "North China",
+    "Tientsin",
+    "annual statistics",
+    "Japanese casualties",
+    "military equipment"
+   ]
+  },
+  {
+   "title": "Paraphrase of Chungking Naval-Attaché Report on the Kwangtung Coast",
+   "doc_type": "paraphrased intelligence message",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1941-03-10",
+   "from": "Assistant Naval Attaché at Chungking",
+   "to": "Department of State",
+   "about": "Describes the reported purpose of Japanese coastal operations in Guangdong and Chinese concern over Matsuoka's diplomacy.",
+   "summary": "Chinese intelligence believed Japanese operations on the Guangdong coast were intended to cut smuggling routes, destroy salt fields, and force Chinese forces inland. Only a few thousand Japanese troops were thought to be involved. Chinese officials were also anxious about Matsuoka's journey to Moscow and Berlin and continuing negotiations with the Soviet Union.",
+   "keywords": [
+    "Kwangtung coast",
+    "smuggling",
+    "salt fields",
+    "Matsuoka",
+    "Soviet relations"
+   ]
+  },
+  {
+   "title": "Paraphrase of Hongkong Station-Ship Report on Coastal Landings",
+   "doc_type": "paraphrased intelligence message",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1941-03-10",
+   "from": "Station Ship at Hongkong",
+   "to": "Department of State",
+   "about": "Reports Japanese landings between Pakhoi and Towshan intended to close smuggling routes.",
+   "summary": "Two regiments from the 38th Division and Second Guards Brigade reportedly made six small landings between Pakhoi and Towshan. Most came from the Canton area rather than Hainan, and their apparent mission was to close smuggling routes after the closure of Bias Bay. The report also recorded heavy transport traffic in the Pearl River and Japanese sales of commercial shipping passes.",
+   "keywords": [
+    "coastal landings",
+    "Pakhoi",
+    "smuggling routes",
+    "Pearl River",
+    "38th Division"
+   ]
+  },
+  {
+   "title": "Memorandum of Conversation and British Telegram on an Alleged Singapore Plan",
+   "doc_type": "memorandum of conversation with enclosure",
+   "start_page": 22,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1941-04-14",
+   "from": "Sumner Welles; British Ambassador at Tokyo",
+   "to": "Department of State; British Foreign Office",
+   "about": "Records Halifax's delivery of a British report alleging a Japanese plan for a surprise attack on Singapore.",
+   "summary": "Viscount Halifax gave Under Secretary Welles a copy of an April 13 telegram from the British Ambassador at Tokyo. A secret source claimed that twelve to fifteen divisions were assembled in Taiwan and Hainan, with transports ready for a direct attack on Singapore coordinated with German action at Suez. The source believed Japan expected the United States to remain preoccupied with the Atlantic and aid to Britain. The alleged plan avoided preliminary seizure of Indochinese bases so as not to alert Washington.",
+   "keywords": [
+    "Viscount Halifax",
+    "Singapore",
+    "Formosa",
+    "Hainan",
+    "Suez Canal",
+    "surprise attack"
+   ]
+  },
+  {
+   "title": "Paraphrase of Shanghai Report on the Occupation of Foochow",
+   "doc_type": "paraphrased intelligence message",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1941-04-22",
+   "from": "Assistant Naval Attaché at Shanghai",
+   "to": "Department of State",
+   "about": "Reports that Japanese troops occupied Foochow in Fukien Province.",
+   "summary": "The brief message states that Japanese troops occupied Foochow, Fukien, on the afternoon of April 21. No force strength or operational detail is supplied.",
+   "keywords": [
+    "Foochow",
+    "Fukien",
+    "Japanese occupation",
+    "Shanghai naval attaché"
+   ]
+  },
+  {
+   "title": "Canton Telegram No. 35 on Possible Movement to Thailand",
+   "doc_type": "telegram",
+   "start_page": 26,
+   "end_page": 26,
+   "continues_previous": false,
+   "date": "1941-07-17",
+   "from": "Myers, Canton",
+   "to": "Secretary of State, Washington",
+   "about": "Reports that Japanese forces might soon leave Canton for Thailand.",
+   "summary": "A usually reliable source said Japanese forces were to be sent to Thailand and troops at Canton were expected to move soon. The sender suggested that the decision might have contributed to the Japanese cabinet's resignation. Whether the movement occurred was thought to depend on the new cabinet's character and actions.",
+   "keywords": [
+    "Canton",
+    "Thailand",
+    "Japanese cabinet",
+    "troop movement"
+   ]
+  },
+  {
+   "title": "Canton Telegram No. 37 on Preparations at Sheklung",
+   "doc_type": "telegram",
+   "start_page": 27,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1941-07-21",
+   "from": "Meyers, Canton",
+   "to": "Secretary of State, Washington",
+   "about": "Reports signs that troops at Sheklung and around Canton were preparing to move, possibly to southern Indochina.",
+   "summary": "Japanese troops at Sheklung reportedly ordered the East River closed to craft on July 25 and instructed residents to remain indoors. Reports also described withdrawals from outposts north of Canton and defensive strengthening of other posts. The sender judged that these developments pointed to an early movement of forces from Canton, possibly to southern Indochina.",
+   "keywords": [
+    "Sheklung",
+    "East River",
+    "Canton",
+    "southern Indochina",
+    "troop withdrawal"
+   ]
+  },
+  {
+   "title": "Canton Telegram No. 38 on Pearl River Transports",
+   "doc_type": "telegram",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1941-07-23",
+   "from": "Myers, Canton",
+   "to": "Secretary of State, Washington",
+   "about": "Reports a decline in empty transports between Bocca Tigris and Whampoa and instability in the military-yen exchange rate.",
+   "summary": "An informant observed fewer empty transports in the Pearl River on July 19 than earlier in the week, although the total remained above normal. Some troops were said to have departed. The Japanese military yen also fell sharply against the Hong Kong dollar before the exchange closed.",
+   "keywords": [
+    "Pearl River",
+    "Bocca Tigris",
+    "Whampoa",
+    "transports",
+    "military yen"
+   ]
+  },
+  {
+   "title": "Tokyo Telegram No. 1055 Relaying Kobe Transport Movements",
+   "doc_type": "telegram",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "1941-07-23",
+   "from": "Warner at Kobe, transmitted by Joseph C. Grew",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the departure of about twenty troop and cargo transports from Kobe and Osaka.",
+   "summary": "Approximately twenty Japanese troop and cargo transports left Kobe and Osaka on July 19 and 20, heading through the Inland Sea. Passenger rail travel toward Tokyo was restricted, and foreign access to an arriving ship was denied. The report also mentioned new cargo restrictions favoring Japanese vessels and an armed Italian merchant cruiser in the outer harbor.",
+   "keywords": [
+    "Kobe",
+    "Osaka",
+    "troop transports",
+    "rail restrictions",
+    "shipping regulations"
+   ]
+  },
+  {
+   "title": "Cross-Reference: Japanese Troop Movement in South China",
+   "doc_type": "cross-reference sheet",
+   "start_page": 31,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1941-07-23",
+   "from": "Hong Kong (Bruins)",
+   "to": "Department of State files",
+   "about": "References a Hong Kong telegram reporting on Japanese troop movements in South China.",
+   "summary": "The sheet points to Hong Kong telegram No. 264 concerning Japanese troop movements in South China. The original was filed in the State Department's war-related decimal series.",
+   "keywords": [
+    "South China",
+    "Hong Kong",
+    "Japanese troops",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Canton Telegram No. 39 on Troops Departing for Indochina",
+   "doc_type": "telegram",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1941-07-25",
+   "from": "Myers, Canton",
+   "to": "Secretary of State, Washington",
+   "about": "Estimates that about 7,000 Japanese troops had left Canton, probably for Indochina.",
+   "summary": "Further inquiry indicated that roughly half the Japanese troops at Canton, about 7,000 men with equipment and motor trucks, had departed during the preceding ten days. Their destination was presumed to be Indochina, and additional departures were expected. The number of aircraft at the local airfield had also noticeably declined.",
+   "keywords": [
+    "Canton",
+    "Indochina",
+    "troop transports",
+    "motor trucks",
+    "aircraft"
+   ]
+  },
+  {
+   "title": "Dairen Telegram Reporting the Arrival of 7,000 Troops",
+   "doc_type": "telegram",
+   "start_page": 33,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1941-07-28",
+   "from": "Chase, Dairen",
+   "to": "Tokyo, Mukden, Harbin, Peiping, and the Department of State",
+   "about": "Reports the disembarkation at Dairen of about 7,000 Japanese troops from Japan.",
+   "summary": "Approximately 7,000 Japanese troops, apparently infantry from Japan, had just reached Dairen and were disembarking. The report was marked urgent and circulated widely among American posts in East Asia.",
+   "keywords": [
+    "Dairen",
+    "troop landing",
+    "infantry",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Tokyo Telegram No. 1114 Relaying Heavy Westbound Movement from Kobe",
+   "doc_type": "telegram",
+   "start_page": 34,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1941-07-29",
+   "from": "Warner at Kobe, transmitted by Joseph C. Grew",
+   "to": "Secretary of State, Washington",
+   "about": "Reports unusually heavy westbound troop, freight, and railway traffic.",
+   "summary": "Warner reported from Kobe that westbound troop and freight transports had been exceptionally active during the preceding several days. Railway traffic was likewise very heavy.",
+   "keywords": [
+    "Kobe",
+    "westbound movement",
+    "troop transports",
+    "railway traffic"
+   ]
+  },
+  {
+   "title": "Dairen Telegram on Cavalry and Other Troop Movements",
+   "doc_type": "telegram",
+   "start_page": 35,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1941-07-30",
+   "from": "Chase, Dairen",
+   "to": "Tokyo, Mukden, Peiping, and the Department of State",
+   "about": "Clarifies that many of the recently arrived troops at Dairen were cavalry.",
+   "summary": "A considerable portion of the troops reported on July 28 proved to be cavalry. Small bodies of equipped infantry, troops in trucks, and cavalry continued to pass through the city, while further contingents disembarked. Some newly arrived soldiers were reportedly quartered in local schools.",
+   "keywords": [
+    "Dairen",
+    "cavalry",
+    "troop landings",
+    "military transport"
+   ]
+  },
+  {
+   "title": "Dairen Telegram on Increasing Troop Arrivals",
+   "doc_type": "telegram",
+   "start_page": 36,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1941-07-31",
+   "from": "Chase, Dairen",
+   "to": "Tokyo, Mukden, Harbin, Peiping, and the Department of State",
+   "about": "Reports continuing landings and an estimate that 40,000 troops had moved north through Dairen.",
+   "summary": "Troop arrivals were continuing on an increasing scale, with multiple transports approaching or reaching Dairen. Soviet sources estimated that approximately 40,000 troops had passed north through the port during the month, many reportedly coming from Central China. A cautiously reported rumor claimed that withdrawals from China had been facilitated by an agreement with Chungking negotiated through Vichy representatives.",
+   "keywords": [
+    "Dairen",
+    "troop transports",
+    "Central China",
+    "Soviet estimate",
+    "Vichy",
+    "Chungking"
+   ]
+  },
+  {
+   "title": "Mukden Telegram No. 42 on Troops Moving Toward the Railway",
+   "doc_type": "telegram",
+   "start_page": 38,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "1941-07-30",
+   "from": "Krentz, Mukden",
+   "to": "Peiping, Tokyo, Dairen, and Harbin",
+   "about": "Reports several thousand troops, armored cars, and supplies moving toward the railway at Mukden.",
+   "summary": "Although the general military situation was described as materially unchanged, several thousand troops had been observed moving toward the railway. Armored cars and military supplies were also visible, and passenger trains were extraordinarily congested.",
+   "keywords": [
+    "Mukden",
+    "railway",
+    "armored cars",
+    "troop movement",
+    "congestion"
+   ]
+  },
+  {
+   "title": "Dairen Telegram on Continuing Cavalry and Infantry Landings",
+   "doc_type": "telegram",
+   "start_page": 39,
+   "end_page": 39,
+   "continues_previous": false,
+   "date": "1941-08-03",
+   "from": "Chase, Dairen",
+   "to": "Tokyo, Mukden, Harbin, Peiping, Chungking, Shanghai, and the Department of State",
+   "about": "Reports that troop landings at Dairen continued to increase and included substantial cavalry forces.",
+   "summary": "At least one quarter of the newly observed troops appeared to be cavalry. The remainder consisted mainly of infantry and motorized supply units. Most or all of the cavalry apparently remained at Dairen.",
+   "keywords": [
+    "Dairen",
+    "cavalry",
+    "infantry",
+    "motorized supply",
+    "troop landing"
+   ]
+  },
+  {
+   "title": "Cover Despatch Transmitting Report on Rumored Manchurian Withdrawals",
+   "doc_type": "consular despatch",
+   "start_page": 40,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1941-05-19",
+   "from": "Kenneth C. Krentz, American Consul at Mukden",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits a copy of a despatch on rumors that Japanese troops were being withdrawn from Manchuria.",
+   "summary": "Krentz encloses his confidential despatch to the American Embassy at Peiping concerning alleged Japanese troop withdrawals from Manchuria. The cover letter identifies the enclosure and its distribution to the Department of State.",
+   "keywords": [
+    "Mukden",
+    "Manchuria",
+    "consular despatch",
+    "troop-withdrawal rumors"
+   ]
+  },
+  {
+   "title": "Despatch No. 5: Rumors of Withdrawal of Japanese Troops from Manchuria",
+   "doc_type": "consular despatch",
+   "start_page": 41,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1941-05-19",
+   "from": "Kenneth C. Krentz, American Consul at Mukden",
+   "to": "Nelson Trusler Johnson, American Ambassador at Peiping",
+   "about": "Evaluates reports that as many as eight Japanese divisions were leaving Manchuria for China Proper.",
+   "summary": "Radio broadcasts from Shanghai alleged that Japanese troops were moving from Manchuria to China Proper, but the Mukden consulate found no evidence of large-scale changes. The British consular post likewise could not confirm a reported transfer of eight divisions. Krentz cautioned that secret movements through inaccessible points, particularly the port of Rashin, could escape observation, though informed foreign opinion discounted the rumors.",
+   "keywords": [
+    "Manchuria",
+    "China Proper",
+    "eight divisions",
+    "Rashin",
+    "rumor evaluation"
+   ]
+  },
+  {
+   "title": "Dairen Telegram No. 9 on Troops Entraining North",
+   "doc_type": "telegram",
+   "start_page": 43,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1941-08-07",
+   "from": "Chase, Dairen",
+   "to": "Secretary of State, Washington",
+   "about": "Reports that landings had slackened and many newly arrived troops were moving north by train.",
+   "summary": "After two more days of heavy debarkations, troop arrivals at Dairen diminished appreciably. Dairen, nearby areas, and probably Port Arthur remained crowded with infantry and remount cavalry, but many units stayed only briefly before entraining north. A train of at least fifty horse-drawn light wagons, thought to be ammunition carriers, was observed entering the railway station.",
+   "keywords": [
+    "Dairen",
+    "Port Arthur",
+    "northbound trains",
+    "cavalry",
+    "ammunition wagons"
+   ]
+  },
+  {
+   "title": "Kobe Telegram on Three Weeks of Westbound Transport Departures",
+   "doc_type": "telegram",
+   "start_page": 44,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1941-08-11",
+   "from": "Warner, Kobe",
+   "to": "Secretary of State, Washington",
+   "about": "Estimates that 300 transports had departed Kobe westbound during the previous three weeks.",
+   "summary": "Warner estimated that about 300 transports had left Kobe heading west during a three-week period. Departures on August 10 were especially numerous, and most vessels were lightly loaded, suggesting that they might be carrying troops rather than cargo.",
+   "keywords": [
+    "Kobe",
+    "300 transports",
+    "westbound shipping",
+    "troop transport"
+   ]
+  },
+  {
+   "title": "State Department Paraphrase for OPNAV of the Kobe Transport Report",
+   "doc_type": "interdepartmental paraphrase",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1941-08-12",
+   "from": "Department of State",
+   "to": "Chief of Naval Operations",
+   "about": "Forwards the Kobe report concerning large numbers of lightly loaded westbound transports.",
+   "summary": "The State Department retransmitted Warner's August 11 message to naval authorities. It emphasized the numerous lightly loaded vessels leaving on August 10 and the estimate of 300 westbound departures during the prior three weeks.",
+   "keywords": [
+    "OPNAV",
+    "Kobe",
+    "transport shipping",
+    "troop movements",
+    "interdepartmental intelligence"
+   ]
+  },
+  {
+   "title": "Paraphrase of Shanghai Report on Japanese Troop Departures",
+   "doc_type": "paraphrased intelligence message",
+   "start_page": 46,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1941-09-02",
+   "from": "Assistant Naval Attaché at Shanghai",
+   "to": "Department of State",
+   "about": "Reports continuing troop departures from Shanghai and preparations to withdraw most Japanese forces from Foochow.",
+   "summary": "Several thousand troops were reportedly leaving Shanghai each week, with the equivalent of two divisions departing since July 20, chiefly toward the south. The lack of heavy equipment suggested that complete divisions were not moving as units. Foreign sources also believed preparations were under way to evacuate most Japanese forces from Foochow, leaving only the detachment on the island at the Min River's mouth.",
+   "keywords": [
+    "Shanghai",
+    "troop departures",
+    "Foochow",
+    "Min River",
+    "two divisions"
+   ]
+  },
+  {
+   "title": "Cross-Reference: Japanese Military Personnel in Cochinchina",
+   "doc_type": "cross-reference sheet",
+   "start_page": 47,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "1941-04-04",
+   "from": "Saigon (Flood)",
+   "to": "Department of State files",
+   "about": "References a report that only Colonel Saito and civilian assistants remained after Japanese naval and air departures from Saigon.",
+   "summary": "The sheet points to Saigon telegram No. 43 concerning Japanese military personnel in Cochinchina. Following the departure of the destroyer Isokaze and a Japanese bomber on April 4, only Colonel Saito and civilian assistants reportedly remained.",
+   "keywords": [
+    "Cochinchina",
+    "Saigon",
+    "Colonel Saito",
+    "Isokaze",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Paraphrase of Report on Troops Sailing from Woosung",
+   "doc_type": "paraphrased intelligence message",
+   "start_page": 48,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1941-11-26",
+   "from": "Assistant Naval Attaché at Shanghai",
+   "to": "Department of State",
+   "about": "Reports that roughly 24,000 troops sailed from Woosung with equipment and numerous landing boats.",
+   "summary": "Approximately 24,000 troops reportedly sailed from Woosung between November 15 and 23 with a large quantity of military equipment. The force carried at least 184 landing boats, indicating preparation for landings where normal port facilities were unavailable. Trucks moving out were newly camouflaged in green, and no comparably large coastal movements had yet been observed elsewhere.",
+   "keywords": [
+    "Woosung",
+    "24,000 troops",
+    "landing boats",
+    "amphibious operations",
+    "military equipment"
+   ]
+  },
+  {
+   "title": "War Department Paraphrase on Japanese Officers Leaving the Panama Canal Zone",
+   "doc_type": "paraphrased military intelligence message",
+   "start_page": 49,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1941-12-05",
+   "from": "Panama Canal Department",
+   "to": "War Department Intelligence Branch and other military recipients",
+   "about": "Reports the travel of three Japanese army officers from France Field to Bolivia and Peru en route to Japan.",
+   "summary": "Japanese army officers Rinkichi Kaneko, Eitoro Yusicka, and Atsunari Uchida left France Field after arriving from Mexico City. Yusicka proceeded to La Paz, while the other two traveled to Lima; all carried diplomatic passports and expected eventually to return to Tokyo. A G-2 comment linked their movements to press reports of a possible exodus of Japanese officials from Mexico amid fears of war with the United States.",
+   "keywords": [
+    "Japanese officers",
+    "Panama Canal Zone",
+    "Mexico City",
+    "La Paz",
+    "Lima",
+    "diplomatic passports"
+   ]
+  },
+  {
+   "title": "Memorandum of Conversation with Chinese Ambassador Wei Tao-ming",
+   "doc_type": "memorandum of conversation",
+   "start_page": 50,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1941-09-30",
+   "from": "Secretary of State Cordell Hull",
+   "to": "Department of State files",
+   "about": "Records the Chinese ambassador's assessment of Japanese manpower, shipping, and unexplained troop movements.",
+   "summary": "Wei Tao-ming called to present his credentials and discussed Japan's prospective weaknesses in manpower and shipping. He could not explain large troop movements away from strategic air bases in China or determine their direction, but believed they indicated an important development. He added that wireless stations along the Chinese coast, through Indochina, and into Burma were unusually active.",
+   "keywords": [
+    "Wei Tao-ming",
+    "Cordell Hull",
+    "Japanese manpower",
+    "shipping weakness",
+    "air bases",
+    "wireless traffic"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   50
+  ],
+  "pdf": "894.23 Movement Of Troops. Rules, Ect., Regarding Visits Of Foreign Military Bodies, 800.213**., October 26, 1940 - September 30, 1941 1303.pdf",
+  "seconds": 384.7,
+  "created": "2026-09-30 00:42:19",
+  "key": "japan-internal-affairs-894.23-movement-of-troops-4"
+ }
+}

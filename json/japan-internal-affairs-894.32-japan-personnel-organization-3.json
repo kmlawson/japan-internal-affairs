@@ -1,0 +1,92 @@
+{
+ "interest": "Nagano replaces Prince Fushimi as naval chief, 1941.",
+ "keywords": [
+  "Japanese Navy",
+  "Naval General Staff",
+  "Osami Nagano",
+  "Prince Fushimi",
+  "Joseph C. Grew",
+  "Naval Intelligence",
+  "Flag Officers",
+  "Shanghai",
+  "Military Personnel",
+  "Department of State"
+ ],
+ "overview": "Docket for 894.32 (1941): Nagano replaces Prince Fushimi as naval chief, and flag officer records.",
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Grew"
+   ]
+  },
+  {
+   "name": "Prince Fushimi",
+   "role": "Chief, Naval General Staff",
+   "variants": [
+    "Prince Fushimi"
+   ]
+  },
+  {
+   "name": "Osami Nagano",
+   "role": "Admiral; Chief, Naval General Staff",
+   "variants": [
+    "Admiral Osami Nagano"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "A Department of State docket sheet indexing four communications from 1941 regarding Japanese naval leadership, flag officers, and personnel.",
+   "date": "1941",
+   "doc_type": "list of papers",
+   "end_page": 1,
+   "from": "Department of State",
+   "keywords": [
+    "List of Papers",
+    "Japanese Navy",
+    "Naval General Staff",
+    "Osami Nagano",
+    "Prince Fushimi",
+    "Joseph C. Grew",
+    "Flag Officers",
+    "Shanghai"
+   ],
+   "start_page": 1,
+   "summary": "Docket for 894.32 (1941): Nagano's appointment and records of Japanese flag officers.",
+   "title": "Department of State List of Papers for File 894.32 (Personnel — Japanese Navy)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 13849,
+   "output_tokens": 5775,
+   "thinking_tokens": 4945,
+   "cache_read_tokens": 0,
+   "total_tokens": 19624
+  },
+  "backend": "agy",
+  "seconds": 21.3,
+  "identifier": "japan-internal-affairs-894.32-japan-personnel-organization-3",
+  "file": "894.32 Japan, Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services.,  180.pdf",
+  "created": "2026-09-29 04:02:49"
+ }
+}

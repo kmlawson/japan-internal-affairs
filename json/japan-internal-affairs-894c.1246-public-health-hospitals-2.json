@@ -1,0 +1,83 @@
+{
+ "overview": "This single-page administrative list of papers concerns maritime public health in the Kwantung Leased Territory. It indexes one communication, numbered 213 and originating at Dalian (then Dairen), about establishing a fumigation service and night quarantine inspections at Dalian and Port Arthur in Manchuria, together with a schedule of fees; the OCR leaves the date and recipient unclear.",
+ "places": [
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Darren"
+   ]
+  },
+  {
+   "name": "Lüshunkou (Port Arthur)",
+   "variants": [
+    "Port Arthur"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Langdon",
+   "role": "U.S. consular officer associated with Dalian communication no. 213; identification is based on the OCR-damaged entry",
+   "variants": [
+    "Lan_don"
+   ]
+  }
+ ],
+ "keywords": [
+  "public health",
+  "maritime hygiene",
+  "vessel sanitation",
+  "fumigation service",
+  "quarantine inspection",
+  "night inspection",
+  "port health",
+  "quarantine fees",
+  "Kwantung Leased Territory",
+  "Dalian",
+  "Port Arthur",
+  "Manchuria"
+ ],
+ "subfiles": [
+  {
+   "title": "List of papers on hygiene of vessels in the Kwantung Leased Territory",
+   "doc_type": "list of papers",
+   "start_page": 1,
+   "end_page": 1,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "An administrative index records a Dalian communication concerning fumigation and nighttime quarantine services at Dalian and Port Arthur.",
+   "summary": "The sheet lists one paper, communication no. 213 from Dalian, with Langdon named parenthetically. Its subject is the establishment of a fumigation service and night quarantine inspection at Dalian and Port Arthur in Manchuria, including a scale of fees. The OCR renders the date as “Jul, 73” and the recipient as “YE FA,” neither of which can be normalized confidently from this page alone.",
+   "keywords": [
+    "list of papers",
+    "Dalian communication no. 213",
+    "fumigation",
+    "night quarantine inspection",
+    "Port Arthur",
+    "fees",
+    "maritime hygiene"
+   ]
+  }
+ ],
+ "interest": "Although only an index page, the document identifies concrete port-health measures in the Japanese-controlled Kwantung Leased Territory: fumigation, after-hours quarantine inspection, and standardized charges. It is useful for locating the underlying Dalian communication and for studying how maritime disease controls were administered and monetized at two important Manchurian ports. The damaged date and recipient field also illustrate the limits of relying on OCR-derived archival metadata.",
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "seconds": 41.1,
+  "identifier": "japan-internal-affairs-894c.1246-public-health-hospitals-2",
+  "file": "894C.1246 Public Health. Hospitals. Hospital Service., Hygiene And Sanitation., Kwantung Leased Territory, Hygiene Of Vessels And Aircraft. Bills Of Health.,  636.pdf",
+  "created": "2026-09-29 01:17:57"
+ }
+}

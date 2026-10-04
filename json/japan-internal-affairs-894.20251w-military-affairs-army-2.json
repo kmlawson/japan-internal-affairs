@@ -1,0 +1,140 @@
+{
+ "interest": "Fears of Japanese missions in Vichy Madagascar before Operation Ironclad.",
+ "keywords": [
+  "Madagascar",
+  "Mozambique Channel",
+  "Japanese missions",
+  "Vichy France",
+  "Naval intelligence",
+  "Subversive activity",
+  "Allied shipping",
+  "Free French",
+  "Third Naval District",
+  "William D. Leahy",
+  "Indian Ocean strategy",
+  "Espionage"
+ ],
+ "overview": "March 1942 papers on suspected Japanese missions in Madagascar and Mozambique planning to close the channel to Allied ships.",
+ "people": [
+  {
+   "name": "William D. Leahy",
+   "role": "U.S. Ambassador to France (Vichy)",
+   "variants": [
+    "Leahy"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Madagascar",
+   "variants": [
+    "Madagascar",
+    "MADAGASCAR"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Vichy",
+   "variants": [
+    "Vichy"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "new York"
+   ]
+  },
+  {
+   "name": "Mozambique",
+   "variants": [
+    "MOZAMBIQUE"
+   ]
+  },
+  {
+   "name": "Mozambique Channel",
+   "variants": [
+    "STRAIT BETWEEN MADAGASCAR AND MOZAMBIQUE",
+    "STRAIT",
+    "THE STRAIT"
+   ]
+  },
+  {
+   "name": "São Lourenço",
+   "variants": [
+    "LAWRENCE",
+    "LAURENZE"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Cross-reference sheet noting a telegram from Ambassador Leahy reporting French colonial instructions to investigate Japanese subversive activity in Madagascar.",
+   "date": "1942-03-12",
+   "doc_type": "cross-reference sheet",
+   "end_page": 1,
+   "from": "William D. Leahy",
+   "keywords": [
+    "Madagascar",
+    "Vichy France",
+    "William D. Leahy",
+    "French Ministry of Colonies",
+    "Governor General of Madagascar",
+    "subversive activity",
+    "Pacific War"
+   ],
+   "start_page": 1,
+   "summary": "Cross-reference to Leahy's telegram: Vichy told Madagascar to look into Japanese subversion.",
+   "title": "Cross-Reference Sheet: Japanese Plans for Madagascar",
+   "to": "Department of State"
+  },
+  {
+   "about": "Paraphrase of a naval intelligence report concerning three Japanese missions arranged through Vichy to formulate plans for closing the Mozambique Channel to Allied shipping.",
+   "date": "1942-03-14",
+   "doc_type": "memorandum",
+   "end_page": 3,
+   "from": "Commandant of the Third Naval District (New York)",
+   "keywords": [
+    "Madagascar",
+    "Mozambique",
+    "Mozambique Channel",
+    "Commandant of the Third Naval District",
+    "naval intelligence",
+    "Vichy France",
+    "Free French",
+    "Allied shipping",
+    "espionage"
+   ],
+   "start_page": 2,
+   "summary": "Naval intelligence paraphrase: Vichy reportedly brought three Japanese missions to Madagascar and Mozambique to close the channel to Allied shipping.",
+   "title": "Paraphrase of Naval Intelligence Report on Japanese Missions in Madagascar and Mozambique",
+   "to": "Department of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14356,
+   "output_tokens": 21522,
+   "thinking_tokens": 20316,
+   "cache_read_tokens": 0,
+   "total_tokens": 35878
+  },
+  "backend": "agy",
+  "seconds": 66.0,
+  "identifier": "japan-internal-affairs-894.20251w-military-affairs-army-2",
+  "file": "894.20251W Military Affairs. Army. Army Posts. Fortifications. Defenses. Military Instructors Advisers. ** Country In Which Serving., Military Activities Of Japan In Madagascar Including Gathering Of Information. Espionage. Propaganda., Mar 1335.pdf",
+  "created": "2026-09-29 02:32:23"
+ }
+}

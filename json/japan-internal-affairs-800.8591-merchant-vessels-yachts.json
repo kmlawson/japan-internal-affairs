@@ -1,0 +1,194 @@
+{
+ "interest": "Shows British secrecy over Singapore shipping data and State-Navy coordination on tracking Japanese tonnage before the Pacific War.",
+ "keywords": [
+  "merchant vessels",
+  "ship movements",
+  "naval intelligence",
+  "Singapore",
+  "Japanese shipping",
+  "naval cipher",
+  "Gray code",
+  "Straits Settlements",
+  "Department of State",
+  "U.S. Navy",
+  "Manila",
+  "shipping tonnage"
+ ],
+ "overview": "This file (decimal file 800.8591/741) from April 1941 documents diplomatic communications between the American Consulate General in Singapore and the Department of State in Washington, D.C., regarding intelligence reporting on commercial and naval ship movements through Singapore. Prompted by Department instructions, Consul Kenneth S. Patton reports that local British authorities refuse to release general shipping information without guarantees of high-level cryptographic transmission, prompting a request to utilize Navy ciphers and clarification on reporting procedures for Japanese and American vessels. In reply, Secretary of State Cordell Hull—acting at the request of U.S. Navy Commander Frothingham—disapproves the use of Navy ciphers, authorizes Singapore to waive reporting on third-party shipping if local authorities remain unwilling, cancels reporting on American ships, and orders the ongoing reporting of Japanese vessels over 2,000 gross tons to Manila in non-confidential code. The file also contains a cryptographic paraphrase prepared for the Navy Department and a 1942 corrected transcript of the Singapore telegram.",
+ "people": [
+  {
+   "name": "Kenneth S. Patton",
+   "role": "American Consul / Consul General at Singapore",
+   "variants": [
+    "PATTON",
+    "Consul Singapore",
+    "American Consul",
+    "Consulate General"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Hull",
+    "Secretary of State"
+   ]
+  },
+  {
+   "name": "Edward Frothingham",
+   "role": "Commander, U.S. Navy",
+   "variants": [
+    "Commander Frothingham"
+   ]
+  },
+  {
+   "name": "M. Kennigan",
+   "role": "Clerk, Political Section, Department of State",
+   "variants": [
+    "M. Kennigan"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "SINGAPORE"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Manila",
+    "MANILA"
+   ]
+  },
+  {
+   "name": "Washington, D.C., United States",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "N.I."
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "STRAITS SETTLEMENTS"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "shippon"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consul Patton reports on British restrictions regarding shipping intelligence in Singapore and seeks clarification on code security and tonnage reporting guidelines for Japanese and American vessels.",
+   "date": "1941-04-09",
+   "doc_type": "telegram",
+   "end_page": 2,
+   "from": "Kenneth S. Patton, American Consul, Singapore",
+   "keywords": [
+    "Singapore",
+    "ship movements",
+    "naval cipher",
+    "Japanese vessels",
+    "Manila",
+    "Gray code"
+   ],
+   "start_page": 1,
+   "summary": "Consul Kenneth S. Patton reports that British authorities in Singapore will not release non-American, non-Japanese ship movements without secure Navy ciphers. He asks about reporting Japanese vessels by tonnage and will cable American ships over 2,000 tons to Manila in Gray code.",
+   "title": "Telegram No. 86 from American Consul Patton (Singapore) regarding reporting of merchant vessel movements",
+   "to": "Secretary of State Cordell Hull, Washington"
+  },
+  {
+   "about": "Secretary of State Hull instructs the Singapore consulate on cryptographic limitations and adjusts requirements for reporting Japanese and American shipping.",
+   "date": "1941-04-30",
+   "doc_type": "telegram",
+   "end_page": 3,
+   "from": "Cordell Hull, Secretary of State, Washington",
+   "keywords": [
+    "Cordell Hull",
+    "Commander Frothingham",
+    "naval cipher",
+    "Japanese shipping",
+    "Singapore",
+    "Manila"
+   ],
+   "start_page": 3,
+   "summary": "Hull rejects use of Navy ciphers and tells Singapore to stop reporting American ships and report Japanese vessels over 2,000 gross tons to Manila in non-confidential code.",
+   "title": "Telegram No. 42 from Secretary of State Hull to American Consul (Singapore) on shipping intelligence procedures",
+   "to": "American Consul, Singapore"
+  },
+  {
+   "about": "A confidential Department of State paraphrase of Singapore's Telegram No. 86 prepared for inter-departmental distribution, including the U.S. Navy.",
+   "date": "1941-04-25",
+   "doc_type": "memorandum",
+   "end_page": 5,
+   "from": "Kenneth S. Patton, American Consul, Singapore (paraphrased by Department of State)",
+   "keywords": [
+    "paraphrase",
+    "cryptography",
+    "Singapore",
+    "U.S. Navy",
+    "merchant shipping",
+    "Japanese ships"
+   ],
+   "start_page": 4,
+   "summary": "Paraphrase of Patton's telegram No. 86 on Singapore shipping reports and cipher problems, routed to the Navy Department on April 25, 1941.",
+   "title": "Confidential Paraphrase of Telegram No. 86 from American Consul (Singapore)",
+   "to": "Department of State and Navy Department"
+  },
+  {
+   "about": "An official corrected copy of Page 2 of Singapore's Telegram No. 86 resolving textual omissions in the reporting instructions.",
+   "date": "1942-03-05",
+   "doc_type": "telegram",
+   "end_page": 6,
+   "from": "Kenneth S. Patton, American Consul, Singapore (corrected by M. Kennigan, Political Section)",
+   "keywords": [
+    "corrected copy",
+    "Political Section",
+    "M. Kennigan",
+    "Singapore",
+    "tonnage",
+    "Japanese shipping"
+   ],
+   "start_page": 6,
+   "summary": "Corrected copy of page 2 of Singapore telegram No. 86, clarifying which Japanese and American ships are reported to Manila or Washington; filed March 5, 1942.",
+   "title": "Corrected Copy of Page 2 of Telegram No. 86 from Singapore",
+   "to": "Secretary of State, Washington"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14801,
+   "output_tokens": 7953,
+   "thinking_tokens": 6125,
+   "cache_read_tokens": 0,
+   "total_tokens": 22754
+  },
+  "backend": "agy",
+  "seconds": 26.3,
+  "identifier": "japan-internal-affairs-800.8591-merchant-vessels-yachts",
+  "file": "800.8591 Merchant Vessels. Yachts. Immunities Of Government -Controlled., Other Matters Respecting Merchant Vessels., The World, Movement Of Merchant Vessels And Yachts., April 9, 1941 - April 30, 1941 1264.pdf",
+  "created": "2026-09-28 20:56:15"
+ }
+}

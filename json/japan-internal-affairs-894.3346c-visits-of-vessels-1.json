@@ -1,0 +1,110 @@
+{
+ "interest": "Japanese squadron's 1934 Colombo visit and British unease.",
+ "keywords": [
+  "Japanese Navy",
+  "Naval Training Squadron",
+  "Colombo",
+  "Ceylon",
+  "Brockholst Livingston",
+  "Trincomalee",
+  "Anglo-Japanese relations",
+  "Naval diplomacy",
+  "Intelligence gathering",
+  "Coast defence vessels",
+  "Rotary Club"
+ ],
+ "overview": "Livingston's 1934 despatch on the Japanese Training Squadron at Colombo, noting tension and British worry about Trincomalee.",
+ "people": [
+  {
+   "name": "Brockholst Livingston",
+   "role": "American Vice Consul",
+   "variants": [
+    "Frockholst Livingston",
+    "Brockholst Livingston"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Colombo",
+   "variants": [
+    "Colombo"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "Britain"
+   ]
+  },
+  {
+   "name": "Trincomalee",
+   "variants": [
+    "Trincomalee"
+   ]
+  }
+ ],
+ "subfiles": [
+  {
+   "about": "Consular despatch reporting on the visit of the Japanese Naval Training Squadron to Colombo, Ceylon, from June 10 to June 22, 1934.",
+   "date": "1934-06-26",
+   "doc_type": "despatch",
+   "end_page": 3,
+   "from": "Brockholst Livingston",
+   "keywords": [
+    "Japanese Naval Training Squadron",
+    "Colombo",
+    "Ceylon",
+    "Trincomalee",
+    "Naval diplomacy",
+    "Espionage",
+    "Rotary Club",
+    "HMS Colombo"
+   ],
+   "start_page": 1,
+   "summary": "Livingston reports the Japanese squadron's visit to Colombo, cadets' prying questions and poor ship upkeep.",
+   "title": "Despatch from Vice Consul Brockholst Livingston on Visit of Japanese Naval Training Squadron to Colombo",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-medium",
+  "usage": {
+   "input_tokens": 14334,
+   "output_tokens": 5605,
+   "thinking_tokens": 4740,
+   "cache_read_tokens": 0,
+   "total_tokens": 19939
+  },
+  "backend": "agy",
+  "seconds": 20.6,
+  "identifier": "japan-internal-affairs-894.3346c-visits-of-vessels-1",
+  "file": "894.3346C Visits Of Vessels And Aircraft Of Japan To Ports Of Ceylon., June 26, 1934 819.pdf",
+  "created": "2026-09-29 04:30:53"
+ }
+}
