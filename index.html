@@ -428,17 +428,28 @@ function paintSel(){
   $('#mkn').textContent = SEL.size === 1 ? '1 selected' : SEL.size + ' selected';
   $('#mkMark').textContent = [...SEL].every(k => U.marked.has(k)) ? 'Unmark' : 'Mark';
 }
-document.addEventListener('click', ev => {
-  if (!ev.altKey) return; const el = ev.target.closest('[data-mk]'); if (!el || !entryOf(el.dataset.mk)) return;
-  ev.preventDefault(); ev.stopPropagation(); const k = el.dataset.mk;
-  if (ev.shiftKey) SEL.has(k) ? SEL.delete(k) : SEL.add(k);
-  else { const only = SEL.size === 1 && SEL.has(k); SEL.clear(); if (!only) SEL.add(k); }
+// Option-click: select one · Shift-Option-click: select the range from the last item clicked · Ctrl-Option-click: add/remove one.
+// Ctrl-click is a right-click on macOS (no 'click' event), so the Ctrl case is handled on mousedown.
+let ANCHOR = null;
+const mkTarget = ev => { const el = ev.altKey && ev.target.closest('[data-mk]'); return el && entryOf(el.dataset.mk) ? el : null; };
+function selectWith(ev, el){
+  const k = el.dataset.mk;
+  if (ev.ctrlKey || ev.metaKey){ SEL.has(k) ? SEL.delete(k) : SEL.add(k); ANCHOR = k; }
+  else if (ev.shiftKey && ANCHOR){
+    const all = [...main.querySelectorAll('[data-mk]')].filter(e => !e.parentElement.closest('[data-mk]') || e.matches('.sub,.urow'));
+    const a = all.findIndex(e => e.dataset.mk === ANCHOR), b = all.indexOf(el);
+    if (a < 0 || b < 0) SEL.add(k); else all.slice(Math.min(a, b), Math.max(a, b) + 1).forEach(e => SEL.add(e.dataset.mk));
+  } else { const only = SEL.size === 1 && SEL.has(k); SEL.clear(); if (!only) SEL.add(k); ANCHOR = k; }
   paintSel();
-}, true);
+}
+document.addEventListener('click', ev => { const el = mkTarget(ev); if (!el) return; ev.preventDefault(); ev.stopPropagation();
+  if (!(ev.ctrlKey || ev.metaKey)) selectWith(ev, el); }, true);
+document.addEventListener('contextmenu', ev => { if (mkTarget(ev) && ev.ctrlKey){ ev.preventDefault(); ev.stopPropagation(); } }, true);
 addEventListener('keydown', ev => { if (ev.key === 'Escape' && SEL.size){ SEL.clear(); paintSel(); } if (ev.altKey) document.documentElement.classList.add('optdown'); });
 addEventListener('keyup', ev => { if (!ev.altKey) document.documentElement.classList.remove('optdown'); });
 addEventListener('blur', () => document.documentElement.classList.remove('optdown'));
-document.addEventListener('mousedown', ev => { if (ev.altKey && ev.target.closest('[data-mk]')){ ev.preventDefault(); getSelection()?.removeAllRanges(); } }, true);
+document.addEventListener('mousedown', ev => { const el = mkTarget(ev); if (!el) return; ev.preventDefault(); getSelection()?.removeAllRanges();
+  if ((ev.ctrlKey || ev.metaKey) && ev.button <= 2) selectWith(ev, el); }, true);
 $('#mkClr').onclick = () => { SEL.clear(); paintSel(); };
 $('#mkMark').onclick = () => { const all = [...SEL].every(k => U.marked.has(k)); SEL.forEach(k => all ? U.marked.delete(k) : U.marked.add(k)); uSave(); SEL.clear(); route(); };
 $('#mkTag').onclick = () => { const f = $('#mkTagForm'); f.hidden = !f.hidden; if (!f.hidden) $('#mkTagIn').focus(); };
@@ -486,7 +497,7 @@ function wireUserHead(){
   UMSG = ''; $('#uCSV').onclick = saveCSV; $('#uJSON').onclick = saveJSON; $('#uLoad').onclick = () => $('#uFile').click();
   $('#uFile').onchange = ev => loadJSON(ev.target.files[0], msg => { UMSG = msg; route(); });
 }
-const HOWTO = '<p class="meta">Option-click (Alt-click on Windows) a file or a document to select it; Shift-Option-click to select several. Then use <b>Mark</b> or <b>Tag</b> at the bottom left of the screen.</p>';
+const HOWTO = '<p class="meta">Option-click (Alt-click on Windows) a file or a document to select it. Shift-Option-click selects everything between it and the last item you clicked; Ctrl-Option-click adds or removes single items. Then use <b>Mark</b> or <b>Tag</b> at the bottom left of the screen.</p>';
 function uRow(e, extra){
   return `<div class="urow" data-mk="${esc(e.k)}"><div><a href="${esc(e.href)}"><b>${esc(e.title)}</b></a>
     <div class="meta">${e.type === 'file' ? 'File' : 'Document'} · ${e.s ? `${ppPill(e.s.p)} in ${esc(e.x.t)}` : pgPill(e.x.pg)}</div>
