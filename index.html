@@ -39,6 +39,8 @@ body.detail .card>h2{font-size:19px;color:var(--accent2)}
 .chips{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0}
 .pgpill{display:inline-block;border-radius:999px;padding:0 8px;font:600 12px/1.65 system-ui,sans-serif;white-space:nowrap;background:hsl(calc(332 - var(--t)*22) calc(90% + var(--t)*10%) calc(91% - var(--t)*51%));color:#7a1452}
 .pgpill.hi{color:#fff}
+a.pplink{text-decoration:none}
+html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-select:none}
 .pgpill.one{background:#e4e1e7;color:#55505c}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root:not([data-theme=light]) .pgpill.one{background:#3b3542;color:#c9c2d3}}
 :root[data-theme=dark] .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root[data-theme=dark] .pgpill.one{background:#3b3542;color:#c9c2d3}
@@ -228,7 +230,7 @@ function listView(){
       const db = titleDates(x.t);
       return `<div class="card" data-mk="f|${esc(x.id)}"><div class="cardhead"><h2><a href="#d/${x.id}">${hl(x.t)}</a></h2>${db?`<span class="datebub ${era(db)[0]}" title="${era(db)[1]}">${db}</span>`:''}</div>
       <div class="meta">${esc(x.c)} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} · <a href="${IAX(x)}" target="_blank">archive.org</a></div>
-      <p>${hl(x.o)}</p>${subhits.map(s => `<div class="subhit"><b>${hl(s.t)}</b> <span class="meta">${esc(s.d)} · pp. ${s.p[0]}–${s.p[1]}</span><br>${hl(s.a)}</div>`).join('')}
+      <p>${hl(x.o)}</p>${subhits.map(s => `<div class="subhit"><b>${hl(s.t)}</b> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span><br>${hl(s.a)}</div>`).join('')}
       <div class="chips">${chipsU('f|'+x.id)}${chipsPe(x,6)}${chipsPl(x,6)}</div></div>`; }).join('') +
     (pages > 1 ? `<div class="pager"><button id="prev" ${S.page?'':'disabled'}>← Prev</button><span class="meta">Page ${S.page+1} of ${pages}</span><button id="next" ${S.page<pages-1?'':'disabled'}>Next →</button></div>` : '');
   $('#sort').addEventListener('change', e => { S.sort = e.target.value; S.page = 0; listView(); });
@@ -259,9 +261,9 @@ function detailView(id, kind, term){
    <div class="label">Places</div><div class="chips">${chipsPl(x, 9999) || '<span class="meta">none</span>'}</div>
    <div class="label">Documents in this file${term ? ` — ${hits} mention ${esc(term)}` : ''}</div>
    ${x.sub.map((s,i) => (!term || hit(s)) ? `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub${term ? ' match' : ''}${pgN && s.p[0] <= pgN && pgN <= s.p[1] ? ' onpage' : ''}"><h3><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${H(s.t)}</a></h3>
-     <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a href="${IAP(x, s.p[0])}" target="_blank">pp. ${s.p[0]}–${s.p[1]}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''}</div>
+     <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''}</div>
      <p><i>${H(s.a)}</i></p><p>${H(s.s)}</p><div class="chips">${chipsU(`s|${x.id}|${i+1}`)}${chipsK(x, s.k)}</div></div>`
-     : `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub nomatch"><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${esc(s.t)}</a> <span class="meta">${esc(s.d)} · pp. ${s.p[0]}–${s.p[1]}</span></div>`).join('')}
+     : `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub nomatch"><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${esc(s.t)}</a> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span></div>`).join('')}
   </div>`}<p class="meta">Catalogue entries are machine-generated from OCR text and may contain errors. Mention counts are shown when greater than 3.</p>`;
   if (term) document.querySelector('.infile')?.scrollIntoView({block: 'center'});
   if (pgN) document.querySelector('.sub.onpage')?.scrollIntoView({block: 'center'});
@@ -340,13 +342,14 @@ function facetView(kind){
 }
 // ---- Spotlight: hand-picked sub-files with raw OCR beside a cleaned transcription (spotlight-data.js, built by build_spotlight.py) ----
 const SP = window.SPOTLIGHT || [];
-const pgPill = n => { const t = n <= 10 ? 0 : n <= 20 ? .25 : n <= 50 ? .5 : n <= 100 ? .75 : 1; return `<span class="pgpill${n <= 1 ? ' one' : t >= .5 ? ' hi' : ''}" style="--t:${t}">${n} page${n === 1 ? '' : 's'}</span>`; };
+const pgPill = (n, label) => { const t = n <= 10 ? 0 : n <= 20 ? .25 : n <= 50 ? .5 : n <= 100 ? .75 : 1; return `<span class="pgpill${n <= 1 ? ' one' : t >= .5 ? ' hi' : ''}" style="--t:${t}">${label ?? n + ' page' + (n === 1 ? '' : 's')}</span>`; };
+const ppPill = (p, tail = '') => pgPill(p[1] - p[0] + 1, (p[0] === p[1] ? `p. ${p[0]}` : `pp. ${p[0]}–${p[1]}`) + tail);
 function spCtx(e){ const x = D.find(x => x.id === e.file); let s = x && x.sub.find(s => s.p[0] === e.p[0] && s.p[1] === e.p[1]) || (x && x.sub[e.seq-1]); return [x, s]; }
 function spotlightView(){
   main.innerHTML = `<div class="card"><h2>Spotlight</h2><p>Documents picked out of the files for a closer look. Each page shows the catalogue entry, the raw machine OCR of the document's pages, and a cleaned transcription made by reading the page images.</p></div>` +
     SP.map(e => { const [x, s] = spCtx(e); if (!x || !s) return '';
       return `<div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2><a href="#s/${esc(e.id)}">${esc(s.t)}</a></h2>
-        <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · pp. ${s.p[0]}–${s.p[1]} · ${e.clean ? 'cleaned transcription available' : 'cleaned transcription in progress'}</div>
+        <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · ${ppPill(s.p)} · ${e.clean ? 'cleaned transcription available' : 'cleaned transcription in progress'}</div>
         <div class="meta">In file: <a href="#d/${esc(x.id)}">${esc(x.t)}</a></div><p>${esc(s.a)}</p></div>`; }).join('');
 }
 function spotlightDetail(id){
@@ -360,7 +363,7 @@ function spotlightDetail(id){
   if (modes.length > 2) modes = modes.slice(-2);
   const NAMES = {raw: 'Raw OCR', clean: 'Clean', image: 'Page image'}, ORDER = ['raw', 'clean', 'image'];
   main.innerHTML = `<a class="back" href="#spotlight">← Back to Spotlight</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
-   <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a href="${IAP(x, s.p[0])}" target="_blank">pp. ${s.p[0]}–${s.p[1]} on archive.org</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
+   <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank">${ppPill(s.p, " on archive.org")}</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
    <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length}. <a href="${IAX(x)}" target="_blank">archive.org</a></div>
    <div class="label">Description</div><p><i>${esc(s.a)}</i></p><div class="label">Summary</div><p>${esc(s.s)}</p>
    <div class="label">Keywords</div><div class="chips">${chipsU(`s|${x.id}|${x.sub.indexOf(s)+1}`)}${chipsK(x, s.k)}</div>
@@ -430,7 +433,10 @@ document.addEventListener('click', ev => {
   else { const only = SEL.size === 1 && SEL.has(k); SEL.clear(); if (!only) SEL.add(k); }
   paintSel();
 }, true);
-addEventListener('keydown', ev => { if (ev.key === 'Escape' && SEL.size){ SEL.clear(); paintSel(); } });
+addEventListener('keydown', ev => { if (ev.key === 'Escape' && SEL.size){ SEL.clear(); paintSel(); } if (ev.altKey) document.documentElement.classList.add('optdown'); });
+addEventListener('keyup', ev => { if (!ev.altKey) document.documentElement.classList.remove('optdown'); });
+addEventListener('blur', () => document.documentElement.classList.remove('optdown'));
+document.addEventListener('mousedown', ev => { if (ev.altKey && ev.target.closest('[data-mk]')){ ev.preventDefault(); getSelection()?.removeAllRanges(); } }, true);
 $('#mkClr').onclick = () => { SEL.clear(); paintSel(); };
 $('#mkMark').onclick = () => { const all = [...SEL].every(k => U.marked.has(k)); SEL.forEach(k => all ? U.marked.delete(k) : U.marked.add(k)); uSave(); SEL.clear(); route(); };
 $('#mkTag').onclick = () => { const f = $('#mkTagForm'); f.hidden = !f.hidden; if (!f.hidden) $('#mkTagIn').focus(); };
@@ -481,7 +487,7 @@ function wireUserHead(){
 const HOWTO = '<p class="meta">Option-click (Alt-click on Windows) a file or a document to select it; Shift-Option-click to select several. Then use <b>Mark</b> or <b>Tag</b> at the bottom left of the screen.</p>';
 function uRow(e, extra){
   return `<div class="urow" data-mk="${esc(e.k)}"><div><a href="${esc(e.href)}"><b>${esc(e.title)}</b></a>
-    <div class="meta">${e.type === 'file' ? 'File' : 'Document'} · ${e.s ? `pp. ${e.s.p[0]}–${e.s.p[1]} in ${esc(e.x.t)}` : pgPill(e.x.pg)}</div>
+    <div class="meta">${e.type === 'file' ? 'File' : 'Document'} · ${e.s ? `${ppPill(e.s.p)} in ${esc(e.x.t)}` : pgPill(e.x.pg)}</div>
     <div class="chips">${chipsU(e.k)}</div></div>${extra}</div>`;
 }
 function markedView(){
