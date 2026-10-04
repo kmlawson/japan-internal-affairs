@@ -32,6 +32,11 @@ for line in open(os.path.join(WEB, "spotlight", "urls.txt"), encoding="utf-8"):
     if key not in entries:
         entries[key] = {"id": key, "file": row[0], "seq": sub[0], "p": [sub[1], sub[2]], "via": [], "cat": cat, "n": len(order)}; order.append(key)
     entries[key]["via"].append(page)
+BY = {}
+tsv = os.path.join(WEB, "spotlight", "transcribers.tsv")  # which model made each cleaned transcript
+if os.path.exists(tsv):
+    for line in open(tsv, encoding="utf-8"):
+        if line.strip() and not line.startswith("#"): k, v = line.rstrip("\n").split("\t", 1); BY[k] = v
 out = []
 for key in order:
     e = entries[key]; pdf = db.execute("select file from files where id=?", (e["file"],)).fetchone()[0]
@@ -41,6 +46,7 @@ for key in order:
     raw = {int(parts[i]): parts[i + 1].strip("\n") for i in range(1, len(parts), 2)}
     e["raw"] = [[p, raw.get(p, "")] for p in range(e["p"][0], e["p"][1] + 1)]
     e["ocr"] = "PaddleOCR" if tp.startswith(MERGED) else "Mistral OCR"
+    e["by"] = BY.get(key)
     cp = os.path.join(WEB, "spotlight", "clean", key + ".txt")
     jp = os.path.join(WEB, "spotlight", "clean", key + ".ja.txt")  # optional reconstructed Japanese text
     e["ja"] = None
