@@ -182,7 +182,7 @@ const IAX = x => IA(x.ia || x.id);
 // archive.org page links: /details/<item>/page/n<leaf>. Items holding several PDFs (split files) need the PDF's
 // name WITHOUT ".pdf" before /page/ to pick the part; with ".pdf" the viewer does not load.
 const iaBook = (ia, iaf, id) => IA(ia || id) + (iaf && /-part-\d+$/.test(id) ? '/' + encodeURIComponent(iaf.replace(/\.pdf$/i, '')) : '');
-const IAP = (x, p) => iaBook(x.ia, x.iaf, x.id) + '/page/n' + ((p||1) - 1);
+const IAP = (x, p) => iaBook(x.ia, x.iaf, x.id) + '/page/n' + ((p||1) - 1) + '/mode/1up';
 const PDF = f => '../' + encodeURIComponent(f);
 const CLASSES = {'00':'Political affairs','01':'Government','02':'Executive','03':'Legislature','04':'Judiciary & law','05':'International courts',
  '1':'Public order, health & regulation','2':'Military','3':'Naval','4':'Social & cultural','5':'Economic & financial','6':'Industry & agriculture',
@@ -310,7 +310,7 @@ async function ftView(){
   const opt = (v, l, cur) => `<option value="${v}"${v === cur ? ' selected' : ''}>${l}</option>`;
   const dateOf = x => !x ? '' : x.d || ((x.sub || []).map(s => s.d).filter(v => /^19[1-5]\d/.test(v || '')).sort())[0] || '';
   const hitHTML = (d, inGroup) => { const m = d.meta, x = DM.get(m.id), inCat = !!x, db = titleDates(m.title) || dateOf(x).replace(/-/g, '.');
-    const img = iaBook(m.ia, m.iaf, m.id) + '/page/n' + (m.page - 1);
+    const img = iaBook(m.ia, m.iaf, m.id) + '/page/n' + (m.page - 1) + '/mode/1up';
     return `<div class="card">${inGroup ? '' : `<div class="cardhead"><h2>${inCat ? `<a href="${d.url}">${esc(m.title)}</a>` : esc(m.title)}</h2>${db ? `<span class="datebub ${era(db)[0]}">${db}</span>` : ''}</div>`}
       <div class="meta">page ${esc(m.page)} · ${esc(m.src)} · <a href="${img}" target="_blank">page image on archive.org</a>${inCat ? ` · <a href="${d.url}">catalogue entry</a>` : ''}</div>
       <p class="ftx">…${d.excerpt}…</p></div>`; };
