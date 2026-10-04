@@ -38,7 +38,7 @@ def monthly_reports():
 
 def pick(test):
     return [{"f": fid, "p": p0, "d": d, **({"x": 1} if XREF.search(t) or XREF.search(ty) else {})}
-            for fid, seq, t, ty, p0, p1, d in ROWS if test(t, ty, d)]
+            for fid, seq, t, ty, p0, p1, d in ROWS if p1 > p0 and test(t, ty, d)]  # single-page documents are left out of all sets
 
 
 cab_kw, cab_ev = rx(r"\bcabinet\b"), rx(r"resign|formation|\bfall\b|new cabinet|en bloc|chosen to form|form (a|the) (new )?cabinet|organi[sz]ation of the .*cabinet|cabinet crisis")
