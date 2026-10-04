@@ -68,6 +68,21 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 .urow button{flex:none;min-height:30px;padding:3px 10px;font-size:13px}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .chip.utag,:root:not([data-theme=light]) .mkbtn{color:#15111c}}
 :root[data-theme=dark] .chip.utag,:root[data-theme=dark] .mkbtn{color:#15111c}
+#setsMenu{position:fixed;z-index:70;min-width:220px;padding:6px;border:1px solid var(--line);border-radius:10px;background:var(--panel);box-shadow:0 8px 28px rgba(0,0,0,.18);font:14px system-ui,sans-serif}
+#setsMenu[hidden]{display:none}
+#setsMenu a{display:block;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none}
+#setsMenu a:hover,#setsMenu a:focus{background:var(--chip);outline:none}
+#setsMenu a span{display:block;color:var(--muted);font-size:12px}
+.setrow{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-top:1px solid var(--line)}
+.setrow .datebub{align-self:flex-start;margin-top:2px;min-width:62px;text-align:center}
+.setrow>div{flex:1;min-width:0}
+.setrow h3{font-size:15px;margin:0 0 3px}
+.setrow h3 a{color:var(--accent2);text-decoration:none}.setrow h3 a:hover{text-decoration:underline}
+.setrow .alts{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:5px;font:13px system-ui,sans-serif;color:var(--muted)}
+.setrow .alt{white-space:nowrap}
+.setyear{margin:18px 0 0;font:600 13px system-ui,sans-serif;letter-spacing:.06em;color:var(--accent);text-transform:uppercase}
+.setrow.mkd{margin-left:-16px;margin-right:-16px;padding-left:22px;padding-right:16px;background:color-mix(in srgb,var(--era1) 8%,transparent)}
+@media (max-width:640px){.setrow{gap:8px}.setrow .datebub{min-width:56px}.setrow.mkd{margin-left:-12px;margin-right:-12px;padding-left:18px;padding-right:12px}}
 .chip{background:var(--chip);border-radius:12px;padding:2px 9px;font:12.5px system-ui,sans-serif;color:var(--ink);text-decoration:none;cursor:pointer;border:0}
 .chip b{color:var(--accent);font-weight:600;margin-left:4px}
 .chip:hover{outline:1px solid var(--accent)}
@@ -142,7 +157,7 @@ p{overflow-wrap:break-word}
   <h1><a href="#">Records of the Department of State Relating to Internal Affairs of Japan, 1930–1949</a></h1>
   <button class="theme" id="theme" title="Toggle light/dark">◐</button>
  </div>
- <nav><a href="#" data-v="files">Files</a><a href="#people" data-v="people">People</a><a href="#places" data-v="places">Places</a><a href="#keywords" data-v="keywords">Keywords</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#spotlight" data-v="spotlight">Spotlight</a><a href="#about" data-v="about">About</a><a href="#marked" data-v="marked">View Marked</a><a href="#tags" data-v="tags">View Tags</a></nav>
+ <nav><a href="#" data-v="files">Files</a><a href="#sets" data-v="sets" id="setsBtn" aria-haspopup="true" aria-expanded="false">Sets ▾</a><a href="#people" data-v="people">People</a><a href="#places" data-v="places">Places</a><a href="#keywords" data-v="keywords">Keywords</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#spotlight" data-v="spotlight">Spotlight</a><a href="#about" data-v="about">About</a><a href="#marked" data-v="marked">View Marked</a><a href="#tags" data-v="tags">View Tags</a></nav>
  <div class="search" id="searchbar">
   <input type="search" id="q" placeholder="Search titles, summaries, people, places, keywords…">
   <select id="cls"><option value="">All subjects</option></select>
@@ -153,6 +168,7 @@ p{overflow-wrap:break-word}
 <main class="wrap" id="main"></main>
 <script src="data.js"></script>
 <script src="spotlight-data.js"></script>
+<script src="sets.js"></script>
 <script>
 const D = window.CATALOG || [], EXPECTED = window.CATALOG_EXPECTED || D.length;
 const $ = s => document.querySelector(s), main = $('#main');
@@ -524,6 +540,47 @@ function tagsView(tag){
   wireUserHead();
   main.querySelectorAll('[data-untag]').forEach(b => b.onclick = () => { removeTag(b.dataset.untag, cur); route(); });
 }
+// ---- Sets: curated groupings of documents (sets.js, built by build_sets.py) ----
+const SETS = window.SETS || [];
+const setsMenu = document.createElement('div'); setsMenu.id = 'setsMenu'; setsMenu.hidden = true; setsMenu.setAttribute('role', 'menu');
+setsMenu.innerHTML = SETS.map(s => `<a role="menuitem" href="#${esc(s.id)}">${esc(s.name)}<span>${s.items.length} documents</span></a>`).join('') || '<span class="meta">No sets yet.</span>';
+document.body.appendChild(setsMenu);
+function closeSets(){ setsMenu.hidden = true; $('#setsBtn').setAttribute('aria-expanded', 'false'); }
+$('#setsBtn').addEventListener('click', ev => { ev.preventDefault(); if (!setsMenu.hidden) return closeSets();
+  const r = ev.currentTarget.getBoundingClientRect(); setsMenu.style.left = Math.max(8, Math.min(r.left, innerWidth - 240)) + 'px'; setsMenu.style.top = (r.bottom + 6) + 'px';
+  setsMenu.hidden = false; ev.currentTarget.setAttribute('aria-expanded', 'true'); setsMenu.querySelector('a')?.focus(); });
+document.addEventListener('click', ev => { if (!setsMenu.hidden && !ev.target.closest('#setsMenu,#setsBtn')) closeSets(); });
+addEventListener('keydown', ev => { if (ev.key === 'Escape' && !setsMenu.hidden){ closeSets(); $('#setsBtn').focus(); } });
+addEventListener('scroll', () => { if (!setsMenu.hidden) closeSets(); }, {passive: true});
+let SETSORT = 'month', SETREV = false;
+function setView(set){
+  closeSets();
+  // one row per report month: the copy with most pages is the main entry, other copies are alternative versions
+  const rows = new Map();
+  set.items.forEach(it => { const x = DIX.get(it.f); const i = x ? x.sub.findIndex(s => s.p[0] === it.p) : -1; if (i < 0) return;
+    const e = {x, s: x.sub[i], seq: i + 1, m: it.m, n: it.n}; const g = rows.get(it.m) || []; g.push(e); rows.set(it.m, g); });
+  const len = e => e.s.p[1] - e.s.p[0] + 1;
+  let list = [...rows].map(([m, g]) => { g.sort((a, b) => len(b) - len(a)); return {m, main: g[0], alts: g.slice(1), n: g.find(e => e.n)?.n ?? null}; });
+  const key = {month: r => [r.m], sent: r => [r.main.s.d || '9999', r.m], no: r => [r.n ?? 99999, r.m], pages: r => [-len(r.main), r.m], title: r => [r.main.s.t.toLowerCase(), r.m]}[SETSORT];
+  list.sort((a, b) => { const A = key(a), B = key(b); for (let i = 0; i < A.length; i++){ if (A[i] < B[i]) return -1; if (A[i] > B[i]) return 1; } return 0; });
+  if (SETREV) list.reverse();
+  const opt = (v, l) => `<option value="${v}"${SETSORT === v ? ' selected' : ''}>${l}</option>`;
+  const docs = list.reduce((n, r) => n + 1 + r.alts.length, 0);
+  let yr = '';
+  main.innerHTML = `<div class="card"><h2>${esc(set.name)}</h2><p>${esc(set.about)}</p>
+    <div class="toolbar"><span class="meta">${list.length} months · ${docs} documents</span>
+    <label>Sort <select id="setsort">${opt('month', 'Report month')}${opt('sent', 'Date sent')}${opt('no', 'Report number')}${opt('pages', 'Number of pages')}${opt('title', 'Title')}</select>
+    <button id="setrev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${SETREV ? '↑' : '↓'}</button></label></div>
+    ${list.map(r => { const e = r.main, y = r.m.slice(0, 4), hd = SETSORT === 'month' && y !== yr ? `<div class="setyear">${(yr = y)}</div>` : '';
+      return hd + `<div class="setrow" data-mk="s|${esc(e.x.id)}|${e.seq}"><span class="datebub ${era(r.m)[0]}" title="Report for ${esc(r.m)}">${esc(r.m)}</span><div>
+        <h3><a href="#d/${esc(e.x.id)}/pg/${e.s.p[0]}">${esc(e.s.t)}</a></h3>
+        <div class="meta">${esc(e.s.ty)}${e.s.d ? ' · sent ' + esc(e.s.d) : ''} · <a class="pplink" href="${IAP(e.x, e.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(e.s.p)}</a> · in <a href="#d/${esc(e.x.id)}">${esc(e.x.t)}</a></div>
+        ${r.alts.length ? `<div class="alts">${r.alts.map((a, i) => `<span class="alt"><a href="#d/${esc(a.x.id)}/pg/${a.s.p[0]}" title="${esc(a.s.t)} — ${esc(a.x.t)}">Alternative version${r.alts.length > 1 ? ' ' + (i + 1) : ''}</a> <a class="pplink" href="${IAP(a.x, a.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(a.s.p)}</a></span>`).join('')}</div>` : ''}
+        <div class="chips">${chipsU(`s|${e.x.id}|${e.seq}`)}</div></div></div>`; }).join('')}</div>`;
+  $('#setsort').onchange = ev => { SETSORT = ev.target.value; setView(set); };
+  $('#setrev').onclick = () => { SETREV = !SETREV; setView(set); };
+}
+function setsIndex(){ main.innerHTML = `<div class="card"><h2>Sets</h2><p>Curated groupings of documents.</p>${SETS.map(s => `<div class="setrow"><div><h3><a href="#${esc(s.id)}">${esc(s.name)}</a></h3><p class="meta">${esc(s.about)}</p></div></div>`).join('')}</div>`; }
 function aboutView(){
   const pages = D.reduce((n,x)=>n+x.pg,0), subs = D.reduce((n,x)=>n+x.sub.length,0);
   main.innerHTML = `<div class="card"><h2>About this catalogue</h2>
@@ -535,15 +592,18 @@ function aboutView(){
 function route(){
   let h = decodeURIComponent(location.hash.slice(1)); S.facet = null;
   if (h.startsWith('fulltext/')){ S.q = h.slice(9); $('#q').value = S.q; h = 'fulltext'; }  // shareable link: #fulltext/<query>
-  const view = h.startsWith('d/') ? 'detail' : h.startsWith('s/') ? 'spotdetail' : h === 'tags' || h.startsWith('tags/') ? 'tags' : ['people','places','keywords','about','fulltext','spotlight','marked'].includes(h) ? h : 'files';
+  const SET = SETS.find(s => s.id === h);
+  const view = SET ? 'set' : h === 'sets' ? 'sets' : h.startsWith('d/') ? 'detail' : h.startsWith('s/') ? 'spotdetail' : h === 'tags' || h.startsWith('tags/') ? 'tags' : ['people','places','keywords','about','fulltext','spotlight','marked'].includes(h) ? h : 'files';
   document.body.classList.toggle('detail', view==='detail' || view==='spotdetail');
-  document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.v === (view==='detail'?'files':view==='spotdetail'?'spotlight':view)));
+  document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.v === (view==='detail'?'files':view==='spotdetail'?'spotlight':view==='set'?'sets':view)));
   $('#cls').style.display = $('#yr').style.display = $('#reset').style.display = (view==='files' || view==='fulltext') ? '' : 'none';
   $('#q').placeholder = view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…';
   if (view === 'detail'){ const [, id, kind, ...v] = h.split('/'); return detailView(id, kind, v.length ? v.join('/') : null); }
   if (view === 'spotdetail') return spotlightDetail(h.slice(2));
   if (view === 'spotlight') return spotlightView();
   if (view === 'about') return aboutView();
+  if (view === 'set') return setView(SET);
+  if (view === 'sets') return setsIndex();
   if (view === 'marked') return markedView();
   if (view === 'tags') return tagsView(h.startsWith('tags/') ? h.slice(5) : null);
   if (view === 'fulltext') return ftView();
