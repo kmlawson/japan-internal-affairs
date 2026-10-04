@@ -29,6 +29,7 @@ items = []
 for fid, seq, title, ty, p0, p1, date, sender in db.execute(
         "select file_id, seq, title, doc_type, start_page, end_page, date, sender from subfiles"):
     if not INCLUDE.search(title) or EXCLUDE_TITLE.search(title) or EXCLUDE_TYPE.search(ty or ""): continue
+    if p1 <= p0: continue  # a single page cannot be a full copy of a report
     if not re.search(r"month|report no\.|monthly", title, re.I): continue
     m = report_month(title, date)
     if not m or not ("1929" <= m[:4] <= "1942"): continue
