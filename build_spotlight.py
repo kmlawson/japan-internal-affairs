@@ -10,9 +10,10 @@ import os, re, json, sqlite3, urllib.parse
 WEB = os.path.dirname(os.path.abspath(__file__))
 MERGED = os.path.join(os.path.dirname(WEB), "merged")
 db = sqlite3.connect(os.path.join(WEB, "catalog.sqlite"))
-entries, order = {}, []
+entries, order, cat = {}, [], "General"
 for line in open(os.path.join(WEB, "spotlight", "urls.txt"), encoding="utf-8"):
     line = line.strip()
+    if line.startswith("## "): cat = line[3:].strip(); continue  # "## Category" heading: following links belong to it
     if not line or line.startswith("#"): continue
     d = re.search(r"#d/([^/\s]+)/doc/(\d+)", line)  # a link to the site's document entry
     if d:
@@ -29,7 +30,7 @@ for line in open(os.path.join(WEB, "spotlight", "urls.txt"), encoding="utf-8"):
     if not sub: print("NO MATCH", line); continue
     key = f"{row[0]}__{sub[0]}"
     if key not in entries:
-        entries[key] = {"id": key, "file": row[0], "seq": sub[0], "p": [sub[1], sub[2]], "via": []}; order.append(key)
+        entries[key] = {"id": key, "file": row[0], "seq": sub[0], "p": [sub[1], sub[2]], "via": [], "cat": cat, "n": len(order)}; order.append(key)
     entries[key]["via"].append(page)
 out = []
 for key in order:
@@ -41,6 +42,11 @@ for key in order:
     e["raw"] = [[p, raw.get(p, "")] for p in range(e["p"][0], e["p"][1] + 1)]
     e["ocr"] = "PaddleOCR" if tp.startswith(MERGED) else "Mistral OCR"
     cp = os.path.join(WEB, "spotlight", "clean", key + ".txt")
+    jp = os.path.join(WEB, "spotlight", "clean", key + ".ja.txt")  # optional reconstructed Japanese text
+    e["ja"] = None
+    if os.path.exists(jp):
+        jparts = re.split(r"^=== Page (\d+) ===[ \t]*\n?", open(jp, encoding="utf-8").read(), flags=re.M)
+        e["ja"] = [[int(jparts[i]), jparts[i + 1].strip("\n")] for i in range(1, len(jparts), 2)]
     e["clean"] = None
     if os.path.exists(cp):
         cparts = re.split(r"^=== Page (\d+) ===[ \t]*\n?", open(cp, encoding="utf-8").read(), flags=re.M)

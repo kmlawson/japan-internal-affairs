@@ -70,11 +70,11 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 .urow button{flex:none;min-height:30px;padding:3px 10px;font-size:13px}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .chip.utag,:root:not([data-theme=light]) .mkbtn{color:#15111c}}
 :root[data-theme=dark] .chip.utag,:root[data-theme=dark] .mkbtn{color:#15111c}
-#setsMenu{position:fixed;z-index:70;min-width:220px;padding:6px;border:1px solid var(--line);border-radius:10px;background:var(--panel);box-shadow:0 8px 28px rgba(0,0,0,.18);font:14px system-ui,sans-serif}
-#setsMenu[hidden]{display:none}
-#setsMenu a{display:block;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none}
-#setsMenu a:hover,#setsMenu a:focus{background:var(--chip);outline:none}
-#setsMenu a span{display:block;color:var(--muted);font-size:12px}
+.ddmenu{position:fixed;z-index:70;min-width:220px;padding:6px;border:1px solid var(--line);border-radius:10px;background:var(--panel);box-shadow:0 8px 28px rgba(0,0,0,.18);font:14px system-ui,sans-serif}
+.ddmenu[hidden]{display:none}
+.ddmenu a{display:block;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none}
+.ddmenu a:hover,.ddmenu a:focus{background:var(--chip);outline:none}
+.ddmenu a span{display:block;color:var(--muted);font-size:12px}
 .setrow{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-top:1px solid var(--line)}
 .setrow .datebub{align-self:flex-start;margin-top:2px;min-width:62px;text-align:center}
 .setrow>div{flex:1;min-width:0}
@@ -127,6 +127,7 @@ button:disabled{opacity:.4;cursor:default}
 .chip.on{background:var(--accent);color:var(--bandink)}
 .sub.nomatch{padding:5px 0;opacity:.6;font-size:13.5px}.sub.nomatch a{color:var(--ink);text-decoration:none}.sub.nomatch a:hover{color:var(--accent)}
 .sub{scroll-margin-top:190px}
+.sub.onpage .chip:not(.utag){background:color-mix(in srgb,var(--accent) 20%,var(--chip))}
 .sub.onpage{background:var(--chip);margin:0 -10px;padding:12px 10px;border-radius:8px}
 .ftx{font-size:14.5px}
 .subhit{font-size:14px;margin:6px 0 0;padding-left:10px;border-left:2px solid var(--accent)}
@@ -161,7 +162,7 @@ p{overflow-wrap:break-word}
   <h1><a href="#">Records of the Department of State Relating to Internal Affairs of Japan, 1930–1949</a></h1>
   <button class="theme" id="theme" title="Toggle light/dark">◐</button>
  </div>
- <nav><a href="#" data-v="files">Files</a><a href="#sets" data-v="sets" id="setsBtn" aria-haspopup="true" aria-expanded="false">Sets ▾</a><a href="#people" data-v="people">People</a><a href="#places" data-v="places">Places</a><a href="#keywords" data-v="keywords">Keywords</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#spotlight" data-v="spotlight">Spotlight</a><a href="#about" data-v="about">About</a><a href="#marked" data-v="marked">View Marked</a><a href="#tags" data-v="tags">View Tags</a></nav>
+ <nav><a href="#" data-v="files">Files</a><a href="#sets" data-v="sets" id="setsBtn" aria-haspopup="true" aria-expanded="false">Sets ▾</a><a href="#people" data-v="people">People</a><a href="#places" data-v="places">Places</a><a href="#keywords" data-v="keywords">Keywords</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#spotlight" data-v="spotlight" id="spotBtn" aria-haspopup="true" aria-expanded="false">Spotlight ▾</a><a href="#about" data-v="about">About</a><a href="#marked" data-v="marked">View Marked</a><a href="#tags" data-v="tags">View Tags</a></nav>
  <div class="search" id="searchbar">
   <input type="search" id="q" placeholder="Search titles, summaries, people, places, keywords…">
   <select id="cls"><option value="">All subjects</option></select>
@@ -367,12 +368,37 @@ const SP = window.SPOTLIGHT || [];
 const pgPill = (n, label) => `<span class="pgpill ${n <= 1 ? 'one' : n <= 30 ? 'p1' : n <= 100 ? 'p2' : 'p3'}">${label ?? n + ' page' + (n === 1 ? '' : 's')}</span>`;
 const ppPill = (p, tail = '') => pgPill(p[1] - p[0] + 1, (p[0] === p[1] ? `p. ${p[0]}` : `pp. ${p[0]}–${p[1]}`) + tail);
 function spCtx(e){ const x = D.find(x => x.id === e.file); let s = x && x.sub.find(s => s.p[0] === e.p[0] && s.p[1] === e.p[1]) || (x && x.sub[e.seq-1]); return [x, s]; }
-function spotlightView(){
-  main.innerHTML = `<div class="card"><h2>Spotlight</h2><p>Documents picked out of the files for a closer look. Each page shows the catalogue entry, the raw machine OCR of the document's pages, and a cleaned transcription made by reading the page images.</p></div>` +
-    SP.map(e => { const [x, s] = spCtx(e); if (!x || !s) return '';
-      return `<div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2><a href="#s/${esc(e.id)}">${esc(s.t)}</a></h2>
-        <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · ${ppPill(s.p)} · ${e.clean ? 'cleaned transcription available' : 'cleaned transcription in progress'}</div>
-        <div class="meta">In file: <a href="#d/${esc(x.id)}">${esc(x.t)}</a></div><p>${esc(s.a)}</p></div>`; }).join('');
+const spSlug = c => String(c || 'General').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const SPCATS = [...new Set(SP.map(e => e.cat || 'General'))];
+const spotMenu = document.createElement('div'); spotMenu.className = 'ddmenu'; spotMenu.hidden = true; spotMenu.setAttribute('role', 'menu');
+spotMenu.innerHTML = `<a role="menuitem" href="#spotlight">All<span>${SP.length} documents</span></a>` +
+  SPCATS.map(c => `<a role="menuitem" href="#spotlight/${spSlug(c)}">${esc(c)}<span>${SP.filter(e => (e.cat || 'General') === c).length} documents</span></a>`).join('');
+document.body.appendChild(spotMenu);
+function closeSpot(){ spotMenu.hidden = true; $('#spotBtn').setAttribute('aria-expanded', 'false'); }
+$('#spotBtn').addEventListener('click', ev => { ev.preventDefault(); if (!spotMenu.hidden) return closeSpot();
+  const r = ev.currentTarget.getBoundingClientRect(); spotMenu.style.left = Math.max(8, Math.min(r.left, innerWidth - 240)) + 'px'; spotMenu.style.top = (r.bottom + 6) + 'px';
+  spotMenu.hidden = false; ev.currentTarget.setAttribute('aria-expanded', 'true'); spotMenu.querySelector('a')?.focus(); });
+document.addEventListener('click', ev => { if (!spotMenu.hidden && !ev.target.closest('.ddmenu,#spotBtn')) closeSpot(); });
+addEventListener('keydown', ev => { if (ev.key === 'Escape' && !spotMenu.hidden){ closeSpot(); $('#spotBtn').focus(); } });
+addEventListener('scroll', () => { if (!spotMenu.hidden) closeSpot(); }, {passive: true});
+let SPSORT = 'added', SPREV = true;
+function spotlightView(slug){
+  closeSpot();
+  const cat = slug ? SPCATS.find(c => spSlug(c) === slug) : null;
+  const rows = SP.filter(e => !cat || (e.cat || 'General') === cat).map(e => { const [x, s] = spCtx(e); return x && s ? {e, x, s} : null; }).filter(Boolean);
+  const key = {added: r => [r.e.n ?? 0], date: r => [r.s.d || '9999', r.e.n ?? 0], title: r => [r.s.t.toLowerCase()], length: r => [r.s.p[1] - r.s.p[0], r.e.n ?? 0]}[SPSORT];
+  rows.sort((a, b) => { const A = key(a), B = key(b); for (let i = 0; i < A.length; i++){ if (A[i] < B[i]) return -1; if (A[i] > B[i]) return 1; } return 0; });
+  if (SPREV) rows.reverse();
+  const opt = (v, l) => `<option value="${v}"${SPSORT === v ? ' selected' : ''}>${l}</option>`;
+  main.innerHTML = `<div class="card"><h2>Spotlight${cat ? ': ' + esc(cat) : ''}</h2><p>Documents picked out of the files for a closer look. Each page shows the catalogue entry, the raw machine OCR of the document's pages, a cleaned transcription made by reading the page images, and the page images themselves.</p>
+    <div class="toolbar"><span class="meta">${rows.length} documents${cat ? ` · <a href="#spotlight">show all</a>` : ''}</span>
+    <label>Sort <select id="spsort">${opt('added', 'Date added')}${opt('date', 'Document date')}${opt('title', 'Title')}${opt('length', 'Length')}</select>
+    <button id="sprev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${SPREV ? '↑' : '↓'}</button></label></div></div>` +
+    rows.map(({e, x, s}) => `<div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2><a href="#s/${esc(e.id)}">${esc(s.t)}</a></h2>
+        <div class="meta">${cat ? '' : `<a href="#spotlight/${spSlug(e.cat)}">${esc(e.cat || 'General')}</a> · `}${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · ${ppPill(s.p)} · ${e.clean ? 'cleaned transcription' : 'cleaned transcription in progress'}${e.ja ? ' · Japanese reconstruction' : ''}</div>
+        <div class="meta">In file: <a href="#d/${esc(x.id)}">${esc(x.t)}</a></div><p>${esc(s.a)}</p></div>`).join('');
+  $('#spsort').onchange = ev => { SPSORT = ev.target.value; SPREV = SPSORT === 'added'; spotlightView(slug); };
+  $('#sprev').onclick = () => { SPREV = !SPREV; spotlightView(slug); };
 }
 function spotlightDetail(id){
   const e = SP.find(e => e.id === id), [x, s] = e ? spCtx(e) : []; if (!e || !x || !s){ main.innerHTML = '<p>Not found.</p>'; return; }
@@ -383,8 +409,9 @@ function spotlightDetail(id){
   let modes; try { modes = JSON.parse(localStorage.getItem('spModes')); } catch (_) {}
   if (!Array.isArray(modes) || !modes.length) modes = matchMedia('(max-width:820px)').matches ? ['clean'] : ['clean', 'image'];
   if (modes.length > 2) modes = modes.slice(-2);
-  const NAMES = {raw: 'Raw OCR', clean: 'Clean', image: 'Page image'}, ORDER = ['raw', 'clean', 'image'];
-  main.innerHTML = `<a class="back" href="#spotlight">← Back to Spotlight</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
+  const NAMES = {raw: 'Raw OCR', clean: 'Clean', ja: 'Japanese (reconstructed)', image: 'Page image'}, ORDER = e.ja ? ['raw', 'clean', 'ja', 'image'] : ['raw', 'clean', 'image'];
+  const jaM = e.ja ? new Map(e.ja) : null; modes = modes.filter(m => ORDER.includes(m)); if (!modes.length) modes = ['clean'];
+  main.innerHTML = `<a class="back" href="#spotlight/${spSlug(e.cat)}">← Back to Spotlight${e.cat && e.cat !== 'General' ? ': ' + esc(e.cat) : ''}</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
    <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank">${ppPill(s.p, " on archive.org")}</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
    <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length}. <a href="${IAX(x)}" target="_blank">archive.org</a></div>
    <div class="label">Description</div><p><i>${esc(s.a)}</i></p><div class="label">Summary</div><p>${esc(s.s)}</p>
@@ -392,16 +419,18 @@ function spotlightDetail(id){
    <div class="label">Text of the document</div>
    <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}</div>
    <div class="sp-warn" id="spw" hidden><b>Important:</b> The cleaned transcript is an extraction of the text using a large language model (Claude Sonnet 5.5 or Opus 5.5, depending on the text) in comparison with the ${esc(e.ocr || 'PaddleOCR')} software which produced the raw transcript. Errors and hallucinations in the cleaned transcript will be harder to detect than the shortcomings of the raw transcript.</div>
+   <div class="sp-warn" id="spwj" hidden><b>Important:</b> The Japanese text is a reconstruction made by a large language model (Claude Opus 5.5) from the romanized transcript. It is not an original Japanese document. Kanji, particles and word boundaries are interpretations of the romanization; ambiguous readings are marked in [square brackets] and in the notes.</div>
    <div class="sp-view" id="spv"></div>
    <p class="meta">Square brackets mark illegible or uncertain words, and editorial notes such as stamps, marginalia and handwriting. Tap a page image to open it full size.</p></div>
    <div class="pager">${prev ? `<a href="#s/${esc(prev.id)}">← previous</a>` : ''}${next ? `<a href="#s/${esc(next.id)}">next →</a>` : ''}</div>`;
   const view = $('#spv');
   const cell = (m, p) => m === 'image' ? `<div class="sp-cell"><span class="tag">Page image</span><a href="${img(p)}" target="_blank"><img loading="lazy" src="${img(p)}" alt="Scan of page ${p}"></a></div>`
     : m === 'raw' ? `<div class="sp-cell"><span class="tag">Raw OCR (${esc(e.ocr || 'PaddleOCR')}, unedited)</span><div class="sp-raw">${esc(rawM.get(p) || '[no OCR text]')}</div></div>`
+    : m === 'ja' ? `<div class="sp-cell"><span class="tag">Japanese (reconstructed)</span><div class="sp-clean" lang="ja">${jaM && jaM.has(p) ? esc(jaM.get(p)) : '<span class="meta">[no reconstruction for this page]</span>'}</div></div>`
     : `<div class="sp-cell"><span class="tag">Cleaned transcription</span><div class="sp-clean">${cleanM ? esc(cleanM.has(p) ? cleanM.get(p) : '[not transcribed]') : '<span class="meta">Not yet available.</span>'}</div></div>`;
   const draw = () => {
     const on = ORDER.filter(m => modes.includes(m)), keep = view.scrollTop;
-    $('#spw').hidden = !modes.includes('clean');
+    $('#spw').hidden = !modes.includes('clean'); $('#spwj').hidden = !modes.includes('ja');
     document.querySelectorAll('#spm button').forEach(b => b.classList.toggle('on', modes.includes(b.dataset.m)));
     view.innerHTML = pages.map(p => `<div id="sp-p${p}"><div class="sp-pgbar">Page ${p}<a href="${IAP(x, p)}" target="_blank">on archive.org</a></div><div class="sp-row n${on.length}">${on.map(m => cell(m, p)).join('')}</div></div>`).join('');
     view.scrollTop = keep;
@@ -546,7 +575,7 @@ function tagsView(tag){
 }
 // ---- Sets: curated groupings of documents (sets.js, built by build_sets.py) ----
 const SETS = window.SETS || [];
-const setsMenu = document.createElement('div'); setsMenu.id = 'setsMenu'; setsMenu.hidden = true; setsMenu.setAttribute('role', 'menu');
+const setsMenu = document.createElement('div'); setsMenu.id = 'setsMenu'; setsMenu.className = 'ddmenu'; setsMenu.hidden = true; setsMenu.setAttribute('role', 'menu');
 setsMenu.innerHTML = SETS.map(s => `<a role="menuitem" href="#${esc(s.id)}">${esc(s.name)}<span>${s.items.length} documents</span></a>`).join('') || '<span class="meta">No sets yet.</span>';
 document.body.appendChild(setsMenu);
 function closeSets(){ setsMenu.hidden = true; $('#setsBtn').setAttribute('aria-expanded', 'false'); }
@@ -626,14 +655,14 @@ function route(){
   let h = decodeURIComponent(location.hash.slice(1)); S.facet = null;
   if (h.startsWith('fulltext/')){ S.q = h.slice(9); $('#q').value = S.q; h = 'fulltext'; }  // shareable link: #fulltext/<query>
   const SET = SETS.find(s => s.id === h);
-  const view = SET ? 'set' : h === 'sets' ? 'sets' : h.startsWith('d/') ? 'detail' : h.startsWith('s/') ? 'spotdetail' : h === 'tags' || h.startsWith('tags/') ? 'tags' : ['people','places','keywords','about','fulltext','spotlight','marked'].includes(h) ? h : 'files';
+  const view = h.startsWith('spotlight/') ? 'spotlight' : SET ? 'set' : h === 'sets' ? 'sets' : h.startsWith('d/') ? 'detail' : h.startsWith('s/') ? 'spotdetail' : h === 'tags' || h.startsWith('tags/') ? 'tags' : ['people','places','keywords','about','fulltext','spotlight','marked'].includes(h) ? h : 'files';
   document.body.classList.toggle('detail', view==='detail' || view==='spotdetail');
   document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.v === (view==='detail'?'files':view==='spotdetail'?'spotlight':view==='set'?'sets':view)));
   $('#cls').style.display = $('#yr').style.display = $('#reset').style.display = (view==='files' || view==='fulltext') ? '' : 'none';
   $('#q').placeholder = view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…';
   if (view === 'detail'){ const [, id, kind, ...v] = h.split('/'); return detailView(id, kind, v.length ? v.join('/') : null); }
   if (view === 'spotdetail') return spotlightDetail(h.slice(2));
-  if (view === 'spotlight') return spotlightView();
+  if (view === 'spotlight') return spotlightView(h.startsWith('spotlight/') ? h.slice(10) : null);
   if (view === 'about') return aboutView();
   if (view === 'set') return setView(SET);
   if (view === 'sets') return setsIndex();
