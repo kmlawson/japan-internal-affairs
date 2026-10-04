@@ -80,6 +80,7 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 .setrow h3 a{color:var(--accent2);text-decoration:none}.setrow h3 a:hover{text-decoration:underline}
 .setrow .alts{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:5px;font:13px system-ui,sans-serif;color:var(--muted)}
 .setrow .alt{white-space:nowrap}
+.datebub.nd{background:#8d8597}
 .setyear{margin:18px 0 0;font:600 13px system-ui,sans-serif;letter-spacing:.06em;color:var(--accent);text-transform:uppercase}
 .setrow.mkd{margin-left:-16px;margin-right:-16px;padding-left:22px;padding-right:16px;background:color-mix(in srgb,var(--era1) 8%,transparent)}
 @media (max-width:640px){.setrow{gap:8px}.setrow .datebub{min-width:56px}.setrow.mkd{margin-left:-12px;margin-right:-12px;padding-left:18px;padding-right:12px}}
@@ -123,6 +124,7 @@ button:disabled{opacity:.4;cursor:default}
 .infile{margin:14px 0 4px;padding:10px 12px;border-radius:8px;background:var(--chip);border-left:4px solid var(--accent);font:14px system-ui,sans-serif}
 .chip.on{background:var(--accent);color:var(--bandink)}
 .sub.nomatch{padding:5px 0;opacity:.6;font-size:13.5px}.sub.nomatch a{color:var(--ink);text-decoration:none}.sub.nomatch a:hover{color:var(--accent)}
+.sub{scroll-margin-top:190px}
 .sub.onpage{background:var(--chip);margin:0 -10px;padding:12px 10px;border-radius:8px}
 .ftx{font-size:14.5px}
 .subhit{font-size:14px;margin:6px 0 0;padding-left:10px;border-left:2px solid var(--accent)}
@@ -260,7 +262,7 @@ function listView(){
 }
 function detailView(id, kind, term){
   const x = D.find(x => x.id === id); if (!x){ main.innerHTML = '<p>Not found.</p>'; return; }
-  const pgN = kind === 'pg' ? +term : null; if (pgN) { kind = null; term = null; }
+  const pgN = kind === 'pg' ? +term : null, docN = kind === 'doc' ? +term : null; if (pgN || docN) { kind = null; term = null; }
   CUR = term ? [kind, term] : null;
   const ts = term ? searchTerms(kind, term) : [];
   const hit = s => ts.some(t => [s.t, s.a, s.s, s.fr, s.to, s.k.join(' ')].join(' ').toLowerCase().includes(t)) || (kind === 'k' && s.k.includes(term));
@@ -278,13 +280,13 @@ function detailView(id, kind, term){
    <div class="label">People</div><div class="chips">${chipsPe(x, 9999) || '<span class="meta">none</span>'}</div>
    <div class="label">Places</div><div class="chips">${chipsPl(x, 9999) || '<span class="meta">none</span>'}</div>
    <div class="label">Documents in this file${term ? ` — ${hits} mention ${esc(term)}` : ''}</div>
-   ${x.sub.map((s,i) => (!term || hit(s)) ? `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub${term ? ' match' : ''}${pgN && s.p[0] <= pgN && pgN <= s.p[1] ? ' onpage' : ''}"><h3><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${H(s.t)}</a></h3>
+   ${x.sub.map((s,i) => (!term || hit(s)) ? `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub${term ? ' match' : ''}${(docN ? docN === i+1 : pgN && s.p[0] <= pgN && pgN <= s.p[1]) ? ' onpage' : ''}"><h3><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${H(s.t)}</a></h3>
      <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''}</div>
      <p><i>${H(s.a)}</i></p><p>${H(s.s)}</p><div class="chips">${chipsU(`s|${x.id}|${i+1}`)}${chipsK(x, s.k)}</div></div>`
      : `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub nomatch"><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${esc(s.t)}</a> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span></div>`).join('')}
   </div>`}<p class="meta">Catalogue entries are machine-generated from OCR text and may contain errors. Mention counts are shown when greater than 3.</p>`;
   if (term) document.querySelector('.infile')?.scrollIntoView({block: 'center'});
-  if (pgN) document.querySelector('.sub.onpage')?.scrollIntoView({block: 'center'});
+  if (pgN || docN) document.querySelector('.sub.onpage')?.scrollIntoView({block: 'start'});
 }
 // ---- full-text search of the OCR pages (Pagefind index in pagefind/) ----
 let PF = null, FTQ = 0;
@@ -423,7 +425,7 @@ function entryOf(k){
   if (p[0] === 'f' && p.length === 2) return {k, x, type: 'file', title: x.t, href: '#d/' + x.id};
   const seq = Number(p[2]);
   if (p[0] === 's' && p.length === 3 && Number.isInteger(seq) && seq >= 1 && seq <= x.sub.length){ const s = x.sub[seq-1];
-    return {k, x, s, seq, type: 'subfile', title: s.t, href: `#d/${x.id}/pg/${s.p[0]}`}; }
+    return {k, x, s, seq, type: 'subfile', title: s.t, href: `#d/${x.id}/doc/${seq}`}; }
   return null;
 }
 function uSave(){ try { sessionStorage.setItem('jiaUser', JSON.stringify({marked: [...U.marked], tags: [...U.tags].map(([k, v]) => [k, [...v]])})); } catch (_) {} }
@@ -553,8 +555,37 @@ document.addEventListener('click', ev => { if (!setsMenu.hidden && !ev.target.cl
 addEventListener('keydown', ev => { if (ev.key === 'Escape' && !setsMenu.hidden){ closeSets(); $('#setsBtn').focus(); } });
 addEventListener('scroll', () => { if (!setsMenu.hidden) closeSets(); }, {passive: true});
 let SETSORT = 'month', SETREV = false;
+let SETHIDEX = false;
+function setListView(set){
+  const list = set.items.map(it => { const x = DIX.get(it.f); const i = x ? x.sub.findIndex(s => s.p[0] === it.p) : -1;
+    return i < 0 ? null : {x, s: x.sub[i], seq: i + 1, d: it.d || '', xr: !!it.x}; }).filter(Boolean);
+  const nx = list.filter(e => e.xr).length, shown = SETHIDEX ? list.filter(e => !e.xr) : list;
+  const len = e => e.s.p[1] - e.s.p[0] + 1;
+  const key = {month: e => [e.d || '9999', e.s.t], pages: e => [-len(e), e.d], title: e => [e.s.t.toLowerCase(), e.d], file: e => [e.x.t, e.d]}[SETSORT] || (e => [e.d || '9999']);
+  shown.sort((a, b) => { const A = key(a), B = key(b); for (let i = 0; i < A.length; i++){ if (A[i] < B[i]) return -1; if (A[i] > B[i]) return 1; } return 0; });
+  if (SETREV) shown.reverse();
+  const opt = (v, l) => `<option value="${v}"${SETSORT === v ? ' selected' : ''}>${l}</option>`;
+  const pill = d => { const v = d.replace(/-/g, '.'); return /^\d{4}\.\d{2}/.test(v) ? `<span class="datebub ${era(v)[0]}">${esc(v)}</span>` : `<span class="datebub nd">${esc(v || 'n.d.')}</span>`; };
+  let yr = '';
+  main.innerHTML = `<div class="card"><h2>${esc(set.name)}</h2><p>${esc(set.about)}</p>
+    <div class="toolbar"><span class="meta">${shown.length} documents</span>
+    ${nx ? `<label><input type="checkbox" id="sethidex"${SETHIDEX ? ' checked' : ''}> Hide cross-reference sheets (${nx})</label>` : ''}
+    <label>Sort <select id="setsort">${opt('month', 'Date')}${opt('title', 'Title')}${opt('pages', 'Number of pages')}${opt('file', 'File')}</select>
+    <button id="setrev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${SETREV ? '↑' : '↓'}</button></label></div>
+    ${shown.map(e => { const y = (e.d || 'Undated').slice(0, 4), hd = SETSORT === 'month' && y !== yr ? `<div class="setyear">${(yr = y) === 'Undated' || !/^\d{4}$/.test(y) ? 'Undated' : y}</div>` : '';
+      return hd + `<div class="setrow" data-mk="s|${esc(e.x.id)}|${e.seq}">${pill(e.d)}<div>
+        <h3><a href="#d/${esc(e.x.id)}/doc/${e.seq}">${esc(e.s.t)}</a></h3>
+        <div class="meta">${esc(e.s.ty)}${e.s.fr ? ' · from ' + esc(e.s.fr) : ''} · <a class="pplink" href="${IAP(e.x, e.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(e.s.p)}</a> · in <a href="#d/${esc(e.x.id)}">${esc(e.x.t)}</a></div>
+        ${e.s.a ? `<p class="meta" style="margin:4px 0 0">${esc(e.s.a)}</p>` : ''}
+        <div class="chips">${chipsU(`s|${e.x.id}|${e.seq}`)}</div></div></div>`; }).join('')}</div>`;
+  $('#setsort').onchange = ev => { SETSORT = ev.target.value; setListView(set); };
+  $('#setrev').onclick = () => { SETREV = !SETREV; setListView(set); };
+  $('#sethidex')?.addEventListener('change', ev => { SETHIDEX = ev.target.checked; setListView(set); });
+}
 function setView(set){
   closeSets();
+  if (set.mode === 'list') return setListView(set);
+  if (SETSORT === 'file') SETSORT = 'month';
   // one row per report month: the copy with most pages is the main entry, other copies are alternative versions
   const rows = new Map();
   set.items.forEach(it => { const x = DIX.get(it.f); const i = x ? x.sub.findIndex(s => s.p[0] === it.p) : -1; if (i < 0) return;
@@ -573,9 +604,9 @@ function setView(set){
     <button id="setrev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${SETREV ? '↑' : '↓'}</button></label></div>
     ${list.map(r => { const e = r.main, y = r.m.slice(0, 4), hd = SETSORT === 'month' && y !== yr ? `<div class="setyear">${(yr = y)}</div>` : '';
       return hd + `<div class="setrow" data-mk="s|${esc(e.x.id)}|${e.seq}"><span class="datebub ${era(r.m)[0]}" title="Report for ${esc(r.m)}">${esc(r.m)}</span><div>
-        <h3><a href="#d/${esc(e.x.id)}/pg/${e.s.p[0]}">${esc(e.s.t)}</a></h3>
+        <h3><a href="#d/${esc(e.x.id)}/doc/${e.seq}">${esc(e.s.t)}</a></h3>
         <div class="meta">${esc(e.s.ty)}${e.s.d ? ' · sent ' + esc(e.s.d) : ''} · <a class="pplink" href="${IAP(e.x, e.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(e.s.p)}</a> · in <a href="#d/${esc(e.x.id)}">${esc(e.x.t)}</a></div>
-        ${r.alts.length ? `<div class="alts">${r.alts.map((a, i) => `<span class="alt"><a href="#d/${esc(a.x.id)}/pg/${a.s.p[0]}" title="${esc(a.s.t)} — ${esc(a.x.t)}">Alternative version${r.alts.length > 1 ? ' ' + (i + 1) : ''}</a> <a class="pplink" href="${IAP(a.x, a.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(a.s.p)}</a></span>`).join('')}</div>` : ''}
+        ${r.alts.length ? `<div class="alts">${r.alts.map((a, i) => `<span class="alt"><a href="#d/${esc(a.x.id)}/doc/${a.seq}" title="${esc(a.s.t)} — ${esc(a.x.t)}">Alternative version${r.alts.length > 1 ? ' ' + (i + 1) : ''}</a> <a class="pplink" href="${IAP(a.x, a.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(a.s.p)}</a></span>`).join('')}</div>` : ''}
         <div class="chips">${chipsU(`s|${e.x.id}|${e.seq}`)}</div></div></div>`; }).join('')}</div>`;
   $('#setsort').onchange = ev => { SETSORT = ev.target.value; setView(set); };
   $('#setrev').onclick = () => { SETREV = !SETREV; setView(set); };
@@ -617,7 +648,7 @@ let tmr; $('#q').addEventListener('input', e => { clearTimeout(tmr); tmr = setTi
 $('#reset').addEventListener('click', () => { Object.assign(S, {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'});
   $('#q').value = ''; $('#cls').value = ''; $('#yr').value = '';
   if (location.hash && location.hash !== '#') location.hash = ''; else route(); scrollTo(0,0); });
-addEventListener('hashchange', () => { route(); scrollTo(0,0); });
+addEventListener('hashchange', () => { scrollTo(0,0); route(); });
 $('#theme').addEventListener('click', () => { const r = document.documentElement, dark = matchMedia('(prefers-color-scheme: dark)').matches;
   const cur = r.dataset.theme || (dark ? 'dark' : 'light'); r.dataset.theme = cur === 'dark' ? 'light' : 'dark';
   try { localStorage.setItem('theme', r.dataset.theme); } catch(e){} });
