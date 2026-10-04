@@ -5,12 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Japan Internal Affairs 1930–1949</title>
 <style>
-:root{--era1:#0f766e;--era2:#b45309;--era3:#4d7c0f;--bg:#f8f5fc;--panel:#fff;--ink:#221b2e;--muted:#6c6280;--line:#e4dcef;--accent:#6b2fa3;--accent2:#4a1f75;--chip:#efe8f8;--hl:#f6e27a;--head:#fff;--band:#6b2fa3;--bandink:#fff}
+:root{--era1:#0f766e;--era2:#b45309;--era3:#4d7c0f;--bg:#f8f5fc;--panel:#fff;--ink:#221b2e;--muted:#6c6280;--line:#e4dcef;--accent:#6b2fa3;--accent2:#4a1f75;--chip:#efe8f8;--hl:#f6e27a;--hlb:#c9e6fb;--head:#fff;--band:#6b2fa3;--bandink:#fff}
 body.detail{--bg:#ece3f7;--panel:#fcfaff;--line:#d6c8ea;--chip:#e3d6f3;--head:#f4eefb}
 @media (prefers-color-scheme:dark){
- :root:not([data-theme=light]){--era1:#2dd4bf;--era2:#f59e0b;--era3:#a3e635;--bg:#15111c;--panel:#1e1828;--ink:#ece6f5;--muted:#a79cb8;--line:#342b42;--accent:#c39bf0;--accent2:#e0c8ff;--chip:#2c2439;--hl:#6b5a14;--head:#1e1828;--band:#3a2358;--bandink:#f1e8ff}
+ :root:not([data-theme=light]){--era1:#2dd4bf;--era2:#f59e0b;--era3:#a3e635;--bg:#15111c;--panel:#1e1828;--ink:#ece6f5;--muted:#a79cb8;--line:#342b42;--accent:#c39bf0;--accent2:#e0c8ff;--chip:#2c2439;--hl:#6b5a14;--hlb:#1f4d6b;--head:#1e1828;--band:#3a2358;--bandink:#f1e8ff}
  :root:not([data-theme=light]) body.detail{--bg:#231833;--panel:#2a1f3b;--line:#443659;--chip:#3a2d4e;--head:#2a1f3b}}
-:root[data-theme=dark]{--era1:#2dd4bf;--era2:#f59e0b;--era3:#a3e635;--bg:#15111c;--panel:#1e1828;--ink:#ece6f5;--muted:#a79cb8;--line:#342b42;--accent:#c39bf0;--accent2:#e0c8ff;--chip:#2c2439;--hl:#6b5a14;--head:#1e1828;--band:#3a2358;--bandink:#f1e8ff}
+:root[data-theme=dark]{--era1:#2dd4bf;--era2:#f59e0b;--era3:#a3e635;--bg:#15111c;--panel:#1e1828;--ink:#ece6f5;--muted:#a79cb8;--line:#342b42;--accent:#c39bf0;--accent2:#e0c8ff;--chip:#2c2439;--hl:#6b5a14;--hlb:#1f4d6b;--head:#1e1828;--band:#3a2358;--bandink:#f1e8ff}
 :root[data-theme=dark] body.detail{--bg:#231833;--panel:#2a1f3b;--line:#443659;--chip:#3a2d4e;--head:#2a1f3b}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -91,6 +91,7 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 .chip b{color:var(--accent);font-weight:600;margin-left:4px}
 .chip:hover{outline:1px solid var(--accent)}
 mark{background:var(--hl);color:inherit;border-radius:2px}
+mark{background:var(--hlb)}h2 mark,h3 mark,.subhit b mark{background:var(--hl)}
 .sub{border-top:1px solid var(--line);padding:12px 0}
 .sub h3{font-size:15px;margin:0 0 2px}
 .sub h3 a{color:var(--accent2);text-decoration:none}.sub h3 a:hover{text-decoration:underline}
