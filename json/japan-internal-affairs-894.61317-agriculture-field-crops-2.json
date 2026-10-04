@@ -1,5 +1,5 @@
 {
- "interest": "This file provides an exceptionally valuable window into the domestic economic fragility and agricultural vulnerabilities that constrained Imperial Japan immediately prior to and during the Pacific War. It vividly illustrates how an environmental shock—the severe 1939 drought in western Japan and Korea—shattered the illusion of imperial food autarky, precipitating widespread farmer hoarding, urban discontent, and an unbudgeted foreign exchange crisis from emergency rice purchases in Southeast Asia. Furthermore, the file documents the evolution of American economic intelligence methodologies: while early pre-war despatches from Ambassador Joseph C. Grew and Agricultural Attaché Owen L. Dawson provided direct diplomatic and trade observations of Japanese price-pegging and Diet statistical blackouts, wartime monitoring shifted to the U.S. Legation in Bern, which systematically mined Axis and German press coverage of Japanese Ministry of Agriculture data to track harvests, wooden shipbuilding logistics, and coercive population transfers in Malaya and Java. Finally, the Division of Far Eastern Affairs' strategic analyses provide crucial context on pre-war American naval blockade planning, demonstrating the prescient finding that Japanese food imports from continental East Asia and Indochina could not be decisively severed by naval interdiction alone.",
+ "interest": "Shows Japan's 1939 drought-driven food crisis and the shift to Bern-sourced wartime intelligence on harvests and shipping.",
  "keywords": [
   "Japan rice supply",
   "food rationing",
@@ -454,7 +454,7 @@
     "crop forecasts"
    ],
    "start_page": 11,
-   "summary": "This article from The Oriental Economist, republished in The Japan Times, examines the impact of the worst drought in 90 years across southern Korea and western Japan. While acknowledging severe regional damage, the article argues that alarmist fears of widespread famine are unfounded and outlines agricultural countermeasures in Chosen, such as buckwheat planting and millet imports from Manchuria. It presents an imperial balance sheet estimating that with two million koku exported from Chosen and five million from Taiwan, Japan could achieve an 80-million-koku supply. By mandating 70-percent rice polishing, curbing sake brewing, and mixing grains, the article contends Japan can meet its consumption needs without squandering foreign exchange on Southeast Asian rice imports.",
+   "summary": "Oriental Economist article downplays 1939 drought-famine fears in Korea and Japan, proposing rice rationing and imports from colonies to avoid spending on Southeast Asian rice.",
    "title": "Enclosure No. 1 to Despatch No. 4362: 'Rice Supply Situation' from The Japan Times / The Oriental Economist",
    "to": "General readership / U.S. Embassy Tokyo"
   },
@@ -474,7 +474,7 @@
     "food supply"
    ],
    "start_page": 14,
-   "summary": "This memorandum notes that U.S. Agricultural Attaché Owen L. Dawson in Shanghai estimated a massive Japanese Empire rice deficit of 10.5 million koku, requiring roughly 250 million yen in foreign exchange to offset through imports. Although the Japanese government subsequently revised its crop forecasts upward, Dawson maintained that official estimates were unrealistically optimistic. The memorandum highlights a report from the Commercial Attaché in Tokyo confirming that the Japanese government officially announced in the Diet that all figures covering rice supply, demand, and crop estimates would no longer be published due to their military significance. Jones concludes that this statistical blackout supports Dawson's pessimistic view and underscores the critical importance of the food crisis to Japan's wartime economy.",
+   "summary": "Memo: Dawson estimates a 10.5-million-koku rice deficit despite revised Japanese forecasts, as the Diet halts publishing crop data, deepening pessimism about the food crisis.",
    "title": "State Department Memorandum on Japanese Rice Production Estimates and Diet Secrecy",
    "to": "Division of Far Eastern Affairs"
   },
@@ -494,7 +494,7 @@
     "Yen bloc autarky"
    ],
    "start_page": 16,
-   "summary": "Ivan B. White reviews Tokyo Despatch No. 4711, summarizing key manifestations of Japan's ongoing rice difficulties, including lagging state procurement, rampant producer hoarding, compulsory sales, and local rationing initiatives. The memorandum questions the Tokyo Embassy's optimistic estimate of three million koku in rice imports from Chosen, citing the severe Korean drought, reports of foreign rice entering Korea, and the food requirements of the Japanese military in China. White emphasizes that Japanese agricultural yields are facing long-term structural declines due to acute shortages of chemical fertilizers and farm labor. He concludes that agricultural self-sufficiency in Japan and the Yen bloc represents a vital strategic question warranting exhaustive study.",
+   "summary": "White questions Tokyo's optimistic rice-import estimate from Korea given drought and military food demands, warning fertilizer and labor shortages threaten long-term Japanese yields.",
    "title": "State Department Memorandum by Ivan B. White Analyzing Tokyo Despatch No. 4711",
    "to": "Division of Far Eastern Affairs"
   },
@@ -553,7 +553,7 @@
     "central Japan"
    ],
    "start_page": 31,
-   "summary": "Minister Leland Harrison reports from Bern that German newspapers published dispatches on the 1942 Japanese rice harvest, which fell substantially below pre-season expectations at 67 million koku. The primary cause of the restricted yield was severe typhoon weather during September in central Japan. Despite the typhoon damage, the harvest was stated to remain slightly above long-term averages.",
+   "summary": "Harrison reports Japan's 1942 rice crop fell to 67 million koku on typhoon damage, still near average.",
    "title": "Telegram No. 4920 from Bern Legation on Japanese 1942 Rice Crop",
    "to": "Secretary of State"
   },
@@ -572,7 +572,7 @@
     "German press"
    ],
    "start_page": 32,
-   "summary": "Harrison forwards German press coverage of official Japanese Ministry of Agriculture crop forecasts, reporting a preliminary 1943 rice yield of 63 million koku and an October 31 second estimate of 62.85 million koku. The shortfall compared to the 1942 crop was attributed to autumn typhoons and a lack of sunshine during the growing season. The reports noted that state measures to stimulate production included rice price increases and converting mulberry acreage to paddy fields, with larger potato harvests and Manchurian grain imports intended to compensate for the rice deficit.",
+   "summary": "Harrison reports Japan's 1943 rice estimate fell to about 63 million koku on typhoons, prompting price hikes and crop substitution.",
    "title": "Telegram No. 7773 from Bern Legation on 1943 Japanese Rice Crop Estimates",
    "to": "Secretary of State"
   },
@@ -592,7 +592,7 @@
     "corn consumption"
    ],
    "start_page": 33,
-   "summary": "Citing a Tokyo dispatch in the Essen National Zeitung, Harrison reports on food supply conditions across the Japanese Empire and occupied territories. Flooding in Japan caused per-capita rice yields to fall below targets, but Korea, Formosa, and Manchuria reported favorable harvests, with Formosan rice shipments relying increasingly on wooden vessels to circumvent shipping losses. In occupied Java, adverse weather reduced the rice crop, but Japanese military authorities extracted exportable rice surpluses by compelling the local population to switch their diet to corn.",
+   "summary": "Harrison reports flooding cut Japan's rice yields while colonies did better; Formosa ships rice on wooden vessels, and Japan forces Java's population onto corn to free rice for export.",
    "title": "Telegram No. 671 from Bern Legation on Far Eastern Rice and Grain Production",
    "to": "Secretary of State"
   },
@@ -612,7 +612,7 @@
     "self-sufficiency"
    ],
    "start_page": 35,
-   "summary": "Harrison transmits a German press account of a Tokyo dispatch outlining Japanese food self-sufficiency measures in British Malaya. Japanese occupation authorities initiated a plan to transfer 300,000 inhabitants from urban Singapore into neighboring agricultural districts where rice production had expanded. The report adds that large tracts of land in the provinces of Johor and Negeri Sembilan were being cleared for intensive paddy cultivation to reduce regional rice imports to one-third of former volumes.",
+   "summary": "Harrison reports Japan is relocating 300,000 Singapore residents to farmland and clearing land in Malaya to cut rice imports.",
    "title": "Telegram No. 1150 from Bern Legation on Japanese Rice Self-Sufficiency Plans in Malaya",
    "to": "Secretary of State"
   },
@@ -632,7 +632,7 @@
     "J. Klahr Huddle"
    ],
    "start_page": 36,
-   "summary": "J. Klahr Huddle reports German press accounts of the Japanese Ministry of Agriculture's forecast for the 1944 rice harvest, estimated at 62 million koku compared to 62.5 million in 1943. The crop suffered from unfavorable weather conditions, including planting season drought in southern Japan, heavy planting rains in the north, and autumn typhoons in central and southern regions. Significantly, the dispatch notes that overall paddy acreage decreased considerably as farmland was requisitioned for wartime industrial expansion, prompting the government to intensify the compulsory cultivation of wheat and potatoes.",
+   "summary": "Huddle reports Japan's 1944 rice forecast slightly below 1943, hurt by weather and shrinking paddy acreage for industry.",
    "title": "Telegram No. 7747 from Bern Legation on Japanese 1944 Rice Crop and Industrial Land Encroachment",
    "to": "Secretary of State"
   }

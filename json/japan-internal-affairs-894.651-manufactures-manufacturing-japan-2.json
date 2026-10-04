@@ -159,7 +159,7 @@
    "from": "Mr. Hodge, JK office",
    "to": "Mr. Whitman, JK office",
    "about": "Estimates Japan’s surviving machine-tool inventory, productive capacity, and the number of tools and plants potentially available for reparations.",
-   "summary": "The memorandum estimates Japan’s 1944 machine-tool holdings at 788,700 units and its post-bombing inventory at approximately 600,000, while cautioning that the definition and condition of the equipment make the figure uncertain. It places peak annual productive capacity at about 67,000 units and notes that the Interim Program would reduce it to 27,000, potentially freeing capacity for 40,000 units annually. It further estimates that roughly 200,000 existing tools could become available for reparations from the machine-tool industry, arsenals, aircraft factories, munitions plants, and other facilities. Limited postwar production was apparently serving mining, food-processing, textile, and other civilian industries.",
+   "summary": "Memo estimates Japan's 1944 machine-tool stock at 788,700 units, postwar at 600,000, with capacity cut from 67,000 to 27,000 under the Interim Program, freeing about 200,000 tools for reparations.",
    "keywords": [
     "machine tools",
     "industrial capacity",
@@ -180,7 +180,7 @@
    "from": "Tokyo, Army Message Z-47999",
    "to": "Secretary of State",
    "about": "Reports actual 1948 and estimated 1949 production and consumption figures for copper, lead, zinc, and aluminum in Japan.",
-   "summary": "The telegram provides metric-ton statistics for mined or concentrated metal content, primary refined output, scrap, and consumption of copper, lead, zinc, and aluminum. It compares actual 1948 results with 1949 estimates, although several scrap figures were unavailable. The document explains that the 1948 consumption figures represent shipments made against allocation tickets.",
+   "summary": "Army telegram gives 1948 actual and 1949 estimated Japanese metric-ton figures for mined, refined, and consumed copper, lead, zinc, and aluminum, noting 1948 consumption reflects allocation-ticket shipments.",
    "keywords": [
     "copper",
     "lead",
@@ -223,7 +223,7 @@
    "from": "Patrick Shaw, Head of the Australian Mission in Japan",
    "to": "Supreme Commander for the Allied Powers, attention G-2 Foreign Liaison",
    "about": "Requests information about possible renewed Japanese manufacture of tetraethyl lead and associated intermediates, with particular concern for foreign patent rights.",
-   "summary": "Acting for the Australian Government and the Far Eastern representative of Associated Ethyl Co. Ltd., Patrick Shaw asks about the potential resumption of tetraethyl-lead manufacture in Japan. He notes that several prewar plants reportedly produced the compound and its intermediates but were damaged or destroyed by bombing. The inquiry seeks assurance that any reconstructed industry would respect patents belonging to British and other foreign owners.",
+   "summary": "Shaw, for Australia and Associated Ethyl, asks whether Japan might resume tetraethyl-lead manufacture at bomb-damaged prewar plants, seeking assurance foreign patents would be respected.",
    "keywords": [
     "Australian Mission",
     "Associated Ethyl Company",
@@ -243,7 +243,7 @@
    "from": "Harry C. Kelly, Acting Chief, Scientific and Technical Division, Economic and Scientific Section, SCAP",
    "to": "Head of the Australian Mission in Japan",
    "about": "Identifies Japanese wartime tetraethyl-lead producers and explains the condition, conversion, or destruction of their plants and the status of relevant patents.",
-   "summary": "SCAP identifies facilities operated by Nippon Soda, Hodagaya Chemical, the Second and Third Naval Fuel Depots, and a Mitsui Chemical plant that was nearly ready to begin production when the war ended. Nippon Soda and Mitsui had converted their plants to dyestuff production, while the Hodagaya and naval facilities had been severely damaged by air raids; none of the companies reportedly intended to resume tetraethyl-lead production. The memorandum records past output, including Nippon Soda’s stock of twenty-two kiloliters, and notes that the naval depots were held for reparations. It also discusses Japanese patents 157135 and 167709, formerly made secret at the Japanese Navy’s request, and observes that Associated Ethyl could challenge their validity if its processes anticipated them.",
+   "summary": "SCAP reports Nippon Soda, Hodagaya, naval fuel depots, and a near-ready Mitsui plant made tetraethyl lead; Nippon Soda and Mitsui converted to dyestuffs, none plan resumption, and discloses once-secret Navy patents Associated Ethyl might challenge.",
    "keywords": [
     "SCAP",
     "tetraethyl lead",
@@ -266,7 +266,7 @@
    "from": "Nippon Soda Company, Limited",
    "to": "Colonel E. C. Allan",
    "about": "Describes the successive chemical and mechanical operations used to manufacture tetraethyl lead and formulate ethyl fluid.",
-   "summary": "Nippon Soda explains its preparation of lead-sodium alloy and ethyl chloride, followed by their controlled reaction and steam distillation to obtain tetraethyl lead. It describes a continuous process for recovering waste lead and a separate synthesis of ethylene dibromide from ethylene gas and bromine. The final section gives the percentage formula for ethyl fluid: 64.5 percent tetraethyl lead, 33.7 percent ethylene dibromide, and small quantities of hydro-benzene, dimethyl aniline, Sudan Blue, and light oil.",
+   "summary": "Nippon Soda details its tetraethyl-lead process (lead-sodium alloy and ethyl chloride reaction), waste-lead recovery, ethylene dibromide synthesis, and the ethyl fluid formula: 64.5% tetraethyl lead, 33.7% ethylene dibromide, plus minor additives.",
    "keywords": [
     "Nippon Soda",
     "manufacturing process",
@@ -280,7 +280,7 @@
    ]
   }
  ],
- "interest": "The file is valuable because it links broad occupation-era policy—industrial demilitarization, reparations, resource allocation, and economic recovery—to unusually specific evidence about individual plants and production processes. Its tetraethyl-lead papers preserve plant-level accounts of bombing damage, postwar conversion to dyestuffs, dormant equipment, naval secrecy, and international patent concerns. The detailed Nippon Soda process and fluid formula are especially distinctive technical evidence, while the machine-tool and metals documents provide quantitative context for Japan’s wider industrial condition after the war.",
+ "interest": "Shows postwar Japanese industrial demilitarization and tetraethyl-lead plant conversion, patents, machine tools, and nonferrous metals data.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

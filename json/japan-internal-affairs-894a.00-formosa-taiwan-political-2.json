@@ -1,5 +1,5 @@
 {
- "overview": "The file consists of two Department of State list-of-papers sheets cataloguing records on Taiwan’s political affairs. The first indexes a March 26 telegram from Joseph C. Grew in Japan reporting Naoki Hoshino’s claim that Taiwanese industry had reached the limit of its development and that Hainan should be developed next; the second indexes a July 21 communication from George Atcheson Jr. in Chongqing containing translated documents with information about Taiwan, principally of a military character. The sheets are administrative summaries rather than the underlying telegrams or translations.",
+ "overview": "Docket indexes Grew's report on Hoshino's view that Taiwan's industry peaked and Hainan should develop next, and Chongqing's translated military intelligence on Taiwan.",
  "places": [
   {
    "name": "Taiwan",
@@ -81,7 +81,7 @@
    "from": "U.S. Department of State",
    "to": "",
    "about": "The sheet indexes Grew’s March 26 telegram reporting Hoshino’s remarks about the limits of Taiwanese industrial development and the proposed development of Hainan.",
-   "summary": "This Department of State list-of-papers sheet records subfile no. 29, a Japan telegram numbered 475 and associated with Grew. Its summary states that Hoshino, president of the Cabinet Planning Board, believed Taiwan’s industry had reached the zenith of its development and that Hainan Island should be developed next. It directs the reader to page 3 and notes a related classification, 894A.50; the referenced telegram itself is not present in the supplied pages.",
+   "summary": "Docket: Grew reports Hoshino believes Taiwan's industry has peaked, favoring Hainan for the next development push.",
    "keywords": [
     "Grew telegram no. 475",
     "Naoki Hoshino",
@@ -101,7 +101,7 @@
    "from": "U.S. Department of State",
    "to": "",
    "about": "The sheet indexes an Atcheson communication from Chongqing containing translated documents with information about Taiwan, chiefly military in character.",
-   "summary": "This duplicate list-of-papers sheet records subfile no. 31, identified as communication no. 1874 from Chongqing and associated with Atcheson. Dated July 21 without a stated year, it concerned translations of documents containing information about Taiwan, principally military information. The entry indicates that the material was transferred to file 894A.00, but the translated documents are not included in the supplied pages.",
+   "summary": "Docket: Atcheson's Chongqing communication contained translated military intelligence on Taiwan, now filed elsewhere.",
    "keywords": [
     "George Atcheson Jr.",
     "Chongqing",
@@ -113,7 +113,7 @@
    ]
   }
  ],
- "interest": "These sheets are useful for reconstructing the contents and original filing history of records that are not themselves present in the surviving bundle. The Grew entry succinctly links Japanese colonial planning in Taiwan to ambitions for developing Hainan, while the Atcheson entry points to wartime intelligence about Taiwan derived from translated documents in Chongqing. The routing, cross-reference, and transfer annotations also illuminate how the Department of State classified and circulated information about Taiwan.",
+ "interest": "Shows Japan's wartime plans to shift development focus from Taiwan to Hainan, and Chongqing intelligence on Taiwan.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

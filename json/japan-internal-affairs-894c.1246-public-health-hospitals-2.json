@@ -1,5 +1,5 @@
 {
- "overview": "This single-page administrative list of papers concerns maritime public health in the Kwantung Leased Territory. It indexes one communication, numbered 213 and originating at Dalian (then Dairen), about establishing a fumigation service and night quarantine inspections at Dalian and Port Arthur in Manchuria, together with a schedule of fees; the OCR leaves the date and recipient unclear.",
+ "overview": "List of papers indexes a Dalian communication on fumigation service and night quarantine inspection fees at Dalian and Port Arthur.",
  "places": [
   {
    "name": "Kwantung Leased Territory",
@@ -59,7 +59,7 @@
    "from": "",
    "to": "",
    "about": "An administrative index records a Dalian communication concerning fumigation and nighttime quarantine services at Dalian and Port Arthur.",
-   "summary": "The sheet lists one paper, communication no. 213 from Dalian, with Langdon named parenthetically. Its subject is the establishment of a fumigation service and night quarantine inspection at Dalian and Port Arthur in Manchuria, including a scale of fees. The OCR renders the date as “Jul, 73” and the recipient as “YE FA,” neither of which can be normalized confidently from this page alone.",
+   "summary": "Lists Dalian communication no. 213 (Langdon) on fumigation service and night quarantine inspection fees at Dalian and Port Arthur.",
    "keywords": [
     "list of papers",
     "Dalian communication no. 213",
@@ -71,7 +71,7 @@
    ]
   }
  ],
- "interest": "Although only an index page, the document identifies concrete port-health measures in the Japanese-controlled Kwantung Leased Territory: fumigation, after-hours quarantine inspection, and standardized charges. It is useful for locating the underlying Dalian communication and for studying how maritime disease controls were administered and monetized at two important Manchurian ports. The damaged date and recipient field also illustrate the limits of relying on OCR-derived archival metadata.",
+ "interest": "Tracks Kwantung port fumigation and quarantine fee rules.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

@@ -1,5 +1,5 @@
 {
- "overview": "This file consists of a Department of State list-of-papers sheet for correspondence concerning Japanese mail, ship-construction, and shipping subsidies in 1937. It summarizes and cross-references two telegrams: a June 7 departmental inquiry about vessel prices, subsidy eligibility, mail-subsidy coverage, budgetary provisions, and the text of a new Japanese law; and a June 12 reply, attributed to Grew and based on a telegram from the U.S. Consulate at Kobe, explaining the reliability of the reported figures and promising the law and budget details by mail.",
+ "overview": "Indexes a June 1937 inquiry on Japanese ship-subsidy data's reliability, and Grew's reply confirming it's unofficial but reliable.",
  "places": [
   {
    "name": "Japan",
@@ -56,7 +56,7 @@
    "from": "U.S. Department of State",
    "to": "",
    "about": "The sheet abstracts and cross-references two June 1937 telegrams about Japanese ship-construction and mail subsidies under a new law.",
-   "summary": "The first entry summarizes a June 7, 1937 inquiry prompted by Vice Consul Schuler's March shipping report, asking whether quoted ship prices and specifications were official and how construction and mail subsidies were allocated among vessel types. It also requests budget figures and a translation of the new Japanese law. The second entry summarizes a June 12 reply attributed to Grew, incorporating information from the U.S. Consulate at Kobe: the specifications and prices were unofficial but came from the most reliable available source, while the legislation and detailed budget provisions would follow by mail. The entries direct researchers to files 894.802/26a and 894.802/27.",
+   "summary": "Summarizes a June 1937 inquiry on Japanese ship-subsidy data, and Grew's reply confirming figures unofficial but reliable.",
    "keywords": [
     "list of papers",
     "telegram abstracts",
@@ -74,7 +74,7 @@
    ]
   }
  ],
- "interest": "Although only an administrative reference sheet, this document provides a compact guide to related correspondence elsewhere in the decimal file and preserves the substance of two telegrams that are not included here. It is useful for tracing how American diplomats assessed Japan's state support for merchant-ship construction, distinguished official from unofficial commercial data, and sought translations and budget figures to understand the operation of new subsidy legislation. The reference to a Kobe consular telegram also shows how locally gathered shipping intelligence moved through the embassy to Washington.",
+ "interest": "Tracks 1937 verification of Japanese shipping-subsidy data.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

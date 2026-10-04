@@ -1,5 +1,5 @@
 {
- "overview": "This four-document file traces tightening Japanese controls over international telecommunications from December 1940 through July 1941. Two cross-reference sheets point to reports from Ambassador Joseph C. Grew concerning the Imperial Japanese Telegraphs’ takeover of Great Northern Telegraph Company traffic to China and restrictions on sending coded telegrams abroad. Two Western Union telegrams then report that Japanese censorship rules extended throughout the empire and describe detailed limits on coded messages, permitted languages and codes, signatures, reply-paid service, and radio communications with mobile stations.",
+ "overview": "Docket (1940-41) on Japanese telegraph controls: Imperial Telegraphs absorbing Great Northern's China traffic, coded-message restrictions, and Western Union notices detailing empire-wide censorship rules on codes, languages, and radio.",
  "places": [
   {
    "name": "China",
@@ -116,7 +116,7 @@
    "from": "Japan (Joseph C. Grew)",
    "to": "",
    "about": "Records that the Imperial Japanese Telegraphs would cease accepting China-bound cable messages formerly carried by the Great Northern Telegraph Company after January 1, 1941.",
-   "summary": "The sheet cross-references an original report from Grew in Japan. It states that the Imperial Japanese Telegraphs had taken over the Great Northern Telegraph Company’s business and would no longer accept its cable messages for China proper after January 1, 1941. The original was filed under file number 119.2/3528.",
+   "summary": "Cross-reference: Imperial Japanese Telegraphs took over Great Northern's China cable business from 1941.",
    "keywords": [
     "Great Northern Telegraph Company",
     "Imperial Japanese Telegraphs",
@@ -135,7 +135,7 @@
    "from": "Japan (Joseph C. Grew)",
    "to": "",
    "about": "Points to a telegram containing information about sending coded telegrams from Japan to foreign destinations.",
-   "summary": "This filing sheet refers researchers to Grew’s Telegram No. 996 of July 14, 1941. The referenced telegram concerned procedures or restrictions governing messages sent abroad from Japan, particularly coded telegrams. The original was filed under 894.751/1 rather than reproduced here.",
+   "summary": "Cross-reference: Grew's 1941 telegram concerns restrictions on sending coded telegrams abroad from Japan.",
    "keywords": [
     "code telegrams",
     "Japan",
@@ -154,7 +154,7 @@
    "from": "B. R. Allen, Western Union Telegraph Company",
    "to": "Francis Colt de Wolf, State Department",
    "about": "Reports that Japanese telegraph censorship restrictions also applied to messages addressed to Korea, Taiwan, and every other part of the Japanese Empire.",
-   "summary": "Allen relays a notice from the Japanese administration concerning the territorial scope of telegraph censorship. Restrictions applicable within Japan were also to govern telegrams sent to Chosen, Formosa, and all other parts of the Japanese Empire. The telegram was received and routed through the office of Under Secretary of State Sumner Welles on July 23, 1941.",
+   "summary": "Western Union reports Japan's telegraph censorship extended to Korea, Taiwan, and the rest of its empire.",
    "keywords": [
     "censorship",
     "Japanese Empire",
@@ -174,7 +174,7 @@
    "from": "B. R. Allen",
    "to": "Francis Colt de Wolf",
    "about": "Sets out Japanese rules restricting coded telegrams, permissible languages and codes, addressing and signature practices, reply-paid messages, and mobile radio service.",
-   "summary": "The Japanese administration announced that effective July 22 coded telegrams would be suspended for destinations other than Tokyo, Yokohama, Osaka, and Kobe. Messages to those four cities could use a specified group of commercial codes, while telegrams to other Japanese destinations had to be in plain Japanese, German, or English. Registered code addresses and signatures were disallowed, a firm name or individual surname was compulsory, reply-paid service was unavailable, and radio traffic to mobile stations was suspended except for distress or urgent messages. The Department of State stamped the telegram as received on August 15, 1941.",
+   "summary": "Western Union details Japan's 1941 rules: coded telegrams limited to four cities, plain-language elsewhere, and radio to mobile stations suspended.",
    "keywords": [
     "code-language restrictions",
     "Tokyo",
@@ -190,7 +190,7 @@
    ]
   }
  ],
- "interest": "The file is useful for reconstructing the granular mechanics of Japanese wartime communications control immediately before the Pacific War. It combines diplomatic cross-references with operational notices supplied by Western Union, revealing both the territorial reach of censorship and the practical rules imposed on senders. Especially valuable is the detailed list of permitted commercial codes and the distinctions among major cities, other Japanese destinations, and mobile radio stations.",
+ "interest": "Shows Japan's 1940-41 tightening of international telegraph censorship, down to specific code and language rules.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

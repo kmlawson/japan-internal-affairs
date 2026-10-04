@@ -1,5 +1,5 @@
 {
- "interest": "This file provides valuable insight into the granular economic and agricultural monitoring conducted by the Allied Occupation authorities in postwar Japan. It illustrates how the U.S. Department of Agriculture and SCAP tracked minor cash crops and garden produce—such as red peppers and staple tubers (white potatoes and sweet potatoes)—to assess Japan's potential for export earnings, food self-sufficiency, and commercial reintegration into the American market. The records also illuminate the multi-tiered administrative chain of communication connecting U.S. civilian departments (Agriculture and State), military occupation headquarters (SCAP and the Department of the Army), and the Japanese Ministry of Agriculture, demonstrating how statistical intelligence was collected, priced, and transmitted across agencies.",
+ "interest": "Tracks occupation-era tracking of Japanese red pepper and potato exports via SCAP and Agriculture.",
  "keywords": [
   "Japanese agriculture",
   "red pepper",
@@ -93,7 +93,7 @@
     "USPOLAD"
    ],
    "start_page": 1,
-   "summary": "Secretary of State George C. Marshall transmits an urgent inquiry from the Department of Agriculture to the U.S. Political Advisor in Tokyo. The message requests telegraphic estimates of current Japanese red pepper production, the quantity expected to become available for export, and prevailing market prices. It marks the opening inquiry in the file concerning Japanese specialty garden crop exports during the occupation.",
+   "summary": "Marshall relays an Agriculture Department request to Tokyo for estimates of Japan's red pepper production, exportable quantity, and market prices.",
    "title": "Outgoing telegram from Marshall to USPOLAD Tokyo requesting Japanese red pepper production and export estimates",
    "to": "United States Political Advisor (USPOLAD), Tokyo"
   },
@@ -113,7 +113,7 @@
     "SCAP"
    ],
    "start_page": 2,
-   "summary": "Following up on Tokyo's preliminary telegram of March 1, Secretary of State Marshall requests further detailed data on Japanese red peppers for the Department of Agriculture. The telegram requests a breakdown of the estimated 1,800 metric tons of 1948 production by specific variety, particularly Yatsufusa and Hontonka. It also seeks f.o.b. prices in U.S. cents per pound for each variety and projected 1948 export volumes destined for the United States.",
+   "summary": "Marshall asks Tokyo for a variety breakdown (Yatsufusa, Hontonka) of Japan's estimated 1,800-ton 1948 red pepper crop, with FOB prices and projected U.S. exports.",
    "title": "Outgoing telegram from Marshall to SCAP and USPOLAD Tokyo requesting red pepper variety breakdown and prices",
    "to": "Supreme Commander for the Allied Powers (SCAP) and United States Political Advisor, Tokyo"
   },
@@ -131,7 +131,7 @@
     "William J. Sebald"
    ],
    "start_page": 3,
-   "summary": "Replying to Department telegram 60, William J. Sebald reports that Japan produced approximately 600 metric tons of red peppers in 1947. Production for 1948 is estimated to increase to 1,800 metric tons, roughly two-thirds of which is expected to be available for export. The current f.o.b. Japan price is cited as approximately 17 U.S. cents per pound.",
+   "summary": "Sebald reports Japan produced about 600 tons of red peppers in 1947, projects 1,800 tons for 1948 with two-thirds exportable, at roughly 17 cents per pound FOB.",
    "title": "Incoming telegram from Sebald to Secretary of State reporting Japanese red pepper production and export prices",
    "to": "Secretary of State"
   },
@@ -150,7 +150,7 @@
     "maximum prices"
    ],
    "start_page": 4,
-   "summary": "Responding to Department telegram 134, Sebald provides detailed data from the Japanese Ministry of Agriculture regarding the 1948 red pepper crop. Hontonka production is estimated at 800,000 pounds with 50% available for export at an f.o.b. price of roughly 17 cents per pound, while Yatsufusa production is estimated at 2,200,000 pounds with 50% exportable at 14 cents per pound. These prices represent ceiling maximums subject to reduction, and an additional 440 metric tons of miscellaneous red pepper varieties are noted without specific price or type breakdowns.",
+   "summary": "Sebald details 1948 Hontonka (800,000 lbs, 50% exportable at 17 cents) and Yatsufusa (2,200,000 lbs, 50% exportable at 14 cents) red pepper production, as ceiling prices, plus 440 tons of unbroken-down varieties.",
    "title": "Incoming telegram from Sebald to Secretary of State on red pepper varieties, production, and maximum export prices",
    "to": "Secretary of State"
   },
@@ -170,7 +170,7 @@
     "Department of the Army"
    ],
    "start_page": 5,
-   "summary": "In response to an inquiry from the Office of Foreign Agricultural Relations transmitted in June 1949, Sebald communicates information received from SCAP's Natural Resources Section. Production data on Japan's 1949 white potato crop will be forwarded to the Department of the Army via radio before October 1 for delivery to the Department of Agriculture. Sweet potato estimates will not be released by the Japanese Government until October 10, after which they will be forwarded immediately to Washington.",
+   "summary": "Sebald reports SCAP's Natural Resources Section will send Japan's 1949 white potato estimate by October 1 and sweet potato figures after October 10.",
    "title": "Incoming airgram from USPOLAD Tokyo on transmission schedule for 1949 potato and sweet potato production estimates",
    "to": "Secretary of State"
   }

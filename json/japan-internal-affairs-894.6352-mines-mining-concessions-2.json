@@ -1,5 +1,5 @@
 {
- "overview": "This four-document file combines industrial intelligence on Japan gathered in North America during World War II. It opens with a Montreal consular despatch transmitting a 1927 photograph of the Sumitomo Copper Company’s smelter and electrolytic refinery, then shifts to a memorandum and source report identifying possible bombing targets—including the Yawata steelworks and munitions factory, industrial areas between Tokyo and Yokohama, a Kobe shipyard, a Shimonoseki dry dock, and transport and water infrastructure near Osaka and Kobe. A final Department of State transmittal circulates the target report to economic-warfare and military-intelligence authorities.",
+ "overview": "Despatches forward a 1927 photo of Sumitomo's copper smelter and a report naming bombing targets, including the Yawata steelworks and Kobe-Osaka infrastructure, circulated to intelligence agencies.",
  "places": [
   {
    "name": "United States",
@@ -186,7 +186,7 @@
    "from": "American Consulate General, Montreal",
    "to": "Secretary of State, Washington",
    "about": "The consulate transmits a 1927 photograph of the Sumitomo Copper Company’s smelter and notes the visibility of its smokestack.",
-   "summary": "The despatch supplements an earlier report dated April 20, 1942, concerning Japanese copper mines and an electrolytic refinery and smelter. It forwards a photograph taken by Wilton A. Higgins in 1927. Higgins emphasizes that the smelter’s fume stack is a conspicuous landmark, potentially assisting visual identification.",
+   "summary": "Montreal forwards a 1927 photo of Sumitomo's copper smelter, noting its fume stack as a visual landmark.",
    "keywords": [
     "Sumitomo Copper Company",
     "copper smelter",
@@ -206,7 +206,7 @@
    "from": "J.F.C.",
    "to": "Board of Economic Warfare and other intelligence recipients",
    "about": "The memorandum forwards George Walker’s further report based on information from Thomas Underhill concerning possible bombing targets in Japan.",
-   "summary": "J.F.C. introduces a report prepared by George Walker from information supplied by Thomas Underhill of U.S. Steel in Asia. Underhill has promised photographs of the Yawata Steel Plant. Copies were reportedly distributed to the Department of State, the Office of Naval Intelligence, and the Army Air Corps, with routing also noted to the Board of Economic Warfare and Major Sands.",
+   "summary": "Memo forwards a bombing-target report from a US Steel contact, distributed to State, Navy, and Army intelligence.",
    "keywords": [
     "George Walker",
     "Thomas Underhill",
@@ -227,7 +227,7 @@
    "from": "George Walker",
    "to": "",
    "about": "The report records Thomas Underhill’s descriptions of Japanese industrial, transportation, utility, shipbuilding, and dry-dock targets.",
-   "summary": "Based on a conversation with Thomas Underhill, the report identifies the Yawata steelworks and a nearby munitions factory, a tramway and water pipeline between Kobe and Osaka, the industrial strip from Yokohama to Tokyo, a shipyard south of Kobe, and a commercial dry dock at Shimonoseki. It explains that Underhill had observed the Japanese coast while serving as a radio operator aboard a Norwegian freighter in 1938 and early 1939. He had taken prohibited photographs and promised to supply negatives showing the Yawata steel plant.",
+   "summary": "Report names the Yawata steelworks and Kobe-Osaka infrastructure as bombing targets, based on a sailor's 1938-39 observations.",
    "keywords": [
     "strategic bombing",
     "Yawata steelworks",
@@ -252,7 +252,7 @@
    "from": "Department of State",
    "to": "Board of Economic Warfare; Military Intelligence Division",
    "about": "The Department of State confidentially distributes a copy of the April 15 report entitled “Japan Targets.”",
-   "summary": "This confidential cover sheet transmits the target report in the hope that it will prove useful. The Board of Economic Warfare and Military Intelligence Division remain as recipients, while other typed recipient lines are struck through. The enclosure is identified as a copy of the April 15, 1942 report “Japan Targets.”",
+   "summary": "State forwards the 'Japan Targets' bombing report to economic-warfare and military-intelligence agencies.",
    "keywords": [
     "Department of State",
     "confidential",
@@ -263,7 +263,7 @@
    ]
   }
  ],
- "interest": "The file is useful because it shows how personal recollections, commercial contacts, and prewar photographs were converted into U.S. wartime target intelligence. Particularly revealing are the practical visual cues—smokestacks, flat roofs, railway spurs, tramways, waterways, and coastal industrial strips—used to make facilities recognizable from the air. The juxtaposition of copper-smelter documentation with a much broader bombing-target report also illustrates the loose filing and interagency circulation practices of the State Department’s wartime economic and industrial intelligence system.",
+ "interest": "Shows wartime US bombing-target intelligence on Japan built from old photos and travelers' recollections.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

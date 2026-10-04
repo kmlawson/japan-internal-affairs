@@ -224,7 +224,7 @@
    "from": "Cabot Coville, American Vice Consul, Dairen",
    "to": "U.S. Secretary of State",
    "about": "The despatch transmits two tabulations compiled from the October 1, 1930 census of the Kwantung Leased Territory and South Manchuria Railway Zone.",
-   "summary": "Coville reports that the Kwantung Leased Territory’s population rose 24.8 percent between 1925 and 1930 to nearly one million, with Chinese residents continuing to form seven-eighths of the population. He comments on the territory’s exceptionally high density and on the sex imbalance among its Chinese and Japanese populations. The South Manchuria Railway Zone grew by 29.1 percent to nearly 400,000, with a rising Chinese share and a still-pronounced excess of Chinese men.",
+   "summary": "Coville reports Kwantung's population rose 24.8% from 1925-30 to nearly a million, mostly Chinese, with the railway zone growing 29.1% to nearly 400,000.",
    "keywords": [
     "1930 census",
     "population growth",
@@ -266,7 +266,7 @@
    "from": "American Consulate, Dairen, compiled from Kwantung Government census returns",
    "to": "U.S. Department of State",
    "about": "This enclosure compares aggregate census statistics for 1920, 1925, and 1930 and calculates changes over the intervening periods.",
-   "summary": "The table separates totals for the Kwantung Leased Territory and South Manchuria Railway Zone and compares their area, dwellings, population, sex distribution, and nationality or race. It also presents absolute increases between 1925 and 1930 and between 1920 and 1930. The table documents rapid demographic expansion and changing composition across the Japanese-administered areas.",
+   "summary": "Table compares 1930 census data for Kwantung and the railway zone, showing area, dwellings, population, sex ratio, and nationality, with 1920-30 growth figures.",
    "keywords": [
     "comparative census",
     "1920 population",
@@ -287,7 +287,7 @@
    "from": "William T. Turner, American Consul, Dairen",
    "to": "Commercial Office, U.S. Department of State",
    "about": "The report presents the leased territory’s population at the end of December 1937 by sex, nationality or race, and principal urban center.",
-   "summary": "Turner reports a total population of 1,190,003, an increase of 41,969 over 1936, with males exceeding females by 172,393. He divides the population into 1,009,870 Chinese, 174,587 Japanese, 3,917 Koreans, and 1,629 other foreigners. The report also gives large figures for Dairen, Port Arthur, Pulandian, Pikou, and Jinzhou that later correspondence reveals were, except for Dairen, figures for broader police supervisory areas.",
+   "summary": "Turner reports Kwantung's population at 1,190,003, mostly Chinese, giving figures for Dairen and other towns later found to be broader police-district totals.",
    "keywords": [
     "1937 population",
     "William T. Turner",
@@ -308,7 +308,7 @@
    "from": "U.S. Department of State",
    "to": "American Consular Officer in Charge, Dairen",
    "about": "The Department asks the Dairen consulate to reconcile its population figures with much smaller figures in the 1938 Japanese-language Manchuria Yearbook.",
-   "summary": "The instruction compares the five urban figures reported on February 26 with those printed in the Manchuria Yearbook. It observes that the consular figures correspond more closely to the Yearbook’s populations for districts bearing the cities’ names than to the cities themselves. The consular officer is therefore directed to investigate and submit a further report.",
+   "summary": "State notes consular city figures match Yearbook district totals, not the cities themselves, requesting investigation.",
    "keywords": [
     "population discrepancy",
     "Manchuria Yearbook",
@@ -327,7 +327,7 @@
    "from": "William T. Turner, American Consul, Dairen",
    "to": "U.S. Secretary of State",
    "about": "Turner explains the discrepancy in the 1937 urban statistics and supplies corrected figures for four cities.",
-   "summary": "Turner identifies the Department’s source as the Manshū Nenkan and explains that its Dairen figure dated from July 1937, before several suburbs were incorporated into the city. Kwantung Government authorities confirmed that the enlarged city had 503,778 inhabitants in December 1937. Turner acknowledges that the earlier report mistakenly placed the populations of police supervisory areas under city headings and corrects the figures to Port Arthur 31,439, Jinzhou 21,473, Pulandian 21,320, and Pikou 19,780.",
+   "summary": "Turner corrects earlier Kwantung city figures, confirming Dairen's 503,778 after suburb annexation and giving corrected smaller-town totals.",
    "keywords": [
     "corrected statistics",
     "urban boundaries",
@@ -340,7 +340,7 @@
    ]
   }
  ],
- "interest": "The file is valuable for reconstructing demographic change in Japan’s Kwantung leasehold and along the South Manchuria Railway immediately before the establishment of Manchukuo and again during the late 1930s. Its detailed tables expose striking population growth, ethnic composition, migration-related sex imbalances, and sharp differences among urban and railway settlements. Especially useful is the 1938 exchange: it documents how incompatible administrative units—cities versus police supervisory districts—and changing municipal boundaries could produce major statistical errors, while also showing the State Department’s process for detecting and correcting them.",
+ "interest": "Shows rapid 1930s population growth in Kwantung and the railway zone, and an error-correction over city statistics.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

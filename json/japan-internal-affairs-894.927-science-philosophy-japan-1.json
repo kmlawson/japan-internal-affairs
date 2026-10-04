@@ -222,7 +222,7 @@
    "from": "Department of State file staff",
    "to": "",
    "about": "The filing note directs researchers to another decimal-file location for despatch No. 1929 concerning Tokyo Imperial University's archaeological gift to Harvard.",
-   "summary": "The note cross-references 093.941-Harvard University/1 for despatch No. 1929 from Japan, attributed to Grew and dated July 3, 1936. It identifies the subject as Tokyo Imperial University's presentation of Japanese archaeological specimens for Harvard's tercentenary.",
+   "summary": "Cross-reference: Tokyo Imperial University gave Harvard archaeological specimens for its 1936 tercentenary.",
    "keywords": [
     "cross-reference",
     "decimal file",
@@ -241,7 +241,7 @@
    "from": "Joseph C. Grew, U.S. Embassy in Japan",
    "to": "U.S. Secretary of State",
    "about": "The Embassy reports the proposed archaeological gift and its shipment to Boston aboard the Hokkai Maru.",
-   "summary": "This incomplete or duplicate copy reports that Tokyo Imperial University will give Harvard University four boxes of Japanese archaeological specimens for the tercentenary. It says the Hokkai Maru is scheduled to reach Boston on August 13, but the surviving text ends in mid-sentence.",
+   "summary": "Incomplete copy: Tokyo University sends Harvard four boxes of archaeological specimens for its tercentenary, via the Hokkai Maru.",
    "keywords": [
     "despatch No. 1929",
     "archaeological specimens",
@@ -260,7 +260,7 @@
    "from": "Joseph C. Grew, U.S. Embassy at Tokyo",
    "to": "U.S. Secretary of State",
    "about": "The Embassy formally notifies the State Department of Tokyo Imperial University's gift to Harvard and its planned shipment.",
-   "summary": "The dated Tokyo copy repeats the report that four wooden boxes of archaeological specimens are being presented to Harvard University. It gives an August 15 arrival date for the Hokkai Maru, differing from the August 13 date on pages 2 and 4. This copy also ends in mid-sentence.",
+   "summary": "Dated copy repeats the Harvard archaeological gift report, giving a differing Hokkai Maru arrival date.",
    "keywords": [
     "Tokyo",
     "despatch No. 1929",
@@ -279,7 +279,7 @@
    "from": "S. Eguchi, Secretary, Tokyo Imperial University",
    "to": "Munshion Daville, unidentified American official in Tokyo",
    "about": "Eguchi asks for help securing favorable customs examination of the four cases of archaeological material destined for Harvard.",
-   "summary": "Writing from the president's office, Eguchi explains that the university has selected and packed an archaeological collection to commemorate Harvard's forthcoming tercentenary. He requests assistance from the recipient's government with customs inspection so that the material will reach its destination safely. The letter names the Osaka Shosen Kaisha freighter Hokkai Maru and gives its projected route from Yokohama through Los Angeles, Panama, and New York to Boston.",
+   "summary": "Eguchi asks for customs help delivering Harvard's tercentenary archaeological gift via the Hokkai Maru.",
    "keywords": [
     "S. Eguchi",
     "customs permit",
@@ -300,7 +300,7 @@
    "from": "President of Tokyo Imperial University",
    "to": "Probable museum director at Harvard University",
    "about": "The sheet records the dimensions and weights of four cases and supplies their destination and return-address markings.",
-   "summary": "The page tabulates measurements and weights for four wooden boxes, although several figures are obscured by OCR errors. It then gives a shipping label addressed to a Harvard director in Cambridge and a badly corrupted return label for Tokyo Imperial University. The recipient was probably Donald Scott, then associated with the direction of Harvard's anthropological museum, but the OCR name is highly uncertain.",
+   "summary": "Memo gives shipping dimensions and addresses for four boxes of archaeological specimens sent to Harvard.",
    "keywords": [
     "packing list",
     "case dimensions",
@@ -344,7 +344,7 @@
    "from": "",
    "to": "",
    "about": "A nearly blank sheet marks the end of the file or filming unit.",
-   "summary": "The page contains only the word “LITTLE” and a long broken rule. It carries no substantive correspondence or archaeological information and appears to be a separator or filming artifact.",
+   "summary": "Separator sheet contains only a stray word and rule line, with no substantive content.",
    "keywords": [
     "separator sheet",
     "file ending",
@@ -352,7 +352,7 @@
    ]
   }
  ],
- "interest": "The file is especially useful for connecting cultural diplomacy with the practical formation of an American museum collection: it preserves not only the official announcement but also customs concerns, shipping arrangements, case specifications, and artifact-level provenance. The long inventory offers evidence about Japanese archaeological classification and regional collecting practices in the 1930s, including early use of pottery types such as Moroiso and Kamegaoka. The duplicated despatch copies, with conflicting Boston arrival dates, and the severely corrupted names and localities also illustrate the evidentiary problems posed by carbon copies, incomplete archival survival, and OCR of historical records.",
+ "interest": "Shows Tokyo University's 1936 gift of archaeological specimens to Harvard, with shipping and customs arrangements.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

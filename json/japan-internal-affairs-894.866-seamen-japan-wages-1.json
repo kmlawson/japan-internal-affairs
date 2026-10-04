@@ -1,5 +1,5 @@
 {
- "overview": "This file documents a U.S. government inquiry into wages paid to crews of Japanese merchant vessels. At the request of the Department of Commerce’s Bureau of Navigation and Steamboat Inspection, the Department of State cabled Japan in December 1934 for wage rates broken down by crew rating; the reply from Kobe referred officials to a detailed consular report of July 29, 1933, while noting that Nippon Yusen Kaisha and Osaka Shosen Kaisha planned modest increases for seamen and motor-ship engineers in 1935. A final cross-reference sheet points to an August 12, 1938 report from Kobe concerning Japanese merchant-marine wages filed elsewhere in the decimal records.",
+ "overview": "File documents a 1934 US wage inquiry on Japanese seamen, answered by a 1933 Kobe report noting modest 1935 pay increases planned by two shipping firms, with a later cross-referenced 1938 wage report.",
  "places": [
   {
    "name": "Japan",
@@ -128,7 +128,7 @@
    "from": "U.S. Department of State (Cordell Hull)",
    "to": "U.S. consular representative in Japan, apparently Kobe",
    "about": "The Department requests average wage figures for Japanese merchant-vessel crews, separated by occupational rating.",
-   "summary": "Acting on a telephone request from Mr. Tyrer of the Department of Commerce, the Department of State asks for average wages paid to Japanese merchant seamen. The requested categories include masters, mates, seamen, engineers, and firemen. A notation says that Commerce’s telephone request was to be confirmed by letter.",
+   "summary": "State asks Japan for average Japanese merchant-seamen wages by crew rating, at Commerce's request.",
    "keywords": [
     "wage inquiry",
     "Japanese seamen",
@@ -147,7 +147,7 @@
    "from": "Gray / Donovan, Kobe",
    "to": "Secretary of State, Washington, D.C.",
    "about": "The Kobe consular office directs the Department to its 1933 wage report and reports limited wage increases planned for 1935.",
-   "summary": "The telegram states that complete wage data are contained in the consulate’s report, “Wages Paid in the Japanese Merchant Marine,” dated July 29, 1933. It reports no general change since that report. The only exception is that Nippon Yusen Kaisha and Osaka Shosen Kaisha have agreed to make slight wage increases for seamen and motor-ship engineers beginning in 1935.",
+   "summary": "Kobe reports full wage data is in a 1933 consular report, noting two firms planned small 1935 pay increases.",
    "keywords": [
     "Kobe",
     "Japanese merchant marine",
@@ -168,7 +168,7 @@
    "from": "Bureau of Navigation and Steamboat Inspection, U.S. Department of Commerce",
    "to": "Mr. Jaffee, U.S. Department of State",
    "about": "Commerce formally confirms its telephone request that the State Department obtain Japanese merchant-crew wage rates by cable.",
-   "summary": "The memorandum confirms a telephone request made earlier that day concerning wages paid aboard Japanese vessels. It asks Mr. Jaffee to obtain the information by cable from a consular representative in Japan. Commerce specifically requests that the rates be segregated according to the several crew ratings.",
+   "summary": "Commerce confirms its request for Japanese seamen's wage data broken down by crew rating.",
    "keywords": [
     "Department of Commerce",
     "Mr. Jaffee",
@@ -187,7 +187,7 @@
    "from": "Kobe (Affeld)",
    "to": "",
    "about": "The sheet directs researchers to another file containing an August 1938 report on wages in the Japanese merchant marine.",
-   "summary": "This filing note cross-references report number 3 from Kobe, associated with Affeld and dated August 12, 1938. The report concerns wages paid in the Japanese merchant marine and is identified as being filed under 800.866/92. The substantive report itself is not included on this page.",
+   "summary": "Cross-reference: a 1938 Kobe report on Japanese merchant-marine wages is filed elsewhere.",
    "keywords": [
     "cross-reference",
     "Kobe",
@@ -199,7 +199,7 @@
    ]
   }
  ],
- "interest": "The file reveals how a domestic U.S. regulatory agency used the State Department’s consular network to obtain foreign maritime-labor data. Although it contains no wage tables, the Kobe telegram identifies a potentially important 1933 report and records planned 1935 increases by two major Japanese shipping companies. The 1938 cross-reference is also valuable because it links this small wage inquiry to a later report filed elsewhere, allowing historians to reconstruct a dispersed documentary trail on Japanese seafarers’ pay and working conditions.",
+ "interest": "Shows a 1934 US inquiry into Japanese seamen's wages, routed through Commerce and consular channels.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

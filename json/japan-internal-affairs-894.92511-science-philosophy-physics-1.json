@@ -1,5 +1,5 @@
 {
- "overview": "This two-document file concerns the conversion of a Japanese birth date between the Gregorian calendar and Japan’s imperial-era calendar. In a January 12, 1944 letter, Anne R. Deyrough of the Immigration and Naturalization Service’s Alien Parole Section informs State Department official E. B. Smith that Kyutaro Furuguri’s birth date of November 11, 1883 corresponds to Meiji 16, month 11, day 11. The enclosed excerpt from the 1936 edition of Whitaker’s Almanack explains the Japanese calendar, including the Meiji, Taisho, and Showa eras and Japanese names for the days of the week.",
+ "overview": "1944 exchange: INS official Deyrough tells State's Smith that Kyutaro Furuguri's November 11, 1883 birth date equals Meiji 16, month 11, day 11, enclosing a Whitaker's Almanack explanation of Japan's Meiji/Taisho/Showa calendar eras and weekday names.",
  "places": [
   {
    "name": "Japan",
@@ -89,7 +89,7 @@
    "from": "Anne R. Deyrough, Secretary to S. A. Diana, Chief, Alien Parole Section",
    "to": "Miss E. B. Smith, Department of State",
    "about": "The letter supplies an almanac excerpt and converts Kyutaro Furuguri’s Gregorian birth date into the Japanese Meiji-era system.",
-   "summary": "Responding to a telephone request from E. B. Smith, Anne R. Deyrough encloses an explanation of the Japanese calendar from the 1936 edition of Whitaker’s Almanack. Immigration and Naturalization Service records give Kyutaro Furuguri’s birth date as November 11, 1883 in the Gregorian calendar. Deyrough interprets this as Meiji 16, month 11, day 11.",
+   "summary": "Deyrough tells Smith that INS records give Furuguri's birth date as November 11, 1883, interpreted as Meiji 16, month 11, day 11, enclosing a calendar explanation.",
    "keywords": [
     "Kyutaro Furuguri",
     "birth date",
@@ -109,7 +109,7 @@
    "from": "Whitaker’s Almanack, 1936 edition",
    "to": "Enclosed for E. B. Smith, Department of State",
    "about": "The excerpt describes Japan’s adaptation of the Gregorian calendar and its system of numbering years by imperial epochs.",
-   "summary": "The excerpt explains that Japan uses Gregorian years, months, and weeks but numbers years according to epochs associated with imperial accessions or other important events. It lists the Meiji, Taisho, and Showa eras and provides examples converting dates in 1935 and 1936. It also explains the numerical naming of months and gives Japanese names for all seven days of the week.",
+   "summary": "Whitaker's Almanack excerpt explains Japan's Gregorian dates but era-based year numbering, listing Meiji/Taisho/Showa eras, 1935-36 conversion examples, month naming, and weekday names.",
    "keywords": [
     "Japanese calendar",
     "Gregorian calendar",
@@ -122,7 +122,7 @@
    ]
   }
  ],
- "interest": "The file offers a compact example of how wartime U.S. immigration and diplomatic officials handled Japanese biographical records and calendar conventions. It is especially useful because it connects an individual case—Kyutaro Furuguri’s recorded birth date—to the reference material used for conversion. The enclosure also preserves contemporary English romanizations such as “Nichiyobi,” “Kwayobi,” and “Suiyobi,” as well as a concise official-era chronology relied upon by U.S. authorities.",
+ "interest": "Shows how U.S. officials converted a Japanese immigrant's birth date between Gregorian and imperial-era calendars.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

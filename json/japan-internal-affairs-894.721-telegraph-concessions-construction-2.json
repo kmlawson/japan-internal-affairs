@@ -1,5 +1,5 @@
 {
- "overview": "This file consists of a Department of State list-of-papers sheet for decimal file 894.721, concerning Japanese laws, regulations, and censorship affecting telegraph service. It indexes three July communications: a telegram from Japan and two reports from the Western Union Telegraph Company describing Japanese restrictions on telegrams, including their extension to Korea (Chosen), Taiwan (Formosa), and the wider Japanese Empire, and the suspension of most coded messages except those sent to Tokyo, Yokohama, Osaka, and Kobe.",
+ "overview": "Docket indexes 1930s-era reports on Japanese telegraph censorship extended to Korea and Taiwan, and coded-message suspension except for four cities.",
  "places": [
   {
    "name": "Japan",
@@ -80,7 +80,7 @@
    "from": "U.S. Department of State",
    "to": "",
    "about": "An index sheet lists three July communications concerning Japanese censorship restrictions on telegrams and coded messages.",
-   "summary": "The sheet indexes one telegram from Japan dated July 14 and two reports dated July 22 from the Western Union Telegraph Company through B. R. Allen. The first Western Union report states that Japanese censorship restrictions also apply to messages sent to Chosen, Formosa, and every part of the Japanese Empire. The second reports the suspension of all coded messages except those addressed to Tokyo, Yokohama, Osaka, and Kobe, and notes that it lists the codes permitted for those four destinations.",
+   "summary": "Indexes July reports: Japanese telegraph censorship extends to Korea, Taiwan, and Empire-wide, with coded messages suspended except for four cities.",
    "keywords": [
     "list of papers",
     "Japan",
@@ -97,7 +97,7 @@
    ]
   }
  ],
- "interest": "The sheet is useful as a concise map of otherwise separate communications documenting the geographical scope and practical operation of Japanese wartime telegraph censorship. Its distinction between the general prohibition on coded messages and the limited exception for four major Japanese cities may help historians reconstruct controls on international commercial communications. The use of the colonial names “Chosen” and “Formosa” also shows that the restrictions were understood to extend throughout Japan’s imperial territories.",
+ "interest": "Tracks wartime Japanese telegraph censorship across its empire.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

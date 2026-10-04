@@ -1,5 +1,5 @@
 {
- "overview": "This three-page list of papers indexes correspondence and cross-references concerning Japanese merchant-vessel movements from 1934 through at least 1939. It begins with Navy Department requests to monitor departures from published schedules and possible concentrations of shipping in Japanese home waters, together with concern about imports of strategic raw materials; it then records consular reporting from Kobe on the strategic value of Japan’s modern merchant fleet. Later entries trace Japanese ships in Liberian, Mexican, Haitian, and United States ports, including fishing craft, cabin cruisers, freighters, and oil tankers carrying Mexican crude through the Panama Canal. The surviving OCR comprises the file’s index sheets rather than the full texts of the papers they describe.",
+ "overview": "Docket (1934-39) indexes Navy requests to monitor Japanese shipping concentrations and strategic imports, Kobe's reporting, McClintock's rated merchant-fleet study, and Japanese vessels (fishing boats, tankers) tracked in Liberian, Mexican, Haitian, and U.S. ports.",
  "places": [
   {
    "name": "Japan",
@@ -238,7 +238,7 @@
    "from": "",
    "to": "",
    "about": "This index sheet summarizes 1934 correspondence concerning the concentration and monitoring of Japanese merchant shipping.",
-   "summary": "The Navy Department requested systematic checks of Japanese vessel movements against published schedules, citing reports of strategic raw-material imports and possible concentrations in home ports. The State Department expressed reluctance to issue a general instruction, suggesting that naval attachés and the American consul’s monthly Kobe shipping report could provide the necessary information. Grew was asked to have Kobe supply current data and warn the embassy of unusual concentrations; subsequent Kobe reporting on the extent and causes of a concentration was transmitted to the Navy and acknowledged.",
+   "summary": "Sheet 1: Navy requests on Japanese shipping concentration and strategic imports; State prefers attaché and Kobe consular reporting instead.",
    "keywords": [
     "Navy Department",
     "Joseph C. Grew",
@@ -259,7 +259,7 @@
    "from": "",
    "to": "",
    "about": "This index sheet covers the strategic assessment of Japan’s merchant fleet and reports or cross-references concerning Japanese vessels in Liberia, Mexico, Haiti, and nearby ports.",
-   "summary": "The sheet records Robert Mills McClintock’s August 1934 report, “The Strategic Value of Japan’s New Merchant Fleet,” its later rating as excellent, and its distribution to the Navy Department, Norman H. Davis, and Admiral Standley before London naval discussions. It also indexes the Alaska Maru as the first Japanese ship reported in Liberian waters and cross-references Ensenada reports on the fishing vessels ESS I–VI and the cabin cruiser Junny. Two 1938 telegrams concern the tanker Itsukushima Maru at Tampico and the ship Tsuyama sailing from Haiti to New Orleans; the latter’s captain was observed ashore with Cuban and German chargés, and the information was sent to the consul at Havana.",
+   "summary": "Sheet 2: McClintock's rated 1934 merchant-fleet study, the Alaska Maru in Liberia, Ensenada fishing-boat reports, and 1938 ship telegrams.",
    "keywords": [
     "Robert Mills McClintock",
     "strategic merchant fleet",
@@ -284,7 +284,7 @@
    "from": "",
    "to": "",
    "about": "This sheet indexes reports on Japanese tankers exporting Mexican crude oil from Tuxpan to Japan.",
-   "summary": "A November 25, 1939 telegram from Josephus Daniels reported a Japanese tanker’s departure from Tuxpan with the first 10,000 metric tons of Poza Rica crude under a 50,000-ton contract. A second entry, dated April 29 but without a stated year, records the Toei Maru leaving Tuxpan with 89,000 barrels of crude for Yokohama via the Panama Canal. Together the entries document Japan’s acquisition and long-distance transport of Mexican petroleum on the eve of the Pacific War.",
+   "summary": "Sheet 3: a 1939 Daniels telegram on a tanker's Poza Rica crude shipment, and Toei Maru's Yokohama run via Panama.",
    "keywords": [
     "Josephus Daniels",
     "Tuxpan",
@@ -298,7 +298,7 @@
    ]
   }
  ],
- "interest": "The index is useful because it reveals how routine consular shipping reports were integrated into American naval and diplomatic intelligence about Japan’s strategic capacity. It links concern over merchant-fleet concentration and raw-material imports with concrete observations of Japanese fishing boats, freighters, and tankers across several oceans. McClintock’s highly rated merchant-fleet study and the detailed Mexican oil shipments are especially valuable for studying prewar logistical planning, while the decimal-file cross-references provide leads to related records not preserved in this OCR bundle.",
+ "interest": "Shows 1934-39 consular shipping reports feeding naval intelligence on Japan's merchant fleet and Mexican oil shipments.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

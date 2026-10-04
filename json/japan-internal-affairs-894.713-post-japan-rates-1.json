@@ -1,5 +1,5 @@
 {
- "overview": "A single-page State Department cross-reference sheet concerning unpaid postage on Japanese diplomatic mail sent to certain legations in Washington. It points researchers to file 051.07/45a for Instruction No. 315, which states that only official mail may be carried in diplomatic pouches without the necessary postage and requests an investigation of the practice.",
+ "overview": "Cross-reference: an instruction addresses unpaid postage on Japanese diplomatic mail sent to Washington legations.",
  "places": [
   {
    "name": "Japan",
@@ -37,7 +37,7 @@
    "from": "U.S. Department of State",
    "to": "U.S. diplomatic mission in Japan",
    "about": "The sheet refers researchers to Instruction No. 315 regarding Japanese diplomatic mail received in Washington without payment of postage.",
-   "summary": "Certain legations in Washington had received Japanese mail for which postage had not been paid. The referenced instruction explains that only official mail should be transmitted in diplomatic pouches without ordinary postage and asks the mission in Japan to investigate the matter. The sheet directs the reader to file 051.07/45a for the full instruction.",
+   "summary": "Cross-reference: an instruction asks Japan to investigate unpaid postage on diplomatic mail sent to Washington legations.",
    "keywords": [
     "cross-reference",
     "Instruction No. 315",
@@ -50,7 +50,7 @@
    ]
   }
  ],
- "interest": "This sheet is useful chiefly as a filing-system pointer, linking decimal file 894.713 to the substantive instruction preserved under 051.07/45a. It offers a compact glimpse of the practical regulation of diplomatic pouches and the State Department’s concern that postage privileges be restricted to official correspondence.",
+ "interest": "Index on unpaid postage on Japanese diplomatic mail.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",

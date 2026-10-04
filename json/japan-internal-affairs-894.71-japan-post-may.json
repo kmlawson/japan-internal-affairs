@@ -1,5 +1,5 @@
 {
- "overview": "This two-document file concerns changes to international postal services affecting occupied Japan in 1949. A May airgram reports the relaxation of restrictions on commercial entrants’ use of the mails for checks, drafts, letters of credit, and other financial instruments, while retaining the prohibition on mailing currency and recommending Japanese-character addresses to prevent delays. A November airgram announces limited surface-mail service through Hong Kong to Manchuria and several Chinese provinces, together with the curtailment of mail to North Korea to ordinary and registered letters and postcards.",
+ "overview": "Two 1949 airgrams: one eases mail restrictions on financial instruments for commercial entrants in Japan, and one adds limited mail service to Manchuria and China via Hong Kong while curbing mail to North Korea.",
  "places": [
   {
    "name": "Japan",
@@ -178,7 +178,7 @@
    "from": "U.S. Political Adviser, Tokyo (USPOLAD)",
    "to": "U.S. Secretary of State",
    "about": "Reports a Far East Command announcement permitting commercial entrants to transmit financial instruments through international mail beginning June 1, 1949.",
-   "summary": "The airgram transmits a May 23 announcement by the Public Information Office of General Headquarters, Far East Command. Commercial entrants would be allowed to mail checks, drafts, payment orders, letters of credit, and similar instruments to and from Japan, although currency remained prohibited. The announcement also recommended using addresses written in Japanese characters to avoid translation delays of as much as three days; the airgram was mailed on May 27 and received on May 30.",
+   "summary": "Airgram: Japan now allows mailing checks, drafts, and letters of credit, though currency stays banned; Japanese-script addresses are recommended.",
    "keywords": [
     "commercial entrants",
     "international mail",
@@ -198,7 +198,7 @@
    "from": "U.S. Political Adviser, Tokyo",
    "to": "U.S. Secretary of State, Washington",
    "about": "Reports new arrangements for surface mail from Japan to Manchuria and Chinese provinces through Hong Kong, and restrictions on mail destined for North Korea.",
-   "summary": "The airgram transmits a November 15 Far East Command announcement based on information from the International Bureau of the Universal Postal Union. Hong Kong’s postal administration would forward ordinary letters and postcards to Manchuria and a specified group of Chinese provinces by surface transport and at the sender’s risk. Following information from the South Korean government, Japanese post offices were instructed to accept only ordinary or registered letters and postcards for destinations north of the 38th parallel.",
+   "summary": "Airgram: Hong Kong will forward limited mail to Manchuria and China, while Japan restricts mail to North Korea.",
    "keywords": [
     "North China",
     "North Korea",
@@ -212,7 +212,7 @@
    ]
   }
  ],
- "interest": "The file provides a compact view of how occupation authorities regulated Japan’s renewed international communications after the Second World War. Its practical details—permitted financial instruments, the continued currency ban, Japanese-script address stamps, and sender-risk provisions—illuminate the mechanics of postwar commercial reconstruction. The November document is especially useful for tracing postal connections during the Chinese Civil War and the hardening division of Korea, including Hong Kong’s intermediary role and the 38th parallel’s effect on everyday communication.",
+ "interest": "Shows 1949 occupation easing of Japan's international mail rules, amid Chinese Civil War and Korea's postal divide.",
  "_meta": {
   "model": "gpt-5.6-sol",
   "backend": "codex",
