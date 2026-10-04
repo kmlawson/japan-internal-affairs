@@ -391,13 +391,13 @@ function spotlightDetail(id){
    <div class="label">Keywords</div><div class="chips">${chipsU(`s|${x.id}|${x.sub.indexOf(s)+1}`)}${chipsK(x, s.k)}</div>
    <div class="label">Text of the document</div>
    <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}</div>
-   <div class="sp-warn" id="spw" hidden><b>Important:</b> The cleaned transcript is an extraction of the text using a large language model (Claude Sonnet 5.5 or Opus 5.5, depending on the text) in comparison with the PaddleOCR software which produced the raw transcript. Errors and hallucinations in the cleaned transcript will be harder to detect than the shortcomings of the raw transcript.</div>
+   <div class="sp-warn" id="spw" hidden><b>Important:</b> The cleaned transcript is an extraction of the text using a large language model (Claude Sonnet 5.5 or Opus 5.5, depending on the text) in comparison with the ${esc(e.ocr || 'PaddleOCR')} software which produced the raw transcript. Errors and hallucinations in the cleaned transcript will be harder to detect than the shortcomings of the raw transcript.</div>
    <div class="sp-view" id="spv"></div>
    <p class="meta">Square brackets mark illegible or uncertain words, and editorial notes such as stamps, marginalia and handwriting. Tap a page image to open it full size.</p></div>
    <div class="pager">${prev ? `<a href="#s/${esc(prev.id)}">← previous</a>` : ''}${next ? `<a href="#s/${esc(next.id)}">next →</a>` : ''}</div>`;
   const view = $('#spv');
   const cell = (m, p) => m === 'image' ? `<div class="sp-cell"><span class="tag">Page image</span><a href="${img(p)}" target="_blank"><img loading="lazy" src="${img(p)}" alt="Scan of page ${p}"></a></div>`
-    : m === 'raw' ? `<div class="sp-cell"><span class="tag">Raw OCR (unedited)</span><div class="sp-raw">${esc(rawM.get(p) || '[no OCR text]')}</div></div>`
+    : m === 'raw' ? `<div class="sp-cell"><span class="tag">Raw OCR (${esc(e.ocr || 'PaddleOCR')}, unedited)</span><div class="sp-raw">${esc(rawM.get(p) || '[no OCR text]')}</div></div>`
     : `<div class="sp-cell"><span class="tag">Cleaned transcription</span><div class="sp-clean">${cleanM ? esc(cleanM.has(p) ? cleanM.get(p) : '[not transcribed]') : '<span class="meta">Not yet available.</span>'}</div></div>`;
   const draw = () => {
     const on = ORDER.filter(m => modes.includes(m)), keep = view.scrollTop;
