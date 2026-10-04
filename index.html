@@ -46,6 +46,9 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 :root[data-theme=dark] .pgpill{background:hsl(calc(332 - var(--t)*22) calc(75% + var(--t)*25%) calc(34% + var(--t)*12%));color:#fff}:root[data-theme=dark] .pgpill.one{background:#3b3542;color:#c9c2d3}
 [data-mk].sel{outline:3px solid var(--era1);outline-offset:2px}
 [data-mk].mkd{box-shadow:inset 5px 0 0 var(--era1)}
+.sub.mkd,.urow.mkd{margin-left:-16px;margin-right:-16px;padding-left:22px;padding-right:16px;background:color-mix(in srgb,var(--era1) 8%,transparent)}
+.sub.mkd.onpage{border-radius:0}
+@media (max-width:640px){.sub.mkd,.urow.mkd{margin-left:-12px;margin-right:-12px;padding-left:18px;padding-right:12px}}
 .chip.utag{background:var(--era1);color:#fff;font-weight:600}
 #mkbar{position:fixed;left:16px;bottom:16px;z-index:60;display:flex;flex-wrap:wrap;gap:8px;align-items:center;max-width:calc(100vw - 32px);padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--panel);box-shadow:0 6px 24px rgba(0,0,0,.18);font:13px system-ui,sans-serif}
 #mkbar[hidden]{display:none}
@@ -62,7 +65,6 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 .ucloud b{font-size:11px;color:var(--muted);font-weight:400;margin-left:2px}
 .urow{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-top:1px solid var(--line)}
 .urow>div{flex:1;min-width:0}
-.urow.mkd{padding-left:12px}
 .urow button{flex:none;min-height:30px;padding:3px 10px;font-size:13px}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .chip.utag,:root:not([data-theme=light]) .mkbtn{color:#15111c}}
 :root[data-theme=dark] .chip.utag,:root[data-theme=dark] .mkbtn{color:#15111c}
