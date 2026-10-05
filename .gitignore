@@ -22,3 +22,5 @@ compare/
 # Working state of the shortening pass (keep only the tool)
 shorten/*
 !shorten/shorten.py
+.counts-cache.json
+.counts-cache.json.tmp

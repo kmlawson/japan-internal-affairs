@@ -405,8 +405,10 @@ function spCtx(e){ const x = D.find(x => x.id === e.file); let s = x && x.sub.fi
 const spSlug = c => String(c || 'General').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const SPCATS = [...new Set(SP.map(e => e.cat || 'General'))];
 const spotMenu = document.createElement('div'); spotMenu.className = 'ddmenu'; spotMenu.hidden = true; spotMenu.setAttribute('role', 'menu');
-spotMenu.innerHTML = `<a role="menuitem" href="#spotlight">All<span>${SP.length} documents</span></a>` +
-  SPCATS.map(c => `<a role="menuitem" href="#spotlight/${spSlug(c)}">${esc(c)}<span>${SP.filter(e => (e.cat || 'General') === c).length} documents</span></a>`).join('');
+// count only entries whose document is in the loaded catalogue, so the menu matches the lists
+const SPOK = SP.filter(e => { const [x, s] = spCtx(e); return x && s; });
+spotMenu.innerHTML = `<a role="menuitem" href="#spotlight">All<span>${SPOK.length} documents</span></a>` +
+  SPCATS.map(c => `<a role="menuitem" href="#spotlight/${spSlug(c)}">${esc(c)}<span>${SPOK.filter(e => (e.cat || 'General') === c).length} documents</span></a>`).join('');
 document.body.appendChild(spotMenu);
 function closeSpot(){ spotMenu.hidden = true; $('#spotBtn').setAttribute('aria-expanded', 'false'); }
 $('#spotBtn').addEventListener('click', ev => { ev.preventDefault(); if (!spotMenu.hidden) return closeSpot();
