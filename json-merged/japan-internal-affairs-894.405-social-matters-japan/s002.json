@@ -1,0 +1,206 @@
+{
+ "keywords": [
+  "Japanese family system",
+  "Japanese women",
+  "Pacific Studies Series",
+  "Japan Institute of Pacific Studies",
+  "Emperor system",
+  "post-war Japan",
+  "agrarian reform",
+  "religion and democracy",
+  "colophon"
+ ],
+ "people": [
+  {
+   "name": "Setsuko Hani",
+   "role": "Author",
+   "variants": [
+    "Setsuko Hani",
+    "羽"
+   ]
+  },
+  {
+   "name": "Genji Okubo",
+   "role": "Author",
+   "variants": [
+    "Genji Okubo"
+   ]
+  },
+  {
+   "name": "Hyōe Ōuchi",
+   "role": "Author",
+   "variants": [
+    "Hyoye Oachi"
+   ]
+  },
+  {
+   "name": "Yasuo Tatsuki",
+   "role": "Author",
+   "variants": [
+    "Yasuo Tatsuki"
+   ]
+  },
+  {
+   "name": "Shinrokuro Yamaguchi",
+   "role": "Author",
+   "variants": [
+    "Shinrokuro Yamaguchi"
+   ]
+  },
+  {
+   "name": "Tadao Yanaihara",
+   "role": "Author",
+   "variants": [
+    "Tadao Yanaihara"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "JAAN",
+    "JaPAN",
+    "Japan",
+    "日本"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "東京都",
+    "東京"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "OSAKA",
+    "大阪市",
+    "大阪"
+   ]
+  },
+  {
+   "name": "Chūō",
+   "variants": [
+    "Chuð-ku",
+    "中央区"
+   ]
+  },
+  {
+   "name": "Kita",
+   "variants": [
+    "Kita-ku",
+    "北区"
+   ]
+  },
+  {
+   "name": "Nakanoshima",
+   "variants": [
+    "Nakanoshima",
+    "中之烏"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "Nihonbashi"
+   ]
+  },
+  {
+   "name": "Nihonbashi-Honchō",
+   "variants": [
+    "Hongho",
+    "日本橋本町"
+   ]
+  },
+  {
+   "name": "Ginza",
+   "variants": [
+    "銀座"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "新潟市"
+   ]
+  },
+  {
+   "name": "Higashibori-maedōri",
+   "variants": [
+    "東堀前通り"
+   ]
+  },
+  {
+   "name": "Kyūban-chō",
+   "variants": [
+    "九香町"
+   ]
+  },
+  {
+   "name": "Kayabachō",
+   "variants": [
+    "茅場町"
+   ]
+  },
+  {
+   "name": "Tosabori",
+   "variants": [
+    "土佐堀"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "PACIFIC",
+    "太平洋"
+   ]
+  }
+ ],
+ "section_summary": "This section contains the concluding pages of the pamphlet 'The Japanese Family System—As Seen from the Standpoint of the Japanese Women' by Setsuko Hani, published by the Japan Institute of Pacific Studies. Page 65 contains an advertisement listing other publications in the Pacific Studies Series addressing post-war Japanese politics, economics, society, and religion. Page 66 is the colophon page in Japanese giving the publication date of April 5, 1948, along with publisher, printer, distributor, and pricing information.",
+ "subfiles": [
+  {
+   "about": "Concluding advertisement and colophon pages of a published monograph on the Japanese family system from the perspective of Japanese women.",
+   "continues_previous": true,
+   "date": "1948-04-05",
+   "doc_type": "pamphlet",
+   "end_page": 66,
+   "from": "Setsuko Hani",
+   "keywords": [
+    "Japanese family system",
+    "Japanese women",
+    "Pacific Studies Series",
+    "Japan Institute of Pacific Studies",
+    "colophon"
+   ],
+   "start_page": 65,
+   "summary": "Final pages of Setsuko Hani's study, containing an advertisement for the Pacific Studies Series and the Japanese publication colophon.",
+   "title": "The Japanese Family System—As Seen from the Standpoint of the Japanese Women",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 13309,
+   "output_tokens": 17615,
+   "thinking_tokens": 16757,
+   "cache_read_tokens": 0,
+   "total_tokens": 30924
+  },
+  "backend": "agy",
+  "section": 2,
+  "sections": 2,
+  "pages": [
+   65,
+   66
+  ],
+  "pdf": "894.405 Social Matters., Japan, Manners And Customs., October 14, 1947 - July 8, 1948 1644.pdf",
+  "seconds": 53.2,
+  "created": "2026-10-05 15:00:03",
+  "key": "japan-internal-affairs-894.405-social-matters-japan"
+ }
+}

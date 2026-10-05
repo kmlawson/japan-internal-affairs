@@ -1,0 +1,811 @@
+{
+ "keywords": [
+  "cotton textile industry",
+  "raw cotton imports",
+  "cotton piece goods",
+  "staple fiber",
+  "import-export link system",
+  "spindle curtailment",
+  "block system",
+  "spinning industry reorganization",
+  "Philippine textile industry",
+  "Brazilian cotton"
+ ],
+ "people": [
+  {
+   "name": "John M. Allison",
+   "role": "American Consul",
+   "variants": [
+    "John M. Allison",
+    "John M. llison",
+    "lan M. llison"
+   ]
+  },
+  {
+   "name": "Owen L. Dawson",
+   "role": "Agricultural Attaché at Shanghai; Foreign Service Officer",
+   "variants": [
+    "Owen L. Dawson",
+    "Owey L Nawson",
+    "Dawson"
+   ]
+  },
+  {
+   "name": "Walter P. McConaughy",
+   "role": "American Consul",
+   "variants": [
+    "Walter P. McConaughy",
+    "McConaughy"
+   ]
+  },
+  {
+   "name": "Carl H. Boehringer",
+   "role": "Vice Consul at Osaka",
+   "variants": [
+    "Carl H. Boehringer",
+    "Carl H. Boohringer"
+   ]
+  },
+  {
+   "name": "Bruce E. Rogers",
+   "role": "Clerk, American Consulate at Osaka",
+   "variants": [
+    "Bruce E. Rogers"
+   ]
+  },
+  {
+   "name": "J. Minoguchi",
+   "role": "Author and contributor to Cotton Textile Exporters' Federation bulletin",
+   "variants": [
+    "J. Minoguchi"
+   ]
+  },
+  {
+   "name": "I. Kawaguchi",
+   "role": "Director, Japan Cotton Spinners' Association",
+   "variants": [
+    "I. Kawaguchi",
+    "Kawaguchi"
+   ]
+  },
+  {
+   "name": "Ogoshi",
+   "role": "Manager of Toyo Menkwa Kabushiki Kaisha; President of Cloth Exporters' Federation",
+   "variants": [
+    "Ogoshi",
+    "Mr. Ogoshi"
+   ]
+  },
+  {
+   "name": "Fichter",
+   "role": "Representative of Anderson, Clayton and Company at Osaka",
+   "variants": [
+    "Fichter"
+   ]
+  },
+  {
+   "name": "Guttinger",
+   "role": "Representative of Anderson, Clayton and Company at Osaka",
+   "variants": [
+    "Guttinger"
+   ]
+  },
+  {
+   "name": "Shiota",
+   "role": "Representative of Nippon Menkwa Kabushiki Kaisha at Osaka",
+   "variants": [
+    "Shiota"
+   ]
+  },
+  {
+   "name": "Kinoshita",
+   "role": "Representative of Nippon Menkwa Kabushiki Kaisha at Osaka",
+   "variants": [
+    "Kinoshita"
+   ]
+  },
+  {
+   "name": "Takeuchi",
+   "role": "Representative of Gosho Menkwa Kabushiki Kaisha at Osaka",
+   "variants": [
+    "Takeuchi"
+   ]
+  },
+  {
+   "name": "Shinohara",
+   "role": "Representative of Toyo Menkwa Kabushiki Kaisha at Osaka",
+   "variants": [
+    "Shinohara"
+   ]
+  },
+  {
+   "name": "Maeda",
+   "role": "Representative of Toyo Menkwa Kabushiki Kaisha at Osaka",
+   "variants": [
+    "Maeda"
+   ]
+  },
+  {
+   "name": "Chichgar",
+   "role": "Representative of Shinko Menkwa Kabushiki Kaisha at Osaka",
+   "variants": [
+    "Chichgar"
+   ]
+  },
+  {
+   "name": "Geisel",
+   "role": "Representative of Nichizui Trading Company at Osaka",
+   "variants": [
+    "Geisel",
+    "Goisel"
+   ]
+  },
+  {
+   "name": "Muller",
+   "role": "Representative of Nichizui Trading Company at Osaka",
+   "variants": [
+    "Muller"
+   ]
+  },
+  {
+   "name": "Rabon",
+   "role": "Representative of George H. Wehry and Company at Osaka",
+   "variants": [
+    "Rabon"
+   ]
+  },
+  {
+   "name": "Johnson",
+   "role": "Representative of the United States Maritime Commission at Kobe",
+   "variants": [
+    "Johnson"
+   ]
+  },
+  {
+   "name": "McCaskey",
+   "role": "Representative of the American President Lines at Kobe",
+   "variants": [
+    "McCaskey"
+   ]
+  },
+  {
+   "name": "McClelland",
+   "role": "Representative of the States Steamship Lines at Kobe",
+   "variants": [
+    "McClelland"
+   ]
+  },
+  {
+   "name": "Edward L. Reed",
+   "role": "Counselor of Embassy, Buenos Aires",
+   "variants": [
+    "Edward L. Reed",
+    "Eavund Feed"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Aden",
+   "variants": [
+    "Aden"
+   ]
+  },
+  {
+   "name": "Akola",
+   "variants": [
+    "Akola",
+    "Akokan"
+   ]
+  },
+  {
+   "name": "Algeria",
+   "variants": [
+    "Algeria",
+    "Algria"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "Argentima"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australla"
+   ]
+  },
+  {
+   "name": "Bharuch",
+   "variants": [
+    "Broach"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brazilian",
+    "Brazili",
+    "azilia"
+   ]
+  },
+  {
+   "name": "British East Africa",
+   "variants": [
+    "British East Africa",
+    "SHSE AFT1C"
+   ]
+  },
+  {
+   "name": "British Empire",
+   "variants": [
+    "British Empire",
+    "British Empi",
+    "ritish pire"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "British Malaya"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China",
+    "Central Chine"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile",
+    "Chiio"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "Chima",
+    "Chinu",
+    "Chinese",
+    "Chinese mainland"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica",
+    "Costa Ricc"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba",
+    "Cuva"
+   ]
+  },
+  {
+   "name": "Dominican Republic",
+   "variants": [
+    "Dominican Republic",
+    "Dominioan Republic"
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "variants": [
+    "Ecuador",
+    "Eouador"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt",
+    "Egyptian",
+    "Ecyptian",
+    "Esypti",
+    "Rsypt"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "El Salvador"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "European",
+    "Europeen",
+    "uroye"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "Franoe",
+    "French"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "French Indo chine",
+    "Fronc Indo-chine"
+   ]
+  },
+  {
+   "name": "French Morocco",
+   "variants": [
+    "French Morocco",
+    "Morocco",
+    "Horocco"
+   ]
+  },
+  {
+   "name": "French Somaliland",
+   "variants": [
+    "French Somaliland",
+    "ranel Somaliland"
+   ]
+  },
+  {
+   "name": "Guatemala",
+   "variants": [
+    "Guatemala"
+   ]
+  },
+  {
+   "name": "Haiti",
+   "variants": [
+    "Haiti"
+   ]
+  },
+  {
+   "name": "Honduras",
+   "variants": [
+    "Honduras"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hongkong",
+    "onon",
+    "HepgKong"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "British India",
+    "British Ind",
+    "Indian",
+    "Inuis"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Persian"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPA",
+    "Japen",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Korean",
+    "roan"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung",
+    "Kwantung Province",
+    "kwantus rovince",
+    "Kwantung Provinoe"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America",
+    "Latin eric",
+    "Lati a rice",
+    "Latin ericun",
+    "Latin erica"
+   ]
+  },
+  {
+   "name": "Madagascar",
+   "variants": [
+    "Madagascar",
+    "adagasear"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Manchoukuo",
+    "kcuo"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchnimo",
+    "unchuriu"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Mexican",
+    "Lexican",
+    "Morico"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma",
+    "Rangoon",
+    "Ranggen"
+   ]
+  },
+  {
+   "name": "Near East",
+   "variants": [
+    "Near East",
+    "Leer East"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands East Indies",
+    "Netherlands ast In i",
+    "Notherlands Rast Indies",
+    "Retherleris Sast",
+    "Netherlands Hust Inules"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand",
+    "ow Sealand"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nicaragua",
+    "Hioeragua"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "Northern Africa",
+    "Northern frict"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Panama Canal Zone"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru",
+    "Peruvian"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philippine Islands",
+    "Philiprine Isionds",
+    "Philippine Ihande"
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "variants": [
+    "Porto Rico"
+   ]
+  },
+  {
+   "name": "Réunion",
+   "variants": [
+    "Reunion"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "shugi"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa",
+    "South Afrioa"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "Syria",
+   "variants": [
+    "Syria",
+    "yria"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Texas",
+   "variants": [
+    "Texas"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Chailal.c"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Tunisia",
+   "variants": [
+    "Tunis",
+    "wis",
+    "urit"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "nited Kinguon"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "ates",
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "variants": [
+    "Venezuela"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  }
+ ],
+ "section_summary": "This section contains two major diplomatic files regarding Japan's cotton textile industry between August 1940 and January 1943. The first is an extensive voluntary report from the American Consulate at Osaka reviewing the 1939-1940 season, analyzing production curtailment, mounting piece goods surpluses, link system controls, and raw cotton import shifts toward Brazilian growths, supported by 17 detailed statistical tables. The second is a confidential despatch from the U.S. Embassy in Buenos Aires transmitting Japanese press reports on the wartime reorganization of Japan's spinning industry under a block system and the planned transfer of surplus spindles and looms to the occupied Philippines.",
+ "subfiles": [
+  {
+   "about": "Transmittal letter explaining the submission of original and hectograph copies of a cotton situation report by airmail.",
+   "continues_previous": false,
+   "date": "1940-08-17",
+   "doc_type": "cover letter",
+   "end_page": 1,
+   "from": "John M. Allison",
+   "keywords": [
+    "airmail transmittal",
+    "postage allotment",
+    "cotton report",
+    "Department of Agriculture",
+    "Osaka consulate"
+   ],
+   "start_page": 1,
+   "summary": "Consul Allison explains submitting original and hectograph copies of the cotton report by airmail to meet Department of Agriculture deadlines.",
+   "title": "Airmail Transmittal of Report on Japan Cotton Situation",
+   "to": "Department of State"
+  },
+  {
+   "about": "Comprehensive voluntary economic report reviewing the 1939-1940 Japanese cotton season and analyzing the outlook for 1940-1941.",
+   "continues_previous": false,
+   "date": "1940-08-17",
+   "doc_type": "report",
+   "end_page": 61,
+   "from": "Walter P. McConaughy and Owen L. Dawson",
+   "keywords": [
+    "cotton manufacturing",
+    "raw cotton imports",
+    "piece goods",
+    "link system",
+    "Brazilian cotton",
+    "staple fiber",
+    "cotton prices",
+    "trade balance"
+   ],
+   "start_page": 2,
+   "summary": "The 1939-1940 Japanese cotton season experienced retrenchment, excessive unsold piece goods stocks, link system adjustments, and disruptions from the European war and sterling exchange collapse. For 1940-1941, raw cotton imports are projected to decline, with cheaper Brazilian cotton displacing American growths and yen-bloc cultivation unable to satisfy domestic and regional deficits. Seventeen appended statistical tables provide comprehensive data on raw cotton arrivals, mill purchases, wharf stocks, prices, yarn and cloth output, international trade balances, and staple fiber production and exports.",
+   "title": "Japan Cotton Situation - Review and Outlook",
+   "to": "Department of State"
+  },
+  {
+   "about": "Despatch reporting on the reorganization of Japan's cotton spinning industry under a block system and equipment transfers to occupied territories.",
+   "continues_previous": false,
+   "date": "1943-01-28",
+   "doc_type": "despatch",
+   "end_page": 63,
+   "from": "Edward L. Reed",
+   "keywords": [
+    "cotton spinning",
+    "block system",
+    "spindle curtailment",
+    "Philippines",
+    "equipment transfer",
+    "Buenos Aires embassy"
+   ],
+   "start_page": 62,
+   "summary": "Summarizes Japanese press accounts regarding spindle curtailment under a block system and plans to transfer idle spinning and weaving equipment to the Philippines and China.",
+   "title": "Proposed Reorganization of Cotton Spinning Industry in Japan and Transfer of Equipment to the Philippines",
+   "to": "The Secretary of State"
+  },
+  {
+   "about": "Translations of Japanese-language newspaper articles from Buenos Aires regarding Japan's textile industry reorganization, southern cotton cultivation, and Philippine spinning expansion.",
+   "continues_previous": false,
+   "date": "1943-01-24",
+   "doc_type": "clipping",
+   "end_page": 65,
+   "from": "Edward L. Reed",
+   "keywords": [
+    "Domei",
+    "spinning reorganization",
+    "ramie looms",
+    "cotton cultivation",
+    "Philippine self-sufficiency",
+    "East Asia Fiber Industry Association"
+   ],
+   "start_page": 64,
+   "summary": "Press translations reporting the Ministry of Commerce and Industry's block reorganization of spinning equipment, direct cotton planting by spinning firms in southern regions, and proposals to equip the Philippines with looms and spindles.",
+   "title": "Translations of Japanese Press Articles on Spinning Industry Reorganization and Transfer of Equipment",
+   "to": "The Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 57474,
+   "output_tokens": 114492,
+   "thinking_tokens": 111064,
+   "cache_read_tokens": 51911,
+   "total_tokens": 171966
+  },
+  "backend": "agy",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   65
+  ],
+  "pdf": "894.6551 Manufactures. Manufacturing., Textiles., Japan, Cotton., August 17, 1940 - January 28, 1943 1377.pdf",
+  "seconds": 333.0,
+  "created": "2026-10-05 15:46:43",
+  "key": "japan-internal-affairs-894.6551-manufactures-manufacturing-textiles-4"
+ }
+}

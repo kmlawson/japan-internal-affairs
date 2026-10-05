@@ -1,0 +1,564 @@
+{
+ "keywords": [
+  "Taiwan Government-General",
+  "colonial budget",
+  "military expenditures",
+  "air defense",
+  "industrial development",
+  "national spiritual mobilization",
+  "rice export control",
+  "port construction",
+  "resource self-sufficiency",
+  "Second Sino-Japanese War"
+ ],
+ "people": [
+  {
+   "name": "Walter P. McConaughy",
+   "role": "American Vice Consul",
+   "variants": [
+    "WPM"
+   ]
+  },
+  {
+   "name": "Gerald Warner",
+   "role": "American Consul",
+   "variants": [
+    "Gerald Warner",
+    "Consul Warner",
+    "GW"
+   ]
+  },
+  {
+   "name": "Jiro Morioka",
+   "role": "Director General of the Taiwan Government General",
+   "variants": [
+    "Director General Morioka",
+    "Morioka"
+   ]
+  },
+  {
+   "name": "Mineta",
+   "role": "Chief of the Finance Bureau of the Taiwan Government General",
+   "variants": [
+    "Mr. Mineta",
+    "Mineta"
+   ]
+  },
+  {
+   "name": "K. S. Emerson",
+   "role": "American Vice Consul",
+   "variants": [
+    "Emerson"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa",
+    "Formosan"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan proper",
+    "Japan Proper",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku",
+    "Taiholu"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Taichu",
+    "Taiohu Province",
+    "Taichu Province"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan",
+    "Tainan-shu",
+    "Tainan Provinoe",
+    "Tainan Province"
+   ]
+  },
+  {
+   "name": "Kaohsiung",
+   "variants": [
+    "Takao",
+    "Takao-shu",
+    "Takao Province",
+    "Tekao"
+   ]
+  },
+  {
+   "name": "Hualien",
+   "variants": [
+    "Karenko",
+    "Kerenko"
+   ]
+  },
+  {
+   "name": "Chiayi",
+   "variants": [
+    "Kagi"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "Keelung"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Hamacho, Keelung",
+   "variants": [
+    "Hama-cho"
+   ]
+  },
+  {
+   "name": "Haikou",
+   "variants": [
+    "Kaiko"
+   ]
+  },
+  {
+   "name": "Meinong",
+   "variants": [
+    "Mino"
+   ]
+  },
+  {
+   "name": "Chongjin",
+   "variants": [
+    "Seishin"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Lanyang River",
+   "variants": [
+    "Dakusui River"
+   ]
+  },
+  {
+   "name": "Yilan",
+   "variants": [
+    "Giran"
+   ]
+  },
+  {
+   "name": "Gaoping River",
+   "variants": [
+    "Shimo Tansui River"
+   ]
+  },
+  {
+   "name": "Beinan River",
+   "variants": [
+    "Hinandai River"
+   ]
+  },
+  {
+   "name": "Pingtung",
+   "variants": [
+    "Heito"
+   ]
+  },
+  {
+   "name": "Xinying",
+   "variants": [
+    "Shin-ei"
+   ]
+  },
+  {
+   "name": "Yanshui",
+   "variants": [
+    "Ensui"
+   ]
+  },
+  {
+   "name": "Nantou",
+   "variants": [
+    "Nanto"
+   ]
+  },
+  {
+   "name": "Anping",
+   "variants": [
+    "Anping"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China",
+    "South China area",
+    "South China Sea"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas",
+    "South Seas area"
+   ]
+  },
+  {
+   "name": "Changhua",
+   "variants": [
+    "Shoka"
+   ]
+  },
+  {
+   "name": "Taitung",
+   "variants": [
+    "Taito"
+   ]
+  },
+  {
+   "name": "Dajia",
+   "variants": [
+    "Taiko"
+   ]
+  },
+  {
+   "name": "Taipingshan",
+   "variants": [
+    "Taiheizan"
+   ]
+  },
+  {
+   "name": "Kei Port",
+   "variants": [
+    "Kei port"
+   ]
+  },
+  {
+   "name": "Xizhou",
+   "variants": [
+    "Keishu"
+   ]
+  },
+  {
+   "name": "Fangliao",
+   "variants": [
+    "Boryo"
+   ]
+  },
+  {
+   "name": "Zhutian",
+   "variants": [
+    "Takeda Station"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Orchid Island",
+   "variants": [
+    "Kotosho"
+   ]
+  },
+  {
+   "name": "Fenggang",
+   "variants": [
+    "Fuko"
+   ]
+  },
+  {
+   "name": "Luojiaku",
+   "variants": [
+    "Rokakei"
+   ]
+  },
+  {
+   "name": "Green Island",
+   "variants": [
+    "Kashoto"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Rast"
+   ]
+  },
+  {
+   "name": "Wuqi",
+   "variants": [
+    "Gosei"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Penghu",
+   "variants": [
+    "Pescadores"
+   ]
+  },
+  {
+   "name": "Xiamen",
+   "variants": [
+    "Amoy"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Hsinchu",
+   "variants": [
+    "Shinchiku"
+   ]
+  },
+  {
+   "name": "Beigang River",
+   "variants": [
+    "Hokkokei"
+   ]
+  },
+  {
+   "name": "Bazhang River",
+   "variants": [
+    "Hasshokei"
+   ]
+  },
+  {
+   "name": "Agongdian River",
+   "variants": [
+    "Akoten Kei"
+   ]
+  },
+  {
+   "name": "Gangshan",
+   "variants": [
+    "Okayama"
+   ]
+  }
+ ],
+ "section_summary": "This section contains consular reports and State Department memoranda from 1935 to 1939 regarding the annual budgets and financial conditions of the Taiwan Government-General. The records document record-setting colonial expenditures driven by industrial development, transportation and port expansion (notably at Gosei and Karenko), public health, and state monopoly enterprises. As the Second Sino-Japanese War escalated, the budgets increasingly prioritized emergency air defense, national spiritual mobilization, resource self-sufficiency through substitute materials, and large transfers to Japan's extraordinary military accounts.",
+ "subfiles": [
+  {
+   "about": "Voluntary consular report presenting the preliminary budget estimates and principal projected new enterprises of the Taiwan Government-General for the 1935-1936 fiscal year.",
+   "continues_previous": true,
+   "date": "1935",
+   "doc_type": "report",
+   "end_page": 85,
+   "from": "Walter P. McConaughy",
+   "keywords": [
+    "Taiwan budget",
+    "Taiwan Government-General",
+    "Taihoku Imperial University",
+    "camphor",
+    "Keelung port",
+    "industrial development"
+   ],
+   "start_page": 81,
+   "summary": "Consular report on the balanced 118.98 million yen budget for fiscal year 1935–1936, detailing revenues, expenditures, and funding for new enterprises including education, communications, transportation subsidies, police expansion, and industrial development.",
+   "title": "Preliminary Budget Estimates of the Taiwan Government General for the Fiscal Year Beginning April 1, 1935",
+   "to": "Department of State"
+  },
+  {
+   "about": "State Department memorandum summarizing Taihoku's consular report on Taiwan's preliminary 1938 budget estimates.",
+   "continues_previous": false,
+   "date": "1938-02-14",
+   "doc_type": "memorandum",
+   "end_page": 86,
+   "from": "Division of Far Eastern Affairs",
+   "keywords": [
+    "Taiwan budget",
+    "Division of Far Eastern Affairs",
+    "Takao industrial zone",
+    "military transfers"
+   ],
+   "start_page": 86,
+   "summary": "Brief memorandum summarizing Taiwan's record 175 million yen 1938 budget, noting industrial subsidies, language study, and military transfers.",
+   "title": "Memorandum on Preliminary Budget Estimates for Taiwan for 1938",
+   "to": "Department of State"
+  },
+  {
+   "about": "Voluntary consular report analyzing the record 1938 budget estimates and major new enterprise expenditures of the Taiwan Government-General.",
+   "continues_previous": false,
+   "date": "1938-01-14",
+   "doc_type": "report",
+   "end_page": 95,
+   "from": "Gerald Warner",
+   "keywords": [
+    "Taiwan budget",
+    "Gerald Warner",
+    "Jiro Morioka",
+    "Takao",
+    "national spiritual mobilization",
+    "military budget transfer",
+    "oil exploration"
+   ],
+   "start_page": 87,
+   "summary": "Consular report transmitting preliminary budget estimates of over 175 million yen for fiscal year 1938–1939, representing the largest expenditure in Taiwan's history. It includes statements by Director General Morioka highlighting national defense policies and industrial adjustment, alongside detailed appropriation schedules for police, health, education, oil exploration, railway double-tracking, aviation subsidies, and an 11.67 million yen transfer to military accounts.",
+   "title": "Preliminary Budget Estimates of the Taiwan Government General for the Fiscal Year Beginning April 1, 1938",
+   "to": "Department of State"
+  },
+  {
+   "about": "Voluntary consular report reviewing the second supplementary budget of the Taiwan Government-General for the 1938 fiscal year.",
+   "continues_previous": false,
+   "date": "1938-03-31",
+   "doc_type": "report",
+   "end_page": 100,
+   "from": "Gerald Warner",
+   "keywords": [
+    "supplementary budget",
+    "Gerald Warner",
+    "Kashoto lighthouse",
+    "SS President Hoover",
+    "air defense",
+    "war mobilization"
+   ],
+   "start_page": 96,
+   "summary": "Report detailing Taiwan's second supplementary budget of 4.78 million yen for 1938, featuring funds for a Kashoto lighthouse following the SS President Hoover shipwreck, emergency air defense, and war-related replacements.",
+   "title": "Second Supplementary Budget of the Taiwan Government General for the 1938 Fiscal Year Beginning April 1, 1938",
+   "to": "Department of State"
+  },
+  {
+   "about": "State Department memorandum analyzing Taiwan's preliminary 1939 budget estimates with emphasis on self-sufficiency and substitute materials.",
+   "continues_previous": false,
+   "date": "1939-02-24",
+   "doc_type": "memorandum",
+   "end_page": 102,
+   "from": "Division of Far Eastern Affairs",
+   "keywords": [
+    "Far Eastern Affairs",
+    "Taiwan budget",
+    "substitute materials",
+    "national self-sufficiency",
+    "South China"
+   ],
+   "start_page": 101,
+   "summary": "Division of Far Eastern Affairs memorandum analyzing Taiwan's record 203 million yen 1939 budget, highlighting appropriations for self-sufficiency, synthetic substitutes, and an undisclosed fund for South China.",
+   "title": "Memorandum on Taiwan Preliminary Budget Estimates for the Fiscal Year Beginning April 1, 1939",
+   "to": "Department of State"
+  },
+  {
+   "about": "Comprehensive voluntary consular report analyzing the Taiwan Government-General's record 1939 budget estimates and wartime economic policies.",
+   "continues_previous": false,
+   "date": "1939-01-17",
+   "doc_type": "report",
+   "end_page": 116,
+   "from": "Gerald Warner",
+   "keywords": [
+    "Taiwan budget",
+    "Gerald Warner",
+    "Mineta",
+    "Gosei port",
+    "rice export control",
+    "military expenditure transfer",
+    "Karenko",
+    "substitute fuels"
+   ],
+   "start_page": 103,
+   "summary": "Consular report on the unprecedented 203.22 million yen budget of the Taiwan Government-General for fiscal year 1939–1940, approved following negotiations in Tokyo by Finance Bureau Chief Mineta. The budget features a 16.22 million yen transfer to extraordinary military expenses, 3.2 million yen for air defense, a new special account for rice export control, and 3 million yen toward constructing a major commercial seaport at Gosei. Detailed tables itemize expenditures across spiritual mobilization, substitute fuels, Karenko port facilities, and monopoly industries.",
+   "title": "Preliminary Budget Estimates of the Taiwan Government General for the Fiscal Year Beginning April 1, 1939",
+   "to": "Department of State"
+  },
+  {
+   "about": "Cross-reference file note directing to a December 4, 1939 report from Taihoku concerning an investigation of Taiwan by Japanese bankers.",
+   "continues_previous": false,
+   "date": "1939-12-04",
+   "doc_type": "cross-reference sheet",
+   "end_page": 117,
+   "from": "K. S. Emerson",
+   "keywords": [
+    "cross-reference",
+    "Japanese bankers",
+    "Taiwan",
+    "Emerson",
+    "Taihoku"
+   ],
+   "start_page": 117,
+   "summary": "Cross-reference file note for a December 4, 1939 Taihoku report by Emerson regarding Japanese bankers investigating Taiwan.",
+   "title": "Cross-Reference File Note: Investigation of Taiwan by Japanese Bankers",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 28860,
+   "output_tokens": 46318,
+   "thinking_tokens": 43445,
+   "cache_read_tokens": 0,
+   "total_tokens": 75178
+  },
+  "backend": "agy",
+  "section": 2,
+  "sections": 2,
+  "pages": [
+   81,
+   117
+  ],
+  "pdf": "894A.51 Formosa. Taiwan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., November 4, 1930 - December 4, 1939 1153.pdf",
+  "seconds": 157.1,
+  "created": "2026-10-05 15:00:17",
+  "key": "japan-internal-affairs-894a.51-formosa-taiwan-financial-3"
+ }
+}

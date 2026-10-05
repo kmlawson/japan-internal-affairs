@@ -1,0 +1,35 @@
+{
+ "interest": "Provides granular South Manchuria Railway data on bean oil extraction technology, mill costs, and regional chemical manufacturing.",
+ "keywords": [
+  "Kwantung Leased Territory",
+  "Manchuria",
+  "Dairen",
+  "Soybean industry",
+  "Bean oil extraction",
+  "South Manchuria Railway Company",
+  "Bean cake",
+  "Roy H. Akagi",
+  "Stuart E. Grummon",
+  "Ammonium sulphate",
+  "Chemical manufacturing",
+  "Mill construction costs"
+ ],
+ "overview": "This file contains U.S. consular despatches and State Department records from 1932 to 1936 documenting the soybean and chemical industries in Dairen and the Kwantung Leased Territory. It features an extensive 1936 South Manchuria Railway Company report on Manchurian bean oil extraction technologies, byproduct processing, mill construction costs, and trade statistics, alongside a 1932 memorandum examining local ammonium sulphate production capacity and markets.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 12618,
+   "output_tokens": 3526,
+   "thinking_tokens": 3291,
+   "cache_read_tokens": 0,
+   "total_tokens": 16144
+  },
+  "backend": "agy",
+  "pdf": "894C.6583 Manufactures. Manufacturing., Foods; Packing., Kwantung Leased Territory, Edible Fats, Not Dairy Products., December 22, 1932 765.pdf",
+  "pages": 43,
+  "sections": 1,
+  "seconds": 24.0,
+  "created": "2026-10-05 15:19:49",
+  "key": "japan-internal-affairs-894c.6583-manufactures-manufacturing-foods-2"
+ }
+}
