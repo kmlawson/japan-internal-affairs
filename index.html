@@ -102,6 +102,7 @@ a{color:var(--accent)}
 .cols a{text-decoration:none;color:var(--ink);font-size:14px}.cols a:hover{color:var(--accent)}
 .cols span{color:var(--muted);font:12px system-ui,sans-serif}
 .toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:0 0 14px;padding-top:4px}.toolbar .meta{flex:1;min-width:180px}.toolbar #rev{min-width:38px;padding:7px 0;font-size:16px;line-height:1}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}.seg button{border:0;border-radius:0;padding:6px 11px;font:13px system-ui,sans-serif;background:transparent;color:var(--muted)}.seg button.on{background:var(--accent);color:#fff}
 .toolbar label{font:13px system-ui,sans-serif;color:var(--muted);display:flex;gap:6px;align-items:center}
 @media (max-width:640px){.toolbar label{flex:1}.toolbar select{flex:1}}
 .pager{display:flex;gap:8px;align-items:center;margin:16px 0;flex-wrap:wrap}
@@ -222,7 +223,8 @@ function titleDates(t){ const out=[]; const rx=/\b(January|February|March|April|
   return out.length ? out.slice(0,2).join(' – ') : ''; }
 function era(db){ const d = db.split(' – ')[0].split('.').map(Number); const v = d[0]*10000 + d[1]*100 + (d[2]||0);
   return v < 19411200 ? ['e1','Pre-war (to November 1941)'] : v <= 19450815 ? ['e2','Pacific War (December 1941 – 15 August 1945)'] : ['e3','Occupation (from 16 August 1945)']; }
-const S = {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'};
+let FLAT0 = false; try { FLAT0 = sessionStorage.getItem('jiaFlat') === '1'; } catch (_) {}
+const S = {flat:FLAT0, q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'};
 // search syntax: plain words / "phrases" match anywhere; field:value restricts to one field
 // (name:/title: person: place:/location: keyword: summary: from: to:); year:1936 or year:1930-1935 matches overlapping dates
 const FIELDS = {name:'t', title:'t', person:'pe', people:'pe', place:'pl', location:'pl', keyword:'k', kw:'k', summary:'sum', from:'fr', to:'to', year:'yr'};
@@ -271,12 +273,29 @@ function searchTerms(kind, v){
   return t.map(w => w.toLowerCase());
 }
 
+// ---- "Documents" view: every sub-file listed on its own (files stay the default) ----
+let ALLSUB = null;
+function subYear(e){ const y = +(e.s.d || '').slice(0, 4); return y > 1800 ? [y, y] : e.x.y; }
+function filteredDocs(){
+  if (!ALLSUB) ALLSUB = D.flatMap(x => x.sub.map((s, i) => ({x, s, i, b: [s.t, s.a, s.s, s.fr, s.to, s.ty, s.k.join(' ')].join(' ').toLowerCase()})));
+  const pq = parseQ(S.q), ts = terms();
+  let r = ALLSUB.filter(e => { const y = subYear(e), np = (e.s.p[1] || e.s.p[0]) - e.s.p[0] + 1;
+    return np >= S.minpg && (!S.cls || e.x.c === S.cls) && (!S.yr || (y && y[0] <= +S.yr.split('-')[1] && +S.yr.split('-')[0] <= y[1]))
+      && subMatch(e.s, pq) && pq.f.every(([k, v]) => k !== 'pl' || e.x.fb.pl.includes(v)); });
+  if (S.facet){ const [k, v] = S.facet; r = r.filter(e => k === 'k' ? e.s.k.includes(v) : k === 'pe' ? e.x.pe.some(p => p[0] === v) : e.x.pl.some(p => p[0] === v)); }
+  const hits = e => ts.reduce((n, t) => n + e.b.split(t).length - 1, 0), date = e => e.s.d || (e.x.y ? String(e.x.y[0]) : '9999');
+  const key = {year: e => [date(e), e.x.n, e.i], title: e => [(e.s.t || '').toLowerCase(), e.x.n, e.i], pages: e => [-(e.s.p[1] - e.s.p[0]), e.x.n, e.i],
+    docs: e => [date(e), e.x.n, e.i], subject: e => [e.x.c, e.x.dec, date(e), e.i], dec: e => [e.x.dec, date(e), e.x.n, e.i], hits: e => [-hits(e), date(e)]}[S.sort];
+  r.sort((a, b) => { const A = key(a), B = key(b); for (let i = 0; i < A.length; i++){ if (A[i] < B[i]) return -1; if (A[i] > B[i]) return 1; } return 0; });
+  return S.rev ? r.reverse() : r; }
+const viewToggle = () => `<span class="seg" role="group" aria-label="List files or documents"><button type="button" data-flat="0" class="${S.flat ? '' : 'on'}" title="Files, with their documents grouped under them">Files</button><button type="button" data-flat="1" class="${S.flat ? 'on' : ''}" title="Every document listed on its own, with a link to its file">Documents</button></span>`;
 function listView(){
+  if (S.flat) return docsView();
   const r = filtered(), per = S.per, pages = Math.ceil(r.length/per); S.page = Math.min(S.page, Math.max(0,pages-1));
   const ts = terms();
   const facetNote = S.facet ? `<p class="meta">Filtered by ${ {pe:'person',pl:'place',k:'keyword'}[S.facet[0]] }: <b>${esc(S.facet[1])}</b> — <a href="#">clear</a></p>` : '';
   const opt = (v,l,cur) => `<option value="${v}"${String(cur)===String(v)?' selected':''}>${l}</option>`;
-  main.innerHTML = facetNote + `<div class="toolbar"><span class="meta">${r.length} of ${D.length} files${D.length < EXPECTED ? ' (cataloguing in progress: '+D.length.toLocaleString()+' of '+EXPECTED.toLocaleString()+' done)' : ''}</span>
+  main.innerHTML = facetNote + `<div class="toolbar">${viewToggle()}<span class="meta">${r.length} of ${D.length} files${D.length < EXPECTED ? ' (cataloguing in progress: '+D.length.toLocaleString()+' of '+EXPECTED.toLocaleString()+' done)' : ''}</span>
     <label>Sort <select id="sort">${[['year','Year'],['title','Title'],['pages','Number of pages'],['docs','Number of documents'],['subject','Subject'],['dec','Decimal number'],['hits','Relevance (search)']].map(([v,l])=>opt(v,l,S.sort)).join('')}</select>
       <button id="rev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${S.rev ? '↑' : '↓'}</button></label>
     <label>Min. pages <select id="minpg">${[[0,'Any'],[2,2],[4,4],[6,6],[10,10],[20,20],[50,50],[100,100]].map(([v,l])=>opt(v,l,S.minpg)).join('')}</select></label>
@@ -289,6 +308,10 @@ function listView(){
       <p>${hl(x.o)}${x.sk ? '' : LLM}</p>${subhits.map(s => `<div class="subhit"><b><a href="#d/${esc(x.id)}/doc/${x.sub.indexOf(s)+1}">${hl(s.t)}</a></b> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span><br>${hl(s.a)}${LLM}</div>`).join('')}
       <div class="chips">${chipsU('f|'+x.id)}${chipsPe(x,6)}${chipsPl(x,6)}</div></div>`; }).join('') +
     (pages > 1 ? `<div class="pager"><button id="prev" ${S.page?'':'disabled'}>← Prev</button><span class="meta">Page ${S.page+1} of ${pages}</span><button id="next" ${S.page<pages-1?'':'disabled'}>Next →</button></div>` : '');
+  listControls(); }
+function listControls(){
+  document.querySelectorAll('.seg [data-flat]').forEach(b => b.addEventListener('click', () => { S.flat = b.dataset.flat === '1'; S.page = 0;
+    try { sessionStorage.setItem('jiaFlat', S.flat ? '1' : ''); } catch (_) {} listView(); }));
   $('#sort').addEventListener('change', e => { S.sort = e.target.value; S.page = 0; listView(); });
   $('#rev').addEventListener('click', () => { S.rev = !S.rev; S.page = 0; listView(); });
   $('#minpg').addEventListener('change', e => { S.minpg = +e.target.value; S.page = 0; listView(); });
@@ -296,6 +319,22 @@ function listView(){
   $('#prev')?.addEventListener('click', () => { S.page--; listView(); scrollTo(0,0); });
   $('#next')?.addEventListener('click', () => { S.page++; listView(); scrollTo(0,0); });
 }
+function docsView(){
+  const r = filteredDocs(), per = S.per, pages = Math.ceil(r.length / per); S.page = Math.min(S.page, Math.max(0, pages - 1));
+  const facetNote = S.facet ? `<p class="meta">Filtered by ${ {pe:'person',pl:'place',k:'keyword'}[S.facet[0]] }: <b>${esc(S.facet[1])}</b> — <a href="#">clear</a></p>` : '';
+  const opt = (v, l, cur) => `<option value="${v}"${String(cur) === String(v) ? ' selected' : ''}>${l}</option>`;
+  main.innerHTML = facetNote + `<div class="toolbar">${viewToggle()}<span class="meta">${r.length.toLocaleString()} of ${ALLSUB.length.toLocaleString()} documents</span>
+    <label>Sort <select id="sort">${[['year','Date'],['title','Title'],['pages','Number of pages'],['subject','Subject'],['dec','Decimal number'],['hits','Relevance (search)']].map(([v,l]) => opt(v, l, S.sort)).join('')}</select>
+      <button id="rev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${S.rev ? '↑' : '↓'}</button></label>
+    <label>Min. pages <select id="minpg">${[[0,'Any'],[2,2],[4,4],[6,6],[10,10],[20,20],[50,50],[100,100]].map(([v,l]) => opt(v, l, S.minpg)).join('')}</select></label>
+    <label>Show <select id="per">${[50,100,200,500,1000].map(n => opt(n, n, S.per)).join('')}</select></label></div>` +
+    r.slice(S.page * per, S.page * per + per).map(({x, s, i}) => { const d = /^\d{4}-\d\d(-\d\d)?$/.test(s.d || '') ? s.d.replace(/-/g, '.') : '';
+      return `<div class="card" data-mk="s|${esc(x.id)}|${i + 1}"><div class="cardhead"><h2><a href="#d/${esc(x.id)}/doc/${i + 1}">${hl(s.t)}</a></h2>${d ? `<span class="datebub ${era(d)[0]}" title="${era(d)[1]}">${d}</span>` : ''}</div>
+      <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr ? ' · from ' + hl(s.fr) : ''}${s.to ? ' · to ' + hl(s.to) : ''}</div>
+      <div class="meta">In file: <a href="#d/${esc(x.id)}/doc/${i + 1}">${esc(x.t)}</a> · ${esc(x.c)} · document ${i + 1} of ${x.sub.length}</div>
+      <p>${hl(s.a)}${LLM}</p><div class="chips">${chipsU(`s|${x.id}|${i + 1}`)}${chipsK(x, s.k)}</div></div>`; }).join('') +
+    (pages > 1 ? `<div class="pager"><button id="prev" ${S.page ? '' : 'disabled'}>← Prev</button><span class="meta">Page ${S.page + 1} of ${pages}</span><button id="next" ${S.page < pages - 1 ? '' : 'disabled'}>Next →</button></div>` : '');
+  listControls(); }
 function detailView(id, kind, term){
   const x = D.find(x => x.id === id); if (!x){ main.innerHTML = '<p>Not found.</p>'; return; }
   const pgN = kind === 'pg' ? +term : null, docN = kind === 'doc' ? +term : null; if (pgN || docN) { kind = null; term = null; }
