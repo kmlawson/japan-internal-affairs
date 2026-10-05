@@ -139,7 +139,8 @@ button:disabled{opacity:.4;cursor:default}
 .sub{scroll-margin-top:190px}
 .sub.onpage .chip:not(.utag){background:color-mix(in srgb,var(--accent) 20%,var(--chip))}
 .sub.onpage{background:var(--chip);margin:0 -10px;padding:12px 10px;border-radius:8px}
-.ftx{font-size:14.5px}
+.ftx{font-size:14.5px}.ftlink{white-space:nowrap}.fthit{margin:6px 0 0;padding-left:10px;border-left:2px solid var(--line)}.ftdesc{margin:4px 0 2px;font-size:14.5px}.spbadge{font:600 11px/1.6 system-ui,sans-serif;color:#8a5a00;background:#fbe9b7;border-radius:8px;padding:1px 7px;text-decoration:none;vertical-align:2px;white-space:nowrap}
+.fthist{display:flex;align-items:flex-end;gap:2px;margin:-4px 0 14px;overflow-x:auto}.fthist button{display:flex;flex-direction:column;align-items:center;gap:2px;border:0;background:none;padding:0 1px;min-width:18px;cursor:pointer}.fthist i{display:block;width:14px;background:var(--accent);opacity:.55;border-radius:2px 2px 0 0}.fthist button.on i,.fthist button:hover i{opacity:1}.fthist span{font:10px system-ui,sans-serif;color:var(--muted)}
 .subhit{font-size:14px;margin:6px 0 0;padding-left:10px;border-left:2px solid var(--accent)}
 .subhit b a{color:var(--ink);text-decoration:none}.subhit b a:hover{color:var(--accent);text-decoration:underline}
 p{overflow-wrap:break-word}
@@ -224,7 +225,7 @@ function titleDates(t){ const out=[]; const rx=/\b(January|February|March|April|
 function era(db){ const d = db.split(' – ')[0].split('.').map(Number); const v = d[0]*10000 + d[1]*100 + (d[2]||0);
   return v < 19411200 ? ['e1','Pre-war (to November 1941)'] : v <= 19450815 ? ['e2','Pacific War (December 1941 – 15 August 1945)'] : ['e3','Occupation (from 16 August 1945)']; }
 let FLAT0 = false; try { FLAT0 = sessionStorage.getItem('jiaFlat') === '1'; } catch (_) {}
-const S = {flat:FLAT0, q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'};
+const S = {flat:FLAT0, q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:'doc', ftType:'', ftSort:'rel', fsort:'n'};
 // search syntax: plain words / "phrases" match anywhere; field:value restricts to one field
 // (name:/title: person: place:/location: keyword: summary: from: to:); year:1936 or year:1930-1935 matches overlapping dates
 const FIELDS = {name:'t', title:'t', person:'pe', people:'pe', place:'pl', location:'pl', keyword:'k', kw:'k', summary:'sum', from:'fr', to:'to', year:'yr'};
@@ -331,7 +332,7 @@ function docsView(){
     r.slice(S.page * per, S.page * per + per).map(({x, s, i}) => { const d = /^\d{4}-\d\d(-\d\d)?$/.test(s.d || '') ? s.d.replace(/-/g, '.') : '';
       return `<div class="card" data-mk="s|${esc(x.id)}|${i + 1}"><div class="cardhead"><h2><a href="#d/${esc(x.id)}/doc/${i + 1}">${hl(s.t)}</a></h2>${d ? `<span class="datebub ${era(d)[0]}" title="${era(d)[1]}">${d}</span>` : ''}</div>
       <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr ? ' · from ' + hl(s.fr) : ''}${s.to ? ' · to ' + hl(s.to) : ''}</div>
-      <div class="meta">In file: <a href="#d/${esc(x.id)}/doc/${i + 1}">${esc(x.t)}</a> · ${esc(x.c)} · document ${i + 1} of ${x.sub.length}</div>
+      <div class="meta">In file: <a href="#d/${esc(x.id)}/doc/${i + 1}">${esc(x.t)}</a> · ${esc(x.c)} · document ${i + 1} of ${x.sub.length} · ID <code>${sid(x)}.${i + 1}</code> · ${ftLink(x, i + 1)}</div>
       <p>${hl(s.a)}${LLM}</p><div class="chips">${chipsU(`s|${x.id}|${i + 1}`)}${chipsK(x, s.k)}</div></div>`; }).join('') +
     (pages > 1 ? `<div class="pager"><button id="prev" ${S.page ? '' : 'disabled'}>← Prev</button><span class="meta">Page ${S.page + 1} of ${pages}</span><button id="next" ${S.page < pages - 1 ? '' : 'disabled'}>Next →</button></div>` : '');
   listControls(); }
@@ -347,8 +348,8 @@ function detailView(id, kind, term){
   const banner = term ? `<div class="infile">Searching this file for <b>${esc(term)}</b> <span class="meta">(${ {pe:'person',pl:'place',k:'keyword',q:'text'}[kind] })</span>:
      ${hits} of ${x.sub.length} documents mention it. <a href="#d/${x.id}">Clear</a></div>` : '';
   main.innerHTML = `<a class="back" href="javascript:history.length>1?history.back():location.hash=''">← Back to files</a><div class="card" data-mk="f|${esc(x.id)}"><h2>${esc(x.t)}</h2>
-   <div class="meta">${esc(x.c)} · decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} ·
-   <a href="${IAX(x)}" target="_blank">archive.org</a></div>
+   <div class="meta">${esc(x.c)} · decimal ${esc(x.dec)} · file ${x.n} · ID <code>${sid(x)}</code> · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} ·
+   <a href="${IAX(x)}" target="_blank">archive.org</a> · ${ftLink(x)}</div>
    ${banner}
    <div class="label">Overview</div><p>${H(x.o)}${x.sk ? '' : LLM}</p>
    ${x.sk ? (chipsU('f|'+x.id) ? `<div class="label">Your tags</div><div class="chips">${chipsU('f|'+x.id)}</div>` : '') + '<p class="meta">The full text of this file is searchable under Full-text search.</p></div>' : `<div class="label">What is interesting, unique or useful</div><p>${H(x.i)}${LLM}</p>
@@ -357,7 +358,7 @@ function detailView(id, kind, term){
    <div class="label">Places</div><div class="chips">${chipsPl(x, 9999) || '<span class="meta">none</span>'}</div>
    <div class="label">Documents in this file${term ? ` — ${hits} mention ${esc(term)}` : ''}</div>
    ${x.sub.map((s,i) => (!term || hit(s)) ? `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub${term ? ' match' : ''}${(docN ? docN === i+1 : pgN && s.p[0] <= pgN && pgN <= s.p[1]) ? ' onpage' : ''}"><h3><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${H(s.t)}</a></h3>
-     <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''}</div>
+     <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''} · ID <code>${sid(x)}.${i+1}</code> · ${ftLink(x, i+1)}</div>
      <p><i>${H(s.a)}</i>${LLM}</p><p>${H(s.s)}${LLM}</p><div class="chips">${chipsU(`s|${x.id}|${i+1}`)}${chipsK(x, s.k)}</div></div>`
      : `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub nomatch"><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${esc(s.t)}</a> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span></div>`).join('')}
   </div>`}<p class="meta">Catalogue entries are machine-generated from OCR text and may contain errors. Mention counts are shown when greater than 3.</p>`;
@@ -372,59 +373,145 @@ async function getPF(){
   await PF.options({ excerptLength: 45 }); PF.init(); return PF;
 }
 function yearList(r){ if (!r) return null; const [a,b] = r.split('-').map(Number); const o = []; for (let y=a; y<=b; y++) o.push(String(y)); return o; }
+// query syntax for full text: words and "phrases" (all must match), -word or -"phrase" to exclude, OR between
+// alternatives, and filters year:1936 / year:1930-1935, type:telegram, subject:military, decimal:894.00
+const FTF = {year: 'year', type: 'type', subject: 'subject', decimal: 'decimal', dec: 'decimal', in: 'in', file: 'in', doc: 'in'};
+// short ids: State Department decimal + "-" + file number (unique), "-N" for part N of a split file, and
+// "." + the document's number for a document, e.g. 894A.00-1181, 894.00-1645-2, 894A.00-1181.21
+const fpart = x => (x.id.match(/-part-(\d+)$/) || [])[1];
+const sid = x => `${x.dec}-${x.n}${fpart(x) ? '-' + fpart(x) : ''}`;
+let SIDM = null;
+const bySid = v => { if (!SIDM) SIDM = new Map(D.map(x => [x.n + (fpart(x) ? '-' + fpart(x) : ''), x]));  // the decimal part is optional when typing
+  const m = String(v).match(/^(?:[^\s-]+-)?(\d+(?:-\d+)?)(?:\.(\d+))?$/); const x = m && SIDM.get(m[1]); return x ? [x, m[2] ? +m[2] : null] : [null, null]; };
+const ftLink = (x, i) => `<a class="ftlink" href="#fulltext/${encodeURIComponent('in:' + sid(x) + (i ? '.' + i : ''))}" title="Search the OCR text of ${i ? 'this document' : 'this file'} only">Search full text</a>`;
+function ftParse(q){
+  const out = {alts: [[]], not: [], f: {}, nf: {}};
+  for (const t of q.match(/-?\w+:(?:"[^"]*"|\S+)|-?"[^"]+"|\S+/g) || []){
+    const neg = t.length > 1 && t[0] === '-', body = neg ? t.slice(1) : t, m = body.match(/^(\w+):(.+)$/);
+    if (m && FTF[m[1].toLowerCase()]){ const k = FTF[m[1].toLowerCase()]; (neg ? out.nf : out.f)[k] = [...((neg ? out.nf : out.f)[k] || []), m[2].replace(/"/g, '')]; continue; }
+    if (body === 'OR' && !neg){ out.alts.push([]); continue; }
+    if (neg) out.not.push(body); else out.alts[out.alts.length - 1].push(body); }
+  out.alts = out.alts.filter((a, i) => a.length || i === 0);
+  out.simple = out.alts.length === 1 && !out.not.length;
+  return out; }
+// turn parsed field filters into Pagefind filters, matching typed values against the index's own values
+function ftFilters(qp, all){
+  const f = {}, any = (k, vals) => { const known = Object.keys(all[k] || {}); const hit = new Set();
+    for (const v of vals){ const lv = v.toLowerCase();
+      if (k === 'year'){ const y = v.match(/^(\d{4})(?:\s*[-–]\s*(\d{4}))?$/); if (y) for (let n = +y[1]; n <= +(y[2] || y[1]); n++) hit.add(String(n)); continue; }
+      known.filter(kv => k === 'decimal' ? kv.toLowerCase() === lv || kv.toLowerCase().startsWith(lv) : kv.toLowerCase().includes(lv)).forEach(kv => hit.add(kv)); }
+    return [...hit]; };
+  if (S.cls) f.subject = S.cls;
+  if (S.yr) f.year = {any: yearList(S.yr)};
+  if (S.ftType) f.type = S.ftType;
+  const and = [];
+  for (const [k, vals] of Object.entries(qp.f)){
+    if (k === 'in'){ const docs = [], subsf = []; vals.forEach(v => { const [x, i] = bySid(v); if (x) (i ? subsf.push(x.id + '#' + i) : docs.push(x.id)); });
+      if (docs.length) and.push({doc: {any: docs}}); if (subsf.length) and.push({sub: {any: subsf}}); if (!docs.length && !subsf.length) and.push({doc: {any: ['\u0000none']}}); continue; }
+    const v = any(k, vals); and.push({[k]: {any: v.length ? v : ['\u0000none']}}); }
+  const not = [];
+  for (const [k, vals] of Object.entries(qp.nf)){ const v = any(k, vals); if (v.length) not.push({[k]: {any: v}}); }
+  if (and.length) f.all = and;
+  if (not.length) f.not = not.length === 1 ? not[0] : {any: not};
+  return f; }
+// run a parsed query: union of the OR alternatives, minus pages matching any excluded term
+async function ftRun(pf, qp, filters, sort){
+  const runs = await Promise.all(qp.alts.map(a => pf.search(a.length ? a.join(' ') : null, {filters, sort})));
+  let results = runs[0].results;
+  if (runs.length > 1){ const m = new Map(); runs.forEach(r => r.results.forEach(x => { const o = m.get(x.id); if (!o || x.score > o.score) m.set(x.id, x); }));
+    results = [...m.values()].sort((a, b) => b.score - a.score); }
+  if (qp.not.length){ const ex = await Promise.all(qp.not.map(t => pf.search(t, {filters})));
+    const bad = new Set(ex.flatMap(r => r.results.map(x => x.id))); results = results.filter(x => !bad.has(x.id)); }
+  return {results, counts: qp.simple ? runs[0].filters : null}; }
+const SPIX = new Map();  // "<file id>#<doc no.>" -> Spotlight entry
 async function ftView(){
   const q = S.q.trim(), token = ++FTQ;
   if (location.protocol === 'file:'){ main.innerHTML = `<div class="card"><h2>Full-text search</h2><p>Full-text search works when the site is served from a web server. To try it on this computer, run <code>python3 -m http.server</code> in this folder and open <code>http://localhost:8000</code>.</p></div>`; return; }
-  if (!q){ main.innerHTML = `<div class="card"><h2>Full-text search</h2><p>Search the OCR text of every page (${D.length ? 'about ' + (Math.round(D.reduce((n,x)=>n+x.pg,0)/1000)*1000).toLocaleString() + ' pages' : ''}). Use the box above; the subject and year menus narrow the results. Results link to the page on archive.org and to the file's catalogue entry.</p>
-    <p class="meta">The text is machine OCR and contains misreadings, so try variant spellings. Wrap a phrase in "quotes" to match it exactly.</p></div>`; return; }
+  if (!q && !S.ftType){ main.innerHTML = `<div class="card"><h2>Full-text search</h2><p>Search the OCR text of every page (${D.length ? 'about ' + (Math.round(D.reduce((n,x)=>n+x.pg,0)/1000)*1000).toLocaleString() + ' pages' : ''}). Results are grouped by document; switch to pages or files in the toolbar.</p>
+    <p class="meta">The text is machine OCR and contains misreadings, so try variant spellings. Syntax: <code>"exact phrase"</code>, <code>-exclude</code>, <code>Formosa OR Taiwan</code>, and filters <code>year:1936</code> or <code>year:1930-1935</code>, <code>type:telegram</code>, <code>subject:military</code>, <code>decimal:894.00</code>, and <code>in:894A.00-1181</code> (one file, by its ID; <code>in:1181</code> also works) or <code>in:894A.00-1181.21</code> (one document) (put <code>-</code> before a filter to exclude it).</p></div>`; return; }
   main.innerHTML = `<p class="meta">Searching…</p>`;
   let pf; try { pf = await getPF(); } catch(e){ main.innerHTML = `<p class="meta">Full-text index could not be loaded.</p>`; return; }
-  const filters = {}; if (S.cls) filters.subject = S.cls; if (S.yr) filters.year = { any: yearList(S.yr) };
+  if (!SPIX.size) SP.forEach(e => SPIX.set(e.file + '#' + e.seq, e));
+  const all = await pf.filters(); if (token !== FTQ) return;
+  const qp = ftParse(q), filters = ftFilters(qp, all), mode = S.ftGroup || 'doc';
   const DM = new Map(D.map(x => [x.id, x]));
+  const sortOpt = S.ftSort === 'rel' ? undefined : {date: S.ftSort};
+  const {results, counts: c0} = await ftRun(pf, qp, filters, mode === 'page' ? sortOpt : undefined); if (token !== FTQ) return;
+  // per-document / per-file / per-year counts: from Pagefind for simple queries, else from the hits' metadata (first 3,000)
+  let counts = c0, partial = false;
+  if (!counts){ counts = {sub: {}, doc: {}, year: {}}; const cap = results.slice(0, 3000); partial = results.length > cap.length;
+    const ds = await Promise.all(cap.map(r => r.data())); if (token !== FTQ) return;
+    ds.forEach(d => { const k = d.meta.id + '#' + (d.meta.seq || 0); counts.sub[k] = (counts.sub[k] || 0) + 1; counts.doc[d.meta.id] = (counts.doc[d.meta.id] || 0) + 1;
+      const m = String(d.meta.sortdate || '').slice(0, 4); }); }
+  const nz = o => Object.entries(o || {}).filter(([, n]) => n > 0);
+  const subs = nz(counts.sub), files = nz(counts.doc), yrs = nz(counts.year).map(([y]) => +y).filter(y => y > 1800).sort((a, b) => a - b);
+  const docsN = subs.filter(([k]) => !k.endsWith('#0')).length, outside = subs.filter(([k]) => k.endsWith('#0')).reduce((n, [, v]) => n + v, 0);
+  const summary = `${results.length.toLocaleString()} page${results.length === 1 ? '' : 's'} in ${docsN.toLocaleString()} document${docsN === 1 ? '' : 's'}${outside ? ` (+${outside.toLocaleString()} on uncatalogued pages)` : ''} across ${files.length.toLocaleString()} file${files.length === 1 ? '' : 's'}${yrs.length ? `, ${yrs[0]}${yrs.length > 1 && yrs[yrs.length - 1] !== yrs[0] ? '–' + yrs[yrs.length - 1] : ''}` : ''}${partial ? ' (counts from the first 3,000 pages)' : ''}`;
+  // year histogram, clickable
+  const yc = nz(counts.year).filter(([y]) => +y >= 1890 && +y <= 1955).map(([y, n]) => [+y, n]).sort((a, b) => a[0] - b[0]);
+  const ymax = Math.max(1, ...yc.map(v => v[1]));
+  const hist = yc.length > 1 ? `<div class="fthist" aria-label="Matching pages by year">${yc.map(([y, n]) => `<button type="button" data-y="${y}" title="${y}: ${n.toLocaleString()} pages" class="${S.yr === y + '-' + y ? 'on' : ''}"><i style="height:${Math.max(4, Math.round(n / ymax * 46))}px"></i><span>${String(y).slice(2)}</span></button>`).join('')}</div>` : '';
   const opt = (v, l, cur) => `<option value="${v}"${v === cur ? ' selected' : ''}>${l}</option>`;
-  const dateOf = x => !x ? '' : x.d || ((x.sub || []).map(s => s.d).filter(v => /^19[1-5]\d/.test(v || '')).sort())[0] || '';
-  const hitHTML = (d, inGroup) => { const m = d.meta, x = DM.get(m.id), inCat = !!x, db = titleDates(m.title) || dateOf(x).replace(/-/g, '.');
+  const types = Object.keys(all.type || {}).sort();
+  main.innerHTML = `<div class="toolbar"><span class="seg" role="group" aria-label="Group results">${[['doc', 'Documents'], ['page', 'Pages'], ['file', 'Files']].map(([v, l]) => `<button type="button" data-g="${v}" class="${mode === v ? 'on' : ''}">${l}</button>`).join('')}</span>
+    <span class="meta">${summary}</span>
+    <label>Type <select id="fttype"><option value="">All</option>${types.map(t => opt(t, t, S.ftType || '')).join('')}</select></label>
+    <label>Order <select id="ftsort">${[['rel', mode === 'page' ? 'Relevance' : 'Most matching pages'], ['asc', 'Date, oldest first'], ['desc', 'Date, newest first']].map(([v, l]) => opt(v, l, S.ftSort)).join('')}</select></label>
+    <button type="button" id="ftcsv" title="Download every matching page as a CSV file">Export CSV</button></div>${hist}
+    <div id="ftres"></div><div class="pager"><button id="ftmore" hidden>Show more</button></div>`;
+  document.querySelectorAll('.toolbar [data-g]').forEach(b => b.onclick = () => { S.ftGroup = b.dataset.g; ftView(); });
+  $('#fttype').onchange = e => { S.ftType = e.target.value; ftView(); };
+  $('#ftsort').onchange = e => { S.ftSort = e.target.value; ftView(); };
+  document.querySelectorAll('.fthist [data-y]').forEach(b => b.onclick = () => { const v = b.dataset.y + '-' + b.dataset.y; S.yr = S.yr === v ? '' : v;
+    const sel = $('#yr'); if (sel){ if (![...sel.options].some(o => o.value === S.yr)) sel.insertAdjacentHTML('beforeend', `<option value="${S.yr}">${b.dataset.y}</option>`); sel.value = S.yr; } ftView(); });
+  $('#ftcsv').onclick = () => ftExport(results, $('#ftcsv'), DM);
+  const pageLine = d => { const m = d.meta, x = DM.get(m.id), seq = +m.seq || 0, sp = SPIX.get(m.id + '#' + seq);
     const img = iaBook(m.ia, m.iaf, m.id) + '/page/n' + (m.page - 1) + '/mode/1up';
-    return `<div class="card">${inGroup ? '' : `<div class="cardhead"><h2>${inCat ? `<a href="${d.url}">${esc(m.title)}</a>` : esc(m.title)}</h2>${db ? `<span class="datebub ${era(db)[0]}">${db}</span>` : ''}</div>`}
-      <div class="meta">page ${esc(m.page)} · ${esc(m.src)} · <a href="${img}" target="_blank">page image on archive.org</a>${inCat ? ` · <a href="${d.url}">catalogue entry</a>` : ''}</div>
-      <p class="ftx">…${d.excerpt}…</p></div>`; };
-  // paged list of hits into el; newest-first/oldest-first comes from the Pagefind "date" sort key built into the index
-  const pagedHits = (res, el, btn, inGroup) => { let shown = 0;
-    const more = async () => { const batch = await Promise.all(res.results.slice(shown, shown + 20).map(r => r.data())); if (token !== FTQ) return;
-      shown += batch.length; el.insertAdjacentHTML('beforeend', batch.map(d => hitHTML(d, inGroup)).join('')); btn.hidden = shown >= res.results.length; };
-    btn.addEventListener('click', more); return more(); };
-  const sortOpt = S.ftSort === 'rel' ? undefined : { date: S.ftSort };
-  const tb = total => `<div class="toolbar"><span class="meta">${total}</span>
-    <label><input type="checkbox" id="ftgroup" ${S.ftGroup ? 'checked' : ''}> Group by document</label>
-    <label>Order <select id="ftsort">${(S.ftGroup ? [['rel', 'Most matching pages'], ['asc', 'Date, oldest first'], ['desc', 'Date, newest first']] : [['rel', 'Relevance'], ['asc', 'Date, oldest first'], ['desc', 'Date, newest first']]).map(([v, l]) => opt(v, l, S.ftSort)).join('')}</select></label></div>`;
-  const wire = () => { $('#ftgroup').addEventListener('change', e => { S.ftGroup = e.target.checked; ftView(); }); $('#ftsort').addEventListener('change', e => { S.ftSort = e.target.value; ftView(); }); };
-  if (!S.ftGroup){
-    const res = await pf.search(q, { filters, sort: sortOpt }); if (token !== FTQ) return;
-    main.innerHTML = tb(`${res.results.length.toLocaleString()} pages match <b>${esc(q)}</b>`) + `<div id="ftres"></div><div class="pager"><button id="ftmore" hidden>Show more</button></div>`;
-    wire(); await pagedHits(res, $('#ftres'), $('#ftmore')); return;
-  }
-  await pf.filters();  // loads the filter index so that search() returns per-document match counts
-  const res = await pf.search(q, { filters }); if (token !== FTQ) return;
-  const dk = g => { const d = dateOf(g.x); return !d ? '9999' : d.length === 4 ? d + '-01-01' : d.length === 7 ? d + '-01' : d; };
-  const docs = Object.entries(res.filters.doc || {}).filter(([, n]) => n > 0).map(([id, n]) => ({ id, n, x: DM.get(id) }));
-  docs.sort(S.ftSort === 'asc' ? (a, b) => dk(a) < dk(b) ? -1 : dk(a) > dk(b) ? 1 : a.id.localeCompare(b.id)
-    : S.ftSort === 'desc' ? (a, b) => (dk(a) === '9999') - (dk(b) === '9999') || (dk(a) > dk(b) ? -1 : dk(a) < dk(b) ? 1 : a.id.localeCompare(b.id)) : (a, b) => b.n - a.n || dk(a).localeCompare(dk(b)));
-  main.innerHTML = tb(`${res.results.length.toLocaleString()} pages in ${docs.length.toLocaleString()} documents match <b>${esc(q)}</b>`) + `<div id="ftres"></div><div class="pager"><button id="ftmoredocs" hidden>Show more documents</button></div>`;
-  wire();
-  let shownDocs = 0;
-  const moreDocs = () => { docs.slice(shownDocs, shownDocs + 25).forEach(g => { const x = g.x, title = x ? x.t : g.id, db = titleDates(title) || dateOf(x).replace(/-/g, '.');
+    return `<div class="fthit"><span class="meta"><a href="${img}" target="_blank" title="Page image on archive.org">p. ${esc(m.page)}</a>${x ? ` · <a href="${d.url}">in catalogue</a>` : ''}${sp ? ` · <a class="spbadge" href="#s/${esc(sp.id)}/p/${esc(m.page)}">★ Spotlight</a>` : ''}</span> <span class="ftx">…${d.excerpt}…</span></div>`; };
+  const docHead = (fid, seq) => { const x = DM.get(fid), s = x && seq ? x.sub[seq - 1] : null, sp = SPIX.get(fid + '#' + seq), title = s ? s.t : x ? x.t : fid;
+    const dd = s && /^\d{4}-\d\d(-\d\d)?$/.test(s.d || '') ? s.d.replace(/-/g, '.') : x ? titleDates(x.t) : '';
+    return `<div class="cardhead"><h2>${x ? `<a href="#d/${esc(fid)}${s ? '/doc/' + seq : ''}">${esc(title)}</a>` : esc(title)}${sp ? ` <a class="spbadge" href="#s/${esc(sp.id)}" title="A cleaned transcription of this document is in Spotlight">★ Spotlight</a>` : ''}</h2>${dd ? `<span class="datebub ${era(dd)[0]}">${dd}</span>` : ''}</div>
+      ${s ? `<div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · ${ppPill(s.p)} · in file <a href="#d/${esc(fid)}">${esc(x.t)}</a></div><p class="ftdesc">${esc(s.a)}${LLM}</p>`
+        : x ? `<div class="meta">${x.sk ? 'File not yet catalogued' : 'Pages not inside a catalogued document'} · ${pgPill(x.pg)}</div>` : ''}`; };
+  if (mode === 'page'){
+    let shown = 0; const more = async () => { const batch = await Promise.all(results.slice(shown, shown + 20).map(r => r.data())); if (token !== FTQ) return;
+      shown += batch.length; $('#ftres').insertAdjacentHTML('beforeend', batch.map(d => `<div class="card">${docHead(d.meta.id, +d.meta.seq || 0)}${pageLine(d)}</div>`).join('')); $('#ftmore').hidden = shown >= results.length; };
+    $('#ftmore').onclick = more; return more(); }
+  // grouped: by document ("<file>#<doc>") or by file
+  const groups = (mode === 'file' ? files : subs).map(([k, n]) => { const [fid, seq] = mode === 'file' ? [k, null] : [k.slice(0, k.lastIndexOf('#')), +k.slice(k.lastIndexOf('#') + 1)];
+    const x = DM.get(fid), s = x && seq ? x.sub[seq - 1] : null; return {k, n, fid, seq, date: (s && s.d) || (x && x.d) || '9999'}; });
+  groups.sort(S.ftSort === 'asc' ? (a, b) => a.date.localeCompare(b.date) || a.k.localeCompare(b.k) : S.ftSort === 'desc' ? (a, b) => (a.date === '9999') - (b.date === '9999') || b.date.localeCompare(a.date) || a.k.localeCompare(b.k) : (a, b) => b.n - a.n || a.date.localeCompare(b.date));
+  let shownG = 0;
+  const moreGroups = () => { groups.slice(shownG, shownG + 25).forEach(g => {
       const card = document.createElement('div'); card.className = 'card';
-      card.innerHTML = `<div class="cardhead"><h2>${x ? `<a href="#d/${x.id}">${esc(title)}</a>` : esc(title)}</h2>${db ? `<span class="datebub ${era(db)[0]}">${db}</span>` : ''}</div>
-        <div class="meta">${g.n.toLocaleString()} matching page${g.n === 1 ? '' : 's'} · <button type="button" class="linklike">show pages</button></div>
-        <div class="grouphits" hidden><div class="gh"></div><div class="pager"><button type="button" class="gmore" hidden>Show more pages</button></div></div>`;
-      const btn = card.querySelector('.linklike'), box = card.querySelector('.grouphits'); let loaded = false;
-      btn.addEventListener('click', async () => { box.hidden = !box.hidden; btn.textContent = box.hidden ? 'show pages' : 'hide pages'; if (loaded) return; loaded = true;
-        const r = await pf.search(q, { filters: { ...filters, doc: g.id }, sort: { date: 'asc' } }); if (token !== FTQ) return;
-        await pagedHits(r, box.querySelector('.gh'), box.querySelector('.gmore'), true); });
-      $('#ftres').appendChild(card); });
-    shownDocs = Math.min(docs.length, shownDocs + 25); $('#ftmoredocs').hidden = shownDocs >= docs.length; };
-  $('#ftmoredocs').addEventListener('click', moreDocs); moreDocs();
+      card.innerHTML = (mode === 'file' ? docHead(g.fid, 0).replace(/<div class="meta">Pages not inside[^<]*<\/div>/, '') : docHead(g.fid, g.seq)) +
+        `<div class="meta"><b>${g.n.toLocaleString()}</b> matching page${g.n === 1 ? '' : 's'}</div><div class="gh"><span class="meta">loading…</span></div>${g.n > 3 ? `<button type="button" class="linklike gall">show all ${g.n.toLocaleString()} pages</button>` : ''}`;
+      $('#ftres').appendChild(card);
+      const gh = card.querySelector('.gh'), sub = mode === 'file' ? {doc: g.fid} : {sub: g.k};
+      let top = null;
+      (async () => { const r = await ftRun(pf, qp, {...filters, ...sub}); if (token !== FTQ) return;  // relevance order: best three pages first
+        top = r.results; const ds = await Promise.all(top.slice(0, 3).map(x => x.data())); if (token !== FTQ) return;
+        gh.innerHTML = ds.map(pageLine).join(''); })();
+      const ball = card.querySelector('.gall');
+      if (ball) ball.onclick = async () => { if (ball.dataset.open){ const ds = await Promise.all(top.slice(0, 3).map(x => x.data())); gh.innerHTML = ds.map(pageLine).join(''); ball.textContent = `show all ${g.n.toLocaleString()} pages`; delete ball.dataset.open; return; }
+        ball.textContent = 'loading…'; const r = await ftRun(pf, qp, {...filters, ...sub}, {date: 'asc'}); if (token !== FTQ) return;  // all pages, in page order
+        const ds = await Promise.all(r.results.map(x => x.data())); gh.innerHTML = ds.map(pageLine).join(''); ball.textContent = 'show top three only'; ball.dataset.open = 1; };
+    });
+    shownG = Math.min(groups.length, shownG + 25); $('#ftmore').hidden = shownG >= groups.length; };
+  $('#ftmore').textContent = 'Show more'; $('#ftmore').onclick = moreGroups; moreGroups();
 }
+async function ftExport(results, btn, DM){
+  const cap = 5000, list = results.slice(0, cap);
+  if (results.length > cap && !confirm(`Only the first ${cap.toLocaleString()} of ${results.length.toLocaleString()} matching pages will be exported. Continue?`)) return;
+  const label = btn.textContent, rows = [['file_id', 'file_title', 'decimal', 'doc_no', 'doc_title', 'doc_type', 'doc_date', 'page', 'page_image', 'catalogue_link', 'excerpt']];
+  for (let i = 0; i < list.length; i += 100){ btn.textContent = `Exporting ${i.toLocaleString()} / ${list.length.toLocaleString()}…`;
+    const ds = await Promise.all(list.slice(i, i + 100).map(r => r.data()));
+    ds.forEach(d => { const m = d.meta, x = DM.get(m.id), seq = +m.seq || 0, s = x && seq ? x.sub[seq - 1] : null;
+      rows.push([m.id, m.title, x ? x.dec : '', seq || '', s ? s.t : '', s ? s.ty : '', s ? s.d : '', m.page, iaBook(m.ia, m.iaf, m.id) + '/page/n' + (m.page - 1) + '/mode/1up',
+        location.origin + location.pathname + d.url, d.excerpt.replace(/<[^>]+>/g, '')]); }); }
+  const csv = rows.map(r => r.map(v => { const t = String(v ?? ''); return /[",\n]/.test(t) ? '"' + t.replace(/"/g, '""') + '"' : t; }).join(',')).join('\n');
+  saveBlob(new Blob(['﻿' + csv], {type: 'text/csv;charset=utf-8'}), 'fulltext-' + (S.q.trim().replace(/[^\w-]+/g, '_').slice(0, 40) || 'search') + '.csv');
+  btn.textContent = label; }
 function facetView(kind){
   const m = new Map();
   D.forEach(x => { const vals = kind==='people' ? x.pe.map(p=>p[0]) : kind==='places' ? x.pl.map(p=>p[0]) : [...new Set([...x.k, ...x.sub.flatMap(s=>s.k)])];
@@ -529,7 +616,7 @@ function spotlightDetail(id, startPage, urlModes){
   modes = modes.map(m => e.ja && m === 'clean' ? 'ja' : !e.ja && m === 'ja' ? 'clean' : m).filter((m, i, a) => ORDER.includes(m) && a.indexOf(m) === i); if (!modes.length) modes = [e.ja ? 'ja' : 'clean'];
   main.innerHTML = `<a class="back" href="#spotlight/${spSlug(e.cat)}">← Back to Spotlight${e.cat && e.cat !== 'General' ? ': ' + esc(e.cat) : ''}</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
    <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank">${ppPill(s.p, " on archive.org")}</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
-   <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length}. <a href="${IAX(x)}" target="_blank">archive.org</a></div>
+   <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length} (ID <code>${sid(x)}.${e.seq}</code>). <a href="${IAX(x)}" target="_blank">archive.org</a> · ${ftLink(x, e.seq)}</div>
    <div class="label">Description</div><p><i>${esc(s.a)}</i>${LLM}</p><div class="label">Summary</div><p>${esc(s.s)}${LLM}</p>
    <div class="label">Keywords</div><div class="chips">${chipsU(`s|${x.id}|${x.sub.indexOf(s)+1}`)}${chipsK(x, s.k)}</div>
    <div class="label">Text of the document</div>
@@ -846,7 +933,7 @@ let tmr, DQ = false; $('#q').addEventListener('input', e => { clearTimeout(tmr);
   S.q = e.target.value; S.page = 0;
   if (S.q && S.sort==='year') S.sort='hits'; if (!S.q && S.sort==='hits') S.sort='year'; if (location.hash.startsWith('#d/')) location.hash = ''; else route(); }, 200); });
 ['cls','yr'].forEach(k => $('#'+k).addEventListener('change', e => { S[k] = e.target.value; S.page = 0; route(); }));
-$('#reset').addEventListener('click', () => { Object.assign(S, {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:false, ftSort:'rel', fsort:'n'});
+$('#reset').addEventListener('click', () => { Object.assign(S, {q:'', cls:'', yr:'', minpg:0, sort:'year', rev:false, per:200, page:0, facet:null, ftGroup:'doc', ftType:'', ftSort:'rel', fsort:'n'});
   $('#q').value = ''; $('#cls').value = ''; $('#yr').value = '';
   if (location.hash && location.hash !== '#') location.hash = ''; else route(); scrollTo(0,0); });
 addEventListener('hashchange', () => { scrollTo(0,0); route(); });

@@ -46,6 +46,45 @@ for fid, d in _db.execute("select s.file_id, min(s.date) from subfiles s where s
     CATDATE.setdefault(fid, (d + "-01-01")[:10] if len(d) == 4 else (d + "-01")[:10] if len(d) == 7 else d[:10])
 
 
+# ---- the catalogued document (sub-file) each page belongs to: its number, date and a coarse type ----
+TYPES = [("Telegram / airgram", r"telegram|airgram|cable|radiogram"), ("Despatch", r"despatch|dispatch"),
+         ("Instruction", r"instruction"), ("File administration", r"cross.?ref|file note|list of papers|docket|charge slip|routing|index sheet|\bform\b|slip|card"),
+         ("Memorandum", r"memo"), ("Diplomatic note", r"diplomatic note|note verbale|aide.?m|\bnote\b"),
+         ("Press & radio", r"clipping|newspaper|press|article|magazine|radio|intercept|broadcast|bulletin|editorial"),
+         ("Laws & translations", r"law|ordinance|regulation|legal|translation|treaty|agreement|rescript|decree"),
+         ("Report", r"report|survey|summary|study|intelligence|review|statistic|table"), ("Letter", r"letter|petition|card|postcard"),
+         ("Enclosure", r"enclosure|attachment")]
+
+
+def coarse(ty):
+    t = (ty or "").lower()
+    return next((name for name, rx in TYPES if re.search(rx, t)), "Other")
+
+
+def norm(d):
+    return None if not d or not re.match(r"^1[89]\d\d", d) else (d + "-01-01")[:10] if len(d) == 4 else (d + "-01")[:10] if len(d) == 7 else d[:10]
+
+
+SUBS = {}
+for fid, seq, a, b, d, ty in _db.execute("select file_id, seq, start_page, end_page, date, doc_type from subfiles order by file_id, seq"):
+    SUBS.setdefault(fid, []).append((seq, a or 0, b or a or 0, norm(d), coarse(ty)))
+
+
+def subfile(fid, p):  # (seq, date, type) of the first catalogued document covering page p, or (0, None, None)
+    for seq, a, b, d, ty in SUBS.get(fid, []):
+        if a <= p <= b: return seq, d, ty
+    return 0, None, None
+
+
+def record(url, fid, p, body, meta, dec, title):
+    seq, d, ty = subfile(fid, p)
+    date = d or docdate(fid, title)
+    yrs = [d[:4]] if d else years(title)
+    return {"url": url, "content": body, "meta": {**meta, "seq": str(seq)},
+            "filters": {"subject": [subject(dec)], "year": yrs, "doc": [fid], "sub": [f"{fid}#{seq}"], "type": [ty or "Uncatalogued pages"], "decimal": [dec]},
+            "sort": {"date": f"{date}|{fid}|{p:05d}"}}
+
+
 def docdate(fid, title):  # title date, else catalogue date, else first dated sub-document; 9999 sorts last
     d = start_date(title)
     return d if d != "9999-99-99" else CATDATE.get(fid, d)
@@ -67,10 +106,8 @@ for r in csv.DictReader(open(os.path.join(FILES, "upload.csv"), encoding="utf-8"
     if not os.path.exists(ocr): continue
     dec = r["title"].split(" ", 1)[0]
     for p, body in pages(ocr):
-        out.write(json.dumps({"url": f"#d/{r['identifier']}/pg/{p}", "content": body, "meta": {
-            "title": r["title"], "page": str(p), "id": r["identifier"], "ia": r["identifier"], "iaf": "", "src": "Mistral OCR"},
-            "filters": {"subject": [subject(dec)], "year": years(r["title"]), "doc": [r["identifier"]]},
-            "sort": {"date": f"{docdate(r['identifier'], r['title'])}|{r['identifier']}|{p:05d}"}}, ensure_ascii=False) + "\n"); n += 1
+        out.write(json.dumps(record(f"#d/{r['identifier']}/pg/{p}", r["identifier"], p, body, {
+            "title": r["title"], "page": str(p), "id": r["identifier"], "ia": r["identifier"], "iaf": "", "src": "Mistral OCR"}, dec, r["title"]), ensure_ascii=False) + "\n"); n += 1
 # 2. merged/*.pdf with Paddle OCR
 mrows = list(csv.DictReader(open(os.path.join(WEB, "merged-items.csv"), encoding="utf-8")))
 head = {r["identifier"]: r for r in mrows if r["title"]}
@@ -84,9 +121,7 @@ for r in mrows:
     title = head[r["identifier"]]["title"] + (f", part {m.group(1)} of {nparts[r['identifier']]}" if m else "")
     dec = title.split(" ", 1)[0]
     for p, body in pages(ocr):
-        out.write(json.dumps({"url": f"#d/{key}/pg/{p}", "content": body, "meta": {
-            "title": title, "page": str(p), "id": key, "ia": r["identifier"], "iaf": r["REMOTE_NAME"] or r["file"], "src": "PaddleOCR"},
-            "filters": {"subject": [subject(dec)], "year": years(title), "doc": [key]},
-            "sort": {"date": f"{docdate(key, title)}|{key}|{p:05d}"}}, ensure_ascii=False) + "\n"); n += 1
+        out.write(json.dumps(record(f"#d/{key}/pg/{p}", key, p, body, {
+            "title": title, "page": str(p), "id": key, "ia": r["identifier"], "iaf": r["REMOTE_NAME"] or r["file"], "src": "PaddleOCR"}, dec, title), ensure_ascii=False) + "\n"); n += 1
 out.close()
 print(n, "pages written to records.jsonl")
