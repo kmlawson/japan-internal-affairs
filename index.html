@@ -120,7 +120,7 @@ button:disabled{opacity:.4;cursor:default}
 .sp-cell{min-width:0;padding:10px 12px;border-right:1px solid var(--line)}.sp-cell:last-child{border-right:0}
 .sp-cell .tag{display:block;font:600 11px system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--accent2);margin-bottom:6px}
 .sp-raw{font:13px/1.5 ui-monospace,Menlo,Consolas,monospace;white-space:pre-wrap;overflow-wrap:anywhere}
-.sp-clean{font:15px/1.55 Georgia,serif;overflow-wrap:anywhere}.sp-clean p{margin:0;text-indent:1.6em}.sp-clean p.ed{text-indent:0}.sp-tbl{overflow-x:auto;margin:6px 0 10px}.sp-tbl table{border-collapse:collapse;font:13.5px/1.35 system-ui,sans-serif}.sp-tbl th,.sp-tbl td{border:1px solid var(--line);padding:3px 7px;vertical-align:top;text-align:left}.sp-tbl th{background:var(--chip);font-weight:600}.sp-tbl td.num,.sp-tbl th.num{text-align:right;font-variant-numeric:tabular-nums}
+.sp-clean{font:15px/1.55 Georgia,serif;overflow-wrap:anywhere}.sp-clean p{margin:0;text-indent:1.6em}.sp-clean p.ed{text-indent:0}.sp-clean sup.fnm{font-size:.7em;line-height:0;color:var(--accent)}.sp-clean p.fn{text-indent:0;font-size:13px;line-height:1.45;color:var(--muted)}.sp-clean :not(.fn)+p.fn{margin-top:8px;border-top:1px solid var(--line);padding-top:4px}.sp-tbl{overflow-x:auto;margin:6px 0 10px}.sp-tbl table{border-collapse:collapse;font:13.5px/1.35 system-ui,sans-serif}.sp-tbl th,.sp-tbl td{border:1px solid var(--line);padding:3px 7px;vertical-align:top;text-align:left}.sp-tbl th{background:var(--chip);font-weight:600}.sp-tbl td.num,.sp-tbl th.num{text-align:right;font-variant-numeric:tabular-nums}
 .sp-note{margin-top:14px;padding-top:8px;border-top:1px dashed var(--line);color:var(--muted);font:12.5px/1.6 system-ui,sans-serif;white-space:pre-wrap}
 .sp-note summary{cursor:pointer;list-style:none;font-weight:600;white-space:normal;user-select:none}
 .sp-note summary::-webkit-details-marker{display:none}
@@ -479,7 +479,12 @@ function spotlightDetail(id){
         if (rows.length >= 2) { flush(); segs.push({t: 'tbl', x: rows.join('\n')}); k = e - 1; continue; } }
       txt.push(L[k]); }
     flush();
-    return segs.map(g => g.t === 'tbl' ? table(g.x) : g.x.split(/\n[ \t]*\n+/).filter(x => x.trim()).map(x => `<p${/^\s*\[/.test(x) || x.trim().length < 70 || x.trim().includes('\n') ? ' class="ed"' : ''}>${esc(x.trim()).replace(/\n/g, '<br>')}</p>`).join('')).join(''); };
+    // footnotes: "[^N]" marker in the text, "[^N]: text" lines at the foot of the page
+    const fnm = h => h.replace(/\[\^([^\]\s]{1,4})\]/g, '<sup class="fnm">$1</sup>');
+    const isFn = x => x.trim().split('\n').every(l => /^\[\^[^\]\s]{1,4}\]:/.test(l.trim()));
+    return segs.map(g => g.t === 'tbl' ? fnm(table(g.x)) : g.x.split(/\n[ \t]*\n+/).filter(x => x.trim()).map(x => isFn(x)
+      ? x.trim().split('\n').map(l => { const m = l.trim().match(/^\[\^([^\]\s]{1,4})\]:\s*(.*)$/); return `<p class="fn"><sup>${esc(m[1])}</sup> ${fnm(esc(m[2]))}</p>`; }).join('')
+      : `<p${/^\s*\[/.test(x) || x.trim().length < 70 || x.trim().includes('\n') ? ' class="ed"' : ''}>${fnm(esc(x.trim()).replace(/\n/g, '<br>'))}</p>`).join('')).join(''); };
   const noteSplit = s => { const i = s.indexOf('【注】'); if (i < 0) return paras(s);
     const notes = s.slice(i + 3).trim(), n = (notes.match(/^・/gm) || []).length;
     return paras(s.slice(0, i).trimEnd()) + `<details class="sp-note"><summary>注 <span>(${n} note${n === 1 ? '' : 's'})</span></summary>${esc(notes)}</details>`; };
