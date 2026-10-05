@@ -432,6 +432,45 @@ function spotlightView(slug){
   $('#spsort').onchange = ev => { SPSORT = ev.target.value; SPREV = SPSORT === 'added'; spotlightView(slug); };
   $('#sprev').onclick = () => { SPREV = !SPREV; spotlightView(slug); };
 }
+// ---- Spotlight downloads, built in the browser: text from the loaded data, PDF from the page JPEGs
+function saveBlob(blob, name){ const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name;
+  document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000); }
+async function jpegPdf(urls){  // minimal PDF: one page per JPEG, embedded as-is (DCTDecode), page size from 150 dpi
+  const enc = new TextEncoder(), parts = [], offs = []; let len = 0;
+  const put = d => { const b = typeof d === 'string' ? enc.encode(d) : d; parts.push(b); len += b.length; };
+  const imgs = [];
+  for (const u of urls){ const b = new Uint8Array(await (await fetch(u)).arrayBuffer()); let k = 2, w = 0, h = 0, nc = 1;
+    while (k < b.length){ if (b[k] !== 0xFF){ k++; continue; } const m = b[k + 1], L = (b[k + 2] << 8) | b[k + 3];
+      if (m >= 0xC0 && m <= 0xCF && ![0xC4, 0xC8, 0xCC].includes(m)){ h = (b[k + 5] << 8) | b[k + 6]; w = (b[k + 7] << 8) | b[k + 8]; nc = b[k + 9]; break; }
+      k += 2 + L; }
+    imgs.push({b, w, h, nc}); }
+  const n = imgs.length, obj = i => { offs[i] = len; };
+  put('%PDF-1.4\n%\xE2\xE3\xCF\xD3\n');
+  obj(1); put('1 0 obj<</Type/Catalog/Pages 2 0 R>>endobj\n');
+  obj(2); put(`2 0 obj<</Type/Pages/Count ${n}/Kids[${imgs.map((_, i) => `${3 + i * 3} 0 R`).join(' ')}]>>endobj\n`);
+  imgs.forEach((im, i) => { const pg = 3 + i * 3, W = (im.w * 72 / 150).toFixed(2), H = (im.h * 72 / 150).toFixed(2);
+    const cs = `${W} 0 0 ${H} 0 0 cm /I Do`;
+    obj(pg); put(`${pg} 0 obj<</Type/Page/Parent 2 0 R/MediaBox[0 0 ${W} ${H}]/Resources<</XObject<</I ${pg + 1} 0 R>>>>/Contents ${pg + 2} 0 R>>endobj\n`);
+    obj(pg + 1); put(`${pg + 1} 0 obj<</Type/XObject/Subtype/Image/Width ${im.w}/Height ${im.h}/ColorSpace/${im.nc === 1 ? 'DeviceGray' : im.nc === 4 ? 'DeviceCMYK' : 'DeviceRGB'}/BitsPerComponent 8/Filter/DCTDecode/Length ${im.b.length}>>stream\n`); put(im.b); put('\nendstream endobj\n');
+    obj(pg + 2); put(`${pg + 2} 0 obj<</Length ${cs.length}>>stream\n${cs}\nendstream endobj\n`); });
+  const total = 3 + n * 3, xref = len;
+  put(`xref\n0 ${total}\n0000000000 65535 f \n` + Array.from({length: total - 1}, (_, i) => String(offs[i + 1]).padStart(10, '0') + ' 00000 n \n').join(''));
+  put(`trailer<</Size ${total}/Root 1 0 R>>\nstartxref\n${xref}\n%%EOF\n`);
+  return new Blob(parts, {type: 'application/pdf'}); }
+async function spDownload(e, x, s, pages, kind, sel){
+  const base = e.id.replace(/^japan-internal-affairs-/, '').replace(/__/, '-doc');
+  if (kind === 'pdf'){ sel.disabled = true; const o = sel.options[0].text; sel.options[0].text = 'Making PDF…';
+    try { saveBlob(await jpegPdf(pages.map(p => `spotlight/img/${e.file}/${p}.jpg`)), base + '-pages.pdf'); }
+    catch (err){ alert('Could not make the PDF: ' + err.message); }
+    finally { sel.disabled = false; sel.options[0].text = o; } return; }
+  const src = new Map(kind === 'raw' ? e.raw : kind === 'ja' ? e.ja : e.clean);
+  const what = kind === 'raw' ? `Raw OCR (${e.ocr || 'PaddleOCR'}); machine OCR, uncorrected.`
+    : kind === 'ja' ? 'Japanese text reconstructed from the romanized original by a large language model (Claude Opus 5.5); see the notes on each page.'
+    : `Cleaned transcription made by a large language model (${e.by || 'Claude Sonnet 5.5 or Opus 5.5'}); check against the page images.`;
+  const head = [s.t, [s.ty, s.d].filter(Boolean).join(', '), `Pages ${s.p[0]}-${s.p[1]} of: ${x.t}`, `Decimal file ${x.dec}, file ${x.n}. Records of the Department of State Relating to Internal Affairs of Japan, 1930-1949.`,
+    `Page images: ${IAP(x, s.p[0])}`, `Online: ${location.origin}${location.pathname}#s/${e.id}`, what, ''].join('\n');
+  const body = pages.map(p => `=== Page ${p} ===\n${(src.get(p) || '').trim()}\n`).join('\n');
+  saveBlob(new Blob([head + '\n' + body], {type: 'text/plain;charset=utf-8'}), `${base}-${kind === 'raw' ? 'raw-ocr' : kind === 'ja' ? 'japanese' : 'clean'}.txt`); }
 function spotlightDetail(id, startPage){
   const e = SP.find(e => e.id === id), [x, s] = e ? spCtx(e) : []; if (!e || !x || !s){ main.innerHTML = '<p>Not found.</p>'; return; }
   const i = SP.indexOf(e), prev = SP[i-1], next = SP[i+1];
@@ -450,7 +489,7 @@ function spotlightDetail(id, startPage){
    <div class="label">Description</div><p><i>${esc(s.a)}</i></p><div class="label">Summary</div><p>${esc(s.s)}</p>
    <div class="label">Keywords</div><div class="chips">${chipsU(`s|${x.id}|${x.sub.indexOf(s)+1}`)}${chipsK(x, s.k)}</div>
    <div class="label">Text of the document</div>
-   <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}</div>
+   <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}<select id="spd" aria-label="Download"><option value="">Download…</option>${e.ja ? '<option value="ja">TXT: Japanese (reconstructed)</option>' : ''}${e.clean ? '<option value="clean">TXT: clean transcription</option>' : ''}<option value="raw">TXT: raw OCR</option><option value="pdf">PDF: page images</option></select></div>
    <div class="sp-warn" id="spw" hidden><b>Important:</b> The cleaned transcript is an extraction of the text using a large language model (${esc(e.by || 'Claude Sonnet 5.5 or Opus 5.5, depending on the text')}) in comparison with the ${esc(e.ocr || 'PaddleOCR')} software which produced the raw transcript. Errors and hallucinations in the cleaned transcript will be harder to detect than the shortcomings of the raw transcript.</div>
    <div class="sp-warn" id="spwj" hidden><b>Important:</b> The Japanese text is reconstructed. This broadcast was sent in romanized Japanese (rōmaji), and no Japanese-script original survives in the file. A large language model (Claude Opus 5.5) read the romanization from the page images and converted it back into Japanese script, choosing the kanji, particles and word boundaries that the romanization leaves open. Uncertain readings are marked ［?］ or 〔 〕 and explained in the notes (注) below each page; click ▸ 注 to open them. Check doubtful passages against the page image.</div>
    <div class="sp-view" id="spv"></div>
@@ -506,6 +545,7 @@ function spotlightDetail(id, startPage){
     try { localStorage.setItem('spModes', JSON.stringify(modes)); } catch (_) {}
     draw();
   };
+  $('#spd').onchange = ev => { const k = ev.target.value; ev.target.value = ''; if (k) spDownload(e, x, s, pages, k, ev.target); };
   const j = $('#spj'); if (j) j.onchange = () => { const el = j.value && document.getElementById('sp-p' + j.value); if (el) view.scrollTop = el.offsetTop; j.value = ''; };
   draw();
   // keep the address in step with the page being read (#s/<id>/p/<page>), so a link can be shared;
