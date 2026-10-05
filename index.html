@@ -473,13 +473,14 @@ async function spDownload(e, x, s, pages, kind, sel){
     `Page images: ${IAP(x, s.p[0])}`, `Online: ${location.origin}${location.pathname}#s/${e.id}`, what, ''].join('\n');
   const body = pages.map(p => `=== Page ${p} ===\n${(src.get(p) || '').trim()}\n`).join('\n');
   saveBlob(new Blob([head + '\n' + body], {type: 'text/plain;charset=utf-8'}), `${base}-${kind === 'raw' ? 'raw-ocr' : kind === 'ja' ? 'japanese' : 'clean'}.txt`); }
-function spotlightDetail(id, startPage){
+function spotlightDetail(id, startPage, urlModes){
   const e = SP.find(e => e.id === id), [x, s] = e ? spCtx(e) : []; if (!e || !x || !s){ main.innerHTML = '<p>Not found.</p>'; return; }
   const i = SP.indexOf(e), prev = SP[i-1], next = SP[i+1];
   const rawM = new Map(e.raw), cleanM = e.clean ? new Map(e.clean) : null;
   const pages = []; for (let p = e.p[0]; p <= e.p[1]; p++) pages.push(p);
   const img = p => `spotlight/img/${e.file}/${p}.jpg`;
   let modes; try { modes = JSON.parse(localStorage.getItem('spModes')); } catch (_) {}
+  if (urlModes && urlModes.length) modes = urlModes;  // modes in a shared link win over this browser's last choice
   if (!Array.isArray(modes) || !modes.length) modes = matchMedia('(max-width:820px)').matches ? ['clean'] : ['clean', 'image'];
   if (modes.length > 2) modes = modes.slice(-2);
   const NAMES = {raw: 'Raw OCR', clean: 'Clean', ja: 'Japanese', image: 'Page image'}, ORDER = e.ja ? ['raw', 'ja', 'image'] : ['raw', 'clean', 'image'];
@@ -545,7 +546,7 @@ function spotlightDetail(id, startPage){
     modes = modes.includes(m) ? modes.filter(k => k !== m) : modes.concat(m).slice(-2);
     if (!modes.length) modes = [m];
     try { localStorage.setItem('spModes', JSON.stringify(modes)); } catch (_) {}
-    draw();
+    draw(); syncHash();
   };
   $('#spd').onchange = ev => { const k = ev.target.value; ev.target.value = ''; if (k) spDownload(e, x, s, pages, k, ev.target); };
   const j = $('#spj'); if (j) j.onchange = () => { const el = j.value && document.getElementById('sp-p' + j.value); if (el) view.scrollTop = el.offsetTop; j.value = ''; };
@@ -556,12 +557,14 @@ function spotlightDetail(id, startPage){
   if (startPage){ go(startPage);  // images above the target change height as they load: re-anchor until the reader scrolls
     let moved = false; ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(t => view.addEventListener(t, () => { moved = true; }, {once: true}));
     view.querySelectorAll('img').forEach(im => im.addEventListener('load', () => { if (!moved) go(startPage); })); }
-  let tick = null;
-  view.addEventListener('scroll', () => { if (tick) return; tick = setTimeout(() => { tick = null;
-    let cur = pages[0];
+  // address: #s/<id>[/p/<page>]/v/<shown modes joined by +>, e.g. #s/<id>/p/120/v/clean+image
+  function syncHash(){ let cur = pages[0];
     for (const p of pages){ const el = document.getElementById('sp-p' + p); if (el && el.offsetTop <= view.scrollTop + 40) cur = p; else break; }
-    const h = '#s/' + id + (cur !== pages[0] || view.scrollTop > 40 ? '/p/' + cur : '');
-    if (location.hash !== h) history.replaceState(null, '', h); }, 150); });
+    const h = '#s/' + id + (cur !== pages[0] || view.scrollTop > 40 ? '/p/' + cur : '') + '/v/' + ORDER.filter(m => modes.includes(m)).join('+');
+    if (location.hash !== h) history.replaceState(null, '', h); }
+  let tick = null;
+  view.addEventListener('scroll', () => { if (tick) return; tick = setTimeout(() => { tick = null; syncHash(); }, 150); });
+  syncHash();
 }
 // ---- Mark & Tag: Option-click (Alt-click) selects a file or document, Shift-Option-click adds to the selection.
 // Marks and user tags are kept for this browser session only (sessionStorage), never sent anywhere.
@@ -782,7 +785,9 @@ function route(){
   DQ = view === 'detail';
   $('#q').placeholder = view === 'detail' ? 'Search this file…' : view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…  (try place:Taihoku year:1936)';
   if (view === 'detail'){ const [, id, kind, ...v] = h.split('/'); return detailView(id, kind, v.length ? v.join('/') : null); }
-  if (view === 'spotdetail'){ const [sid, k, pg] = h.slice(2).split('/'); return spotlightDetail(sid, k === 'p' ? +pg : null); }
+  if (view === 'spotdetail'){ const [sid, ...rest] = h.slice(2).split('/'), kv = {};
+    for (let i = 0; i + 1 < rest.length; i += 2) kv[rest[i]] = rest[i + 1];
+    return spotlightDetail(sid, kv.p ? +kv.p : null, kv.v ? kv.v.split(/[+ ]/).filter(m => ['raw', 'clean', 'ja', 'image'].includes(m)).slice(0, 2) : null); }
   if (view === 'spotlight') return spotlightView(h.startsWith('spotlight/') ? h.slice(10) : null);
   if (view === 'about') return aboutView();
   if (view === 'set') return setView(SET);
