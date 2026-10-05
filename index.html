@@ -432,7 +432,7 @@ function spotlightView(slug){
   $('#spsort').onchange = ev => { SPSORT = ev.target.value; SPREV = SPSORT === 'added'; spotlightView(slug); };
   $('#sprev').onclick = () => { SPREV = !SPREV; spotlightView(slug); };
 }
-function spotlightDetail(id){
+function spotlightDetail(id, startPage){
   const e = SP.find(e => e.id === id), [x, s] = e ? spCtx(e) : []; if (!e || !x || !s){ main.innerHTML = '<p>Not found.</p>'; return; }
   const i = SP.indexOf(e), prev = SP[i-1], next = SP[i+1];
   const rawM = new Map(e.raw), cleanM = e.clean ? new Map(e.clean) : null;
@@ -508,6 +508,18 @@ function spotlightDetail(id){
   };
   const j = $('#spj'); if (j) j.onchange = () => { const el = j.value && document.getElementById('sp-p' + j.value); if (el) view.scrollTop = el.offsetTop; j.value = ''; };
   draw();
+  // keep the address in step with the page being read (#s/<id>/p/<page>), so a link can be shared;
+  // replaceState does not add history entries or trigger a re-render
+  const go = pg => { const el = document.getElementById('sp-p' + pg); if (el) view.scrollTop = el.offsetTop; };
+  if (startPage){ go(startPage);  // images above the target change height as they load: re-anchor until the reader scrolls
+    let moved = false; ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(t => view.addEventListener(t, () => { moved = true; }, {once: true}));
+    view.querySelectorAll('img').forEach(im => im.addEventListener('load', () => { if (!moved) go(startPage); })); }
+  let tick = null;
+  view.addEventListener('scroll', () => { if (tick) return; tick = setTimeout(() => { tick = null;
+    let cur = pages[0];
+    for (const p of pages){ const el = document.getElementById('sp-p' + p); if (el && el.offsetTop <= view.scrollTop + 40) cur = p; else break; }
+    const h = '#s/' + id + (cur !== pages[0] || view.scrollTop > 40 ? '/p/' + cur : '');
+    if (location.hash !== h) history.replaceState(null, '', h); }, 150); });
 }
 // ---- Mark & Tag: Option-click (Alt-click) selects a file or document, Shift-Option-click adds to the selection.
 // Marks and user tags are kept for this browser session only (sessionStorage), never sent anywhere.
@@ -728,7 +740,7 @@ function route(){
   DQ = view === 'detail';
   $('#q').placeholder = view === 'detail' ? 'Search this file…' : view === 'fulltext' ? 'Search the full OCR text of every page…' : 'Search titles, summaries, people, places, keywords…  (try place:Taihoku year:1936)';
   if (view === 'detail'){ const [, id, kind, ...v] = h.split('/'); return detailView(id, kind, v.length ? v.join('/') : null); }
-  if (view === 'spotdetail') return spotlightDetail(h.slice(2));
+  if (view === 'spotdetail'){ const [sid, k, pg] = h.slice(2).split('/'); return spotlightDetail(sid, k === 'p' ? +pg : null); }
   if (view === 'spotlight') return spotlightView(h.startsWith('spotlight/') ? h.slice(10) : null);
   if (view === 'about') return aboutView();
   if (view === 'set') return setView(SET);
