@@ -1,0 +1,35 @@
+{
+ "interest": "Valuable for its detailed 1935 mine-by-mine production statistics, colonial mining records, and documentation of wartime Chinese silver smuggling.",
+ "keywords": [
+  "Silver",
+  "Japan",
+  "Chosen (Korea)",
+  "Taiwan",
+  "Mining",
+  "Gold Fund Special Accounts Law",
+  "Smuggling",
+  "Kobe Consulate",
+  "United States",
+  "Coinage",
+  "Price controls",
+  "Consular reports"
+ ],
+ "overview": "This file comprises a detailed 1939 voluntary consular report from Kobe analyzing silver mobilization, production, and trade across the Japanese Empire. It covers state price and consumption controls under the Gold Fund Special Accounts Law, clandestine inflows of Chinese silver, colonial mining in Korea and Taiwan, and international exports to the United States.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 12533,
+   "output_tokens": 3233,
+   "thinking_tokens": 3037,
+   "cache_read_tokens": 0,
+   "total_tokens": 15766
+  },
+  "backend": "agy",
+  "pdf": "894.6342 Mines. Mining. Concessions., Precious Metals And Precious Stones., Japan, Silver.,  377.pdf",
+  "pages": 49,
+  "sections": 1,
+  "seconds": 15.0,
+  "created": "2026-10-05 10:36:14",
+  "key": "japan-internal-affairs-894.6342-mines-mining-concessions-2"
+ }
+}

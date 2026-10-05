@@ -1,0 +1,183 @@
+{
+ "keywords": [
+  "weights and measures",
+  "conversion tables",
+  "Japanese units of measure",
+  "metric system",
+  "shaku",
+  "tsubo",
+  "Civil Property Custodian",
+  "Supreme Commander for the Allied Powers",
+  "currency conversion",
+  "Japanese calendar"
+ ],
+ "people": [
+  {
+   "name": "Richard H. Bushner",
+   "role": "Drafter",
+   "variants": [
+    "RHBushner"
+   ]
+  },
+  {
+   "name": "Emperor Meiji",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor Meiji",
+    "Meiji"
+   ]
+  },
+  {
+   "name": "Emperor Jimmu",
+   "role": "Japan's first Emperor",
+   "variants": [
+    "Jimmu Tenno"
+   ]
+  },
+  {
+   "name": "Emperor Taisho",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Emperor Taisho",
+    "Taisho"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "tokyo"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "FOR JAPAN",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United sates",
+    "U.S.",
+    "American"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "kyoto"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kansai"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "Otsu",
+    "otsu",
+    "Otsu shi"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kanto"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Takayama",
+   "variants": [
+    "Takayama"
+   ]
+  }
+ ],
+ "section_summary": "This section contains U.S. Political Adviser Despatch No. 987 from Tokyo, dated April 19, 1947, forwarding five copies of a reference brochure entitled 'Conversion Tables' prepared by the Civil Property Custodian of GHQ SCAP. The brochure provides official mathematical equivalents, conversion tables, and explanatory notes bridging traditional Japanese units of measurement, the metric system, and United States customary units. Topics covered include measurements of length, area, capacity, volume, weight, textiles, lumber, foodstuffs, dollar-yen currency conversion, and a concordance of Japanese imperial eras with Western calendar years.",
+ "subfiles": [
+  {
+   "about": "Transmittal of five copies of a reference brochure of conversion tables between Japanese and United States units of measurement.",
+   "continues_previous": false,
+   "date": "1947-04-19",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "United States Political Adviser, Tokyo",
+   "keywords": [
+    "weights and measures",
+    "conversion tables",
+    "metric system",
+    "Civil Property Custodian",
+    "SCAP"
+   ],
+   "start_page": 1,
+   "summary": "Transmits copies of GHQ SCAP's brochure converting Japanese measurement units to United States units for Department use.",
+   "title": "Tables of Conversion from Japanese Units of Measure to United States Units",
+   "to": "Department of State"
+  },
+  {
+   "about": "A reference handbook providing mathematical equivalents and conversion tables between Japanese traditional units, metric units, and United States customary units.",
+   "continues_previous": false,
+   "date": "1947-04-19",
+   "doc_type": "brochure",
+   "end_page": 58,
+   "from": "Civil Property Custodian, General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "weights and measures",
+    "conversion tables",
+    "shaku",
+    "tsubo",
+    "koku",
+    "momme",
+    "metric system",
+    "currency conversion",
+    "Civil Property Custodian",
+    "Japanese calendar"
+   ],
+   "start_page": 2,
+   "summary": "This reference handbook prepared by the Civil Property Custodian of GHQ SCAP provides conversion formulas, mathematical definitions, and detailed tables comparing Japanese traditional units, metric units, and United States customary units. It covers measurements of length, area, capacity, volume, weight, textiles, room sizes, lumber, and foodstuffs, as well as official exchange rates between United States dollars and Japanese yen. The brochure also includes an explanatory guide and conversion table correlating Japanese imperial calendar eras from Emperor Jimmu through Showa 24 with Western calendar years.",
+   "title": "Conversion Tables",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 61422,
+   "output_tokens": 20784,
+   "thinking_tokens": 19805,
+   "cache_read_tokens": 0,
+   "total_tokens": 82206
+  },
+  "backend": "agy",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   58
+  ],
+  "pdf": "894.9251 Science. Philosophy., Physics., Japan, Weights And Measures., April 19, 1947 1571.pdf",
+  "seconds": 72.9,
+  "created": "2026-10-05 09:45:36",
+  "key": "japan-internal-affairs-894.9251-science-philosophy-physics-2"
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "keywords": [
+  "iron ore",
+  "pig iron",
+  "steel production",
+  "Natural Resources Section",
+  "Korea",
+  "Japan",
+  "procurement",
+  "SCAP",
+  "foreign trade",
+  "freight rates"
+ ],
+ "people": [
+  {
+   "name": "William J. Sebald",
+   "role": "USPOLAD, Tokyo",
+   "variants": [
+    "SEBALD"
+   ]
+  },
+  {
+   "name": "John H. Whitlock",
+   "role": "Whitlock Mining Company",
+   "variants": [
+    "John H. Whitlock",
+    "JOHN H WHITLOCK"
+   ]
+  },
+  {
+   "name": "Isaiah Frank",
+   "role": "Adviser, International Resources Division, State Department",
+   "variants": [
+    "Isaiah Frank",
+    "Isaia Franck"
+   ]
+  },
+  {
+   "name": "Col. Swarm",
+   "role": "Officer, Department of the Army",
+   "variants": [
+    "Col. Swarm"
+   ]
+  },
+  {
+   "name": "T. G. Gregory",
+   "role": "Representative, Brown, Brown and Brown",
+   "variants": [
+    "T. G. Gregory",
+    "Mr. T. G. Gregory",
+    "Mr. Gregory",
+    "TGG"
+   ]
+  },
+  {
+   "name": "A. B. Merritt",
+   "role": "Chief, Division of Information, Reconstruction Finance Corporation",
+   "variants": [
+    "A. B. MERRITT",
+    "C. MERRITT"
+   ]
+  },
+  {
+   "name": "Merrill C. Gay",
+   "role": "Assistant Chief, Division of Commercial Policy, Department of State",
+   "variants": [
+    "Merrill C. Gay"
+   ]
+  },
+  {
+   "name": "V. McClung",
+   "role": "Drafter, Department of State",
+   "variants": [
+    "VMcClung"
+   ]
+  },
+  {
+   "name": "J. F. Shaw",
+   "role": "Drafter, Department of State",
+   "variants": [
+    "JFShaw"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan",
+    "Jepan",
+    "Japan Proper",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "KOREA",
+    "Korea",
+    "Southern Korea"
+   ]
+  },
+  {
+   "name": "Songrim",
+   "variants": [
+    "Kenjiko"
+   ]
+  },
+  {
+   "name": "Chongjin",
+   "variants": [
+    "Seishin"
+   ]
+  },
+  {
+   "name": "South Pyongan",
+   "variants": [
+    "Heinan"
+   ]
+  },
+  {
+   "name": "Samcheok",
+   "variants": [
+    "Sanchou"
+   ]
+  },
+  {
+   "name": "Nangok",
+   "variants": [
+    "Ranko"
+   ]
+  },
+  {
+   "name": "Unsan",
+   "variants": [
+    "Lniayu"
+   ]
+  },
+  {
+   "name": "Nampo",
+   "variants": [
+    "Chinapo"
+   ]
+  },
+  {
+   "name": "Eunjeon",
+   "variants": [
+    "Ginzen"
+   ]
+  },
+  {
+   "name": "Pyongyang",
+   "variants": [
+    "Heijo"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu",
+    "Southern Honshu",
+    "Northern Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Benxi",
+   "variants": [
+    "Honkeido"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Kasumigaseki",
+   "variants": [
+    "Kasumigaseki"
+   ]
+  },
+  {
+   "name": "Chiyoda",
+   "variants": [
+    "Chiyodaku"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "WASHINGTON 25, D. C."
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan",
+    "Hinan"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya",
+    "Helayan",
+    "Melayan"
+   ]
+  },
+  {
+   "name": "Larap",
+   "variants": [
+    "Larap"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "U.S.S.R."
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "In 1e"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "hilliopines",
+    "Hili poine",
+    "Philippine"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles",
+    "LOSANGELS"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "CALIF"
+   ]
+  },
+  {
+   "name": "Cleveland",
+   "variants": [
+    "Cleveland",
+    "CLEVELAND"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "Ohio",
+    "OHIO"
+   ]
+  }
+ ],
+ "section_summary": "This section contains concluding pages of Natural Resources Section Report No. 50 on the iron and steel metallurgy of the Japanese Empire, presenting statistical tables on Korean pig iron and steel production along with NRS report and distribution lists. It also includes State Department correspondence, telegrams, and inquiries from 1948 and 1949 regarding iron ore procurement for Japan. These documents cover SCAP's international supply contracts as well as American commercial inquiries concerning iron ore exports and transpacific freight rates.",
+ "subfiles": [
+  {
+   "about": "Concluding pages of a report on iron and steel metallurgy, providing Korean production tables, a report list, and official distribution.",
+   "continues_previous": true,
+   "date": "1946-10-31",
+   "doc_type": "report",
+   "end_page": 56,
+   "from": "Natural Resources Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "iron and steel",
+    "metallurgy",
+    "Korea",
+    "pig iron",
+    "blast furnaces",
+    "Natural Resources Section",
+    "distribution list"
+   ],
+   "start_page": 53,
+   "summary": "This report provides statistical data on pig iron and steel production and blast furnaces in Korea from 1925 to 1945. It includes a cumulative catalog of published Natural Resources Section reports and an extensive distribution list covering Allied military and civilian occupation agencies.",
+   "title": "Report No. 50: Iron and Steel Metallurgy of the Japanese Empire",
+   "to": ""
+  },
+  {
+   "about": "Record copy replacement form designating an attached copy of Tokyo Airgram A-161 as the official central record copy.",
+   "continues_previous": false,
+   "date": "1948-11-09",
+   "doc_type": "form",
+   "end_page": 57,
+   "from": "Division of Communications and Records, Department of State",
+   "keywords": [
+    "record copy",
+    "Airgram A-161",
+    "Tokyo",
+    "replacement form",
+    "Central Records"
+   ],
+   "start_page": 57,
+   "summary": "Form designating an attached copy of Tokyo Airgram A-161 as the permanent record copy to replace the unreturned original.",
+   "title": "File Record Copy Form for Tokyo Airgram A-161",
+   "to": "Central Records, Department of State"
+  },
+  {
+   "about": "Airgram reporting on signed contracts and ongoing negotiations to import iron ore into Japan from Asian and international sources.",
+   "continues_previous": false,
+   "date": "1948-07-31",
+   "doc_type": "airgram",
+   "end_page": 58,
+   "from": "USPOLAD, Tokyo",
+   "keywords": [
+    "iron ore",
+    "Japan",
+    "procurement",
+    "contracts",
+    "Hainan",
+    "Malaya",
+    "Larap"
+   ],
+   "start_page": 58,
+   "summary": "Airgram reporting signed contracts and negotiations to procure iron ore for Japan from Malaya, Hainan, Larap, and other sources.",
+   "title": "Airgram A-161 from Tokyo Regarding Iron Ore Procurement for Japan",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Telegram advising an American mining company on submitting iron ore offers to Japanese government import authorities in Tokyo.",
+   "continues_previous": false,
+   "date": "1949-01-12",
+   "doc_type": "telegram",
+   "end_page": 59,
+   "from": "Isaiah Frank, Adviser, International Resources Division, Department of State",
+   "keywords": [
+    "iron ore",
+    "Boeki Cho",
+    "Whitlock Mining Company",
+    "Tokyo",
+    "export",
+    "offer"
+   ],
+   "start_page": 59,
+   "summary": "Telegram advising John H. Whitlock to submit his iron ore offer directly to Boeki Cho in Tokyo.",
+   "title": "Telegram to John H. Whitlock Concerning Iron Ore Export to Japan",
+   "to": "John H. Whitlock, Whitlock Mining Company"
+  },
+  {
+   "about": "Telegram inquiring about parties interested in purchasing high-grade iron ore for shipment to Japan.",
+   "continues_previous": false,
+   "date": "1949-01-07",
+   "doc_type": "telegram",
+   "end_page": 60,
+   "from": "John H. Whitlock, Whitlock Mining Company",
+   "keywords": [
+    "iron ore",
+    "Whitlock Mining Company",
+    "Japan",
+    "shipment",
+    "inquiry"
+   ],
+   "start_page": 60,
+   "summary": "Telegram inquiring about parties wanting to purchase high-grade iron ore for shipment to Japan.",
+   "title": "Telegram from John H. Whitlock Inquiring on Iron Ore Sales to Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Letter seeking U.S. government financial or agency assistance regarding high ocean freight rates on iron ore shipments to Japan.",
+   "continues_previous": false,
+   "date": "1949-05-20",
+   "doc_type": "letter",
+   "end_page": 61,
+   "from": "T. G. Gregory, Brown, Brown and Brown",
+   "keywords": [
+    "iron ore",
+    "Japan",
+    "ocean freight",
+    "Reconstruction Finance Corporation",
+    "economic recovery"
+   ],
+   "start_page": 61,
+   "summary": "Letter requesting government assistance with prohibitive ocean freight rates that prevent supplying American iron ore to Japan.",
+   "title": "Letter from Brown, Brown and Brown Regarding Ocean Freight Rates on Iron Ore to Japan",
+   "to": "Reconstruction Finance Corporation"
+  },
+  {
+   "about": "Transmittal letter forwarding an inquiry from Brown, Brown and Brown regarding iron ore exports to Japan to the State Department.",
+   "continues_previous": false,
+   "date": "1949-06-07",
+   "doc_type": "letter",
+   "end_page": 62,
+   "from": "A. B. Merritt, Chief, Division of Information, Reconstruction Finance Corporation",
+   "keywords": [
+    "referral",
+    "Reconstruction Finance Corporation",
+    "Department of State",
+    "iron ore",
+    "inquiry"
+   ],
+   "start_page": 62,
+   "summary": "Letter referring T. G. Gregory's inquiry about supplying iron ore to Japan to the State Department.",
+   "title": "Letter Referring Brown, Brown and Brown Inquiry to Department of State",
+   "to": "Department of State"
+  },
+  {
+   "about": "Letter informing an inquirer that no iron ore is currently procured from the United States for Japan and suggesting Army contacts.",
+   "continues_previous": false,
+   "date": "1949-06-20",
+   "doc_type": "letter",
+   "end_page": 63,
+   "from": "Merrill C. Gay, Assistant Chief, Division of Commercial Policy, Department of State",
+   "keywords": [
+    "iron ore",
+    "Japan",
+    "procurement",
+    "Department of the Army",
+    "commercial policy"
+   ],
+   "start_page": 63,
+   "summary": "Letter stating no iron ore is currently procured from the United States for Japan, suggesting contacting the Army.",
+   "title": "Letter to T. G. Gregory Concerning Iron Ore Procurement for Japan",
+   "to": "T. G. Gregory, Brown, Brown and Brown"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 18231,
+   "output_tokens": 30704,
+   "thinking_tokens": 28085,
+   "cache_read_tokens": 0,
+   "total_tokens": 48935
+  },
+  "backend": "agy",
+  "section": 2,
+  "sections": 2,
+  "pages": [
+   53,
+   63
+  ],
+  "pdf": "894.6351 Mines. Mining. Concessions., Base Metals., Japan, Iron., October 4, 1946 - May 20, 1949 1727.pdf",
+  "seconds": 85.6,
+  "created": "2026-10-05 10:33:48",
+  "key": "japan-internal-affairs-894.6351-mines-mining-concessions-4"
+ }
+}

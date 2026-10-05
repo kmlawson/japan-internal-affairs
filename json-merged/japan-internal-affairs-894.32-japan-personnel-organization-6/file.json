@@ -1,0 +1,35 @@
+{
+ "interest": "Provides pre-WWII U.S. intelligence evaluations of key Japanese naval commanders' character, strategic outlook, and foreign attitudes.",
+ "keywords": [
+  "Imperial Japanese Navy",
+  "intelligence dossiers",
+  "naval personnel",
+  "service records",
+  "Isoroku Yamamoto",
+  "Koshiro Oikawa",
+  "Shigetaro Shimada",
+  "Mitsumasa Yonai",
+  "Zengo Yoshida",
+  "Shanghai",
+  "strategic outlook",
+  "naval attachés"
+ ],
+ "overview": "This file comprises confidential intelligence dossiers, service records, and evaluations compiled on senior Imperial Japanese Navy officers with surnames O through Y, dated September 1941, alongside a Department of State cross-reference note concerning Japanese commanders and staff in Shanghai. It details promotion histories, assignments, decorations, and strategic assessments of prominent naval leaders including Koshiro Oikawa, Shigetaro Shimada, Isoroku Yamamoto, Mitsumasa Yonai, and Zengo Yoshida just prior to the outbreak of the Pacific War.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 12589,
+   "output_tokens": 3953,
+   "thinking_tokens": 3712,
+   "cache_read_tokens": 0,
+   "total_tokens": 16542
+  },
+  "backend": "agy",
+  "pdf": "894.32 Japan, Personnel. Organization. Discipline. Mutiny. Compulsory Naval Services., September 30, 1941 1304.pdf",
+  "pages": 75,
+  "sections": 1,
+  "seconds": 20.3,
+  "created": "2026-10-05 09:56:32",
+  "key": "japan-internal-affairs-894.32-japan-personnel-organization-6"
+ }
+}

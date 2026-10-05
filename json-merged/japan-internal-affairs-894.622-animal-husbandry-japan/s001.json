@@ -1,0 +1,696 @@
+{
+ "keywords": [
+  "animal husbandry",
+  "livestock industry",
+  "dairy cattle",
+  "draft cattle",
+  "horses",
+  "feed shortages",
+  "meat production",
+  "dairy products",
+  "dog registration",
+  "Natural Resources Section"
+ ],
+ "people": [
+  {
+   "name": "R. H. Sterling",
+   "role": "Captain, Agriculture Division, Natural Resources Section, General Headquarters, Supreme Commander for the Allied Powers; author of Report No. 30",
+   "variants": [
+    "Capt. R. H. Sterling",
+    "R. H. Sterling"
+   ]
+  },
+  {
+   "name": "Prince Asaakira Kuni",
+   "role": "President of the Japan Shepherd Dog Association; brother of the Empress",
+   "variants": [
+    "Prince Asaakira Kuni"
+   ]
+  },
+  {
+   "name": "Fujimaro Tsukuba",
+   "role": "Chief Director of the Japan Shepherd Dog Association",
+   "variants": [
+    "Fujimaro Tsukuba"
+   ]
+  },
+  {
+   "name": "Motokuma Nakajima",
+   "role": "Managing Director of the Japan Shepherd Dog Association",
+   "variants": [
+    "Motokuma Najajima",
+    "Motokuma Nakajima"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN",
+    "Japen",
+    "Japan Proper",
+    "Japan Preper"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES",
+    "American"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokarido",
+    "Hokkaidn",
+    "Hokkeidg"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Kitamaki",
+   "variants": [
+    "Kitanaki-mura"
+   ]
+  },
+  {
+   "name": "Chūgoku Region",
+   "variants": [
+    "Chygoku",
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Kawai",
+   "variants": [
+    "Kawai Mura"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shinane",
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Nishinasuno",
+   "variants": [
+    "Nishi-Nasu Machi",
+    "Mishi - Nasu Machi"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi",
+    "Tochicl"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "Aonori",
+    "Acmori"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima",
+    "Kagoshina",
+    "Kegoshira"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlends"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka",
+    "Shizuoke"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kenagawe"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa",
+    "Ishikawe"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu",
+    "northern Honshu",
+    "northeast Honshu",
+    "northwestern Honshu",
+    "Southern Honshu",
+    "Northern Honshu"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korean",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita",
+    "Akite"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima",
+    "Fukushime",
+    "Fukushina"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Kyishu"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "French"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki",
+    "Iberaki"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata",
+    "Yamageta",
+    "Yamasata"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka",
+    "Fieaoka"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama",
+    "Toyamą"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "Hircshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "Yameguchi"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima",
+    "Tokishima"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "Kcgawa"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kochi",
+    "Kochi.",
+    "Kocki"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga",
+    "Sage"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto",
+    "Kumemoto"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oita",
+    "01ta",
+    "Cite"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki",
+    "Miyazakd"
+   ]
+  },
+  {
+   "name": "Ōmiya",
+   "variants": [
+    "Omiya"
+   ]
+  },
+  {
+   "name": "Okazaki",
+   "variants": [
+    "Okazaki"
+   ]
+  },
+  {
+   "name": "Harima",
+   "variants": [
+    "Harima"
+   ]
+  },
+  {
+   "name": "Higo",
+   "variants": [
+    "Higo"
+   ]
+  },
+  {
+   "name": "Hidaka",
+   "variants": [
+    "Hidaka"
+   ]
+  },
+  {
+   "name": "Ōu",
+   "variants": [
+    "Ou"
+   ]
+  },
+  {
+   "name": "Shirakawa",
+   "variants": [
+    "Shirakawa"
+   ]
+  },
+  {
+   "name": "Suruga",
+   "variants": [
+    "Suruga"
+   ]
+  },
+  {
+   "name": "Tōhoku Region",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kantō Region",
+   "variants": [
+    "Kanto"
+   ]
+  },
+  {
+   "name": "Kansai Region",
+   "variants": [
+    "Kansai"
+   ]
+  },
+  {
+   "name": "Seibu",
+   "variants": [
+    "Seibu"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Benxihu",
+   "variants": [
+    "Honkeiko"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "British Commonwealth",
+   "variants": [
+    "British Commonwealth"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  }
+ ],
+ "section_summary": "This section contains U.S. State Department records relating to animal husbandry and domestic animals in occupied Japan. The bulk of the material consists of Report No. 30 of the SCAP Natural Resources Section, 'The Livestock Industry of Japan' (April 18, 1946), transmitted with a cover despatch from the U.S. Political Adviser in Tokyo, which provides a comprehensive statistical and administrative review of livestock populations, feed shortages, slaughter, and production across all prefectures from 1926 to 1946. The section concludes with a February 1948 despatch from the Acting Political Adviser concerning dog registration and the Japan Shepherd Dog Association, followed by the misfiled distribution schedule for Report No. 30.",
+ "subfiles": [
+  {
+   "about": "Cover despatch transmitting two copies of SCAP Natural Resources Section Report No. 30 on the livestock industry of Japan.",
+   "continues_previous": false,
+   "date": "1946-04-24",
+   "doc_type": "Despatch",
+   "end_page": 1,
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "keywords": [
+    "livestock industry",
+    "Natural Resources Section",
+    "Report No. 30",
+    "SCAP",
+    "transmission"
+   ],
+   "start_page": 1,
+   "summary": "Cover despatch transmitting two copies of SCAP Natural Resources Section Report No. 30 on the Japanese livestock industry.",
+   "title": "Despatch No. 387: Livestock Industry of Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Comprehensive survey of Japan's livestock industry, historical populations, production statistics, wartime feed shortages, and outlook for 1946.",
+   "continues_previous": false,
+   "date": "1946-04-18",
+   "doc_type": "Report",
+   "end_page": 59,
+   "from": "Capt. R. H. Sterling, Agriculture Division, Natural Resources Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "livestock industry",
+    "dairy cattle",
+    "draft cattle",
+    "horses",
+    "feed shortages",
+    "meat production",
+    "dairy products"
+   ],
+   "start_page": 2,
+   "summary": "This comprehensive survey by SCAP's Natural Resources Section examines the Japanese livestock industry, compiling detailed population, slaughter, and production figures from 1926 through 1945 across all prefectures for dairy cattle, draft cattle, horses, hogs, sheep, goats, rabbits, and poultry. It analyzes the severe impact of wartime concentrate feed shortages and food scarcity on domestic herds, alongside government breeding and distribution controls. The report outlines the 1946 production outlook, concluding that significant expansion is heavily restricted by limited pasturage and feed supplies.",
+   "title": "Report No. 30: The Livestock Industry of Japan",
+   "to": "General Headquarters, Supreme Commander for the Allied Powers"
+  },
+  {
+   "about": "Despatch reporting on the Japan Shepherd Dog Association, its leadership, and dog registration procedures in occupied Japan.",
+   "continues_previous": false,
+   "date": "1948-02-17",
+   "doc_type": "Despatch",
+   "end_page": 60,
+   "from": "Acting United States Political Adviser for Japan, Tokyo",
+   "keywords": [
+    "dogs",
+    "Japan Shepherd Dog Association",
+    "German Shepherds",
+    "Prince Asaakira Kuni",
+    "dog registration"
+   ],
+   "start_page": 60,
+   "summary": "Despatch reporting on the Japan Shepherd Dog Association, its leadership under Prince Kuni, and enclosing two dog pedigree registers.",
+   "title": "Registry of Dogs in Japan",
+   "to": "Department of State"
+  },
+  {
+   "about": "Distribution sheet detailing copy allocations for SCAP Natural Resources Section Report No. 30 among military and occupation divisions.",
+   "continues_previous": false,
+   "date": "1946-04-18",
+   "doc_type": "Distribution list",
+   "end_page": 61,
+   "from": "Natural Resources Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "Report No. 30",
+    "distribution list",
+    "Natural Resources Section",
+    "SCAP",
+    "Allied Powers"
+   ],
+   "start_page": 61,
+   "summary": "Distribution schedule allocating copies of SCAP Natural Resources Section Report No. 30 across occupation commands and military government sections.",
+   "title": "Distribution of Report No. 30",
+   "to": "Distribution list"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 50149,
+   "output_tokens": 25784,
+   "thinking_tokens": 22945,
+   "cache_read_tokens": 0,
+   "total_tokens": 75933
+  },
+  "backend": "agy",
+  "section": 1,
+  "sections": 1,
+  "pages": [
+   1,
+   61
+  ],
+  "pdf": "894.622 Animal Husbandry., Japan, Domestic Animals. Ill-Treatment., April 24, 1946 - February 17, 1948 1617.pdf",
+  "seconds": 72.3,
+  "created": "2026-10-05 10:49:02",
+  "key": "japan-internal-affairs-894.622-animal-husbandry-japan"
+ }
+}

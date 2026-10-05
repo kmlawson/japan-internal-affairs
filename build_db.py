@@ -3,8 +3,13 @@
 Mention counts for places and people are counted in the OCR text itself (all the
 spellings the model reported for that name), not taken from the model.
 Run any time; it rebuilds from whatever JSON exists so far.
+
+Speed: counting mentions is the slow part (one pattern search per name over a file's whole OCR text).
+Counts and page totals are cached in .counts-cache.json, keyed by the OCR file's path, size and
+modification time plus the exact list of names, so only new or changed files are recounted; those are
+counted in parallel on all but two CPU cores. Delete the cache file to force a full recount.
 """
-import os, re, csv, json, sqlite3
+import os, re, csv, json, sqlite3, hashlib, multiprocessing
 
 WEB = os.path.dirname(os.path.abspath(__file__))
 FILES = os.path.dirname(WEB)
@@ -20,8 +25,8 @@ def count(text, variants):
     return len(rx.findall(text))
 
 
-def merge_names(items, text):
-    """Combine entries with the same name; count mentions in the OCR text."""
+def group_names(items):
+    """Combine entries with the same name: [(name, role, sorted variants)]."""
     by = {}
     for it in items:
         n = it["name"].strip()
@@ -29,11 +34,77 @@ def merge_names(items, text):
         e = by.setdefault(n.lower(), {"name": n, "role": it.get("role", ""), "variants": set()})
         e["variants"].update(it.get("variants") or []); e["variants"].add(n)
         if not e["role"] and it.get("role"): e["role"] = it["role"]
-    out = []
-    for e in by.values():
-        out.append({"name": e["name"], "role": e["role"], "count": count(text, e["variants"])})
+    return [(e["name"], e["role"], sorted(e["variants"])) for e in by.values()]
+
+
+def analyse(job):
+    """Worker: page total and mention counts for one OCR file. job = (key, text path, places, people)."""
+    key, tp, places, people = job
+    text = open(tp, encoding="utf-8").read()
+    pages = len(re.findall(r"^=== Page \d+ ===", text, re.M))
+    return key, {"pages": pages, "pl": [count(text, v) for _, _, v in places], "pe": [count(text, v) for _, _, v in people]}
+
+
+def fingerprint(job):
+    key, tp, places, people = job
+    st = os.stat(tp)
+    return hashlib.sha1(json.dumps([tp, st.st_size, st.st_mtime_ns, places, people], ensure_ascii=False).encode()).hexdigest()
+
+
+def run_jobs(jobs):
+    """Return {key: {"pages", "pl", "pe"}}, using the cache and counting misses in parallel."""
+    path = os.path.join(WEB, ".counts-cache.json")
+    try: cache = json.load(open(path, encoding="utf-8"))
+    except (OSError, ValueError): cache = {}
+    fps = {j[0]: fingerprint(j) for j in jobs}
+    todo = [j for j in jobs if cache.get(j[0], {}).get("fp") != fps[j[0]]]
+    print(f"mention counts: {len(jobs) - len(todo)} cached, {len(todo)} to count", flush=True)
+    if todo:
+        todo.sort(key=lambda j: -os.path.getsize(j[1]))  # biggest first, so the pool finishes evenly
+        with multiprocessing.get_context("fork").Pool(max(1, (os.cpu_count() or 4) - 2)) as pool:
+            for n, (key, res) in enumerate(pool.imap_unordered(analyse, todo), 1):
+                cache[key] = {"fp": fps[key], **res}
+                if n % 50 == 0: print(f"  counted {n}/{len(todo)}", flush=True)
+        keep = {j[0] for j in jobs}
+        cache = {k: v for k, v in cache.items() if k in keep}
+        json.dump(cache, open(path + ".tmp", "w", encoding="utf-8"), ensure_ascii=False); os.replace(path + ".tmp", path)
+    return cache
+
+
+def ranked(groups, counts):
+    out = [{"name": n, "role": r, "count": c} for (n, r, _), c in zip(groups, counts)]
     return sorted(out, key=lambda e: (-e["count"], e["name"]))
 
+
+# ---- pre-pass: every OCR file to analyse (small files in json/, catalogued merged files, uncatalogued merged files) ----
+MERGED = os.path.join(FILES, "merged")
+mrows = list(csv.DictReader(open(os.path.join(WEB, "merged-items.csv"), encoding="utf-8")))
+mtitle = {r["identifier"]: r for r in mrows if r["title"]}
+mdir = os.path.join(WEB, "json-merged")
+
+
+def merged_text(pdf):
+    return next((q for q in (os.path.join(MERGED, sub, pdf[:-4] + ".txt") for sub in ("ocr", "ocr-batch3", "ocr-batch4")) if os.path.exists(q)), None)
+
+
+JOBS, GROUPS, SMALL, MERGEDF = [], {}, [], []
+for fn in sorted(os.listdir(os.path.join(WEB, "json"))):
+    if not fn.endswith(".json"): continue
+    d = json.load(open(os.path.join(WEB, "json", fn), encoding="utf-8")); ident = fn[:-5]
+    GROUPS[ident] = (group_names(d.get("places", [])), group_names(d.get("people", [])))
+    JOBS.append((ident, os.path.join(FILES, "ocr", rows[ident]["file"][:-4] + ".txt"), *GROUPS[ident])); SMALL.append((fn, d))
+for key in sorted(os.listdir(mdir)) if os.path.isdir(mdir) else []:
+    fj = os.path.join(mdir, key, "file.json")
+    if not os.path.exists(fj): continue
+    fd = json.load(open(fj, encoding="utf-8"))
+    secs = [json.load(open(os.path.join(mdir, key, f"s{i:03d}.json"), encoding="utf-8")) for i in range(1, fd["_meta"]["sections"] + 1)]
+    GROUPS[key] = (group_names([p for sc in secs for p in sc.get("places", [])]), group_names([p for sc in secs for p in sc.get("people", [])]))
+    JOBS.append((key, merged_text(fd["_meta"]["pdf"]), *GROUPS[key])); MERGEDF.append((key, fd, secs))
+done_pdfs = {fd["_meta"]["pdf"] for _, fd, _ in MERGEDF}
+for item in mrows:
+    tp = None if item["file"] in done_pdfs else merged_text(item["file"])
+    if tp: JOBS.append(("skeleton:" + item["file"], tp, [], []))
+R = run_jobs(JOBS)
 
 DB_FINAL = DB; DB = DB + ".building"
 if os.path.exists(DB): os.remove(DB)
@@ -54,16 +125,13 @@ CREATE INDEX i_sub ON subfiles(file_id);
 """)
 
 site = []
-for fn in sorted(os.listdir(os.path.join(WEB, "json"))):
-    if not fn.endswith(".json"): continue
-    d = json.load(open(os.path.join(WEB, "json", fn), encoding="utf-8"))
+for fn, d in SMALL:
     ident = fn[:-5]; r = rows[ident]
-    text = open(os.path.join(FILES, "ocr", r["file"][:-4] + ".txt"), encoding="utf-8").read()
-    pages = len(re.findall(r"^=== Page \d+ ===", text, re.M))
+    pages = R[ident]["pages"]
     dec = r["title"].split(" ", 1)[0]
     num = int(re.search(r"\(File (\d+)\)$", r["title"]).group(1))
-    places = merge_names(d.get("places", []), text)
-    people = merge_names(d.get("people", []), text)
+    places = ranked(GROUPS[ident][0], R[ident]["pl"])
+    people = ranked(GROUPS[ident][1], R[ident]["pe"])
     kws = list(dict.fromkeys(k.strip() for k in d.get("keywords", []) if k.strip()))
     meta = d.get("_meta", {})
     db.execute("INSERT INTO files VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
@@ -89,28 +157,17 @@ for fn in sorted(os.listdir(os.path.join(WEB, "json"))):
                  "pl": [[p["name"], p["count"]] for p in places],
                  "pe": [[p["name"], p["role"], p["count"]] for p in people], "sub": subs})
 # ---- large merged PDFs (Paddle OCR), catalogued section by section in json-merged/ ----
-MERGED = os.path.join(FILES, "merged")
-mrows = list(csv.DictReader(open(os.path.join(WEB, "merged-items.csv"), encoding="utf-8")))
-mtitle = {r["identifier"]: r for r in mrows if r["title"]}
 nparts = {}
 for r in mrows: nparts[r["identifier"]] = nparts.get(r["identifier"], 0) + 1
-mdir = os.path.join(WEB, "json-merged")
 catalogued_pdfs = set()
-for key in sorted(os.listdir(mdir)) if os.path.isdir(mdir) else []:
-    fj = os.path.join(mdir, key, "file.json")
-    if not os.path.exists(fj): continue
-    fd = json.load(open(fj, encoding="utf-8")); pdf = fd["_meta"]["pdf"]
+for key, fd, secs in MERGEDF:
+    pdf = fd["_meta"]["pdf"]
     item = [r for r in mrows if r["file"] == pdf][0]; ia = item["identifier"]; head = mtitle[ia]
     m = re.search(r"-part-(\d+)\.pdf$", pdf)
     title = head["title"] + (f", part {m.group(1)} of {nparts[ia]}" if m else "")
-    tp = os.path.join(MERGED, "ocr", pdf[:-4] + ".txt")
-    for sub in ("ocr-batch3", "ocr-batch4"):
-        if not os.path.exists(tp): tp = os.path.join(MERGED, sub, pdf[:-4] + ".txt")
-    text = open(tp, encoding="utf-8").read()
-    pages = len(re.findall(r"^=== Page \d+ ===", text, re.M))
-    secs = [json.load(open(os.path.join(mdir, key, f"s{i:03d}.json"), encoding="utf-8")) for i in range(1, fd["_meta"]["sections"] + 1)]
-    places = merge_names([p for sc in secs for p in sc.get("places", [])], text)
-    people = merge_names([p for sc in secs for p in sc.get("people", [])], text)
+    pages = R[key]["pages"]
+    places = ranked(GROUPS[key][0], R[key]["pl"])
+    people = ranked(GROUPS[key][1], R[key]["pe"])
     sublist = []
     for sc in secs:
         for sd in sc.get("subfiles", []):
@@ -149,13 +206,12 @@ NOTE = "Note: The sub-file list, summaries, and tags for this file are not yet a
 for item in mrows:
     pdf = item["file"]
     if pdf in catalogued_pdfs: continue
-    tp = next((q for q in (os.path.join(MERGED, sub, pdf[:-4] + ".txt") for sub in ("ocr", "ocr-batch3", "ocr-batch4")) if os.path.exists(q)), None)
-    if not tp: continue
+    if "skeleton:" + pdf not in R: continue
     ia = item["identifier"]; head = mtitle[ia]
     m = re.search(r"-part-(\d+)\.pdf$", pdf)
     key = ia + (f"-part-{m.group(1)}" if m else "")
     title = head["title"] + (f", part {m.group(1)} of {nparts[ia]}" if m else "")
-    pages = len(re.findall(r"^=== Page \d+ ===", open(tp, encoding="utf-8").read(), re.M))
+    pages = R["skeleton:" + pdf]["pages"]
     dec = title.split(" ", 1)[0]; num = int(re.search(r"\(File (\d+)\)", title).group(1))
     remote = item["REMOTE_NAME"] or pdf
     db.execute("INSERT INTO files VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",

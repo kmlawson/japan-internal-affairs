@@ -1,0 +1,33 @@
+{
+ "interest": "Provides an indispensable reference tool for interpreting postwar economic data, property records, and traditional Japanese measurements.",
+ "keywords": [
+  "Weights and measures",
+  "Conversion tables",
+  "GHQ SCAP",
+  "Civil Property Custodian",
+  "Traditional Japanese units",
+  "Metric system",
+  "United States customary units",
+  "Currency conversion",
+  "Japanese imperial eras",
+  "Economic administration"
+ ],
+ "overview": "This file contains U.S. Political Adviser Despatch No. 987 from Tokyo and a comprehensive 57-page reference handbook entitled 'Conversion Tables', compiled in April 1947 by the Civil Property Custodian of GHQ SCAP. Designed to facilitate administrative and economic operations in occupied Japan, the handbook provides official mathematical equivalents bridging traditional Japanese units of measurement, the metric system, and United States customary units across diverse domains including length, capacity, weight, textiles, lumber, and foodstuffs, while also featuring dollar-yen conversion tables and a concordance of Japanese imperial eras with the Western calendar.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 12564,
+   "output_tokens": 4959,
+   "thinking_tokens": 4720,
+   "cache_read_tokens": 0,
+   "total_tokens": 17523
+  },
+  "backend": "agy",
+  "pdf": "894.9251 Science. Philosophy., Physics., Japan, Weights And Measures., April 19, 1947 1571.pdf",
+  "pages": 58,
+  "sections": 1,
+  "seconds": 33.2,
+  "created": "2026-10-05 09:46:19",
+  "key": "japan-internal-affairs-894.9251-science-philosophy-physics-2"
+ }
+}
