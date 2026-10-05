@@ -91,6 +91,7 @@ html.optdown [data-mk],html.optdown [data-mk] *{-webkit-user-select:none;user-se
 .chip b{color:var(--accent);font-weight:600;margin-left:4px}
 .chip:hover{outline:1px solid var(--accent)}
 mark{background:var(--hl);color:inherit;border-radius:2px}
+.llm{display:inline-block;font:500 10px/1.5 system-ui,sans-serif;font-style:normal;color:var(--muted);background:var(--chip);border-radius:8px;padding:0 6px;vertical-align:1px;white-space:nowrap;opacity:.8}
 mark{background:var(--hlb)}h2 mark,h3 mark,.subhit b mark{background:var(--hl)}
 .sub{border-top:1px solid var(--line);padding:12px 0}
 .sub h3{font-size:15px;margin:0 0 2px}
@@ -238,6 +239,7 @@ function subMatch(s, p){ const b = [s.t, s.a, s.s, s.fr, s.to, s.k.join(' ')].jo
   const sf = {t: L(s.t), k: L(s.k.join(' ')), sum: L(s.a + ' ' + s.s), fr: L(s.fr), to: L(s.to), pe: L(s.fr + ' ' + s.to)};
   return p.words.every(t => b.includes(t)) && p.f.every(([k, v]) => k === 'yr' ? (!s.d || (+s.d.slice(0,4) >= v[0] && +s.d.slice(0,4) <= v[1]))
     : k === 'pl' ? true : sf[k].includes(v)); }
+const LLM = ' <span class="llm" title="Written by a large language model from the OCR text; may contain errors">by LLM</span>';
 function hl(s, extra=[]){ let out = esc(s); for (const t of [...terms(), ...extra]) if (t.length > 1) out = out.replace(new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'), '<mark>$1</mark>'); return out; }
 function filtered(){
   const ts = terms(), pq = parseQ(S.q);
@@ -284,7 +286,7 @@ function listView(){
       const db = titleDates(x.t);
       return `<div class="card" data-mk="f|${esc(x.id)}"><div class="cardhead"><h2><a href="#d/${x.id}">${hl(x.t)}</a></h2>${db?`<span class="datebub ${era(db)[0]}" title="${era(db)[1]}">${db}</span>`:''}</div>
       <div class="meta">${esc(x.c)} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} · <a href="${IAX(x)}" target="_blank">archive.org</a></div>
-      <p>${hl(x.o)}</p>${subhits.map(s => `<div class="subhit"><b><a href="#d/${esc(x.id)}/doc/${x.sub.indexOf(s)+1}">${hl(s.t)}</a></b> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span><br>${hl(s.a)}</div>`).join('')}
+      <p>${hl(x.o)}${x.sk ? '' : LLM}</p>${subhits.map(s => `<div class="subhit"><b><a href="#d/${esc(x.id)}/doc/${x.sub.indexOf(s)+1}">${hl(s.t)}</a></b> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span><br>${hl(s.a)}${LLM}</div>`).join('')}
       <div class="chips">${chipsU('f|'+x.id)}${chipsPe(x,6)}${chipsPl(x,6)}</div></div>`; }).join('') +
     (pages > 1 ? `<div class="pager"><button id="prev" ${S.page?'':'disabled'}>← Prev</button><span class="meta">Page ${S.page+1} of ${pages}</span><button id="next" ${S.page<pages-1?'':'disabled'}>Next →</button></div>` : '');
   $('#sort').addEventListener('change', e => { S.sort = e.target.value; S.page = 0; listView(); });
@@ -309,15 +311,15 @@ function detailView(id, kind, term){
    <div class="meta">${esc(x.c)} · decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} ·
    <a href="${IAX(x)}" target="_blank">archive.org</a></div>
    ${banner}
-   <div class="label">Overview</div><p>${H(x.o)}</p>
-   ${x.sk ? (chipsU('f|'+x.id) ? `<div class="label">Your tags</div><div class="chips">${chipsU('f|'+x.id)}</div>` : '') + '<p class="meta">The full text of this file is searchable under Full-text search.</p></div>' : `<div class="label">What is interesting, unique or useful</div><p>${H(x.i)}</p>
+   <div class="label">Overview</div><p>${H(x.o)}${x.sk ? '' : LLM}</p>
+   ${x.sk ? (chipsU('f|'+x.id) ? `<div class="label">Your tags</div><div class="chips">${chipsU('f|'+x.id)}</div>` : '') + '<p class="meta">The full text of this file is searchable under Full-text search.</p></div>' : `<div class="label">What is interesting, unique or useful</div><p>${H(x.i)}${LLM}</p>
    <div class="label">Keywords</div><div class="chips">${chipsU('f|'+x.id)}${chipsK(x, x.k)}</div>
    <div class="label">People</div><div class="chips">${chipsPe(x, 9999) || '<span class="meta">none</span>'}</div>
    <div class="label">Places</div><div class="chips">${chipsPl(x, 9999) || '<span class="meta">none</span>'}</div>
    <div class="label">Documents in this file${term ? ` — ${hits} mention ${esc(term)}` : ''}</div>
    ${x.sub.map((s,i) => (!term || hit(s)) ? `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub${term ? ' match' : ''}${(docN ? docN === i+1 : pgN && s.p[0] <= pgN && pgN <= s.p[1]) ? ' onpage' : ''}"><h3><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${H(s.t)}</a></h3>
      <div class="meta">${esc(s.ty)}${s.d?' · '+esc(s.d):''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(s.p)}</a>${s.fr?' · from '+H(s.fr):''}${s.to?' · to '+H(s.to):''}</div>
-     <p><i>${H(s.a)}</i></p><p>${H(s.s)}</p><div class="chips">${chipsU(`s|${x.id}|${i+1}`)}${chipsK(x, s.k)}</div></div>`
+     <p><i>${H(s.a)}</i>${LLM}</p><p>${H(s.s)}${LLM}</p><div class="chips">${chipsU(`s|${x.id}|${i+1}`)}${chipsK(x, s.k)}</div></div>`
      : `<div data-mk="s|${esc(x.id)}|${i+1}" class="sub nomatch"><a href="${IAP(x, s.p[0])}" target="_blank">${i+1}. ${esc(s.t)}</a> <span class="meta">${esc(s.d)} · ${ppPill(s.p)}</span></div>`).join('')}
   </div>`}<p class="meta">Catalogue entries are machine-generated from OCR text and may contain errors. Mention counts are shown when greater than 3.</p>`;
   if (term) document.querySelector('.infile')?.scrollIntoView({block: 'center'});
@@ -428,7 +430,7 @@ function spotlightView(slug){
     <button id="sprev" type="button" title="Reverse the sort order" aria-label="Reverse sort order">${SPREV ? '↑' : '↓'}</button></label></div></div>` +
     rows.map(({e, x, s}) => `<div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2><a href="#s/${esc(e.id)}">${esc(s.t)}</a></h2>
         <div class="meta">${cat ? '' : `<a href="#spotlight/${spSlug(e.cat)}">${esc(e.cat || 'General')}</a> · `}${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · ${ppPill(s.p)} · ${e.clean ? 'cleaned transcription' : 'cleaned transcription in progress'}${e.ja ? ' · Japanese reconstruction' : ''}</div>
-        <div class="meta">In file: <a href="#d/${esc(x.id)}">${esc(x.t)}</a></div><p>${esc(s.a)}</p></div>`).join('');
+        <div class="meta">In file: <a href="#d/${esc(x.id)}">${esc(x.t)}</a></div><p>${esc(s.a)}${LLM}</p></div>`).join('');
   $('#spsort').onchange = ev => { SPSORT = ev.target.value; SPREV = SPSORT === 'added'; spotlightView(slug); };
   $('#sprev').onclick = () => { SPREV = !SPREV; spotlightView(slug); };
 }
@@ -486,7 +488,7 @@ function spotlightDetail(id, startPage){
   main.innerHTML = `<a class="back" href="#spotlight/${spSlug(e.cat)}">← Back to Spotlight${e.cat && e.cat !== 'General' ? ': ' + esc(e.cat) : ''}</a><div class="card" data-mk="s|${esc(x.id)}|${x.sub.indexOf(s)+1}"><h2>${esc(s.t)}</h2>
    <div class="meta">${esc(s.ty)}${s.d ? ' · ' + esc(s.d) : ''} · <a class="pplink" href="${IAP(x, s.p[0])}" target="_blank">${ppPill(s.p, " on archive.org")}</a>${s.fr ? ' · from ' + esc(s.fr) : ''}${s.to ? ' · to ' + esc(s.to) : ''}</div>
    <div class="sp-parent">Part of the file <a href="#d/${esc(x.id)}/pg/${s.p[0]}"><b>${esc(x.t)}</b></a> (decimal ${esc(x.dec)} · file ${x.n} · ${pgPill(x.pg)}) &mdash; document ${e.seq} of ${x.sub.length}. <a href="${IAX(x)}" target="_blank">archive.org</a></div>
-   <div class="label">Description</div><p><i>${esc(s.a)}</i></p><div class="label">Summary</div><p>${esc(s.s)}</p>
+   <div class="label">Description</div><p><i>${esc(s.a)}</i>${LLM}</p><div class="label">Summary</div><p>${esc(s.s)}${LLM}</p>
    <div class="label">Keywords</div><div class="chips">${chipsU(`s|${x.id}|${x.sub.indexOf(s)+1}`)}${chipsK(x, s.k)}</div>
    <div class="label">Text of the document</div>
    <div class="sp-modes" id="spm"><span class="lbl">Show:</span>${ORDER.map(m => `<button data-m="${m}">${NAMES[m]}</button>`).join('')}${pages.length > 1 ? `<select id="spj" aria-label="Jump to page"><option value="">Jump to page…</option>${pages.map(p => `<option value="${p}">Page ${p}</option>`).join('')}</select>` : ''}<select id="spd" aria-label="Download"><option value="">Download…</option>${e.ja ? '<option value="ja">TXT: Japanese (reconstructed)</option>' : ''}${e.clean ? '<option value="clean">TXT: clean transcription</option>' : ''}<option value="raw">TXT: raw OCR</option><option value="pdf">PDF: page images</option></select></div>
@@ -723,7 +725,7 @@ function setListView(set){
       return hd + `<div class="setrow" data-mk="s|${esc(e.x.id)}|${e.seq}">${pill(e.d)}<div>
         <h3><a href="#d/${esc(e.x.id)}/doc/${e.seq}">${esc(e.s.t)}</a></h3>
         <div class="meta">${esc(e.s.ty)}${e.s.fr ? ' · from ' + esc(e.s.fr) : ''} · <a class="pplink" href="${IAP(e.x, e.s.p[0])}" target="_blank" title="Open on archive.org">${ppPill(e.s.p)}</a> · in <a href="#d/${esc(e.x.id)}">${esc(e.x.t)}</a></div>
-        ${e.s.a ? `<p class="meta" style="margin:4px 0 0">${esc(e.s.a)}</p>` : ''}
+        ${e.s.a ? `<p class="meta" style="margin:4px 0 0">${esc(e.s.a)}${LLM}</p>` : ''}
         <div class="chips">${chipsU(`s|${e.x.id}|${e.seq}`)}</div></div></div>`; }).join('')}</div>`;
   $('#setsort').onchange = ev => { SETSORT = ev.target.value; setListView(set); };
   $('#setrev').onclick = () => { SETREV = !SETREV; setListView(set); };
