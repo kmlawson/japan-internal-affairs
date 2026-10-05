@@ -48,6 +48,7 @@ bio, bio_not, bio_ty = rx(r"biograph"), rx(r"biographical (record|form)s?\b|requ
 law_t, law_kw = rx(r"translat"), rx(r"\b(law|laws|ordinance|ordinances|code|constitution|regulations?|statute|rescript|act)\b")
 law_not, law_not_ty = rx(r"speech|article|rights|instruction to|correction of|press translations"), rx(r"magazine|file note|cross|press-translation")
 rad_ty = rx(r"intercept|news bulletin|press digest|radio press|radio broadcast transcript|domei|press-translation bulletin|radio commentary")
+biw, biw_not = rx(r"bi-?\s?weekly"), rx(r"routing slip|fortnightly")
 rad_not = rx(r"radio-station|directory|church|corporate|statistical|election bulletin|campaign|radiogram|code radio|coded radio|intercepted letter|intercepted correspondence|intelligence")
 
 SETS = [
@@ -80,6 +81,11 @@ SETS = [
      "about": "Monitored Japanese wartime news and propaganda: Domei news-agency bulletins and broadcasts, Radio Tokyo's Spanish "
               "service to Latin America and Jakarta Radio, mostly 1942–1944.",
      "items": pick(lambda t, ty, d: rad_ty.search(ty) and not rad_not.search(ty) and "farnsworth" not in t.lower())},
+    {"id": "bi-weekly-intelligence", "name": "Bi-Weekly Intelligence Summaries", "mode": "list",
+     "about": "The Office of Naval Intelligence's bi-weekly intelligence summaries on Japan, mostly compiled by the US Naval Attaché "
+              "in Tokyo, December 1932 to September 1933, with the State Department's Far Eastern Affairs memoranda summarising "
+              "and commenting on each one.",
+     "items": pick(lambda t, ty, d: biw.search(t) and not biw_not.search(t))},
 ]
 for s in SETS:
     s["items"].sort(key=lambda i: (i.get("m") or i.get("d") or "9999", i["f"], i["p"]))
