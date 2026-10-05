@@ -280,7 +280,7 @@ function listView(){
     <label>Min. pages <select id="minpg">${[[0,'Any'],[2,2],[4,4],[6,6],[10,10],[20,20],[50,50],[100,100]].map(([v,l])=>opt(v,l,S.minpg)).join('')}</select></label>
     <label>Show <select id="per">${[50,100,200,500,1000].map(n=>opt(n,n,S.per)).join('')}</select></label></div>` +
     r.slice(S.page*per, S.page*per+per).map(x => {
-      const pq = parseQ(S.q), subhits = S.q.trim() ? x.sub.filter(s => subMatch(s, pq)).slice(0,3) : [];
+      const pq = parseQ(S.q), subhits = S.q.trim() ? x.sub.filter(s => subMatch(s, pq)) : [];
       const db = titleDates(x.t);
       return `<div class="card" data-mk="f|${esc(x.id)}"><div class="cardhead"><h2><a href="#d/${x.id}">${hl(x.t)}</a></h2>${db?`<span class="datebub ${era(db)[0]}" title="${era(db)[1]}">${db}</span>`:''}</div>
       <div class="meta">${esc(x.c)} · ${pgPill(x.pg)} · ${x.sk ? 'not yet catalogued' : x.sub.length + (x.sub.length === 1 ? ' document' : ' documents')} · <a href="${IAX(x)}" target="_blank">archive.org</a></div>
