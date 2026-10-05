@@ -120,7 +120,7 @@ button:disabled{opacity:.4;cursor:default}
 .sp-cell{min-width:0;padding:10px 12px;border-right:1px solid var(--line)}.sp-cell:last-child{border-right:0}
 .sp-cell .tag{display:block;font:600 11px system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--accent2);margin-bottom:6px}
 .sp-raw{font:13px/1.5 ui-monospace,Menlo,Consolas,monospace;white-space:pre-wrap;overflow-wrap:anywhere}
-.sp-clean{font:15px/1.55 Georgia,serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.sp-clean{font:15px/1.55 Georgia,serif;overflow-wrap:anywhere}.sp-clean p{margin:0;text-indent:1.6em}.sp-clean p.ed{text-indent:0}.sp-tbl{overflow-x:auto;margin:6px 0 10px}.sp-tbl table{border-collapse:collapse;font:13.5px/1.35 system-ui,sans-serif}.sp-tbl th,.sp-tbl td{border:1px solid var(--line);padding:3px 7px;vertical-align:top;text-align:left}.sp-tbl th{background:var(--chip);font-weight:600}.sp-tbl td.num,.sp-tbl th.num{text-align:right;font-variant-numeric:tabular-nums}
 .sp-note{margin-top:14px;padding-top:8px;border-top:1px dashed var(--line);color:var(--muted);font:12.5px/1.6 system-ui,sans-serif;white-space:pre-wrap}
 .sp-note summary{cursor:pointer;list-style:none;font-weight:600;white-space:normal;user-select:none}
 .sp-note summary::-webkit-details-marker{display:none}
@@ -437,13 +437,26 @@ function spotlightDetail(id){
    <p class="meta">Square brackets mark illegible or uncertain words, and editorial notes such as stamps, marginalia and handwriting. Tap a page image to open it full size.</p></div>
    <div class="pager">${prev ? `<a href="#s/${esc(prev.id)}">← previous</a>` : ''}${next ? `<a href="#s/${esc(next.id)}">next →</a>` : ''}</div>`;
   const view = $('#spv');
-  const noteSplit = s => { const i = s.indexOf('【注】'); if (i < 0) return esc(s);
+  // paragraphs: blank line = new paragraph with no gap; prose paragraphs indented; headings, short lines, line-broken blocks (addresses, lists) and [editorial notes] flush left
+  // a block whose lines all contain "|" is a table (markdown or plain "a | b | c" rows); first row is the header
+  // when a ---|--- separator follows it or when it has no digits and the body rows do
+  const isTable = x => { const L = x.trim().split('\n'); return L.length >= 2 && L.every(l => l.includes('|')); };
+  const cells = l => l.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
+  const table = x => { let L = x.trim().split('\n'), head = null;
+    const sep = l => /^[\s|:-]+$/.test(l) && l.includes('-');
+    if (L.length > 1 && sep(L[1])) { head = L[0]; L = L.slice(2); }
+    else if (!/\d/.test(L[0]) && L.slice(1).some(l => /\d/.test(l))) { head = L[0]; L = L.slice(1); }
+    L = L.filter(l => !sep(l));
+    const td = (c, t) => `<${t}${/^[\d.,%()\s$¥-]+$/.test(c) && /\d/.test(c) ? ' class="num"' : ''}>${esc(c)}</${t}>`;
+    return `<div class="sp-tbl"><table>${head ? `<thead><tr>${cells(head).map(c => td(c, 'th')).join('')}</tr></thead>` : ''}<tbody>${L.map(l => `<tr>${cells(l).map(c => td(c, 'td')).join('')}</tr>`).join('')}</tbody></table></div>`; };
+  const paras = s => s.split(/\n[ \t]*\n+/).filter(x => x.trim()).map(x => isTable(x) ? table(x) : `<p${/^\s*\[/.test(x) || x.trim().length < 70 || x.includes('\n') ? ' class="ed"' : ''}>${esc(x.trim()).replace(/\n/g, '<br>')}</p>`).join('');
+  const noteSplit = s => { const i = s.indexOf('【注】'); if (i < 0) return paras(s);
     const notes = s.slice(i + 3).trim(), n = (notes.match(/^・/gm) || []).length;
-    return esc(s.slice(0, i).trimEnd()) + `<details class="sp-note"><summary>注 <span>(${n} note${n === 1 ? '' : 's'})</span></summary>${esc(notes)}</details>`; };
+    return paras(s.slice(0, i).trimEnd()) + `<details class="sp-note"><summary>注 <span>(${n} note${n === 1 ? '' : 's'})</span></summary>${esc(notes)}</details>`; };
   const cell = (m, p) => m === 'image' ? `<div class="sp-cell"><span class="tag">Page image</span><a href="${img(p)}" target="_blank"><img loading="lazy" src="${img(p)}" alt="Scan of page ${p}"></a></div>`
     : m === 'raw' ? `<div class="sp-cell"><span class="tag">Raw OCR (${esc(e.ocr || 'PaddleOCR')}, unedited)</span><div class="sp-raw">${esc(rawM.get(p) || '[no OCR text]')}</div></div>`
     : m === 'ja' ? `<div class="sp-cell"><span class="tag">Japanese</span><div class="sp-clean" lang="ja">${jaM && jaM.has(p) ? noteSplit(jaM.get(p)) : '<span class="meta">[no Japanese text for this page]</span>'}</div></div>`
-    : `<div class="sp-cell"><span class="tag">Cleaned transcription</span><div class="sp-clean">${cleanM ? esc(cleanM.has(p) ? cleanM.get(p) : '[not transcribed]') : '<span class="meta">Not yet available.</span>'}</div></div>`;
+    : `<div class="sp-cell"><span class="tag">Cleaned transcription</span><div class="sp-clean">${cleanM ? paras(cleanM.has(p) ? cleanM.get(p) : '[not transcribed]') : '<span class="meta">Not yet available.</span>'}</div></div>`;
   const draw = () => {
     const on = ORDER.filter(m => modes.includes(m)), keep = view.scrollTop;
     $('#spw').hidden = !modes.includes('clean'); $('#spwj').hidden = !modes.includes('ja');
