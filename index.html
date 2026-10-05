@@ -440,7 +440,6 @@ function spotlightDetail(id){
   // paragraphs: blank line = new paragraph with no gap; prose paragraphs indented; headings, short lines, line-broken blocks (addresses, lists) and [editorial notes] flush left
   // a block whose lines all contain "|" is a table (markdown or plain "a | b | c" rows); first row is the header
   // when a ---|--- separator follows it or when it has no digits and the body rows do
-  const isTable = x => { const L = x.trim().split('\n'); return L.length >= 2 && L.every(l => l.includes('|')); };
   const cells = l => l.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
   const table = x => { let L = x.trim().split('\n'), head = null;
     const sep = l => /^[\s|:-]+$/.test(l) && l.includes('-');
@@ -449,7 +448,18 @@ function spotlightDetail(id){
     L = L.filter(l => !sep(l));
     const td = (c, t) => `<${t}${/^[\d.,%()\s$¥-]+$/.test(c) && /\d/.test(c) ? ' class="num"' : ''}>${esc(c)}</${t}>`;
     return `<div class="sp-tbl"><table>${head ? `<thead><tr>${cells(head).map(c => td(c, 'th')).join('')}</tr></thead>` : ''}<tbody>${L.map(l => `<tr>${cells(l).map(c => td(c, 'td')).join('')}</tr>`).join('')}</tbody></table></div>`; };
-  const paras = s => s.split(/\n[ \t]*\n+/).filter(x => x.trim()).map(x => isTable(x) ? table(x) : `<p${/^\s*\[/.test(x) || x.trim().length < 70 || x.includes('\n') ? ' class="ed"' : ''}>${esc(x.trim()).replace(/\n/g, '<br>')}</p>`).join('');
+  // split into segments: runs of 2+ lines containing "|" (even across blank lines) are tables; other text is
+  // paragraphs (blank line = new paragraph)
+  const paras = s => { const segs = []; let txt = [];
+    const flush = () => { if (txt.length) segs.push({t: 'p', x: txt.join('\n')}); txt = []; };
+    const L = s.split('\n');
+    for (let k = 0; k < L.length; k++) {
+      if (L[k].includes('|')) { let e = k, rows = [];
+        while (e < L.length && (L[e].includes('|') || (!L[e].trim() && e + 1 < L.length && L[e + 1].includes('|')))) { if (L[e].trim()) rows.push(L[e]); e++; }
+        if (rows.length >= 2) { flush(); segs.push({t: 'tbl', x: rows.join('\n')}); k = e - 1; continue; } }
+      txt.push(L[k]); }
+    flush();
+    return segs.map(g => g.t === 'tbl' ? table(g.x) : g.x.split(/\n[ \t]*\n+/).filter(x => x.trim()).map(x => `<p${/^\s*\[/.test(x) || x.trim().length < 70 || x.trim().includes('\n') ? ' class="ed"' : ''}>${esc(x.trim()).replace(/\n/g, '<br>')}</p>`).join('')).join(''); };
   const noteSplit = s => { const i = s.indexOf('【注】'); if (i < 0) return paras(s);
     const notes = s.slice(i + 3).trim(), n = (notes.match(/^・/gm) || []).length;
     return paras(s.slice(0, i).trimEnd()) + `<details class="sp-note"><summary>注 <span>(${n} note${n === 1 ? '' : 's'})</span></summary>${esc(notes)}</details>`; };
