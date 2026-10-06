@@ -1,0 +1,35 @@
+{
+ "interest": "Provides exhaustive 1946 rosters and statistics across three prefectures. Captures grassroots educational conditions during early Allied occupation.",
+ "keywords": [
+  "Civil Information and Education Section (CIE)",
+  "GHQ SCAP",
+  "Japanese educational institutions",
+  "Aomori Prefecture",
+  "Ehime Prefecture",
+  "Tottori Prefecture",
+  "Educational statistics",
+  "Institutional rosters",
+  "Student enrollment",
+  "Faculty and teaching personnel",
+  "Youth schools",
+  "Ministry of Education"
+ ],
+ "overview": "This file comprises extensive educational survey reports and directories compiled in early 1948 by the Civil Information and Education Section of GHQ/SCAP in cooperation with the Japanese Ministry of Education. Covering Aomori, Ehime, and Tottori Prefectures, the records provide detailed statistical summary tables, classification charts, regional reference maps, and exhaustive institutional rosters documenting school counts, student enrollments, and teaching personnel as of April and November 1946. These surveys systematically cover educational institutions across all levels—including elementary, youth, secondary, vocational, special schools, and colleges—under national, prefectural, municipal, town, village, and private jurisdictions.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 13713,
+   "output_tokens": 9750,
+   "thinking_tokens": 9470,
+   "cache_read_tokens": 0,
+   "total_tokens": 23463
+  },
+  "backend": "agy",
+  "pdf": "894.42 Japan, Education. Correspondence Schools., March 4, 1945 - March 29, 1948 1623-part-2.pdf",
+  "pages": 295,
+  "sections": 5,
+  "seconds": 30.4,
+  "created": "2026-10-05 22:42:58",
+  "key": "japan-internal-affairs-894.42-japan-education-correspondence-3-part-2"
+ }
+}

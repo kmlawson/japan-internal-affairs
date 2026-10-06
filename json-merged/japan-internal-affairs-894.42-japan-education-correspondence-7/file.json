@@ -1,0 +1,36 @@
+{
+ "interest": "This collection offers historians an invaluable dual perspective, pairing granular micro-level census data on post-defeat Japanese schools with macro-level documentation of Cold War ideological reconstruction. It is particularly significant for preserving the full English translation of the foundational civics textbook Primer of Democracy and revealing how democratization intersected with anti-communist repression through teacher dismissals and the controversial closure of ethnic Korean schools. Additionally, the diplomatic and intelligence records illuminate early trilateral friction among SCAP, the Japanese government, and the newly founded Republic of Korea over minority rights, repatriation, and communist infiltration.",
+ "keywords": [
+  "Educational reform",
+  "SCAP Civil Information and Education Section",
+  "Primer of Democracy",
+  "School rosters",
+  "Korean schools in Japan",
+  "Communist teacher purge",
+  "Academic freedom",
+  "Ministry of Education",
+  "Fukuoka Prefecture",
+  "Ishikawa Prefecture",
+  "Saga Prefecture",
+  "Japan Teachers Union",
+  "6-3-3-4 system"
+ ],
+ "overview": "This file documents educational administration, ideological reorientation, and school reform in Japan under Allied occupation between November 1948 and December 1949. It contains extensive 1946 statistical rosters and institutional directories compiled by SCAP's Civil Information and Education Section for Fukuoka, Ishikawa, and Saga prefectures, cataloging public and private schools, student enrollments, and teaching staff. The file also preserves a complete English translation of Volume I of the Ministry of Education's postwar civics textbook Primer of Democracy (Minshushugi), which outlines democratic governance, constitutional history, social ethics, and economic democracy while contrasting democracy with totalitarianism and communism. Finally, diplomatic despatches, staff studies, and intelligence reports chronicle mounting Cold War tensions within the school system, focusing on the suppression and closure of leftist Korean schools, the purge of communist teachers, debates over academic freedom, resistance to the proposed University Bill, and the structural implementation of the 6-3-3-4 educational framework.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 17788,
+   "output_tokens": 4101,
+   "thinking_tokens": 3659,
+   "cache_read_tokens": 0,
+   "total_tokens": 21889
+  },
+  "backend": "agy",
+  "pdf": "894.42 Japan, Education. Correspondence Schools., November 16, 1948 - December 23, 1949 1824.pdf",
+  "pages": 541,
+  "sections": 12,
+  "seconds": 16.4,
+  "created": "2026-10-05 22:11:57",
+  "key": "japan-internal-affairs-894.42-japan-education-correspondence-7"
+ }
+}

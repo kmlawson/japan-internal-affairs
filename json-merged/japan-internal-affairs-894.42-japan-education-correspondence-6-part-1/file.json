@@ -1,0 +1,35 @@
+{
+ "interest": "This file offers an exceptionally granular census of Japan's educational landscape immediately following World War II, providing an essential empirical baseline captured just prior to major Occupation-sponsored reforms. Its exhaustive local rosters and gender-disaggregated data on faculty and student bodies—down to rural village elementary and youth schools across multiple prefectures—are invaluable for quantitative social historians studying postwar reconstruction, institutional continuity, and local administration.",
+ "keywords": [
+  "GHQ SCAP",
+  "Civil Information and Education Section",
+  "Allied Occupation of Japan",
+  "Educational institutional rosters",
+  "Postwar Japanese education reform",
+  "School enrollment statistics",
+  "Kagawa Prefecture",
+  "Gifu Prefecture",
+  "Hiroshima Prefecture",
+  "Hokkaido Prefecture",
+  "Elementary schools (Shoto Kyoiku)",
+  "Youth schools (Seinen Gakko)"
+ ],
+ "overview": "This file contains diplomatic transmittal despatches from the U.S. Political Adviser in Tokyo and extensive statistical reports and rosters compiled by the Civil Information and Education (CI&E) Section of GHQ SCAP in cooperation with the Japanese Ministry of Education between July and October 1948. Covering Kagawa, Gifu, Hiroshima, and Hokkaido prefectures, the collection provides an exhaustive nationwide survey of Japanese educational institutions across national, prefectural, municipal, town, village, and private administrative jurisdictions prior to major post-war structural reorganizations. The records tabulate institutional names, locations, founding dates, and comparative gender-disaggregated statistics for student enrollments and teaching personnel as of April 30, 1946, and November 30, 1946, covering universities, colleges, normal schools, secondary and vocational schools, youth schools, special schools for the deaf and blind, elementary schools (Shoto Kyoiku), and kindergartens, alongside transmittals for SCAP publications such as Education in New Japan.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 33426,
+   "output_tokens": 3373,
+   "thinking_tokens": 2561,
+   "cache_read_tokens": 0,
+   "total_tokens": 36799
+  },
+  "backend": "agy",
+  "pdf": "894.42 Japan, Education. Correspondence Schools., July 26, 1948 - October 5, 1948 1664-part-1.pdf",
+  "pages": 584,
+  "sections": 10,
+  "seconds": 15.0,
+  "created": "2026-10-05 22:06:47",
+  "key": "japan-internal-affairs-894.42-japan-education-correspondence-6-part-1"
+ }
+}

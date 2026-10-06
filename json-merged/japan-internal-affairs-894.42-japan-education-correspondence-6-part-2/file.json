@@ -1,0 +1,36 @@
+{
+ "interest": "This file offers an extraordinarily granular, nationwide census capturing Japanese educational infrastructure in 1946 on the eve of the sweeping Allied 6-3-3-4 democratic reforms. Historians gain rare comparative insight into local institutional survival, gender disparities in educational access, and faculty demobilization across both rural and metropolitan prefectures. Critical annotations and footnotes further document the immediate social disruptions of total war, detailing school boundary consolidations, teacher shortages, and the return of evacuated urban schoolchildren.",
+ "keywords": [
+  "SCAP (Supreme Commander for the Allied Powers)",
+  "Civil Information and Education Section (CI&E)",
+  "Allied Occupation of Japan",
+  "Postwar educational reform",
+  "School rosters",
+  "Student enrollment statistics",
+  "Gender-disaggregated education",
+  "Faculty demographics",
+  "Osaka Prefecture",
+  "Iwate Prefecture",
+  "Ibaraki Prefecture",
+  "Kochi Prefecture",
+  "Youth schools (seinen gakkō)"
+ ],
+ "overview": "This 592-page file consists of comprehensive statistical surveys, institutional directories, regional reference maps, and U.S. Diplomatic Section transmittal despatches compiled between July and October 1948 by the Civil Information and Education Section (CI&E) of GHQ SCAP. Covering Hokkaido, Iwate, Ibaraki, Kochi, and Osaka Prefectures (with a final transmittal for Saga), these records document the Japanese school system as of April and November 1946, establishing a vital baseline immediately prior to the postwar 6-3-3-4 structural reorganization. Each prefectural survey systematically classifies institutions across all levels of administrative control—including national ministries, prefectures, municipalities, towns, villages, and private foundations—providing institutional founding dates, exact locations, gender-disaggregated student enrollments, and full- and part-time faculty counts across elementary, secondary, vocational, youth, higher, and special education institutions.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 33332,
+   "output_tokens": 3580,
+   "thinking_tokens": 2749,
+   "cache_read_tokens": 0,
+   "total_tokens": 36912
+  },
+  "backend": "agy",
+  "pdf": "894.42 Japan, Education. Correspondence Schools., July 26, 1948 - October 5, 1948 1664-part-2.pdf",
+  "pages": 592,
+  "sections": 10,
+  "seconds": 14.4,
+  "created": "2026-10-05 22:28:06",
+  "key": "japan-internal-affairs-894.42-japan-education-correspondence-6-part-2"
+ }
+}

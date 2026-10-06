@@ -1,0 +1,37 @@
+{
+ "interest": "This file provides an exceptionally granular census of Japanese education in 1946, recording school-by-school founding dates, faculty counts, and gender-disaggregated enrollments across five prefectures just prior to the implementation of the 6-3-3-4 reform. It offers rare structural documentation of transitional and wartime institutions—such as youth schools (Seinen Gakko) and academies run by non-education ministries—that were soon eliminated or reorganized under the Occupation. Furthermore, it pairs this empirical grassroots survey with key political documents dismantling imperial ideology, specifically the Japanese Diet's historic 1948 resolution nullifying the Imperial Rescript on Education.",
+ "keywords": [
+  "SCAP Civil Information and Education Section",
+  "Postwar educational reform",
+  "School rosters and statistics",
+  "Imperial Rescript on Education",
+  "Japanese Ministry of Education",
+  "Student enrollment",
+  "Faculty statistics",
+  "Youth schools (Seinen Gakko)",
+  "Vocational education",
+  "Miyagi Prefecture",
+  "Nara Prefecture",
+  "Gumma Prefecture",
+  "Aichi Prefecture",
+  "Tokushima Prefecture"
+ ],
+ "overview": "This file comprises State Department diplomatic despatches, internal memoranda, and extensive research reports compiled between 1946 and 1948 by the Supreme Commander for the Allied Powers (SCAP) Civil Information and Education (CIE) Section in cooperation with the Japanese Ministry of Education. The bulk of the collection consists of exhaustive institutional rosters and statistical surveys for five prefectures—Miyagi, Nara, Gumma, Aichi, and Tokushima—cataloguing schools across all educational tiers (kindergartens, elementary, secondary, vocational, youth schools, colleges, and specialized academies) under national, public, private, and non-education ministerial jurisdictions. These reports provide comparative baseline data from April and November 1946, detailing institutional names, founding dates, locations, gender-disaggregated enrollments, faculty counts, pre-reform administrative structures, and regional reference maps. The file concludes with June 1948 despatches from U.S. Political Adviser William J. Sebald documenting the Japanese Diet's joint resolution nullifying the Imperial Rescript on Education, accompanied by official translations and contemporary press commentary.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 15492,
+   "output_tokens": 7508,
+   "thinking_tokens": 7005,
+   "cache_read_tokens": 0,
+   "total_tokens": 23000
+  },
+  "backend": "agy",
+  "pdf": "894.42 Japan, Education. Correspondence Schools., May 25, 1948 - June 25, 1948 1643.pdf",
+  "pages": 666,
+  "sections": 10,
+  "seconds": 24.1,
+  "created": "2026-10-05 22:34:03",
+  "key": "japan-internal-affairs-894.42-japan-education-correspondence-5"
+ }
+}

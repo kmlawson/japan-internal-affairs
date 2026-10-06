@@ -383,6 +383,9 @@ const sid = x => `${x.dec}-${x.n}${fpart(x) ? '-' + fpart(x) : ''}`;
 let SIDM = null;
 const bySid = v => { if (!SIDM) SIDM = new Map(D.map(x => [x.n + (fpart(x) ? '-' + fpart(x) : ''), x]));  // the decimal part is optional when typing
   const m = String(v).match(/^(?:[^\s-]+-)?(\d+(?:-\d+)?)(?:\.(\d+))?$/); const x = m && SIDM.get(m[1]); return x ? [x, m[2] ? +m[2] : null] : [null, null]; };
+// every file an in: value refers to: a bare file number covers all parts of a split file
+const bySidAll = v => { const [x, i] = bySid(v); if (x) return [[x, i]];
+  const m = String(v).match(/^(?:[^\s-]+-)?(\d+)$/); return m ? D.filter(y => String(y.n) === m[1]).map(y => [y, null]) : []; };
 const ftLink = (x, i) => `<a class="ftlink" href="#fulltext/${encodeURIComponent('in:' + sid(x) + (i ? '.' + i : ''))}" title="Search the OCR text of ${i ? 'this document' : 'this file'} only">Search full text</a>`;
 function ftParse(q){
   const out = {alts: [[]], not: [], f: {}, nf: {}};
@@ -406,7 +409,7 @@ function ftFilters(qp, all){
   if (S.ftType) f.type = S.ftType;
   const and = [];
   for (const [k, vals] of Object.entries(qp.f)){
-    if (k === 'in'){ const docs = [], subsf = []; vals.forEach(v => { const [x, i] = bySid(v); if (x) (i ? subsf.push(x.id + '#' + i) : docs.push(x.id)); });
+    if (k === 'in'){ const docs = [], subsf = []; vals.forEach(v => bySidAll(v).forEach(([x, i]) => (i ? subsf.push(x.id + '#' + i) : docs.push(x.id))));
       if (docs.length) and.push({doc: {any: docs}}); if (subsf.length) and.push({sub: {any: subsf}}); if (!docs.length && !subsf.length) and.push({doc: {any: ['\u0000none']}}); continue; }
     const v = any(k, vals); and.push({[k]: {any: v.length ? v : ['\u0000none']}}); }
   const not = [];
