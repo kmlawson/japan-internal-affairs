@@ -222,7 +222,8 @@ PDF scans ──OCR──> page text (=== Page N === blocks)
 - **Track what's left:** `python3 remaining.py` writes `remaining.md`. It summarises the uncatalogued files by size, period, theme and decimal, with the full file list, for picking the next cataloguing batch.
 - **Rebuild full text** (heavy):
   `cd fulltext-build && python3 prepare.py && node build.mjs && python3 make_bundle.py`
-- **Deploy:** upload `index.html`, `data.js`, `sets.js`, `spotlight-data.js`, `catalog.sqlite`, `downloads/`, `pagefind/` and `spotlight/img/`. The `json*` folders, `spotlight/clean/` and the scripts are sources, and the site doesn't load them.
+- **Deploy:** upload `index.html`, `data.js`, `sets.js`, `spotlight-data.js`, `catalog.sqlite`, `pagefind/` and `spotlight/img/`. `downloads/` goes to GitHub Releases instead. The `json*` folders, `spotlight/clean/` and the scripts are sources, and the site doesn't load them.
+- **Bulk downloads** are published as GitHub Releases (`publish_downloads.sh`, one release per update), not hosted on the site. The site links to `releases/latest/download/<file>`, which always serves the newest release.
 - **Git:** commit and push as you go. Generated large outputs (`catalog.sqlite`, `pagefind/`, `downloads/`) are in `.gitignore`.
 - **CPU:** heavy jobs may use up to about 80% of the CPU. Leave headroom, and don't run two very heavy jobs at once.
 - **Delegating work to other model CLIs:**

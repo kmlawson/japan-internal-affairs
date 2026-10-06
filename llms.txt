@@ -6,8 +6,8 @@ Please do not crawl this site's search index (`pagefind/`) page by page. All the
 
 ## Bulk downloads
 
-- [All OCR text, one JSON line per page (gzip, ~21 MB)](downloads/japan-internal-affairs-ocr-text.jsonl.gz): fields `id`, `title`, `page`, `ocr` (Mistral OCR or PaddleOCR), `archive_org` (link to the page image), `text`
-- [Catalogue database (SQLite, ~25 MB)](downloads/japan-internal-affairs-catalog.sqlite): tables `files`, `subfiles` (individual documents with dates, senders, recipients, summaries), `people`, `places`, `file_keywords`, `subfile_keywords`
+- [All OCR text, one JSON line per page (gzip, ~55 MB)](https://github.com/kmlawson/japan-internal-affairs/releases/latest/download/japan-internal-affairs-ocr-text.jsonl.gz): fields `id`, `title`, `page`, `ocr` (Mistral OCR or PaddleOCR), `archive_org` (link to the page image), `text`
+- [Catalogue database (SQLite, ~55 MB)](https://github.com/kmlawson/japan-internal-affairs/releases/latest/download/japan-internal-affairs-catalog.sqlite): tables `files`, `subfiles` (individual documents with dates, senders, recipients, summaries), `people`, `places`, `file_keywords`, `subfile_keywords`
 
 ## Source
 
