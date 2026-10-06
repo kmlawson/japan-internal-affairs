@@ -28,12 +28,15 @@ ap.add_argument("--reverse", action="store_true")
 ap.add_argument("--ocr", default=None, help="OCR dir (default merged/ocr)")
 ap.add_argument("--only", default=None, help="file listing the only PDFs to catalogue; stop when they are done")
 ap.add_argument("--timeout", type=int, default=1200)
+ap.add_argument("--tag", default="", help="suffix for this worker's log and status files")
 a = ap.parse_args()
 OCRS = [os.path.abspath(d) for d in a.ocr.split(",")] if a.ocr else [OCR]
 ONLY = set(l.strip() for l in open(a.only) if l.strip()) if a.only else None
-LOG = os.path.join(WEB, f"catalog-merged-{a.backend}.log")
-STATUS = os.path.join(WEB, f"_status-merged-{a.backend}.txt")
+LOG = os.path.join(WEB, f"catalog-merged-{a.backend}{a.tag}.log")
+STATUS = os.path.join(WEB, f"_status-merged-{a.backend}{a.tag}.txt")
 AGY_MODEL = a.model or "gemini-3.8-flash-medium"
+# agy keeps separate quota buckets: "Gemini Models" and "Claude and GPT models"
+QUOTA_GROUP = "Gemini Models" if AGY_MODEL.startswith("gemini") else "Claude and GPT models"
 
 
 def log(msg):
@@ -138,14 +141,15 @@ def gemini_usage():
         return {}
     out = {}
     for line in r.splitlines():
-        m = re.match(r"Gemini Models\t(Weekly|Five Hour) Limit Remaining\t(\d+)%\t(\S+)", line)
+        m = re.match(re.escape(QUOTA_GROUP) + r"\t(Weekly|Five Hour) Limit Remaining\t(\d+)%\t(\S+)", line)
         if m: out[m.group(1)] = (int(m.group(2)), m.group(3))
     return out
 
 
 def wait_for_quota(u):
-    """Pause (never give up) until the limit resets if Gemini quota is nearly used."""
-    low = [(k, v) for k, v in u.items() if v[0] < 5]
+    """Pause (never give up) until the limit resets if this worker's agy quota bucket is nearly used (< 10%).
+    Stopping early matters: when a bucket runs out, agy has been seen to fall back silently to other models."""
+    low = [(k, v) for k, v in u.items() if v[0] < 10]
     if not low: return
     reset = max(datetime.fromisoformat(v[1].replace("Z", "+00:00")) for _, v in low)
     secs = max(60, (reset - datetime.now(timezone.utc)).total_seconds() + 120)
@@ -268,9 +272,11 @@ while True:
         os.makedirs(os.path.dirname(out), exist_ok=True)
         lk = out + ".lock"
         if os.path.exists(out) or not lock(lk): continue
-        if a.backend == "agy" and checked % 10 == 0:
+        if a.backend == "agy":  # check this worker's quota bucket before every task; never sleep while holding a lock
             u = gemini_usage(); open(os.path.join(WEB, "usage.log"), "a").write(
-                f"{time.strftime('%Y-%m-%d %H:%M:%S')}\tmerged\t{json.dumps(u)}\n"); wait_for_quota(u)
+                f"{time.strftime('%Y-%m-%d %H:%M:%S')}\tmerged\t{json.dumps(u)}\n")
+            if any(v[0] < 10 for v in u.values()):
+                os.remove(lk); wait_for_quota(u); continue
         checked += 1
         t0 = time.time()
         try:
