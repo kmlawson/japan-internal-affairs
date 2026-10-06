@@ -510,6 +510,33 @@ async function ftView(){
   const groups = (mode === 'file' ? files : subs).map(([k, n]) => { const [fid, seq] = mode === 'file' ? [k, null] : [k.slice(0, k.lastIndexOf('#')), +k.slice(k.lastIndexOf('#') + 1)];
     const x = DM.get(fid), s = x && seq ? x.sub[seq - 1] : null; return {k, n, fid, seq, date: (s && s.d) || (x && x.d) || '9999'}; });
   groups.sort(S.ftSort === 'asc' ? (a, b) => a.date.localeCompare(b.date) || a.k.localeCompare(b.k) : S.ftSort === 'desc' ? (a, b) => (a.date === '9999') - (b.date === '9999') || b.date.localeCompare(a.date) || a.k.localeCompare(b.k) : (a, b) => b.n - a.n || a.date.localeCompare(b.date));
+  // excerpts: read the matching pages' details in relevance order, in parallel batches, and hand each page to its
+  // document's card. No extra searches; cards fill as their best pages arrive. Cards still short after the first
+  // 1,500 pages get a search of their own, one at a time.
+  const keyOf = d => mode === 'file' ? d.meta.id : d.meta.id + '#' + (+d.meta.seq || 0);
+  const HITS = new Map(), cards = new Map(), LIMIT = Math.min(results.length, 1500);
+  let loaded = 0, pumping = false;
+  const prog = () => { const b = $('#ftbusy'); if (!b) return; const done = [...cards.values()].filter(c => c.done).length;
+    b.hidden = done >= cards.size; b.innerHTML = `<span class="spin"></span> loading excerpts: ${done} of ${cards.size} documents`; };
+  const render = (k) => { const c = cards.get(k); if (!c || c.done) return; const h = HITS.get(k) || [], want = Math.min(3, c.n);
+    if (!h.length) return;
+    c.gh.innerHTML = h.slice(0, 3).map(pageLine).join('') + (h.length < want ? '<span class="meta"><span class="spin"></span> more pages…</span>' : '');
+    if (h.length >= want){ c.done = true; prog(); } };
+  const queue = []; let qRunning = false;
+  const fallback = async () => { if (qRunning) return; qRunning = true;
+    while (queue.length){ const k = queue.shift(), c = cards.get(k); if (!c || c.done) continue;
+      const r = await ftRun(pf, qp, {...filters, ...c.sub}); if (token !== FTQ) return;
+      const ds = await Promise.all(r.results.slice(0, 3).map(x => x.data())); if (token !== FTQ) return;
+      HITS.set(k, ds); c.gh.innerHTML = ds.map(pageLine).join(''); c.done = true; prog(); }
+    qRunning = false; };
+  const pump = async () => { if (pumping) return; pumping = true;
+    while ([...cards.values()].some(c => !c.done) && loaded < LIMIT){
+      const batch = results.slice(loaded, loaded + 60); loaded += batch.length;
+      const ds = await Promise.all(batch.map(r => r.data())); if (token !== FTQ) return;
+      ds.forEach(d => { const k = keyOf(d); const a = HITS.get(k) || []; if (a.length < 3){ a.push(d); HITS.set(k, a); } if (cards.has(k)) render(k); }); }
+    pumping = false;
+    for (const [k, c] of cards) if (!c.done) queue.push(k);
+    fallback(); };
   let shownG = 0;
   const moreGroups = () => { groups.slice(shownG, shownG + 25).forEach(g => {
       const card = document.createElement('div'); card.className = 'card';
@@ -517,16 +544,13 @@ async function ftView(){
         `<div class="meta"><b>${g.n.toLocaleString()}</b> matching page${g.n === 1 ? '' : 's'}</div><div class="gh"><span class="meta"><span class="spin"></span> loading pages…</span></div>${g.n > 3 ? `<button type="button" class="linklike gall">show all ${g.n.toLocaleString()} pages</button>` : ''}`;
       $('#ftres').appendChild(card);
       const gh = card.querySelector('.gh'), sub = mode === 'file' ? {doc: g.fid} : {sub: g.k};
-      let top = null;
-      (async () => { busy(1); try { const r = await ftRun(pf, qp, {...filters, ...sub}); if (token !== FTQ) return;  // relevance order: best three pages first
-        top = r.results; const ds = await Promise.all(top.slice(0, 3).map(x => x.data())); if (token !== FTQ) return;
-        gh.innerHTML = ds.map(pageLine).join(''); } finally { busy(-1); } })();
+      cards.set(g.k, {gh, n: g.n, sub, done: false}); render(g.k);
       const ball = card.querySelector('.gall');
-      if (ball) ball.onclick = async () => { if (ball.dataset.open){ const ds = await Promise.all(top.slice(0, 3).map(x => x.data())); gh.innerHTML = ds.map(pageLine).join(''); ball.textContent = `show all ${g.n.toLocaleString()} pages`; delete ball.dataset.open; return; }
+      if (ball) ball.onclick = async () => { if (ball.dataset.open){ gh.innerHTML = (HITS.get(g.k) || []).slice(0, 3).map(pageLine).join(''); ball.textContent = `show all ${g.n.toLocaleString()} pages`; delete ball.dataset.open; return; }
         ball.innerHTML = '<span class="spin"></span> loading all pages…'; const r = await ftRun(pf, qp, {...filters, ...sub}, {date: 'asc'}); if (token !== FTQ) return;  // all pages, in page order
         const ds = await Promise.all(r.results.map(x => x.data())); gh.innerHTML = ds.map(pageLine).join(''); ball.textContent = 'show top three only'; ball.dataset.open = 1; };
     });
-    shownG = Math.min(groups.length, shownG + 25); $('#ftmore').hidden = shownG >= groups.length; };
+    shownG = Math.min(groups.length, shownG + 25); $('#ftmore').hidden = shownG >= groups.length; prog(); pump(); };
   $('#ftmore').textContent = 'Show more'; $('#ftmore').onclick = moreGroups; moreGroups();
 }
 async function ftExport(results, btn, DM){
