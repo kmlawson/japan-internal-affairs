@@ -25,14 +25,25 @@ def count(text, variants):
     return len(rx.findall(text))
 
 
-def group_names(items):
-    """Combine entries with the same name: [(name, role, sorted variants)]."""
+# Japanese personal names in surname-first form ("TOJO Hideki"), from people-names.tsv (made by people_names.py)
+PEOPLE_MAP = {}
+if os.path.exists(os.path.join(WEB, "people-names.tsv")):
+    for line in open(os.path.join(WEB, "people-names.tsv"), encoding="utf-8"):
+        if line.startswith("#") or "\t" not in line: continue
+        a, b = line.rstrip("\n").split("\t", 1)
+        if b.strip(): PEOPLE_MAP[a] = b.strip()
+
+
+def group_names(items, rename=None):
+    """Combine entries with the same name: [(name, role, sorted variants)]. rename maps a reported name to the
+    form shown on the site; the reported spelling stays a variant, so mention counts are unaffected."""
     by = {}
     for it in items:
-        n = it["name"].strip()
-        if not n: continue
+        n0 = it["name"].strip()
+        if not n0: continue
+        n = (rename or {}).get(n0, n0)
         e = by.setdefault(n.lower(), {"name": n, "role": it.get("role", ""), "variants": set()})
-        e["variants"].update(it.get("variants") or []); e["variants"].add(n)
+        e["variants"].update(it.get("variants") or []); e["variants"].add(n); e["variants"].add(n0)
         if not e["role"] and it.get("role"): e["role"] = it["role"]
     return [(e["name"], e["role"], sorted(e["variants"])) for e in by.values()]
 
@@ -91,14 +102,14 @@ JOBS, GROUPS, SMALL, MERGEDF = [], {}, [], []
 for fn in sorted(os.listdir(os.path.join(WEB, "json"))):
     if not fn.endswith(".json"): continue
     d = json.load(open(os.path.join(WEB, "json", fn), encoding="utf-8")); ident = fn[:-5]
-    GROUPS[ident] = (group_names(d.get("places", [])), group_names(d.get("people", [])))
+    GROUPS[ident] = (group_names(d.get("places", [])), group_names(d.get("people", []), PEOPLE_MAP))
     JOBS.append((ident, os.path.join(FILES, "ocr", rows[ident]["file"][:-4] + ".txt"), *GROUPS[ident])); SMALL.append((fn, d))
 for key in sorted(os.listdir(mdir)) if os.path.isdir(mdir) else []:
     fj = os.path.join(mdir, key, "file.json")
     if not os.path.exists(fj): continue
     fd = json.load(open(fj, encoding="utf-8"))
     secs = [json.load(open(os.path.join(mdir, key, f"s{i:03d}.json"), encoding="utf-8")) for i in range(1, fd["_meta"]["sections"] + 1)]
-    GROUPS[key] = (group_names([p for sc in secs for p in sc.get("places", [])]), group_names([p for sc in secs for p in sc.get("people", [])]))
+    GROUPS[key] = (group_names([p for sc in secs for p in sc.get("places", [])]), group_names([p for sc in secs for p in sc.get("people", [])], PEOPLE_MAP))
     JOBS.append((key, merged_text(fd["_meta"]["pdf"]), *GROUPS[key])); MERGEDF.append((key, fd, secs))
 done_pdfs = {fd["_meta"]["pdf"] for _, fd, _ in MERGEDF}
 for item in mrows:
