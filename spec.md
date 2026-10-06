@@ -219,6 +219,7 @@ PDF scans ──OCR──> page text (=== Page N === blocks)
 
 - **Rebuild after cataloguing:**
   `python3 build_db.py && python3 build_sets.py && python3 build_spotlight.py && cp catalog.sqlite downloads/…`
+- **Track what's left:** `python3 remaining.py` writes `remaining.md`. It summarises the uncatalogued files by size, period, theme and decimal, with the full file list, for picking the next cataloguing batch.
 - **Rebuild full text** (heavy):
   `cd fulltext-build && python3 prepare.py && node build.mjs && python3 make_bundle.py`
 - **Deploy:** upload `index.html`, `data.js`, `sets.js`, `spotlight-data.js`, `catalog.sqlite`, `downloads/`, `pagefind/` and `spotlight/img/`. The `json*` folders, `spotlight/clean/` and the scripts are sources, and the site doesn't load them.
