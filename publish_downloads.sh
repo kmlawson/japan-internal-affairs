@@ -4,6 +4,7 @@
 set -e
 cd "$(dirname "$0")"
 cp catalog.sqlite downloads/japan-internal-affairs-catalog.sqlite
+python3 make_text_files.py   # text/ + downloads/japan-internal-affairs-ocr-text-files.zip (commit text/ too)
 TAG="data-$(date +%Y-%m-%d)"
 gh release create "$TAG" downloads/japan-internal-affairs-catalog.sqlite downloads/japan-internal-affairs-ocr-text.jsonl.gz \
   -R kmlawson/japan-internal-affairs --title "Data downloads, $(date '+%-d %B %Y')" \

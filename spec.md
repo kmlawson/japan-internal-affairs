@@ -223,6 +223,7 @@ PDF scans ──OCR──> page text (=== Page N === blocks)
 - **Rebuild full text** (heavy):
   `cd fulltext-build && python3 prepare.py && node build.mjs && python3 make_bundle.py`
 - **Deploy:** upload `index.html`, `data.js`, `sets.js`, `spotlight-data.js`, `catalog.sqlite`, `pagefind/` and `spotlight/img/`. `downloads/` goes to GitHub Releases instead. The `json*` folders, `spotlight/clean/` and the scripts are sources, and the site doesn't load them.
+- **Per-file text:** `make_text_files.py` writes `text/<ID>.txt` (OCR text of each file, with a citation header) and `text/index.csv`, and these are committed to the repo. Every file page links to its text on raw.githubusercontent.com. The same set is zipped for the release.
 - **Bulk downloads** are published as GitHub Releases (`publish_downloads.sh`, one release per update), not hosted on the site. The site links to `releases/latest/download/<file>`, which always serves the newest release.
 - **Git:** commit and push as you go. Generated large outputs (`catalog.sqlite`, `pagefind/`, `downloads/`) are in `.gitignore`.
 - **CPU:** heavy jobs may use up to about 80% of the CPU. Leave headroom, and don't run two very heavy jobs at once.

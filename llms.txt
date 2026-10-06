@@ -7,6 +7,7 @@ Please do not crawl this site's search index (`pagefind/`) page by page. All the
 ## Bulk downloads
 
 - [All OCR text, one JSON line per page (gzip, ~55 MB)](https://github.com/kmlawson/japan-internal-affairs/releases/latest/download/japan-internal-affairs-ocr-text.jsonl.gz): fields `id`, `title`, `page`, `ocr` (Mistral OCR or PaddleOCR), `archive_org` (link to the page image), `text`
+- [All OCR text as one .txt per file (zip, ~58 MB)](https://github.com/kmlawson/japan-internal-affairs/releases/latest/download/japan-internal-affairs-ocr-text-files.zip): files named by ID (e.g. `894A.00-1181.txt`), each with a citation header and `=== Page N ===` blocks; `index.csv` lists them. Single files: https://raw.githubusercontent.com/kmlawson/japan-internal-affairs/main/text/<ID>.txt
 - [Catalogue database (SQLite, ~55 MB)](https://github.com/kmlawson/japan-internal-affairs/releases/latest/download/japan-internal-affairs-catalog.sqlite): tables `files`, `subfiles` (individual documents with dates, senders, recipients, summaries), `people`, `places`, `file_keywords`, `subfile_keywords`
 
 ## Source
