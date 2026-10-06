@@ -1,0 +1,2093 @@
+{
+ "section_summary": "This section documents State Department and military handling of foreign nationals’ applications, clearances, permits, and extensions for travel to occupied Japan and Okinawa in mid-1949. It includes commercial travelers, missionaries, stateless applicants, and transit passengers, together with diplomatic correspondence involving Iran, Ireland, and Thailand. A substantial reference subfile reproduces SCAP’s regulations governing the entry and exit of individuals, aircraft, and vessels.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japon",
+    "Janen",
+    "Janan",
+    "Japenese",
+    "Japanese waters"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taipei",
+    "Ioipei"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Iaiwan"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washington 25, D.C.",
+    "Washington 25, D. C.",
+    "Washington 8, D. C.",
+    "WASHINGTON",
+    "Woshington, D.C.",
+    "Wushing ton, D.C.",
+    "mshington, D. C.",
+    "Washunglon"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "New York, New York",
+    "New York City",
+    "New York 4, N.Y.",
+    "New York 22. N. Y.",
+    "New Yerk City"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "State of New York",
+    "New York"
+   ]
+  },
+  {
+   "name": "Richmond County, New York",
+   "variants": [
+    "Richuond Co",
+    "Richmond County"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston",
+    "Boston, Massashusetts"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "Massachusetts",
+    "Massashusetts"
+   ]
+  },
+  {
+   "name": "Burlingame, California",
+   "variants": [
+    "Burlingame California",
+    "durlingame, llu."
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Calif.",
+    "Califormia"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Francisoo",
+    "San Pranclsoo",
+    "San francisco",
+    "Sau fian: saco"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tekyo",
+    "Tokge",
+    "Bskye"
+   ]
+  },
+  {
+   "name": "Ebisu",
+   "variants": [
+    "Ebisu"
+   ]
+  },
+  {
+   "name": "Hara-machi",
+   "variants": [
+    "Hara Machi"
+   ]
+  },
+  {
+   "name": "Shibuya",
+   "variants": [
+    "Shibuya-ku"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tintsin"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "US",
+    "U. S.",
+    "United States",
+    "United States of America",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa",
+    "Ok1nawa",
+    "Okinawe",
+    "Okiaame"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran",
+    "Irin",
+    "Irsn"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok",
+    "Bingkok",
+    "Bangkon",
+    "BANGKO.Sm."
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle",
+    "Seatsle"
+   ]
+  },
+  {
+   "name": "Washington State",
+   "variants": [
+    "Washington",
+    "Wash.",
+    "wahing"
+   ]
+  },
+  {
+   "name": "Bothell, Washington",
+   "variants": [
+    "Bothell"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yolkohama",
+    "Tokohame"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Kebe"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagoye",
+    "Nngoyn"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kyeto"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Ireland",
+   "variants": [
+    "Ireland"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "Turin",
+   "variants": [
+    "Turin"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Korca"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Indin"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkcido"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Tokyo–Yokohama area",
+   "variants": [
+    "Tokyo-Yokohama cren"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo",
+    "Snscbo",
+    "Srsobo"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Enst"
+   ]
+  },
+  {
+   "name": "Long Island, New York",
+   "variants": [
+    "Long Isl-nd",
+    "Long Island"
+   ]
+  },
+  {
+   "name": "Rego Park, Queens",
+   "variants": [
+    "Rego Park"
+   ]
+  },
+  {
+   "name": "Elmhurst, Queens",
+   "variants": [
+    "\"lenhurst"
+   ]
+  },
+  {
+   "name": "Laodicea",
+   "variants": [
+    "Leodicea",
+    "Laodioea"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Leonelda Mellor",
+   "role": "Division of Protective Services official",
+   "variants": [
+    "Mrs. Leonelda Mellor",
+    "Lirs. Leonelda Miellor",
+    "Mrs. Mellor",
+    "Mrs. Melior",
+    "LSM",
+    "LSMellor"
+   ]
+  },
+  {
+   "name": "Michael Lee",
+   "role": "Chief, Far Eastern Branch, Office of International Trade",
+   "variants": [
+    "Michael Lee"
+   ]
+  },
+  {
+   "name": "Walter F. Chappell",
+   "role": "Assistant or Acting Chief, Division of Protective Services",
+   "variants": [
+    "Mr. Chappell",
+    "Mr. Charpell",
+    "Walter F. Chappell",
+    "Walter F. chappall",
+    "Walter P. Chappall",
+    "W. F. Cheppell",
+    "W. F. Ch ooell"
+   ]
+  },
+  {
+   "name": "Vladimir Grigorieff",
+   "role": "Stateless applicant for travel to Japan",
+   "variants": [
+    "Vladimir Grigorieff"
+   ]
+  },
+  {
+   "name": "Takima Grigorieff",
+   "role": "Wife of Vladimir Grigorieff and travel applicant",
+   "variants": [
+    "Takima"
+   ]
+  },
+  {
+   "name": "Michael Grigorieff",
+   "role": "Minor child and travel applicant",
+   "variants": [
+    "Michael"
+   ]
+  },
+  {
+   "name": "Serge Grigorieff",
+   "role": "Minor child and travel applicant",
+   "variants": [
+    "Serge"
+   ]
+  },
+  {
+   "name": "George H. Hendricks",
+   "role": "Captain, Field Artillery; Chief, Pacific Military Permit Branch",
+   "variants": [
+    "GEORGE H. HENDRICKS",
+    "George H. Hendrioks",
+    "George HHENDRIKS",
+    "Jeorge Hendricke",
+    "G. H. HENDRICKS",
+    "I H. Kendricks",
+    "Captain George A. Memirie",
+    "Captain Memdrieks"
+   ]
+  },
+  {
+   "name": "Frank McAndrews",
+   "role": "Notary public",
+   "variants": [
+    "FRANK MCANDREWS"
+   ]
+  },
+  {
+   "name": "Johanna Strauss",
+   "role": "Student nurse seeking extension of a visitor’s permit",
+   "variants": [
+    "Miss Johanna Strauss"
+   ]
+  },
+  {
+   "name": "Walter J. Marx",
+   "role": "Acting Assistant Chief, Division of Protective Services",
+   "variants": [
+    "Walter J. Marx",
+    "Walter'J. Marx",
+    "Mr. Jalter J. Marx"
+   ]
+  },
+  {
+   "name": "Martin",
+   "role": "Pacific Military Permit Branch official",
+   "variants": [
+    "Mr. Martin"
+   ]
+  },
+  {
+   "name": "Mervin Rothschild",
+   "role": "Traveler requesting permission for his wife to accompany him to Japan",
+   "variants": [
+    "Mervin Rothschild",
+    "l'ewin Rothschild",
+    "Mr. Rothschild"
+   ]
+  },
+  {
+   "name": "Anna J. Pisarevsky",
+   "role": "Mrs. Mervin Rothschild; applicant to accompany her husband to Japan",
+   "variants": [
+    "Anna J.Fisarevsky",
+    "Mrs. Mervin Rothschild",
+    "Mrs. Rotheshild",
+    "Mrs. Rotheohild",
+    "Mrs. Rothschild",
+    "Hannan Rotnser ild",
+    "Hannan"
+   ]
+  },
+  {
+   "name": "Hazel Zimmerman",
+   "role": "Tokyo host offering lodging to Mrs. Rothschild",
+   "variants": [
+    "Hazel Zimmerman"
+   ]
+  },
+  {
+   "name": "Henry Zimmerman",
+   "role": "Tokyo resident and husband of Hazel Zimmerman",
+   "variants": [
+    "Mr. Henry Zimmerman"
+   ]
+  },
+  {
+   "name": "Smyth",
+   "role": "Sender of the Tientsin telegram",
+   "variants": [
+    "SMYTH"
+   ]
+  },
+  {
+   "name": "Simpson",
+   "role": "State Department official noted on a telegram routing sheet",
+   "variants": [
+    "Mrs. Simpson"
+   ]
+  },
+  {
+   "name": "Edwin von Vogter",
+   "role": "Recipient of military permit 1672",
+   "variants": [
+    "Edwin Von Vogter",
+    "Mr. Von Vogter"
+   ]
+  },
+  {
+   "name": "Lawrence N. Townshend",
+   "role": "Business traveler holding permits for Japan and Okinawa",
+   "variants": [
+    "Lawrence N. Townshend",
+    "LATRENCE N. TONSHEND",
+    "Laurinm N. Tonread",
+    "Mr. Touwnshend"
+   ]
+  },
+  {
+   "name": "Flickinger",
+   "role": "Pacific Military Permit Branch official",
+   "variants": [
+    "Mrs. Flickinger",
+    "Mrs. Fliokinger"
+   ]
+  },
+  {
+   "name": "O’Brien",
+   "role": "Division of Protective Services official",
+   "variants": [
+    "Mr. O'Brien",
+    "Mr. 0'Brien",
+    "DJO'Br1en",
+    "DO'Brion"
+   ]
+  },
+  {
+   "name": "Richard William Abbotts",
+   "role": "Traveler whose entry clearance was extended",
+   "variants": [
+    "ABBOTTS Richerd William"
+   ]
+  },
+  {
+   "name": "Enrico D’Elia",
+   "role": "Buyer for B. D’Elia & Son seeking permission to visit Japan",
+   "variants": [
+    "Mr. Enrie Dklia",
+    "Hr. D'alia",
+    "Enricoa"
+   ]
+  },
+  {
+   "name": "Majdi Arjomandi",
+   "role": "Iranian applicant seeking an extension of permission to enter Japan",
+   "variants": [
+    "Mr. Majdi Arjomandi",
+    "Argomandi",
+    "Mr. Mohammed Argomandi",
+    "A CMA DI, Mohammad",
+    "Mr. Majdi Arjema",
+    "Mr. Arjomandi",
+    "Mr. Arjemandi"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Secretary of State",
+   "variants": [
+    "Dean Acheson",
+    "Acheson",
+    "ACHESON"
+   ]
+  },
+  {
+   "name": "Leo Grigorievich Ponevejsky",
+   "role": "Russian commercial representative of A. Ponve Co.",
+   "variants": [
+    "Leo G. Ponevejsky",
+    "Leo Grigorievich Ponevejsky",
+    "LEO G.PONEVEJSKY",
+    "Ponevejsky",
+    "Ponejevsky",
+    "Ponevejeky",
+    "Fonevejsky"
+   ]
+  },
+  {
+   "name": "I. Shorceeff",
+   "role": "Signatory for A. Ponve Co.",
+   "variants": [
+    "I. Shorceeff"
+   ]
+  },
+  {
+   "name": "Edgar P. Levedag",
+   "role": "Commercial traveler and representative of John P. Herber & Co.",
+   "variants": [
+    "Edgar P. Levedag",
+    "Rdgar P. Lovedag",
+    "Bdgar P. Levodag"
+   ]
+  },
+  {
+   "name": "John P. Herber",
+   "role": "President of John P. Herber & Co.",
+   "variants": [
+    "John P. Herber",
+    "Jobn P. Horber"
+   ]
+  },
+  {
+   "name": "Stanton",
+   "role": "Sender of Bangkok telegrams",
+   "variants": [
+    "STANTON"
+   ]
+  },
+  {
+   "name": "Terence James Sheridan",
+   "role": "Irish Jesuit priest seeking entry to Japan en route to Hong Kong",
+   "variants": [
+    "Reverend Terence J. Sheridan",
+    "Rev. Terence James Sheridan",
+    "The Reverend Teveate J. Sheridan",
+    "Father Sheridan",
+    "Terence Sheridan"
+   ]
+  },
+  {
+   "name": "S. E. Edgar",
+   "role": "British national formerly resident in Shanghai",
+   "variants": [
+    "S.E. Edgar"
+   ]
+  },
+  {
+   "name": "Dolores Edgar",
+   "role": "British national formerly resident in Shanghai",
+   "variants": [
+    "Dolores Edgar"
+   ]
+  },
+  {
+   "name": "Mary Edgar",
+   "role": "British national formerly resident in Shanghai",
+   "variants": [
+    "Mary Edgar"
+   ]
+  },
+  {
+   "name": "Stephan",
+   "role": "Sender of the Yokohama telegram",
+   "variants": [
+    "STEPHAN"
+   ]
+  },
+  {
+   "name": "Angela Ninetti",
+   "role": "Italian religious sister applying for permanent entry to Japan",
+   "variants": [
+    "Angela Ninetti",
+    "Angela NINETTI",
+    "Ninett1, Angela"
+   ]
+  },
+  {
+   "name": "J. C. Powell",
+   "role": "Embassy officer associated with the Ninetti despatch",
+   "variants": [
+    "JCPowell"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "GENERAL MaCARTHUR"
+   ]
+  },
+  {
+   "name": "Paul J. Mueller",
+   "role": "Major General and Chief of Staff",
+   "variants": [
+    "PAUL J. MUELLER"
+   ]
+  },
+  {
+   "name": "John B. Cooley",
+   "role": "Colonel and Adjutant General",
+   "variants": [
+    "JCHN B. COOLEY"
+   ]
+  },
+  {
+   "name": "Mrs. Thomas C. Smith",
+   "role": "Traveler whose authorized entry date prompted an inquiry about shipping",
+   "variants": [
+    "Mrs. Thomas C. Smith"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "Sender of the Tokyo telegram",
+   "variants": [
+    "SEBALD"
+   ]
+  },
+  {
+   "name": "Amleto Giovanni Cicognani",
+   "role": "Archbishop of Laodicea and Apostolic Delegate to the United States",
+   "variants": [
+    "Archbishop of Leodicea",
+    "Archbishop of Laodioea",
+    "Apostolic Delegate"
+   ]
+  },
+  {
+   "name": "Brennan",
+   "role": "Irish Legation official",
+   "variants": [
+    "Mr. Brennan"
+   ]
+  },
+  {
+   "name": "I. B. Shipley",
+   "role": "Chief, Passport Division",
+   "variants": [
+    "Mrs. I. B. Shipley",
+    "Mrs. Shinley"
+   ]
+  },
+  {
+   "name": "Daniel Carrigan",
+   "role": "Irish Catholic missionary applying to enter Japan",
+   "variants": [
+    "Reverend Daniel Carrigan",
+    "Reverend Daniel Carriren",
+    "The Reverend D niel Ca rigan",
+    "Daniel Carrigan"
+   ]
+  },
+  {
+   "name": "Maneck N. Dastur",
+   "role": "Indian commercial representative of Carrier Corporation",
+   "variants": [
+    "Maneck N. Dastur"
+   ]
+  },
+  {
+   "name": "Phiphatana Vanij Vongse",
+   "role": "Thai national cleared to enter Japan for trade",
+   "variants": [
+    "Phiphatana Vanij Vongse",
+    "Phiphatana Vanij Vongsu",
+    "Mr. Vongse",
+    "phatana Vanij Vongse"
+   ]
+  },
+  {
+   "name": "Larkin",
+   "role": "Visa Division official",
+   "variants": [
+    "Mr. Larkin",
+    "M). Lrkin"
+   ]
+  },
+  {
+   "name": "S. B. Bonaldley",
+   "role": "Signatory for the National Catholic Welfare Conference",
+   "variants": [
+    "S. B. Bonaldley"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan entry permits",
+  "SCAP",
+  "military travel clearance",
+  "permit extensions",
+  "commercial travel",
+  "Catholic missionaries",
+  "occupation administration",
+  "foreign nationals",
+  "transit visas",
+  "entry and exit regulations",
+  "Pacific Military Permit Branch",
+  "diplomatic correspondence"
+ ],
+ "subfiles": [
+  {
+   "title": "Commerce memorandum concerning Japan travel applications",
+   "doc_type": "memorandum",
+   "start_page": 321,
+   "end_page": 321,
+   "continues_previous": false,
+   "date": "1949-07-15",
+   "from": "Michael Lee, Office of International Trade",
+   "to": "Leonelda Mellor, Department of State",
+   "about": "Commercial applications for travel to Japan.",
+   "summary": "Commerce transmits or discusses approved commercial travel applications for State Department processing.",
+   "keywords": [
+    "Commerce Department",
+    "Japan travel",
+    "commercial applicants"
+   ]
+  },
+  {
+   "title": "Telegram action-copy routing sheet",
+   "doc_type": "routing sheet",
+   "start_page": 322,
+   "end_page": 322,
+   "continues_previous": false,
+   "date": "1949-07-19",
+   "from": "",
+   "to": "",
+   "about": "Administrative routing of a telegram action copy.",
+   "summary": "Fragmentary action-copy sheet records telegram routing and filing information.",
+   "keywords": [
+    "telegram",
+    "routing",
+    "action copy"
+   ]
+  },
+  {
+   "title": "Action slip for the Grigorieff family",
+   "doc_type": "action slip",
+   "start_page": 323,
+   "end_page": 323,
+   "continues_previous": false,
+   "date": "1949-07-29",
+   "from": "Pacific Military Permit Branch",
+   "to": "Walter F. Chappell",
+   "about": "Clearance status of stateless travelers Vladimir Grigorieff and family.",
+   "summary": "Notes prior Taipei clearance and closure of the Grigorieff family’s cases.",
+   "keywords": [
+    "Grigorieff family",
+    "stateless persons",
+    "Taipei",
+    "Japan clearance"
+   ]
+  },
+  {
+   "title": "Interstate Trading Corporation application for Japan travel",
+   "doc_type": "application",
+   "start_page": 324,
+   "end_page": 325,
+   "continues_previous": false,
+   "date": "1949-07",
+   "from": "Interstate Trading Corporation",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Application for a stateless representative to conduct commercial business in Japan.",
+   "summary": "The firm seeks a sixty-day commercial visit to Tokyo, Kobe, and Yokohama to complete transactions requiring personal representation.",
+   "keywords": [
+    "commercial travel",
+    "Interstate Trading Corporation",
+    "stateless applicant",
+    "Tokyo",
+    "Kobe",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "File note on unanswered Strauss speedletter",
+   "doc_type": "file note",
+   "start_page": 326,
+   "end_page": 326,
+   "continues_previous": false,
+   "date": "1950-02-14",
+   "from": "LSM",
+   "to": "File",
+   "about": "Absence of a reply from Johanna Strauss.",
+   "summary": "Records that no reply was received to the July 19, 1949 speedletter.",
+   "keywords": [
+    "Johanna Strauss",
+    "unanswered correspondence",
+    "file note"
+   ]
+  },
+  {
+   "title": "Speedletter to Johanna Strauss",
+   "doc_type": "speedletter",
+   "start_page": 327,
+   "end_page": 327,
+   "continues_previous": false,
+   "date": "1949-07-19",
+   "from": "Walter J. Marx, Department of State",
+   "to": "Johanna Strauss",
+   "about": "Procedure for extending her visitor’s permit in Japan.",
+   "summary": "Explains that Strauss’s Japanese sponsor must request an extension from SCAP, whose decision will pass through military and State channels.",
+   "keywords": [
+    "visitor’s permit",
+    "permit extension",
+    "SCAP",
+    "Johanna Strauss"
+   ]
+  },
+  {
+   "title": "Memorandum for the files on Strauss permit procedure",
+   "doc_type": "memorandum",
+   "start_page": 328,
+   "end_page": 328,
+   "continues_previous": false,
+   "date": "1949-07-19",
+   "from": "Division of Protective Services",
+   "to": "Files",
+   "about": "Consultation with the Army about Johanna Strauss’s permit extension.",
+   "summary": "Records Martin’s advice that Strauss’s sponsor should request the extension from SCAP.",
+   "keywords": [
+    "Johanna Strauss",
+    "Pacific Military Permit Branch",
+    "SCAP",
+    "permit extension"
+   ]
+  },
+  {
+   "title": "Letter transmitting Mrs. Rothschild’s military permit",
+   "doc_type": "letter",
+   "start_page": 329,
+   "end_page": 329,
+   "continues_previous": false,
+   "date": "1949-08-02",
+   "from": "Division of Protective Services",
+   "to": "Mrs. Mervin Rothschild",
+   "about": "Issuance of a military permit for entry into Japan.",
+   "summary": "Encloses Mrs. Rothschild’s military permit and advises that United States exit-permit requirements have been waived.",
+   "keywords": [
+    "Mrs. Rothschild",
+    "military permit",
+    "Japan",
+    "exit waiver"
+   ]
+  },
+  {
+   "title": "Request for action on Mrs. Rothschild’s application",
+   "doc_type": "letter",
+   "start_page": 330,
+   "end_page": 330,
+   "continues_previous": false,
+   "date": "1949-07",
+   "from": "Walter J. Marx, Department of State",
+   "to": "George H. Hendricks",
+   "about": "Mrs. Rothschild’s request to accompany her husband to Japan.",
+   "summary": "Forwards supporting correspondence and asks the Army to determine whether a military permit can be issued.",
+   "keywords": [
+    "Rothschild",
+    "military permit",
+    "spousal travel",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Mervin Rothschild letter requesting his wife’s permit",
+   "doc_type": "letter",
+   "start_page": 331,
+   "end_page": 331,
+   "continues_previous": false,
+   "date": "1949-07-19",
+   "from": "Mervin Rothschild",
+   "to": "Walter F. Chappell",
+   "about": "Request for permission allowing his wife to travel with him to Japan.",
+   "summary": "Rothschild submits a Tokyo host’s letter and requests prompt clearance before his August 5 departure.",
+   "keywords": [
+    "Mervin Rothschild",
+    "Anna Pisarevsky",
+    "Japan travel",
+    "host assurance"
+   ]
+  },
+  {
+   "title": "Hazel Zimmerman lodging assurance",
+   "doc_type": "letter",
+   "start_page": 332,
+   "end_page": 332,
+   "continues_previous": false,
+   "date": "1949-06-14",
+   "from": "Hazel Zimmerman",
+   "to": "Mrs. Mervin Rothschild",
+   "about": "Offer of accommodation in Tokyo.",
+   "summary": "Zimmerman assures Mrs. Rothschild that she may stay at the Zimmermans’ Tokyo home.",
+   "keywords": [
+    "lodging assurance",
+    "Tokyo",
+    "Rothschild",
+    "Zimmerman"
+   ]
+  },
+  {
+   "title": "Tientsin telegram requesting current Japan-entry procedure",
+   "doc_type": "telegram",
+   "start_page": 333,
+   "end_page": 333,
+   "continues_previous": false,
+   "date": "1949-07-20",
+   "from": "Smyth, Tientsin",
+   "to": "Secretary of State",
+   "about": "Entry requirements for passengers traveling from China through Japanese ports.",
+   "summary": "Requests updated procedures for travelers landing in Japan or transferring there to transportation bound for the United States.",
+   "keywords": [
+    "Tientsin",
+    "transit passengers",
+    "China",
+    "Japan entry",
+    "FSS 667"
+   ]
+  },
+  {
+   "title": "Letter transmitting Edwin von Vogter’s permit",
+   "doc_type": "letter",
+   "start_page": 334,
+   "end_page": 334,
+   "continues_previous": false,
+   "date": "1949-07-21",
+   "from": "Walter J. Marx, Department of State",
+   "to": "Edwin von Vogter",
+   "about": "Military permit 1672 for entry into Japan.",
+   "summary": "Encloses permit 1672, requests passport details, and notes the blanket waiver of United States exit permits.",
+   "keywords": [
+    "Edwin von Vogter",
+    "military permit",
+    "passport",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Townshend permit transmittal memorandum",
+   "doc_type": "memorandum",
+   "start_page": 335,
+   "end_page": 335,
+   "continues_previous": false,
+   "date": "1949-07-29",
+   "from": "Division of Protective Services",
+   "to": "Army Department",
+   "about": "Return of Lawrence Townshend’s Japan and Okinawa permits.",
+   "summary": "Transmits permits 1638 and 1639 for Lawrence N. Townshend.",
+   "keywords": [
+    "Lawrence Townshend",
+    "Japan",
+    "Okinawa",
+    "military permits"
+   ]
+  },
+  {
+   "title": "Request to alter Townshend’s clearance dates",
+   "doc_type": "letter",
+   "start_page": 336,
+   "end_page": 336,
+   "continues_previous": false,
+   "date": "1949-07-29",
+   "from": "Walter J. Marx, Department of State",
+   "to": "George H. Hendricks",
+   "about": "Extension of Townshend’s Japan and Okinawa entry period.",
+   "summary": "Requests new August 20–September 20 dates because business stops in Manila and Guam prevent use of the original clearance.",
+   "keywords": [
+    "Lawrence Townshend",
+    "permit extension",
+    "Manila",
+    "Guam",
+    "Okinawa"
+   ]
+  },
+  {
+   "title": "Townshend request for revised permit dates",
+   "doc_type": "letter",
+   "start_page": 337,
+   "end_page": 337,
+   "continues_previous": false,
+   "date": "1949-07-22",
+   "from": "Lawrence N. Townshend",
+   "to": "Walter J. Marx",
+   "about": "Changing the validity dates of his Japan and Okinawa permits.",
+   "summary": "Townshend asks that both permits remain valid through September 20 because he cannot arrive by the original deadline.",
+   "keywords": [
+    "Lawrence Townshend",
+    "permit dates",
+    "Japan",
+    "Okinawa"
+   ]
+  },
+  {
+   "title": "Return of Townshend’s extended permits",
+   "doc_type": "letter",
+   "start_page": 338,
+   "end_page": 338,
+   "continues_previous": false,
+   "date": "1949-08-02",
+   "from": "Division of Protective Services",
+   "to": "Lawrence N. Townshend",
+   "about": "Return of permits 1638 and 1639 with extended validity.",
+   "summary": "Returns Townshend’s Japan and Okinawa permits after their validity was extended as requested.",
+   "keywords": [
+    "Lawrence Townshend",
+    "permit extension",
+    "Japan",
+    "Okinawa"
+   ]
+  },
+  {
+   "title": "Army memorandum extending Richard William Abbotts’s clearance",
+   "doc_type": "memorandum",
+   "start_page": 339,
+   "end_page": 339,
+   "continues_previous": false,
+   "date": "1949-07-29",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Extension of Abbotts’s Japan-entry clearance.",
+   "summary": "Extends London-based Richard William Abbotts’s original entry clearance through September 25, 1949.",
+   "keywords": [
+    "Richard William Abbotts",
+    "London",
+    "clearance extension",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Registered-mail return receipt fragment",
+   "doc_type": "return receipt",
+   "start_page": 340,
+   "end_page": 340,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Postal evidence associated with registered correspondence.",
+   "summary": "Fragmentary registered-mail return-receipt card.",
+   "keywords": [
+    "registered mail",
+    "return receipt"
+   ]
+  },
+  {
+   "title": "B. D’Elia & Son envelope",
+   "doc_type": "envelope",
+   "start_page": 341,
+   "end_page": 341,
+   "continues_previous": false,
+   "date": "1949-07-26",
+   "from": "B. D’Elia & Son",
+   "to": "Department of State",
+   "about": "Envelope for correspondence concerning Enrico D’Elia.",
+   "summary": "Postmarked business envelope from B. D’Elia & Son.",
+   "keywords": [
+    "envelope",
+    "B. D’Elia & Son",
+    "New York"
+   ]
+  },
+  {
+   "title": "Request for Enrico D’Elia’s military permit",
+   "doc_type": "letter",
+   "start_page": 342,
+   "end_page": 342,
+   "continues_previous": false,
+   "date": "1949-07-26",
+   "from": "B. D’Elia & Son",
+   "to": "Department of State",
+   "about": "Final approval and delivery of Enrico D’Elia’s Japan permit.",
+   "summary": "The firm reports Commerce approval and asks that D’Elia’s military permit be mailed to its New York office.",
+   "keywords": [
+    "Enrico D’Elia",
+    "commercial buyer",
+    "military permit",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Iranian Embassy request for Arjomandi extension",
+   "doc_type": "diplomatic note",
+   "start_page": 343,
+   "end_page": 343,
+   "continues_previous": false,
+   "date": "1949-07-30",
+   "from": "Iranian Ambassador",
+   "to": "Dean Acheson",
+   "about": "Extension of Majdi Arjomandi’s expired Japan-entry permission.",
+   "summary": "Requests extension through September 26 because Arjomandi could not leave Iran during the original clearance period.",
+   "keywords": [
+    "Iran",
+    "Majdi Arjomandi",
+    "permit extension",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Referral of Arjomandi extension request",
+   "doc_type": "letter",
+   "start_page": 344,
+   "end_page": 344,
+   "continues_previous": false,
+   "date": "1949-08-08",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "George H. Hendricks",
+   "about": "Iran’s request to extend Mohammed Argomandi’s Japan clearance.",
+   "summary": "Forwards the Iranian Embassy’s request and asks military authorities to extend Argomandi’s entry validity to September 26.",
+   "keywords": [
+    "Mohammed Argomandi",
+    "Iranian Embassy",
+    "clearance extension",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Telegram to Bangkok announcing Ponevejsky clearance",
+   "doc_type": "outgoing telegram",
+   "start_page": 345,
+   "end_page": 345,
+   "continues_previous": false,
+   "date": "1949-08-02",
+   "from": "Secretary of State",
+   "to": "American Embassy Bangkok",
+   "about": "SCAP authorization for Leo G. Ponevejsky to enter Japan.",
+   "summary": "Announces Ponevejsky’s August entry clearance, sixty-day stay, photograph requirement, and substitute documentation procedure.",
+   "keywords": [
+    "Leo Ponevejsky",
+    "Bangkok",
+    "SCAP clearance",
+    "commercial travel"
+   ]
+  },
+  {
+   "title": "Army clearance memorandum for Ponevejsky",
+   "doc_type": "memorandum",
+   "start_page": 346,
+   "end_page": 346,
+   "continues_previous": false,
+   "date": "1949-08-01",
+   "from": "Pacific Military Permit Branch",
+   "to": "Walter F. Chappell",
+   "about": "Japan-entry clearance for Leo Grigorievich Ponevejsky.",
+   "summary": "Clears Ponevejsky to enter Japan from Bangkok between August 1 and September 1 for sixty days.",
+   "keywords": [
+    "Leo Ponevejsky",
+    "Bangkok",
+    "Japan clearance",
+    "sixty-day stay"
+   ]
+  },
+  {
+   "title": "A. Ponve Co. application for Ponevejsky",
+   "doc_type": "application",
+   "start_page": 347,
+   "end_page": 348,
+   "continues_previous": false,
+   "date": "1949-07",
+   "from": "A. Ponve Co.",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Commercial travel application for Leo G. Ponevejsky.",
+   "summary": "The Russian representative seeks to manage Tokyo offices and expand textile and general-merchandise trade, visiting Tokyo, Nagoya, Osaka, Kyoto, and Kobe.",
+   "keywords": [
+    "Leo Ponevejsky",
+    "commercial travel",
+    "textiles",
+    "Tokyo",
+    "Bangkok"
+   ]
+  },
+  {
+   "title": "Commerce memorandum forwarding Japan applications",
+   "doc_type": "memorandum",
+   "start_page": 349,
+   "end_page": 349,
+   "continues_previous": false,
+   "date": "1949-07-25",
+   "from": "Michael Lee, Office of International Trade",
+   "to": "Leonelda Mellor",
+   "about": "Commerce-approved commercial applications requiring SCAP approval.",
+   "summary": "Forwards a list of approved Japan-travel applicants, including Leo Grigorievich Ponevejsky.",
+   "keywords": [
+    "Commerce Department",
+    "SCAP",
+    "commercial applicants",
+    "Ponevejsky"
+   ]
+  },
+  {
+   "title": "Letter transmitting Edgar Levedag’s military permit",
+   "doc_type": "letter",
+   "start_page": 350,
+   "end_page": 350,
+   "continues_previous": false,
+   "date": "1949-08-04",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "Edgar P. Levedag",
+   "about": "Military permit for September entry into Japan.",
+   "summary": "Encloses Levedag’s permit and advises that no United States exit permit is required.",
+   "keywords": [
+    "Edgar Levedag",
+    "military permit",
+    "Japan",
+    "exit waiver"
+   ]
+  },
+  {
+   "title": "Army clearance memorandum for Edgar Levedag",
+   "doc_type": "memorandum",
+   "start_page": 351,
+   "end_page": 351,
+   "continues_previous": false,
+   "date": "1949-08-03",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Japan-entry clearance for Edgar P. Levedag.",
+   "summary": "Clears Levedag to enter Japan between September 1 and October 1 for sixty days.",
+   "keywords": [
+    "Edgar Levedag",
+    "Seattle",
+    "Japan clearance",
+    "commercial travel"
+   ]
+  },
+  {
+   "title": "John P. Herber & Co. application for Levedag",
+   "doc_type": "application",
+   "start_page": 352,
+   "end_page": 353,
+   "continues_previous": false,
+   "date": "1949-07",
+   "from": "John P. Herber & Co.",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Commercial application for Edgar P. Levedag to visit Japan.",
+   "summary": "The Seattle firm proposes trade promotion, market investigation, representation of American manufacturers, and possible establishment of permanent Japanese branches. Planned destinations include Tokyo, Yokohama, Nagoya, Kobe, Osaka, Niigata, and Nagasaki.",
+   "keywords": [
+    "Edgar Levedag",
+    "John P. Herber",
+    "commercial travel",
+    "trade promotion",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Bangkok telegram withholding Ponevejsky notification",
+   "doc_type": "incoming telegram",
+   "start_page": 354,
+   "end_page": 354,
+   "continues_previous": false,
+   "date": "1949-08-04",
+   "from": "Stanton, American Embassy Bangkok",
+   "to": "Secretary of State",
+   "about": "Delay in notifying Ponevejsky of his Japan clearance.",
+   "summary": "Bangkok withholds notification pending an advisory opinion on Ponevejsky’s immigration-visa case submitted from Shanghai.",
+   "keywords": [
+    "Ponevejsky",
+    "Bangkok",
+    "immigration visa",
+    "Japan clearance",
+    "Shanghai"
+   ]
+  },
+  {
+   "title": "Irish Legation note for Terence Sheridan",
+   "doc_type": "diplomatic note",
+   "start_page": 355,
+   "end_page": 356,
+   "continues_previous": false,
+   "date": "1949-08-08",
+   "from": "Minister of Ireland",
+   "to": "Secretary of State",
+   "about": "Application for Terence Sheridan to visit Japan en route to Hong Kong.",
+   "summary": "The Irish Legation forwards the Jesuit priest’s application and passport particulars, explaining his educational tour and intended return to Hong Kong.",
+   "keywords": [
+    "Terence Sheridan",
+    "Irish Legation",
+    "Catholic priest",
+    "Hong Kong",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Referral of Sheridan’s application to the Army",
+   "doc_type": "letter",
+   "start_page": 357,
+   "end_page": 357,
+   "continues_previous": false,
+   "date": "1949-08-10",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "George H. Hendricks",
+   "about": "SCAP review of Terence Sheridan’s request to visit Japan.",
+   "summary": "Forwards Sheridan’s application and Irish Legation note, requesting theater consideration and issuance of a permit if approved.",
+   "keywords": [
+    "Terence Sheridan",
+    "SCAP",
+    "Irish Legation",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Record-copy replacement form for Yokohama telegram",
+   "doc_type": "record-copy form",
+   "start_page": 358,
+   "end_page": 358,
+   "continues_previous": false,
+   "date": "1950-01-26",
+   "from": "Division of Communications and Records",
+   "to": "Central files",
+   "about": "Replacement of a missing original action copy.",
+   "summary": "Designates the attached Yokohama telegram copy as the official record copy.",
+   "keywords": [
+    "record copy",
+    "Yokohama",
+    "telegram",
+    "filing"
+   ]
+  },
+  {
+   "title": "Yokohama inquiry concerning the Edgar family",
+   "doc_type": "incoming telegram",
+   "start_page": 359,
+   "end_page": 359,
+   "continues_previous": false,
+   "date": "1949-08-09",
+   "from": "Stephan, Yokohama",
+   "to": "Secretary of State",
+   "about": "Visitor-visa information for three British nationals formerly in Shanghai.",
+   "summary": "Requests visa information and confirmation of nonimmigrant status for S. E. Edgar, Dolores Edgar, and Mary Edgar.",
+   "keywords": [
+    "Edgar family",
+    "British nationals",
+    "Shanghai",
+    "visitor visas",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Duplicate record-copy notation",
+   "doc_type": "file note",
+   "start_page": 360,
+   "end_page": 360,
+   "continues_previous": false,
+   "date": "1949-08-22",
+   "from": "KFC",
+   "to": "File",
+   "about": "Use of a duplicate as the record copy.",
+   "summary": "Directs that the duplicate be used as the record copy.",
+   "keywords": [
+    "duplicate",
+    "record copy",
+    "file note"
+   ]
+  },
+  {
+   "title": "London despatch transmitting Angela Ninetti’s application",
+   "doc_type": "despatch",
+   "start_page": 361,
+   "end_page": 361,
+   "continues_previous": false,
+   "date": "1949-08-10",
+   "from": "American Embassy London",
+   "to": "Department of State",
+   "about": "Military-permit application by Italian religious sister Angela Ninetti.",
+   "summary": "Transmits Ninetti’s application for permanent residence as a teaching sister in Japan and requests that the decision be cabled to Turin.",
+   "keywords": [
+    "Angela Ninetti",
+    "religious sister",
+    "London",
+    "Turin",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Foreign Service Serial 667 on representing foreign interests in Japan",
+   "doc_type": "circular instruction",
+   "start_page": 362,
+   "end_page": 362,
+   "continues_previous": false,
+   "date": "1947-01-17",
+   "from": "Department of State",
+   "to": "American diplomatic and consular officers",
+   "about": "United States transmission of Japan-entry applications for countries lacking representation there.",
+   "summary": "Explains when foreign governments may send Japan-entry applications through United States diplomatic channels for referral to SCAP.",
+   "keywords": [
+    "Foreign Service Serial 667",
+    "foreign interests",
+    "SCAP",
+    "diplomatic representation"
+   ]
+  },
+  {
+   "title": "SCAP Circular 8: Control of Entry and Exit",
+   "doc_type": "military circular",
+   "start_page": 363,
+   "end_page": 370,
+   "continues_previous": false,
+   "date": "1946-08-30",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Occupation implementing agencies and foreign representatives",
+   "about": "Rules governing individuals, aircraft, and vessels entering or leaving occupied Japan.",
+   "summary": "Circular 8 establishes authorization, documentation, health, customs, entry-permit, and exit procedures for individuals traveling to occupied Japan. It separately regulates aircraft, merchant vessels, and combatant ships, including requests, routes, manifests, ports, passengers, and cargo. The Eighth Army, Pacific Air Command, and Naval Activities Japan serve as implementing agencies under SCAP oversight.",
+   "keywords": [
+    "SCAP Circular 8",
+    "entry and exit control",
+    "occupation regulations",
+    "aircraft",
+    "surface vessels",
+    "customs",
+    "public health"
+   ]
+  },
+  {
+   "title": "Foreign Service Serial 668 on transit visas and military permission",
+   "doc_type": "visa instruction",
+   "start_page": 371,
+   "end_page": 371,
+   "continues_previous": false,
+   "date": "1947-01-17",
+   "from": "Department of State",
+   "to": "American diplomatic and consular officers",
+   "about": "Transit-visa treatment of travelers bound for Japan.",
+   "summary": "Authorizes routine transit-visa handling when applicants present proof of SCAP clearance under Circular 8.",
+   "keywords": [
+    "Foreign Service Serial 668",
+    "transit visas",
+    "military permission",
+    "SCAP clearance"
+   ]
+  },
+  {
+   "title": "Record-copy replacement form for Tokyo telegram 289",
+   "doc_type": "record-copy form",
+   "start_page": 372,
+   "end_page": 372,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Communications and Records",
+   "to": "Central files",
+   "about": "Replacement of the missing action copy of Tokyo telegram 289.",
+   "summary": "Designates the attached Tokyo telegram copy as the record copy.",
+   "keywords": [
+    "record copy",
+    "Tokyo",
+    "telegram 289"
+   ]
+  },
+  {
+   "title": "Tokyo telegram concerning Mrs. Thomas C. Smith’s sailing",
+   "doc_type": "incoming telegram",
+   "start_page": 373,
+   "end_page": 373,
+   "continues_previous": false,
+   "date": "1949-08-11",
+   "from": "Sebald, Tokyo",
+   "to": "Secretary of State",
+   "about": "Availability of a commercial sailing for Mrs. Thomas C. Smith.",
+   "summary": "Asks whether the President Cleveland’s early-October Yokohama arrival is the earliest sailing after Smith’s authorized September 15 entry date.",
+   "keywords": [
+    "Mrs. Thomas C. Smith",
+    "President Cleveland",
+    "Yokohama",
+    "shipping",
+    "entry date"
+   ]
+  },
+  {
+   "title": "Action slip extending Argomandi’s clearance",
+   "doc_type": "action slip",
+   "start_page": 374,
+   "end_page": 374,
+   "continues_previous": false,
+   "date": "1949-08-11",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Extension of Mohammad Argomandi’s Japan-entry clearance.",
+   "summary": "Extends Argomandi’s original clearance through September 26, 1949, under its existing conditions.",
+   "keywords": [
+    "Mohammad Argomandi",
+    "clearance extension",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Notification to Iran of Arjomandi’s extension",
+   "doc_type": "diplomatic note",
+   "start_page": 375,
+   "end_page": 375,
+   "continues_previous": false,
+   "date": "1949-08-15",
+   "from": "Secretary of State",
+   "to": "Ambassador of Iran",
+   "about": "Approval of Majdi Arjomandi’s requested entry extension.",
+   "summary": "Confirms that Arjomandi may enter Japan through September 26 under the conditions of his original clearance.",
+   "keywords": [
+    "Majdi Arjomandi",
+    "Iranian Embassy",
+    "permit extension",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Army request for Apostolic assurances for Sheridan",
+   "doc_type": "memorandum",
+   "start_page": 376,
+   "end_page": 376,
+   "continues_previous": false,
+   "date": "1949-08-11",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Additional support documentation for Terence Sheridan.",
+   "summary": "States that Sheridan must provide Apostolic Delegation assurances before a military permit can issue.",
+   "keywords": [
+    "Terence Sheridan",
+    "Apostolic Delegation",
+    "support assurance",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Apostolic Delegation envelope to Chappell",
+   "doc_type": "envelope",
+   "start_page": 377,
+   "end_page": 377,
+   "continues_previous": false,
+   "date": "1949-08-13",
+   "from": "Apostolic Delegation",
+   "to": "Walter F. Chappell",
+   "about": "Envelope carrying missionary-support correspondence.",
+   "summary": "Special-delivery envelope addressed to Chappell at the Division of Protective Services.",
+   "keywords": [
+    "envelope",
+    "Apostolic Delegation",
+    "special delivery"
+   ]
+  },
+  {
+   "title": "Apostolic assurance for Terence Sheridan",
+   "doc_type": "letter",
+   "start_page": 378,
+   "end_page": 378,
+   "continues_previous": false,
+   "date": "1949-08-13",
+   "from": "Apostolic Delegate",
+   "to": "Walter F. Chappell",
+   "about": "Support and conduct assurances for Sheridan’s missionary entry.",
+   "summary": "Recommends Sheridan and assures that he will burden neither Japan nor occupation forces and will avoid unauthorized activities.",
+   "keywords": [
+    "Terence Sheridan",
+    "Catholic missionary",
+    "Apostolic Delegate",
+    "support assurance"
+   ]
+  },
+  {
+   "title": "File note on obtaining Sheridan’s Apostolic letter",
+   "doc_type": "file note",
+   "start_page": 379,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1949-08",
+   "from": "Leonelda Mellor",
+   "to": "File",
+   "about": "Coordination of Sheridan’s supporting letter and permit delivery.",
+   "summary": "Records contacts with the Irish Legation and instructions for forwarding and collecting Sheridan’s permit.",
+   "keywords": [
+    "Terence Sheridan",
+    "Irish Legation",
+    "Apostolic Delegation",
+    "permit delivery"
+   ]
+  },
+  {
+   "title": "Transmittal of Sheridan’s Apostolic assurances",
+   "doc_type": "letter",
+   "start_page": 380,
+   "end_page": 380,
+   "continues_previous": false,
+   "date": "1949-08",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "George H. Hendricks",
+   "about": "Supporting letter for Terence Sheridan’s application.",
+   "summary": "Forwards two signed copies of the Apostolic Delegation’s August 13 letter in response to the Army’s request.",
+   "keywords": [
+    "Terence Sheridan",
+    "Apostolic Delegation",
+    "support assurance",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Mrs. Rothschild’s airmail envelope",
+   "doc_type": "envelope",
+   "start_page": 381,
+   "end_page": 381,
+   "continues_previous": false,
+   "date": "1949-08-16",
+   "from": "Mrs. Rothschild, Hotel Whitcomb",
+   "to": "Walter F. Chappell",
+   "about": "Envelope containing a question about her military permit.",
+   "summary": "Airmail envelope sent from San Francisco to the Department of State.",
+   "keywords": [
+    "Mrs. Rothschild",
+    "envelope",
+    "San Francisco",
+    "airmail"
+   ]
+  },
+  {
+   "title": "Mrs. Rothschild letter about arrival dates",
+   "doc_type": "letter",
+   "start_page": 382,
+   "end_page": 382,
+   "continues_previous": false,
+   "date": "1949-08-16",
+   "from": "Mrs. Mervin Rothschild",
+   "to": "Walter F. Chappell",
+   "about": "Whether her existing permit covers a late-August arrival in Japan.",
+   "summary": "Acknowledges receipt of her permit and asks whether it must be extended for her planned August 26 or 28 departure.",
+   "keywords": [
+    "Mrs. Rothschild",
+    "military permit",
+    "arrival date",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Reply concerning Mrs. Rothschild’s permit validity",
+   "doc_type": "letter",
+   "start_page": 383,
+   "end_page": 383,
+   "continues_previous": false,
+   "date": "1949-08-23",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "Mrs. Mervin Rothschild",
+   "about": "Whether an extension of her Japan-entry permit is necessary.",
+   "summary": "Advises that no extension is needed because the permit remains valid until October 1, unless her circumstances change substantially.",
+   "keywords": [
+    "Mrs. Rothschild",
+    "permit validity",
+    "Pacific Military Permit Branch",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Apostolic assurance for Daniel Carrigan",
+   "doc_type": "letter",
+   "start_page": 384,
+   "end_page": 384,
+   "continues_previous": false,
+   "date": "1949-08-17",
+   "from": "Apostolic Delegate",
+   "to": "I. B. Shipley",
+   "about": "Recommendation of Daniel Carrigan as a Catholic missionary to Japan.",
+   "summary": "Assures that Carrigan will burden neither Japan nor occupation forces and will avoid unauthorized activities.",
+   "keywords": [
+    "Daniel Carrigan",
+    "Catholic missionary",
+    "Apostolic Delegate",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Army letter requesting Carrigan’s support assurance",
+   "doc_type": "letter",
+   "start_page": 385,
+   "end_page": 385,
+   "continues_previous": false,
+   "date": "1949-08-01",
+   "from": "George H. Hendricks",
+   "to": "Daniel Carrigan",
+   "about": "Documentation required for Carrigan’s military-permit request.",
+   "summary": "Instructs Carrigan to obtain Apostolic Delegation assurances and submit them through the Division of Protective Services.",
+   "keywords": [
+    "Daniel Carrigan",
+    "Apostolic Delegation",
+    "military permit",
+    "support assurance"
+   ]
+  },
+  {
+   "title": "Referral of Carrigan’s missionary application",
+   "doc_type": "letter",
+   "start_page": 386,
+   "end_page": 386,
+   "continues_previous": false,
+   "date": "1949-08-17",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "George H. Hendricks",
+   "about": "Application and support assurances for Daniel Carrigan.",
+   "summary": "Forwards Carrigan’s application and letters from the Apostolic Delegate and his missionary society, requesting return of any issued permit.",
+   "keywords": [
+    "Daniel Carrigan",
+    "missionary travel",
+    "Apostolic Delegate",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Commerce memorandum on Maneck Dastur",
+   "doc_type": "memorandum",
+   "start_page": 387,
+   "end_page": 387,
+   "continues_previous": false,
+   "date": "1949-08-17",
+   "from": "Department of Commerce",
+   "to": "Leonelda Mellor",
+   "about": "Approved Japan-travel application for Maneck N. Dastur.",
+   "summary": "Reports Commerce approval of Carrier Corporation’s Indian representative, who seeks entry on September 1.",
+   "keywords": [
+    "Maneck Dastur",
+    "Carrier Corporation",
+    "commercial travel",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Receipt for Terence Sheridan’s military permit",
+   "doc_type": "receipt",
+   "start_page": 388,
+   "end_page": 388,
+   "continues_previous": false,
+   "date": "1949-08-18",
+   "from": "Irish Legation",
+   "to": "Department of State",
+   "about": "Receipt of military permit 1934 for Terence Sheridan.",
+   "summary": "Acknowledges receipt of Sheridan’s permit for missionary entry between August 17 and October 17.",
+   "keywords": [
+    "Terence Sheridan",
+    "military permit 1934",
+    "Irish Legation",
+    "receipt"
+   ]
+  },
+  {
+   "title": "Conversation memorandum on Vongse’s permit",
+   "doc_type": "memorandum of conversation",
+   "start_page": 389,
+   "end_page": 389,
+   "continues_previous": false,
+   "date": "1949-08-30",
+   "from": "Division of Protective Services",
+   "to": "File",
+   "about": "Correct documentation channel and revised dates for Phiphatana Vanij Vongse.",
+   "summary": "O’Brien and Flickinger agree that Vongse should receive documentation through Thailand and revise his clearance to September 10–October 10.",
+   "keywords": [
+    "Phiphatana Vanij Vongse",
+    "Thailand",
+    "military permit",
+    "clearance dates"
+   ]
+  },
+  {
+   "title": "Referral of Vongse’s trade application",
+   "doc_type": "letter",
+   "start_page": 390,
+   "end_page": 391,
+   "continues_previous": false,
+   "date": "1949-08-22",
+   "from": "Walter F. Chappell, Department of State",
+   "to": "George H. Hendricks",
+   "about": "SCAP consideration of Phiphatana Vanij Vongse’s application.",
+   "summary": "Forwards the Thai trade traveler’s application and requests theater review and issuance of a military permit if approved; page 391 is blank.",
+   "keywords": [
+    "Phiphatana Vanij Vongse",
+    "Thai Embassy",
+    "trade travel",
+    "SCAP",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Thai Embassy note submitting Vongse’s application",
+   "doc_type": "diplomatic note",
+   "start_page": 392,
+   "end_page": 392,
+   "continues_previous": false,
+   "date": "1949-08-18",
+   "from": "Ambassador of Thailand",
+   "to": "Secretary of State",
+   "about": "Permission for Phiphatana Vanij Vongse to enter Japan for trade.",
+   "summary": "Requests State Department referral of Vongse’s application to SCAP for the necessary entry permission.",
+   "keywords": [
+    "Thailand",
+    "Phiphatana Vanij Vongse",
+    "trade travel",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Instruction to deliver Ponevejsky’s clearance",
+   "doc_type": "outgoing telegram",
+   "start_page": 393,
+   "end_page": 393,
+   "continues_previous": false,
+   "date": "1949-08-19",
+   "from": "Secretary of State",
+   "to": "American Embassy Bangkok",
+   "about": "Delivery of Ponevejsky’s Japan clearance despite the separate visa case.",
+   "summary": "Orders Bangkok to deliver the clearance, treating Ponevejsky’s immigration-visa matter separately.",
+   "keywords": [
+    "Ponevejsky",
+    "Bangkok",
+    "Japan clearance",
+    "immigration visa"
+   ]
+  },
+  {
+   "title": "File note on Ponevejsky’s visa and Japan clearance",
+   "doc_type": "file note",
+   "start_page": 394,
+   "end_page": 394,
+   "continues_previous": false,
+   "date": "1949-08-11",
+   "from": "Leonelda Mellor",
+   "to": "File",
+   "about": "Relationship between Ponevejsky’s United States visa case and SCAP clearance.",
+   "summary": "Argues that State must transmit SCAP’s approval regardless of the separate immigration-visa decision.",
+   "keywords": [
+    "Ponevejsky",
+    "SCAP clearance",
+    "immigration visa",
+    "Visa Division"
+   ]
+  },
+  {
+   "title": "Interdivisional memorandum on Ponevejsky",
+   "doc_type": "memorandum",
+   "start_page": 395,
+   "end_page": 395,
+   "continues_previous": false,
+   "date": "1949-08-11",
+   "from": "Division of Protective Services",
+   "to": "Larkin, Visa Division",
+   "about": "Bangkok’s delay in notifying Ponevejsky of his Japan clearance.",
+   "summary": "Requests prompt notice of the visa decision so Bangkok can act before Ponevejsky’s Japan clearance expires September 1.",
+   "keywords": [
+    "Ponevejsky",
+    "Visa Division",
+    "Bangkok",
+    "Japan clearance",
+    "Shanghai"
+   ]
+  },
+  {
+   "title": "File note on the Ponevejsky immigration opinion",
+   "doc_type": "file note",
+   "start_page": 396,
+   "end_page": 396,
+   "continues_previous": false,
+   "date": "1949-08-08",
+   "from": "Leonelda Mellor",
+   "to": "File",
+   "about": "Status of a recommendation to refuse Ponevejsky an immigration visa.",
+   "summary": "Records efforts to determine whether the July 11 refusal recommendation had been signed and sent.",
+   "keywords": [
+    "Ponevejsky",
+    "immigration visa",
+    "Shanghai",
+    "Visa Division"
+   ]
+  },
+  {
+   "title": "Notification to Thailand of Vongse’s clearance",
+   "doc_type": "diplomatic note",
+   "start_page": 397,
+   "end_page": 398,
+   "continues_previous": false,
+   "date": "1949-08-31",
+   "from": "Secretary of State",
+   "to": "Ambassador of Thailand",
+   "about": "Approval and documentation of Phiphatana Vanij Vongse’s Japan entry.",
+   "summary": "States that Vongse may enter Japan between September 10 and October 10 for sixty days and must carry two photographs. It asks Thailand to place the required SCAP-clearance statement in his passport and encloses commercial-entry guidance.",
+   "keywords": [
+    "Phiphatana Vanij Vongse",
+    "Thailand",
+    "SCAP clearance",
+    "passport endorsement",
+    "commercial entrants"
+   ]
+  },
+  {
+   "title": "Bangkok follow-up telegram on Ponevejsky",
+   "doc_type": "incoming telegram",
+   "start_page": 399,
+   "end_page": 399,
+   "continues_previous": false,
+   "date": "1949-08-18",
+   "from": "Stanton, American Embassy Bangkok",
+   "to": "Secretary of State",
+   "about": "Urgent request for instructions concerning Ponevejsky’s clearance.",
+   "summary": "Reports that Ponevejsky learned of the authorization from a Tokyo associate and is pressing for official information.",
+   "keywords": [
+    "Ponevejsky",
+    "Bangkok",
+    "Tokyo",
+    "Japan clearance",
+    "urgent reply"
+   ]
+  },
+  {
+   "title": "Receipt for Daniel Carrigan’s military permit",
+   "doc_type": "receipt",
+   "start_page": 400,
+   "end_page": 400,
+   "continues_previous": false,
+   "date": "1949-08-19",
+   "from": "National Catholic Welfare Conference",
+   "to": "Department of State",
+   "about": "Receipt of military permit 1960 for Daniel Carrigan.",
+   "summary": "Acknowledges Carrigan’s permit for missionary entry between September 15 and November 15, 1949.",
+   "keywords": [
+    "Daniel Carrigan",
+    "military permit 1960",
+    "missionary",
+    "receipt"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 10,
+  "pages": [
+   321,
+   400
+  ],
+  "pdf": "894.111 Regulations Governing %D0, Japan, Residence, Trade, Travel, And Foreign Courier Travel., April 12, 1949 - November 16, 1949 1786.pdf",
+  "seconds": 391.4,
+  "created": "2026-10-06 10:14:34",
+  "key": "japan-internal-affairs-894.111-regulations-governing-japan-11"
+ }
+}

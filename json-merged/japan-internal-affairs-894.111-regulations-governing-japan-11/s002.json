@@ -1,0 +1,2339 @@
+{
+ "section_summary": "This section documents State Department and military processing of requests by foreign business travelers, missionaries, family members, and emigrants to enter, leave, or transit occupied Japan. It includes diplomatic notes, applications, Army clearance slips, telegrams, and passport guidance involving applicants from Siam, Iran, Uruguay, Brazil, Costa Rica, Cuba, Mexico, China, and elsewhere. Recurring issues include SCAP theater clearance, permit-validity extensions, proof of identity, diplomatic representation, logistical support, and passport or exit-document requirements.",
+ "places": [
+  {
+   "name": "Alexandria, Egypt",
+   "variants": [
+    "ALEXANDRIA, EGYPT",
+    "Alexandria"
+   ]
+  },
+  {
+   "name": "American Samoa",
+   "variants": [
+    "American Samoa"
+   ]
+  },
+  {
+   "name": "Ashiya, Fukuoka Prefecture",
+   "variants": [
+    "Ashiya machi 4",
+    "Ashiya vachi 4"
+   ]
+  },
+  {
+   "name": "Baghdad, Iraq",
+   "variants": [
+    "Baghded",
+    "Baghdad",
+    "Baghdad, Iraq",
+    "Baghdad,IRaq",
+    "Baghtat",
+    "BAGHDAD"
+   ]
+  },
+  {
+   "name": "Beijing, China",
+   "variants": [
+    "Peiping",
+    "PEIPING, CHINA"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brasil",
+    "Bresil"
+   ]
+  },
+  {
+   "name": "Calcutta, India",
+   "variants": [
+    "Calcutta, India",
+    "Calcutta"
+   ]
+  },
+  {
+   "name": "Camagüey, Cuba",
+   "variants": [
+    "Camaguey, Cuba"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central American countries"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chira",
+    "CHIL.."
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica",
+    "Costa Riea"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "Dalian, China",
+   "variants": [
+    "Dairen",
+    "DAIREL"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt",
+    "cypt"
+   ]
+  },
+  {
+   "name": "El Monte, California",
+   "variants": [
+    "El Monte, California"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Empire State Building, New York City",
+   "variants": [
+    "EMPIRE STATE BUILDING",
+    "Empire state Bailding"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuokaken"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Allemagne"
+   ]
+  },
+  {
+   "name": "Glasgow Building, Osaka",
+   "variants": [
+    "Gosho Building"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Guangzhou, China",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Havana, Cuba",
+   "variants": [
+    "Havana",
+    "Habana",
+    "HABANA"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "Iraq",
+    "IRaq"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "J: pen",
+    "Jap.",
+    "Japas",
+    "Japar",
+    "Janan",
+    "Javan",
+    "Japen",
+    "apan",
+    "dapen",
+    "Japam"
+   ]
+  },
+  {
+   "name": "Kobe, Japan",
+   "variants": [
+    "Kobe",
+    "ove"
+   ]
+  },
+  {
+   "name": "Kofu, Japan",
+   "variants": [
+    "sofu"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "KOREA",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Kyoto, Japan",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Larchmont, New York",
+   "variants": [
+    "Larchmont Gables, Larchmont, New York",
+    "Larchmont"
+   ]
+  },
+  {
+   "name": "London, England",
+   "variants": [
+    "London, England",
+    "London"
+   ]
+  },
+  {
+   "name": "Los Angeles, California",
+   "variants": [
+    "Los Angeles",
+    "Los Angeles, California"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Manila",
+    "Manila, P.I.",
+    "ManilaP.I."
+   ]
+  },
+  {
+   "name": "Marília, São Paulo, Brazil",
+   "variants": [
+    "Marflia",
+    "Marília",
+    "Marilia"
+   ]
+  },
+  {
+   "name": "Marunouchi, Tokyo",
+   "variants": [
+    "Marunouoh1",
+    "Marunouchi"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Mexico City, Mexico",
+   "variants": [
+    "Mexico, D.F.",
+    "MEXICO, D. F."
+   ]
+  },
+  {
+   "name": "Monterey Park, California",
+   "variants": [
+    "Monterey Park, California"
+   ]
+  },
+  {
+   "name": "Nagasaki, Japan",
+   "variants": [
+    "Na asaki"
+   ]
+  },
+  {
+   "name": "Nagoya, Japan",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Nanjing, China",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEW YORK",
+    "New York, N. Y.",
+    "New York 10, N. Y.",
+    "New York 13, N. Y.",
+    "New York 1, New York",
+    "New York 16",
+    "New York 17, N.Y."
+   ]
+  },
+  {
+   "name": "Niagara Falls, New York",
+   "variants": [
+    "Magare Palls, New York"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North Chira"
+   ]
+  },
+  {
+   "name": "Okinawa, Japan",
+   "variants": [
+    "OKINAMA",
+    "OKINAWA"
+   ]
+  },
+  {
+   "name": "Onga District, Fukuoka Prefecture",
+   "variants": [
+    "Onga-Gun"
+   ]
+  },
+  {
+   "name": "Osaka, Japan",
+   "variants": [
+    "Osaka",
+    "Jsaka"
+   ]
+  },
+  {
+   "name": "Pentagon, Arlington, Virginia",
+   "variants": [
+    "Pentagon Bldg.",
+    "Pentagon Building",
+    "Peatagon Bailding",
+    "Pemtagom Building",
+    "l'entagon Builaing"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Philippime Lalands",
+    "P.I."
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portugal",
+    "Fortugal"
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "variants": [
+    "Puerto Rico"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro, Brazil",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "Rockefeller Center, New York City",
+   "variants": [
+    "Hockefeller Center",
+    "Rockefeller Center"
+   ]
+  },
+  {
+   "name": "San Francisco, California",
+   "variants": [
+    "San Prancisco",
+    "San Francisco",
+    "San Francisco, California"
+   ]
+  },
+  {
+   "name": "San José, Costa Rica",
+   "variants": [
+    "San Jes6, Costa Riea",
+    "San Jomé, Costa Rica",
+    "San Jos'e.Costa Rica"
+   ]
+  },
+  {
+   "name": "Santa Monica, California",
+   "variants": [
+    "Santa Monica, California",
+    "Santa Lonica, California"
+   ]
+  },
+  {
+   "name": "São Paulo, Brazil",
+   "variants": [
+    "State of São Paulo",
+    "stado de São Paulo"
+   ]
+  },
+  {
+   "name": "Seoul, South Korea",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Shanghai, China",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Swedish"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam",
+    "Sian"
+   ]
+  },
+  {
+   "name": "Tehran, Iran",
+   "variants": [
+    "Teheran",
+    "Tehran"
+   ]
+  },
+  {
+   "name": "Tianjin, China",
+   "variants": [
+    "Tientsir",
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tóquio",
+    "Tekyo",
+    "Takye",
+    "Tokvo",
+    "Pokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "States",
+    "U.S."
+   ]
+  },
+  {
+   "name": "U.S. Virgin Islands",
+   "variants": [
+    "Virgin Islands"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "Wake Island",
+   "variants": [
+    "Wake Ialam"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINOTON G. D,C.",
+    "Washington, D. C.",
+    "Washington D.C",
+    "WASHINGTON.D C",
+    "Washington",
+    "Washingtes D. C.",
+    "Waskington, D. C.",
+    "Mashington",
+    "Vashinrtin, !.t."
+   ]
+  },
+  {
+   "name": "Winder Building, Washington, D.C.",
+   "variants": [
+    "Winder Building"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama",
+    "Yokuhoma"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dean Acheson",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Dean Acheson",
+    "ACHESON",
+    "Acheson",
+    "Achison",
+    "Acheso"
+   ]
+  },
+  {
+   "name": "Marion Ackerson",
+   "role": "Accountant, Foreign Missions Conference of North America",
+   "variants": [
+    "MARION ACKERSON"
+   ]
+  },
+  {
+   "name": "Mohammad Argomandi",
+   "role": "Iranian merchant and buying agent seeking entry to Japan",
+   "variants": [
+    "Mohammad Argomandi",
+    "Argomandi",
+    "mohammad",
+    "Mr. Argomandi",
+    "Mr. Mohammad nrgomanli"
+   ]
+  },
+  {
+   "name": "Jorge Barriro",
+   "role": "First Secretary, Embassy of Uruguay",
+   "variants": [
+    "Jorg: Bariro",
+    "Jorge Barriro"
+   ]
+  },
+  {
+   "name": "Elroy Levern Bartlett",
+   "role": "World War II veteran seeking civilian employment in occupied Japan",
+   "variants": [
+    "Elroy L. Bartlett",
+    "Mr. Bartlett",
+    "Elroy Bartlett",
+    "Mr. Partlett",
+    "Elroy Levern Bartlett",
+    "Krey L. Bartlett",
+    "Elroy"
+   ]
+  },
+  {
+   "name": "Diego M. Betancourt",
+   "role": "Cuban representative of American International Underwriters Corporation",
+   "variants": [
+    "Diego M. Betancourt",
+    "Mr. Betancourt",
+    "Diego M. Bet ncourt",
+    "Betancourt"
+   ]
+  },
+  {
+   "name": "Bruno Bitter",
+   "role": "Father; Vice President of Jochi University and liaison with SCAP",
+   "variants": [
+    "Father Bruno Bitter",
+    "Father Bitter"
+   ]
+  },
+  {
+   "name": "Walter F. Chappell",
+   "role": "Acting or Assistant Chief, Division of Protective Services",
+   "variants": [
+    "Walter P. Chappell",
+    "Walter F. Chappell",
+    "Walter F. Cheppall",
+    "Walter F. Chappoll",
+    "Walter P. Chappall",
+    "halter F. C.happall",
+    "Waltor F. Chappell",
+    "Mr. Chappell",
+    "Mr. Channell"
+   ]
+  },
+  {
+   "name": "O. Edmund Clubb",
+   "role": "U.S. diplomatic officer and telegram signatory at Peiping",
+   "variants": [
+    "CLUBB"
+   ]
+  },
+  {
+   "name": "Mohammad Daneshvar",
+   "role": "Iranian national seeking entry to Japan for trade",
+   "variants": [
+    "Mohamed Dansskvar",
+    "Mr. Daneshvar",
+    "Mr. Dansshvar",
+    "Monamea Danesnvar"
+   ]
+  },
+  {
+   "name": "Henry A. Dudley",
+   "role": "Attorney with the law offices of Paul V. McNutt",
+   "variants": [
+    "Henry . Dudley",
+    "Henry A. Dudley",
+    "Mr. Dudley",
+    "Mr. Dualey"
+   ]
+  },
+  {
+   "name": "Yaeko Eguchi",
+   "role": "Japanese Catholic seeking to emigrate to her father in Brazil",
+   "variants": [
+    "Yaeko Eguchi",
+    "Miss Yaeko Eguchi",
+    "Miss Yacko",
+    "Yaeko uchi",
+    "Taek Eemehi",
+    "Miss Eguchi"
+   ]
+  },
+  {
+   "name": "Uso Eguchi",
+   "role": "Yaeko Eguchi's father, resident in Brazil",
+   "variants": [
+    "Uso Eguchi",
+    "Mr. Uso Eguchi",
+    "Uso guohi",
+    "Mr. Uee Eguchi"
+   ]
+  },
+  {
+   "name": "José M. Espinosa",
+   "role": "Cuban business traveler seeking revalidation of permission to enter Japan",
+   "variants": [
+    "Jose M. Espinosa",
+    "JOSE M. ESPINOSA",
+    "Jose M."
+   ]
+  },
+  {
+   "name": "Royal H. Fisher",
+   "role": "Assistant Secretary, Far Eastern Joint Office, Foreign Missions Conference",
+   "variants": [
+    "Royal  Fisher",
+    "Royal H. Fisher",
+    "Mr. Pisher",
+    "Royal P sher"
+   ]
+  },
+  {
+   "name": "Florence Gordon",
+   "role": "Staff member named on Foreign Missions Conference letterhead",
+   "variants": [
+    "FLORENCE GORDON"
+   ]
+  },
+  {
+   "name": "Gloria Bartlett",
+   "role": "Member of Elroy Bartlett's family, apparently his infant child",
+   "variants": [
+    "Gloria"
+   ]
+  },
+  {
+   "name": "George A. Mahoff",
+   "role": "Correspondent concerning his mother Anna Slenkina",
+   "variants": [
+    "Mr. Mahoff",
+    "George A. Hahoff",
+    "Mr. Geo. ... Manolf"
+   ]
+  },
+  {
+   "name": "George H. Hendricks",
+   "role": "Captain and Chief, Pacific Military Permit Branch",
+   "variants": [
+    "Captain George L. Mendriaks",
+    "Captain Geerge H. Hendricks",
+    "Captain George H. Hendricks",
+    "Captain Hendrieke",
+    "Captain Hendricke",
+    "Captain Henuricks",
+    "Captain Goorge H. lHondricks",
+    "GEORGE H. HENDRICKS",
+    "Gorge H Henduckes",
+    "George H. Lendrucks",
+    "GEORGE H. HETDRICKS",
+    "Llorge H Zhndriched",
+    "Lorge Ht Zendricke"
+   ]
+  },
+  {
+   "name": "Toshiko Ichikawa",
+   "role": "Former U.S. citizen seeking travel documents to return to Japan",
+   "variants": [
+    "Mrs. Toshiko Ichikawa",
+    "Mre. Toskiko Iohikawa",
+    "Toshiko Lo likawa",
+    "Toshiko Ichikawa",
+    "Mr. Toshiko Ichikawa",
+    "T. Ichikawa"
+   ]
+  },
+  {
+   "name": "Igoshi Ichikawa",
+   "role": "Minor son mentioned in Toshiko Ichikawa's letter; OCR reading uncertain",
+   "variants": [
+    "Igoshi"
+   ]
+  },
+  {
+   "name": "Isaac Tsunekawa Ikeda",
+   "role": "Person being repatriated to Chile",
+   "variants": [
+    "Isaac Tsunekawa Ikeda",
+    "Isaac"
+   ]
+  },
+  {
+   "name": "Mario Tsunekawa Ikeda",
+   "role": "Person being repatriated to Chile",
+   "variants": [
+    "Mario Tsunekawa Ikeda",
+    "Mario"
+   ]
+  },
+  {
+   "name": "Suchint Jaovisidha",
+   "role": "Siamese trade traveler representing Visidha Company, Limited",
+   "variants": [
+    "Suchint Jaovisidha",
+    "r. Suchint Jaovisidha",
+    "Mr. Jaovisidha"
+   ]
+  },
+  {
+   "name": "Fujiko Bartlett",
+   "role": "Japanese wife of Elroy Bartlett",
+   "variants": [
+    "Jujiko"
+   ]
+  },
+  {
+   "name": "Angelica Klebanoff",
+   "role": "Traveler seeking an extension of permission to enter Japan",
+   "variants": [
+    "MRS. ANGELICA KLEBANOFF",
+    "Angelica lebanoff",
+    "Mrs. Klabanoff",
+    "Mrs. Klebanoff"
+   ]
+  },
+  {
+   "name": "Michael Klebanoff",
+   "role": "Businessman with Oriental Exporters and husband of Angelica Klebanoff",
+   "variants": [
+    "Michael Klebanoff",
+    "Mr. ichael lsbanofi",
+    "Mr. Michael obanoff"
+   ]
+  },
+  {
+   "name": "Mr. Lory",
+   "role": "Official consulted by telephone about the Peiping travelers",
+   "variants": [
+    "Mr. Lory"
+   ]
+  },
+  {
+   "name": "Flora C. Mackie",
+   "role": "Notary public",
+   "variants": [
+    "Floza C. dhackie",
+    "FLORA C. MACKIE"
+   ]
+  },
+  {
+   "name": "Walter J. Marx",
+   "role": "Acting Assistant Chief, Division of Protective Services",
+   "variants": [
+    "Walter J. Marx",
+    "malter J' Marx",
+    "Halter J. Marx"
+   ]
+  },
+  {
+   "name": "Toru Matsumoto",
+   "role": "Japanese missionary appointed to the faculty of Meiji Gakuin",
+   "variants": [
+    "The Rev. Toru Matsumoto",
+    "Mr. Matsumoto",
+    "The Reverend Toru Matsumoto",
+    "Toru Matsumoto",
+    "Rev. Toru Matsumoto",
+    "The Reverend Matsumoto",
+    "Mr. Matoumoto"
+   ]
+  },
+  {
+   "name": "Mrs. Matsumoto",
+   "role": "Wife of Toru Matsumoto",
+   "variants": [
+    "Mrs. Matsumoto"
+   ]
+  },
+  {
+   "name": "Riley W. Meador",
+   "role": "Major, Infantry, Pacific Military Permit Branch",
+   "variants": [
+    "RILEY W. MEADOR",
+    "Kiley W. Meadors",
+    "Reiley W Meador"
+   ]
+  },
+  {
+   "name": "Mrs. Mellor",
+   "role": "Division of Protective Services official",
+   "variants": [
+    "Mrs Melior",
+    "Mrs. Mellor",
+    "rs. Simpson",
+    "Mrs. Miller",
+    "Mrs. .. Mellor"
+   ]
+  },
+  {
+   "name": "Paul V. McNutt",
+   "role": "Attorney whose law offices represented Diego Betancourt",
+   "variants": [
+    "PAUL V MCNUTT",
+    "PAUL V McNUTT",
+    "Mr. Paul V. McNutt",
+    "Mr. McNutt"
+   ]
+  },
+  {
+   "name": "Gabriel Nahmias",
+   "role": "Traveler whose permission to enter Japan was extended",
+   "variants": [
+    "Mr. Nahmias",
+    "Gabriel Nelmdas",
+    "Gabriel Nahmias"
+   ]
+  },
+  {
+   "name": "Paula Licht Pergierycht",
+   "role": "Uruguayan-associated traveler cleared to enter Japan with her son",
+   "variants": [
+    "Paula L. Pergierycht",
+    "Mhs. Pergieryent",
+    "Mrs. Pergierycht",
+    "Paula Licht Pergieryoht",
+    "Senora rergierycht"
+   ]
+  },
+  {
+   "name": "Sammy David Pergierycht",
+   "role": "Son of Paula Pergierycht",
+   "variants": [
+    "Samay David",
+    "Sammy David Pergierycht"
+   ]
+  },
+  {
+   "name": "Mr. Pergierycht",
+   "role": "Husband or male family member of Paula Pergierycht",
+   "variants": [
+    "Senor Pergierycht"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "Former U.S. president mentioned by Elroy Bartlett",
+   "variants": [
+    "Mr. Roosevelt"
+   ]
+  },
+  {
+   "name": "William A. Rawnsley",
+   "role": "Sales manager for Muller & Phipps (Asia), Limited",
+   "variants": [
+    "W/LL/Am A. RAWNSLEY",
+    "Mr. Rammaloy"
+   ]
+  },
+  {
+   "name": "Thomas W. Raetzer",
+   "role": "Captain, Transportation Corps",
+   "variants": [
+    "Thomas 7/. Raetzer"
+   ]
+  },
+  {
+   "name": "George F. Richardson",
+   "role": "Attorney named on Paul V. McNutt law-office letterhead",
+   "variants": [
+    "GEORGEF RICHAROSON"
+   ]
+  },
+  {
+   "name": "Ruth B. Shipley",
+   "role": "Chief, Passport Division",
+   "variants": [
+    "R. B. Shipley",
+    "R. B. Shapley",
+    "Mrs. Ruth B. Shipley",
+    "Mrs. Shipley",
+    "rep8hipley"
+   ]
+  },
+  {
+   "name": "Mrs. Simpson",
+   "role": "Passport Division official",
+   "variants": [
+    "Mrs. Simpson"
+   ]
+  },
+  {
+   "name": "Reza Shoraka",
+   "role": "Iranian national cleared for a commercial visit to Japan",
+   "variants": [
+    "Roza Shoraka",
+    "Mr. Shoraka",
+    "Mr. Shoraks",
+    "Mr. Shorake",
+    "Rese Shoraka"
+   ]
+  },
+  {
+   "name": "H. A. Sellers",
+   "role": "Joint owner of a prewar Japanese business with Muller & Phipps",
+   "variants": [
+    "H. A. Sellers"
+   ]
+  },
+  {
+   "name": "Anna N. Slenkina",
+   "role": "Traveler granted transit clearance through Japan en route from Dairen",
+   "variants": [
+    "Mrs. Anna N. Blenkimm",
+    "Mrs. Slenkina",
+    "Anna Slenkina"
+   ]
+  },
+  {
+   "name": "Jacques Suraud",
+   "role": "French export manager for Rayonier Incorporated",
+   "variants": [
+    "Mr. Suraud",
+    "Jasqus"
+   ]
+  },
+  {
+   "name": "Walter Thurston",
+   "role": "U.S. diplomatic officer and airgram signatory in Mexico",
+   "variants": [
+    "THURSTON"
+   ]
+  },
+  {
+   "name": "Torm Ua Withya",
+   "role": "Siamese trade traveler representing Ua Withya Phanit Company, Limited",
+   "variants": [
+    "Torm Ua Withya",
+    "Mr. Term Ua Withya",
+    "Torm Ua ithya"
+   ]
+  },
+  {
+   "name": "Bun-Ek Watanasiriroch",
+   "role": "Siamese trade traveler representing Visidha Company, Limited",
+   "variants": [
+    "Bun-Ek Watanasiriroch",
+    "Bun-Ek atanasiriroch",
+    "Mr. batanasiriroch"
+   ]
+  },
+  {
+   "name": "A. G. Warlow",
+   "role": "Rayonier Incorporated treasurer; OCR reading uncertain",
+   "variants": [
+    ".G. Wrlow"
+   ]
+  },
+  {
+   "name": "J. C. Powell",
+   "role": "American Embassy officer or drafter in London",
+   "variants": [
+    "JCPowell"
+   ]
+  },
+  {
+   "name": "W. I. Brewster",
+   "role": "American Embassy officer or drafter in Mexico",
+   "variants": [
+    "WiBrewster"
+   ]
+  },
+  {
+   "name": "Mrs. Haliger",
+   "role": "Official who relayed clearance information by telephone",
+   "variants": [
+    "Mrs Haliger"
+   ]
+  },
+  {
+   "name": "Mrs. Meeon",
+   "role": "Recipient of telephone clearance information",
+   "variants": [
+    "mrs Meeon"
+   ]
+  }
+ ],
+ "keywords": [
+  "military entry permits",
+  "SCAP theater clearance",
+  "occupied Japan",
+  "foreign trade travel",
+  "missionary travel",
+  "passport documentation",
+  "exit and transit permits",
+  "permit extensions",
+  "diplomatic correspondence",
+  "family reunification",
+  "foreign nationals"
+ ],
+ "subfiles": [
+  {
+   "title": "Siamese Embassy note requesting entry for three traders",
+   "doc_type": "diplomatic note",
+   "start_page": 81,
+   "end_page": 81,
+   "continues_previous": false,
+   "date": "1949-05-04",
+   "from": "Siamese Ambassador",
+   "to": "U.S. Secretary of State",
+   "about": "Requests permission for three Siamese nationals to enter Japan for trade.",
+   "summary": "Forwards three applications and asks that SCAP authorize the applicants' entry into Japan.",
+   "keywords": [
+    "Siam",
+    "trade travel",
+    "entry permits"
+   ]
+  },
+  {
+   "title": "Transmittal of Siamese traders' applications to the Army",
+   "doc_type": "letter",
+   "start_page": 82,
+   "end_page": 82,
+   "continues_previous": false,
+   "date": "1949-05-09",
+   "from": "Walter F. Chappell",
+   "to": "Captain George H. Hendricks",
+   "about": "Submits three Siamese applications for SCAP consideration.",
+   "summary": "Requests theater decisions for Bun-Ek Watanasiriroch, Suchint Jaovisidha, and Torm Ua Withya.",
+   "keywords": [
+    "Siamese applicants",
+    "SCAP",
+    "theater clearance"
+   ]
+  },
+  {
+   "title": "Transmittal of Elroy Bartlett's request to the Army",
+   "doc_type": "official letter",
+   "start_page": 83,
+   "end_page": 83,
+   "continues_previous": false,
+   "date": "1949-05-12",
+   "from": "U.S. Secretary of State",
+   "to": "U.S. Secretary of the Army",
+   "about": "Refers Bartlett's request for occupation employment and family travel.",
+   "summary": "Forwards Bartlett's April 10 letter to the Army's Overseas Replacement Branch.",
+   "keywords": [
+    "civilian employment",
+    "occupation forces",
+    "family travel"
+   ]
+  },
+  {
+   "title": "Reply to Elroy Bartlett",
+   "doc_type": "letter",
+   "start_page": 84,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1949-05-12",
+   "from": "Walter F. Chappell for the Secretary of State",
+   "to": "Elroy L. Bartlett",
+   "about": "Explains how Bartlett's proposed return to Japan will be handled.",
+   "summary": "Advises that SCAP controls entry and that his case has been referred to the Army.",
+   "keywords": [
+    "SCAP",
+    "Army referral",
+    "civilian employment"
+   ]
+  },
+  {
+   "title": "File memorandum on the Bartlett case",
+   "doc_type": "memorandum for the files",
+   "start_page": 85,
+   "end_page": 85,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "Division of Protective Services",
+   "to": "File",
+   "about": "Records consultation with the Passport Division about Bartlett's proposed reply.",
+   "summary": "Notes that an occupation employee would travel on Army orders and require no passport.",
+   "keywords": [
+    "Bartlett",
+    "passport",
+    "Army orders"
+   ]
+  },
+  {
+   "title": "Passport Division memorandum concerning Bartlett",
+   "doc_type": "interoffice memorandum",
+   "start_page": 86,
+   "end_page": 86,
+   "continues_previous": false,
+   "date": "1949-05-04",
+   "from": "R. B. Shipley",
+   "to": "Walter F. Chappell",
+   "about": "Suggests passport and military-permit language for the reply to Bartlett.",
+   "summary": "Requests a reply and supplies proposed guidance on passport and military-permit applications.",
+   "keywords": [
+    "passport application",
+    "military permit",
+    "Bartlett"
+   ]
+  },
+  {
+   "title": "Elroy Bartlett's appeal to the President",
+   "doc_type": "letter",
+   "start_page": 87,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1949-04-10",
+   "from": "Elroy L. Bartlett",
+   "to": "President of the United States",
+   "about": "Seeks permission to return to Japan with his Japanese wife and infant.",
+   "summary": "A veteran asks to work for the occupation while enabling his homesick wife to visit her family.",
+   "keywords": [
+    "veteran",
+    "Japanese spouse",
+    "occupation employment"
+   ]
+  },
+  {
+   "title": "Essential Requirements When Making Application for Passport",
+   "doc_type": "printed circular",
+   "start_page": 88,
+   "end_page": 89,
+   "continues_previous": false,
+   "date": "1948-06-17",
+   "from": "Passport Division, Department of State",
+   "to": "Passport applicants",
+   "about": "Provides official instructions for passport applications.",
+   "summary": "Explains citizenship evidence, photographs, witnesses, organizational letters, fees, validity, and renewal procedures for U.S. passports.",
+   "keywords": [
+    "passports",
+    "citizenship evidence",
+    "photographs",
+    "fees"
+   ]
+  },
+  {
+   "title": "Application for Permit to Enter Japan and/or Okinawa",
+   "doc_type": "blank application form",
+   "start_page": 90,
+   "end_page": 90,
+   "continues_previous": false,
+   "date": "",
+   "from": "Pacific Military Permit Branch",
+   "to": "Prospective travelers",
+   "about": "Provides instructions and fields for military entry-permit applications.",
+   "summary": "Blank form requests identity, passport, occupation, itinerary, sponsorship, and travel-purpose information.",
+   "keywords": [
+    "application form",
+    "Japan",
+    "Okinawa"
+   ]
+  },
+  {
+   "title": "Clearance action slip for Paula Pergierycht and son",
+   "doc_type": "action slip",
+   "start_page": 91,
+   "end_page": 91,
+   "continues_previous": false,
+   "date": "1949-05-05",
+   "from": "Riley W. Meador, Pacific Military Permit Branch",
+   "to": "Walter F. Chappell",
+   "about": "Reports clearance for Paula Pergierycht and her son to enter Japan.",
+   "summary": "Reverses an earlier disapproval and clears mother and son to enter as dependents.",
+   "keywords": [
+    "theater clearance",
+    "dependents",
+    "Uruguay"
+   ]
+  },
+  {
+   "title": "Receipt for Pergierycht military permit",
+   "doc_type": "receipt",
+   "start_page": 92,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1949-05-06",
+   "from": "Embassy of Uruguay",
+   "to": "Division of Protective Services",
+   "about": "Acknowledges receipt of a military permit for Paula and Sammy Pergierycht.",
+   "summary": "Records permit 835, valid May 9–June 9 for a sixty-day stay.",
+   "keywords": [
+    "permit receipt",
+    "Pergierycht",
+    "Uruguay"
+   ]
+  },
+  {
+   "title": "Extension action slip for Naim Shoua Moshi",
+   "doc_type": "action slip",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1949-05-05",
+   "from": "Pacific Military Permit Branch",
+   "to": "Walter F. Chappell",
+   "about": "Extends Moshi's entry period through June 30, 1949.",
+   "summary": "Authorizes a new entry deadline while retaining the original clearance conditions.",
+   "keywords": [
+    "permit extension",
+    "Baghdad",
+    "trade travel"
+   ]
+  },
+  {
+   "title": "Uruguayan Embassy letter thanking Mrs. Mellor",
+   "doc_type": "letter",
+   "start_page": 94,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "1949-05-06",
+   "from": "Jorge Barriro",
+   "to": "Mrs. Mellor",
+   "about": "Acknowledges Pergierycht documents and thanks Mellor for handling the family's cases.",
+   "summary": "Reports forwarding the document to the Uruguayan Consulate in Los Angeles.",
+   "keywords": [
+    "Uruguay",
+    "Pergierycht",
+    "consular forwarding"
+   ]
+  },
+  {
+   "title": "Uruguayan Embassy note concerning Mr. Pergierycht",
+   "doc_type": "diplomatic note",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1949-05-06",
+   "from": "Ambassador of Uruguay",
+   "to": "U.S. Secretary of State",
+   "about": "Confirms instructions for placing SCAP clearance in Pergierycht's passport.",
+   "summary": "Acknowledges the Department's note and two copies of the Guide for Commercial Entrants to Japan.",
+   "keywords": [
+    "passport endorsement",
+    "Uruguay",
+    "commercial entrants"
+   ]
+  },
+  {
+   "title": "Request to extend Gabriel Nahmias's entry validity",
+   "doc_type": "letter",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1949-05-10",
+   "from": "Walter F. Chappell",
+   "to": "Captain George H. Hendricks",
+   "about": "Requests extension of Nahmias's permission to enter Japan.",
+   "summary": "Asks that Nahmias's entry deadline be extended from May 7 to June 7.",
+   "keywords": [
+    "Nahmias",
+    "permit extension",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Alexandria telegram concerning Gabriel Nahmias",
+   "doc_type": "incoming telegram",
+   "start_page": 97,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "1949-05-08",
+   "from": "American Consul, Alexandria",
+   "to": "Department of State",
+   "about": "Communicates a request concerning Nahmias's Japan-entry validity.",
+   "summary": "The substantive telegram text is largely lost in the OCR.",
+   "keywords": [
+    "Alexandria",
+    "Nahmias",
+    "telegram"
+   ]
+  },
+  {
+   "title": "Request for Toru Matsumoto's missionary permit",
+   "doc_type": "letter",
+   "start_page": 98,
+   "end_page": 99,
+   "continues_previous": false,
+   "date": "1949-06-09",
+   "from": "Royal H. Fisher",
+   "to": "Ruth B. Shipley",
+   "about": "Requests a military permit for Toru Matsumoto to teach as a missionary in Tokyo.",
+   "summary": "Explains Matsumoto's immigration status, invalid Japanese passport, planned travel document, three-year appointment at Meiji Gakuin, financial support, and housing. Fisher asks that a military permit be issued.",
+   "keywords": [
+    "missionary",
+    "Toru Matsumoto",
+    "Meiji Gakuin",
+    "travel document"
+   ]
+  },
+  {
+   "title": "Envelope for the Matsumoto correspondence",
+   "doc_type": "envelope",
+   "start_page": 100,
+   "end_page": 100,
+   "continues_previous": false,
+   "date": "1949-06-09",
+   "from": "Foreign Missions Conference of North America",
+   "to": "Department of State",
+   "about": "Envelope carrying Foreign Missions Conference correspondence to Washington.",
+   "summary": "Postmarked June 9 and received by the Passport Division on June 10.",
+   "keywords": [
+    "envelope",
+    "Foreign Missions Conference",
+    "mail"
+   ]
+  },
+  {
+   "title": "Military permit sent for Toru Matsumoto",
+   "doc_type": "letter",
+   "start_page": 101,
+   "end_page": 101,
+   "continues_previous": false,
+   "date": "1949-06-28",
+   "from": "Walter F. Chappell",
+   "to": "Royal H. Fisher",
+   "about": "Sends Matsumoto's permit and explains the exit-permit waiver.",
+   "summary": "Encloses permit 1484, valid June 22–October 11, and states no U.S. exit permit is required.",
+   "keywords": [
+    "military permit",
+    "Matsumoto",
+    "exit waiver"
+   ]
+  },
+  {
+   "title": "Referral of Matsumoto application to the Army",
+   "doc_type": "letter",
+   "start_page": 102,
+   "end_page": 102,
+   "continues_previous": false,
+   "date": "",
+   "from": "Walter F. Chappell",
+   "to": "Captain George H. Hendricks",
+   "about": "Requests SCAP consideration of Matsumoto's missionary application.",
+   "summary": "Forwards Fisher's letter and asks the Army to issue a permit if theater clearance is granted.",
+   "keywords": [
+    "Matsumoto",
+    "missionary",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Passport Division referral of Matsumoto case",
+   "doc_type": "interoffice memorandum",
+   "start_page": 103,
+   "end_page": 103,
+   "continues_previous": false,
+   "date": "1949-06-17",
+   "from": "R. B. Shipley",
+   "to": "Division of Protective Services",
+   "about": "Refers Fisher's letter about Matsumoto for reply.",
+   "summary": "Transfers the Matsumoto correspondence and notes that Fisher was informed.",
+   "keywords": [
+    "routing",
+    "Matsumoto",
+    "Passport Division"
+   ]
+  },
+  {
+   "title": "Request to cable Moshi's permit extension",
+   "doc_type": "letter",
+   "start_page": 104,
+   "end_page": 104,
+   "continues_previous": false,
+   "date": "1949-05-09",
+   "from": "Harry Semel, Inc.",
+   "to": "Division of Protective Services",
+   "about": "Requests notification of Moshi's extended entry deadline to Baghdad.",
+   "summary": "Asks the Department to cable the American Consulate and charge the firm for the message.",
+   "keywords": [
+    "Naim Shoua Moshi",
+    "Baghdad",
+    "cable"
+   ]
+  },
+  {
+   "title": "Telegram to Baghdad concerning Moshi",
+   "doc_type": "outgoing telegram",
+   "start_page": 105,
+   "end_page": 105,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "Department of State",
+   "to": "American Embassy, Baghdad",
+   "about": "Notifies Baghdad of Moshi's extended permission to enter Japan.",
+   "summary": "Reports that Naim Shoua Moshi's entry validity has been extended through June 30.",
+   "keywords": [
+    "Baghdad",
+    "Moshi",
+    "permit extension"
+   ]
+  },
+  {
+   "title": "Mexico airgram about Eucharistic Missionaries",
+   "doc_type": "incoming airgram",
+   "start_page": 106,
+   "end_page": 106,
+   "continues_previous": false,
+   "date": "1949-05-09",
+   "from": "American Embassy, Mexico City",
+   "to": "Secretary of State",
+   "about": "Requests guidance for five Mexican Catholic sisters seeking travel to Japan.",
+   "summary": "Asks how four permanent missionaries and one four-month visitor can obtain military permits.",
+   "keywords": [
+    "Catholic missionaries",
+    "Mexico",
+    "military permits"
+   ]
+  },
+  {
+   "title": "Supplemental information for Diego Betancourt",
+   "doc_type": "letter",
+   "start_page": 107,
+   "end_page": 107,
+   "continues_previous": false,
+   "date": "1949-05-09",
+   "from": "Henry A. Dudley",
+   "to": "Division of Protective Services",
+   "about": "Supplies missing passport and personal information for Betancourt's permit request.",
+   "summary": "Lists Betancourt's Cuban nationality, birth, Calcutta address, passport issuance, and expiration details.",
+   "keywords": [
+    "Betancourt",
+    "Cuba",
+    "passport data"
+   ]
+  },
+  {
+   "title": "Instructions for the Mexican missionaries",
+   "doc_type": "outgoing airgram",
+   "start_page": 108,
+   "end_page": 108,
+   "continues_previous": false,
+   "date": "1949-05-18",
+   "from": "Department of State",
+   "to": "American Embassy, Mexico City",
+   "about": "Explains how the Eucharistic Missionaries should seek SCAP permission.",
+   "summary": "Directs applications through Mexico's Swedish protecting mission in Tokyo, with Father Bruno Bitter suggested as an alternative liaison.",
+   "keywords": [
+    "missionaries",
+    "Swedish Mission",
+    "SCAP",
+    "Mexico"
+   ]
+  },
+  {
+   "title": "Report on previous correspondence",
+   "doc_type": "records form",
+   "start_page": 109,
+   "end_page": 109,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "File",
+   "about": "Administrative form for identifying and routing prior correspondence.",
+   "summary": "Most substantive entries on the previous-correspondence form are illegible.",
+   "keywords": [
+    "records management",
+    "routing form",
+    "previous correspondence"
+   ]
+  },
+  {
+   "title": "Michael Klebanoff's request to extend his wife's permit",
+   "doc_type": "letter",
+   "start_page": 110,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1949-05-10",
+   "from": "Michael Klebanoff",
+   "to": "Division of Protective Services",
+   "about": "Requests extension of Angelica Klebanoff's permit for sea travel to Japan.",
+   "summary": "Explains that their ship reaches Japan after the current permit expires and that his wife prefers not to fly.",
+   "keywords": [
+    "Angelica Klebanoff",
+    "permit extension",
+    "sea travel"
+   ]
+  },
+  {
+   "title": "Army referral of Angelica Klebanoff's extension request",
+   "doc_type": "letter",
+   "start_page": 111,
+   "end_page": 111,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "Division of Protective Services",
+   "to": "Captain George H. Hendricks",
+   "about": "Asks the Army to extend Angelica Klebanoff's Japan-entry validity.",
+   "summary": "Forwards Michael Klebanoff's letter and requests a new military permit if approved.",
+   "keywords": [
+    "Klebanoff",
+    "permit extension",
+    "Army"
+   ]
+  },
+  {
+   "title": "Extended permit sent to Michael Klebanoff",
+   "doc_type": "letter",
+   "start_page": 112,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1949-05-20",
+   "from": "Walter J. Marx",
+   "to": "Michael Klebanoff",
+   "about": "Sends Angelica Klebanoff's extended military permit.",
+   "summary": "Encloses permit 944, valid June 1–July 17, and notes the blanket exit-permit waiver.",
+   "keywords": [
+    "Angelica Klebanoff",
+    "military permit",
+    "exit waiver"
+   ]
+  },
+  {
+   "title": "Translation of Brazilian Embassy note concerning Yaeko Eguchi",
+   "doc_type": "translated diplomatic note",
+   "start_page": 113,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "Embassy of Brazil",
+   "to": "Department of State",
+   "about": "Requests an exit permit allowing Yaeko Eguchi to join her father in Brazil.",
+   "summary": "Notes that Portugal's Tokyo legation is being instructed regarding her permanent Brazilian visa.",
+   "keywords": [
+    "Yaeko Eguchi",
+    "Brazil",
+    "exit permit"
+   ]
+  },
+  {
+   "title": "London despatch transmitting Jorge Musmanni's application",
+   "doc_type": "despatch",
+   "start_page": 114,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "American Embassy, London",
+   "to": "Secretary of State",
+   "about": "Transmits Musmanni's application for SCAP consideration.",
+   "summary": "Identifies him as a Costa Rican trade commissioner and requests notification through the American Embassy at Manila.",
+   "keywords": [
+    "Jorge Musmanni",
+    "Costa Rica",
+    "trade commissioner"
+   ]
+  },
+  {
+   "title": "Jorge Musmanni military-permit application",
+   "doc_type": "application",
+   "start_page": 115,
+   "end_page": 116,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "Jorge Musmanni",
+   "to": "Military authorities",
+   "about": "Applies for a brief commercial visit to Tokyo.",
+   "summary": "Musmanni, a Costa Rican economist and trade commissioner, gives his passport, extensive travel history, proposed Manila–Hong Kong–Shanghai route, and market-report purpose. He anticipates a visit of no more than one week.",
+   "keywords": [
+    "Costa Rica",
+    "market report",
+    "Tokyo",
+    "travel itinerary"
+   ]
+  },
+  {
+   "title": "Telegram to Alexandria",
+   "doc_type": "outgoing telegram",
+   "start_page": 117,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "1949-05-12",
+   "from": "Department of State",
+   "to": "American Consul, Alexandria",
+   "about": "Replies to Alexandria's telegram concerning Japan travel.",
+   "summary": "The surviving OCR preserves only the reference to telegram 36 of May 7.",
+   "keywords": [
+    "Alexandria",
+    "telegram",
+    "Japan travel"
+   ]
+  },
+  {
+   "title": "Extension action slip for Gabriel Nahmias",
+   "doc_type": "action slip",
+   "start_page": 118,
+   "end_page": 118,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "Pacific Military Permit Branch",
+   "to": "Walter F. Chappell",
+   "about": "Extends Gabriel Nahmias's permission to enter Japan.",
+   "summary": "Sets a new entry deadline of June 7, 1949, under the original conditions.",
+   "keywords": [
+    "Nahmias",
+    "Egypt",
+    "extension"
+   ]
+  },
+  {
+   "title": "Brazilian Embassy note concerning Yaeko Eguchi",
+   "doc_type": "diplomatic note",
+   "start_page": 119,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1949-05-11",
+   "from": "Embassy of Brazil",
+   "to": "Department of State",
+   "about": "Portuguese original requesting an exit permit for Yaeko Eguchi.",
+   "summary": "Requests permission for Eguchi to leave Japan and reside with her father in Brazil.",
+   "keywords": [
+    "Yaeko Eguchi",
+    "Portuguese",
+    "Brazil"
+   ]
+  },
+  {
+   "title": "Reply to Brazil concerning Yaeko Eguchi",
+   "doc_type": "diplomatic note",
+   "start_page": 120,
+   "end_page": 121,
+   "continues_previous": false,
+   "date": "",
+   "from": "Acting Secretary of State",
+   "to": "Brazilian Ambassador",
+   "about": "Explains the documentation and SCAP procedure for Eguchi's emigration.",
+   "summary": "Quotes SCAP policy requiring a travel document and permanent-entry visa. It suggests that Portugal, as Brazil's protecting power in Japan, obtain the exit permit and furnish proof of passage and arrangements for U.S. transit.",
+   "keywords": [
+    "Yaeko Eguchi",
+    "protecting power",
+    "travel document",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Referral of Jorge Musmanni's application to the Army",
+   "doc_type": "letter",
+   "start_page": 122,
+   "end_page": 122,
+   "continues_previous": false,
+   "date": "",
+   "from": "Walter F. Chappell",
+   "to": "Captain George H. Hendricks",
+   "about": "Requests SCAP consideration of Musmanni's commercial travel application.",
+   "summary": "Forwards the London application and asks to be informed of the theater's decision.",
+   "keywords": [
+    "Musmanni",
+    "Costa Rica",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Passport Division referral concerning Toshiko Ichikawa",
+   "doc_type": "interoffice memorandum",
+   "start_page": 123,
+   "end_page": 123,
+   "continues_previous": false,
+   "date": "1949-05-04",
+   "from": "R. B. Shipley",
+   "to": "Walter F. Chappell",
+   "about": "Requests guidance for Ichikawa on traveling to Japan.",
+   "summary": "Notes that the Passport Division will address her minor child's passport procedure.",
+   "keywords": [
+    "Ichikawa",
+    "passport",
+    "Japan travel"
+   ]
+  },
+  {
+   "title": "Travel-document guidance to Toshiko Ichikawa",
+   "doc_type": "letter",
+   "start_page": 124,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "1949-05-12",
+   "from": "Walter F. Chappell",
+   "to": "Toshiko Ichikawa",
+   "about": "Explains travel options after Ichikawa's renunciation of U.S. citizenship.",
+   "summary": "Advises preparing an identity affidavit and applying directly to the military with evidence of support in Japan.",
+   "keywords": [
+    "renunciation",
+    "identity affidavit",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Toshiko Ichikawa's handwritten travel request",
+   "doc_type": "letter",
+   "start_page": 125,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "1949-04-18",
+   "from": "Toshiko Ichikawa",
+   "to": "R. B. Shipley",
+   "about": "Requests assistance traveling to Japan with her minor son.",
+   "summary": "Ichikawa discusses prospective sailing dates, her husband's residence overseas, and his assurance of food and housing in Japan.",
+   "keywords": [
+    "family travel",
+    "Ichikawa",
+    "logistical support"
+   ]
+  },
+  {
+   "title": "Passport denial to Toshiko Ichikawa",
+   "doc_type": "letter",
+   "start_page": 127,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "",
+   "from": "R. B. Shipley",
+   "to": "Toshiko Ichikawa",
+   "about": "Denies Ichikawa a U.S. passport because she renounced American nationality.",
+   "summary": "States that her 1945 renunciation bars passport issuance and that the nine-dollar fee will be returned.",
+   "keywords": [
+    "passport denial",
+    "nationality renunciation",
+    "Ichikawa"
+   ]
+  },
+  {
+   "title": "Ichikawa correspondence envelope",
+   "doc_type": "envelope",
+   "start_page": 128,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "",
+   "from": "T. Ichikawa",
+   "to": "Department of State",
+   "about": "Envelope or receipt associated with Ichikawa's passport correspondence.",
+   "summary": "Shows Ichikawa's name and the Department of State's Washington address.",
+   "keywords": [
+    "envelope",
+    "Ichikawa",
+    "passport correspondence"
+   ]
+  },
+  {
+   "title": "Information request for two Siamese traders",
+   "doc_type": "action slip",
+   "start_page": 129,
+   "end_page": 129,
+   "continues_previous": false,
+   "date": "1949-05-13",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Requests the firms represented by Watanasiriroch and Jaovisidha.",
+   "summary": "States that company information is needed before their applications can be referred to the theater.",
+   "keywords": [
+    "Siamese traders",
+    "company affiliation",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Extension action slip for José M. Espinosa",
+   "doc_type": "action slip",
+   "start_page": 130,
+   "end_page": 130,
+   "continues_previous": false,
+   "date": "1949-05-13",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Extends Espinosa's permission to enter Japan.",
+   "summary": "Authorizes José M. Espinosa to enter Japan through June 10, 1949.",
+   "keywords": [
+    "Espinosa",
+    "Cuba",
+    "permit extension"
+   ]
+  },
+  {
+   "title": "José M. Espinosa's request for revalidation",
+   "doc_type": "letter copy",
+   "start_page": 131,
+   "end_page": 131,
+   "continues_previous": false,
+   "date": "1949-05-02",
+   "from": "José M. Espinosa",
+   "to": "U.S. Military Attaché, Havana",
+   "about": "Requests renewal of his expired permission for a business trip to Japan.",
+   "summary": "Explains that missing vaccination certificates forced him to abandon his earlier journey at San Francisco.",
+   "keywords": [
+    "vaccinations",
+    "revalidation",
+    "business travel"
+   ]
+  },
+  {
+   "title": "Telegram to Havana concerning Espinosa",
+   "doc_type": "outgoing telegram",
+   "start_page": 132,
+   "end_page": 132,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "Department of State",
+   "to": "American Embassy, Havana",
+   "about": "Notifies Havana regarding José M. Espinosa's renewed Japan-entry authorization.",
+   "summary": "The surviving OCR preserves the addressee, reference, and Espinosa's name but little substantive text.",
+   "keywords": [
+    "Espinosa",
+    "Havana",
+    "telegram"
+   ]
+  },
+  {
+   "title": "Request for additional information about Mohammad Daneshvar",
+   "doc_type": "diplomatic note",
+   "start_page": 133,
+   "end_page": 134,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "U.S. Secretary of State",
+   "to": "Iranian Ambassador",
+   "about": "Requests the identity and nationality of the firm Daneshvar would represent.",
+   "summary": "Explains that the Army cannot refer Daneshvar's application to SCAP until it knows whether he represents an Iranian or Japanese firm. Current theater policy would preclude entry for representation of a Japanese firm.",
+   "keywords": [
+    "Daneshvar",
+    "Iran",
+    "firm affiliation",
+    "trade policy"
+   ]
+  },
+  {
+   "title": "Army information request concerning Daneshvar",
+   "doc_type": "action slip",
+   "start_page": 135,
+   "end_page": 135,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Seeks clarification of Daneshvar's commercial representation.",
+   "summary": "Notes that representing a Japanese firm would bar his entry under current theater policy.",
+   "keywords": [
+    "Daneshvar",
+    "Japanese firm",
+    "entry restriction"
+   ]
+  },
+  {
+   "title": "William A. Rawnsley commercial-entry application",
+   "doc_type": "application",
+   "start_page": 136,
+   "end_page": 137,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "William A. Rawnsley",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Applies to visit Japan on behalf of Muller & Phipps.",
+   "summary": "Rawnsley proposes restoring prewar commercial contacts and company operations, negotiating new business, and investigating Japanese exports. The application describes the firm's ownership, banking references, prewar trade, itinerary, and planned sixty-day visit.",
+   "keywords": [
+    "commercial entry",
+    "Muller & Phipps",
+    "property interests",
+    "Japan trade"
+   ]
+  },
+  {
+   "title": "Military permit sent to William Rawnsley",
+   "doc_type": "letter",
+   "start_page": 138,
+   "end_page": 138,
+   "continues_previous": false,
+   "date": "1949-06-08",
+   "from": "Walter F. Chappell",
+   "to": "William A. Rawnsley",
+   "about": "Sends Rawnsley's military permit for Japan.",
+   "summary": "Encloses a permit valid July 1–August 1 and notes the U.S. exit-permit waiver.",
+   "keywords": [
+    "Rawnsley",
+    "military permit",
+    "exit waiver"
+   ]
+  },
+  {
+   "title": "Clearance action slip for Reza Shoraka",
+   "doc_type": "action slip",
+   "start_page": 139,
+   "end_page": 139,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Approves Shoraka's entry into Japan for sixty days.",
+   "summary": "Authorizes entry between July 1 and August 1 and requires two passport photographs.",
+   "keywords": [
+    "Reza Shoraka",
+    "Iran",
+    "theater clearance"
+   ]
+  },
+  {
+   "title": "Notification to Iran of Shoraka's clearance",
+   "doc_type": "diplomatic note",
+   "start_page": 140,
+   "end_page": 141,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "U.S. Secretary of State",
+   "to": "Iranian Ambassador",
+   "about": "Reports SCAP approval of Reza Shoraka's visit to Japan.",
+   "summary": "States Shoraka's entry window, sixty-day stay, and photograph requirement. It asks Iran to place the prescribed SCAP-clearance statement in his passport under the Guide for Commercial Entrants.",
+   "keywords": [
+    "Shoraka",
+    "passport endorsement",
+    "Iran",
+    "commercial entrants"
+   ]
+  },
+  {
+   "title": "Clearance action slip for Diego Betancourt",
+   "doc_type": "action slip",
+   "start_page": 142,
+   "end_page": 142,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Approves Betancourt's commercial travel to Japan.",
+   "summary": "Authorizes entry May 19–June 19 for sixty days and requires two passport photographs.",
+   "keywords": [
+    "Betancourt",
+    "theater clearance",
+    "Cuba"
+   ]
+  },
+  {
+   "title": "Conversation memorandum about Betancourt's clearance",
+   "doc_type": "memorandum of conversation",
+   "start_page": 143,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "1949-05-17",
+   "from": "Mrs. Mellor",
+   "to": "File",
+   "about": "Records notification to Henry Dudley that Betancourt had been cleared.",
+   "summary": "Dudley confirms Betancourt's Calcutta address and authorizes a chargeable cable to the American Consulate General.",
+   "keywords": [
+    "Betancourt",
+    "Calcutta",
+    "telephone conversation"
+   ]
+  },
+  {
+   "title": "Telegram to Calcutta concerning Betancourt",
+   "doc_type": "outgoing telegram",
+   "start_page": 144,
+   "end_page": 144,
+   "continues_previous": false,
+   "date": "1949-05-17",
+   "from": "Department of State",
+   "to": "American Consul, Calcutta",
+   "about": "Notifies Betancourt of his authorization to enter Japan.",
+   "summary": "Specifies his entry window, sixty-day stay, photograph requirement, and substitute certified telegram for the prescribed passport statement.",
+   "keywords": [
+    "Betancourt",
+    "Calcutta",
+    "SCAP clearance"
+   ]
+  },
+  {
+   "title": "Jacques Suraud commercial-entry application",
+   "doc_type": "application",
+   "start_page": 145,
+   "end_page": 146,
+   "continues_previous": false,
+   "date": "1949-05-16",
+   "from": "Jacques Suraud and Rayonier Incorporated",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Applies for a Japanese business visit to restore Rayonier's prewar market.",
+   "summary": "The application describes Rayonier's substantial prewar sales to Japanese rayon manufacturers, banking references, proposed itinerary, and forty-five-day visit. Suraud intends to visit manufacturers and resume exports.",
+   "keywords": [
+    "Rayonier",
+    "rayon industry",
+    "commercial travel",
+    "Japan trade"
+   ]
+  },
+  {
+   "title": "Military permit sent to Jacques Suraud",
+   "doc_type": "letter",
+   "start_page": 147,
+   "end_page": 147,
+   "continues_previous": false,
+   "date": "1949-06-08",
+   "from": "Walter F. Chappell",
+   "to": "Jacques Suraud",
+   "about": "Sends Suraud's permit for entry into Japan.",
+   "summary": "Encloses a permit valid September 1–October 1 and notes the blanket exit-permit waiver.",
+   "keywords": [
+    "Suraud",
+    "military permit",
+    "Rayonier"
+   ]
+  },
+  {
+   "title": "Peiping telegram about a seven-person family's travel documents",
+   "doc_type": "incoming telegram",
+   "start_page": 148,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1949-05-18",
+   "from": "American Consulate General, Peiping",
+   "to": "Secretary of State",
+   "about": "Requests guidance on a family's proposed voyage to Japan without regular Chinese passports.",
+   "summary": "The travelers possess apparent SCAP clearance and Communist-issued exit permits but cannot obtain normal passports. The shipping agent asks whether these documents justify passage from Tianjin.",
+   "keywords": [
+    "Peiping",
+    "Chinese exit permits",
+    "SCAP clearance",
+    "travel documents"
+   ]
+  },
+  {
+   "title": "Reply to Peiping regarding the seven travelers",
+   "doc_type": "outgoing telegram",
+   "start_page": 149,
+   "end_page": 149,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "Department of State",
+   "to": "American Consul, Peiping",
+   "about": "Approves the travelers' proceeding if their SCAP clearance is authentic.",
+   "summary": "Perceives no objection and recommends that each traveler carry a notarized identity affidavit.",
+   "keywords": [
+    "Peiping",
+    "identity affidavit",
+    "SCAP clearance"
+   ]
+  },
+  {
+   "title": "Letter to George Mahoff concerning Anna Slenkina",
+   "doc_type": "letter",
+   "start_page": 150,
+   "end_page": 150,
+   "continues_previous": false,
+   "date": "1949-05-20",
+   "from": "Walter J. Marx",
+   "to": "George A. Mahoff",
+   "about": "Reports that Anna Slenkina received transit clearance through Japan.",
+   "summary": "States that Dairen will be cabled and that her departure then depends chiefly on obtaining a local visa.",
+   "keywords": [
+    "Anna Slenkina",
+    "Dairen",
+    "transit clearance"
+   ]
+  },
+  {
+   "title": "Transit-clearance action slip for Anna Slenkina",
+   "doc_type": "action slip",
+   "start_page": 151,
+   "end_page": 151,
+   "continues_previous": false,
+   "date": "1949-05-18",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Reports theater approval for Slenkina to transit Japan.",
+   "summary": "Confirms in-transit clearance and states that appropriate authorities were notified.",
+   "keywords": [
+    "Anna Slenkina",
+    "transit",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Iranian Embassy note requesting entry for Mohammad Argomandi",
+   "doc_type": "diplomatic note",
+   "start_page": 152,
+   "end_page": 152,
+   "continues_previous": false,
+   "date": "1949-05-18",
+   "from": "Iranian Ambassador",
+   "to": "Dean Acheson",
+   "about": "Requests a Japanese entry permit for Iranian merchant Mohammad Argomandi.",
+   "summary": "Forwards the applicant's supporting information and asks for prompt issuance.",
+   "keywords": [
+    "Argomandi",
+    "Iran",
+    "trade travel"
+   ]
+  },
+  {
+   "title": "Mohammad Argomandi permit application",
+   "doc_type": "application",
+   "start_page": 153,
+   "end_page": 153,
+   "continues_previous": false,
+   "date": "1949-04-18",
+   "from": "Mohammad Argomandi",
+   "to": "Military permit authorities",
+   "about": "Applies to enter Japan as an Iranian buying agent.",
+   "summary": "Lists his passport, Tehran address, desired purchases, Tokyo destination, air travel, and proposed six-to-twelve-month stay.",
+   "keywords": [
+    "Argomandi",
+    "buying agent",
+    "Iran",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Referral of Argomandi application to the Army",
+   "doc_type": "letter",
+   "start_page": 154,
+   "end_page": 154,
+   "continues_previous": false,
+   "date": "1949-05-23",
+   "from": "Walter J. Marx",
+   "to": "Captain George H. Hendricks",
+   "about": "Submits Argomandi's application for SCAP consideration.",
+   "summary": "Requests notification of the theater decision and accepts a memorandum as sufficient evidence of clearance.",
+   "keywords": [
+    "Argomandi",
+    "SCAP",
+    "Iranian Embassy"
+   ]
+  },
+  {
+   "title": "Telegram to Dairen concerning Anna Slenkina",
+   "doc_type": "outgoing telegram",
+   "start_page": 155,
+   "end_page": 155,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "Department of State",
+   "to": "American Consul, Dairen",
+   "about": "Notifies Dairen that Slenkina has Japan transit clearance.",
+   "summary": "Reports that Theater Headquarters in Tokyo granted Anna Slenkina permission to transit Japan.",
+   "keywords": [
+    "Dairen",
+    "Anna Slenkina",
+    "transit clearance"
+   ]
+  },
+  {
+   "title": "Chilean Embassy acknowledgment concerning the Ikedas",
+   "doc_type": "diplomatic note",
+   "start_page": 156,
+   "end_page": 156,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "Chilean Ambassador",
+   "to": "U.S. Secretary of State",
+   "about": "Thanks the Department for assistance repatriating Isaac and Mario Tsunekawa Ikeda.",
+   "summary": "Acknowledges the May 10 note and expresses appreciation for the Department's effective action.",
+   "keywords": [
+    "Chile",
+    "repatriation",
+    "Ikeda"
+   ]
+  },
+  {
+   "title": "Siamese Embassy note identifying represented firms",
+   "doc_type": "diplomatic note",
+   "start_page": 157,
+   "end_page": 157,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "Siamese Ambassador",
+   "to": "U.S. Secretary of State",
+   "about": "Supplies company affiliations for the three Siamese trade applicants.",
+   "summary": "Identifies Ua Withya Phanit Company and Visidha Company as the applicants' represented firms.",
+   "keywords": [
+    "Siam",
+    "company affiliation",
+    "trade applicants"
+   ]
+  },
+  {
+   "title": "Company information sent to the Army for Siamese applicants",
+   "doc_type": "letter",
+   "start_page": 158,
+   "end_page": 158,
+   "continues_previous": false,
+   "date": "1949-05-23",
+   "from": "Walter J. Marx",
+   "to": "Captain George H. Hendricks",
+   "about": "Provides the requested company affiliation for Watanasiriroch and Jaovisidha.",
+   "summary": "Reports that both applicants will represent Visidha Company, Limited, in Japan.",
+   "keywords": [
+    "Visidha Company",
+    "Siamese traders",
+    "supplemental information"
+   ]
+  },
+  {
+   "title": "File charge-out card",
+   "doc_type": "file charge-out form",
+   "start_page": 159,
+   "end_page": 159,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "File",
+   "about": "Blank administrative card for recording removal and return of records.",
+   "summary": "Contains fields for charge date, responsible person, and return.",
+   "keywords": [
+    "file control",
+    "charge-out card",
+    "records"
+   ]
+  },
+  {
+   "title": "Theater-clearance action slip for Torm Ua Withya",
+   "doc_type": "action slip",
+   "start_page": 160,
+   "end_page": 160,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "George H. Hendricks",
+   "to": "Walter F. Chappell",
+   "about": "Reports theater clearance for Torm Ua Withya to enter Japan.",
+   "summary": "Grants clearance for sixty days after entry and requires two standard passport photographs.",
+   "keywords": [
+    "Torm Ua Withya",
+    "theater clearance",
+    "Siam"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 10,
+  "pages": [
+   81,
+   160
+  ],
+  "pdf": "894.111 Regulations Governing %D0, Japan, Residence, Trade, Travel, And Foreign Courier Travel., April 12, 1949 - November 16, 1949 1786.pdf",
+  "seconds": 417.3,
+  "created": "2026-10-06 10:08:00",
+  "key": "japan-internal-affairs-894.111-regulations-governing-japan-11"
+ }
+}

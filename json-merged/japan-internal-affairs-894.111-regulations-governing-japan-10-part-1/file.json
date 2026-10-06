@@ -1,0 +1,35 @@
+{
+ "interest": "This file illuminates the complex bureaucratic mechanisms balancing military occupation security against the economic imperative to revive Japanese foreign commerce. Rich individual dossiers detail early Cold War ideological screening, wartime collaboration vetting, and diplomatic protecting-power arrangements across multiple nations. It also captures the pivotal policy shift allowing Japanese trade representatives to resume international travel.",
+ "keywords": [
+  "SCAP",
+  "Allied occupation of Japan",
+  "Commercial entrants",
+  "Military travel permits",
+  "Far Eastern Commission",
+  "Japanese commercial representatives",
+  "Foreign exchange retention",
+  "Third-country protective powers",
+  "Japanese emigration",
+  "Repatriation",
+  "Security screening",
+  "Civil Affairs Division"
+ ],
+ "overview": "This file documents the interagency administration—involving the State Department, Commerce Department, Department of the Army, and SCAP—governing travel, entry, and residence in occupied Japan, Korea, and Okinawa from July 1948 to April 1949. It details the vetting, military clearances, passport endorsements, and documentation waivers for foreign commercial representatives, missionaries, international organization officials, and diplomatic delegations seeking access to Japanese markets. Beyond commercial entrants, the records illuminate bilateral diplomacy concerning Japanese emigration to Latin America, the repatriation of displaced persons, third-country protective power channels, and landmark Far Eastern Commission policy decisions authorizing screened Japanese commercial representatives to travel abroad and utilize foreign exchange.",
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 45364,
+   "output_tokens": 7060,
+   "thinking_tokens": 6450,
+   "cache_read_tokens": 37535,
+   "total_tokens": 52424
+  },
+  "backend": "agy",
+  "pdf": "894.111 Regulations Governing %D0, Japan, Residence, Trade, Travel, And Foreign Courier Travel., July 20, 1948 - April 11, 1949 1713-part-1.pdf",
+  "pages": 575,
+  "sections": 8,
+  "seconds": 69.3,
+  "created": "2026-10-06 19:34:21",
+  "key": "japan-internal-affairs-894.111-regulations-governing-japan-10-part-1"
+ }
+}

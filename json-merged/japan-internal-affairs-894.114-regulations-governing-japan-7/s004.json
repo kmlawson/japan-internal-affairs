@@ -1,0 +1,193 @@
+{
+ "keywords": [
+  "narcotics control",
+  "Korea",
+  "USAMGIK",
+  "Public Health Order No. 3",
+  "Ordinance No. 119",
+  "opium poppy",
+  "Indian hemp",
+  "licensing",
+  "illicit traffic",
+  "1946 annual report"
+ ],
+ "people": [
+  {
+   "name": "Lee Yong Sul",
+   "role": "Director, Department of Public Health and Welfare",
+   "variants": [
+    "LEE YONG SUL"
+   ]
+  },
+  {
+   "name": "Archer L. Lerch",
+   "role": "Major General, US Army; Military Governor of Korea",
+   "variants": [
+    "ARCHER L LERC!"
+   ]
+  },
+  {
+   "name": "Paul A.",
+   "role": "Colonel; Director/Adviser to the Director, Public Health and Welfare (surname illegible)",
+   "variants": [
+    "PADL A."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Koree",
+    "Koren",
+    "Kores",
+    "Kurcl"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "South Korea",
+    "South Koree",
+    "south of 38 north latitude"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchria"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Formosa (Taiwan)",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Kangwon Province",
+   "variants": [
+    "Kangwon"
+   ]
+  },
+  {
+   "name": "Taegu",
+   "variants": [
+    "Taegu City"
+   ]
+  },
+  {
+   "name": "North Gyeongsang Province",
+   "variants": [
+    "Kyongsong Pukto"
+   ]
+  }
+ ],
+ "section_summary": "Pages 184-202 contain the end of USAMGIK Public Health Order No. 3 (24 June 1947), a narcotics regulation for South Korea. They then contain Ordinance No. 119 on Narcotics Control (11 November 1946), signed by Maj. Gen. Archer L. Lerch. The section ends with the South Korea Interim Government's report on the 1946 traffic in opium and other dangerous drugs. The report covers administration, illicit traffic, opium poppy and Indian hemp growing, and confiscations.",
+ "subfiles": [
+  {
+   "about": "Concluding paragraphs of the Official Gazette text of the regulation governing narcotics licensing, records and penalties in South Korea.",
+   "continues_previous": true,
+   "date": "1947-06-24",
+   "doc_type": "regulation",
+   "end_page": 190,
+   "from": "Lee Yong Sul, Director, Dept. of Public Health and Welfare, by direction of the Military Governor",
+   "keywords": [
+    "narcotics regulation",
+    "licenses",
+    "prescriptions",
+    "inspection",
+    "penalties"
+   ],
+   "start_page": 184,
+   "summary": "Covers license suspension and revocation, packaging and stamps, quotas, order forms, reports, prescriptions, record retention, storage, inspection, seizure, definitions, penalties and effective date. It is signed by Lee Yong Sul.",
+   "title": "USAMGIK Public Health Order No. 3 (narcotics regulation), final pages",
+   "to": ""
+  },
+  {
+   "about": "Ordinance controlling all narcotic drugs in Korea south of the 38th parallel.",
+   "continues_previous": false,
+   "date": "1946-11-11",
+   "doc_type": "ordinance",
+   "end_page": 196,
+   "from": "Archer L. Lerch, Military Governor, USAMGIK",
+   "keywords": [
+    "Ordinance 119",
+    "opium poppy",
+    "marihuana",
+    "licensing",
+    "forfeiture"
+   ],
+   "start_page": 191,
+   "summary": "Transfers the Narcotics Control Section to the Bureau of Pharmaceutical Affairs. It prohibits opium poppy and marihuana cultivation and unlicensed transactions. It sets licence qualifications, seizure and forfeiture rules, emergency government supply provisions and penalties. It is signed by Maj. Gen. Archer L. Lerch.",
+   "title": "USAMGIK Ordinance No. 119, Narcotics Control",
+   "to": ""
+  },
+  {
+   "about": "Annual report on narcotics laws, administration, illicit traffic, opium and hemp production and manufacture in South Korea during 1946.",
+   "continues_previous": false,
+   "date": "1947",
+   "doc_type": "report",
+   "end_page": 202,
+   "from": "South Korea Interim Government, Department of Public Health and Welfare",
+   "keywords": [
+    "1946 report",
+    "opium",
+    "Indian hemp",
+    "illicit traffic",
+    "repatriates",
+    "confiscations"
+   ],
+   "start_page": 197,
+   "summary": "Reports that narcotic control moved to the Bureau of Pharmaceutical Affairs and that addiction is rising among repatriates. Illicit supply came from former Japanese stocks and clandestine opium growing. No licences were issued and no imports or exports occurred in 1946. Confiscations totalled 67 kg raw opium. About 28 tons of raw opium were found at a former Japanese plant. It is signed by a Colonel, Director.",
+   "title": "Report by the Government of Korea for 1946 on the Traffic in Opium and other Dangerous Drugs",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "claude-sonnet-5-5-medium",
+  "usage": {
+   "input_tokens": 19383,
+   "output_tokens": 1822,
+   "thinking_tokens": 0,
+   "cache_read_tokens": 13872,
+   "total_tokens": 21205
+  },
+  "backend": "agy",
+  "section": 4,
+  "sections": 4,
+  "pages": [
+   184,
+   202
+  ],
+  "pdf": "894.114 Regulations Governing %D0, Japan, Traffic In Liquors And Habit-Forming Drugs. Each Subdivision Will Be Made A Separate Case., August 1, 1947 - April 7, 1948 1626.pdf",
+  "seconds": 80.2,
+  "created": "2026-10-06 17:01:32",
+  "key": "japan-internal-affairs-894.114-regulations-governing-japan-7"
+ }
+}

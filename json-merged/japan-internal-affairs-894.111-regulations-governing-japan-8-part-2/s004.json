@@ -1,0 +1,2386 @@
+{
+ "section_summary": "This section documents State and War Department administration of travel to occupied Japan, including military permits, passport validation, alien transit by commercial aircraft, business-traveler quotas, missionaries, and individual entry cases. It also contains SCAP directives governing quarantine ports and missionary support, applications from traders, and correspondence about admitting foreign commercial and religious personnel. By late November 1947, the military authorities ended documentation requirements for ordinary airline passengers transiting Japan and placed responsibility on the carriers.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japin",
+    "Jspen",
+    "Japen",
+    "Japn",
+    "capan",
+    "Japam",
+    "Jupen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tekye",
+    "Toxyo"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "SHANGHAI",
+    "Shanghai",
+    "Shanghei",
+    "Shenghai",
+    "Shangha1",
+    "Bhanghai",
+    "Shonghei"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "CHINA",
+    "China"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "LANILA",
+    "Manila",
+    "Mantla"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "The Philippines",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping",
+    "Peking"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "HONG KONG",
+    "Hongkong",
+    "HONG RONG"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Vancouver"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEW YORK",
+    "New York City"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "Chicago"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle",
+    "Beattle"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles",
+    "Los Angsles"
+   ]
+  },
+  {
+   "name": "Anchorage",
+   "variants": [
+    "Anchorage"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Francisoo",
+    "Ban franolsoo"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "Orient"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Calif."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D.C.",
+    "Washington; D. C.",
+    "Weshington, D.C."
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Hexico"
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "Philadelphia"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pennsylvania",
+    "Pa."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES OF AMERICA",
+    "America"
+   ]
+  },
+  {
+   "name": "Barking",
+   "variants": [
+    "Barking"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Blaine",
+   "variants": [
+    "Blaine"
+   ]
+  },
+  {
+   "name": "Washington State",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Bethesda",
+   "variants": [
+    "Bethesda",
+    "Betbodo"
+   ]
+  },
+  {
+   "name": "Maryland",
+   "variants": [
+    "Md"
+   ]
+  },
+  {
+   "name": "District of Columbia",
+   "variants": [
+    "District of Columbia"
+   ]
+  },
+  {
+   "name": "New Delhi",
+   "variants": [
+    "New Delre",
+    "New Dal hi"
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "variants": [
+    "Lebonan",
+    "Lebanen"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "OKINAWA"
+   ]
+  },
+  {
+   "name": "American occupation zone in Korea",
+   "variants": [
+    "AMERICAN ZONE OF KOREA"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "SWITZERLAND"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Ke.e"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sa.ebo"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Miike",
+   "variants": [
+    "Miike"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "SAO PAULO",
+    "Sao Paulo"
+   ]
+  },
+  {
+   "name": "São Paulo State",
+   "variants": [
+    "SAO PAULO",
+    "Estade De S. Paulo",
+    "S. Paulo"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "BRAZIL",
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Marília",
+   "variants": [
+    "Marilia"
+   ]
+  },
+  {
+   "name": "Tatuapé",
+   "variants": [
+    "Tatuape"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "ROME",
+    "Rome"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "HOPEH"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "BUENOS AIRES"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "San Miguel",
+   "variants": [
+    "San Mirual"
+   ]
+  },
+  {
+   "name": "Jiangsu",
+   "variants": [
+    "KIA OSU"
+   ]
+  },
+  {
+   "name": "Xujiahui",
+   "variants": [
+    "Zi-Ka-Wei"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Mumbai",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Paneme"
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "variants": [
+    "Porto ico"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cube"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Scandinavia",
+   "variants": [
+    "Scandinavia"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Birmingham",
+   "variants": [
+    "Birmingham"
+   ]
+  },
+  {
+   "name": "Turin",
+   "variants": [
+    "Torino"
+   ]
+  },
+  {
+   "name": "Bordeaux",
+   "variants": [
+    "Bordeaux"
+   ]
+  },
+  {
+   "name": "Battle Creek",
+   "variants": [
+    "Battle Creek"
+   ]
+  },
+  {
+   "name": "Tavannes",
+   "variants": [
+    "Tavannes"
+   ]
+  },
+  {
+   "name": "St. Louis",
+   "variants": [
+    "St. Louis"
+   ]
+  },
+  {
+   "name": "Baltimore",
+   "variants": [
+    "Baltimore"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston"
+   ]
+  },
+  {
+   "name": "Naka Machi",
+   "variants": [
+    "NAKA MACHI"
+   ]
+  },
+  {
+   "name": "Yamashita-chō",
+   "variants": [
+    "YAMASHITA CHO"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George C. Marshall",
+   "role": "Secretary of State; signatory of State Department telegrams",
+   "variants": [
+    "MARSHALL"
+   ]
+  },
+  {
+   "name": "M. E. Wolberg",
+   "role": "State Department drafting official",
+   "variants": [
+    "MEWolberg"
+   ]
+  },
+  {
+   "name": "Davis",
+   "role": "American consular telegram signatory",
+   "variants": [
+    "DAVIS"
+   ]
+  },
+  {
+   "name": "Edward Williams III",
+   "role": "Division of Protective Services official",
+   "variants": [
+    "Mr. Williams",
+    "EWilliams III",
+    "EWilllams III",
+    "EWvlliame III"
+   ]
+  },
+  {
+   "name": "Mrs. Flickinger",
+   "role": "Military Permit Section official, War Department",
+   "variants": [
+    "Mrs. Fliekinger",
+    "Krs. Fliekinger"
+   ]
+  },
+  {
+   "name": "J. F. Simpson",
+   "role": "State Department drafting official",
+   "variants": [
+    "JFSimpson"
+   ]
+  },
+  {
+   "name": "Commander Millett",
+   "role": "Joint Chiefs of Staff action officer",
+   "variants": [
+    "Cmdr Millett"
+   ]
+  },
+  {
+   "name": "Hulda Zarnack",
+   "role": "General secretary of the YWCA in Germany",
+   "variants": [
+    "Hulda Zaruack",
+    "Hulda Zarnack",
+    "Zaraack",
+    "Zarmack",
+    "Zemack"
+   ]
+  },
+  {
+   "name": "Robert A. Lovett",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "Lovett",
+    "LOVETT",
+    "LOVE",
+    "Loertt",
+    "Lott"
+   ]
+  },
+  {
+   "name": "D. O'Brien",
+   "role": "Division of Protective Services official",
+   "variants": [
+    "Mr. O'Brien",
+    "O'Brien",
+    "O'Erien",
+    "DO'Brien",
+    "DJO'Brien",
+    "D0'Brien",
+    "DO Brien"
+   ]
+  },
+  {
+   "name": "Mr. Fisher",
+   "role": "Civil Affairs Division official",
+   "variants": [
+    "Mr. F1sher",
+    "Mr. Fisher"
+   ]
+  },
+  {
+   "name": "Simeon R. Roxas",
+   "role": "Philippine government official",
+   "variants": [
+    "Simeon R. Roxas"
+   ]
+  },
+  {
+   "name": "Luis Moreno Salcedo",
+   "role": "Philippine government official",
+   "variants": [
+    "Luis  oreno Salcedo"
+   ]
+  },
+  {
+   "name": "Hortencio J. Brillantes",
+   "role": "Philippine government official",
+   "variants": [
+    "ortencio J. Brillantes"
+   ]
+  },
+  {
+   "name": "Engracio D. Guerzon",
+   "role": "Philippine government official",
+   "variants": [
+    "Engracio D. Guerzon"
+   ]
+  },
+  {
+   "name": "Ruth Shipley",
+   "role": "State Department official, PD",
+   "variants": [
+    "Mrs. Shipley",
+    "RUTH SHIPLEY",
+    "RUTH SHIPELY"
+   ]
+  },
+  {
+   "name": "G. P. Lynch",
+   "role": "Colonel, GSC; Chief of the Military Permit Section",
+   "variants": [
+    "Col. Lyuch",
+    "Colonel Lynch",
+    "Colonel G. P. Lyneh",
+    "G. P.LYNCH",
+    "G. P. LYNCH",
+    "G. P. LYON"
+   ]
+  },
+  {
+   "name": "David Kumetz",
+   "role": "President of Kumetz Export and Import Company; Mexican citizen and prospective trader in Japan",
+   "variants": [
+    "DAVID KUIETZ",
+    "David Kumetz",
+    "David Kumets",
+    "Navil KumeE",
+    "Davie Kumetz"
+   ]
+  },
+  {
+   "name": "S. Y. Allen",
+   "role": "Secretary of Kumetz Export and Import Company",
+   "variants": [
+    "S. Y. Allen"
+   ]
+  },
+  {
+   "name": "Bertie Deveson",
+   "role": "W. T. Grant Company representative and applicant for travel to Japan",
+   "variants": [
+    "Mr. Bertie Deveson",
+    "Kertie Deverr",
+    "Berlee.Deaeaaa"
+   ]
+  },
+  {
+   "name": "John E. Keough",
+   "role": "Captain, GSC, Military Permit Section",
+   "variants": [
+    "Captain Keough",
+    "Capt. Keough",
+    "Capt. Koough",
+    "JOHN E. KEOUGH"
+   ]
+  },
+  {
+   "name": "Mr. Hutchison",
+   "role": "State Department VD official",
+   "variants": [
+    "Mr. Hutchison"
+   ]
+  },
+  {
+   "name": "Joseph Savoretti",
+   "role": "Assistant Commissioner, Immigration and Naturalization Service",
+   "variants": [
+    "Joseph Savoretti"
+   ]
+  },
+  {
+   "name": "Charles Deveson",
+   "role": "Father of Bertie Deveson",
+   "variants": [
+    "Charles Deaessn"
+   ]
+  },
+  {
+   "name": "Margaret Jean Deveson",
+   "role": "Wife of Bertie Deveson",
+   "variants": [
+    "Margaret Jraa Deneaa",
+    "Margaret"
+   ]
+  },
+  {
+   "name": "U. de B. Daly",
+   "role": "Reference named by Bertie Deveson",
+   "variants": [
+    "U de B Daly"
+   ]
+  },
+  {
+   "name": "E. Druitt",
+   "role": "Reference named by Bertie Deveson",
+   "variants": [
+    "E. Druitt"
+   ]
+  },
+  {
+   "name": "Clifford I. Parsons",
+   "role": "Witness to Bertie Deveson's departure application",
+   "variants": [
+    "Chlafford I Parods"
+   ]
+  },
+  {
+   "name": "Genevieve M. Foreman",
+   "role": "Notary public",
+   "variants": [
+    "Jeneineve m, Forenan",
+    "Jeneirece Mm. Forenam"
+   ]
+  },
+  {
+   "name": "Husni Halabi",
+   "role": "Lebanese government appointee studying trade with Japan",
+   "variants": [
+    "Husni Halabi",
+    "Mr. Halab1"
+   ]
+  },
+  {
+   "name": "Mr. Mattar",
+   "role": "Lebanese Legation representative",
+   "variants": [
+    "Mr. Mattar"
+   ]
+  },
+  {
+   "name": "M. A. Samman",
+   "role": "Syrian businessman admitted under the Japanese traders quota",
+   "variants": [
+    "M.A. Samman",
+    "Mr. Samman"
+   ]
+  },
+  {
+   "name": "Mr. Tomeh",
+   "role": "Syrian Legation representative",
+   "variants": [
+    "Mr. Tomeh"
+   ]
+  },
+  {
+   "name": "Alice Kaelin",
+   "role": "Swiss government official traveling to Japan",
+   "variants": [
+    "Alice Kaelin",
+    "Miss Kaelin"
+   ]
+  },
+  {
+   "name": "Walter F. Chappell",
+   "role": "Acting Assistant Chief, Division of Protective Services",
+   "variants": [
+    "Walter F. Chappell",
+    "Walter F. Champell",
+    "Walter P. Chappell",
+    "Mr. Chappell"
+   ]
+  },
+  {
+   "name": "James Keen",
+   "role": "Traveler cleared for Japan",
+   "variants": [
+    "James Keen",
+    "Mr. Keen"
+   ]
+  },
+  {
+   "name": "Palamadai S. Lokanathan",
+   "role": "Traveler cleared for Japan",
+   "variants": [
+    "Palamadai S. Lokanathan",
+    "Mr. Lokanathan"
+   ]
+  },
+  {
+   "name": "Saijo Yoshida",
+   "role": "Japanese missionary resident in Brazil",
+   "variants": [
+    "Saijo Yoshida"
+   ]
+  },
+  {
+   "name": "Emil Kircher",
+   "role": "German missionary resident in Brazil",
+   "variants": [
+    "Emil Kircher"
+   ]
+  },
+  {
+   "name": "Johann Georg Gemeinder",
+   "role": "German missionary resident in Brazil",
+   "variants": [
+    "Johann Georg Gemeinder"
+   ]
+  },
+  {
+   "name": "R. C. Larkin",
+   "role": "Official who cleared missionary airgrams by telephone",
+   "variants": [
+    "RCLarkin"
+   ]
+  },
+  {
+   "name": "Johannes Ponzelet",
+   "role": "German missionary resident in Rome",
+   "variants": [
+    "Johannes Ponzelet"
+   ]
+  },
+  {
+   "name": "Josef H. Thoneick",
+   "role": "German missionary resident in Rome",
+   "variants": [
+    "Josef H. Thoneick"
+   ]
+  },
+  {
+   "name": "R. H. Bushner",
+   "role": "Political Adviser mission drafting official",
+   "variants": [
+    "RHBushner",
+    "RHBusiner"
+   ]
+  },
+  {
+   "name": "M. F. Noy",
+   "role": "Lieutenant colonel and assistant adjutant general",
+   "variants": [
+    "M. F. NOY"
+   ]
+  },
+  {
+   "name": "Maji Meesa Ismail",
+   "role": "Business traveler whose personal file was sent to Senator Langer",
+   "variants": [
+    "Mr. Mal",
+    "Mr. Maji Meesa Ismail"
+   ]
+  },
+  {
+   "name": "William A. Langer",
+   "role": "United States senator",
+   "variants": [
+    "Senator Langer",
+    "Willimm A. Langer"
+   ]
+  },
+  {
+   "name": "Hamilton Robinson",
+   "role": "Director, Office of Controls",
+   "variants": [
+    "Hawiltan dobinson"
+   ]
+  },
+  {
+   "name": "Charles W. Ryder",
+   "role": "Major general commanding the Eighth Army",
+   "variants": [
+    "MAJCR GENE LAL RYDER"
+   ]
+  },
+  {
+   "name": "Clovis E. Byers",
+   "role": "Major General, GSC; Chief of Staff",
+   "variants": [
+    "CLOVIS E. BYERS"
+   ]
+  },
+  {
+   "name": "Burgess",
+   "role": "Eighth Army G-4 official",
+   "variants": [
+    "BURGESS"
+   ]
+  },
+  {
+   "name": "Anna Tellen",
+   "role": "German missionary residing at Fu Yen University",
+   "variants": [
+    "Sister Anna Tellen",
+    "Sister Tellen"
+   ]
+  },
+  {
+   "name": "Josef Kumezo Kakihori",
+   "role": "Japanese missionary residing in Argentina",
+   "variants": [
+    "Hosef (Josef) Kumezo Kakihori",
+    "Kumezo Kakihori"
+   ]
+  },
+  {
+   "name": "Antoine De Changy",
+   "role": "French missionary residing in Shanghai",
+   "variants": [
+    "Reverend Antoine De Changy",
+    "Father De Changy"
+   ]
+  },
+  {
+   "name": "Faez Abdallah Ejel",
+   "role": "Syrian national traveling to Japan",
+   "variants": [
+    "Faez Abdallah Ejel",
+    "Mr. Ejel",
+    "Mr. Ejol"
+   ]
+  },
+  {
+   "name": "Lieutenant Ramsey",
+   "role": "Civil Affairs Division officer",
+   "variants": [
+    "Lt. Ramsey"
+   ]
+  },
+  {
+   "name": "Meyer Abadi",
+   "role": "Panamanian applicant for business travel to Japan",
+   "variants": [
+    "Meyer Abadi",
+    "Mr.Meyer Abadi",
+    "Mr. Abadi",
+    "Abadi, Meyer",
+    "Meyer Abad1"
+   ]
+  },
+  {
+   "name": "Vasuratna",
+   "role": "Siamese applicant for travel to Japan",
+   "variants": [
+    "Vasuratne",
+    "Vasuratna"
+   ]
+  },
+  {
+   "name": "Khosavanna",
+   "role": "Siamese applicant for travel to Japan",
+   "variants": [
+    "Khosavanna"
+   ]
+  },
+  {
+   "name": "Sangkasava",
+   "role": "Siamese applicant for travel to Japan",
+   "variants": [
+    "Sangkasava",
+    "Sangkasaba"
+   ]
+  },
+  {
+   "name": "Lamsam",
+   "role": "Siamese applicant for travel to Japan",
+   "variants": [
+    "Lamsam"
+   ]
+  },
+  {
+   "name": "Phongpagdi",
+   "role": "Siamese applicant for travel to Japan",
+   "variants": [
+    "Phongpogdi",
+    "Phongpagdi"
+   ]
+  },
+  {
+   "name": "Chavanich",
+   "role": "Siamese applicant for travel to Japan",
+   "variants": [
+    "Chavanich"
+   ]
+  },
+  {
+   "name": "Mr. Deurifoy",
+   "role": "State Department reviewing official",
+   "variants": [
+    "MR DEURIFOY"
+   ]
+  },
+  {
+   "name": "Eugenio J. Chevalier",
+   "role": "Panamanian chargé d'affaires ad interim",
+   "variants": [
+    "Seßer Ben Fagemfe J. Ghevalter"
+   ]
+  },
+  {
+   "name": "Michael Lee",
+   "role": "Chief, Far Eastern Division, Areas Branch, Office of International Trade",
+   "variants": [
+    "Michael Lee"
+   ]
+  },
+  {
+   "name": "Walter Measday",
+   "role": "Los Angeles Regional Director, Department of Commerce",
+   "variants": [
+    "WALTER MEASDAY"
+   ]
+  },
+  {
+   "name": "P. E. Pauly",
+   "role": "Los Angeles Regional Office staff member",
+   "variants": [
+    "PEPauly"
+   ]
+  },
+  {
+   "name": "Mr. Katzman",
+   "role": "Business traveler cleared for entry into Japan",
+   "variants": [
+    "Mr. Katzman",
+    "Mr. Katzmans"
+   ]
+  },
+  {
+   "name": "Mr. Haering",
+   "role": "Visa Division official",
+   "variants": [
+    "Mr. Haering"
+   ]
+  },
+  {
+   "name": "Steere",
+   "role": "Berlin telegram signatory",
+   "variants": [
+    "STEERE"
+   ]
+  },
+  {
+   "name": "Roswell Whitman",
+   "role": "Associate Chief, Division of Japanese-Korean Economic Affairs",
+   "variants": [
+    "Roswell hitmen",
+    "Roswell .hitmen",
+    "Mr. Whitmen"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General commanding the occupation forces in Japan",
+   "variants": [
+    "Generel McArthur"
+   ]
+  },
+  {
+   "name": "James E. Fullam",
+   "role": "Divisional Vice President, Pacific Division, International Telephone and Telegraph Corporation",
+   "variants": [
+    "James E. Fullam"
+   ]
+  },
+  {
+   "name": "Clinton B. Allsopp",
+   "role": "Colonel and vice president of International Telephone and Telegraph Corporation",
+   "variants": [
+    "Colonel olinton B. :llsooo"
+   ]
+  },
+  {
+   "name": "George J. Eder",
+   "role": "Legal adviser in Argentina",
+   "variants": [
+    "George J. Eder"
+   ]
+  },
+  {
+   "name": "C. A. Hayne",
+   "role": "Proposed chief engineer in Japan",
+   "variants": [
+    "C. A. Hayne"
+   ]
+  },
+  {
+   "name": "S. H. Larrabee",
+   "role": "Proposed comptroller of Nippon Electric Company",
+   "variants": [
+    "S. H. Larrabee"
+   ]
+  },
+  {
+   "name": "F. E. Samuels",
+   "role": "Proposed comptroller of Sumitomo Electric Industries",
+   "variants": [
+    "F. E. Samuels"
+   ]
+  },
+  {
+   "name": "A. C. Chisholm",
+   "role": "Proposed manufacturing supervisor of Nippon Electric Company",
+   "variants": [
+    "A. C. Chisholm"
+   ]
+  },
+  {
+   "name": "R. C. Keefer",
+   "role": "Proposed manufacturing supervisor of Sumitomo Electric Industries",
+   "variants": [
+    "R. C. Keefer",
+    "Mr. Aeefer"
+   ]
+  },
+  {
+   "name": "Alfred Goldman",
+   "role": "President of Witkowski New York Agency and applicant for business travel to Japan",
+   "variants": [
+    "Alfred Goldman",
+    "ALFRED GOLDMAN",
+    "Alfred Golaman"
+   ]
+  },
+  {
+   "name": "Isaak Yanowitch",
+   "role": "Alien businessman approved for travel to Japan",
+   "variants": [
+    "Isaak Yanowitch",
+    "Isaak Yanvvitch"
+   ]
+  },
+  {
+   "name": "Melvin W. Peyser",
+   "role": "Business partner and agent of Alfred Goldman",
+   "variants": [
+    "Melvin W. Peyser"
+   ]
+  },
+  {
+   "name": "Daniel J. Porter",
+   "role": "Chicago agent of Alfred Goldman's former Japanese firm",
+   "variants": [
+    "Daniel J. Porter"
+   ]
+  }
+ ],
+ "keywords": [
+  "military permits",
+  "entry into occupied Japan",
+  "alien transit travel",
+  "passport validation",
+  "SCAP",
+  "commercial aviation",
+  "business-traveler quotas",
+  "missionaries",
+  "quarantine ports",
+  "foreign trade",
+  "exit and reentry permits",
+  "Occupation administration"
+ ],
+ "subfiles": [
+  {
+   "title": "Telegram querying SCAP on Shanghai transit request",
+   "doc_type": "outgoing telegram",
+   "start_page": 241,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1947-08-05",
+   "from": "Department of State (Marshall)",
+   "to": "American Consul, Shanghai",
+   "about": "Reports that SCAP is being queried concerning the consul's July 17 telegram.",
+   "summary": "The Department tells Shanghai that SCAP is being consulted.",
+   "keywords": [
+    "SCAP",
+    "Shanghai",
+    "transit travel"
+   ]
+  },
+  {
+   "title": "Incoming telegram concerning alien transit documentation",
+   "doc_type": "incoming telegram",
+   "start_page": 242,
+   "end_page": 242,
+   "continues_previous": false,
+   "date": "1947-07-18",
+   "from": "Davis",
+   "to": "Department of State",
+   "about": "Requests guidance on documentation required for non-American passengers transiting Japan.",
+   "summary": "A largely garbled telegram asks whether non-American transit passengers require passport validation or military documentation.",
+   "keywords": [
+    "alien travelers",
+    "transit",
+    "documentation"
+   ]
+  },
+  {
+   "title": "Memorandum on consular authority to validate alien passports",
+   "doc_type": "memorandum for the files",
+   "start_page": 243,
+   "end_page": 243,
+   "continues_previous": false,
+   "date": "1947-08-01",
+   "from": "Edward Williams III, Division of Protective Services",
+   "to": "Files",
+   "about": "Records discussion with the War Department over whether existing authority covered alien air passengers.",
+   "summary": "Williams and Flickinger concluded that the CINCFE authorization clearly covered Americans but not aliens; the Military Permit Section would ask Tokyo for clarification.",
+   "keywords": [
+    "passport validation",
+    "alien transit",
+    "CINCFE",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Authorization for Manila to validate transit passports",
+   "doc_type": "outgoing telegram",
+   "start_page": 244,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1947-06-17",
+   "from": "Department of State (Marshall)",
+   "to": "American Consul, Manila",
+   "about": "Authorizes passport validation for air passengers making only refueling or emergency stops in Japan.",
+   "summary": "Manila may validate passports for direct air transit, with passengers and carriers responsible for conduct during stops in Japan.",
+   "keywords": [
+    "Manila",
+    "air transit",
+    "passport validation",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Circular authorizing validation of American passports for Japan transit",
+   "doc_type": "outgoing circular telegram, duplicate copies",
+   "start_page": 245,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1947-07-03",
+   "from": "Department of State (Marshall)",
+   "to": "Selected American diplomatic and consular posts",
+   "about": "Delegates authority to endorse American passports for minimal-stop air transit through Japan.",
+   "summary": "Posts at Nanking, Shanghai, Peiping, Hong Kong, Seoul, Manila, and Vancouver receive a prescribed endorsement for American citizens transiting Japan by air.",
+   "keywords": [
+    "American citizens",
+    "air transit",
+    "passport endorsement",
+    "consulates"
+   ]
+  },
+  {
+   "title": "CINCFE proposal to delegate Japan transit clearances",
+   "doc_type": "War Department incoming message",
+   "start_page": 247,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1947-06-04",
+   "from": "CINCFE, Tokyo",
+   "to": "War Department for the Joint Chiefs of Staff",
+   "about": "Proposes delegating authority to consular and State representatives to clear American air passengers transiting Japan.",
+   "summary": "CINCFE argues that local passport validation would reduce delays, correspondence, and radio traffic. Clearances would permit only refueling or emergency stops, with travelers subject to SCAP control and carriers morally responsible for them.",
+   "keywords": [
+    "CINCFE",
+    "airlines",
+    "transit clearance",
+    "delegated authority",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Shanghai record-copy filing sheet",
+   "doc_type": "record-control sheet",
+   "start_page": 249,
+   "end_page": 249,
+   "continues_previous": false,
+   "date": "1947-10-02",
+   "from": "Division of Communications and Records",
+   "to": "Central files",
+   "about": "Controls the return and filing of a Shanghai record copy.",
+   "summary": "Record-copy sheet directing that the Shanghai copy be returned for central filing.",
+   "keywords": [
+    "record copy",
+    "Shanghai",
+    "filing"
+   ]
+  },
+  {
+   "title": "Request for Hulda Zarnack to enter Japan",
+   "doc_type": "incoming telegram",
+   "start_page": 250,
+   "end_page": 250,
+   "continues_previous": false,
+   "date": "1947-10-02",
+   "from": "American Consulate, Shanghai (Davis)",
+   "to": "Secretary of State",
+   "about": "Seeks permission for German YWCA official Hulda Zarnack to attend a Japanese YWCA gathering.",
+   "summary": "Zarnack planned to fly to Japan in early November with an international YWCA delegation, but her Berlin travel document was not valid for Japan.",
+   "keywords": [
+    "Hulda Zarnack",
+    "YWCA",
+    "German traveler",
+    "entry permit"
+   ]
+  },
+  {
+   "title": "Circular extending air-transit procedure to aliens",
+   "doc_type": "outgoing circular telegram",
+   "start_page": 251,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "1947-10-22",
+   "from": "Department of State (Lovett)",
+   "to": "Selected American diplomatic and consular posts",
+   "about": "Extends the July 3 Japan air-transit passport-validation procedure from American citizens to aliens.",
+   "summary": "The Department informs posts in East Asia and Vancouver that the existing commercial-aircraft transit procedure now applies to aliens.",
+   "keywords": [
+    "alien transit",
+    "commercial aircraft",
+    "passport validation",
+    "circular telegram"
+   ]
+  },
+  {
+   "title": "Inquiry to Berlin concerning Hulda Zarnack",
+   "doc_type": "outgoing telegram",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1947-10-09",
+   "from": "Department of State (Lovett)",
+   "to": "United States Political Adviser, Berlin",
+   "about": "Asks whether the Combined Travel Board favors validating Zarnack's document for Japan.",
+   "summary": "Before consulting Tokyo, the Department asks Berlin to assess Zarnack's proposed YWCA visit and notes doubts about its relevance to occupation programs.",
+   "keywords": [
+    "Hulda Zarnack",
+    "Combined Travel Board",
+    "Berlin",
+    "YWCA"
+   ]
+  },
+  {
+   "title": "Philippine Embassy acknowledgment concerning four officials",
+   "doc_type": "diplomatic note",
+   "start_page": 254,
+   "end_page": 254,
+   "continues_previous": false,
+   "date": "1947-10-02",
+   "from": "Philippine chargé d'affaires ad interim",
+   "to": "Secretary of State",
+   "about": "Reports that four Philippine officials had already sailed before Japan-visit requirements could be conveyed.",
+   "summary": "The Embassy thanks the Department but explains that Roxas, Salcedo, Brillantes, and Guerzon departed San Francisco on September 19.",
+   "keywords": [
+    "Philippine officials",
+    "Japan visit",
+    "SS General Gordon",
+    "San Francisco"
+   ]
+  },
+  {
+   "title": "Transmission of David Kumetz travel approval and permit",
+   "doc_type": "office memorandum",
+   "start_page": 255,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1947-10-03",
+   "from": "Ruth Shipley, PD",
+   "to": "Edward Williams III, DS",
+   "about": "Forwards Commerce approval and a military permit for alien businessman David Kumetz.",
+   "summary": "Shipley forwards Kumetz's Commerce approval and Japan military permit for action.",
+   "keywords": [
+    "David Kumetz",
+    "business travel",
+    "military permit"
+   ]
+  },
+  {
+   "title": "David Kumetz application to visit Japan",
+   "doc_type": "travel application",
+   "start_page": 256,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "",
+   "from": "David Kumetz",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Applies to visit Japanese cities to buy and sell general merchandise for United States and Mexican trade.",
+   "summary": "Kumetz, an importer-exporter with prewar Japan experience, proposes purchasing Japanese goods for the United States and Mexico and selling imports in Japan.",
+   "keywords": [
+    "David Kumetz",
+    "import-export trade",
+    "business application",
+    "merchandise"
+   ]
+  },
+  {
+   "title": "Kumetz company letter supporting Japan application",
+   "doc_type": "letter",
+   "start_page": 258,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1947-08-05",
+   "from": "S. Y. Allen, Kumetz Export and Import Company",
+   "to": "Department of Commerce, Office of International Trade",
+   "about": "Supports David Kumetz's application and explains his Mexican citizenship and role in the corporation.",
+   "summary": "The company states that Kumetz is its president, a Mexican citizen seeking United States naturalization, and its most suitable international-trade agent.",
+   "keywords": [
+    "David Kumetz",
+    "Mexican citizen",
+    "corporate representation",
+    "Japan trade"
+   ]
+  },
+  {
+   "title": "Closure of Bertie Deveson entry case",
+   "doc_type": "memorandum of conversation",
+   "start_page": 259,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1947-10-03",
+   "from": "D. O'Brien",
+   "to": "Files",
+   "about": "Records that Deveson received his military permit and arranged an exit-permit waiver.",
+   "summary": "Deveson's Japan travel case was closed after both requirements were resolved.",
+   "keywords": [
+    "Bertie Deveson",
+    "military permit",
+    "exit-permit waiver"
+   ]
+  },
+  {
+   "title": "INS letter on Bertie Deveson's reentry permit",
+   "doc_type": "letter",
+   "start_page": 260,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1947-09-18",
+   "from": "Joseph Savoretti, Immigration and Naturalization Service",
+   "to": "Bertie Deveson",
+   "about": "Explains that a reentry permit depends on obtaining a State Department departure permit.",
+   "summary": "INS holds Deveson's reentry application pending State Department action on his alien departure permit.",
+   "keywords": [
+    "Bertie Deveson",
+    "reentry permit",
+    "alien departure permit",
+    "INS"
+   ]
+  },
+  {
+   "title": "Bertie Deveson's alien departure application",
+   "doc_type": "completed application form",
+   "start_page": 261,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1947-09-11",
+   "from": "Bertie Deveson",
+   "to": "Secretary of State",
+   "about": "Applies for permission to leave the United States for a six-month business trip to Japan.",
+   "summary": "Deveson, a British merchant and W. T. Grant Company representative, records residence in Yokohama and Washington, family and passport details, and plans to depart through San Francisco. He intends to return after about six months and has applied for a reentry permit.",
+   "keywords": [
+    "Bertie Deveson",
+    "departure permit",
+    "W. T. Grant Company",
+    "Japan business travel"
+   ]
+  },
+  {
+   "title": "Charge slip for New Delhi telegram",
+   "doc_type": "charge slip",
+   "start_page": 264,
+   "end_page": 264,
+   "continues_previous": false,
+   "date": "1947-10-06",
+   "from": "Department of State records office",
+   "to": "PD",
+   "about": "Records the temporary charge of a telegram associated with New Delhi.",
+   "summary": "Charge slip for a New Delhi telegram in the Japan travel file.",
+   "keywords": [
+    "charge slip",
+    "New Delhi",
+    "records control"
+   ]
+  },
+  {
+   "title": "Conversation concerning Husni Halabi's application",
+   "doc_type": "memorandum of conversation",
+   "start_page": 265,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "1947-10-06",
+   "from": "D. O'Brien",
+   "to": "Files",
+   "about": "Requests the standard Japan-entry application from the Lebanese Legation for Husni Halabi.",
+   "summary": "Mattar agreed to submit Halabi's missing application and accepted the conversation as acknowledgment of the Legation's note.",
+   "keywords": [
+    "Husni Halabi",
+    "Lebanese Legation",
+    "business travel",
+    "application"
+   ]
+  },
+  {
+   "title": "Notification of M. A. Samman's Japan clearance",
+   "doc_type": "telephone memorandum of conversation",
+   "start_page": 266,
+   "end_page": 266,
+   "continues_previous": false,
+   "date": "1947-10-06",
+   "from": "D. O'Brien",
+   "to": "Files",
+   "about": "Informs the Syrian Legation that Samman was cleared under the Japanese traders quota.",
+   "summary": "Samman could enter during October 1–21 for a 21-day stay; the Legation would document him under SCAP Circular 8.",
+   "keywords": [
+    "M. A. Samman",
+    "Syrian Legation",
+    "traders quota",
+    "SCAP Circular 8"
+   ]
+  },
+  {
+   "title": "Military permit for Japan traders-quota travel",
+   "doc_type": "military permit",
+   "start_page": 267,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1947-10-08",
+   "from": "War Department, Military Permit Section",
+   "to": "Unnamed traveler",
+   "about": "Authorizes entry into Japan under the traders quota for 21 days after arrival.",
+   "summary": "Military permit number 47-13169 authorizes traders-quota travel to Japan.",
+   "keywords": [
+    "military permit",
+    "traders quota",
+    "Japan entry"
+   ]
+  },
+  {
+   "title": "Swiss Legation memorandum concerning Alice Kaelin",
+   "doc_type": "diplomatic memorandum",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1947-10-06",
+   "from": "Legation of Switzerland",
+   "to": "Department of State",
+   "about": "Reports that the prescribed statement was attached to Alice Kaelin's passport in lieu of a military permit.",
+   "summary": "The Swiss Legation documented Kaelin under paragraph 7b of SCAP Circular 8.",
+   "keywords": [
+    "Alice Kaelin",
+    "Swiss Government",
+    "passport statement",
+    "SCAP Circular 8"
+   ]
+  },
+  {
+   "title": "Submission of Husni Halabi's application to the Army",
+   "doc_type": "letter",
+   "start_page": 270,
+   "end_page": 270,
+   "continues_previous": false,
+   "date": "1947-10-17",
+   "from": "Walter F. Chappell",
+   "to": "Colonel G. P. Lynch",
+   "about": "Forwards Halabi's application for consideration under the business quota assigned to other nations.",
+   "summary": "The Military Permit Section is asked to submit Halabi's business application to SCAP.",
+   "keywords": [
+    "Husni Halabi",
+    "business quota",
+    "SCAP",
+    "Military Permit Section"
+   ]
+  },
+  {
+   "title": "Clearance of James Keen and Palamadai S. Lokanathan",
+   "doc_type": "War Department memorandum",
+   "start_page": 271,
+   "end_page": 271,
+   "continues_previous": false,
+   "date": "1947-10-08",
+   "from": "G. P. Lynch, Military Permit Section",
+   "to": "Mr. Hutchison",
+   "about": "States there is no military objection to Keen and Lokanathan traveling to Japan.",
+   "summary": "Theater headquarters had already notified Keen in Shanghai of both travelers' clearance.",
+   "keywords": [
+    "James Keen",
+    "Palamadai S. Lokanathan",
+    "military clearance",
+    "Shanghai"
+   ]
+  },
+  {
+   "title": "Airgram concerning three missionaries in Brazil",
+   "doc_type": "outgoing airgram",
+   "start_page": 272,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1947-10-08",
+   "from": "Department of State (Lovett)",
+   "to": "American Consul, São Paulo",
+   "about": "Authorizes transit-visa processing for three missionaries cleared to enter Japan.",
+   "summary": "Yoshida, Kircher, and Gemeinder may receive transit visas and must contact Protective Services in the United States for permits and exit arrangements.",
+   "keywords": [
+    "missionaries",
+    "Brazil",
+    "transit visas",
+    "Japan entry"
+   ]
+  },
+  {
+   "title": "Airgram concerning two missionaries in Rome",
+   "doc_type": "outgoing airgram",
+   "start_page": 273,
+   "end_page": 273,
+   "continues_previous": false,
+   "date": "1947-10-08",
+   "from": "Department of State (Lovett)",
+   "to": "American Embassy, Rome",
+   "about": "Authorizes transit-visa processing for Johannes Ponzelet and Josef H. Thoneick.",
+   "summary": "The two German missionaries were cleared for Japan and were to arrange military and exit permits while transiting the United States.",
+   "keywords": [
+    "missionaries",
+    "Rome",
+    "German nationals",
+    "transit visas"
+   ]
+  },
+  {
+   "title": "Despatch transmitting Japan quarantine directive",
+   "doc_type": "cover despatch",
+   "start_page": 274,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1947-10-08",
+   "from": "United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Transmits SCAP's directive designating Japanese ports of entry and requiring quarantine services.",
+   "summary": "Cover despatch for SCAPIN 1787 on ports and quarantine facilities.",
+   "keywords": [
+    "quarantine",
+    "ports of entry",
+    "SCAPIN 1787"
+   ]
+  },
+  {
+   "title": "SCAP directive designating quarantine ports",
+   "doc_type": "directive to the Japanese Government",
+   "start_page": 275,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "1947-10-01",
+   "from": "General Headquarters, SCAP",
+   "to": "Japanese Government",
+   "about": "Designates twelve Japanese ports of entry and orders quarantine services at them.",
+   "summary": "SCAP names Otaru, Hakodate, Yokohama, Yokosuka, Shimizu, Nagoya, Kobe, Kure, Moji, Sasebo, Nagasaki, and Miike as entry ports.",
+   "keywords": [
+    "quarantine ports",
+    "Japanese Government",
+    "SCAP",
+    "public health"
+   ]
+  },
+  {
+   "title": "SCAP information memorandum on quarantine procedures",
+   "doc_type": "information memorandum",
+   "start_page": 276,
+   "end_page": 276,
+   "continues_previous": false,
+   "date": "1947-10-01",
+   "from": "General Headquarters, SCAP",
+   "to": "SCAP distribution",
+   "about": "Explains the background and surveillance requirements accompanying SCAPIN 1787.",
+   "summary": "The memorandum cites prior entry and quarantine regulations and calls for routine surveillance.",
+   "keywords": [
+    "quarantine procedures",
+    "ports of entry",
+    "routine surveillance",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Letter transmitting Maji Meesa Ismail's file",
+   "doc_type": "letter",
+   "start_page": 277,
+   "end_page": 277,
+   "continues_previous": false,
+   "date": "1947-10-09",
+   "from": "Hamilton Robinson",
+   "to": "Senator William A. Langer",
+   "about": "Sends Ismail's personal file in response to a Senate office request.",
+   "summary": "Robinson forwards Ismail's file concerning proposed business travel to Japan.",
+   "keywords": [
+    "Maji Meesa Ismail",
+    "Senator Langer",
+    "personal file",
+    "business travel"
+   ]
+  },
+  {
+   "title": "Despatch transmitting missionary-aid directive",
+   "doc_type": "cover despatch",
+   "start_page": 278,
+   "end_page": 278,
+   "continues_previous": false,
+   "date": "1947-10-10",
+   "from": "Acting Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Transmits an Eighth Army directive explaining admission and support rules for missionaries.",
+   "summary": "Cover despatch for Operational Directive 65 on military assistance to missionaries in Japan.",
+   "keywords": [
+    "missionaries",
+    "Eighth Army",
+    "operational directive"
+   ]
+  },
+  {
+   "title": "Operational Directive 65: Extension of Aid to Missionaries",
+   "doc_type": "Eighth Army operational directive",
+   "start_page": 279,
+   "end_page": 282,
+   "continues_previous": false,
+   "date": "1947-10-01",
+   "from": "Headquarters Eighth Army",
+   "to": "Eighth Army personnel",
+   "about": "Restates SCAP policy for admitting, supplying, housing, and assisting missionaries in Japan.",
+   "summary": "Missionaries require financial, housing, and professional assurances; representative missionaries may receive temporary revenue-basis support, while operating missionaries receive only limited emergency aid. The directive regulates dependents, shipments, postal privileges, transport, military facilities, vehicles, and exceptional visits by senior church officials.",
+   "keywords": [
+    "missionary policy",
+    "SCAP",
+    "logistical support",
+    "religious personnel",
+    "Occupation forces"
+   ]
+  },
+  {
+   "title": "Airgram concerning Sister Anna Tellen",
+   "doc_type": "outgoing airgram",
+   "start_page": 283,
+   "end_page": 283,
+   "continues_previous": false,
+   "date": "1947-10-13",
+   "from": "Department of State (Lovett)",
+   "to": "American Consul, Peiping",
+   "about": "Authorizes local documentation of Sister Anna Tellen for missionary travel to Japan.",
+   "summary": "Tellen could receive revenue-basis surface transport and an English clearance statement in lieu of a military permit.",
+   "keywords": [
+    "Anna Tellen",
+    "missionary",
+    "Peiping",
+    "clearance statement"
+   ]
+  },
+  {
+   "title": "Airgram concerning Josef Kumezo Kakihori",
+   "doc_type": "outgoing airgram",
+   "start_page": 284,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1947-10-13",
+   "from": "Department of State (Lovett)",
+   "to": "American Embassy, Buenos Aires",
+   "about": "Authorizes transit-visa processing for a Japanese missionary residing in Argentina.",
+   "summary": "Kakihori was cleared for Japan and instructed to obtain his permit and exit arrangements while passing through the United States.",
+   "keywords": [
+    "Josef Kumezo Kakihori",
+    "missionary",
+    "Argentina",
+    "transit visa"
+   ]
+  },
+  {
+   "title": "Airgram concerning Antoine De Changy",
+   "doc_type": "outgoing airgram",
+   "start_page": 285,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1947-10-13",
+   "from": "Department of State (Lovett)",
+   "to": "American Consul, Shanghai",
+   "about": "Authorizes documentation and surface transportation for Father De Changy's missionary travel to Japan.",
+   "summary": "The French Consulate could issue De Changy a SCAP-compliant English clearance statement serving in lieu of a military permit.",
+   "keywords": [
+    "Antoine De Changy",
+    "missionary",
+    "Shanghai",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Army request for Faez Abdallah Ejel's travel details",
+   "doc_type": "War Department memorandum",
+   "start_page": 286,
+   "end_page": 286,
+   "continues_previous": false,
+   "date": "1947-10-13",
+   "from": "G. P. Lynch, Military Permit Section",
+   "to": "Walter F. Chappell",
+   "about": "Requests information about the ship on which Ejel would proceed to Japan.",
+   "summary": "The theater required Ejel's intended vessel before completing travel arrangements.",
+   "keywords": [
+    "Faez Abdallah Ejel",
+    "ship information",
+    "military permit"
+   ]
+  },
+  {
+   "title": "Conversation resolving inquiry about Faez Abdallah Ejel",
+   "doc_type": "memorandum of conversation",
+   "start_page": 287,
+   "end_page": 287,
+   "continues_previous": false,
+   "date": "1947-10-14",
+   "from": "D. O'Brien",
+   "to": "Files",
+   "about": "Explains that Ejel had already begun traveling to Japan via London and Bombay.",
+   "summary": "Captain Keough agreed to review the file, and the latest request could be ignored unless he responded further.",
+   "keywords": [
+    "Faez Abdallah Ejel",
+    "London",
+    "Bombay",
+    "travel arrangements"
+   ]
+  },
+  {
+   "title": "File note concerning Siamese applicants",
+   "doc_type": "handwritten file note",
+   "start_page": 288,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "1947-10-21",
+   "from": "D. O'Brien",
+   "to": "SS/CR",
+   "about": "Notes that the Siamese men in Lynch's letter were handled separately.",
+   "summary": "The Siamese applicants mentioned by Lynch belonged to a separate case.",
+   "keywords": [
+    "Siamese applicants",
+    "cross-reference",
+    "file note"
+   ]
+  },
+  {
+   "title": "File note concerning Meyer Abadi",
+   "doc_type": "handwritten file note",
+   "start_page": 289,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Protective Services",
+   "to": "Files",
+   "about": "Notes that Meyer Abadi was handled as a separate case.",
+   "summary": "Cross-reference separating Abadi's case from Lynch's other applicants.",
+   "keywords": [
+    "Meyer Abadi",
+    "cross-reference",
+    "file note"
+   ]
+  },
+  {
+   "title": "SCAP rejection of incomplete trader applications",
+   "doc_type": "War Department letter, duplicate copies",
+   "start_page": 290,
+   "end_page": 291,
+   "continues_previous": false,
+   "date": "1947-10-14",
+   "from": "G. P. Lynch",
+   "to": "Walter F. Chappell",
+   "about": "Requests fuller information for Meyer Abadi and six Siamese business applicants.",
+   "summary": "SCAP would reconsider applications providing detailed business purposes, routes, transportation, and a specified 15-day arrival window. Siam's quota was two, and applicants were limited to private traders or service representatives staying 21 days.",
+   "keywords": [
+    "Meyer Abadi",
+    "Siamese traders",
+    "incomplete applications",
+    "business quota"
+   ]
+  },
+  {
+   "title": "Recommendation to notify Panama of Abadi's rejection",
+   "doc_type": "office memorandum",
+   "start_page": 292,
+   "end_page": 292,
+   "continues_previous": false,
+   "date": "1947-10-20",
+   "from": "D. O'Brien",
+   "to": "A–P through SS/CR",
+   "about": "Recommends signing a note explaining why SCAP rejected Meyer Abadi's application.",
+   "summary": "The memorandum proposes inviting Abadi to submit a more detailed application.",
+   "keywords": [
+    "Meyer Abadi",
+    "Panamanian Embassy",
+    "SCAP rejection",
+    "resubmission"
+   ]
+  },
+  {
+   "title": "Draft note to Panama concerning Meyer Abadi",
+   "doc_type": "draft diplomatic note",
+   "start_page": 293,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1947-10-21",
+   "from": "Secretary of State",
+   "to": "Eugenio J. Chevalier, Panamanian chargé d'affaires ad interim",
+   "about": "Explains the deficiencies in Abadi's application and the conditions for resubmission.",
+   "summary": "SCAP requires the goods or services involved, route and means of travel, and a specific 15-day entry period. Any permit would allow a 21-day stay, subject to possible short extension, and the Department offers to forward a revised application.",
+   "keywords": [
+    "Meyer Abadi",
+    "Panama",
+    "business travel",
+    "application requirements"
+   ]
+  },
+  {
+   "title": "Commerce request to cancel David Kumetz's October travel",
+   "doc_type": "office memorandum",
+   "start_page": 296,
+   "end_page": 296,
+   "continues_previous": false,
+   "date": "1947-10-15",
+   "from": "Office of International Trade, Areas Branch",
+   "to": "Walter F. Chappell",
+   "about": "Requests cancellation of Kumetz's permit if it had not already been forwarded.",
+   "summary": "Commerce reports that Kumetz was no longer interested in near-term Japan travel.",
+   "keywords": [
+    "David Kumetz",
+    "permit cancellation",
+    "Department of Commerce"
+   ]
+  },
+  {
+   "title": "Los Angeles report on David Kumetz's withdrawals",
+   "doc_type": "memorandum",
+   "start_page": 297,
+   "end_page": 297,
+   "continues_previous": false,
+   "date": "1947-10-09",
+   "from": "Walter Measday, Los Angeles Regional Office",
+   "to": "Michael Lee",
+   "about": "Reports that Kumetz declined both September and October opportunities to travel to Japan.",
+   "summary": "Kumetz first cited a Jewish holiday, then inconvenience, leaving the regional office doubtful about his immediate plans.",
+   "keywords": [
+    "David Kumetz",
+    "travel withdrawal",
+    "Los Angeles",
+    "business quota"
+   ]
+  },
+  {
+   "title": "Commerce memorandum requesting Kumetz cancellation",
+   "doc_type": "office memorandum",
+   "start_page": 298,
+   "end_page": 298,
+   "continues_previous": false,
+   "date": "1947-10-15",
+   "from": "Michael Lee",
+   "to": "Walter F. Chappell",
+   "about": "Forwards the regional report and asks that Kumetz's October permit be canceled.",
+   "summary": "Commerce asks State to cancel Kumetz's unused permit.",
+   "keywords": [
+    "David Kumetz",
+    "permit cancellation",
+    "Commerce Department"
+   ]
+  },
+  {
+   "title": "Return of David Kumetz's military permit",
+   "doc_type": "letter",
+   "start_page": 299,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1947-10-22",
+   "from": "Walter F. Chappell",
+   "to": "Colonel G. P. Lynch",
+   "about": "Returns Kumetz's unused permit because he could not travel under the existing clearance.",
+   "summary": "The Army is asked to cancel Kumetz's permit; future travel would require a new application.",
+   "keywords": [
+    "David Kumetz",
+    "returned permit",
+    "cancellation"
+   ]
+  },
+  {
+   "title": "Delivery of Japan permit to Mr. Katzman",
+   "doc_type": "letter",
+   "start_page": 300,
+   "end_page": 300,
+   "continues_previous": false,
+   "date": "1947-10-15",
+   "from": "Walter F. Chappell",
+   "to": "Mr. Katzman",
+   "about": "Sends a military permit and confirms waiver of the alien exit-permit requirement.",
+   "summary": "Katzman could enter Japan October 19–30 for 21 days; immigration offices were notified of his exit-permit waiver.",
+   "keywords": [
+    "Katzman",
+    "military permit",
+    "exit-permit waiver",
+    "Japan entry"
+   ]
+  },
+  {
+   "title": "Army inquiry about alien air-transit authorization",
+   "doc_type": "War Department letter",
+   "start_page": 301,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1947-10-16",
+   "from": "G. P. Lynch",
+   "to": "Walter F. Chappell",
+   "about": "Asks whether selected consuls and domestic officials may authorize foreign nationals to transit Japan by air.",
+   "summary": "Lynch seeks confirmation before instructing airlines, noting reports of passengers traveling without military transit permits.",
+   "keywords": [
+    "alien air transit",
+    "commercial airlines",
+    "consular authority",
+    "military permits"
+   ]
+  },
+  {
+   "title": "Circular applying Japan transit procedure to aliens",
+   "doc_type": "outgoing circular telegram",
+   "start_page": 302,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1947-10-22",
+   "from": "Department of State (Lovett)",
+   "to": "Selected American diplomatic and consular posts",
+   "about": "Makes the July 3 commercial-aircraft transit authorization applicable to aliens.",
+   "summary": "The Department extends the existing procedure to foreign nationals at designated Asian and Canadian posts.",
+   "keywords": [
+    "alien transit",
+    "commercial aircraft",
+    "consular posts",
+    "Japan"
+   ]
+  },
+  {
+   "title": "State Department objections to authorizing alien transit",
+   "doc_type": "letter",
+   "start_page": 304,
+   "end_page": 306,
+   "continues_previous": false,
+   "date": "1947-11-14",
+   "from": "Walter F. Chappell",
+   "to": "Colonel G. P. Lynch",
+   "about": "Questions whether State and its posts should assume responsibility for authorizing foreign nationals to transit Japan.",
+   "summary": "Chappell argues that aliens' governments and SCAP should decide their eligibility because State lacks both jurisdiction and screening information. He suggests carrier responsibility or strictly pro forma documentation and considers rescinding the October 22 consular authorization.",
+   "keywords": [
+    "alien transit",
+    "State Department authority",
+    "SCAP",
+    "airline responsibility"
+   ]
+  },
+  {
+   "title": "Termination of transit-documentation requirement",
+   "doc_type": "War Department memorandum",
+   "start_page": 307,
+   "end_page": 307,
+   "continues_previous": false,
+   "date": "1947-11-26",
+   "from": "John E. Keough",
+   "to": "Walter F. Chappell",
+   "about": "Announces that civilian airline passengers no longer need documents merely to transit Japan.",
+   "summary": "Airlines must warn passengers about SCAP rules and accept responsibility for their conduct during stops.",
+   "keywords": [
+    "transit documentation",
+    "airline responsibility",
+    "SCAP regulations",
+    "Pan American",
+    "Northwest Airlines"
+   ]
+  },
+  {
+   "title": "Berlin support for Hulda Zarnack's entry",
+   "doc_type": "incoming telegram",
+   "start_page": 308,
+   "end_page": 308,
+   "continues_previous": false,
+   "date": "1947-10-18",
+   "from": "Berlin (Steere)",
+   "to": "Secretary of State",
+   "about": "Reports occupation and Combined Travel Board support for Zarnack's proposed YWCA visit.",
+   "summary": "OMGUS considered Zarnack capable of interpreting Japanese democratic progress to German women and youth; the Combined Travel Board had no objection to validation.",
+   "keywords": [
+    "Hulda Zarnack",
+    "OMGUS",
+    "YWCA",
+    "Combined Travel Board"
+   ]
+  },
+  {
+   "title": "Instructions to Shanghai concerning Hulda Zarnack",
+   "doc_type": "outgoing telegram",
+   "start_page": 309,
+   "end_page": 309,
+   "continues_previous": false,
+   "date": "1947-10-21",
+   "from": "Department of State (Lovett)",
+   "to": "American Consul, Shanghai",
+   "about": "Permits validation of Zarnack's document if SCAP grants entry.",
+   "summary": "Shanghai should seek SCAP's decision directly or through Tokyo, with Berlin's favorable assessment supplied for context.",
+   "keywords": [
+    "Hulda Zarnack",
+    "Shanghai",
+    "SCAP clearance",
+    "travel document"
+   ]
+  },
+  {
+   "title": "Notification to SCAP concerning Hulda Zarnack",
+   "doc_type": "outgoing telegram",
+   "start_page": 310,
+   "end_page": 310,
+   "continues_previous": false,
+   "date": "1947-10-21",
+   "from": "Department of State (Lovett)",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "Relays Berlin's favorable assessment of Zarnack and notes that Shanghai was instructed to request entry permission.",
+   "summary": "SCAP receives OMGUS, USPOLAD, and Combined Travel Board views supporting Zarnack's YWCA visit.",
+   "keywords": [
+    "Hulda Zarnack",
+    "SCAP",
+    "OMGUS",
+    "YWCA"
+   ]
+  },
+  {
+   "title": "ITT request for permanent American personnel in Japan",
+   "doc_type": "corporate letter",
+   "start_page": 311,
+   "end_page": 313,
+   "continues_previous": false,
+   "date": "1947-10-20",
+   "from": "James E. Fullam",
+   "to": "Roswell Whitman",
+   "about": "Requests permission to station technical, legal, accounting, and manufacturing personnel at two Japanese subsidiaries.",
+   "summary": "Fullam argues that American managers could improve communications-equipment production, protect and recover ITT property, and assist occupation authorities. He proposes Clinton B. Allsopp, George J. Eder, C. A. Hayne, S. H. Larrabee, F. E. Samuels, A. C. Chisholm, and R. C. Keefer for specified posts.",
+   "keywords": [
+    "International Telephone and Telegraph",
+    "Nippon Electric",
+    "Sumitomo Electric",
+    "technical personnel",
+    "property restitution"
+   ]
+  },
+  {
+   "title": "Transmission of Goldman and Yanowitch approvals",
+   "doc_type": "office memorandum",
+   "start_page": 314,
+   "end_page": 314,
+   "continues_previous": false,
+   "date": "1947-10-22",
+   "from": "Ruth Shipley",
+   "to": "Edward Williams III",
+   "about": "Forwards Commerce certificates approving two alien businessmen for the November Japan-traders quota.",
+   "summary": "Commerce approvals are attached for Alfred Goldman and Isaak Yanowitch.",
+   "keywords": [
+    "Alfred Goldman",
+    "Isaak Yanowitch",
+    "traders quota",
+    "Commerce approval"
+   ]
+  },
+  {
+   "title": "Alfred Goldman application to visit Japan",
+   "doc_type": "travel application",
+   "start_page": 315,
+   "end_page": 316,
+   "continues_previous": false,
+   "date": "1947-08-18",
+   "from": "Alfred Goldman",
+   "to": "Departments of Commerce and State and SCAP",
+   "about": "Applies to visit Kobe, Yokohama, and Nagoya for import-export business.",
+   "summary": "Goldman identifies his New York agency, export product lines, and former Japanese offices, referring to an attached letter for his prewar history and detailed purpose.",
+   "keywords": [
+    "Alfred Goldman",
+    "import-export trade",
+    "Kobe",
+    "Yokohama",
+    "Nagoya"
+   ]
+  },
+  {
+   "title": "Alfred Goldman statement supporting Japan travel",
+   "doc_type": "letter of explanation",
+   "start_page": 317,
+   "end_page": 318,
+   "continues_previous": false,
+   "date": "1947-08-18",
+   "from": "Alfred Goldman",
+   "to": "To whom it may concern",
+   "about": "Explains Goldman's long Japanese business experience and plans to reopen offices and settle wartime claims.",
+   "summary": "Goldman managed J. Witkowski & Company in Japan, handling substantial international imports and exports before the war. He seeks to investigate confiscated stock, settle banking obligations, restore worldwide trade, and reopen Japanese offices linked to his New York business.",
+   "keywords": [
+    "Alfred Goldman",
+    "J. Witkowski & Company",
+    "wartime claims",
+    "Japan trade",
+    "office reopening"
+   ]
+  },
+  {
+   "title": "Speedletter concerning Alfred Goldman's permit",
+   "doc_type": "speedletter",
+   "start_page": 319,
+   "end_page": 319,
+   "continues_previous": false,
+   "date": "1947-11-03",
+   "from": "Walter F. Chappell",
+   "to": "Alfred Goldman",
+   "about": "Notifies Goldman of his Japan clearance and requests information needed to deliver the permit.",
+   "summary": "Goldman could enter November 16–30 for 21 days and was asked to visit Washington or provide passport and departure details.",
+   "keywords": [
+    "Alfred Goldman",
+    "military permit",
+    "entry window",
+    "passport details"
+   ]
+  },
+  {
+   "title": "Speedletter concerning Isaak Yanowitch's permit",
+   "doc_type": "speedletter",
+   "start_page": 320,
+   "end_page": 320,
+   "continues_previous": false,
+   "date": "1947-12-08",
+   "from": "Walter F. Chappell",
+   "to": "Isaak Yanowitch",
+   "about": "Notifies Yanowitch of his Japan clearance and requests information needed to deliver the permit.",
+   "summary": "Yanowitch could enter December 16–30 for 21 days and was asked to visit Washington or provide passport and departure details.",
+   "keywords": [
+    "Isaak Yanowitch",
+    "military permit",
+    "entry window",
+    "passport details"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-5.6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 7,
+  "pages": [
+   241,
+   320
+  ],
+  "pdf": "894.111 Regulations Governing %D0, Japan, Residence, Trade, Travel, And Foreign Courier Travel., January 29, 1947 - December 9, 1947 1607-part-2.pdf",
+  "seconds": 542.6,
+  "created": "2026-10-06 17:12:43",
+  "key": "japan-internal-affairs-894.111-regulations-governing-japan-8-part-2"
+ }
+}

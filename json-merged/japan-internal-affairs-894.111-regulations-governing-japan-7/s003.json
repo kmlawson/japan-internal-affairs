@@ -1,0 +1,949 @@
+{
+ "keywords": [
+  "SCAP Circular No. 8",
+  "travel control",
+  "entry permits",
+  "military permits",
+  "foreign interests in Japan",
+  "missionaries",
+  "repatriation",
+  "Russian Orthodox Church"
+ ],
+ "people": [
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army, Supreme Commander for the Allied Powers",
+   "variants": [
+    "GENERAL MACARTHUR",
+    "MacArthur",
+    "Ma Arthur",
+    "MacArtnur"
+   ]
+  },
+  {
+   "name": "Paul J. Mueller",
+   "role": "Major General, General Staff Corps, Chief of Staff",
+   "variants": [
+    "PAUL J. .UTLLTR",
+    "PAUL J. MUELLER"
+   ]
+  },
+  {
+   "name": "John B. Cooley",
+   "role": "Colonel, AGD, Adjutant General",
+   "variants": [
+    "John B. Cooley",
+    ". COOLTY"
+   ]
+  },
+  {
+   "name": "M. E. Wolberg",
+   "role": "Staff member, Special Projects Division, Department of State",
+   "variants": [
+    "Miss Wolberg",
+    "MEWolberg",
+    "Mmis oolherg",
+    "Mise Wolberg"
+   ]
+  },
+  {
+   "name": "L. Flickinger",
+   "role": "Staff member, Military Permit Secretariat, Joint Chiefs of Staff",
+   "variants": [
+    "L. Flickinger",
+    "Mrs. Flickinger",
+    "kre. Fliokinger"
+   ]
+  },
+  {
+   "name": "Sister St. Beatrice Foley",
+   "role": "Reverend Mother Superior, Drishane Convent",
+   "variants": [
+    "Sister St. Beatrice Foley",
+    "RJerend other Superior",
+    "Reverend Mother Superior",
+    "Feverend Motter Superior"
+   ]
+  },
+  {
+   "name": "Angela Fitzgerald",
+   "role": "Missionary Sister (Sister St. Enda), Sisters of Saint Maur",
+   "variants": [
+    "Sr. St. Enda",
+    "Angela Fitzgerald",
+    "angele Fitzgerald"
+   ]
+  },
+  {
+   "name": "Sheila O'Donoghue",
+   "role": "Missionary Sister (Sister St. Columba), Sisters of Saint Maur",
+   "variants": [
+    "Sr. St. Columba",
+    "Sheila O'Donoghue",
+    "Sheile O'Donoghue",
+    "Shella O'Donoghue"
+   ]
+  },
+  {
+   "name": "Eileen O'Keefe",
+   "role": "Missionary Sister (Sister St. Carmel), Sisters of Saint Maur",
+   "variants": [
+    "Sr. St. Carmel",
+    "Eileen O'Keefe"
+   ]
+  },
+  {
+   "name": "Catherine Fitzgerald",
+   "role": "Missionary Sister (Sister St. Senan), Sisters of Saint Maur",
+   "variants": [
+    "Sr. St. Senan",
+    "Catherine Fitzgerald"
+   ]
+  },
+  {
+   "name": "Maureen Roddy",
+   "role": "Missionary Sister (Sister St. Maureen), Sisters of Saint Maur",
+   "variants": [
+    "Sr. St. Maureen",
+    "Maureen Roddy",
+    "Maureen Reay"
+   ]
+  },
+  {
+   "name": "Joan Twomey",
+   "role": "Missionary Sister (Sister St. Joan of Arc), Sisters of Saint Maur",
+   "variants": [
+    "Joan Twomey",
+    "Sister St. Joan of Arc",
+    "Sister St. Jomn of Are (Jean Tromey)"
+   ]
+  },
+  {
+   "name": "John R. Millett",
+   "role": "Commander, USN, Military Secretary to the Joint Chiefs of Staff",
+   "variants": [
+    "Commander Millett",
+    "John R. Millett",
+    "Johm R. Millett",
+    "Commender Millett"
+   ]
+  },
+  {
+   "name": "Mr. Skentlberry",
+   "role": "Staff member, Irish Legation, Washington",
+   "variants": [
+    "Mr. Skentlberry"
+   ]
+  },
+  {
+   "name": "Mother St. Genevieve",
+   "role": "Mother Provincial for Japan, Sisters of Saint Maur",
+   "variants": [
+    "Mother St. Genevieve"
+   ]
+  },
+  {
+   "name": "Mr. Keogh",
+   "role": "Staff member, ES, Department of State",
+   "variants": [
+    "Mr. Keagh"
+   ]
+  },
+  {
+   "name": "Miss Jenkins",
+   "role": "Staff member, FC, Department of State",
+   "variants": [
+    "Miss Jenkins"
+   ]
+  },
+  {
+   "name": "Miss Flinn",
+   "role": "Staff member, Visa Division, Department of State",
+   "variants": [
+    "Miss Flinn"
+   ]
+  },
+  {
+   "name": "Albert E. Clattenburg, Jr.",
+   "role": "Chief, Special Projects Division, Department of State",
+   "variants": [
+    "Albert E. Clattenburg, Jr.",
+    "Albers E. attemburg, Jr."
+   ]
+  },
+  {
+   "name": "Mr. Meyer",
+   "role": "Staff member, Visa Division, Department of State",
+   "variants": [
+    "Mr. Meyer"
+   ]
+  },
+  {
+   "name": "Fernando Vincent",
+   "role": "Resident of Araraquara, Brazil",
+   "variants": [
+    "Fernando Vincent",
+    "Fernanue Vincent"
+   ]
+  },
+  {
+   "name": "Laura Bittencourt Nanjo",
+   "role": "Brazilian national married to former Japanese diplomat",
+   "variants": [
+    "Laura Bittencourt Nanjo",
+    "Mrs. Nanjo"
+   ]
+  },
+  {
+   "name": "Mr. Nanjo",
+   "role": "Former Japanese Vice Consul in Santos and Embassy official in Rio de Janeiro",
+   "variants": [
+    "Mr. Nanjo"
+   ]
+  },
+  {
+   "name": "Yone Nanjo",
+   "role": "Child of Laura Bittencourt Nanjo",
+   "variants": [
+    "Yone"
+   ]
+  },
+  {
+   "name": "Yuraji Nanjo",
+   "role": "Child of Laura Bittencourt Nanjo",
+   "variants": [
+    "Yuraji"
+   ]
+  },
+  {
+   "name": "Amano Nanjo",
+   "role": "Child of Laura Bittencourt Nanjo",
+   "variants": [
+    "Amane"
+   ]
+  },
+  {
+   "name": "Cecil M. P. Cross",
+   "role": "American Consul General, São Paulo, Brazil",
+   "variants": [
+    "Cecil M. P. Cross",
+    "CMPCross"
+   ]
+  },
+  {
+   "name": "J. H. Chapman",
+   "role": "Drafting officer, Special Projects Division, Department of State",
+   "variants": [
+    "JHChapman"
+   ]
+  },
+  {
+   "name": "Charles Albert Dubois",
+   "role": "Newly appointed Swiss Diplomatic Representative in Japan",
+   "variants": [
+    "Charles Albert Dupois",
+    "Mr. Dubois",
+    "Mr. Duvois"
+   ]
+  },
+  {
+   "name": "Eric Kessler",
+   "role": "Counselor of Swiss Legation, Washington",
+   "variants": [
+    "Eric Kessler"
+   ]
+  },
+  {
+   "name": "Paul R. Jolles",
+   "role": "Attaché, Swiss Legation, Washington",
+   "variants": [
+    "Paul R. Jolles"
+   ]
+  },
+  {
+   "name": "Hillis Lory",
+   "role": "Official, Division of Japanese Affairs, Department of State",
+   "variants": [
+    "Hillis Lory"
+   ]
+  },
+  {
+   "name": "Walter Bedell Smith",
+   "role": "United States Ambassador to the Soviet Union",
+   "variants": [
+    "SMITH"
+   ]
+  },
+  {
+   "name": "Metropolitan Sergei",
+   "role": "Russian Orthodox Metropolitan, head of the Russian Spiritual Mission in Tokyo",
+   "variants": [
+    "Metropolitan Sergei (Tichomirov)"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAFAN",
+    "Jap ",
+    "Japan",
+    "J pan",
+    "Jy n",
+    "JAPAN",
+    "Jepen",
+    "Jipan",
+    "Jaren",
+    "Jipen",
+    "Japen",
+    "Jepar",
+    "Japn",
+    "Jeon",
+    "Japeese",
+    "J a a",
+    "Jaoan",
+    "Japam"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "Uited States",
+    "America",
+    "The trited states",
+    "USA",
+    "Us"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo-Yokohama area",
+    "Tokyo",
+    "Radio Tokyo"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Tokyo-Yokohama area"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-Ohina"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sisebo",
+    "Sasebo",
+    "Radio Sasebo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WABHDNGTON. D.C.",
+    "Washington, D.C.",
+    "Washington",
+    "Weehington, D. C.",
+    "Waebingtem",
+    "Waskington, D.G.",
+    "Washington, D. G.",
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Millstreet",
+   "variants": [
+    "Willstreet",
+    "MILLSTREET",
+    "Millstreet",
+    "Millatrest",
+    "Millstrees",
+    "Milletreet"
+   ]
+  },
+  {
+   "name": "County Cork",
+   "variants": [
+    "Co. Cork",
+    "Có. Cork",
+    "County Cork",
+    "County Gexh",
+    "Cork"
+   ]
+  },
+  {
+   "name": "Drishane",
+   "variants": [
+    "Drishene Convent",
+    "DRISHANE CONVENT",
+    "Drishane Convent",
+    "Driobane Convent",
+    "Drishame Comvent"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "yoto"
+   ]
+  },
+  {
+   "name": "Ireland",
+   "variants": [
+    "Eire",
+    "Ireland",
+    "Treland",
+    "Irelamd",
+    "Italand"
+   ]
+  },
+  {
+   "name": "Cobh",
+   "variants": [
+    "Cobh"
+   ]
+  },
+  {
+   "name": "Den-en-chōfu",
+   "variants": [
+    "Futaba Denechoff"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "3ão Faulo",
+    "São au o",
+    "Sao Paulo",
+    "São Tuulo"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Braz il",
+    "Brasil",
+    "Bresil"
+   ]
+  },
+  {
+   "name": "Araraquara",
+   "variants": [
+    "raraquura",
+    "Araraquara"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de June iro",
+    "R1o ue Janeiro",
+    "Rio de Jane iro"
+   ]
+  },
+  {
+   "name": "Santos",
+   "variants": [
+    "santos",
+    "Santos",
+    "Santus"
+   ]
+  },
+  {
+   "name": "Setagaya",
+   "variants": [
+    "545 liakabayashi - Yachi Setagayaxei",
+    "545 Wakabayashi - Machi Setagayakei"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "Western Hemisphere"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "MSCOW",
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Vladivostok",
+   "variants": [
+    "Vladivostok"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  }
+ ],
+ "section_summary": "This section contains U.S. State Department and SCAP records concerning regulations and applications for entry and travel into and exit from occupied Japan between August 1946 and February 1947. Key items include SCAP Circular No. 8 governing travel procedures for individuals, aircraft, and surface vessels, along with related State Department instructions. The documents also cover individual entry and exit cases, including Irish missionary sisters, the repatriation of a Brazilian-Japanese family, Swiss diplomatic arrangements, and Soviet objections to the exclusion of an Orthodox Church representative.",
+ "subfiles": [
+  {
+   "about": "Circular instruction outlining State Department handling of entry applications to Japan for countries without representation in Tokyo.",
+   "continues_previous": false,
+   "date": "1947-01-17",
+   "doc_type": "circular instruction",
+   "end_page": 144,
+   "from": "Department of State",
+   "keywords": [
+    "Foreign Service Serial No. 667",
+    "entry permits",
+    "SCAP Circular No. 8",
+    "diplomatic channels"
+   ],
+   "start_page": 144,
+   "summary": "Transmits SCAP Circular No. 8 and explains that the Department will forward travel applications for unrepresented governments.",
+   "title": "Foreign Service Serial No. 667: Representation by the United States of Foreign Interests in Japan",
+   "to": "American Diplomatic and Consular Officers"
+  },
+  {
+   "about": "Internal routing memorandum transmitting SCAP Circular No. 8 regarding control of entry and exit for Japan.",
+   "continues_previous": false,
+   "date": "",
+   "doc_type": "memorandum",
+   "end_page": 145,
+   "from": "L. Flickinger",
+   "keywords": [
+    "memorandum",
+    "entry control",
+    "SCAP Circular No. 8",
+    "transmittal"
+   ],
+   "start_page": 145,
+   "summary": "Forwards SCAP Circular No. 8 concerning entry and exit control pursuant to a telephone conversation.",
+   "title": "Office Memorandum forwarding SCAP Circular No. 8",
+   "to": "Miss Wolberg"
+  },
+  {
+   "about": "Comprehensive SCAP regulations establishing procedures and clearance controls for individuals, aircraft, and maritime vessels entering and departing Japan.",
+   "continues_previous": false,
+   "date": "1946-08-30",
+   "doc_type": "circular",
+   "end_page": 154,
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "SCAP Circular No. 8",
+    "travel regulations",
+    "entry permits",
+    "Eighth Army",
+    "quarantine",
+    "customs",
+    "maritime control",
+    "aircraft control"
+   ],
+   "start_page": 146,
+   "summary": "This circular rescinds Circular 3 and establishes detailed entry and exit regulations for occupied Japan. It designates the Eighth Army, Commander Naval Activities Japan, and Pacific Air Command as implementing agencies for land, sea, and air controls. It details application procedures, documentation, customs, and health immunization requirements for civilian travelers, aircraft, and surface vessels.",
+   "title": "SCAP Circular No. 8: Control of Entry and Exit of Individuals, Aircraft and Surface Vessels Into and From Japan",
+   "to": "Implementing Agencies and Allied Commands"
+  },
+  {
+   "about": "Diplomatic note supporting an application for five Irish Sisters of Drishane Convent to enter Japan for educational and missionary work.",
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "doc_type": "diplomatic note",
+   "end_page": 155,
+   "from": "Irish Legation",
+   "keywords": [
+    "Irish Legation",
+    "missionaries",
+    "entry permits",
+    "Drishane Convent"
+   ],
+   "start_page": 155,
+   "summary": "Transmits and supports Drishane Convent's request for entry permits for five Irish missionary sisters traveling to Japan.",
+   "title": "Diplomatic Note requesting Entry Permits for Irish Missionary Sisters",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Application detailing the background, itinerary, and missionary assignment in Japan for five Catholic sisters of the Sisters of Saint Maur.",
+   "continues_previous": false,
+   "date": "1947-01-07",
+   "doc_type": "letter",
+   "end_page": 157,
+   "from": "Reverend Mother Superior, Drishane Convent",
+   "keywords": [
+    "Drishane Convent",
+    "missionary sisters",
+    "Sisters of Saint Maur",
+    "Joint Chiefs of Staff"
+   ],
+   "start_page": 156,
+   "summary": "Requests urgent entry permits for five sisters to teach in Japanese schools, attaching applicant particulars.",
+   "title": "Letter applying for Entry Permits for Five Missionary Sisters",
+   "to": "Joint Chiefs of Staff"
+  },
+  {
+   "about": "File memorandum summarizing coordination with the Irish Legation and Military Permit Secretariat regarding clearance for Irish sisters.",
+   "continues_previous": false,
+   "date": "1947-02-05",
+   "doc_type": "memorandum",
+   "end_page": 159,
+   "from": "M. E. Wolberg",
+   "keywords": [
+    "Special Projects Division",
+    "entry clearance",
+    "Military Permit Secretariat",
+    "Irish sisters"
+   ],
+   "start_page": 158,
+   "summary": "Records coordination with the Irish Legation regarding the addition of Joan Twomey, travel dates, health requirements, and housing assurances.",
+   "title": "Memorandum for the Files regarding Entry Applications for Irish Sisters",
+   "to": "Files"
+  },
+  {
+   "about": "File memorandum recording background clearance checks conducted within State Department divisions for six Irish sisters.",
+   "continues_previous": false,
+   "date": "1947-02-11",
+   "doc_type": "memorandum",
+   "end_page": 160,
+   "from": "M. E. Wolberg",
+   "keywords": [
+    "name checks",
+    "security screening",
+    "Irish sisters",
+    "Special Projects Division"
+   ],
+   "start_page": 160,
+   "summary": "Notes that background checks across State Department divisions revealed no derogatory information concerning the six Irish sisters.",
+   "title": "Memorandum for the Files regarding Name Checks on Irish Sisters",
+   "to": "Files"
+  },
+  {
+   "about": "Memorandum recording phone call from Mr. Skentlberry providing the Mother Provincial's address and confirmation of Irish nationality.",
+   "continues_previous": false,
+   "date": "1947-02-11",
+   "doc_type": "memorandum of conversation",
+   "end_page": 161,
+   "from": "M. E. Wolberg",
+   "keywords": [
+    "Irish Legation",
+    "Mother St. Genevieve",
+    "telephone conversation",
+    "entry permits"
+   ],
+   "start_page": 161,
+   "summary": "Records details from Mr. Skentlberry confirming Irish nationality, religious names, and Mother St. Genevieve's address in Tokyo.",
+   "title": "Memorandum of Telephone Conversation on Irish Sisters' Entry Details",
+   "to": "Files"
+  },
+  {
+   "about": "Official State Department request transmitting Irish Legation's application for six sisters to proceed to Japan.",
+   "continues_previous": false,
+   "date": "1947-02-12",
+   "doc_type": "letter",
+   "end_page": 163,
+   "from": "Albert E. Clattenburg, Jr., Chief, Special Projects Division",
+   "keywords": [
+    "Special Projects Division",
+    "Joint Chiefs of Staff",
+    "entry clearance",
+    "missionaries"
+   ],
+   "start_page": 162,
+   "summary": "Formally requests clearance from SCAP via the Joint Chiefs of Staff for six Irish sisters sailing February 21.",
+   "title": "Letter requesting Entry Clearance for Six Irish Sisters",
+   "to": "Commander John R. Millett, USN, Military Secretary to the Joint Chiefs of Staff"
+  },
+  {
+   "about": "Department of State reply regarding entry clearance and transit visa requirements for six Irish missionary sisters.",
+   "continues_previous": false,
+   "date": "1947-02-12",
+   "doc_type": "diplomatic note",
+   "end_page": 165,
+   "from": "Secretary of State",
+   "keywords": [
+    "diplomatic note",
+    "transit visas",
+    "Irish Legation",
+    "travel permits"
+   ],
+   "start_page": 164,
+   "summary": "Informs the Irish Minister that the permit inquiry was referred to military authorities and advises applying for transit visas.",
+   "title": "Diplomatic Note to Irish Minister regarding Travel to Japan",
+   "to": "Minister of Ireland"
+  },
+  {
+   "about": "Internal routing note discussing procedural routines for handling transit through the United States to occupied areas.",
+   "continues_previous": false,
+   "date": "1947-01-30",
+   "doc_type": "routing slip",
+   "end_page": 166,
+   "from": "SPA",
+   "keywords": [
+    "routing slip",
+    "transit procedure",
+    "Special Projects Division"
+   ],
+   "start_page": 166,
+   "summary": "Advises Miss Wolberg on procedural adjustments for handling transit travel through the United States to occupied territory.",
+   "title": "Handwritten Routing Note to Miss Wolberg",
+   "to": "Miss Wolberg"
+  },
+  {
+   "about": "Initial draft letter transmitting Irish Legation application for five sisters to the Joint Chiefs of Staff.",
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "doc_type": "draft letter",
+   "end_page": 167,
+   "from": "Albert E. Clattenburg, Jr., Chief, Special Projects Division",
+   "keywords": [
+    "draft letter",
+    "Military Permit Secretariat",
+    "entry permits"
+   ],
+   "start_page": 167,
+   "summary": "Earlier draft letter to Commander Millett concerning entry clearance for the initial group of five sisters.",
+   "title": "Draft Letter to Commander Millett regarding Irish Sisters",
+   "to": "Commander John R. Millett, USN"
+  },
+  {
+   "about": "Second draft letter to Commander Millett requesting military permit consideration for five Irish missionary sisters.",
+   "continues_previous": false,
+   "date": "1947-02-04",
+   "doc_type": "draft letter",
+   "end_page": 168,
+   "from": "Albert E. Clattenburg, Jr., Chief, Special Projects Division",
+   "keywords": [
+    "draft letter",
+    "inter-agency clearance",
+    "entry permits"
+   ],
+   "start_page": 168,
+   "summary": "Redrafted version of letter to Commander Millett incorporating visa division coordination prior to adding the sixth sister.",
+   "title": "Revised Draft Letter to Commander Millett regarding Irish Sisters",
+   "to": "Commander John R. Millett, USN"
+  },
+  {
+   "about": "Preliminary draft acknowledgment note to the Irish Legation concerning entry permission for five sisters.",
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "doc_type": "draft note",
+   "end_page": 169,
+   "from": "Secretary of State",
+   "keywords": [
+    "draft note",
+    "Irish Legation",
+    "acknowledgment"
+   ],
+   "start_page": 169,
+   "summary": "Early draft acknowledging the Irish Legation's note and stating that inquiries are being addressed to appropriate authorities.",
+   "title": "Draft Note to Minister of Ireland",
+   "to": "Minister of Ireland"
+  },
+  {
+   "about": "Form designating an attached copy of Despatch No. 58 from São Paulo as the permanent central record copy.",
+   "continues_previous": false,
+   "date": "1947-10-08",
+   "doc_type": "form",
+   "end_page": 170,
+   "from": "Division of Communications and Records (DC/R)",
+   "keywords": [
+    "record copy",
+    "file form",
+    "DC/R"
+   ],
+   "start_page": 170,
+   "summary": "Administrative form designating attached despatch copy as official record copy replacing missing action copy.",
+   "title": "Record Copy Replacement Form for Despatch No. 58",
+   "to": "Central Files"
+  },
+  {
+   "about": "Inquiry reporting Fernando Vincent's request to assist his cousin Laura Bittencourt Nanjo and children in leaving Japan for Brazil.",
+   "continues_previous": false,
+   "date": "1947-01-21",
+   "doc_type": "despatch",
+   "end_page": 171,
+   "from": "Cecil M. P. Cross, American Consul General, São Paulo",
+   "keywords": [
+    "São Paulo",
+    "repatriation",
+    "exit permits",
+    "Laura Bittencourt Nanjo"
+   ],
+   "start_page": 171,
+   "summary": "Reports inquiry regarding exit permissions and Brazilian return for Laura Bittencourt Nanjo and her three children.",
+   "title": "Despatch No. 58: Case of Laura Bittencourt Nanjo (Record Copy)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "State Department instruction outlining prerequisites for assisting Mrs. Nanjo and children in returning to Brazil.",
+   "continues_previous": false,
+   "date": "1947-02-17",
+   "doc_type": "instruction",
+   "end_page": 172,
+   "from": "Secretary of State",
+   "keywords": [
+    "instruction",
+    "repatriation conditions",
+    "consular guidance"
+   ],
+   "start_page": 172,
+   "summary": "Specifies conditions for repatriation from Japan, including security clearance, Brazilian government assent, and pre-arranged travel funds.",
+   "title": "Instruction to São Paulo Consulate General on Case of Laura Bittencourt Nanjo",
+   "to": "American Consular Officer in Charge, São Paulo"
+  },
+  {
+   "about": "Fragmentary internal routing slip concerning the Nanjo case file.",
+   "continues_previous": false,
+   "date": "",
+   "doc_type": "routing slip",
+   "end_page": 173,
+   "from": "JAC",
+   "keywords": [
+    "routing slip",
+    "case file"
+   ],
+   "start_page": 173,
+   "summary": "Brief routing slip attached to case papers.",
+   "title": "Routing Slip on Nanjo Case",
+   "to": "Unspecified"
+  },
+  {
+   "about": "Original action copy of Despatch No. 58 concerning Fernando Vincent's inquiry regarding Laura Bittencourt Nanjo.",
+   "continues_previous": false,
+   "date": "1947-01-21",
+   "doc_type": "despatch",
+   "end_page": 174,
+   "from": "Cecil M. P. Cross, American Consul General, São Paulo",
+   "keywords": [
+    "São Paulo",
+    "despatch",
+    "exit clearance",
+    "Laura Bittencourt Nanjo"
+   ],
+   "start_page": 174,
+   "summary": "Original action copy reporting inquiry regarding exit and Brazilian re-entry for Laura Bittencourt Nanjo and children.",
+   "title": "Despatch No. 58: Case of Laura Bittencourt Nanjo (Action Copy)",
+   "to": "Secretary of State"
+  },
+  {
+   "about": "Record of discussions with Swiss diplomats regarding travel permits, exit visas, transit procedures, and SCAP supply policies in Tokyo.",
+   "continues_previous": false,
+   "date": "1947-01-22",
+   "doc_type": "memorandum of conversation",
+   "end_page": 175,
+   "from": "Hillis Lory, Division of Japanese Affairs",
+   "keywords": [
+    "Swiss Legation",
+    "diplomatic travel",
+    "SCAP supplies",
+    "transit visas"
+   ],
+   "start_page": 175,
+   "summary": "Summarizes discussion with Swiss representatives concerning travel permits, transit visa procedures, and SCAP policies on mission supplies.",
+   "title": "Memorandum of Conversation on Swiss Diplomatic Travel and Supplies",
+   "to": "Department of State"
+  },
+  {
+   "about": "Reporting Soviet press report in Izvestia protesting SCAP's refusal of an entry permit to a representative of the Moscow Patriarchate.",
+   "continues_previous": false,
+   "date": "1947-01-28",
+   "doc_type": "telegram",
+   "end_page": 177,
+   "from": "Walter Bedell Smith, American Embassy, Moscow",
+   "keywords": [
+    "Moscow Patriarchate",
+    "Izvestia",
+    "entry refusal",
+    "Russian Orthodox Church",
+    "SCAP"
+   ],
+   "start_page": 176,
+   "summary": "Transmits Izvestia article criticizing SCAP for denying an entry permit to a Moscow Patriarchate representative and requesting an American bishop instead.",
+   "title": "Telegram No. 216: Soviet Protest on Entry Refusal for Moscow Patriarchate",
+   "to": "Secretary of State"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 102260,
+   "output_tokens": 156715,
+   "thinking_tokens": 150734,
+   "cache_read_tokens": 0,
+   "total_tokens": 258975
+  },
+  "backend": "agy",
+  "section": 3,
+  "sections": 3,
+  "pages": [
+   144,
+   177
+  ],
+  "pdf": "894.111 Regulations Governing %D0, Japan, Residence, Trade, Travel, And Foreign Courier Travel., March 27, 1946 - January 28, 1947 1558.pdf",
+  "seconds": 1145.9,
+  "created": "2026-10-06 21:11:02",
+  "key": "japan-internal-affairs-894.111-regulations-governing-japan-7"
+ }
+}
