@@ -1,0 +1,937 @@
+{
+ "section_summary": "This section contains translated Japanese commercial messages intercepted at Chungking, together with three U.S. Embassy cover despatches. The messages concern wartime trade with Indochina and other occupied territories: permits and quotas, barter, rice and other commodities, shipping, insurance, finance, and industrial projects. The section begins and ends within enclosures that continue outside these pages.",
+ "places": [
+  {
+   "name": "Amoy (Xiamen)",
+   "variants": [
+    "Amoy"
+   ]
+  },
+  {
+   "name": "Annam",
+   "variants": [
+    "Annem"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Battambang",
+   "variants": [
+    "Battambang"
+   ]
+  },
+  {
+   "name": "Burma (Myanmar)",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Cambodia",
+   "variants": [
+    "Cambodia"
+   ]
+  },
+  {
+   "name": "Cam Ranh Bay",
+   "variants": [
+    "Gamuranwan",
+    "Cam-ranh Bay"
+   ]
+  },
+  {
+   "name": "Canton (Guangzhou)",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Cholon",
+   "variants": [
+    "Cholon"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "north China",
+    "north Chine",
+    "central and south Chine"
+   ]
+  },
+  {
+   "name": "Cochinchina",
+   "variants": [
+    "Cochin-China"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Fort-Bayard (Zhanjiang)",
+   "variants": [
+    "Fortbayard",
+    "Fordband"
+   ]
+  },
+  {
+   "name": "Formosa (Taiwan)",
+   "variants": [
+    "Formosa",
+    "Formosan"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "cifu"
+   ]
+  },
+  {
+   "name": "Haiphong",
+   "variants": [
+    "Haiphong",
+    "Heiphong",
+    "\"aiphong"
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan",
+    "Hainam",
+    "Hainan Island"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi",
+    "Hano1",
+    "Fanoi",
+    "Wanoi",
+    "anoi",
+    "Vanoi",
+    "Tamoi"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong",
+    "Honkong",
+    "Hongkone",
+    "Hong Kong",
+    "Hon kong"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indochina",
+    "Indoohina",
+    "Inde chime",
+    "F.I.C.",
+    "F.I.C",
+    "Futsuin",
+    "north Indochina",
+    "northern part of F.I.C."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "home land"
+   ]
+  },
+  {
+   "name": "Keijō (Seoul)",
+   "variants": [
+    "Keijo",
+    "Keijye",
+    "Heijo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kowloon",
+   "variants": [
+    "Kowloon"
+   ]
+  },
+  {
+   "name": "Lagi",
+   "variants": [
+    "Lagi"
+   ]
+  },
+  {
+   "name": "Macau",
+   "variants": [
+    "Macao"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Marseille",
+   "variants": [
+    "Marseille",
+    "Harseille"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagoye",
+    "Nagoys"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osake",
+    "Osakn"
+   ]
+  },
+  {
+   "name": "Peking (Beijing)",
+   "variants": [
+    "pekin"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Saigon (Ho Chi Minh City)",
+   "variants": [
+    "Saigon",
+    "Sairon",
+    "Saison",
+    "Saigen",
+    "Seigon",
+    "Saigom",
+    "Saicon",
+    "Sairon",
+    "smigon"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shanghei",
+    "Shenrhei"
+   ]
+  },
+  {
+   "name": "Shōnan (Singapore)",
+   "variants": [
+    "Shonan",
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Taihoku (Taipei)",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Thai"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tekyo",
+    "Fokyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Agui",
+   "role": "Sender of a motor-car permit telegram",
+   "variants": [
+    "Agui"
+   ]
+  },
+  {
+   "name": "Amano",
+   "role": "Proposed assistant to a Japan–Indochina committee",
+   "variants": [
+    "Mr. Amano"
+   ]
+  },
+  {
+   "name": "Aneha",
+   "role": "Sender of a Bangkok telegram",
+   "variants": [
+    "Aneha"
+   ]
+  },
+  {
+   "name": "Bannerjee",
+   "role": "Sender of a commercial telegram",
+   "variants": [
+    "Bannerjee"
+   ]
+  },
+  {
+   "name": "Ferber",
+   "role": "Sender of German-language telegrams",
+   "variants": [
+    "Ferber"
+   ]
+  },
+  {
+   "name": "Finel",
+   "role": "Sender of a French-language telegram",
+   "variants": [
+    "Finel"
+   ]
+  },
+  {
+   "name": "Fujita",
+   "role": "Commercial contact reported to have arrived in Saigon",
+   "variants": [
+    "Mr. Fujita"
+   ]
+  },
+  {
+   "name": "Futakami Jiro",
+   "role": "Mitsui addressee in Shanghai",
+   "variants": [
+    "Mr. Futakami Jiro"
+   ]
+  },
+  {
+   "name": "C. E. Gauss",
+   "role": "U.S. Embassy despatch signatory",
+   "variants": [
+    "C. E. Gauss"
+   ]
+  },
+  {
+   "name": "Goto Tomoharu",
+   "role": "Insured person seeking payment",
+   "variants": [
+    "Mr. Goto Tomoharu"
+   ]
+  },
+  {
+   "name": "Harano",
+   "role": "Commercial contact",
+   "variants": [
+    "Ir. Harano"
+   ]
+  },
+  {
+   "name": "Harikae Yotaka",
+   "role": "Sender of a Bangkok telegram",
+   "variants": [
+    "Harikae Yotaka"
+   ]
+  },
+  {
+   "name": "Hata",
+   "role": "Sender of a warehouse finance telegram",
+   "variants": [
+    "Hata"
+   ]
+  },
+  {
+   "name": "Hino",
+   "role": "Sender of a shipbuilding telegram",
+   "variants": [
+    "Hino"
+   ]
+  },
+  {
+   "name": "Horikoshi",
+   "role": "Sender proposing a food-production venture",
+   "variants": [
+    "Horikoshi"
+   ]
+  },
+  {
+   "name": "Ibori",
+   "role": "Contact for an insurance claim",
+   "variants": [
+    "Mr. Ibori"
+   ]
+  },
+  {
+   "name": "Ikeda",
+   "role": "Mitsui contact involved in trade and lumber negotiations",
+   "variants": [
+    "Mr. Iketa",
+    "Mr. Ikeda"
+   ]
+  },
+  {
+   "name": "Iketaka",
+   "role": "Participant in a lumber-contract dispute",
+   "variants": [
+    "Mr. Iketaka"
+   ]
+  },
+  {
+   "name": "Imahaguchi",
+   "role": "Person whose position is queried",
+   "variants": [
+    "Imahaguchi"
+   ]
+  },
+  {
+   "name": "Ishida",
+   "role": "Adviser on rice-mill supervision",
+   "variants": [
+    "Mr. Ishida"
+   ]
+  },
+  {
+   "name": "Isoda",
+   "role": "Sender requesting official travel to Shōnan",
+   "variants": [
+    "Isoda"
+   ]
+  },
+  {
+   "name": "Itoi",
+   "role": "Sender of a permit telegram",
+   "variants": [
+    "Itoi"
+   ]
+  },
+  {
+   "name": "Iwai",
+   "role": "Commercial telegram signatory",
+   "variants": [
+    "Iwai"
+   ]
+  },
+  {
+   "name": "Kanechika",
+   "role": "Requester of a commemorative essay",
+   "variants": [
+    "Kanechika"
+   ]
+  },
+  {
+   "name": "Kato Okizo",
+   "role": "Person proposed for consultation on hemp-bag production",
+   "variants": [
+    "Mr. Kato Ckizo"
+   ]
+  },
+  {
+   "name": "Kawamura",
+   "role": "Consulted on a sawmill matter",
+   "variants": [
+    "Iir. Kawamura"
+   ]
+  },
+  {
+   "name": "Kikumoto Kiyokichi",
+   "role": "Commercial telegram addressee",
+   "variants": [
+    "Kiyokichi Kikumoto"
+   ]
+  },
+  {
+   "name": "Kim Me",
+   "role": "Sender requesting warehouse staff",
+   "variants": [
+    "Kim Me"
+   ]
+  },
+  {
+   "name": "Kiribara",
+   "role": "Sender requesting payment and a pine-resin permit",
+   "variants": [
+    "Kiribara"
+   ]
+  },
+  {
+   "name": "Kobayashi Ryo",
+   "role": "Sender of a Canton telegram",
+   "variants": [
+    "Kobayashiryo"
+   ]
+  },
+  {
+   "name": "Mab utani Yoko",
+   "role": "Commercial telegram addressee",
+   "variants": [
+    "Mabutani Yoko"
+   ]
+  },
+  {
+   "name": "Masuda",
+   "role": "Sender seeking trade and export information",
+   "variants": [
+    "Masuda"
+   ]
+  },
+  {
+   "name": "Mitaori",
+   "role": "Commercial contact",
+   "variants": [
+    "Fr. Mitaori"
+   ]
+  },
+  {
+   "name": "Miyata",
+   "role": "Sender asking where to send freight funds",
+   "variants": [
+    "Miyata"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "role": "Sender of a merchandise-quota telegram",
+   "variants": [
+    "Morioka"
+   ]
+  },
+  {
+   "name": "Murai",
+   "role": "Sender discussing grain freight rates",
+   "variants": [
+    "Murai"
+   ]
+  },
+  {
+   "name": "Nakazawa Isamu",
+   "role": "Yokohama Trade Association employee and prospective food-business partner",
+   "variants": [
+    "Mr. Nakazawa Isamu",
+    "Nakazawa"
+   ]
+  },
+  {
+   "name": "Ngaivising",
+   "role": "Sender requesting a family remittance",
+   "variants": [
+    "Ngaivising"
+   ]
+  },
+  {
+   "name": "Nikkamatsuda",
+   "role": "Recipient of an advance",
+   "variants": [
+    "Mr. Nikkamatsuda"
+   ]
+  },
+  {
+   "name": "Ogoshi",
+   "role": "Commercial contact on wood and leather projects",
+   "variants": [
+    "Mr. Ogoshi"
+   ]
+  },
+  {
+   "name": "Omachi",
+   "role": "Person arranging a ship",
+   "variants": [
+    "Mr. Omachi"
+   ]
+  },
+  {
+   "name": "Ozaki",
+   "role": "Commercial telegram addressee",
+   "variants": [
+    "Ozaki"
+   ]
+  },
+  {
+   "name": "Saito",
+   "role": "Sender of a Tokyo telegram",
+   "variants": [
+    "Saito"
+   ]
+  },
+  {
+   "name": "Saito Yamami",
+   "role": "Shipbuilding contact",
+   "variants": [
+    "Mr. Yamami Saito"
+   ]
+  },
+  {
+   "name": "Sajima",
+   "role": "Section chief",
+   "variants": [
+    "Mr. Sajima"
+   ]
+  },
+  {
+   "name": "Sakabe",
+   "role": "Participant in a lumber-contract dispute",
+   "variants": [
+    "Mr. Sakabe"
+   ]
+  },
+  {
+   "name": "Sakagami",
+   "role": "Sender of textile and agave telegrams",
+   "variants": [
+    "Sakagami"
+   ]
+  },
+  {
+   "name": "Sakuradayoshi",
+   "role": "Commercial telegram addressee",
+   "variants": [
+    "Mr. Sakauradayoshi"
+   ]
+  },
+  {
+   "name": "Sasaki Satoru",
+   "role": "Imperial Marine Insurance addressee",
+   "variants": [
+    "Sasaki Satoru",
+    "Sasakisatoru"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "role": "Sender seeking commodity prices and quantities",
+   "variants": [
+    "Shibata"
+   ]
+  },
+  {
+   "name": "Shinriki",
+   "role": "Sender seeking tobacco machinery",
+   "variants": [
+    "Shinriki"
+   ]
+  },
+  {
+   "name": "Shizukuishi",
+   "role": "Travel-association addressee in Hanoi",
+   "variants": [
+    "Mr. Sizukuisi"
+   ]
+  },
+  {
+   "name": "Sugine Kasu",
+   "role": "Cotton-cultivation engineer",
+   "variants": [
+    "Mr. Sugine Kasu"
+   ]
+  },
+  {
+   "name": "Takeda",
+   "role": "Nichiman representative consulted on a mica project",
+   "variants": [
+    "Mr. Takeda"
+   ]
+  },
+  {
+   "name": "Takemura",
+   "role": "Sender of a textile trade telegram",
+   "variants": [
+    "Takemura"
+   ]
+  },
+  {
+   "name": "Tozaki",
+   "role": "Sender concerning cotton towels and barter",
+   "variants": [
+    "Tozaki"
+   ]
+  },
+  {
+   "name": "Tsutsumi",
+   "role": "Director of Dykes",
+   "variants": [
+    "Tsutsumi Jomu"
+   ]
+  },
+  {
+   "name": "Watanabe",
+   "role": "Mataichi telegram addressee",
+   "variants": [
+    "Watanabe"
+   ]
+  },
+  {
+   "name": "Yajima",
+   "role": "Contact in Shōnan",
+   "variants": [
+    "Mr. Yajima"
+   ]
+  },
+  {
+   "name": "Yamane",
+   "role": "Person expected to help establish a Japan–Indochina committee",
+   "variants": [
+    "Mr. Yanane"
+   ]
+  },
+  {
+   "name": "Yanagi Eijiro",
+   "role": "Sender proposing investment in food production",
+   "variants": [
+    "Eijiro Yanagi"
+   ]
+  },
+  {
+   "name": "Yokowi Taro",
+   "role": "Telegram addressee in Hanoi",
+   "variants": [
+    "Taro Yokowi"
+   ]
+  },
+  {
+   "name": "Yo",
+   "role": "Visitor involved in tobacco-trade arrangements",
+   "variants": [
+    "Mr. Yo"
+   ]
+  },
+  {
+   "name": "Yoshioka",
+   "role": "Person responsible for beef shipments",
+   "variants": [
+    "Mr. Yoshioka"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese commercial intercepts",
+  "Office of War Information",
+  "Indochina trade",
+  "import and export permits",
+  "barter",
+  "rice",
+  "shipping",
+  "marine insurance",
+  "wartime finance",
+  "lumber",
+  "cotton and textiles",
+  "opium"
+ ],
+ "subfiles": [
+  {
+   "title": "Translations of Japanese commercial messages, October 1943 (continued)",
+   "doc_type": "enclosure of intercepted telegram translations",
+   "start_page": 332,
+   "end_page": 337,
+   "continues_previous": true,
+   "date": "",
+   "from": "China Division, Office of War Information",
+   "to": "U.S. Embassy, Chungking",
+   "about": "Commercial intercepts report trading arrangements, permits, shipping, production, and finance across Japan, Indochina, and China.",
+   "summary": "The end of an earlier enclosure contains messages chiefly from October 29–30, 1943. Firms discuss rice bags, lumber, raw silk, hides, rubber barter, rope production, agricultural seed, and credit or remittance problems. Several messages seek urgent permits, shipping space, or approval from company offices and authorities.",
+   "keywords": [
+    "commercial telegrams",
+    "Indochina",
+    "lumber",
+    "rice bags",
+    "raw silk",
+    "barter",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Despatch No. 1825: Japanese Commercial Messages Intercepted at Chungking",
+   "doc_type": "embassy despatch cover letter",
+   "start_page": 338,
+   "end_page": 338,
+   "continues_previous": false,
+   "date": "1943-11-17",
+   "from": "C. E. Gauss, U.S. Embassy, Chungking",
+   "to": "Secretary of State, Washington, D.C.",
+   "about": "The Embassy forwards translations of intercepted Japanese commercial messages from November 1–12.",
+   "summary": "Forwards Office of War Information translations of Japanese commercial messages intercepted November 1–12, 1943.",
+   "keywords": [
+    "embassy despatch",
+    "OWI",
+    "Japanese commercial intercepts"
+   ]
+  },
+  {
+   "title": "Enclosure to Despatch No. 1825: Messages of November 1–12, 1943",
+   "doc_type": "enclosure of intercepted telegram translations",
+   "start_page": 339,
+   "end_page": 364,
+   "continues_previous": false,
+   "date": "1943-11-17",
+   "from": "China Division, Office of War Information",
+   "to": "U.S. Embassy, Chungking; Department of State",
+   "about": "The enclosure translates commercial messages intercepted during November 1–12, 1943.",
+   "summary": "The messages document Japanese firms’ efforts to obtain quotas, permits, credit, insurance, and scarce shipping space for trade involving Indochina, China, Japan, and other occupied areas. Repeated subjects include rice and rice bags, timber and sawmills, textiles, hides, pepper, medicines, and industrial equipment. They also describe agricultural projects, freight and warehouse costs, shipping losses, and changing trade controls.",
+   "keywords": [
+    "intercepted telegrams",
+    "trade permits",
+    "rice",
+    "lumber",
+    "shipping",
+    "insurance",
+    "textiles",
+    "agriculture"
+   ]
+  },
+  {
+   "title": "Despatch No. 1857: Japanese Commercial Messages Intercepted at Chungking",
+   "doc_type": "embassy despatch cover letter",
+   "start_page": 365,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "1943-11-23",
+   "from": "C. E. Gauss, U.S. Embassy, Chungking",
+   "to": "Secretary of State, Washington, D.C.",
+   "about": "The Embassy forwards translations of intercepted Japanese commercial messages from November 13–18.",
+   "summary": "Forwards Office of War Information translations of messages intercepted November 13–18, 1943.",
+   "keywords": [
+    "embassy despatch",
+    "OWI",
+    "Japanese commercial intercepts"
+   ]
+  },
+  {
+   "title": "Enclosure to Despatch No. 1857: Messages of November 13–18, 1943",
+   "doc_type": "enclosure of intercepted telegram translations",
+   "start_page": 366,
+   "end_page": 377,
+   "continues_previous": false,
+   "date": "1943-11-23",
+   "from": "China Division, Office of War Information",
+   "to": "U.S. Embassy, Chungking; Department of State",
+   "about": "The enclosure translates commercial messages intercepted during November 13–18, 1943.",
+   "summary": "These messages cover company qualifications under trade controls, commodity quotas, banking and insurance, and transport and warehouse costs. They include arrangements for cotton, rayon, kapok, sugar, Chinese medicines, opium, machinery, leather, and food production. Several messages address barter with Indochina, delayed shipping, and proposed industrial investments.",
+   "keywords": [
+    "intercepted telegrams",
+    "trade controls",
+    "barter",
+    "opium",
+    "textiles",
+    "insurance",
+    "industrial investment"
+   ]
+  },
+  {
+   "title": "Despatch No. 1874: Japanese Commercial Messages Intercepted at Chungking",
+   "doc_type": "embassy despatch cover letter",
+   "start_page": 378,
+   "end_page": 378,
+   "continues_previous": false,
+   "date": "1943-12-01",
+   "from": "C. E. Gauss, U.S. Embassy, Chungking",
+   "to": "Secretary of State, Washington, D.C.",
+   "about": "The Embassy forwards translations of intercepted Japanese commercial messages from November 19–24.",
+   "summary": "Forwards Office of War Information translations of messages intercepted November 19–24, 1943.",
+   "keywords": [
+    "embassy despatch",
+    "OWI",
+    "Japanese commercial intercepts"
+   ]
+  },
+  {
+   "title": "Enclosure to Despatch No. 1874: Messages of November 19–24, 1943 (opening)",
+   "doc_type": "enclosure of intercepted telegram translations",
+   "start_page": 379,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1943-12-01",
+   "from": "China Division, Office of War Information",
+   "to": "U.S. Embassy, Chungking; Department of State",
+   "about": "The opening page translates November 19 messages on pepper resale, lumber, trade allotments, and pearls.",
+   "summary": "Opening messages concern black-pepper losses, a disputed lumber contract, textile trade allotments, and cultured-pearl orders.",
+   "keywords": [
+    "intercepted telegrams",
+    "black pepper",
+    "lumber",
+    "trade allotments",
+    "cultured pearls"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 7,
+  "sections": 8,
+  "pages": [
+   332,
+   379
+  ],
+  "pdf": "894.50 Japan, Economic Matters., July 28, 1943 - February 18, 1944 1415-part-1.pdf",
+  "seconds": 62.1,
+  "created": "2026-10-08 14:06:40",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-13-part-1"
+ }
+}

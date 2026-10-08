@@ -1,0 +1,832 @@
+{
+ "section_summary": "This section contains the end of a translated proposal for dispersing Japanese industry, followed by four translated Japanese periodical articles enclosed with an American Embassy despatch from Chungking. The articles discuss cabinet policy and wartime production, the resources of North China, Japan’s industrial and transport problems, and the mobilization of women and students for labor. The final article continues beyond page 141.",
+ "places": [
+  {
+   "name": "Chongqing",
+   "variants": [
+    "CHUNGKING",
+    "CHUGKING",
+    "CHUNGAING",
+    "CHUNGRING",
+    "CHUGHING",
+    "CHUNOKING",
+    "C.LUHGKING",
+    "CXUNGKIWG",
+    "Changking"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPA",
+    "JAPAN",
+    "JAFAN",
+    "JAT :N",
+    "JAF AN",
+    "JAIAW",
+    "JAPAn",
+    "Japen",
+    "Imperial NIPPON",
+    "Imperial IProy"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "TOKY0",
+    "TOXYO",
+    "Tokyo",
+    "TokYo",
+    "TorYo",
+    "Tolo",
+    "Pokyo",
+    "OhYo"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "CHINA",
+    "CHI.A",
+    "CHIM:",
+    "CHIMA",
+    "CHIvA",
+    "CHIV:",
+    "CHIWA",
+    "CHIyA",
+    "CHTNA",
+    "CHT\"",
+    "HINA",
+    "ChINAs"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "NORTH CHINA",
+    "NORTH CHIVA",
+    "NORTH CHIYA",
+    "MORTH CHINA",
+    "NOkTH CHINA",
+    "TORTH CHINA",
+    "VO Ty HT IA",
+    "NOsTil CHINA",
+    "WORTH CHIMA",
+    "VORT\" CHI 1A"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "CENTRAL CHINA",
+    "CENTRAL and cOUTH CHINA",
+    "CEwrmAL CTWA",
+    "CVTRAJ."
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "SOUTH CHINA",
+    "BOUTH CHINA",
+    "OUTH CHINA",
+    "BOUTH EA. ISLAND",
+    "OUTh CHINA"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "MANCHURIA",
+    "nhCHunIA",
+    "VANCHU-IA",
+    "MANCHU-Kuo"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "KORLA",
+    "KOhEA",
+    "Korean"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "NANkING",
+    "MAnkInG"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "SHAnGHAI"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "AMERICA",
+    "AlkICA",
+    "AMikTCA",
+    "AMehIC&",
+    "AiMERICA",
+    "UnIrs) Tats",
+    "\"..A."
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "CAYADA",
+    "CAVwA"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "GREAT BRITAIY",
+    "GnaT BnI aI",
+    "BRiTAL",
+    "ENGLAND"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "GERMANY",
+    "G ANY"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "SOV IET .JSS14",
+    "SoV IET RUSSIA",
+    "sov InT nUs IA",
+    "USSIA",
+    "RUSSIA"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "EUtors",
+    "TESTERY SUNOPE"
+   ]
+  },
+  {
+   "name": "Eastern North America",
+   "variants": [
+    "EA TERN NON TH AMERICA"
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "Greater sast asia",
+    "GREATER EAST ASIA",
+    "GhEaTEn EAsT ASIA"
+   ]
+  },
+  {
+   "name": "Southern Regions",
+   "variants": [
+    "Southern Regions"
+   ]
+  },
+  {
+   "name": "Hokuriku",
+   "variants": [
+    "HOKUIKU JOgion",
+    "北 陸 地 方"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "IIGATA"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "ISHIKAA",
+    "石"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "福井"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "NAGA",
+    "長野"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "近地方"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "滋賀"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "京都"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "大阪",
+    "O AKA",
+    "OSaka",
+    "veakA",
+    "Oarm"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "兵庫"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "秦良"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "和歌山"
+   ]
+  },
+  {
+   "name": "Chugoku region",
+   "variants": [
+    "中地方"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "鸟取"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "岛根"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "廣"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "山"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "德岛"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "香川"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "高知"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "愛爱"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "九地方",
+    "nUsHU",
+    "nYuSiU",
+    "KITA AYUH"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "福岡"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "佑賀"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "長崎"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "熊本"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "大分"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "鹿兒島"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "冲繩"
+   ]
+  },
+  {
+   "name": "Shiodome",
+   "variants": [
+    "SHIoTAME",
+    "汐 留"
+   ]
+  },
+  {
+   "name": "Shinjuku",
+   "variants": [
+    "SHINJ IKU",
+    "新 宿"
+   ]
+  },
+  {
+   "name": "Iidabashi",
+   "variants": [
+    "IIDABASH I",
+    "飯田 橋"
+   ]
+  },
+  {
+   "name": "Tokaido",
+   "variants": [
+    "TOkAIDo",
+    "東 海 道"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "YAMAGUCHI"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "KanTo"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "AGOYA"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOrOHAMA"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "RCBS"
+   ]
+  },
+  {
+   "name": "Tohoku",
+   "variants": [
+    "roHoku",
+    "東 北"
+   ]
+  },
+  {
+   "name": "Liaoning",
+   "variants": [
+    "LIAOTNG"
+   ]
+  },
+  {
+   "name": "Chahar",
+   "variants": [
+    "CHAAR"
+   ]
+  },
+  {
+   "name": "Shanxi",
+   "variants": [
+    "HATI",
+    "-Hv3I",
+    "Si3I"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "HofEI",
+    "HCTEI"
+   ]
+  },
+  {
+   "name": "Huang He",
+   "variants": [
+    "HaaNGHO"
+   ]
+  },
+  {
+   "name": "Huai He",
+   "variants": [
+    "HsALlO"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "YUTHO"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Chen",
+   "role": "Typist",
+   "variants": [
+    "ozet i, Chcn",
+    "szetu, Chen"
+   ]
+  },
+  {
+   "name": "Jean Wang",
+   "role": "Translator for F.E.A.",
+   "variants": [
+    "JEAN WANG",
+    "JLAN WANG"
+   ]
+  },
+  {
+   "name": "Royama Masamichi",
+   "role": "Symposium participant",
+   "variants": [
+    "ROYAMA MASAMICHI",
+    "RoYAMA",
+    "OYAMA"
+   ]
+  },
+  {
+   "name": "Komigiwa Ritoku",
+   "role": "Symposium participant",
+   "variants": [
+    "KOMIG IWA RITOKU",
+    "Ko. liIv4",
+    "KOIGIwA"
+   ]
+  },
+  {
+   "name": "Tsukui Tatsuo",
+   "role": "Symposium participant",
+   "variants": [
+    "TSUKUI TATSUO",
+    "TSJKUI",
+    "TsJui"
+   ]
+  },
+  {
+   "name": "Nakajima Yadanji",
+   "role": "Member of Parliament and symposium participant",
+   "variants": [
+    "NAKAJ DMA YADANJI",
+    "NAKA IMA",
+    "NAKAJ MA",
+    "NAld DiA",
+    "NAJLMA",
+    "NAKAJ IMA",
+    "NAKAJDiA",
+    "NAKAc EfA"
+   ]
+  },
+  {
+   "name": "Kono Mitsu",
+   "role": "Symposium participant",
+   "variants": [
+    "KONO MITSU",
+    "KONO"
+   ]
+  },
+  {
+   "name": "Kiyose Ichiro",
+   "role": "Symposium participant",
+   "variants": [
+    "KIYOSE ICH IRO",
+    "KIYOsE",
+    "KIYOSE"
+   ]
+  },
+  {
+   "name": "Ishibashi Tanzan",
+   "role": "Representative of the publishing agency and symposium moderator",
+   "variants": [
+    "ISH IBASHI TANZAN",
+    "ISiIBAShI",
+    "ISnlBAslI"
+   ]
+  },
+  {
+   "name": "Tojo Hideki",
+   "role": "Former Japanese prime minister",
+   "variants": [
+    "TOJO"
+   ]
+  },
+  {
+   "name": "Koiso Kuniaki",
+   "role": "Japanese prime minister",
+   "variants": [
+    "KOIsO",
+    "moIso"
+   ]
+  },
+  {
+   "name": "Winston Churchill",
+   "role": "British statesman and author",
+   "variants": [
+    "CHURCHILL"
+   ]
+  },
+  {
+   "name": "Major Stevens",
+   "role": "OSS information recipient",
+   "variants": [
+    "Major STEVENS"
+   ]
+  },
+  {
+   "name": "Yang Chang-tsun",
+   "role": "Typist",
+   "variants": [
+    "Yang Chang-tsun"
+   ]
+  },
+  {
+   "name": "Chang-ang Tu",
+   "role": "Translator for OSS",
+   "variants": [
+    "CANG-ANG T U",
+    "Changwang TU"
+   ]
+  },
+  {
+   "name": "Li Chy",
+   "role": "Translator",
+   "variants": [
+    "LI CHY"
+   ]
+  },
+  {
+   "name": "Wang Jingwei",
+   "role": "Chairman of the Nanjing National Government",
+   "variants": [
+    "Chairman wAng",
+    "Chairman \"sG"
+   ]
+  },
+  {
+   "name": "Konoe Fumimaro",
+   "role": "Japanese statesman whose declaration is discussed",
+   "variants": [
+    "Konok",
+    "KoVO",
+    "Kovos"
+   ]
+  },
+  {
+   "name": "G. B. Cressey",
+   "role": "Geographer and cited author",
+   "variants": [
+    "G. B. CREagy",
+    "G. B. CllisS.Y",
+    "CRiassy",
+    "Ris:Ssy",
+    "CHSSSSY"
+   ]
+  },
+  {
+   "name": "Henry A. Wallace",
+   "role": "United States vice-president",
+   "variants": [
+    "Vice-Frosident WAlJ.ACT"
+   ]
+  },
+  {
+   "name": "Marco Polo",
+   "role": "Traveller",
+   "variants": [
+    "Mnco JOL",
+    "ARCO POLO"
+   ]
+  },
+  {
+   "name": "Ferdinand von Richthofen",
+   "role": "Geographer cited for a coal estimate",
+   "variants": [
+    "Y. V. ICHTHOFEN"
+   ]
+  },
+  {
+   "name": "F. H. King",
+   "role": "Author cited for the phrase “Farmers of 400 centuries”",
+   "variants": [
+    "Y. H. KING"
+   ]
+  },
+  {
+   "name": "James Law",
+   "role": "Typist",
+   "variants": [
+    "Jamcs law"
+   ]
+  },
+  {
+   "name": "Kahn Tou",
+   "role": "Translator for OSS",
+   "variants": [
+    "Kahn TOU"
+   ]
+  }
+ ],
+ "keywords": [
+  "wartime Japanese economy",
+  "industrial dispersal",
+  "aircraft production",
+  "North China resources",
+  "coal and iron",
+  "inflation",
+  "food distribution",
+  "transportation",
+  "air raid planning",
+  "women’s labor mobilization",
+  "student labor mobilization"
+ ],
+ "subfiles": [
+  {
+   "title": "Proposal for new industrial construction zones and a national industrial plan",
+   "doc_type": "translated article or report, concluding pages",
+   "start_page": 100,
+   "end_page": 101,
+   "continues_previous": true,
+   "date": "1945-02-15",
+   "from": "Co-ordinated Translation Center, Chungking",
+   "to": "",
+   "about": "The concluding pages propose dispersed industrial zones and a national plan for wartime production.",
+   "summary": "The text classifies industrial zones and calls for regional planning that accounts for materials, labor, power, transport, markets, and defense.",
+   "keywords": [
+    "industrial zones",
+    "factory dispersal",
+    "national planning",
+    "wartime production"
+   ]
+  },
+  {
+   "title": "What Is Expected of the New Cabinet",
+   "doc_type": "translated symposium article, enclosure no. 6 to despatch no. 259",
+   "start_page": 102,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1944-07-29",
+   "from": "Toyo Keizai (The Oriental Economy); translated by the Co-ordinated Translation Center",
+   "to": "F.E.A.; O.W.I., American Embassy, and OSS for information",
+   "about": "Japanese commentators discuss what a new wartime cabinet should do after Tojo’s resignation.",
+   "summary": "The speakers urge rapid increases in aircraft and munitions production, better access to resources and labor, and changes to taxation and inflation policy. Several call for freer public discussion, stronger political organization, clearer cabinet responsibility, and closer coordination with military headquarters. Komigiwa criticizes food distribution, labor conscription, price controls, and wasteful uses of resources.",
+   "keywords": [
+    "cabinet change",
+    "munitions",
+    "aircraft",
+    "inflation",
+    "labor",
+    "food distribution",
+    "political reform"
+   ]
+  },
+  {
+   "title": "Re-valuation of the Natural Resources of North China",
+   "doc_type": "translated magazine article",
+   "start_page": 114,
+   "end_page": 121,
+   "continues_previous": false,
+   "date": "1944-08",
+   "from": "Toa (East Asia); translated by the Co-ordinated Translation Center",
+   "to": "F.E.A.",
+   "about": "The article argues for developing North China’s resources as a nearby supply base for Japanese industry.",
+   "summary": "The article presents North China as a source of coal, iron, alumina shale, salt, and cotton that could support Japanese war production despite transport difficulties. It contrasts North and South China, surveys estimates of mineral reserves, and argues that industrial development depends on Japanese capital, machinery, and technical support. Its final page discusses bauxite deposits and an irrigation project.",
+   "keywords": [
+    "North China",
+    "natural resources",
+    "coal",
+    "iron ore",
+    "alumina shale",
+    "industrialization",
+    "irrigation"
+   ]
+  },
+  {
+   "title": "A General Survey of Economics (Extracts)",
+   "doc_type": "translated magazine article, enclosure no. 8 to despatch no. 259",
+   "start_page": 122,
+   "end_page": 132,
+   "continues_previous": false,
+   "date": "1944-09-01",
+   "from": "Nihon Hyoron (The Japan Critic); translated by the Co-ordinated Translation Center",
+   "to": "F.E.A.; O.W.I. and American Embassy for information",
+   "about": "The extracts review Japanese wartime production, resources, transport, air raid preparations, and urban food supply.",
+   "summary": "The article describes concentrating labor, machinery, and materials on aircraft production while seeking more coal and iron. It proposes factory groups to shift work after air raids and outlines emergency transport headquarters, railway performance, and priority movement of aircraft materials. It also sets out labor measures during air raids and special food distributions for major cities.",
+   "keywords": [
+    "aircraft production",
+    "coal",
+    "iron and steel",
+    "transportation",
+    "air raids",
+    "labor policy",
+    "food supply"
+   ]
+  },
+  {
+   "title": "The State of Labor Mobilization",
+   "doc_type": "translated weekly report, enclosure no. 9 to despatch no. 259",
+   "start_page": 133,
+   "end_page": 141,
+   "continues_previous": false,
+   "date": "1944-09",
+   "from": "Weekly report published in Tokyo; translated by the Co-ordinated Translation Center",
+   "to": "F.E.A.; OSS and American Embassy for information",
+   "about": "A question-and-answer report explains Japan’s expanded mobilization of women and students for war work.",
+   "summary": "The report explains selection, exemptions, service terms, penalties, workplace conditions, and proposed duties for the women’s labor force. It then presents student labor as part of education, describes employers’ responsibilities, and begins listing changes to student mobilization rules. The document continues beyond page 141.",
+   "keywords": [
+    "labor mobilization",
+    "women workers",
+    "student labor",
+    "conscription",
+    "munitions factories",
+    "wartime education"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 6,
+  "pages": [
+   100,
+   141
+  ],
+  "pdf": "894.50 Japan, Economic Matters., January 2, 1945 - September 20, 1945 1492.pdf",
+  "seconds": 65.0,
+  "created": "2026-10-08 13:17:19",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-15"
+ }
+}

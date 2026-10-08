@@ -1,0 +1,851 @@
+{
+ "section_summary": "This section contains the end of one Radio Tokyo publication, complete February 1941 editions for Greater Asia and for North America and Hawaii, and the opening of a March 1941 edition. The publications combine overseas shortwave schedules with articles on Japanese history, arts, customs and national character, alongside arguments supporting Japan’s policies in China and East Asia.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Nippon",
+    "Dai Nippon",
+    "the Japanese Empire",
+    "the Empire",
+    "Japon",
+    "le Japon"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Yedo",
+    "TOKY"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kiôto"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Kanto region",
+   "variants": [
+    "Kwanto"
+   ]
+  },
+  {
+   "name": "Kansai region",
+   "variants": [
+    "Kwansai",
+    "Kansai"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura"
+   ]
+  },
+  {
+   "name": "Sekigahara",
+   "variants": [
+    "Sekigahara"
+   ]
+  },
+  {
+   "name": "Muromachi",
+   "variants": [
+    "Muromachi"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Shuzenji",
+   "variants": [
+    "Shuzenji"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Mount Fuji",
+   "variants": [
+    "Fuji"
+   ]
+  },
+  {
+   "name": "Mount Komagatake",
+   "variants": [
+    "Komagatake"
+   ]
+  },
+  {
+   "name": "Lake Biwa",
+   "variants": [
+    "lac Biwa"
+   ]
+  },
+  {
+   "name": "Matsushima",
+   "variants": [
+    "Matsushima"
+   ]
+  },
+  {
+   "name": "Lake Ofuma",
+   "variants": [
+    "Lac d'Ofuma"
+   ]
+  },
+  {
+   "name": "Ise",
+   "variants": [
+    "Ise"
+   ]
+  },
+  {
+   "name": "Fuji River",
+   "variants": [
+    "Fujigawa"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Ezo"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nankin"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Kabul",
+   "variants": [
+    "Kabul"
+   ]
+  },
+  {
+   "name": "Colombo",
+   "variants": [
+    "Colombo",
+    "Colcmbo"
+   ]
+  },
+  {
+   "name": "Mumbai",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Yangon",
+   "variants": [
+    "Rangoon"
+   ]
+  },
+  {
+   "name": "Kolkata",
+   "variants": [
+    "Calcutta"
+   ]
+  },
+  {
+   "name": "Mecca",
+   "variants": [
+    "Mecca"
+   ]
+  },
+  {
+   "name": "Aden",
+   "variants": [
+    "Aden"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "Ankara"
+   ]
+  },
+  {
+   "name": "Tehran",
+   "variants": [
+    "Teheran"
+   ]
+  },
+  {
+   "name": "Baghdad",
+   "variants": [
+    "Baghdad"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Ho Chi Minh City",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Melbourne",
+   "variants": [
+    "Melbourne"
+   ]
+  },
+  {
+   "name": "Wellington",
+   "variants": [
+    "Wellington"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgiam",
+    "Belgique"
+   ]
+  },
+  {
+   "name": "Brussels",
+   "variants": [
+    "Bruxelles"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome"
+   ]
+  },
+  {
+   "name": "Sofia",
+   "variants": [
+    "Sofia"
+   ]
+  },
+  {
+   "name": "Loire Valley",
+   "variants": [
+    "vallée de la Loire"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Nederlandsch-Indie"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Siamese"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asie"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Eastern Asia",
+    "Greater East Asia",
+    "Greater Asia"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Eastern"
+   ]
+  },
+  {
+   "name": "Southwest Asia",
+   "variants": [
+    "SOUTHWESTERN ASIA"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "SOUTH AMERICA"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "CENTRAL"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America",
+    "NORTH AMERICA"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Pacific coast of North America",
+   "variants": [
+    "PACIFIC COAST OF NORTH AMERICA"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "SOUTH SEAS",
+    "Mers du Sud"
+   ]
+  },
+  {
+   "name": "New World",
+   "variants": [
+    "New World"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Oda Nobunaga",
+   "role": "Japanese unifier mentioned in the history article",
+   "variants": [
+    "Oda Nobunaga"
+   ]
+  },
+  {
+   "name": "Amar Lahiri",
+   "role": "Author of “Some Truths About Japan”",
+   "variants": [
+    "Mr. Amar Lahiri"
+   ]
+  },
+  {
+   "name": "Gyokudo Kawai",
+   "role": "Painter",
+   "variants": [
+    "Gyokudo Kawai"
+   ]
+  },
+  {
+   "name": "Tamotsu Iwado",
+   "role": "Author of “Point of View”; managing editor of the Japan Times and Advertiser",
+   "variants": [
+    "Mr. Tamotsu Iwado"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese leader",
+   "variants": [
+    "Chiang Kai-shek"
+   ]
+  },
+  {
+   "name": "Kazumaro Uno",
+   "role": "Journalist and author of the ancestor worship article",
+   "variants": [
+    "Kazumaro Uno"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoye",
+   "role": "Japanese prime minister",
+   "variants": [
+    "Prince Konoye",
+    "Prince Fumimaro. Konoye",
+    "Premier Prince Konoye"
+   ]
+  },
+  {
+   "name": "Frank Lee",
+   "role": "Writer credited for “Tokyo Calendar”",
+   "variants": [
+    "Frank Lee"
+   ]
+  },
+  {
+   "name": "Adrienne Moore",
+   "role": "Writer credited for “Interviewing Japan”",
+   "variants": [
+    "Adrienne Moore"
+   ]
+  },
+  {
+   "name": "Edgar Allan Poe",
+   "role": "Writer credited for “Uzushio”",
+   "variants": [
+    "Allan Poe"
+   ]
+  },
+  {
+   "name": "Masaharu Nagato",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Ma-saharu Nagato",
+    "Masaharu Nagato"
+   ]
+  },
+  {
+   "name": "Sanehiko Yamamoto",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Sane-hiko Yamamoto"
+   ]
+  },
+  {
+   "name": "Iwao Aoki",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Iwao Aoki"
+   ]
+  },
+  {
+   "name": "Takanobu Murohushi",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Takanobu Mu-rohushi"
+   ]
+  },
+  {
+   "name": "Seiichi Kojima",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Sei-ichi Kojima"
+   ]
+  },
+  {
+   "name": "Masao Kanda",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Masao Kanda"
+   ]
+  },
+  {
+   "name": "Daisetsu Suzuki",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Daisetsu Suzuki"
+   ]
+  },
+  {
+   "name": "Masao Momo",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Masao Momo"
+   ]
+  },
+  {
+   "name": "Sanki Ichikawa",
+   "role": "Tokyo Imperial University professor and scheduled speaker",
+   "variants": [
+    "Sanki Ichikawa"
+   ]
+  },
+  {
+   "name": "Fumio Yamada",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Fumio Yamada"
+   ]
+  },
+  {
+   "name": "D. F. Kaeding",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Miss D. F. Kaeding"
+   ]
+  },
+  {
+   "name": "Agnes Marline",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Miss Agnes Marline"
+   ]
+  },
+  {
+   "name": "Hazel Gorham",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Mrs. Hazel Gorham"
+   ]
+  },
+  {
+   "name": "Don C. Gorham",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Don C. Gorham"
+   ]
+  },
+  {
+   "name": "Jiro Nango",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Jiro Nango"
+   ]
+  },
+  {
+   "name": "Vincent Canzoneri",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Vincent Canzoneri"
+   ]
+  },
+  {
+   "name": "Yahei Matsumiya",
+   "role": "Professor and scheduled Japanese-language instructor",
+   "variants": [
+    "Prof. Yahel Matsumiya",
+    "Prof. Yahei Matsumiya"
+   ]
+  },
+  {
+   "name": "Shutaro Matsushita",
+   "role": "Scheduled broadcast speaker",
+   "variants": [
+    "Shutaro Matsushita"
+   ]
+  },
+  {
+   "name": "Masako Suzuki",
+   "role": "Daimaru Department Store staff member and scheduled speaker",
+   "variants": [
+    "Miss Masako Suzuki"
+   ]
+  },
+  {
+   "name": "Chieko Kunii",
+   "role": "National City Bank Kobe branch member and scheduled speaker",
+   "variants": [
+    "Miss Chieko, Kunii"
+   ]
+  },
+  {
+   "name": "Lorraine Yamasaki",
+   "role": "Author of an article mentioned by a listener",
+   "variants": [
+    "Lorraine Yamasaki"
+   ]
+  },
+  {
+   "name": "Seijun Yamasaki",
+   "role": "Economist whose article is discussed by a listener",
+   "variants": [
+    "Seijun Yamasaki"
+   ]
+  },
+  {
+   "name": "Paul Dansard",
+   "role": "Listener and editor of Les Ondes Courtes",
+   "variants": [
+    "Paul Dansard"
+   ]
+  },
+  {
+   "name": "Claude Monet",
+   "role": "Painter mentioned in the French landscape article",
+   "variants": [
+    "Monet"
+   ]
+  },
+  {
+   "name": "Francis Xavier",
+   "role": "Jesuit missionary mentioned in the national-character article",
+   "variants": [
+    "St. Francis Xavier",
+    "Xavier"
+   ]
+  },
+  {
+   "name": "Toshiro Shimanouchi",
+   "role": "Author of “The Character of the Japanese People”",
+   "variants": [
+    "Toshiro Shimanouchi"
+   ]
+  },
+  {
+   "name": "Ilina Petrova Mechlemova",
+   "role": "Author of “Red Fish of Japan”",
+   "variants": [
+    "Ilina Petrova Mechlemova"
+   ]
+  }
+ ],
+ "keywords": [
+  "Radio Tokyo",
+  "Nippon Hoso Kyokai",
+  "overseas broadcasting",
+  "shortwave schedules",
+  "February 1941",
+  "March 1941",
+  "Japanese culture",
+  "China conflict",
+  "Greater East Asia",
+  "propaganda",
+  "listener letters",
+  "Japanese art"
+ ],
+ "subfiles": [
+  {
+   "title": "Radio Tokyo history article: “History and Tradition … Centering in Yedo”",
+   "doc_type": "magazine article fragment",
+   "start_page": 105,
+   "end_page": 105,
+   "continues_previous": true,
+   "date": "",
+   "from": "KBS (The Society for International Cultural Relations)",
+   "to": "",
+   "about": "The article describes Edo-period administration, social classes, commerce and Tokugawa political learning.",
+   "summary": "Concluding page of a history article on Yedo and the Tokugawa regime.",
+   "keywords": [
+    "Yedo",
+    "Tokugawa",
+    "Bakufu",
+    "Japanese history"
+   ]
+  },
+  {
+   "title": "Radio Tokyo, No. 55, “For Great Asia”",
+   "doc_type": "broadcast programme magazine",
+   "start_page": 106,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "1941-02",
+   "from": "Nippon Hoso Kyokai (The Broadcasting Corporation of Japan)",
+   "to": "Overseas listeners in Asia and other broadcast regions",
+   "about": "The February 1941 issue presents international transmission schedules, programme listings and illustrated cultural and political articles.",
+   "summary": "The issue lists frequencies, times, languages and features for overseas broadcasts. Articles portray Japan as peaceful, defend its war in China and describe painting, ancestor worship, Siamese dance and Japanese scenery. French and Dutch notices address listeners in the South Seas and the Netherlands East Indies.",
+   "keywords": [
+    "Radio Tokyo",
+    "Great Asia",
+    "shortwave",
+    "broadcast schedules",
+    "China conflict",
+    "Japanese culture",
+    "French programmes",
+    "Dutch programmes"
+   ]
+  },
+  {
+   "title": "Radio Tokyo, No. 55, “For North America & Hawaii”",
+   "doc_type": "broadcast programme magazine",
+   "start_page": 118,
+   "end_page": 129,
+   "continues_previous": false,
+   "date": "1941-02",
+   "from": "Nippon Hoso Kyokai (The Broadcasting Corporation of Japan)",
+   "to": "Overseas listeners in North America and Hawaii",
+   "about": "The February 1941 regional issue combines listener correspondence, broadcast schedules and articles on Japan’s imperial anniversary, history and culture.",
+   "summary": "Listener letters discuss reception, programming and Japan’s economic claims. The issue recounts the empire’s 2,600th-anniversary ceremonies and prints illustrated articles on painting, Yedo, ancestor worship and vaudeville. A political essay defends Japan’s actions in China, while schedules list February talks, entertainment and overseas transmissions.",
+   "keywords": [
+    "Radio Tokyo",
+    "North America",
+    "Hawaii",
+    "listener letters",
+    "imperial anniversary",
+    "Yedo",
+    "ancestor worship",
+    "broadcast schedules"
+   ]
+  },
+  {
+   "title": "Radio Tokyo, No. 56, “North America & Hawaii”",
+   "doc_type": "broadcast programme magazine fragment",
+   "start_page": 130,
+   "end_page": 133,
+   "continues_previous": false,
+   "date": "1941-03",
+   "from": "Nippon Hoso Kyokai (The Broadcasting Corporation of Japan)",
+   "to": "Overseas listeners in North America and Hawaii",
+   "about": "The opening of the March 1941 issue gives overseas broadcast times and begins articles on Japanese national character and culture.",
+   "summary": "A regional schedule lists call signs, frequencies and times for broadcasts across Asia, Europe, the Americas and the Pacific. Toshiro Shimanouchi’s article presents Japanese national character as moderate, tolerant and progressive, using Christianity, Buddhism and the Meiji Restoration as examples. Page 133 also carries a poem celebrating Japan and additional programme times; the issue continues beyond this section.",
+   "keywords": [
+    "Radio Tokyo",
+    "March 1941",
+    "shortwave schedules",
+    "national character",
+    "religious tolerance",
+    "Meiji Restoration",
+    "poetry"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 10,
+  "pages": [
+   105,
+   133
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 24, 1940 - July 12, 1943 1392-part-1.pdf",
+  "seconds": 50.6,
+  "created": "2026-10-08 12:40:13",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-6-part-1"
+ }
+}

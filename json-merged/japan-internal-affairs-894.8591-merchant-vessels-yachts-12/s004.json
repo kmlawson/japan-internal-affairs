@@ -1,0 +1,959 @@
+{
+ "section_summary": "This section records Japanese merchant-vessel movements in Peru, Chile, Mexico, Japan, Thailand, and French Indochina during September and October 1941. It also includes a report on the end of Japanese shipping service to New Zealand, a memorandum about oil bunkering contacts, and a naval intelligence report on the NOTO MARU. Most movement reports are followed by State Department copies prepared for the Navy.",
+ "places": [
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima",
+    "Lime"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Maclin_ton",
+    "Maslinaton",
+    "Vashington",
+    "_ashinton"
+   ]
+  },
+  {
+   "name": "Callao",
+   "variants": [
+    "Callao",
+    "calleo",
+    "Cal1ao"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohem",
+    "Yckohare",
+    "Yckohane",
+    "Yorohome",
+    "Yohohena"
+   ]
+  },
+  {
+   "name": "Wellington",
+   "variants": [
+    "Wellington"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealend",
+    "New Zealand",
+    "Wew Tealand"
+   ]
+  },
+  {
+   "name": "Lyttelton",
+   "variants": [
+    "Lyttelton"
+   ]
+  },
+  {
+   "name": "Christchurch",
+   "variants": [
+    "Christchurch"
+   ]
+  },
+  {
+   "name": "Dunedin",
+   "variants": [
+    "Dunedin"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Britain",
+   "variants": [
+    "Britain"
+   ]
+  },
+  {
+   "name": "Nouméa",
+   "variants": [
+    "Noumea"
+   ]
+  },
+  {
+   "name": "Rabaul",
+   "variants": [
+    "Rabaul"
+   ]
+  },
+  {
+   "name": "Antofagasta",
+   "variants": [
+    "Antofagasta"
+   ]
+  },
+  {
+   "name": "Huasco",
+   "variants": [
+    "Huasco"
+   ]
+  },
+  {
+   "name": "Tocopilla",
+   "variants": [
+    "Tocopilla"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "lixioo pity",
+    "sxioo",
+    "Hexioo"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "liexiaa",
+    "liexiee"
+   ]
+  },
+  {
+   "name": "Manzanillo",
+   "variants": [
+    "Manzanillo",
+    "Mansanillo",
+    "Lansenillo",
+    "lnnzanillo",
+    "Imnsanillo",
+    "nsail lo"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru",
+    "Pcru"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United statos",
+    "United utatos"
+   ]
+  },
+  {
+   "name": "Guadalajara",
+   "variants": [
+    "Guadalajara",
+    "Ow.dclajara"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los augoles",
+    "Loe nugoles"
+   ]
+  },
+  {
+   "name": "Veracruz",
+   "variants": [
+    "Voreorus",
+    "Voreo us"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Tialy"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok",
+    "Bengkok",
+    "bongko",
+    "Lanckok",
+    "Langko."
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila",
+    "Manile",
+    "Monilo",
+    "Mnnila",
+    "Maniaa"
+   ]
+  },
+  {
+   "name": "Iquique",
+   "variants": [
+    "IquiquE",
+    "Iquique"
+   ]
+  },
+  {
+   "name": "Haiphong",
+   "variants": [
+    "Haiphong",
+    "Heiphong",
+    "Heinhong",
+    "Hainhong",
+    "Ha1phong"
+   ]
+  },
+  {
+   "name": "Keelung",
+   "variants": [
+    "KeElung",
+    "Keelung"
+   ]
+  },
+  {
+   "name": "Saigon",
+   "variants": [
+    "Saigon",
+    "Seigon",
+    "Caieon"
+   ]
+  },
+  {
+   "name": "Muke",
+   "variants": [
+    "Muke"
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu",
+    "Honiulu"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "Sen Franetsco"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "SeattlE",
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Vancouver",
+    "Vercouver"
+   ]
+  },
+  {
+   "name": "Hongay",
+   "variants": [
+    "Hongay"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Norweb",
+   "role": "Sender of telegrams from Lima",
+   "variants": [
+    "NORWEB",
+    "Norweb"
+   ]
+  },
+  {
+   "name": "Raymond E. Cox",
+   "role": "American Consul General at Wellington",
+   "variants": [
+    "Raymond E. Cox"
+   ]
+  },
+  {
+   "name": "Adams",
+   "role": "Sender of telegram from Antofagasta",
+   "variants": [
+    "ADAIIS",
+    "ADAMS"
+   ]
+  },
+  {
+   "name": "Welles",
+   "role": "Recipient of memorandum",
+   "variants": [
+    "Mr. Wellbs"
+   ]
+  },
+  {
+   "name": "Patchin",
+   "role": "Proposed contact concerning the Arrow Oil Company",
+   "variants": [
+    "Mr. Patchin"
+   ]
+  },
+  {
+   "name": "Hornbeck",
+   "role": "Adviser named in memorandum routing",
+   "variants": [
+    "MR. HORNBECK"
+   ]
+  },
+  {
+   "name": "Stinebower",
+   "role": "Named in memorandum filing notation",
+   "variants": [
+    "STINEBOWER"
+   ]
+  },
+  {
+   "name": "Syunsi Sato",
+   "role": "Reported captain of a Japanese vessel and passenger on the NOTO MARU",
+   "variants": [
+    "Syunsi Sate",
+    "Syunsi Sato",
+    "symsi sato"
+   ]
+  },
+  {
+   "name": "Count Aisinari di San Marzano",
+   "role": "Italian passenger on the NOTO MARU",
+   "variants": [
+    "Count Aizinari di ben ikrsene",
+    "Dount isinari di San arseno",
+    "Court Aisinari di San trsane",
+    "Count Aisinari di san zrseno"
+   ]
+  },
+  {
+   "name": "Frederick E. Leck",
+   "role": "Named on naval intelligence report",
+   "variants": [
+    "Frederick E. Leck"
+   ]
+  },
+  {
+   "name": "J. P. Conover, Jr.",
+   "role": "Commander, U.S. Navy (retired), and naval attaché",
+   "variants": [
+    "J. P. Conover, Jr",
+    "J. P. Ccnovor, Jr"
+   ]
+  },
+  {
+   "name": "Peck",
+   "role": "Sender of Bangkok vessel-movement telegrams",
+   "variants": [
+    "PECK",
+    "Peck"
+   ]
+  },
+  {
+   "name": "Linnell",
+   "role": "Sender of Yokohama vessel-movement telegrams",
+   "variants": [
+    "LINNELL",
+    "Linnell"
+   ]
+  },
+  {
+   "name": "Browne",
+   "role": "Sender of Saigon vessel-movement telegrams",
+   "variants": [
+    "BROWNE"
+   ]
+  },
+  {
+   "name": "Hoyt",
+   "role": "Sender of Manzanillo telegram",
+   "variants": [
+    "HOYT"
+   ]
+  },
+  {
+   "name": "Frothingham",
+   "role": "Navy commander telephoned about the NOTO MARU",
+   "variants": [
+    "Commander Frothingham"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant vessels",
+  "ship movements",
+  "Navy liaison",
+  "New Zealand shipping",
+  "requisitioned vessels",
+  "passenger sailings",
+  "cargo restrictions",
+  "oil bunkering",
+  "NOTO MARU",
+  "French Indochina"
+ ],
+ "subfiles": [
+  {
+   "title": "SAKITO MARU towing ARIMA MARU",
+   "doc_type": "telegram",
+   "start_page": 241,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1941-10-10",
+   "from": "Norweb, Lima",
+   "to": "Secretary of State, Washington",
+   "about": "The SAKITO MARU left Callao for Yokohama towing the ARIMA MARU.",
+   "summary": "Reports the October 9 departure.",
+   "keywords": [
+    "SAKITO MARU",
+    "ARIMA MARU",
+    "Callao"
+   ]
+  },
+  {
+   "title": "Navy transmission of SAKITO MARU report",
+   "doc_type": "confidential teletype form",
+   "start_page": 242,
+   "end_page": 242,
+   "continues_previous": false,
+   "date": "1941-10-11",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the Callao departure and tow.",
+   "summary": "Records the SAKITO MARU towing the ARIMA MARU toward Yokohama.",
+   "keywords": [
+    "Navy liaison",
+    "SAKITO MARU"
+   ]
+  },
+  {
+   "title": "Suspension of service of Japanese vessels to New Zealand",
+   "doc_type": "consular despatch",
+   "start_page": 243,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1941-08-20",
+   "from": "Raymond E. Cox, American Consul General, Wellington",
+   "to": "Secretary of State",
+   "about": "Japanese shipping service to New Zealand ceased after the YAMAGIKU MARU sailed.",
+   "summary": "Cox reports that no further Japanese calls were scheduled after the YAMAGIKU MARU left Lyttelton. He describes restrictions on its sheep, seed, and wool cargo and notes that eight Japanese businessmen sailed as passengers.",
+   "keywords": [
+    "New Zealand",
+    "YAMAGIKU MARU",
+    "cargo restrictions"
+   ]
+  },
+  {
+   "title": "Transmittal of Wellington despatch to Maritime Commission",
+   "doc_type": "cover letter",
+   "start_page": 245,
+   "end_page": 245,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Secretary of State",
+   "to": "Chairman, United States Maritime Commission",
+   "about": "Forwards Cox’s despatch on suspended Japanese shipping service.",
+   "summary": "Transmits a copy of Wellington despatch no. 110.",
+   "keywords": [
+    "New Zealand",
+    "Maritime Commission"
+   ]
+  },
+  {
+   "title": "NOTO MARU cargo at Antofagasta",
+   "doc_type": "telegram",
+   "start_page": 246,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1941-10-15",
+   "from": "Adams, Antofagasta",
+   "to": "Secretary of State",
+   "about": "The NOTO MARU carried mineral ores from Antofagasta toward Tocopilla.",
+   "summary": "Reports its arrival from Huasco, departure for Tocopilla, and wolfram, copper, and antimony cargo.",
+   "keywords": [
+    "NOTO MARU",
+    "Antofagasta",
+    "ore"
+   ]
+  },
+  {
+   "title": "Navy paraphrase of Antofagasta report",
+   "doc_type": "teletype copy",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1941-10-15",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the NOTO MARU’s movements and ore cargo.",
+   "summary": "Paraphrases Adams’s report and records Navy transmission.",
+   "keywords": [
+    "NOTO MARU",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "Arrow Oil Company bunkering facilities",
+   "doc_type": "memorandum",
+   "start_page": 248,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1941-04-08",
+   "from": "Adviser on International Economic Affairs",
+   "to": "Mr. Welles",
+   "about": "Suggests contacting the Arrow Oil Company about a meeting on west coast bunkering.",
+   "summary": "Identifies Arrow Oil as a Grace subsidiary and proposes contacting Patchin.",
+   "keywords": [
+    "oil bunkering",
+    "Arrow Oil Company"
+   ]
+  },
+  {
+   "title": "NOTO MARU at Manzanillo, first report copy",
+   "doc_type": "naval intelligence report",
+   "start_page": 249,
+   "end_page": 249,
+   "continues_previous": false,
+   "date": "1941-09",
+   "from": "U.S. Naval Attaché, Mexico City",
+   "to": "",
+   "about": "Reports the NOTO MARU’s Manzanillo call, cargo, passengers, and sudden departure.",
+   "summary": "The ship arrived from Yokohama on September 13, discharged goods including mail, and left for Callao without refueling. Two passengers disembarked.",
+   "keywords": [
+    "NOTO MARU",
+    "Manzanillo",
+    "naval intelligence"
+   ]
+  },
+  {
+   "title": "NOTO MARU at Manzanillo, second report copy",
+   "doc_type": "naval intelligence report copy",
+   "start_page": 250,
+   "end_page": 250,
+   "continues_previous": false,
+   "date": "1941-09",
+   "from": "U.S. Naval Attaché, Mexico City",
+   "to": "",
+   "about": "Duplicates the report on the NOTO MARU’s Manzanillo call.",
+   "summary": "Repeats its cargo, passenger, and departure details.",
+   "keywords": [
+    "NOTO MARU",
+    "Manzanillo"
+   ]
+  },
+  {
+   "title": "GYOKO departure from Bangkok",
+   "doc_type": "telegram",
+   "start_page": 251,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1941-10-15",
+   "from": "Peck, Bangkok",
+   "to": "Secretary of State",
+   "about": "Reports the Japanese GYOKO’s departure on October 13.",
+   "summary": "A brief vessel departure notice.",
+   "keywords": [
+    "GYOKO",
+    "Bangkok"
+   ]
+  },
+  {
+   "title": "Navy paraphrase of GYOKO departure",
+   "doc_type": "teletype copy",
+   "start_page": 252,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the GYOKO departure report.",
+   "summary": "Paraphrases Peck’s departure notice.",
+   "keywords": [
+    "GYOKO",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "Japanese vessel from Manzanillo at Callao",
+   "doc_type": "telegram",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Norweb, Lima",
+   "to": "Secretary of State",
+   "about": "Reports a Japanese ship arriving at Callao from Manzanillo and sailing for Iquique.",
+   "summary": "Its name is unclear in the OCR, appearing as “AZUA MRU.”",
+   "keywords": [
+    "Callao",
+    "Iquique",
+    "ship movement"
+   ]
+  },
+  {
+   "title": "Navy transmission of Callao arrival and departure",
+   "doc_type": "confidential teletype form",
+   "start_page": 254,
+   "end_page": 254,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the Callao arrival and departure of the ship reported on page 253.",
+   "summary": "The OCR gives the ship’s name as “AZULHA LARU” and “AZULIA HARU.”",
+   "keywords": [
+    "Callao",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "DELHI arrival at Bangkok",
+   "doc_type": "telegram",
+   "start_page": 255,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Peck, Bangkok",
+   "to": "Secretary of State",
+   "about": "Reports the DELHI arriving from Haiphong.",
+   "summary": "States that no other vessel-movement information changed.",
+   "keywords": [
+    "DELHI",
+    "Bangkok",
+    "Haiphong"
+   ]
+  },
+  {
+   "title": "Navy paraphrase of DELHI arrival",
+   "doc_type": "teletype copy",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the DELHI’s arrival from Haiphong.",
+   "summary": "Paraphrases Peck’s arrival notice.",
+   "keywords": [
+    "DELHI",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "Bangkok arrivals and HUZIMI correction",
+   "doc_type": "telegram",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "Peck, Bangkok",
+   "to": "Secretary of State",
+   "about": "Reports two Japanese arrivals and retracts an earlier HUZIMI arrival.",
+   "summary": "NITI arrived from Keelung and AKIBASAN from Saigon; the September 22 HUZIMI report was erroneous.",
+   "keywords": [
+    "NITI",
+    "AKIBASAN",
+    "HUZIMI"
+   ]
+  },
+  {
+   "title": "Navy teletype of Bangkok arrivals",
+   "doc_type": "confidential teletype form",
+   "start_page": 258,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays Peck’s arrivals and HUZIMI correction.",
+   "summary": "Lists NITI and AKIBASAN and withdraws the HUZIMI arrival.",
+   "keywords": [
+    "Bangkok",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "Second Navy form for Bangkok arrivals",
+   "doc_type": "confidential teletype form",
+   "start_page": 259,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1941-10-18",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Records the same NITI and AKIBASAN arrivals.",
+   "summary": "Also notes the earlier HUZIMI arrival report.",
+   "keywords": [
+    "Bangkok",
+    "NITI",
+    "AKIBASAN"
+   ]
+  },
+  {
+   "title": "TATUTA sailing from Yokohama",
+   "doc_type": "telegram",
+   "start_page": 260,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State",
+   "about": "Reports the requisitioned TATUTA sailing for Honolulu and San Francisco.",
+   "summary": "The ship left October 15 with 602 passengers and no cargo.",
+   "keywords": [
+    "TATUTA",
+    "requisition",
+    "passengers"
+   ]
+  },
+  {
+   "title": "Navy paraphrase of TATUTA sailing",
+   "doc_type": "teletype copy",
+   "start_page": 261,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the TATUTA’s requisition and passenger sailing.",
+   "summary": "Paraphrases Linnell’s Yokohama report.",
+   "keywords": [
+    "TATUTA",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "TIKYO MARU arrival at Haiphong",
+   "doc_type": "telegram",
+   "start_page": 262,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "1941-10-16",
+   "from": "Browne, Saigon",
+   "to": "Secretary of State",
+   "about": "Reports the TIKYO MARU’s Haiphong arrival and no other local movements.",
+   "summary": "The ship arrived October 12; Saigon had no arrivals and neither port reported departures.",
+   "keywords": [
+    "TIKYO MARU",
+    "Haiphong"
+   ]
+  },
+  {
+   "title": "Navy paraphrase of Haiphong arrival",
+   "doc_type": "teletype copy",
+   "start_page": 263,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the TIKYO MARU’s Haiphong arrival.",
+   "summary": "Paraphrases Browne’s report of no other arrivals or departures.",
+   "keywords": [
+    "TIKYO MARU",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "Expected NARUTO MARU arrival at Manzanillo",
+   "doc_type": "telegram",
+   "start_page": 264,
+   "end_page": 264,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Hoyt, Manzanillo",
+   "to": "Secretary of State",
+   "about": "The NARUTO MARU was expected from Yokohama around October 24.",
+   "summary": "Notes that the embassy was informed.",
+   "keywords": [
+    "NARUTO MARU",
+    "Manzanillo"
+   ]
+  },
+  {
+   "title": "Bangkok arrival and departure",
+   "doc_type": "telegram",
+   "start_page": 265,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Peck, Bangkok",
+   "to": "Secretary of State",
+   "about": "Reports NAN arriving from Hainan and TETUWA departing for Japan.",
+   "summary": "Both movements occurred October 17.",
+   "keywords": [
+    "NAN",
+    "TETUWA",
+    "Bangkok"
+   ]
+  },
+  {
+   "title": "Navy form for Bangkok movements",
+   "doc_type": "confidential teletype form",
+   "start_page": 266,
+   "end_page": 266,
+   "continues_previous": false,
+   "date": "1941-10-22",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the October 17 Bangkok arrival and departure.",
+   "summary": "Records the arrival from Hainan and departure for Japan.",
+   "keywords": [
+    "Bangkok",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "HIKAWA sailing from Yokohama",
+   "doc_type": "telegram",
+   "start_page": 267,
+   "end_page": 267,
+   "continues_previous": false,
+   "date": "1941-10-21",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State",
+   "about": "Reports the requisitioned HIKAWA sailing for Seattle via Vancouver.",
+   "summary": "It left October 20 with 239 passengers and no cargo.",
+   "keywords": [
+    "HIKAWA",
+    "requisition",
+    "passengers"
+   ]
+  },
+  {
+   "title": "Navy form for HIKAWA sailing",
+   "doc_type": "confidential teletype form",
+   "start_page": 268,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1941-10-22",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the HIKAWA’s requisition and sailing.",
+   "summary": "Records its Seattle destination via Vancouver and its passenger load.",
+   "keywords": [
+    "HIKAWA",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "TAIYO sailing for Honolulu",
+   "doc_type": "telegram",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State",
+   "about": "Reports the requisitioned TAIYO sailing for Honolulu.",
+   "summary": "It left October 22 with 343 passengers and no cargo.",
+   "keywords": [
+    "TAIYO",
+    "requisition",
+    "Honolulu"
+   ]
+  },
+  {
+   "title": "Navy form for TAIYO sailing",
+   "doc_type": "confidential teletype form",
+   "start_page": 270,
+   "end_page": 270,
+   "continues_previous": false,
+   "date": "1941-10-24",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays the TAIYO’s passenger sailing and requisition.",
+   "summary": "Records 343 passengers, no cargo, and Honolulu as destination.",
+   "keywords": [
+    "TAIYO",
+    "Navy liaison"
+   ]
+  },
+  {
+   "title": "Japanese MARU movements in French Indochina",
+   "doc_type": "telegram",
+   "start_page": 271,
+   "end_page": 271,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "Browne, Saigon",
+   "to": "Secretary of State",
+   "about": "Lists Japanese ship arrivals and departures at Haiphong, Hongay, and Saigon.",
+   "summary": "Reports movements of AKAGISAN, KANZYO, SUGIYAMA, TIUGOZ, and TOLOZ and corrects an earlier TIYU identification.",
+   "keywords": [
+    "French Indochina",
+    "AKAGISAN",
+    "ship movements"
+   ]
+  },
+  {
+   "title": "Navy form for French Indochina movements",
+   "doc_type": "confidential teletype form",
+   "start_page": 272,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1941-10-24",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "Relays Browne’s vessel movements and name correction.",
+   "summary": "Tabulates the Haiphong, Hongay, and Saigon movements and corrects TIYU to TIUGOZ.",
+   "keywords": [
+    "French Indochina",
+    "Navy liaison"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 4,
+  "pages": [
+   241,
+   272
+  ],
+  "pdf": "894.8591 Merchant Vessels. Yachts. Immunities Of Government -Controlled., Other Matters Respecting Merchant Vessels., Japan, Movement Of Merchant Vessels And Yachts., July 17, 1941 - October 23, 1941 1307.pdf",
+  "seconds": 65.5,
+  "created": "2026-10-08 13:33:10",
+  "key": "japan-internal-affairs-894.8591-merchant-vessels-yachts-12"
+ }
+}

@@ -1,0 +1,1510 @@
+{
+ "section_summary": "This section records Japanese merchant ship movements, bills of health, cargoes and oil shipments across the Pacific, the Americas and Asia in April and May 1941. It includes copies prepared for naval intelligence, a table of 1940 tin shipments, and correspondence about how ship movements should be reported.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica"
+   ]
+  },
+  {
+   "name": "San José, Costa Rica",
+   "variants": [
+    "Ban Jose",
+    "San Jose"
+   ]
+  },
+  {
+   "name": "Puntarenas, Costa Rica",
+   "variants": [
+    "Punte Arenas",
+    "Punta Arenas"
+   ]
+  },
+  {
+   "name": "Balboa, Panama",
+   "variants": [
+    "Balboa"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Panama Canal ZonE",
+    "Panama Canal",
+    "Canal Zone",
+    "canal"
+   ]
+  },
+  {
+   "name": "Cristóbal, Panama",
+   "variants": [
+    "Cristobal"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Manzanillo, Mexico",
+   "variants": [
+    "Manzanillo"
+   ]
+  },
+  {
+   "name": "Tampico, Mexico",
+   "variants": [
+    "Tampico"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Corinto, Nicaragua",
+   "variants": [
+    "Corinto"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Nicarague",
+    "Nicaragua"
+   ]
+  },
+  {
+   "name": "Acapulco, Mexico",
+   "variants": [
+    "ACAPULCO"
+   ]
+  },
+  {
+   "name": "California, United States",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Los Angeles, California",
+   "variants": [
+    "Los AngEles",
+    "Los Angeles",
+    "Los Angεles",
+    "Los Angcies",
+    "Los An Eles",
+    "Los ingeles"
+   ]
+  },
+  {
+   "name": "San Francisco, California",
+   "variants": [
+    "San Francisco",
+    "San Trancisco"
+   ]
+  },
+  {
+   "name": "San Pedro, California",
+   "variants": [
+    "San Pedro"
+   ]
+  },
+  {
+   "name": "Port San Luis, California",
+   "variants": [
+    "Port San Luis",
+    "San Luis"
+   ]
+  },
+  {
+   "name": "San Joaquin Valley, California",
+   "variants": [
+    "San Joaquin Valley"
+   ]
+  },
+  {
+   "name": "Seattle, Washington",
+   "variants": [
+    "Seattle",
+    "SEattlE"
+   ]
+  },
+  {
+   "name": "New York, New York",
+   "variants": [
+    "New York",
+    "New Yorl",
+    "Lew York",
+    "Yew York"
+   ]
+  },
+  {
+   "name": "Baltimore, Maryland",
+   "variants": [
+    "Baltimore",
+    "BeltimorE"
+   ]
+  },
+  {
+   "name": "Boston, Massachusetts",
+   "variants": [
+    "Boston"
+   ]
+  },
+  {
+   "name": "Philadelphia, Pennsylvania",
+   "variants": [
+    "Philadelphia"
+   ]
+  },
+  {
+   "name": "Vancouver, Canada",
+   "variants": [
+    "Vancouver"
+   ]
+  },
+  {
+   "name": "Honolulu, Hawaii",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama",
+    "Yokohoma",
+    "YOYOHAA",
+    "Yokshama",
+    "Yekakame",
+    "Yekohama",
+    "Yokekama",
+    "Tekehama"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Kobe, Japan",
+   "variants": [
+    "Kobe",
+    "KobE",
+    "Lobe"
+   ]
+  },
+  {
+   "name": "Osaka, Japan",
+   "variants": [
+    "Osεkc"
+   ]
+  },
+  {
+   "name": "Nagasaki, Japan",
+   "variants": [
+    "NAGASAKI"
+   ]
+  },
+  {
+   "name": "Tokuyama, Japan",
+   "variants": [
+    "Tokuyama",
+    "Jokuyama"
+   ]
+  },
+  {
+   "name": "Miike, Japan",
+   "variants": [
+    "Miike"
+   ]
+  },
+  {
+   "name": "Kure, Japan",
+   "variants": [
+    "Kure",
+    "KurE"
+   ]
+  },
+  {
+   "name": "Sakito, Japan",
+   "variants": [
+    "Sakito"
+   ]
+  },
+  {
+   "name": "Shanghai, China",
+   "variants": [
+    "Shanghai",
+    "Shangha1",
+    "Shanghei",
+    "SPANGHAI",
+    "Shanghi"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "CHINA"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Manila",
+    "Man lej",
+    "Nanila"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "PhilippinE Islands",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Davao, Philippines",
+   "variants": [
+    "Davao"
+   ]
+  },
+  {
+   "name": "Calambayanga, Philippines",
+   "variants": [
+    "Calambayanga"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "Singapere",
+    "Singspere",
+    "Sixgspere",
+    "Lipgapore"
+   ]
+  },
+  {
+   "name": "Penang, Malaysia",
+   "variants": [
+    "Penang",
+    "Panang",
+    "Ponang"
+   ]
+  },
+  {
+   "name": "Belawan, Indonesia",
+   "variants": [
+    "Belawan"
+   ]
+  },
+  {
+   "name": "Rangoon, Myanmar",
+   "variants": [
+    "Rangoon"
+   ]
+  },
+  {
+   "name": "Calcutta, India",
+   "variants": [
+    "Calcutta"
+   ]
+  },
+  {
+   "name": "Madras, India",
+   "variants": [
+    "Medras",
+    "Madras"
+   ]
+  },
+  {
+   "name": "Bombay, India",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Colombo, Sri Lanka",
+   "variants": [
+    "Colombo"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "Stratts Settlamts",
+    "Straites Setalemta"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Melbourne, Australia",
+   "variants": [
+    "MElbournE",
+    "Melbourne",
+    "FROELBOURNE"
+   ]
+  },
+  {
+   "name": "Sydney, Australia",
+   "variants": [
+    "Sydney"
+   ]
+  },
+  {
+   "name": "Thursday Island, Australia",
+   "variants": [
+    "Thursday Island"
+   ]
+  },
+  {
+   "name": "Townsville, Australia",
+   "variants": [
+    "TownsvillE"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brasil"
+   ]
+  },
+  {
+   "name": "São Paulo, Brazil",
+   "variants": [
+    "Sao Paulo",
+    "Sao Pa"
+   ]
+  },
+  {
+   "name": "Santos, Brazil",
+   "variants": [
+    "Santos",
+    "Santes",
+    "Saatos"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro, Brazil",
+   "variants": [
+    "Rio dE Janeiro",
+    "Rio de Janeiro",
+    "R10"
+   ]
+  },
+  {
+   "name": "Fortaleza, Brazil",
+   "variants": [
+    "Fortaleza",
+    "Fortclezc"
+   ]
+  },
+  {
+   "name": "Pernambuco, Brazil",
+   "variants": [
+    "Pernambuco",
+    "Pernembuco"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Buenos Aires, Argentina",
+   "variants": [
+    "Buenos Aires",
+    "Euenos Aires",
+    "Busnos Aires"
+   ]
+  },
+  {
+   "name": "Montevideo, Uruguay",
+   "variants": [
+    "Montevideo",
+    "Montevisdo",
+    "Mestevidee"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Antofagasta"
+   ]
+  },
+  {
+   "name": "Antofagasta, Chile",
+   "variants": [
+    "Antofagasta"
+   ]
+  },
+  {
+   "name": "Caldera, Chile",
+   "variants": [
+    "Caldera"
+   ]
+  },
+  {
+   "name": "Tocopilla, Chile",
+   "variants": [
+    "Tocopilla",
+    "Tocopi Lla"
+   ]
+  },
+  {
+   "name": "Coquimbo, Chile",
+   "variants": [
+    "Coquimbo"
+   ]
+  },
+  {
+   "name": "Valparaíso, Chile",
+   "variants": [
+    "VALPARISO"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Huacho, Peru",
+   "variants": [
+    "Huacho"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Buenaventura, Colombia",
+   "variants": [
+    "BUENAVENTURA"
+   ]
+  },
+  {
+   "name": "Bogotá, Colombia",
+   "variants": [
+    "Bogota"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washing ton",
+    "SHINGTON"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dwyre",
+   "role": "Telegram signatory",
+   "variants": [
+    "Dwyre"
+   ]
+  },
+  {
+   "name": "Lockhart",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "LOCKHART"
+   ]
+  },
+  {
+   "name": "Tower",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "TOWER"
+   ]
+  },
+  {
+   "name": "Sokobin",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "SOKOBIN"
+   ]
+  },
+  {
+   "name": "Yoshizo Murata",
+   "role": "Passenger bound for Bolivia",
+   "variants": [
+    "Yoshizo Murata"
+   ]
+  },
+  {
+   "name": "Hoyt",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "HOYT"
+   ]
+  },
+  {
+   "name": "Linnell",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "LINNELL",
+    "Linnell"
+   ]
+  },
+  {
+   "name": "Patton",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "PATTON"
+   ]
+  },
+  {
+   "name": "Allison",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "LLISON",
+    "Allison"
+   ]
+  },
+  {
+   "name": "Foster",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "FOSTER"
+   ]
+  },
+  {
+   "name": "Rambo",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "RAMBO"
+   ]
+  },
+  {
+   "name": "Orme Wilson",
+   "role": "State Department liaison officer",
+   "variants": [
+    "Orme Wilson",
+    "Orme wilsen",
+    "Orme w1loom"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department adviser referenced in correspondence",
+   "variants": [
+    "Dr Hornbeek",
+    "Dr. Hornbeck",
+    "MR. HORNBECK",
+    "MK. HUKNBELA"
+   ]
+  },
+  {
+   "name": "Linthicum",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "LINTHICUM"
+   ]
+  },
+  {
+   "name": "Chapin",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "CHAPIN",
+    "Chapin"
+   ]
+  },
+  {
+   "name": "Dickover",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "DICKOVER"
+   ]
+  },
+  {
+   "name": "Collins",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "COLLINS"
+   ]
+  },
+  {
+   "name": "Adams",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "ADAMS",
+    "Adams"
+   ]
+  },
+  {
+   "name": "Reineck",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "REINECK"
+   ]
+  },
+  {
+   "name": "Armour",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "ARMOUR"
+   ]
+  },
+  {
+   "name": "H. D. Bode",
+   "role": "U.S. Navy captain and head of Foreign Intelligence Branch",
+   "variants": [
+    "H.D. Bode",
+    "Bode",
+    "Bade"
+   ]
+  },
+  {
+   "name": "Harold R. Stark",
+   "role": "Admiral referenced in naval correspondence",
+   "variants": [
+    "Admiral Stark"
+   ]
+  },
+  {
+   "name": "Hamilton",
+   "role": "State Department official copied on message",
+   "variants": [
+    "Mr. Hamilton"
+   ]
+  },
+  {
+   "name": "Shuler",
+   "role": "State Department memorandum drafter",
+   "variants": [
+    "Shuler"
+   ]
+  },
+  {
+   "name": "A. R. Harris",
+   "role": "Chief, War Department Liaison Branch",
+   "variants": [
+    "A.B. Hanis",
+    "A. R. HARRIS"
+   ]
+  },
+  {
+   "name": "Hogg",
+   "role": "Consular telegram signatory",
+   "variants": [
+    "HOGG"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant vessels",
+  "ship movements",
+  "bills of health",
+  "naval intelligence",
+  "oil shipments",
+  "cargo",
+  "tin shipments",
+  "Pacific routes",
+  "South American ports",
+  "wartime reporting"
+ ],
+ "subfiles": [
+  {
+   "title": "ARIMA MARU departure from Puntarenas",
+   "doc_type": "Navy transmission copy",
+   "start_page": 161,
+   "end_page": 161,
+   "continues_previous": true,
+   "date": "1941-05-01",
+   "from": "San José",
+   "to": "Office of Naval Operations",
+   "about": "Reports ARIMA MARU leaving Puntarenas for Balboa.",
+   "summary": "ARIMA MARU departed Puntarenas for Balboa on May 1.",
+   "keywords": [
+    "ARIMA MARU",
+    "Puntarenas",
+    "Balboa"
+   ]
+  },
+  {
+   "title": "COLUMBIA MARU and YAMAURA sailings",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 162,
+   "end_page": 163,
+   "continues_previous": false,
+   "date": "1941-04-30",
+   "from": "Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports two vessels sailing for Manila.",
+   "summary": "COLUMBIA MARU sailed April 28 and YAMAURA April 29, both for Manila.",
+   "keywords": [
+    "COLUMBIA MARU",
+    "YAMAURA",
+    "Manila"
+   ]
+  },
+  {
+   "title": "NITIEI MARU and TOHUZI MARU departures",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 164,
+   "end_page": 165,
+   "continues_previous": false,
+   "date": "1941-05",
+   "from": "Nagasaki",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports tanker and merchant vessel departures from Japan.",
+   "summary": "NITIEI MARU left Tokuyama for Los Angeles April 27; TOHUZI MARU left Miike for Manila about April 28.",
+   "keywords": [
+    "NITIEI MARU",
+    "TOHUZI MARU",
+    "tanker"
+   ]
+  },
+  {
+   "title": "Delayed departure of Japanese whaling ships",
+   "doc_type": "Telegram and paraphrase",
+   "start_page": 166,
+   "end_page": 167,
+   "continues_previous": false,
+   "date": "1941-04-30",
+   "from": "Consulate, Kobe",
+   "to": "Secretary of State; Navy Department",
+   "about": "Reports a delay affecting two oil-carrying whaling vessels bound for California.",
+   "summary": "Two whaling vessels expected in California May 12 to load crude and diesel oil delayed departure for unknown reasons.",
+   "keywords": [
+    "whaling vessels",
+    "oil",
+    "California"
+   ]
+  },
+  {
+   "title": "Bills of health issued at Kobe since April 21",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 168,
+   "end_page": 169,
+   "continues_previous": false,
+   "date": "1941-04-28",
+   "from": "Kobe",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Lists bills of health and destinations for Japanese vessels.",
+   "summary": "Lists AWAZISAN, YAMAKAZE, ASAMA MARU, YAMAZATO, KIRISI, NORFOLK and TATSUTA MARU.",
+   "keywords": [
+    "bills of health",
+    "Kobe",
+    "vessel routes"
+   ]
+  },
+  {
+   "title": "TAKAOKA MARU at Manzanillo",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 170,
+   "end_page": 171,
+   "continues_previous": false,
+   "date": "1941-05-04",
+   "from": "Hoyt, Manzanillo",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports cargo handling and a passenger aboard TAKAOKA MARU.",
+   "summary": "The ship arrived from San Francisco, discharged Japanese cargo, loaded resin and dyes, and was to sail for Balboa. Yoshizo Murata was its sole passenger.",
+   "keywords": [
+    "TAKAOKA MARU",
+    "Manzanillo",
+    "cargo"
+   ]
+  },
+  {
+   "title": "DAIITI-OGURA, YAMAKAZE and KINUGAWA sailings",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 172,
+   "end_page": 173,
+   "continues_previous": false,
+   "date": "1941-05-02",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports three departures and their routes.",
+   "summary": "DAIITI-OGURA sailed for San Luis, YAMAKAZE for South America, and KINUGAWA reportedly for Madras and Bombay.",
+   "keywords": [
+    "tanker",
+    "YAMAKAZE",
+    "KINUGAWA"
+   ]
+  },
+  {
+   "title": "DAISAN OGURASOA and CANBERRA MARU sailings",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 174,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1941-05-03",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports departures for Los Angeles and Melbourne.",
+   "summary": "Both vessels reportedly sailed May 2, DAISAN OGURASOA for Los Angeles and CANBERRA MARU for Melbourne.",
+   "keywords": [
+    "DAISAN OGURASOA",
+    "CANBERRA MARU"
+   ]
+  },
+  {
+   "title": "HAMBURG MARU at Singapore",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 176,
+   "end_page": 177,
+   "continues_previous": false,
+   "date": "1941-05-06",
+   "from": "Patton, Singapore",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports HAMBURG MARU’s arrival and onward route.",
+   "summary": "HAMBURG MARU arrived from Sakito May 2 and left May 4 for Calcutta via Belawan and Rangoon.",
+   "keywords": [
+    "HAMBURG MARU",
+    "Singapore"
+   ]
+  },
+  {
+   "title": "NANA and ARGUN sailings",
+   "doc_type": "Telegram and two Navy paraphrases",
+   "start_page": 178,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1941-05-05",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports sailings toward South America and South Asia.",
+   "summary": "NANA left May 4 for eastern South America via Los Angeles and Panama Canal. ARGUN reportedly left May 3 for Singapore, Penang, Colombo and Bombay.",
+   "keywords": [
+    "NANA",
+    "ARGUN",
+    "routes"
+   ]
+  },
+  {
+   "title": "SAGAMI sailing for South America",
+   "doc_type": "Telegram and Navy paraphrases",
+   "start_page": 181,
+   "end_page": 183,
+   "continues_previous": false,
+   "date": "1941-05-06",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports SAGAMI’s route to western South America.",
+   "summary": "SAGAMI sailed May 5 via San Francisco, Los Angeles, Manzanillo and Balboa.",
+   "keywords": [
+    "SAGAMI",
+    "South America"
+   ]
+  },
+  {
+   "title": "KYOKUYO MARU bill of health",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 184,
+   "end_page": 185,
+   "continues_previous": false,
+   "date": "1941-05-06",
+   "from": "Allison, Osaka",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports a bill of health for a whale factory vessel.",
+   "summary": "KYOKUYO MARU received a bill of health for San Pedro.",
+   "keywords": [
+    "KYOKUYO MARU",
+    "bill of health"
+   ]
+  },
+  {
+   "title": "YAMAGIRI MARU at Santos",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 186,
+   "end_page": 187,
+   "continues_previous": false,
+   "date": "1941-05-08",
+   "from": "Foster, São Paulo",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports YAMAGIRI MARU’s South American movement.",
+   "summary": "YAMAGIRI MARU arrived at Santos from Kobe May 4 and sailed for Buenos Aires May 6.",
+   "keywords": [
+    "YAMAGIRI MARU",
+    "Santos"
+   ]
+  },
+  {
+   "title": "TOA MARU at Fortaleza",
+   "doc_type": "Telegram and Navy copy",
+   "start_page": 188,
+   "end_page": 189,
+   "continues_previous": false,
+   "date": "1941-05-08",
+   "from": "Rambo, Fortaleza",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports TOA MARU’s call and onward itinerary.",
+   "summary": "TOA MARU arrived May 7 from Rio de Janeiro and departed May 8 for Cristóbal, Balboa, Los Angeles, Yokohama and Kobe.",
+   "keywords": [
+    "TOA MARU",
+    "Fortaleza"
+   ]
+  },
+  {
+   "title": "SANUKI MARU cargo at Manzanillo",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 190,
+   "end_page": 191,
+   "continues_previous": false,
+   "date": "1941-05-08",
+   "from": "Hoyt, Manzanillo",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Details strategic materials loaded by SANUKI MARU.",
+   "summary": "Arriving from Huacho, SANUKI MARU loaded fluorspar, turpentine, scrap tin, steel, other metals, mercury and mica before sailing for Japan via Los Angeles.",
+   "keywords": [
+    "SANUKI MARU",
+    "metals",
+    "cargo"
+   ]
+  },
+  {
+   "title": "SANYO MARU sailing for New York",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 192,
+   "end_page": 193,
+   "continues_previous": false,
+   "date": "1941-05-07",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports SANYO MARU’s departure and route.",
+   "summary": "SANYO MARU sailed May 6 for New York via San Francisco, Los Angeles and Cristóbal.",
+   "keywords": [
+    "SANYO MARU",
+    "New York"
+   ]
+  },
+  {
+   "title": "Bills of health issued at Kobe since April 28",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 194,
+   "end_page": 195,
+   "continues_previous": false,
+   "date": "1941-05-06",
+   "from": "Sokobin, Kobe",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Lists vessels receiving bills of health and their destinations.",
+   "summary": "Lists SAGAMI, NANA, SANYO, HIE, ALUMA, YUZAN and TONAN NO. 3, the last bound for Los Angeles to load oil and gasoline.",
+   "keywords": [
+    "bills of health",
+    "oil",
+    "Kobe"
+   ]
+  },
+  {
+   "title": "HIE sailing to Seattle and Vancouver",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 196,
+   "end_page": 197,
+   "continues_previous": false,
+   "date": "1941-05-08",
+   "from": "Lockhart, Yokohama",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports HIE’s North American route.",
+   "summary": "HIE sailed May 7 for Seattle and Vancouver.",
+   "keywords": [
+    "HIE",
+    "Seattle",
+    "Vancouver"
+   ]
+  },
+  {
+   "title": "Scheduled Japanese tanker liftings of special crude oil",
+   "doc_type": "Memorandum",
+   "start_page": 198,
+   "end_page": 198,
+   "continues_previous": false,
+   "date": "1941-05-07",
+   "from": "State Department adviser’s office",
+   "to": "Secretary of State",
+   "about": "Reports eight tankers scheduled to carry special San Joaquin Valley crude to Japan.",
+   "summary": "Eight tankers were expected to load about 680,000 barrels in California.",
+   "keywords": [
+    "tankers",
+    "crude oil",
+    "aviation fuel"
+   ]
+  },
+  {
+   "title": "Tanker oil memorandum to War Department",
+   "doc_type": "Cover memorandum",
+   "start_page": 199,
+   "end_page": 199,
+   "continues_previous": false,
+   "date": "1941-05-18",
+   "from": "Orme Wilson, Liaison Officer",
+   "to": "Chief, Liaison Branch, War Department",
+   "about": "Forwards information on eight Japanese tankers carrying high-octane crude.",
+   "summary": "Forwards the State Department memorandum on eight tanker shipments.",
+   "keywords": [
+    "tankers",
+    "oil",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Tanker oil memorandum to Navy Department",
+   "doc_type": "Cover memorandum",
+   "start_page": 200,
+   "end_page": 200,
+   "continues_previous": false,
+   "date": "1941-05-18",
+   "from": "Orme Wilson, Liaison Officer",
+   "to": "Director, Central Division, Navy Department",
+   "about": "Forwards information on eight Japanese tankers carrying high-octane crude.",
+   "summary": "Forwards the State Department memorandum on eight tanker shipments.",
+   "keywords": [
+    "tankers",
+    "oil",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "ARABIA MARU at Pernambuco",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 201,
+   "end_page": 202,
+   "continues_previous": false,
+   "date": "1941-05-10",
+   "from": "Linthicum, Pernambuco",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports ARABIA MARU’s arrival and South American itinerary.",
+   "summary": "ARABIA MARU arrived from Baltimore May 9 and departed the same day for Brazilian, Uruguayan and Argentine ports.",
+   "keywords": [
+    "ARABIA MARU",
+    "Pernambuco"
+   ]
+  },
+  {
+   "title": "YAMAGIRI MARU at Montevideo",
+   "doc_type": "Telegram and Navy copy",
+   "start_page": 203,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1941-05-10",
+   "from": "Chapin, Montevideo",
+   "to": "Secretary of State; Navy Department",
+   "about": "Reports YAMAGIRI MARU’s arrival and planned departure.",
+   "summary": "YAMAGIRI MARU arrived from Santos May 10 and was to sail that night for Buenos Aires.",
+   "keywords": [
+    "YAMAGIRI MARU",
+    "Montevideo"
+   ]
+  },
+  {
+   "title": "SUWA at Thursday Island",
+   "doc_type": "Telegram",
+   "start_page": 205,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1941-05-10",
+   "from": "Dickover, Melbourne",
+   "to": "Secretary of State",
+   "about": "Reports SUWA’s Australian port call.",
+   "summary": "SUWA arrived from Davao May 9 and left for Townsville the same day.",
+   "keywords": [
+    "SUWA",
+    "Thursday Island"
+   ]
+  },
+  {
+   "title": "AZUMA and KIYO sailings",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 206,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1941-05",
+   "from": "Linnell, Yokohama",
+   "to": "Secretary of State; Navy Department",
+   "about": "Reports a merchant ship and tanker leaving Yokohama.",
+   "summary": "AZUMA sailed May 8 for New York via Pacific and Canal Zone ports; tanker KIYO left for San Francisco.",
+   "keywords": [
+    "AZUMA",
+    "KIYO",
+    "tanker"
+   ]
+  },
+  {
+   "title": "Navy-chartered tanker KOKUYO",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 208,
+   "end_page": 209,
+   "continues_previous": false,
+   "date": "1941-05-09",
+   "from": "Sokobin, Kobe",
+   "to": "Secretary of State; Navy Department",
+   "about": "Reports KOKUYO’s charter, oil-loading voyage and naval personnel aboard.",
+   "summary": "KOKUYO was expected to leave Kure May 13 for Los Angeles to load oil and gasoline, carrying fifteen Japanese Navy personnel.",
+   "keywords": [
+    "KOKUYO",
+    "Japanese Navy",
+    "oil"
+   ]
+  },
+  {
+   "title": "NOSIRO MARU carrying cargo from MARINA O",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 210,
+   "end_page": 211,
+   "continues_previous": false,
+   "date": "1941-05-12",
+   "from": "Collins, Tampico",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports lead and cotton loaded from an ex-Italian vessel.",
+   "summary": "NOSIRO MARU left Tampico for Los Angeles and Japan with 2,500 tons of lead and 960 tons of cotton from MARINA O’s cargo.",
+   "keywords": [
+    "NOSIRO MARU",
+    "MARINA O",
+    "lead",
+    "cotton"
+   ]
+  },
+  {
+   "title": "SAKITO MARU at Antofagasta",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 212,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1941-05-12",
+   "from": "Adams, Antofagasta",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports SAKITO MARU’s Chilean movements.",
+   "summary": "SAKITO MARU arrived from Caldera May 10 and departed for Tocopilla May 12.",
+   "keywords": [
+    "SAKITO MARU",
+    "Antofagasta"
+   ]
+  },
+  {
+   "title": "HIKAWA and NORSELAND at Vancouver",
+   "doc_type": "Telegram and Navy copy",
+   "start_page": 214,
+   "end_page": 215,
+   "continues_previous": false,
+   "date": "1941-05-12",
+   "from": "Reineck, Vancouver",
+   "to": "Secretary of State; Navy Department",
+   "about": "Reports two vessel arrivals and HIKAWA’s departure.",
+   "summary": "HIKAWA arrived from Seattle and departed for Yokohama May 10; Panamanian NORSELAND arrived from San Pedro.",
+   "keywords": [
+    "HIKAWA",
+    "NORSELAND",
+    "Vancouver"
+   ]
+  },
+  {
+   "title": "FLORIDA MARU cargo at Manzanillo",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 216,
+   "end_page": 217,
+   "continues_previous": false,
+   "date": "1941-05-12",
+   "from": "Hoyt, Manzanillo",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports strategic cargo loaded for Japan.",
+   "summary": "FLORIDA MARU arrived from Corinto and loaded fluorspar, lead, scrap tin, cotton and mercury before departing for Japan via Los Angeles. Some cotton came from MARINA O.",
+   "keywords": [
+    "FLORIDA MARU",
+    "cotton",
+    "metals"
+   ]
+  },
+  {
+   "title": "KANTO MARU leaving Buenos Aires",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 218,
+   "end_page": 219,
+   "continues_previous": false,
+   "date": "1941-05-13",
+   "from": "Armour, Buenos Aires",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports KANTO MARU’s departure and route to Los Angeles.",
+   "summary": "KANTO MARU arrived May 7 and left May 13 via Montevideo, Brazilian ports and Panama Canal.",
+   "keywords": [
+    "KANTO MARU",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "title": "Japanese vessels carrying tin to the Americas in 1940",
+   "doc_type": "Statistical table",
+   "start_page": 220,
+   "end_page": 226,
+   "continues_previous": false,
+   "date": "1940",
+   "from": "",
+   "to": "",
+   "about": "Tabulates refined tin and tin plate shipments by vessel, port, shipper and destination.",
+   "summary": "The table lists 1940 arrivals, quantities and export ports for Japanese ships carrying Straits refined tin and tin plate. Facing pages give shippers, consignees and destinations, followed by monthly recapitulations and totals.",
+   "keywords": [
+    "tin",
+    "tin plate",
+    "shipping statistics",
+    "1940"
+   ]
+  },
+  {
+   "title": "Direct reporting from Puntarenas to Balboa",
+   "doc_type": "Navy Department memorandum",
+   "start_page": 227,
+   "end_page": 227,
+   "continues_previous": false,
+   "date": "1941-02-19",
+   "from": "H. D. Bode, Office of Naval Intelligence",
+   "to": "Orme Wilson, State Department",
+   "about": "Approves direct naval reporting of Japanese ship movements from Puntarenas.",
+   "summary": "Navy agrees that San José should notify the 15th Naval District directly and inform State at the same time.",
+   "keywords": [
+    "Puntarenas",
+    "reporting procedure",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Note on confidential Australian ship information",
+   "doc_type": "Internal note",
+   "start_page": 228,
+   "end_page": 228,
+   "continues_previous": false,
+   "date": "1941-02-17",
+   "from": "",
+   "to": "",
+   "about": "Suggests ways to obtain confidential Australian ship movement information.",
+   "summary": "Suggests requesting the data under strict confidence, then consulting shipping publications if needed.",
+   "keywords": [
+    "Australia",
+    "ship information"
+   ]
+  },
+  {
+   "title": "Scope of Japanese vessel reports from Sydney",
+   "doc_type": "Navy Department memorandum",
+   "start_page": 229,
+   "end_page": 229,
+   "continues_previous": false,
+   "date": "1941-03",
+   "from": "H. D. Bode, Office of Naval Intelligence",
+   "to": "Orme Wilson, State Department",
+   "about": "Requests clarification that Sydney reports vessels bound for foreign as well as U.S. ports.",
+   "summary": "Navy asks that Sydney report Japanese naval vessels and large merchant ships regardless of destination, using the best available information.",
+   "keywords": [
+    "Sydney",
+    "reporting instructions",
+    "Japanese vessels"
+   ]
+  },
+  {
+   "title": "Reported Japanese convoy sighting",
+   "doc_type": "Paraphrased naval message",
+   "start_page": 230,
+   "end_page": 230,
+   "continues_previous": false,
+   "date": "",
+   "from": "Navy Department",
+   "to": "Fourteenth Naval District",
+   "about": "Requests questioning witnesses to a reported Japanese convoy.",
+   "summary": "A PRESIDENT CLEVELAND passenger reportedly saw about 25 Japanese ships southbound; Navy requests details from witnesses at Honolulu.",
+   "keywords": [
+    "convoy",
+    "PRESIDENT CLEVELAND",
+    "Honolulu"
+   ]
+  },
+  {
+   "title": "Routing note on attached correspondence",
+   "doc_type": "Internal routing note",
+   "start_page": 231,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "1941-03-12",
+   "from": "",
+   "to": "",
+   "about": "Asks whether a draft response should be prepared.",
+   "summary": "Asks whether to draft a reply on the attached matter.",
+   "keywords": [
+    "routing",
+    "draft reply"
+   ]
+  },
+  {
+   "title": "State Department note on Manila intelligence request",
+   "doc_type": "Internal memorandum",
+   "start_page": 232,
+   "end_page": 232,
+   "continues_previous": false,
+   "date": "1941-03-18",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Hornbeck",
+   "about": "Assesses an unauthorized request for Japanese vessel movement reports.",
+   "summary": "Concludes that Manila Military Intelligence acted independently of Navy’s request and proposes disposing of the matter by telegram.",
+   "keywords": [
+    "Manila",
+    "Military Intelligence",
+    "reporting"
+   ]
+  },
+  {
+   "title": "War Department response on Manila request",
+   "doc_type": "War Department memorandum",
+   "start_page": 233,
+   "end_page": 233,
+   "continues_previous": false,
+   "date": "1941-03-12",
+   "from": "A. R. Harris, Military Intelligence Division",
+   "to": "State Department Liaison Officer",
+   "about": "Disavows Manila Military Intelligence’s request for vessel information.",
+   "summary": "War says Manila acted alone, advises State against complying, and will notify Manila.",
+   "keywords": [
+    "Manila",
+    "War Department",
+    "Japanese vessels"
+   ]
+  },
+  {
+   "title": "American Republics routing sheet",
+   "doc_type": "Routing sheet",
+   "start_page": 234,
+   "end_page": 234,
+   "continues_previous": false,
+   "date": "",
+   "from": "State Department, American Republics",
+   "to": "",
+   "about": "Routes associated American republics correspondence.",
+   "summary": "Brief routing sheet with an illegible annotation.",
+   "keywords": [
+    "routing sheet",
+    "American republics"
+   ]
+  },
+  {
+   "title": "RAKUYO MARU at Buenaventura",
+   "doc_type": "Paraphrased naval attaché message",
+   "start_page": 235,
+   "end_page": 235,
+   "continues_previous": false,
+   "date": "1941-03-20",
+   "from": "Naval Attaché, Bogotá",
+   "to": "State Department",
+   "about": "Reports RAKUYO MARU’s route, passengers and German personnel.",
+   "summary": "RAKUYO MARU arrived from Valparaíso carrying about 275 passengers, including 18 Germans, and was bound for Yokohama via Mexican and U.S. ports.",
+   "keywords": [
+    "RAKUYO MARU",
+    "Buenaventura",
+    "German passengers"
+   ]
+  },
+  {
+   "title": "ARIMA MARU at Antofagasta",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 236,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1941-05-14",
+   "from": "Adams, Antofagasta",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports ARIMA MARU’s arrival and departure.",
+   "summary": "ARIMA MARU arrived from Balboa May 9 and sailed for Coquimbo May 14.",
+   "keywords": [
+    "ARIMA MARU",
+    "Antofagasta"
+   ]
+  },
+  {
+   "title": "KANTO MARU at Montevideo",
+   "doc_type": "Telegram and Navy paraphrase",
+   "start_page": 238,
+   "end_page": 239,
+   "continues_previous": false,
+   "date": "1941-05-14",
+   "from": "Chapin, Montevideo",
+   "to": "Secretary of State; Office of Naval Operations",
+   "about": "Reports KANTO MARU’s arrival and onward route.",
+   "summary": "KANTO MARU arrived from Buenos Aires May 14 and was due to leave May 15 for Los Angeles via Brazil and Panama Canal.",
+   "keywords": [
+    "KANTO MARU",
+    "Montevideo"
+   ]
+  },
+  {
+   "title": "NORWAY MARU at Manzanillo",
+   "doc_type": "Telegram",
+   "start_page": 240,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1941-05-14",
+   "from": "Hogg, Manzanillo",
+   "to": "Secretary of State",
+   "about": "Reports NORWAY MARU’s cargo exchange and departure.",
+   "summary": "NORWAY MARU arrived from Los Angeles, exchanged cargo, and sailed for Corinto May 14.",
+   "keywords": [
+    "NORWAY MARU",
+    "Manzanillo",
+    "cargo"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 7,
+  "pages": [
+   161,
+   240
+  ],
+  "pdf": "894.8591 Merchant Vessels. Yachts. Immunities Of Government -Controlled., Other Matters Respecting Merchant Vessels., Japan, Movement Of Merchant Vessels And Yachts., April 2, 1941 - July 1, 1941 1278.pdf",
+  "seconds": 98.1,
+  "created": "2026-10-08 13:14:14",
+  "key": "japan-internal-affairs-894.8591-merchant-vessels-yachts-10"
+ }
+}

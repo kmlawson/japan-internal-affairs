@@ -1,0 +1,781 @@
+{
+ "section_summary": "This section covers Japanese finances in 1940, chiefly a detailed report on the 1940–41 national budget, bond issues, military expenditure and colonial accounts. Other documents concern a proposed American-financed loan for Japanese ship purchases, a reported bond scheme using an American corporation, contributions to Japanese war funds in Seattle, and information about Italian funds intended for Hideo Ito.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Republic of China"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "SHANGHAI",
+    "Shanghal",
+    "Shaughai"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping",
+    "PEIPING",
+    "Reiping",
+    "Peefing",
+    "Pruping"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "CHUNGKING"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyc",
+    "Toyo",
+    "Totryo"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "TIENTSIN",
+    "Trulsin"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Yashington",
+    "Washinton",
+    "ington, D. ."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "nite StatE"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York",
+    "Nev York",
+    "Mew York",
+    "Hew York"
+   ]
+  },
+  {
+   "name": "New Jersey",
+   "variants": [
+    "New Jersey"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware"
+   ]
+  },
+  {
+   "name": "Wilmington",
+   "variants": [
+    "Wilmington",
+    "Vilmington"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panamanian"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "obe"
+   ]
+  },
+  {
+   "name": "Marunouchi",
+   "variants": [
+    "arunouchi"
+   ]
+  },
+  {
+   "name": "Shimoochiai",
+   "variants": [
+    "Shimoochia"
+   ]
+  },
+  {
+   "name": "Yodobashi",
+   "variants": [
+    "Yodohachi u"
+   ]
+  },
+  {
+   "name": "Foochow Road, Shanghai",
+   "variants": [
+    "Foochow Road"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Hanchuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "Manchukuo",
+    "Manchoukuo"
+   ]
+  },
+  {
+   "name": "Kwantung",
+   "variants": [
+    "Kwantung",
+    "KWANTUNG"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "CHOSEN",
+    "Korean",
+    "Northern Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "TAIWAN",
+    "TAIVAN"
+   ]
+  },
+  {
+   "name": "Karafuto (southern Sakhalin)",
+   "variants": [
+    "Karafuto",
+    "KARAFUTO",
+    "YARAFUTO",
+    "KAPAFUTO"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Seas",
+    "SOUTH SEA",
+    "SOUTH SEA MAIDATE"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "Ogasawara (Bonin) Islanus",
+    "Ogasawara Island"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Hankou",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Okinawa Prefecture",
+   "variants": [
+    "Okinawa Prefecture"
+   ]
+  },
+  {
+   "name": "Ōshima District",
+   "variants": [
+    "Oshima District"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima Prefecture"
+   ]
+  },
+  {
+   "name": "Izu Islands",
+   "variants": [
+    "Seven Islanas of Izu"
+   ]
+  },
+  {
+   "name": "Sagami River",
+   "variants": [
+    "Sagami River"
+   ]
+  },
+  {
+   "name": "Sanriku",
+   "variants": [
+    "Sanriku District"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku district",
+    "Northeastern District",
+    "Northeastern districts"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji Castle"
+   ]
+  },
+  {
+   "name": "Kashihara",
+   "variants": [
+    "Kashiwara Shrine"
+   ]
+  },
+  {
+   "name": "Unebi-yama",
+   "variants": [
+    "Unebi Yama Tohoku-ryo Road"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "Morth China"
+   ]
+  },
+  {
+   "name": "Soviet Russia",
+   "variants": [
+    "Soviet Russia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Hull",
+    "Huy"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department official",
+   "variants": [
+    "MR. HORNBECK",
+    "MR. HONBECK",
+    "MK. HORNH"
+   ]
+  },
+  {
+   "name": "William Hunt",
+   "role": "American businessman connected with the proposed ship transaction",
+   "variants": [
+    "William Hunt",
+    "Mr. Hunt"
+   ]
+  },
+  {
+   "name": "Yoshimitsu Tatsuno",
+   "role": "Agent for the proposed Japanese ship purchasers",
+   "variants": [
+    "Mr. Y. Tatsuno",
+    "Mr. Yoshimitsu Tatsuno",
+    "Y. Tatsuno"
+   ]
+  },
+  {
+   "name": "Richard P. Butrick",
+   "role": "American consul at Shanghai",
+   "variants": [
+    "BUTRICK",
+    "Richard P. Butrick"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. ambassador in Tokyo",
+   "variants": [
+    "Joseph C. Grew",
+    "GREV."
+   ]
+  },
+  {
+   "name": "Frank S. Williams",
+   "role": "Commercial attaché at the American Embassy, Tokyo",
+   "variants": [
+    "Frenk S.Williams"
+   ]
+  },
+  {
+   "name": "Kawada",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Kawada"
+   ]
+  },
+  {
+   "name": "Mitsumasa Yonai",
+   "role": "Japanese prime minister",
+   "variants": [
+    "Mitsumasa Yonai"
+   ]
+  },
+  {
+   "name": "Emperor Jimmu",
+   "role": "Japanese emperor named in a budget item",
+   "variants": [
+    "Emperor Jimmu"
+   ]
+  },
+  {
+   "name": "C. S. Outten",
+   "role": "Original incorporator of the International Finance and Exchange Company",
+   "variants": [
+    "C. S. Outten"
+   ]
+  },
+  {
+   "name": "S. L. Makey",
+   "role": "Original incorporator of the International Finance and Exchange Company",
+   "variants": [
+    "S. L. MakEy"
+   ]
+  },
+  {
+   "name": "L. C. Christy",
+   "role": "Original incorporator of the International Finance and Exchange Company",
+   "variants": [
+    "L. C. Christy"
+   ]
+  },
+  {
+   "name": "Likawa",
+   "role": "Reported member of a Japanese group planning a bond issue",
+   "variants": [
+    "Mr. Likawa"
+   ]
+  },
+  {
+   "name": "Hayashi",
+   "role": "General and former Japanese prime minister",
+   "variants": [
+    "GEnEral Hayashi"
+   ]
+  },
+  {
+   "name": "Max A. Lorenzen",
+   "role": "American director of the International Finance and Exchange Company",
+   "variants": [
+    "Max A. Lorenzen"
+   ]
+  },
+  {
+   "name": "Herman M. Young",
+   "role": "American director of the International Finance and Exchange Company",
+   "variants": [
+    "Herman M. Young"
+   ]
+  },
+  {
+   "name": "Taromatsu Kanda",
+   "role": "Prospective purchaser of ships",
+   "variants": [
+    "Taromatsu Kanda"
+   ]
+  },
+  {
+   "name": "Yutaro Sato",
+   "role": "Prospective purchaser of ships",
+   "variants": [
+    "Yutaro Sato"
+   ]
+  },
+  {
+   "name": "Myron Wiener",
+   "role": "Witness to underwriting agreement",
+   "variants": [
+    "Myron Wiener"
+   ]
+  },
+  {
+   "name": "G. M. Rosse",
+   "role": "Witness to underwriting agreement",
+   "variants": [
+    "G. M. Rosse"
+   ]
+  },
+  {
+   "name": "Fritz Schick",
+   "role": "Signatory for the underwriter",
+   "variants": [
+    "Fritz Schick"
+   ]
+  },
+  {
+   "name": "B. Phillips",
+   "role": "U.S. Navy captain",
+   "variants": [
+    ".B. Phillips"
+   ]
+  },
+  {
+   "name": "Fletcher Warren",
+   "role": "State Department recipient of Navy memorandum",
+   "variants": [
+    "Ar. Varren",
+    "Kir. Fletcher Warren"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "MR. BERLE",
+    "Honorable Adolf A. Berle, Junior"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Sender of FBI letter",
+   "variants": [
+    "Ea. hoover"
+   ]
+  },
+  {
+   "name": "Hideo Ito",
+   "role": "Intended recipient of Italian funds",
+   "variants": [
+    "Hideo Ito"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese national budget",
+  "1940–41 fiscal year",
+  "bond issues",
+  "military expenditure",
+  "colonial budgets",
+  "ship purchase financing",
+  "American credit",
+  "premium bonds",
+  "war fund contributions",
+  "Italian funds"
+ ],
+ "subfiles": [
+  {
+   "title": "Instructions concerning proposed loan for Japanese ship purchases",
+   "doc_type": "outgoing telegram",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1940-09-12",
+   "from": "Department of State",
+   "to": "American Consulate General, Shanghai; repeated to Peiping and Chungking",
+   "about": "The Department requests more facts about a proposed $2 million loan for Japanese ship purchases.",
+   "summary": "The Department asks for the source and nature of the financing and suggests showing the interested Americans a Commerce Department statement on credit to Japanese firms.",
+   "keywords": [
+    "ship purchases",
+    "China Foreign Trade Corporation",
+    "loan",
+    "American credit"
+   ]
+  },
+  {
+   "title": "Recommendation on Shanghai financial transaction",
+   "doc_type": "internal memorandum",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1940-09-23",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State",
+   "about": "The division recommends no further action on the proposed Shanghai transaction.",
+   "summary": "Shanghai is informing the parties about U.S. guidance on credit to Japanese firms.",
+   "keywords": [
+    "Shanghai",
+    "credit",
+    "China Foreign Trade Corporation"
+   ]
+  },
+  {
+   "title": "Shanghai report on proposed ship-financing transaction",
+   "doc_type": "incoming telegram",
+   "start_page": 4,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1940-09-19",
+   "from": "American Consulate General, Shanghai",
+   "to": "Department of State",
+   "about": "William Hunt explains his companies’ role and possible funding sources for the proposed transaction.",
+   "summary": "Hunt says his companies hold no title to the vessels and that the Japanese parties have yet to act. He suggests consulting National City Bank in New York about any American funds involved.",
+   "keywords": [
+    "William Hunt",
+    "vessels",
+    "National City Bank",
+    "loan"
+   ]
+  },
+  {
+   "title": "Reduction in Budget Expenditures for 1940–41",
+   "doc_type": "embassy despatch",
+   "start_page": 6,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1940-09-06",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Japan’s cabinet approved budget reductions totaling ¥642,187,000.",
+   "summary": "The despatch distinguishes canceled from postponed spending and lists affected accounts. It reports generally favorable press reaction, criticism that the cuts were superficial, and a fall in Tokyo share prices.",
+   "keywords": [
+    "budget reductions",
+    "1940–41",
+    "Tokyo Stock Exchange",
+    "press reaction"
+   ]
+  },
+  {
+   "title": "Termination of proposed ship-financing agreement",
+   "doc_type": "incoming telegram",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1940-10-02",
+   "from": "American Consulate General, Shanghai",
+   "to": "Department of State",
+   "about": "The China Foreign Trade Corporation declined to extend the agreement after it expired unused.",
+   "summary": "The corporation also considered the proposed transaction incompatible with existing conditions.",
+   "keywords": [
+    "China Foreign Trade Corporation",
+    "ship financing",
+    "agreement expired"
+   ]
+  },
+  {
+   "title": "National Budget for Japan—1940–41 Fiscal Year",
+   "doc_type": "commercial attaché report with translated budget tables",
+   "start_page": 11,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1940-09-13",
+   "from": "Frank S. Williams, Commercial Attaché, American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "The report compiles Japan’s 1940–41 national budget, supplementary appropriations and special accounts.",
+   "summary": "It compares the general and extraordinary military budgets with prior years and estimates financing through bond issues. A translation of the promulgated budget details revenue and expenditure by ministry, followed by supplementary budgets and accounts for railways, debt, insurance and other activities. Separate tables cover Kwantung, Chosen, Taiwan, Karafuto and the South Seas Mandate, ending with the ¥4.46 billion contingent military expenditure budget.",
+   "keywords": [
+    "national budget",
+    "1940–41",
+    "bond issues",
+    "military expenditure",
+    "special accounts",
+    "colonial budgets"
+   ]
+  },
+  {
+   "title": "Reported premium-bond scheme using an American corporation",
+   "doc_type": "incoming telegram",
+   "start_page": 68,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1940-10-05",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "A Japanese group reportedly planned to issue lottery-like premium bonds in China through an American corporation.",
+   "summary": "The embassy identifies the International Finance and Exchange Company’s Delaware registration and original incorporators, and reports that Japanese participants intended to issue debentures under their names.",
+   "keywords": [
+    "premium bonds",
+    "lottery",
+    "International Finance and Exchange Company",
+    "Delaware"
+   ]
+  },
+  {
+   "title": "Request for investigation of International Finance and Exchange Company",
+   "doc_type": "outgoing telegram",
+   "start_page": 70,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1940-12-12",
+   "from": "Department of State",
+   "to": "American Consul, Tientsin; information to Peiping and Shanghai",
+   "about": "The Department requests an investigation of the corporation’s ownership, directors and proposed activities.",
+   "summary": "It identifies two American directors in Tientsin and asks for a report, with a copy to the U.S. district attorney at Shanghai if the bond plan proceeds.",
+   "keywords": [
+    "corporate ownership",
+    "American directors",
+    "premium bonds",
+    "Tientsin"
+   ]
+  },
+  {
+   "title": "Transmittal of ship-purchase underwriting agreement",
+   "doc_type": "consular despatch",
+   "start_page": 72,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1940-09-11",
+   "from": "Richard P. Butrick, American Consulate General, Shanghai",
+   "to": "Secretary of State",
+   "about": "Butrick forwards a confidential copy of the proposed ship-purchase financing agreement.",
+   "summary": "The agreement was supplied by the China Foreign Trade Corporation.",
+   "keywords": [
+    "underwriting agreement",
+    "ship purchases",
+    "Shanghai"
+   ]
+  },
+  {
+   "title": "Underwriting Agreement",
+   "doc_type": "agreement",
+   "start_page": 73,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1940-08-29",
+   "from": "Taromatsu Kanda and Yutaro Sato, through Yoshimitsu Tatsuno; China Foreign Trade Corporation",
+   "to": "",
+   "about": "The corporation agrees to lend or underwrite up to $2 million for the purchasers’ acquisition of vessels.",
+   "summary": "The agreement sets a $1 million minimum, twelve-month repayment, eight-percent interest and security through a National City Bank letter of credit. It provides for termination if the purchasers do not act within a month and states that the transaction is commercial.",
+   "keywords": [
+    "ship purchases",
+    "loan",
+    "letter of credit",
+    "China Foreign Trade Corporation"
+   ]
+  },
+  {
+   "title": "Japanese Association of Seattle",
+   "doc_type": "Navy memorandum",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1940-09-24",
+   "from": "B. Phillips, Office of Naval Intelligence",
+   "to": "Fletcher Warren, Department of State",
+   "about": "Naval Intelligence forwards a report on contributions collected by the Japanese Association of Seattle.",
+   "summary": "A copy of the report was also furnished to the Treasury Department.",
+   "keywords": [
+    "Seattle",
+    "Japanese war funds",
+    "Naval Intelligence"
+   ]
+  },
+  {
+   "title": "Japanese Association of Seattle: Contributions to Japanese War Funds",
+   "doc_type": "enclosed intelligence report",
+   "start_page": 77,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1940-09",
+   "from": "Office of Naval Intelligence",
+   "to": "Department of State",
+   "about": "The report records a Seattle fundraising campaign for Japan’s war with China.",
+   "summary": "It reports that collected funds were delivered to the Seattle Japanese Consulate on September 12.",
+   "keywords": [
+    "Seattle",
+    "war fund contributions",
+    "Japanese consulate"
+   ]
+  },
+  {
+   "title": "FBI transmittal concerning Italian funds",
+   "doc_type": "letter",
+   "start_page": 78,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1940-09-24",
+   "from": "J. Edgar Hoover, Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr., Assistant Secretary of State",
+   "about": "Hoover forwards information about Italian funds for Berle’s consideration.",
+   "summary": "The letter encloses a memorandum from a source Hoover considers reliable.",
+   "keywords": [
+    "Italian funds",
+    "FBI",
+    "Adolf A. Berle Jr."
+   ]
+  },
+  {
+   "title": "Italian credit intended for Hideo Ito",
+   "doc_type": "enclosed memorandum",
+   "start_page": 79,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1940-09-24",
+   "from": "Federal Bureau of Investigation",
+   "to": "Adolf A. Berle Jr.",
+   "about": "An Italian credit of $795,767.80 was reportedly to be withdrawn and secretly delivered to Hideo Ito.",
+   "summary": "The memorandum names a possible banking channel and Ito’s New York address.",
+   "keywords": [
+    "Italian funds",
+    "Hideo Ito",
+    "New York",
+    "telegraphic credit"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 5,
+  "pages": [
+   1,
+   79
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., September 11, 1940 - December 19, 1944 1475-part-1.pdf",
+  "seconds": 78.9,
+  "created": "2026-10-08 14:23:30",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-13-part-1"
+ }
+}

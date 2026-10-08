@@ -1,0 +1,1402 @@
+{
+ "section_summary": "This section contains the end of one compilation of intercepted commercial messages, an April 19, 1944 Embassy despatch forwarding another compilation, and the beginning of that enclosure. The messages concern wartime rice purchases, shipping, import permits, industrial equipment, finance, insurance, personnel and trade across Japan, French Indochina, China and Southeast Asia. The enclosure also includes private messages and requests for reporting on political developments.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Nippon",
+    "homeland"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Os aka",
+    "Osake",
+    "Wakahigasi (Osaka East)"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tokio",
+    "tokio",
+    "Tokyoyubin"
+   ]
+  },
+  {
+   "name": "Saigon, Vietnam",
+   "variants": [
+    "Saigon",
+    "Sai gon",
+    "Saicon",
+    "Sai on",
+    "Sui on",
+    "Seigon",
+    "Baigon",
+    "aigon",
+    "saigon",
+    "Saison"
+   ]
+  },
+  {
+   "name": "Hanoi, Vietnam",
+   "variants": [
+    "Hanoi",
+    "Lunoi",
+    "Hanei"
+   ]
+  },
+  {
+   "name": "Haiphong, Vietnam",
+   "variants": [
+    "Haiphong",
+    "Haiphone",
+    "Thaiphong"
+   ]
+  },
+  {
+   "name": "Cholon, Vietnam",
+   "variants": [
+    "Cholon",
+    "holon"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indochina",
+    "Indochina",
+    "Indo-china",
+    "Indocnina",
+    "indochinas"
+   ]
+  },
+  {
+   "name": "Tonkin, Vietnam",
+   "variants": [
+    "Tonkin"
+   ]
+  },
+  {
+   "name": "Annam, Vietnam",
+   "variants": [
+    "Annam"
+   ]
+  },
+  {
+   "name": "Bà Rịa, Vietnam",
+   "variants": [
+    "Baria"
+   ]
+  },
+  {
+   "name": "Battambang, Cambodia",
+   "variants": [
+    "Battambang",
+    "battambang"
+   ]
+  },
+  {
+   "name": "Phnom Penh, Cambodia",
+   "variants": [
+    "Pnompenh"
+   ]
+  },
+  {
+   "name": "Mỹ Tho, Vietnam",
+   "variants": [
+    "Mytho"
+   ]
+  },
+  {
+   "name": "Đà Lạt, Vietnam",
+   "variants": [
+    "Dalatannam"
+   ]
+  },
+  {
+   "name": "Bến Thủy, Vietnam",
+   "variants": [
+    "Benthuy(?)"
+   ]
+  },
+  {
+   "name": "Quy Nhơn, Vietnam",
+   "variants": [
+    "Tumi quinhon(?)"
+   ]
+  },
+  {
+   "name": "Shanghai, China",
+   "variants": [
+    "Shanghai",
+    "Shanghei",
+    "Shan ghai"
+   ]
+  },
+  {
+   "name": "Beijing, China",
+   "variants": [
+    "Peking"
+   ]
+  },
+  {
+   "name": "Tianjin, China",
+   "variants": [
+    "Tientsin",
+    "Tient in"
+   ]
+  },
+  {
+   "name": "Qingdao, China",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Guangzhou, China",
+   "variants": [
+    "Canton",
+    "Cant on"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong",
+    "Hongkong dollars"
+   ]
+  },
+  {
+   "name": "Kowloon, Hong Kong",
+   "variants": [
+    "Kowloon"
+   ]
+  },
+  {
+   "name": "Chongqing, China",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Shantou, China",
+   "variants": [
+    "Swatow"
+   ]
+  },
+  {
+   "name": "Haikou, China",
+   "variants": [
+    "Hoihow"
+   ]
+  },
+  {
+   "name": "Zhanjiang, China",
+   "variants": [
+    "Fortbayard",
+    "Kwangchowwan",
+    "wangchowwan"
+   ]
+  },
+  {
+   "name": "Hainan, China",
+   "variants": [
+    "hainan"
+   ]
+  },
+  {
+   "name": "Gulangyu, China",
+   "variants": [
+    "ulangsu"
+   ]
+  },
+  {
+   "name": "Dalian, China",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Anshan, China",
+   "variants": [
+    "anzan"
+   ]
+  },
+  {
+   "name": "Zhangjiakou, China",
+   "variants": [
+    "Kalgan"
+   ]
+  },
+  {
+   "name": "Shenyang, China",
+   "variants": [
+    "Mukden",
+    "Fengtien"
+   ]
+  },
+  {
+   "name": "Changchun, China",
+   "variants": [
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Taipei, Taiwan",
+   "variants": [
+    "Taihoku",
+    "Tui oku"
+   ]
+  },
+  {
+   "name": "Kaohsiung, Taiwan",
+   "variants": [
+    "Takao",
+    "Tukao"
+   ]
+  },
+  {
+   "name": "Hsinchu, Taiwan",
+   "variants": [
+    "Shinchikuohu"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formosan",
+    "Taiwan",
+    "Taivan"
+   ]
+  },
+  {
+   "name": "Seoul, South Korea",
+   "variants": [
+    "Keijo",
+    "Kei jo",
+    "Kei jyo",
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Busan, South Korea",
+   "variants": [
+    "Husan",
+    "Fusan"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Shonan (Singapore)"
+   ]
+  },
+  {
+   "name": "Bangkok, Thailand",
+   "variants": [
+    "Bangkok",
+    "Bonckok",
+    "Banakok"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "thailisten"
+   ]
+  },
+  {
+   "name": "Rangoon, Myanmar",
+   "variants": [
+    "Rangoon"
+   ]
+  },
+  {
+   "name": "Burma, Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Java, Indonesia",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Balikpapan, Indonesia",
+   "variants": [
+    "Balikpapan",
+    "Bulikpapan"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Borneo",
+    "Southern Borneo"
+   ]
+  },
+  {
+   "name": "Makassar, Indonesia",
+   "variants": [
+    "Macassar",
+    "Maçassar"
+   ]
+  },
+  {
+   "name": "Ambon, Indonesia",
+   "variants": [
+    "Anbon"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama",
+    "Yokohanma"
+   ]
+  },
+  {
+   "name": "Kobe, Japan",
+   "variants": [
+    "Kobe",
+    "Kóbe"
+   ]
+  },
+  {
+   "name": "Nagoya, Japan",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Hakodate, Japan",
+   "variants": [
+    "hakodate"
+   ]
+  },
+  {
+   "name": "Karuizawa, Japan",
+   "variants": [
+    "Karuizawa",
+    "karuizawa"
+   ]
+  },
+  {
+   "name": "Berlin, Germany",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Paris, France",
+   "variants": [
+    "Paris",
+    "paris"
+   ]
+  },
+  {
+   "name": "Marseille, France",
+   "variants": [
+    "marseille"
+   ]
+  },
+  {
+   "name": "Lyon, France",
+   "variants": [
+    "lyonnaise"
+   ]
+  },
+  {
+   "name": "Zürich, Switzerland",
+   "variants": [
+    "Zuerich"
+   ]
+  },
+  {
+   "name": "Berne, Switzerland",
+   "variants": [
+    "berne"
+   ]
+  },
+  {
+   "name": "Pondicherry, India",
+   "variants": [
+    "Pondicherry"
+   ]
+  },
+  {
+   "name": "Karaikal, India",
+   "variants": [
+    "Karikal"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Indian region"
+   ]
+  },
+  {
+   "name": "Washington, D.C., United States",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "north China"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "Greater Eastern Asia",
+    "Greater East Asia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "C. E. Gauss",
+   "role": "United States Ambassador in China; signed the April 19 despatch",
+   "variants": [
+    "C. E. Gauss"
+   ]
+  },
+  {
+   "name": "Takagi",
+   "role": "Recruiter of technicians",
+   "variants": [
+    "Mr. Takagi"
+   ]
+  },
+  {
+   "name": "Kyi",
+   "role": "Department head at Mitsui; reading uncertain",
+   "variants": [
+    "Kyi(?)"
+   ]
+  },
+  {
+   "name": "Shigeta",
+   "role": "Inspector",
+   "variants": [
+    "Mr. Shigeta"
+   ]
+  },
+  {
+   "name": "Akaneya",
+   "role": "Prospective recipient of a bank draft",
+   "variants": [
+    "r. akaneya"
+   ]
+  },
+  {
+   "name": "Hishikata",
+   "role": "Deceased Mitsubishi adviser and army expert",
+   "variants": [
+    "Ir. Hishikata's"
+   ]
+  },
+  {
+   "name": "Masuda",
+   "role": "Signatory of messages",
+   "variants": [
+    "Masuda"
+   ]
+  },
+  {
+   "name": "Gokō",
+   "role": "Mitsui employee and his younger brother, both referred to by surname",
+   "variants": [
+    "Gokoo",
+    "Goko"
+   ]
+  },
+  {
+   "name": "Saburo",
+   "role": "Telegram signatory",
+   "variants": [
+    "Saburo"
+   ]
+  },
+  {
+   "name": "Tanaka",
+   "role": "Telegram signatory",
+   "variants": [
+    "Tanaka"
+   ]
+  },
+  {
+   "name": "Aoki",
+   "role": "Appointed local manager of Dowa Fire Insurance",
+   "variants": [
+    "Aoki"
+   ]
+  },
+  {
+   "name": "Barrion",
+   "role": "Sender of French telegram concerning requisitioned boats",
+   "variants": [
+    "Barrion"
+   ]
+  },
+  {
+   "name": "Puthod",
+   "role": "Recipient of French telegram",
+   "variants": [
+    "Puthod"
+   ]
+  },
+  {
+   "name": "Thano",
+   "role": "Person disputing authority over boat sale",
+   "variants": [
+    "thano"
+   ]
+  },
+  {
+   "name": "Yan",
+   "role": "Person alleged to have acted as managing director",
+   "variants": [
+    "yan"
+   ]
+  },
+  {
+   "name": "Jacquemart",
+   "role": "Lawyer named in boat dispute",
+   "variants": [
+    "jacquemart"
+   ]
+  },
+  {
+   "name": "Seminel",
+   "role": "Lawyer named in boat dispute",
+   "variants": [
+    "seminel"
+   ]
+  },
+  {
+   "name": "Tamura",
+   "role": "Inspector sent to Phnom Penh",
+   "variants": [
+    "r. Tamura"
+   ]
+  },
+  {
+   "name": "Sasaki",
+   "role": "Mitsubishi correspondent in Hanoi",
+   "variants": [
+    "Sasaki"
+   ]
+  },
+  {
+   "name": "Ogushi",
+   "role": "Expected in Canton to settle ball-bearing specifications",
+   "variants": [
+    "Mr. Ogushi"
+   ]
+  },
+  {
+   "name": "Sakagami",
+   "role": "Telegram signatory",
+   "variants": [
+    "Sakagami"
+   ]
+  },
+  {
+   "name": "Ott",
+   "role": "German ambassador, telegram addressee",
+   "variants": [
+    "Botschafter Ott"
+   ]
+  },
+  {
+   "name": "Sellmeyer",
+   "role": "Telegram signatory and Transocean agent",
+   "variants": [
+    "Sellmeyer",
+    "Sellmoyer"
+   ]
+  },
+  {
+   "name": "Melchers",
+   "role": "Telegram correspondent",
+   "variants": [
+    "melchers",
+    "Melchers",
+    "Helchers",
+    "leters"
+   ]
+  },
+  {
+   "name": "Kleinecke",
+   "role": "Telegram signatory",
+   "variants": [
+    "Kleinecke"
+   ]
+  },
+  {
+   "name": "Chengkung",
+   "role": "Telegram signatory",
+   "variants": [
+    "Chengkung"
+   ]
+  },
+  {
+   "name": "Namwaha",
+   "role": "Telegram signatory",
+   "variants": [
+    "Namwaha"
+   ]
+  },
+  {
+   "name": "Taimingfou",
+   "role": "Owner of securities discussed in bank telegram",
+   "variants": [
+    "Madame Taimingfou"
+   ]
+  },
+  {
+   "name": "Gallois",
+   "role": "French consular correspondent",
+   "variants": [
+    "Gallois"
+   ]
+  },
+  {
+   "name": "Imano Kinsaburo",
+   "role": "Visa applicant",
+   "variants": [
+    "imano kinsaburo"
+   ]
+  },
+  {
+   "name": "Inishi Shohei",
+   "role": "Visa applicant",
+   "variants": [
+    "inishi shohei"
+   ]
+  },
+  {
+   "name": "Ando Hanae",
+   "role": "Visa applicant",
+   "variants": [
+    "ando hanae"
+   ]
+  },
+  {
+   "name": "Ando Hirozi",
+   "role": "Husband of Ando Hanae",
+   "variants": [
+    "hirozi"
+   ]
+  },
+  {
+   "name": "Kuramoti Hirosi",
+   "role": "Visa applicant and ministry employee",
+   "variants": [
+    "kuramoti hirosi"
+   ]
+  },
+  {
+   "name": "Hayasida Hirosi",
+   "role": "Visa applicant and ministry secretary",
+   "variants": [
+    "hayasida hirosi"
+   ]
+  },
+  {
+   "name": "Iida Tutomu",
+   "role": "Visa applicant and ministry clerk",
+   "variants": [
+    "iida tutomu"
+   ]
+  },
+  {
+   "name": "Ross",
+   "role": "Transocean correspondent",
+   "variants": [
+    "ROES",
+    "Ross",
+    "Ress"
+   ]
+  },
+  {
+   "name": "Herbert C. Turrald",
+   "role": "Recipient of bank remittance; surname uncertain",
+   "variants": [
+    "Herbert c.turrald"
+   ]
+  },
+  {
+   "name": "Sukeda",
+   "role": "Construction worker unable to start work",
+   "variants": [
+    "Mr. Sukeda"
+   ]
+  },
+  {
+   "name": "Nakagawa",
+   "role": "Employee whose salary is reported",
+   "variants": [
+    "Mr. Nakagawa"
+   ]
+  },
+  {
+   "name": "Honma",
+   "role": "Employee whose salary and bonus are reported",
+   "variants": [
+    "Mr. Honma"
+   ]
+  },
+  {
+   "name": "Nakazawa",
+   "role": "Employee whose bonus is reported",
+   "variants": [
+    "Mr. Nakazawa"
+   ]
+  },
+  {
+   "name": "Takemura",
+   "role": "Telegram signatory",
+   "variants": [
+    "Takemura"
+   ]
+  },
+  {
+   "name": "Watanabe",
+   "role": "Telegram addressee",
+   "variants": [
+    "Watanabe"
+   ]
+  },
+  {
+   "name": "Kiyaku",
+   "role": "Appointed nonofficial staff member",
+   "variants": [
+    "Kiyaku"
+   ]
+  },
+  {
+   "name": "Ichinone",
+   "role": "Appointed nonofficial staff member",
+   "variants": [
+    "Ichinone"
+   ]
+  },
+  {
+   "name": "Maruyama",
+   "role": "Appointed nonofficial staff member",
+   "variants": [
+    "Maruyama"
+   ]
+  },
+  {
+   "name": "Satakeyama",
+   "role": "Appointed nonofficial staff member",
+   "variants": [
+    "Satakeyama"
+   ]
+  },
+  {
+   "name": "Ban",
+   "role": "Appointed nonofficial staff member",
+   "variants": [
+    "Ban"
+   ]
+  },
+  {
+   "name": "Idesoji",
+   "role": "Telegram signatory",
+   "variants": [
+    "Idesoji"
+   ]
+  },
+  {
+   "name": "Yamadahaba",
+   "role": "Prospective employee",
+   "variants": [
+    "Mr. Yamadahaba"
+   ]
+  },
+  {
+   "name": "Genay",
+   "role": "Bank telegram signatory",
+   "variants": [
+    "Genay"
+   ]
+  },
+  {
+   "name": "Humbert",
+   "role": "Telegram signatory",
+   "variants": [
+    "Humbert"
+   ]
+  },
+  {
+   "name": "Shyam",
+   "role": "Telegram signatory",
+   "variants": [
+    "Shyam"
+   ]
+  },
+  {
+   "name": "Ongsengchuan",
+   "role": "Telegram signatory",
+   "variants": [
+    "Ongsengchuan"
+   ]
+  },
+  {
+   "name": "Katoh",
+   "role": "Telegram signatory",
+   "variants": [
+    "Katoh"
+   ]
+  },
+  {
+   "name": "Fujita Junichi",
+   "role": "Employee whose condition is requested; reading uncertain",
+   "variants": [
+    "Mr. Fujita Jumic i"
+   ]
+  },
+  {
+   "name": "Majima",
+   "role": "Mitsui employee summoned for a post",
+   "variants": [
+    "Mr. Majima"
+   ]
+  },
+  {
+   "name": "Kono",
+   "role": "Administrative official",
+   "variants": [
+    "Kono"
+   ]
+  },
+  {
+   "name": "Kanai",
+   "role": "Telegram signatory",
+   "variants": [
+    "Kanai"
+   ]
+  },
+  {
+   "name": "Miyata Yoshimi",
+   "role": "Bank correspondent seeking air passage",
+   "variants": [
+    "Iiyata Yoshimi"
+   ]
+  },
+  {
+   "name": "Yoshioka Hiyano Yoshiko",
+   "role": "Correspondent seeking conscription documents; reading uncertain",
+   "variants": [
+    "Yoshioka Hiyano Yoshiko"
+   ]
+  },
+  {
+   "name": "Riyama Sataro",
+   "role": "Taiwan Iron Works correspondent; reading uncertain",
+   "variants": [
+    "Riyama Sataro"
+   ]
+  },
+  {
+   "name": "Cochet",
+   "role": "Telegram signatory",
+   "variants": [
+    "Cochet"
+   ]
+  },
+  {
+   "name": "Bagge",
+   "role": "Swedish minister",
+   "variants": [
+    "Bagge"
+   ]
+  },
+  {
+   "name": "Jules",
+   "role": "Telegram signatory",
+   "variants": [
+    "Jules"
+   ]
+  },
+  {
+   "name": "Ferber",
+   "role": "Telegram signatory",
+   "variants": [
+    "Ferber"
+   ]
+  },
+  {
+   "name": "Knudtzon",
+   "role": "Private telegram recipient",
+   "variants": [
+    "Knudtzon"
+   ]
+  },
+  {
+   "name": "Kristian",
+   "role": "Person mentioned in private telegram",
+   "variants": [
+    "Kristian"
+   ]
+  },
+  {
+   "name": "Grut",
+   "role": "Private telegram signatory",
+   "variants": [
+    "Grut"
+   ]
+  },
+  {
+   "name": "Ohle",
+   "role": "Private telegram recipient",
+   "variants": [
+    "Ohle"
+   ]
+  },
+  {
+   "name": "Ahrens",
+   "role": "Private telegram signatory",
+   "variants": [
+    "Ahrens"
+   ]
+  },
+  {
+   "name": "Omachi",
+   "role": "Person involved in timber transactions",
+   "variants": [
+    "Mr. Omachi"
+   ]
+  },
+  {
+   "name": "Fumagashiya",
+   "role": "Person reporting undelivered glass shipment; reading uncertain",
+   "variants": [
+    "Mr. Fumagashiya"
+   ]
+  },
+  {
+   "name": "Nakajima",
+   "role": "International Trading Company addressee; OCR reads Makajima",
+   "variants": [
+    "Makajima"
+   ]
+  },
+  {
+   "name": "Kookingiku",
+   "role": "Prospective rice inspector; reading uncertain",
+   "variants": [
+    "Kookingiku"
+   ]
+  },
+  {
+   "name": "Chinkinchin",
+   "role": "Prospective purchasing overseer; reading uncertain",
+   "variants": [
+    "Chinkinchin"
+   ]
+  },
+  {
+   "name": "Aigaiki",
+   "role": "Prospective staff member; reading uncertain",
+   "variants": [
+    "Aigaiki"
+   ]
+  },
+  {
+   "name": "Kondo",
+   "role": "Prospective staff member",
+   "variants": [
+    "Kondo"
+   ]
+  },
+  {
+   "name": "Kachiki",
+   "role": "Prospective staff member",
+   "variants": [
+    "Kachiki"
+   ]
+  },
+  {
+   "name": "Ikeo",
+   "role": "Prospective wooden-vessel construction teacher",
+   "variants": [
+    "Ikeo"
+   ]
+  },
+  {
+   "name": "Sammmura",
+   "role": "Prospective wooden-vessel construction teacher; reading uncertain",
+   "variants": [
+    "Sammmura"
+   ]
+  },
+  {
+   "name": "Okada",
+   "role": "Prospective wooden-vessel construction teacher",
+   "variants": [
+    "Okada"
+   ]
+  },
+  {
+   "name": "Saito",
+   "role": "Prospective timber department member; OCR reads Baito",
+   "variants": [
+    "Baito"
+   ]
+  },
+  {
+   "name": "Aikawa",
+   "role": "Prospective timber department member",
+   "variants": [
+    "Aikawa"
+   ]
+  },
+  {
+   "name": "Miura",
+   "role": "Person mentioned in a private telegram",
+   "variants": [
+    "miura"
+   ]
+  },
+  {
+   "name": "Jeanlouis",
+   "role": "Person mentioned in a private telegram",
+   "variants": [
+    "jeanlouis"
+   ]
+  },
+  {
+   "name": "Millot",
+   "role": "Private telegram signatory",
+   "variants": [
+    "Millot"
+   ]
+  },
+  {
+   "name": "Ursel",
+   "role": "Private telegram signatory",
+   "variants": [
+    "Ursel"
+   ]
+  },
+  {
+   "name": "Jehl",
+   "role": "Evacuee mentioned in bank telegram",
+   "variants": [
+    "madame jehl"
+   ]
+  },
+  {
+   "name": "Morand",
+   "role": "Person whose death was reported",
+   "variants": [
+    "morand"
+   ]
+  },
+  {
+   "name": "Yangchinfung",
+   "role": "Telegram signatory; reading uncertain",
+   "variants": [
+    "Yangohinftung"
+   ]
+  },
+  {
+   "name": "Bachmann",
+   "role": "Person requesting a report on Indochina; OCR reads baohmann",
+   "variants": [
+    "baohmann"
+   ]
+  },
+  {
+   "name": "Philippe Pétain",
+   "role": "French political figure mentioned as reporting topic",
+   "variants": [
+    "petain"
+   ]
+  },
+  {
+   "name": "Charles de Gaulle",
+   "role": "French political figure mentioned as reporting topic",
+   "variants": [
+    "degaulle"
+   ]
+  },
+  {
+   "name": "Charlotte Hanhart",
+   "role": "Recipient of remittance",
+   "variants": [
+    "Frau Charlotte Hanhart",
+    "Hanhart"
+   ]
+  },
+  {
+   "name": "Uchiyama",
+   "role": "Recipient of a relayed message",
+   "variants": [
+    "Mr. Uchiyama"
+   ]
+  },
+  {
+   "name": "Idesaburo",
+   "role": "Telegram signatory",
+   "variants": [
+    "Idesaburo"
+   ]
+  },
+  {
+   "name": "Antonu",
+   "role": "French firm or person receiving loan balance; identity uncertain",
+   "variants": [
+    "Antonu"
+   ]
+  },
+  {
+   "name": "Iwada Toichi",
+   "role": "Acting Mitsui branch manager",
+   "variants": [
+    "Iwada Toichi"
+   ]
+  },
+  {
+   "name": "Yoshida Yunichi",
+   "role": "Mitsui machinery and ironware department manager",
+   "variants": [
+    "Yoshida Yunichi"
+   ]
+  },
+  {
+   "name": "Kuribayashi Yosiroo",
+   "role": "Mitsui resident staff member",
+   "variants": [
+    "Kuribayashi Yosiroo"
+   ]
+  },
+  {
+   "name": "Hojo Emikami",
+   "role": "Telegram addressee",
+   "variants": [
+    "Hojo Emikami"
+   ]
+  },
+  {
+   "name": "Uchida",
+   "role": "Carrier of documents to Hanoi",
+   "variants": [
+    "Uchida"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "role": "Shionogi employee whose voyage was cancelled",
+   "variants": [
+    "Matsumoto"
+   ]
+  },
+  {
+   "name": "Eothai",
+   "role": "Telegram signatory",
+   "variants": [
+    "Eothai"
+   ]
+  },
+  {
+   "name": "Iida",
+   "role": "Telegram signatory concerning leather",
+   "variants": [
+    "Iida"
+   ]
+  },
+  {
+   "name": "Fukazawa",
+   "role": "Reporter of article on Indian reactions in Indochina",
+   "variants": [
+    "Fukazawa"
+   ]
+  },
+  {
+   "name": "Subhas Chandra Bose",
+   "role": "Head of the Indian provisional government referenced in article",
+   "variants": [
+    "Bose"
+   ]
+  },
+  {
+   "name": "Matsuda",
+   "role": "Telegram signatory",
+   "variants": [
+    "Matsuda"
+   ]
+  },
+  {
+   "name": "Hirayu",
+   "role": "Employee serving in Saigon",
+   "variants": [
+    "Mr. Hirayu"
+   ]
+  },
+  {
+   "name": "Shimatani Yutaka",
+   "role": "Makassar office correspondent",
+   "variants": [
+    "Shimataniyutaka"
+   ]
+  },
+  {
+   "name": "Hasegawa Katsurashima",
+   "role": "Taiwan Iron Works correspondent; name division uncertain",
+   "variants": [
+    "Hasegawa Katsurashima"
+   ]
+  },
+  {
+   "name": "Amano",
+   "role": "Passport applicant",
+   "variants": [
+    "Amano"
+   ]
+  },
+  {
+   "name": "Hachita",
+   "role": "Telegram signatory",
+   "variants": [
+    "Hachita"
+   ]
+  },
+  {
+   "name": "Kato Shiyou",
+   "role": "Fisheries correspondent",
+   "variants": [
+    "Kato Shiyou"
+   ]
+  },
+  {
+   "name": "Kojima",
+   "role": "Person whose status is requested",
+   "variants": [
+    "Mr. Kojima"
+   ]
+  }
+ ],
+ "keywords": [
+  "intercepted commercial messages",
+  "rice procurement",
+  "shipping",
+  "wartime trade",
+  "export permits",
+  "industrial machinery",
+  "insurance",
+  "French Indochina",
+  "personnel",
+  "bank remittances",
+  "timber",
+  "kapok"
+ ],
+ "subfiles": [
+  {
+   "title": "Translations of intercepted Japanese commercial messages, continued",
+   "doc_type": "intercepted traffic translation compilation",
+   "start_page": 223,
+   "end_page": 236,
+   "continues_previous": true,
+   "date": "1944-03",
+   "from": "Japanese companies and other correspondents; translated from intercepted traffic",
+   "to": "Company branches and correspondents across East and Southeast Asia",
+   "about": "Messages discuss disrupted wartime commerce, especially rice, shipping, industrial supplies, permits and finance.",
+   "summary": "The continued compilation records commercial traffic principally dated March 16–20, 1944. Firms negotiate cancelled contracts, shipping space, rice purchases, kapok, rubber, paper, tools, insurance and trade quotas, often citing permit restrictions and transport delays. It also contains personnel requests, capital figures for Japanese enterprises, and a French telegram about requisitioned vessels.",
+   "keywords": [
+    "intercepted telegrams",
+    "rice",
+    "shipping",
+    "kapok",
+    "trade permits",
+    "commercial finance"
+   ]
+  },
+  {
+   "title": "Embassy despatch No. 2453 forwarding intercepted commercial messages",
+   "doc_type": "despatch",
+   "start_page": 237,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1944-04-19",
+   "from": "C. E. Gauss, United States Embassy, Chungking",
+   "to": "Secretary of State, Washington",
+   "about": "Forwards translations of messages intercepted March 19–31, 1944.",
+   "summary": "Forwards OWI China Division translations of Japanese commercial messages intercepted March 19–31.",
+   "keywords": [
+    "Embassy despatch",
+    "OWI",
+    "intercepts",
+    "Chungking"
+   ]
+  },
+  {
+   "title": "Translations of Japanese commercial messages intercepted March 19–31, 1944",
+   "doc_type": "intercepted traffic translation compilation",
+   "start_page": 238,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1944-03",
+   "from": "China Division, Office of War Information; original messages from multiple correspondents",
+   "to": "United States Department of State, via the Embassy at Chungking",
+   "about": "Compiles intercepted messages about wartime trade, transport, finance and political reporting.",
+   "summary": "The enclosure begins with traffic dated March 19 and reaches March 29 by page 263; its final message continues beyond this section. Rice purchases, shipments, milling equipment, timber, paper, leather, kapok, insurance and exchange controls recur throughout. Messages also concern staff travel, banking, private correspondence, and press reporting on the Indian National Army and attitudes in French Indochina.",
+   "keywords": [
+    "intercepted telegrams",
+    "rice purchasing",
+    "wartime shipping",
+    "import permits",
+    "timber",
+    "banking",
+    "Indian National Army"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 8,
+  "pages": [
+   223,
+   263
+  ],
+  "pdf": "894.50 Japan, Economic Matters., July 28, 1943 - February 18, 1944 1415-part-2.pdf",
+  "seconds": 128.8,
+  "created": "2026-10-08 13:32:21",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-13-part-2"
+ }
+}

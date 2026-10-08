@@ -1,0 +1,1430 @@
+{
+ "section_summary": "This section contains U.S. diplomatic reporting on Japanese wartime production, food supply, finance, transportation, and resource development across Japan and occupied Asia, much of it translated from monitored broadcasts. It also includes Roy Hoko Ikeda’s proposals for postwar Japanese government and international relations, and correspondence about exchanging intelligence on Japanese shipping and oil production. The section begins and ends within longer translated broadcast reports.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan Proper",
+    "Japan proper",
+    "Japen",
+    "Japem"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya",
+    "Malaye",
+    "Maleya",
+    "Malaa"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "Sumatra",
+    "umatra",
+    "south umatra",
+    "South Sumatra"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "singapore"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa",
+    "Taiwan (Formosa)"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China",
+    "Central Chine"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China",
+    "South Crine"
+   ]
+  },
+  {
+   "name": "Peking",
+   "variants": [
+    "Peking",
+    "Poking",
+    "Faking",
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manohukuo",
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Mongolia",
+   "variants": [
+    "Mongolia"
+   ]
+  },
+  {
+   "name": "Inner Mongolia",
+   "variants": [
+    "Mengchiang"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "Hopei"
+   ]
+  },
+  {
+   "name": "Shanxi",
+   "variants": [
+    "Shansi"
+   ]
+  },
+  {
+   "name": "Taiyuan",
+   "variants": [
+    "Talyuan"
+   ]
+  },
+  {
+   "name": "Longyan iron mines",
+   "variants": [
+    "Lungyen"
+   ]
+  },
+  {
+   "name": "Changlu",
+   "variants": [
+    "Changlu"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Borneo"
+   ]
+  },
+  {
+   "name": "North Borneo",
+   "variants": [
+    "North Borneo"
+   ]
+  },
+  {
+   "name": "South Borneo",
+   "variants": [
+    "South Borneo"
+   ]
+  },
+  {
+   "name": "Sarawak",
+   "variants": [
+    "Sarawak"
+   ]
+  },
+  {
+   "name": "Sanga-Sanga",
+   "variants": [
+    "Sanga-Sanga"
+   ]
+  },
+  {
+   "name": "Tarakan",
+   "variants": [
+    "Tarakan"
+   ]
+  },
+  {
+   "name": "Balikpapan",
+   "variants": [
+    "Balik Papan",
+    "Balikpapen"
+   ]
+  },
+  {
+   "name": "Ceram",
+   "variants": [
+    "Ceram"
+   ]
+  },
+  {
+   "name": "Sulawesi",
+   "variants": [
+    "Celebes",
+    "Celobes"
+   ]
+  },
+  {
+   "name": "Manado",
+   "variants": [
+    "menaad"
+   ]
+  },
+  {
+   "name": "Parepare",
+   "variants": [
+    "Pare Pare"
+   ]
+  },
+  {
+   "name": "New Guinea",
+   "variants": [
+    "New Guinea"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong",
+    "Hong Kong",
+    "Hongkong",
+    "longkong"
+   ]
+  },
+  {
+   "name": "Canton",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Shantou",
+   "variants": [
+    "Swatow"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "French Indo China",
+    "French Indo China's",
+    "Indo-China",
+    "Indochina",
+    "Indo-Chint"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shangha1",
+    "Shanghei"
+   ]
+  },
+  {
+   "name": "Yangzhou",
+   "variants": [
+    "Yangchow",
+    "Yangohow"
+   ]
+  },
+  {
+   "name": "Jiangsu",
+   "variants": [
+    "Kiangsu"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking",
+    "Manking",
+    "Nenking"
+   ]
+  },
+  {
+   "name": "Kaifeng",
+   "variants": [
+    "Kaifeng"
+   ]
+  },
+  {
+   "name": "Henan",
+   "variants": [
+    "Honan"
+   ]
+  },
+  {
+   "name": "Yellow River",
+   "variants": [
+    "Yellow River"
+   ]
+  },
+  {
+   "name": "Grand Canal",
+   "variants": [
+    "Grand Canel",
+    "Grand Canal"
+   ]
+  },
+  {
+   "name": "Zhongmou County",
+   "variants": [
+    "Chungmou Hsien"
+   ]
+  },
+  {
+   "name": "Taikang County",
+   "variants": [
+    "Taikang Hsien"
+   ]
+  },
+  {
+   "name": "Shihchiao Village",
+   "variants": [
+    "Shihchiao Village"
+   ]
+  },
+  {
+   "name": "Nansungkang",
+   "variants": [
+    "Nansungkang"
+   ]
+  },
+  {
+   "name": "Suzhou",
+   "variants": [
+    "Suchow",
+    "Soochow"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Ningbo",
+   "variants": [
+    "Ningpo"
+   ]
+  },
+  {
+   "name": "Zhejiang",
+   "variants": [
+    "Chekiang"
+   ]
+  },
+  {
+   "name": "Anhui",
+   "variants": [
+    "Anhwei"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Davao",
+   "variants": [
+    "Davao"
+   ]
+  },
+  {
+   "name": "Luzon",
+   "variants": [
+    "Luzon"
+   ]
+  },
+  {
+   "name": "Hainan",
+   "variants": [
+    "Hainan"
+   ]
+  },
+  {
+   "name": "Xiamen",
+   "variants": [
+    "Anoy"
+   ]
+  },
+  {
+   "name": "Rangoon",
+   "variants": [
+    "Rangoon",
+    "Rangong"
+   ]
+  },
+  {
+   "name": "Burma",
+   "variants": [
+    "Burma",
+    "Burme",
+    "Burma"
+   ]
+  },
+  {
+   "name": "Mandalay",
+   "variants": [
+    "Mandalay"
+   ]
+  },
+  {
+   "name": "Paksane",
+   "variants": [
+    "Paksane"
+   ]
+  },
+  {
+   "name": "Thakhek",
+   "variants": [
+    "Thakhek"
+   ]
+  },
+  {
+   "name": "Mekong River",
+   "variants": [
+    "Mekong River"
+   ]
+  },
+  {
+   "name": "Saigon",
+   "variants": [
+    "Saigon",
+    "Srigon"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi"
+   ]
+  },
+  {
+   "name": "Hangzhou",
+   "variants": [
+    "Hangchow"
+   ]
+  },
+  {
+   "name": "Hankou",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Bengbu",
+   "variants": [
+    "Pengpu"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Isingtao"
+   ]
+  },
+  {
+   "name": "Shanhaiguan",
+   "variants": [
+    "Shanhaikwan"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung territory"
+   ]
+  },
+  {
+   "name": "Guangdong",
+   "variants": [
+    "Kwangtung Province",
+    "Kwantung Province"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java",
+    "Jave"
+   ]
+  },
+  {
+   "name": "Tjipari",
+   "variants": [
+    "Tjipari"
+   ]
+  },
+  {
+   "name": "Preanger",
+   "variants": [
+    "Preanger province"
+   ]
+  },
+  {
+   "name": "Ambon",
+   "variants": [
+    "Ambon",
+    "Ambonia Island"
+   ]
+  },
+  {
+   "name": "Besoeki",
+   "variants": [
+    "Besoeki"
+   ]
+  },
+  {
+   "name": "Nealanger",
+   "variants": [
+    "Nealanger"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands East Indies",
+    "Dutch East Indies",
+    "East Indies",
+    "N.E.I",
+    "N.x.I.",
+    "M.E.I."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "United States",
+    "United . ta te: of Ime ica",
+    "America"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Britain",
+   "variants": [
+    "Britain"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Saghalien"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "ustralia"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Arabian countries",
+   "variants": [
+    "Arabian countris"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "African"
+   ]
+  },
+  {
+   "name": "Utah",
+   "variants": [
+    "Utah",
+    "vral"
+   ]
+  },
+  {
+   "name": "Topaz",
+   "variants": [
+    "Topas"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "North Pacific",
+   "variants": [
+    "North Pacific"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "Maritime Provinces",
+   "variants": [
+    "MaritinE Provinc=",
+    "Maritime Provinoes"
+   ]
+  },
+  {
+   "name": "Wuyi",
+   "variants": [
+    "Wu Yi"
+   ]
+  },
+  {
+   "name": "Jinhua",
+   "variants": [
+    "Kinhwa"
+   ]
+  },
+  {
+   "name": "Qiantang River",
+   "variants": [
+    "Chien Tang River"
+   ]
+  },
+  {
+   "name": "Haizhou",
+   "variants": [
+    "Haichow"
+   ]
+  },
+  {
+   "name": "Huzhou",
+   "variants": [
+    "Buchow"
+   ]
+  },
+  {
+   "name": "Hsiahwayuan",
+   "variants": [
+    "Hsiahwayuan"
+   ]
+  },
+  {
+   "name": "Miri",
+   "variants": [
+    "M1r1"
+   ]
+  },
+  {
+   "name": "Seria",
+   "variants": [
+    "Ser1a"
+   ]
+  },
+  {
+   "name": "Pladjoe",
+   "variants": [
+    "Pladjee"
+   ]
+  },
+  {
+   "name": "Medan",
+   "variants": [
+    "Medan"
+   ]
+  },
+  {
+   "name": "Aceh",
+   "variants": [
+    "Achin"
+   ]
+  },
+  {
+   "name": "Riau",
+   "variants": [
+    "Li Ao (Ringat ?)"
+   ]
+  },
+  {
+   "name": "Pekanbaru",
+   "variants": [
+    "Pa Ka Ba Erh",
+    "Pakan Baroe ?"
+   ]
+  },
+  {
+   "name": "Jambi",
+   "variants": [
+    "Jambi"
+   ]
+  },
+  {
+   "name": "Palembang",
+   "variants": [
+    "Palembang"
+   ]
+  },
+  {
+   "name": "Lampung",
+   "variants": [
+    "Lambang (Telok Betong ? )"
+   ]
+  },
+  {
+   "name": "Menggala",
+   "variants": [
+    "Menggala"
+   ]
+  },
+  {
+   "name": "Lake Toba",
+   "variants": [
+    "Tobd Lake",
+    "Toba Lake"
+   ]
+  },
+  {
+   "name": "Tapanuli",
+   "variants": [
+    "Dabanuri (Tampat Towan ?)"
+   ]
+  },
+  {
+   "name": "Jilin",
+   "variants": [
+    "Hsinkiang"
+   ]
+  },
+  {
+   "name": "Xinjing",
+   "variants": [
+    "Hsinking",
+    "Meisking"
+   ]
+  },
+  {
+   "name": "Zhangjiakou",
+   "variants": [
+    "Chang Chia Kou"
+   ]
+  },
+  {
+   "name": "Yunnan",
+   "variants": [
+    "Yunnan"
+   ]
+  },
+  {
+   "name": "Banjarmasin",
+   "variants": [
+    "Banjermasin"
+   ]
+  },
+  {
+   "name": "San Fernando, La Union",
+   "variants": [
+    "San Fernando"
+   ]
+  },
+  {
+   "name": "La Union",
+   "variants": [
+    "La Union Province"
+   ]
+  },
+  {
+   "name": "Tagudin",
+   "variants": [
+    "Tagulin"
+   ]
+  },
+  {
+   "name": "Ilocos Sur",
+   "variants": [
+    "Lo Cossur Province"
+   ]
+  },
+  {
+   "name": "Los Baños",
+   "variants": [
+    "Los Banos"
+   ]
+  },
+  {
+   "name": "Laguna",
+   "variants": [
+    "Laguna Province"
+   ]
+  },
+  {
+   "name": "Pasig",
+   "variants": [
+    "Pasig"
+   ]
+  },
+  {
+   "name": "Rizal",
+   "variants": [
+    "Rizal Province"
+   ]
+  },
+  {
+   "name": "Taal",
+   "variants": [
+    "Taal"
+   ]
+  },
+  {
+   "name": "Batangas",
+   "variants": [
+    "Batangas Province"
+   ]
+  },
+  {
+   "name": "Pagsanjan",
+   "variants": [
+    "Pagsanjan"
+   ]
+  },
+  {
+   "name": "Bulan",
+   "variants": [
+    "Bulan"
+   ]
+  },
+  {
+   "name": "Sorsogon",
+   "variants": [
+    "Sorsogon Province"
+   ]
+  },
+  {
+   "name": "Chengzhou",
+   "variants": [
+    "Chengohow"
+   ]
+  },
+  {
+   "name": "Taku",
+   "variants": [
+    "Taku"
+   ]
+  },
+  {
+   "name": "Ta Ch'ing River",
+   "variants": [
+    "Ta Ch'ing River"
+   ]
+  },
+  {
+   "name": "Peiyangting",
+   "variants": [
+    "Peiyangting"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Hideki Tojo",
+   "role": "Japanese premier",
+   "variants": [
+    "Premier Tojo",
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Millard",
+   "role": "Sender or author of a referenced despatch from Argentina",
+   "variants": [
+    "Millard"
+   ]
+  },
+  {
+   "name": "John Carter Vincent",
+   "role": "U.S. chargé d’affaires in Chungking",
+   "variants": [
+    "John Carter Vincent",
+    "VINCENT"
+   ]
+  },
+  {
+   "name": "Roy Hoko Ikeda",
+   "role": "Writer of postwar reform proposals",
+   "variants": [
+    "Roy Hoko Ikeda",
+    "Mr. Ikeda",
+    "Mr. keda",
+    "Hoko Ikeda",
+    "R.H.I."
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "U.S. under secretary of state",
+   "variants": [
+    "Mr. Sumner Wells",
+    "Mr. Wells",
+    "MR. WELLES"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "Commentator on Japanese morale mentioned by Ikeda",
+   "variants": [
+    "Mr. Grew"
+   ]
+  },
+  {
+   "name": "Mr. Young",
+   "role": "State Department representative mentioned by Ikeda",
+   "variants": [
+    "Mr. Young"
+   ]
+  },
+  {
+   "name": "Laurence B. Salisbury",
+   "role": "Assistant chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Laurense B. Salisbury"
+   ]
+  },
+  {
+   "name": "Johansen",
+   "role": "State Department drafter or initials on memorandum",
+   "variants": [
+    "JoHansen"
+   ]
+  },
+  {
+   "name": "Kawakami",
+   "role": "Questioner in the Japanese House of Commons",
+   "variants": [
+    "Kawakami"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "role": "Chief of the Commercial and Industrial Trade Bureau",
+   "variants": [
+    "Yamaguchi"
+   ]
+  },
+  {
+   "name": "Ino",
+   "role": "Japanese minister of agriculture and forestry",
+   "variants": [
+    "Ino"
+   ]
+  },
+  {
+   "name": "S. Y. Feng",
+   "role": "Translator of monitored broadcasts",
+   "variants": [
+    "3. Y. Feng",
+    "S. Y. Feng"
+   ]
+  },
+  {
+   "name": "Boehringer",
+   "role": "Interviewer seeking intelligence exchange with Wang",
+   "variants": [
+    "Boehringer",
+    "Boohringer"
+   ]
+  },
+  {
+   "name": "Wang Peng Sheng",
+   "role": "Adviser to the Chinese Generalissimo on Japanese affairs",
+   "variants": [
+    "General Wang ?=ng Sheng",
+    "General Wang Peng Sheng",
+    "Wang"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. secretary of state; signed outgoing telegram",
+   "variants": [
+    "Hull"
+   ]
+  },
+  {
+   "name": "T'ang Shou-min",
+   "role": "Member of the National Commercial Control General Commission",
+   "variants": [
+    "T'AnG Shou-min"
+   ]
+  },
+  {
+   "name": "Oda",
+   "role": "Japanese major general and director-general of Scientific Mobilization",
+   "variants": [
+    "Major General Oda"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese generalissimo",
+   "variants": [
+    "Generalissimo Chiang"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese wartime economy",
+  "monitored radio broadcasts",
+  "food rationing",
+  "cotton production",
+  "oil production",
+  "shipbuilding",
+  "occupation administration",
+  "Greater East Asia Co-Prosperity Sphere",
+  "postwar Japan",
+  "intelligence exchange"
+ ],
+ "subfiles": [
+  {
+   "title": "Economic items from Japanese broadcasts, concluding pages",
+   "doc_type": "translated broadcast compilation",
+   "start_page": 196,
+   "end_page": 205,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Reports Japanese wartime economic measures across occupied Asia.",
+   "summary": "The surviving pages cover rubber, cotton, banks, transport, North China minerals, Southeast Asian oil and shipbuilding, Hong Kong reconstruction, Chinese industry, river works, food policy, Korean rice, and Indochinese customs. Page 197 repeats page 196. The compilation began before this section.",
+   "keywords": [
+    "broadcasts",
+    "Malaya",
+    "Sumatra",
+    "North China",
+    "Hong Kong",
+    "food supply",
+    "resources"
+   ]
+  },
+  {
+   "title": "Economic materials from monitored Japanese broadcasts, telegram 554 section one",
+   "doc_type": "telegram",
+   "start_page": 206,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1943-04-17",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State; Board of Economic Warfare",
+   "about": "Summarizes Japanese broadcasts on rice, Manchurian industry, shipbuilding, Philippine fuel and cotton.",
+   "summary": "Reports Japan’s 1942 rice crop, Manchurian iron and industrial budgets, shipbuilding in Kwantung and Davao, Philippine butanol production, and Luzon cotton estimates.",
+   "keywords": [
+    "broadcast monitoring",
+    "rice",
+    "Manchuria",
+    "shipbuilding",
+    "Philippines"
+   ]
+  },
+  {
+   "title": "Economic materials from monitored Japanese broadcasts, telegram 554 section two",
+   "doc_type": "telegram",
+   "start_page": 208,
+   "end_page": 209,
+   "continues_previous": false,
+   "date": "1943-04-17",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State; Board of Economic Warfare",
+   "about": "Continues the broadcast summary with Southeast Asian production, shipping, transport and occupied China.",
+   "summary": "Covers Celebes fish and cotton, Singapore shipping, Indochinese timber and roads, Burma teak, transfer of Allied property, Japanese advisers, tung oil, and Shanghai silk purchasing.",
+   "keywords": [
+    "broadcast monitoring",
+    "Celebes",
+    "Singapore",
+    "Indochina",
+    "Burma",
+    "China"
+   ]
+  },
+  {
+   "title": "Japanese-Chinese Economic Conference in Tokyo",
+   "doc_type": "cross-reference file note",
+   "start_page": 210,
+   "end_page": 210,
+   "continues_previous": false,
+   "date": "1943-04",
+   "from": "Argentina (Millard)",
+   "to": "",
+   "about": "Points to a despatch on Tojo’s opening address at the Japanese-Chinese Economic Conference.",
+   "summary": "References despatch 9670 concerning the conference and Tojo’s policy toward occupied China.",
+   "keywords": [
+    "cross-reference",
+    "Tokyo",
+    "Tojo",
+    "economic conference"
+   ]
+  },
+  {
+   "title": "Economic materials from monitored Japanese broadcasts, telegram 605 section one",
+   "doc_type": "telegram",
+   "start_page": 211,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1943-04-27",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State; Board of Economic Warfare",
+   "about": "Summarizes broadcasts on Japanese crop prices, industrial policy, war bonds, and North China transport.",
+   "summary": "Reports rice purchase prices, war bonds, magnesium production, commodity subsidies, food cultivation, North China rail and pier statistics, wheat flour shipments, and radiogram service.",
+   "keywords": [
+    "rice",
+    "prices",
+    "war bonds",
+    "North China",
+    "railways"
+   ]
+  },
+  {
+   "title": "Economic materials from monitored Japanese broadcasts, telegram 605 section two",
+   "doc_type": "telegram",
+   "start_page": 214,
+   "end_page": 216,
+   "continues_previous": false,
+   "date": "1943-04-27",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State; Board of Economic Warfare",
+   "about": "Continues the broadcast summary on steel, freight, Philippine agriculture, Java cotton and Indochinese transport.",
+   "summary": "Describes Qingdao blast furnaces, bonded freight transport, a Mengchiang power plant, Hong Kong trade, Philippine cotton and derris root, Java gutta-percha and cotton, and reduced Saigon–Hanoi trains.",
+   "keywords": [
+    "steel",
+    "freight",
+    "Philippines",
+    "Java",
+    "Indochina"
+   ]
+  },
+  {
+   "title": "Reference on Roy Hoko Ikeda’s postwar proposals",
+   "doc_type": "memorandum",
+   "start_page": 217,
+   "end_page": 218,
+   "continues_previous": false,
+   "date": "1943-04-28",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes Ikeda’s proposals for Japanese democracy, colonial self-government and international institutions.",
+   "summary": "Notes reforms to the emperor’s role, colonial representation and plebiscites, Asian self-government, regional councils, and international policing.",
+   "keywords": [
+    "Ikeda",
+    "postwar Japan",
+    "constitutional reform",
+    "colonies"
+   ]
+  },
+  {
+   "title": "Letter from Roy Hoko Ikeda to Sumner Welles",
+   "doc_type": "letter with postscript",
+   "start_page": 219,
+   "end_page": 220,
+   "continues_previous": false,
+   "date": "",
+   "from": "Roy Hoko Ikeda",
+   "to": "Sumner Welles",
+   "about": "Submits Ikeda’s postwar proposals and comments on Japanese public opinion and an incident at the Utah relocation center.",
+   "summary": "Ikeda asks Welles to read and comment on his proposals. His postscript criticizes a State Department representative’s response after military police shot two evacuees at the relocation center.",
+   "keywords": [
+    "Ikeda",
+    "Welles",
+    "postwar Japan",
+    "Topaz",
+    "relocation center"
+   ]
+  },
+  {
+   "title": "Skeleton Idea of the Post-War Japan’s Political and Economic Structure and Her International Relation",
+   "doc_type": "enclosed proposal",
+   "start_page": 221,
+   "end_page": 227,
+   "continues_previous": false,
+   "date": "",
+   "from": "Hoko Ikeda",
+   "to": "Sumner Welles",
+   "about": "Sets out a proposed democratic monarchy, cooperative economy, colonial self-government and international government.",
+   "summary": "Ikeda proposes removing reactionary institutions around the emperor, democratizing the Diet, extending women’s suffrage, and protecting civil liberties. He advocates joint worker and capitalist management of major industries, agricultural cooperatives, and colonial self-government leading to independence. He also proposes regional councils and an international government with policing and transport authority.",
+   "keywords": [
+    "postwar Japan",
+    "emperor",
+    "Diet",
+    "women’s suffrage",
+    "cooperatives",
+    "decolonization"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Roy Hoko Ikeda",
+   "doc_type": "letter",
+   "start_page": 228,
+   "end_page": 228,
+   "continues_previous": false,
+   "date": "1943-04-30",
+   "from": "Laurence B. Salisbury",
+   "to": "Roy Hoko Ikeda",
+   "about": "Acknowledges receipt of Ikeda’s letter and postwar proposals.",
+   "summary": "Thanks Ikeda for sending his views on postwar reorganization in Japan and the Far East.",
+   "keywords": [
+    "acknowledgment",
+    "Ikeda",
+    "postwar Japan"
+   ]
+  },
+  {
+   "title": "Economic materials from monitored Japanese broadcasts, telegram 639",
+   "doc_type": "telegram",
+   "start_page": 229,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "1943-05-02",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State; Board of Economic Warfare",
+   "about": "Summarizes broadcasts on North China food and railways, Japanese savings and industrial production.",
+   "summary": "Reports food shortages and ration changes, Zhejiang railway repairs, Japanese savings and investment, industrial associations, coal output, Chinese commodity exchange plans, small vessel building, and a claimed welding advance.",
+   "keywords": [
+    "food shortage",
+    "railways",
+    "savings",
+    "coal",
+    "shipbuilding"
+   ]
+  },
+  {
+   "title": "Despatch 1049 forwarding translated Japanese broadcasts",
+   "doc_type": "despatch cover letter",
+   "start_page": 232,
+   "end_page": 232,
+   "continues_previous": false,
+   "date": "1943-04-05",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State",
+   "about": "Forwards fuller translations of broadcasts summarized in telegram 355.",
+   "summary": "Transmits monitored economic broadcasts for March 1–10, 1943, to the Board of Economic Warfare.",
+   "keywords": [
+    "despatch",
+    "broadcast monitoring",
+    "translation"
+   ]
+  },
+  {
+   "title": "Economic items selected from Japanese and Nanking regime broadcasts, March 1–10",
+   "doc_type": "translated broadcast compilation",
+   "start_page": 233,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1943-03",
+   "from": "S. Y. Feng, translator",
+   "to": "U.S. Embassy, Chungking; Board of Economic Warfare",
+   "about": "Compiles monitored broadcasts on food, crops, resources, transportation and banking.",
+   "summary": "The enclosure reports Shanghai rations and prices, Japan’s 1943–44 crop targets, and plans for South Seas fiber, oil, food and local processing. It also covers Manchurian afforestation, Indochinese air service, Lower Yangtze material controls, Peking food supplies, Burma reconstruction, and a Bank of Japan loan to the Federal Reserve Bank of China.",
+   "keywords": [
+    "broadcast monitoring",
+    "Shanghai",
+    "crop plans",
+    "South Seas",
+    "Burma",
+    "banking"
+   ]
+  },
+  {
+   "title": "Telegram 686 on exchanging economic intelligence with General Wang",
+   "doc_type": "telegram",
+   "start_page": 238,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1943-05-11",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State; Board of Economic Warfare",
+   "about": "Requests U.S. shipping and petroleum intelligence to exchange with Wang Peng Sheng.",
+   "summary": "Boehringer reports Wang’s requests for Japanese shipping losses and construction capacity, oil imports, and production and damage data for the Netherlands East Indies and Borneo. Wang may provide intelligence on Japan and a North Pacific report.",
+   "keywords": [
+    "intelligence exchange",
+    "Wang Peng Sheng",
+    "shipping",
+    "petroleum"
+   ]
+  },
+  {
+   "title": "Paraphrase of telegram 686",
+   "doc_type": "telegram paraphrase",
+   "start_page": 241,
+   "end_page": 243,
+   "continues_previous": false,
+   "date": "1943-05-11",
+   "from": "U.S. Embassy, Chungking",
+   "to": "Secretary of State",
+   "about": "Restates the request to exchange shipping and oil intelligence with Wang Peng Sheng.",
+   "summary": "A typed paraphrase of telegram 686 details Wang’s requests for Japanese shipping figures and oil data from the Netherlands East Indies and North Borneo.",
+   "keywords": [
+    "telegram paraphrase",
+    "Wang Peng Sheng",
+    "shipping",
+    "oil"
+   ]
+  },
+  {
+   "title": "Reply on economic intelligence exchange with General Wang",
+   "doc_type": "outgoing telegram",
+   "start_page": 244,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1943-05",
+   "from": "Department of State; Board of Economic Warfare",
+   "to": "U.S. Embassy, Chungking",
+   "about": "Authorizes a controlled exchange and supplies petroleum figures while withholding shipping data pending clearance.",
+   "summary": "The Board of Economic Warfare supports an embassy-led exchange, subject to military attaché clearance. It supplies prewar Netherlands East Indies and Borneo oil production, refining and damage estimates, requests information on synthetic fuel and rehabilitation, and says shipping figures await Navy clearance.",
+   "keywords": [
+    "intelligence exchange",
+    "petroleum",
+    "Netherlands East Indies",
+    "Borneo",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Despatch 1081 forwarding translated Japanese broadcasts",
+   "doc_type": "despatch cover letter",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1943-04-15",
+   "from": "John Carter Vincent, Chungking",
+   "to": "Secretary of State",
+   "about": "Forwards fuller translations of broadcasts summarized in telegram 449.",
+   "summary": "Transmits monitored economic broadcasts for March 11–24, 1943, to the Board of Economic Warfare.",
+   "keywords": [
+    "despatch",
+    "broadcast monitoring",
+    "translation"
+   ]
+  },
+  {
+   "title": "Economic items selected from Japanese and Nanking regime broadcasts, March 11–24",
+   "doc_type": "translated broadcast compilation",
+   "start_page": 248,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1943-03",
+   "from": "S. Y. Feng, translator",
+   "to": "U.S. Embassy, Chungking; Board of Economic Warfare",
+   "about": "Reports economic and infrastructure measures in occupied China, Manchuria, Sumatra, Burma and the Philippines.",
+   "summary": "The enclosure describes eased material movement restrictions in Central China, mineral production quotas in Manchuria, and Japanese accounts of Sumatra’s resources and reconstruction. It continues with a power plant, Burma’s food and mineral resources, Philippine telephone and telegraph expansion, and Grand Canal and Yellow River works. The report continues beyond page 253.",
+   "keywords": [
+    "broadcast monitoring",
+    "Central China",
+    "Manchuria",
+    "Sumatra",
+    "Burma",
+    "Philippines"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 12,
+  "pages": [
+   196,
+   253
+  ],
+  "pdf": "894.50 Japan, Economic Matters., September 4, 1942 - June 1943 1390-part-1.pdf",
+  "seconds": 91.7,
+  "created": "2026-10-08 13:42:03",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-12-part-1"
+ }
+}

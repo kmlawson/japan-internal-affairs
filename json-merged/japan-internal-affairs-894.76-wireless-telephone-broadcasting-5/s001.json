@@ -1,0 +1,1401 @@
+{
+ "section_summary": "This section concerns Japanese overseas shortwave broadcasts and American monitoring of their propaganda. It includes consular reports, the Broadcasting Corporation of Japan’s June 1940 bulletin, and correspondence about American participation in a radio tribute to Prince Iyesato Tokugawa. The final pages contain the embassy’s record of that broadcast; Viscount Inouye’s speech continues beyond this section.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japar",
+    "Japon",
+    "Lapan",
+    "Nippon",
+    "Nippen",
+    "日本"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokvo",
+    "Tokio",
+    "Tekye",
+    "Tokye",
+    "TOMYO",
+    "東京"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yekehame",
+    "橫濱"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "ashington",
+    "Nashington",
+    "Waohinglon",
+    "WASHINGTON",
+    "WASHINGTON. D. C."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.A.",
+    "USA",
+    "United states",
+    "America",
+    "Ameriea",
+    "米國"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America",
+    "NORTH AMERICA",
+    "北米"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "SOUTH AMERICAN COUNTRIES",
+    "南米"
+   ]
+  },
+  {
+   "name": "Pacific Coast of North America",
+   "variants": [
+    "Pacific Coast of North America",
+    "PACIFIC COAST of NORTH AMERICA",
+    "rest coast North America"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "HAWAII",
+    "Hawai",
+    "HAWAIl",
+    "Harai",
+    "布哇"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "CHINA",
+    "Chins",
+    "Chena",
+    "中國",
+    "支那"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas",
+    "SOUTH SEAS",
+    "Mers du Sud",
+    "南洋"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "EAST ASIA",
+    "Far East",
+    "Far East",
+    "Verre Oosten",
+    "Etréme-Orient",
+    "東亞",
+    "極東"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "EUROPE",
+    "改洲",
+    "敵洲"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "加奈陀"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "上海"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Washington state",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Mich.",
+    "Michigan"
+   ]
+  },
+  {
+   "name": "Detroit",
+   "variants": [
+    "Detroit",
+    "De roit"
+   ]
+  },
+  {
+   "name": "Maryland",
+   "variants": [
+    "Maryland"
+   ]
+  },
+  {
+   "name": "Indiana",
+   "variants": [
+    "Ind."
+   ]
+  },
+  {
+   "name": "Chalmers, Indiana",
+   "variants": [
+    "Chalmers"
+   ]
+  },
+  {
+   "name": "Appalachian Mountains",
+   "variants": [
+    "Appalatian Mountains"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australta"
+   ]
+  },
+  {
+   "name": "Victoria, Australia",
+   "variants": [
+    "Victoria"
+   ]
+  },
+  {
+   "name": "Melbourne",
+   "variants": [
+    "Melbourne"
+   ]
+  },
+  {
+   "name": "Sydney",
+   "variants": [
+    "Sidney"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "印度"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "Iraq"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Syria",
+   "variants": [
+    "Syria"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt"
+   ]
+  },
+  {
+   "name": "Near East",
+   "variants": [
+    "Near East",
+    "NEAR EAST",
+    "近東"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "Malay Peninsula",
+   "variants": [
+    "Malay Peninsula"
+   ]
+  },
+  {
+   "name": "East Indies",
+   "variants": [
+    "East Indies"
+   ]
+  },
+  {
+   "name": "Dutch East Indies",
+   "variants": [
+    "Nederlandsch-Indie"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "Sumatra"
+   ]
+  },
+  {
+   "name": "Sulawesi",
+   "variants": [
+    "Celebes"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Bornen"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "比律寶"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "シンガポール"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "FORMOSA"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "KOREA"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "I hailand"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Merico"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "アルゼンチン",
+    "アルゼンナン"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sw eden",
+    "瑞典"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland",
+    "HolHand"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki",
+    "Nagrok",
+    "長崎"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "京都"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura",
+    "Kamabura"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoscki"
+   ]
+  },
+  {
+   "name": "Dan-no-ura",
+   "variants": [
+    "Danne er",
+    "Donno ura"
+   ]
+  },
+  {
+   "name": "Inland Sea",
+   "variants": [
+    "Inland Sea"
+   ]
+  },
+  {
+   "name": "Kantō region",
+   "variants": [
+    "Kw. w. district"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Takarazuka",
+   "variants": [
+    "Takarazuka"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gitu"
+   ]
+  },
+  {
+   "name": "Koishikawa",
+   "variants": [
+    "Koishikawa"
+   ]
+  },
+  {
+   "name": "Uchisaiwaichō",
+   "variants": [
+    "UCHISAIWAICHO",
+    "Uchisalwalcho"
+   ]
+  },
+  {
+   "name": "Kōjimachi-ku",
+   "variants": [
+    "KOJIMACHI-KU",
+    "Kojimachi-Ku"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "南京"
+   ]
+  },
+  {
+   "name": "Guangdong",
+   "variants": [
+    "廣東"
+   ]
+  },
+  {
+   "name": "Foshan",
+   "variants": [
+    "佛山"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "神奈川縣"
+   ]
+  },
+  {
+   "name": "Hibiya Park",
+   "variants": [
+    "日比谷公園"
+   ]
+  },
+  {
+   "name": "Yasukuni Shrine",
+   "variants": [
+    "靖國神社"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "福岡"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "小倉"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "仙"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "山形"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "秋田"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "北海道"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "松江"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "良取"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "名古屋"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "金澤"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "福井"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "新海"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "長野"
+   ]
+  },
+  {
+   "name": "Kōfu",
+   "variants": [
+    "甲府"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Richard F. Boyce",
+   "role": "American consul at Yokohama",
+   "variants": [
+    "Richard F. Boyce",
+    "hichard F. Boyce"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American ambassador to Japan",
+   "variants": [
+    "GREW",
+    "Joseph C. Grew",
+    "JCG"
+   ]
+  },
+  {
+   "name": "Iyesato Tokugawa",
+   "role": "prince; former president of the House of Peers, America-Japan Society, and Japanese Red Cross",
+   "variants": [
+    "Prince Tokugawa",
+    "PrincE Tokugawa",
+    "PrincE IyEsato Tokugawa",
+    "Prince Iyesato Tokugawa",
+    "Iyesato Tokugawa",
+    "Iyesato",
+    "IyEsato",
+    "Kamenosuke",
+    "KamEnosukE",
+    "Prinee Tokugawe"
+   ]
+  },
+  {
+   "name": "Tadashiro Inouye",
+   "role": "viscount, member of the House of Peers, and broadcast speaker",
+   "variants": [
+    "Viscount InouyE",
+    "Viscount Tadashiro InouyE",
+    "Viscount Tadashiro Inouye",
+    "Viscount Tadashro Inouye",
+    "Viscount Inouye",
+    "Inouye"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. secretary of state",
+   "variants": [
+    "Hull"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "U.S. under secretary of state",
+   "variants": [
+    "Sunner Welles"
+   ]
+  },
+  {
+   "name": "James Lawrence Fly",
+   "role": "chairman of the Federal Communications Commission",
+   "variants": [
+    "James Lawrenee Fly",
+    "JAMES LAWRENCE FLY"
+   ]
+  },
+  {
+   "name": "Mr. Lent",
+   "role": "National Broadcasting Company contact in Washington",
+   "variants": [
+    "Mr. Lent"
+   ]
+  },
+  {
+   "name": "Stanley G. Slavens",
+   "role": "American consul at Tokyo",
+   "variants": [
+    "Stanley G. Slavens"
+   ]
+  },
+  {
+   "name": "Breckinridge Long",
+   "role": "State Department official signing for the secretary of state",
+   "variants": [
+    "BRECLINRIDGE LONG"
+   ]
+  },
+  {
+   "name": "Count Kabayama",
+   "role": "announced broadcast speaker on Japanese-American relations",
+   "variants": [
+    "Count Kabayama"
+   ]
+  },
+  {
+   "name": "Vincent Canzoneri",
+   "role": "author of an article on the koto and scheduled broadcast speaker",
+   "variants": [
+    "Vincent Canzoneri",
+    "Vuncent Cnzonen"
+   ]
+  },
+  {
+   "name": "Michio Miyagi",
+   "role": "koto musician",
+   "variants": [
+    "Michio Miyagi",
+    "宮城道雄"
+   ]
+  },
+  {
+   "name": "Yatsuhashi Kengyō",
+   "role": "seventeenth-century koto master",
+   "variants": [
+    "Yatsuhashi"
+   ]
+  },
+  {
+   "name": "Johann Sebastian Bach",
+   "role": "composer",
+   "variants": [
+    "Bach"
+   ]
+  },
+  {
+   "name": "Shūzō Takiguchi",
+   "role": "author of an article on Japanese fine arts",
+   "variants": [
+    "Shuzo Takiguchi"
+   ]
+  },
+  {
+   "name": "Édouard Manet",
+   "role": "artist",
+   "variants": [
+    "Manet"
+   ]
+  },
+  {
+   "name": "Vincent van Gogh",
+   "role": "artist",
+   "variants": [
+    "Gogh"
+   ]
+  },
+  {
+   "name": "Paul Cézanne",
+   "role": "artist",
+   "variants": [
+    "Cézanne"
+   ]
+  },
+  {
+   "name": "Auguste Rodin",
+   "role": "sculptor",
+   "variants": [
+    "Rodin"
+   ]
+  },
+  {
+   "name": "Antoine Bourdelle",
+   "role": "sculptor",
+   "variants": [
+    "Bourdelle"
+   ]
+  },
+  {
+   "name": "Aristide Maillol",
+   "role": "sculptor",
+   "variants": [
+    "Maiyol"
+   ]
+  },
+  {
+   "name": "Minamoto no Yoritomo",
+   "role": "founder of the Kamakura shogunate",
+   "variants": [
+    "Yoritomo Minimodo",
+    "Yoritomo",
+    "Minamoto Yoritomo"
+   ]
+  },
+  {
+   "name": "S. Nomura",
+   "role": "author of an article on Japanese brocades",
+   "variants": [
+    "S. Nomura"
+   ]
+  },
+  {
+   "name": "Kanō Eitoku",
+   "role": "painter",
+   "variants": [
+    "Kano Eitoku"
+   ]
+  },
+  {
+   "name": "Yoshimune Tokugawa",
+   "role": "eighth Tokugawa shogun",
+   "variants": [
+    "Yoshimune"
+   ]
+  },
+  {
+   "name": "Yūgi Ishu",
+   "role": "credited author of floral notes and scheduled broadcast speaker",
+   "variants": [
+    "Yugi Ishu",
+    "Yugi 1.hu",
+    "Yug. Ish"
+   ]
+  },
+  {
+   "name": "Frank Saj",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "Frank Saj"
+   ]
+  },
+  {
+   "name": "K. William Kunz",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "K. William Kunz"
+   ]
+  },
+  {
+   "name": "E. C. Jarvis",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "E. C. Jarvis"
+   ]
+  },
+  {
+   "name": "George E. Brill",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "George E. Brill"
+   ]
+  },
+  {
+   "name": "A. I. Hudson",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "A. I Hudson"
+   ]
+  },
+  {
+   "name": "F. C. Christy",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "F.C. Christy"
+   ]
+  },
+  {
+   "name": "F. H. Harvey",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "F H. Harvey"
+   ]
+  },
+  {
+   "name": "Harry D. Copland",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "Harry D. Copland"
+   ]
+  },
+  {
+   "name": "T. D. Richards",
+   "role": "radio listener quoted in the bulletin",
+   "variants": [
+    "T. D. Richards"
+   ]
+  },
+  {
+   "name": "George Muroya",
+   "role": "author of an article on medical training for Nisei",
+   "variants": [
+    "George Muroya"
+   ]
+  },
+  {
+   "name": "Dick Mine",
+   "role": "orchestra leader mentioned by a listener",
+   "variants": [
+    "Dick Mine"
+   ]
+  },
+  {
+   "name": "Noriko Awaya",
+   "role": "singer listed in broadcast schedules",
+   "variants": [
+    "Miss Noriko Awaya",
+    "Miss Nor tko Awava"
+   ]
+  },
+  {
+   "name": "Mitsue Nishikawa",
+   "role": "violinist listed in broadcast schedules",
+   "variants": [
+    "Ms Mitsue Nishikwa",
+    "Miss Mitsue Nishikawa",
+    "Miss Mitsue Nishukawn"
+   ]
+  },
+  {
+   "name": "E. G. Guston",
+   "role": "head of the Japan branch of a Swedish company; scheduled broadcast speaker",
+   "variants": [
+    "E. G. Guston"
+   ]
+  },
+  {
+   "name": "Usui Kojima",
+   "role": "scheduled broadcast speaker",
+   "variants": [
+    "U'sui Kojima",
+    "U sn Kouma"
+   ]
+  },
+  {
+   "name": "Kazuo Minami",
+   "role": "Waseda University architecture instructor and scheduled broadcast speaker",
+   "variants": [
+    "Kazuo Minami"
+   ]
+  },
+  {
+   "name": "Kenkichi Sudo",
+   "role": "Tokyo Mercantile Marine School professor and scheduled broadcast speaker",
+   "variants": [
+    "Kenkichi Sudo"
+   ]
+  },
+  {
+   "name": "Yayoi Yoshioka",
+   "role": "scheduled interview participant",
+   "variants": [
+    "Yayoi Yoshioka"
+   ]
+  },
+  {
+   "name": "Hanako Ishigami",
+   "role": "scheduled interview participant",
+   "variants": [
+    "Hanako Ishigami"
+   ]
+  },
+  {
+   "name": "Mock Joya",
+   "role": "former managing editor of The Japan Times and scheduled broadcast speaker",
+   "variants": [
+    "Mock Jova"
+   ]
+  },
+  {
+   "name": "Kazue Nakayama",
+   "role": "scheduled broadcast speaker",
+   "variants": [
+    "Kazoe. Nakavama"
+   ]
+  },
+  {
+   "name": "Amy Ozaki",
+   "role": "scheduled broadcast speaker",
+   "variants": [
+    "Miss Amv Ot ank"
+   ]
+  },
+  {
+   "name": "E. Wilson",
+   "role": "Canadian Academy speaker listed in broadcast schedules",
+   "variants": [
+    "Mis. E. W:lson"
+   ]
+  },
+  {
+   "name": "Yone Noguchi",
+   "role": "poet whose work appears in broadcast schedules",
+   "variants": [
+    "Yone Nogm hus",
+    "Yone Nogucl",
+    "野口米次郎"
+   ]
+  },
+  {
+   "name": "Emperor Tenji",
+   "role": "Japanese emperor mentioned in the June calendar",
+   "variants": [
+    "Emperor Tenchi"
+   ]
+  },
+  {
+   "name": "Kuniko Ashihara",
+   "role": "dancer and singer pictured in the bulletin",
+   "variants": [
+    "Kuniko Anliluara"
+   ]
+  },
+  {
+   "name": "Hajime Wada",
+   "role": "broadcaster pictured in the bulletin",
+   "variants": [
+    "Hajime Wada"
+   ]
+  },
+  {
+   "name": "Shizuko Kisar",
+   "role": "jazz singer pictured in the bulletin",
+   "variants": [
+    "Slazuko Kisar"
+   ]
+  },
+  {
+   "name": "Yoshii",
+   "role": "English-language announcer pictured in the bulletin",
+   "variants": [
+    "Hisu Yoslui"
+   ]
+  },
+  {
+   "name": "Jor T. Hirakawa",
+   "role": "JZK announcer pictured in the bulletin",
+   "variants": [
+    "Jor T. Hirakawa"
+   ]
+  }
+ ],
+ "keywords": [
+  "shortwave radio",
+  "overseas broadcasting",
+  "Japanese propaganda",
+  "Broadcasting Corporation of Japan",
+  "Nippon Hoso Kyokai",
+  "Prince Iyesato Tokugawa",
+  "Joseph C. Grew",
+  "Japanese-American relations",
+  "Nisei",
+  "broadcast schedules",
+  "television experiments"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese Short-Wave Radio Programs for Overseas Reception",
+   "doc_type": "consular despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1940-03-28",
+   "from": "Richard F. Boyce, American Consul, Yokohama",
+   "to": "Secretary of State",
+   "about": "Boyce forwards an April program and suggests regular distribution to the Department.",
+   "summary": "Boyce describes the Broadcasting Corporation of Japan’s monthly program as evidence of propaganda directed at the United States and elsewhere.",
+   "keywords": [
+    "shortwave",
+    "overseas programs",
+    "propaganda"
+   ]
+  },
+  {
+   "title": "Proposed Reply on the Tokugawa Broadcast",
+   "doc_type": "interdivisional memorandum",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1940-06-19",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Division of International Communications",
+   "about": "Far Eastern Affairs proposes approving Grew’s participation and advance submission of his remarks.",
+   "summary": "Draft language for the Department’s reply to Tokyo.",
+   "keywords": [
+    "Tokugawa",
+    "Grew",
+    "broadcast approval"
+   ]
+  },
+  {
+   "title": "Invitation to Ambassador Grew to Join Tokugawa Tribute",
+   "doc_type": "received telegram",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1940-06-18",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew requests instructions on joining a July 5 radio tribute to Prince Tokugawa.",
+   "summary": "He proposes personal remarks and offers to submit the text in advance.",
+   "keywords": [
+    "Grew",
+    "Tokugawa",
+    "Inouye",
+    "radio tribute"
+   ]
+  },
+  {
+   "title": "Approval of Grew’s Tokugawa Broadcast",
+   "doc_type": "sent telegram",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1940-06-20",
+   "from": "Secretary of State",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department approves Grew’s participation and notes plans for an NBC rebroadcast.",
+   "summary": "The Department welcomes an advance draft of Grew’s remarks.",
+   "keywords": [
+    "broadcast approval",
+    "NBC",
+    "Tokugawa"
+   ]
+  },
+  {
+   "title": "Tokugawa Broadcast Information for the Federal Communications Commission",
+   "doc_type": "letter",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1940-06-22",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "James Lawrence Fly, Federal Communications Commission",
+   "about": "Welles forwards news of the planned tribute for rebroadcast arrangements.",
+   "summary": "Notification to the FCC concerning Grew’s invitation.",
+   "keywords": [
+    "FCC",
+    "rebroadcast",
+    "Tokugawa"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Broadcast Information",
+   "doc_type": "letter",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1940-06-28",
+   "from": "Federal Communications Commission",
+   "to": "Secretary of State",
+   "about": "The FCC acknowledges the June 22 notice about the Tokugawa broadcast.",
+   "summary": "The Commission thanks the Department for forwarding the information.",
+   "keywords": [
+    "FCC",
+    "acknowledgment",
+    "Tokugawa"
+   ]
+  },
+  {
+   "title": "Telephone Notice to NBC and FCC",
+   "doc_type": "memorandum",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1940-07-03",
+   "from": "Division of International Communications",
+   "to": "",
+   "about": "An official records telephone calls conveying the broadcast time to NBC and the FCC.",
+   "summary": "The telegram arrived too late for a pre-holiday letter.",
+   "keywords": [
+    "NBC",
+    "FCC",
+    "broadcast time"
+   ]
+  },
+  {
+   "title": "Grew’s Proposed Tokugawa Broadcast Text",
+   "doc_type": "received telegram",
+   "start_page": 9,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1940-06-28",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew submits his proposed July 5 tribute for departmental review.",
+   "summary": "The speech praises Prince Iyesato Tokugawa’s character, public service, friendship with Americans, and work for the Red Cross. It recounts his upbringing and introduces Viscount Tadashiro Inouye as the next speaker.",
+   "keywords": [
+    "Tokugawa",
+    "Grew",
+    "speech draft",
+    "Japanese-American relations"
+   ]
+  },
+  {
+   "title": "Approval and Date Query for Grew’s Speech",
+   "doc_type": "sent telegram",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1940-07-02",
+   "from": "Department of State",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department approves the speech and questions its date for the London Red Cross conference.",
+   "summary": "Approval is accompanied by a suggested correction from 1939 to 1938.",
+   "keywords": [
+    "speech approval",
+    "Red Cross",
+    "correction"
+   ]
+  },
+  {
+   "title": "Corrections to Grew’s Broadcast Text",
+   "doc_type": "received telegram",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1940-07-03",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew confirms the 1938 correction and supplies further changes to his speech.",
+   "summary": "Changes concern Tokugawa’s age, career description, and school.",
+   "keywords": [
+    "Grew",
+    "speech corrections",
+    "Tokugawa"
+   ]
+  },
+  {
+   "title": "Japanese Short Wave Radio Broadcasting for Overseas Reception",
+   "doc_type": "consular despatch",
+   "start_page": 15,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1940-05-21",
+   "from": "Richard F. Boyce, American Consul, Yokohama",
+   "to": "Secretary of State",
+   "about": "Boyce forwards the June 1940 broadcasting bulletin and highlights its propaganda content.",
+   "summary": "He points to the growth and reach of Japanese shortwave broadcasting, use of Nisei participants, and new transmissions for Hawaii and the Near East. He asks whether reporting should continue.",
+   "keywords": [
+    "June bulletin",
+    "propaganda",
+    "Nisei",
+    "Hawaii",
+    "Near East"
+   ]
+  },
+  {
+   "title": "Overseas Broadcast, No. 48: Fifth Anniversary Commemoration Edition",
+   "doc_type": "broadcasting bulletin",
+   "start_page": 17,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1940-06",
+   "from": "Nippon Hoso Kyokai, Broadcasting Corporation of Japan",
+   "to": "Overseas listeners",
+   "about": "The June bulletin promotes Japanese overseas broadcasting and publishes articles, listener letters, and transmission schedules.",
+   "summary": "This fifth-anniversary issue describes the corporation’s expanding foreign-language services, listener correspondence, and planned Hawaii and Near East transmissions. It presents Japanese culture, history, arts, science, Nisei education, and television experiments, alongside letters from listeners abroad. It gives detailed June programs and frequencies for audiences in North America, China, the South Seas, and the Dutch East Indies.",
+   "keywords": [
+    "Nippon Hoso Kyokai",
+    "shortwave schedules",
+    "overseas listeners",
+    "Nisei",
+    "television",
+    "cultural programming"
+   ]
+  },
+  {
+   "title": "Instruction to Obtain the Broadcasting Bulletin in Tokyo",
+   "doc_type": "departmental instruction",
+   "start_page": 41,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1940-08-15",
+   "from": "Breckinridge Long, for the Secretary of State",
+   "to": "Stanley G. Slavens, American Consul, Tokyo",
+   "about": "The Department directs the Tokyo consul to send the bulletin regularly and comment on propaganda features.",
+   "summary": "A single copy is requested if obtainable without cost.",
+   "keywords": [
+    "bulletin distribution",
+    "Tokyo consulate",
+    "propaganda"
+   ]
+  },
+  {
+   "title": "No Action on Kabayama Broadcast Notice",
+   "doc_type": "memorandum",
+   "start_page": 42,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1940-07-20",
+   "from": "Division of International Communications",
+   "to": "",
+   "about": "An official notes that notice arrived after Count Kabayama’s scheduled U.S. broadcast.",
+   "summary": "No further action appeared appropriate.",
+   "keywords": [
+    "Kabayama",
+    "late notice",
+    "broadcast"
+   ]
+  },
+  {
+   "title": "Notice of Count Kabayama’s Broadcast",
+   "doc_type": "received telegram",
+   "start_page": 43,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1940-07-19",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports Kabayama’s forthcoming Columbia network talk on Japanese-American relations.",
+   "summary": "The telegram specifies the planned Tokyo broadcast time.",
+   "keywords": [
+    "Kabayama",
+    "Columbia network",
+    "Japanese-American relations"
+   ]
+  },
+  {
+   "title": "A Tribute to the Late Prince Iyesato Tokugawa",
+   "doc_type": "embassy despatch",
+   "start_page": 44,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1940-07-06",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew transmits the texts of his and Inouye’s July 5 radio tributes.",
+   "summary": "The despatch places both broadcast speeches in the Department’s records.",
+   "keywords": [
+    "Tokugawa",
+    "broadcast transcripts",
+    "Grew",
+    "Inouye"
+   ]
+  },
+  {
+   "title": "Grew’s Broadcast Tribute to Prince Iyesato Tokugawa",
+   "doc_type": "speech transcript, enclosure 1",
+   "start_page": 46,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1940-07-05",
+   "from": "Joseph C. Grew",
+   "to": "United States radio audience",
+   "about": "Grew memorializes Tokugawa’s public service and support for Japanese-American friendship.",
+   "summary": "The final text incorporates the corrections discussed in July telegrams. Grew recalls Tokugawa’s leadership, Red Cross service, personal qualities, and friendship with Americans before introducing Inouye.",
+   "keywords": [
+    "Tokugawa",
+    "Grew",
+    "radio tribute",
+    "Red Cross"
+   ]
+  },
+  {
+   "title": "Inouye’s Broadcast Tribute to Prince Tokugawa",
+   "doc_type": "speech transcript, enclosure 2",
+   "start_page": 49,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1940-07-05",
+   "from": "Viscount Tadashiro Inouye",
+   "to": "United States radio audience",
+   "about": "Inouye begins a tribute to Tokugawa’s character, lineage, and family history.",
+   "summary": "The speech continues beyond page 49.",
+   "keywords": [
+    "Tokugawa",
+    "Inouye",
+    "radio tribute",
+    "Tokugawa shogunate"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 4,
+  "pages": [
+   1,
+   49
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., March 28, 1940 - October 3, 1940 1214.pdf",
+  "seconds": 86.4,
+  "created": "2026-10-08 12:30:20",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-5"
+ }
+}

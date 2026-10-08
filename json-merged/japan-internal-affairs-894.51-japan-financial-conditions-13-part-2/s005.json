@@ -1,0 +1,192 @@
+{
+ "section_summary": "Pages 321–380 conclude a civil affairs financial procedures manual, covering loans and advances, accounting, audits, civilian supplies, account classifications, sample forms, and terminology. The final pages contain a charge slip, an airgram reporting a Japanese Finance Ministry appointment in Switzerland, and a cross-reference note about Japanese bond purchases and bank advances.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Huddle",
+   "role": "Airgram signatory",
+   "variants": [
+    "HUDDLE"
+   ]
+  },
+  {
+   "name": "Mordan",
+   "role": "Named on the charge slip; role unclear",
+   "variants": [
+    "Mordan"
+   ]
+  }
+ ],
+ "keywords": [
+  "civil affairs finance",
+  "loans and advances",
+  "financial institutions",
+  "accounting procedures",
+  "audit",
+  "civilian supplies",
+  "sample accounting forms",
+  "military currency",
+  "Japanese Finance Ministry",
+  "Switzerland",
+  "government bonds"
+ ],
+ "subfiles": [
+  {
+   "title": "Civil affairs financial procedures manual, concluding chapters and appendices",
+   "doc_type": "manual",
+   "start_page": 321,
+   "end_page": 380,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Procedures for financing and accounting for civil affairs operations in occupied areas.",
+   "summary": "The concluding chapters prescribe approval and payment procedures for advances to government agencies, financial institutions, and businesses, then define the duties of the Accounts and Audit Branches. They also address reporting military expenditures and accounting for civilian supplies. Appendices provide a chart and explanations of accounts, sample forms and their distribution, and definitions of financial terms.",
+   "keywords": [
+    "civil affairs",
+    "loans",
+    "accounting",
+    "audits",
+    "civilian supplies",
+    "sample forms"
+   ]
+  },
+  {
+   "title": "Charge slip for enclosure",
+   "doc_type": "charge slip",
+   "start_page": 381,
+   "end_page": 381,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Tracks an enclosure charged from the file.",
+   "summary": "Charge slip for an enclosure, with a handwritten entry naming Mordan.",
+   "keywords": [
+    "charge slip",
+    "enclosure",
+    "file handling"
+   ]
+  },
+  {
+   "title": "Airgram A-822 on Japanese Finance Ministry representation in Switzerland",
+   "doc_type": "airgram",
+   "start_page": 382,
+   "end_page": 382,
+   "continues_previous": false,
+   "date": "1944-12-16",
+   "from": "Bern; Huddle",
+   "to": "Secretary of State, Washington; copy to Embassy London",
+   "about": "Reports that Japan plans to send a Finance Ministry official to Switzerland for foreign financial operations.",
+   "summary": "Citing a Berlin financial press report, the airgram says the official will have duties like Finance Ministry representatives in Germany, Italy, and France.",
+   "keywords": [
+    "Japan",
+    "Finance Ministry",
+    "Switzerland",
+    "financial operations",
+    "airgram"
+   ]
+  },
+  {
+   "title": "Cross-reference note on Japanese bond purchases and bank advances",
+   "doc_type": "cross-reference file note",
+   "start_page": 383,
+   "end_page": 383,
+   "continues_previous": false,
+   "date": "1944-12-19",
+   "from": "Switzerland",
+   "to": "",
+   "about": "Points to an original paper stating amounts of government bonds purchased and bank advances granted to Japanese.",
+   "summary": "Cross-reference to a December 19, 1944 paper from Switzerland on Japanese bond purchases and bank advances.",
+   "keywords": [
+    "cross-reference",
+    "government bonds",
+    "bank advances",
+    "Japanese",
+    "Switzerland"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 5,
+  "pages": [
+   321,
+   383
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., September 11, 1940 - December 19, 1944 1475-part-2.pdf",
+  "seconds": 34.5,
+  "created": "2026-10-08 14:22:01",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-13-part-2"
+ }
+}

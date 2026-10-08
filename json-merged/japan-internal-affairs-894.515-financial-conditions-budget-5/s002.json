@@ -1,0 +1,1483 @@
+{
+ "section_summary": "This section examines Japan’s gold production, purchase premiums, restrictions, reserves, exports, and foreign trade from late 1939 through 1940. It then follows 1941 inquiries into Japanese gold shipments to Brazil and Peru, including a State Department survey of diplomatic missions in Central and South America.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japanese Empire",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokgo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "Nihonbashi-ku"
+   ]
+  },
+  {
+   "name": "Hongoku-cho",
+   "variants": [
+    "Hongoku-cho"
+   ]
+  },
+  {
+   "name": "Muro-machi",
+   "variants": [
+    "Muro-machi"
+   ]
+  },
+  {
+   "name": "Kasumigaseki",
+   "variants": [
+    "Kasumigaseki"
+   ]
+  },
+  {
+   "name": "Kojimachi",
+   "variants": [
+    "Kojimachi-ku"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "HSINKING"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.A.",
+    "America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washimgten, D. C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brasil",
+    "Bramil"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro",
+    "Rio dE JanEiro",
+    "Rio de Janeire",
+    "Rie de Jamsire",
+    "Rie de"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru",
+    "PEru",
+    "Ptru"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Montevideo",
+   "variants": [
+    "MONTEVIDEO"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "South American"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America"
+   ]
+  },
+  {
+   "name": "Paraguay",
+   "variants": [
+    "Paraguay"
+   ]
+  },
+  {
+   "name": "Asunción",
+   "variants": [
+    "Asuncion",
+    "Asuno1on"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "El Salvador",
+    "El Salvader"
+   ]
+  },
+  {
+   "name": "San Salvador",
+   "variants": [
+    "San Salvador",
+    "Sam Salvater",
+    "Bam Salvader"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia",
+    "Belivia",
+    "Eolivia"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz",
+    "La Pas"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba",
+    "Ouba",
+    "Oabe"
+   ]
+  },
+  {
+   "name": "Havana",
+   "variants": [
+    "Habana",
+    "Hahana"
+   ]
+  },
+  {
+   "name": "Dominican Republic",
+   "variants": [
+    "Dominican Republic",
+    "Dominiean Republie"
+   ]
+  },
+  {
+   "name": "Santo Domingo",
+   "variants": [
+    "Ciudad Trujillo",
+    "Ciudad Truj1l1o"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia",
+    "Golombia"
+   ]
+  },
+  {
+   "name": "Bogotá",
+   "variants": [
+    "Bogota",
+    "Bogeta"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "variants": [
+    "Venezuela",
+    "Venesssla",
+    "Venesuele",
+    "Yenesuela"
+   ]
+  },
+  {
+   "name": "Caracas",
+   "variants": [
+    "Caracas",
+    "Gareeas",
+    "Garacas",
+    "Carasas"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Herbert Feis",
+   "role": "Adviser on International Economic Affairs",
+   "variants": [
+    "Mr.Feis",
+    "Mr. Feis",
+    "Merbert Feis"
+   ]
+  },
+  {
+   "name": "John O. Wiley",
+   "role": "Treasury Department addressee",
+   "variants": [
+    "Mr. wiley",
+    "Jahn 0. Wiley"
+   ]
+  },
+  {
+   "name": "L. H. Gourley",
+   "role": "American consul at Kobe",
+   "variants": [
+    "L. H. Gourley"
+   ]
+  },
+  {
+   "name": "Frank S. Williams",
+   "role": "Commercial attaché at the American Embassy, Tokyo",
+   "variants": [
+    "Frank S. Williams"
+   ]
+  },
+  {
+   "name": "Jefferson Caffery",
+   "role": "American ambassador in Brazil",
+   "variants": [
+    "CAFFERY",
+    "CAFFXRY",
+    "Caffery"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American ambassador in Japan",
+   "variants": [
+    "GREW"
+   ]
+  },
+  {
+   "name": "N. Kobayashi",
+   "role": "Yokohama Specie Bank agent in Lima",
+   "variants": [
+    "Mr. N. Kobayashi"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Hull"
+   ]
+  },
+  {
+   "name": "Philip Bonsal",
+   "role": "Chief of the Division of American Republics",
+   "variants": [
+    "Philip Bonsal"
+   ]
+  },
+  {
+   "name": "Harry Dexter White",
+   "role": "Treasury official whose division requested an instruction",
+   "variants": [
+    "Mr. White"
+   ]
+  },
+  {
+   "name": "Mr. Livesey",
+   "role": "Recipient of a Treasury interoffice communication",
+   "variants": [
+    "Mr. Livesey"
+   ]
+  },
+  {
+   "name": "Mr. Dietrich",
+   "role": "Sender of a Treasury interoffice communication",
+   "variants": [
+    "Mr. Dietrich"
+   ]
+  },
+  {
+   "name": "Mr. Adams",
+   "role": "Addressee of a Division of American Republics memorandum; surname is uncertain in OCR",
+   "variants": [
+    "Mr. Agams"
+   ]
+  },
+  {
+   "name": "Woodward",
+   "role": "Division of American Republics memorandum writer",
+   "variants": [
+    "Wodward"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department official addressed in a telegram routing mark",
+   "variants": [
+    "MR. HORNBECK"
+   ]
+  },
+  {
+   "name": "Frost",
+   "role": "American representative reporting from Asunción",
+   "variants": [
+    "FROST"
+   ]
+  },
+  {
+   "name": "Norweb",
+   "role": "American representative reporting from Lima",
+   "variants": [
+    "NORWEB"
+   ]
+  },
+  {
+   "name": "Frazer",
+   "role": "American representative reporting from San Salvador",
+   "variants": [
+    "FRAZER",
+    "FAAZRK"
+   ]
+  },
+  {
+   "name": "Dawson",
+   "role": "American representative reporting from La Paz",
+   "variants": [
+    "DAWSON",
+    "DAYBON"
+   ]
+  },
+  {
+   "name": "George S. Messersmith",
+   "role": "American representative reporting from Havana",
+   "variants": [
+    "MESSERSMITH",
+    "MESSERAMITH"
+   ]
+  },
+  {
+   "name": "Lawton",
+   "role": "American representative reporting from Ciudad Trujillo",
+   "variants": [
+    "LAWTON"
+   ]
+  },
+  {
+   "name": "Spruille Braden",
+   "role": "American representative reporting from Bogotá",
+   "variants": [
+    "BRADEN",
+    "BDEW"
+   ]
+  },
+  {
+   "name": "Frank P. Flack",
+   "role": "American representative reporting from Caracas",
+   "variants": [
+    "FL.CK",
+    "FLACE"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese gold reserves",
+  "gold production",
+  "gold purchase premiums",
+  "compulsory gold purchases",
+  "gold export restrictions",
+  "Bank of Japan",
+  "Yokohama Specie Bank",
+  "foreign trade balance",
+  "gold shipments to South America",
+  "U.S. Treasury correspondence"
+ ],
+ "subfiles": [
+  {
+   "title": "Gold premium press clippings",
+   "doc_type": "clipping compilation",
+   "start_page": 61,
+   "end_page": 63,
+   "continues_previous": true,
+   "date": "1939-12",
+   "from": "Japan Chronicle; Mitsubishi Economic Research Bureau; Osaka Mainichi; Japan Times",
+   "to": "",
+   "about": "Clippings describe Japanese and Manchukuo premiums intended to increase newly mined gold output.",
+   "summary": "The clippings explain production premiums, compare official purchase prices with dollar gold prices, and describe a similar premium system in Manchukuo.",
+   "keywords": [
+    "gold production",
+    "purchase premiums",
+    "Manchukuo"
+   ]
+  },
+  {
+   "title": "Attachment No. 5: New Gold Restrictions for 1940",
+   "doc_type": "attachment cover sheet",
+   "start_page": 64,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A cover sheet identifies an attachment on new gold restrictions.",
+   "summary": "Cover sheet for the following clipping.",
+   "keywords": [
+    "gold restrictions"
+   ]
+  },
+  {
+   "title": "Gold Restrictions: Revised Rules to Go Into Force on January 1st",
+   "doc_type": "newspaper clipping",
+   "start_page": 65,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1939-12-20",
+   "from": "Japan Chronicle",
+   "to": "",
+   "about": "Japan expands controls on the use and transfer of gold from January 1940.",
+   "summary": "The revised rules cover additional gold forms and require permission for sales and transfers.",
+   "keywords": [
+    "gold restrictions",
+    "gold sales"
+   ]
+  },
+  {
+   "title": "Attachment No. 6: Excess of Imports Over Exports in Japan's Foreign Trade",
+   "doc_type": "attachment cover sheet",
+   "start_page": 66,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A cover sheet identifies a foreign trade table.",
+   "summary": "Cover sheet for the following table.",
+   "keywords": [
+    "foreign trade"
+   ]
+  },
+  {
+   "title": "Japan's Excess of Imports Over Exports in 1939",
+   "doc_type": "statistical table",
+   "start_page": 67,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1939",
+   "from": "",
+   "to": "",
+   "about": "A table separates Japan's January–October 1939 trade with the yen bloc from other trade.",
+   "summary": "Despite an overall export surplus, trade outside the yen bloc shows an import excess of ¥461,919,546.",
+   "keywords": [
+    "foreign trade",
+    "yen bloc",
+    "imports"
+   ]
+  },
+  {
+   "title": "Cross-reference file note: Japanese gold at end of 1939",
+   "doc_type": "cross-reference sheet",
+   "start_page": 68,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1940-01-29",
+   "from": "EA (Feis)",
+   "to": "",
+   "about": "The sheet points to a memorandum filed elsewhere on Japanese gold at the end of 1939.",
+   "summary": "References memorandum 894.51/656.",
+   "keywords": [
+    "cross-reference",
+    "gold reserves"
+   ]
+  },
+  {
+   "title": "Memorandum on Bank of Japan gold reserve figures",
+   "doc_type": "memorandum",
+   "start_page": 69,
+   "end_page": 70,
+   "continues_previous": false,
+   "date": "1940-02-19",
+   "from": "Office of the Adviser on International Economic Affairs",
+   "to": "Mr. Feis",
+   "about": "The memorandum compares conflicting published Bank of Japan reserve figures with an earlier estimate.",
+   "summary": "Reports from Kobe and Tokyo conflict over whether the reserve fell from roughly ¥501 million to ¥369.78 million. The lower figure closely matches the writer's estimate after a late December gold shipment.",
+   "keywords": [
+    "Bank of Japan",
+    "gold reserves",
+    "gold exports"
+   ]
+  },
+  {
+   "title": "Letter forwarding memoranda on Japanese gold and foreign exchange",
+   "doc_type": "letter",
+   "start_page": 71,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1940-11-13",
+   "from": "Herbert Feis",
+   "to": "John O. Wiley",
+   "about": "Feis forwards four memoranda about Japanese gold and foreign exchange assets.",
+   "summary": "Forwards four memoranda to Wiley at the Treasury Department.",
+   "keywords": [
+    "gold assets",
+    "foreign exchange"
+   ]
+  },
+  {
+   "title": "Japan's Decreasing Gold Exports",
+   "doc_type": "consular report",
+   "start_page": 72,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1940-07-16",
+   "from": "L. H. Gourley, American consul at Kobe",
+   "to": "Department of State",
+   "about": "The report assesses falling Japanese gold exports, production, private collections, official reserves, and note circulation.",
+   "summary": "Gold exports in the first half of 1940 were far below recent annual levels. Gourley considers whether newly mined gold could cover exports, doubts that voluntary private collections can supply much more, and examines conflicting Bank of Japan reserve reports. The report notes that official secrecy prevents a firm reserve estimate.",
+   "keywords": [
+    "gold exports",
+    "gold production",
+    "private gold collections",
+    "Bank of Japan"
+   ]
+  },
+  {
+   "title": "Gold Exports from Japan to United States",
+   "doc_type": "statistical attachment",
+   "start_page": 79,
+   "end_page": 81,
+   "continues_previous": false,
+   "date": "1940-07-16",
+   "from": "L. H. Gourley",
+   "to": "Department of State",
+   "about": "The attachment tabulates monthly 1940 shipments and annual Japanese gold exports to the United States since 1937.",
+   "summary": "Consular figures record 818,187 troy ounces exported through July 16, 1940, and 18.46 million ounces from 1937 through that date.",
+   "keywords": [
+    "gold exports",
+    "shipment statistics",
+    "United States"
+   ]
+  },
+  {
+   "title": "Japan's Gold Position",
+   "doc_type": "embassy despatch",
+   "start_page": 82,
+   "end_page": 86,
+   "continues_previous": false,
+   "date": "1940-11-22",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "An embassy analysis estimates Japanese gold stocks and relates gold shipments to foreign trade and U.S. assets.",
+   "summary": "The analysis estimates 73,777 kilograms of gold on hand on November 1, 1940, using uncertain production, collection, consumption, and export figures. It calculates a merchandise and gold debit balance and considers how much Japan may have drawn on commercial assets in the United States. It projects continued import needs and discusses the effect of U.S. export restrictions.",
+   "keywords": [
+    "gold reserves",
+    "foreign trade",
+    "commercial assets",
+    "United States"
+   ]
+  },
+  {
+   "title": "Gold Compulsory Purchase Law: Commercial Attaché report",
+   "doc_type": "commercial attaché report",
+   "start_page": 87,
+   "end_page": 88,
+   "continues_previous": false,
+   "date": "1940-12-17",
+   "from": "Frank S. Williams, commercial attaché",
+   "to": "Department of State",
+   "about": "The report introduces translations of Japan's compulsory gold purchase ordinance and related notifications.",
+   "summary": "Williams describes Japan's efforts to collect private gold and explains the ordinance, designated articles and depositories, and ¥3.85-per-gram purchase price.",
+   "keywords": [
+    "compulsory purchase",
+    "private gold",
+    "Finance Ministry"
+   ]
+  },
+  {
+   "title": "Gold Compulsory Purchase Law, Finance Ministry Ordinance No. 73",
+   "doc_type": "translated ordinance",
+   "start_page": 89,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1940-10-10",
+   "from": "Japanese Ministry of Finance",
+   "to": "",
+   "about": "The ordinance authorizes compulsory sale of specified gold and gold articles, with exemptions and procedures.",
+   "summary": "The ordinance empowers the Finance Minister to order sales of gold, gold coins, and gold articles. It provides exemptions or permission procedures for industrial, medical, research, artistic, and historic uses; restricts private transactions; and permits reporting and inspections.",
+   "keywords": [
+    "compulsory purchase",
+    "gold coins",
+    "gold regulation"
+   ]
+  },
+  {
+   "title": "Finance Ministry Notification No. 344",
+   "doc_type": "translated notification",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1940-10-10",
+   "from": "Japanese Ministry of Finance",
+   "to": "",
+   "about": "The notification lists gold articles subject to the compulsory purchase rules.",
+   "summary": "Lists jewelry, personal effects, utensils, furnishings, sword fittings, stationery, and coins.",
+   "keywords": [
+    "gold articles",
+    "compulsory purchase"
+   ]
+  },
+  {
+   "title": "Finance Ministry Notification No. 345",
+   "doc_type": "translated notification",
+   "start_page": 94,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "1940-10-10",
+   "from": "Japanese Ministry of Finance",
+   "to": "",
+   "about": "The notification names institutions authorized under the compulsory purchase law.",
+   "summary": "Names the Bank of Japan and two Tokyo associations.",
+   "keywords": [
+    "depositories",
+    "Bank of Japan"
+   ]
+  },
+  {
+   "title": "Finance Ministry Notification No. 346",
+   "doc_type": "translated notification",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1940-10-10",
+   "from": "Japanese Ministry of Finance",
+   "to": "",
+   "about": "The notification sets the compulsory purchase valuation for gold alloys and articles.",
+   "summary": "Sets the price at ¥3.85 per gram of pure gold content.",
+   "keywords": [
+    "gold price",
+    "compulsory purchase"
+   ]
+  },
+  {
+   "title": "Telegram 1006 from Rio de Janeiro",
+   "doc_type": "telegram received",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1941-08-04",
+   "from": "Caffery, American Embassy, Rio de Janeiro",
+   "to": "Secretary of State",
+   "about": "The Yokohama Specie Bank proposes placing gold with the Bank of Brazil for safekeeping.",
+   "summary": "Brazil's Director of Exchange intends to decline the proposal.",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "Bank of Brazil",
+    "gold transfer"
+   ]
+  },
+  {
+   "title": "Paraphrase of Rio de Janeiro telegram 1006",
+   "doc_type": "telegram paraphrase",
+   "start_page": 97,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "1941-08-04",
+   "from": "American Embassy, Rio de Janeiro",
+   "to": "Secretary of State",
+   "about": "A paraphrase reports the proposed Japanese gold transfer to the Bank of Brazil.",
+   "summary": "Restates Brazil's intended refusal.",
+   "keywords": [
+    "Bank of Brazil",
+    "gold transfer"
+   ]
+  },
+  {
+   "title": "Transmittal of Rio de Janeiro telegram to Treasury",
+   "doc_type": "transmittal letter",
+   "start_page": 98,
+   "end_page": 98,
+   "continues_previous": false,
+   "date": "1941-08",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The State Department forwards six copies of the paraphrased Rio de Janeiro telegram.",
+   "summary": "Transmits the report on the proposed Bank of Brazil deposit.",
+   "keywords": [
+    "Treasury",
+    "gold transfer"
+   ]
+  },
+  {
+   "title": "Telegram 1696 from Tokyo",
+   "doc_type": "telegram received",
+   "start_page": 99,
+   "end_page": 99,
+   "continues_previous": false,
+   "date": "1941-10-28",
+   "from": "Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports two Japanese gold shipments to Peru in August and September 1941.",
+   "summary": "The shipments total 818 kilograms; Grew seeks details about consignees and use.",
+   "keywords": [
+    "Peru",
+    "gold shipments",
+    "Noto Maru",
+    "Terukawa Maru"
+   ]
+  },
+  {
+   "title": "Paraphrase of Tokyo telegram 1696",
+   "doc_type": "telegram paraphrase",
+   "start_page": 100,
+   "end_page": 100,
+   "continues_previous": false,
+   "date": "1941-10-28",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats the quantities and vessels involved in gold shipments to Peru.",
+   "summary": "Records shipments of 260 and 558 kilograms and requests further particulars.",
+   "keywords": [
+    "Peru",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Additional copy of Tokyo telegram 1696",
+   "doc_type": "telegram copy",
+   "start_page": 101,
+   "end_page": 101,
+   "continues_previous": false,
+   "date": "1941-10-28",
+   "from": "Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "A further copy reports the same two Japanese gold shipments to Peru.",
+   "summary": "Repeats the August and September shipments and planned follow-up.",
+   "keywords": [
+    "Peru",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Transmittal of Tokyo gold shipment telegrams",
+   "doc_type": "transmittal letter",
+   "start_page": 102,
+   "end_page": 102,
+   "continues_previous": false,
+   "date": "1941-11-14",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The State Department forwards paraphrases of Tokyo telegrams 1696 and 1726.",
+   "summary": "Transmits reports on Japanese gold shipments to Peru.",
+   "keywords": [
+    "Treasury",
+    "Peru",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Confidential instruction concerning Japanese gold in Peru",
+   "doc_type": "instruction copy",
+   "start_page": 103,
+   "end_page": 103,
+   "continues_previous": false,
+   "date": "1941-11",
+   "from": "Secretary of State",
+   "to": "American ambassador, Lima",
+   "about": "The instruction seeks comment on reports of Japanese gold bullion arriving in Peru.",
+   "summary": "Relays confidential shipment reports and requests a despatch with comments.",
+   "keywords": [
+    "Peru",
+    "gold bullion",
+    "confidential instruction"
+   ]
+  },
+  {
+   "title": "Telegram 1726 from Tokyo",
+   "doc_type": "telegram received",
+   "start_page": 104,
+   "end_page": 105,
+   "continues_previous": false,
+   "date": "1941-10-31",
+   "from": "Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew identifies the consignee and reported purpose of Japanese gold shipments to Peru.",
+   "summary": "The Bank of Japan sent gold through the Yokohama Specie Bank to N. Kobayashi in Lima. Japan said it would pay officials and imports, but Grew's Peruvian source suspects other uses and observes that banking credits were already available.",
+   "keywords": [
+    "Peru",
+    "N. Kobayashi",
+    "Yokohama Specie Bank",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Paraphrase of Tokyo telegram 1726",
+   "doc_type": "telegram paraphrase",
+   "start_page": 106,
+   "end_page": 107,
+   "continues_previous": false,
+   "date": "1941-10-31",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "The paraphrase restates the consignee, stated uses, and doubts about the gold sent to Peru.",
+   "summary": "It identifies N. Kobayashi as the bank's Lima agent and relays a Peruvian diplomat's suspicion that the gold could fund propaganda or other activities. It also notes existing credit arrangements and a shipment of school books.",
+   "keywords": [
+    "Peru",
+    "gold shipments",
+    "propaganda",
+    "banking credits"
+   ]
+  },
+  {
+   "title": "Confidential communication to the American ambassador in Lima",
+   "doc_type": "communication fragment",
+   "start_page": 108,
+   "end_page": 108,
+   "continues_previous": false,
+   "date": "1941-11-18",
+   "from": "Department of State",
+   "to": "American ambassador, Lima",
+   "about": "A mostly illegible confidential communication is addressed to the ambassador in Lima.",
+   "summary": "Only its date, confidential marking, and addressee are legible.",
+   "keywords": [
+    "Lima",
+    "confidential correspondence"
+   ]
+  },
+  {
+   "title": "Memorandum on Japanese gold in Argentina and Brazil",
+   "doc_type": "memorandum",
+   "start_page": 109,
+   "end_page": 109,
+   "continues_previous": false,
+   "date": "1941-10-28",
+   "from": "Woodward, Division of American Republics",
+   "to": "Mr. Adams",
+   "about": "The memorandum explains the commercial significance of reported Japanese gold shipments to South America.",
+   "summary": "Japanese gold in Argentina could finance purchases competing with U.S. purchases; a reported Brazil shipment may matter similarly.",
+   "keywords": [
+    "Argentina",
+    "Brazil",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "British-source report on Toa Maru bullion",
+   "doc_type": "intelligence report",
+   "start_page": 110,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1941-10-27",
+   "from": "British sources",
+   "to": "Department of State",
+   "about": "A report claims the Toa Maru discharged bullion in Buenos Aires and retained more for Brazil.",
+   "summary": "Reports an unverified $3 million discharge and $2 million remaining aboard.",
+   "keywords": [
+    "Toa Maru",
+    "Buenos Aires",
+    "Brazil",
+    "bullion"
+   ]
+  },
+  {
+   "title": "Telegram 1059 to Rio de Janeiro",
+   "doc_type": "telegram sent",
+   "start_page": 111,
+   "end_page": 111,
+   "continues_previous": false,
+   "date": "1941-10-31",
+   "from": "Hull, Department of State",
+   "to": "American Embassy, Rio de Janeiro",
+   "about": "The Department relays the British-source allegation about Toa Maru bullion.",
+   "summary": "Asks the embassy to investigate alleged bullion destined for Brazil.",
+   "keywords": [
+    "Toa Maru",
+    "Brazil",
+    "bullion"
+   ]
+  },
+  {
+   "title": "Telegram 1635 from Rio de Janeiro",
+   "doc_type": "telegram received",
+   "start_page": 112,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1941-11-01",
+   "from": "Caffery, American Embassy, Rio de Janeiro",
+   "to": "Secretary of State",
+   "about": "Caffery reports checks of the Toa Maru cargo in Rio de Janeiro.",
+   "summary": "Officials found no gold but were investigating a heavy box consigned to the Japanese Embassy.",
+   "keywords": [
+    "Toa Maru",
+    "Rio de Janeiro",
+    "cargo inspection"
+   ]
+  },
+  {
+   "title": "Paraphrase of telegram 1635 for the Navy",
+   "doc_type": "routing paraphrase",
+   "start_page": 113,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1941-11-01",
+   "from": "Department of State",
+   "to": "Navy Department",
+   "about": "The State Department forwards a paraphrase of Caffery's cargo report.",
+   "summary": "Reports no gold found and notes further inquiry into an embassy consignment.",
+   "keywords": [
+    "Toa Maru",
+    "Navy",
+    "cargo inspection"
+   ]
+  },
+  {
+   "title": "Circular telegram on Japanese gold shipments",
+   "doc_type": "telegram sent",
+   "start_page": 114,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1941-11-14",
+   "from": "Hull, Department of State",
+   "to": "Diplomatic missions in Central and South America",
+   "about": "The Department requests urgent reporting on Japanese gold shipments and their purpose.",
+   "summary": "Missions are asked whether shipments pay for goods or establish exchange assets.",
+   "keywords": [
+    "gold shipments",
+    "exchange assets",
+    "South America"
+   ]
+  },
+  {
+   "title": "Treasury request for circular telegram",
+   "doc_type": "interoffice memorandum",
+   "start_page": 115,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1941-11-13",
+   "from": "Mr. Dietrich",
+   "to": "Mr. Livesey",
+   "about": "Treasury requests a cable to American missions about Japanese gold shipments.",
+   "summary": "Supplies the text later sent as the November 14 circular telegram.",
+   "keywords": [
+    "Treasury",
+    "gold shipments",
+    "circular telegram"
+   ]
+  },
+  {
+   "title": "Undated Asunción telegram 189",
+   "doc_type": "telegram received",
+   "start_page": 116,
+   "end_page": 116,
+   "continues_previous": false,
+   "date": "",
+   "from": "Frost, American Legation, Asunción",
+   "to": "Secretary of State",
+   "about": "Paraguayan officials report no Japanese gold shipments received or expected.",
+   "summary": "Negative reply to the November 14 circular.",
+   "keywords": [
+    "Paraguay",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Dated Asunción telegram 189",
+   "doc_type": "telegram copy",
+   "start_page": 117,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Frost, American Legation, Asunción",
+   "to": "Secretary of State",
+   "about": "A dated copy repeats Paraguay's negative response.",
+   "summary": "Officials report no shipments received or contemplated.",
+   "keywords": [
+    "Paraguay",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Transmittal of Asunción telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 118,
+   "end_page": 118,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards Asunción's reply about Japanese gold imports.",
+   "summary": "Encloses telegram 189.",
+   "keywords": [
+    "Treasury",
+    "Paraguay"
+   ]
+  },
+  {
+   "title": "Telegram 616 from Lima",
+   "doc_type": "telegram received",
+   "start_page": 119,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "Norweb, American Embassy, Lima",
+   "to": "Secretary of State",
+   "about": "Peru's Central Reserve Bank confirms two Japanese gold shipments and states their commercial purpose.",
+   "summary": "The second shipment contained 557.7317 kilograms in 38 bars; both shipments paid for goods delivered or to be delivered.",
+   "keywords": [
+    "Peru",
+    "gold shipments",
+    "Central Reserve Bank"
+   ]
+  },
+  {
+   "title": "Paraphrase of Lima telegram 616",
+   "doc_type": "telegram paraphrase",
+   "start_page": 120,
+   "end_page": 120,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "American Embassy, Lima",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats Peru's account of the two Japanese gold shipments.",
+   "summary": "Records the second shipment's weight and states that both funded purchases of goods.",
+   "keywords": [
+    "Peru",
+    "gold shipments",
+    "imports"
+   ]
+  },
+  {
+   "title": "Transmittal of Lima telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 121,
+   "end_page": 121,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards Lima's response to the gold shipment circular.",
+   "summary": "Encloses a paraphrase of telegram 616.",
+   "keywords": [
+    "Treasury",
+    "Peru"
+   ]
+  },
+  {
+   "title": "Telegram 92 from San Salvador",
+   "doc_type": "telegram received",
+   "start_page": 122,
+   "end_page": 122,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "Frazer, American Legation, San Salvador",
+   "to": "Secretary of State",
+   "about": "The legation reports no Japanese gold shipments to El Salvador.",
+   "summary": "No shipments have arrived or are expected.",
+   "keywords": [
+    "El Salvador",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Paraphrase of San Salvador telegram 92",
+   "doc_type": "telegram paraphrase",
+   "start_page": 123,
+   "end_page": 123,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "American Legation, San Salvador",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats the negative report from El Salvador.",
+   "summary": "No shipments have arrived or are expected.",
+   "keywords": [
+    "El Salvador",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Transmittal of San Salvador telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 124,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards San Salvador's response.",
+   "summary": "Encloses a paraphrase of telegram 92.",
+   "keywords": [
+    "Treasury",
+    "El Salvador"
+   ]
+  },
+  {
+   "title": "Telegram 333 from La Paz",
+   "doc_type": "telegram received",
+   "start_page": 125,
+   "end_page": 125,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "Dawson, American Legation, La Paz",
+   "to": "Secretary of State",
+   "about": "Bolivia reports no Japanese gold shipments received so far.",
+   "summary": "Future shipments will be reported.",
+   "keywords": [
+    "Bolivia",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Paraphrase of La Paz telegram",
+   "doc_type": "telegram paraphrase",
+   "start_page": 126,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "American Legation, La Paz",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats Bolivia's negative response.",
+   "summary": "No Japanese gold has arrived; future shipments will be reported.",
+   "keywords": [
+    "Bolivia",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Transmittal of La Paz telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 127,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "1941-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards La Paz's response to the gold shipment circular.",
+   "summary": "Encloses the Bolivian negative report.",
+   "keywords": [
+    "Treasury",
+    "Bolivia"
+   ]
+  },
+  {
+   "title": "Telegram 178 from Havana",
+   "doc_type": "telegram received",
+   "start_page": 128,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "Messersmith, American Embassy, Havana",
+   "to": "Secretary of State",
+   "about": "Treasury and bank sources report no recent Japanese gold imports into Cuba.",
+   "summary": "No Japanese gold imports are known for recent years.",
+   "keywords": [
+    "Cuba",
+    "gold imports"
+   ]
+  },
+  {
+   "title": "Paraphrase of Havana telegram 178",
+   "doc_type": "telegram paraphrase",
+   "start_page": 129,
+   "end_page": 129,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "American Embassy, Havana",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats Cuba's negative report.",
+   "summary": "Treasury and bank officials know of no recent imports.",
+   "keywords": [
+    "Cuba",
+    "gold imports"
+   ]
+  },
+  {
+   "title": "Transmittal of Havana telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 130,
+   "end_page": 130,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards Havana's response.",
+   "summary": "Encloses a paraphrase of telegram 178.",
+   "keywords": [
+    "Treasury",
+    "Cuba"
+   ]
+  },
+  {
+   "title": "Telegram 217 from Ciudad Trujillo",
+   "doc_type": "telegram received",
+   "start_page": 131,
+   "end_page": 131,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "Lawton, American Legation, Ciudad Trujillo",
+   "to": "Secretary of State",
+   "about": "The Dominican Republic reports no recent gold imports from any source.",
+   "summary": "No gold imports are expected soon.",
+   "keywords": [
+    "Dominican Republic",
+    "gold imports"
+   ]
+  },
+  {
+   "title": "Paraphrase of Ciudad Trujillo telegram 217",
+   "doc_type": "telegram paraphrase",
+   "start_page": 132,
+   "end_page": 132,
+   "continues_previous": false,
+   "date": "1941-11-15",
+   "from": "American Legation, Ciudad Trujillo",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats the Dominican Republic's negative report.",
+   "summary": "No recent gold imports or imminent arrivals are known.",
+   "keywords": [
+    "Dominican Republic",
+    "gold imports"
+   ]
+  },
+  {
+   "title": "Transmittal of Ciudad Trujillo telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 133,
+   "end_page": 133,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards Ciudad Trujillo's response.",
+   "summary": "Encloses a paraphrase of telegram 217.",
+   "keywords": [
+    "Treasury",
+    "Dominican Republic"
+   ]
+  },
+  {
+   "title": "Telegram 560 from Bogotá",
+   "doc_type": "telegram received",
+   "start_page": 134,
+   "end_page": 134,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Braden, American Embassy, Bogotá",
+   "to": "Secretary of State",
+   "about": "Colombia's Bank of the Republic reports no recent Japanese gold shipments.",
+   "summary": "Future shipments seem unlikely; the bank will notify the embassy if any occur.",
+   "keywords": [
+    "Colombia",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Paraphrase of Bogotá telegram 560",
+   "doc_type": "telegram paraphrase",
+   "start_page": 135,
+   "end_page": 135,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "American Embassy, Bogotá",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats Colombia's report and notes a small unexplained U.S. currency offering.",
+   "summary": "No Japanese gold shipments are known or expected.",
+   "keywords": [
+    "Colombia",
+    "gold shipments",
+    "U.S. currency"
+   ]
+  },
+  {
+   "title": "Transmittal of Bogotá telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 136,
+   "end_page": 136,
+   "continues_previous": false,
+   "date": "1941-11-18",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards Bogotá's response.",
+   "summary": "Encloses a paraphrase of telegram 560.",
+   "keywords": [
+    "Treasury",
+    "Colombia"
+   ]
+  },
+  {
+   "title": "Telegram 256 from Caracas",
+   "doc_type": "telegram received",
+   "start_page": 137,
+   "end_page": 137,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "Flack, American Embassy, Caracas",
+   "to": "Secretary of State",
+   "about": "The embassy reports no recent Japanese gold shipments to Venezuela.",
+   "summary": "Authoritative sources confirm no recent shipments.",
+   "keywords": [
+    "Venezuela",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Paraphrase of Caracas telegram 256",
+   "doc_type": "telegram paraphrase",
+   "start_page": 138,
+   "end_page": 138,
+   "continues_previous": false,
+   "date": "1941-11-17",
+   "from": "American Embassy, Caracas",
+   "to": "Secretary of State",
+   "about": "The paraphrase repeats Venezuela's negative report.",
+   "summary": "No recent shipments from Japan are known.",
+   "keywords": [
+    "Venezuela",
+    "gold shipments"
+   ]
+  },
+  {
+   "title": "Transmittal of Caracas telegram",
+   "doc_type": "transmittal letter",
+   "start_page": 139,
+   "end_page": 139,
+   "continues_previous": false,
+   "date": "1941-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards Caracas's response.",
+   "summary": "Encloses a paraphrase of the Venezuelan report.",
+   "keywords": [
+    "Treasury",
+    "Venezuela"
+   ]
+  },
+  {
+   "title": "File note referring to enclosure 77",
+   "doc_type": "file note",
+   "start_page": 140,
+   "end_page": 140,
+   "continues_previous": false,
+   "date": "1941-11-26",
+   "from": "G.J.C.",
+   "to": "",
+   "about": "A brief file note directs the reader to enclosure 77.",
+   "summary": "“See enclosure 77.”",
+   "keywords": [
+    "file reference",
+    "enclosure"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   61,
+   140
+  ],
+  "pdf": "894.515 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Monetary System. Coinage. Currency. Mint. Bullion., January 29, 1940 - September 25, 1944 1452.pdf",
+  "seconds": 135.3,
+  "created": "2026-10-08 14:36:13",
+  "key": "japan-internal-affairs-894.515-financial-conditions-budget-5"
+ }
+}

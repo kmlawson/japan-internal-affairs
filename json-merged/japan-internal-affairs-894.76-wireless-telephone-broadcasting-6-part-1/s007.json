@@ -1,0 +1,1716 @@
+{
+ "section_summary": "The section opens with a July 1941 Radio Tokyo bulletin listing shortwave schedules, frequencies, languages, and programme highlights for audiences around the world. It then contains an FBI cover letter and English transcriptions of Japanese-language broadcasts from Station JZK for June 10–15, 1941. The broadcasts cover Japan’s negotiations with the Dutch East Indies and Soviet Union, the Nanking government, fighting in China, the war in Syria, and commentary promoting Japan’s “new order” in East Asia.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Jaran",
+    "Giappone",
+    "Japão"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo",
+    "Tokio",
+    "TOKIO",
+    "Tóquio",
+    "Tolyo"
+   ]
+  },
+  {
+   "name": "Rangoon (Yangon)",
+   "variants": [
+    "Rangoon"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "HAWAII",
+    "Hawa11"
+   ]
+  },
+  {
+   "name": "Calcutta (Kolkata)",
+   "variants": [
+    "Calcutta"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Colombo",
+   "variants": [
+    "Colombo"
+   ]
+  },
+  {
+   "name": "Bombay (Mumbai)",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Wellington",
+   "variants": [
+    "Wellington"
+   ]
+  },
+  {
+   "name": "Auckland",
+   "variants": [
+    "Auckland"
+   ]
+  },
+  {
+   "name": "Kabul",
+   "variants": [
+    "Kabul"
+   ]
+  },
+  {
+   "name": "Christchurch",
+   "variants": [
+    "Christchurch"
+   ]
+  },
+  {
+   "name": "Tehran",
+   "variants": [
+    "Teheran",
+    "Téhéran"
+   ]
+  },
+  {
+   "name": "Sydney",
+   "variants": [
+    "Sydney"
+   ]
+  },
+  {
+   "name": "Melbourne",
+   "variants": [
+    "Melbourne"
+   ]
+  },
+  {
+   "name": "Mecca",
+   "variants": [
+    "Mecca",
+    "Mecque"
+   ]
+  },
+  {
+   "name": "Baghdad",
+   "variants": [
+    "Baghdad",
+    "Bagdad"
+   ]
+  },
+  {
+   "name": "Canberra",
+   "variants": [
+    "Camberra"
+   ]
+  },
+  {
+   "name": "Aden",
+   "variants": [
+    "Aden"
+   ]
+  },
+  {
+   "name": "Brisbane",
+   "variants": [
+    "Brisbane"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "Ankara",
+    "Ankera"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking",
+    "Nankin",
+    "Nankint",
+    "Nankin:"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shonghai",
+    "Shanrhai"
+   ]
+  },
+  {
+   "name": "Guangzhou (Canton)",
+   "variants": [
+    "Canton",
+    "Centon"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome",
+    "Rone",
+    "Rone)",
+    "Rone)--"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin",
+    "Borlin",
+    "Derlin"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila",
+    "Manilla",
+    "Manille"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "Singapora"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "Mexico City",
+    "Ciudad de Mexico"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Saigon (Ho Chi Minh City)",
+   "variants": [
+    "Saigon"
+   ]
+  },
+  {
+   "name": "Cairo",
+   "variants": [
+    "Caire",
+    "Cairo",
+    "Caire"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "America",
+    "Americe",
+    "Arerica",
+    "United States"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America",
+    "NORTH AMERICA"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America",
+    "America Latina"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "SOUTH AMERICA",
+    "Sudamérica",
+    "Sudamerica",
+    "América do Sul"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australie",
+    "Australic"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand",
+    "New Zeeland",
+    "Nieuwzeeland"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "Jh ine"
+   ]
+  },
+  {
+   "name": "Dutch East Indies (Indonesia)",
+   "variants": [
+    "Dutch East Indies",
+    "Dutch Eest Indies",
+    "Dutch ast Indies",
+    "Dutch Eant Indies",
+    "Nederlandsch-Indie"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Jawa"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Eust Asic",
+    "East Asie"
+   ]
+  },
+  {
+   "name": "Southwest Asia",
+   "variants": [
+    "Southwestern Asia",
+    "SOUTHWESTERN ASIA",
+    "Zuidwest-Azie"
+   ]
+  },
+  {
+   "name": "Near East",
+   "variants": [
+    "Near East",
+    "NEAR EAST",
+    "Nabije Oosten",
+    "Proche-Orient"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "EUROPE",
+    "Europa"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas",
+    "SOUTH SEAS",
+    "Mers du Sud",
+    "zuidelijke zeeen"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy",
+    "Itely",
+    "Italia",
+    "ITALIA"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Gernany",
+    "Ger any",
+    "Gerrany"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russic",
+    "Soviet Russia",
+    "Soviet Ruscia"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "Frence",
+    "Tramce"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Britain",
+    "Great Britain",
+    "Great Eritain",
+    "England",
+    "Englend"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Palestine",
+   "variants": [
+    "Palestine",
+    "Palostine"
+   ]
+  },
+  {
+   "name": "Syria",
+   "variants": [
+    "Syria",
+    "Syris",
+    "Sypic",
+    "Syrio"
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "variants": [
+    "Lebanon",
+    "Lobanon"
+   ]
+  },
+  {
+   "name": "Latakia",
+   "variants": [
+    "Latakia"
+   ]
+  },
+  {
+   "name": "Jabal al-Druze",
+   "variants": [
+    "Jobel Druz",
+    "Jebel Druz"
+   ]
+  },
+  {
+   "name": "Damascus",
+   "variants": [
+    "Damascus",
+    "Demascus",
+    "Danascus"
+   ]
+  },
+  {
+   "name": "Beirut",
+   "variants": [
+    "Beyrouth",
+    "Bevrouth"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "Iraq",
+    "Irac",
+    "Irec"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Aleppo",
+   "variants": [
+    "Aleppo"
+   ]
+  },
+  {
+   "name": "Haifa",
+   "variants": [
+    "Haifa",
+    "Haife",
+    "Maifa"
+   ]
+  },
+  {
+   "name": "Crete",
+   "variants": [
+    "Crete",
+    "Crote"
+   ]
+  },
+  {
+   "name": "Balkans",
+   "variants": [
+    "Balkans",
+    "Balkan"
+   ]
+  },
+  {
+   "name": "Alexandria",
+   "variants": [
+    "Alexandria"
+   ]
+  },
+  {
+   "name": "Tobruk",
+   "variants": [
+    "Tobruk",
+    "Cobruk"
+   ]
+  },
+  {
+   "name": "Malta",
+   "variants": [
+    "Malta"
+   ]
+  },
+  {
+   "name": "Morocco",
+   "variants": [
+    "Iorocco"
+   ]
+  },
+  {
+   "name": "Dakar",
+   "variants": [
+    "Dakar"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "North Africa",
+    "North African"
+   ]
+  },
+  {
+   "name": "Mediterranean Sea",
+   "variants": [
+    "Mediterranean",
+    "Hediterraneen"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantic",
+    "Southern Atlantic"
+   ]
+  },
+  {
+   "name": "English Channel",
+   "variants": [
+    "English Channol",
+    "English channel"
+   ]
+  },
+  {
+   "name": "Scotland",
+   "variants": [
+    "Scotland"
+   ]
+  },
+  {
+   "name": "Ireland",
+   "variants": [
+    "Ireland",
+    "Iroland",
+    "Southern Iroland"
+   ]
+  },
+  {
+   "name": "Shanxi Province",
+   "variants": [
+    "Shansi Province",
+    "Shansi province"
+   ]
+  },
+  {
+   "name": "Jiangxi Province",
+   "variants": [
+    "Kiangsi Provinces"
+   ]
+  },
+  {
+   "name": "Hunan Province",
+   "variants": [
+    "Hunan Province"
+   ]
+  },
+  {
+   "name": "Yuanzhou",
+   "variants": [
+    "Choko (Yuanchow)"
+   ]
+  },
+  {
+   "name": "Xiangtan",
+   "variants": [
+    "Shukusho (Siangtan)"
+   ]
+  },
+  {
+   "name": "Guangxi Province",
+   "variants": [
+    "Kwangsi Province"
+   ]
+  },
+  {
+   "name": "Yellow River",
+   "variants": [
+    "Yellow River"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "Chuncking",
+    "Chunglking",
+    "Chunakine"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miye Prefecture"
+   ]
+  },
+  {
+   "name": "Hubei Province",
+   "variants": [
+    "Hupeh Province",
+    "Wupeh Province",
+    "Tupeh Province"
+   ]
+  },
+  {
+   "name": "Anhui Province",
+   "variants": [
+    "Anwei Province",
+    "Anwei"
+   ]
+  },
+  {
+   "name": "Zhejiang Province",
+   "variants": [
+    "Chokian"
+   ]
+  },
+  {
+   "name": "Fujian Province",
+   "variants": [
+    "Fukien Provinces",
+    "Furion Province"
+   ]
+  },
+  {
+   "name": "Guangdong Province",
+   "variants": [
+    "Kwanatune Provinee"
+   ]
+  },
+  {
+   "name": "Nanchang",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Batavia (Jakarta)",
+   "variants": [
+    "Batavia",
+    "Satavia",
+    "atavic"
+   ]
+  },
+  {
+   "name": "Changchun (Hsinking)",
+   "variants": [
+    "Hsinking",
+    "Hsingking"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Hanchurin"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchoukuo",
+    "Ianchoukuo",
+    "Yanchouluo"
+   ]
+  },
+  {
+   "name": "Marunouchi",
+   "variants": [
+    "Marunouchi"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Waca-yama"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama",
+    "Toyema"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kiusciuh"
+   ]
+  },
+  {
+   "name": "Mount Fuji",
+   "variants": [
+    "Monte Fugi"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Fottori Prefecture"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "shinane Prefecture"
+   ]
+  },
+  {
+   "name": "Oyama Plain",
+   "variants": [
+    "Oyera Plain"
+   ]
+  },
+  {
+   "name": "Shinjuku, Tokyo",
+   "variants": [
+    "Shinccet, Tokyo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokobana"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Iexico"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China",
+    "French Indo-Chinese"
+   ]
+  },
+  {
+   "name": "Hanoi",
+   "variants": [
+    "Hanoi"
+   ]
+  },
+  {
+   "name": "Yunnan Province",
+   "variants": [
+    "Yunnan Frovince"
+   ]
+  },
+  {
+   "name": "Jiangsu Province",
+   "variants": [
+    "Miangsu Province",
+    "Kiengsu Provinoes"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "Yany tee River"
+   ]
+  },
+  {
+   "name": "Shaanxi Province",
+   "variants": [
+    "Shensi Province"
+   ]
+  },
+  {
+   "name": "Gansu Province",
+   "variants": [
+    "Hansu Provincos"
+   ]
+  },
+  {
+   "name": "Vichy",
+   "variants": [
+    "Vichy"
+   ]
+  },
+  {
+   "name": "Helsinki",
+   "variants": [
+    "Helsinki"
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "Finlend"
+   ]
+  },
+  {
+   "name": "Lisbon",
+   "variants": [
+    "Lishon"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Loscow",
+    "Loscow)"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Pel iu"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Croehos lovekie"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Cro ece"
+   ]
+  },
+  {
+   "name": "Luxembourg",
+   "variants": [
+    "Iuxen-boure"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Nothorl nas",
+    "Netherlands",
+    "Fetherlands"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Polene"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "You oslavic"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumanien"
+   ]
+  },
+  {
+   "name": "Bulgaria",
+   "variants": [
+    "Bulcarie"
+   ]
+  },
+  {
+   "name": "Adriatic Sea",
+   "variants": [
+    "Idrie tic"
+   ]
+  },
+  {
+   "name": "Ionian Sea",
+   "variants": [
+    "Tonien Seas"
+   ]
+  },
+  {
+   "name": "Venice",
+   "variants": [
+    "Vonezia",
+    "Venezia"
+   ]
+  },
+  {
+   "name": "Croatia",
+   "variants": [
+    "Croatia",
+    "Croatic"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Vashington",
+    "ashington, D.U."
+   ]
+  },
+  {
+   "name": "Cape Town",
+   "variants": [
+    "Capae Town"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Johannes Albeck",
+   "role": "Head of the Tokyo Branch of the Paramount Motion Picture Company",
+   "variants": [
+    "Johannes Albeck"
+   ]
+  },
+  {
+   "name": "Iwao Ayusawa",
+   "role": "Sub-Director, International Department, Japan Economic Federation",
+   "variants": [
+    "Dr. Iwao Ayusawa"
+   ]
+  },
+  {
+   "name": "Tikao Huzisawa",
+   "role": "critic on international affairs",
+   "variants": [
+    "Dr, Tikao Huzisawa"
+   ]
+  },
+  {
+   "name": "Soetsu Yanagi",
+   "role": "member of the Folk Arts Society",
+   "variants": [
+    "Soetu Yanagi"
+   ]
+  },
+  {
+   "name": "Yoshitaro Negishi",
+   "role": "professor at St. Paul's University",
+   "variants": [
+    "Yositaro Negisi"
+   ]
+  },
+  {
+   "name": "Yoshito Harada",
+   "role": "faculty member at Tokyo Imperial University",
+   "variants": [
+    "Dr. Yosito Harada"
+   ]
+  },
+  {
+   "name": "Yasunosuke Seki",
+   "role": "of the Imperial Museum",
+   "variants": [
+    "Yasunosuke Seki"
+   ]
+  },
+  {
+   "name": "Taichi Nakayama",
+   "role": "speaker associated with the Osaka Chamber of Commerce",
+   "variants": [
+    "Taici Naca-yama"
+   ]
+  },
+  {
+   "name": "Ryoichi Yabashi",
+   "role": "speaker on Italian marble",
+   "variants": [
+    "Rio-ici Yabasci"
+   ]
+  },
+  {
+   "name": "Kawatake Mokuami",
+   "role": "playwright",
+   "variants": [
+    "Cawatake Mocuami"
+   ]
+  },
+  {
+   "name": "Nichiren",
+   "role": "Buddhist priest",
+   "variants": [
+    "Niciren"
+   ]
+  },
+  {
+   "name": "Tokimune",
+   "role": "governor named in a programme item",
+   "variants": [
+    "Tokimune"
+   ]
+  },
+  {
+   "name": "Yasuzaemon Matsunaga",
+   "role": "speaker on impressions of Italy",
+   "variants": [
+    "Yasuzaemon Matsunaga"
+   ]
+  },
+  {
+   "name": "Tamenaga Shunsui",
+   "role": "writer",
+   "variants": [
+    "Tamenaga Sciunsui"
+   ]
+  },
+  {
+   "name": "Onoe Kikugorō VI",
+   "role": "actor",
+   "variants": [
+    "Onoe Kicugoroh VI°"
+   ]
+  },
+  {
+   "name": "Father Cimatti",
+   "role": "speaker on Kyushu",
+   "variants": [
+    "Padre Cimatti"
+   ]
+  },
+  {
+   "name": "Father Paolo Marcellino",
+   "role": "speaker on Japanese children",
+   "variants": [
+    "Padre Paolo Marcellino"
+   ]
+  },
+  {
+   "name": "John Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation; sender of cover letter",
+   "variants": [
+    "JOHN EDGAR HOOVER",
+    "Re. hoover"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State; recipient of cover letter",
+   "variants": [
+    "Adolf A. Berle, Jr.",
+    "MR. BERLE",
+    "Mr. Berle"
+   ]
+  },
+  {
+   "name": "Yōsuke Matsuoka",
+   "role": "Japanese foreign minister",
+   "variants": [
+    "Matsuoka",
+    "Latsuoka",
+    "Natsuoke",
+    "Lussolini's sppech"
+   ]
+  },
+  {
+   "name": "Kenjirō Yoshizawa",
+   "role": "Japanese delegate in Dutch East Indies negotiations",
+   "variants": [
+    "Yoshizawa",
+    "Yoshizava",
+    "Yoshizawe",
+    "Voshizava"
+   ]
+  },
+  {
+   "name": "Hachiro Yamaji",
+   "role": "sent to Germany to study price regulation",
+   "variants": [
+    "Hachiro Yamaji"
+   ]
+  },
+  {
+   "name": "Meitaku Takamine",
+   "role": "sent to Germany to study price regulation",
+   "variants": [
+    "Meitaku Takamine"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "leader of the Chongqing government",
+   "variants": [
+    "Chiane Kai-shek",
+    "Chiang",
+    "Chiane Kei-shek",
+    "Chitno Hai-shek"
+   ]
+  },
+  {
+   "name": "Anthony Eden",
+   "role": "British foreign minister",
+   "variants": [
+    "Anthony Eden",
+    "Eden",
+    "den"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "United States Secretary of State",
+   "variants": [
+    "Hull",
+    "Muli",
+    "Socretary of State Hull"
+   ]
+  },
+  {
+   "name": "Benito Mussolini",
+   "role": "Italian leader",
+   "variants": [
+    "Mussolini",
+    "Iusso-lini",
+    "Lursolini"
+   ]
+  },
+  {
+   "name": "Mamoru Shigemitsu",
+   "role": "Japanese ambassador to Britain",
+   "variants": [
+    "Shigemitsu",
+    "Shionitsu"
+   ]
+  },
+  {
+   "name": "Winston Churchill",
+   "role": "British prime minister",
+   "variants": [
+    "Churchill",
+    "Churohill"
+   ]
+  },
+  {
+   "name": "Hantarō Nagaoka",
+   "role": "professor quoted on Japanese science",
+   "variants": [
+    "Prof. Hantaro Nagaoka"
+   ]
+  },
+  {
+   "name": "Yūtarō Nagai",
+   "role": "director of the Rising Asia Bureau; former communications minister",
+   "variants": [
+    "vutaro a ai",
+    "yutaro Nagai",
+    "Nagai"
+   ]
+  },
+  {
+   "name": "Shirō Ozaki",
+   "role": "cultural representative to National Support Society convention",
+   "variants": [
+    "Shiro Ozaki"
+   ]
+  },
+  {
+   "name": "Harada",
+   "role": "president of a Japanese poetry club; full name unstated",
+   "variants": [
+    "Ir. Harada"
+   ]
+  },
+  {
+   "name": "Ishiguro",
+   "role": "Japanese agriculture minister who resigned",
+   "variants": [
+    "Ishiguro",
+    "Ishi uro"
+   ]
+  },
+  {
+   "name": "Ino",
+   "role": "Japanese vice-minister and successor as agriculture minister",
+   "variants": [
+    "Ino"
+   ]
+  },
+  {
+   "name": "Kobayashi",
+   "role": "named in connection with the Planning Board and, separately, a Japanese delegate to Batavia; identities not established by the OCR",
+   "variants": [
+    "Kobayashi",
+    "Kobayeshi"
+   ]
+  },
+  {
+   "name": "Arima",
+   "role": "former Japanese agriculture minister",
+   "variants": [
+    "Arime"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Japanese premier",
+   "variants": [
+    "Konoye",
+    "Kcnoye",
+    "Monoye"
+   ]
+  },
+  {
+   "name": "Okezaki",
+   "role": "Japanese lieutenant named in a military report",
+   "variants": [
+    "It. Okezeki"
+   ]
+  },
+  {
+   "name": "Charles de Gaulle",
+   "role": "leader of Free French forces",
+   "variants": [
+    "De Cau le",
+    "DeGaulle"
+   ]
+  },
+  {
+   "name": "Henri Dentz",
+   "role": "French general in Syria",
+   "variants": [
+    "General Dentz"
+   ]
+  },
+  {
+   "name": "Archibald Wavell",
+   "role": "British commander in the Near East",
+   "variants": [
+    "Gen. Vavell"
+   ]
+  },
+  {
+   "name": "Yaji Kawasaki",
+   "role": "speaker connected with Imperial Military Headquarters; name uncertain in transcription",
+   "variants": [
+    "Yaj Kewascki (?)"
+   ]
+  },
+  {
+   "name": "Yoshitsugu Tatekawa",
+   "role": "Japanese ambassador to the Soviet Union",
+   "variants": [
+    "Tatekawa"
+   ]
+  },
+  {
+   "name": "Tokushige Ikeda",
+   "role": "former Japanese vice-consul at Batavia",
+   "variants": [
+    "Tokushige Ikede"
+   ]
+  },
+  {
+   "name": "Kunio Kanemoto",
+   "role": "director of the South Seas Affairs Bureau, Overseas Affairs Ministry; surname uncertain in OCR",
+   "variants": [
+    "Kunio Kc mpoto"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "United States president",
+   "variants": [
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Philippe Pétain",
+   "role": "French general",
+   "variants": [
+    "General Petein"
+   ]
+  },
+  {
+   "name": "Guido",
+   "role": "commentator for Il Giornale d'Italia; surname not legible",
+   "variants": [
+    "Guica"
+   ]
+  },
+  {
+   "name": "Matsushima",
+   "role": "Japanese minister to Sweden",
+   "variants": [
+    "Matshsuima"
+   ]
+  },
+  {
+   "name": "Wang Jingwei",
+   "role": "president of the Nanking government",
+   "variants": [
+    "Tang Ching-vei",
+    "anr Chins-wei",
+    "Tan Chin -wei",
+    "Vang Ching-vei",
+    "Wans Ching-wei"
+   ]
+  },
+  {
+   "name": "Kōki Hirota",
+   "role": "Japanese premier apparently meant by an OCR-corrupted reference; identification uncertain",
+   "variants": [
+    "Miranura"
+   ]
+  },
+  {
+   "name": "Kumatarō Honda",
+   "role": "Japanese ambassador associated with the Nanking government",
+   "variants": [
+    "Ambassador Honda",
+    "Honda"
+   ]
+  },
+  {
+   "name": "Hideki Tōjō",
+   "role": "Japanese war minister",
+   "variants": [
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Kazuo Aoki",
+   "role": "foreign office adviser in Nanking",
+   "variants": [
+    "Kazuo Aoki"
+   ]
+  },
+  {
+   "name": "Jinzaburō Yamada",
+   "role": "participant in memorial planning; OCR gives conflicting surname forms",
+   "variants": [
+    "Jinzaburo smada",
+    "Jinzeburo Yonac:"
+   ]
+  },
+  {
+   "name": "Saito",
+   "role": "director of the Foreign Office South Seas Bureau",
+   "variants": [
+    "Saito"
+   ]
+  },
+  {
+   "name": "Shimada",
+   "role": "admiral commanding the Japanese fleet in Chinese waters",
+   "variants": [
+    "Ad: iral Shinada"
+   ]
+  },
+  {
+   "name": "Haranaka",
+   "role": "Japanese naval attaché to the embassy in Mexico; given name unstated",
+   "variants": [
+    "Capt. Haranaka"
+   ]
+  },
+  {
+   "name": "Yukinichi Hikari",
+   "role": "passenger named in shipping report; name uncertain in OCR",
+   "variants": [
+    "Rey. Tukinichi Tikeri"
+   ]
+  },
+  {
+   "name": "Richard Austen Butler",
+   "role": "British vice-minister named in farewell call",
+   "variants": [
+    "Putlor"
+   ]
+  },
+  {
+   "name": "Lord Halifax",
+   "role": "British ambassador to the United States",
+   "variants": [
+    "Halifex"
+   ]
+  },
+  {
+   "name": "Nobunaga",
+   "role": "historical Japanese warrior in a broadcast story",
+   "variants": [
+    "Nobuna e"
+   ]
+  },
+  {
+   "name": "Hasegawa",
+   "role": "family with triplets mentioned in a broadcast",
+   "variants": [
+    "Hasecewe"
+   ]
+  },
+  {
+   "name": "Shoseirun",
+   "role": "Chongqing government agent; name uncertain in OCR",
+   "variants": [
+    "Shosoirun"
+   ]
+  },
+  {
+   "name": "Victor Emmanuel III",
+   "role": "king of Italy",
+   "variants": [
+    "King Emmanuel"
+   ]
+  },
+  {
+   "name": "Joachim von Ribbentrop",
+   "role": "German foreign minister",
+   "variants": [
+    "Von Ribbentrop",
+    "Ribbentrop",
+    "Ribbontrop"
+   ]
+  },
+  {
+   "name": "Hiroshi Ōshima",
+   "role": "Japanese ambassador to the United States apparently meant by OCR; identification uncertain",
+   "variants": [
+    "Homura"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "United States Under Secretary of State",
+   "variants": [
+    "Tolles"
+   ]
+  },
+  {
+   "name": "Tomoyuki Yamashita",
+   "role": "Japanese general leading a military delegation",
+   "variants": [
+    "General Yamachita",
+    "Gen. Yarashita"
+   ]
+  },
+  {
+   "name": "Zendo Naoni",
+   "role": "speaker associated with Chugai Shōgyō; name uncertain in OCR",
+   "variants": [
+    "Yr. Zendo Naoni"
+   ]
+  }
+ ],
+ "keywords": [
+  "Radio Tokyo",
+  "shortwave broadcasting",
+  "programme schedules",
+  "Station JZK",
+  "broadcast monitoring",
+  "Dutch East Indies negotiations",
+  "Japan–Soviet trade agreement",
+  "Nanking government",
+  "Second Sino-Japanese War",
+  "Syria campaign",
+  "wartime propaganda",
+  "Rising Asia League"
+ ],
+ "subfiles": [
+  {
+   "title": "Radio Tokyo July 1941 programme bulletin",
+   "doc_type": "printed broadcasting bulletin",
+   "start_page": 182,
+   "end_page": 190,
+   "continues_previous": true,
+   "date": "1941-07",
+   "from": "Nippon Hoso Kyokai, Broadcasting Corporation of Japan",
+   "to": "International radio listeners",
+   "about": "July schedules and promotional notices describe Radio Tokyo’s shortwave services for audiences in multiple regions and languages.",
+   "summary": "The bulletin gives transmission times, frequencies, news slots, talks, music, and July programme highlights. It includes Italian daily listings and French, German, Spanish, Portuguese, Malay, Dutch, and other audience notices, followed by announcements of advance weekly programme listings.",
+   "keywords": [
+    "Radio Tokyo",
+    "July 1941",
+    "shortwave frequencies",
+    "programme schedules",
+    "multilingual broadcasting"
+   ]
+  },
+  {
+   "title": "FBI forwarding letter to Adolf A. Berle Jr.",
+   "doc_type": "letter",
+   "start_page": 191,
+   "end_page": 191,
+   "continues_previous": false,
+   "date": "1941-07-29",
+   "from": "John Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Hoover forwards Japanese-language Station JZK broadcast transcriptions for June 10–18, 1941.",
+   "summary": "Forwards JZK transcriptions as possibly of interest.",
+   "keywords": [
+    "FBI",
+    "Station JZK",
+    "broadcast transcriptions",
+    "cover letter"
+   ]
+  },
+  {
+   "title": "Station JZK programme transcription, June 10, 1941",
+   "doc_type": "broadcast transcription",
+   "start_page": 192,
+   "end_page": 197,
+   "continues_previous": false,
+   "date": "1941-06-10",
+   "from": "Station JZK, Tokyo; transcribed by the Federal Bureau of Investigation",
+   "to": "",
+   "about": "News and commentary address Dutch East Indies talks, fighting in China and Syria, and the campaign to “Japanize” national life.",
+   "summary": "The news reports a firm Japanese stance toward the Dutch East Indies, an East Asian organization, military operations in China, and European war developments. A long commentary presents racial solidarity, science, education, religion, and culture as parts of a “Japanized” national life. The programme closes with poetry and music.",
+   "keywords": [
+    "Dutch East Indies",
+    "China war",
+    "Syria",
+    "Japanized life",
+    "racial ideology",
+    "National Support Society"
+   ]
+  },
+  {
+   "title": "Station JZK programme transcription, June 11, 1941",
+   "doc_type": "broadcast transcription",
+   "start_page": 198,
+   "end_page": 201,
+   "continues_previous": false,
+   "date": "1941-06-11",
+   "from": "Station JZK, Tokyo; transcribed by the Federal Bureau of Investigation",
+   "to": "",
+   "about": "The broadcast covers a cabinet appointment, Dutch East Indies negotiations, China fighting, and Britain’s attack on Syria.",
+   "summary": "News describes Ino’s appointment as agriculture minister, Japan’s position toward the Dutch East Indies, and fighting in China and the Near East. The main commentary argues that Britain’s invasion of Syria will weaken its position and widen the war. A final talk praises Japanese operations in Shanxi.",
+   "keywords": [
+    "Ino",
+    "Dutch East Indies",
+    "Syria campaign",
+    "China war",
+    "Shanxi"
+   ]
+  },
+  {
+   "title": "Station JZK programme transcription, June 12, 1941",
+   "doc_type": "broadcast transcription",
+   "start_page": 202,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1941-06-12",
+   "from": "Station JZK, Tokyo; transcribed by the Federal Bureau of Investigation",
+   "to": "",
+   "about": "The programme reports Japan–Soviet trade terms and promotes the planned Rising Asia League.",
+   "summary": "News details proposed trade and payment agreements with the Soviet Union, the Dutch East Indies negotiations, events in China, and fighting in Syria. The main commentary praises consolidation of Japanese organizations into the Rising Asia League as a means of creating a new order in East Asia. A second talk promotes the Nanking government and Japanese military assistance to it.",
+   "keywords": [
+    "Japan–Soviet trade",
+    "Dutch East Indies",
+    "Rising Asia League",
+    "Nanking government",
+    "East Asian new order"
+   ]
+  },
+  {
+   "title": "Station JZK programme transcription, June 13, 1941",
+   "doc_type": "broadcast transcription",
+   "start_page": 208,
+   "end_page": 212,
+   "continues_previous": false,
+   "date": "1941-06-13",
+   "from": "Station JZK, Tokyo; transcribed by the Federal Bureau of Investigation",
+   "to": "",
+   "about": "The broadcast welcomes the Japan–Soviet trade agreement and reports war news from China, Syria, and Europe.",
+   "summary": "News emphasizes the announced Japan–Soviet agreement, conditions in Chongqing, the Dutch East Indies dispute, and Axis accounts of the European and Syrian campaigns. A lengthy commentary traces the negotiations and explains the agreement’s trade, payment, and renewal terms while presenting it as a diplomatic success for Japan.",
+   "keywords": [
+    "Japan–Soviet trade agreement",
+    "Chongqing",
+    "Dutch East Indies",
+    "Syria",
+    "Axis propaganda"
+   ]
+  },
+  {
+   "title": "Station JZK programme transcription, June 14, 1941",
+   "doc_type": "broadcast transcription",
+   "start_page": 213,
+   "end_page": 217,
+   "continues_previous": false,
+   "date": "1941-06-14",
+   "from": "Station JZK, Tokyo; transcribed by the Federal Bureau of Investigation",
+   "to": "",
+   "about": "The programme focuses on Wang Jingwei’s visit to Japan and presents Japanese operations against Chongqing as successful.",
+   "summary": "News describes Wang Jingwei’s itinerary and Japanese discussions about strengthening the Nanking government, alongside the Dutch East Indies dispute, naval restrictions, and European war reports. Commentary claims that air attacks and blocked transport routes are weakening Chongqing. A closing segment for listeners in Hawaii discusses rice planting, triplets, and plans to record combat sounds.",
+   "keywords": [
+    "Wang Jingwei",
+    "Nanking government",
+    "Chongqing bombing",
+    "naval exclusion zone",
+    "Hawaii broadcast"
+   ]
+  },
+  {
+   "title": "Station JZK programme transcription, June 15, 1941",
+   "doc_type": "broadcast transcription",
+   "start_page": 218,
+   "end_page": 220,
+   "continues_previous": false,
+   "date": "1941-06-15",
+   "from": "Station JZK, Tokyo; transcribed by the Federal Bureau of Investigation",
+   "to": "",
+   "about": "News covers Japanese attacks in China, Wang Jingwei’s journey, Syria, and Axis diplomatic and military contacts.",
+   "summary": "The broadcast reports further Japanese raids in China, alleged conflict between Chongqing and Communist forces, and Japanese newspaper support for Wang Jingwei’s visit. It also relays Vichy and Italian accounts of the war, a Japanese military delegation’s visit to Italy, Ribbentrop’s trip to Venice, and Ambassador Nomura’s Washington meeting. The transcription continues beyond page 220.",
+   "keywords": [
+    "Wang Jingwei",
+    "China war",
+    "Syria campaign",
+    "Tripartite Pact",
+    "Washington diplomacy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 7,
+  "sections": 10,
+  "pages": [
+   182,
+   220
+  ],
+  "pdf": "894.76 Wireless Telephone. Broadcasting. Divided As 8**.73., October 24, 1940 - July 12, 1943 1392-part-1.pdf",
+  "seconds": 87.7,
+  "created": "2026-10-08 12:43:41",
+  "key": "japan-internal-affairs-894.76-wireless-telephone-broadcasting-6-part-1"
+ }
+}

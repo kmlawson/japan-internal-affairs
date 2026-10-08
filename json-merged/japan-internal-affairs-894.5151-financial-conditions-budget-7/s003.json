@@ -1,0 +1,935 @@
+{
+ "section_summary": "This section traces American efforts to remit funds from Japan and Dairen as Japanese exchange controls tightened in 1941. It includes individual company and citizen cases, proposals for controlling Japanese assets in the United States, and detailed Embassy reports on Japan’s July 1941 restrictions on foreign nationals’ property and transactions.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japas",
+    "Jepen",
+    "Japon",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo",
+    "Tokye",
+    "Tokvo",
+    "Tekyo",
+    "TO KYO",
+    "Torye"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON. D.C.",
+    "Washington, D. C.",
+    "Vashi gton",
+    "Washipgion"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES OF AMERICA",
+    "United States of America",
+    "U.S.",
+    "America"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "SAN FRANCISCO",
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "Califoraia"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Kabe"
+   ]
+  },
+  {
+   "name": "Dairen",
+   "variants": [
+    "Dairen",
+    "Dairon",
+    "D iren"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "anchuria",
+    "e uriu"
+   ]
+  },
+  {
+   "name": "Kwantung Province",
+   "variants": [
+    "kwangtung Province",
+    "nn Fror ce"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "NEW YORK",
+    "NEWYORK",
+    "New York"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shenghai",
+    "Shangha1"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Tokohama"
+   ]
+  },
+  {
+   "name": "Chefoo",
+   "variants": [
+    "Chefoo"
+   ]
+  },
+  {
+   "name": "Peiping",
+   "variants": [
+    "Peipirg"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "CHINA"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "Frenoh Indochina"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "GREW",
+    "Joseph C. Grow",
+    "Joseph C. Gre..."
+   ]
+  },
+  {
+   "name": "Henry F. Grady",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Henry F. Grady",
+    "Mr. Grady"
+   ]
+  },
+  {
+   "name": "F. M. Prince",
+   "role": "Vice President in Charge of Exports, The Paraffine Companies",
+   "variants": [
+    "Mr. F. M. Prince",
+    "Mr. Prince",
+    "Mr. Prizee"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Mr. Max Hamilton",
+    "Mr. Hamilton",
+    "Maxrell N. Hemilten"
+   ]
+  },
+  {
+   "name": "Raymond C. Mackay",
+   "role": "Assistant Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Mr. Raymond C. Mackay",
+    "Mr. Mackay",
+    "Mr. Nackay",
+    "Maokay"
+   ]
+  },
+  {
+   "name": "Samuel Sokobin",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Samuel Sokobin"
+   ]
+  },
+  {
+   "name": "Frank Woodey",
+   "role": "American citizen seeking to remit funds from Dairen",
+   "variants": [
+    "Frank Woodey",
+    "Mr. Frank Woodey",
+    "Mr. Woodey",
+    "Mr. Woody's",
+    "Mr. Moodey",
+    "Mr. Joodey"
+   ]
+  },
+  {
+   "name": "A. S. Chase",
+   "role": "American Consul at Dairen",
+   "variants": [
+    "A.S. Chase",
+    ". S. Chase",
+    "Mr. Chase"
+   ]
+  },
+  {
+   "name": "Benninghoff",
+   "role": "Second Secretary, American Embassy in Tokyo",
+   "variants": [
+    "Mr. Benninghorf",
+    "Mr. Benninghoff"
+   ]
+  },
+  {
+   "name": "Taro Terasaki",
+   "role": "Director of the American Bureau, Japanese Foreign Office",
+   "variants": [
+    "r. laro Terasaki",
+    "Mr. Terasaki"
+   ]
+  },
+  {
+   "name": "Yoshio Yanai",
+   "role": "Governor of Kwantung Province",
+   "variants": [
+    "Yoshio Yanai"
+   ]
+  },
+  {
+   "name": "Takata",
+   "role": "Member of the Governor’s Secretariat",
+   "variants": [
+    "Mr. Takata",
+    "Rruiehi Tar to"
+   ]
+  },
+  {
+   "name": "George A. [surname unclear]",
+   "role": "Addressee of Chase’s March 7 letter",
+   "variants": [
+    "Georre A. airuc"
+   ]
+  },
+  {
+   "name": "Paoling Gerli",
+   "role": "E. Gerli & Co. correspondent",
+   "variants": [
+    "Paoling Gerli",
+    "Mr. Gerli",
+    "Ar. uer.i"
+   ]
+  },
+  {
+   "name": "Wakasugi",
+   "role": "Japanese diplomatic representative",
+   "variants": [
+    "Mr. Wakasugi"
+   ]
+  },
+  {
+   "name": "Jones",
+   "role": "Person consulted by Gerli",
+   "variants": [
+    "Mr. Jones"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Welles",
+    "R WELLE"
+   ]
+  },
+  {
+   "name": "Herbert Feis",
+   "role": "State Department official",
+   "variants": [
+    "Dr. Feis"
+   ]
+  },
+  {
+   "name": "Carlton Savage",
+   "role": "State Department official",
+   "variants": [
+    "Carlton Savage",
+    "MR SAVAGE"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "FRANKLIN D. ROOSEVELT"
+   ]
+  },
+  {
+   "name": "Lockhart",
+   "role": "American official in Shanghai",
+   "variants": [
+    "LOCKHART"
+   ]
+  },
+  {
+   "name": "Roberts",
+   "role": "American official at Chefoo",
+   "variants": [
+    "Roberts"
+   ]
+  }
+ ],
+ "keywords": [
+  "foreign exchange control",
+  "blocked American funds",
+  "remittance permits",
+  "Japanese asset freezing",
+  "reciprocity",
+  "foreign owned property",
+  "Dairen",
+  "Paraffine Companies",
+  "International Silk Guild",
+  "Finance Ministry ordinance",
+  "designated foreign nationals"
+ ],
+ "subfiles": [
+  {
+   "title": "Proposed approach to Japan on treatment of American funds",
+   "doc_type": "telegram",
+   "start_page": 161,
+   "end_page": 161,
+   "continues_previous": false,
+   "date": "1941-03-24",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew proposes seeking assurances that American funds receive treatment as favorable as third-country funds.",
+   "summary": "Grew modifies his recommendation in a related telegram after a new Japanese ordinance.",
+   "keywords": [
+    "American funds",
+    "Japanese ordinance",
+    "equal treatment"
+   ]
+  },
+  {
+   "title": "Cross-reference on Japanese industrial and exchange controls",
+   "doc_type": "cross-reference file note",
+   "start_page": 162,
+   "end_page": 162,
+   "continues_previous": false,
+   "date": "1941-03-10",
+   "from": "",
+   "to": "",
+   "about": "The note points to Grew’s telegram on the effect of Japanese control laws on corporations.",
+   "summary": "References telegram 383, filed at 894.5034/23.",
+   "keywords": [
+    "cross-reference",
+    "industrial production",
+    "exchange control"
+   ]
+  },
+  {
+   "title": "Paraffine Companies request help remitting proceeds from Japan",
+   "doc_type": "letter",
+   "start_page": 163,
+   "end_page": 165,
+   "continues_previous": false,
+   "date": "1941-03-26",
+   "from": "The Paraffine Companies, Inc., Export Division",
+   "to": "Secretary of State",
+   "about": "The company asks whether sale proceeds from its Japanese holdings could be converted and transferred to the United States.",
+   "summary": "The company reports Prince’s inquiry from Tokyo and its discussion with the Department. It requests further consideration of the difficulty of obtaining dollar exchange.",
+   "keywords": [
+    "Paraffine Companies",
+    "asset sale",
+    "dollar exchange",
+    "remittance"
+   ]
+  },
+  {
+   "title": "Reply to the Paraffine Companies on remittance prospects",
+   "doc_type": "letter",
+   "start_page": 166,
+   "end_page": 168,
+   "continues_previous": false,
+   "date": "1941-04-05",
+   "from": "Maxwell M. Hamilton, for the Secretary of State",
+   "to": "The Paraffine Companies, Inc.",
+   "about": "The Department explains the limited prospects for predicting or securing a permit to remit liquidation proceeds.",
+   "summary": "Hamilton says the company’s representative in Japan can best assess the situation and the Embassy will give appropriate assistance. Capital remittances are often harder to obtain than remittances of dividends and profits.",
+   "keywords": [
+    "Paraffine Companies",
+    "exchange permit",
+    "capital funds"
+   ]
+  },
+  {
+   "title": "Transmittal of Paraffine Companies correspondence",
+   "doc_type": "instruction",
+   "start_page": 169,
+   "end_page": 169,
+   "continues_previous": false,
+   "date": "1941-04",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "The Department forwards the Prince conversation, the company’s letter, and its reply.",
+   "summary": "Transmits three papers concerning possible remittance of American funds from Japan.",
+   "keywords": [
+    "transmittal",
+    "Paraffine Companies",
+    "remittance"
+   ]
+  },
+  {
+   "title": "British funds and proposed Japanese exchange controls",
+   "doc_type": "despatch",
+   "start_page": 170,
+   "end_page": 171,
+   "continues_previous": false,
+   "date": "1941-02-06",
+   "from": "Samuel Sokobin, American Consul, Kobe",
+   "to": "Joseph C. Grew, Tokyo",
+   "about": "Sokobin reports British concern that new Japanese exchange controls may freeze British funds.",
+   "summary": "Press reports link British inquiries about deposits to proposed exchange controls. Sokobin has no independent confirmation but believes British authorities are concerned about a complete freeze.",
+   "keywords": [
+    "British funds",
+    "Kobe",
+    "exchange control",
+    "freezing"
+   ]
+  },
+  {
+   "title": "Representations concerning Frank Woodey’s exchange difficulties",
+   "doc_type": "despatch",
+   "start_page": 172,
+   "end_page": 173,
+   "continues_previous": false,
+   "date": "1941-03-22",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Embassy reports its appeal to Japan’s Foreign Office concerning Woodey’s funds in Dairen.",
+   "summary": "Grew encloses Chase’s letter, Chase’s appeal to the governor, and the Embassy’s oral statement. Terasaki promises to examine Woodey’s case but does not address the broader remittance question.",
+   "keywords": [
+    "Frank Woodey",
+    "Dairen",
+    "Foreign Office",
+    "reciprocity"
+   ]
+  },
+  {
+   "title": "Chase’s report on Woodey’s partial exchange permit",
+   "doc_type": "enclosed letter",
+   "start_page": 174,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1941-03-07",
+   "from": "A. S. Chase, American Consul, Dairen",
+   "to": "George A. [surname unclear]",
+   "about": "Chase reports that Woodey received a permit for only part of the funds he sought to take to America.",
+   "summary": "After months of delay, Woodey receives permission to convert ¥4,000 of a revised ¥10,000 request. Chase seeks help for the remaining ¥6,000 and questions the authorities’ explanation that foreign exchange is unavailable.",
+   "keywords": [
+    "Frank Woodey",
+    "Dairen",
+    "partial permit",
+    "foreign exchange shortage"
+   ]
+  },
+  {
+   "title": "Appeal to Governor Yanai for Woodey’s remaining funds",
+   "doc_type": "enclosed letter",
+   "start_page": 176,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1941-03",
+   "from": "A. S. Chase, American Consul, Dairen",
+   "to": "Yoshio Yanai, Governor of Kwantung Province",
+   "about": "Chase asks the governor to help Woodey convert and take out his remaining ¥6,000.",
+   "summary": "Chase describes Woodey’s planned permanent return to the United States and the prolonged delay on his exchange application. He argues that the partial permit and indefinite installment plan cause hardship and asks the governor to secure prompt release of the balance.",
+   "keywords": [
+    "Frank Woodey",
+    "Yoshio Yanai",
+    "Dairen",
+    "exchange permit"
+   ]
+  },
+  {
+   "title": "Embassy oral statement on Woodey’s case",
+   "doc_type": "enclosed oral statement",
+   "start_page": 181,
+   "end_page": 182,
+   "continues_previous": false,
+   "date": "1941-03-18",
+   "from": "American Embassy, Tokyo",
+   "to": "Japanese Foreign Office",
+   "about": "The Embassy protests the delayed and partial release of Woodey’s funds.",
+   "summary": "The statement recounts Woodey’s unsuccessful applications and argues that Americans returning home should be able to transfer their assets. It invokes the freedom Japanese citizens have to remit funds from the United States.",
+   "keywords": [
+    "Frank Woodey",
+    "oral statement",
+    "reciprocity",
+    "asset liquidation"
+   ]
+  },
+  {
+   "title": "Gerli’s conversation with Wakasugi on Silk Guild remittances",
+   "doc_type": "letter",
+   "start_page": 183,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "1941-03-11",
+   "from": "Paoling Gerli, E. Gerli & Co.",
+   "to": "Raymond C. Mackay",
+   "about": "Gerli reports Wakasugi’s explanation for the halt in remittances collected in Japan for the International Silk Guild.",
+   "summary": "Wakasugi advises Gerli not to press for payment while relations between Japan and the United States remain uncertain. He expresses hope that the situation may become clearer by late May.",
+   "keywords": [
+    "International Silk Guild",
+    "Paoling Gerli",
+    "Wakasugi",
+    "remittances"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Gerli’s report",
+   "doc_type": "letter",
+   "start_page": 185,
+   "end_page": 185,
+   "continues_previous": false,
+   "date": "1941-03-18",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Paoling Gerli",
+   "about": "The Department thanks Gerli for reporting his conversation about International Silk Guild funds.",
+   "summary": "Acknowledges Gerli’s letter and thanks him for keeping the Department informed.",
+   "keywords": [
+    "acknowledgment",
+    "International Silk Guild"
+   ]
+  },
+  {
+   "title": "Savage’s transmittal of asset-control proposals",
+   "doc_type": "memorandum",
+   "start_page": 186,
+   "end_page": 186,
+   "continues_previous": false,
+   "date": "1941-03-24",
+   "from": "Carlton Savage",
+   "to": "Mr. Welles",
+   "about": "Savage forwards a draft executive order and a memorandum of alternative exchange-control plans.",
+   "summary": "Transmits two papers at Dr. Feis’s request.",
+   "keywords": [
+    "executive order",
+    "foreign exchange control",
+    "Carlton Savage"
+   ]
+  },
+  {
+   "title": "Draft executive order on Japanese exchange and property",
+   "doc_type": "draft executive order",
+   "start_page": 187,
+   "end_page": 191,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The draft would establish a Cabinet committee and regulate Japanese exchange transactions and property in the United States.",
+   "summary": "The proposed order assigns policy to a committee of the Secretaries of State and Treasury and the Attorney General, with Treasury administering it. It prohibits specified transactions involving Japanese interests without authorization, requires reporting of Japanese-owned property, and provides for records, investigations, licensing, and penalties.",
+   "keywords": [
+    "draft executive order",
+    "Japanese property",
+    "Treasury",
+    "asset freezing"
+   ]
+  },
+  {
+   "title": "Alternatives for exchange control and freezing",
+   "doc_type": "memorandum",
+   "start_page": 192,
+   "end_page": 195,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The memorandum compares six approaches to foreign exchange control, property registration, and freezing Japanese accounts.",
+   "summary": "Options range from a comprehensive new executive order to targeted changes in Treasury licensing rules. Several would register foreign-owned property and give a Cabinet committee discretion over controls on Japanese accounts.",
+   "keywords": [
+    "policy alternatives",
+    "freezing",
+    "registration",
+    "exchange licenses"
+   ]
+  },
+  {
+   "title": "Conversation with Prince about American funds in Japan",
+   "doc_type": "memorandum of conversation",
+   "start_page": 196,
+   "end_page": 198,
+   "continues_previous": false,
+   "date": "1941-03-25",
+   "from": "Raymond C. Mackay",
+   "to": "",
+   "about": "Prince asks whether prospects have improved for remitting proceeds from a possible sale of company property in Japan.",
+   "summary": "Mackay says he knows of no recent improvement and cannot predict whether Japan will grant a permit. He suggests that the company’s representative in Japan consult the Embassy and local officials.",
+   "keywords": [
+    "F. M. Prince",
+    "Paraffine Companies",
+    "blocked funds",
+    "exchange permit"
+   ]
+  },
+  {
+   "title": "New Japanese forward-exchange and concentration rules",
+   "doc_type": "telegram",
+   "start_page": 199,
+   "end_page": 199,
+   "continues_previous": false,
+   "date": "1941-06-19",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Embassy reports new Japanese forward-exchange contracts and wider currency concentration rules.",
+   "summary": "Japan will require prompt bank settlement of trade exchange contracts and extend its concentration system to additional currencies.",
+   "keywords": [
+    "forward exchange",
+    "currency concentration",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Japanese demands for American asset reports",
+   "doc_type": "telegram",
+   "start_page": 200,
+   "end_page": 200,
+   "continues_previous": false,
+   "date": "1941-07-26",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Japanese officials demand reports from American firms and individuals on their finances and property.",
+   "summary": "Grew interprets the reporting demands as preparation for freezing American credits in Japan.",
+   "keywords": [
+    "American property",
+    "reporting demands",
+    "retaliatory freezing"
+   ]
+  },
+  {
+   "title": "Paraphrase of telegram on American asset reports",
+   "doc_type": "paraphrase memorandum",
+   "start_page": 201,
+   "end_page": 201,
+   "continues_previous": false,
+   "date": "1941-07-26",
+   "from": "",
+   "to": "",
+   "about": "The memorandum restates Grew’s report on Japanese demands for American financial disclosures.",
+   "summary": "Paraphrases telegram 1096 on possible freezing of American credits.",
+   "keywords": [
+    "paraphrase",
+    "American assets",
+    "freezing"
+   ]
+  },
+  {
+   "title": "Transmittal of telegram on Japan’s foreigner-transaction ordinance",
+   "doc_type": "cover note",
+   "start_page": 202,
+   "end_page": 202,
+   "continues_previous": false,
+   "date": "1941-07-29",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department sends Treasury copies of the Embassy’s report on Japan’s new ordinance.",
+   "summary": "Encloses five copies of telegram 1108.",
+   "keywords": [
+    "Treasury",
+    "transmittal",
+    "Finance Ministry ordinance"
+   ]
+  },
+  {
+   "title": "Summary of Japan’s foreigner-transaction ordinance",
+   "doc_type": "multipart telegram",
+   "start_page": 203,
+   "end_page": 208,
+   "continues_previous": false,
+   "date": "1941-07-28",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew summarizes a 31-article Japanese ordinance restricting designated foreigners’ property and financial transactions.",
+   "summary": "The ordinance requires permits for many acquisitions, disposals, debts, loans, deposits, and currency transactions. It limits designated foreigners’ Japanese currency dealings to ¥500 monthly and requires initial and monthly reports of property, debts, and credits. A full translation is to follow.",
+   "keywords": [
+    "foreigner-transaction ordinance",
+    "designated nationals",
+    "¥500 limit",
+    "property reporting"
+   ]
+  },
+  {
+   "title": "Transmittal of comparison of American and Japanese spending limits",
+   "doc_type": "cover note",
+   "start_page": 209,
+   "end_page": 209,
+   "continues_previous": false,
+   "date": "1941-07-29",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards the Embassy’s comparison of Japanese and American limits on frozen nationals’ spending.",
+   "summary": "Encloses six copies of telegram 1111.",
+   "keywords": [
+    "Treasury",
+    "spending limit",
+    "asset freezing"
+   ]
+  },
+  {
+   "title": "Comparison of frozen nationals’ monthly allowances",
+   "doc_type": "telegram",
+   "start_page": 210,
+   "end_page": 210,
+   "continues_previous": false,
+   "date": "1941-07-28",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew compares the American $500 monthly allowance with Japan’s ¥500 limit.",
+   "summary": "Calls attention to the differing monthly limits in the two freezing orders.",
+   "keywords": [
+    "$500 allowance",
+    "¥500 limit",
+    "reciprocity"
+   ]
+  },
+  {
+   "title": "Request for instructions on transmitting ordinance translation",
+   "doc_type": "telegram",
+   "start_page": 211,
+   "end_page": 211,
+   "continues_previous": false,
+   "date": "1941-08-01",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Embassy asks whether its 14-page translation should go by pouch or naval radio.",
+   "summary": "Requests transmission instructions for telegram 1142.",
+   "keywords": [
+    "ordinance translation",
+    "naval radio",
+    "pouch"
+   ]
+  },
+  {
+   "title": "General licenses under Japan’s new ordinance",
+   "doc_type": "telegram",
+   "start_page": 212,
+   "end_page": 212,
+   "continues_previous": false,
+   "date": "1941-08-02",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Japan creates limited general-license exemptions from its controls on foreigners’ transactions.",
+   "summary": "Exemptions cover certain taxes, Japanese employee salaries, government charges, and import payments.",
+   "keywords": [
+    "general licenses",
+    "transaction controls",
+    "exemptions"
+   ]
+  },
+  {
+   "title": "Transmittal of telegram on general licenses",
+   "doc_type": "cover note",
+   "start_page": 213,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1941-08-05",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "The Department forwards the Embassy’s report on Japan’s transaction-control exemptions.",
+   "summary": "Transmits a copy of telegram 1156.",
+   "keywords": [
+    "Treasury",
+    "transmittal",
+    "general licenses"
+   ]
+  },
+  {
+   "title": "Cross-reference on withdrawals from frozen Yokohama Specie Bank accounts",
+   "doc_type": "cross-reference file note",
+   "start_page": 214,
+   "end_page": 214,
+   "continues_previous": false,
+   "date": "1941-08-01",
+   "from": "",
+   "to": "",
+   "about": "The note points to a Chefoo telegram on American and British firms’ frozen accounts and local exchange licensing.",
+   "summary": "References Roberts’s telegram 15, filed at 893.115/1142.",
+   "keywords": [
+    "cross-reference",
+    "Yokohama Specie Bank",
+    "Chefoo"
+   ]
+  },
+  {
+   "title": "Shanghai awaits transmission instructions",
+   "doc_type": "telegram",
+   "start_page": 215,
+   "end_page": 215,
+   "continues_previous": false,
+   "date": "1941-08-08",
+   "from": "Lockhart, Shanghai",
+   "to": "Secretary of State",
+   "about": "Shanghai reports holding the ordinance translation while awaiting instructions.",
+   "summary": "Requests an expedited decision on transmitting Tokyo’s message.",
+   "keywords": [
+    "Shanghai",
+    "telegram 1142",
+    "transmission"
+   ]
+  },
+  {
+   "title": "Instruction to send the ordinance translation",
+   "doc_type": "outgoing telegram",
+   "start_page": 216,
+   "end_page": 216,
+   "continues_previous": false,
+   "date": "1941-08",
+   "from": "Department of State",
+   "to": "American Consul, Shanghai",
+   "about": "The Department instructs Shanghai to forward Tokyo’s ordinance translation.",
+   "summary": "Directs transmission of the material by naval radio.",
+   "keywords": [
+    "Shanghai",
+    "naval radio",
+    "ordinance translation"
+   ]
+  },
+  {
+   "title": "Translation of Japan’s regulations controlling transactions involving foreigners",
+   "doc_type": "multipart telegram and ordinance translation",
+   "start_page": 217,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1941-08-01",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Embassy transmits a translation of the Japanese Finance Ministry ordinance restricting transactions involving designated foreign nationals.",
+   "summary": "The translation defines designated nations, nationals, residents, and connected businesses. It sets permit requirements for property, currency, debts, investments, leases, loans, deposits, and third-party dealings, while allowing specified exemptions. It also requires initial and monthly reports of holdings, claims, debts, investments, and acts performed for designated foreign nationals. The translation continues beyond page 240.",
+   "keywords": [
+    "Finance Ministry ordinance",
+    "designated foreign nationals",
+    "permits",
+    "property controls",
+    "monthly reports"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 4,
+  "pages": [
+   161,
+   240
+  ],
+  "pdf": "894.5151 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Monetary System. Coinage. Currency. Mint. Bullion., Japan, Exchange., January 5th, 1940 - December 19, 1944 1474.pdf",
+  "seconds": 118.7,
+  "created": "2026-10-08 14:38:34",
+  "key": "japan-internal-affairs-894.5151-financial-conditions-budget-7"
+ }
+}

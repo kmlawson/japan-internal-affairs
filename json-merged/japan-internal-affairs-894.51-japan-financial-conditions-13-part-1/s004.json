@@ -1,0 +1,725 @@
+{
+ "section_summary": "The section continues detailed Japanese budget estimates, listing ordinary and extraordinary spending by ministry, continuing expenditures, and special accounts for overseas administrations. It then reproduces several budgets promulgated on March 5, 1941: supplementary general and special account budgets, emergency military and military materials budgets, and the opening pages of an extra budget. The schedules include loans, debt amortization, defense spending, industrial controls, colonial administration, and multiyear harbor works.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Japanece",
+    "Ja sn",
+    "Je an",
+    "Jacanese",
+    "Jap-ncse",
+    "Nippon",
+    "Nip on",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "Chima",
+    "Ohina"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Haikou",
+   "variants": [
+    "aikow",
+    "Hokow"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manclukuo",
+    "Manohukue",
+    "Namehukue",
+    "\"Hanehukuo\""
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuris"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Chosem",
+    "Korean",
+    "Yorean"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Talwan",
+    "TAIWAN",
+    "ZAIWAN"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto",
+    "KARAPUTO",
+    "Saghalion"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hekkaido",
+    "Hokkaide"
+   ]
+  },
+  {
+   "name": "Okinawa Prefecture",
+   "variants": [
+    "Okinswa prefecture",
+    "Okinawa Prefecture",
+    "Qkimawa Prefecture"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima Prefeoture",
+    "Kageshime Prefesture"
+   ]
+  },
+  {
+   "name": "Amami Ōshima",
+   "variants": [
+    "Oshima Distriot",
+    "Oshima district",
+    "Oshime distriet"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "Ogasawara Inland",
+    "Ogasawara Islands"
+   ]
+  },
+  {
+   "name": "Izu Islands",
+   "variants": [
+    "seven islands of Izu",
+    "seven Islands in Izu"
+   ]
+  },
+  {
+   "name": "Sanriku",
+   "variants": [
+    "Sanrlku latriot"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita Fref."
+   ]
+  },
+  {
+   "name": "Ōshika district",
+   "variants": [
+    "Oehika distriot"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "tohoku",
+    "Tebeku"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodats"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Segami River",
+   "variants": [
+    "Segami River"
+   ]
+  },
+  {
+   "name": "Kokuba River",
+   "variants": [
+    "Kokubagawa"
+   ]
+  },
+  {
+   "name": "Naha",
+   "variants": [
+    "Ne Rarbor"
+   ]
+  },
+  {
+   "name": "Ishigaki",
+   "variants": [
+    "Ishigaki Harbor"
+   ]
+  },
+  {
+   "name": "Naze",
+   "variants": [
+    "Nase Harbor"
+   ]
+  },
+  {
+   "name": "Kitoku",
+   "variants": [
+    "Kitoku Aarbor"
+   ]
+  },
+  {
+   "name": "Wahaku",
+   "variants": [
+    "Wahaku Rarbor",
+    "Wahaku harbor"
+   ]
+  },
+  {
+   "name": "Chosuiko",
+   "variants": [
+    "Chosuiko (hnrbor)"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji Onatle"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tekye"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Mageya",
+    "Magoya"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Ōmete Rokkō River",
+   "variants": [
+    "Omete Rokko River"
+   ]
+  },
+  {
+   "name": "Ise",
+   "variants": [
+    "Iss Shrine"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Lüshun",
+   "variants": [
+    "Ayojun",
+    "Ryojun"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Hsingking"
+   ]
+  },
+  {
+   "name": "Da Lan He River",
+   "variants": [
+    "Ha Lan Ho River"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Eyote"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Eyushu",
+    "Xyushu"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Keijō (Seoul)",
+   "variants": [
+    "Keije"
+   ]
+  },
+  {
+   "name": "Reshin",
+   "variants": [
+    "Reshin City"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taiheka",
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Hualien",
+   "variants": [
+    "Karenke"
+   ]
+  },
+  {
+   "name": "Tainan",
+   "variants": [
+    "Tainan"
+   ]
+  },
+  {
+   "name": "Shinchiku",
+   "variants": [
+    "Shinohiku"
+   ]
+  },
+  {
+   "name": "Taichung",
+   "variants": [
+    "Taichu"
+   ]
+  },
+  {
+   "name": "Niitaka",
+   "variants": [
+    "Niitaka",
+    "Niitake",
+    "Niltaka",
+    "Mistaka"
+   ]
+  },
+  {
+   "name": "Shinten Valley",
+   "variants": [
+    "Shinten Valley"
+   ]
+  },
+  {
+   "name": "Sōō",
+   "variants": [
+    "So-0"
+   ]
+  },
+  {
+   "name": "Ōdomari",
+   "variants": [
+    "Odomari"
+   ]
+  },
+  {
+   "name": "Honto",
+   "variants": [
+    "Honto"
+   ]
+  },
+  {
+   "name": "Manmako",
+   "variants": [
+    "Manmako"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Bea Mandate",
+    "SOUTS SEA MANDATE"
+   ]
+  },
+  {
+   "name": "Palau",
+   "variants": [
+    "Palac"
+   ]
+  },
+  {
+   "name": "Saipan",
+   "variants": [
+    "Saipan"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Russia",
+    "Soviet"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Northern Sakhalin",
+   "variants": [
+    "Northern Saghalion"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asim",
+    "East Asia"
+   ]
+  },
+  {
+   "name": "Urate",
+   "variants": [
+    "Urate"
+   ]
+  },
+  {
+   "name": "Nanao",
+   "variants": [
+    "Nanao"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "Onomiohi"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Kalzuru"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomor1"
+   ]
+  },
+  {
+   "name": "Ōita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Uno",
+   "variants": [
+    "Uno"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "Sakata"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshimn"
+   ]
+  },
+  {
+   "name": "Ube",
+   "variants": [
+    "Ube"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tsuchizaki",
+   "variants": [
+    "Teuohizaki"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Haohinohe"
+   ]
+  },
+  {
+   "name": "Konahama",
+   "variants": [
+    "Konahama"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Nilgats"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Namamatsu"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Prime Minister",
+   "variants": [
+    "Prince Fumimaro Konoe",
+    "Prinse Fumimaro Konce",
+    "Prinee Fumimare Konoe",
+    "Prince Funimaro Konoe",
+    "Prinoe Fumimaro Konos"
+   ]
+  },
+  {
+   "name": "Emperor Jimmu",
+   "role": "Emperor",
+   "variants": [
+    "Emperor Jimmu"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese budget",
+  "1941–42 fiscal year",
+  "ordinary expenditure",
+  "extraordinary expenditure",
+  "special accounts",
+  "continuing expenditure",
+  "public loans",
+  "national debt amortization",
+  "military expenditure",
+  "overseas administrations",
+  "harbor improvements"
+ ],
+ "subfiles": [
+  {
+   "title": "General budget expenditure schedules and continuing expenditures",
+   "doc_type": "budget schedules",
+   "start_page": 240,
+   "end_page": 272,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Detailed ordinary, extraordinary, and continuing expenditure estimates for Japanese ministries.",
+   "summary": "The schedules continue ordinary ministry appropriations, then itemize extraordinary spending for foreign affairs, home affairs, finance, war, navy, justice, education, agriculture, commerce, communications, overseas affairs, and welfare. A continuing expenditure table lists multiyear construction, defense, aviation, and other programs.",
+   "keywords": [
+    "general budget",
+    "ordinary expenditure",
+    "extraordinary expenditure",
+    "continuing expenditure",
+    "ministries"
+   ]
+  },
+  {
+   "title": "Special accounts budget schedules",
+   "doc_type": "budget schedules",
+   "start_page": 273,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Revenue, expenditure, and continuing expenditure estimates for Japanese special accounts and overseas administrations.",
+   "summary": "The schedules summarize special accounts, then detail revenue and spending for Kwantung, Chosen, Taiwan, Karafuto, and the South Seas Mandate. They include taxes, bonds, transfers, public works, military support, and multiyear construction projects.",
+   "keywords": [
+    "special accounts",
+    "Kwantung",
+    "Chosen",
+    "Taiwan",
+    "Karafuto",
+    "South Seas Mandate"
+   ]
+  },
+  {
+   "title": "Supplementary Budget Estimates of Revenues and Expenditures for the 1941–42 Fiscal Year",
+   "doc_type": "promulgated supplementary budget",
+   "start_page": 289,
+   "end_page": 304,
+   "continues_previous": false,
+   "date": "1941-03-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "A supplementary general budget of ¥1,131,849,423 in revenue and expenditure.",
+   "summary": "The promulgation states the supplementary total and authorizes continuing expenditures and carryovers. Tables allocate ordinary and extraordinary funds among ministries, with major defense, naval, debt amortization, loan, agriculture, coal, and education items. A continuing expenditure table revises multiyear military and construction programs; a final table identifies carryover items.",
+   "keywords": [
+    "supplementary budget",
+    "1941–42",
+    "loans",
+    "debt amortization",
+    "defense",
+    "continuing expenditure"
+   ]
+  },
+  {
+   "title": "Supplementary Special Account Budget for the 1941–42 Fiscal Year",
+   "doc_type": "promulgated supplementary budget",
+   "start_page": 305,
+   "end_page": 311,
+   "continues_previous": false,
+   "date": "1941-03-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "Supplementary estimates for public loans, debt, military factories, agricultural insurance, and other special accounts.",
+   "summary": "The promulgation identifies special accounts covered by the estimates and permits continuing expenditures and carryovers. The visible table details finance, war, navy, agriculture and forestry, commerce and industry, and communications accounts, including public loans, government investments, military arsenals, naval factories, rice adjustment, and casualty reinsurance.",
+   "keywords": [
+    "special accounts",
+    "public loans",
+    "national debt",
+    "military arsenals",
+    "rice",
+    "reinsurance"
+   ]
+  },
+  {
+   "title": "Supplementary Urgency Military Budget",
+   "doc_type": "promulgated budget",
+   "start_page": 312,
+   "end_page": 313,
+   "continues_previous": false,
+   "date": "1941-03-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "A ¥4,880,000,000 supplementary emergency military budget.",
+   "summary": "The budget sets matching military fund revenue and expenditure at ¥4.88 billion, including ¥780 million in reserve.",
+   "keywords": [
+    "military budget",
+    "emergency expenditure",
+    "reserve"
+   ]
+  },
+  {
+   "title": "Supplementary Urgency Military Materials Fund Budget",
+   "doc_type": "promulgated budget",
+   "start_page": 314,
+   "end_page": 315,
+   "continues_previous": false,
+   "date": "1941-03-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "A ¥170,000,000 supplementary military materials fund budget.",
+   "summary": "The War Department fund balances ¥170 million in materials revenue and expenditure, chiefly from materials sales.",
+   "keywords": [
+    "military materials",
+    "War Department",
+    "materials sales"
+   ]
+  },
+  {
+   "title": "Extra Budget for the 1941–42 Fiscal Year",
+   "doc_type": "promulgated budget",
+   "start_page": 316,
+   "end_page": 319,
+   "continues_previous": false,
+   "date": "1941-03-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "Additional authorizations for foreign mission leases and multiyear public works subsidies.",
+   "summary": "The visible opening authorizes foreign mission property leases and lists annual subsidies for harbor improvement at numerous Japanese ports. It also schedules river adjustment, aerial defense, and fire prevention works. The document continues beyond page 319.",
+   "keywords": [
+    "extra budget",
+    "foreign missions",
+    "harbors",
+    "river works",
+    "air defense"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 5,
+  "pages": [
+   240,
+   319
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., September 11, 1940 - December 19, 1944 1475-part-1.pdf",
+  "seconds": 50.2,
+  "created": "2026-10-08 14:29:18",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-13-part-1"
+ }
+}

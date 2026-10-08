@@ -1,0 +1,359 @@
+{
+ "section_summary": "This section continues a guide to Japan’s wartime production controls and their possible use by Allied Military Government. It describes national ministries, industrial control bodies, trading corporations, and regional and prefectural administration. It then recommends production priorities, allocations, credit, reporting, personnel screening, and a central and regional control structure for the occupation.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan's",
+    "Janan"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S."
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Saipan",
+   "variants": [
+    "Saipan"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "the Philippines"
+   ]
+  },
+  {
+   "name": "Iwo Jima",
+   "variants": [
+    "Iwo Jima"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkai"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "Greater East Asia Sphere",
+    "Greater East Asia Co-Prosperity Sphere"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokahama"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kuantung, Leased Territory"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatau"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "Mito"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shisuoka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Taipei",
+   "variants": [
+    "Taihoku"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kantō–Shin'etsu",
+   "variants": [
+    "Kanto-Shinetsu"
+   ]
+  },
+  {
+   "name": "Tōkai–Hokuriku",
+   "variants": [
+    "Tokai-Hokuriku"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki"
+   ]
+  },
+  {
+   "name": "Chūgoku",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Chikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "Military Government",
+  "wartime economic controls",
+  "production programs",
+  "regional administration",
+  "Control Societies",
+  "Munitions Companies",
+  "National Policy Companies",
+  "Eidan",
+  "priorities and allocations",
+  "industrial credit",
+  "civilian production",
+  "occupation planning"
+ ],
+ "subfiles": [
+  {
+   "title": "Guide to the Administration of Production Programs in Japan",
+   "doc_type": "guide",
+   "start_page": 75,
+   "end_page": 112,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Analysis of Japan’s wartime production controls and recommendations for administering production under Allied Military Government.",
+   "summary": "The guide describes Japan’s national, regional, and local economic controls, including ministries, Control Societies and Associations, Munitions Companies, National Policy Companies, and Eidan. It recommends retaining useful administrative records and regional structures while abolishing wartime control bodies, screening senior personnel, and encouraging smaller civilian producers. Proposed occupation controls include production priorities, material allocations, credit, regular reports, and central and regional production agencies. The document continues beyond page 112.",
+   "keywords": [
+    "Japan",
+    "Military Government",
+    "production control",
+    "regional administration",
+    "Control Societies",
+    "Munitions Companies",
+    "Eidan",
+    "civilian economy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 5,
+  "pages": [
+   75,
+   112
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., March 1, 1945 - October 17, 1945 1494.pdf",
+  "seconds": 32.8,
+  "created": "2026-10-08 13:10:34",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-10"
+ }
+}

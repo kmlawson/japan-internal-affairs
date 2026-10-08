@@ -1,0 +1,671 @@
+{
+ "section_summary": "This section contains thirteen appendices on Japan’s wartime industrial administration. They list administrative regions and set out mobilization laws, munitions controls, industry control societies, and regulations for metal, electrical, and warehouse enterprises. Appendix XIII begins on the final page and continues beyond this section.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkai",
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kantō–Shin’etsu",
+   "variants": [
+    "Kanto-Shinetsu"
+   ]
+  },
+  {
+   "name": "Tōkai",
+   "variants": [
+    "Tokai"
+   ]
+  },
+  {
+   "name": "Tōkai–Hokuriku",
+   "variants": [
+    "Tokai-Hokuriku"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki"
+   ]
+  },
+  {
+   "name": "Chūgoku",
+   "variants": [
+    "Chugokm",
+    "Chugoka"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikokm",
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "Miyagi"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "Ibaragi"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Toohigi"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "Guma"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Takyo"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "Iamanashi"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shisuoka"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Mie",
+   "variants": [
+    "Mie"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshim",
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamaguchi"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miyasaki"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matsuyama"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "South Sea Islands",
+   "variants": [
+    "South Sea Islands"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "Japan",
+  "national mobilization",
+  "wartime legislation",
+  "munitions production",
+  "industrial control",
+  "control societies",
+  "labor",
+  "raw materials",
+  "warehousing",
+  "electrical engineering"
+ ],
+ "subfiles": [
+  {
+   "title": "Appendix I: Administrative Regions of Japan, 1945",
+   "doc_type": "administrative table",
+   "start_page": 113,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1945-06",
+   "from": "",
+   "to": "",
+   "about": "Lists regional administrative districts, their prefectures, and the locations of superintendent offices.",
+   "summary": "Tabulates Japan’s administrative regions and office locations as of June 1945.",
+   "keywords": [
+    "administrative regions",
+    "prefectures",
+    "superintendent offices"
+   ]
+  },
+  {
+   "title": "Appendix II: National Mobilisation Law of Japan",
+   "doc_type": "law",
+   "start_page": 114,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "1941-03-01",
+   "from": "",
+   "to": "",
+   "about": "Sets out the government’s powers to mobilize labor, goods, businesses, and property for national defense.",
+   "summary": "The law defines mobilization goods and businesses and authorizes wide government control of labor, production, trade, prices, facilities, and industrial organizations. It provides for compensation, inspection, supervision, and penalties for violations. The appendix cites a 1941 collection of Japanese wartime legislation as its source.",
+   "keywords": [
+    "National Mobilisation Law",
+    "labor",
+    "production",
+    "expropriation",
+    "penalties"
+   ]
+  },
+  {
+   "title": "Appendix III: Major Provisions of the Munitions Company Act",
+   "doc_type": "legal abstract",
+   "start_page": 128,
+   "end_page": 130,
+   "continues_previous": false,
+   "date": "1943-10-28",
+   "from": "",
+   "to": "",
+   "about": "Summarizes state powers over designated munitions companies and their production managers.",
+   "summary": "The abstract describes designation of munitions companies, their duty to follow government production plans, and government authority over materials, labor, finance, operations, and supervision.",
+   "keywords": [
+    "Munitions Company Act",
+    "munitions companies",
+    "production",
+    "government orders"
+   ]
+  },
+  {
+   "title": "Appendix IV: Activities of the Munitions Superintendence Bureaus of the Ministry of Munitions",
+   "doc_type": "administrative abstract",
+   "start_page": 131,
+   "end_page": 134,
+   "continues_previous": false,
+   "date": "1944-06-11",
+   "from": "",
+   "to": "",
+   "about": "Explains the organization and work of regional munitions superintendence bureaus.",
+   "summary": "The bureaus coordinated production, labor, materials, prices, finance, and electric power through regional offices. The abstract describes their sections and the overlap between bureau supervision, company management, local administration, and Army and Navy factories.",
+   "keywords": [
+    "Ministry of Munitions",
+    "superintendence bureaus",
+    "regional offices",
+    "production"
+   ]
+  },
+  {
+   "title": "Appendix V: Major Industries Organization Ordinance",
+   "doc_type": "ordinance",
+   "start_page": 135,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1941-08-29",
+   "from": "",
+   "to": "",
+   "about": "Establishes rules for industrial control societies and control associations.",
+   "summary": "The ordinance defines the formation, membership, officers, powers, finances, and government supervision of control societies and district control associations. It covers production and distribution planning, inspections, assessments, and enforcement. Special provisions address military matters and Japan’s outer territories.",
+   "keywords": [
+    "Major Industries Organization Ordinance",
+    "control societies",
+    "control associations",
+    "industrial regulation"
+   ]
+  },
+  {
+   "title": "Appendix VI: Amendments to the Essential Industries Organizations Law",
+   "doc_type": "ordinance abstract",
+   "start_page": 149,
+   "end_page": 151,
+   "continues_previous": false,
+   "date": "1945-07-04",
+   "from": "",
+   "to": "",
+   "about": "Revises the duties and legal powers of industrial control associations.",
+   "summary": "The amendments expand associations’ planning, purchasing, marketing, auditing, and welfare functions, while revising rules on deputies, dismissal, and registration.",
+   "keywords": [
+    "industrial control",
+    "control associations",
+    "ordinance amendments",
+    "registration"
+   ]
+  },
+  {
+   "title": "Appendix VII: Transfer of Administrative Authority Law",
+   "doc_type": "legal abstract",
+   "start_page": 152,
+   "end_page": 152,
+   "continues_previous": false,
+   "date": "1942-02-18",
+   "from": "",
+   "to": "",
+   "about": "Transfers specified government authorization and allocation powers to control organizations.",
+   "summary": "Abstracts a law treating delegated control organizations and their officials as government authorities.",
+   "keywords": [
+    "delegated authority",
+    "control organizations",
+    "National Total Mobilisation Law"
+   ]
+  },
+  {
+   "title": "Appendix VIII: Metal Industry Control Society",
+   "doc_type": "organizational abstract",
+   "start_page": 153,
+   "end_page": 155,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Describes the Metal Industry Control Society’s membership, committees, and plans for controlling metal production.",
+   "summary": "The society coordinated metal goods production, material distribution, technical standards, and labor policy. The abstract describes stock surveys, supply arrangements, and planned inspections.",
+   "keywords": [
+    "Metal Industry Control Society",
+    "metals",
+    "materials",
+    "distribution",
+    "labor"
+   ]
+  },
+  {
+   "title": "Appendix IX: Control Regulations concerning Control Association of Hokkai Warehouse Enterprises",
+   "doc_type": "control regulations",
+   "start_page": 156,
+   "end_page": 159,
+   "continues_previous": false,
+   "date": "1944-06-20",
+   "from": "",
+   "to": "",
+   "about": "Regulates members’ reports, warehouse operations, storage assignments, labor, and fees.",
+   "summary": "The regulations require warehouse members to report finances, inventory, and operational changes. They authorize the association to direct storage assignments, labor, facilities, and storage rates.",
+   "keywords": [
+    "Hokkai",
+    "warehouses",
+    "storage",
+    "labor",
+    "fees"
+   ]
+  },
+  {
+   "title": "Appendix X: Electrical Engineering Control Society in Japan",
+   "doc_type": "organizational abstract",
+   "start_page": 160,
+   "end_page": 161,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Outlines the electrical engineering society’s duties, leadership, and departments.",
+   "summary": "Describes centralized planning for electrical machinery, materials, prices, research, and production, with headquarters in Tokyo.",
+   "keywords": [
+    "electrical engineering",
+    "control society",
+    "production planning",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Appendix XI: Electric Machine Control Society",
+   "doc_type": "organizational regulations abstract",
+   "start_page": 162,
+   "end_page": 166,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Sets out the Electric Machine Control Society’s purpose, membership, governance, finances, and dissolution.",
+   "summary": "The abstract describes the society’s control of electric machine production and distribution. It specifies officers, meetings, member levies, liquidation, and fines.",
+   "keywords": [
+    "electric machines",
+    "control society",
+    "governance",
+    "member levies"
+   ]
+  },
+  {
+   "title": "Appendix XII: Regulations Governing the Establishment of a Warehouse Control Society",
+   "doc_type": "regulations abstract",
+   "start_page": 167,
+   "end_page": 168,
+   "continues_previous": false,
+   "date": "1944-05-01",
+   "from": "",
+   "to": "",
+   "about": "Proposes a warehouse control society to coordinate major harbor warehouses and transport.",
+   "summary": "The abstract calls for a Tokyo based society to control warehouses at six major harbors and coordinate storage with land and sea transport. It specifies a planned May 1 start and capital of 20 million yen.",
+   "keywords": [
+    "Warehouse Control Society",
+    "harbors",
+    "transportation",
+    "essential resources"
+   ]
+  },
+  {
+   "title": "Appendix XIII: Control of Electrical Engineering Industries",
+   "doc_type": "administrative abstract",
+   "start_page": 169,
+   "end_page": 169,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Proposes organizing electrical engineering firms around power distribution areas and local control associations.",
+   "summary": "Begins a plan to coordinate electrical contractors, labor, materials, and air raid precautions; the text continues beyond page 169.",
+   "keywords": [
+    "electrical engineering",
+    "power distribution",
+    "control associations",
+    "air raids"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 5,
+  "pages": [
+   113,
+   169
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., March 1, 1945 - October 17, 1945 1494.pdf",
+  "seconds": 48.8,
+  "created": "2026-10-08 13:11:23",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-10"
+ }
+}

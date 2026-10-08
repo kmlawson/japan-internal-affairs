@@ -1,0 +1,1525 @@
+{
+ "section_summary": "This section traces U.S. efforts to set civil aviation policy for occupied Japan, including requests to operate airlines, proposed routes, SCAP licensing, and debate over internal service and cabotage. State, military, airline, and British correspondence shows the policy moving through the Air Coordinating Committee, SWNCC, and Far Eastern Commission. By 1948, officials were reconsidering the proposed international policy in light of security concerns and the expected length of the occupation.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japam",
+    "Japar"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo",
+    "TokyO",
+    "Tolyo",
+    "Tekye"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United states",
+    "U.S.",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Washingtom, D. C."
+   ]
+  },
+  {
+   "name": "Cleveland, Ohio",
+   "variants": [
+    "Cleveland, Ohio",
+    "Clevelend, Ohio",
+    "Cleveland, Onio"
+   ]
+  },
+  {
+   "name": "New York City, New York",
+   "variants": [
+    "New York 4, N. Y.",
+    "New York 4, New York",
+    "New Yerk, Mew York"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware",
+    "Delamase"
+   ]
+  },
+  {
+   "name": "Philadelphia, Pennsylvania",
+   "variants": [
+    "Philadelphia, Pa.",
+    "Philadelphie"
+   ]
+  },
+  {
+   "name": "San Francisco, California",
+   "variants": [
+    "San Francisco",
+    "San Francisco, Calif.",
+    "San Francisco, California",
+    "Sax Framsimeo, Califernia"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Phillipines"
+   ]
+  },
+  {
+   "name": "Saint Paul, Minnesota",
+   "variants": [
+    "St. Paul",
+    "Saint Paul, Minnesota"
+   ]
+  },
+  {
+   "name": "Anchorage, Alaska",
+   "variants": [
+    "Anchorage"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Man1la"
+   ]
+  },
+  {
+   "name": "Shanghai, China",
+   "variants": [
+    "Shangha1",
+    "Shanghai",
+    "SHAIGHAI"
+   ]
+  },
+  {
+   "name": "Seoul, South Korea",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Fukuoka, Japan",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Shenyang, China",
+   "variants": [
+    "Mukden"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "CHIHA"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Chitose, Japan",
+   "variants": [
+    "Chitose"
+   ]
+  },
+  {
+   "name": "Hachinohe, Japan",
+   "variants": [
+    "Hachinohe"
+   ]
+  },
+  {
+   "name": "Sendai, Japan",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Nagoya, Japan",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Osaka, Japan",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Iwakuni, Japan",
+   "variants": [
+    "Iwakuni"
+   ]
+  },
+  {
+   "name": "Kanoya, Japan",
+   "variants": [
+    ".anoya"
+   ]
+  },
+  {
+   "name": "Niigata, Japan",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Kanazawa, Japan",
+   "variants": [
+    "Kanazawa"
+   ]
+  },
+  {
+   "name": "Wake Island",
+   "variants": [
+    "Wake"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific Ocean",
+    "Pacific area",
+    "Pecirle aree"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Rast aree"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Gormany",
+    "Gernany"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Hauteville-Lompnes, France",
+   "variants": [
+    "Hauteville"
+   ]
+  },
+  {
+   "name": "Ain, France",
+   "variants": [
+    "Ain"
+   ]
+  },
+  {
+   "name": "Lyon, France",
+   "variants": [
+    "Lyem"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "London, United Kingdom",
+   "variants": [
+    "London",
+    "Lonaon"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "UK",
+    "K",
+    "U.K."
+   ]
+  },
+  {
+   "name": "Canberra, Australia",
+   "variants": [
+    "Canberra"
+   ]
+  },
+  {
+   "name": "Geneva, Switzerland",
+   "variants": [
+    "eneva"
+   ]
+  },
+  {
+   "name": "Jiangsu, China",
+   "variants": [
+    "HIAIGSU",
+    "Kiangsu"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Richard Hartshorne",
+   "role": "Research official at the Office of Strategic Services; recipient of the opening letter",
+   "variants": [
+    "Mr. Hertshorne",
+    "Mr. Ricmrd Hmrtanorne"
+   ]
+  },
+  {
+   "name": "Charles B. Fahs",
+   "role": "Office of Strategic Services official",
+   "variants": [
+    "Mr. Fahs"
+   ]
+  },
+  {
+   "name": "James F. Byrnes",
+   "role": "Secretary of State; signatory of outgoing telegrams",
+   "variants": [
+    "Bymes",
+    "Byrnas"
+   ]
+  },
+  {
+   "name": "Bishop",
+   "role": "Sender of SCAP telegram",
+   "variants": [
+    "BISHOP"
+   ]
+  },
+  {
+   "name": "Ernest A. Gross",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Gross"
+   ]
+  },
+  {
+   "name": "R. H. Whitman",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Whitman",
+    "RHWgHom",
+    "Mr. hitman"
+   ]
+  },
+  {
+   "name": "Cramer",
+   "role": "Official consulted on policy procedure",
+   "variants": [
+    "Mr. Cramer"
+   ]
+  },
+  {
+   "name": "H. J. Heneman",
+   "role": "State Department memorandum drafter",
+   "variants": [
+    "HJHeneman",
+    "H.J.H."
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur",
+    "General Douglas MacArthur",
+    "General MasArthur"
+   ]
+  },
+  {
+   "name": "John H. Hilldring",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "GENERAL HILLOING",
+    "Gen. Hilldring",
+    "John H. Hilldring",
+    "J. I. Milldring",
+    "General Hilldping",
+    "General Hilldring"
+   ]
+  },
+  {
+   "name": "Oscar Cox",
+   "role": "Lawyer representing Asia Airways",
+   "variants": [
+    "OSCAR COX",
+    "Osear Cex",
+    "Mr. Cox",
+    "Nr. Coz",
+    "Oocar lox",
+    "Docar lox"
+   ]
+  },
+  {
+   "name": "Stuart Symington",
+   "role": "Assistant Secretary of War for Air",
+   "variants": [
+    "Mr. Stuart Symington",
+    "Stuart Symingten",
+    "Mr. Symington"
+   ]
+  },
+  {
+   "name": "Malcolm S. Langford",
+   "role": "Lawyer named on Cox firm letterhead",
+   "variants": [
+    "MALCOLM S.LANGFORD",
+    "MALCOLM S. LANGFORD"
+   ]
+  },
+  {
+   "name": "Ezekiel G. Stoddard",
+   "role": "Lawyer named on Cox firm letterhead",
+   "variants": [
+    "EZEKIEL G. STODDARD"
+   ]
+  },
+  {
+   "name": "Lloyd N. Cutler",
+   "role": "Lawyer named on Cox firm letterhead",
+   "variants": [
+    "LLOYD N.CUTLER",
+    "LLOYD N. CUTLER"
+   ]
+  },
+  {
+   "name": "Ernest J. Silver",
+   "role": "President of Far East Air Transport Company and Asia Airways",
+   "variants": [
+    "Eraest J. Bilver",
+    "Ernest J. Silver",
+    "Krnest J. Silver",
+    "Ernest J.Silver",
+    "Enst .S dver"
+   ]
+  },
+  {
+   "name": "J. T. Hart",
+   "role": "Officer acknowledging receipt at SCAP headquarters",
+   "variants": [
+    "J T Hart"
+   ]
+  },
+  {
+   "name": "Reischauer",
+   "role": "State Department recipient of routing note",
+   "variants": [
+    "Mr. Reischauer"
+   ]
+  },
+  {
+   "name": "Warde M. Cameron",
+   "role": "Executive Assistant",
+   "variants": [
+    "Warde M. Jameron."
+   ]
+  },
+  {
+   "name": "Livingston T. Merchant",
+   "role": "Chief, Aviation Division",
+   "variants": [
+    "Livingsten T. Merehant"
+   ]
+  },
+  {
+   "name": "Ernest Lister",
+   "role": "State Department Aviation Division official",
+   "variants": [
+    "Mr. Ernest Lister",
+    "Mr. Lister",
+    "Mr. Listor",
+    "Mr. E. A. Lister"
+   ]
+  },
+  {
+   "name": "Lewis",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Lewis",
+    "Mr. Lowis"
+   ]
+  },
+  {
+   "name": "Walter A. Radius",
+   "role": "Director, Office of Transport and Communications",
+   "variants": [
+    "Mr. Radius",
+    "Mr. Walter A. Radius"
+   ]
+  },
+  {
+   "name": "Dice",
+   "role": "War Department lieutenant colonel",
+   "variants": [
+    "Lt. Col. Dice",
+    "Lt Col Dice"
+   ]
+  },
+  {
+   "name": "D. J. King",
+   "role": "Vice President, Oriental Region, Northwest Airlines",
+   "variants": [
+    "D. J. KING",
+    "D. J. King"
+   ]
+  },
+  {
+   "name": "Martin",
+   "role": "State Department official",
+   "variants": [
+    "Lr. Martin"
+   ]
+  },
+  {
+   "name": "Garrison Norton",
+   "role": "State Department official working on aviation policy",
+   "variants": [
+    "Mr. Garrison Norton",
+    "Mr. Norton"
+   ]
+  },
+  {
+   "name": "Croil Hunter",
+   "role": "President of Northwest Airlines",
+   "variants": [
+    "Croil Hunter"
+   ]
+  },
+  {
+   "name": "Millett",
+   "role": "Commander named in War Department distribution",
+   "variants": [
+    "Cmdr M1llett"
+   ]
+  },
+  {
+   "name": "Paul Cullen",
+   "role": "SCAP lieutenant colonel",
+   "variants": [
+    "Lt. Col. Cullen",
+    "Lt. Col. Paul Cullen"
+   ]
+  },
+  {
+   "name": "Bowman",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Bovman",
+    "DOBowman"
+   ]
+  },
+  {
+   "name": "René Fautre",
+   "role": "Requester of Japanese aircraft pictures",
+   "variants": [
+    "Rene Fautre",
+    "Pautre"
+   ]
+  },
+  {
+   "name": "R. A. Thayer",
+   "role": "State Department official discussing cabotage policy",
+   "variants": [
+    "Mr. Thayer",
+    "RAThayer"
+   ]
+  },
+  {
+   "name": "Everett F. Drumright",
+   "role": "First Secretary of the U.S. Embassy in London",
+   "variants": [
+    "Everett-F. Drumright",
+    "Mr. Drumright",
+    "Hr. Dmumright",
+    "Mr. Everett . Drurrirt",
+    "Everett . Drumright"
+   ]
+  },
+  {
+   "name": "MacDermot",
+   "role": "Head of the British Foreign Office Japan and Pacific Department",
+   "variants": [
+    "Mr. MacDarmot",
+    "Mr. MacDermot",
+    "n.. HacDermot"
+   ]
+  },
+  {
+   "name": "Cheke",
+   "role": "British Foreign Office Japan and Pacific Department official",
+   "variants": [
+    "Mr. Cheke",
+    "Cheke"
+   ]
+  },
+  {
+   "name": "Oswald Ryan",
+   "role": "Acting Chairman, Civil Aeronautics Board",
+   "variants": [
+    "OSWALD RYAN"
+   ]
+  },
+  {
+   "name": "Ford",
+   "role": "British representative on Far Eastern Commission Committee No. 2",
+   "variants": [
+    "r. Ford",
+    "Mr. Ford"
+   ]
+  },
+  {
+   "name": "Bicknell",
+   "role": "British Civil Air Attaché",
+   "variants": [
+    "Mr. Bicknell",
+    "Mr. Bicknell",
+    "Mr. ticknell",
+    "r. Eicknell",
+    "r. Picknell"
+   ]
+  },
+  {
+   "name": "Clarkson",
+   "role": "British Civil Air Attaché-designate",
+   "variants": [
+    "Mr. Clarkson"
+   ]
+  },
+  {
+   "name": "Frank G. Wisner",
+   "role": "Deputy to the Assistant Secretary of State for Occupied Areas",
+   "variants": [
+    "Mr. Frank G. Wisner",
+    "Frank G. Wisner"
+   ]
+  },
+  {
+   "name": "William H. Draper Jr.",
+   "role": "Under Secretary of the Army",
+   "variants": [
+    "Under Secretary Draper",
+    "Mr. Draper",
+    "William H. Draper, Jr."
+   ]
+  },
+  {
+   "name": "Daniel Noce",
+   "role": "Major General and Chief, Civil Affairs Division",
+   "variants": [
+    "General Nooe",
+    "Major General Daniel Noce"
+   ]
+  },
+  {
+   "name": "Saltzman",
+   "role": "State Department official mentioned in correspondence",
+   "variants": [
+    "Mr. Saltmman's",
+    "Mr. Saltaman"
+   ]
+  },
+  {
+   "name": "Cheseldine",
+   "role": "Army colonel consulted on proposed policy",
+   "variants": [
+    "Col. Cheseldine"
+   ]
+  }
+ ],
+ "keywords": [
+  "civil aviation",
+  "occupied Japan",
+  "SCAP",
+  "airline licensing",
+  "Northwest Airlines",
+  "Pan American Airways",
+  "internal air service",
+  "cabotage",
+  "Far Eastern Commission",
+  "Air Coordinating Committee",
+  "aviation security",
+  "policy directives"
+ ],
+ "subfiles": [
+  {
+   "title": "Request for research on Japanese civil aviation and aeronautical industry",
+   "doc_type": "letter",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1945-06-27",
+   "from": "State Department economic affairs official",
+   "to": "Richard Hartshorne, Office of Strategic Services",
+   "about": "Requests OSS research to support postwar U.S. policy on Japanese aviation.",
+   "summary": "Asks for accounts of prewar Japanese aviation and the aeronautical industry, and for possible methods of enforcing U.S. policy, with material needed before July 16, 1945.",
+   "keywords": [
+    "OSS",
+    "research",
+    "postwar policy"
+   ]
+  },
+  {
+   "title": "Inquiry to SCAP about civilian air transport",
+   "doc_type": "outgoing telegram",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1946-03-21",
+   "from": "Department of State",
+   "to": "SCAP, Tokyo, for Acting Political Adviser",
+   "about": "Requests the status of airline applications and SCAP's governing policy.",
+   "summary": "Asks about applications and civilian air transport within, to, and from Japan.",
+   "keywords": [
+    "SCAP",
+    "airline applications"
+   ]
+  },
+  {
+   "title": "SCAP report on commercial airline applications",
+   "doc_type": "incoming telegram, action copy",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1946-04-04",
+   "from": "Bishop, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports no applications and explains current aviation restrictions.",
+   "summary": "No commercial applications had arrived; Japanese could not operate aircraft, and military transport served occupation needs.",
+   "keywords": [
+    "SCAP",
+    "aviation restrictions"
+   ]
+  },
+  {
+   "title": "Replacement record-copy notice",
+   "doc_type": "records form",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Communications and Records",
+   "to": "Central Records",
+   "about": "Identifies a replacement record copy of the April 4 telegram.",
+   "summary": "Records that the yellow action copy was not returned.",
+   "keywords": [
+    "record copy"
+   ]
+  },
+  {
+   "title": "SCAP report on commercial airline applications",
+   "doc_type": "incoming telegram, information copy",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1946-04-04",
+   "from": "Bishop, Tokyo",
+   "to": "Secretary of State",
+   "about": "Repeats SCAP's report on applications and restrictions.",
+   "summary": "Information copy of the April 4 telegram on airline applications and the ban on Japanese aircraft operation.",
+   "keywords": [
+    "SCAP",
+    "airline applications"
+   ]
+  },
+  {
+   "title": "Procedure for preparing Japanese civil aviation policy",
+   "doc_type": "memorandum",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1946-05-01",
+   "from": "H. J. Heneman",
+   "to": "Mr. Gross",
+   "about": "Proposes State prepare a policy paper for Air Coordinating Committee review.",
+   "summary": "Recommends State draft the paper, obtain ACC views, and then submit it to the Directorate.",
+   "keywords": [
+    "policy procedure",
+    "ACC"
+   ]
+  },
+  {
+   "title": "U.S. policy on civil aviation in Japan",
+   "doc_type": "memorandum",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1946-05-15",
+   "from": "Mr. Whitman",
+   "to": "Mr. Gross",
+   "about": "Urges renewed policy work before Pan American flights begin.",
+   "summary": "Suggests asking ACC to act as the SWNCC working group to speed consideration.",
+   "keywords": [
+    "SWNCC",
+    "ACC",
+    "Pan American"
+   ]
+  },
+  {
+   "title": "Inquiry about reported Japanese airline plan",
+   "doc_type": "outgoing telegram",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1946-05-23",
+   "from": "Department of State",
+   "to": "SCAP, Tokyo",
+   "about": "Seeks verification of a press report about a U.S.-managed Japanese airline network.",
+   "summary": "Asks whether MacArthur approved a reorganization plan reportedly attracting U.S. investors.",
+   "keywords": [
+    "press report",
+    "airline network"
+   ]
+  },
+  {
+   "title": "U.S. policy on civil aviation in Japan",
+   "doc_type": "memorandum copy",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1946-05-15",
+   "from": "Mr. Whitman",
+   "to": "Mr. Gross",
+   "about": "Repeats the proposal for ACC to serve as a SWNCC working group.",
+   "summary": "Copy of Whitman's May 15 memorandum.",
+   "keywords": [
+    "SWNCC",
+    "ACC"
+   ]
+  },
+  {
+   "title": "Denial of reported airline reorganization plan",
+   "doc_type": "incoming telegram",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1946-05-27",
+   "from": "CINCAFPAC, Tokyo",
+   "to": "War Department for State Department",
+   "about": "Denies that headquarters is considering the reported airline plan.",
+   "summary": "Says commercial airlines may have ideas, but nothing concrete has materialized.",
+   "keywords": [
+    "press report",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Asia Airways inquiry forwarded by counsel",
+   "doc_type": "letter",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1946-05-29",
+   "from": "Oscar Cox",
+   "to": "John H. Hilldring",
+   "about": "Requests guidance for Asia Airways' application to operate within Japan.",
+   "summary": "Asks which authority should receive the application and what policy may govern approval.",
+   "keywords": [
+    "Asia Airways",
+    "application"
+   ]
+  },
+  {
+   "title": "Asia Airways request for application guidance",
+   "doc_type": "enclosed letter",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1946-05-27",
+   "from": "Ernest J. Silver, Asia Airways",
+   "to": "Stuart Symington",
+   "about": "Describes the company's application history and asks where to submit supporting papers.",
+   "summary": "Recounts the December 1945 application, incorporation, SCAP acknowledgments, and financing; asks for procedural guidance and recognition of the original filing date.",
+   "keywords": [
+    "Asia Airways",
+    "application",
+    "financing"
+   ]
+  },
+  {
+   "title": "SCAP acknowledgment to Asia Airways",
+   "doc_type": "enclosed letter",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1946-04-29",
+   "from": "SCAP Assistant Adjutant General",
+   "to": "Asia Airways",
+   "about": "Acknowledges the airline's correspondence and forwards it to the War Department.",
+   "summary": "Recommends directing future inquiries to the War Department.",
+   "keywords": [
+    "Asia Airways",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Notice of Asia Airways incorporation",
+   "doc_type": "enclosed letter",
+   "start_page": 15,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1946-03-16",
+   "from": "Ernest J. Silver, Asia Airways",
+   "to": "Douglas MacArthur, SCAP",
+   "about": "Updates SCAP on the applicant's new corporate name.",
+   "summary": "Says Far East Air Transport Company incorporated in Delaware as Asia Airways and seeks a response to its application.",
+   "keywords": [
+    "Asia Airways",
+    "incorporation"
+   ]
+  },
+  {
+   "title": "Initial Far East Air Transport Company application",
+   "doc_type": "enclosed letter",
+   "start_page": 16,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1945-12-27",
+   "from": "Ernest J. Silver, Far East Air Transport Company",
+   "to": "Supreme Commander for the Allied Powers",
+   "about": "Requests consideration of commercial airline operations in Japan.",
+   "summary": "Offers a prospectus and asks SCAP to retain the application if permission is premature.",
+   "keywords": [
+    "Far East Air Transport Company",
+    "application"
+   ]
+  },
+  {
+   "title": "Reply to Oscar Cox about Asia Airways",
+   "doc_type": "letter",
+   "start_page": 17,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1946-06-07",
+   "from": "John H. Hilldring",
+   "to": "Oscar Cox",
+   "about": "Explains that procedures and selection criteria remain unsettled.",
+   "summary": "Says U.S. agencies are developing policy, which will require Far Eastern Commission consideration.",
+   "keywords": [
+    "Asia Airways",
+    "policy formation"
+   ]
+  },
+  {
+   "title": "Routing note for Cox correspondence",
+   "doc_type": "routing note",
+   "start_page": 18,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "1946-06-11",
+   "from": "Warde M. Cameron",
+   "to": "Mr. Reischauer",
+   "about": "Directs Cox's letter to the office handling earlier correspondence.",
+   "summary": "Requests referral to the responsible State Department division.",
+   "keywords": [
+    "routing",
+    "correspondence"
+   ]
+  },
+  {
+   "title": "Cox acknowledgment of State's reply",
+   "doc_type": "letter",
+   "start_page": 19,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1946-06-10",
+   "from": "Oscar Cox",
+   "to": "John H. Hilldring",
+   "about": "Thanks State for its response concerning Asia Airways.",
+   "summary": "Acknowledges State's promise to notify him when policy decisions become public.",
+   "keywords": [
+    "Asia Airways",
+    "policy"
+   ]
+  },
+  {
+   "title": "Inquiry about post-treaty Japanese airlines",
+   "doc_type": "letter",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1946-12-18",
+   "from": "Ernest J. Silver",
+   "to": "Chief, Aviation Division, Department of State",
+   "about": "Asks whether Japanese nationals may operate domestic airlines after a peace treaty.",
+   "summary": "Seeks any emerging policy beyond current SCAP prohibitions.",
+   "keywords": [
+    "peace treaty",
+    "Japanese airlines"
+   ]
+  },
+  {
+   "title": "Reply to Silver on post-treaty operations",
+   "doc_type": "letter",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1947-01-08",
+   "from": "Livingston T. Merchant",
+   "to": "Ernest J. Silver",
+   "about": "States that post-treaty aviation rights cannot yet be determined.",
+   "summary": "Explains that peace-treaty terms and the views of other governments remain unresolved.",
+   "keywords": [
+    "peace treaty",
+    "aviation rights"
+   ]
+  },
+  {
+   "title": "Recommendation on SCAP airline licenses",
+   "doc_type": "memorandum",
+   "start_page": 22,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "1947-04-03",
+   "from": "State Department official",
+   "to": "General Hilldring",
+   "about": "Recommends immediate licenses for Northwest and Pan American subject to a policy directive.",
+   "summary": "Summarizes survey flights and SCAP's urgent requests. Recommends allowing licenses for planning while delaying scheduled operations until SCAP receives an interim or final directive.",
+   "keywords": [
+    "Northwest Airlines",
+    "Pan American",
+    "SCAP licenses"
+   ]
+  },
+  {
+   "title": "Revised draft reply on SCAP licenses",
+   "doc_type": "memorandum with draft cable",
+   "start_page": 23,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1947-04-01",
+   "from": "Mr. Radius",
+   "to": "JK Secretariat",
+   "about": "Proposes conditional issuance of licenses to Northwest and Pan American.",
+   "summary": "Draft cable permits licenses immediately but bars scheduled operations until an interim directive arrives.",
+   "keywords": [
+    "SCAP licenses",
+    "draft cable"
+   ]
+  },
+  {
+   "title": "Lister's transmittal of draft license reply",
+   "doc_type": "memorandum",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1947-03-28",
+   "from": "Mr. Lister",
+   "to": "Mr. Lewis",
+   "about": "Seeks approval and prompt dispatch of a draft response to SCAP.",
+   "summary": "Calls the attached draft a reasonable compromise between JK and TRC positions.",
+   "keywords": [
+    "SCAP licenses",
+    "coordination"
+   ]
+  },
+  {
+   "title": "Earlier draft reply on SCAP licenses",
+   "doc_type": "memorandum with draft cable",
+   "start_page": 26,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1947-03-28",
+   "from": "Mr. Radius",
+   "to": "JK Secretariat",
+   "about": "Proposes issuing licenses before scheduled airline service begins.",
+   "summary": "Would let the carriers plan operations while withholding scheduled service until SCAP receives an interim directive.",
+   "keywords": [
+    "Northwest Airlines",
+    "Pan American",
+    "draft cable"
+   ]
+  },
+  {
+   "title": "Interim War Department response to SCAP",
+   "doc_type": "outgoing classified message",
+   "start_page": 28,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1947-03-21",
+   "from": "War Department",
+   "to": "CINCFE, Tokyo",
+   "about": "Acknowledges urgency of SCAP's airline licensing inquiry.",
+   "summary": "Promises a prompt substantive reply and says Northwest is being kept informed.",
+   "keywords": [
+    "SCAP licenses",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Northwest Airlines proposed Pacific routes",
+   "doc_type": "letter",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1947-03-19",
+   "from": "D. J. King, Northwest Airlines",
+   "to": "Ernest Lister",
+   "about": "Sets out proposed scheduled routes beginning around May 1, 1947.",
+   "summary": "Lists planned service linking the United States, Japan, Korea, China, and the Philippines.",
+   "keywords": [
+    "Northwest Airlines",
+    "routes"
+   ]
+  },
+  {
+   "title": "SCAP reminder about urgent license decision",
+   "doc_type": "incoming classified message",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "1947-03-18",
+   "from": "SCAP, Tokyo",
+   "to": "War Department",
+   "about": "Requests a prompt answer because Northwest wishes to begin operations in May.",
+   "summary": "Refers to SCAP's March 10 licensing inquiry.",
+   "keywords": [
+    "Northwest Airlines",
+    "SCAP licenses"
+   ]
+  },
+  {
+   "title": "SCAP request to issue airline licenses",
+   "doc_type": "incoming classified message",
+   "start_page": 31,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1947-03-10",
+   "from": "SCAP, Tokyo",
+   "to": "War Department",
+   "about": "Asks whether immediate licenses would jeopardize the U.S. policy position.",
+   "summary": "SCAP is ready to license Northwest and Pan American for scheduled service.",
+   "keywords": [
+    "SCAP licenses",
+    "Pan American"
+   ]
+  },
+  {
+   "title": "Proposal to defer airline licenses",
+   "doc_type": "memorandum with draft cable",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1947-03-14",
+   "from": "Mr. Martin",
+   "to": "JK Secretariat",
+   "about": "Recommends withholding licenses pending policy approval.",
+   "summary": "Draft cable tells SCAP to await a policy or interim directive.",
+   "keywords": [
+    "SCAP licenses",
+    "FEC"
+   ]
+  },
+  {
+   "title": "Briefing on draft Japanese aviation policy",
+   "doc_type": "memorandum",
+   "start_page": 33,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1947-03-26",
+   "from": "Mr. Lewis",
+   "to": "General Hilldring",
+   "about": "Summarizes the proposed restrictions and recommends endorsing the policy.",
+   "summary": "Reviews limits on Japanese participation, internal service, international routes, and occupation transport.",
+   "keywords": [
+    "policy draft",
+    "Japanese participation"
+   ]
+  },
+  {
+   "title": "Draft response to Norton",
+   "doc_type": "unsent memorandum",
+   "start_page": 34,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1947-03-26",
+   "from": "General Hilldring",
+   "to": "Garrison Norton",
+   "about": "Expresses preliminary satisfaction with the proposed aviation policy.",
+   "summary": "Marked as unsigned and unsent; Lister advised that Hilldring had no objection.",
+   "keywords": [
+    "policy draft",
+    "internal clearance"
+   ]
+  },
+  {
+   "title": "Norton request for preliminary views",
+   "doc_type": "memorandum",
+   "start_page": 35,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1947-03-20",
+   "from": "Garrison Norton",
+   "to": "General Hilldring",
+   "about": "Requests comments before ACC Economic Division consideration.",
+   "summary": "Transmits the Japanese draft policy, the approved German policy, and a memorandum on airline licenses.",
+   "keywords": [
+    "ACC",
+    "policy draft"
+   ]
+  },
+  {
+   "title": "ACC policy on civil aviation in Germany",
+   "doc_type": "attached policy paper",
+   "start_page": 36,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1947-03-17",
+   "from": "Air Coordinating Committee",
+   "to": "U.S. agencies concerned",
+   "about": "Sets U.S. policy for civil aviation during Germany's occupation.",
+   "summary": "The paper weighs security against economic recovery, limits German participation and internal airlines, and allows controlled international service. It assigns aviation facilities and technical rules to occupation authorities, with fees and PICAO standards.",
+   "keywords": [
+    "Germany",
+    "occupation",
+    "ACC",
+    "PICAO"
+   ]
+  },
+  {
+   "title": "Norton memorandum and proposed cable on airline licenses",
+   "doc_type": "attached memorandum with draft cable",
+   "start_page": 41,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1947-03-18",
+   "from": "Garrison Norton",
+   "to": "JK Secretariat",
+   "about": "Argues that SCAP can license Northwest and Pan American before policy approval.",
+   "summary": "Norton describes the carriers' planning needs and the proposed U.S. aviation policy. The draft cable outlines permitted international routes, limits on internal service, control of facilities, Japanese employment restrictions, and fees, while saying licenses need not jeopardize the U.S. position.",
+   "keywords": [
+    "SCAP licenses",
+    "policy draft",
+    "cabotage"
+   ]
+  },
+  {
+   "title": "Draft U.S. policy on civil aviation in Japan",
+   "doc_type": "attached policy paper",
+   "start_page": 45,
+   "end_page": 52,
+   "continues_previous": false,
+   "date": "1947-03-20",
+   "from": "State Department",
+   "to": "Air Coordinating Committee",
+   "about": "Proposes occupation-period rules for Japanese civil aviation.",
+   "summary": "The draft seeks to prevent renewed military aviation while allowing limited air services for occupation and economic recovery. It bars Japanese flight operations and separate domestic airlines, gives SCAP control over international services and facilities, and permits restricted employment of Japanese ground personnel. It recommends ACC, military, SWNCC, and Far Eastern Commission consideration.",
+   "keywords": [
+    "policy draft",
+    "SCAP",
+    "internal service",
+    "PICAO"
+   ]
+  },
+  {
+   "title": "SCAP orders abolishing Japanese civil aviation",
+   "doc_type": "appendix, reproduced directive",
+   "start_page": 53,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1945-11-18",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "Orders abolition of Japanese civil aviation bodies and activities.",
+   "summary": "Requires dissolution and registration of aviation personnel and bans Japanese aircraft ownership, operations, and aeronautical instruction or research.",
+   "keywords": [
+    "SCAP directive",
+    "aviation ban"
+   ]
+  },
+  {
+   "title": "Questions from SCAP about Pacific air routes",
+   "doc_type": "memorandum",
+   "start_page": 54,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1947-07-01",
+   "from": "State Department official",
+   "to": "E. A. Lister",
+   "about": "Relays SCAP questions about licensed airlines and a proposed Shanghai–Wake route.",
+   "summary": "SCAP requests carrier lists and questions whether China National Aviation Corporation may use Northwest's route.",
+   "keywords": [
+    "SCAP",
+    "Pacific routes",
+    "CNAC"
+   ]
+  },
+  {
+   "title": "Submission of civil aviation paper to SWNCC",
+   "doc_type": "cover memorandum",
+   "start_page": 55,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1947-07-03",
+   "from": "John H. Hilldring",
+   "to": "Secretary, SWNCC",
+   "about": "Requests circulation of State's civil aviation policy paper.",
+   "summary": "Submits State Department views for committee consideration.",
+   "keywords": [
+    "SWNCC 379",
+    "policy submission"
+   ]
+  },
+  {
+   "title": "Forwarding Japanese aircraft pictures",
+   "doc_type": "instruction letter",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1947-10-10",
+   "from": "Secretary of State",
+   "to": "American Consular Officer in Charge, Lyon",
+   "about": "Responds to René Fautre's request for pictures of Japanese aircraft.",
+   "summary": "Asks the consul to forward four pages from Aircraft Spotter.",
+   "keywords": [
+    "aircraft pictures",
+    "consular correspondence"
+   ]
+  },
+  {
+   "title": "Fragmentary Shanghai telegram on internal air service",
+   "doc_type": "incoming telegram",
+   "start_page": 57,
+   "end_page": 58,
+   "continues_previous": false,
+   "date": "1947-10-24",
+   "from": "U.S. Consulate, Shanghai",
+   "to": "Department of State",
+   "about": "Reports discussions concerning internal aviation policy and discriminatory treatment.",
+   "summary": "The surviving OCR is fragmentary; the telegram concerns Far Eastern Commission debate over internal service and cabotage.",
+   "keywords": [
+    "FEC",
+    "cabotage",
+    "Shanghai"
+   ]
+  },
+  {
+   "title": "Instructions to Shanghai on cabotage amendment",
+   "doc_type": "outgoing telegram",
+   "start_page": 59,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1947-10-27",
+   "from": "Department of State",
+   "to": "American Consul, Shanghai",
+   "about": "Explains British and Chinese positions on internal service in Japan.",
+   "summary": "State seeks interagency views while continuing to favor SCAP authority to grant limited cabotage.",
+   "keywords": [
+    "cabotage",
+    "Chinese amendment",
+    "FEC"
+   ]
+  },
+  {
+   "title": "London despatch on British internal air service policy",
+   "doc_type": "despatch",
+   "start_page": 60,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1947-11-12",
+   "from": "Everett F. Drumright, American Embassy London",
+   "to": "Secretary of State",
+   "about": "Forwards a conversation memorandum about the British position.",
+   "summary": "Notes that the Embassy presented State's views to the Foreign Office before receiving contrary instructions.",
+   "keywords": [
+    "United Kingdom",
+    "internal service"
+   ]
+  },
+  {
+   "title": "Conversation with British Foreign Office officials",
+   "doc_type": "enclosed memorandum of conversation",
+   "start_page": 61,
+   "end_page": 62,
+   "continues_previous": false,
+   "date": "1947-11-10",
+   "from": "Everett F. Drumright",
+   "to": "Department of State",
+   "about": "Records British views on cabotage and a separate internal airline.",
+   "summary": "MacDermot and Cheke say Britain opposed cabotage because SCAP military service appeared sufficient. They distinguish a post-treaty Japanese airline proposal from occupation policy and suggest a joint international company is now impractical.",
+   "keywords": [
+    "United Kingdom",
+    "cabotage",
+    "Foreign Office"
+   ]
+  },
+  {
+   "title": "London despatch forwarding British policy letter",
+   "doc_type": "despatch",
+   "start_page": 63,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1947-11-26",
+   "from": "Everett F. Drumright, American Embassy London",
+   "to": "Secretary of State",
+   "about": "Forwards a Foreign Office statement on Japanese civil aviation.",
+   "summary": "Encloses MacDermot's November 25 letter explaining British policy.",
+   "keywords": [
+    "United Kingdom",
+    "FEC"
+   ]
+  },
+  {
+   "title": "Foreign Office position on Japanese cabotage",
+   "doc_type": "enclosed letter",
+   "start_page": 64,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1947-11-25",
+   "from": "MacDermot, British Foreign Office",
+   "to": "Everett F. Drumright",
+   "about": "Explains British support for deferring internal civil service pending FEC review.",
+   "summary": "The Foreign Office doubts current demand for domestic flights and fears cabotage could prejudge post-occupation aviation. It favors a Chinese proposal requiring SCAP to seek an FEC policy decision before internal civil service begins.",
+   "keywords": [
+    "United Kingdom",
+    "cabotage",
+    "Chinese proposal"
+   ]
+  },
+  {
+   "title": "Pan American application for Japanese domestic points",
+   "doc_type": "outgoing airgram",
+   "start_page": 66,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1947-12-29",
+   "from": "Department of State",
+   "to": "U.S. Political Adviser, Tokyo",
+   "about": "Reports Pan American's application for additional routes within Japan.",
+   "summary": "Lists proposed Japanese stops and says State is asking the Civil Aeronautics Board to defer action until the Far Eastern Commission decides the cabotage question.",
+   "keywords": [
+    "Pan American",
+    "CAB",
+    "cabotage"
+   ]
+  },
+  {
+   "title": "CAB response on Pan American application",
+   "doc_type": "letter",
+   "start_page": 68,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1948-01-14",
+   "from": "Oswald Ryan, Civil Aeronautics Board",
+   "to": "Walter A. Radius",
+   "about": "Agrees to defer procedural action on Pan American's application.",
+   "summary": "No action will be taken until the policy situation is clarified.",
+   "keywords": [
+    "CAB",
+    "Pan American"
+   ]
+  },
+  {
+   "title": "U.S.–British discussion of FEC aviation paper",
+   "doc_type": "memorandum of conversation",
+   "start_page": 69,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1948-02-04",
+   "from": "Department of State",
+   "to": "Department of State files",
+   "about": "Records an informal effort to find a U.S.–British compromise on internal service.",
+   "summary": "Thayer argues that the FEC draft unduly restricts SCAP during a longer occupation. Participants discuss limiting cabotage by definition or time, while British officials say they remain instructed to support the Chinese amendment. They agree the British side will seek further views from London.",
+   "keywords": [
+    "FEC",
+    "United Kingdom",
+    "cabotage",
+    "compromise"
+   ]
+  },
+  {
+   "title": "Army objections to FEC civil aviation draft",
+   "doc_type": "letter",
+   "start_page": 72,
+   "end_page": 74,
+   "continues_previous": false,
+   "date": "1948-03-16",
+   "from": "William H. Draper Jr.",
+   "to": "Frank G. Wisner",
+   "about": "Challenges changes to the U.S. aviation proposal under FEC consideration.",
+   "summary": "Draper argues the revised draft weakens SCAP's discretion, treats occupying and other powers alike, and risks a Soviet veto over internal aviation. He links the issue to changing U.S. security priorities and urges SANACC and Joint Chiefs review before further FEC action.",
+   "keywords": [
+    "Army",
+    "FEC 245",
+    "security",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "State reply on reconsidering FEC civil aviation policy",
+   "doc_type": "letter",
+   "start_page": 75,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1948-06-23",
+   "from": "Frank G. Wisner",
+   "to": "Major General Daniel Noce",
+   "about": "Describes State's revised position and requests prompt interagency agreement.",
+   "summary": "Wisner says the U.S. representative has deferred FEC action while policy is reviewed. State has circulated a proposed position to Army and Air Force officials; he favors SCAP comment and hopes for agreement before the July 1 Commission meeting.",
+   "keywords": [
+    "FEC 245",
+    "policy review",
+    "SCAP"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 3,
+  "pages": [
+   1,
+   76
+  ],
+  "pdf": "894.796 Other Means Of Communication And Transportation. Carrier Pigeons., Japan, Aerial Navigation. Immunities Of Government-Controlled. Subsidies., June 27, 1945 - June 19, 1949 1730.pdf",
+  "seconds": 115.3,
+  "created": "2026-10-08 12:22:24",
+  "key": "japan-internal-affairs-894.796-other-means-of-5"
+ }
+}

@@ -1,0 +1,1370 @@
+{
+ "section_summary": "This section documents Japanese budgets, war spending, bond issues, taxation, savings and currency circulation from 1941 through the 1944–45 fiscal year. It includes embassy reports, press translations, State Department analyses and cross-reference notes. A separate group of letters records American holders’ inquiries about Japanese government, Yokohama and Tokyo Electric Light bonds.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Jaran",
+    "Japsn",
+    "Japanese Empire",
+    "Japenese Encire"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China",
+    "north China",
+    "North Cnina"
+   ]
+  },
+  {
+   "name": "Northeast China",
+   "variants": [
+    "China's Northeastern Provinces",
+    "China's Northeast"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manohuria"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung",
+    "Awantung"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto",
+    "arafuto"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "Greater East Asia",
+    "Greater cast Asia"
+   ]
+  },
+  {
+   "name": "Hokkaido, Japan",
+   "variants": [
+    "Kokkaldo"
+   ]
+  },
+  {
+   "name": "Kantō region, Japan",
+   "variants": [
+    "wanto"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama",
+    "Yokohma",
+    "Yokohame"
+   ]
+  },
+  {
+   "name": "Lugou Bridge, Beijing",
+   "variants": [
+    "Lukouchiao"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U S. A.",
+    "America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washington. D. C.",
+    "Washington, D.C.",
+    "Washington DDg. 25",
+    "Washington D.C."
+   ]
+  },
+  {
+   "name": "New York City, New York",
+   "variants": [
+    "New York",
+    "New York,N.Y.",
+    "New York,N.Y",
+    "Few York,N.Y"
+   ]
+  },
+  {
+   "name": "Brooklyn, New York",
+   "variants": [
+    "Brooklyn"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "State of New York",
+    "New York State"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Miohigan"
+   ]
+  },
+  {
+   "name": "Amityville, New York",
+   "variants": [
+    "Amityy ille",
+    "Amitrville",
+    "Amityville"
+   ]
+  },
+  {
+   "name": "Long Island, New York",
+   "variants": [
+    "Long Island",
+    "Ialand"
+   ]
+  },
+  {
+   "name": "Port Angeles, Washington",
+   "variants": [
+    "Port Angeles",
+    "Fort Angeles",
+    "lort Angeles",
+    "lort ngeles"
+   ]
+  },
+  {
+   "name": "Washington State",
+   "variants": [
+    "Wash.",
+    "Washington",
+    "Wasington"
+   ]
+  },
+  {
+   "name": "Clallam County, Washington",
+   "variants": [
+    "Clallam County"
+   ]
+  },
+  {
+   "name": "Athens, Georgia",
+   "variants": [
+    "Athens",
+    "Athems",
+    "ATIENS"
+   ]
+  },
+  {
+   "name": "Georgia",
+   "variants": [
+    "GA.",
+    "Georgia",
+    "Ceorgia"
+   ]
+  },
+  {
+   "name": "Buenos Aires, Argentina",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Chongqing, China",
+   "variants": [
+    "Chungking",
+    "Gangking"
+   ]
+  },
+  {
+   "name": "Bern, Switzerland",
+   "variants": [
+    "Bern",
+    "Hern"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "SWITZERLAND",
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Berlin, Germany",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Essen, Germany",
+   "variants": [
+    "Essen",
+    "Bssen"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brasil",
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "awall"
+   ]
+  },
+  {
+   "name": "Lima, Peru",
+   "variants": [
+    "Lima"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro, Brazil",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "La Paz, Bolivia",
+   "variants": [
+    "La Paz"
+   ]
+  },
+  {
+   "name": "São Paulo, Brazil",
+   "variants": [
+    "Sao Paulo"
+   ]
+  },
+  {
+   "name": "New Delhi, India",
+   "variants": [
+    "New Delhi"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Frank S. Williams",
+   "role": "Commercial Attaché at Tokyo; later former Commercial Attaché and budget report author",
+   "variants": [
+    "Frank s. Williams",
+    "Frank S. Williams",
+    "Mr. Williams"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew"
+   ]
+  },
+  {
+   "name": "Joseph C. Green",
+   "role": "Chief of the State Department Special Division",
+   "variants": [
+    "Joseph C. Green",
+    "Joseph O. Green",
+    "Joseph C. Green of the Spesial Division"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department adviser",
+   "variants": [
+    "MR. HOHYSECK",
+    "MR.HORABECK",
+    "MR. HORNBECK",
+    "MR. HORNDECK",
+    "MR. HUMNBECK"
+   ]
+  },
+  {
+   "name": "Fred L. Crawford",
+   "role": "U.S. Representative from Michigan",
+   "variants": [
+    "Fred L. Crawford",
+    "Frea L. Crawford",
+    "Fred L. Grawferd",
+    "Mr. Crawford",
+    "Mr. Grewferd"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordoll Hull"
+   ]
+  },
+  {
+   "name": "Richard Ford",
+   "role": "First Secretary of Embassy at Buenos Aires",
+   "variants": [
+    "Richard Ford",
+    "Fcrd"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "State Department official",
+   "variants": [
+    "MK. WELLES"
+   ]
+  },
+  {
+   "name": "Henry S. Benninghoff",
+   "role": "State Department Division of Far Eastern Affairs officer",
+   "variants": [
+    "Benninghoff"
+   ]
+  },
+  {
+   "name": "C. E. Gauss",
+   "role": "U.S. Ambassador at Chongqing",
+   "variants": [
+    "C. E. Gauss"
+   ]
+  },
+  {
+   "name": "Hideki Tōjō",
+   "role": "Japanese premier",
+   "variants": [
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "U.S. president",
+   "variants": [
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Former Japanese finance minister",
+   "variants": [
+    "Korekiyo Takahashi"
+   ]
+  },
+  {
+   "name": "Edward L. Reed",
+   "role": "Counselor of Embassy",
+   "variants": [
+    "Edward L. Reed"
+   ]
+  },
+  {
+   "name": "Okinori Kaya",
+   "role": "Japanese finance minister",
+   "variants": [
+    "Gaya"
+   ]
+  },
+  {
+   "name": "Nakamura",
+   "role": "Japanese Diet representative; given name unstated",
+   "variants": [
+    "Nakamura"
+   ]
+  },
+  {
+   "name": "Mary Powell Purdy",
+   "role": "American holder of a Japanese government bond",
+   "variants": [
+    "mary Pornee Purdly",
+    "Mary Powell Purdy",
+    "mary Ime, Purdy",
+    "Mary Po ell Furay",
+    "Mary Pesell Purdy",
+    "Miss Pardy"
+   ]
+  },
+  {
+   "name": "Green H. Hackworth",
+   "role": "State Department Legal Adviser",
+   "variants": [
+    "Green H. Haekworth",
+    "Green H. Hackwert",
+    "Green H. Haclh orth",
+    "Green H. Hackworth",
+    "Green H. Haokworth",
+    "Green E. Eackwerth",
+    "Green H. Eaekwerth",
+    "Mr. Haclworth",
+    "Mr. Hackworth"
+   ]
+  },
+  {
+   "name": "J. P. Christensen",
+   "role": "American holder of Japanese government and Yokohama bonds",
+   "variants": [
+    "J. P. Christensen",
+    "J.P.Christensen",
+    "J.F.Christensen",
+    "J.IChristensen",
+    "J) P. Bhristensen",
+    "Mr.Christensen",
+    "Christemsen",
+    "Cpristensey"
+   ]
+  },
+  {
+   "name": "Ralph W. S. Hill",
+   "role": "Acting Legal Adviser",
+   "variants": [
+    "Ralph W. S. mill"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "State Department official",
+   "variants": [
+    "BERLE"
+   ]
+  },
+  {
+   "name": "Breckinridge Long",
+   "role": "State Department official",
+   "variants": [
+    "LONG"
+   ]
+  },
+  {
+   "name": "Leland Harrison",
+   "role": "U.S. representative in Switzerland; telegram sender",
+   "variants": [
+    "Harrison",
+    "HARRISON"
+   ]
+  },
+  {
+   "name": "Max Michael",
+   "role": "Athens attorney representing Japanese bondholders",
+   "variants": [
+    "MAX MICHAEL",
+    "Max Michael",
+    "Mr. Michael"
+   ]
+  },
+  {
+   "name": "O. F. Green",
+   "role": "Attorney named on Green & Michael letterhead",
+   "variants": [
+    "O8. F. GREEN",
+    "THon. F. GRzEN"
+   ]
+  },
+  {
+   "name": "John L. Green",
+   "role": "Attorney named on Green & Michael letterhead",
+   "variants": [
+    "JON L. GReEN",
+    "JOHN L. GREEN"
+   ]
+  },
+  {
+   "name": "Aurie Baynes Arnold",
+   "role": "Japanese bondholder represented by Max Michael",
+   "variants": [
+    "Aurio Baynes Arnold",
+    "Aurie Baynes Arnold",
+    "Aurie Baynes Arneld"
+   ]
+  },
+  {
+   "name": "Eugenia Arnold Blount",
+   "role": "Japanese bondholder represented by Max Michael",
+   "variants": [
+    "Eugenia Arnold Blount",
+    "Eagsala Arnold Blount"
+   ]
+  },
+  {
+   "name": "Jennie Arnold Dorsey",
+   "role": "Japanese bondholder represented by Max Michael",
+   "variants": [
+    "Jennie Arnold Dorsey",
+    "Jennie Arnela Dersey"
+   ]
+  },
+  {
+   "name": "O. H. Arnold Jr.",
+   "role": "Japanese bondholder represented by Max Michael; initials vary in OCR",
+   "variants": [
+    "0. H. Arnold Jr.",
+    "O. H. Arneld, Jr.",
+    "0. II. Arnold Jr.",
+    "C. M. Arnold Jr.",
+    "0. N. Arnold, Jr."
+   ]
+  },
+  {
+   "name": "J. Ahr Huddle",
+   "role": "Counselor of Legation at Bern; signature is OCR-uncertain",
+   "variants": [
+    "J. Hahr Huia.",
+    "J. ahr Huddle"
+   ]
+  },
+  {
+   "name": "Rice",
+   "role": "State Department Division of Far Eastern Affairs officer",
+   "variants": [
+    "Rice"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese national budget",
+  "war finance",
+  "extraordinary military expenditures",
+  "government bonds",
+  "bond absorption",
+  "taxation",
+  "national savings",
+  "national income",
+  "paper currency",
+  "colonial budgets",
+  "American bondholders",
+  "Japanese fiscal years 1942–45"
+ ],
+ "subfiles": [
+  {
+   "title": "Closing page of Japanese government budget statement",
+   "doc_type": "statement, continuation",
+   "start_page": 161,
+   "end_page": 161,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The speaker urges patriotic saving and approval of government bills.",
+   "summary": "Concludes by urging patriotic saving, national unity and prompt approval of government bills.",
+   "keywords": [
+    "patriotic savings",
+    "budget legislation"
+   ]
+  },
+  {
+   "title": "Division of Far Eastern Affairs note on Tokyo despatch No. 6014",
+   "doc_type": "memorandum",
+   "start_page": 162,
+   "end_page": 163,
+   "continues_previous": false,
+   "date": "1942-09",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes the Japanese 1942–43 budget report.",
+   "summary": "Highlights increased military spending, reliance on bonds, stronger bond absorption, projected national income and the absence of foreign borrowing.",
+   "keywords": [
+    "1942–43 budget",
+    "war appropriations",
+    "bond absorption"
+   ]
+  },
+  {
+   "title": "National Budget for Japan—1942–43 Fiscal Year",
+   "doc_type": "embassy despatch",
+   "start_page": 164,
+   "end_page": 164,
+   "continues_previous": false,
+   "date": "1942-02-16",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits the Commercial Attaché’s report on Japan’s 1942–43 national budget.",
+   "summary": "Cover despatch forwarding the report and suggesting distribution to the Bureau of Foreign and Domestic Commerce.",
+   "keywords": [
+    "Tokyo embassy",
+    "budget report"
+   ]
+  },
+  {
+   "title": "National Budget for Japan—1942–43 Fiscal Year",
+   "doc_type": "report, despatch enclosure",
+   "start_page": 165,
+   "end_page": 174,
+   "continues_previous": false,
+   "date": "1942-02",
+   "from": "Frank S. Williams, Commercial Attaché",
+   "to": "Secretary of State",
+   "about": "Analyzes Japan’s 1942–43 general, military and colonial budgets.",
+   "summary": "Williams compares the 1942–43 budget with the preceding year and details ministry allocations, war appropriations, bond financing, taxation and national savings. He estimates military appropriations since July 1937 at about ¥47.1 billion and discusses the ability to finance them domestically. The report also covers income estimates and colonial agricultural and infrastructure spending.",
+   "keywords": [
+    "1942–43 budget",
+    "military expenditure",
+    "bond issues",
+    "taxation",
+    "national savings",
+    "colonial budgets"
+   ]
+  },
+  {
+   "title": "Economic and financial developments in Japan, December 1941–June 1942",
+   "doc_type": "cross-reference note",
+   "start_page": 175,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1942-06-03",
+   "from": "Japan (Grew)",
+   "to": "",
+   "about": "Points to a despatch reporting Japanese economic and financial developments.",
+   "summary": "Cross-reference to Grew’s June 3, 1942 despatch filed elsewhere.",
+   "keywords": [
+    "cross-reference",
+    "Japanese economy"
+   ]
+  },
+  {
+   "title": "Commercial Attaché’s financial and economic report material",
+   "doc_type": "cross-reference note",
+   "start_page": 176,
+   "end_page": 176,
+   "continues_previous": false,
+   "date": "1942-06-03",
+   "from": "Japan (Grew)",
+   "to": "",
+   "about": "Points to material prepared before December 8, 1941 for regular reports.",
+   "summary": "Cross-reference to a Grew despatch filed under 894.50/163.",
+   "keywords": [
+    "cross-reference",
+    "commercial attaché"
+   ]
+  },
+  {
+   "title": "Supplementary Budget, 1941–42 Fiscal Year",
+   "doc_type": "commercial attaché report",
+   "start_page": 177,
+   "end_page": 181,
+   "continues_previous": false,
+   "date": "1941-11",
+   "from": "Frank S. Williams, American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Reports supplementary Japanese Diet appropriations for 1941–42.",
+   "summary": "Details additional general, war and special-account appropriations approved by an extraordinary Diet session, with tables for bond issues, ministry spending and colonial accounts.",
+   "keywords": [
+    "supplementary budget",
+    "1941–42",
+    "Diet",
+    "war bonds"
+   ]
+  },
+  {
+   "title": "Inquiry about frozen Yokohama Specie Bank assets",
+   "doc_type": "letter",
+   "start_page": 182,
+   "end_page": 182,
+   "continues_previous": false,
+   "date": "1942-09-14",
+   "from": "Fred L. Crawford",
+   "to": "Joseph C. Green",
+   "about": "Asks about assets frozen at the Yokohama Specie Bank in New York.",
+   "summary": "Congressional inquiry concerning frozen Japanese bank assets and claims.",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "frozen assets"
+   ]
+  },
+  {
+   "title": "Forwarding Crawford inquiry to Treasury",
+   "doc_type": "departmental letter",
+   "start_page": 183,
+   "end_page": 183,
+   "continues_previous": false,
+   "date": "1942-09-18",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards Crawford’s inquiry to Foreign Funds Control.",
+   "summary": "Sends Crawford’s letter to the Treasury office with jurisdiction over frozen assets.",
+   "keywords": [
+    "Foreign Funds Control",
+    "frozen assets"
+   ]
+  },
+  {
+   "title": "Reply to Fred L. Crawford",
+   "doc_type": "letter",
+   "start_page": 184,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "1942-09-18",
+   "from": "Cordell Hull",
+   "to": "Fred L. Crawford",
+   "about": "Explains referral of his frozen-assets inquiry to Treasury.",
+   "summary": "Acknowledges Crawford’s letter and directs him to Treasury’s Foreign Funds Control Division.",
+   "keywords": [
+    "Yokohama Specie Bank",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Japan’s General Accounts Budget for 1943 Fiscal Year",
+   "doc_type": "embassy despatch",
+   "start_page": 185,
+   "end_page": 185,
+   "continues_previous": false,
+   "date": "1942-12-21",
+   "from": "Richard Ford, Buenos Aires",
+   "to": "Secretary of State",
+   "about": "Transmits translated Japanese press reports on the 1943–44 general budget.",
+   "summary": "Notes a nearly ¥10 billion general budget and undisclosed military expenditures.",
+   "keywords": [
+    "1943–44 budget",
+    "Japanese press"
+   ]
+  },
+  {
+   "title": "Japan’s General Accounts Budget for 1943 Fiscal Year",
+   "doc_type": "translated press report, despatch enclosure",
+   "start_page": 186,
+   "end_page": 187,
+   "continues_previous": false,
+   "date": "1942-12-11",
+   "from": "Japanese-language newspapers in Buenos Aires",
+   "to": "U.S. Embassy, Buenos Aires",
+   "about": "Gives the proposed 1943–44 general accounts budget and ministry allocations.",
+   "summary": "Lists estimated receipts, expenditures and ministry allotments totaling roughly ¥10 billion, followed by a speech about reducing ministry requests.",
+   "keywords": [
+    "general accounts",
+    "ministry allocations"
+   ]
+  },
+  {
+   "title": "Forwarding Buenos Aires budget despatch to Chungking",
+   "doc_type": "departmental transmittal",
+   "start_page": 188,
+   "end_page": 188,
+   "continues_previous": false,
+   "date": "1943-01-16",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Chungking",
+   "about": "Sends the Buenos Aires despatch on Japan’s 1943–44 budget.",
+   "summary": "Forwards despatch No. 7847 and its enclosure for confidential information.",
+   "keywords": [
+    "budget",
+    "forwarding"
+   ]
+  },
+  {
+   "title": "Cover memorandum for Japanese 1943–44 budget analysis",
+   "doc_type": "memorandum",
+   "start_page": 189,
+   "end_page": 189,
+   "continues_previous": false,
+   "date": "1943-02-12",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Introduces an analysis based on monitored Japanese broadcasts.",
+   "summary": "Summarizes the attached report’s view that bond absorption and production supported Japan’s rising war budget.",
+   "keywords": [
+    "1943–44 budget",
+    "broadcast monitoring"
+   ]
+  },
+  {
+   "title": "Japan’s National Budget for the Fiscal Year 1943–44",
+   "doc_type": "analytical report",
+   "start_page": 190,
+   "end_page": 196,
+   "continues_previous": false,
+   "date": "1943-02-09",
+   "from": "Frank S. Williams",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Analyzes Japan’s 1943–44 budget using monitored broadcasts.",
+   "summary": "Williams compares general and military budgets, estimating total appropriations at ¥39.34 billion, including ¥27 billion for extraordinary military spending. He examines revenue, bond absorption, subsidies, savings and income. He concludes that Japan appeared able to sustain the higher budget through bonds, taxes and industrial production.",
+   "keywords": [
+    "1943–44 budget",
+    "military spending",
+    "bonds",
+    "subsidies",
+    "national income"
+   ]
+  },
+  {
+   "title": "Japan’s National Budget for the Fiscal Year 1943–44, duplicate copy",
+   "doc_type": "duplicate analytical report",
+   "start_page": 197,
+   "end_page": 203,
+   "continues_previous": false,
+   "date": "1943-02-09",
+   "from": "Frank S. Williams",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Repeats Williams’s analysis of Japan’s 1943–44 budget.",
+   "summary": "Second copy of the report on general and military appropriations, revenue, bonds, subsidies, national income and savings.",
+   "keywords": [
+    "duplicate report",
+    "1943–44 budget"
+   ]
+  },
+  {
+   "title": "Reconvening of the Japanese eighty-first Diet",
+   "doc_type": "cross-reference note",
+   "start_page": 204,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1943-02-05",
+   "from": "Argentina (Ford)",
+   "to": "",
+   "about": "Points to a letter on the Diet session and budget measures.",
+   "summary": "Cross-reference to Ford’s February 5 letter filed under 894.032/219.",
+   "keywords": [
+    "cross-reference",
+    "Diet"
+   ]
+  },
+  {
+   "title": "Note on Chinese editorial about Japanese war finance",
+   "doc_type": "memorandum",
+   "start_page": 205,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1943-03-27",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes a Ta Kung Pao editorial predicting Japanese financial collapse.",
+   "summary": "Notes the editorial’s figures and argument that debt, inflation and Allied attacks threatened Japan’s finances.",
+   "keywords": [
+    "Ta Kung Pao",
+    "war finance",
+    "inflation"
+   ]
+  },
+  {
+   "title": "Chinese Editorial Comment on Japanese Financial Situation",
+   "doc_type": "embassy despatch",
+   "start_page": 206,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1943-02-18",
+   "from": "C. E. Gauss, Chungking",
+   "to": "Secretary of State",
+   "about": "Transmits a translation of a Chinese editorial on Japan’s war finances.",
+   "summary": "Summarizes the editorial’s claims about Japan’s 1943 budget, indebtedness, taxation, currency circulation and investments in Manchuria and China.",
+   "keywords": [
+    "Chinese press",
+    "war finance",
+    "debt"
+   ]
+  },
+  {
+   "title": "Japan’s War Finance on Brink of Collapse",
+   "doc_type": "translated newspaper editorial, despatch enclosure",
+   "start_page": 208,
+   "end_page": 210,
+   "continues_previous": false,
+   "date": "1943-02",
+   "from": "Ta Kung Pao",
+   "to": "",
+   "about": "Argues that wartime borrowing and inflation make Japanese finances vulnerable.",
+   "summary": "The editorial compares Japanese budgets with earlier years and Allied spending, discusses debt, taxation and currency issuance, and calls for attacks on multiple fronts. It links Japanese investment in Manchuria and North China to resource extraction.",
+   "keywords": [
+    "Ta Kung Pao",
+    "inflation",
+    "national debt",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Japanese National Income Estimated at US$11 Billion for 1943",
+   "doc_type": "embassy despatch with translated press item",
+   "start_page": 211,
+   "end_page": 212,
+   "continues_previous": false,
+   "date": "1943",
+   "from": "Edward L. Reed, Buenos Aires",
+   "to": "Secretary of State",
+   "about": "Reports Japanese estimates of 1942 and 1943 national income and wartime claims on it.",
+   "summary": "Cites Finance Minister Kaya’s reported estimates of ¥45 billion in 1942 and ¥50 billion in 1943, with more than two-thirds directed to state needs.",
+   "keywords": [
+    "national income",
+    "war expenditure",
+    "Kaya"
+   ]
+  },
+  {
+   "title": "Mary Powell Purdy’s Japanese bond registration request",
+   "doc_type": "letter",
+   "start_page": 213,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1943-03-22",
+   "from": "Mary Powell Purdy",
+   "to": "Department of State",
+   "about": "Asks the Department to record her Japanese government bond.",
+   "summary": "Identifies a $1,000 Japanese government bond and requests that her interest be recorded.",
+   "keywords": [
+    "bondholder",
+    "claim"
+   ]
+  },
+  {
+   "title": "Reply to Mary Powell Purdy",
+   "doc_type": "letter",
+   "start_page": 214,
+   "end_page": 214,
+   "continues_previous": false,
+   "date": "1943-04-13",
+   "from": "Green H. Hackworth",
+   "to": "Mary Powell Purdy",
+   "about": "Acknowledges her bond information and requests citizenship details.",
+   "summary": "Says the information will be filed and asks when and how she became an American citizen.",
+   "keywords": [
+    "Japanese bond",
+    "citizenship"
+   ]
+  },
+  {
+   "title": "J. P. Christensen’s inquiry about Japanese and Yokohama bonds",
+   "doc_type": "letter",
+   "start_page": 215,
+   "end_page": 215,
+   "continues_previous": false,
+   "date": "1943-03-25",
+   "from": "J. P. Christensen",
+   "to": "Department of State",
+   "about": "Seeks advice after a New York banking official rejected his bond claim.",
+   "summary": "Asks about recovery prospects for Japanese government and City of Yokohama bonds.",
+   "keywords": [
+    "bondholder",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Reply to J. P. Christensen",
+   "doc_type": "letter",
+   "start_page": 216,
+   "end_page": 217,
+   "continues_previous": false,
+   "date": "1943-04-14",
+   "from": "Green H. Hackworth",
+   "to": "J. P. Christensen",
+   "about": "Responds to his rejected bond claim.",
+   "summary": "Explains the Department’s usual practice and invites details of the bonds and Christensen’s U.S. citizenship.",
+   "keywords": [
+    "Japanese bonds",
+    "bond claim"
+   ]
+  },
+  {
+   "title": "Mary Powell Purdy’s bond and citizenship details",
+   "doc_type": "letter",
+   "start_page": 218,
+   "end_page": 218,
+   "continues_previous": false,
+   "date": "1943-04",
+   "from": "Mary Powell Purdy",
+   "to": "Green H. Hackworth",
+   "about": "Supplies purchase and citizenship information requested by the Department.",
+   "summary": "Says she bought the bond in 1930 and was born in Amityville, New York.",
+   "keywords": [
+    "bondholder",
+    "citizenship"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Mary Powell Purdy",
+   "doc_type": "letter",
+   "start_page": 219,
+   "end_page": 219,
+   "continues_previous": false,
+   "date": "1943-04-24",
+   "from": "Ralph W. S. Hill",
+   "to": "Mary Powell Purdy",
+   "about": "Acknowledges receipt of her further bond information.",
+   "summary": "States that her letter has been received and filed.",
+   "keywords": [
+    "Japanese bond",
+    "acknowledgment"
+   ]
+  },
+  {
+   "title": "Statement regarding Japanese bonds",
+   "doc_type": "sworn statement and covering note",
+   "start_page": 220,
+   "end_page": 220,
+   "continues_previous": false,
+   "date": "1943-04-21",
+   "from": "J. P. Christensen",
+   "to": "Green H. Hackworth",
+   "about": "Records Christensen’s bond purchases, custody, rejected claim and citizenship.",
+   "summary": "Identifies two bonds, their purchase prices, New York custody and Christensen’s naturalization.",
+   "keywords": [
+    "Japanese bonds",
+    "Yokohama bond",
+    "naturalization"
+   ]
+  },
+  {
+   "title": "Acknowledgment to J. P. Christensen",
+   "doc_type": "letter",
+   "start_page": 221,
+   "end_page": 221,
+   "continues_previous": false,
+   "date": "1943-05-04",
+   "from": "Green H. Hackworth",
+   "to": "J. P. Christensen",
+   "about": "Acknowledges Christensen’s sworn bond statement.",
+   "summary": "States that his statement has been received and filed.",
+   "keywords": [
+    "bondholder",
+    "acknowledgment"
+   ]
+  },
+  {
+   "title": "War expenditures of Japan",
+   "doc_type": "cross-reference note",
+   "start_page": 222,
+   "end_page": 222,
+   "continues_previous": false,
+   "date": "1943-05-26",
+   "from": "Switzerland (Harrison)",
+   "to": "Secretaries Berle and Long",
+   "about": "Points to a confidential telegram containing Japanese war-expenditure data.",
+   "summary": "Cross-reference to telegram No. 3205, filed under 862.51/5075.",
+   "keywords": [
+    "cross-reference",
+    "war expenditures"
+   ]
+  },
+  {
+   "title": "Second Supplementary Budget 1943–1944 Adopted by the 82nd Session of the Japanese Diet",
+   "doc_type": "memorandum",
+   "start_page": 223,
+   "end_page": 224,
+   "continues_previous": false,
+   "date": "1943-08-23",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Analyzes Japan’s June 1943 supplementary budget.",
+   "summary": "Reports a roughly ¥620 million supplementary appropriation, raising total 1943–44 budget authority to nearly ¥40 billion. Notes rice subsidies, colonial food-control accounts and possible funding for tighter industrial controls.",
+   "keywords": [
+    "supplementary budget",
+    "rice subsidies",
+    "industrial control"
+   ]
+  },
+  {
+   "title": "Japanese national income, expenditure and savings estimates",
+   "doc_type": "telegram",
+   "start_page": 225,
+   "end_page": 225,
+   "continues_previous": false,
+   "date": "1943-12-06",
+   "from": "Harrison, Berlin",
+   "to": "Secretary of State",
+   "about": "Relays published estimates for Japanese income, consumption, loans and savings.",
+   "summary": "Compares 1941–43 figures and reports projected 1943 savings of ¥27 billion.",
+   "keywords": [
+    "national income",
+    "savings",
+    "loans"
+   ]
+  },
+  {
+   "title": "Request for Japanese bond claim forms",
+   "doc_type": "letter",
+   "start_page": 226,
+   "end_page": 226,
+   "continues_previous": false,
+   "date": "1944-03-16",
+   "from": "Max Michael",
+   "to": "Secretary of State",
+   "about": "Asks how a client may file a claim on Japanese government bonds.",
+   "summary": "Requests forms for an unnamed client who owns Japanese government bonds.",
+   "keywords": [
+    "bond claim",
+    "claim forms"
+   ]
+  },
+  {
+   "title": "Reply to Max Michael on bond claims",
+   "doc_type": "letter and duplicate copy",
+   "start_page": 227,
+   "end_page": 228,
+   "continues_previous": false,
+   "date": "1944-03",
+   "from": "Green H. Hackworth",
+   "to": "Max Michael",
+   "about": "Explains how to submit bond information without a special form.",
+   "summary": "Lists the details needed for a bondholder statement and explains that no special claim form is required. Page 228 is another copy of the reply.",
+   "keywords": [
+    "Japanese bonds",
+    "claims procedure"
+   ]
+  },
+  {
+   "title": "Max Michael’s statement of clients’ Japanese bonds",
+   "doc_type": "attorney letter",
+   "start_page": 229,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "1944-04-17",
+   "from": "Max Michael",
+   "to": "Secretary of State",
+   "about": "Identifies Japanese government and Tokyo Electric Light bonds held by four clients.",
+   "summary": "Lists bonds, face values, numbers, purchase prices, maturity dates and overdue coupons for Aurie Baynes Arnold, Eugenia Arnold Blount, Jennie Arnold Dorsey and O. H. Arnold Jr.",
+   "keywords": [
+    "bondholders",
+    "Japanese government bonds",
+    "Tokyo Electric Light"
+   ]
+  },
+  {
+   "title": "Request for Michael clients’ citizenship and price details",
+   "doc_type": "letter",
+   "start_page": 232,
+   "end_page": 232,
+   "continues_previous": false,
+   "date": "1944-05-01",
+   "from": "Green H. Hackworth",
+   "to": "Max Michael",
+   "about": "Requests addresses, citizenship details and clarification of a bond purchase price.",
+   "summary": "Acknowledges Michael’s filing and asks for further client and price information.",
+   "keywords": [
+    "bondholders",
+    "citizenship"
+   ]
+  },
+  {
+   "title": "Max Michael’s supplemental client information",
+   "doc_type": "attorney letter",
+   "start_page": 233,
+   "end_page": 233,
+   "continues_previous": false,
+   "date": "1944-05-03",
+   "from": "Max Michael",
+   "to": "Green H. Hackworth",
+   "about": "Provides clients’ birthplace, address and corrected bond prices.",
+   "summary": "Reports that all four clients were born in Georgia and corrects the two-bond price to $940 each.",
+   "keywords": [
+    "bondholders",
+    "Georgia",
+    "purchase price"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Max Michael",
+   "doc_type": "letter",
+   "start_page": 234,
+   "end_page": 234,
+   "continues_previous": false,
+   "date": "1944-05",
+   "from": "Green H. Hackworth",
+   "to": "Max Michael",
+   "about": "Acknowledges supplemental information on his clients’ Japanese bonds.",
+   "summary": "States that Michael’s further letter has been received and filed.",
+   "keywords": [
+    "bondholders",
+    "acknowledgment"
+   ]
+  },
+  {
+   "title": "Japanese budget for 1944–45 and circulation of paper currency",
+   "doc_type": "legation despatch",
+   "start_page": 235,
+   "end_page": 235,
+   "continues_previous": false,
+   "date": "1944-03-01",
+   "from": "J. Ahr Huddle, Bern",
+   "to": "Secretary of State",
+   "about": "Transmits German press translations on Japan’s budget, currency and savings.",
+   "summary": "Cover despatch for three translated German press items.",
+   "keywords": [
+    "1944–45 budget",
+    "paper currency",
+    "national savings"
+   ]
+  },
+  {
+   "title": "Japanese Special Budget Estimates for the Conduct of the War",
+   "doc_type": "translated press item, despatch enclosure",
+   "start_page": 236,
+   "end_page": 236,
+   "continues_previous": false,
+   "date": "1944-01-31",
+   "from": "Deutscher Reichsanzeiger",
+   "to": "",
+   "about": "Reports proposed 1944–45 Japanese war-budget financing.",
+   "summary": "Gives a ¥38 billion war budget and compares expected loan requirements with the preceding year.",
+   "keywords": [
+    "war budget",
+    "government loans"
+   ]
+  },
+  {
+   "title": "Japanese Circulation of Paper Currency",
+   "doc_type": "translated press item, despatch enclosure",
+   "start_page": 237,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1944-02",
+   "from": "Berliner Börsen-Zeitung",
+   "to": "",
+   "about": "Reports rising banknote circulation in Japan, Korea and Taiwan.",
+   "summary": "Provides 1942–43 currency figures and the finance minister’s explanation of rising cash needs.",
+   "keywords": [
+    "paper currency",
+    "Bank of Japan",
+    "Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Japanese Savings",
+   "doc_type": "translated press item, despatch enclosure",
+   "start_page": 238,
+   "end_page": 238,
+   "continues_previous": false,
+   "date": "1944-02",
+   "from": "Essen National-Zeitung",
+   "to": "",
+   "about": "Reports Japanese official savings and income targets for 1944–45.",
+   "summary": "Projects ¥60 billion national income and ¥36 billion savings, alongside taxes and government requirements.",
+   "keywords": [
+    "national savings",
+    "national income",
+    "taxation"
+   ]
+  },
+  {
+   "title": "Japanese budget for 1944–45 and circulation of paper currency, duplicate despatch",
+   "doc_type": "duplicate legation despatch",
+   "start_page": 239,
+   "end_page": 239,
+   "continues_previous": false,
+   "date": "1944-03-01",
+   "from": "J. Ahr Huddle, Bern",
+   "to": "Secretary of State",
+   "about": "Repeats the Bern despatch transmitting three German press translations.",
+   "summary": "Second copy of the cover despatch on budget, currency and savings.",
+   "keywords": [
+    "duplicate despatch",
+    "1944–45 budget"
+   ]
+  },
+  {
+   "title": "Japanese Special Budget Estimates for the Conduct of the War, duplicate enclosure",
+   "doc_type": "duplicate translated press item",
+   "start_page": 240,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1944-01-31",
+   "from": "Deutscher Reichsanzeiger",
+   "to": "",
+   "about": "Repeats the translated item on 1944–45 Japanese war-budget estimates.",
+   "summary": "Second copy of the report on the ¥38 billion war budget and loan requirements.",
+   "keywords": [
+    "duplicate enclosure",
+    "war budget"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 5,
+  "pages": [
+   161,
+   240
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., September 11, 1940 - December 19, 1944 1475-part-2.pdf",
+  "seconds": 98.2,
+  "created": "2026-10-08 14:19:44",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-13-part-2"
+ }
+}

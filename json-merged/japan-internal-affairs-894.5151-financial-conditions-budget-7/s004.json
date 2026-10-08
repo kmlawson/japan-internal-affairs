@@ -1,0 +1,1768 @@
+{
+ "section_summary": "This section records the effects of wartime exchange controls and asset freezes on Japan’s foreign payments, American residents, and private claims. Despatches from Peru describe Japanese gold shipments and yen transactions, while reports from China trace Japanese capital moving through Shanghai and Hong Kong. Later papers address yen conversion rates for repatriated Americans, Formosa, and the Japanese outlying islands.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Japem"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tekye"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shenghe1",
+    "Shanghni",
+    "shanghai"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "WASHINGTON, D. C.",
+    "WASHINGTON",
+    "washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "U. S. A.",
+    "U.S.A."
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "SAN FRANCISCO",
+    "San Francisoo"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEW YORK CITY",
+    "New York City",
+    "Now York"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru",
+    "reru",
+    "rem"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lima",
+    "Limu",
+    "Lime"
+   ]
+  },
+  {
+   "name": "Callao",
+   "variants": [
+    "Callao"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "ar entinu"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires",
+    "buenos Aires",
+    "Puenos aires"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switserland"
+   ]
+  },
+  {
+   "name": "Zurich",
+   "variants": [
+    "Zurioh",
+    "-rich"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "GErmany",
+    "Gosany",
+    "Geruany"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "SwEden",
+    "SwEdEn"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "U.S.S.R."
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "urope",
+    "continental Murope",
+    "European Continent"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South American",
+    "S. Ameri ca"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Jhina"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "Tientein",
+    "TiEntsin"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong",
+    "Hong Kong",
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Feiping"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korean"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "PhilippinE"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "NEtherlands East Indies",
+    "NEtherlands IndiEs",
+    "Netherlands Iadies"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "NEtherlands"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "La Paz",
+   "variants": [
+    "La Paz"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KOBE"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOKOHAMA"
+   ]
+  },
+  {
+   "name": "Mozambique",
+   "variants": [
+    "Mozambique"
+   ]
+  },
+  {
+   "name": "Maputo",
+   "variants": [
+    "Lourenco Marques",
+    "Lourenoo Marques"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Fermosa",
+    "Formeea",
+    "Pormesa"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonins"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kuriles"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Liu-ehius"
+   ]
+  },
+  {
+   "name": "Marshall Islands and other former Japanese mandated islands",
+   "variants": [
+    "mandated lalande"
+   ]
+  },
+  {
+   "name": "Cairo",
+   "variants": [
+    "Caire"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern"
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "PHILADELPHIA"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware"
+   ]
+  },
+  {
+   "name": "Hibiya Park",
+   "variants": [
+    "Hibiya Park"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. ambassador to Japan",
+   "variants": [
+    "GREW",
+    "GRZW",
+    "Grow",
+    "Mr. Grew",
+    "Ambassador Grew"
+   ]
+  },
+  {
+   "name": "Robert H. Lockhart",
+   "role": "telegram signatory",
+   "variants": [
+    "LOCKHART"
+   ]
+  },
+  {
+   "name": "John Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation",
+   "variants": [
+    "JOHN EDGAR HOOVER"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State; recipient of FBI letters",
+   "variants": [
+    "Mr. Berle",
+    "mr. Berle"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Acheson",
+    "MR. ACHESON",
+    "ACHESON"
+   ]
+  },
+  {
+   "name": "G. Luthringer",
+   "role": "State Department economic affairs officer",
+   "variants": [
+    "G.LUTHRINGER",
+    "Luthringer"
+   ]
+  },
+  {
+   "name": "Mr. Towson",
+   "role": "Foreign Funds Control official",
+   "variants": [
+    "Mr. Towson"
+   ]
+  },
+  {
+   "name": "John W. Pehle",
+   "role": "Treasury official",
+   "variants": [
+    "Mr. Pehle"
+   ]
+  },
+  {
+   "name": "Mr. Remer",
+   "role": "Chief, Far Eastern Section, Office of the Coordinator of Information",
+   "variants": [
+    "Dr. Remer",
+    "Dr. Carl Remer"
+   ]
+  },
+  {
+   "name": "Raymond H. Geist",
+   "role": "Chief, Division of Commercial Affairs",
+   "variants": [
+    "Mr. Raymond H. Geist"
+   ]
+  },
+  {
+   "name": "D. C. McKay",
+   "role": "Coordinator of Information memorandum sender",
+   "variants": [
+    "D. C. McKay",
+    "D.C. Wockay."
+   ]
+  },
+  {
+   "name": "R. Henry Norweb",
+   "role": "U.S. diplomat in Lima; despatch sender",
+   "variants": [
+    "R. Henry Norweb",
+    "R. Nowd"
+   ]
+  },
+  {
+   "name": "Julian Greenup",
+   "role": "Commercial Attaché; signer of Lima despatch",
+   "variants": [
+    "Julinn Greopup"
+   ]
+  },
+  {
+   "name": "Gray Miller",
+   "role": "sender named on cross-reference sheet",
+   "variants": [
+    "Gray Miller"
+   ]
+  },
+  {
+   "name": "Frederick Livesey",
+   "role": "Acting Chief, Foreign Funds and Financial Division",
+   "variants": [
+    "Frederiek Livesey"
+   ]
+  },
+  {
+   "name": "M. A. Stern",
+   "role": "representative of H. A. Stern Company; correspondent about debt",
+   "variants": [
+    "Mr. Stern",
+    "M. A. Stern",
+    "N. A. stern"
+   ]
+  },
+  {
+   "name": "E. P. Alexander",
+   "role": "identified in cover letter as writer of enclosed company letter",
+   "variants": [
+    "Mr. E. P. Alexander"
+   ]
+  },
+  {
+   "name": "R. P. Alexander",
+   "role": "Director, Sakuma Industrial Co., and attorney for The Paraffine Companies",
+   "variants": [
+    "R. P. Alexander",
+    "Mr. R. P. Alexander"
+   ]
+  },
+  {
+   "name": "Eugene H. Dooman",
+   "role": "U.S. official named in company letter and accounting memorandum",
+   "variants": [
+    "Mr. Eugene H. Dooman",
+    "Eugene H. Dooman"
+   ]
+  },
+  {
+   "name": "Eikichi Sakuma",
+   "role": "nominal holder of company shares",
+   "variants": [
+    "Eikichi rakuma",
+    "Mr. Sakuma"
+   ]
+  },
+  {
+   "name": "Mr. Prince",
+   "role": "recipient of State Department acknowledgment",
+   "variants": [
+    "Mr. Prinse"
+   ]
+  },
+  {
+   "name": "Green H. Hackworth",
+   "role": "State Department Legal Adviser",
+   "variants": [
+    "Green H. Haokworth"
+   ]
+  },
+  {
+   "name": "John B. Geary",
+   "role": "person seeking earlier Japanese exchange regulations for a tax matter",
+   "variants": [
+    "John b. Geary",
+    "Mr. Geary"
+   ]
+  },
+  {
+   "name": "Joseph W. Ballantine",
+   "role": "State Department Far Eastern official",
+   "variants": [
+    "Mr. Joseph W. Baliantine",
+    "Mr. Bullant ine",
+    "Mr. Ballantine",
+    "Mr. Ballantino"
+   ]
+  },
+  {
+   "name": "Sanford D. Beecher",
+   "role": "attorney at Duane, Morris & Heckscher",
+   "variants": [
+    "Sanferd D Beceder",
+    "Mr. Beesher"
+   ]
+  },
+  {
+   "name": "K. Yuasa",
+   "role": "translator of a pamphlet on Japanese exchange law",
+   "variants": [
+    "K. Yuasa"
+   ]
+  },
+  {
+   "name": "Erle A. Dickover",
+   "role": "Chief, Division of Japanese Affairs",
+   "variants": [
+    "Erle A. Dickever"
+   ]
+  },
+  {
+   "name": "Paul D. O’Brien",
+   "role": "attorney writing for United Artists Corporation",
+   "variants": [
+    "PAUL D BRIEN",
+    "PAUL D. OBRIEN",
+    "Mr. O'Brien"
+   ]
+  },
+  {
+   "name": "A. O. Keller",
+   "role": "Swiss representative involved in currency exchange",
+   "variants": [
+    "A.O. Keller",
+    "A. O. Keller"
+   ]
+  },
+  {
+   "name": "W. Garland Richardson",
+   "role": "representative acting for A. O. Keller",
+   "variants": [
+    "W. Garland Richardson"
+   ]
+  },
+  {
+   "name": "Mr. Muir",
+   "role": "State Department addressee of attorneys’ inquiry",
+   "variants": [
+    "Mr. Muir"
+   ]
+  },
+  {
+   "name": "Mr. Keeley",
+   "role": "State Department addressee of Division of Accounts memorandum",
+   "variants": [
+    "Mr. Keeley"
+   ]
+  },
+  {
+   "name": "Mr. Shaw",
+   "role": "Assistant Secretary who approved a yen settlement rate",
+   "variants": [
+    "Assistant Secretary Shaw"
+   ]
+  },
+  {
+   "name": "Mr. Walcavich",
+   "role": "Division of Accounts memorandum writer",
+   "variants": [
+    "Mr. Walcavich"
+   ]
+  },
+  {
+   "name": "P. Ray Atherton",
+   "role": "State Department copy recipient",
+   "variants": [
+    "P. RAY ATERTON"
+   ]
+  },
+  {
+   "name": "R. H. Taylor",
+   "role": "Treasury Department copy recipient",
+   "variants": [
+    "R. H. TAYLOR"
+   ]
+  },
+  {
+   "name": "Mr. Mitchell",
+   "role": "DA participant in conversation about yen conversion",
+   "variants": [
+    "Mr. Mitchell",
+    "Mr. Mitohell"
+   ]
+  },
+  {
+   "name": "Mr. McCahon",
+   "role": "SD participant in conversation about yen conversion",
+   "variants": [
+    "Mr. McCahon",
+    "Mr. MoCahon"
+   ]
+  },
+  {
+   "name": "Frank L. Fesperman",
+   "role": "correspondent about exchanging Japanese yen",
+   "variants": [
+    "Mr. Frank L. Fesperman",
+    "Mr. Fesperman"
+   ]
+  },
+  {
+   "name": "Emilio G. Collado",
+   "role": "State Department financial and monetary affairs officer",
+   "variants": [
+    "Emilio G. Collado"
+   ]
+  },
+  {
+   "name": "William L. Clayton",
+   "role": "State Department memorandum recipient",
+   "variants": [
+    "Mr. Clayton"
+   ]
+  },
+  {
+   "name": "Mr. Dumm",
+   "role": "State Department memorandum recipient",
+   "variants": [
+    "Mr. Dumm"
+   ]
+  },
+  {
+   "name": "Henry Morgenthau Jr.",
+   "role": "Secretary of the Treasury",
+   "variants": [
+    "Seeretary Morgenthau",
+    "Mr. Mergemthem"
+   ]
+  },
+  {
+   "name": "Mr. Bell",
+   "role": "participant in planned exchange-rate meeting",
+   "variants": [
+    "Mr. Bell"
+   ]
+  },
+  {
+   "name": "Mr. Reinstein",
+   "role": "Financial and Monetary Affairs memorandum writer",
+   "variants": [
+    "Reinstein"
+   ]
+  },
+  {
+   "name": "L. S. Sabin",
+   "role": "Captain, U.S. Navy; Officer in Charge, Military Government Section",
+   "variants": [
+    "L. S. Sebin",
+    "Captain Sabin",
+    "Captain L. S. Sabin"
+   ]
+  },
+  {
+   "name": "Abbot L. Moffat",
+   "role": "State Department recipient of Navy letter",
+   "variants": [
+    "Mr. Abbot L. Moffat",
+    "Mr. Moffat"
+   ]
+  },
+  {
+   "name": "James Clement Dunn",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "James Cloment Dunn"
+   ]
+  },
+  {
+   "name": "Mr. Hamilton",
+   "role": "State Department official consulted on a political directive",
+   "variants": [
+    "Mr. Hamilton"
+   ]
+  },
+  {
+   "name": "Ellis F. O’Brien",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "ENNIS F. O'BRIEN"
+   ]
+  },
+  {
+   "name": "Arthur F. Driscoll",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "ARTHUR F. DRISCOLL"
+   ]
+  },
+  {
+   "name": "Edward C. Raftery",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "EDWARD C. RAFTERY"
+   ]
+  },
+  {
+   "name": "Roland S. Morris",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "ROLAND S. MORRIS"
+   ]
+  },
+  {
+   "name": "Russell Duane",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "RUSSFL DUANE"
+   ]
+  },
+  {
+   "name": "Claude C. Smith",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "CLAUDE C.SMITH"
+   ]
+  },
+  {
+   "name": "Clarence G. Myers",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "ARENCE G.MYERS"
+   ]
+  },
+  {
+   "name": "Shippen Morris",
+   "role": "attorney named on law-firm letterhead",
+   "variants": [
+    "SHIPPEN MORRIS"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese foreign exchange control",
+  "asset freezing",
+  "yen exchange rate",
+  "flight from the yen",
+  "Japanese gold shipments",
+  "Peruvian banking",
+  "Swiss francs",
+  "private claims",
+  "Formosa",
+  "Japanese outlying islands"
+ ],
+ "subfiles": [
+  {
+   "title": "Foreign Exchange Control Ordinance, sections thirteen and fourteen",
+   "doc_type": "received telegram",
+   "start_page": 241,
+   "end_page": 244,
+   "continues_previous": true,
+   "date": "1941-08-10",
+   "from": "U.S. Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits the final provisions of a Japanese exchange-control ordinance.",
+   "summary": "Continued translation covers reporting identifying details for foreign-connected persons and firms, ministerial exemptions and reports, and the ordinance’s commencement.",
+   "keywords": [
+    "exchange control",
+    "ordinance",
+    "reporting"
+   ]
+  },
+  {
+   "title": "Japanese Embassy cash withdrawal",
+   "doc_type": "letter",
+   "start_page": 245,
+   "end_page": 245,
+   "continues_previous": false,
+   "date": "1941-08",
+   "from": "John Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Reports a Japanese Embassy check cashed for $10,000 in large bills.",
+   "summary": "The FBI recorded the serial numbers of ten $1,000 bills.",
+   "keywords": [
+    "Japanese Embassy",
+    "cash",
+    "FBI"
+   ]
+  },
+  {
+   "title": "Yokohama Specie Bank silver payment",
+   "doc_type": "letter",
+   "start_page": 246,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1941-08-11",
+   "from": "John Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Reports a $154,000 bank check apparently paying for a silver shipment.",
+   "summary": "The Yokohama Specie Bank’s San Francisco branch bought a check payable through Bankers Trust in New York.",
+   "keywords": [
+    "silver",
+    "Yokohama Specie Bank",
+    "bank check"
+   ]
+  },
+  {
+   "title": "Japanese diplomatic cash withdrawals",
+   "doc_type": "letter",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1941-08-09",
+   "from": "John Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Reports cash withdrawals by the Japanese Embassy and military attaché.",
+   "summary": "The FBI obtained serial numbers of the large-denomination bills.",
+   "keywords": [
+    "Japanese Embassy",
+    "military attaché",
+    "cash"
+   ]
+  },
+  {
+   "title": "Transfer to file 894.51",
+   "doc_type": "transfer slip",
+   "start_page": 248,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1941-08-28",
+   "from": "",
+   "to": "",
+   "about": "Records transfer of a paper to another file.",
+   "summary": "File 894.5151/257 was transferred to 894.51.",
+   "keywords": [
+    "filing",
+    "transfer"
+   ]
+  },
+  {
+   "title": "Living-expense withdrawals under Japanese and U.S. freezes",
+   "doc_type": "memorandum",
+   "start_page": 249,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1941-08-01",
+   "from": "G. Luthringer",
+   "to": "Dean Acheson",
+   "about": "Considers whether to seek higher living-expense allowances for Americans in Japan.",
+   "summary": "Luthringer explains the distinction between withdrawals from U.S. bank accounts and remittances from Japan. He recounts discussions with Treasury and an interdepartmental committee, including cash limits for departing Japanese nationals. No decision was reached on approaching Japan; he recommends weighing the timing against negotiations over diplomatic expenses.",
+   "keywords": [
+    "living expenses",
+    "asset freezing",
+    "General License No. 11",
+    "reciprocity"
+   ]
+  },
+  {
+   "title": "Handwritten comment on living-expense issue",
+   "doc_type": "handwritten memorandum",
+   "start_page": 252,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1941",
+   "from": "Dean Acheson",
+   "to": "",
+   "about": "Comments on the proposed handling of reciprocal living-expense limits.",
+   "summary": "The note appears to favor waiting until the diplomatic-expense question is settled.",
+   "keywords": [
+    "living expenses",
+    "diplomatic expenses"
+   ]
+  },
+  {
+   "title": "Proposed instruction on monthly withdrawals in Japan",
+   "doc_type": "draft telegram",
+   "start_page": 254,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1941-07",
+   "from": "Department of State",
+   "to": "U.S. Embassy, Tokyo",
+   "about": "Drafts a reciprocal response to Japan’s 500-yen monthly withdrawal limit.",
+   "summary": "The draft would authorize warning Japan that the United States may reduce Japanese nationals’ $500 monthly allowance unless Japan raises its limit for Americans.",
+   "keywords": [
+    "General License No. 11",
+    "living expenses",
+    "reciprocity"
+   ]
+  },
+  {
+   "title": "Treatment of American residents in Japan",
+   "doc_type": "cross-reference sheet",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1941-08-22",
+   "from": "Joseph C. Grew",
+   "to": "Department of State",
+   "about": "Points to a telegram about unequal treatment under freezing orders.",
+   "summary": "References Grew’s discussion with Japan’s Foreign Office about allowances for American and Japanese residents.",
+   "keywords": [
+    "cross-reference",
+    "asset freezing",
+    "living expenses"
+   ]
+  },
+  {
+   "title": "Japan’s shortage of foreign exchange",
+   "doc_type": "received telegram",
+   "start_page": 257,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1941-10-09",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports that Japan may default on maturing foreign-exchange contracts.",
+   "summary": "A source estimates Japan’s available exchange at about 20,000 reichsmarks. Allied freezes curtailed dollar, sterling, and guilder dealings; Germany reportedly restricted credits to German purchases.",
+   "keywords": [
+    "foreign exchange shortage",
+    "freezing orders",
+    "German credits"
+   ]
+  },
+  {
+   "title": "Paraphrase of Tokyo telegram on foreign exchange",
+   "doc_type": "telegram paraphrase",
+   "start_page": 259,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1941-10-09",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Department of State",
+   "about": "Restates Grew’s report on Japan’s foreign-exchange shortage.",
+   "summary": "The paraphrase repeats the reported shortage, blocked currency transactions, German demands, and Japan’s resulting difficulty meeting foreign obligations.",
+   "keywords": [
+    "foreign exchange shortage",
+    "paraphrase",
+    "Germany"
+   ]
+  },
+  {
+   "title": "Transmission note for Tokyo telegram",
+   "doc_type": "file note",
+   "start_page": 261,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Records handling of a paraphrase of Tokyo’s October 9 telegram.",
+   "summary": "An OCR-damaged note identifies the telegram and its paraphrase.",
+   "keywords": [
+    "filing",
+    "telegram paraphrase"
+   ]
+  },
+  {
+   "title": "Correction to Tokyo telegram",
+   "doc_type": "transmittal note",
+   "start_page": 262,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "1941-10-15",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Sends a correction to Grew’s October 9 telegram.",
+   "summary": "Transmits an October 12 correction to line four of the telegram’s first page.",
+   "keywords": [
+    "correction",
+    "Treasury",
+    "telegram"
+   ]
+  },
+  {
+   "title": "Japanese and other unusual exchange operations in Peru",
+   "doc_type": "despatch",
+   "start_page": 263,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "1941-10-03",
+   "from": "R. Henry Norweb, Lima",
+   "to": "Secretary of State",
+   "about": "Reports Japanese gold imports and other Peruvian exchange transactions.",
+   "summary": "The Central Reserve Bank of Peru describes Japanese gold sold to finance Peruvian exports and supplies figures on yen trading. Norweb also reports an inactive Soviet bank account and Peru’s difficulty obtaining Swiss francs for officials in Europe, requesting U.S. guidance and cooperation.",
+   "keywords": [
+    "Peru",
+    "Japanese gold",
+    "yen trading",
+    "Swiss francs"
+   ]
+  },
+  {
+   "title": "Peruvian reserve bank letter on gold transfer",
+   "doc_type": "Spanish-language enclosure",
+   "start_page": 266,
+   "end_page": 266,
+   "continues_previous": false,
+   "date": "1941-10-03",
+   "from": "Banco Central de Reserva del Perú",
+   "to": "Federal Reserve Bank of New York",
+   "about": "Requests instructions for applying directly to transfer gold to Buenos Aires.",
+   "summary": "The proposed transfer would obtain Swiss francs for Peru’s diplomatic and consular expenses in Europe.",
+   "keywords": [
+    "gold transfer",
+    "Swiss francs",
+    "Buenos Aires"
+   ]
+  },
+  {
+   "title": "Translation of Peruvian reserve bank letter",
+   "doc_type": "translated enclosure",
+   "start_page": 267,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1941-10-03",
+   "from": "Banco Central de Reserva del Perú",
+   "to": "Federal Reserve Bank of New York",
+   "about": "Translates the reserve bank’s request about a proposed gold transfer.",
+   "summary": "After Treasury declined an earlier application, the bank asks how to apply directly to move approximately $100,000 in gold to Buenos Aires for Swiss-franc credit.",
+   "keywords": [
+    "translation",
+    "gold transfer",
+    "Swiss francs"
+   ]
+  },
+  {
+   "title": "Sales and purchases of yen by Peruvian banks",
+   "doc_type": "statistical enclosure",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1941-10",
+   "from": "Central Reserve Bank of Peru",
+   "to": "U.S. Embassy, Lima",
+   "about": "Tabulates commercial-bank yen transactions in Peru during July–September 1941.",
+   "summary": "Lists monthly sales and purchases, with swaps and cancellations deducted.",
+   "keywords": [
+    "yen",
+    "Peru",
+    "banking statistics"
+   ]
+  },
+  {
+   "title": "German bank offer of Swiss francs in Peru",
+   "doc_type": "despatch",
+   "start_page": 270,
+   "end_page": 271,
+   "continues_previous": false,
+   "date": "1941-10-07",
+   "from": "R. Henry Norweb, Lima",
+   "to": "Secretary of State",
+   "about": "Describes a German bank’s proposed route for supplying Swiss francs to Peru.",
+   "summary": "A Lima German bank offered Swiss francs through an unidentified Shanghai bank against gold deposited in Peru. The Central Reserve Bank sought U.S. comments while looking for a way to fund its European officers without objectionable banks.",
+   "keywords": [
+    "Swiss francs",
+    "German bank",
+    "Shanghai",
+    "Peru"
+   ]
+  },
+  {
+   "title": "Transmittal of Lima banking despatches",
+   "doc_type": "transmittal note",
+   "start_page": 272,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1941-10-24",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards two Lima despatches and requests advice on replies.",
+   "summary": "The despatches concern German, Japanese, and Swiss banking transactions in Peru.",
+   "keywords": [
+    "Treasury",
+    "Peru",
+    "banking"
+   ]
+  },
+  {
+   "title": "Japanese credits for mineral purchases",
+   "doc_type": "despatch",
+   "start_page": 273,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "U.S. Embassy, Lima; signed by Julian Greenup",
+   "to": "Secretary of State",
+   "about": "Reports Yokohama Specie Bank letters of credit for minerals from Bolivia and Chile.",
+   "summary": "A copied bank telegram describes credit for copper ore; an earlier credit covered antimony ore shipped from Chile to Japan.",
+   "keywords": [
+    "letters of credit",
+    "copper",
+    "antimony",
+    "Yokohama Specie Bank"
+   ]
+  },
+  {
+   "title": "Handwritten Far Eastern Affairs note",
+   "doc_type": "handwritten file note",
+   "start_page": 275,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Contains a brief, largely illegible comment on the preceding material.",
+   "summary": "The OCR does not preserve enough text to identify the comment reliably.",
+   "keywords": [
+    "file note",
+    "Far Eastern Affairs"
+   ]
+  },
+  {
+   "title": "Request for help collecting a Japanese debt",
+   "doc_type": "letter",
+   "start_page": 276,
+   "end_page": 276,
+   "continues_previous": false,
+   "date": "1941-10-29",
+   "from": "H. A. Stern Company",
+   "to": "Department of State",
+   "about": "Asks how to collect $370.82 owed by a Kobe firm.",
+   "summary": "The debtor said Japanese permission was needed before it could remit payment.",
+   "keywords": [
+    "private debt",
+    "exchange control",
+    "Kobe"
+   ]
+  },
+  {
+   "title": "Reply on collection of Japanese debt",
+   "doc_type": "letter",
+   "start_page": 277,
+   "end_page": 278,
+   "continues_previous": false,
+   "date": "1941-11-25",
+   "from": "Frederick Livesey for the Secretary of State",
+   "to": "M. A. Stern",
+   "about": "Explains why the Department cannot presently secure payment of a Japanese debt.",
+   "summary": "Dollar payment requires Japanese authorization under exchange controls; the Department identifies no action it can take on the claimant’s behalf.",
+   "keywords": [
+    "private debt",
+    "exchange control",
+    "remittance"
+   ]
+  },
+  {
+   "title": "Proposed release of frozen Japanese funds",
+   "doc_type": "cross-reference sheet",
+   "start_page": 279,
+   "end_page": 279,
+   "continues_previous": false,
+   "date": "1941-09-14",
+   "from": "Gray Miller",
+   "to": "",
+   "about": "Points to a proposal exchanging Manchukuo yuan for release of frozen dollars.",
+   "summary": "References an offer involving 10 million yuan and $4,694,835 in frozen Japanese funds.",
+   "keywords": [
+    "cross-reference",
+    "frozen funds",
+    "Manchukuo"
+   ]
+  },
+  {
+   "title": "Inquiry into Japanese capital flight through China",
+   "doc_type": "draft telegram",
+   "start_page": 280,
+   "end_page": 280,
+   "continues_previous": false,
+   "date": "1941-10-31",
+   "from": "Department of State, for Coordinator of Information",
+   "to": "American Consul, Shanghai",
+   "about": "Asks whether Japanese funds have moved through Chinese coastal centers.",
+   "summary": "Requests evidence and estimates for Shanghai, Tianjin, and Hong Kong.",
+   "keywords": [
+    "capital flight",
+    "Shanghai",
+    "yen"
+   ]
+  },
+  {
+   "title": "Discussion with Dr. Remer on capital-flight inquiry",
+   "doc_type": "memorandum",
+   "start_page": 281,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1941-10-30",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Records doubts that a proposed capital-flight inquiry will yield figures.",
+   "summary": "The writer recalls limited reports of Japanese capital held in Shanghai; Remer still favors sending the inquiry.",
+   "keywords": [
+    "capital flight",
+    "Shanghai",
+    "Remer"
+   ]
+  },
+  {
+   "title": "Coordinator of Information request on Japanese funds",
+   "doc_type": "memorandum",
+   "start_page": 282,
+   "end_page": 282,
+   "continues_previous": false,
+   "date": "1941-10-27",
+   "from": "D. C. McKay",
+   "to": "Raymond H. Geist",
+   "about": "Requests sources on Japanese funds leaving through Chinese centers.",
+   "summary": "The memorandum asks about Shanghai, Tianjin, Hong Kong, and the scale of any flight from the yen.",
+   "keywords": [
+    "capital flight",
+    "yen",
+    "China"
+   ]
+  },
+  {
+   "title": "Shanghai report on flight from the yen",
+   "doc_type": "received telegram",
+   "start_page": 283,
+   "end_page": 286,
+   "continues_previous": false,
+   "date": "1941-11-08",
+   "from": "U.S. Consulate, Shanghai; signed Stanton",
+   "to": "Secretary of State",
+   "about": "Estimates the scale and routes of Japanese capital flight through China.",
+   "summary": "Shanghai reports hundreds of millions of yen moved in 1938–40 through Chinese ports and rail routes, with far smaller flows in 1941. Its second section describes yen-note smuggling, exchange quotations, and tighter Japanese exit and export controls. It says further flight likely depended on officials’ cooperation.",
+   "keywords": [
+    "capital flight",
+    "yen smuggling",
+    "Shanghai",
+    "export controls"
+   ]
+  },
+  {
+   "title": "Hong Kong report on yen movements",
+   "doc_type": "received telegram",
+   "start_page": 287,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "1941-11-10",
+   "from": "U.S. Consulate, Hong Kong; signed Southard",
+   "to": "Secretary of State",
+   "about": "Describes yen-note and credit movements through Hong Kong.",
+   "summary": "Hong Kong authorities estimated annual arrivals of about 12 million yen in notes during mid-1939 to mid-1941. The report also describes Japanese firms’ deposits and says transactions became very small after the British asset freeze.",
+   "keywords": [
+    "Hong Kong",
+    "yen smuggling",
+    "capital flight",
+    "asset freeze"
+   ]
+  },
+  {
+   "title": "Inquiry about Japanese gold shipments",
+   "doc_type": "cross-reference sheet",
+   "start_page": 289,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1941-11-14",
+   "from": "Department of State",
+   "to": "Diplomatic missions in Central and South America",
+   "about": "Points to a circular request for reports on future Japanese gold shipments.",
+   "summary": "The circular sought their purpose: payment for goods or creation of exchange assets.",
+   "keywords": [
+    "cross-reference",
+    "gold shipments",
+    "exchange assets"
+   ]
+  },
+  {
+   "title": "Japanese licenses affecting U.S. establishments",
+   "doc_type": "cross-reference sheet",
+   "start_page": 290,
+   "end_page": 290,
+   "continues_previous": false,
+   "date": "1941-11",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Department of State",
+   "about": "Points to a telegram on Japanese licenses for American official funds.",
+   "summary": "References licenses 61 and 62, described as unfreezing U.S. establishments and personnel in Japan.",
+   "keywords": [
+    "cross-reference",
+    "general licenses",
+    "asset freezing"
+   ]
+  },
+  {
+   "title": "Company cover letter for ownership record",
+   "doc_type": "letter",
+   "start_page": 291,
+   "end_page": 291,
+   "continues_previous": false,
+   "date": "1942-01",
+   "from": "The Paraffine Companies, Inc.",
+   "to": "Department of State",
+   "about": "Submits a copy of a letter documenting ownership of a Japanese company.",
+   "summary": "Requests that the enclosed ownership account be kept on file.",
+   "keywords": [
+    "company ownership",
+    "Sakuma Industrial"
+   ]
+  },
+  {
+   "title": "Ownership of Sakuma Industrial Company",
+   "doc_type": "enclosed letter",
+   "start_page": 292,
+   "end_page": 293,
+   "continues_previous": false,
+   "date": "1941-03-26",
+   "from": "R. P. Alexander",
+   "to": "American Consul General, Tokyo",
+   "about": "Records The Paraffine Companies’ ownership of shares in Sakuma Industrial.",
+   "summary": "Alexander states that the American company owns 6,000 of 10,000 shares. Of those, 1,500 stand in Eikichi Sakuma’s name under documents preserving the American company’s ownership.",
+   "keywords": [
+    "company ownership",
+    "shares",
+    "Sakuma Industrial"
+   ]
+  },
+  {
+   "title": "Acknowledgment of company ownership record",
+   "doc_type": "letter",
+   "start_page": 294,
+   "end_page": 294,
+   "continues_previous": false,
+   "date": "1942-01-24",
+   "from": "Department of State",
+   "to": "Mr. Prince",
+   "about": "Acknowledges receipt of the Sakuma Industrial ownership papers.",
+   "summary": "Confirms that the company’s letter and enclosure will be placed in Department records.",
+   "keywords": [
+    "company ownership",
+    "filing"
+   ]
+  },
+  {
+   "title": "Renewed inquiry on Japanese debt claim",
+   "doc_type": "letter",
+   "start_page": 295,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1942-03-17",
+   "from": "H. A. Stern Company",
+   "to": "Department of State",
+   "about": "Asks how to file a prewar debt claim after war began.",
+   "summary": "The company again cites $370.82 owed by a Kobe firm.",
+   "keywords": [
+    "private claim",
+    "Japan",
+    "debt"
+   ]
+  },
+  {
+   "title": "Reply on private debt-claim procedure",
+   "doc_type": "letter",
+   "start_page": 296,
+   "end_page": 296,
+   "continues_previous": false,
+   "date": "1942-04-20",
+   "from": "Green H. Hackworth for the Secretary of State",
+   "to": "M. A. Stern",
+   "about": "Explains that no government procedure exists for the company’s debt claim.",
+   "summary": "The claimant may need to pursue ordinary private collection when conditions permit.",
+   "keywords": [
+    "private claim",
+    "debt collection"
+   ]
+  },
+  {
+   "title": "Inquiry about August 1942 yen-dollar exchange rate",
+   "doc_type": "letter",
+   "start_page": 297,
+   "end_page": 298,
+   "continues_previous": false,
+   "date": "1943-07-27",
+   "from": "Paul D. O’Brien",
+   "to": "Mr. Muir, Department of State",
+   "about": "Seeks an exchange rate for settling a repatriated employee’s salary claim.",
+   "summary": "The attorney compares the 3⅓-yen rate used during repatriation with a different rate on the subsidiary’s 1941 balance sheet and asks for a reliable August 31, 1942 rate.",
+   "keywords": [
+    "yen-dollar rate",
+    "repatriation",
+    "salary claim"
+   ]
+  },
+  {
+   "title": "Reply on wartime yen valuation",
+   "doc_type": "draft letter",
+   "start_page": 299,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1943-10",
+   "from": "Department of State",
+   "to": "Paul D. O’Brien",
+   "about": "Explains limitations of the repatriation exchange rate.",
+   "summary": "The rate was negotiated and did not establish the yen’s market value; the draft suggests consulting financial institutions.",
+   "keywords": [
+    "yen-dollar rate",
+    "repatriation",
+    "valuation"
+   ]
+  },
+  {
+   "title": "Accounts Division memorandum on yen rates",
+   "doc_type": "memorandum",
+   "start_page": 300,
+   "end_page": 300,
+   "continues_previous": false,
+   "date": "1943-08-02",
+   "from": "Division of Accounts",
+   "to": "Mr. Keeley",
+   "about": "Supplies exchange-rate evidence for answering the United Artists inquiry.",
+   "summary": "The division cites a Swiss Legation note and its own 4.235-yen settlement rate, while lacking grounds to explain the 3⅓-yen repatriation rate.",
+   "keywords": [
+    "yen-dollar rate",
+    "Swiss Legation",
+    "claims"
+   ]
+  },
+  {
+   "title": "Swiss Legation exchange-rate note",
+   "doc_type": "copied note",
+   "start_page": 301,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1942-03-31",
+   "from": "Swiss Legation, Tokyo",
+   "to": "",
+   "about": "States reported official yen, Swiss-franc, and dollar parities.",
+   "summary": "The copied note gives a calculated parity of 4.235 yen per dollar.",
+   "keywords": [
+    "yen",
+    "Swiss franc",
+    "exchange rate"
+   ]
+  },
+  {
+   "title": "Navy instruction on a two-yen dollar rate",
+   "doc_type": "naval message",
+   "start_page": 302,
+   "end_page": 302,
+   "continues_previous": false,
+   "date": "1943-07",
+   "from": "Chief of Staff",
+   "to": "Commander, Pacific Ocean Area",
+   "about": "Sets a military exchange rate of two yen per dollar.",
+   "summary": "The instruction applies the rate to all yen issues in that area without setting a precedent elsewhere.",
+   "keywords": [
+    "military exchange rate",
+    "yen",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Conversation on Swiss purchases of yen",
+   "doc_type": "memorandum of conversation",
+   "start_page": 303,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1944-01-06",
+   "from": "Department of State",
+   "to": "Department of State files",
+   "about": "Records information on yen and Swiss-franc conversion.",
+   "summary": "Mitchell reports a September 1943 Manila quotation and a Swiss-franc dollar parity.",
+   "keywords": [
+    "yen",
+    "Swiss franc",
+    "Manila"
+   ]
+  },
+  {
+   "title": "Referral of Frank Fesperman yen inquiry",
+   "doc_type": "letter",
+   "start_page": 304,
+   "end_page": 304,
+   "continues_previous": false,
+   "date": "1944-01",
+   "from": "Treasury Department",
+   "to": "State Department, Special War Problems Division",
+   "about": "Refers a request to exchange Japanese yen for U.S. currency.",
+   "summary": "Treasury forwards Fesperman’s letter and receipt for State Department reply.",
+   "keywords": [
+    "yen exchange",
+    "referral"
+   ]
+  },
+  {
+   "title": "Interest on Japanese foreign securities",
+   "doc_type": "cross-reference sheet",
+   "start_page": 305,
+   "end_page": 305,
+   "continues_previous": false,
+   "date": "1944-06-23",
+   "from": "U.S. mission in Switzerland",
+   "to": "Department of State",
+   "about": "Points to a telegram on interest payments for Japanese securities.",
+   "summary": "References a Berlin announcement concerning Japanese dollar and sterling securities.",
+   "keywords": [
+    "cross-reference",
+    "securities",
+    "interest"
+   ]
+  },
+  {
+   "title": "Cover memorandum on exchange rates in Formosa and islands",
+   "doc_type": "memorandum",
+   "start_page": 306,
+   "end_page": 306,
+   "continues_previous": false,
+   "date": "1945-01-05",
+   "from": "Emilio G. Collado",
+   "to": "Mr. Clayton",
+   "about": "Forwards papers on military yen rates for Formosa and outlying islands.",
+   "summary": "The papers were intended for a meeting with Mr. Bell; originals went to Mr. Grew.",
+   "keywords": [
+    "Formosa",
+    "outlying islands",
+    "yen rate"
+   ]
+  },
+  {
+   "title": "Impasse over yen exchange rate",
+   "doc_type": "memorandum",
+   "start_page": 307,
+   "end_page": 308,
+   "continues_previous": false,
+   "date": "1945-01-04",
+   "from": "Emilio G. Collado",
+   "to": "Mr. Ballantine; Mr. Dumm; Mr. Clayton; Mr. Grew",
+   "about": "Seeks a high-level decision on the military yen rate for Formosa and outlying islands.",
+   "summary": "Treasury favors five cents per yen, while State favors ten cents in Formosa. Because the rates in both areas must align, Collado proposes discussion with Secretary Morgenthau and, if needed, presidential settlement.",
+   "keywords": [
+    "yen exchange rate",
+    "Formosa",
+    "Treasury",
+    "military government"
+   ]
+  },
+  {
+   "title": "State Department case for a ten-cent yen rate",
+   "doc_type": "attached policy memorandum",
+   "start_page": 309,
+   "end_page": 311,
+   "continues_previous": false,
+   "date": "1945-01-04",
+   "from": "Division of Financial and Monetary Affairs",
+   "to": "State Department policy officers",
+   "about": "Argues for a ten-cent initial yen rate in Formosa and Japanese outlying islands.",
+   "summary": "The memorandum says a five-cent rate could worsen inflation in Formosa and create political and economic difficulties for its Chinese population and neighboring territories. State accepts a low rate in some islands only if it does not determine Formosa’s rate.",
+   "keywords": [
+    "Formosa",
+    "yen exchange rate",
+    "inflation",
+    "military government"
+   ]
+  },
+  {
+   "title": "Japanese parity for yen, peso, and baht",
+   "doc_type": "incoming telegram",
+   "start_page": 312,
+   "end_page": 312,
+   "continues_previous": false,
+   "date": "1944-09-16",
+   "from": "U.S. Legation, Bern; signed Harrison",
+   "to": "Secretary of State",
+   "about": "Reports Japanese authorities’ currency parity announcement.",
+   "summary": "A Swiss report says the yen, Philippine peso, and Thai baht were set at parity.",
+   "keywords": [
+    "yen",
+    "Philippine peso",
+    "Thai baht"
+   ]
+  },
+  {
+   "title": "Request for Japan’s 1940 exchange regulations",
+   "doc_type": "letter",
+   "start_page": 313,
+   "end_page": 313,
+   "continues_previous": false,
+   "date": "1944-10-30",
+   "from": "Sanford D. Beecher, Duane, Morris & Heckscher",
+   "to": "Joseph W. Ballantine",
+   "about": "Requests Japanese exchange-control law and regulations applicable in 1940.",
+   "summary": "The documents are sought for John B. Geary’s income-tax matter; a 1941 published translation does not cover the relevant year.",
+   "keywords": [
+    "Japanese exchange law",
+    "1940",
+    "income tax"
+   ]
+  },
+  {
+   "title": "Reply on unavailable Japanese regulations",
+   "doc_type": "letter",
+   "start_page": 314,
+   "end_page": 314,
+   "continues_previous": false,
+   "date": "1944",
+   "from": "Erle A. Dickover for the Secretary of State",
+   "to": "Sanford D. Beecher",
+   "about": "Responds to the request for Japan’s 1940 exchange law.",
+   "summary": "The Department says it lacks copies and knows of no government source able to supply them.",
+   "keywords": [
+    "Japanese exchange law",
+    "records inquiry"
+   ]
+  },
+  {
+   "title": "Exchange-rate memorandum reference",
+   "doc_type": "cross-reference sheet",
+   "start_page": 315,
+   "end_page": 315,
+   "continues_previous": false,
+   "date": "1944-12-13",
+   "from": "Luthringer, Financial and Monetary Affairs",
+   "to": "",
+   "about": "Points to a memorandum on yen rates for Formosa and outlying islands.",
+   "summary": "Records the related memorandum’s date and file location.",
+   "keywords": [
+    "cross-reference",
+    "Formosa",
+    "yen rate"
+   ]
+  },
+  {
+   "title": "Fiscal Planning Committee meeting reference",
+   "doc_type": "cross-reference sheet",
+   "start_page": 316,
+   "end_page": 316,
+   "continues_previous": false,
+   "date": "1944-12-18",
+   "from": "Reinstein, Financial and Monetary Affairs",
+   "to": "",
+   "about": "Points to a committee memorandum discussing the exchange rate.",
+   "summary": "Records the meeting memorandum’s date and file location.",
+   "keywords": [
+    "cross-reference",
+    "fiscal planning",
+    "yen rate"
+   ]
+  },
+  {
+   "title": "Proposed directives for Japanese outlying islands",
+   "doc_type": "letter",
+   "start_page": 317,
+   "end_page": 317,
+   "continues_previous": false,
+   "date": "1944-12-19",
+   "from": "Captain L. S. Sabin, Navy Department",
+   "to": "Abbot L. Moffat",
+   "about": "Requests State Department comment on proposed island-government directives.",
+   "summary": "The financial directive leaves the yen rate blank pending interdepartmental discussions; Sabin also requests formal concurrence in the political directive.",
+   "keywords": [
+    "Japanese outlying islands",
+    "financial directive",
+    "military government"
+   ]
+  },
+  {
+   "title": "State concurrence in political directive",
+   "doc_type": "letter",
+   "start_page": 318,
+   "end_page": 318,
+   "continues_previous": false,
+   "date": "1944-12-23",
+   "from": "James Clement Dunn",
+   "to": "Captain L. S. Sabin",
+   "about": "Conveys State Department concurrence in a political directive for the islands.",
+   "summary": "Comments on the financial directive and accounting guide are promised later.",
+   "keywords": [
+    "Japanese outlying islands",
+    "political directive",
+    "military government"
+   ]
+  },
+  {
+   "title": "Enclosure charge slip",
+   "doc_type": "routing slip",
+   "start_page": 319,
+   "end_page": 319,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Records internal movement of an enclosure.",
+   "summary": "The charge-slip entries are mostly illegible.",
+   "keywords": [
+    "filing",
+    "routing"
+   ]
+  },
+  {
+   "title": "DCR transfer sheet",
+   "doc_type": "transfer sheet",
+   "start_page": 320,
+   "end_page": 320,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Records transfer of one enclosure to a confidential file.",
+   "summary": "The sheet identifies a file number and a confidential-file destination.",
+   "keywords": [
+    "filing",
+    "transfer"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 4,
+  "pages": [
+   241,
+   320
+  ],
+  "pdf": "894.5151 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Monetary System. Coinage. Currency. Mint. Bullion., Japan, Exchange., January 5th, 1940 - December 19, 1944 1474.pdf",
+  "seconds": 138.5,
+  "created": "2026-10-08 14:41:07",
+  "key": "japan-internal-affairs-894.5151-financial-conditions-budget-7"
+ }
+}
