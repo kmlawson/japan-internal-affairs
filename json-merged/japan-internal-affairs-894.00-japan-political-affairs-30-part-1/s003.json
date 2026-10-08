@@ -1,0 +1,1533 @@
+{
+ "section_summary": "This section contains reports on Japanese political opinion, Communist activity, land commission elections, and the Foreign Ministry’s public lecture program. It also includes a Philippine assessment of postwar Japan, Admiral Nomura’s essay on reconstruction, and records concerning Japanese officials’ travel abroad.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Jupan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chins"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Russia",
+    "Soviet Union",
+    "U.S.S.R.",
+    "U.S. S.R.",
+    "Russia"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "U.S.A.",
+    "America"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyd",
+    "Tokio",
+    "Pok/o",
+    "Tokyo-to",
+    "Toky"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking",
+    "Manking"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Xi’an",
+   "variants": [
+    "Sian",
+    "Slan"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Pekis"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin",
+    "Ferlin"
+   ]
+  },
+  {
+   "name": "Yanan",
+   "variants": [
+    "Yenan"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "variants": [
+    "North Korea"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "South Korea"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Koree"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Armenia",
+   "variants": [
+    "Armenia"
+   ]
+  },
+  {
+   "name": "Georgia",
+   "variants": [
+    "Georgia"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "Yugoslevia"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Cermany"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austrian"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Britain",
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington",
+    "Jashington, D. C."
+   ]
+  },
+  {
+   "name": "Greensboro, North Carolina",
+   "variants": [
+    "Greensboro, North Carolina"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "uenos lires"
+   ]
+  },
+  {
+   "name": "Sydney",
+   "variants": [
+    "Sydney"
+   ]
+  },
+  {
+   "name": "Melbourne",
+   "variants": [
+    "Lelbourne"
+   ]
+  },
+  {
+   "name": "Petersburg",
+   "variants": [
+    "Petersburg"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Last"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asie"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokk aido"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi",
+    "iyagi"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki",
+    "Ibaragi"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma",
+    "Gunma"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kenagawa"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa",
+    "Ishikawe"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi",
+    "Yamanaahi"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano",
+    "Naganc"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie",
+    "Miye"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka",
+    "Oska"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Hyogc",
+    "Hygo"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "Yemaguchi",
+    "Yamegichi"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "Kagwa"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi",
+    "Koshi",
+    "Koch:"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima",
+    "Kegoshima"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "Matsumoto"
+   ]
+  },
+  {
+   "name": "Amatsu",
+   "variants": [
+    "Amatsu--mechi"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "Kofu"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "Mito"
+   ]
+  },
+  {
+   "name": "Atami",
+   "variants": [
+    "Atami"
+   ]
+  },
+  {
+   "name": "Kodaira",
+   "variants": [
+    "Kodaira-machi"
+   ]
+  },
+  {
+   "name": "Kita Tama District",
+   "variants": [
+    "Kita Tama-gun"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "Matsuye"
+   ]
+  },
+  {
+   "name": "Hofu",
+   "variants": [
+    "Bofu"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Fukumitsu",
+   "variants": [
+    "Fukumitsu-cho"
+   ]
+  },
+  {
+   "name": "Yawatahama",
+   "variants": [
+    "Yahatahama"
+   ]
+  },
+  {
+   "name": "Ozu",
+   "variants": [
+    "Ozu"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "Sakada"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Shiraishi",
+   "variants": [
+    "Shiraishi-mura"
+   ]
+  },
+  {
+   "name": "Tsukinoki",
+   "variants": [
+    "Tsukinoki-machi"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urawa"
+   ]
+  },
+  {
+   "name": "Taira",
+   "variants": [
+    "Taira"
+   ]
+  },
+  {
+   "name": "Inawashiro",
+   "variants": [
+    "Inawashiro-machi"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Maizuru"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Morioka"
+   ]
+  },
+  {
+   "name": "Zushi",
+   "variants": [
+    "Zushi"
+   ]
+  },
+  {
+   "name": "Ogaki",
+   "variants": [
+    "Ogaki"
+   ]
+  },
+  {
+   "name": "Bibai",
+   "variants": [
+    "Bibai-machi",
+    "Bipai-machi"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "F.ikodate"
+   ]
+  },
+  {
+   "name": "Imari",
+   "variants": [
+    "Imari"
+   ]
+  },
+  {
+   "name": "Ogi District",
+   "variants": [
+    "Ogi-gun"
+   ]
+  },
+  {
+   "name": "Yotsuya",
+   "variants": [
+    "Yotsuya"
+   ]
+  },
+  {
+   "name": "Mejiro",
+   "variants": [
+    "Mejiro"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph Stalin",
+   "role": "Soviet leader",
+   "variants": [
+    "Stalin"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese Nationalist leader",
+   "variants": [
+    "Chiang",
+    "hiang Kai shek",
+    "Kas shek"
+   ]
+  },
+  {
+   "name": "Chang Hsueh-liang",
+   "role": "Chinese military leader",
+   "variants": [
+    "Chang Hsueh-liang",
+    "Chane Hauet iang"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "United States general and mediator",
+   "variants": [
+    "General Marshall",
+    "Generel Marshall"
+   ]
+  },
+  {
+   "name": "Patrick J. Hurley",
+   "role": "United States envoy",
+   "variants": [
+    "Hurley"
+   ]
+  },
+  {
+   "name": "Mao Zedong",
+   "role": "Chinese Communist leader",
+   "variants": [
+    "Mao Tse-tung",
+    "Mao Tze tung"
+   ]
+  },
+  {
+   "name": "Vladimir Lenin",
+   "role": "Bolshevik leader",
+   "variants": [
+    "Lenin"
+   ]
+  },
+  {
+   "name": "Vyacheslav Molotov",
+   "role": "former Soviet foreign minister",
+   "variants": [
+    "Molotov"
+   ]
+  },
+  {
+   "name": "Anastas Mikoyan",
+   "role": "Soviet official",
+   "variants": [
+    "Mikoyan",
+    "Milkoyae"
+   ]
+  },
+  {
+   "name": "Josip Broz Tito",
+   "role": "Yugoslav leader",
+   "variants": [
+    "Tits"
+   ]
+  },
+  {
+   "name": "Fuse Katsuji",
+   "role": "Japanese writer on Soviet affairs",
+   "variants": [
+    "Fuse Katsuji"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "SBALD"
+   ]
+  },
+  {
+   "name": "Bernabe Africa",
+   "role": "Philippine envoy accredited to SCAP; former undersecretary of foreign affairs",
+   "variants": [
+    "Dr. Bernabe AFRICA",
+    "Dr. Africa",
+    "Dr. Bernabe Africa",
+    "DR. BERNABE AFRICA"
+   ]
+  },
+  {
+   "name": "Myron M. Cowen",
+   "role": "United States ambassador in Manila",
+   "variants": [
+    "Myron M. Cowen"
+   ]
+  },
+  {
+   "name": "William B. Cobb",
+   "role": "embassy staff member",
+   "variants": [
+    "William B. Cobb"
+   ]
+  },
+  {
+   "name": "Edward E. Rice",
+   "role": "embassy staff member",
+   "variants": [
+    "Edward E. Rice"
+   ]
+  },
+  {
+   "name": "Pedro Padilla",
+   "role": "newspaper columnist",
+   "variants": [
+    "Pedro PADILLA",
+    "Pedro Padilla"
+   ]
+  },
+  {
+   "name": "Carlos Tan",
+   "role": "Philippine senator",
+   "variants": [
+    "Carlos Tan",
+    "Tan"
+   ]
+  },
+  {
+   "name": "Elpidio Quirino",
+   "role": "Philippine political leader",
+   "variants": [
+    "Elpidio Quirino",
+    "Elpidio",
+    "Elpidio Quéri-no"
+   ]
+  },
+  {
+   "name": "Primitivo Lovina",
+   "role": "Philippine politician",
+   "variants": [
+    "Primitivo Lovina",
+    "Lovina"
+   ]
+  },
+  {
+   "name": "Jose Avelino",
+   "role": "Philippine Senate president",
+   "variants": [
+    "Avelino",
+    "Senate President Avelino",
+    "Senator Avelino"
+   ]
+  },
+  {
+   "name": "Manuel Roxas",
+   "role": "Philippine president",
+   "variants": [
+    "President Rexas"
+   ]
+  },
+  {
+   "name": "Roy L. Morgan",
+   "role": "attorney and former prosecution counsel",
+   "variants": [
+    "Roy L. Morgan",
+    "Roy L. Llorgan",
+    "Mr. Morgam"
+   ]
+  },
+  {
+   "name": "James Webb",
+   "role": "United States undersecretary of state",
+   "variants": [
+    "James Webb",
+    "Mr. Webb"
+   ]
+  },
+  {
+   "name": "Kichisaburo Nomura",
+   "role": "former Japanese ambassador to the United States and admiral",
+   "variants": [
+    "Kischasaburo Nomura",
+    "Nomura",
+    "K. Nomura",
+    "Admiral Nomura",
+    "Momura"
+   ]
+  },
+  {
+   "name": "Miles W. Bond",
+   "role": "acting chief, Division of Northeast Asian Affairs",
+   "variants": [
+    "Miles W. Bond",
+    "Mr. Bond"
+   ]
+  },
+  {
+   "name": "M. Green",
+   "role": "Division of Northeast Asian Affairs officer",
+   "variants": [
+    "Mr. Green",
+    "MGreen",
+    "MGrecn"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "Macarthur"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German leader",
+   "variants": [
+    "Hitler"
+   ]
+  },
+  {
+   "name": "Napoleon Bonaparte",
+   "role": "French leader",
+   "variants": [
+    "Mapoleon"
+   ]
+  },
+  {
+   "name": "Kido Koin",
+   "role": "Meiji Restoration statesman",
+   "variants": [
+    "Koin Kido",
+    "Kido"
+   ]
+  },
+  {
+   "name": "Kido Koichi",
+   "role": "Japanese war crimes defendant, identified as Kido Koin’s grandson",
+   "variants": [
+    "war guilt Kido"
+   ]
+  },
+  {
+   "name": "Benito Mussolini",
+   "role": "Italian leader",
+   "variants": [
+    "Mussolini"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "former Japanese prime minister",
+   "variants": [
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Pickelle",
+   "role": "namesake of a mission to open markets for Japanese products",
+   "variants": [
+    "Pickelle"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Japanese prime minister and foreign minister",
+   "variants": [
+    "Mr. YOSHIDA",
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Katsumi Ohno",
+   "role": "chief, Political Affairs Bureau",
+   "variants": [
+    "Katsumi Ohno",
+    "Mr. Ohno"
+   ]
+  },
+  {
+   "name": "Cabot Coville",
+   "role": "first secretary, Diplomatic Section, GHQ SCAP",
+   "variants": [
+    "Cabot Coville",
+    "Mr. Coville"
+   ]
+  },
+  {
+   "name": "F. Hawley",
+   "role": "despatch staff member",
+   "variants": [
+    "FHawley"
+   ]
+  },
+  {
+   "name": "B. Coolidge",
+   "role": "despatch staff member",
+   "variants": [
+    "BCoolidge"
+   ]
+  },
+  {
+   "name": "C. Houston",
+   "role": "airgram staff member",
+   "variants": [
+    "Chouston"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese political affairs",
+  "Communism",
+  "Soviet influence",
+  "postwar reconstruction",
+  "Philippine attitudes",
+  "land reform elections",
+  "public opinion",
+  "Foreign Ministry lectures",
+  "repatriation",
+  "foreign relations"
+ ],
+ "subfiles": [
+  {
+   "title": "Chances for a Bolshevik Revolution in Japan",
+   "doc_type": "article enclosure, continuation",
+   "start_page": 129,
+   "end_page": 133,
+   "continues_previous": true,
+   "date": "",
+   "from": "Fuse Katsuji",
+   "to": "",
+   "about": "Fuse compares Soviet strategy in China and Russia with the prospect of revolution in Japan.",
+   "summary": "The article recounts Stalin’s dealings with Chiang Kai-shek, the Chinese Communist victory, and the Berlin blockade. It argues that Soviet policy could use Japanese repatriates and domestic unrest to advance revolution, with Mikoyan directing Asian Communist strategy.",
+   "keywords": [
+    "Bolshevik revolution",
+    "Soviet strategy",
+    "China",
+    "Japan",
+    "repatriates"
+   ]
+  },
+  {
+   "title": "Dissolution of Korean organizations in Japan",
+   "doc_type": "airgram",
+   "start_page": 134,
+   "end_page": 135,
+   "continues_previous": false,
+   "date": "1949-09-10",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Japanese government ordered the dissolution of several Korean organizations.",
+   "summary": "The airgram reports the dissolution order, its stated grounds of violent activity, police precautions, and the purge of Korean leaders from political office.",
+   "keywords": [
+    "Korean residents",
+    "dissolution",
+    "political purge",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Filipino Attitude towards Post-war Japan",
+   "doc_type": "despatch",
+   "start_page": 136,
+   "end_page": 137,
+   "continues_previous": false,
+   "date": "1949-09-12",
+   "from": "Myron M. Cowen, American Embassy, Manila",
+   "to": "Secretary of State",
+   "about": "The embassy forwards a Philippine envoy’s favorable assessment of Japan alongside an example of continuing Filipino hostility.",
+   "summary": "Cowen says Bernabe Africa’s praise of occupation reforms may influence Philippine opinion, while Pedro Padilla’s column illustrates persistent anger over the Japanese occupation.",
+   "keywords": [
+    "Philippine attitudes",
+    "Japan",
+    "occupation reforms",
+    "Bernabe Africa"
+   ]
+  },
+  {
+   "title": "Africa Discusses Japanese Situation on Fourth Anniversary of Occupation",
+   "doc_type": "newspaper article enclosure",
+   "start_page": 138,
+   "end_page": 139,
+   "continues_previous": false,
+   "date": "1949-09-01",
+   "from": "Bernabe Africa",
+   "to": "United Press; Manila Bulletin readers",
+   "about": "Africa assesses Japan’s political, social, and economic changes four years after surrender.",
+   "summary": "Africa praises demilitarization, constitutional and educational reforms, women’s rights, labor protections, and land reform. He discusses food shortages, population pressure, trade, and American aid, while criticizing United States reparations policy.",
+   "keywords": [
+    "SCAP",
+    "democratization",
+    "land reform",
+    "Japanese economy",
+    "reparations"
+   ]
+  },
+  {
+   "title": "Issues and Men",
+   "doc_type": "newspaper column enclosure",
+   "start_page": 140,
+   "end_page": 140,
+   "continues_previous": false,
+   "date": "",
+   "from": "Pedro Padilla",
+   "to": "Manila Daily News readers",
+   "about": "Padilla criticizes Senator Carlos Tan’s shifting political loyalties.",
+   "summary": "The surviving column concerns Philippine politics rather than the Japanese travelers described in the covering despatch.",
+   "keywords": [
+    "Carlos Tan",
+    "Philippine politics",
+    "newspaper column"
+   ]
+  },
+  {
+   "title": "Reply thanking Roy L. Morgan for Nomura article",
+   "doc_type": "letter",
+   "start_page": 141,
+   "end_page": 141,
+   "continues_previous": false,
+   "date": "1949-09-29",
+   "from": "Miles W. Bond",
+   "to": "Roy L. Morgan",
+   "about": "Bond acknowledges receipt of Nomura’s article.",
+   "summary": "Bond thanks Morgan and notes that some arguments have been overtaken by events.",
+   "keywords": [
+    "Nomura",
+    "correspondence"
+   ]
+  },
+  {
+   "title": "Letter forwarding The Future of Japan",
+   "doc_type": "letter",
+   "start_page": 142,
+   "end_page": 142,
+   "continues_previous": false,
+   "date": "1949-09-22",
+   "from": "Roy L. Morgan",
+   "to": "James Webb",
+   "about": "Morgan sends Nomura’s article to the State Department.",
+   "summary": "Morgan explains his connection with Nomura through the war crimes prosecution and forwards the article for information.",
+   "keywords": [
+    "Nomura",
+    "Japan",
+    "war crimes trial"
+   ]
+  },
+  {
+   "title": "Nomura’s introductory note",
+   "doc_type": "personal note",
+   "start_page": 143,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "1946-12-01",
+   "from": "K. Nomura",
+   "to": "",
+   "about": "Nomura introduces his views on Japan’s future and praises MacArthur.",
+   "summary": "Nomura warns of economic collapse without concentrated Japanese effort under MacArthur’s leadership and United States help.",
+   "keywords": [
+    "Nomura",
+    "MacArthur",
+    "reconstruction"
+   ]
+  },
+  {
+   "title": "The Future of Japan",
+   "doc_type": "essay",
+   "start_page": 144,
+   "end_page": 153,
+   "continues_previous": false,
+   "date": "",
+   "from": "K. Nomura",
+   "to": "",
+   "about": "Nomura examines Japan’s postwar shortages and proposes a national program of reconstruction.",
+   "summary": "Nomura describes severe food, housing, industrial, shipping, and financial problems, compounded by reparations and population growth. He criticizes wartime wishful thinking and warns that inflation, strikes, and factional politics could obstruct recovery. He urges increased production, trade, cooperation with occupation authorities, a labor and capital truce, and a coalition cabinet.",
+   "keywords": [
+    "postwar Japan",
+    "reparations",
+    "inflation",
+    "production",
+    "reconstruction"
+   ]
+  },
+  {
+   "title": "Agricultural Land Commission Elections",
+   "doc_type": "despatch",
+   "start_page": 154,
+   "end_page": 155,
+   "continues_previous": false,
+   "date": "1949-09-27",
+   "from": "W. J. Sebald, Tokyo",
+   "to": "Secretary of State",
+   "about": "Sebald transmits and interprets local and prefectural land commission election returns.",
+   "summary": "He reports strong participation, widespread success for independents, greater Socialist representation at prefectural level, and negligible Communist returns.",
+   "keywords": [
+    "land commissions",
+    "elections",
+    "political parties",
+    "land reform"
+   ]
+  },
+  {
+   "title": "Results of Second Election of Local Agricultural Land Commissions",
+   "doc_type": "memorandum enclosure",
+   "start_page": 156,
+   "end_page": 158,
+   "continues_previous": false,
+   "date": "1949-09-08",
+   "from": "Natural Resources Section, GHQ SCAP",
+   "to": "Record",
+   "about": "The memorandum analyzes the August 18 local land commission elections.",
+   "summary": "It explains revised voter categories, uncontested elections, turnout, reelections, and party affiliation. Most commissioners were independents, while Communist candidates won fewer than one percent of seats.",
+   "keywords": [
+    "local land commissions",
+    "voter turnout",
+    "land reform",
+    "party affiliation"
+   ]
+  },
+  {
+   "title": "Preliminary Results of the Second Election of the Local Agricultural Land Commission",
+   "doc_type": "statistical table",
+   "start_page": 159,
+   "end_page": 160,
+   "continues_previous": false,
+   "date": "",
+   "from": "Natural Resources Section, GHQ SCAP",
+   "to": "",
+   "about": "The table gives prefectural counts for voting, reelections, and new members.",
+   "summary": "Prefecture-level election figures accompany the memorandum.",
+   "keywords": [
+    "local elections",
+    "prefectural statistics",
+    "land commissions"
+   ]
+  },
+  {
+   "title": "Classification of Commissioners by Political Inclination",
+   "doc_type": "statistical table",
+   "start_page": 161,
+   "end_page": 162,
+   "continues_previous": false,
+   "date": "",
+   "from": "Natural Resources Section, GHQ SCAP",
+   "to": "",
+   "about": "The table classifies elected local commissioners by political affiliation.",
+   "summary": "Independents account for 91,188 of 110,723 commissioners; Communist candidates account for 953.",
+   "keywords": [
+    "political affiliation",
+    "independents",
+    "land commissions"
+   ]
+  },
+  {
+   "title": "Election of Prefectural Land Commission",
+   "doc_type": "statistical table enclosure",
+   "start_page": 163,
+   "end_page": 164,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The table records candidates and elected prefectural commissioners by party.",
+   "summary": "Prefectural returns list party categories and commissioner totals.",
+   "keywords": [
+    "prefectural elections",
+    "land commissions",
+    "political parties"
+   ]
+  },
+  {
+   "title": "Memorandum on Tokyo despatch 620",
+   "doc_type": "department memorandum",
+   "start_page": 165,
+   "end_page": 165,
+   "continues_previous": false,
+   "date": "1949-09-28",
+   "from": "M. Green",
+   "to": "Miles W. Bond",
+   "about": "Green summarizes Fuse Katsuji’s article on a possible Bolshevik revolution in Japan.",
+   "summary": "Green highlights Fuse’s parallels with Russia in 1917 and his concern about repatriates and Soviet propaganda.",
+   "keywords": [
+    "Fuse Katsuji",
+    "Bolshevism",
+    "repatriates"
+   ]
+  },
+  {
+   "title": "Foreign Office Popular Lecture Program",
+   "doc_type": "despatch",
+   "start_page": 166,
+   "end_page": 166,
+   "continues_previous": false,
+   "date": "1949-10-04",
+   "from": "Acting United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The despatch forwards observations on Japanese Foreign Ministry lectures about international affairs.",
+   "summary": "It reports 312 lectures and notes audience concerns about Soviet propaganda, occupation costs, United States aid, and trade.",
+   "keywords": [
+    "public lectures",
+    "Foreign Ministry",
+    "Soviet propaganda"
+   ]
+  },
+  {
+   "title": "Lecture-Meeting for Public Enlightenment on International Situation",
+   "doc_type": "report enclosure with annexes",
+   "start_page": 167,
+   "end_page": 178,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japanese Ministry of Foreign Affairs",
+   "to": "",
+   "about": "The report describes the lecture program and records its schedules and audience questions.",
+   "summary": "The Foreign Ministry describes its effort to improve public understanding of international affairs and counter Communist claims. Annexes list lectures from 1946 through September 1949 by place, date, and subject. Audience questions cover Japan’s politics and economy, Korea and China, repatriation, American labor, and Soviet life and government.",
+   "keywords": [
+    "public education",
+    "lecture schedules",
+    "Soviet Union",
+    "audience questions",
+    "propaganda"
+   ]
+  },
+  {
+   "title": "Foreign Office Primacy over Missions Performed Abroad",
+   "doc_type": "despatch",
+   "start_page": 179,
+   "end_page": 179,
+   "continues_previous": false,
+   "date": "1949-10-08",
+   "from": "W. J. Sebald, Tokyo",
+   "to": "Secretary of State",
+   "about": "Sebald forwards a Cabinet decision requiring Foreign Ministry agreement before officials travel abroad on duty.",
+   "summary": "Sebald describes the decision as a step toward unified supervision of Japanese foreign relations.",
+   "keywords": [
+    "Foreign Ministry",
+    "official travel",
+    "Cabinet decision"
+   ]
+  },
+  {
+   "title": "Letter transmitting Cabinet decision",
+   "doc_type": "letter enclosure",
+   "start_page": 180,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1949-10-06",
+   "from": "Katsumi Ohno",
+   "to": "Cabot Coville",
+   "about": "Ohno sends the October 4 Cabinet decision to Coville.",
+   "summary": "Ohno provides the decision on dispatching officials abroad.",
+   "keywords": [
+    "Cabinet decision",
+    "official travel"
+   ]
+  },
+  {
+   "title": "Dispatch of Personnel Abroad for International Conferences and Other Official Duties",
+   "doc_type": "Cabinet decision enclosure",
+   "start_page": 181,
+   "end_page": 181,
+   "continues_previous": false,
+   "date": "1949-10-04",
+   "from": "Japanese Cabinet",
+   "to": "Government ministers",
+   "about": "The decision requires ministers to agree with the foreign minister before dispatching officials abroad.",
+   "summary": "It cites efficient spending and unified action in foreign affairs.",
+   "keywords": [
+    "official travel",
+    "international conferences",
+    "foreign relations"
+   ]
+  },
+  {
+   "title": "Asahi Shimbun survey of support for the Yoshida Cabinet",
+   "doc_type": "airgram",
+   "start_page": 182,
+   "end_page": 183,
+   "continues_previous": false,
+   "date": "1949-10-10",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The airgram reports an Asahi Shimbun poll of Cabinet and party support.",
+   "summary": "The survey reports 43.1 percent support for the Yoshida Cabinet and 37.4 percent intending to vote for the Democratic Liberal Party.",
+   "keywords": [
+    "public opinion",
+    "Yoshida Cabinet",
+    "Asahi Shimbun",
+    "elections"
+   ]
+  },
+  {
+   "title": "Record-copy replacement notice",
+   "doc_type": "filing form",
+   "start_page": 184,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State records office",
+   "to": "",
+   "about": "A copy of Tokyo despatch 731 is designated to replace an unreturned action copy.",
+   "summary": "The form instructs staff to return the replacement record copy for filing.",
+   "keywords": [
+    "record copy",
+    "filing",
+    "Tokyo despatch 731"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 8,
+  "pages": [
+   129,
+   184
+  ],
+  "pdf": "894.00 Japan, Political Affairs., June 23, 1949 - December 29, 1949 1833-part-1.pdf",
+  "seconds": 78.1,
+  "created": "2026-10-08 01:50:30",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-30-part-1"
+ }
+}

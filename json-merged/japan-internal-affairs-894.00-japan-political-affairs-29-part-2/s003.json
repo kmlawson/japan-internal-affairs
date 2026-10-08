@@ -1,0 +1,786 @@
+{
+ "section_summary": "A report analyzes Japan’s January 23, 1949 House of Representatives election, including party gains, campaign rules, Occupation surveillance, turnout, and election violations. It also describes the first popular review of Supreme Court judges under the new Constitution, with a sample ballot and results. The section ends with a largely illegible incoming telegram and the opening page of a despatch on factions within the Democratic Liberal Party.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japon",
+    "Japen",
+    "Jap-n",
+    "Jrpan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokvo",
+    "TOXYO",
+    "Toyo"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "OSAKA",
+    "OBAKA"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KOBE"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "NAGOYA"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "KYOTO",
+    "KTOTO",
+    "KYOO"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "Shimane",
+    "SHIMANE",
+    "SHIMAKE"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka",
+    "SHIZUOKA",
+    "SHIZOOKA"
+   ]
+  },
+  {
+   "name": "Kuranimura",
+   "variants": [
+    "Kuranimura"
+   ]
+  },
+  {
+   "name": "Iwatsunachi",
+   "variants": [
+    "Iwatsunachi"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi",
+    "AICHI"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "HOKKAIDO"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "SAPPORO"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "AOMORI"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "AKITA"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "IWATE",
+    "TWATE"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "YAMAGATA",
+    "IANAGATA"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "MIYAGI",
+    "MTYAGI"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "NIIGATA",
+    "MIIGATA"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "FUKUSHIMA"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "TOYAMA",
+    "TOTANA"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "TOTTORI"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "ISHIKAWA"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "NAGASAKI",
+    "MAGASAKI",
+    "NAGABAKI"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "SAGA"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "KUMAMOTO",
+    "EUBAMOTO"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "OITA",
+    "OTA",
+    "OnTA"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "YAMAGUCHI",
+    "YANAGOCHI"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "EHIME"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "HIROSHIMA"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "KOCHI"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "KAGAWAI",
+    "KAGARA"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "OKAYAMA",
+    "OKATAMA"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "TOKUSHIMA",
+    "TOXUSHIMA"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "HYOGO"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "NARA",
+    "HARA",
+    "MAA"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "SHIGA"
+   ]
+  },
+  {
+   "name": "Mie",
+   "variants": [
+    "MIE",
+    "MITE"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "FUKUI"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "GIFU"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "NÁGANO",
+    "MAGANO",
+    "MAGO"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "YAMANASHI"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "KANAGAWA"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "SAITAMA",
+    "SATTAMA",
+    "SAAMA"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "GUMMÁ"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "TOCHIGI",
+    "SOCHIGI"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "IBARAKI",
+    "IBARAGI"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "CHIBA"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "WAKAMMA",
+    "WAKAYANA"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "MIYAZAKI",
+    "MTYAZAXI",
+    "MTYAZARI"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "KAOOSHINA"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Nashington"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister and Democratic Liberal Party leader",
+   "variants": [
+    "Shigeru Yoshida",
+    "Yoshida",
+    "3hig ru Yoshid?"
+   ]
+  },
+  {
+   "name": "Hitoshi Ashida",
+   "role": "Former prime minister",
+   "variants": [
+    "Hitoshi Ashida"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese Nationalist leader",
+   "variants": [
+    "Chiang Kai hek"
+   ]
+  },
+  {
+   "name": "Kurusu",
+   "role": "Former Economic Stabilization Board director general",
+   "variants": [
+    "Kurusu"
+   ]
+  },
+  {
+   "name": "Suehiro Nishio",
+   "role": "Former chief cabinet secretary and state minister; Social Democrat",
+   "variants": [
+    "Nishio",
+    "Suehiro Nishio"
+   ]
+  },
+  {
+   "name": "Tetsu Katayama",
+   "role": "Former prime minister; Social Democrat",
+   "variants": [
+    "Katayama",
+    "Tetsu Katayama"
+   ]
+  },
+  {
+   "name": "Kazuo Nomizo",
+   "role": "Former agriculture and forestry minister; Social Democrat",
+   "variants": [
+    "Nomizu",
+    "Kazuo Nomizo"
+   ]
+  },
+  {
+   "name": "Kanju Kato",
+   "role": "Former labor minister; Social Democrat",
+   "variants": [
+    "Kanju Kato"
+   ]
+  },
+  {
+   "name": "Chizue Kato",
+   "role": "Feminist leader; Social Democrat",
+   "variants": [
+    "Chizue Kato"
+   ]
+  },
+  {
+   "name": "Gizo Tomabechi",
+   "role": "Acting president of the Democratic Party",
+   "variants": [
+    "Gizo Tomabechi"
+   ]
+  },
+  {
+   "name": "Komakichi Matsuoka",
+   "role": "Speaker of the House of Representatives",
+   "variants": [
+    "Komakichi Matsuoka"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Courtney Whitney",
+   "role": "Chief of Government Section, General Headquarters, SCAP",
+   "variants": [
+    "Courtney hitney",
+    "General \"hitney"
+   ]
+  },
+  {
+   "name": "Shunkichi Unno",
+   "role": "Head of the National Election Management Commission",
+   "variants": [
+    "Shunkichi Unno"
+   ]
+  },
+  {
+   "name": "Tosoyo Oda",
+   "role": "Tokyo independent aspirant barred from candidacy",
+   "variants": [
+    "Tosoyo Oda"
+   ]
+  },
+  {
+   "name": "Kon Inukai",
+   "role": "Reinstated former purgee elected to the House",
+   "variants": [
+    "Kon Inukai"
+   ]
+  },
+  {
+   "name": "Ryuta Komine",
+   "role": "Reinstated former purgee elected to the House",
+   "variants": [
+    "Ryuta Komine"
+   ]
+  },
+  {
+   "name": "Shigeru Hori",
+   "role": "Reinstated former purgee elected to the House",
+   "variants": [
+    "Shigeru Hori"
+   ]
+  },
+  {
+   "name": "Wataru Narahashi",
+   "role": "Former chief cabinet secretary; defeated Democratic candidate and reinstated former purgee",
+   "variants": [
+    "Watara Narahashi",
+    "Mataru Narahashi"
+   ]
+  },
+  {
+   "name": "Tada Tanabe",
+   "role": "Defeated reinstated former purgee",
+   "variants": [
+    "Tada Tanabe"
+   ]
+  },
+  {
+   "name": "Sadayoshi Hitotsutsu",
+   "role": "Former welfare minister; defeated Democratic candidate",
+   "variants": [
+    "Sadayoshi Hitotsutsu"
+   ]
+  },
+  {
+   "name": "Tetsuo Kudo",
+   "role": "Former state minister; defeated Democratic Liberal candidate",
+   "variants": [
+    "Tetsuo Kudo"
+   ]
+  },
+  {
+   "name": "Kazuo Nagae",
+   "role": "Former agriculture and forestry minister; defeated Social Democratic candidate",
+   "variants": [
+    "Kazuo Nagae"
+   ]
+  },
+  {
+   "name": "Giichi Takeda",
+   "role": "Former welfare minister; defeated Democratic candidate",
+   "variants": [
+    "Giichi Takeda"
+   ]
+  },
+  {
+   "name": "Eiji Tomiyoshi",
+   "role": "Former communications minister; defeated Democratic candidate",
+   "variants": [
+    "ziji Tomiyoshi"
+   ]
+  },
+  {
+   "name": "Haruye Yamashita",
+   "role": "Defeated Democratic candidate associated with the Izumiyama incident",
+   "variants": [
+    "Haruye Yamashita"
+   ]
+  },
+  {
+   "name": "Seiichi Shimoyama",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Sciichi Shimoyama"
+   ]
+  },
+  {
+   "name": "Katsushige Otani",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Katsushige Otani"
+   ]
+  },
+  {
+   "name": "Yusuke Saito",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Yusuke Saito"
+   ]
+  },
+  {
+   "name": "Saburo Iwamatsu",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Saburo Iwamatsu"
+   ]
+  },
+  {
+   "name": "Naoyoshi Tsukasaki",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Naoyoshi Tsukasaki"
+   ]
+  },
+  {
+   "name": "Shigeru Kuriyama",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Shigeru Kuriyama"
+   ]
+  },
+  {
+   "name": "Taichiro Hasegawa",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Taichiro Hasegawa"
+   ]
+  },
+  {
+   "name": "Noboru Inoue",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Noboru Inoue"
+   ]
+  },
+  {
+   "name": "Tadahiko Mibuchi",
+   "role": "President of the Supreme Court; reviewed in the referendum",
+   "variants": [
+    "Tadahiko Mibuchi (President)"
+   ]
+  },
+  {
+   "name": "Matasuke Kawamura",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Matasuke Kawamura"
+   ]
+  },
+  {
+   "name": "Tsuyoshi Mano",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Tsuyoshi Mano"
+   ]
+  },
+  {
+   "name": "Tamotsu Shima",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Tamot su Si:ima"
+   ]
+  },
+  {
+   "name": "Hachiro Fujita",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Hachiro Fujita"
+   ]
+  },
+  {
+   "name": "Takejiro Sawada",
+   "role": "Supreme Court judge reviewed in the referendum",
+   "variants": [
+    "Takejiro Sawada"
+   ]
+  },
+  {
+   "name": "Tanaka Shogetsu",
+   "role": "Social Democratic candidate disqualified after the election",
+   "variants": [
+    "Talaka Shogetsu",
+    "Tašaka"
+   ]
+  },
+  {
+   "name": "Nakajima Shigeki",
+   "role": "Democratic runner-up who replaced the disqualified candidate",
+   "variants": [
+    "MakaIMa Shigeki"
+   ]
+  },
+  {
+   "name": "Mr. Muroki",
+   "role": "Author cited on factions within the Democratic Liberal Party; given name unclear in OCR",
+   "variants": [
+    "Mr. Muroki",
+    "Ir.  roki"
+   ]
+  }
+ ],
+ "keywords": [
+  "1949 Japanese general election",
+  "House of Representatives",
+  "Democratic Liberal Party",
+  "political parties",
+  "election law",
+  "campaign finance",
+  "Occupation surveillance",
+  "voter turnout",
+  "election violations",
+  "Supreme Court referendum",
+  "judicial retention",
+  "party factions"
+ ],
+ "subfiles": [
+  {
+   "title": "General Election of Members of the House of Representatives, January 23, 1949, and Referendum on the Judges of the Supreme Court",
+   "doc_type": "report with statistical tables, sample ballot, and electoral map",
+   "start_page": 109,
+   "end_page": 141,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Reports on the 1949 Japanese general election and the first popular review of Supreme Court judges.",
+   "summary": "The Democratic Liberal Party won an absolute majority of 264 of 466 House seats, while the Communists gained and most other parties lost seats. The report examines the dissolution of the preceding Diet, party platforms, campaign regulation and publicity, Occupation surveillance, turnout, representation, and election law violations, with comparative statistics and an electoral map. It explains the constitutional and statutory procedures for reviewing Supreme Court judges and records overwhelming votes to retain all fourteen judges.",
+   "keywords": [
+    "January 1949 election",
+    "House of Representatives",
+    "Democratic Liberal Party",
+    "campaign rules",
+    "Occupation surveillance",
+    "election statistics",
+    "Supreme Court judges",
+    "referendum"
+   ]
+  },
+  {
+   "title": "Incoming telegram, February 25, 1949",
+   "doc_type": "incoming telegram",
+   "start_page": 142,
+   "end_page": 142,
+   "continues_previous": false,
+   "date": "1949-02-25",
+   "from": "",
+   "to": "Department of State",
+   "about": "A largely illegible incoming telegram filed under decimal number 894.00/2-2549.",
+   "summary": "The surviving OCR reveals the telegram form, date, and filing number but no reliable message text.",
+   "keywords": [
+    "incoming telegram",
+    "Department of State",
+    "894.00/2-2549"
+   ]
+  },
+  {
+   "title": "Factions Within Democratic Liberal Party",
+   "doc_type": "despatch",
+   "start_page": 143,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "1949-03-01",
+   "from": "United States mission, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits Japanese press commentary on emerging factions in the Democratic Liberal Party.",
+   "summary": "The opening page forwards an article and editorial from the Nippon Times and notes growing differences among party leaders after the January election.",
+   "keywords": [
+    "Democratic Liberal Party",
+    "factions",
+    "Nippon Times",
+    "Japanese politics",
+    "despatch"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 10,
+  "pages": [
+   109,
+   143
+  ],
+  "pdf": "894.00 Japan, Political Affairs., July 10, 1948 - June 30, 1949 1737-part-2.pdf",
+  "seconds": 44.1,
+  "created": "2026-10-08 01:54:03",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-29-part-2"
+ }
+}

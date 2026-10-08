@@ -1,0 +1,1397 @@
+{
+ "section_summary": "This section records debate over labor rights and union organization in occupied Japan, including Roger Baldwin’s proposals, State Department correspondence, Soviet criticism, and U.S. rebuttals. It also contains ILO Convention No. 87, a detailed SCAP assessment of Japanese labor conditions in 1949, and a conversation with two Japanese parliamentarians about labor and land reform. The SCAP reports emphasize unemployment, falling real wages, union politics, and the risks of government, employer, or Communist control of unions.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Fupen"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo-Yokohama area",
+    "Tokyo-Yokohama District"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Tokyo-Yokohama area",
+    "Tokyo-Yokohama District"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York 10, New York",
+    "New York 1, New York",
+    "New York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "W shington,D.c.",
+    "Washington",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Cleveland",
+   "variants": [
+    "Cleval and"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Noscow",
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "SECUL",
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Pyongyang",
+   "variants": [
+    "FINGYANG",
+    "Pingyang"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "Southern Koren",
+    "southern Kerea"
+   ]
+  },
+  {
+   "name": "Kemukdan",
+   "variants": [
+    "Kemukdan"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "SAN FRANCISCO",
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "Calif."
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "Philadelphia"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES OF AMERICA",
+    "United States of America",
+    "United States",
+    "Us",
+    "U.S."
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "variants": [
+    "Puerto Rico"
+   ]
+  },
+  {
+   "name": "Virgin Islands",
+   "variants": [
+    "Virgin Islands"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "American Samoa",
+   "variants": [
+    "American Samoa"
+   ]
+  },
+  {
+   "name": "Trust Territory of the Pacific Islands",
+   "variants": [
+    "Territory of the Pacific Islands",
+    "Trust Territories of the Pacific Islands"
+   ]
+  },
+  {
+   "name": "Canton Island",
+   "variants": [
+    "Canton",
+    "Canton Island",
+    "Canton and Enderbury Islands"
+   ]
+  },
+  {
+   "name": "Enderbury Island",
+   "variants": [
+    "Enderbury Islands",
+    "Canton and Enderbury Islands"
+   ]
+  },
+  {
+   "name": "South Pacific Ocean",
+   "variants": [
+    "South Pacific Ocean"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "G. Bromley Smith",
+   "role": "Deputy Under Secretary’s office",
+   "variants": [
+    "G:Brpmley Smith"
+   ]
+  },
+  {
+   "name": "John M. Allison",
+   "role": "Director, Office of Northeast Asian Affairs",
+   "variants": [
+    "Mr. AlLigon",
+    "Ir. Allison",
+    "Mr. Al118on",
+    "Mr. Allison",
+    "John M. Allison"
+   ]
+  },
+  {
+   "name": "Dean Rusk",
+   "role": "Deputy Under Secretary of State",
+   "variants": [
+    "Mf. Rusk's",
+    "Mr. Rusk",
+    "MR. RUSK",
+    "Hon. Dean Rusk",
+    "Dean Rusk"
+   ]
+  },
+  {
+   "name": "Roger N. Baldwin",
+   "role": "Director, American Civil Liberties Union",
+   "variants": [
+    "ROGER N. BALDWIN",
+    "Mr. Baldwin",
+    "Mr. Roger N. Baldwin"
+   ]
+  },
+  {
+   "name": "Thurman Arnold",
+   "role": "",
+   "variants": [
+    "THURMAN ARNOÍD"
+   ]
+  },
+  {
+   "name": "Francis Biddle",
+   "role": "",
+   "variants": [
+    "Francis Biddle"
+   ]
+  },
+  {
+   "name": "Edwin M. Borchard",
+   "role": "Professor",
+   "variants": [
+    "PROF. EDWIN M. BORCHARD"
+   ]
+  },
+  {
+   "name": "Henry Seidel Canby",
+   "role": "Doctor",
+   "variants": [
+    "Dr. HENRY SEIdEL CANBY"
+   ]
+  },
+  {
+   "name": "Van Wyck Brooks",
+   "role": "",
+   "variants": [
+    "VAN WYCK BROOkS"
+   ]
+  },
+  {
+   "name": "Allan Knight Chalmers",
+   "role": "Reverend",
+   "variants": [
+    "REV. ALLAn KNIgHT CHALMERS"
+   ]
+  },
+  {
+   "name": "William Henry Chamberlin",
+   "role": "",
+   "variants": [
+    "WILLIAM HINRY CHAMBERLIN"
+   ]
+  },
+  {
+   "name": "John M. Coffee",
+   "role": "",
+   "variants": [
+    "JOHN M. COFFEE"
+   ]
+  },
+  {
+   "name": "Morris L. Cooke",
+   "role": "",
+   "variants": [
+    "MoRRiS L. Cook"
+   ]
+  },
+  {
+   "name": "George S. Counts",
+   "role": "Doctor",
+   "variants": [
+    "Da. George C. Counts"
+   ]
+  },
+  {
+   "name": "Elmer Davis",
+   "role": "",
+   "variants": [
+    "ELMER DavIS"
+   ]
+  },
+  {
+   "name": "John Dos Passos",
+   "role": "",
+   "variants": [
+    "John Dos Passos"
+   ]
+  },
+  {
+   "name": "Melvyn Douglas",
+   "role": "",
+   "variants": [
+    "MELVYN DOUGLAS"
+   ]
+  },
+  {
+   "name": "Edward A. Ross",
+   "role": "Professor",
+   "variants": [
+    "PROF. EDWARD A. Ross"
+   ]
+  },
+  {
+   "name": "Pearl S. Buck",
+   "role": "",
+   "variants": [
+    "PEARL S. Buck"
+   ]
+  },
+  {
+   "name": "B. W. Huebsch",
+   "role": "",
+   "variants": [
+    "B. W. HuBscH",
+    "B. W. HUEBSCH"
+   ]
+  },
+  {
+   "name": "Arthur Garfield Hays",
+   "role": "",
+   "variants": [
+    "ARtHUR GaRpielD HaYS",
+    "ARTHUR GARPIBID HAYS"
+   ]
+  },
+  {
+   "name": "Sherwood Eddy",
+   "role": "",
+   "variants": [
+    "SHERWOOD EDDY"
+   ]
+  },
+  {
+   "name": "Thomas H. Eliot",
+   "role": "",
+   "variants": [
+    "THOMAS H. ELIOT"
+   ]
+  },
+  {
+   "name": "Dorothy Canfield Fisher",
+   "role": "",
+   "variants": [
+    "DOROTHY CANFIELD FISHER"
+   ]
+  },
+  {
+   "name": "John Haynes Holmes",
+   "role": "Reverend",
+   "variants": [
+    "Rev. JOHn HAYnes HolMES",
+    "REV. JOHN HAYNES HOI.MES"
+   ]
+  },
+  {
+   "name": "Lloyd K. Garrison",
+   "role": "",
+   "variants": [
+    "LLOYD K. GARRISON"
+   ]
+  },
+  {
+   "name": "Frank P. Graham",
+   "role": "",
+   "variants": [
+    "Frank P. Graham"
+   ]
+  },
+  {
+   "name": "Edward L. Parsons",
+   "role": "Right Reverend",
+   "variants": [
+    "RT. Rev. Edward L. Parsons"
+   ]
+  },
+  {
+   "name": "Milton Bentz",
+   "role": "",
+   "variants": [
+    "MILTON BENTZ"
+   ]
+  },
+  {
+   "name": "Morris L. Ernst",
+   "role": "",
+   "variants": [
+    "MorRis L. Eanst",
+    "MORRIS L. ERNST"
+   ]
+  },
+  {
+   "name": "Herbert M. Levy",
+   "role": "",
+   "variants": [
+    "Herbent M. Levy"
+   ]
+  },
+  {
+   "name": "Walter T. Fisher",
+   "role": "",
+   "variants": [
+    "WAlteR T. Pisher"
+   ]
+  },
+  {
+   "name": "Harry Emerson Fosdick",
+   "role": "Reverend",
+   "variants": [
+    "REV. HarrY EMerson PosdiCK"
+   ]
+  },
+  {
+   "name": "Christian Gauss",
+   "role": "Dean",
+   "variants": [
+    "Dean CHristian Gauss"
+   ]
+  },
+  {
+   "name": "Charles W. Gilkey",
+   "role": "Dean",
+   "variants": [
+    "DEAN CHARLES W. GILKEY"
+   ]
+  },
+  {
+   "name": "Earl G. Harrison",
+   "role": "",
+   "variants": [
+    "Earl G. Harrison"
+   ]
+  },
+  {
+   "name": "Marvin C. Harrison",
+   "role": "",
+   "variants": [
+    "MARVIN C. HARRISON"
+   ]
+  },
+  {
+   "name": "Robert M. Hutchins",
+   "role": "",
+   "variants": [
+    "ROBERT M. HUTCHINS"
+   ]
+  },
+  {
+   "name": "Mordecai W. Johnson",
+   "role": "Doctor",
+   "variants": [
+    "Dr. MORdECAI W. JOHnSON"
+   ]
+  },
+  {
+   "name": "Saburo Kido",
+   "role": "",
+   "variants": [
+    "SABURO KIDO"
+   ]
+  },
+  {
+   "name": "Benjamin H. Kizer",
+   "role": "",
+   "variants": [
+    "BENJAMIN H. KIZER"
+   ]
+  },
+  {
+   "name": "John A. Lapp",
+   "role": "Doctor",
+   "variants": [
+    "Dr. JOHN A. LAPP"
+   ]
+  },
+  {
+   "name": "Harold D. Lasswell",
+   "role": "Professor",
+   "variants": [
+    "PROP. HAROLD D. LAssWELL"
+   ]
+  },
+  {
+   "name": "Agnes Brown Leach",
+   "role": "",
+   "variants": [
+    "AGNES BRoWN LeACH"
+   ]
+  },
+  {
+   "name": "Max Lerner",
+   "role": "",
+   "variants": [
+    "MAX LERNER"
+   ]
+  },
+  {
+   "name": "Robert Morss Lovett",
+   "role": "",
+   "variants": [
+    "Robert Morss Lovett"
+   ]
+  },
+  {
+   "name": "Robert S. Lynd",
+   "role": "Professor",
+   "variants": [
+    "PROP. ROBERT S. LYND"
+   ]
+  },
+  {
+   "name": "Archibald MacLeish",
+   "role": "",
+   "variants": [
+    "ARCHIBALD MACILBISH"
+   ]
+  },
+  {
+   "name": "John P. Marquand",
+   "role": "",
+   "variants": [
+    "JOHN P. MARQUAND"
+   ]
+  },
+  {
+   "name": "Kirtley P. Mather",
+   "role": "Professor",
+   "variants": [
+    "PROP. KIRTLEY P. MATHER"
+   ]
+  },
+  {
+   "name": "Bill Mauldin",
+   "role": "",
+   "variants": [
+    "BILL MAULDIN"
+   ]
+  },
+  {
+   "name": "Francis J. McConnell",
+   "role": "Bishop",
+   "variants": [
+    "BIsHOP FranCis J. McCONNELL"
+   ]
+  },
+  {
+   "name": "Alexander Meiklejohn",
+   "role": "Doctor",
+   "variants": [
+    "DR. AI.EXANDER MEIKLEJOHN"
+   ]
+  },
+  {
+   "name": "Charles Clayton Morrison",
+   "role": "",
+   "variants": [
+    "CHARLBS CLAYTON MORRISON"
+   ]
+  },
+  {
+   "name": "A. J. Muste",
+   "role": "",
+   "variants": [
+    "A. J. MUSTE"
+   ]
+  },
+  {
+   "name": "James G. Patton",
+   "role": "",
+   "variants": [
+    "JAMES G. Pation"
+   ]
+  },
+  {
+   "name": "G. Bromley Oxnam",
+   "role": "Bishop",
+   "variants": [
+    "BISHOP G. BROMLEY OXNAM"
+   ]
+  },
+  {
+   "name": "Jennings Perry",
+   "role": "",
+   "variants": [
+    "JENNINGS PeRRY"
+   ]
+  },
+  {
+   "name": "Max Radin",
+   "role": "Professor",
+   "variants": [
+    "PROP. Max RadiN"
+   ]
+  },
+  {
+   "name": "A. Philip Randolph",
+   "role": "",
+   "variants": [
+    "A. PHILIP RANDOLPH"
+   ]
+  },
+  {
+   "name": "Will Rogers Jr.",
+   "role": "",
+   "variants": [
+    "WILL. RoGeRs, Jr."
+   ]
+  },
+  {
+   "name": "Elmo Roper",
+   "role": "",
+   "variants": [
+    "ELMO RopER"
+   ]
+  },
+  {
+   "name": "John Nevin Sayre",
+   "role": "",
+   "variants": [
+    "JOhn NEVIN SAYRE"
+   ]
+  },
+  {
+   "name": "William Scarlett",
+   "role": "Right Reverend",
+   "variants": [
+    "RT. RBv. WILLiAM SCARLETI"
+   ]
+  },
+  {
+   "name": "Arthur M. Schlesinger Jr.",
+   "role": "",
+   "variants": [
+    "ARTHUR M. SCHLESINGER, JR."
+   ]
+  },
+  {
+   "name": "Joseph Schlossberg",
+   "role": "",
+   "variants": [
+    "JOSEPH SCHLOSSBERG"
+   ]
+  },
+  {
+   "name": "Odell Shepard",
+   "role": "",
+   "variants": [
+    "ODBLL SHEPARD"
+   ]
+  },
+  {
+   "name": "Robert E. Sherwood",
+   "role": "",
+   "variants": [
+    "ROBERT E. SHERWOOD"
+   ]
+  },
+  {
+   "name": "Abba Hillel Silver",
+   "role": "Rabbi",
+   "variants": [
+    "RAbBi ABBa Hillel Silver"
+   ]
+  },
+  {
+   "name": "Lillian E. Smith",
+   "role": "",
+   "variants": [
+    "LILLIAN E. SMITH"
+   ]
+  },
+  {
+   "name": "Raymond Swing",
+   "role": "",
+   "variants": [
+    "RAYMOND SWING"
+   ]
+  },
+  {
+   "name": "Oswald Garrison Villard",
+   "role": "",
+   "variants": [
+    "OSWALD GARRISON VILLARD"
+   ]
+  },
+  {
+   "name": "William L. White",
+   "role": "",
+   "variants": [
+    "WILLIAM L. WHITK"
+   ]
+  },
+  {
+   "name": "L. Hollingsworth Wood",
+   "role": "",
+   "variants": [
+    "L. HOLLINGSWORTH WOOD"
+   ]
+  },
+  {
+   "name": "William Lindsay Young",
+   "role": "Doctor",
+   "variants": [
+    "DR. WIILIAM LINDSAY YOUNG"
+   ]
+  },
+  {
+   "name": "Aubrey Williams",
+   "role": "",
+   "variants": [
+    "AUBREY WILLIAMS"
+   ]
+  },
+  {
+   "name": "Ernest Angell",
+   "role": "Board of Directors member",
+   "variants": [
+    "FRNEST ANGELL"
+   ]
+  },
+  {
+   "name": "Paul P. Brissenden",
+   "role": "Board of Directors member",
+   "variants": [
+    "PAUL. P. BRISSENDEN"
+   ]
+  },
+  {
+   "name": "Dorothy Dunbar Bromley",
+   "role": "Board of Directors member",
+   "variants": [
+    "DOROTHY DUNBAR BROMLEY"
+   ]
+  },
+  {
+   "name": "Harry Carman",
+   "role": "Dean; Board of Directors member",
+   "variants": [
+    "DEAN HARRY CARMAN"
+   ]
+  },
+  {
+   "name": "Richard S. Childs",
+   "role": "Board of Directors member",
+   "variants": [
+    "RICHARD S. CHILDS"
+   ]
+  },
+  {
+   "name": "Norman Cousins",
+   "role": "Board of Directors member",
+   "variants": [
+    "Norman COusins"
+   ]
+  },
+  {
+   "name": "Edward J. Ennis",
+   "role": "Board of Directors member",
+   "variants": [
+    "EDWARD J. ENNIS"
+   ]
+  },
+  {
+   "name": "John P. Finerty",
+   "role": "Board of Directors member",
+   "variants": [
+    "JOHN P. FINERTY"
+   ]
+  },
+  {
+   "name": "James Lawrence Fly",
+   "role": "Board of Directors member",
+   "variants": [
+    "JAMBS LAWRENCE FIY"
+   ]
+  },
+  {
+   "name": "Osmond K. Fraenkel",
+   "role": "Board of Directors member",
+   "variants": [
+    "OSMOND K. FRABNKRL"
+   ]
+  },
+  {
+   "name": "Walter Frank",
+   "role": "Board of Directors member",
+   "variants": [
+    "WALTER FRANK"
+   ]
+  },
+  {
+   "name": "Varian Fry",
+   "role": "Board of Directors member",
+   "variants": [
+    "VARIAN FRY"
+   ]
+  },
+  {
+   "name": "Walter Gellhorn",
+   "role": "Board of Directors member",
+   "variants": [
+    "WALTER GELLHORN"
+   ]
+  },
+  {
+   "name": "Quincy Howe",
+   "role": "Board of Directors member",
+   "variants": [
+    "QUINCY HOWE"
+   ]
+  },
+  {
+   "name": "Dorothy Kenyon",
+   "role": "Board of Directors member",
+   "variants": [
+    "DOROTHY KBNYON"
+   ]
+  },
+  {
+   "name": "Corliss Lamont",
+   "role": "Board of Directors member",
+   "variants": [
+    "CORLISS LAMONT"
+   ]
+  },
+  {
+   "name": "Florina Lasker",
+   "role": "Board of Directors member",
+   "variants": [
+    "FLORINA LASKER"
+   ]
+  },
+  {
+   "name": "Eduard C. Lindeman",
+   "role": "Professor; Board of Directors member",
+   "variants": [
+    "PROP. EDUARD C. LINDEMAN"
+   ]
+  },
+  {
+   "name": "B. F. MacLaurin",
+   "role": "Board of Directors member",
+   "variants": [
+    "B. F. MACLAURIN"
+   ]
+  },
+  {
+   "name": "Herbert Northrup",
+   "role": "Board of Directors member",
+   "variants": [
+    "HERBeRT NorTHRUP"
+   ]
+  },
+  {
+   "name": "Merlyn S. Pitzele",
+   "role": "Board of Directors member",
+   "variants": [
+    "MERIYN S. PITZELE"
+   ]
+  },
+  {
+   "name": "Elmer Rice",
+   "role": "Board of Directors member",
+   "variants": [
+    "ELMER RICE"
+   ]
+  },
+  {
+   "name": "Frederick E. Robin",
+   "role": "Board of Directors member",
+   "variants": [
+    "FREDERICK E. ROBIN"
+   ]
+  },
+  {
+   "name": "Whitney North Seymour",
+   "role": "Board of Directors member",
+   "variants": [
+    "WHITNEY NORTH SEYMOUR"
+   ]
+  },
+  {
+   "name": "Norman Thomas",
+   "role": "Board of Directors member",
+   "variants": [
+    "NORmAN THOMAS"
+   ]
+  },
+  {
+   "name": "C. Dickerman Williams",
+   "role": "Board of Directors member",
+   "variants": [
+    "C. DICKBRMAN WILLIAMS"
+   ]
+  },
+  {
+   "name": "Raymond L. Wise",
+   "role": "Board of Directors member",
+   "variants": [
+    "RAYMOND L. WIsE"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General; Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur's",
+    "MacArthur",
+    "MacArthur's"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Japanese prime minister",
+   "variants": [
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Kh. Eidus",
+   "role": "Author of the Trud article",
+   "variants": [
+    "Kh. Eidus"
+   ]
+  },
+  {
+   "name": "Higan",
+   "role": "Japanese minister without portfolio, as stated in the translation",
+   "variants": [
+    "Higan"
+   ]
+  },
+  {
+   "name": "Polikarp",
+   "role": "Archimandrite and head of the Russian Orthodox Mission in Seoul",
+   "variants": [
+    "PCLIK.RP",
+    "Polikarp",
+    "Iolikarr"
+   ]
+  },
+  {
+   "name": "Weigle",
+   "role": "State Department addressee",
+   "variants": [
+    "Mr. Weigle"
+   ]
+  },
+  {
+   "name": "Sullivan",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Sullivan",
+    "PBSullivan"
+   ]
+  },
+  {
+   "name": "Butterworth",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Futterworth"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "President of the United States",
+   "variants": [
+    "HARRY S. TRUMAN"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Secretary of State",
+   "variants": [
+    "Dean Acheson"
+   ]
+  },
+  {
+   "name": "Justin Godart",
+   "role": "President of the International Labor Conference",
+   "variants": [
+    "JUStin GodaRT"
+   ]
+  },
+  {
+   "name": "Edward Phelan",
+   "role": "Director-General of the International Labor Office",
+   "variants": [
+    "EDwaRd PHeLAN"
+   ]
+  },
+  {
+   "name": "Maurice J. Tobin",
+   "role": "Secretary of Labor",
+   "variants": [
+    "MAURICE J. TOBIN"
+   ]
+  },
+  {
+   "name": "Tracy S. Voorhees",
+   "role": "Under Secretary of the Army",
+   "variants": [
+    "Tracy S. VooRils",
+    "Voorheea'"
+   ]
+  },
+  {
+   "name": "Brad Coolidge",
+   "role": "U.S. Political Adviser’s office in Tokyo",
+   "variants": [
+    "BCoolidge",
+    "Brad Coolidge",
+    "Coolidge"
+   ]
+  },
+  {
+   "name": "M. Green",
+   "role": "State Department official",
+   "variants": [
+    "MGreen",
+    "Mr. drenAM",
+    "Mr. Green"
+   ]
+  },
+  {
+   "name": "Takeo Muto",
+   "role": "President, Coal Miners Union",
+   "variants": [
+    "Takeo Muto"
+   ]
+  },
+  {
+   "name": "Etsuo Kato",
+   "role": "President, Railway Workers Union",
+   "variants": [
+    "Etsuo Kato"
+   ]
+  },
+  {
+   "name": "Totaro Fujita",
+   "role": "President, Private Railway Workers Union",
+   "variants": [
+    "Totaro Fujita"
+   ]
+  },
+  {
+   "name": "Yukitaka Haraguchi",
+   "role": "President, Metal Miners Union",
+   "variants": [
+    "Yukitaka Haraguohi"
+   ]
+  },
+  {
+   "name": "Shohzaburo Araki",
+   "role": "President, Teachers’ Union",
+   "variants": [
+    "Shohzaburo Araki"
+   ]
+  },
+  {
+   "name": "Susumu Fujita",
+   "role": "President, All-Japan Electrical Workers Union",
+   "variants": [
+    "Susumu Fujita"
+   ]
+  },
+  {
+   "name": "Tokutaro Kitamura",
+   "role": "Parliament member for Hiroshima; former finance minister; Democratic Party secretary general",
+   "variants": [
+    "Mr. Tokutaro Kitamura",
+    "Mr. Kitamura"
+   ]
+  },
+  {
+   "name": "Setsuo Yamada",
+   "role": "Parliament member for Nagasaki; chairman of the upper house Labor Committee",
+   "variants": [
+    "Mr. Setsuo Yamada",
+    "Mr. Yamada"
+   ]
+  },
+  {
+   "name": "A. L. Dunning",
+   "role": "State Department drafter",
+   "variants": [
+    "ALDunning"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese labor policy",
+  "trade unions",
+  "public employees",
+  "collective bargaining",
+  "ILO Convention No. 87",
+  "freedom of association",
+  "SCAP",
+  "economic stabilization",
+  "unemployment",
+  "wage stabilization",
+  "anti-Communist unions",
+  "land reform"
+ ],
+ "subfiles": [
+  {
+   "title": "Routing note requesting a reply to Roger Baldwin",
+   "doc_type": "routing note",
+   "start_page": 295,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1949-07-25",
+   "from": "G. Bromley Smith",
+   "to": "Mr. Allison, Far Eastern Affairs",
+   "about": "Requests a reply for Dean Rusk’s signature after Baldwin discussed Japanese labor policy with him.",
+   "summary": "Requests a reply for Rusk’s signature.",
+   "keywords": [
+    "Baldwin",
+    "Rusk",
+    "Japanese labor policy"
+   ]
+  },
+  {
+   "title": "Baldwin’s suggestions for Japanese government workers’ labor rights",
+   "doc_type": "letter",
+   "start_page": 296,
+   "end_page": 297,
+   "continues_previous": false,
+   "date": "1949-07-20",
+   "from": "Roger N. Baldwin",
+   "to": "Dean Rusk",
+   "about": "Proposes revisions to occupation labor policy concerning strikes and collective bargaining by Japanese government workers.",
+   "summary": "Baldwin suggests retaining strike bans in critical public services while permitting collective bargaining for government workers. He argues that practical adjustments could draw workers away from Communist influence.",
+   "keywords": [
+    "public employees",
+    "strike bans",
+    "collective bargaining",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Rusk’s reply to Baldwin",
+   "doc_type": "letter",
+   "start_page": 298,
+   "end_page": 298,
+   "continues_previous": false,
+   "date": "1949-08-05",
+   "from": "Dean Rusk",
+   "to": "Roger N. Baldwin",
+   "about": "Acknowledges Baldwin’s proposals and arranges to forward their substance to General MacArthur’s headquarters.",
+   "summary": "Rusk says the proposals will be sent to MacArthur’s headquarters for consideration.",
+   "keywords": [
+    "public employees",
+    "labor legislation",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Moscow despatch transmitting a Trud article",
+   "doc_type": "despatch",
+   "start_page": 299,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1949-07-26",
+   "from": "U.S. Embassy, Moscow",
+   "to": "Department of State",
+   "about": "Transmits a summary translation of Soviet criticism of occupation labor policy in Japan.",
+   "summary": "The embassy describes the Trud article as a sample of intensifying Soviet propaganda about Japanese workers.",
+   "keywords": [
+    "Trud",
+    "Soviet propaganda",
+    "Japanese workers"
+   ]
+  },
+  {
+   "title": "Trud press digest: Japanese workers and the Russian Orthodox Mission in Seoul",
+   "doc_type": "press translation",
+   "start_page": 300,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1949-07-21",
+   "from": "Trud; Kh. Eidus for the Japan article",
+   "to": "",
+   "about": "Summarizes a Soviet article attacking Japanese occupation labor policy and begins an unrelated report about Archimandrite Polikarp in Korea.",
+   "summary": "The Japan article alleges that stabilization, anti-union laws, and police action repress workers while Communist support grows. Page 301 also begins a separate press item describing Polikarp’s arrest, imprisonment, and expulsion from South Korea.",
+   "keywords": [
+    "Trud",
+    "Soviet propaganda",
+    "Japan",
+    "South Korea",
+    "Polikarp"
+   ]
+  },
+  {
+   "title": "Memorandum on ILO freedom of association conventions",
+   "doc_type": "memorandum",
+   "start_page": 302,
+   "end_page": 302,
+   "continues_previous": false,
+   "date": "",
+   "from": "Mr. Sullivan",
+   "to": "Mr. Weigle",
+   "about": "Discusses potential conflicts between Japanese public service laws and ILO protections for freedom of association.",
+   "summary": "Sullivan identifies possible conflicts and notes the special status of public servants under a related ILO convention.",
+   "keywords": [
+    "ILO",
+    "freedom of association",
+    "public servants",
+    "Japanese labor law"
+   ]
+  },
+  {
+   "title": "Senate Executive S: Convention No. 87 on freedom of association",
+   "doc_type": "printed Senate executive document",
+   "start_page": 303,
+   "end_page": 312,
+   "continues_previous": false,
+   "date": "1949-08-27",
+   "from": "President Harry S. Truman, with reports from Dean Acheson and Maurice J. Tobin",
+   "to": "United States Senate",
+   "about": "Submits ILO Convention No. 87 for Senate advice and consent to ratification.",
+   "summary": "Truman transmits the convention, Acheson’s report, and Tobin’s recommendation. The printed text sets out workers’ and employers’ rights to organize, rules for territorial application, and ratification procedures. The accompanying letters recommend U.S. ratification and state that existing federal law is sufficient.",
+   "keywords": [
+    "ILO Convention No. 87",
+    "freedom of association",
+    "right to organize",
+    "ratification",
+    "territories"
+   ]
+  },
+  {
+   "title": "Tokyo despatch transmitting a labor conditions briefing",
+   "doc_type": "despatch",
+   "start_page": 313,
+   "end_page": 314,
+   "continues_previous": false,
+   "date": "1949-09-19",
+   "from": "Acting U.S. Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "Transmits a SCAP Labor Division briefing prepared for Under Secretary of the Army Tracy S. Voorhees.",
+   "summary": "The despatch highlights a widening anti-Communist union movement, acceptance of economic retrenchment, hidden unemployment, and falling real wages. It warns that economic pressure could strengthen both employer control and Communist appeals.",
+   "keywords": [
+    "SCAP",
+    "labor conditions",
+    "unemployment",
+    "real wages",
+    "anti-Communist unions"
+   ]
+  },
+  {
+   "title": "Summary of current labor situation",
+   "doc_type": "briefing summary",
+   "start_page": 315,
+   "end_page": 316,
+   "continues_previous": false,
+   "date": "1949-08-15",
+   "from": "Labor Division, Economic and Scientific Section, GHQ SCAP",
+   "to": "Under Secretary of the Army Tracy S. Voorhees",
+   "about": "Summarizes Japanese union relations, unemployment, labor inspection, and wages.",
+   "summary": "The briefing reports weakening Communist influence, limited overt unemployment, possible job losses, reduced inspection staff, slower wage growth, and rising unpaid wages.",
+   "keywords": [
+    "labor relations",
+    "unemployment",
+    "labor standards",
+    "wages"
+   ]
+  },
+  {
+   "title": "Report of Labor Division: Current Situation in the Field of Labor",
+   "doc_type": "report",
+   "start_page": 317,
+   "end_page": 324,
+   "continues_previous": false,
+   "date": "1949-08-15",
+   "from": "Labor Division, Economic and Scientific Section, GHQ SCAP",
+   "to": "",
+   "about": "Assesses occupation labor objectives and current Japanese union, employment, wage, and labor administration conditions.",
+   "summary": "The report reviews labor legislation, union education, the struggle between Communist and anti-Communist factions, strikes, collective bargaining, and the danger of government or employer domination. It analyzes unemployment and relief programs, reduced labor inspection staffing, wage stabilization, unpaid wages, accident insurance, and the Women’s and Minor’s Bureau. It concludes that a democratic labor movement has made substantial progress but remains under economic and political pressure.",
+   "keywords": [
+    "SCAP",
+    "trade unions",
+    "collective bargaining",
+    "unemployment",
+    "wages",
+    "labor standards",
+    "accident insurance"
+   ]
+  },
+  {
+   "title": "File memorandum on Tokyo despatch No. 650",
+   "doc_type": "file memorandum",
+   "start_page": 325,
+   "end_page": 325,
+   "continues_previous": false,
+   "date": "1949-10-11",
+   "from": "M. Green",
+   "to": "Mr. Allison",
+   "about": "Calls attention to Coolidge’s summary and concerns about unemployed workers’ vulnerability to outside control.",
+   "summary": "Recommends Coolidge’s summary and flags risks from unemployment.",
+   "keywords": [
+    "Tokyo despatch",
+    "unemployment",
+    "union control"
+   ]
+  },
+  {
+   "title": "Conversation with Kitamura and Yamada on labor and land reforms",
+   "doc_type": "memorandum of conversation",
+   "start_page": 326,
+   "end_page": 327,
+   "continues_previous": false,
+   "date": "1949-10-26",
+   "from": "Office of Northeast Asian Affairs",
+   "to": "Department of State distribution",
+   "about": "Records Japanese parliamentarians’ views on post-treaty labor law, union leadership, and land reform.",
+   "summary": "Yamada expects labor reforms to survive but warns that dismissing union leaders broadly could revive Communist influence. He anticipates a large anti-Communist federation. Kitamura favors farmer cooperatives to address problems facing small landowners.",
+   "keywords": [
+    "labor reform",
+    "land reform",
+    "anti-Communist federation",
+    "farmer cooperatives"
+   ]
+  },
+  {
+   "title": "Authorized reply to Soviet allegations on Japanese labor policy",
+   "doc_type": "memorandum",
+   "start_page": 328,
+   "end_page": 329,
+   "continues_previous": false,
+   "date": "1949-11-16",
+   "from": "John M. Allison",
+   "to": "United States member, Far Eastern Commission",
+   "about": "Provides an authorized response to Soviet claims about dismissals and political restrictions affecting Japanese workers.",
+   "summary": "The proposed reply says government layoffs followed staffing ceilings rather than union activity. It also says a September personnel rule implemented existing law and applied to government workers, not public utility employees.",
+   "keywords": [
+    "Far Eastern Commission",
+    "Soviet allegations",
+    "government layoffs",
+    "political activity"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 6,
+  "pages": [
+   295,
+   329
+  ],
+  "pdf": "894.504 Economic Matters., Japan, Labor., April 26, 1945 - November 16, 1949 1782-part-2.pdf",
+  "seconds": 119.6,
+  "created": "2026-10-08 00:48:03",
+  "key": "japan-internal-affairs-894.504-economic-matters-japan-7-part-2"
+ }
+}

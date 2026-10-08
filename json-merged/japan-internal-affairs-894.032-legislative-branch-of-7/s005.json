@@ -1,0 +1,633 @@
+{
+ "section_summary": "The section concludes a report on Japan’s fifth special Diet session, covering labor and personnel legislation, repatriation, postal agreements, Allied Headquarters’ relationship with the Diet, and Communist Party tactics. Its appendix lists foreign affairs questions, debates, and resolutions. A State Department memorandum assesses the report, followed by a despatch on Prime Minister Yoshida’s November 1949 administrative address and a newspaper text of the address.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Jepan",
+    "Japun",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "America",
+    "American",
+    "U. S.",
+    "U.S.",
+    "U.S.Aid",
+    "United States",
+    "Continental America"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "British",
+    "England"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese",
+    "Chinese Communist Areas"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Amami Islands",
+   "variants": [
+    "Anami Iclande"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinava"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "dawai"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexdee"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "das.ington"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Pacific Ocean region",
+   "variants": [
+    "Pacific",
+    "racifie"
+   ]
+  },
+  {
+   "name": "North Atlantic region",
+   "variants": [
+    "North Atlantic"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army; Supreme Commander for the Allied Powers",
+   "variants": [
+    "Douglas macArthur",
+    "Gen. MacArthur"
+   ]
+  },
+  {
+   "name": "Williams",
+   "role": "Chief of the Parliamentary and Political Division, Government Section, Allied General Headquarters",
+   "variants": [
+    "Dr. Williams"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Yoshida",
+    "Yoshide",
+    "Yoshida",
+    "Shigeru Yoshida",
+    "Mr. Yoshida",
+    "Mr. Voshida",
+    "Mr. Toshida",
+    "Premier Toshida"
+   ]
+  },
+  {
+   "name": "Yokota Jintaro",
+   "role": "Communist Diet member",
+   "variants": [
+    "Yokota",
+    "YOKODA, Jintaro"
+   ]
+  },
+  {
+   "name": "Inejiro Asanuma",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "Mr. Asanuma",
+    "ASANA, Inejiro"
+   ]
+  },
+  {
+   "name": "Sanzo Nozaka",
+   "role": "Communist Diet member",
+   "variants": [
+    "Mr. Nozaka",
+    "NOZAKA, Sanzo",
+    "NoZakA, Sanso",
+    "NOzAKA, Sanze",
+    "Committee Member Nozaka",
+    "NOZAkA, Sanso"
+   ]
+  },
+  {
+   "name": "Yoshiro Kikuchi",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "KIKuchI, Yoshire",
+    "KIKUCHI, Yoshiro",
+    "KIKuChI, Yoshiro"
+   ]
+  },
+  {
+   "name": "Atsuro Adachi",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "ADACHI, Atsuro"
+   ]
+  },
+  {
+   "name": "Chojiro Kuriyama",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "KURIYAMA, Chojiro",
+    "KURIYAMA"
+   ]
+  },
+  {
+   "name": "Torao Wakamatsu",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "WAKAMATSU, Torac",
+    "WAKAMATSU, Torao",
+    "WAKAMATSU"
+   ]
+  },
+  {
+   "name": "Yaichi Kawakami",
+   "role": "Diet member",
+   "variants": [
+    "KAWAKAMI, Yaichi"
+   ]
+  },
+  {
+   "name": "Aisuke Okamoto",
+   "role": "Ryokufu-kai Diet member",
+   "variants": [
+    "OKAMOTo, Aisuke"
+   ]
+  },
+  {
+   "name": "Yoshito Okamoto",
+   "role": "Ryokufu-kai Diet member",
+   "variants": [
+    "OKAMOTo, Yoshito"
+   ]
+  },
+  {
+   "name": "Kondo",
+   "role": "Parliamentary Vice Foreign Minister",
+   "variants": [
+    "Kondo"
+   ]
+  },
+  {
+   "name": "Morio Sasaki",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "SASAkI, Morio",
+    "Sasak, o"
+   ]
+  },
+  {
+   "name": "Kyuichi Tokuda",
+   "role": "Communist Diet member",
+   "variants": [
+    "ToKUDA, Kyuichi"
+   ]
+  },
+  {
+   "name": "Eiichi Nishimura",
+   "role": "Social Democratic Diet member and opponent of the Awa Maru resolution",
+   "variants": [
+    "HISHDMURA, iichi"
+   ]
+  },
+  {
+   "name": "Takeo Konno",
+   "role": "Communist Diet member",
+   "variants": [
+    "KONNO, Takeo"
+   ]
+  },
+  {
+   "name": "Shusuke Damufi",
+   "role": "Democratic Liberal Diet member; surname unclear in OCR",
+   "variants": [
+    "DAMufti, Shusuke"
+   ]
+  },
+  {
+   "name": "Yobun Kaneko",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "KANEKO, Yobun"
+   ]
+  },
+  {
+   "name": "Makoto Hori",
+   "role": "Independent Diet member",
+   "variants": [
+    "HORI, 'agoto"
+   ]
+  },
+  {
+   "name": "Shigeharu Nakano",
+   "role": "Communist Diet member",
+   "variants": [
+    "NAKANO, Shigeharu"
+   ]
+  },
+  {
+   "name": "Kawaguchi",
+   "role": "Diet member; given name unclear in OCR",
+   "variants": [
+    "KAWAGuo,Loich"
+   ]
+  },
+  {
+   "name": "Takashi Hayakawa",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "HAYAKAWA, Takashi"
+   ]
+  },
+  {
+   "name": "Karoku Hosokawa",
+   "role": "Communist Diet member",
+   "variants": [
+    "HOSOKAWA, Karctu",
+    "HOSOKAWA, Karoku"
+   ]
+  },
+  {
+   "name": "Yuji Ito",
+   "role": "Anti-coalition Democratic Diet member",
+   "variants": [
+    "ITO, yuji"
+   ]
+  },
+  {
+   "name": "Yoshio Namiki",
+   "role": "Anti-coalition Democratic Diet member",
+   "variants": [
+    "NAMIkI, Yo",
+    "NAMIkI, Yoshio",
+    "NAMIKI, Yoshio"
+   ]
+  },
+  {
+   "name": "Shuji Kawasaki",
+   "role": "Anti-coalition Democratic Diet member",
+   "variants": [
+    "KAWASAKI, Shuji",
+    "KAWAS"
+   ]
+  },
+  {
+   "name": "Nishimura",
+   "role": "Treaties Bureau director",
+   "variants": [
+    "NISHIMURA",
+    "Nishimura"
+   ]
+  },
+  {
+   "name": "Seiichi Morishita",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "MORISHITA, Seiichi"
+   ]
+  },
+  {
+   "name": "Isao Nakanishi",
+   "role": "Communist Diet member",
+   "variants": [
+    "NAKANISHI, Isao"
+   ]
+  },
+  {
+   "name": "Yoshinobu Yamashita",
+   "role": "Ryokufu-kai Diet member",
+   "variants": [
+    "YAMASHITA, Yoshinobu"
+   ]
+  },
+  {
+   "name": "Genzo Kinoshita",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "KINOnIITA, Genzo"
+   ]
+  },
+  {
+   "name": "Satoko Togano",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "PoGAno, Satoko"
+   ]
+  },
+  {
+   "name": "Komakichi Matsuoka",
+   "role": "Social Democratic Diet member",
+   "variants": [
+    "MATSUOKA; Komakichi"
+   ]
+  },
+  {
+   "name": "Ono",
+   "role": "Foreign Ministry General Affairs Bureau director",
+   "variants": [
+    "ONO",
+    "ONo"
+   ]
+  },
+  {
+   "name": "Kenji Aiuchi",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "AIUCHI, Kenji"
+   ]
+  },
+  {
+   "name": "Wajima",
+   "role": "Foreign Ministry Control Bureau director",
+   "variants": [
+    "WAJIMA"
+   ]
+  },
+  {
+   "name": "Shobu Sato",
+   "role": "Ryokufu-kai Diet member",
+   "variants": [
+    "SATO, Shobu"
+   ]
+  },
+  {
+   "name": "Kohei Nakagawa",
+   "role": "Democratic Liberal Diet member",
+   "variants": [
+    "NAKAGAWA, Kohei"
+   ]
+  },
+  {
+   "name": "Toshio Kimura",
+   "role": "Kosei Club Diet member",
+   "variants": [
+    "KIMURA, Toshio"
+   ]
+  },
+  {
+   "name": "Yoshio Shiga",
+   "role": "Communist Diet member",
+   "variants": [
+    "SHIGA, Yoshio",
+    "SHIG. Yoshio"
+   ]
+  },
+  {
+   "name": "Matsudaira",
+   "role": "Foreign Ministry Research and Document Bureau director",
+   "variants": [
+    "MATSUDAIRA"
+   ]
+  },
+  {
+   "name": "Murakami",
+   "role": "Postal Savings Bureau director",
+   "variants": [
+    "MURAKAMI",
+    "MURAKANI"
+   ]
+  },
+  {
+   "name": "Shigeru Kamiyama",
+   "role": "Communist Diet member",
+   "variants": [
+    "KAMIYAMA, Shigeru"
+   ]
+  },
+  {
+   "name": "Allen",
+   "role": "State Department memorandum recipient",
+   "variants": [
+    "Mr. Allon"
+   ]
+  },
+  {
+   "name": "Green",
+   "role": "State Department memorandum author",
+   "variants": [
+    "Mr. Greeh",
+    "MGreen"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew Sebald",
+   "role": "United States Political Adviser for Japan; despatch signatory",
+   "variants": [
+    "J. Sebuld"
+   ]
+  },
+  {
+   "name": "Spinks",
+   "role": "Despatch preparer",
+   "variants": [
+    "CNSpinks"
+   ]
+  },
+  {
+   "name": "Joseph Dodge",
+   "role": "Head of economic stabilization mission",
+   "variants": [
+    "Dodge"
+   ]
+  },
+  {
+   "name": "Carl Shoup",
+   "role": "Head of tax reform mission",
+   "variants": [
+    "Shoup"
+   ]
+  },
+  {
+   "name": "Mosaburo Suzuki",
+   "role": "Chairman of the Social Democratic Party",
+   "variants": [
+    "SUzUKI Mosaburo"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese Diet",
+  "legislative proceedings",
+  "Communist Party",
+  "labor law",
+  "administrative retrenchment",
+  "repatriation",
+  "Awa Maru",
+  "postal agreements",
+  "foreign affairs",
+  "peace treaty",
+  "economic stabilization",
+  "Yoshida administrative speech"
+ ],
+ "subfiles": [
+  {
+   "title": "Report on the Fifth Special Session of the Japanese Diet, with appendix",
+   "doc_type": "report",
+   "start_page": 291,
+   "end_page": 328,
+   "continues_previous": true,
+   "date": "1949",
+   "from": "Japanese Foreign Office",
+   "to": "",
+   "about": "Reviews major Diet debates and party tactics, then records foreign affairs interpellations and resolutions.",
+   "summary": "The report covers debates over police powers, labor law revision, personnel cuts, repatriation figures, and accession to international postal agreements. It describes Allied Headquarters’ stated respect for the Diet’s autonomy and assesses the Communist Party’s arguments and efforts to form an opposition front. An extensive appendix records members’ questions on peace, neutrality, trade, repatriation, the Awa Maru claim, and Foreign Ministry organization, with exchanges on the proposed postal agreements.",
+   "keywords": [
+    "Fifth Special Session",
+    "Diet",
+    "labor law",
+    "personnel retrenchment",
+    "Communist Party",
+    "repatriation",
+    "postal agreements",
+    "Awa Maru",
+    "peace treaty"
+   ]
+  },
+  {
+   "title": "Memorandum on Tokyo’s telegram 743 of October 27, 1949",
+   "doc_type": "memorandum",
+   "start_page": 329,
+   "end_page": 329,
+   "continues_previous": false,
+   "date": "1949-11-07",
+   "from": "Green",
+   "to": "Allen",
+   "about": "Assesses the Japanese Foreign Office’s summary of the Diet session.",
+   "summary": "Notes party polarization, interest in neutrality, disputed Soviet repatriation figures, and limited Communist effectiveness.",
+   "keywords": [
+    "Diet",
+    "party polarization",
+    "neutrality",
+    "repatriation",
+    "Communist Party"
+   ]
+  },
+  {
+   "title": "Prime Minister’s Administrative Speech Before the National Diet",
+   "doc_type": "despatch",
+   "start_page": 330,
+   "end_page": 333,
+   "continues_previous": false,
+   "date": "1949-11-14",
+   "from": "United States Political Adviser for Japan, J. Sebald",
+   "to": "Secretary of State",
+   "about": "Transmits and analyzes Yoshida’s November 8 administrative address and the response to it.",
+   "summary": "The despatch highlights Yoshida’s appeal for an early peace settlement, economic stabilization, tax reform, administrative restraint, trade, and unemployment relief. It recounts criticism from opposition parties and the Tokyo press, attributing much dissatisfaction to the hardships of deflation and the constraints of Occupation policy. The author judges the address comparatively specific and constructive.",
+   "keywords": [
+    "Yoshida",
+    "administrative speech",
+    "peace settlement",
+    "Dodge",
+    "Shoup",
+    "deflation",
+    "opposition parties"
+   ]
+  },
+  {
+   "title": "Administrative speech to the National Diet by Prime Minister Yoshida",
+   "doc_type": "newspaper clipping enclosed with despatch",
+   "start_page": 334,
+   "end_page": 336,
+   "continues_previous": false,
+   "date": "1949-11-09",
+   "from": "Prime Minister Shigeru Yoshida; published in the Nippon Times",
+   "to": "National Diet",
+   "about": "Sets out Yoshida’s foreign policy, fiscal, economic, labor, and administrative program.",
+   "summary": "Yoshida urges an early peace treaty and presents Japan’s constitutional disarmament as a basis for international trust. He proposes tax reform, spending restraint, administrative savings, maintenance of the yen exchange rate, expanded trade, and measures against unemployment. He also discusses storm damage, education, land reform, repatriation, public service rules, and political extremism.",
+   "keywords": [
+    "peace treaty",
+    "disarmament",
+    "tax reform",
+    "yen exchange rate",
+    "foreign trade",
+    "unemployment",
+    "repatriation",
+    "public service"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 5,
+  "pages": [
+   291,
+   336
+  ],
+  "pdf": "894.032 Legislative Branch Of Government., Japan, Proceedings. Messages To The Parliament. Presidents Message To Congress., April 2, 1947 - November 14, 1949 1781.pdf",
+  "seconds": 53.4,
+  "created": "2026-10-08 01:05:05",
+  "key": "japan-internal-affairs-894.032-legislative-branch-of-7"
+ }
+}

@@ -1,0 +1,646 @@
+{
+ "section_summary": "This section of a longer restricted report traces the Japanese left from a farmers’ union split through the 1947 elections and the formation of the Katayama coalition cabinet. It examines disputes over coal mine control, rival farmers’ unions, wage policy and the budget, alongside Socialist, Communist and trade union divisions. Two tables give prefectural voting figures for the 1947 national elections.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori",
+    "Acmori"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "Miyagi",
+    "Miyag1"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "Ibaraki",
+    "Tbarak1"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "Guma",
+    "Gume"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "Kanagava"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "Ishikawa",
+    "Ishikava"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi",
+    "Aiohi"
+   ]
+  },
+  {
+   "name": "Mie",
+   "variants": [
+    "M1e",
+    "N1e"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara",
+    "Nera",
+    "Hara"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama",
+    "Okayma"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamaguchi"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "Kagawa",
+    "Kageva"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "Ehime",
+    "Khime"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Kochi",
+    "Koch1"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto",
+    "Kumemoto"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miyazaki",
+    "Miyasaki"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kuroda Hisao",
+   "role": "Left-wing Socialist, president of the Nippon Nōmin Kumiai and Diet member",
+   "variants": [
+    "KURODA Hisao",
+    "KURoDA Hisao",
+    "Kuroda"
+   ]
+  },
+  {
+   "name": "Onishi Toshio",
+   "role": "Nominated secretary of the farmers’ union Central Executive Committee",
+   "variants": [
+    "ONISHI Toshio"
+   ]
+  },
+  {
+   "name": "Nomizo Masaru",
+   "role": "Socialist farmers’ union leader and proposed agriculture minister",
+   "variants": [
+    "NOMIzo Masaru",
+    "Nomizo",
+    "NoMIzo Katau"
+   ]
+  },
+  {
+   "name": "Hirano Rikizo",
+   "role": "Right-wing Socialist and Minister of Agriculture and Forestry",
+   "variants": [
+    "Hirano",
+    "HIRAno Rikizo",
+    "HIRAnO Rikizo",
+    "HIRANO Rikizo",
+    "HIRANo Rikizo",
+    "ireno"
+   ]
+  },
+  {
+   "name": "Yoshida Shigeru",
+   "role": "Premier and Liberal leader",
+   "variants": [
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Katayama Tetsu",
+   "role": "Socialist premier",
+   "variants": [
+    "KATAYAMA Tetsu",
+    "KATAYAMA Tetau",
+    "Katayama",
+    "Kateyama",
+    "Ketayama"
+   ]
+  },
+  {
+   "name": "Ashida Hitoshi",
+   "role": "Democratic Party president and faction leader",
+   "variants": [
+    "Ashida"
+   ]
+  },
+  {
+   "name": "Shidehara Kijūrō",
+   "role": "Democratic Party faction leader",
+   "variants": [
+    "Shidehara"
+   ]
+  },
+  {
+   "name": "Ishibashi Tanzan",
+   "role": "Liberal financial policymaker",
+   "variants": [
+    "ISHIBASHI Tanzan"
+   ]
+  },
+  {
+   "name": "Katō Kanjū",
+   "role": "Left-wing Socialist and trade union leader",
+   "variants": [
+    "KATo Kanju",
+    "KATO Kanju",
+    "Kato"
+   ]
+  },
+  {
+   "name": "Suzuki Mosaburō",
+   "role": "Left-wing Socialist and Political Affairs Inquiry Committee chairman",
+   "variants": [
+    "SUZUKI Mosaburo",
+    "SUzUKI Mosaburo",
+    "Suzuki"
+   ]
+  },
+  {
+   "name": "Matsumoto Jiichirō",
+   "role": "Left-wing Socialist elder statesman",
+   "variants": [
+    "MATSUMOTO Jiichiro",
+    "MATSUMOTo Jinchiro",
+    "Matsumoto"
+   ]
+  },
+  {
+   "name": "Arahata Kanson",
+   "role": "Leftist",
+   "variants": [
+    "ARAHATA Katsuzo"
+   ]
+  },
+  {
+   "name": "Matsuoka Komakichi",
+   "role": "Speaker of the House of Representatives",
+   "variants": [
+    "MATSUOKA Komakichi",
+    "MATSUOKA Komakich1"
+   ]
+  },
+  {
+   "name": "Tanaka Man’itsu",
+   "role": "Democratic vice speaker of the House of Representatives",
+   "variants": [
+    "TANAKA Manitsu"
+   ]
+  },
+  {
+   "name": "Morito Tatsuo",
+   "role": "Minister of Education",
+   "variants": [
+    "MORITO Tatsuo"
+   ]
+  },
+  {
+   "name": "Mizutani Chōzaburō",
+   "role": "Minister of Commerce and Industry",
+   "variants": [
+    "MIZUTANI Chosaburo",
+    "MIZUrANI Chosaburo"
+   ]
+  },
+  {
+   "name": "Suzuki Yoshio",
+   "role": "Minister of Justice",
+   "variants": [
+    "SUZUKI Yoshio",
+    "SuzukI Yoshio"
+   ]
+  },
+  {
+   "name": "Nishio Suehiro",
+   "role": "Chief Cabinet Secretary and minister without portfolio",
+   "variants": [
+    "NISHIO Suehiro",
+    "NISHIo Suehiro",
+    "Nishio"
+   ]
+  },
+  {
+   "name": "Yonekubo Mitsusuke",
+   "role": "Minister without portfolio",
+   "variants": [
+    "YONEkUBo Mitausuke",
+    "YONEKUBO Mitausuke"
+   ]
+  },
+  {
+   "name": "Wada Hiroo",
+   "role": "Head of the Economic Stabilization Board",
+   "variants": [
+    "WADA Hiroo",
+    "Wada",
+    "Wade"
+   ]
+  },
+  {
+   "name": "Suzuki Kiyoshi",
+   "role": "Leftist candidate for governor of Akita",
+   "variants": [
+    "SUZUKI Kiyoshi",
+    "Suzuki"
+   ]
+  },
+  {
+   "name": "Asanuma Inejirō",
+   "role": "Acting Socialist secretary general",
+   "variants": [
+    "ASANUMA Inejiro"
+   ]
+  },
+  {
+   "name": "Itō Ushiro",
+   "role": "Chairman of the lower house Mining and Industry Committee",
+   "variants": [
+    "ITO Ushiro"
+   ]
+  },
+  {
+   "name": "Kurusu Takeo",
+   "role": "Democratic finance minister",
+   "variants": [
+    "KuRUSU Takeo",
+    "Kurusu"
+   ]
+  },
+  {
+   "name": "Satake Haruki",
+   "role": "Zenkoku Nōmin Kumiai vice-president",
+   "variants": [
+    "SATAkE Haruki",
+    "SATAKE Haruki",
+    "SATAKE Haruke"
+   ]
+  },
+  {
+   "name": "Okada Shōji",
+   "role": "Farmers’ union Central Executive Committee member",
+   "variants": [
+    "OKADA Shoji"
+   ]
+  },
+  {
+   "name": "Shimonosaka Masahide",
+   "role": "Pro-Communist farmers’ union leader",
+   "variants": [
+    "SHIMONOSAkE Masahide",
+    "SHlMoSAkA Masahide"
+   ]
+  },
+  {
+   "name": "Kagawa Toyohiko",
+   "role": "President of the Zenkoku Nōmin Kumiai",
+   "variants": [
+    "KAGAWA Toyohiko"
+   ]
+  },
+  {
+   "name": "Matsunaga Yoshio",
+   "role": "Zenkoku Nōmin Kumiai vice-president",
+   "variants": [
+    "MATSUNAGA Yoshio"
+   ]
+  },
+  {
+   "name": "Kanō Takashi",
+   "role": "Zenkoku Nōmin Kumiai secretary general",
+   "variants": [
+    "KANO Takashi"
+   ]
+  },
+  {
+   "name": "Sugiyama Motojirō",
+   "role": "Zenkoku Nōmin Kumiai adviser",
+   "variants": [
+    "SUGIYAMA Motojiro"
+   ]
+  },
+  {
+   "name": "Inoue Ryōji",
+   "role": "Proposed candidate for agriculture minister",
+   "variants": [
+    "INOUE Ryoji"
+   ]
+  },
+  {
+   "name": "Hatano Kanae",
+   "role": "Socialist councillor and Minister of Agriculture and Forestry",
+   "variants": [
+    "HATAno Kanae"
+   ]
+  },
+  {
+   "name": "Suzuki Seiichi",
+   "role": "Left-wing Socialist railroad union chairman",
+   "variants": [
+    "SuzukI Seiichi"
+   ]
+  },
+  {
+   "name": "Ii Yashiro",
+   "role": "Communist railroad union leader",
+   "variants": [
+    "II Yashiro"
+   ]
+  }
+ ],
+ "keywords": [
+  "1947 Japanese elections",
+  "Katayama cabinet",
+  "Socialist Party",
+  "Communist Party",
+  "coal mine control",
+  "farmers’ unions",
+  "Hirano controversy",
+  "trade unions",
+  "1,800-yen wage standard",
+  "budget controversy"
+ ],
+ "subfiles": [
+  {
+   "title": "Report on the Japanese left: 1947 elections and the Katayama cabinet",
+   "doc_type": "report, continued excerpt",
+   "start_page": 511,
+   "end_page": 558,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The report analyzes left-wing parties, unions and factional disputes during the 1947 elections and Katayama coalition.",
+   "summary": "The excerpt opens with a split in the Nippon Nōmin Kumiai, then assesses Socialist and Communist strategies and results in the 1947 national and local elections, including two prefectural voting tables. It follows negotiations that produced Katayama’s three-party cabinet and the prolonged fight over coal mine control. Later sections describe Hirano’s dismissal, the competing farmers’ unions, labor opposition to the 1,800-yen wage standard, and the developing budget dispute. The report continues beyond page 558.",
+   "keywords": [
+    "Nippon Nōmin Kumiai",
+    "1947 elections",
+    "Katayama cabinet",
+    "coal mine control law",
+    "Zenkoku Nōmin Kumiai",
+    "Hirano Rikizo",
+    "government workers",
+    "wage standard",
+    "budget"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 10,
+  "sections": 13,
+  "pages": [
+   511,
+   558
+  ],
+  "pdf": "894.00 Japan, Political Affairs., July 10, 1948 - June 30, 1949 1737-part-1.pdf",
+  "seconds": 47.7,
+  "created": "2026-10-08 01:47:41",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-29-part-1"
+ }
+}

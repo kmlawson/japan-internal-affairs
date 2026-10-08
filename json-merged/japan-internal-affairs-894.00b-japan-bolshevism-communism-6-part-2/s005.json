@@ -1,0 +1,942 @@
+{
+ "section_summary": "This section opens with a translated article reproducing Prince Fumimaro Konoe’s February 1945 memorial to the Emperor and recounting the military police investigation that followed. A September 1949 memorandum urges the United States to outlaw the Japanese Communist Party before withdrawal. Two later despatches transmit a translated party pamphlet on gaining power, peace terms and religion, and an intelligence report on Communist peace campaigns.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Janan",
+    "Jupan",
+    "Junan",
+    "Jpse homeland"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tckyo",
+    "Tckyo",
+    "Toky"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima",
+    "Tokushima-ken",
+    "Tokushima Ken",
+    "Tokashima-ken",
+    "TOkUSHIkA"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima Shi",
+    "Tokushima shi"
+   ]
+  },
+  {
+   "name": "Kawashima",
+   "variants": [
+    "Kawashima Machi"
+   ]
+  },
+  {
+   "name": "Oe District",
+   "variants": [
+    "Oe Gur"
+   ]
+  },
+  {
+   "name": "Kamiya-machi",
+   "variants": [
+    "Kamiya machi"
+   ]
+  },
+  {
+   "name": "Naka-dori",
+   "variants": [
+    "Naka Dori"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "US",
+    "U..",
+    "America",
+    "Americe"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "USSR",
+    "Russia",
+    "Russie",
+    "Moscow",
+    "Mosco"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Burope",
+    "Eastern Europe"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "East Asiatic"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asiatic"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chin:",
+    "Communist China"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Kerea",
+    "South Korea"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "vugoslavia"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Polend"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rurenie"
+   ]
+  },
+  {
+   "name": "Hungary",
+   "variants": [
+    "Fun ary"
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "Fiuland"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iren"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Swiss"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Pelgium"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Cermany",
+    "Free Germany"
+   ]
+  },
+  {
+   "name": "Britain",
+   "variants": [
+    "Britain",
+    "Pritain"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Yenan",
+   "variants": [
+    "Yenan"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formosan"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Luzon",
+   "variants": [
+    "Luzon"
+   ]
+  },
+  {
+   "name": "Lingayen Gulf",
+   "variants": [
+    "Gulf of Lingayen",
+    "Lingeyen"
+   ]
+  },
+  {
+   "name": "Leyte",
+   "variants": [
+    "Leyte"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshime"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Ryush"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Ryukyu"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonin Islands"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kuril Islands"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kansai",
+    "Karsai"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita Prefecture"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita City"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa Prefecture",
+    "Ishikava Prefecture"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa City"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagoya City"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie Prefecture"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsushi"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa Prefecture",
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohame"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba Prcfecture"
+   ]
+  },
+  {
+   "name": "Hibiya Park",
+   "variants": [
+    "Hibiya Park"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Prince; author of the memorial to the Emperor",
+   "variants": [
+    "Furimaro",
+    "KoNoE",
+    "Koxo",
+    "YoNoE",
+    "YONOE",
+    "vONOE",
+    "Yc Ci"
+   ]
+  },
+  {
+   "name": "Eiji Tominaga",
+   "role": "Former Vice Minister of War and commander of the army special attack corps",
+   "variants": [
+    "ToMINicA, Eiji"
+   ]
+  },
+  {
+   "name": "Kuniaki Koiso",
+   "role": "Prime minister",
+   "variants": [
+    "Koiso",
+    "YoIso"
+   ]
+  },
+  {
+   "name": "Kōichi Kido",
+   "role": "Lord Keeper of the Privy Seal",
+   "variants": [
+    "YIDO",
+    "Yiro",
+    "Fino"
+   ]
+  },
+  {
+   "name": "Yoshijirō Umezu",
+   "role": "Chief of the Army General Staff",
+   "variants": [
+    "UMEZU",
+    "UMEzu",
+    "UMaZU",
+    "UMEzu, Yoshio"
+   ]
+  },
+  {
+   "name": "Hajime Sugiyama",
+   "role": "Minister of War",
+   "variants": [
+    "sUgIyAMA",
+    "SUGIYAMA",
+    "SUGIYA",
+    "UGIyA"
+   ]
+  },
+  {
+   "name": "Korechika Anami",
+   "role": "Army officer proposed as prime minister and war minister",
+   "variants": [
+    "ANAMI",
+    "MA M"
+   ]
+  },
+  {
+   "name": "Hideki Tōjō",
+   "role": "Former prime minister and war minister",
+   "variants": [
+    "TOJO",
+    "ToJc"
+   ]
+  },
+  {
+   "name": "Shunroku Hata",
+   "role": "Army officer discussed as a possible prime minister or commander",
+   "variants": [
+    "HiTA, hunroku",
+    "HATA",
+    "Hatn"
+   ]
+  },
+  {
+   "name": "Prince Asaka",
+   "role": "Prince considered for army command",
+   "variants": [
+    "ASAkA"
+   ]
+  },
+  {
+   "name": "Prince Higashikuni",
+   "role": "Prince and postwar prime minister",
+   "variants": [
+    "FIGASHIkUnT",
+    "Higashikuni"
+   ]
+  },
+  {
+   "name": "Kazushige Ugaki",
+   "role": "Army officer proposed to control the army",
+   "variants": [
+    "UGA I, Vuzuneri"
+   ]
+  },
+  {
+   "name": "Jinzaburō Mazaki",
+   "role": "Army officer proposed to control the army",
+   "variants": [
+    "MAZAKI, Jinzuburo"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Japanese prime minister; earlier described as Liberal Party secretary general",
+   "variants": [
+    "YOS HIDA, Chigeru",
+    "YocEIDA",
+    "Yoshida",
+    "Yoshida Shigeru"
+   ]
+  },
+  {
+   "name": "Shimada",
+   "role": "Lieutenant general and chief of the Eastern Army Judicial Affairs Board",
+   "variants": [
+    "SHIMADA"
+   ]
+  },
+  {
+   "name": "Charles de Gaulle",
+   "role": "French political leader",
+   "variants": [
+    "de ceulle"
+   ]
+  },
+  {
+   "name": "Pietro Badoglio",
+   "role": "Italian political leader",
+   "variants": [
+    "Badoglio"
+   ]
+  },
+  {
+   "name": "Josip Broz Tito",
+   "role": "Yugoslav political leader",
+   "variants": [
+    "Tito"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German political leader",
+   "variants": [
+    "ritler"
+   ]
+  },
+  {
+   "name": "Sanzō Nosaka",
+   "role": "Japanese Communist",
+   "variants": [
+    "NCSA Sanzo",
+    "Nozaka Sanzo"
+   ]
+  },
+  {
+   "name": "Dean Rusk",
+   "role": "Recipient of Bishop's memorandum",
+   "variants": [
+    "Mr. Rusk"
+   ]
+  },
+  {
+   "name": "W. W. Bishop",
+   "role": "Sender of memorandum on Communism in Japan",
+   "variants": [
+    "Mr. Bishop",
+    "WWB"
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General commanding the occupation",
+   "variants": [
+    "Douglas Machrthur",
+    "General Macirthur",
+    "General MacArthur",
+    "General Mac rthur"
+   ]
+  },
+  {
+   "name": "Kyūichi Tokuda",
+   "role": "Japan Communist Party secretary general",
+   "variants": [
+    "TOr.U. Kyuichi",
+    "Tokuda Kyuichi",
+    "Tokud:"
+   ]
+  },
+  {
+   "name": "Yoshio Shiga",
+   "role": "Japanese Communist leader",
+   "variants": [
+    "SHIC. Yoshio"
+   ]
+  },
+  {
+   "name": "Yamazaki",
+   "role": "Japanese home minister in 1945",
+   "variants": [
+    "YakiZakI"
+   ]
+  },
+  {
+   "name": "Thomas E. Dewey",
+   "role": "United States presidential candidate",
+   "variants": [
+    "Dewey"
+   ]
+  },
+  {
+   "name": "Ikuo Ōyama",
+   "role": "Professor of political economy and peace rally speaker",
+   "variants": [
+    "OYaA, Ikuo",
+    "Oyama Ikuo",
+    "Oyama",
+    "Oyema"
+   ]
+  },
+  {
+   "name": "Tadayoshi Nakagawa",
+   "role": "Editor and publisher of the Communist pamphlet",
+   "variants": [
+    "NAKAGAWA Tadayoshi"
+   ]
+  },
+  {
+   "name": "Karl Marx",
+   "role": "Socialist theorist",
+   "variants": [
+    "Marx"
+   ]
+  },
+  {
+   "name": "Vladimir Lenin",
+   "role": "Communist theorist",
+   "variants": [
+    "Lenin"
+   ]
+  },
+  {
+   "name": "Miyamoto Kenji",
+   "role": "Japan Communist Party Central Committee member",
+   "variants": [
+    "Miyamoto Kenji"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese political leader",
+   "variants": [
+    "Chiang Kai-shek"
+   ]
+  },
+  {
+   "name": "Nicola Sacco",
+   "role": "Figure in the Sacco-Vanzetti trial",
+   "variants": [
+    "Sacco"
+   ]
+  },
+  {
+   "name": "Bartolomeo Vanzetti",
+   "role": "Figure in the Sacco-Vanzetti trial",
+   "variants": [
+    "Vanzetti"
+   ]
+  },
+  {
+   "name": "Hannah Fujikawa",
+   "role": "American citizen who addressed a Tokyo peace rally",
+   "variants": [
+    "Hannah Fujikawa"
+   ]
+  },
+  {
+   "name": "Gorō Hani",
+   "role": "Member of the House of Councillors",
+   "variants": [
+    "H.ni Goro"
+   ]
+  },
+  {
+   "name": "Kō Nakanishi",
+   "role": "Communist Diet member named in article index",
+   "variants": [
+    "Nakanishi Ko"
+   ]
+  },
+  {
+   "name": "Kazuyoshi Dobashi",
+   "role": "Labor figure named in article index",
+   "variants": [
+    "Dobashi Kazuyoshi"
+   ]
+  },
+  {
+   "name": "Shigeo Kamiyama",
+   "role": "Subject named in article index",
+   "variants": [
+    "Kamiyama Shigeo"
+   ]
+  },
+  {
+   "name": "Tokusaburō Dan",
+   "role": "Subject named in article index",
+   "variants": [
+    "Dan: Tokusaburo"
+   ]
+  },
+  {
+   "name": "Ritsu Itō",
+   "role": "Subject named in article index",
+   "variants": [
+    "Ito Ritsu"
+   ]
+  },
+  {
+   "name": "Yoshi Hijikata",
+   "role": "Subject named in article index",
+   "variants": [
+    "Hijikata Yoshi"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan Communist Party",
+  "Konoe memorial",
+  "military police",
+  "Occupation of Japan",
+  "peace treaty",
+  "Communist Party pamphlet",
+  "democratic people's front",
+  "religious freedom",
+  "peace protection movement",
+  "Soviet propaganda"
+ ],
+ "subfiles": [
+  {
+   "title": "Prince Konoe's Memorial to the Throne",
+   "doc_type": "ATIS special translation of article and reproduced memorial",
+   "start_page": 233,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1948-08",
+   "from": "",
+   "to": "",
+   "about": "Publishes Prince Konoe's February 1945 warning that prolonging the war risked Communist revolution and recounts the subsequent military police investigation.",
+   "summary": "The memorial argues that Soviet ambitions, domestic unrest and reformist factions within the Japanese army made Communist revolution a growing danger, and urges an early end to the war after purging the army faction that opposed it. The accompanying article describes late-war military planning, Konoe's audience with the Emperor and the military police pursuit of people thought to know the memorial's contents.",
+   "keywords": [
+    "Konoe",
+    "memorial to the throne",
+    "Communism",
+    "Soviet Union",
+    "Japanese army",
+    "war termination",
+    "military police"
+   ]
+  },
+  {
+   "title": "Memorandum on the Communist problem in Japan",
+   "doc_type": "memorandum",
+   "start_page": 245,
+   "end_page": 245,
+   "continues_previous": false,
+   "date": "1949-09-21",
+   "from": "G - Mr. Bishop",
+   "to": "G - Mr. Rusk",
+   "about": "Bishop urges outlawing the Communist Party before United States forces leave Japan.",
+   "summary": "Urges destroying and outlawing the Communist organization before withdrawal.",
+   "keywords": [
+    "Japan Communist Party",
+    "outlawing",
+    "occupation withdrawal"
+   ]
+  },
+  {
+   "title": "Communist Pamphlet on Feasibility of Communism under the Occupation",
+   "doc_type": "despatch",
+   "start_page": 246,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1949-11-29",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Transmits a translated Communist pamphlet and highlights its proposals for a peace treaty and the return of islands.",
+   "summary": "Sebald summarizes the pamphlet's criticism of separate peace, its nine peace terms and its ambiguous territorial demand, which might cover the Ryukyus, Bonins or Kurils.",
+   "keywords": [
+    "Communist pamphlet",
+    "peace treaty",
+    "Ryukyu Islands",
+    "Bonin Islands",
+    "Kuril Islands"
+   ]
+  },
+  {
+   "title": "Is It Possible to Establish a CP Regime Under the Occupation?",
+   "doc_type": "translated Japan Communist Party pamphlet",
+   "start_page": 248,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1949-03-10",
+   "from": "Tokushima Prefectural Committee of the Japan Communist Party",
+   "to": "",
+   "about": "Explains the party's proposed path to power, peace terms and views on religion in question-and-answer form.",
+   "summary": "The pamphlet argues that occupation policy permits Communist political activity and that the party seeks power through elections, mass movements and a democratic people's front rather than an armed uprising. It advocates a prompt treaty with all Allied powers, full sovereignty, troop withdrawal and the return of islands claimed on ethnic and historical grounds. A supplement promises religious freedom while explaining the party's Marxist view of religion.",
+   "keywords": [
+    "Japan Communist Party",
+    "Occupation",
+    "elections",
+    "people's front",
+    "peace treaty",
+    "territory",
+    "religion"
+   ]
+  },
+  {
+   "title": "Communist Peace Movement in Japan",
+   "doc_type": "despatch",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1949-12-02",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Transmits an intelligence report on the Japanese Communist peace movement.",
+   "summary": "Transmits ten copies of a report and notes possible effects on Japanese reactions to treaty terms.",
+   "keywords": [
+    "peace movement",
+    "Japan Communist Party",
+    "peace treaty"
+   ]
+  },
+  {
+   "title": "Communist Peace Movement in Japan",
+   "doc_type": "CIS Periodical Summary special article",
+   "start_page": 258,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "1949-11-15",
+   "from": "Military Intelligence Section, General Headquarters",
+   "to": "",
+   "about": "Surveys Communist-sponsored peace societies, rallies, directives and the October 1949 Peace Protection Day.",
+   "summary": "The report traces local peace societies and rallies across Japan, describes a party directive tying workplace and local grievances to peace agitation, and recounts October 2 events in Tokyo and Yokohama. It interprets the campaign as Soviet-aligned propaganda aimed at shaping attitudes toward a peace treaty. Its assessment is that attendance and immediate results were limited, while the eventual effect remained uncertain.",
+   "keywords": [
+    "peace protection",
+    "front organizations",
+    "Japan Communist Party",
+    "rallies",
+    "Soviet Union",
+    "treaty propaganda"
+   ]
+  },
+  {
+   "title": "Agencies to Which CIS Furnished Intelligence",
+   "doc_type": "statistical chart",
+   "start_page": 263,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1949-09",
+   "from": "CIS",
+   "to": "",
+   "about": "Charts distribution of CIS special intelligence from September 1 to October 1, 1949.",
+   "summary": "Lists receiving agencies and a grand total of 700 intelligence items.",
+   "keywords": [
+    "CIS",
+    "intelligence distribution",
+    "statistics"
+   ]
+  },
+  {
+   "title": "List of Special Articles Previously Appearing in Section IV of CIS Periodical Summary",
+   "doc_type": "article index",
+   "start_page": 264,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "",
+   "from": "CIS",
+   "to": "",
+   "about": "Indexes earlier special articles by issue, page and date.",
+   "summary": "Lists article titles from issues 22 through 45, dated November 1947 to October 1949.",
+   "keywords": [
+    "CIS Periodical Summary",
+    "article index",
+    "Communism in Japan"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 6,
+  "pages": [
+   233,
+   265
+  ],
+  "pdf": "894.00B Japan, Bolshevism. Communism. Communistic Activities. Subversive Activities., July 10, 1946 - December 21, 1949 1821-part-2.pdf",
+  "seconds": 59.3,
+  "created": "2026-10-08 01:18:23",
+  "key": "japan-internal-affairs-894.00b-japan-bolshevism-communism-6-part-2"
+ }
+}

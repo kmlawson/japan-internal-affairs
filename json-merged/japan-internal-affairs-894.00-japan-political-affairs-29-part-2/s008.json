@@ -1,0 +1,707 @@
+{
+ "section_summary": "This section examines Japanese party organization and the January 1949 election, finding that personal loyalties, weak local branches, campaign restrictions, and funding shortages shaped political activity. It also contains a Soviet protest over police action at Tokyo labor demonstrations and General MacArthur’s reply. The final, continuing report surveys local elections through May 1, 1949, emphasizing independent candidates, uncontested races, and party strategy.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tolyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Iyoto",
+    "Ioto",
+    "oto"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osake",
+    "Oaaka"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Eyogo",
+    "Hyoso"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane",
+    "Jhimane",
+    "Shinane"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi",
+    "Yemenashi"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Koto Ward, Tokyo",
+   "variants": [
+    "Koto Ward"
+   ]
+  },
+  {
+   "name": "Shinagawa Ward, Tokyo",
+   "variants": [
+    "Shinegava Ward"
+   ]
+  },
+  {
+   "name": "Shinjuku Ward, Tokyo",
+   "variants": [
+    "Shinjuku Werd"
+   ]
+  },
+  {
+   "name": "Arakawa Ward, Tokyo",
+   "variants": [
+    "hrakave 7uid"
+   ]
+  },
+  {
+   "name": "Ukyo Ward, Kyoto",
+   "variants": [
+    "Ulyo Ward",
+    "Ukyo-ard"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "HeLano",
+    "Hegano"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "hancgava"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitare",
+    "Saitars",
+    "Seitana"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigate"
+   ]
+  },
+  {
+   "name": "Chugoku region",
+   "variants": [
+    "Chugole"
+   ]
+  },
+  {
+   "name": "Tohoku region",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kanto region",
+   "variants": [
+    "Ianto",
+    "Fento"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu City",
+    "Cifu"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu Prefectural"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urava"
+   ]
+  },
+  {
+   "name": "Ichikawadaimon, Yamanashi",
+   "variants": [
+    "Ichikawadaimon Yachi"
+   ]
+  },
+  {
+   "name": "Miwa-machi, Hyogo",
+   "variants": [
+    "Miva I achi"
+   ]
+  },
+  {
+   "name": "Uchimaki, Nara",
+   "variants": [
+    "Uchimali"
+   ]
+  },
+  {
+   "name": "Doshi, Yamanashi",
+   "variants": [
+    "Doshi"
+   ]
+  },
+  {
+   "name": "Kamiasakuma, Ehime",
+   "variants": [
+    "Kaniasakuna"
+   ]
+  },
+  {
+   "name": "Okawa, Kyoto",
+   "variants": [
+    "Okava"
+   ]
+  },
+  {
+   "name": "Torii-mura, Shimane",
+   "variants": [
+    "Torii-mura"
+   ]
+  },
+  {
+   "name": "Ano District, Shimane",
+   "variants": [
+    "Ano-gun"
+   ]
+  },
+  {
+   "name": "Okamura-mura, Kyoto",
+   "variants": [
+    "Okercra-mue"
+   ]
+  },
+  {
+   "name": "Soraku District, Kyoto",
+   "variants": [
+    "Sosalhu-gun"
+   ]
+  },
+  {
+   "name": "Yonezu-mura, Niigata",
+   "variants": [
+    "Yonozu-mue"
+   ]
+  },
+  {
+   "name": "Nishikanbara District, Niigata",
+   "variants": [
+    "Nishikanhare-gun"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "U.S.SR."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Jane M. Alden",
+   "role": "State Department officer and memorandum author",
+   "variants": [
+    "Mrs. Jane M ALDE",
+    "Jane M. Alden",
+    "Jane m. aldr"
+   ]
+  },
+  {
+   "name": "Cloyce K. Huston",
+   "role": "U.S. chargé d’affaires ad interim in Japan",
+   "variants": [
+    "Cloyce K. Huston",
+    "Cloyce K. Fuston",
+    "CKHus ton"
+   ]
+  },
+  {
+   "name": "Ashida Hitoshi",
+   "role": "Democratic Party faction leader and former premier",
+   "variants": [
+    "Ashida"
+   ]
+  },
+  {
+   "name": "Inukai Takeru",
+   "role": "Democratic Party faction leader",
+   "variants": [
+    "Inukai"
+   ]
+  },
+  {
+   "name": "Kimura Kozaemon",
+   "role": "Democratic Party leader in Shimane",
+   "variants": [
+    "XImURA Kozaemon",
+    "Kimura"
+   ]
+  },
+  {
+   "name": "Wakatsuki Reijiro",
+   "role": "former premier and Minseito leader",
+   "variants": [
+    "TSUKI"
+   ]
+  },
+  {
+   "name": "Yoshida Shigeru",
+   "role": "premier",
+   "variants": [
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Tadokoro Kyuichi",
+   "role": "secretary general of the Osaka Democratic Party chapter",
+   "variants": [
+    "TADokORo Kyuiohi",
+    "Tadokoro",
+    "Tac oro"
+   ]
+  },
+  {
+   "name": "Kagawa Toyohiko",
+   "role": "Salvation Army organizer",
+   "variants": [
+    "KAGAWA Toyoihiko"
+   ]
+  },
+  {
+   "name": "Narahashi Wataru",
+   "role": "national Democratic Party figure",
+   "variants": [
+    "NARAfasiI Wataru"
+   ]
+  },
+  {
+   "name": "Morita Tatsuo",
+   "role": "right wing Socialist leader",
+   "variants": [
+    "MORITA Tatsuo"
+   ]
+  },
+  {
+   "name": "Yonekubo Mitsusuke",
+   "role": "former Seamen’s Union leader",
+   "variants": [
+    "YONEkUBO Mitsusuke"
+   ]
+  },
+  {
+   "name": "Nishio Suehiro",
+   "role": "Socialist Party leader",
+   "variants": [
+    "NIsHIo Suehiro",
+    "Nis io"
+   ]
+  },
+  {
+   "name": "Konda",
+   "role": "mayor of Osaka",
+   "variants": [
+    "Konda"
+   ]
+  },
+  {
+   "name": "Suzuki",
+   "role": "chief of the Osaka Municipal Police",
+   "variants": [
+    "Suzuki"
+   ]
+  },
+  {
+   "name": "Oishi Yoshio",
+   "role": "Social Renovation candidate and former Socialist",
+   "variants": [
+    "OISHI Yoshio"
+   ]
+  },
+  {
+   "name": "Higuchi Yoshinori",
+   "role": "Socialist candidate",
+   "variants": [
+    "FICUCHI Yoshinori"
+   ]
+  },
+  {
+   "name": "Kuzma N. Derevyanko",
+   "role": "Soviet member of the Allied Council for Japan; lieutenant general",
+   "variants": [
+    "Kuzma N. DREVYANO",
+    "General Derevyanko",
+    "K. Derevvenko"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "Douglas MacArthur",
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Kinji Hashimoto",
+   "role": "Tokyo City Transportation Union laborer killed during a demonstration",
+   "variants": [
+    "Kinji Hashimoto",
+    "Hashimoto"
+   ]
+  },
+  {
+   "name": "Ripley",
+   "role": "person invoked in MacArthur’s statement",
+   "variants": [
+    "Ripley"
+   ]
+  },
+  {
+   "name": "Katayama Tetsu",
+   "role": "former premier and Socialist Party president",
+   "variants": [
+    "Tatayama"
+   ]
+  },
+  {
+   "name": "Fujita Tatsuro",
+   "role": "Communist prefectural assembly candidate in Gifu; name uncertain in OCR",
+   "variants": [
+    "FUiUT. Tatsuro"
+   ]
+  },
+  {
+   "name": "Ogawa Hajime",
+   "role": "Socialist prefectural assembly candidate in Gifu",
+   "variants": [
+    "OGA Hajime",
+    "OGllA",
+    "OGAWA"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "role": "favored candidate in Gifu election; reading uncertain",
+   "variants": [
+    "SHIEiTa"
+   ]
+  },
+  {
+   "name": "Yasuda",
+   "role": "favored candidate in Gifu election; reading uncertain",
+   "variants": [
+    "IASUDA"
+   ]
+  },
+  {
+   "name": "Sugimoto Takeo",
+   "role": "Socialist Gifu City Council candidate",
+   "variants": [
+    "SUGI OTO Takeo",
+    "SUGIlOro",
+    "SUCDMOTO"
+   ]
+  },
+  {
+   "name": "Takahashi Kazuyoshi",
+   "role": "Communist Gifu City Council candidate",
+   "variants": [
+    "TAKAHASHI Kazuyoshi",
+    "TAKAHASHI",
+    "TAKLASHI"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese politics",
+  "local party organization",
+  "1949 elections",
+  "election law",
+  "campaign finance",
+  "Democratic Liberal Party",
+  "Democratic Party",
+  "Socialist Party",
+  "Communist Party",
+  "labor demonstrations",
+  "Soviet protest",
+  "local government"
+ ],
+ "subfiles": [
+  {
+   "title": "Local Political Party Organization",
+   "doc_type": "despatch",
+   "start_page": 337,
+   "end_page": 339,
+   "continues_previous": false,
+   "date": "1949-06-06",
+   "from": "Cloyce K. Huston, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits Jane M. Alden’s study of local Japanese party organization.",
+   "summary": "Huston describes weak conservative local branches, their dependence on Diet members and national headquarters, and the Communist Party’s stronger local organization.",
+   "keywords": [
+    "party organization",
+    "conservative parties",
+    "Communist Party"
+   ]
+  },
+  {
+   "title": "Local Organization and Activities of the Democratic Liberal, Democratic, and Socialist Parties",
+   "doc_type": "memorandum",
+   "start_page": 340,
+   "end_page": 350,
+   "continues_previous": false,
+   "date": "1949-05-31",
+   "from": "Jane M. Alden",
+   "to": "",
+   "about": "Reports field observations on party branches in five prefectures.",
+   "summary": "The memorandum finds that conservative branches have small memberships, little money, limited local activity, and heavy dependence on national leaders and individual candidates. It compares Democratic Liberal and Democratic organizations in Kyoto, Shimane, Hyogo, Hiroshima, and Osaka, including the Democrats’ factional split and Tadokoro’s organizing work. It then examines Socialist efforts to rebuild labor support, tensions with union leaders, and Communist appeals to farmers and workers.",
+   "keywords": [
+    "local party branches",
+    "Democratic Liberal Party",
+    "Democratic Party",
+    "Socialist Party",
+    "labor",
+    "farmers"
+   ]
+  },
+  {
+   "title": "Japanese Opinion of the Election Law",
+   "doc_type": "despatch",
+   "start_page": 351,
+   "end_page": 352,
+   "continues_previous": false,
+   "date": "1949-06-09",
+   "from": "Cloyce K. Huston, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits Alden’s survey of election officials’ and party leaders’ views of election law.",
+   "summary": "Huston highlights complaints about inadequate campaign publicity, restrictions on parties, costly public management, and disagreement over electoral district size.",
+   "keywords": [
+    "election law",
+    "campaign publicity",
+    "election costs"
+   ]
+  },
+  {
+   "title": "Opinions of Japanese Election Officials and Leaders of the Major Political Parties Regarding the Election Laws",
+   "doc_type": "memorandum",
+   "start_page": 353,
+   "end_page": 359,
+   "continues_previous": false,
+   "date": "",
+   "from": "Jane M. Alden",
+   "to": "",
+   "about": "Summarizes interviews about the operation and possible revision of Japanese election laws.",
+   "summary": "Election officials and party leaders criticize inadequate publicity, rigid rules for speeches and party activity, and the burden of election costs on local governments. They discuss campaign finance, ballot design, press and mailing rules, and the division of authority between election committees and local officials. Most favor a check-off ballot, while views differ on electoral district size.",
+   "keywords": [
+    "election law",
+    "campaign speeches",
+    "public funding",
+    "party activity",
+    "ballots",
+    "electoral districts"
+   ]
+  },
+  {
+   "title": "Soviet Protest over Japanese Police Action in Labor Demonstrations",
+   "doc_type": "despatch",
+   "start_page": 360,
+   "end_page": 361,
+   "continues_previous": false,
+   "date": "1949-06-14",
+   "from": "Cloyce K. Huston, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits Derevyanko’s protest and MacArthur’s public response to Tokyo labor demonstrations.",
+   "summary": "Huston reports the Soviet letter, MacArthur’s blunt reply, and the possibility of further Soviet action in Allied bodies.",
+   "keywords": [
+    "labor demonstrations",
+    "Soviet protest",
+    "Japanese police",
+    "MacArthur"
+   ]
+  },
+  {
+   "title": "Letter protesting police suppression of Tokyo labor demonstrations",
+   "doc_type": "letter",
+   "start_page": 362,
+   "end_page": 363,
+   "continues_previous": false,
+   "date": "1949-06-11",
+   "from": "Kuzma N. Derevyanko",
+   "to": "Douglas MacArthur",
+   "about": "Accuses Japanese police of brutality during May 30–31 labor demonstrations.",
+   "summary": "Derevyanko alleges that police killed Kinji Hashimoto, injured and arrested other demonstrators, and violated democratic rights. He asks MacArthur to prevent further abuses and punish those responsible.",
+   "keywords": [
+    "Tokyo demonstrations",
+    "police brutality",
+    "Kinji Hashimoto",
+    "Soviet Union"
+   ]
+  },
+  {
+   "title": "General MacArthur’s Comment on General Derevyanko’s Letter",
+   "doc_type": "press release",
+   "start_page": 364,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "1949-06-13",
+   "from": "Douglas MacArthur, General Headquarters Public Information Office",
+   "to": "Press",
+   "about": "Responds publicly to Derevyanko’s accusations about labor rights in Japan.",
+   "summary": "MacArthur calls the Soviet protest propaganda, defends Japanese labor protections, and condemns Soviet treatment of Japanese prisoners of war.",
+   "keywords": [
+    "MacArthur",
+    "Soviet protest",
+    "labor rights",
+    "prisoners of war"
+   ]
+  },
+  {
+   "title": "Transmitting Copies of Report of Surveillance",
+   "doc_type": "transmittal",
+   "start_page": 366,
+   "end_page": 366,
+   "continues_previous": false,
+   "date": "1949-06-20",
+   "from": "U.S. Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "Encloses an Eighth Army report on local Japanese elections from January through May 1949.",
+   "summary": "Notes 628 elections, 2,947 candidates for 2,055 offices, and the limited influence of parties.",
+   "keywords": [
+    "local elections",
+    "Eighth Army",
+    "surveillance report"
+   ]
+  },
+  {
+   "title": "Report of Surveillance: General and By-Elections, 1 January to 1 May 1949",
+   "doc_type": "report",
+   "start_page": 367,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1949-05-28",
+   "from": "Legal and Government Division, Military Government Section, Eighth Army Headquarters",
+   "to": "",
+   "about": "Surveys local general and by-elections in Japan during the first four months of 1949.",
+   "summary": "The report explains election law and Army surveillance procedures, then tabulates 628 local elections and the predominance of independent winners. It analyzes uncontested rural races, turnout, and the uneven performance and tactics of the major parties, while warning that personal loyalties complicate comparisons of party strength. The excerpt ends during a discussion of local election strategy and a forthcoming Saitama gubernatorial election.",
+   "keywords": [
+    "local elections",
+    "by-elections",
+    "independent candidates",
+    "uncontested elections",
+    "turnout",
+    "party strategy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 8,
+  "sections": 10,
+  "pages": [
+   337,
+   379
+  ],
+  "pdf": "894.00 Japan, Political Affairs., July 10, 1948 - June 30, 1949 1737-part-2.pdf",
+  "seconds": 57.4,
+  "created": "2026-10-08 01:57:32",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-29-part-2"
+ }
+}

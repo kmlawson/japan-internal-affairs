@@ -1,0 +1,968 @@
+{
+ "section_summary": "The section concludes a report on Japanese press and radio unions, tracing the All Japan News and Radio Workers’ Union’s response to failed strikes, member defections, and disputes over its affiliation with the Congress of Industrial Organizations. It then records a State Department discussion of Japan’s labor situation, a SCAP directive addressing labor shortages on Occupation construction projects, and a despatch enclosing Japanese and English versions of coal miners’ Communist faction meeting minutes.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Toso"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Qsake"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkeido"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima",
+    "Hiroshime"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano",
+    "Negano"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Negoya"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi",
+    "Meebashi"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yamagata",
+    "Yemagata"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Morioka",
+    "Mor1oke"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Tekanatsu"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "Utsunomiye"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "Yokkeichi"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kanto"
+   ]
+  },
+  {
+   "name": "Tohoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kwansai"
+   ]
+  },
+  {
+   "name": "Chugoku",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Hibiya",
+   "variants": [
+    "Hibiya Hall"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.",
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Western Europe",
+   "variants": [
+    "Western Europe",
+    "mid-Western Europe"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Soviet Russia"
+   ]
+  },
+  {
+   "name": "Britain",
+   "variants": [
+    "Britain"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Ruhr",
+   "variants": [
+    "Ruhr"
+   ]
+  },
+  {
+   "name": "Grant Heights",
+   "variants": [
+    "Grent Heights"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Takayuki Kawazoe",
+   "role": "AJNRWU chairman; former Jiji Press financial news editor",
+   "variants": [
+    "Takayuki KAyAZOE",
+    "Takayuki KA: AZOE",
+    "Takayuki KAWAZOE",
+    "KAWAZOE, Takayuk1",
+    "KAWAZOE",
+    "KAAZOE",
+    "KArAZOE"
+   ]
+  },
+  {
+   "name": "Ichitaro Takata",
+   "role": "Mainichi liaison department chief",
+   "variants": [
+    "Ichitaro TAKATA",
+    "Iehitaro TAKATA",
+    "Johitaro TAkATA",
+    "TAKATA",
+    "TAKATA, Ichitaro"
+   ]
+  },
+  {
+   "name": "Kyozo Mori",
+   "role": "Asahi union chairman",
+   "variants": [
+    "Kyozo MORI",
+    "Kyoz0",
+    "MORI",
+    "MÓRI",
+    "MORI, Kyoz0"
+   ]
+  },
+  {
+   "name": "Sadao Yano",
+   "role": "Nishi Nippon union chairman",
+   "variants": [
+    "Sadao YANO",
+    "Sadeo YANO",
+    "YANO, Sadeo"
+   ]
+  },
+  {
+   "name": "Kikutaro Ikeda",
+   "role": "chairman of the new Mainichi union",
+   "variants": [
+    "Kikutaro IKEDA"
+   ]
+  },
+  {
+   "name": "Itsuo Kanda",
+   "role": "Mainichi representative director",
+   "variants": [
+    "Itsuo KANDA"
+   ]
+  },
+  {
+   "name": "Katsumi Kikunami",
+   "role": "CIU chairman and former AJNRWU chairman",
+   "variants": [
+    "Katsumi KIKUNAMI",
+    "KIkUNAMI",
+    "KIKUNAlI"
+   ]
+  },
+  {
+   "name": "Tago Kameda",
+   "role": "CIU chief organizer",
+   "variants": [
+    "Tago KAMEDA"
+   ]
+  },
+  {
+   "name": "Nagatake Murayama",
+   "role": "former Asahi president and major shareholder",
+   "variants": [
+    "Nagataka MURAYAMA",
+    "MURAYAMA",
+    "MUFAYAMA",
+    "MUhAYAMA",
+    "MURAY/MA",
+    "HUiAYAllA"
+   ]
+  },
+  {
+   "name": "Tadashi Hasebe",
+   "role": "Asahi representative director and chief editor",
+   "variants": [
+    "HASEBE",
+    "HAsEBE",
+    "HisEBE",
+    "HASEBE, Tedeshi"
+   ]
+  },
+  {
+   "name": "Shichiro Morioka",
+   "role": "AJNRWU accountant-auditor, information officer and secretary-general",
+   "variants": [
+    "Shichiro MORIOKA",
+    "MORIOKA, Shichiro"
+   ]
+  },
+  {
+   "name": "Shonosuke Suenaga",
+   "role": "AJNRWU vice-chairman",
+   "variants": [
+    "Shonosuke SUENAGA"
+   ]
+  },
+  {
+   "name": "Hideo Arakawa",
+   "role": "AJNRWU vice-chairman",
+   "variants": [
+    "Hideo ARAKAWA"
+   ]
+  },
+  {
+   "name": "Kazuo Otsuki",
+   "role": "AJNRWU vice-chairman",
+   "variants": [
+    "Kazuo OTSUKI"
+   ]
+  },
+  {
+   "name": "Ishimatsu Oboshi",
+   "role": "Kyodo union chairman",
+   "variants": [
+    "Ishimatsu OBOSHI",
+    "OBóSHI",
+    "OBOSHI, Ishimatsu"
+   ]
+  },
+  {
+   "name": "Iwasaburo Takano",
+   "role": "Broadcasting Corporation of Japan president",
+   "variants": [
+    "Iwesaburo TAkANo",
+    "Iwaseburo TAKANo",
+    "TAkANO",
+    "TAKANO",
+    "TAYANO"
+   ]
+  },
+  {
+   "name": "Tetsuro Furukaki",
+   "role": "Broadcasting Corporation of Japan general managing director or general manager",
+   "variants": [
+    "Tetsuro FURUKAKI",
+    "Tetsuro FUTUKAKI",
+    "FURUKAKI",
+    "FURUKAKI, Tetsuro",
+    "Tetsur. FUT UKAKI"
+   ]
+  },
+  {
+   "name": "Yoshio Matsubara",
+   "role": "BCJ union executive committee chairman",
+   "variants": [
+    "Yoshio MATSUBARA",
+    "MATSUBARA, Yoshio"
+   ]
+  },
+  {
+   "name": "Tadao Kunieda",
+   "role": "BCJ union executive committee member",
+   "variants": [
+    "Tadao KUNIEDA",
+    "KUNIEDA, Tadao"
+   ]
+  },
+  {
+   "name": "Masuo Kato",
+   "role": "Kyodo News Agency managing editor",
+   "variants": [
+    "Masuo KATo",
+    "Masuo KATó",
+    "Masuo KATO",
+    "Masuo KhTO",
+    "KATO, Masuo"
+   ]
+  },
+  {
+   "name": "Yoshio Miyamoto",
+   "role": "Mainichi union official and preparatory committee member",
+   "variants": [
+    "Yoshio MIYAMOTO",
+    "Yoshio MIYAlOTO",
+    "MIYAMOTO, Yoshio"
+   ]
+  },
+  {
+   "name": "Ritoku Obama",
+   "role": "Nippon Keizai Shimbun president",
+   "variants": [
+    "Ritoku OBAMA",
+    "OBAMA, Ritoku"
+   ]
+  },
+  {
+   "name": "Mokichi Senda",
+   "role": "Kobe Shimbun union chairman",
+   "variants": [
+    "Mokichi SENDA",
+    "SENDA, Mokichi"
+   ]
+  },
+  {
+   "name": "Shido Asakura",
+   "role": "Kobe Shimbun president and chief editor",
+   "variants": [
+    "Shido ASAKURA",
+    "ASAKURA, Shido"
+   ]
+  },
+  {
+   "name": "Masaharu Nagata",
+   "role": "Mainichi managing editor; also described as representative director",
+   "variants": [
+    "Masaharu NAGATA",
+    "Meseheru' NAGATA",
+    "NAGATA, Masaharu"
+   ]
+  },
+  {
+   "name": "Tsunego Baba",
+   "role": "Yomiuri president",
+   "variants": [
+    "BABA",
+    "BABA, Tsunego"
+   ]
+  },
+  {
+   "name": "Toyoji Hase",
+   "role": "AJNRWU central executive committee member",
+   "variants": [
+    "HASE, Toyoj1"
+   ]
+  },
+  {
+   "name": "Denichi Yoshida",
+   "role": "Kobe Shimbun union vice-chairman",
+   "variants": [
+    "YOSHIDA, Denichi"
+   ]
+  },
+  {
+   "name": "Toshio Morioka",
+   "role": "Kobe Shimbun reporter",
+   "variants": [
+    "MORIOKA, Toshio"
+   ]
+  },
+  {
+   "name": "Teiichiro Takaya",
+   "role": "Kyoto Shimbun standing director and editorial department chief",
+   "variants": [
+    "TAKAYA, Teiichiro"
+   ]
+  },
+  {
+   "name": "Mr. Yano",
+   "role": "Kyoto Shimbun social news section chief",
+   "variants": [
+    "YANO, Mr."
+   ]
+  },
+  {
+   "name": "Junji Shiogai",
+   "role": "Miyako Shimbun president",
+   "variants": [
+    "SHIOGAI, Junji"
+   ]
+  },
+  {
+   "name": "Kay S. Murakami",
+   "role": "Miyako Shimbun reporter",
+   "variants": [
+    "MURAKAMI, Kay S."
+   ]
+  },
+  {
+   "name": "Yutaka Tsuji",
+   "role": "Miyako Shimbun reporter",
+   "variants": [
+    "TSUJI, Yutaka"
+   ]
+  },
+  {
+   "name": "Hakuei Ogihara",
+   "role": "Nippon Keizai Shimbun foreign news section chief",
+   "variants": [
+    "OGIHARA, Hakuei"
+   ]
+  },
+  {
+   "name": "Nariyuki Tanaka",
+   "role": "Nishi Nippon Shimbun representative director",
+   "variants": [
+    "TANAKA, Nariyuki"
+   ]
+  },
+  {
+   "name": "Denji Hironaka",
+   "role": "Nishi Nippon Shimbun director and printing department chief",
+   "variants": [
+    "HIRONAKA, Denji"
+   ]
+  },
+  {
+   "name": "Kotaro Nakahara",
+   "role": "Nishi Nippon Shimbun managing editor",
+   "variants": [
+    "NAKAHARA, Kotaro"
+   ]
+  },
+  {
+   "name": "Shunsaku Noda",
+   "role": "Nishi Nippon Shimbun shareholder and House of Councillors member",
+   "variants": [
+    "NODA, Shunsaku"
+   ]
+  },
+  {
+   "name": "Akira Kido",
+   "role": "Nishi Nippon Shimbun editorial committee member",
+   "variants": [
+    "KIDO, Akira"
+   ]
+  },
+  {
+   "name": "Mr. Takeuchi",
+   "role": "Shinko Yukan Shimbun president",
+   "variants": [
+    "TAKEUCHI, Mr."
+   ]
+  },
+  {
+   "name": "Fumitaro Watanabe",
+   "role": "Yomiuri union chairman",
+   "variants": [
+    "WATANABE, Fumitaro"
+   ]
+  },
+  {
+   "name": "Hidetoshi Shibata",
+   "role": "secretary to the Yomiuri president",
+   "variants": [
+    "SHIBATA, Hidetoshi"
+   ]
+  },
+  {
+   "name": "Santoku Muto",
+   "role": "Yomiuri business department chief",
+   "variants": [
+    "MUTO, Santoku"
+   ]
+  },
+  {
+   "name": "Shigetero Yamaguchi",
+   "role": "Yukan Kyoto managing director",
+   "variants": [
+    "YAMAGUCHI, Shigetero"
+   ]
+  },
+  {
+   "name": "Katsumi Matsui",
+   "role": "Yukan Kyoto advertising section chief",
+   "variants": [
+    "MATSUI, Katsumi"
+   ]
+  },
+  {
+   "name": "Imajiro Numata",
+   "role": "Yukan Kyoto union chairman",
+   "variants": [
+    "NUMATA, Imajiro"
+   ]
+  },
+  {
+   "name": "Mr. Killan",
+   "role": "chief of SCAP GHQ Labor Division",
+   "variants": [
+    "Mr. Killan"
+   ]
+  },
+  {
+   "name": "Mr. Sullivan",
+   "role": "State Department conversation participant, ILH",
+   "variants": [
+    "ir. Sullivan"
+   ]
+  },
+  {
+   "name": "Mr. Howland",
+   "role": "State Department conversation participant, ILH",
+   "variants": [
+    "Mr. Howland"
+   ]
+  },
+  {
+   "name": "Mr. Evans",
+   "role": "State Department conversation participant, IR",
+   "variants": [
+    "Mr. Evans"
+   ]
+  },
+  {
+   "name": "Mr. Swayzee",
+   "role": "State Department conversation participant, ILH",
+   "variants": [
+    "Mr. Swayzee"
+   ]
+  },
+  {
+   "name": "Mr. Karst",
+   "role": "State Department conversation participant, INP",
+   "variants": [
+    "Mr. Karst"
+   ]
+  },
+  {
+   "name": "Mr. Horowitz",
+   "role": "State Department conversation participant, ILH",
+   "variants": [
+    "Mr. Horowitz"
+   ]
+  },
+  {
+   "name": "Mr. Green",
+   "role": "State Department conversation participant, NA",
+   "variants": [
+    "Mr. Green",
+    "MGreen"
+   ]
+  },
+  {
+   "name": "Mr. Wiesman",
+   "role": "State Department conversation participant, ILH",
+   "variants": [
+    "Mr. Wiesman"
+   ]
+  },
+  {
+   "name": "Mr. Allison",
+   "role": "listed to receive a copy of the conversation memorandum",
+   "variants": [
+    "Mr. Allison"
+   ]
+  },
+  {
+   "name": "Mr. Whitman",
+   "role": "listed to receive a copy of the conversation memorandum",
+   "variants": [
+    "Mr. Whitman"
+   ]
+  },
+  {
+   "name": "Mr. Hunsberger",
+   "role": "listed to receive a copy of the conversation memorandum",
+   "variants": [
+    "Mr. Hunsberger"
+   ]
+  },
+  {
+   "name": "Mr. O’Sullivan",
+   "role": "listed to receive a copy of the conversation memorandum",
+   "variants": [
+    "Mr. O'Sullivan"
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "Acting Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald"
+   ]
+  },
+  {
+   "name": "R. H. Bushner",
+   "role": "despatch preparation credit",
+   "variants": [
+    "RHBushner"
+   ]
+  },
+  {
+   "name": "Esaku Sato",
+   "role": "Japanese vice minister of transportation",
+   "variants": [
+    "ESAKU Sato"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "general who prohibited the proposed February 1947 general strike",
+   "variants": [
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Eugen Varga",
+   "role": "Soviet economist cited in the coal miners’ memorandum",
+   "variants": [
+    "Valga",
+    "Varga"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese labor unions",
+  "press and radio workers",
+  "AJNRWU",
+  "Congress of Industrial Organizations",
+  "Broadcasting Corporation of Japan",
+  "collective bargaining",
+  "coal mining",
+  "labor shortages",
+  "Occupation policy",
+  "Communist Party",
+  "wages",
+  "tax protests"
+ ],
+ "subfiles": [
+  {
+   "title": "Labor Organization in the Press and Radio, concluding chapters, appendix and sources",
+   "doc_type": "restricted research report",
+   "start_page": 246,
+   "end_page": 280,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Analyzes the organization, policies and labor relations of Japanese newspaper and broadcasting unions through mid-1947.",
+   "summary": "The report describes moderates’ efforts to change AJNRWU leadership and its relationship with the Congress of Industrial Organizations after failed strike calls and the Mainichi union’s departure. It follows the Asahi union’s position and a compromise that preserved AJNRWU membership while allowing local autonomy. A separate account traces the Broadcasting Corporation of Japan’s prolonged personnel and contract dispute. The concluding chapter assesses union structure, wages, job security and management relations; the pages also include the end of an Asahi union contract appendix and a list of interview sources.",
+   "keywords": [
+    "AJNRWU",
+    "CIU",
+    "Mainichi",
+    "Asahi",
+    "BCJ",
+    "press unions",
+    "union autonomy",
+    "collective bargaining"
+   ]
+  },
+  {
+   "title": "Memorandum of Conversation: Japanese Labor Situation",
+   "doc_type": "memorandum of conversation",
+   "start_page": 281,
+   "end_page": 283,
+   "continues_previous": false,
+   "date": "1947-11-06",
+   "from": "Department of State",
+   "to": "",
+   "about": "Summarizes SCAP labor chief Killan’s assessment of coal output, surplus workers, wages, Communist influence and the future of Japanese unions.",
+   "summary": "Killan attributes the coal shortage to poor equipment, wartime mine deterioration and an inexperienced workforce. He describes SCAP’s opposition to mass layoffs, anticipates pressure to raise wages, identifies Communist influence in several unions, and argues that continued U.S. control is needed to sustain Japanese trade unionism.",
+   "keywords": [
+    "coal shortage",
+    "surplus labor",
+    "wage stabilization",
+    "Communist influence",
+    "trade unionism",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Directive Instructing the Japanese Government to Overcome the Causes of Labor Shortages",
+   "doc_type": "covering despatch",
+   "start_page": 284,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1947-12-29",
+   "from": "Office of the United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Forwards SCAPIN 1832 and relates Occupation construction labor shortages to ration distribution, transport and delayed contractor payments.",
+   "summary": "Forwards the directive and suggests the cited shortages contribute to wider labor unrest and low production.",
+   "keywords": [
+    "SCAPIN 1832",
+    "labor shortage",
+    "Occupation construction",
+    "rations",
+    "transportation"
+   ]
+  },
+  {
+   "title": "Shortage of Japanese Laborers (SCAPIN 1832)",
+   "doc_type": "directive",
+   "start_page": 285,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1947-12-19",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government, through Central Liaison Office",
+   "about": "Orders action to remedy labor shortages on Occupation construction projects, especially Grant Heights.",
+   "summary": "Directs prompt contractor payments, equitable food and clothing rations, transport, and a progress report by December 30.",
+   "keywords": [
+    "SCAPIN 1832",
+    "Grant Heights",
+    "construction labor",
+    "rations",
+    "contractor payments"
+   ]
+  },
+  {
+   "title": "Text of a Memorandum Believed to Have Been Prepared by Elements of the Japan Communist Party",
+   "doc_type": "confidential despatch with inserted enclosure identification sheet",
+   "start_page": 286,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1948-01-06",
+   "from": "W. J. Sebald, Acting Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards and interprets an alleged Communist coal miners’ faction memorandum supplied by Vice Minister Esaku Sato.",
+   "summary": "Sebald argues that the enclosed minutes show Communist elements seeking local labor conflict and economic disruption while criticizing Occupation policy. He notes the memorandum’s calls for tax opposition, coal miners’ organizing and union affiliation. Page 287 is an inserted identification sheet for the original enclosure.",
+   "keywords": [
+    "Japan Communist Party",
+    "coal miners",
+    "Esaku Sato",
+    "labor conflict",
+    "Occupation policy"
+   ]
+  },
+  {
+   "title": "National Fraction of Coal Miners meeting minutes, Japanese original",
+   "doc_type": "enclosed memorandum",
+   "start_page": 290,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1947-10-12",
+   "from": "National Fraction of Coal Miners",
+   "to": "Local coal miners’ factions and party leadership",
+   "about": "Records October 4 and October 12, 1947 coal miners’ faction discussions of wages, mine safety, taxes, national coal control and organizing tactics.",
+   "summary": "The Japanese memorandum links local mine struggles to minimum wage demands, tax resistance, safety equipment and national coal control. Its later minutes address divisions among coal miners’ organizations, joint action and possible affiliation with Sambetsu.",
+   "keywords": [
+    "coal miners",
+    "faction meetings",
+    "minimum wages",
+    "coal control",
+    "tax opposition",
+    "Sambetsu"
+   ]
+  },
+  {
+   "title": "Translation of the National Fraction of Coal Miners memorandum",
+   "doc_type": "enclosed translation",
+   "start_page": 300,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1947-10-12",
+   "from": "National Fraction of Coal Miners",
+   "to": "Local coal miners’ factions and party leadership",
+   "about": "Translates the opening portion of the coal miners’ faction memorandum and its October 4 meeting minutes.",
+   "summary": "The translation presents the faction’s assessment of international and Japanese economic conditions, then its plan to build workshop and local struggles around minimum wages. It sets out demands concerning tax, allowances and safety equipment, and urges using coal control and production disputes to advance wage campaigns. The translation continues beyond page 303.",
+   "keywords": [
+    "coal miners",
+    "translation",
+    "minimum wages",
+    "taxation",
+    "mine safety",
+    "coal control"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 7,
+  "pages": [
+   246,
+   303
+  ],
+  "pdf": "894.504 Economic Matters., Japan, Labor., April 26, 1945 - November 16, 1949 1782-part-1.pdf",
+  "seconds": 91.1,
+  "created": "2026-10-08 00:37:18",
+  "key": "japan-internal-affairs-894.504-economic-matters-japan-7-part-1"
+ }
+}

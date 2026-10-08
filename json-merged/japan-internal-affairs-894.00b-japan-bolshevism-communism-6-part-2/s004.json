@@ -1,0 +1,714 @@
+{
+ "section_summary": "This section records communist-linked labor unrest in Japan in 1949, including the Taira police station incident, railway layoffs, and reactions to the death of railway president Sadanori Shimoyama. It also contains a report on a communist-sponsored peace meeting in Kamakura and a long historical study of Prince Fumimaro Konoe’s 1945 warning about a possible communist revolution.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Japun",
+    "Wapan",
+    "Jaran",
+    "Jopan",
+    "Jepen",
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyp",
+    "Tokyd",
+    "Tokye"
+   ]
+  },
+  {
+   "name": "Taira",
+   "variants": [
+    "Taira",
+    "T ire"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima Prefecture",
+    "Fukushima Prefecturel",
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "woshington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United Stato",
+    "United States of America",
+    "Américans",
+    "American"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Soviet Unicn",
+    "Soviet Uuion",
+    "Union of Soviet Sooialist Republics"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura",
+    "Kamakure"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Ci ina",
+    "Chica"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Brit in",
+    "Great Britai",
+    "Dritair"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Foland"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belxium"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European con-tinent",
+    "European"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Rassie"
+   ]
+  },
+  {
+   "name": "Yan’an",
+   "variants": [
+    "Yenan"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Zast",
+    "Far Easter:"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Suanghai"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Lanchuria",
+    "Men huris",
+    "Manohuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Manchukdo",
+    "Nanchukuo"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow",
+    "Loscow",
+    "Mosoow"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "South East Asia"
+   ]
+  },
+  {
+   "name": "Pacific",
+   "variants": [
+    "Pacific"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander",
+   "variants": [
+    "Gen. Mac-Arthur",
+    "General MacArthur",
+    "Supreme Commander"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "YoshIDa Shigeru",
+    "YOSHIDA Shigeru",
+    "Yoshida",
+    "Yoshida Cabinet",
+    "Yoshide"
+   ]
+  },
+  {
+   "name": "Sadanori Shimoyama",
+   "role": "President of the National Railway Corporation",
+   "variants": [
+    "SHIMOYAMA Sadanori",
+    "SHIMOYAIA Sadanori",
+    "Shimoyama"
+   ]
+  },
+  {
+   "name": "Cloyde K. Huston",
+   "role": "Chargé d’Affaires ad interim",
+   "variants": [
+    "Cloyde K. Huston",
+    "Cloyde K. Huston."
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "N. J. Sebald",
+    "Mr. SEBALD's"
+   ]
+  },
+  {
+   "name": "J. Owen Zurhellen, Jr.",
+   "role": "Foreign Service Officer and American Vice Consul",
+   "variants": [
+    "J. Owen ZURHELLEN",
+    "Mr. Zurhellen",
+    "J. Owen Zurhellen, Jr."
+   ]
+  },
+  {
+   "name": "Sanzo Nosaka",
+   "role": "Communist Party central committeeman and speaker",
+   "variants": [
+    "NosAA Sanzo",
+    "NOZAKA, Sanzo",
+    "Nozaka",
+    "Nozake"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Prince and former Prime Minister of Japan",
+   "variants": [
+    "KonoE Fumimaro",
+    "Prince KONOE Fumimaro",
+    "Prince Konoe",
+    "Konoe",
+    "KonoE",
+    "Konce"
+   ]
+  },
+  {
+   "name": "Tatsuo Iwabuchi",
+   "role": "Journalist and adviser to Prince Konoe",
+   "variants": [
+    "IWA3UCI Tatsuo",
+    "Iwabuchi",
+    "Iwebuchi",
+    "Iwebucbi"
+   ]
+  },
+  {
+   "name": "Koichi Kido",
+   "role": "Marquis and former Lord Privy Seal",
+   "variants": [
+    "KIDo Koichi",
+    "Kido",
+    "Marquis Kido"
+   ]
+  },
+  {
+   "name": "Charles N. Spinks",
+   "role": "Foreign Service Officer and author of the Konoe memorandum",
+   "variants": [
+    "Ch rles . FIins",
+    "Charles N. Spinks",
+    "Charic N. Spinks",
+    "Mr. Spinks"
+   ]
+  },
+  {
+   "name": "Hidemi Ozaki",
+   "role": "Konoe adviser and Sorge espionage network member",
+   "variants": [
+    "OZAkI Hidemi",
+    "Ozaki Hidemi",
+    "Ozaki",
+    "Ozoki",
+    "Ozak1"
+   ]
+  },
+  {
+   "name": "Boris Nikolajewsky",
+   "role": "Scholar cited in the Konoe memorandum",
+   "variants": [
+    "Dr. B. NIJoLaVsky"
+   ]
+  },
+  {
+   "name": "Seigō Nakano",
+   "role": "Political figure cited in the historical study",
+   "variants": [
+    "NAKANO Selgo"
+   ]
+  },
+  {
+   "name": "Ikki Kita",
+   "role": "Right-wing reform theorist",
+   "variants": [
+    "Kita kki",
+    "Kita",
+    "Kite"
+   ]
+  },
+  {
+   "name": "Toshihiko Sakai",
+   "role": "Socialist teacher",
+   "variants": [
+    "SAkAI Toshihiko",
+    "Saksi"
+   ]
+  },
+  {
+   "name": "Sun Yat-sen",
+   "role": "Chinese revolutionary leader",
+   "variants": [
+    "Dr. SUT Yat Sen"
+   ]
+  },
+  {
+   "name": "Shūmei Ōkawa",
+   "role": "Right-wing reformer and researcher",
+   "variants": [
+    "Dr OrawA Shumei",
+    "Okawa",
+    "Okawa Shumei"
+   ]
+  },
+  {
+   "name": "Edward Hallett Carr",
+   "role": "Historian cited for his book on Soviet planning",
+   "variants": [
+    "Edward Hallett Carr"
+   ]
+  },
+  {
+   "name": "Yoriyasu Arima",
+   "role": "Associate of Konoe whose name was given to the New Structure plan",
+   "variants": [
+    "ARIMA Yeriyasu",
+    "Arima"
+   ]
+  },
+  {
+   "name": "Ryūnosuke Gotō",
+   "role": "Imperial Rule Assistance Association officer",
+   "variants": [
+    "Goto Ryuncenke"
+   ]
+  },
+  {
+   "name": "Akira Mutō",
+   "role": "Participant in reorganizing the Imperial Rule Assistance Association",
+   "variants": [
+    "MUTo Akira"
+   ]
+  },
+  {
+   "name": "Nobumasa Suetsugu",
+   "role": "Participant in reorganizing the Imperial Rule Assistance Association",
+   "variants": [
+    "SUsTSUGU Nobumasa"
+   ]
+  },
+  {
+   "name": "Kingorō Hashimoto",
+   "role": "Participant in reorganizing the Imperial Rule Assistance Association",
+   "variants": [
+    "lnsHIMoto Fingco"
+   ]
+  },
+  {
+   "name": "Teijirō Okuyama",
+   "role": "Cabinet Investigation Bureau official identified as an underground communist",
+   "variants": [
+    "OkuYam Teijircy"
+   ]
+  },
+  {
+   "name": "Chifuya Masaki",
+   "role": "Cabinet Investigation Bureau official identified as an underground communist",
+   "variants": [
+    "MASAKI Chifuya"
+   ]
+  },
+  {
+   "name": "Zenji Yanagisawa",
+   "role": "Cabinet Investigation Bureau official identified as an underground communist",
+   "variants": [
+    "YANAGISAWA Zenji"
+   ]
+  },
+  {
+   "name": "Seiichi Katsumada",
+   "role": "Cabinet Investigation Bureau official identified as an underground communist",
+   "variants": [
+    "KaTSuMaDa Seiichi",
+    "Katsumada",
+    "Katsumade"
+   ]
+  },
+  {
+   "name": "Hiroshi Wada",
+   "role": "Leader of a leftist faction in the Cabinet Planning Board",
+   "variants": [
+    "daDA Hir",
+    "lada",
+    "Jada",
+    "Wada"
+   ]
+  },
+  {
+   "name": "Hiroshi Shiba",
+   "role": "Organizer of the illegal Keihin Group",
+   "variants": [
+    "SHisa Hircshi",
+    "Shiba"
+   ]
+  },
+  {
+   "name": "Takeo Mitamura",
+   "role": "Home Ministry Police Affairs Bureau official",
+   "variants": [
+    "MITANILRA Takeo",
+    "Mitamura"
+   ]
+  },
+  {
+   "name": "Shūzō Inaba",
+   "role": "Cabinet Planning Board official arrested in 1941",
+   "variants": [
+    "INABA Snuzc"
+   ]
+  },
+  {
+   "name": "Yōsuke Matsuoka",
+   "role": "Japanese Foreign Minister",
+   "variants": [
+    "MATSUOKA Yosuke"
+   ]
+  },
+  {
+   "name": "Richard Sorge",
+   "role": "Espionage network leader",
+   "variants": [
+    "Dr. Riohard Soree",
+    "Sorge"
+   ]
+  },
+  {
+   "name": "Nicola Sacco",
+   "role": "Person invoked in comparison with the Sacco–Vanzetti case",
+   "variants": [
+    "Sacoo"
+   ]
+  },
+  {
+   "name": "Bartolomeo Vanzetti",
+   "role": "Person invoked in comparison with the Sacco–Vanzetti case",
+   "variants": [
+    "Vanzetti"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese communism",
+  "labor unrest",
+  "Taira police station",
+  "railway layoffs",
+  "Shimoyama death",
+  "Kamakura peace meeting",
+  "Sanzo Nosaka",
+  "Konoe memorial",
+  "Sorge espionage case",
+  "Cabinet Planning Board",
+  "state planning",
+  "Soviet influence"
+ ],
+ "subfiles": [
+  {
+   "title": "Text of General MacArthur’s Fourth of July Statement",
+   "doc_type": "newspaper clipping; enclosure to despatch no. 431",
+   "start_page": 187,
+   "end_page": 187,
+   "continues_previous": false,
+   "date": "1949-07-05",
+   "from": "Nippon Times",
+   "to": "",
+   "about": "MacArthur contrasts American democracy with communism and praises Japanese resistance to communist propaganda.",
+   "summary": "The clipping prints MacArthur’s statement describing communism as coercive and expressing confidence in Japan’s democratic development.",
+   "keywords": [
+    "MacArthur",
+    "Fourth of July",
+    "anticommunism"
+   ]
+  },
+  {
+   "title": "Communist-led disorders at Taira",
+   "doc_type": "airgram A-175",
+   "start_page": 188,
+   "end_page": 189,
+   "continues_previous": false,
+   "date": "1949-07-08",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports communist-led confrontations with police and the Fukushima Prefectural Assembly.",
+   "summary": "A crowd seized the Taira police station after a dispute over a bulletin board, while another demonstration forced the prefectural assembly to adjourn. Yoshida warned that labor unrest threatened recovery and foreign investment.",
+   "keywords": [
+    "Taira",
+    "Fukushima",
+    "police",
+    "labor unrest"
+   ]
+  },
+  {
+   "title": "The Communist Danger in Japan",
+   "doc_type": "despatch no. 451",
+   "start_page": 190,
+   "end_page": 193,
+   "continues_previous": false,
+   "date": "1949-07-11",
+   "from": "Cloyde K. Huston, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Assesses communist-linked railway labor unrest and the political effects of Shimoyama’s death.",
+   "summary": "The despatch connects growing disorder to railway layoffs and communist influence in the railway union. It discusses speculation about Shimoyama’s death, possible emergency measures, and the challenge of restoring order without alienating Japanese workers.",
+   "keywords": [
+    "Shimoyama",
+    "railway layoffs",
+    "Communist Party",
+    "emergency measures"
+   ]
+  },
+  {
+   "title": "The Communist Danger",
+   "doc_type": "newspaper editorial; enclosure to despatch no. 451",
+   "start_page": 194,
+   "end_page": 194,
+   "continues_previous": false,
+   "date": "1949-07-08",
+   "from": "Nippon Times",
+   "to": "",
+   "about": "Urges public opposition to what the editorial portrays as communist infiltration and intimidation.",
+   "summary": "The editorial calls for citizens and leaders to defend democratic institutions amid labor disturbances.",
+   "keywords": [
+    "editorial",
+    "anticommunism",
+    "labor unions"
+   ]
+  },
+  {
+   "title": "Record-copy replacement notice for despatch no. 451",
+   "doc_type": "records form",
+   "start_page": 195,
+   "end_page": 195,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State central records",
+   "to": "",
+   "about": "Designates an attached copy of despatch no. 451 as the record copy.",
+   "summary": "The original action copy had not been returned.",
+   "keywords": [
+    "record copy",
+    "despatch no. 451"
+   ]
+  },
+  {
+   "title": "The Communist Danger in Japan",
+   "doc_type": "duplicate control copy of despatch no. 451",
+   "start_page": 196,
+   "end_page": 199,
+   "continues_previous": false,
+   "date": "1949-07-11",
+   "from": "Cloyde K. Huston, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Repeats the assessment of railway unrest, Shimoyama’s death, and possible responses to communist activity.",
+   "summary": "This copy repeats the despatch on railway layoffs, localized disturbances, speculation about Shimoyama’s death, and the difficulty of responding to violence while protecting public rights.",
+   "keywords": [
+    "duplicate",
+    "Shimoyama",
+    "railway layoffs",
+    "Communist Party"
+   ]
+  },
+  {
+   "title": "Communist “Peace” Meeting in Kamakura",
+   "doc_type": "despatch no. 593",
+   "start_page": 200,
+   "end_page": 200,
+   "continues_previous": false,
+   "date": "1949-08-29",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards Zurhellen’s report on a communist-sponsored Kamakura peace meeting.",
+   "summary": "Sebald identifies the meeting as part of a Communist Party propaganda campaign.",
+   "keywords": [
+    "Kamakura",
+    "peace meeting",
+    "Nosaka"
+   ]
+  },
+  {
+   "title": "The Kamakura Peace Meeting",
+   "doc_type": "memorandum; enclosure to despatch no. 593",
+   "start_page": 201,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1949-08-18",
+   "from": "J. Owen Zurhellen, Jr., American Vice Consul",
+   "to": "Consul in Charge",
+   "about": "Describes a Kamakura peace meeting and Sanzo Nosaka’s speech.",
+   "summary": "Zurhellen reports the meeting’s attendance, banners, speakers, and Nosaka’s arguments about war, independence, and foreign troops. He also recounts a brief exchange with Nosaka about freedom of speech.",
+   "keywords": [
+    "Kamakura",
+    "Nosaka",
+    "peace movement",
+    "freedom of speech"
+   ]
+  },
+  {
+   "title": "The Konoe Memorial of February 14, 1945",
+   "doc_type": "despatch no. 602",
+   "start_page": 205,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1949-09-01",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards Spinks’s historical analysis of Konoe’s warning about communist revolution.",
+   "summary": "Sebald introduces the memorial’s publication and describes Spinks’s argument that Japanese leftists and rightist militarists shared an interest in state control and economic reform. He notes that the study’s conclusions are partly inferential.",
+   "keywords": [
+    "Konoe memorial",
+    "Spinks",
+    "Japanese communism",
+    "state planning"
+   ]
+  },
+  {
+   "title": "The Konoe Memorial of February 14, 1945",
+   "doc_type": "historical memorandum; enclosure to despatch no. 602",
+   "start_page": 208,
+   "end_page": 232,
+   "continues_previous": false,
+   "date": "1949-09-01",
+   "from": "Charles N. Spinks, Foreign Service Officer",
+   "to": "",
+   "about": "Examines the historical basis for Konoe’s fear that prolonging the war could enable communist revolution in Japan.",
+   "summary": "Spinks discusses the memorial’s provenance and argues that Japanese communists and radical rightists found common ground in anti-capitalist reform and Soviet-style planning. He traces research groups and personal advisory circles linked to Konoe, the Cabinet Planning Board incident, and the Sorge espionage case. The memorandum also reviews wartime Soviet-Japanese relations and concludes that informal advisers and research organizations offered channels for communist influence. Spinks presents several conclusions as tentative inferences.",
+   "keywords": [
+    "Konoe memorial",
+    "Sorge espionage case",
+    "Cabinet Planning Board",
+    "brain trusts",
+    "research groups",
+    "Soviet-Japanese relations"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 6,
+  "pages": [
+   187,
+   232
+  ],
+  "pdf": "894.00B Japan, Bolshevism. Communism. Communistic Activities. Subversive Activities., July 10, 1946 - December 21, 1949 1821-part-2.pdf",
+  "seconds": 58.7,
+  "created": "2026-10-08 01:17:23",
+  "key": "japan-internal-affairs-894.00b-japan-bolshevism-communism-6-part-2"
+ }
+}

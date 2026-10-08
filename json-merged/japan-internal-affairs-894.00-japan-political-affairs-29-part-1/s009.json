@@ -1,0 +1,820 @@
+{
+ "section_summary": "This section continues a restricted study of Japanese left-wing politics from 1946 into 1947. It examines attempts to form a popular front, the April 1946 election, negotiations over the Yoshida cabinet, and efforts to unify labor organizations. The final pages turn to divisions within the Sanbetsu and the Nippon Nōmin Kumiai; a routing slip and an envelope interrupt the study between its numbered pages 159 and 160.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Japenese"
+   ]
+  },
+  {
+   "name": "Yan'an, China",
+   "variants": [
+    "Yenan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo Hetropolis"
+   ]
+  },
+  {
+   "name": "Hibiya Park",
+   "variants": [
+    "Hibiya Park"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kantō region",
+   "variants": [
+    "Kanto",
+    "Kantō-chihō"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON 2B. D. C.",
+    "Washington 25, D.C.",
+    "WASHINGTON 25, D. C."
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Hokkaidō",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyag1"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yemagata"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochig1",
+    "Toohigi"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma",
+    "Guma"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kanagava"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimene"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Hatoyama Ichirō",
+   "role": "Liberal Party leader and president",
+   "variants": [
+    "HATCYAMA Iichiro",
+    "HAToYAMA Ichiro",
+    "Hatoyama",
+    "Hatoyema"
+   ]
+  },
+  {
+   "name": "Nosaka Sanzō",
+   "role": "Communist leader",
+   "variants": [
+    "NosAkA Sanzo",
+    "Nosaka"
+   ]
+  },
+  {
+   "name": "Yamakawa Hitoshi",
+   "role": "Unaffiliated leftist and editor of Minshu Shimbun",
+   "variants": [
+    "YAMAkAWA Hitoshi",
+    "Yamakewa",
+    "YAMAKAWA Hitoshi",
+    "Yamakawa"
+   ]
+  },
+  {
+   "name": "Mizutani Chōzaburō",
+   "role": "Socialist leader",
+   "variants": [
+    "MIZUTANI Chosaburo",
+    "Mizutant"
+   ]
+  },
+  {
+   "name": "Kuroki Shigenori",
+   "role": "Communist spokesman",
+   "variants": [
+    "KuRokI Shigenori"
+   ]
+  },
+  {
+   "name": "Katō Kanjū",
+   "role": "Left-wing Socialist and trade-union committee leader",
+   "variants": [
+    "KATO Kanju",
+    "KATo Kanju",
+    "KAto Kanju",
+    "Kato"
+   ]
+  },
+  {
+   "name": "Takano Iwasaburō",
+   "role": "Socialist",
+   "variants": [
+    "TAKANO Iwasaburo",
+    "TAKANo Iwasaburo"
+   ]
+  },
+  {
+   "name": "Kuroda Hisao",
+   "role": "Left-wing Socialist",
+   "variants": [
+    "KURODA Hisao"
+   ]
+  },
+  {
+   "name": "Nishio Suehiro",
+   "role": "Socialist secretary general and coalition advocate",
+   "variants": [
+    "NISHIO Suehiro",
+    "NISHIo Suehiro",
+    "Nishio"
+   ]
+  },
+  {
+   "name": "Asanuma Inejirō",
+   "role": "Socialist committee member",
+   "variants": [
+    "ASANUMA Inajiro"
+   ]
+  },
+  {
+   "name": "Hirano Rikizō",
+   "role": "Socialist and farmers' union executive",
+   "variants": [
+    "HIRANO Rikizo",
+    "Hirano",
+    "HIRAno Rikizo"
+   ]
+  },
+  {
+   "name": "Kōno Mitsu",
+   "role": "Socialist committee member",
+   "variants": [
+    "KONO Mitsu"
+   ]
+  },
+  {
+   "name": "Suzuki Mosaburō",
+   "role": "Left-wing Socialist",
+   "variants": [
+    "SUZUKI Mosaburo",
+    "SUzukI Mosaburo"
+   ]
+  },
+  {
+   "name": "Arahata Kanson",
+   "role": "Socialist and veteran of the proletarian movement",
+   "variants": [
+    "ARAHATA Katsuzo",
+    "ARAHATA Katauzo"
+   ]
+  },
+  {
+   "name": "Ono Shun'ichi",
+   "role": "Former editor of Minshu Shimbun",
+   "variants": [
+    "ONo Shunichi"
+   ]
+  },
+  {
+   "name": "Hasegawa Nyozekan",
+   "role": "Journalist",
+   "variants": [
+    "HASEGAWA Nyozokan"
+   ]
+  },
+  {
+   "name": "Kikunami Katsumi",
+   "role": "Journalist and labor activist",
+   "variants": [
+    "KIkUAMI Katsumi",
+    "KIkUnAMI Katsumi",
+    "KIKUNAMI Kataumi"
+   ]
+  },
+  {
+   "name": "Ōuchi Hyōe",
+   "role": "University professor",
+   "variants": [
+    "OUCHI Ryo"
+   ]
+  },
+  {
+   "name": "Suehiro Izutarō",
+   "role": "University professor",
+   "variants": [
+    "SUEHIRO Izutaro"
+   ]
+  },
+  {
+   "name": "Shidehara Kijūrō",
+   "role": "Prime minister",
+   "variants": [
+    "Shidehara",
+    "SHIDEHARA Kijuro",
+    "Shidehera",
+    "Shidohara"
+   ]
+  },
+  {
+   "name": "Ishibashi Tanzan",
+   "role": "Liberal politician and cabinet minister",
+   "variants": [
+    "ISHIBASHI Tanzan",
+    "Ishibashi"
+   ]
+  },
+  {
+   "name": "Tokuda Kyūichi",
+   "role": "Communist leader",
+   "variants": [
+    "TOKUDA Kyuich1",
+    "Tokuda"
+   ]
+  },
+  {
+   "name": "Hasegawa Hiroshi",
+   "role": "Kantō Democratic Food Council leader",
+   "variants": [
+    "HASEGAWA Hirosh1"
+   ]
+  },
+  {
+   "name": "Hani Setsuko",
+   "role": "Kantō Democratic Food Council leader",
+   "variants": [
+    "HANI Setsuko"
+   ]
+  },
+  {
+   "name": "Katayama Tetsu",
+   "role": "Socialist leader",
+   "variants": [
+    "KATAYAMA Tetsu",
+    "Katayama"
+   ]
+  },
+  {
+   "name": "Yoshida Shigeru",
+   "role": "Prime minister",
+   "variants": [
+    "YOSHIDA Shigeru",
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Tseng",
+   "role": "Dispatch author cited in footnotes",
+   "variants": [
+    "Taeng",
+    "Tseng"
+   ]
+  },
+  {
+   "name": "Soong",
+   "role": "Dispatch author cited in a footnote",
+   "variants": [
+    "Soong"
+   ]
+  },
+  {
+   "name": "Morito Tatsuo",
+   "role": "Socialist Diet member and author of a united-front plan",
+   "variants": [
+    "MORITo Tatsuo",
+    "Morito"
+   ]
+  },
+  {
+   "name": "Mitamura Shirō",
+   "role": "Democratic People's League leader",
+   "variants": [
+    "MITAMURA Shiro"
+   ]
+  },
+  {
+   "name": "Arisawa Hiromi",
+   "role": "Professor and Democratic People's League executive",
+   "variants": [
+    "ARISAWA Hiromi"
+   ]
+  },
+  {
+   "name": "Takahashi Masao",
+   "role": "Professor and Democratic People's League executive",
+   "variants": [
+    "TAkAHASHI Masao"
+   ]
+  },
+  {
+   "name": "Aoyama Kazuo",
+   "role": "Democratic People's League executive",
+   "variants": [
+    "AOYAMA Kazuo"
+   ]
+  },
+  {
+   "name": "Yamakawa Kikuya",
+   "role": "Democratic People's League executive",
+   "variants": [
+    "YAMAkAWA Kikuya"
+   ]
+  },
+  {
+   "name": "Matsuoka Komakichi",
+   "role": "Sōdōmei leader",
+   "variants": [
+    "Matsuoka",
+    "MATSUOKA Komakichi"
+   ]
+  },
+  {
+   "name": "Inukai Ken",
+   "role": "Progressive Party leader",
+   "variants": [
+    "INukAI Ken",
+    "INUKAI Ken"
+   ]
+  },
+  {
+   "name": "Ii Yashiro",
+   "role": "Chairman of the government employees' joint struggle committee",
+   "variants": [
+    "II Yashiro"
+   ]
+  },
+  {
+   "name": "Itō Ken'ichi",
+   "role": "Sanbetsu representative and Communist Central Committee member",
+   "variants": [
+    "ITo Kenichi",
+    "Ito"
+   ]
+  },
+  {
+   "name": "Yonekubo Mitsusuke",
+   "role": "Socialist spokesman",
+   "variants": [
+    "YOnEkUBo Mitsusuke",
+    "Yonekubo"
+   ]
+  },
+  {
+   "name": "Wada Hiroo",
+   "role": "Agriculture and Forestry Minister",
+   "variants": [
+    "WADA Hiroo",
+    "Wada"
+   ]
+  },
+  {
+   "name": "Ashida Hitoshi",
+   "role": "Liberal leader",
+   "variants": [
+    "ASHIDA Hitoshi"
+   ]
+  },
+  {
+   "name": "Kobori Jinji",
+   "role": "Rōdō Kumiai Kaigi spokesman",
+   "variants": [
+    "KOBORI Jinji"
+   ]
+  },
+  {
+   "name": "Hara Toraichi",
+   "role": "Sōdōmei representative",
+   "variants": [
+    "HARA Toraichi"
+   ]
+  },
+  {
+   "name": "Kawazoe Takayuki",
+   "role": "Tanitsu chairman",
+   "variants": [
+    "KAWAZOE Takayuki"
+   ]
+  },
+  {
+   "name": "Matsumoto Shin'ichi",
+   "role": "Communist labor activist",
+   "variants": [
+    "MATSUMOTO Shinichi"
+   ]
+  },
+  {
+   "name": "Kameda Tōgo",
+   "role": "Sanbetsu vice chairman and Communist",
+   "variants": [
+    "KAMEDA Togo"
+   ]
+  },
+  {
+   "name": "Yoshida Sukeji",
+   "role": "Sanbetsu secretary general and Communist",
+   "variants": [
+    "YOSHIDA Sukeji"
+   ]
+  },
+  {
+   "name": "Dobashi Kazuyoshi",
+   "role": "Sanbetsu officer",
+   "variants": [
+    "DOBASHI Kazuyoshi"
+   ]
+  },
+  {
+   "name": "Hosoya Matōta",
+   "role": "Sanbetsu officer and Communist",
+   "variants": [
+    "HoSoYA Matauta"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and occupation commander",
+   "variants": [
+    "General MacArthur"
+   ]
+  }
+ ],
+ "keywords": [
+  "popular front",
+  "Socialist Party",
+  "Japanese Communist Party",
+  "1946 general election",
+  "Yoshida cabinet",
+  "coalition negotiations",
+  "labor unions",
+  "Sanbetsu",
+  "Sōdōmei",
+  "February 1 general strike",
+  "farmers' union"
+ ],
+ "subfiles": [
+  {
+   "title": "Restricted study of Japanese left-wing politics, numbered pages 135–159",
+   "doc_type": "report",
+   "start_page": 460,
+   "end_page": 484,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Traces popular-front efforts, the April 1946 election, cabinet formation, and renewed Socialist, Communist, and labor negotiations.",
+   "summary": "The study describes unsuccessful efforts to unite Socialists and Communists before and after the April 1946 election, including Nosaka's return and proposals by Yamakawa and Morito. It records election results and the negotiations that produced the Yoshida cabinet. It then follows competing plans for a democratic front, the Socialists' exclusion of the Communists, and failed attempts to unify the major labor federations.",
+   "keywords": [
+    "popular front",
+    "April 1946 election",
+    "Yoshida cabinet",
+    "Socialists",
+    "Communists",
+    "trade-union unity"
+   ]
+  },
+  {
+   "title": "Classified-material routing slip",
+   "doc_type": "routing slip",
+   "start_page": 485,
+   "end_page": 485,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "",
+   "about": "Records the circulation and return of classified material.",
+   "summary": "Routing slip requesting the addressee's signature after checking and returning the material.",
+   "keywords": [
+    "classified material",
+    "routing"
+   ]
+  },
+  {
+   "title": "Department of State mailing envelope",
+   "doc_type": "envelope",
+   "start_page": 486,
+   "end_page": 486,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State, Washington 25, D.C.",
+   "to": "Department of State, Washington 25, D.C., Stop 27",
+   "about": "Addresses Department of State material to Stop 27.",
+   "summary": "Department of State envelope addressed internally to Stop 27.",
+   "keywords": [
+    "Department of State",
+    "envelope"
+   ]
+  },
+  {
+   "title": "Restricted study of Japanese left-wing politics, numbered pages 160–183",
+   "doc_type": "report",
+   "start_page": 487,
+   "end_page": 510,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Continues the study through the 1946–47 cabinet crisis, labor disputes, and splits in labor and farmers' organizations.",
+   "summary": "Sanbetsu's overtures to Sōdōmei and the electric power dispute lead into renewed pressure for a cabinet change. The study follows the failed December 1946 Diet dissolution motion, unsuccessful January 1947 coalition talks, and SCAP's prohibition of the planned February 1 general strike. It then examines the limited unity achieved through Zenrōren, dissent over Communist influence in Sanbetsu, and the opening of the contentious February 1947 Nippon Nōmin Kumiai convention.",
+   "keywords": [
+    "coalition negotiations",
+    "Yoshida cabinet",
+    "Diet dissolution",
+    "February 1 general strike",
+    "Zenrōren",
+    "Sanbetsu",
+    "Nippon Nōmin Kumiai"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 9,
+  "sections": 13,
+  "pages": [
+   460,
+   510
+  ],
+  "pdf": "894.00 Japan, Political Affairs., July 10, 1948 - June 30, 1949 1737-part-1.pdf",
+  "seconds": 54.1,
+  "created": "2026-10-08 01:46:51",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-29-part-1"
+ }
+}

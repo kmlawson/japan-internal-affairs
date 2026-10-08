@@ -28,6 +28,7 @@ ap.add_argument("--reverse", action="store_true")
 ap.add_argument("--ocr", default=None, help="OCR dir (default merged/ocr)")
 ap.add_argument("--only", default=None, help="file listing the only PDFs to catalogue; stop when they are done")
 ap.add_argument("--timeout", type=int, default=1200)
+ap.add_argument("--effort", default=None, help="Codex reasoning effort (low, medium, high, xhigh); default from ~/.codex/config.toml")
 ap.add_argument("--tag", default="", help="suffix for this worker's log and status files")
 a = ap.parse_args()
 OCRS = [os.path.abspath(d) for d in a.ocr.split(",")] if a.ocr else [OCR]
@@ -125,7 +126,7 @@ def run_llm(prompt, schema_path):
     else:
         last = os.path.join(workdir, "last.json")
         p = subprocess.run(["codex", "exec", "--skip-git-repo-check", "--ephemeral", "-s", "read-only",
-                            "--output-schema", schema_path, "-o", last] + (["-m", a.model] if a.model else []) + ["-"],
+                            "--output-schema", schema_path, "-o", last] + (["-m", a.model] if a.model else []) + (["-c", f'model_reasoning_effort="{a.effort}"'] if a.effort else []) + ["-"],
                            input=prompt, capture_output=True, text=True, cwd=workdir, timeout=a.timeout + 60)
         data = json.load(open(last)); os.remove(last)
         meta = {"model": a.model or CODEX_MODEL}

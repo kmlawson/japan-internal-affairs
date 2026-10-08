@@ -1,0 +1,811 @@
+{
+ "section_summary": "The section closes an English discussion of Japanese municipal government and contains a Japanese text on citizenship and local self-government. It then turns to reports on local autonomy conferences, the sixth special Diet session, and a survey of political opinion. The final documents concern Philippine foreign policy toward Japan and an enclosed radio address, which continues beyond page 396.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Jepen",
+    "Japan",
+    "Japen",
+    "Ja an",
+    "Jupun",
+    "日本",
+    "新日本"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "U. S.",
+    "米國",
+    "アメッ力"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "Englend",
+    "英國",
+    "英"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "西洋諸國"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "才ーストラリア",
+    "方ース卜リア"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "カナダ"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "二ュージーランド",
+    "ユージーランド"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoke"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "Kurune"
+   ]
+  },
+  {
+   "name": "Hyūton",
+   "variants": [
+    "ヒユートン"
+   ]
+  },
+  {
+   "name": "Kansas",
+   "variants": [
+    "カンザス"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "ロサンジエルス"
+   ]
+  },
+  {
+   "name": "Cleveland",
+   "variants": [
+    "クリープランド"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "シアトル"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "ニユーヨーク",
+    "New York"
+   ]
+  },
+  {
+   "name": "Aioi",
+   "variants": [
+    "紹生市"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "兵庫隔"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Toliyo",
+    "京京都",
+    "都京",
+    "る京"
+   ]
+  },
+  {
+   "name": "Uji-Yamada",
+   "variants": [
+    "Uji-Tamada",
+    "Uji-Yamada"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie-Xer"
+   ]
+  },
+  {
+   "name": "Ogaki",
+   "variants": [
+    "Ogalci",
+    "Ogaki",
+    "o aki",
+    "Oraki",
+    "Uvaki"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu Pre-fecture",
+    "Gifu . refecture",
+    "ifu . rePoeture"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Difu City"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagaya"
+   ]
+  },
+  {
+   "name": "Tokai region",
+   "variants": [
+    "Tokai",
+    "Tokai re ion"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokchama",
+    "Yokohama",
+    "Tokohama",
+    "Yokchame"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Niagara Falls, New York",
+   "variants": [
+    "iaara Falls,  Yor"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "ukinawa"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "hilipp ines",
+    "Philippines",
+    "Thilipy ines",
+    "Poilip soes"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "MANILA",
+    "Manila"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Lon on"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain",
+    "Franco Spain"
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "variants": [
+    "Ecuador"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "variants": [
+    "Pakistan"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok"
+   ]
+  },
+  {
+   "name": "Madrid",
+   "variants": [
+    "Madrid"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Sydney",
+   "variants": [
+    "Sydney"
+   ]
+  },
+  {
+   "name": "Kolkata",
+   "variants": [
+    "Calcutta"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guam"
+   ]
+  },
+  {
+   "name": "Karachi",
+   "variants": [
+    "Karachi"
+   ]
+  },
+  {
+   "name": "Jakarta",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Yangon",
+   "variants": [
+    "Rangoon"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Far East",
+    "Southeast Asia"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Lake Success, New York",
+   "variants": [
+    "Lake Success"
+   ]
+  },
+  {
+   "name": "Libya",
+   "variants": [
+    "Libya"
+   ]
+  },
+  {
+   "name": "Somaliland",
+   "variants": [
+    "Somaliland"
+   ]
+  },
+  {
+   "name": "Eritrea",
+   "variants": [
+    "Eritrea"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "William L. Magistretti",
+   "role": "Vice consul and foreign service officer at Yokohama",
+   "variants": [
+    "Hagistretti",
+    "MAGIsTREmTI",
+    "illiam L. MaGISThETTI"
+   ]
+  },
+  {
+   "name": "Yoshida Shigeru",
+   "role": "Prime minister of Japan",
+   "variants": [
+    "YOSHIDA Shigeru",
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Joseph M. Dodge",
+   "role": "Financial adviser to SCAP",
+   "variants": [
+    "Joseph M. DODGE"
+   ]
+  },
+  {
+   "name": "Masuda Kaneshichi",
+   "role": "Chief cabinet secretary",
+   "variants": [
+    "MASUDA Kaneshichi",
+    "asuda"
+   ]
+  },
+  {
+   "name": "Suzuki Mosaburō",
+   "role": "Social Democratic Party leader",
+   "variants": [
+    "SUZukI Losaburo"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States political adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "W.J. Sebald"
+   ]
+  },
+  {
+   "name": "Richard B. Finn",
+   "role": "Foreign service officer and American vice consul",
+   "variants": [
+    "Richari E. FINN",
+    "Richard B. FINN",
+    "Richard B. Sinin",
+    "nichar. rinn",
+    "Mr. Finn"
+   ]
+  },
+  {
+   "name": "Jocil M. Tilton",
+   "role": "Chief of the Local Government Division, Civil Affairs Section; given name uncertain in OCR",
+   "variants": [
+    "Jocil . TILron",
+    "r. Tilton",
+    "r. Filton"
+   ]
+  },
+  {
+   "name": "Passin",
+   "role": "Civil Information and Education official commenting on the survey",
+   "variants": [
+    "Mr. Passin"
+   ]
+  },
+  {
+   "name": "Neri",
+   "role": "Philippine undersecretary of foreign affairs",
+   "variants": [
+    "ERI",
+    "NERI",
+    "Neri",
+    "Heri",
+    "Mori"
+   ]
+  },
+  {
+   "name": "Evett D. Hester",
+   "role": "United States chargé d’affaires ad interim in Manila",
+   "variants": [
+    "Evett D. Hester"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "President of the United States",
+   "variants": [
+    "President Tru-man"
+   ]
+  },
+  {
+   "name": "Mao Zedong",
+   "role": "Chinese Communist leader",
+   "variants": [
+    "Mao Tze-Tung"
+   ]
+  },
+  {
+   "name": "Carlos P. Romulo",
+   "role": "Philippine ambassador and president of the United Nations General Assembly",
+   "variants": [
+    "Carlos P. Romulo",
+    "Ambassador Romulo"
+   ]
+  },
+  {
+   "name": "Elpidio Quirino",
+   "role": "President of the Philippines",
+   "variants": [
+    "President Quirino",
+    "UIRIno"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese local autonomy",
+  "municipal government",
+  "citizenship",
+  "civil affairs conferences",
+  "sixth special Diet session",
+  "Yoshida Cabinet",
+  "tax reform",
+  "political opinion polling",
+  "Philippine foreign policy",
+  "Japanese reparations"
+ ],
+ "subfiles": [
+  {
+   "title": "Discussion of municipal committees, boards, and local government",
+   "doc_type": "report or essay, concluding pages",
+   "start_page": 344,
+   "end_page": 350,
+   "continues_previous": true,
+   "date": "1949-07",
+   "from": "",
+   "to": "",
+   "about": "The concluding pages explain Japanese municipal police, education, inspection, and other agencies.",
+   "summary": "The text describes the powers and public responsibilities of police commissions, local boards of education, and optional inspection committees. It urges sound municipal finance, restraint in creating agencies, scrutiny of their performance, and serious consideration of their recommendations.",
+   "keywords": [
+    "municipal administration",
+    "police commissions",
+    "boards of education",
+    "inspection committees",
+    "local finance"
+   ]
+  },
+  {
+   "title": "Japanese text on the city and the citizen",
+   "doc_type": "Japanese-language essay or translation",
+   "start_page": 351,
+   "end_page": 372,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The text discusses local self-government and citizens’ duties in Japan.",
+   "summary": "Beginning with the development of representative city government, the text explains citizenship under Japan’s constitution and Local Autonomy Law. It urges informed voting, payment and oversight of taxes, petitions, direct contact with officials, and participation in civic associations. The concluding pages call for active citizens and responsive municipal government.",
+   "keywords": [
+    "citizenship",
+    "local autonomy",
+    "voting",
+    "taxation",
+    "petitions",
+    "civic associations"
+   ]
+  },
+  {
+   "title": "Discussion of a local autonomy conference at Uji-Yamada",
+   "doc_type": "despatch excerpt",
+   "start_page": 373,
+   "end_page": 373,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A surviving concluding page reports Vice Consul Magistretti’s observations from a conference in Mie Prefecture.",
+   "summary": "Attendees criticized local taxation; Magistretti expected a Japanese form of democracy to develop.",
+   "keywords": [
+    "Uji-Yamada",
+    "local autonomy",
+    "taxation",
+    "democratization"
+   ]
+  },
+  {
+   "title": "Opening of Sixth Special Diet Session",
+   "doc_type": "despatch",
+   "start_page": 374,
+   "end_page": 377,
+   "continues_previous": false,
+   "date": "1949-10-27",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch assesses the government’s legislative agenda and opposition at the sixth special Diet session.",
+   "summary": "Sebald outlines budget and tax proposals, party strengths in both Diet houses, and likely disputes over wages, exchange rates, deflation, and a peace conference. He expects Yoshida’s majority to carry its program while noting growing cooperation among center parties and a more aggressive Social Democratic opposition.",
+   "keywords": [
+    "Diet",
+    "Yoshida Cabinet",
+    "Shoup Mission",
+    "economic stabilization",
+    "opposition parties"
+   ]
+  },
+  {
+   "title": "Civil Affairs Conference at Ogaki",
+   "doc_type": "covering despatch",
+   "start_page": 378,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1949-11-10",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Sebald forwards Finn’s report on an Ogaki conference promoting participation in local government.",
+   "summary": "Sebald forwards Finn’s report and highlights its favorable assessment of local autonomy despite financial difficulties.",
+   "keywords": [
+    "Ogaki",
+    "local autonomy",
+    "civil affairs",
+    "report enclosure"
+   ]
+  },
+  {
+   "title": "Civil Affairs Conference at Ogaki",
+   "doc_type": "memorandum report",
+   "start_page": 380,
+   "end_page": 384,
+   "continues_previous": false,
+   "date": "1949-11-01",
+   "from": "Richard B. Finn",
+   "to": "",
+   "about": "Finn reports on the October 21–22 local autonomy conference in Ogaki.",
+   "summary": "Finn describes lectures and group discussions attended by local officials and citizens. Participants showed interest in American practice and generally understood reforms, but identified finance as the chief obstacle and raised concerns about Communist use of recall petitions. Finn found the conference uneven and argued that reducing occupation civil affairs teams could strengthen Japanese responsibility for local decisions.",
+   "keywords": [
+    "Ogaki",
+    "civil affairs",
+    "local autonomy",
+    "municipal finance",
+    "occupation administration"
+   ]
+  },
+  {
+   "title": "Transmitting Copy of Survey of Political Trends",
+   "doc_type": "covering despatch",
+   "start_page": 385,
+   "end_page": 385,
+   "continues_previous": false,
+   "date": "1949-11-14",
+   "from": "Office of the United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The office transmits data from an Asahi survey of Japanese political attitudes.",
+   "summary": "Transmits a copy of survey data prepared for SCAP’s public opinion research division.",
+   "keywords": [
+    "political trends",
+    "Asahi survey",
+    "public opinion"
+   ]
+  },
+  {
+   "title": "Data From a Recent Survey of Political Trends",
+   "doc_type": "survey report",
+   "start_page": 386,
+   "end_page": 389,
+   "continues_previous": false,
+   "date": "1949-11-03",
+   "from": "Public Opinion and Sociological Research Division, Civil Information and Education Section, SCAP",
+   "to": "",
+   "about": "The report presents results of an October 1949 national survey of cabinet and party support.",
+   "summary": "The survey finds substantial support for the Yoshida Cabinet and the Democratic Liberal Party, with the Social Democrats second in stated voting preference. Tables compare support across parties and occupations and track shifts since January. A note cautions that respondents may conceal Communist sympathies.",
+   "keywords": [
+    "opinion poll",
+    "Yoshida Cabinet",
+    "party support",
+    "Asahi Newspaper",
+    "Communist Party"
+   ]
+  },
+  {
+   "title": "Filipino Attitude Toward Post-war Japan: transmittal of Neri address",
+   "doc_type": "despatch",
+   "start_page": 390,
+   "end_page": 391,
+   "continues_previous": false,
+   "date": "1949-11",
+   "from": "Evett D. Hester, chargé d’affaires ad interim, Manila",
+   "to": "Department of State",
+   "about": "Hester forwards Neri’s address and explains Philippine conditions for supporting Japan’s international return.",
+   "summary": "Hester emphasizes Philippine reparations claims and opposition to renewed Japanese dominance in Asia. He summarizes Neri’s conditions for Japan’s readmission to international society and the wider aims of Philippine foreign policy.",
+   "keywords": [
+    "Philippine foreign policy",
+    "Japan",
+    "reparations",
+    "peace treaty",
+    "Neri"
+   ]
+  },
+  {
+   "title": "Secretary Neri’s radio talk on Philippine foreign policy",
+   "doc_type": "press release and radio address",
+   "start_page": 392,
+   "end_page": 396,
+   "continues_previous": false,
+   "date": "1949-10-17",
+   "from": "Philippine Office of Public Information",
+   "to": "Radio audience",
+   "about": "Neri sets out Philippine foreign policy objectives amid major international developments.",
+   "summary": "Neri lists the republic’s objectives, including friendly relations, support for the United Nations and self-determination, special ties with the United States, and claims against Japan. He reviews diplomatic and consular expansion, Philippine participation in international bodies, and support for Indonesia and other territories seeking independence. The address continues beyond page 396.",
+   "keywords": [
+    "Philippine foreign policy",
+    "United Nations",
+    "Japan",
+    "diplomatic relations",
+    "self-determination",
+    "Indonesia"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 8,
+  "sections": 8,
+  "pages": [
+   344,
+   396
+  ],
+  "pdf": "894.00 Japan, Political Affairs., June 23, 1949 - December 29, 1949 1833-part-1.pdf",
+  "seconds": 50.6,
+  "created": "2026-10-08 01:53:51",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-30-part-1"
+ }
+}

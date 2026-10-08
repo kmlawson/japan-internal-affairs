@@ -1,0 +1,1241 @@
+{
+ "section_summary": "This section continues a report on Japan’s April 1947 elections. It compares party platforms, gives results for local executives and assemblies and both houses of the Diet, and examines women’s participation. Its concluding analysis covers campaign finance, alleged election-law violations, turnout, uncontested races, and spoiled ballots.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Jupan",
+    "Japenese",
+    "Japan ese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tolyo",
+    "Tokyo-to",
+    "Tokyo Metropolitan District"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Oscke",
+    "OSaki",
+    "Osake"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "KYoTo"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkcido"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori",
+    "AOMORI"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate",
+    "Iw..TE"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "Miyagi"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yemagata",
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima",
+    "FUKUSHIM.",
+    "FUkUSHI'A"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "Ibaragi",
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "Gumme",
+    "Gumna",
+    "Gunma"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saitama",
+    "Scitema",
+    "Seitema"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba",
+    "CHIPA"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata",
+    "Niigate"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano",
+    "Negano"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi",
+    "AICHI"
+   ]
+  },
+  {
+   "name": "Mie",
+   "variants": [
+    "Mie",
+    "Miye"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "Shiga",
+    "SiGi",
+    "SHIGA"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara",
+    "NARA"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama",
+    "Wakayame",
+    "Wekayama",
+    "W.K.Y.M."
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "Shimane",
+    "SHIMNE"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamaguchi"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima",
+    "Tokushime"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "Ehime",
+    "EHIME"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka",
+    "Fukuoke",
+    "Fuiuoka",
+    "FUkUOK."
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto",
+    "Fumamoto"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miyazaki",
+    "Miyazeki"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima",
+    "Kagoshime",
+    "KAGOSHIM."
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urawa"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "Mi to"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "Utsunomiya"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "Kofu"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "Otsu"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazava"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "Matsue"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Morioka"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "Asahikava"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Rusiro"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matuyama"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muroran"
+   ]
+  },
+  {
+   "name": "Iizuka",
+   "variants": [
+    "Iizuka"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kawaguchi",
+   "role": "Liberal governor elected in Chiba runoff",
+   "variants": [
+    "Kawaguchi"
+   ]
+  },
+  {
+   "name": "Tanaka",
+   "role": "Social Democratic governor elected in Hokkaido runoff",
+   "variants": [
+    "Tanaka"
+   ]
+  },
+  {
+   "name": "Tomosue",
+   "role": "Independent governor elected in Ibaraki runoff",
+   "variants": [
+    "Tomosue"
+   ]
+  },
+  {
+   "name": "Kawamura",
+   "role": "Independent governor elected in Kochi runoff",
+   "variants": [
+    "Kawamure"
+   ]
+  },
+  {
+   "name": "Kada",
+   "role": "Independent governor elected in Niigata runoff",
+   "variants": [
+    "Kada"
+   ]
+  },
+  {
+   "name": "Ona",
+   "role": "Liberal governor elected in Wakayama runoff",
+   "variants": [
+    "Ona"
+   ]
+  },
+  {
+   "name": "Hideki Tojo",
+   "role": "Former prime minister, referenced through the 1942 elections",
+   "variants": [
+    "Tojo"
+   ]
+  },
+  {
+   "name": "Hirano",
+   "role": "Social Democratic campaign chairman",
+   "variants": [
+    "Hirano"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Head of the Yoshida Cabinet",
+   "variants": [
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Joji Hayashi",
+   "role": "Chief Cabinet Secretary",
+   "variants": [
+    "Hayashi Joji"
+   ]
+  },
+  {
+   "name": "Yukio Ozaki",
+   "role": "Long-serving Diet member",
+   "variants": [
+    "Ozaki Yukio"
+   ]
+  },
+  {
+   "name": "Takeshi Yamazaki",
+   "role": "Liberal and former House speaker",
+   "variants": [
+    "Yamezaki Takeshi"
+   ]
+  },
+  {
+   "name": "Daikichiro Tagawa",
+   "role": "Former Tokyo gubernatorial candidate; elected to the House",
+   "variants": [
+    "Tagawa Daikichiro"
+   ]
+  },
+  {
+   "name": "Seiichiro Yasui",
+   "role": "Tagawa’s opponent in the Tokyo gubernatorial election",
+   "variants": [
+    "Yasui Seiichiro"
+   ]
+  },
+  {
+   "name": "Masa Nakayama",
+   "role": "Liberal elected to the House of Representatives",
+   "variants": [
+    "Mrs. Neknyeme Masa"
+   ]
+  },
+  {
+   "name": "Kazuo Nakayama",
+   "role": "Liberal House candidate and Masa Nakayama’s husband",
+   "variants": [
+    "Kazuo"
+   ]
+  },
+  {
+   "name": "Tetsu Katayama",
+   "role": "Prime minister and Social Democrat",
+   "variants": [
+    "Katayama Tetsu"
+   ]
+  },
+  {
+   "name": "Komakichi Matsuoka",
+   "role": "Speaker of the House and Social Democrat",
+   "variants": [
+    "Matsuoke Komakichi"
+   ]
+  },
+  {
+   "name": "Chosaburo Mizutani",
+   "role": "Social Democrat elected to the House",
+   "variants": [
+    "Mizutani Choseburo"
+   ]
+  },
+  {
+   "name": "Suehiro Nishio",
+   "role": "Social Democrat elected to the House",
+   "variants": [
+    "Nishio Suchiro"
+   ]
+  },
+  {
+   "name": "Kanju Kato",
+   "role": "Social Democrat elected to the House",
+   "variants": [
+    "Kato Kanju"
+   ]
+  },
+  {
+   "name": "Shizue Kato",
+   "role": "Social Democrat elected to the House; Kanju Kato’s wife",
+   "variants": [
+    "Shizue"
+   ]
+  },
+  {
+   "name": "Sanzo Nosaka",
+   "role": "Communist elected to the House",
+   "variants": [
+    "Nosaka Sanzo",
+    "Nosaka"
+   ]
+  },
+  {
+   "name": "Kyuichi Tokuda",
+   "role": "Communist elected to the House",
+   "variants": [
+    "Tokudn Kyuichi",
+    "Tokuda"
+   ]
+  },
+  {
+   "name": "Sakae Kimura",
+   "role": "Communist elected to the House; express company employee",
+   "variants": [
+    "Kimure Sakae"
+   ]
+  },
+  {
+   "name": "Hyakuro Hayashi",
+   "role": "Communist elected to the House; lawyer",
+   "variants": [
+    "Hayashi Hyakuro"
+   ]
+  },
+  {
+   "name": "Yoshio Shiga",
+   "role": "Communist House candidate who lost",
+   "variants": [
+    "Shiga Yoshio"
+   ]
+  },
+  {
+   "name": "Mrs. Nosaka",
+   "role": "Communist candidate who lost",
+   "variants": [
+    "Mrs. Nosaka"
+   ]
+  },
+  {
+   "name": "Shigeko Hirano",
+   "role": "Elected House of Councillors candidate; wife of Rikizo Hirano",
+   "variants": [
+    "HIRANo Shigeko",
+    "HIRANO Shigeko"
+   ]
+  },
+  {
+   "name": "Rikizo Hirano",
+   "role": "Social Democratic leader and House member",
+   "variants": [
+    "HIRAno Rikizo",
+    "HIR/NC Rikizo",
+    "Hirano Rikizo"
+   ]
+  },
+  {
+   "name": "Tamae Fukagawa",
+   "role": "House of Councillors member elected from Tokyo",
+   "variants": [
+    "FUKAGAWA Tamae"
+   ]
+  },
+  {
+   "name": "Giichi Murakami",
+   "role": "Count and former peer elected to the House of Councillors",
+   "variants": [
+    "MURAkAMI Giichi"
+   ]
+  },
+  {
+   "name": "Yorisada Tokugawa",
+   "role": "Marquis and former peer elected to the House of Councillors",
+   "variants": [
+    "TOKUGAWA Yorisada"
+   ]
+  },
+  {
+   "name": "Sadatake Hisamatsu",
+   "role": "Count and former peer elected to the House of Councillors",
+   "variants": [
+    "HIS. M.TSU Sadatake"
+   ]
+  },
+  {
+   "name": "Ino D'N",
+   "role": "Baron and former peer elected to the House of Councillors",
+   "variants": [
+    "D'N Ino"
+   ]
+  },
+  {
+   "name": "Kichinosuke Saigo",
+   "role": "Marquis and former peer elected to the House of Councillors",
+   "variants": [
+    "SIGO Kichinosuke"
+   ]
+  },
+  {
+   "name": "Tadahiko Shimazu",
+   "role": "Baron and former peer elected to the House of Councillors",
+   "variants": [
+    "SHIMZU Tadahiko"
+   ]
+  },
+  {
+   "name": "Naotake Sato",
+   "role": "Former ambassador to Russia; elected councillor",
+   "variants": [
+    "S.To Naotake"
+   ]
+  },
+  {
+   "name": "Tsuneo Matsudaira",
+   "role": "Former ambassador to England; elected councillor",
+   "variants": [
+    "L.TSUN.IR. Tsuneo"
+   ]
+  },
+  {
+   "name": "Katsuji Debuchi",
+   "role": "Former ambassador to the United States; elected councillor",
+   "variants": [
+    "DEBUCHI Katsuji"
+   ]
+  },
+  {
+   "name": "Hajime Hoshi",
+   "role": "Drug-store chain head and leading councillor vote-getter",
+   "variants": [
+    "HosI Hajime"
+   ]
+  },
+  {
+   "name": "Sozaemon Yanagawa",
+   "role": "President of the National Agriculture Association; councillor candidate",
+   "variants": [
+    "YANAGAWA Sozaemon"
+   ]
+  },
+  {
+   "name": "Shinichi Hayakawa",
+   "role": "Businessman and president of the Japan Express Company",
+   "variants": [
+    "HAYAKAWA, Shinichi",
+    "Hayakawa Shiniohi"
+   ]
+  },
+  {
+   "name": "Jiichiro Matsumoto",
+   "role": "Social Democratic leader and House vice speaker",
+   "variants": [
+    "MATSUMOTO Jiichiro",
+    "Matsumoto Jiiohiro"
+   ]
+  },
+  {
+   "name": "Ryutaro Takahashi",
+   "role": "Chamber of Commerce president and former peer",
+   "variants": [
+    "TAkAHASHI, Ryutaro"
+   ]
+  },
+  {
+   "name": "Kotaro Tanaka",
+   "role": "Former education minister and Democrat",
+   "variants": [
+    "Dr. TANaK Kotaro",
+    "Tenaka Kotaro"
+   ]
+  },
+  {
+   "name": "Ryosaku Sasaki",
+   "role": "Labor-backed councillor candidate",
+   "variants": [
+    "SASiKI Ryosaku"
+   ]
+  },
+  {
+   "name": "Seiichi Suzuki",
+   "role": "Chairman of the railway labor federation",
+   "variants": [
+    "SuZUKI Seiichi",
+    "Suzuki Seiiohi"
+   ]
+  },
+  {
+   "name": "Masao Nakamura",
+   "role": "Osaka railway workers’ executive committee chairman",
+   "variants": [
+    "NaKiMuRA Masao"
+   ]
+  },
+  {
+   "name": "Tosaku Mizuhashi",
+   "role": "Communications workers’ union official",
+   "variants": [
+    "MIZuUH SHI Tosaku",
+    "Mizuhashi Tosaku"
+   ]
+  },
+  {
+   "name": "Soji Okada",
+   "role": "Japan Farmers Union central committee member",
+   "variants": [
+    "OkiDi Soji"
+   ]
+  },
+  {
+   "name": "Masao Imma",
+   "role": "National Council of Teachers Unions chairman",
+   "variants": [
+    "IMM. Masao"
+   ]
+  },
+  {
+   "name": "Katsumi Kikunami",
+   "role": "Executive chairman of an industrial workers’ congress",
+   "variants": [
+    "KIKUNKT Katsumi"
+   ]
+  },
+  {
+   "name": "Toraichi Hara",
+   "role": "Labor-backed candidate",
+   "variants": [
+    "H'R& Toraichi"
+   ]
+  },
+  {
+   "name": "Tsuneko Akamatsu",
+   "role": "Elected councillor, labor activist, and women’s sections director",
+   "variants": [
+    "Mrs. AKiM:TSU Tsuneko",
+    "AKAmATSU Tsune",
+    "Miss AKAmATSU"
+   ]
+  },
+  {
+   "name": "Yukitaro Ozaki",
+   "role": "Independent councillor candidate; son of Yukio Ozaki",
+   "variants": [
+    "Ozaki Yukitaro"
+   ]
+  },
+  {
+   "name": "Yasushi Oyuma",
+   "role": "Green Wind councillor candidate",
+   "variants": [
+    "Oyuma Yasushi"
+   ]
+  },
+  {
+   "name": "Ino Kosuge",
+   "role": "Independent pacifist councillor candidate",
+   "variants": [
+    "Kosuge Inc"
+   ]
+  },
+  {
+   "name": "Tenko Nishida",
+   "role": "Independent candidate and social service worker",
+   "variants": [
+    "Nishida Tenko",
+    "Nishida ouko"
+   ]
+  },
+  {
+   "name": "Masao Kawano",
+   "role": "Independent candidate supported by a teachers’ union",
+   "variants": [
+    "Kawano Masao"
+   ]
+  },
+  {
+   "name": "Shinrokuro Hozumi",
+   "role": "Independent repatriate candidate",
+   "variants": [
+    "Hozuni Shinrokuro"
+   ]
+  },
+  {
+   "name": "Sadamu Abe",
+   "role": "Green Wind candidate and teachers’ union vice-chairman",
+   "variants": [
+    "Abe Sadamu"
+   ]
+  },
+  {
+   "name": "Yoshi Kawakami",
+   "role": "Independent candidate and Finance Ministry Labor Union chairman",
+   "variants": [
+    "Kawakami Yoshi"
+   ]
+  },
+  {
+   "name": "Kihachiro Kimura",
+   "role": "Social Democrat and press editor",
+   "variants": [
+    "Kimura Kihaohiro"
+   ]
+  },
+  {
+   "name": "Seiji Uchimura",
+   "role": "Social Democrat and railway workers’ chairman",
+   "variants": [
+    "Uchimura Seiji"
+   ]
+  },
+  {
+   "name": "Aimei Toyoshima",
+   "role": "Candidate receiving a business loan; lost",
+   "variants": [
+    "Toyoshima Aimei"
+   ]
+  },
+  {
+   "name": "Hachiro Arai",
+   "role": "Candidate receiving business contributions",
+   "variants": [
+    "Arai Hachiro"
+   ]
+  },
+  {
+   "name": "Suzuki Naoto",
+   "role": "Independent candidate and former Kumamoto governor",
+   "variants": [
+    "Suzuki iaoto"
+   ]
+  },
+  {
+   "name": "Torio Yano",
+   "role": "Green Wind candidate and religious education official",
+   "variants": [
+    "Yano Torio"
+   ]
+  },
+  {
+   "name": "Denichi Kaneiwa",
+   "role": "Independent candidate and Home Ministry engineer",
+   "variants": [
+    "Kaneiwa Deniohi"
+   ]
+  },
+  {
+   "name": "Shoji Higashiura",
+   "role": "Green Wind candidate and agricultural association director",
+   "variants": [
+    "Higashiura Shoji"
+   ]
+  },
+  {
+   "name": "Usaburo Chizaki",
+   "role": "Former Democratic Party chief secretary and campaign contributor",
+   "variants": [
+    "Chizaki Usaburo"
+   ]
+  },
+  {
+   "name": "Shinichi Tsubokawa",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "Tsubokawa Shinichi"
+   ]
+  },
+  {
+   "name": "Yashiro Tochigi",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "To higi Yeshiro"
+   ]
+  },
+  {
+   "name": "Kijuro Shidehara",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "Shidehara Kijuro"
+   ]
+  },
+  {
+   "name": "Menitsu Tanaka",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "Tanake Menitsu"
+   ]
+  },
+  {
+   "name": "Shigekichi Sato",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "Sato Shigokichi"
+   ]
+  },
+  {
+   "name": "Hoitaro Inagaki",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "Inageki Hoitaro"
+   ]
+  },
+  {
+   "name": "Eiji Arima",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "irime Eiji"
+   ]
+  },
+  {
+   "name": "Akiro Suzuki",
+   "role": "Democratic campaign contributor",
+   "variants": [
+    "Sujuki Akiro"
+   ]
+  },
+  {
+   "name": "Kosaki Hasuike",
+   "role": "Akita gubernatorial candidate",
+   "variants": [
+    "Hasuike Kosaki"
+   ]
+  },
+  {
+   "name": "Harukazu Obata",
+   "role": "Fukui governor",
+   "variants": [
+    "Obata Harukazu"
+   ]
+  },
+  {
+   "name": "Iwataro Uchiyama",
+   "role": "Kanagawa governor",
+   "variants": [
+    "Uchiyama Iwataro"
+   ]
+  },
+  {
+   "name": "Jitsuzu Nishimura",
+   "role": "Saitama governor",
+   "variants": [
+    "Nishimura Jitsuzu"
+   ]
+  },
+  {
+   "name": "Orinoshin Tanaka",
+   "role": "Wakayama Social Democratic House member",
+   "variants": [
+    "Tenaka Orinoshin"
+   ]
+  },
+  {
+   "name": "Kikuichiro Yamaguchi",
+   "role": "Wakayama Liberal House member",
+   "variants": [
+    "Yannguohi Kikuichiro"
+   ]
+  },
+  {
+   "name": "Masatomo Hasegawa",
+   "role": "Fukui Democratic House member",
+   "variants": [
+    "Hasogawa .asatono"
+   ]
+  },
+  {
+   "name": "Shinzo Tsubokawa",
+   "role": "Fukui Democratic House member",
+   "variants": [
+    "Tsubo kavu Shinzo"
+   ]
+  },
+  {
+   "name": "Isao Tanaka",
+   "role": "Mie minor-party House member",
+   "variants": [
+    "Tanaka isao"
+   ]
+  },
+  {
+   "name": "Masaru Miyake",
+   "role": "Communist campaign worker attacked in Muroran",
+   "variants": [
+    "Miyake Masaru"
+   ]
+  },
+  {
+   "name": "Chikashi Kumamoto",
+   "role": "Person charged with attacking Communist campaigners",
+   "variants": [
+    "Kumamoto Chikashi"
+   ]
+  },
+  {
+   "name": "Toranosuke Konuma",
+   "role": "Attacker of Communist candidate Sonoki Matsumoto",
+   "variants": [
+    "Konuma Toranosuke"
+   ]
+  },
+  {
+   "name": "Sonoki Matsumoto",
+   "role": "Communist Diet candidate injured in Tochigi",
+   "variants": [
+    "Matsunoto Sonoki"
+   ]
+  },
+  {
+   "name": "Tsunaji Tsukakoshi",
+   "role": "Person arrested after a raid on Communist headquarters",
+   "variants": [
+    "Tsukakoshi Tsunaji"
+   ]
+  },
+  {
+   "name": "Isohei Kasuya",
+   "role": "Tokyo ward assembly candidate accused of misrepresenting SCAP’s views",
+   "variants": [
+    "Kasuya Isohei"
+   ]
+  },
+  {
+   "name": "Hana Hashimoto",
+   "role": "Rival Tokyo ward assembly candidate",
+   "variants": [
+    "Mrs. Hashimoto Hana"
+   ]
+  },
+  {
+   "name": "Hisashi Kawada",
+   "role": "Ibaraki gubernatorial candidate",
+   "variants": [
+    "Kawada Hisashi"
+   ]
+  },
+  {
+   "name": "Kajiwara Kazukumi",
+   "role": "Councillors candidate falsely reported withdrawn",
+   "variants": [
+    "Kazukumi Kajiwara"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander, named in an example of an invalid ballot",
+   "variants": [
+    "General Mecarthur"
+   ]
+  }
+ ],
+ "keywords": [
+  "April 1947 Japanese elections",
+  "local elections",
+  "House of Representatives",
+  "House of Councillors",
+  "political parties",
+  "women voters and candidates",
+  "campaign finance",
+  "election-law violations",
+  "voter turnout",
+  "spoiled ballots"
+ ],
+ "subfiles": [
+  {
+   "title": "Report on Japan’s April 1947 Elections",
+   "doc_type": "report",
+   "start_page": 42,
+   "end_page": 88,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Analyzes Japan’s April 1947 local and national elections, including results, women’s participation, campaign conduct, and voting problems.",
+   "summary": "The opening pages finish a comparison of party programs, followed by results and analysis of elections for local executives, assemblies, and both Diet houses. A separate section assesses women’s candidacies, election, and turnout. The conclusion examines campaign finance and alleged violations, then discusses neighborhood associations, abstention, uncontested races, and invalid ballots; page 88 ends amid a table on spoiled ballots.",
+   "keywords": [
+    "Japan",
+    "April 1947 elections",
+    "local government",
+    "Diet",
+    "women’s suffrage",
+    "campaign finance",
+    "election offenses",
+    "abstention",
+    "invalid ballots"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 13,
+  "pages": [
+   42,
+   88
+  ],
+  "pdf": "894.00 Japan, Political Affairs., January 8, 1947 - July 9, 1948 1645-part-2.pdf",
+  "seconds": 53.9,
+  "created": "2026-10-08 01:21:59",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-28-part-2"
+ }
+}

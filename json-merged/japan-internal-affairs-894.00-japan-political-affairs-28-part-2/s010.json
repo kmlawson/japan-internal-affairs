@@ -1,0 +1,5050 @@
+{
+ "section_summary": "The section concludes a Japanese election-law text with penalties, supplementary rules, and an annex listing electoral districts. It then contains a despatch about SCAP intelligence controls, five copies of the order at issue, and reports on Japanese party politics in March 1948. The final pages include the Democratic Liberal Party’s founding statements and the beginning of an abstract of its platform.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jupan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "Uhited States",
+    "Unitod States",
+    "Uhitod States",
+    "United Statos",
+    "hited States"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Tok o",
+    "Tokyo-To",
+    "Tokyo Metropolis"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Hashington",
+    "Washinrton"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "LOIDOI",
+    "London"
+   ]
+  },
+  {
+   "name": "Manchester",
+   "variants": [
+    "Manchester"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Benelux countries",
+   "variants": [
+    "Benelux countries"
+   ]
+  },
+  {
+   "name": "Western Europe",
+   "variants": [
+    "Western European countries"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Southwest Pacific",
+   "variants": [
+    "Southwest Pacirfio Arca",
+    "Southwost Pacific Area",
+    "Southwest Pacific Area",
+    "Southwost Pacific Aroa"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Pacific Islands",
+   "variants": [
+    "Pacifio Islands",
+    "Pacific Islands"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Folkkaido"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "(sesamera"
+   ]
+  },
+  {
+   "name": "Shumushu",
+   "variants": [
+    "Shumushu"
+   ]
+  },
+  {
+   "name": "Niichi",
+   "variants": [
+    "Miichi"
+   ]
+  },
+  {
+   "name": "Etorofu",
+   "variants": [
+    "Emu"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "Nomuro",
+    "Nemuro-shicho"
+   ]
+  },
+  {
+   "name": "Chiyoda",
+   "variants": [
+    "Chiyodt-ku"
+   ]
+  },
+  {
+   "name": "Chūō",
+   "variants": [
+    "Chuo-ku"
+   ]
+  },
+  {
+   "name": "Minato",
+   "variants": [
+    "Minato-ku"
+   ]
+  },
+  {
+   "name": "Shinjuku",
+   "variants": [
+    "Shinjiru-ku"
+   ]
+  },
+  {
+   "name": "Bunkyō",
+   "variants": [
+    "Bunkyo-ku"
+   ]
+  },
+  {
+   "name": "Taitō",
+   "variants": [
+    "Daito-k.u"
+   ]
+  },
+  {
+   "name": "Shinagawa",
+   "variants": [
+    "Shinagawa-ku"
+   ]
+  },
+  {
+   "name": "Ōta",
+   "variants": [
+    "ota-!u"
+   ]
+  },
+  {
+   "name": "Ōshima",
+   "variants": [
+    "Oshina-shicho",
+    "Oshima-shicho"
+   ]
+  },
+  {
+   "name": "Miyake",
+   "variants": [
+    "Miyaka-shicho"
+   ]
+  },
+  {
+   "name": "Hachijōjima",
+   "variants": [
+    "Hachijojima-shicho"
+   ]
+  },
+  {
+   "name": "Meguro",
+   "variants": [
+    "Meguro-ku"
+   ]
+  },
+  {
+   "name": "Setagaya",
+   "variants": [
+    "Setagaya-tu"
+   ]
+  },
+  {
+   "name": "Shibuya",
+   "variants": [
+    "Shibuya-ku"
+   ]
+  },
+  {
+   "name": "Nakano",
+   "variants": [
+    "Nakano-ku"
+   ]
+  },
+  {
+   "name": "Suginami",
+   "variants": [
+    "Suginamiku"
+   ]
+  },
+  {
+   "name": "Toshima",
+   "variants": [
+    "Toshime-ku"
+   ]
+  },
+  {
+   "name": "Kita",
+   "variants": [
+    "Kita-ku"
+   ]
+  },
+  {
+   "name": "Itabashi",
+   "variants": [
+    "Itabashi-ku"
+   ]
+  },
+  {
+   "name": "Sumida",
+   "variants": [
+    "Sumida-ku"
+   ]
+  },
+  {
+   "name": "Kōtō",
+   "variants": [
+    "Koto-ku"
+   ]
+  },
+  {
+   "name": "Arakawa",
+   "variants": [
+    "Arakawa -k:u"
+   ]
+  },
+  {
+   "name": "Adachi",
+   "variants": [
+    "Adachi-kua"
+   ]
+  },
+  {
+   "name": "Katsushika",
+   "variants": [
+    "Katsushika-ku"
+   ]
+  },
+  {
+   "name": "Edogawa",
+   "variants": [
+    "Edogawa-ku"
+   ]
+  },
+  {
+   "name": "Hachiōji",
+   "variants": [
+    "Hachioji-shi"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "Tachikawa.-chi"
+   ]
+  },
+  {
+   "name": "Nishitama",
+   "variants": [
+    "Nishitama -gun"
+   ]
+  },
+  {
+   "name": "Minamitama",
+   "variants": [
+    "Minanitama-gun"
+   ]
+  },
+  {
+   "name": "Kitatama",
+   "variants": [
+    "Kitatamagun"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto-Fu"
+   ]
+  },
+  {
+   "name": "Kamigyō",
+   "variants": [
+    "Kamikyo-Lu"
+   ]
+  },
+  {
+   "name": "Nakagyō",
+   "variants": [
+    "Nakakyo-ku"
+   ]
+  },
+  {
+   "name": "Sakyō",
+   "variants": [
+    "Sakyo-ku"
+   ]
+  },
+  {
+   "name": "Higashiyama",
+   "variants": [
+    "Higashiyama-ku"
+   ]
+  },
+  {
+   "name": "Shimogyō",
+   "variants": [
+    "Shimokyo-ku"
+   ]
+  },
+  {
+   "name": "Ukyō",
+   "variants": [
+    "Ucyo-ku"
+   ]
+  },
+  {
+   "name": "Fushimi",
+   "variants": [
+    "Fushimi-ku"
+   ]
+  },
+  {
+   "name": "Ōtokuni",
+   "variants": [
+    "Otaki-ku",
+    "Otowani-ku"
+   ]
+  },
+  {
+   "name": "Kadono",
+   "variants": [
+    "Kadono-ku"
+   ]
+  },
+  {
+   "name": "Uji",
+   "variants": [
+    "Uji-gun"
+   ]
+  },
+  {
+   "name": "Kuse",
+   "variants": [
+    "Kyze-gun"
+   ]
+  },
+  {
+   "name": "Tsuzuki",
+   "variants": [
+    "Tsuzuki-gun"
+   ]
+  },
+  {
+   "name": "Sōraku",
+   "variants": [
+    "Soraku-gun"
+   ]
+  },
+  {
+   "name": "Fukuchiyama",
+   "variants": [
+    "Fukuchiyama-shi"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "Maizuru-shi"
+   ]
+  },
+  {
+   "name": "Minamikuwata",
+   "variants": [
+    "Minamikuwata-gun"
+   ]
+  },
+  {
+   "name": "Kitakuwata",
+   "variants": [
+    "Xitakuwata-gun"
+   ]
+  },
+  {
+   "name": "Funai",
+   "variants": [
+    "Funai-gun"
+   ]
+  },
+  {
+   "name": "Amata",
+   "variants": [
+    "Amada-gun"
+   ]
+  },
+  {
+   "name": "Ikaruga",
+   "variants": [
+    "Ikaruka-gun"
+   ]
+  },
+  {
+   "name": "Kasa",
+   "variants": [
+    "Kasa-gun"
+   ]
+  },
+  {
+   "name": "Yosa",
+   "variants": [
+    "Yosa-gun"
+   ]
+  },
+  {
+   "name": "Naka",
+   "variants": [
+    "Noka-gun",
+    "Naka-gun",
+    "Minami Naka-gun"
+   ]
+  },
+  {
+   "name": "Takeno",
+   "variants": [
+    "Takeno-gun"
+   ]
+  },
+  {
+   "name": "Kumano",
+   "variants": [
+    "Kumano-gun"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka-Fu"
+   ]
+  },
+  {
+   "name": "Nishi",
+   "variants": [
+    "Nishi-ku"
+   ]
+  },
+  {
+   "name": "Taishō",
+   "variants": [
+    "Taisho-ku"
+   ]
+  },
+  {
+   "name": "Tennōji",
+   "variants": [
+    "Tenoji-ku"
+   ]
+  },
+  {
+   "name": "Minami",
+   "variants": [
+    "Minami-ku"
+   ]
+  },
+  {
+   "name": "Naniwa",
+   "variants": [
+    "Naniwa-ku"
+   ]
+  },
+  {
+   "name": "Ikuno",
+   "variants": [
+    "Ikuno-ku"
+   ]
+  },
+  {
+   "name": "Abeno",
+   "variants": [
+    "Abeno-ku"
+   ]
+  },
+  {
+   "name": "Sumiyoshi",
+   "variants": [
+    "Sumiyoshi-ku"
+   ]
+  },
+  {
+   "name": "Higashisumiyoshi",
+   "variants": [
+    "Higashisumiyoshi-ku"
+   ]
+  },
+  {
+   "name": "Nishinari",
+   "variants": [
+    "Nishinari-ku"
+   ]
+  },
+  {
+   "name": "Miyakojima",
+   "variants": [
+    "Miyakojima-ku"
+   ]
+  },
+  {
+   "name": "Fukushima ward",
+   "variants": [
+    "Fukushima-ku"
+   ]
+  },
+  {
+   "name": "Konohana",
+   "variants": [
+    "Konohana-ku"
+   ]
+  },
+  {
+   "name": "Higashi",
+   "variants": [
+    "Higashi-ku"
+   ]
+  },
+  {
+   "name": "Ōyodo",
+   "variants": [
+    "Oyodo-ku"
+   ]
+  },
+  {
+   "name": "Nishiyodogawa",
+   "variants": [
+    "Nishiyodogava-u"
+   ]
+  },
+  {
+   "name": "Higashiyodogawa",
+   "variants": [
+    "Higashiyodogawa-ku"
+   ]
+  },
+  {
+   "name": "Higashinari",
+   "variants": [
+    "Higashinari-ku"
+   ]
+  },
+  {
+   "name": "Asahi",
+   "variants": [
+    "Aschi-ku"
+   ]
+  },
+  {
+   "name": "Jōtō",
+   "variants": [
+    "Joto-ku"
+   ]
+  },
+  {
+   "name": "Toyonaka",
+   "variants": [
+    "Toyonaka-shi"
+   ]
+  },
+  {
+   "name": "Ikeda",
+   "variants": [
+    "Ikeda-shi"
+   ]
+  },
+  {
+   "name": "Suita",
+   "variants": [
+    "Suita-shi"
+   ]
+  },
+  {
+   "name": "Takatsuki",
+   "variants": [
+    "Takatsuki-shi"
+   ]
+  },
+  {
+   "name": "Moriguchi",
+   "variants": [
+    "Horikuchi-shi"
+   ]
+  },
+  {
+   "name": "Mishima",
+   "variants": [
+    "Mishima-gun",
+    "Mishima-shi"
+   ]
+  },
+  {
+   "name": "Toyono",
+   "variants": [
+    "Toyono-gun"
+   ]
+  },
+  {
+   "name": "Kitakawachi",
+   "variants": [
+    "Kitakawachi-gun"
+   ]
+  },
+  {
+   "name": "Fuse",
+   "variants": [
+    "Fuse-shi"
+   ]
+  },
+  {
+   "name": "Minamikawachi",
+   "variants": [
+    "Minamikavachi-gun"
+   ]
+  },
+  {
+   "name": "Nakakawachi",
+   "variants": [
+    "Nakakavachi-gun"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "variants": [
+    "Sakai-shi"
+   ]
+  },
+  {
+   "name": "Kishiwada",
+   "variants": [
+    "Kishiweda-shi"
+   ]
+  },
+  {
+   "name": "Izumiōtsu",
+   "variants": [
+    "Izumiotsu-shi"
+   ]
+  },
+  {
+   "name": "Kaizuka",
+   "variants": [
+    "Kaizuka-shi"
+   ]
+  },
+  {
+   "name": "Izumikita",
+   "variants": [
+    "Izukita-gun"
+   ]
+  },
+  {
+   "name": "Izuminami",
+   "variants": [
+    "Izunami-gun"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa-Ken"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama-shi"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka-shi"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki-shi"
+   ]
+  },
+  {
+   "name": "Kamakura",
+   "variants": [
+    "Kamakura-shi",
+    "Kamakura-gun"
+   ]
+  },
+  {
+   "name": "Miura",
+   "variants": [
+    "Miura-gun"
+   ]
+  },
+  {
+   "name": "Hiratsuka",
+   "variants": [
+    "Hiratsuka-shi"
+   ]
+  },
+  {
+   "name": "Fujisawa",
+   "variants": [
+    "Fujisawa-shi"
+   ]
+  },
+  {
+   "name": "Odawara",
+   "variants": [
+    "Odawara-shi"
+   ]
+  },
+  {
+   "name": "Kōza",
+   "variants": [
+    "Koza-gun"
+   ]
+  },
+  {
+   "name": "Ashigarakami",
+   "variants": [
+    "Ashigarakami-gun"
+   ]
+  },
+  {
+   "name": "Ashigarashimo",
+   "variants": [
+    "Ashigarashimo-gun"
+   ]
+  },
+  {
+   "name": "Aikō",
+   "variants": [
+    "Aiko-gun"
+   ]
+  },
+  {
+   "name": "Tsukui",
+   "variants": [
+    "Tsukui-gun"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo-Ken"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe-shi"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki-shi"
+   ]
+  },
+  {
+   "name": "Nishinomiya",
+   "variants": [
+    "Nishinomiya-shi"
+   ]
+  },
+  {
+   "name": "Sumoto",
+   "variants": [
+    "Sumoto-shi"
+   ]
+  },
+  {
+   "name": "Ashiya",
+   "variants": [
+    "Ashiya-shi"
+   ]
+  },
+  {
+   "name": "Itami",
+   "variants": [
+    "Itami-shi"
+   ]
+  },
+  {
+   "name": "Mukō",
+   "variants": [
+    "Muko-gun"
+   ]
+  },
+  {
+   "name": "Kawabe",
+   "variants": [
+    "Kawabe-gun"
+   ]
+  },
+  {
+   "name": "Arima",
+   "variants": [
+    "Arima-gun"
+   ]
+  },
+  {
+   "name": "Tsuna",
+   "variants": [
+    "Tsuna-gun"
+   ]
+  },
+  {
+   "name": "Mihara",
+   "variants": [
+    "Mihara-gun",
+    "Mihara-shi"
+   ]
+  },
+  {
+   "name": "Akashi",
+   "variants": [
+    "Akashi-shi",
+    "Akashi-gun"
+   ]
+  },
+  {
+   "name": "Mino",
+   "variants": [
+    "Mino-gun"
+   ]
+  },
+  {
+   "name": "Katō",
+   "variants": [
+    "Kato-gun"
+   ]
+  },
+  {
+   "name": "Taka",
+   "variants": [
+    "Taka-gun"
+   ]
+  },
+  {
+   "name": "Kasai",
+   "variants": [
+    "Kasai-gun"
+   ]
+  },
+  {
+   "name": "Kako",
+   "variants": [
+    "Kako-gun"
+   ]
+  },
+  {
+   "name": "Innami",
+   "variants": [
+    "Innami-gun"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji-shi"
+   ]
+  },
+  {
+   "name": "Aioi",
+   "variants": [
+    "So-shi"
+   ]
+  },
+  {
+   "name": "Shikama",
+   "variants": [
+    "Shikama-gun"
+   ]
+  },
+  {
+   "name": "Kanzaki",
+   "variants": [
+    "Kanzaki-gun"
+   ]
+  },
+  {
+   "name": "Ibo",
+   "variants": [
+    "Iho-gun"
+   ]
+  },
+  {
+   "name": "Akō",
+   "variants": [
+    "Akao-gun"
+   ]
+  },
+  {
+   "name": "Sayō",
+   "variants": [
+    "Sayo-gun"
+   ]
+  },
+  {
+   "name": "Shisō",
+   "variants": [
+    "Shiso-gun"
+   ]
+  },
+  {
+   "name": "Kinosaki",
+   "variants": [
+    "Kinosaki-gun"
+   ]
+  },
+  {
+   "name": "Izushi",
+   "variants": [
+    "Izushi-gun"
+   ]
+  },
+  {
+   "name": "Yabu",
+   "variants": [
+    "Yabu-gun"
+   ]
+  },
+  {
+   "name": "Asago",
+   "variants": [
+    "Asago-gun"
+   ]
+  },
+  {
+   "name": "Mikata",
+   "variants": [
+    "Mikata-gun"
+   ]
+  },
+  {
+   "name": "Hikami",
+   "variants": [
+    "Higami-gun"
+   ]
+  },
+  {
+   "name": "Taki",
+   "variants": [
+    "Taki-gun"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki-Ken"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki-shi"
+   ]
+  },
+  {
+   "name": "Shimabara",
+   "variants": [
+    "Shimabare-shi"
+   ]
+  },
+  {
+   "name": "Isahaya",
+   "variants": [
+    "Isahaya-shi"
+   ]
+  },
+  {
+   "name": "Nishisonogi",
+   "variants": [
+    "Nishisonogi-gun"
+   ]
+  },
+  {
+   "name": "Kitatakaki",
+   "variants": [
+    "Kitatakaki-gun."
+   ]
+  },
+  {
+   "name": "Minamitakaki",
+   "variants": [
+    "Minamitakaki-gun"
+   ]
+  },
+  {
+   "name": "Tsushima",
+   "variants": [
+    "Tsushima-shicho"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo-shi"
+   ]
+  },
+  {
+   "name": "Ōmura",
+   "variants": [
+    "Omura-shi"
+   ]
+  },
+  {
+   "name": "Higashisonogi",
+   "variants": [
+    "Higashisonogi-gun"
+   ]
+  },
+  {
+   "name": "Kitamatsuura",
+   "variants": [
+    "Kitamatsuura-gun"
+   ]
+  },
+  {
+   "name": "Minamimatsuura",
+   "variants": [
+    "Minamimatsuura-gun"
+   ]
+  },
+  {
+   "name": "Iki",
+   "variants": [
+    "Iki-gun"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata-Ken"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata-shi"
+   ]
+  },
+  {
+   "name": "Nishikanbara",
+   "variants": [
+    "Nishikanbara-gun"
+   ]
+  },
+  {
+   "name": "Sado",
+   "variants": [
+    "Sado-gun"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "variants": [
+    "Shibata-shi"
+   ]
+  },
+  {
+   "name": "Kitakanbara",
+   "variants": [
+    "Kitakanbara-gun"
+   ]
+  },
+  {
+   "name": "Nakakanbara",
+   "variants": [
+    "Nakakanbara-gun"
+   ]
+  },
+  {
+   "name": "Higashikanbara",
+   "variants": [
+    "Higashikanbara-gun"
+   ]
+  },
+  {
+   "name": "Iwafune",
+   "variants": [
+    "Iwafune-gun"
+   ]
+  },
+  {
+   "name": "Nagaoka",
+   "variants": [
+    "Nagaoka-shi"
+   ]
+  },
+  {
+   "name": "Sanjō",
+   "variants": [
+    "Sanjo-shi"
+   ]
+  },
+  {
+   "name": "Kashiwazaki",
+   "variants": [
+    "Kashiwazaki-shi"
+   ]
+  },
+  {
+   "name": "Minamikanbara",
+   "variants": [
+    "Minamikanbara-gun"
+   ]
+  },
+  {
+   "name": "Koshi",
+   "variants": [
+    "Koshi-gun"
+   ]
+  },
+  {
+   "name": "Kitauonuma",
+   "variants": [
+    "Kitauonuma-gun"
+   ]
+  },
+  {
+   "name": "Minamiuonuma",
+   "variants": [
+    "Minamiuonuma-gun"
+   ]
+  },
+  {
+   "name": "Kariha",
+   "variants": [
+    "Kariha-gun"
+   ]
+  },
+  {
+   "name": "Takada",
+   "variants": [
+    "Takada-shi"
+   ]
+  },
+  {
+   "name": "Nakauonuma",
+   "variants": [
+    "Nakauonuma-gun"
+   ]
+  },
+  {
+   "name": "Higashikubiki",
+   "variants": [
+    "Higashikubiki-gun"
+   ]
+  },
+  {
+   "name": "Nakakubiki",
+   "variants": [
+    "Nakakubiki-gun"
+   ]
+  },
+  {
+   "name": "Nishikubiki",
+   "variants": [
+    "Nishikubiki-gun"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama-Ken"
+   ]
+  },
+  {
+   "name": "Kawaguchi",
+   "variants": [
+    "Kawaguchi-shi"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urawa-shi"
+   ]
+  },
+  {
+   "name": "Ōmiya",
+   "variants": [
+    "Omiya-shi"
+   ]
+  },
+  {
+   "name": "Kitaadachi",
+   "variants": [
+    "Kitaadachi-gun"
+   ]
+  },
+  {
+   "name": "Kawagoe",
+   "variants": [
+    "Kawagoe-shi"
+   ]
+  },
+  {
+   "name": "Iruma",
+   "variants": [
+    "Iruma-gun"
+   ]
+  },
+  {
+   "name": "Hiki",
+   "variants": [
+    "Hiki-gun"
+   ]
+  },
+  {
+   "name": "Kumagaya",
+   "variants": [
+    "Kumagaya-shi"
+   ]
+  },
+  {
+   "name": "Chichibu",
+   "variants": [
+    "Chichibu-gun"
+   ]
+  },
+  {
+   "name": "Kodama",
+   "variants": [
+    "Kodama-gun"
+   ]
+  },
+  {
+   "name": "Ōsato",
+   "variants": [
+    "Osato-gun"
+   ]
+  },
+  {
+   "name": "Kitasaitama",
+   "variants": [
+    "Kitasaitama-gun"
+   ]
+  },
+  {
+   "name": "Minamisaitama",
+   "variants": [
+    "Minamisaitama-gun"
+   ]
+  },
+  {
+   "name": "Kitakatsushika",
+   "variants": [
+    "Kitakatsushika-gun"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma-Ken"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi-shi"
+   ]
+  },
+  {
+   "name": "Isesaki",
+   "variants": [
+    "Isezaki-shi"
+   ]
+  },
+  {
+   "name": "Seta",
+   "variants": [
+    "Seta-gun"
+   ]
+  },
+  {
+   "name": "Tone",
+   "variants": [
+    "Ione-gun"
+   ]
+  },
+  {
+   "name": "Sawa",
+   "variants": [
+    "Saha-gun"
+   ]
+  },
+  {
+   "name": "Kiryū",
+   "variants": [
+    "Kiriu-shi"
+   ]
+  },
+  {
+   "name": "Nitta",
+   "variants": [
+    "Nitta-gun"
+   ]
+  },
+  {
+   "name": "Yamada",
+   "variants": [
+    "Yamada-gun"
+   ]
+  },
+  {
+   "name": "Ōra",
+   "variants": [
+    "Ora-gun"
+   ]
+  },
+  {
+   "name": "Takasaki",
+   "variants": [
+    "Takasaki-shi"
+   ]
+  },
+  {
+   "name": "Gunma district",
+   "variants": [
+    "Gumma-gun"
+   ]
+  },
+  {
+   "name": "Tano",
+   "variants": [
+    "ano-gun"
+   ]
+  },
+  {
+   "name": "Kitakanra",
+   "variants": [
+    "Kitakama-gun"
+   ]
+  },
+  {
+   "name": "Usui",
+   "variants": [
+    "Usui-gun"
+   ]
+  },
+  {
+   "name": "Agatsuma",
+   "variants": [
+    "Akatsuma-gun"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba-Ken"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba-shi",
+    "Chiba-gun"
+   ]
+  },
+  {
+   "name": "Ichikawa",
+   "variants": [
+    "Ichikava-shi"
+   ]
+  },
+  {
+   "name": "Funabashi",
+   "variants": [
+    "Funabashi-shi"
+   ]
+  },
+  {
+   "name": "Matsudo",
+   "variants": [
+    "Matsudo-shi"
+   ]
+  },
+  {
+   "name": "Ichihara",
+   "variants": [
+    "Ichihara-gun"
+   ]
+  },
+  {
+   "name": "Higashikatsushika",
+   "variants": [
+    "Higashikatsushika-gun"
+   ]
+  },
+  {
+   "name": "Chōshi",
+   "variants": [
+    "Choshi-shi"
+   ]
+  },
+  {
+   "name": "Inba",
+   "variants": [
+    "Inba-gun"
+   ]
+  },
+  {
+   "name": "Unakami",
+   "variants": [
+    "Unakami-gun"
+   ]
+  },
+  {
+   "name": "Sōsa",
+   "variants": [
+    "ose-gun"
+   ]
+  },
+  {
+   "name": "Katori",
+   "variants": [
+    "Katori-gun"
+   ]
+  },
+  {
+   "name": "Tateyama",
+   "variants": [
+    "Tateyama-shi"
+   ]
+  },
+  {
+   "name": "Kisarazu",
+   "variants": [
+    "Kisarazu-shi"
+   ]
+  },
+  {
+   "name": "Chōsei",
+   "variants": [
+    "Chosei-gun"
+   ]
+  },
+  {
+   "name": "Sanbu",
+   "variants": [
+    "Sanbu-gun"
+   ]
+  },
+  {
+   "name": "Kimitsu",
+   "variants": [
+    "Kimitsu-gun"
+   ]
+  },
+  {
+   "name": "Isumi",
+   "variants": [
+    "Isumi-sun"
+   ]
+  },
+  {
+   "name": "Awa",
+   "variants": [
+    "Awa-gun"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki-Ken"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "Mito-shi"
+   ]
+  },
+  {
+   "name": "Higashiibaraki",
+   "variants": [
+    "Higashi-ibaraki-gun"
+   ]
+  },
+  {
+   "name": "Nishiibaraki",
+   "variants": [
+    "Nishi-ibaraki-gun"
+   ]
+  },
+  {
+   "name": "Kashima",
+   "variants": [
+    "Kashima-gun"
+   ]
+  },
+  {
+   "name": "Namegata",
+   "variants": [
+    "Yukue-gun"
+   ]
+  },
+  {
+   "name": "Inashiki",
+   "variants": [
+    "Inashiki-gun"
+   ]
+  },
+  {
+   "name": "Kitasōma",
+   "variants": [
+    "Kitasoma-gun"
+   ]
+  },
+  {
+   "name": "Hitachi",
+   "variants": [
+    "Hitachi-shi"
+   ]
+  },
+  {
+   "name": "Kuji",
+   "variants": [
+    "Kuji-gun"
+   ]
+  },
+  {
+   "name": "Taga",
+   "variants": [
+    "Taga-gun"
+   ]
+  },
+  {
+   "name": "Tsuchiura",
+   "variants": [
+    "Tsuchiura-shi"
+   ]
+  },
+  {
+   "name": "Niihari",
+   "variants": [
+    "Niiji-gun"
+   ]
+  },
+  {
+   "name": "Tsukuba",
+   "variants": [
+    "Chikuba-gun"
+   ]
+  },
+  {
+   "name": "Makabe",
+   "variants": [
+    "Makabe-gun"
+   ]
+  },
+  {
+   "name": "Sashima",
+   "variants": [
+    "Sarushima-gun"
+   ]
+  },
+  {
+   "name": "Yūki",
+   "variants": [
+    "Yuki-gun"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi-Ken"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "Utsunomiya-shi"
+   ]
+  },
+  {
+   "name": "Kawachi",
+   "variants": [
+    "Kawachi-gun"
+   ]
+  },
+  {
+   "name": "Kamitsuga",
+   "variants": [
+    "Kamizuka-gun"
+   ]
+  },
+  {
+   "name": "Shioya",
+   "variants": [
+    "Shioya-gun"
+   ]
+  },
+  {
+   "name": "Nasu",
+   "variants": [
+    "Nasu-gun"
+   ]
+  },
+  {
+   "name": "Ashikaga",
+   "variants": [
+    "Ashikaga-shi",
+    "Ashikaga-gun"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Tochigi-shi"
+   ]
+  },
+  {
+   "name": "Sano",
+   "variants": [
+    "Sano-shi"
+   ]
+  },
+  {
+   "name": "Haga",
+   "variants": [
+    "Haga-gun"
+   ]
+  },
+  {
+   "name": "Shimotsuga",
+   "variants": [
+    "Shimotsuka-gun"
+   ]
+  },
+  {
+   "name": "Aso",
+   "variants": [
+    "Aso-gun"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara-Ken"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie-Ken"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu-shi"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "Yokkaichi-shi"
+   ]
+  },
+  {
+   "name": "Kuwana",
+   "variants": [
+    "Kuwana-shi",
+    "Kuvana-gun"
+   ]
+  },
+  {
+   "name": "Ueno",
+   "variants": [
+    "Ueno-shi"
+   ]
+  },
+  {
+   "name": "Suzuka",
+   "variants": [
+    "Suzuka-shi",
+    "Suzuka-gun"
+   ]
+  },
+  {
+   "name": "Inabe",
+   "variants": [
+    "Inabe-gun"
+   ]
+  },
+  {
+   "name": "Mei",
+   "variants": [
+    "Mei-gun"
+   ]
+  },
+  {
+   "name": "Kawage",
+   "variants": [
+    "Kavage-gun"
+   ]
+  },
+  {
+   "name": "Ano",
+   "variants": [
+    "Ano-Jun"
+   ]
+  },
+  {
+   "name": "Ichishi",
+   "variants": [
+    "Ichishi-gun"
+   ]
+  },
+  {
+   "name": "Ayama",
+   "variants": [
+    "Ayama-gun"
+   ]
+  },
+  {
+   "name": "Naga",
+   "variants": [
+    "Nage-gun"
+   ]
+  },
+  {
+   "name": "Ise",
+   "variants": [
+    "Ujiyamada-shi"
+   ]
+  },
+  {
+   "name": "Matsusaka",
+   "variants": [
+    "Matsuzaka-shi"
+   ]
+  },
+  {
+   "name": "Iinan",
+   "variants": [
+    "Iina-gun"
+   ]
+  },
+  {
+   "name": "Taki",
+   "variants": [
+    "Take-gun"
+   ]
+  },
+  {
+   "name": "Watarai",
+   "variants": [
+    "Watarai-gun"
+   ]
+  },
+  {
+   "name": "Shima",
+   "variants": [
+    "Chima-gun"
+   ]
+  },
+  {
+   "name": "Kitamuro",
+   "variants": [
+    "Kitamuro-gun"
+   ]
+  },
+  {
+   "name": "Minamimuro",
+   "variants": [
+    "Minamimuro-gun"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi-Ken"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Fagoya-shi"
+   ]
+  },
+  {
+   "name": "Seto",
+   "variants": [
+    "Seto-shi"
+   ]
+  },
+  {
+   "name": "Handa",
+   "variants": [
+    "Handa-shi"
+   ]
+  },
+  {
+   "name": "Kasugai",
+   "variants": [
+    "Kasugai-shi"
+   ]
+  },
+  {
+   "name": "Aichi district",
+   "variants": [
+    "Aichi-gun"
+   ]
+  },
+  {
+   "name": "Higashikasugai",
+   "variants": [
+    "Higashikasugai-gun"
+   ]
+  },
+  {
+   "name": "Nishikasugai",
+   "variants": [
+    "Nishikasugai-gun"
+   ]
+  },
+  {
+   "name": "Chita",
+   "variants": [
+    "Chita-gun"
+   ]
+  },
+  {
+   "name": "Ichinomiya",
+   "variants": [
+    "Ichinomiya-shi"
+   ]
+  },
+  {
+   "name": "Tsushima city",
+   "variants": [
+    "Tsushima-shi"
+   ]
+  },
+  {
+   "name": "Niwa",
+   "variants": [
+    "Niwa-gun"
+   ]
+  },
+  {
+   "name": "Haguri",
+   "variants": [
+    "Haguri-gun"
+   ]
+  },
+  {
+   "name": "Nakajima",
+   "variants": [
+    "Nakajima-gun"
+   ]
+  },
+  {
+   "name": "Ama",
+   "variants": [
+    "Kaibu-gun"
+   ]
+  },
+  {
+   "name": "Okazaki",
+   "variants": [
+    "Okazaki-shi"
+   ]
+  },
+  {
+   "name": "Hekikai",
+   "variants": [
+    "Hekikai-gun"
+   ]
+  },
+  {
+   "name": "Hazu",
+   "variants": [
+    "Hazu-gun"
+   ]
+  },
+  {
+   "name": "Nukata",
+   "variants": [
+    "Nukata-gun"
+   ]
+  },
+  {
+   "name": "Nishikamo",
+   "variants": [
+    "Nishikamo-gun"
+   ]
+  },
+  {
+   "name": "Higashikamo",
+   "variants": [
+    "Higashikamo-gun"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyohashi-shi"
+   ]
+  },
+  {
+   "name": "Toyokawa",
+   "variants": [
+    "Toyokawa-shi"
+   ]
+  },
+  {
+   "name": "Kitashitara",
+   "variants": [
+    "Kitashidara-gun"
+   ]
+  },
+  {
+   "name": "Minamishitara",
+   "variants": [
+    "Minamishidara-gun"
+   ]
+  },
+  {
+   "name": "Hōi",
+   "variants": [
+    "Hoi-gun"
+   ]
+  },
+  {
+   "name": "Atsumi",
+   "variants": [
+    "Atsumi-gun"
+   ]
+  },
+  {
+   "name": "Yana",
+   "variants": [
+    "Yana-gun"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-Ken"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka-shi"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu-shi"
+   ]
+  },
+  {
+   "name": "Ihara",
+   "variants": [
+    "Ihara-gun"
+   ]
+  },
+  {
+   "name": "Abe",
+   "variants": [
+    "Abe-gun"
+   ]
+  },
+  {
+   "name": "Shida",
+   "variants": [
+    "Shita-gun",
+    "Shida-gun"
+   ]
+  },
+  {
+   "name": "Haibara",
+   "variants": [
+    "Haibara-gun"
+   ]
+  },
+  {
+   "name": "Ogasa",
+   "variants": [
+    "Ogasa-gun"
+   ]
+  },
+  {
+   "name": "Numazu",
+   "variants": [
+    "Numazu-shi"
+   ]
+  },
+  {
+   "name": "Atami",
+   "variants": [
+    "Atami-shi"
+   ]
+  },
+  {
+   "name": "Fujinomiya",
+   "variants": [
+    "Fujimiya-shi"
+   ]
+  },
+  {
+   "name": "Kamo",
+   "variants": [
+    "Kamo-gun"
+   ]
+  },
+  {
+   "name": "Tagata",
+   "variants": [
+    "Tagata-gun"
+   ]
+  },
+  {
+   "name": "Suntō",
+   "variants": [
+    "Sunto-gun"
+   ]
+  },
+  {
+   "name": "Fuji",
+   "variants": [
+    "Fuji-gun"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu-shi"
+   ]
+  },
+  {
+   "name": "Iwata",
+   "variants": [
+    "Iwata-gun"
+   ]
+  },
+  {
+   "name": "Shūchi",
+   "variants": [
+    "Suchi-gun"
+   ]
+  },
+  {
+   "name": "Hamana",
+   "variants": [
+    "Hamna-gun"
+   ]
+  },
+  {
+   "name": "Inasa",
+   "variants": [
+    "Inasa-gun"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi-Ken"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga-Ken"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu-Ken"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu-shi"
+   ]
+  },
+  {
+   "name": "Ōgaki",
+   "variants": [
+    "Ogaki-shi"
+   ]
+  },
+  {
+   "name": "Inaba",
+   "variants": [
+    "Inaba-gun"
+   ]
+  },
+  {
+   "name": "Hashima",
+   "variants": [
+    "Hashima-gun"
+   ]
+  },
+  {
+   "name": "Yōrō",
+   "variants": [
+    "Yoro-gun"
+   ]
+  },
+  {
+   "name": "Fuwa",
+   "variants": [
+    "Fuha-gun"
+   ]
+  },
+  {
+   "name": "Anpachi",
+   "variants": [
+    "Anbachi-gun"
+   ]
+  },
+  {
+   "name": "Ibi",
+   "variants": [
+    "Ibi-gun"
+   ]
+  },
+  {
+   "name": "Motosu",
+   "variants": [
+    "Motosu-gun"
+   ]
+  },
+  {
+   "name": "Yamagata district",
+   "variants": [
+    "Yamagata-gun"
+   ]
+  },
+  {
+   "name": "Mugi",
+   "variants": [
+    "Hugi-gun"
+   ]
+  },
+  {
+   "name": "Takayama",
+   "variants": [
+    "Takaya-shi"
+   ]
+  },
+  {
+   "name": "Tajimi",
+   "variants": [
+    "Tajimi-shi"
+   ]
+  },
+  {
+   "name": "Gujō",
+   "variants": [
+    "Kunjo-gun"
+   ]
+  },
+  {
+   "name": "Kani",
+   "variants": [
+    "Kani-gun"
+   ]
+  },
+  {
+   "name": "Toki",
+   "variants": [
+    "Toki-gun"
+   ]
+  },
+  {
+   "name": "Ena",
+   "variants": [
+    "Ena-gun"
+   ]
+  },
+  {
+   "name": "Mashita",
+   "variants": [
+    "Mashita-gun"
+   ]
+  },
+  {
+   "name": "Ōno",
+   "variants": [
+    "Ono-gun"
+   ]
+  },
+  {
+   "name": "Yoshiki",
+   "variants": [
+    "Yoshiki-gun"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano-Ken"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano-shi"
+   ]
+  },
+  {
+   "name": "Sarashina",
+   "variants": [
+    "Sarashina-gun"
+   ]
+  },
+  {
+   "name": "Kamitakai",
+   "variants": [
+    "Kamitakai-gun"
+   ]
+  },
+  {
+   "name": "Shimotakai",
+   "variants": [
+    "Khimotakai-gun"
+   ]
+  },
+  {
+   "name": "Kamiminochi",
+   "variants": [
+    "Kamiminochi-gun"
+   ]
+  },
+  {
+   "name": "Shimominochi",
+   "variants": [
+    "Shimominochi-gun"
+   ]
+  },
+  {
+   "name": "Ueda",
+   "variants": [
+    "Ueda-shi"
+   ]
+  },
+  {
+   "name": "Minamisaku",
+   "variants": [
+    "Minamisaku-gun"
+   ]
+  },
+  {
+   "name": "Kitasaku",
+   "variants": [
+    "Kitasaku-gun"
+   ]
+  },
+  {
+   "name": "Chiisagata",
+   "variants": [
+    "Chisagata-gun"
+   ]
+  },
+  {
+   "name": "Hanishina",
+   "variants": [
+    "Hanishina-gun"
+   ]
+  },
+  {
+   "name": "Okaya",
+   "variants": [
+    "Okaya-shi"
+   ]
+  },
+  {
+   "name": "Iida",
+   "variants": [
+    "Iide-shi"
+   ]
+  },
+  {
+   "name": "Suwa",
+   "variants": [
+    "Suwa-shi",
+    "Suva-gun"
+   ]
+  },
+  {
+   "name": "Kamiina",
+   "variants": [
+    "Kamiina-gun"
+   ]
+  },
+  {
+   "name": "Shimoina",
+   "variants": [
+    "Shimoina-gun"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "Matsumoto-shi"
+   ]
+  },
+  {
+   "name": "Nishichikuma",
+   "variants": [
+    "Fishichikuma-gun"
+   ]
+  },
+  {
+   "name": "Higashichikuma",
+   "variants": [
+    "Higashichikuma-gun"
+   ]
+  },
+  {
+   "name": "Minamiazumi",
+   "variants": [
+    "Minamiazumi-gun"
+   ]
+  },
+  {
+   "name": "Kitaazumi",
+   "variants": [
+    "Kitaazumi-gun"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi-Yon"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Condai-shi"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "Shiogama-shi"
+   ]
+  },
+  {
+   "name": "Katta",
+   "variants": [
+    "Katta-gun"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "variants": [
+    "Shibata-gun"
+   ]
+  },
+  {
+   "name": "Igu",
+   "variants": [
+    "Igu-gun"
+   ]
+  },
+  {
+   "name": "Watari",
+   "variants": [
+    "\"atari-gun"
+   ]
+  },
+  {
+   "name": "Natori",
+   "variants": [
+    "Natori-gun"
+   ]
+  },
+  {
+   "name": "Miyagi district",
+   "variants": [
+    "Miyagi-gun"
+   ]
+  },
+  {
+   "name": "Kurokawa",
+   "variants": [
+    "Kurokawa-sun"
+   ]
+  },
+  {
+   "name": "Kami",
+   "variants": [
+    "Kami-gun"
+   ]
+  },
+  {
+   "name": "Tōda",
+   "variants": [
+    "Tode-gun"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "Ishinomaki-shi"
+   ]
+  },
+  {
+   "name": "Tōmatsuura",
+   "variants": [
+    "Tematsuouri-sun"
+   ]
+  },
+  {
+   "name": "Kurihara",
+   "variants": [
+    "Kurihara-gun"
+   ]
+  },
+  {
+   "name": "Tome",
+   "variants": [
+    "Tome-gun"
+   ]
+  },
+  {
+   "name": "Monō",
+   "variants": [
+    "Mono-gun"
+   ]
+  },
+  {
+   "name": "Oshika",
+   "variants": [
+    "Oshika-gun"
+   ]
+  },
+  {
+   "name": "Motoyoshi",
+   "variants": [
+    "Motoyoshi-gun"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima-Ken"
+   ]
+  },
+  {
+   "name": "Fukushima city",
+   "variants": [
+    "Fukushima-shi"
+   ]
+  },
+  {
+   "name": "Kōriyama",
+   "variants": [
+    "Koriyama-shi"
+   ]
+  },
+  {
+   "name": "Shinobu",
+   "variants": [
+    "Shinobu-gun"
+   ]
+  },
+  {
+   "name": "Date",
+   "variants": [
+    "Date-gun"
+   ]
+  },
+  {
+   "name": "Adachi district",
+   "variants": [
+    "Adachi-gun"
+   ]
+  },
+  {
+   "name": "Asaka",
+   "variants": [
+    "Asaka-gun"
+   ]
+  },
+  {
+   "name": "Wakamatsu",
+   "variants": [
+    "\"akamatsu-shi"
+   ]
+  },
+  {
+   "name": "Iwase",
+   "variants": [
+    "Iwase-gun"
+   ]
+  },
+  {
+   "name": "Minamiaizu",
+   "variants": [
+    "Minamiaizu-gun"
+   ]
+  },
+  {
+   "name": "Kitaaizu",
+   "variants": [
+    "Kitaaizu-gun"
+   ]
+  },
+  {
+   "name": "Yama",
+   "variants": [
+    "Yama-gun"
+   ]
+  },
+  {
+   "name": "Kawanuma",
+   "variants": [
+    "Kawanuma-gun"
+   ]
+  },
+  {
+   "name": "Ōnuma",
+   "variants": [
+    "Onuma-gun"
+   ]
+  },
+  {
+   "name": "Higashishirakawa",
+   "variants": [
+    "Higashishirakawa-gun"
+   ]
+  },
+  {
+   "name": "Nishishirakawa",
+   "variants": [
+    "Nishishirakawa-gun"
+   ]
+  },
+  {
+   "name": "Ishikawa district",
+   "variants": [
+    "Ishitawa-gun",
+    "Ishikawa-gun"
+   ]
+  },
+  {
+   "name": "Tamura",
+   "variants": [
+    "Tamura-gun"
+   ]
+  },
+  {
+   "name": "Taira",
+   "variants": [
+    "Taira-shi"
+   ]
+  },
+  {
+   "name": "Iwaki",
+   "variants": [
+    "Iwaki-gun"
+   ]
+  },
+  {
+   "name": "Futaba",
+   "variants": [
+    "Futaba-gun"
+   ]
+  },
+  {
+   "name": "Sōma",
+   "variants": [
+    "Soma-gun"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Ivate-Ken"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Morioka-shi"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaishi-shi"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "Miyako-shi"
+   ]
+  },
+  {
+   "name": "Iwate district",
+   "variants": [
+    "Iwate-gun"
+   ]
+  },
+  {
+   "name": "Shiwa",
+   "variants": [
+    "Shiba-gun"
+   ]
+  },
+  {
+   "name": "Kamihei",
+   "variants": [
+    "Kamihei-gun"
+   ]
+  },
+  {
+   "name": "Shimohei",
+   "variants": [
+    "Shimokei-gun"
+   ]
+  },
+  {
+   "name": "Kunohe",
+   "variants": [
+    "Kunoe-gun"
+   ]
+  },
+  {
+   "name": "Ninohe",
+   "variants": [
+    "Ninoe-gun"
+   ]
+  },
+  {
+   "name": "Hanamaki",
+   "variants": [
+    "Hienuli-shi"
+   ]
+  },
+  {
+   "name": "Waga",
+   "variants": [
+    "\"aka-gun"
+   ]
+  },
+  {
+   "name": "Isawa",
+   "variants": [
+    "Kisawa-gun"
+   ]
+  },
+  {
+   "name": "Esashi",
+   "variants": [
+    "Esashi-gun"
+   ]
+  },
+  {
+   "name": "Nishiiwai",
+   "variants": [
+    "Nishiiwai-gun"
+   ]
+  },
+  {
+   "name": "Higashiiwai",
+   "variants": [
+    "Higashiiwai-gun"
+   ]
+  },
+  {
+   "name": "Kesen",
+   "variants": [
+    "Kisen-gun"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori-Ken"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori-shi"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinoe-shi"
+   ]
+  },
+  {
+   "name": "Higashitsugaru",
+   "variants": [
+    "Hiyashitsugaru-gun"
+   ]
+  },
+  {
+   "name": "Kamikita",
+   "variants": [
+    "Kamikita-gun"
+   ]
+  },
+  {
+   "name": "Shimokita",
+   "variants": [
+    "Shimokita-gun"
+   ]
+  },
+  {
+   "name": "Sannohe",
+   "variants": [
+    "Sannoe-gun"
+   ]
+  },
+  {
+   "name": "Hirosaki",
+   "variants": [
+    "Hirosaki-shi"
+   ]
+  },
+  {
+   "name": "Nishitsugaru",
+   "variants": [
+    "Nishitsugaru-gun"
+   ]
+  },
+  {
+   "name": "Nakatsugaru",
+   "variants": [
+    "Nakatsugaru-gun"
+   ]
+  },
+  {
+   "name": "Minamitsugaru",
+   "variants": [
+    "Minamitsugaru-gun"
+   ]
+  },
+  {
+   "name": "Kitatsugaru",
+   "variants": [
+    "Kitatsugaru-gun"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata-Ken"
+   ]
+  },
+  {
+   "name": "Yamagata city",
+   "variants": [
+    "Yamagata-shi"
+   ]
+  },
+  {
+   "name": "Yonezawa",
+   "variants": [
+    "Yonezawa-shi"
+   ]
+  },
+  {
+   "name": "Minamimurayama",
+   "variants": [
+    "Minamimurayama-gun"
+   ]
+  },
+  {
+   "name": "Higashimurayama",
+   "variants": [
+    "Higashimurayama-gun"
+   ]
+  },
+  {
+   "name": "Nishimurayama",
+   "variants": [
+    "Nishimurayama-gun"
+   ]
+  },
+  {
+   "name": "Minamiokitama",
+   "variants": [
+    "Minamiokitama-gun"
+   ]
+  },
+  {
+   "name": "Higashiokitama",
+   "variants": [
+    "Higashiokitama-gun"
+   ]
+  },
+  {
+   "name": "Nishiokitama",
+   "variants": [
+    "Nishiokitama-gun"
+   ]
+  },
+  {
+   "name": "Tsuruoka",
+   "variants": [
+    "Tsuruoka-shi"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "Sakata-shi"
+   ]
+  },
+  {
+   "name": "Kitamurayama",
+   "variants": [
+    "Kitamurayama-gun"
+   ]
+  },
+  {
+   "name": "Mogami",
+   "variants": [
+    "Mogami-gun"
+   ]
+  },
+  {
+   "name": "Higashitagawa",
+   "variants": [
+    "Higashitagawa-gun"
+   ]
+  },
+  {
+   "name": "Nishitagawa",
+   "variants": [
+    "Nishitagawa-gun"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita-Ken"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita-shi"
+   ]
+  },
+  {
+   "name": "Noshiro",
+   "variants": [
+    "Noshiro-shi"
+   ]
+  },
+  {
+   "name": "Kazuno",
+   "variants": [
+    "Kazuno-gun"
+   ]
+  },
+  {
+   "name": "Kitaakita",
+   "variants": [
+    "Kitaakita-gun"
+   ]
+  },
+  {
+   "name": "Yamamoto",
+   "variants": [
+    "Yamamoto-gun"
+   ]
+  },
+  {
+   "name": "Minamiakita",
+   "variants": [
+    "Minamiakita-gun"
+   ]
+  },
+  {
+   "name": "Yuri",
+   "variants": [
+    "Yuri-gun"
+   ]
+  },
+  {
+   "name": "Senboku",
+   "variants": [
+    "Senkoku-gun"
+   ]
+  },
+  {
+   "name": "Hiraka",
+   "variants": [
+    "Hiraka-gun"
+   ]
+  },
+  {
+   "name": "Ogachi",
+   "variants": [
+    "Okachi-gun"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui-Ken"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa-Ken"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa-shi"
+   ]
+  },
+  {
+   "name": "Komatsu",
+   "variants": [
+    "Komatsu-shi"
+   ]
+  },
+  {
+   "name": "Enuma",
+   "variants": [
+    "Enuma-gun"
+   ]
+  },
+  {
+   "name": "Nomi",
+   "variants": [
+    "Nomi-gun"
+   ]
+  },
+  {
+   "name": "Nanao",
+   "variants": [
+    "Nanao-shi"
+   ]
+  },
+  {
+   "name": "Kahoku",
+   "variants": [
+    "Kakoku-gun"
+   ]
+  },
+  {
+   "name": "Hakui",
+   "variants": [
+    "Hagui-gun"
+   ]
+  },
+  {
+   "name": "Kashima district",
+   "variants": [
+    "Kashima-gun"
+   ]
+  },
+  {
+   "name": "Fugeshi",
+   "variants": [
+    "Fugeshi-gun"
+   ]
+  },
+  {
+   "name": "Suzu",
+   "variants": [
+    "Suzu-gun"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama-Ken"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama-shi"
+   ]
+  },
+  {
+   "name": "Kaminikawa",
+   "variants": [
+    "Kaminikawa-gun"
+   ]
+  },
+  {
+   "name": "Nakaniikawa",
+   "variants": [
+    "Nakaniikava-gun"
+   ]
+  },
+  {
+   "name": "Shimoniikawa",
+   "variants": [
+    "Shimoniikawa-gun"
+   ]
+  },
+  {
+   "name": "Nei",
+   "variants": [
+    "Nei-gun"
+   ]
+  },
+  {
+   "name": "Takaoka",
+   "variants": [
+    "Takaoka-shi"
+   ]
+  },
+  {
+   "name": "Imizu",
+   "variants": [
+    "Imizu-gun"
+   ]
+  },
+  {
+   "name": "Himi",
+   "variants": [
+    "Himi-gun"
+   ]
+  },
+  {
+   "name": "Higashitonami",
+   "variants": [
+    "Higashitonami-gun"
+   ]
+  },
+  {
+   "name": "Nishitonami",
+   "variants": [
+    "Nishitonami-gun"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori-Ken"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane- Ken"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama-Ken"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama-shi"
+   ]
+  },
+  {
+   "name": "Tsuyama",
+   "variants": [
+    "Tsuyama-shi"
+   ]
+  },
+  {
+   "name": "Mitsu",
+   "variants": [
+    "Mitsu-gun"
+   ]
+  },
+  {
+   "name": "Akaiwa",
+   "variants": [
+    "Akaiwa-gun"
+   ]
+  },
+  {
+   "name": "Wake",
+   "variants": [
+    "Wake-gun"
+   ]
+  },
+  {
+   "name": "Oku",
+   "variants": [
+    "Oku-gun"
+   ]
+  },
+  {
+   "name": "Jōtō",
+   "variants": [
+    "Jodo-gun"
+   ]
+  },
+  {
+   "name": "Maniwa",
+   "variants": [
+    "Maniwa-gun"
+   ]
+  },
+  {
+   "name": "Tomata",
+   "variants": [
+    "Tomata-gun"
+   ]
+  },
+  {
+   "name": "Katsuta",
+   "variants": [
+    "Katsuta-gun"
+   ]
+  },
+  {
+   "name": "Aida",
+   "variants": [
+    "Aida-gun"
+   ]
+  },
+  {
+   "name": "Kume",
+   "variants": [
+    "Kume-gun"
+   ]
+  },
+  {
+   "name": "Kurashiki",
+   "variants": [
+    "Kurashiki-shi"
+   ]
+  },
+  {
+   "name": "Tamano",
+   "variants": [
+    "Tamono-shi"
+   ]
+  },
+  {
+   "name": "Kojima",
+   "variants": [
+    "Kojima-gun"
+   ]
+  },
+  {
+   "name": "Tsukubo",
+   "variants": [
+    "Tsukubo-gun"
+   ]
+  },
+  {
+   "name": "Asakuchi",
+   "variants": [
+    "Asakuchi-gun"
+   ]
+  },
+  {
+   "name": "Oda",
+   "variants": [
+    "Oda-gun"
+   ]
+  },
+  {
+   "name": "Shitsuki",
+   "variants": [
+    "Shitsuki-gun"
+   ]
+  },
+  {
+   "name": "Kibi",
+   "variants": [
+    "Kibi-gun"
+   ]
+  },
+  {
+   "name": "Kamibō",
+   "variants": [
+    "Kamibo-gun"
+   ]
+  },
+  {
+   "name": "Kawakami",
+   "variants": [
+    "Kawakami-gun"
+   ]
+  },
+  {
+   "name": "Atetsu",
+   "variants": [
+    "Atetsu-gun"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima-Ken"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima-shi"
+   ]
+  },
+  {
+   "name": "Saeki",
+   "variants": [
+    "Saheki-gun"
+   ]
+  },
+  {
+   "name": "Asa",
+   "variants": [
+    "Asa-gun"
+   ]
+  },
+  {
+   "name": "Takata",
+   "variants": [
+    "Takata-gun"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure-shi"
+   ]
+  },
+  {
+   "name": "Aki",
+   "variants": [
+    "Alti-gun"
+   ]
+  },
+  {
+   "name": "Toyota district",
+   "variants": [
+    "Toyota-gun"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "Onomichi-shi"
+   ]
+  },
+  {
+   "name": "Fukuyama",
+   "variants": [
+    "Fukuyama-shi"
+   ]
+  },
+  {
+   "name": "Mitsugi",
+   "variants": [
+    "Mitsugi-gun"
+   ]
+  },
+  {
+   "name": "Sera",
+   "variants": [
+    "Sera-gun"
+   ]
+  },
+  {
+   "name": "Numakuma",
+   "variants": [
+    "Numakuma-gun"
+   ]
+  },
+  {
+   "name": "Fukayasu",
+   "variants": [
+    "Fukayasu-gun"
+   ]
+  },
+  {
+   "name": "Ashina",
+   "variants": [
+    "Ashina-gun"
+   ]
+  },
+  {
+   "name": "Jinseki",
+   "variants": [
+    "Jinseki-gun"
+   ]
+  },
+  {
+   "name": "Kōnu",
+   "variants": [
+    "Konu-gun"
+   ]
+  },
+  {
+   "name": "Futami",
+   "variants": [
+    "Futami-gun"
+   ]
+  },
+  {
+   "name": "Hiba",
+   "variants": [
+    "Hiba-gun"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi-Ken"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki-shi"
+   ]
+  },
+  {
+   "name": "Ube",
+   "variants": [
+    "Ube-shi"
+   ]
+  },
+  {
+   "name": "Hagi",
+   "variants": [
+    "Hagi-shi"
+   ]
+  },
+  {
+   "name": "Onoda",
+   "variants": [
+    "Onota-shi"
+   ]
+  },
+  {
+   "name": "Toyora",
+   "variants": [
+    "Toyora-gun"
+   ]
+  },
+  {
+   "name": "Mine",
+   "variants": [
+    "Mine-gun"
+   ]
+  },
+  {
+   "name": "Ōtsu",
+   "variants": [
+    "Otsu-gun"
+   ]
+  },
+  {
+   "name": "Abu",
+   "variants": [
+    "Abu-gun"
+   ]
+  },
+  {
+   "name": "Yamaguchi city",
+   "variants": [
+    "Yamaguchi-shi"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokuyama-shi"
+   ]
+  },
+  {
+   "name": "Hōfu",
+   "variants": [
+    "Bofu-shi"
+   ]
+  },
+  {
+   "name": "Kudamatsu",
+   "variants": [
+    "Shitamatsu-shi"
+   ]
+  },
+  {
+   "name": "Iwakuni",
+   "variants": [
+    "Iwakuni-shi"
+   ]
+  },
+  {
+   "name": "Hikari",
+   "variants": [
+    "Hikari-shi"
+   ]
+  },
+  {
+   "name": "Ōshima district",
+   "variants": [
+    "Oshima-gun"
+   ]
+  },
+  {
+   "name": "Kuga",
+   "variants": [
+    "Kuka-gun"
+   ]
+  },
+  {
+   "name": "Kumage",
+   "variants": [
+    "Kumage-gun"
+   ]
+  },
+  {
+   "name": "Tsuno",
+   "variants": [
+    "Tsuno-gun"
+   ]
+  },
+  {
+   "name": "Saba",
+   "variants": [
+    "Saba-gun"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama-Ken"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "\"akayama-shi"
+   ]
+  },
+  {
+   "name": "Kainan",
+   "variants": [
+    "Kainan-shi"
+   ]
+  },
+  {
+   "name": "Kaisō",
+   "variants": [
+    "Kaiso-gun"
+   ]
+  },
+  {
+   "name": "Ito",
+   "variants": [
+    "Ito-gun"
+   ]
+  },
+  {
+   "name": "Shingū",
+   "variants": [
+    "Shingu-shi"
+   ]
+  },
+  {
+   "name": "Tanabe",
+   "variants": [
+    "Tanabe-shi"
+   ]
+  },
+  {
+   "name": "Arida",
+   "variants": [
+    "Arita-gun"
+   ]
+  },
+  {
+   "name": "Hidaka",
+   "variants": [
+    "Hitaka-gun",
+    "Hidaka-shicho"
+   ]
+  },
+  {
+   "name": "Nishimuro",
+   "variants": [
+    "Nishimuro-gun"
+   ]
+  },
+  {
+   "name": "Higashimuro",
+   "variants": [
+    "Higashimuro-gun"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima-Ken"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa-Ken"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu-shi"
+   ]
+  },
+  {
+   "name": "Ōkawa",
+   "variants": [
+    "Okawa-gun"
+   ]
+  },
+  {
+   "name": "Kita",
+   "variants": [
+    "Kida-gun"
+   ]
+  },
+  {
+   "name": "Shōzu",
+   "variants": [
+    "Shozu-gun"
+   ]
+  },
+  {
+   "name": "Kagawa district",
+   "variants": [
+    "Kagawa-gun"
+   ]
+  },
+  {
+   "name": "Marugame",
+   "variants": [
+    "Marugame-shi"
+   ]
+  },
+  {
+   "name": "Sakaide",
+   "variants": [
+    "Sakaide-shi"
+   ]
+  },
+  {
+   "name": "Ayauta",
+   "variants": [
+    "Ayauta-gun"
+   ]
+  },
+  {
+   "name": "Nakatado",
+   "variants": [
+    "Nakatado-gun"
+   ]
+  },
+  {
+   "name": "Mitoyo",
+   "variants": [
+    "Mitoyo-gun"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime-Ken"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matsuyama-shi"
+   ]
+  },
+  {
+   "name": "Onsen",
+   "variants": [
+    "Onsen-gun"
+   ]
+  },
+  {
+   "name": "Iyo",
+   "variants": [
+    "Iyo-gun"
+   ]
+  },
+  {
+   "name": "Kamiukena",
+   "variants": [
+    "Kamukeana-gun"
+   ]
+  },
+  {
+   "name": "Imabari",
+   "variants": [
+    "Imaharu-shi"
+   ]
+  },
+  {
+   "name": "Niihama",
+   "variants": [
+    "Niihama-shi"
+   ]
+  },
+  {
+   "name": "Saijō",
+   "variants": [
+    "Saijo-shi"
+   ]
+  },
+  {
+   "name": "Ochi",
+   "variants": [
+    "Ochi-gun"
+   ]
+  },
+  {
+   "name": "Shūsō",
+   "variants": [
+    "Shuso-gun"
+   ]
+  },
+  {
+   "name": "Nii",
+   "variants": [
+    "Nihi-gun"
+   ]
+  },
+  {
+   "name": "Uma",
+   "variants": [
+    "Uma-gun"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "Uwajima-shi"
+   ]
+  },
+  {
+   "name": "Yawatahama",
+   "variants": [
+    "Yawatahama-shi"
+   ]
+  },
+  {
+   "name": "Kita district",
+   "variants": [
+    "Kita-gun"
+   ]
+  },
+  {
+   "name": "Nishiuwa",
+   "variants": [
+    "Nishiuwa-gun"
+   ]
+  },
+  {
+   "name": "Higashiuwa",
+   "variants": [
+    "Higashiuwa-gun"
+   ]
+  },
+  {
+   "name": "Kitauwa",
+   "variants": [
+    "Kitauwa-gun"
+   ]
+  },
+  {
+   "name": "Minamiuwa",
+   "variants": [
+    "Minamiuwa-gun"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kochi-Ken"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka-Ken"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka-shi"
+   ]
+  },
+  {
+   "name": "Kasuya",
+   "variants": [
+    "Kasuya-gun"
+   ]
+  },
+  {
+   "name": "Munakata",
+   "variants": [
+    "Munakata-gun"
+   ]
+  },
+  {
+   "name": "Asakura",
+   "variants": [
+    "Asakura-gun"
+   ]
+  },
+  {
+   "name": "Tsukushi",
+   "variants": [
+    "Tsukushi-gun"
+   ]
+  },
+  {
+   "name": "Sawara",
+   "variants": [
+    "Sawara-gun"
+   ]
+  },
+  {
+   "name": "Itoshima",
+   "variants": [
+    "Itoshima-gun"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yawata-shi"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "Tobata-shi"
+   ]
+  },
+  {
+   "name": "Nōgata",
+   "variants": [
+    "Nogata-shi"
+   ]
+  },
+  {
+   "name": "Iizuka",
+   "variants": [
+    "Iizuka-shi"
+   ]
+  },
+  {
+   "name": "Onga",
+   "variants": [
+    "Onga-gun"
+   ]
+  },
+  {
+   "name": "Kurate",
+   "variants": [
+    "Furate-gun"
+   ]
+  },
+  {
+   "name": "Kaho",
+   "variants": [
+    "Kaho-gun"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "Kurume-shi"
+   ]
+  },
+  {
+   "name": "Ōmuta",
+   "variants": [
+    "Omuta-shi"
+   ]
+  },
+  {
+   "name": "Ukiha",
+   "variants": [
+    "Ukiha-gun"
+   ]
+  },
+  {
+   "name": "Mii",
+   "variants": [
+    "Mitsui-gun"
+   ]
+  },
+  {
+   "name": "Mizuma",
+   "variants": [
+    "Mitsuma-gun"
+   ]
+  },
+  {
+   "name": "Yame",
+   "variants": [
+    "Yame-gun"
+   ]
+  },
+  {
+   "name": "Yamato",
+   "variants": [
+    "Yamato-gun"
+   ]
+  },
+  {
+   "name": "Miike",
+   "variants": [
+    "Miike-gun"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "Kokura-shi"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji-shi"
+   ]
+  },
+  {
+   "name": "Tagawa city",
+   "variants": [
+    "Kagawa-shi"
+   ]
+  },
+  {
+   "name": "Kiku",
+   "variants": [
+    "Kiku-gun"
+   ]
+  },
+  {
+   "name": "Tagawa district",
+   "variants": [
+    "Tagawa-gun"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "Miyako-gun"
+   ]
+  },
+  {
+   "name": "Chikujō",
+   "variants": [
+    "Chikujo-gun"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oita-Ken"
+   ]
+  },
+  {
+   "name": "Ōita",
+   "variants": [
+    "Oita-shi",
+    "Oita-gun"
+   ]
+  },
+  {
+   "name": "Hita",
+   "variants": [
+    "Hida-shi",
+    "Hida-gun"
+   ]
+  },
+  {
+   "name": "Saiki",
+   "variants": [
+    "Saeki-shi"
+   ]
+  },
+  {
+   "name": "Kitaamabe",
+   "variants": [
+    "Kitaamabe-gun"
+   ]
+  },
+  {
+   "name": "Minamiamabe",
+   "variants": [
+    "Minamiamabe-gun"
+   ]
+  },
+  {
+   "name": "Naoiri",
+   "variants": [
+    "Naoiri-gun"
+   ]
+  },
+  {
+   "name": "Beppu",
+   "variants": [
+    "Beppu-shi"
+   ]
+  },
+  {
+   "name": "Nakatsu",
+   "variants": [
+    "Nakatsu-shi"
+   ]
+  },
+  {
+   "name": "Nishikunisaki",
+   "variants": [
+    "Nishitunisaki-gun"
+   ]
+  },
+  {
+   "name": "Higashikunisaki",
+   "variants": [
+    "Higashikunisaki-gun"
+   ]
+  },
+  {
+   "name": "Hayami",
+   "variants": [
+    "Hayami-gun"
+   ]
+  },
+  {
+   "name": "Shimonoge",
+   "variants": [
+    "Shimonoge-gun"
+   ]
+  },
+  {
+   "name": "Usa",
+   "variants": [
+    "Usa-gun"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga-Ken"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto-Ken"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto-shi"
+   ]
+  },
+  {
+   "name": "Arao",
+   "variants": [
+    "Arao-shi"
+   ]
+  },
+  {
+   "name": "Hōtaku",
+   "variants": [
+    "Hotaku-gun"
+   ]
+  },
+  {
+   "name": "Tamana",
+   "variants": [
+    "Tamana-gun"
+   ]
+  },
+  {
+   "name": "Kamoto",
+   "variants": [
+    "Shikamoto-gun"
+   ]
+  },
+  {
+   "name": "Kikuchi",
+   "variants": [
+    "Kikuchi-gun"
+   ]
+  },
+  {
+   "name": "Aso district",
+   "variants": [
+    "Aso-gun"
+   ]
+  },
+  {
+   "name": "Yatsushiro",
+   "variants": [
+    "Yatsushiro-shi",
+    "Yatsushiro-gun"
+   ]
+  },
+  {
+   "name": "Hitoyoshi",
+   "variants": [
+    "Hitoyoshi-shi"
+   ]
+  },
+  {
+   "name": "Uto",
+   "variants": [
+    "Udo-gun"
+   ]
+  },
+  {
+   "name": "Kamimashiki",
+   "variants": [
+    "Kami Masushiro-gun"
+   ]
+  },
+  {
+   "name": "Shimomashiki",
+   "variants": [
+    "Shimo Masushiro-gun"
+   ]
+  },
+  {
+   "name": "Ashikita",
+   "variants": [
+    "Ashikita-gun"
+   ]
+  },
+  {
+   "name": "Kuma",
+   "variants": [
+    "Kyuma-gun"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki-Ken"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miuazaki-shi",
+    "Miyaza'i-gun"
+   ]
+  },
+  {
+   "name": "Nobeoka",
+   "variants": [
+    "Nobeoka-shi"
+   ]
+  },
+  {
+   "name": "Koyu",
+   "variants": [
+    "Konoyu-gun"
+   ]
+  },
+  {
+   "name": "Higashiusuki",
+   "variants": [
+    "Higashi Sonoki-gun"
+   ]
+  },
+  {
+   "name": "Nishiusuki",
+   "variants": [
+    "Nishi Sonoki-gun"
+   ]
+  },
+  {
+   "name": "Miyakonojō",
+   "variants": [
+    "Miyakonojo-shi"
+   ]
+  },
+  {
+   "name": "Kitamorokata",
+   "variants": [
+    "Kita Morogata-gun"
+   ]
+  },
+  {
+   "name": "Nishimorokata",
+   "variants": [
+    "Nishi Morogata-gun"
+   ]
+  },
+  {
+   "name": "Higashimorokata",
+   "variants": [
+    "Higashi Morogeta-gun"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kogoshima-Ken"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima-shi",
+    "Kagoshima-gun"
+   ]
+  },
+  {
+   "name": "Ibusuki",
+   "variants": [
+    "Ibusuki-gun"
+   ]
+  },
+  {
+   "name": "Kawanabe",
+   "variants": [
+    "Kawanebe-gun"
+   ]
+  },
+  {
+   "name": "Hioki",
+   "variants": [
+    "Hioki-gun"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai-shi"
+   ]
+  },
+  {
+   "name": "Satsuma",
+   "variants": [
+    "Satsuma-gun"
+   ]
+  },
+  {
+   "name": "Izumi",
+   "variants": [
+    "Izumi-gun"
+   ]
+  },
+  {
+   "name": "Isa",
+   "variants": [
+    "Isa-gun"
+   ]
+  },
+  {
+   "name": "Aira",
+   "variants": [
+    "Aira-gun"
+   ]
+  },
+  {
+   "name": "Kanoya",
+   "variants": [
+    "Lanaya-shi"
+   ]
+  },
+  {
+   "name": "Kimotsuki",
+   "variants": [
+    "Kimotsuki-gun"
+   ]
+  },
+  {
+   "name": "Soo",
+   "variants": [
+    "Soo-gun"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo-shi"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "otaru-shi"
+   ]
+  },
+  {
+   "name": "Ishikari",
+   "variants": [
+    "Ishikari-shicho"
+   ]
+  },
+  {
+   "name": "Shiribeshi",
+   "variants": [
+    "Shiribeshi-shicho"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "Asehigawa-shi"
+   ]
+  },
+  {
+   "name": "Kamikawa",
+   "variants": [
+    "Kamikawa-shicho"
+   ]
+  },
+  {
+   "name": "Sōya",
+   "variants": [
+    "Soya-shicho"
+   ]
+  },
+  {
+   "name": "Rumoi",
+   "variants": [
+    "Rumoi-shicho"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate-shi"
+   ]
+  },
+  {
+   "name": "Hiyama",
+   "variants": [
+    "Hiyama-shicho"
+   ]
+  },
+  {
+   "name": "Oshima, Hokkaido",
+   "variants": [
+    "Toshima-shicho"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muroran-shi"
+   ]
+  },
+  {
+   "name": "Yūbari",
+   "variants": [
+    "Yubari-shi"
+   ]
+  },
+  {
+   "name": "Iwamizawa",
+   "variants": [
+    "Iwamizawa-shi"
+   ]
+  },
+  {
+   "name": "Sorachi",
+   "variants": [
+    "Sorachi-shicho"
+   ]
+  },
+  {
+   "name": "Iburi",
+   "variants": [
+    "Ibari-shicho"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro-shi",
+    "Kushiro-shicho"
+   ]
+  },
+  {
+   "name": "Obihiro",
+   "variants": [
+    "Obihiro-shi"
+   ]
+  },
+  {
+   "name": "Kitami",
+   "variants": [
+    "Kitami-shi"
+   ]
+  },
+  {
+   "name": "Abashiri",
+   "variants": [
+    "Abashiri-shi",
+    "Abashiri-shicho"
+   ]
+  },
+  {
+   "name": "Tokachi",
+   "variants": [
+    "Tokachi-shicho"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser or Acting Chief of Mission; sender and conversation participant",
+   "variants": [
+    "V. J. Sebald",
+    "W. J. SEBALD",
+    "W. J. Sebald",
+    "WJSebald",
+    "SEBALD",
+    "bobald"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "GENERAL MaCARTHUR",
+    "GENERAL MaCARTEUR",
+    "GENERAL MacARTHUR",
+    "GENERAL MaCARTIUR"
+   ]
+  },
+  {
+   "name": "Paul J. Mueller",
+   "role": "Major General and Chief of Staff",
+   "variants": [
+    "PAUL J. MUELLER"
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel and Adjutant General",
+   "variants": [
+    "R.M.LEVY",
+    "R. M. LEVY",
+    "R. M. LVY"
+   ]
+  },
+  {
+   "name": "Tetsu Katayama",
+   "role": "former Prime Minister and president of the Social Democratic Party",
+   "variants": [
+    "KATAYAMA Tetsu",
+    "Mr. Katayama",
+    "Mr. Tetsu KATAYAMA",
+    "KATAYAMA"
+   ]
+  },
+  {
+   "name": "Hitoshi Ashida",
+   "role": "Prime Minister",
+   "variants": [
+    "Dr. ASHIDA",
+    "Mr. Ashida"
+   ]
+  },
+  {
+   "name": "William Draper",
+   "role": "United States Under-Secretary for the Army",
+   "variants": [
+    "Mr. illiam Drapor"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "leader of the new conservative party and former Liberal Party president",
+   "variants": [
+    "Shigeru Yoshide",
+    "Mre YosndtDa"
+   ]
+  },
+  {
+   "name": "Kijūrō Shidehara",
+   "role": "Democratic Liberal Party supreme adviser; former Prime Minister",
+   "variants": [
+    "CnIDhHAhA Ki juro",
+    "me. eumbelela"
+   ]
+  },
+  {
+   "name": "Etsujirō Uehara",
+   "role": "Democratic Liberal Party associate adviser; former Home Minister",
+   "variants": [
+    "UEHALA Etsujiro",
+    "Hr. UmhalA Etsujiro"
+   ]
+  },
+  {
+   "name": "Takeshi Yamazaki",
+   "role": "Democratic Liberal Party director general and associate adviser",
+   "variants": [
+    "YAi AzAKI Takeshi",
+    "YAVAZAKI Takeshi"
+   ]
+  },
+  {
+   "name": "Jirō Hoshijima",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "HCSHIJIMA Jiro"
+   ]
+  },
+  {
+   "name": "Shūri Nakajima",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "NAKAJIMA Shuri"
+   ]
+  },
+  {
+   "name": "Bamboku Ōno",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "ONC Bamboku"
+   ]
+  },
+  {
+   "name": "Rinji Ōishi",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "OISHI Linji"
+   ]
+  },
+  {
+   "name": "Jōji Hayashi",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "HAYAbHI Joji"
+   ]
+  },
+  {
+   "name": "Senzō Higai",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "HIGAI Senzo"
+   ]
+  },
+  {
+   "name": "Seiichi Ōmura",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "OMUnA Seiichi"
+   ]
+  },
+  {
+   "name": "Kaneshichi Masuda",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "MASUDA Kaneshichi"
+   ]
+  },
+  {
+   "name": "Tomoharu Inoue",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "IhoUL Tomoharu"
+   ]
+  },
+  {
+   "name": "Shiichi Matsuda",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "LATSUDA Shiichi"
+   ]
+  },
+  {
+   "name": "Kishō Maya",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "LA AYA Kisho"
+   ]
+  },
+  {
+   "name": "Hideo Kuroda",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "KUnODA Hideo"
+   ]
+  },
+  {
+   "name": "Junsuke Itaya",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "ITAYA. Junsuke"
+   ]
+  },
+  {
+   "name": "Toyoichi Ishizaka",
+   "role": "Democratic Liberal Party associate adviser",
+   "variants": [
+    "IsHIaAKA Toyoichi"
+   ]
+  },
+  {
+   "name": "Yasomi Okasamara",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "OCAbAMAnA Yasomi"
+   ]
+  },
+  {
+   "name": "Yoshihide Fukushima",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "PUnUsHIMA Yoshihide"
+   ]
+  },
+  {
+   "name": "Hideji Adachi",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "AUTAl Hide ji"
+   ]
+  },
+  {
+   "name": "Kōtarō Hori",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "HOrI Kotaro"
+   ]
+  },
+  {
+   "name": "Naomichi Inada",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "INADA Naomichi"
+   ]
+  },
+  {
+   "name": "Toyokichi Matsui",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "MATSUI Toyokichi"
+   ]
+  },
+  {
+   "name": "Ichirō Matsumoto",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "MarstmeTe Ichiro"
+   ]
+  },
+  {
+   "name": "Torakichi Namano",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "NAMANO Torakichi"
+   ]
+  },
+  {
+   "name": "Seiichi Ōgushi",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "CGUsHI Seiichi"
+   ]
+  },
+  {
+   "name": "Yorisada Tokugawa",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "ToKUGAA Yorisada"
+   ]
+  },
+  {
+   "name": "Saichi Yamada",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "YAmADA Saichi"
+   ]
+  },
+  {
+   "name": "Yasutaka Suzuki",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "SUzUKI Yasutaka"
+   ]
+  },
+  {
+   "name": "Seijū Ibuka",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "IBi A Seiju"
+   ]
+  },
+  {
+   "name": "Sakubei Hanabata",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "HANAbATA Sakubei"
+   ]
+  },
+  {
+   "name": "Hyōkichi Niwa",
+   "role": "Democratic Liberal Party consultant",
+   "variants": [
+    "NIWA Hyokichi"
+   ]
+  },
+  {
+   "name": "Chūbei Ōse",
+   "role": "Democratic Liberal Party auditor",
+   "variants": [
+    "C.OSE Chubei"
+   ]
+  },
+  {
+   "name": "Kitarō Rōa",
+   "role": "Democratic Liberal Party auditor",
+   "variants": [
+    "RoA Kitaro"
+   ]
+  },
+  {
+   "name": "Ryōichi Higashijima",
+   "role": "Democratic Liberal Party auditor",
+   "variants": [
+    "HIKASHIMA Lyoichi"
+   ]
+  },
+  {
+   "name": "Kenzō Ōui",
+   "role": "Democratic Liberal Party auditor",
+   "variants": [
+    "CUUI Kenzo"
+   ]
+  },
+  {
+   "name": "Yatarō Hiranuma",
+   "role": "Democratic Liberal Party auditor",
+   "variants": [
+    "HIRANUMA Yataro"
+   ]
+  },
+  {
+   "name": "Kisaku Matsushima",
+   "role": "chairman of the party's Upper House Committee",
+   "variants": [
+    "ATSUSHIiA Kisaku"
+   ]
+  },
+  {
+   "name": "Ino Dan",
+   "role": "chairman of the party's Upper House Political Research Committee",
+   "variants": [
+    "DAN Ino"
+   ]
+  },
+  {
+   "name": "Ichizō Hirano",
+   "role": "vice-chairman of the party's Upper House Political Research Committee",
+   "variants": [
+    "HTnApfA Ichozo"
+   ]
+  },
+  {
+   "name": "W. H. Lawrence Jr.",
+   "role": "preparer of the political-party reports",
+   "variants": [
+    "WHbawrenee, Jr.",
+    "WiLawrence,Jr."
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese election law",
+  "electoral districts",
+  "SCAP",
+  "intelligence coordination",
+  "G-2",
+  "United States Political Adviser",
+  "Social Democratic Party",
+  "communism",
+  "Democratic Liberal Party",
+  "Japanese economic rehabilitation",
+  "party platform"
+ ],
+ "subfiles": [
+  {
+   "title": "Law for the Election of Members of the House of Representatives, concluding provisions and annex",
+   "doc_type": "law and electoral-district annex",
+   "start_page": 452,
+   "end_page": 473,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Concludes election offenses and procedures, lists electoral districts and member quotas, and gives transitional amendments.",
+   "summary": "The surviving text begins mid-article with punishments for election disturbances and continues through offenses involving weapons, fraudulent voting, campaign spending, and election administration. Supplementary articles address court proceedings and the transition to the new Constitution. A long annex lists electoral districts and their seat quotas across Japan. Final supplementary rules set the law’s commencement and amend related election and local-government laws.",
+   "keywords": [
+    "election law",
+    "penalties",
+    "voting",
+    "electoral districts",
+    "seat quotas",
+    "supplementary rules"
+   ]
+  },
+  {
+   "title": "Despatch No. 172, General Order No. 4, “Intelligence Targets in Japan”",
+   "doc_type": "despatch",
+   "start_page": 474,
+   "end_page": 475,
+   "continues_previous": false,
+   "date": "1948-03-17",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards SCAP’s intelligence order and raises concern that G-2 clearance could constrain the mission’s reporting.",
+   "summary": "Sebald says a literal reading of General Order No. 4 could require G-2 clearance for the mission’s reports to Washington. He recommends raising no immediate issue because of the mission’s working relationship with SCAP, while alerting the Department to the difficulty.",
+   "keywords": [
+    "SCAP",
+    "G-2",
+    "intelligence",
+    "diplomatic reporting"
+   ]
+  },
+  {
+   "title": "General Orders No. 4, “Intelligence Targets in Japan” — copy 1",
+   "doc_type": "general order enclosure",
+   "start_page": 476,
+   "end_page": 479,
+   "continues_previous": false,
+   "date": "1948-03-13",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "SCAP staff sections",
+   "about": "Assigns G-2 responsibility for coordinating intelligence work and controlling document removal and outgoing reports.",
+   "summary": "The order rescinds earlier orders and gives the Assistant Chief of Staff, G-2, coordinating control over intelligence collection in Japan. It covers technical material, documents, and military historical records. It requires clearance for removing Japanese records and for dispatching reports of possible intelligence value outside Japan.",
+   "keywords": [
+    "General Order No. 4",
+    "G-2",
+    "intelligence targets",
+    "Japanese records",
+    "report clearance"
+   ]
+  },
+  {
+   "title": "General Orders No. 4, “Intelligence Targets in Japan” — copy 2",
+   "doc_type": "duplicate general order enclosure",
+   "start_page": 480,
+   "end_page": 483,
+   "continues_previous": false,
+   "date": "1948-03-13",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "SCAP staff sections",
+   "about": "Second copy of the order coordinating intelligence collection through G-2.",
+   "summary": "Duplicate of General Orders No. 4, including G-2 clearance rules for Japanese documents and reports sent outside Japan.",
+   "keywords": [
+    "General Order No. 4",
+    "G-2",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "General Orders No. 4, “Intelligence Targets in Japan” — copy 3",
+   "doc_type": "duplicate general order enclosure",
+   "start_page": 484,
+   "end_page": 487,
+   "continues_previous": false,
+   "date": "1948-03-13",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "SCAP staff sections",
+   "about": "Third copy of the order coordinating intelligence collection through G-2.",
+   "summary": "Duplicate of General Orders No. 4, including G-2 clearance rules for Japanese documents and reports sent outside Japan.",
+   "keywords": [
+    "General Order No. 4",
+    "G-2",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "General Orders No. 4, “Intelligence Targets in Japan” — copy 4",
+   "doc_type": "duplicate general order enclosure",
+   "start_page": 488,
+   "end_page": 491,
+   "continues_previous": false,
+   "date": "1948-03-13",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "SCAP staff sections",
+   "about": "Fourth copy of the order coordinating intelligence collection through G-2.",
+   "summary": "Duplicate of General Orders No. 4, including G-2 clearance rules for Japanese documents and reports sent outside Japan.",
+   "keywords": [
+    "General Order No. 4",
+    "G-2",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "General Orders No. 4, “Intelligence Targets in Japan” — copy 5",
+   "doc_type": "duplicate general order enclosure",
+   "start_page": 492,
+   "end_page": 495,
+   "continues_previous": false,
+   "date": "1948-03-13",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "SCAP staff sections",
+   "about": "Fifth copy of the order coordinating intelligence collection through G-2.",
+   "summary": "Duplicate of General Orders No. 4, including G-2 clearance rules for Japanese documents and reports sent outside Japan.",
+   "keywords": [
+    "General Order No. 4",
+    "G-2",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "Despatch No. 170, forwarding conversation with former Prime Minister Katayama",
+   "doc_type": "despatch",
+   "start_page": 496,
+   "end_page": 496,
+   "continues_previous": false,
+   "date": "1948-03-17",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards a memorandum explaining Katayama’s resignation and his opposition to Communist influence.",
+   "summary": "Forwards Katayama’s account of his Cabinet’s resignation and his plans to restore Socialist Party unity.",
+   "keywords": [
+    "Katayama",
+    "cabinet resignation",
+    "Social Democratic Party",
+    "communism"
+   ]
+  },
+  {
+   "title": "Memorandum of conversation with former Prime Minister Katayama",
+   "doc_type": "memorandum of conversation enclosure",
+   "start_page": 497,
+   "end_page": 498,
+   "continues_previous": false,
+   "date": "1948-03-15",
+   "from": "W. J. Sebald",
+   "to": "",
+   "about": "Records Katayama’s explanation of his resignation and discussion of socialism and communism.",
+   "summary": "Katayama says he resigned to prevent a split between right and left wings of the Social Democratic Party and intends to work on party discipline. He rejects cooperation with the Communists and discusses European anti-Communist measures with Sebald.",
+   "keywords": [
+    "Katayama",
+    "Social Democratic Party",
+    "cabinet resignation",
+    "Communist Party"
+   ]
+  },
+  {
+   "title": "Airgram A-738 quoting Manchester Guardian report on Japan",
+   "doc_type": "airgram with newspaper quotation",
+   "start_page": 499,
+   "end_page": 500,
+   "continues_previous": false,
+   "date": "1948-03-24",
+   "from": "United States Embassy, London",
+   "to": "Secretary of State",
+   "about": "Relays a newspaper account of an American economic mission and Japanese political developments.",
+   "summary": "The quoted article reports William Draper’s arrival with economic experts to study Japanese self-sufficiency. It also covers Ashida’s Diet address, the emergence of Yoshida’s new party, and Socialist rejection of a Communist people’s front.",
+   "keywords": [
+    "William Draper",
+    "economic rehabilitation",
+    "Manchester Guardian",
+    "Ashida",
+    "Yoshida"
+   ]
+  },
+  {
+   "title": "Airgram A-55 on inauguration of the Democratic Liberal Party",
+   "doc_type": "airgram",
+   "start_page": 501,
+   "end_page": 503,
+   "continues_previous": false,
+   "date": "1948-03-26",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports the party’s formation, membership, leaders, and basic policies.",
+   "summary": "The Liberal Party dissolved on March 15 and a new Democratic Liberal Party was inaugurated with Yoshida as president. The report describes its Diet strength and its program for industrial rehabilitation, administrative reform, reduced controls, trade, tax reform, and labor-management cooperation. Page 502 is severely degraded in the OCR.",
+   "keywords": [
+    "Democratic Liberal Party",
+    "Yoshida",
+    "party formation",
+    "industrial rehabilitation"
+   ]
+  },
+  {
+   "title": "Despatch No. 208, inauguration of the Democratic Liberal Party",
+   "doc_type": "despatch",
+   "start_page": 504,
+   "end_page": 505,
+   "continues_previous": false,
+   "date": "1948-03-30",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "Supplies party officer lists, Diet seat counts, and founding documents.",
+   "summary": "The despatch follows airgram A-55 with lists of party executives and consultants, Upper House appointments, and party strengths in both Diet houses. It encloses the new party’s declaration, statement of purpose, and platform abstract.",
+   "keywords": [
+    "Democratic Liberal Party",
+    "party officers",
+    "Diet",
+    "enclosures"
+   ]
+  },
+  {
+   "title": "Democratic Liberal Party declaration",
+   "doc_type": "party declaration enclosure",
+   "start_page": 506,
+   "end_page": 506,
+   "continues_previous": false,
+   "date": "1948-03",
+   "from": "Democratic Liberal Party",
+   "to": "Japanese public",
+   "about": "Declares the new party’s aims for democracy, production, rehabilitation, and international participation.",
+   "summary": "Rejects socialist ideology and bureaucracy while urging individual initiative, production, trade, and Japan’s reconstruction.",
+   "keywords": [
+    "party declaration",
+    "Democratic Liberal Party",
+    "reconstruction",
+    "democracy"
+   ]
+  },
+  {
+   "title": "Purpose of the Formation of the New Political Party",
+   "doc_type": "party statement enclosure",
+   "start_page": 507,
+   "end_page": 507,
+   "continues_previous": false,
+   "date": "1948-03",
+   "from": "Democratic Liberal Party",
+   "to": "Japanese public",
+   "about": "Explains the rationale for a united democratic party and calls for public support.",
+   "summary": "Calls for democratic unity, production, industrial recovery, trade, and a responsible party under the new Constitution.",
+   "keywords": [
+    "party formation",
+    "Democratic Liberal Party",
+    "industrial recovery",
+    "trade"
+   ]
+  },
+  {
+   "title": "Abstract of Tentative Platform of Liberal Party",
+   "doc_type": "platform abstract enclosure",
+   "start_page": 508,
+   "end_page": 508,
+   "continues_previous": false,
+   "date": "1948-03-11",
+   "from": "Government Section",
+   "to": "",
+   "about": "Begins an abstract of proposed policies on government, education, industry, agriculture, forestry, and fisheries.",
+   "summary": "Lists proposed democratic, economic, educational, transport, agricultural, forestry, and fishery policies; the abstract continues beyond this section.",
+   "keywords": [
+    "party platform",
+    "production",
+    "education",
+    "trade",
+    "agriculture"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 10,
+  "sections": 13,
+  "pages": [
+   452,
+   508
+  ],
+  "pdf": "894.00 Japan, Political Affairs., January 8, 1947 - July 9, 1948 1645-part-2.pdf",
+  "seconds": 156.1,
+  "created": "2026-10-08 01:31:50",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-28-part-2"
+ }
+}

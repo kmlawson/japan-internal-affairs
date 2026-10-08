@@ -1,0 +1,383 @@
+{
+ "section_summary": "This section finishes an overview of Japan’s election rules, then presents an annotated law for electing the House of Councillors and the opening articles of the House of Representatives election law. The texts cover constituencies, voting and counting, candidates, vacancies, litigation, campaigns, and electoral lists. An annex lists the prefectural and Hokkaido districts for the House of Councillors.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Tapan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo Metropolis",
+    "Tokyo To"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto Precccture"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka Prefceture"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa Prefecture"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo Prefecture"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki Prefecture"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata Prefecture"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama Prefecture"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gunma Prefecture"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba Prefecture"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaragi Prefecture"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi Prefecture"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara Prcfecture"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie Prcfecture"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi Prefecture"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga Prefecture"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu Prefecture"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano Prefecture"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi Prefecture"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima Prefecture"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwato Prefecture"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori Prefccture"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata Prefecture"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita Prefecture"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui Prefeeture"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa PreCecture"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama Prefecture"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori Prefecture"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane Prefecture"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayana Prefecture"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima Prefceture"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Prefecture"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakavama Profeeture"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima Prefecture"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa Prefecture"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime Prefoeture"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi Profacture"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka Prefeeture"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita Prefeeture"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga Profecture"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumanoto Prefecture"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki Prefecture"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima Profecture"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkaido District"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "Japan",
+  "1947 elections",
+  "House of Councillors",
+  "House of Representatives",
+  "election law",
+  "prefectural constituencies",
+  "national constituency",
+  "electoral lists",
+  "ballot counting",
+  "by-elections",
+  "election campaigns",
+  "election litigation"
+ ],
+ "subfiles": [
+  {
+   "title": "Overview of election validity, re-elections, and violations",
+   "doc_type": "annotated election-law overview",
+   "start_page": 116,
+   "end_page": 116,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Explains thresholds for election, challenges to results, replacement elections, and penalties for election-law violations.",
+   "summary": "Concludes an earlier overview with rules on election validity, vacancies, re-elections, and offences.",
+   "keywords": [
+    "election validity",
+    "re-elections",
+    "vacancies",
+    "election offences"
+   ]
+  },
+  {
+   "title": "Law for the Election of Members of the House of Councillors",
+   "doc_type": "annotated law with electoral-district annex",
+   "start_page": 117,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Sets out the rules for electing Japan’s House of Councillors and lists its electoral districts.",
+   "summary": "The law establishes national and prefectural constituencies and governs eligibility, voting, ballot counting, candidates, election meetings, vacancies, litigation, campaign finance, and penalties. Explanatory notes discuss the first election and the practical effects of several provisions. Additional provisions address transitional arrangements, and an annex lists the electoral districts and their seats.",
+   "keywords": [
+    "House of Councillors",
+    "election law",
+    "national constituency",
+    "prefectural constituencies",
+    "candidate eligibility",
+    "vacancies",
+    "campaign finance",
+    "electoral-district annex"
+   ]
+  },
+  {
+   "title": "The Law for the Election of Members of the House of Representatives",
+   "doc_type": "annotated law excerpt",
+   "start_page": 144,
+   "end_page": 150,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Sets out initial provisions for House of Representatives elections, from district boundaries through polling procedures.",
+   "summary": "The excerpt defines election, voting, and ballot-counting districts, voter and candidate eligibility, electoral-list preparation and challenges, and the timing of general elections. It also covers election administrators, polling places, witnesses, voter identification, ballots, and provisional voting. Notes explain how these rules would operate in the 1947 elections.",
+   "keywords": [
+    "House of Representatives",
+    "election law",
+    "electoral lists",
+    "voter eligibility",
+    "polling places",
+    "voting witnesses",
+    "provisional ballots"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 13,
+  "pages": [
+   116,
+   150
+  ],
+  "pdf": "894.00 Japan, Political Affairs., January 8, 1947 - July 9, 1948 1645-part-1.pdf",
+  "seconds": 29.3,
+  "created": "2026-10-08 01:04:11",
+  "key": "japan-internal-affairs-894.00-japan-political-affairs-28-part-1"
+ }
+}
