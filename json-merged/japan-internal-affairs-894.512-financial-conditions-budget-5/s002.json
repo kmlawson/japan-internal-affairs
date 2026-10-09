@@ -1,0 +1,2610 @@
+{
+ "section_summary": "This section documents Occupation efforts to improve Japanese tax collection in 1948, including an Eighth Army surveillance directive, lists of tax offices, revenue targets, and guidance on taxing non-Japanese nationals. It also follows a Finnish claim that Japan improperly taxed a wartime insurance payment and ends with a 1949 report on reorganizing the national tax administration.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jrpcn",
+    "Jrpen",
+    "Jepan",
+    "Japas",
+    "Jages",
+    "Japamese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Tekyo",
+    "Tekyote",
+    "TOIYO",
+    "Tokemstsu"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohome",
+    "Yokohemr"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Oseka"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Ōtsu",
+   "variants": [
+    "Otsu"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON,D.C."
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "Finland",
+    "Fimland",
+    "Pinland",
+    "Pialand"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Koreans",
+    "Korerns"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "French",
+    "Franch"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Dutch"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russian"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "America"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Luzon",
+   "variants": [
+    "Luzon"
+   ]
+  },
+  {
+   "name": "Hokkaidō",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyūshū",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaragi prefecture",
+    "Ibaraki Prefecture"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima prefecture",
+    "Fukushima Prefecture",
+    "Fukushimc Profocture"
+   ]
+  },
+  {
+   "name": "Hitachi",
+   "variants": [
+    "Hitachi"
+   ]
+  },
+  {
+   "name": "Jōban coalfields",
+   "variants": [
+    "Joban coal fields"
+   ]
+  },
+  {
+   "name": "New Mexico",
+   "variants": [
+    "New Mexico"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pa."
+   ]
+  },
+  {
+   "name": "Maryland",
+   "variants": [
+    "Md."
+   ]
+  },
+  {
+   "name": "Chevy Chase, Maryland",
+   "variants": [
+    "Chevy Chase"
+   ]
+  },
+  {
+   "name": "Cove, Oregon",
+   "variants": [
+    "Cove, Oreg."
+   ]
+  },
+  {
+   "name": "New Cumberland, Pennsylvania",
+   "variants": [
+    "New Cumberland, Pa."
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Cleveland, Ohio",
+   "variants": [
+    "Cleveland, Ohio"
+   ]
+  },
+  {
+   "name": "Danville, Virginia",
+   "variants": [
+    "Danville, Va."
+   ]
+  },
+  {
+   "name": "Colorado City, Texas",
+   "variants": [
+    "Celorado City, Texas."
+   ]
+  },
+  {
+   "name": "Napa, California",
+   "variants": [
+    "Napa, Calif.",
+    "Napa, California"
+   ]
+  },
+  {
+   "name": "Carlisle Barracks, Pennsylvania",
+   "variants": [
+    "Carlisle Barracks, Pa."
+   ]
+  },
+  {
+   "name": "Fort Riley, Kansas",
+   "variants": [
+    "Fort Riley, Kans."
+   ]
+  },
+  {
+   "name": "Fort Knox, Kentucky",
+   "variants": [
+    "Ft. Knox, Ky.",
+    "Ft. Knox"
+   ]
+  },
+  {
+   "name": "Fort Benning, Georgia",
+   "variants": [
+    "Ft. Benning, Ga."
+   ]
+  },
+  {
+   "name": "Louisville, Kentucky",
+   "variants": [
+    "Louisville, Ky."
+   ]
+  },
+  {
+   "name": "Salina, Kansas",
+   "variants": [
+    "Salina",
+    "Salina, Kans."
+   ]
+  },
+  {
+   "name": "Lexington, Kentucky",
+   "variants": [
+    "Lexington"
+   ]
+  },
+  {
+   "name": "Mercedes, Texas",
+   "variants": [
+    "Mercedes, Tex."
+   ]
+  },
+  {
+   "name": "Matsushima Army Air Base",
+   "variants": [
+    "Matsushima Army Air Base"
+   ]
+  },
+  {
+   "name": "Camp Crawford",
+   "variants": [
+    "CAMP CRAWFORD"
+   ]
+  },
+  {
+   "name": "Camp Drake",
+   "variants": [
+    "Camp Drake"
+   ]
+  },
+  {
+   "name": "Ginza, Tokyo",
+   "variants": [
+    "Ginza"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kcnagcwn Prefeoture",
+    "Kanagawe-ku"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitema Prefecture"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba Prefecture"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yemcneshi Prefecture"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi Prefecture"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Guma Prefecture"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigita Frefecture"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano Prefecture"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto Prefecture"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo Prefecture"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara Prefecture"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "kayama Prefecture"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga Prefecture"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui Prefecture"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "iyagi Prefecture"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate,Prefecture"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "fkitn Prefecture"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori Prefecture"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamr geta Prefecture"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie Prefecture"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu Prefesture"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toycma Prefecture"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishiknwa Prefecture"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshime Prefecture"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Profecture"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okeyama Prefecture"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori Prefecture"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimone Prefecture"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawe Prefecture"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime Prefecture"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima Prefecture"
+   ]
+  },
+  {
+   "name": "Kōchi Prefecture",
+   "variants": [
+    "Kochi Prefccture"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto Prefecture"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Ōita Prefecture",
+   "variants": [
+    "Oite Prefeoture"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagtseki Prefecture",
+    "Mrgeseki Prefecture"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Srgo Prefecture"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshimr Frefecture"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Liyrznki Prefecture"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo",
+    "Sapforo",
+    "Sepporo"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai",
+    "Sendei"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Neoya"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima",
+    "Hiroshime",
+    "Hiroshimo"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu",
+    "Tekemotsu",
+    "Tokamatsu",
+    "TAKANATSU"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto",
+    "Kumomoto",
+    "KUMANOTO"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka",
+    "Fuku ka"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa",
+    "Konazawa",
+    "Kanezawa"
+   ]
+  },
+  {
+   "name": "Chiyoda, Tokyo",
+   "variants": [
+    "Chiyode-ku",
+    "Chiyoda-ku"
+   ]
+  },
+  {
+   "name": "Chūō, Tokyo",
+   "variants": [
+    "Chuo-ku"
+   ]
+  },
+  {
+   "name": "Minato, Tokyo",
+   "variants": [
+    "Mineto-ku"
+   ]
+  },
+  {
+   "name": "Bunkyō, Tokyo",
+   "variants": [
+    "Bunkyo-ku"
+   ]
+  },
+  {
+   "name": "Taitō, Tokyo",
+   "variants": [
+    "Daito-ku"
+   ]
+  },
+  {
+   "name": "Shinagawa, Tokyo",
+   "variants": [
+    "Shinagawa-ku"
+   ]
+  },
+  {
+   "name": "Ōta, Tokyo",
+   "variants": [
+    "Ota-ku"
+   ]
+  },
+  {
+   "name": "Setagaya, Tokyo",
+   "variants": [
+    "Setrg.yt-ku"
+   ]
+  },
+  {
+   "name": "Meguro, Tokyo",
+   "variants": [
+    "Meguro-ku"
+   ]
+  },
+  {
+   "name": "Shibuya, Tokyo",
+   "variants": [
+    "Shibuyc-ku"
+   ]
+  },
+  {
+   "name": "Shinjuku, Tokyo",
+   "variants": [
+    "Shinjuku-ku"
+   ]
+  },
+  {
+   "name": "Nakano, Tokyo",
+   "variants": [
+    "N.kuno-ku"
+   ]
+  },
+  {
+   "name": "Suginami, Tokyo",
+   "variants": [
+    "Suginami-ku"
+   ]
+  },
+  {
+   "name": "Itabashi, Tokyo",
+   "variants": [
+    "Itabashi-ku",
+    "Itcbrshi-ku"
+   ]
+  },
+  {
+   "name": "Toshima, Tokyo",
+   "variants": [
+    "Toshima-ku"
+   ]
+  },
+  {
+   "name": "Kita, Tokyo",
+   "variants": [
+    "Czi-ku"
+   ]
+  },
+  {
+   "name": "Arakawa, Tokyo",
+   "variants": [
+    "Arakawa",
+    "Arakowa-ku"
+   ]
+  },
+  {
+   "name": "Sumida, Tokyo",
+   "variants": [
+    "Sumida-ku"
+   ]
+  },
+  {
+   "name": "Katsushika, Tokyo",
+   "variants": [
+    "Katsushika-ku"
+   ]
+  },
+  {
+   "name": "Edogawa, Tokyo",
+   "variants": [
+    "Edogawa-ku",
+    "Edogown-ku"
+   ]
+  },
+  {
+   "name": "Ōme",
+   "variants": [
+    "Ome",
+    "Qmo.cho"
+   ]
+  },
+  {
+   "name": "Hachiōji",
+   "variants": [
+    "Hnchiożi"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "Tachikowe",
+    "Tachikewn-city"
+   ]
+  },
+  {
+   "name": "Musashino",
+   "variants": [
+    "Musnshino",
+    "Musashino-oho"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kownscki",
+    "Krwcscki"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuke",
+    "Yokosuko-city"
+   ]
+  },
+  {
+   "name": "Fujisawa",
+   "variants": [
+    "Huzisuwo",
+    "Huzisawe"
+   ]
+  },
+  {
+   "name": "Ōiso",
+   "variants": [
+    "Oiso"
+   ]
+  },
+  {
+   "name": "Atsugi",
+   "variants": [
+    "Atsugi"
+   ]
+  },
+  {
+   "name": "Odawara",
+   "variants": [
+    "Odawere",
+    "Odownre-city"
+   ]
+  },
+  {
+   "name": "Urawa",
+   "variants": [
+    "Urowa",
+    "Urrwc-city"
+   ]
+  },
+  {
+   "name": "Kawaguchi",
+   "variants": [
+    "Kowr guchi",
+    "Kowcguchi-oity"
+   ]
+  },
+  {
+   "name": "Kawagoe",
+   "variants": [
+    "Kewagoe",
+    "Kcwcgoe-city"
+   ]
+  },
+  {
+   "name": "Chichibu",
+   "variants": [
+    "Titibu"
+   ]
+  },
+  {
+   "name": "Kumagaya",
+   "variants": [
+    "Kumr gry",
+    "Kumr gayr-city"
+   ]
+  },
+  {
+   "name": "Kasukabe",
+   "variants": [
+    "Knsukabe",
+    "Krsukabe-cho"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chibc",
+    "Tibr-city"
+   ]
+  },
+  {
+   "name": "Narita",
+   "variants": [
+    "Nr rits",
+    "N: ritt-cho"
+   ]
+  },
+  {
+   "name": "Matsudo",
+   "variants": [
+    "Mrtsudo",
+    "Mr tsudo-city"
+   ]
+  },
+  {
+   "name": "Ichikawa",
+   "variants": [
+    "Ichikewc",
+    "Ichiktwr-city"
+   ]
+  },
+  {
+   "name": "Chōshi",
+   "variants": [
+    "Choshi"
+   ]
+  },
+  {
+   "name": "Tōgane",
+   "variants": [
+    "Togene",
+    "Togane-cho"
+   ]
+  },
+  {
+   "name": "Mobara",
+   "variants": [
+    "Mohorc",
+    "Mohrrr-cho"
+   ]
+  },
+  {
+   "name": "Kisarazu",
+   "variants": [
+    "Kisnrazu",
+    "Kisarczu-city"
+   ]
+  },
+  {
+   "name": "Tateyama",
+   "variants": [
+    "Teteyrmr",
+    "Tateyama-city"
+   ]
+  },
+  {
+   "name": "Kōfu",
+   "variants": [
+    "Kohu",
+    "Kohu-city"
+   ]
+  },
+  {
+   "name": "Nirasaki",
+   "variants": [
+    "Ni rascki",
+    "Nirasrki"
+   ]
+  },
+  {
+   "name": "Ōtsuki",
+   "variants": [
+    "Otsuki"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "Utsunomiya"
+   ]
+  },
+  {
+   "name": "Kanuma",
+   "variants": [
+    "Kanuma",
+    "Kanuna-cho"
+   ]
+  },
+  {
+   "name": "Mōka",
+   "variants": [
+    "Maoka"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Ōtawara",
+   "variants": [
+    "Otawara"
+   ]
+  },
+  {
+   "name": "Ashikaga",
+   "variants": [
+    "Ashikaga",
+    "ashikaga-city"
+   ]
+  },
+  {
+   "name": "Sano",
+   "variants": [
+    "Sano"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "wito",
+    "ito-city"
+   ]
+  },
+  {
+   "name": "Takahagi",
+   "variants": [
+    "Takahagi"
+   ]
+  },
+  {
+   "name": "Ryūgasaki",
+   "variants": [
+    "Ryugasaki"
+   ]
+  },
+  {
+   "name": "Tsuchiura",
+   "variants": [
+    "Tsutiura"
+   ]
+  },
+  {
+   "name": "Shimodate",
+   "variants": [
+    "Shimodate"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi"
+   ]
+  },
+  {
+   "name": "Takasaki",
+   "variants": [
+    "Takasaki"
+   ]
+  },
+  {
+   "name": "Fujioka",
+   "variants": [
+    "Huzioka"
+   ]
+  },
+  {
+   "name": "Tomioka",
+   "variants": [
+    "Gunmatomioka",
+    "Tomioka-cho"
+   ]
+  },
+  {
+   "name": "Numata",
+   "variants": [
+    "Numata"
+   ]
+  },
+  {
+   "name": "Kiryū",
+   "variants": [
+    "Kiryu"
+   ]
+  },
+  {
+   "name": "Tatebayashi",
+   "variants": [
+    "Tatebayashi"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "variants": [
+    "Shibata",
+    "Shibati-city"
+   ]
+  },
+  {
+   "name": "Sanjō",
+   "variants": [
+    "Sanjyo"
+   ]
+  },
+  {
+   "name": "Nagaoka",
+   "variants": [
+    "Nagaoka",
+    "N...gaoka-city"
+   ]
+  },
+  {
+   "name": "Ojiya",
+   "variants": [
+    "Oziya"
+   ]
+  },
+  {
+   "name": "Tōkamachi",
+   "variants": [
+    "Tokamachi"
+   ]
+  },
+  {
+   "name": "Kashiwazaki",
+   "variants": [
+    "Kashiwazaki",
+    "Kashiwazki-city"
+   ]
+  },
+  {
+   "name": "Itoigawa",
+   "variants": [
+    "Itoigawa"
+   ]
+  },
+  {
+   "name": "Murakami",
+   "variants": [
+    "Murakami",
+    "murakami-cho"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano",
+    "Negano-city"
+   ]
+  },
+  {
+   "name": "Ueda",
+   "variants": [
+    "Ueda"
+   ]
+  },
+  {
+   "name": "Suwa",
+   "variants": [
+    "Suwa"
+   ]
+  },
+  {
+   "name": "Ina",
+   "variants": [
+    "Ina"
+   ]
+  },
+  {
+   "name": "Iida",
+   "variants": [
+    "Ida",
+    "La-city"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "Matsumoto",
+    "..atsumoto-city"
+   ]
+  },
+  {
+   "name": "Ōmachi",
+   "variants": [
+    "Omachi"
+   ]
+  },
+  {
+   "name": "Shinano-Nakano",
+   "variants": [
+    "Shinanonakano"
+   ]
+  },
+  {
+   "name": "Ibaraki, Osaka",
+   "variants": [
+    "Ibaraki",
+    "Ibaraki-cho"
+   ]
+  },
+  {
+   "name": "Sakai, Osaka",
+   "variants": [
+    "Sakai",
+    "Sakai-city"
+   ]
+  },
+  {
+   "name": "Izumiōtsu",
+   "variants": [
+    "Izumiotsu"
+   ]
+  },
+  {
+   "name": "Kishiwada",
+   "variants": [
+    "Kishiwada"
+   ]
+  },
+  {
+   "name": "Izumisano",
+   "variants": [
+    "Izumisano"
+   ]
+  },
+  {
+   "name": "Tondabayashi",
+   "variants": [
+    "TomitaBayashi",
+    "Tomitabayashi-cho"
+   ]
+  },
+  {
+   "name": "Yao",
+   "variants": [
+    "Yeo"
+   ]
+  },
+  {
+   "name": "Maizuru",
+   "variants": [
+    "M&izuru",
+    "Maizuru-city"
+   ]
+  },
+  {
+   "name": "Fukuchiyama",
+   "variants": [
+    "Hukuchiyama"
+   ]
+  },
+  {
+   "name": "Miyazu",
+   "variants": [
+    "Miyatsu"
+   ]
+  },
+  {
+   "name": "Kōbe",
+   "variants": [
+    "Kobe",
+    "Kobe-city"
+   ]
+  },
+  {
+   "name": "Nishinomiya",
+   "variants": [
+    "Nishinomiya"
+   ]
+  },
+  {
+   "name": "Ashiya",
+   "variants": [
+    "Ashiya"
+   ]
+  },
+  {
+   "name": "Itami",
+   "variants": [
+    "Itami"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "A lagasaki",
+    "Amagasiki-city"
+   ]
+  },
+  {
+   "name": "Akashi",
+   "variants": [
+    "Akashi"
+   ]
+  },
+  {
+   "name": "Kakogawa",
+   "variants": [
+    "Kakogawa",
+    "K&kogawa-cho"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himezi"
+   ]
+  },
+  {
+   "name": "Tatsuno",
+   "variants": [
+    "Tatsuno"
+   ]
+  },
+  {
+   "name": "Toyooka",
+   "variants": [
+    "Toyooka"
+   ]
+  },
+  {
+   "name": "Sumoto",
+   "variants": [
+    "Sumoto"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Sakurai",
+   "variants": [
+    "Sakurai"
+   ]
+  },
+  {
+   "name": "Yoshino",
+   "variants": [
+    "Yoshino"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Kainan",
+   "variants": [
+    "Kainan"
+   ]
+  },
+  {
+   "name": "Gobō",
+   "variants": [
+    "Gobo"
+   ]
+  },
+  {
+   "name": "Tanabe",
+   "variants": [
+    "Tanabe"
+   ]
+  },
+  {
+   "name": "Shingū",
+   "variants": [
+    "Shingu"
+   ]
+  },
+  {
+   "name": "Hikone",
+   "variants": [
+    "Hikone"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tsuruga"
+   ]
+  },
+  {
+   "name": "Obama",
+   "variants": [
+    "Obama"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "Asahikawa",
+    "Aschikawa-city"
+   ]
+  },
+  {
+   "name": "Wakkanai",
+   "variants": [
+    "Wakkanai",
+    "Vakkan i-cho"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muroren",
+    "muroran-city"
+   ]
+  },
+  {
+   "name": "Tomakomai",
+   "variants": [
+    "Tomakomai",
+    "Tomakomaki-cho"
+   ]
+  },
+  {
+   "name": "Abashiri",
+   "variants": [
+    "Abashiri"
+   ]
+  },
+  {
+   "name": "Kitami",
+   "variants": [
+    "Kitami"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushirom",
+    "Kushiro-city"
+   ]
+  },
+  {
+   "name": "Obihiro",
+   "variants": [
+    "Obihiro",
+    "Obihiri-city"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "Nemuro"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "Ishinomaki"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "Shiogama"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Liorioka",
+    "..orioka-city"
+   ]
+  },
+  {
+   "name": "Hanamaki",
+   "variants": [
+    "Hanamaki"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaishi"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "iyako-city"
+   ]
+  },
+  {
+   "name": "Kōriyama",
+   "variants": [
+    "Koriyama"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Hirosaki",
+   "variants": [
+    "Hiroseki",
+    "hirosuki-city"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinoe",
+    "Hrchinoe-city"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yemagota",
+    "Yamgota-city"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "Saknto",
+    "Sekete-city"
+   ]
+  },
+  {
+   "name": "Tsuruoka",
+   "variants": [
+    "Tsuruoka",
+    "Tsuruokc-city"
+   ]
+  },
+  {
+   "name": "Yonezawa",
+   "variants": [
+    "Yonezewa",
+    "Yonozawa-city"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shinizu",
+    "Shi.izu-city"
+   ]
+  },
+  {
+   "name": "Numazu",
+   "variants": [
+    "Numazu"
+   ]
+  },
+  {
+   "name": "Atami",
+   "variants": [
+    "Atami",
+    "Atemi-city"
+   ]
+  },
+  {
+   "name": "Fujinomiya",
+   "variants": [
+    "Huzimiya"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Humamatsu",
+    "Hamamatsu-city"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu"
+   ]
+  },
+  {
+   "name": "Suzuka",
+   "variants": [
+    "Suzuka"
+   ]
+  },
+  {
+   "name": "Kuwana",
+   "variants": [
+    "Kuwana"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "Yokkaichi",
+    "Yokkaichi-city"
+   ]
+  },
+  {
+   "name": "Matsusaka",
+   "variants": [
+    "Matsuzaka",
+    "atsuzaka-city"
+   ]
+  },
+  {
+   "name": "Ueno, Mie",
+   "variants": [
+    "Ueno",
+    "Ueno-city"
+   ]
+  },
+  {
+   "name": "Owase",
+   "variants": [
+    "Owase"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "01fu",
+    "Gafu-oity"
+   ]
+  },
+  {
+   "name": "Ōgaki",
+   "variants": [
+    "Ogoki",
+    "Ogaki-orty"
+   ]
+  },
+  {
+   "name": "Seki",
+   "variants": [
+    "Seki"
+   ]
+  },
+  {
+   "name": "Takayama",
+   "variants": [
+    "Takcyama",
+    "Takayama-city"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyema",
+    "Toyoma-city"
+   ]
+  },
+  {
+   "name": "Uozu",
+   "variants": [
+    "Uotsu"
+   ]
+  },
+  {
+   "name": "Takaoka",
+   "variants": [
+    "Tokcoke",
+    "Toknoka-city"
+   ]
+  },
+  {
+   "name": "Komatsu",
+   "variants": [
+    "Kometsu",
+    "Komatsu-city"
+   ]
+  },
+  {
+   "name": "Nanao",
+   "variants": [
+    "Naneo",
+    "Nenao-city"
+   ]
+  },
+  {
+   "name": "Wajima",
+   "variants": [
+    "Wazima",
+    "We:zime-cho"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Onomichi",
+   "variants": [
+    "Onomichi"
+   ]
+  },
+  {
+   "name": "Fukuyama",
+   "variants": [
+    "Hukuyma",
+    "Hukuyamr-city"
+   ]
+  },
+  {
+   "name": "Iwakuni",
+   "variants": [
+    "Iwokuni"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Hikari",
+   "variants": [
+    "Hikari",
+    "Hiknri-city"
+   ]
+  },
+  {
+   "name": "Hōfu",
+   "variants": [
+    "Bohu"
+   ]
+  },
+  {
+   "name": "Ube",
+   "variants": [
+    "Ube"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonosaki"
+   ]
+  },
+  {
+   "name": "Hagi",
+   "variants": [
+    "Hngi",
+    "Hcgi-city"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama",
+    "Oknyame-city"
+   ]
+  },
+  {
+   "name": "Kurashiki",
+   "variants": [
+    "Kuroshiki",
+    "Kurtshiki-city"
+   ]
+  },
+  {
+   "name": "Tsuyama",
+   "variants": [
+    "Tsuyama",
+    "Tsuyrma-city"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "Yonggo",
+    "Yont go-city"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "Hatsue",
+    "atsue-city"
+   ]
+  },
+  {
+   "name": "Izumo",
+   "variants": [
+    "I zumo",
+    "Izumc-city"
+   ]
+  },
+  {
+   "name": "Hamada",
+   "variants": [
+    "Hama de",
+    "Homr de-cho"
+   ]
+  },
+  {
+   "name": "Masuda",
+   "variants": [
+    "Nasuda"
+   ]
+  },
+  {
+   "name": "Marugame",
+   "variants": [
+    "arugame",
+    "Lorugame-city"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Lctsuyrma",
+    "Mrtsuyrma-city"
+   ]
+  },
+  {
+   "name": "Imabari",
+   "variants": [
+    "Imehoru",
+    "Imahcru-city"
+   ]
+  },
+  {
+   "name": "Uwajima",
+   "variants": [
+    "Uwozima",
+    "Uwczima-city"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushimo"
+   ]
+  },
+  {
+   "name": "Kōchi",
+   "variants": [
+    "Kochi",
+    "Kochi-city"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nogasaki",
+    "Nrgosaki-city"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sesebo"
+   ]
+  },
+  {
+   "name": "Shimabara",
+   "variants": [
+    "Shimabrra",
+    "Shimcbe rn-city"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Sr ge",
+    "Soga-city"
+   ]
+  },
+  {
+   "name": "Karatsu",
+   "variants": [
+    "Karctsu",
+    "Karnteu-city"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kegoshima",
+    "Kagoshimr-city"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Miyczaki",
+    "Miyozcki-city"
+   ]
+  },
+  {
+   "name": "Nobeoka",
+   "variants": [
+    "Nobeoko",
+    "Nobeokr-city"
+   ]
+  },
+  {
+   "name": "Yokkaichi, Mie",
+   "variants": [
+    "Yokkaichi"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Shigeru Nambara",
+   "role": "President of Tokyo University and the University Professors' Association of Japan",
+   "variants": [
+    "Dr. Shigeru Nambara"
+   ]
+  },
+  {
+   "name": "Henry Shavell",
+   "role": "SCAP taxation adviser, Finance Division",
+   "variants": [
+    "Henry Shavell",
+    "Mr. Shavell"
+   ]
+  },
+  {
+   "name": "George Horsfall",
+   "role": "Colonel; Kobe Base Surgeon",
+   "variants": [
+    "Col. George Horsfall",
+    "Colonel Horsfall"
+   ]
+  },
+  {
+   "name": "Marion T. Sanders",
+   "role": "Lieutenant colonel; assigned to Kobe Quartermaster Depot",
+   "variants": [
+    "Lt. Col. Marion T. Sanders"
+   ]
+  },
+  {
+   "name": "J. A. Lester",
+   "role": "Major general; Eighth Army chief of staff",
+   "variants": [
+    "Maj. Gen. J. A. Lester",
+    "General Lester",
+    "J. A. LESTER"
+   ]
+  },
+  {
+   "name": "Robert L. Eichelberger",
+   "role": "Lieutenant general; Eighth Army commander",
+   "variants": [
+    "Lt. Gen. Robert L. Eichelberger",
+    "EICHELBERGER"
+   ]
+  },
+  {
+   "name": "William C. Chase",
+   "role": "Major general; First Cavalry Division commander",
+   "variants": [
+    "Maj. Gen. William C. Chase"
+   ]
+  },
+  {
+   "name": "William F. Koeckert",
+   "role": "Second lieutenant; Bronze Star recipient",
+   "variants": [
+    "2d Lt. William F. Koeckert",
+    "Lieutenant Koeckert"
+   ]
+  },
+  {
+   "name": "John F. Riley",
+   "role": "Lieutenant colonel; division headquarters commandant",
+   "variants": [
+    "Lt. Col. John F. Riley"
+   ]
+  },
+  {
+   "name": "Marvin C. Ellison",
+   "role": "Lieutenant colonel; commander of Eighth Engineers",
+   "variants": [
+    "Lt. Col. Marvin C. Ellison"
+   ]
+  },
+  {
+   "name": "Shirley S. Cook",
+   "role": "Major; provisional squadron commander",
+   "variants": [
+    "Mai.Shirley S. Cook"
+   ]
+  },
+  {
+   "name": "Russell G. Warncke",
+   "role": "U.S. Bureau of Mines safety official and SCAP consultant",
+   "variants": [
+    "Russell G. Warncke",
+    "Mr. Warncke"
+   ]
+  },
+  {
+   "name": "Charles C. Hicks",
+   "role": "United Mine Workers official and SCAP labor consultant",
+   "variants": [
+    "Charles C. Hicks"
+   ]
+  },
+  {
+   "name": "Niles J. McIntyre",
+   "role": "Captain; assistant theater education officer",
+   "variants": [
+    "Capt. Niles J. McIntyre",
+    "Captain McIntyre"
+   ]
+  },
+  {
+   "name": "Maude McIntyre",
+   "role": "Niles McIntyre's mother",
+   "variants": [
+    "Mrs. Maude McIntyre"
+   ]
+  },
+  {
+   "name": "Charles McIntyre",
+   "role": "Niles McIntyre's son",
+   "variants": [
+    "Charles"
+   ]
+  },
+  {
+   "name": "Mary Jo McIntyre",
+   "role": "Niles McIntyre's daughter",
+   "variants": [
+    "Mary Jo"
+   ]
+  },
+  {
+   "name": "Kathleen McIntyre",
+   "role": "Niles McIntyre's daughter",
+   "variants": [
+    "Kathleen"
+   ]
+  },
+  {
+   "name": "Donna McIntyre",
+   "role": "Niles McIntyre's daughter",
+   "variants": [
+    "Donne"
+   ]
+  },
+  {
+   "name": "Ray H. Miller",
+   "role": "Niles McIntyre's father-in-law",
+   "variants": [
+    "Mr. and Mrs. Ray H. Miller"
+   ]
+  },
+  {
+   "name": "Burlin L. Keaton",
+   "role": "Sergeant; Bronze Star recipient",
+   "variants": [
+    "Sgt. Burlin L. Keaton",
+    "Sergeant Keaton"
+   ]
+  },
+  {
+   "name": "Patrick H. Tansey",
+   "role": "Brigadier general; SCAP Civil Property Custodian",
+   "variants": [
+    "Brig. Gen. Patrick H. Tansey",
+    "General Tansey"
+   ]
+  },
+  {
+   "name": "Patrick H. Tansey Jr.",
+   "role": "Major; wartime battalion commander",
+   "variants": [
+    "Maj. Patrick H. Tansey, Jr."
+   ]
+  },
+  {
+   "name": "Shigeto Tsuru",
+   "role": "Deputy director general, Economic Stabilization Board",
+   "variants": [
+    "Mr. TSURU Shigeto"
+   ]
+  },
+  {
+   "name": "R. H. Bushner",
+   "role": "Despatch preparer",
+   "variants": [
+    "RHBushner"
+   ]
+  },
+  {
+   "name": "A. Halton",
+   "role": "Major; assistant adjutant general",
+   "variants": [
+    "A.. HALTON"
+   ]
+  },
+  {
+   "name": "James S. Killen",
+   "role": "Chief of SCAP Economic and Scientific Section Labor Division",
+   "variants": [
+    "Mr. Killen",
+    "Mr. Kllen",
+    "James S. Killen"
+   ]
+  },
+  {
+   "name": "Alva C. Carpenter",
+   "role": "Chief of SCAP Legal Section",
+   "variants": [
+    "Alva C. Carpenter"
+   ]
+  },
+  {
+   "name": "B. M. Fitch",
+   "role": "Brigadier general; SCAP adjutant general",
+   "variants": [
+    "B. . FITCH"
+   ]
+  },
+  {
+   "name": "J. Shugart",
+   "role": "Colonel; assistant adjutant general",
+   "variants": [
+    "7. SHUGART"
+   ]
+  },
+  {
+   "name": "William Metsä",
+   "role": "Finnish purchaser of fishing nets",
+   "variants": [
+    "Mr. William Metså"
+   ]
+  },
+  {
+   "name": "Robert A. Lovett",
+   "role": "Acting U.S. Secretary of State",
+   "variants": [
+    "Rebert A. Levett"
+   ]
+  },
+  {
+   "name": "Allison",
+   "role": "State Department recipient of memorandum",
+   "variants": [
+    "Mr. Allison"
+   ]
+  },
+  {
+   "name": "Bell",
+   "role": "State Department memorandum author",
+   "variants": [
+    "Mr. Bll",
+    "Bll"
+   ]
+  },
+  {
+   "name": "Claxton",
+   "role": "State Department official consulted about Finnish claim",
+   "variants": [
+    "Mr. Claxton"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "U.S. Political Adviser for Japan",
+   "variants": [
+    "r. Sebald"
+   ]
+  },
+  {
+   "name": "Sigurd Memme",
+   "role": "Finnish Legation signatory",
+   "variants": [
+    "SigundMemme"
+   ]
+  },
+  {
+   "name": "L. Harold Moss",
+   "role": "Chief, SCAP Internal Revenue Division",
+   "variants": [
+    "Mr. L. Harold MCSS",
+    "Mr. Moss"
+   ]
+  },
+  {
+   "name": "K. Yuichi",
+   "role": "Director, Tokyo Regional Finance Bureau",
+   "variants": [
+    "K: Yuohi"
+   ]
+  },
+  {
+   "name": "D. Yoshida",
+   "role": "Director, Osaka Regional Financial Bureau",
+   "variants": [
+    "D. Yoshida"
+   ]
+  },
+  {
+   "name": "R. Furuki",
+   "role": "Director, Sapporo Regional Financial Bureau",
+   "variants": [
+    "R. Furuki"
+   ]
+  },
+  {
+   "name": "J. Ishihara",
+   "role": "Director, Sendai Regional Financial Bureau",
+   "variants": [
+    "J. Ishihara"
+   ]
+  },
+  {
+   "name": "Hiroshima Takahashi",
+   "role": "Director, Hiroshima Regional Financial Bureau; OCR uncertain",
+   "variants": [
+    "Hiroshima Takahashi"
+   ]
+  },
+  {
+   "name": "R. Yokoyama",
+   "role": "Director, Takamatsu Regional Financial Bureau",
+   "variants": [
+    "R. Yokoyoma"
+   ]
+  },
+  {
+   "name": "T. Ijichi",
+   "role": "Director, Kumamoto Regional Financial Bureau",
+   "variants": [
+    "T. Ijichi"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese taxation",
+  "tax delinquency",
+  "income tax",
+  "military government surveillance",
+  "revenue targets",
+  "tax office directory",
+  "foreign nationals",
+  "civil jurisdiction",
+  "war indemnities tax",
+  "Finnish claim",
+  "tax administration reform"
+ ],
+ "subfiles": [
+  {
+   "title": "Discussion of Japanese tax reform",
+   "doc_type": "despatch, concluding page",
+   "start_page": 69,
+   "end_page": 69,
+   "continues_previous": true,
+   "date": "1948-02-12",
+   "from": "Office of the United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The concluding page discusses tax treatment of Chinese and Korean nationals and proposed local land taxes.",
+   "summary": "It records practical difficulties collecting taxes from Chinese and Korean nationals and suggests taxing land by rental value.",
+   "keywords": [
+    "foreign nationals",
+    "land tax",
+    "tax reform"
+   ]
+  },
+  {
+   "title": "General Headquarters Far East Command press release",
+   "doc_type": "press release",
+   "start_page": 70,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "Far East Command Public Information Office",
+   "to": "Public",
+   "about": "A multi-item release includes SCAP praise for action against delinquent Japanese corporations.",
+   "summary": "The tax item reports attachment proceedings against hundreds of corporations owing about three billion yen, with Henry Shavell describing enforcement as necessary to counter inflation and meet budget targets. Other items cover academic freedom, military personnel, mine safety, a telegraph payment system, travel, and parachute training.",
+   "keywords": [
+    "corporate tax delinquency",
+    "property attachment",
+    "Henry Shavell",
+    "press release"
+   ]
+  },
+  {
+   "title": "Military Government Surveillance of Japanese Tax Administration",
+   "doc_type": "despatch",
+   "start_page": 76,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1948-02-14",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch forwards an Eighth Army tax surveillance directive and a newspaper clipping.",
+   "summary": "It explains the effort to reduce delinquency, especially in personal income tax, and summarizes reported taxpayer and tax worker resistance.",
+   "keywords": [
+    "tax surveillance",
+    "income tax",
+    "tax workers"
+   ]
+  },
+  {
+   "title": "Correction to Operational Directive No. 4",
+   "doc_type": "correction notice",
+   "start_page": 78,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "A. Halton, Headquarters Eighth Army",
+   "to": "Recipients of operational directive",
+   "about": "The notice corrects the directive number.",
+   "summary": "Identifies the attached tax surveillance directive as Operational Directive No. 4.",
+   "keywords": [
+    "correction",
+    "operational directive"
+   ]
+  },
+  {
+   "title": "Surveillance of Japanese Tax Administration",
+   "doc_type": "operational directive",
+   "start_page": 79,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "Headquarters Eighth Army; J. A. Lester",
+   "to": "Military government units",
+   "about": "The Eighth Army orders surveillance of national tax offices and monthly reporting.",
+   "summary": "The directive links revenue shortfalls to inflation and directs military government personnel to watch 450 local tax offices, particularly personal income tax administration. It calls for monthly reports from January through April 1948 and attaches guidance, an office list, revenue estimates, and an organizational chart.",
+   "keywords": [
+    "tax surveillance",
+    "inflation",
+    "income tax",
+    "Eighth Army"
+   ]
+  },
+  {
+   "title": "Military Government Surveillance of Japanese Tax Administration",
+   "doc_type": "directive enclosure and explanatory study",
+   "start_page": 81,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "Headquarters Eighth Army",
+   "to": "Military government personnel",
+   "about": "The enclosure explains tax collection problems, Japanese tax agencies, and surveillance procedures.",
+   "summary": "It compares 1947–48 tax receipts with budget estimates and identifies self-assessed income tax as the largest shortfall. It describes national tax offices, tax types, payment procedures, taxpayer unfamiliarity, and alleged National Tax Workers Union slowdowns. Surveillance instructions call for staff briefings, publicity, investigation of suspected evasion, visits to tax offices, operational help, and reports on foreign nationals and obstructive workers.",
+   "keywords": [
+    "tax administration",
+    "self-assessment",
+    "National Tax Workers Union",
+    "surveillance",
+    "revenue shortfall"
+   ]
+  },
+  {
+   "title": "Names and Location of Local Tax Offices",
+   "doc_type": "directive enclosure; directory",
+   "start_page": 88,
+   "end_page": 101,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "Headquarters Eighth Army",
+   "to": "Military government personnel",
+   "about": "The enclosure lists local tax offices, their locations, and their chiefs by regional financial bureau.",
+   "summary": "The directory identifies offices under the Tokyo, Osaka, Sapporo, Sendai, Nagoya, Hiroshima, Takamatsu, and Kumamoto regional bureaus. It gives prefecture, office, address, and chief for hundreds of offices; several entries are difficult to read in the OCR.",
+   "keywords": [
+    "tax office directory",
+    "regional financial bureaus",
+    "office chiefs"
+   ]
+  },
+  {
+   "title": "Estimated Revenue from Taxes for Fiscal Year 1947–48",
+   "doc_type": "directive enclosure; statistical tables",
+   "start_page": 102,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "Headquarters Eighth Army",
+   "to": "Military government personnel",
+   "about": "National and regional tables set monthly collection estimates by tax type.",
+   "summary": "The tables compare collections through October 1947 with projected receipts through spring 1948 for income, corporation, liquor, commodity, admission, and other taxes. Separate estimates are provided for eight regional financial bureaus.",
+   "keywords": [
+    "revenue estimates",
+    "tax collection goals",
+    "income tax",
+    "regional bureaus"
+   ]
+  },
+  {
+   "title": "Organizational Chart of Japanese Tax Structure",
+   "doc_type": "directive enclosure; organizational chart",
+   "start_page": 111,
+   "end_page": 111,
+   "continues_previous": false,
+   "date": "1948-01-21",
+   "from": "Headquarters Eighth Army",
+   "to": "Military government personnel",
+   "about": "The chart shows the Ministry of Finance tax hierarchy.",
+   "summary": "Shows the Taxation Bureau, regional financial bureaus, and local tax offices by prefecture.",
+   "keywords": [
+    "tax organization",
+    "Ministry of Finance"
+   ]
+  },
+  {
+   "title": "Improvement Seen in Tax Collections",
+   "doc_type": "newspaper clipping",
+   "start_page": 112,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1948-02-03",
+   "from": "Nippon Times",
+   "to": "Readers",
+   "about": "SCAP officials report better tax collection after union instructions.",
+   "summary": "Reports union guidance to collectors, enforcement needs, and reassessments of understated 1947 income.",
+   "keywords": [
+    "tax collection",
+    "tax workers",
+    "reassessment"
+   ]
+  },
+  {
+   "title": "Tax Enforcement Authority of the Japanese Government Over Non-Japanese Nationals Not Attached to the Occupation Forces",
+   "doc_type": "despatch",
+   "start_page": 113,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1948-02-16",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch forwards a press article and two SCAP directives on taxation of non-Japanese nationals.",
+   "summary": "Introduces enclosures clarifying Japanese civil jurisdiction and tax authority over non-Japanese nationals.",
+   "keywords": [
+    "foreign nationals",
+    "tax authority",
+    "civil jurisdiction"
+   ]
+  },
+  {
+   "title": "Official Clarifies Collection of Tax",
+   "doc_type": "newspaper clipping",
+   "start_page": 114,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1948-02-10",
+   "from": "Nippon Times",
+   "to": "Readers",
+   "about": "SCAP Legal Section explains Japanese noncriminal tax enforcement against foreign nationals.",
+   "summary": "Alva Carpenter says Japanese authorities may attach property or impose liens for unpaid taxes.",
+   "keywords": [
+    "foreign nationals",
+    "tax enforcement",
+    "property liens"
+   ]
+  },
+  {
+   "title": "Exercise of Civil Jurisdiction, SCAPIN 777",
+   "doc_type": "SCAP memorandum",
+   "start_page": 115,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1946-02-26",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "The directive defines Japanese court jurisdiction over United Nations nationals.",
+   "summary": "Excludes persons attached to Allied forces while permitting reviewed civil cases involving other United Nations nationals.",
+   "keywords": [
+    "civil jurisdiction",
+    "United Nations nationals",
+    "SCAPIN 777"
+   ]
+  },
+  {
+   "title": "Applicability of Taxes to Non-Japanese Nationals, SCAPIN 4938-A",
+   "doc_type": "SCAP memorandum",
+   "start_page": 116,
+   "end_page": 116,
+   "continues_previous": false,
+   "date": "1947-11-29",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "The directive states when Japanese taxes apply to non-Japanese nationals.",
+   "summary": "Permits nondiscriminatory taxation, with exemptions for certain wartime charges, official salaries, and non-yen income.",
+   "keywords": [
+    "foreign nationals",
+    "tax exemptions",
+    "SCAPIN 4938-A"
+   ]
+  },
+  {
+   "title": "Finnish claim against the Government of Japan",
+   "doc_type": "State Department memorandum",
+   "start_page": 117,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "1948-10-18",
+   "from": "Bell, Division of Northern European Affairs",
+   "to": "Allison",
+   "about": "The memorandum summarizes a Finnish claim over taxed wartime insurance proceeds.",
+   "summary": "Suggests sending the Finnish note to Sebald for investigation and a report.",
+   "keywords": [
+    "Finnish claim",
+    "war risk insurance",
+    "most-favored-nation treaty"
+   ]
+  },
+  {
+   "title": "Finnish Legation note concerning William Metsä's fishing nets",
+   "doc_type": "diplomatic note",
+   "start_page": 118,
+   "end_page": 122,
+   "continues_previous": false,
+   "date": "1948-10-13",
+   "from": "Legation of Finland",
+   "to": "Acting Secretary of State Robert A. Lovett",
+   "about": "Finland requests U.S. good offices concerning Japan's taxation of a wartime insurance claim.",
+   "summary": "William Metsä's prepaid fishing nets were destroyed in 1945, leaving an insurance claim largely represented by a frozen deposit certificate. Japan treated the deposit as subject to a wartime indemnity tax. The note argues that this treatment conflicts with the 1924 Finland–Japan commerce treaty and asks that Japanese authorities reconsider the claim, including a possible 50,000-yen exemption.",
+   "keywords": [
+    "William Metsä",
+    "fishing nets",
+    "war risk insurance",
+    "wartime indemnity tax",
+    "Finland–Japan treaty"
+   ]
+  },
+  {
+   "title": "Instruction concerning Finnish property taxed in Japan",
+   "doc_type": "State Department instruction",
+   "start_page": 123,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "1948-11-19",
+   "from": "Acting Secretary of State",
+   "to": "Acting United States Political Adviser for Japan",
+   "about": "The Department asks the Political Adviser to investigate Finland's claim with General Headquarters.",
+   "summary": "The instruction outlines the Department's understanding that the War Indemnities Tax effectively canceled war risk insurance claims. It distinguishes exemptions for United Nations nationals from the capital levy and from the War Indemnities Tax, and sends related material for consideration of the Finnish request.",
+   "keywords": [
+    "Finnish claim",
+    "War Indemnities Tax",
+    "United Nations property",
+    "tax exemption"
+   ]
+  },
+  {
+   "title": "Application of Japanese Tax Measures to Finnish Property in Japan",
+   "doc_type": "despatch",
+   "start_page": 125,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "1949-02-03",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch conveys SCAP's response to the Finnish insurance-tax claim.",
+   "summary": "SCAP's Economic and Scientific Section says Finland was outside the national exemptions from the War Indemnities Special Measures Law and considers the most-favored-nation treaty inapplicable. It also rejects the argument that lack of communication prevented a timely exemption application, pointing to Swedish representation of Finnish interests in Tokyo.",
+   "keywords": [
+    "Finnish claim",
+    "war indemnities",
+    "tax exemption",
+    "most-favored-nation treaty"
+   ]
+  },
+  {
+   "title": "Reorganization of Japanese National Tax Administration",
+   "doc_type": "despatch",
+   "start_page": 127,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "1949-05-19",
+   "from": "United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch reports SCAP's order to reorganize Japanese national tax administration.",
+   "summary": "SCAPIN 2001 calls for a semi-autonomous national tax administration, with regional bureaus supervising 503 district offices. The despatch cites criticism of inefficient and corrupt tax personnel, discusses L. Harold Moss's call for a professional career service, and reports Japanese plans for a new Tax Administration Bureau. The document continues beyond page 128.",
+   "keywords": [
+    "SCAPIN 2001",
+    "tax administration reform",
+    "Shoup Mission",
+    "L. Harold Moss"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 4,
+  "pages": [
+   69,
+   128
+  ],
+  "pdf": "894.512 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Taxation. Processing Tax. For Treaties, Conventions, Arrangements, Ect., Add Country Number %A0%A0, Using Smaller Number Of Country For **., January 1736.pdf",
+  "seconds": 93.1,
+  "created": "2026-10-08 23:23:05",
+  "key": "japan-internal-affairs-894.512-financial-conditions-budget-5"
+ }
+}

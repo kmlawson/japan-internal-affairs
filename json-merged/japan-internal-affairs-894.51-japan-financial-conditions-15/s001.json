@@ -1,0 +1,654 @@
+{
+ "section_summary": "A November 1948 Tokyo despatch forwards a SCAP memorandum easing restrictions on the transfer of securities issued by restricted Japanese concerns. Most of the section consists of repeated copies of April 1948 tables recording stock sales through liquidation agencies, including methods of sale, share counts, proceeds, and the companies whose shares were sold. The final copy continues beyond page 80.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japam",
+    "Jupem",
+    "Japem",
+    "Japen",
+    "Japen",
+    "Japen",
+    "Japen",
+    "Japen",
+    "Jupen",
+    "Japen",
+    "Japen",
+    "Japen",
+    "Japm"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tekyo",
+    "Tokge",
+    "Tokgo",
+    "Tolgo",
+    "Telge",
+    "Teigo",
+    "Teigre",
+    "Taige",
+    "Telyo",
+    "Toxgo",
+    "Toye",
+    "Takyo",
+    "Totgo",
+    "Tekgye",
+    "Tekgye",
+    "Turyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osaks",
+    "Oeaka",
+    "Oeaks",
+    "Osakea",
+    "Omake",
+    "Csaka",
+    "Csakm"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Holdaido",
+    "Holdmido",
+    "Hokkmido",
+    "Holkaido",
+    "Nekkaido",
+    "Nekkaide",
+    "Nektmide",
+    "Nekdamide",
+    "Nekdaido",
+    "Nekaido",
+    "Heldaido",
+    "Hekdaido"
+   ]
+  },
+  {
+   "name": "Hokuriku",
+   "variants": [
+    "Hokuriku",
+    "Hokurika",
+    "Hokariku",
+    "Hokarika",
+    "Hekarija",
+    "Heknariks",
+    "Hekoriks",
+    "Neierikes",
+    "Hemrike"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kanto",
+    "Karte",
+    "Kante",
+    "Kamto",
+    "Kaste",
+    "Kante",
+    "Xmrte",
+    "Kmrte",
+    "Eamte",
+    "Eaate",
+    "Eamte",
+    "Kaneal"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kansai",
+    "Kamsai",
+    "Kaasai",
+    "Kaneal",
+    "Kansal"
+   ]
+  },
+  {
+   "name": "Chubu",
+   "variants": [
+    "Chubu",
+    "Chabu",
+    "Chaba",
+    "Chabe",
+    "Chaba"
+   ]
+  },
+  {
+   "name": "Chugoku",
+   "variants": [
+    "Chugokm",
+    "Chageka",
+    "Chageks",
+    "Chageics",
+    "Ciagaion"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku",
+    "Shikoka",
+    "Shikeka",
+    "Shiksica",
+    "Shikokcs",
+    "Skikeka"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Kyusha",
+    "Kyusiu",
+    "Kyustau",
+    "Eyusia",
+    "Eyustm",
+    "Eyustm",
+    "Eyustm",
+    "Eyasha",
+    "Eyasta",
+    "Eyustm"
+   ]
+  },
+  {
+   "name": "Tohoku",
+   "variants": [
+    "Tohoku",
+    "Tohoka",
+    "Tobeku",
+    "Tobeia",
+    "Tobeica",
+    "Tobokes",
+    "Toheks",
+    "Tehoku",
+    "Tehoku",
+    "Tekokos"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate",
+    "Ewate",
+    "Imate",
+    "Emate",
+    "Bate"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata",
+    "Niigate",
+    "Miigate",
+    "Wilgata"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nageya",
+    "Naseya",
+    "Mageya",
+    "Magoya",
+    "Kageya"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kyote",
+    "Éyote"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokebama",
+    "Yokahama",
+    "Yeisekama"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate",
+    "Hakodato",
+    "Hakedate",
+    "Hakedato",
+    "Hakedete",
+    "Haksdate",
+    "Nakedate"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshime",
+    "Hireskima"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saitams",
+    "Saitame",
+    "Saitamm"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamagmehi",
+    "Yamageski",
+    "Yamapsské"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shisuoka",
+    "Shisnoka"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita",
+    "Alkita",
+    "Aidita",
+    "Alcita"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi",
+    "Aiahd",
+    "Aichd"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chaba"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara",
+    "Mara"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai",
+    "Sendad"
+   ]
+  },
+  {
+   "name": "Hachioji",
+   "variants": [
+    "Hachioji",
+    "Mackdeji",
+    "Maskdeji"
+   ]
+  },
+  {
+   "name": "Ashibetsu",
+   "variants": [
+    "Ashibetsu",
+    "Astibetaa"
+   ]
+  },
+  {
+   "name": "Tomakomai",
+   "variants": [
+    "Tomakomai",
+    "Temaksmai"
+   ]
+  },
+  {
+   "name": "Hakone",
+   "variants": [
+    "Hakone",
+    "Nakone"
+   ]
+  },
+  {
+   "name": "Chichibu",
+   "variants": [
+    "Chichibu",
+    "Chickiba",
+    "Chichiba",
+    "Chishibu",
+    "Chiehiba"
+   ]
+  },
+  {
+   "name": "Sado",
+   "variants": [
+    "Sado",
+    "Sade"
+   ]
+  },
+  {
+   "name": "Izu",
+   "variants": [
+    "Isume"
+   ]
+  },
+  {
+   "name": "Iyo",
+   "variants": [
+    "Iyo",
+    "Iye"
+   ]
+  },
+  {
+   "name": "Ugo",
+   "variants": [
+    "Ugo",
+    "Uge"
+   ]
+  },
+  {
+   "name": "Towada",
+   "variants": [
+    "Towada",
+    "Tomda"
+   ]
+  },
+  {
+   "name": "Enshu",
+   "variants": [
+    "Enshu",
+    "Ensin"
+   ]
+  },
+  {
+   "name": "Sagami",
+   "variants": [
+    "Sagami"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki",
+    "Kinid",
+    "Kinkd",
+    "Kinkdi",
+    "Kiaki",
+    "Kinkci"
+   ]
+  },
+  {
+   "name": "Keihanshin",
+   "variants": [
+    "Keihanshin",
+    "Keihanahin",
+    "Keihansin",
+    "Hakanatda",
+    "Ksihanahin"
+   ]
+  },
+  {
+   "name": "Tobu",
+   "variants": [
+    "Tobu",
+    "Teba",
+    "Tobe",
+    "Tobo"
+   ]
+  },
+  {
+   "name": "Shinetsu",
+   "variants": [
+    "Shin-Etsu",
+    "Shin-Rtsu",
+    "Shineteu"
+   ]
+  },
+  {
+   "name": "Yodogawa",
+   "variants": [
+    "Yodogawa",
+    "Todogawa",
+    "Yedegama",
+    "Yedogama",
+    "Yodegamm"
+   ]
+  },
+  {
+   "name": "Fuji",
+   "variants": [
+    "Fuji",
+    "Faji",
+    "Fuj1",
+    "Puji"
+   ]
+  },
+  {
+   "name": "Mishima",
+   "variants": [
+    "Mishima",
+    "Miskima"
+   ]
+  },
+  {
+   "name": "Kurashiki",
+   "variants": [
+    "Kurashiki",
+    "Karashikd"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki",
+    "Amagasald"
+   ]
+  },
+  {
+   "name": "Isetan",
+   "variants": [
+    "Isetan",
+    "Isstam",
+    "Isetem",
+    "Imstan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "E. G. Seidensticker Jr.",
+   "role": "Identified by initials on the November 1948 despatch; position not stated.",
+   "variants": [
+    "EGSeidensticker, Jr."
+   ]
+  },
+  {
+   "name": "Takahashi Kyuroku",
+   "role": "Named in the firm name Takahashi Kyuroku & Co.; no personal role stated.",
+   "variants": [
+    "Takahashi Kyuroku",
+    "Talmhashi Kyuroka"
+   ]
+  }
+ ],
+ "keywords": [
+  "restricted concerns",
+  "SCAPIN 403/1",
+  "securities transfers",
+  "shareholding limits",
+  "Imperial Ordinance 567",
+  "liquidation agencies",
+  "stock sales",
+  "tender sales",
+  "employee sales",
+  "Japanese financial conditions"
+ ],
+ "subfiles": [
+  {
+   "title": "Forwarding SCAP memorandum on securities of restricted concerns",
+   "doc_type": "Foreign Service despatch",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1948-11-26",
+   "from": "Acting Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "Forwards SCAPIN 403/1 and explains its changes to controls on restricted concerns' securities.",
+   "summary": "The despatch summarizes new exemptions for small concerns, limited transfers by financial institutions and dealers, and shareholders' pre-emptive rights. It relates those changes to earlier SCAP directives, Imperial Ordinance 567, and the Antimonopoly Law.",
+   "keywords": [
+    "SCAPIN 403/1",
+    "restricted concerns",
+    "securities transfers",
+    "Antimonopoly Law"
+   ]
+  },
+  {
+   "title": "Disposal and Acquisition of Securities of Restricted Concerns",
+   "doc_type": "SCAP memorandum",
+   "start_page": 3,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1948-11-09",
+   "from": "General Headquarters, Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "Amends restrictions on transfers of securities issued by restricted concerns.",
+   "summary": "SCAPIN 403/1 exempts transfers involving concerns with share capital below ¥5 million and permits specified transfers involving larger concerns, subject to ownership limits and other laws. It also permits certain sales by banks and insurers, dealings by registered brokers, and exercise of pre-emptive rights.",
+   "keywords": [
+    "SCAPIN 403/1",
+    "restricted concerns",
+    "share capital",
+    "securities dealers"
+   ]
+  },
+  {
+   "title": "Securities held by liquidation agencies",
+   "doc_type": "Statistical enclosure to despatch no. 213",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "",
+   "about": "Tabulates securities held by liquidation agencies as of March 1948.",
+   "summary": "Lists categories, share counts, and yen values of securities held by liquidation agencies.",
+   "keywords": [
+    "liquidation agencies",
+    "securities holdings",
+    "statistical table"
+   ]
+  },
+  {
+   "title": "Sales of Securities Through Liquidation Agencies, enclosure no. 2",
+   "doc_type": "Statistical enclosure to despatch no. 213",
+   "start_page": 6,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "",
+   "about": "Records shares disposed of through Japanese liquidation agencies up to February 21, 1948.",
+   "summary": "Opening tables total sales by S.C.L.C., H.C.L.C., and C.I.L.C. and distinguish public sales, employee and local resident allocations, and tenders. Detailed company lists then record shares offered and sold, buyers, and proceeds across 1947 and early 1948. The enclosure ends with separate lists for C.I.L.C. and H.C.L.C. disposals.",
+   "keywords": [
+    "stock sales",
+    "liquidation agencies",
+    "S.C.L.C.",
+    "C.I.L.C.",
+    "H.C.L.C.",
+    "tenders"
+   ]
+  },
+  {
+   "title": "Sales of Securities Through Liquidation Agencies, enclosure no. 2, second copy",
+   "doc_type": "Duplicate statistical enclosure",
+   "start_page": 29,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "",
+   "about": "Repeats the tables of share disposals through liquidation agencies up to February 21, 1948.",
+   "summary": "This is another OCR copy of the enclosure on pages 6–28. It repeats agency totals, S.C.L.C. sales by period and method, detailed sales by issuing company, and C.I.L.C. and H.C.L.C. disposition lists. OCR quality varies and some figures differ in transcription.",
+   "keywords": [
+    "duplicate enclosure",
+    "stock sales",
+    "liquidation agencies",
+    "share proceeds"
+   ]
+  },
+  {
+   "title": "Sales of Securities Through Liquidation Agencies, enclosure no. 2, third copy",
+   "doc_type": "Duplicate statistical enclosure",
+   "start_page": 52,
+   "end_page": 74,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "",
+   "about": "Repeats the agency totals and company-by-company stock disposal tables.",
+   "summary": "A third copy again gives the cumulative totals through February 21, 1948, followed by S.C.L.C. sale records and C.I.L.C. and H.C.L.C. lists. It includes methods of disposition, numbers of shares, and proceeds. Several figures and names are distorted by OCR.",
+   "keywords": [
+    "duplicate enclosure",
+    "stock sales",
+    "S.C.L.C.",
+    "C.I.L.C.",
+    "H.C.L.C."
+   ]
+  },
+  {
+   "title": "Sales of Securities Through Liquidation Agencies, enclosure no. 2, fourth copy",
+   "doc_type": "Partial duplicate statistical enclosure",
+   "start_page": 75,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "",
+   "about": "Begins another copy of the liquidation-agency stock sales enclosure.",
+   "summary": "These pages repeat the cumulative agency totals and the beginning of the S.C.L.C. company-by-company sales list. The copy starts with a summary through February 21, 1948, and reaches August 1947 transactions by page 80. The document continues beyond this section.",
+   "keywords": [
+    "duplicate enclosure",
+    "liquidation agencies",
+    "stock sales",
+    "S.C.L.C."
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 7,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., July 9, 1947 - November 26, 1948 1678.pdf",
+  "seconds": 39.5,
+  "created": "2026-10-08 23:25:21",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-15"
+ }
+}

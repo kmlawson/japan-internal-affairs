@@ -1,0 +1,1200 @@
+{
+ "section_summary": "This section continues a report on Japan’s fishing industry, covering fish consumption, regional supply, foreign trade, government administration, industry organizations, international fishing disputes, and wartime shortages and controls. Tables and a map provide prices, production balances, exports, licenses, expenditures, company figures, and rationing data. Appendix A begins with 1936 canned salmon production by location and cannery.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japenese",
+    "Japanese",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo City"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohaa",
+    "Yokchama"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Xyoto",
+    "Kyeto"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Kote"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Sasebo",
+   "variants": [
+    "Sasebo"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki",
+    "Shimono-seki"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "Tobata"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki City"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkoi"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Kyuahu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Tohoku",
+   "variants": [
+    "Tohoku",
+    "TOOHOKU",
+    "Toohoku"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kanto",
+    "Konto"
+   ]
+  },
+  {
+   "name": "Tokai",
+   "variants": [
+    "Tokai"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki"
+   ]
+  },
+  {
+   "name": "Chugoku",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita",
+    "Akito",
+    "Aldta"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi",
+    "Migoyi"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata",
+    "Niiagata"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki",
+    "Ibaroki"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba",
+    "Chiber"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma",
+    "Gusma"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama",
+    "Sai tema",
+    "Soitoma"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kanogawo"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi",
+    "Yomanoshi"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka",
+    "Shizuoko",
+    "Shi zuoka"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu",
+    "G1fu"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa",
+    "Ishakowa",
+    "Ishikawe"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga",
+    "Shigo"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui",
+    "Fului Kawa"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara",
+    "Noro"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama",
+    "Wakayamo"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Eyogo"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori",
+    "Tot tori"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "Hiroahima"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "Kogawa"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima",
+    "Tokashima"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka",
+    "Fukuoko"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki",
+    "Nogasoki",
+    "Nagasakk"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita",
+    "Oi ta"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto",
+    "Kumamo to",
+    "Kumomoto"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki",
+    "Miyasaki",
+    "Miyazoki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima",
+    "Kogoshima"
+   ]
+  },
+  {
+   "name": "Okinawa Prefecture",
+   "variants": [
+    "Okinawa",
+    "Oxdnawa",
+    "Ukinawa"
+   ]
+  },
+  {
+   "name": "Izu Peninsula",
+   "variants": [
+    "Izu"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S."
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "@hina"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto",
+    "KARAFUTO"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kuriles"
+   ]
+  },
+  {
+   "name": "Northern Kuril Islands",
+   "variants": [
+    "northern Kuriles",
+    "KITA-CHISHIMA",
+    "Kita-Chishima"
+   ]
+  },
+  {
+   "name": "Iturup Island",
+   "variants": [
+    "ETROFU",
+    "Etrofu"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchukmuo"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Philippine Ialands"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands Indies"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "Straits Settlement"
+   ]
+  },
+  {
+   "name": "British India",
+   "variants": [
+    "British India"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russian"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "Canade"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska",
+    "Alaskan"
+   ]
+  },
+  {
+   "name": "Bristol Bay",
+   "variants": [
+    "Bristol Bay"
+   ]
+  },
+  {
+   "name": "Bering Sea",
+   "variants": [
+    "Bering Sea",
+    "Bering"
+   ]
+  },
+  {
+   "name": "Sea of Okhotsk",
+   "variants": [
+    "Okhotsk Sea",
+    "Okhotsk"
+   ]
+  },
+  {
+   "name": "Sea of Japan",
+   "variants": [
+    "Japan Sea",
+    "Japan Seas"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "North Pacific"
+   ]
+  },
+  {
+   "name": "Indian Ocean",
+   "variants": [
+    "Indian Ocean"
+   ]
+  },
+  {
+   "name": "Antarctica",
+   "variants": [
+    "Antarctic"
+   ]
+  },
+  {
+   "name": "Kamchatka Peninsula",
+   "variants": [
+    "Kamchatka",
+    "Eastern Kamchatka",
+    "Western Kamchatka"
+   ]
+  },
+  {
+   "name": "Pribilof Islands",
+   "variants": [
+    "Pribilof Islands",
+    "Fritilof Islands"
+   ]
+  },
+  {
+   "name": "Commander Islands",
+   "variants": [
+    "Commander Islands"
+   ]
+  },
+  {
+   "name": "Tyuleniy Island",
+   "variants": [
+    "Kaihyoto Island",
+    "Robben or Seal Island"
+   ]
+  },
+  {
+   "name": "Peking",
+   "variants": [
+    "Peking"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Kanagawa Ward, Yokohama",
+   "variants": [
+    "Kanagawa-ku"
+   ]
+  },
+  {
+   "name": "Shiba Ward, Tokyo",
+   "variants": [
+    "Shiba-ku"
+   ]
+  },
+  {
+   "name": "Kyobashi Ward, Tokyo",
+   "variants": [
+    "Kyobashi-ku"
+   ]
+  },
+  {
+   "name": "Naka Ward, Yokohama",
+   "variants": [
+    "Naka-iu"
+   ]
+  },
+  {
+   "name": "Yamauchi-cho, Yokohama",
+   "variants": [
+    "Yamauchi-chio",
+    "Yamauchi-cho"
+   ]
+  },
+  {
+   "name": "Ikeda-cho, Kawasaki",
+   "variants": [
+    "Ikeda-cho"
+   ]
+  },
+  {
+   "name": "Horikawa-cho, Kawasaki",
+   "variants": [
+    "Horikawa-cho"
+   ]
+  },
+  {
+   "name": "Masago-cho, Yokohama",
+   "variants": [
+    "Masago-cho"
+   ]
+  },
+  {
+   "name": "Kaigan-dori, Tokyo",
+   "variants": [
+    "Kaigan-dori"
+   ]
+  },
+  {
+   "name": "Nada-machi, Tokyo",
+   "variants": [
+    "Nada-machi"
+   ]
+  },
+  {
+   "name": "Minatomachi, Yokohama",
+   "variants": [
+    "Minatomachi"
+   ]
+  },
+  {
+   "name": "Sunago, Kawasaki",
+   "variants": [
+    "Sunago"
+   ]
+  },
+  {
+   "name": "Kataoka Bay",
+   "variants": [
+    "Kataoka-wan"
+   ]
+  },
+  {
+   "name": "Olyutorka",
+   "variants": [
+    "Olyutorka"
+   ]
+  },
+  {
+   "name": "Tamlat",
+   "variants": [
+    "Tamlat"
+   ]
+  },
+  {
+   "name": "Pankara",
+   "variants": [
+    "Pankara"
+   ]
+  },
+  {
+   "name": "Uka",
+   "variants": [
+    "Uka"
+   ]
+  },
+  {
+   "name": "Ust-Kamchatsk",
+   "variants": [
+    "Ust-Kamchetka"
+   ]
+  },
+  {
+   "name": "Ozernaya",
+   "variants": [
+    "Ozernaya"
+   ]
+  },
+  {
+   "name": "Yavina",
+   "variants": [
+    "Yavina"
+   ]
+  },
+  {
+   "name": "Koshegochek",
+   "variants": [
+    "Koshegochek"
+   ]
+  },
+  {
+   "name": "Opala",
+   "variants": [
+    "Opala"
+   ]
+  },
+  {
+   "name": "Bolsheretsk",
+   "variants": [
+    "Bolsheretzk"
+   ]
+  },
+  {
+   "name": "Utka",
+   "variants": [
+    "Utka"
+   ]
+  },
+  {
+   "name": "Pimta",
+   "variants": [
+    "Pimta"
+   ]
+  },
+  {
+   "name": "Kakhta",
+   "variants": [
+    "Kakhta"
+   ]
+  },
+  {
+   "name": "Vorovskaya",
+   "variants": [
+    "Vorovskaya"
+   ]
+  },
+  {
+   "name": "Kompakova",
+   "variants": [
+    "Kompakova"
+   ]
+  },
+  {
+   "name": "Krutogorov",
+   "variants": [
+    "Krutogorov"
+   ]
+  },
+  {
+   "name": "Oblukovina",
+   "variants": [
+    "Oblukovina"
+   ]
+  },
+  {
+   "name": "Icha",
+   "variants": [
+    "Icha"
+   ]
+  },
+  {
+   "name": "Sopochinaya",
+   "variants": [
+    "Sopochinaya"
+   ]
+  },
+  {
+   "name": "Utkoroka",
+   "variants": [
+    "Utkoroka"
+   ]
+  },
+  {
+   "name": "Palana",
+   "variants": [
+    "Palana"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Hirota",
+   "role": "Party named in the 1932 Hirota-Karakhan fisheries agreement",
+   "variants": [
+    "Hirota"
+   ]
+  },
+  {
+   "name": "Karakhan",
+   "role": "Party named in the 1932 Hirota-Karakhan fisheries agreement",
+   "variants": [
+    "Karakhan"
+   ]
+  },
+  {
+   "name": "L. Larry Leonard",
+   "role": "Author of International Regulation of Fisheries",
+   "variants": [
+    "Leonard, L. Larry",
+    "Leonard"
+   ]
+  },
+  {
+   "name": "Shigeta",
+   "role": "Chief of Economics Department, Osaka listing",
+   "variants": [
+    "Shigeta"
+   ]
+  },
+  {
+   "name": "Otsubo",
+   "role": "Chief of Police Department, Osaka listing",
+   "variants": [
+    "Otsubo"
+   ]
+  },
+  {
+   "name": "Sakama",
+   "role": "Mayor, Osaka listing",
+   "variants": [
+    "Sakama"
+   ]
+  },
+  {
+   "name": "Tanaka",
+   "role": "Chief of Economics Department, Kyoto listing",
+   "variants": [
+    "Tanaka"
+   ]
+  },
+  {
+   "name": "Miyada",
+   "role": "Chief of Police Department, Kyoto listing",
+   "variants": [
+    "Miyada"
+   ]
+  },
+  {
+   "name": "Sunohara",
+   "role": "Mayor, Kyoto listing",
+   "variants": [
+    "Sunohara"
+   ]
+  },
+  {
+   "name": "Takegami",
+   "role": "Chief of Commercial Economic Association, Kyoto listing",
+   "variants": [
+    "Takegami"
+   ]
+  },
+  {
+   "name": "Saito",
+   "role": "Chief of Economics Department, Kobe listing",
+   "variants": [
+    "Saito"
+   ]
+  },
+  {
+   "name": "Tatsuno",
+   "role": "Chief of Police Department, Kobe listing",
+   "variants": [
+    "Tatsuno"
+   ]
+  },
+  {
+   "name": "Noda",
+   "role": "Mayor, Kobe listing",
+   "variants": [
+    "Noda"
+   ]
+  },
+  {
+   "name": "Kikuchi",
+   "role": "Chief of Commercial Economic Association, Kobe listing",
+   "variants": [
+    "Kikuchi"
+   ]
+  },
+  {
+   "name": "Inai Zenhachi",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Inai Zenhachi"
+   ]
+  },
+  {
+   "name": "Wakai Zenzo",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Wakai Zenzo"
+   ]
+  },
+  {
+   "name": "Neichi Kanejiro",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Neichi Kanejiro"
+   ]
+  },
+  {
+   "name": "Uhara Genshiro",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Uhara Genshiro"
+   ]
+  },
+  {
+   "name": "Yamaji Masaichi",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Yamaji Masaichi"
+   ]
+  },
+  {
+   "name": "Sakagami Tatsuzo",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Sakagami Tatsuzo"
+   ]
+  },
+  {
+   "name": "Shimogoori Kanzo",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Shimogoori Kanzo"
+   ]
+  },
+  {
+   "name": "Sasaki Eiichi",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Sasaki Eiichi"
+   ]
+  },
+  {
+   "name": "Iwasa Tatsuo",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Iwasa Tatsuo"
+   ]
+  },
+  {
+   "name": "Izumi Katsuhei",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "I zumi Katsuhei"
+   ]
+  },
+  {
+   "name": "Yoshida Toshinori",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Yoshida Toshinori"
+   ]
+  },
+  {
+   "name": "Tanaka Kichiji",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Tanaka Kichiji"
+   ]
+  },
+  {
+   "name": "Takagi Yoshimatsu",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Takagi Yoshimatsu"
+   ]
+  },
+  {
+   "name": "Yamazaki Kumataro",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Yamazaki Kumataro"
+   ]
+  },
+  {
+   "name": "Yamamoto Kuninosuke",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Yamamoto Kuninosuke"
+   ]
+  },
+  {
+   "name": "Akasaka Ichisaburo",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Akasaka Ichisaburo"
+   ]
+  },
+  {
+   "name": "Hakama Shinichiro",
+   "role": "Named canned salmon cannery operator",
+   "variants": [
+    "Hakama Shinichiro"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese fisheries",
+  "fish consumption",
+  "foreign trade",
+  "fisheries administration",
+  "fishing cooperatives",
+  "international fishing disputes",
+  "salmon",
+  "whaling",
+  "fur seals",
+  "wartime rationing",
+  "price controls",
+  "canned salmon"
+ ],
+ "subfiles": [
+  {
+   "title": "Report on Japan’s fishing industry, continued, with Appendix A",
+   "doc_type": "report",
+   "start_page": 320,
+   "end_page": 385,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The report surveys the structure, trade, regulation, international disputes, and wartime condition of Japan’s fisheries, then begins production tables for canned salmon.",
+   "summary": "The continuing report presents prewar fish prices and consumption estimates, regional surpluses and deficits, export and import patterns, and the administration of fisheries through government offices, societies, cooperatives, companies, and associations. It reviews disputes over Soviet fishing rights, Bristol Bay salmon, Antarctic whaling, and North Pacific fur seals. Its wartime section describes declining catches, rationing, price controls, and tighter government direction of the industry. Appendix A begins with 1936 canned salmon output in Russian waters, Japan proper, Karafuto, the Kuriles, and floating canneries.",
+   "keywords": [
+    "Japan",
+    "fisheries",
+    "fish consumption",
+    "exports",
+    "fishing licenses",
+    "cooperatives",
+    "Bristol Bay",
+    "whaling",
+    "fur seals",
+    "rationing",
+    "canned salmon"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 10,
+  "pages": [
+   320,
+   385
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., January 30, 1945 - November 7, 1946 1542-part-1.pdf",
+  "seconds": 37.4,
+  "created": "2026-10-09 00:13:39",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-9-part-1"
+ }
+}

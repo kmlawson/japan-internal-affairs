@@ -1,0 +1,756 @@
+{
+ "section_summary": "This section finishes a November 1948 despatch from London compiling British parliamentary statements on Japan’s economic recovery, trade and demilitarisation, alongside questions about China, Korea, the Philippines and Malaya. It then begins an attached House of Lords debate on the emergency in Malaya, including criticism of British policy and a government account of the insurgency, economic conditions and constitutional plans.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese islands"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Nationalist China"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Soviet Union",
+    "U.S.S.R."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "American"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Great Britain",
+    "Britain",
+    "England"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Eastern",
+    "East"
+   ]
+  },
+  {
+   "name": "Pacific",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Lancashire",
+   "variants": [
+    "Lancashire",
+    "Lanoashire",
+    "Lan-cashire"
+   ]
+  },
+  {
+   "name": "Yorkshire",
+   "variants": [
+    "Yorkshire"
+   ]
+  },
+  {
+   "name": "Norwich",
+   "variants": [
+    "Norwich"
+   ]
+  },
+  {
+   "name": "Brighton",
+   "variants": [
+    "Brighton"
+   ]
+  },
+  {
+   "name": "Ashton-under-Lyne",
+   "variants": [
+    "Ashton-under-Lyne"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "variants": [
+    "Pakistan"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "Zimbabwe",
+   "variants": [
+    "Southern Rhodesia"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "North Korea",
+    "South Korea"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philippine Islands",
+    "Phil-1ppine Islands"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Vietnam",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya",
+    "Federation of Malaya",
+    "Malayan Peninsula",
+    "Malay Peninsula",
+    "Malayan Union"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "Singapore Island",
+    "Colony of Singapore"
+   ]
+  },
+  {
+   "name": "Kuala Lumpur",
+   "variants": [
+    "Kualar Lumpur"
+   ]
+  },
+  {
+   "name": "Johor",
+   "variants": [
+    "Johore"
+   ]
+  },
+  {
+   "name": "Johor Bahru",
+   "variants": [
+    "Johore Bahru"
+   ]
+  },
+  {
+   "name": "Perak",
+   "variants": [
+    "Perak"
+   ]
+  },
+  {
+   "name": "Sungai Siput",
+   "variants": [
+    "Sungei Siput"
+   ]
+  },
+  {
+   "name": "Czech Republic",
+   "variants": [
+    "Czechoslovakia"
+   ]
+  },
+  {
+   "name": "Southgate",
+   "variants": [
+    "SOUTHGATE"
+   ]
+  },
+  {
+   "name": "Chigwell",
+   "variants": [
+    "CHIgWELL"
+   ]
+  },
+  {
+   "name": "Skipton",
+   "variants": [
+    "SKIPTON"
+   ]
+  },
+  {
+   "name": "Sevenoaks",
+   "variants": [
+    "SEVENOAKS"
+   ]
+  },
+  {
+   "name": "Truro",
+   "variants": [
+    "Truro"
+   ]
+  },
+  {
+   "name": "Isle of Wight",
+   "variants": [
+    "Isle of Wight"
+   ]
+  },
+  {
+   "name": "Whitehall",
+   "variants": [
+    "Whitehall"
+   ]
+  },
+  {
+   "name": "Palestine",
+   "variants": [
+    "Palestine"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burmese"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "South-East Asian",
+    "South East Asia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European",
+    "Europeans"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "John Paton",
+   "role": "Member of Parliament for Norwich",
+   "variants": [
+    "Mr. John Paton",
+    "Mr. J. Paton",
+    "Mr. Paton",
+    "Mr. John Paton"
+   ]
+  },
+  {
+   "name": "Harold Bottomley",
+   "role": "Secretary for Overseas Trade",
+   "variants": [
+    "Mr. Bottomley"
+   ]
+  },
+  {
+   "name": "Mr. Drayson",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Drayson"
+   ]
+  },
+  {
+   "name": "Stanley Prescott",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Prescott",
+    "Mr. Stanley Prescott"
+   ]
+  },
+  {
+   "name": "Christopher Mayhew",
+   "role": "Under-Secretary of State for Foreign Affairs",
+   "variants": [
+    "Mr. Mayhew"
+   ]
+  },
+  {
+   "name": "D. N. Pritt",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Pritt"
+   ]
+  },
+  {
+   "name": "Harold Wilson",
+   "role": "President of the Board of Trade",
+   "variants": [
+    "Mr. H. Wilson"
+   ]
+  },
+  {
+   "name": "George Jeger",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. George Jeger"
+   ]
+  },
+  {
+   "name": "Hector McNeil",
+   "role": "Minister of State",
+   "variants": [
+    "Mr. McNeil"
+   ]
+  },
+  {
+   "name": "F. J. Erroll",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Erroll"
+   ]
+  },
+  {
+   "name": "Phil Piratin",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Piratin"
+   ]
+  },
+  {
+   "name": "John Platts-Mills",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Platts-Mills"
+   ]
+  },
+  {
+   "name": "William Teeling",
+   "role": "Conservative Member of Parliament for Brighton",
+   "variants": [
+    "Mr. William Teeling",
+    "Mr. Teeling"
+   ]
+  },
+  {
+   "name": "Vernon Bartlett",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Vernon Bartlett"
+   ]
+  },
+  {
+   "name": "Ronald Ross",
+   "role": "Member of Parliament",
+   "variants": [
+    "Sir Ronald Ross"
+   ]
+  },
+  {
+   "name": "Fitzroy Maclean",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Fitzroy Maclean",
+    "Mr. F. Maclean"
+   ]
+  },
+  {
+   "name": "Arthur Creech Jones",
+   "role": "Secretary of State for the Colonies",
+   "variants": [
+    "Mr. Creech Jones"
+   ]
+  },
+  {
+   "name": "Kenneth Pickthorn",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Pickthorn"
+   ]
+  },
+  {
+   "name": "David Rees-Williams",
+   "role": "Parliamentary Under-Secretary for the Colonies",
+   "variants": [
+    "Mr. Rees-Williams"
+   ]
+  },
+  {
+   "name": "W. Fletcher",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. W. Fletcher"
+   ]
+  },
+  {
+   "name": "Lord Mancroft",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Lord Mancroft",
+    "LORD MANCROFT"
+   ]
+  },
+  {
+   "name": "Viscount Swinton",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Viscount Swinton"
+   ]
+  },
+  {
+   "name": "Lord Milverton",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Lord Milverton"
+   ]
+  },
+  {
+   "name": "Viscount Marchwood",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Viscount Marchwood"
+   ]
+  },
+  {
+   "name": "Bishop of Truro",
+   "role": "Member of the House of Lords; Bishop of Truro",
+   "variants": [
+    "the Lord Bishop of Truro"
+   ]
+  },
+  {
+   "name": "Viscount Elibank",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Viscount Elibank"
+   ]
+  },
+  {
+   "name": "Lord Mountevans",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Lord Mountevans"
+   ]
+  },
+  {
+   "name": "Earl of Scarborough",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "the Earl of Scarborough"
+   ]
+  },
+  {
+   "name": "Lord Harlech",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "Lord Harlech"
+   ]
+  },
+  {
+   "name": "Earl of Listowel",
+   "role": "Minister of State for the Colonies",
+   "variants": [
+    "the Earl of Listowel",
+    "THE EARL OF LISTOWEL",
+    "The Earl of Listowel"
+   ]
+  },
+  {
+   "name": "Mr. Awbery",
+   "role": "Member of Parliament; coauthor of a report on Malaya",
+   "variants": [
+    "Mr. Awbery"
+   ]
+  },
+  {
+   "name": "Mr. Gammans",
+   "role": "Member of Parliament",
+   "variants": [
+    "Mr. Gammans"
+   ]
+  },
+  {
+   "name": "Erle R. Dickover",
+   "role": "Counselor of Embassy; signed the despatch for the Ambassador",
+   "variants": [
+    "Erle R. Dickover",
+    "ERDickover"
+   ]
+  },
+  {
+   "name": "Lord Walkden",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "LoRD WALKDEN",
+    "Lord Walkden"
+   ]
+  },
+  {
+   "name": "Lord Pakenham",
+   "role": "Minister of Civil Aviation",
+   "variants": [
+    "LORD PAKENHAM",
+    "LoRD PAKENHAM"
+   ]
+  },
+  {
+   "name": "Viscount Long",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "ViscoUNT LONG",
+    "VIscouNT LONG"
+   ]
+  },
+  {
+   "name": "Lord Llewellin",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "LoRD LLEWELLIN"
+   ]
+  },
+  {
+   "name": "Malcolm MacDonald",
+   "role": "Commissioner-General in the Far East",
+   "variants": [
+    "Mr. Malcolm MacDonald",
+    "Mr. MacDonald"
+   ]
+  },
+  {
+   "name": "Mr. Dalley",
+   "role": "Coauthor of a report on Malaya",
+   "variants": [
+    "Mr. Dalley"
+   ]
+  },
+  {
+   "name": "Sir Edward Gent",
+   "role": "Former High Commissioner in Malaya",
+   "variants": [
+    "Sir Edward Gent",
+    "Sir Édward Gent"
+   ]
+  },
+  {
+   "name": "Lord Killearn",
+   "role": "Former head of an organisation in Malaya",
+   "variants": [
+    "Lord Killearn"
+   ]
+  },
+  {
+   "name": "Dato Onn bin Jaafar",
+   "role": "Prime Minister of Johore; leader of the United Malayan National Organisation",
+   "variants": [
+    "Dato Onn Bin Ja'afar",
+    "Dato Onn"
+   ]
+  },
+  {
+   "name": "Karl Marx",
+   "role": "Political theorist",
+   "variants": [
+    "Karl Marx"
+   ]
+  },
+  {
+   "name": "Vladimir Lenin",
+   "role": "Political theorist",
+   "variants": [
+    "Leninism"
+   ]
+  },
+  {
+   "name": "Lord Carr-Saunders",
+   "role": "Namesake of the Carr Saunders Commission",
+   "variants": [
+    "Carr Saunders"
+   ]
+  },
+  {
+   "name": "Dr. Allen",
+   "role": "Principal-designate of the University of Malaya",
+   "variants": [
+    "Dr. Allen"
+   ]
+  },
+  {
+   "name": "Lord Hawke",
+   "role": "Member of the House of Lords",
+   "variants": [
+    "LorD HAWKE"
+   ]
+  },
+  {
+   "name": "Ong Chong Keng",
+   "role": "Chinese leader in the Federation of Malaya Legislative Council",
+   "variants": [
+    "Dr. Ong Chong Keng"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese economic recovery",
+  "textile industry",
+  "British trade policy",
+  "most-favoured-nation treatment",
+  "Commonwealth trade agreement",
+  "Far Eastern Commission",
+  "China trade",
+  "Malayan Emergency",
+  "Communist insurgency",
+  "Malayan trade unions",
+  "Malayan constitutional reform"
+ ],
+ "subfiles": [
+  {
+   "title": "British parliamentary questions and debates on Far Eastern affairs",
+   "doc_type": "Despatch",
+   "start_page": 481,
+   "end_page": 496,
+   "continues_previous": true,
+   "date": "1948-11-24",
+   "from": "Erle R. Dickover, for the Ambassador, London",
+   "to": "U.S. Department of State",
+   "about": "Reports British parliamentary discussion of Japan’s economy and trade and related developments across East and Southeast Asia.",
+   "summary": "The surviving portion opens with debate over Japanese textile expansion, industrial targets, British competition and a Commonwealth trade arrangement. It then records parliamentary answers on Japanese demilitarisation, most-favoured-nation treatment, compensation and trade consultation, followed by exchanges concerning China, Hong Kong, Korea, the Philippines and Malaya. The despatch closes by noting an attached House of Lords debate on Malaya and reporting answers on Malayan arms and rubber exports.",
+   "keywords": [
+    "Japan",
+    "textiles",
+    "trade agreement",
+    "China",
+    "Hong Kong",
+    "Korea",
+    "Philippines",
+    "Malaya"
+   ]
+  },
+  {
+   "title": "House of Lords debate: Malaya, 10 November 1948",
+   "doc_type": "Enclosed Hansard extract",
+   "start_page": 497,
+   "end_page": 508,
+   "continues_previous": false,
+   "date": "1948-11-10",
+   "from": "House of Lords",
+   "to": "",
+   "about": "Records Lord Mancroft’s criticism and the Earl of Listowel’s response concerning the Malayan Emergency.",
+   "summary": "Lord Mancroft attributes the emergency partly to British administrative and security failures and asks about relations between Chinese and Malay communities, constitutional reform and the future of Singapore. The Earl of Listowel describes the insurgency’s wartime origins, Communist influence in trade unions, armed attacks and the government’s military response. He also discusses production, education, housing, the proposed University of Malaya and plans for elected legislatures. The debate continues beyond page 508.",
+   "keywords": [
+    "Malayan Emergency",
+    "House of Lords",
+    "Communism",
+    "trade unions",
+    "Singapore",
+    "education",
+    "constitutional reform"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 11,
+  "sections": 13,
+  "pages": [
+   481,
+   508
+  ],
+  "pdf": "894.50 Japan, Economic Matters., September 21, 1945 - November 24, 1948 1677-part-2.pdf",
+  "seconds": 43.9,
+  "created": "2026-10-09 00:09:12",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-16-part-2"
+ }
+}

@@ -1,0 +1,992 @@
+{
+ "section_summary": "This section covers the sale and rehabilitation of Japan’s cotton textile industry in 1948. Correspondence and studies discuss dollar shortages, unsold cloth, raw cotton financing, possible sales in the United States, and trade with sterling-area markets. It also includes a contract fragment, an export-bond dispute, a proposal to exchange Japanese spinning machinery for Indian materials, and the opening of a SCAP industry outlook.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "dapan",
+    "Jepanese",
+    "Jap an",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "U. S.",
+    "American",
+    "America",
+    "tnited States",
+    "Uhited States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Vashington",
+    "iashington",
+    "ASHINGTON",
+    "Washington, D. C.",
+    "WASHINGTON, D. C."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "New Tork"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Ind a"
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "variants": [
+    "Pakistan"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egyptian"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Gesmany",
+    "Gessmay",
+    "Bizonal Germany"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "United Xingiem",
+    "U.K.",
+    "British",
+    "England"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australis"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philippine Ialands"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Gamada"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Ouba"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "XI Salveder"
+   ]
+  },
+  {
+   "name": "Nicaragua",
+   "variants": [
+    "Xieeregie"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "variants": [
+    "Venesuala"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "British Malaya",
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Geylan"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands East Indies",
+    "Natherland Eest Indies",
+    "NEI"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "Freneh Indo-Shina"
+   ]
+  },
+  {
+   "name": "Democratic Republic of the Congo",
+   "variants": [
+    "Belgian Genge"
+   ]
+  },
+  {
+   "name": "East Africa",
+   "variants": [
+    "British East Africa"
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "variants": [
+    "Migaria"
+   ]
+  },
+  {
+   "name": "French West Africa",
+   "variants": [
+    "Fesnsk Wost Afries"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "Unien of South Africa"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Pawtucket",
+   "variants": [
+    "Pawtucket"
+   ]
+  },
+  {
+   "name": "Rhode Island",
+   "variants": [
+    "Rhode Island"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "MASSACHUSETTS"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Last",
+    "Far Hestern",
+    "Far Eastern"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "Soubh America"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latis American"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "European"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa",
+    "African"
+   ]
+  },
+  {
+   "name": "Orient",
+   "variants": [
+    "Orient",
+    "Oriental",
+    "Criental"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Peter A. McDermott",
+   "role": "SCAP representative in the United States",
+   "variants": [
+    "Peter",
+    "Peter A. McDermott"
+   ]
+  },
+  {
+   "name": "Dean Bowman",
+   "role": "State Department official",
+   "variants": [
+    "Dean Bowman",
+    "Mr. Bowman",
+    "DOBowman"
+   ]
+  },
+  {
+   "name": "Roswell H. Whitman",
+   "role": "Acting Associate Chief, Division of Occupied Areas Economic Affairs",
+   "variants": [
+    "Roswall H. Whitman"
+   ]
+  },
+  {
+   "name": "John Horne",
+   "role": "correspondent seeking information on Japanese textiles",
+   "variants": [
+    "Mr. Horne",
+    "John Horne"
+   ]
+  },
+  {
+   "name": "John J. Sparkman",
+   "role": "United States senator",
+   "variants": [
+    "John J. Sparkman"
+   ]
+  },
+  {
+   "name": "Kenneth C. Royall",
+   "role": "Secretary of the Army",
+   "variants": [
+    "Kenneth C. Royall",
+    "Kenneth C. Rayall",
+    "Mr. Royall"
+   ]
+  },
+  {
+   "name": "Robert A. Lovett",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Robert A. Lovett",
+    "PRT A LOVETD",
+    "Mr. Lovett"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "Secretary of State",
+   "variants": [
+    "George C. Marshall",
+    "Mr. Marshall"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Thorp"
+   ]
+  },
+  {
+   "name": "Marvin B. Weaver",
+   "role": "Vice President, U.S. Commercial Company",
+   "variants": [
+    "Marvin B. Weaver",
+    "darvin B. Weever"
+   ]
+  },
+  {
+   "name": "Clinton P. Anderson",
+   "role": "Secretary of Agriculture",
+   "variants": [
+    "Clinten P. Andarson",
+    "Mr. Andsrsen"
+   ]
+  },
+  {
+   "name": "Charlotte P. Bery",
+   "role": "former textile-section chief; manager of SCAP Foreign Trade New York Office cotton textile section",
+   "variants": [
+    "Mrs. Charlotte P. Bery"
+   ]
+  },
+  {
+   "name": "Alfred Miller",
+   "role": "named in corporate buyer’s name",
+   "variants": [
+    "Alfred Willer",
+    "Alfred Miller"
+   ]
+  },
+  {
+   "name": "Isaac Mesrahi",
+   "role": "textile buyer",
+   "variants": [
+    "Isaac Mesrahi"
+   ]
+  },
+  {
+   "name": "A. Soudavar",
+   "role": "textile buyer",
+   "variants": [
+    "A. Soudavar"
+   ]
+  },
+  {
+   "name": "E. Lasry",
+   "role": "named in buyer’s firm",
+   "variants": [
+    "E. Lasry"
+   ]
+  },
+  {
+   "name": "Booker",
+   "role": "Agriculture Department addressee of a relayed report",
+   "variants": [
+    "Booker"
+   ]
+  },
+  {
+   "name": "Trotter",
+   "role": "sender of the request cited in the Shanghai report",
+   "variants": [
+    "Trotter"
+   ]
+  },
+  {
+   "name": "Cabot",
+   "role": "signer of the Shanghai report",
+   "variants": [
+    "CABOT"
+   ]
+  },
+  {
+   "name": "Charles E. Saltzman",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Charlos E. Saltzman",
+    "Mr. Saltzman",
+    "Charles E. Saltamn"
+   ]
+  },
+  {
+   "name": "Edwin G. Nourse",
+   "role": "Chairman, Council of Economic Advisers",
+   "variants": [
+    "Dr. Edvrin G. Nourse",
+    "Dr. Hourse",
+    "E. G. Nourse",
+    "Mr. Edrin G. Nourse"
+   ]
+  },
+  {
+   "name": "William H. Draper Jr.",
+   "role": "Under Secretary of the Army",
+   "variants": [
+    "William H. Draper, Jr.",
+    "Hilliam H. Draper",
+    "Mr. Draper"
+   ]
+  },
+  {
+   "name": "William P. Jacobs",
+   "role": "President, American Cotton Manufacturers Association; textile mission member",
+   "variants": [
+    "Dr. Jacobs",
+    "Dr. William Jacobs",
+    "Dr. William P. Jacobs",
+    "WILLIAM P. JACOBS"
+   ]
+  },
+  {
+   "name": "Frederick W. Symmes",
+   "role": "textile mission member and former association president",
+   "variants": [
+    "Frederick W. Symmes",
+    "FREDERICK W. SYMMES",
+    "Symmes"
+   ]
+  },
+  {
+   "name": "Donald Comer",
+   "role": "textile mission member and former association president",
+   "variants": [
+    "Donald Comer",
+    "DONALD COMER",
+    "Comer"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "general and Supreme Commander for the Allied Powers",
+   "variants": [
+    "Generel MacArthur"
+   ]
+  },
+  {
+   "name": "G. W. Lewis",
+   "role": "State Department official",
+   "variants": [
+    "G. W. Lewis",
+    "GWLewis"
+   ]
+  },
+  {
+   "name": "Walter S. Salant",
+   "role": "Council of Economic Advisers staff member; memorandum author",
+   "variants": [
+    "Walter S. Salant",
+    "Walter S. Salent"
+   ]
+  },
+  {
+   "name": "Sherwood Fine",
+   "role": "SCAP official",
+   "variants": [
+    "Dr. Sherwood Fine",
+    "Mr. Fine"
+   ]
+  },
+  {
+   "name": "Joseph W. Martin Jr.",
+   "role": "Speaker of the House of Representatives",
+   "variants": [
+    "JOSEPH W. MARTIN.JR.",
+    "Joseph W. Martin"
+   ]
+  },
+  {
+   "name": "Ben F. Schaberg Jr.",
+   "role": "H & B American Machine Company correspondent",
+   "variants": [
+    "Ben F. Sahaberg, Jr.",
+    "Ben F. Sohaberg, Jr.",
+    "Mr. Sohaberg",
+    "Mr. Schaberg",
+    "Mr. Schaberg's"
+   ]
+  },
+  {
+   "name": "Charles E. Bohlen",
+   "role": "Counselor, Department of State",
+   "variants": [
+    "Charles E. Bohle"
+   ]
+  },
+  {
+   "name": "W. W. Butterworth",
+   "role": "State Department official",
+   "variants": [
+    "W. W. Butterworth"
+   ]
+  },
+  {
+   "name": "Charles C. Stelle",
+   "role": "State Department official",
+   "variants": [
+    "Charles C. Stelle"
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald"
+   ]
+  },
+  {
+   "name": "W. F. Marquat",
+   "role": "major general",
+   "variants": [
+    "W. F. Marquat",
+    "Marquat"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese cotton textiles",
+  "cotton spinning",
+  "raw cotton",
+  "textile exports",
+  "dollar shortage",
+  "sterling payments",
+  "SCAP",
+  "U.S. Commercial Company",
+  "Commodity Credit Corporation",
+  "European Recovery Program",
+  "India–Japan trade",
+  "textile machinery"
+ ],
+ "subfiles": [
+  {
+   "title": "Proposed contract for sale of Japanese textiles",
+   "doc_type": "contract letter fragment",
+   "start_page": 74,
+   "end_page": 76,
+   "continues_previous": true,
+   "date": "",
+   "from": "U.S. Commercial Company",
+   "to": "Proposed buyer",
+   "about": "Sets delivery, inspection, payment, shipping-document and buyer-representative terms for Japanese textiles.",
+   "summary": "The surviving final pages specify when title and risk pass, deadlines for ocean transport and payment, handling of bills of lading, and authority for a buyer’s representative in Japan.",
+   "keywords": [
+    "textile sales contract",
+    "delivery",
+    "payment",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Consular assistance with claims on old-stock textile sales",
+   "doc_type": "letter",
+   "start_page": 77,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1948-01-22",
+   "from": "Roswell H. Whitman",
+   "to": "Peter A. McDermott",
+   "about": "Approves requests for American consulates to help communicate and identify experts for textile-sale claims.",
+   "summary": "State has no objection to consular help with claims.",
+   "keywords": [
+    "old-stock textiles",
+    "claims",
+    "consulates"
+   ]
+  },
+  {
+   "title": "Rehabilitation of Japan’s cotton textile industry",
+   "doc_type": "letter",
+   "start_page": 78,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1948-01-22",
+   "from": "Roswell H. Whitman",
+   "to": "John Horne",
+   "about": "Summarizes spindle capacity, cotton supply, production limits and export prospects.",
+   "summary": "Whitman estimates fewer than three million operable spindles, outlines raw-cotton needs and export expectations, and argues that textile exports could aid Japan’s recovery.",
+   "keywords": [
+    "rehabilitation",
+    "spindles",
+    "raw cotton",
+    "exports"
+   ]
+  },
+  {
+   "title": "Proposal for long-term agreements to sell occupied-area textiles",
+   "doc_type": "letter",
+   "start_page": 80,
+   "end_page": 81,
+   "continues_previous": false,
+   "date": "1948-04-28",
+   "from": "Kenneth C. Royall",
+   "to": "Secretary of State",
+   "about": "Proposes five-year textile-purchase arrangements linked to strategic-material purchases and recovery aid.",
+   "summary": "Royall cites large unsold Japanese textile inventories and shrinking dollar markets. He asks State to approach friendly governments about agreed allocations and prices, potentially connected to strategic-material purchases and Marshall Plan assistance.",
+   "keywords": [
+    "unsold inventory",
+    "purchase agreements",
+    "strategic materials",
+    "Marshall Plan"
+   ]
+  },
+  {
+   "title": "Reply to Royall on occupied-area textile sales",
+   "doc_type": "draft letter",
+   "start_page": 82,
+   "end_page": 83,
+   "continues_previous": false,
+   "date": "1948-06-25",
+   "from": "Secretary of State",
+   "to": "Kenneth C. Royall",
+   "about": "Responds to the Army’s proposal for negotiated textile sales tied to aid and strategic purchases.",
+   "summary": "State identifies dollar shortages as a central obstacle and favors arrangements allowing payment in other currencies. It declines to require aid recipients or strategic-material suppliers to reserve funds for occupied-area textiles, while offering to explore other measures with the Army.",
+   "keywords": [
+    "dollar shortage",
+    "sterling",
+    "European Recovery Program",
+    "strategic materials"
+   ]
+  },
+  {
+   "title": "Recommendation for signature of reply to Royall",
+   "doc_type": "routing memorandum",
+   "start_page": 84,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1948-06-23",
+   "from": "W. L. Thorp",
+   "to": "George C. Marshall",
+   "about": "Recommends signing the proposed State Department reply to Royall.",
+   "summary": "Recommends signature while summarizing why the draft rejects Royall’s proposed use of aid and stockpiling purchases.",
+   "keywords": [
+    "routing",
+    "Royall proposal",
+    "textile sales"
+   ]
+  },
+  {
+   "title": "Cover letter enclosing correspondence on exportation bonds",
+   "doc_type": "cover letter",
+   "start_page": 85,
+   "end_page": 85,
+   "continues_previous": false,
+   "date": "1948-05-06",
+   "from": "Marvin B. Weaver",
+   "to": "George C. Marshall",
+   "about": "Forwards a copy of a letter to the Secretary of Agriculture about the Japanese cotton textile program.",
+   "summary": "Weaver sends Marshall a copy of his Agriculture letter.",
+   "keywords": [
+    "cover letter",
+    "exportation bonds"
+   ]
+  },
+  {
+   "title": "Request to reconsider retention of textile exportation bonds",
+   "doc_type": "letter with bond schedule",
+   "start_page": 86,
+   "end_page": 88,
+   "continues_previous": false,
+   "date": "1948-05-06",
+   "from": "Marvin B. Weaver",
+   "to": "Clinton P. Anderson",
+   "about": "Asks the Commodity Credit Corporation to reconsider refusing to return buyers’ exportation bonds.",
+   "summary": "Weaver argues that retaining U.S. Commercial Company bonds treats mostly smaller buyers differently from buyers whose bonds were returned by the Japanese Board of Trade. An attached schedule compares the bonds and textile contract values.",
+   "keywords": [
+    "exportation bonds",
+    "Commodity Credit Corporation",
+    "buyers",
+    "bond schedule"
+   ]
+  },
+  {
+   "title": "Report on the Japanese cotton textile situation",
+   "doc_type": "consular airgram",
+   "start_page": 89,
+   "end_page": 90,
+   "continues_previous": false,
+   "date": "1948-05-24",
+   "from": "Cabot, American Consulate General, Shanghai",
+   "to": "Secretary of State",
+   "about": "Urges raw-cotton financing to keep Japanese mills operating and cautions against reliance on textile exports.",
+   "summary": "Cabot calls for prompt cotton supplies to prevent mill curtailment. He supports production within current SCAP plans but questions assumptions that cloth exports alone can secure Japan’s foreign exchange.",
+   "keywords": [
+    "raw cotton",
+    "mill operations",
+    "foreign exchange",
+    "export policy"
+   ]
+  },
+  {
+   "title": "Army views on sales of Japanese textiles in the United States",
+   "doc_type": "confidential letter",
+   "start_page": 91,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1948-05-24",
+   "from": "William H. Draper Jr.",
+   "to": "Charles E. Saltzman",
+   "about": "Seeks State’s comments on Council of Economic Advisers views favoring commercial sales of Japanese textiles in the United States.",
+   "summary": "Draper endorses carefully priced U.S. sales and forwards Nourse’s letter and the Council staff study. He asks that the memorandum remain confidential.",
+   "keywords": [
+    "U.S. market",
+    "Council of Economic Advisers",
+    "pricing",
+    "confidential"
+   ]
+  },
+  {
+   "title": "State reply on Japanese textile sales",
+   "doc_type": "confidential draft letter",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1948-06",
+   "from": "Charles E. Saltzman",
+   "to": "William H. Draper Jr.",
+   "about": "States general agreement with Army and Council views on Japanese textile sales.",
+   "summary": "Saltzman cites State’s earlier support for sales to any country and encloses its comments on the Jacobs mission.",
+   "keywords": [
+    "U.S. market",
+    "Jacobs mission",
+    "State policy"
+   ]
+  },
+  {
+   "title": "Routing of Draper letter and enclosures",
+   "doc_type": "routing memorandum",
+   "start_page": 94,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "1948-05-25",
+   "from": "G. W. Lewis",
+   "to": "Dean Bowman",
+   "about": "Forwards Draper’s letter for information and preparation of a reply.",
+   "summary": "Lewis asks Bowman to draft Saltzman’s reply to Draper.",
+   "keywords": [
+    "routing",
+    "Draper letter"
+   ]
+  },
+  {
+   "title": "Council transmittal of staff study on Japanese textiles",
+   "doc_type": "confidential letter",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "",
+   "from": "Edwin G. Nourse",
+   "to": "William H. Draper Jr.",
+   "about": "Returns documents and forwards Walter S. Salant’s staff memorandum.",
+   "summary": "Nourse forwards Salant’s study without presenting every technical judgment as an official Council finding.",
+   "keywords": [
+    "Council of Economic Advisers",
+    "staff study"
+   ]
+  },
+  {
+   "title": "SCAP policy on sale of Japanese cotton textiles",
+   "doc_type": "confidential memorandum with statistical tables",
+   "start_page": 96,
+   "end_page": 106,
+   "continues_previous": false,
+   "date": "1948-03",
+   "from": "Walter S. Salant",
+   "to": "Edwin G. Nourse",
+   "about": "Examines how Japan can sell accumulated cotton textiles and obtain dollars to repay raw-cotton credit.",
+   "summary": "Salant separates the problem of finding textile markets from that of finding dollars to repay the Commodity Credit Corporation. He explores barter, changes in sourcing and aid purchases, U.S. sales and longer-term credit. He reviews the Jacobs mission’s proposals, rejecting delays, U.S.-based pricing and limits on American sales; appended tables give Japanese trade and market figures.",
+   "keywords": [
+    "Commodity Credit Corporation",
+    "dollar financing",
+    "barter",
+    "U.S. imports",
+    "Jacobs report",
+    "statistical tables"
+   ]
+  },
+  {
+   "title": "Jacobs–Symmes–Comer report on merchandising Japanese cotton textiles",
+   "doc_type": "Army press release reproducing report",
+   "start_page": 107,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1948-02-17",
+   "from": "Department of the Army Public Information Division; William P. Jacobs, Frederick W. Symmes and Donald Comer",
+   "to": "Public; Supreme Commander for the Allied Powers",
+   "about": "Publishes the textile mission’s sixteen recommendations for financing and selling Japanese cotton textiles.",
+   "summary": "The mission describes a 300-million-yard unsold inventory and the difficulty of buying dollar cotton while selling cloth in soft-currency markets. It recommends a revolving cotton fund, wider use of Japanese sales expertise, changes to currency and pricing rules, domestic distribution of some cloth, and renewed barter. It favors established Asian and colonial markets first and proposes a limit on sales in the United States tied to dollars needed for American cotton.",
+   "keywords": [
+    "Jacobs–Symmes–Comer report",
+    "revolving fund",
+    "sterling area",
+    "barter",
+    "U.S. sales"
+   ]
+  },
+  {
+   "title": "Inquiry about Japanese spinning-machinery sales to India",
+   "doc_type": "congressional letter",
+   "start_page": 114,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1948-05-26",
+   "from": "Joseph W. Martin Jr.",
+   "to": "Robert A. Lovett",
+   "about": "Requests comment on a machinery maker’s concerns about Japan’s agreement to supply spinning spindles to India.",
+   "summary": "Martin forwards the company’s letter and asks State for comments.",
+   "keywords": [
+    "India",
+    "spinning machinery",
+    "congressional inquiry"
+   ]
+  },
+  {
+   "title": "Interim reply to Speaker Martin",
+   "doc_type": "letter",
+   "start_page": 115,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1948-06-09",
+   "from": "Robert A. Lovett",
+   "to": "Joseph W. Martin Jr.",
+   "about": "Promises a substantive response after obtaining data on Japan’s textile-machinery industry.",
+   "summary": "Lovett says State is gathering data needed to answer Schaberg’s points.",
+   "keywords": [
+    "interim reply",
+    "textile machinery"
+   ]
+  },
+  {
+   "title": "State response on Japan–India spinning-spindle trade",
+   "doc_type": "letter",
+   "start_page": 116,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "",
+   "from": "Charles E. Bohlen, for the Secretary of State",
+   "to": "Joseph W. Martin Jr.",
+   "about": "Explains the proposed Japanese spindle exports to India and answers concerns about capacity, materials and competition.",
+   "summary": "State describes the spindles as part of a broader exchange for Indian materials. It says deliveries should be feasible, appropriated U.S. materials will not be used, and the lower Japanese price reflects material costs and equipment quality. State regards textile-machinery production as part of Japan’s peaceful recovery.",
+   "keywords": [
+    "India–Japan trade",
+    "spinning spindles",
+    "barter",
+    "competition"
+   ]
+  },
+  {
+   "title": "Transmittal of Publications Analysis No. 186",
+   "doc_type": "Foreign Service despatch",
+   "start_page": 118,
+   "end_page": 118,
+   "continues_previous": false,
+   "date": "1948-08-02",
+   "from": "Acting Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Encloses two copies of a SCAP Publications Analysis report dated July 10.",
+   "summary": "Forwards two copies of Publications Analysis No. 186.",
+   "keywords": [
+    "Publications Analysis",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Transmittal of OIR Report 4710 on Far Eastern dependent markets",
+   "doc_type": "routing memorandum",
+   "start_page": 119,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1948-07-22",
+   "from": "Charles C. Stelle",
+   "to": "W. W. Butterworth",
+   "about": "Forwards a study of Japanese cotton textile trade with Far Eastern dependencies of European Recovery Program countries.",
+   "summary": "Suggests recovery-program offshore purchases could expand Japan’s textile trade with Malaya, the Netherlands East Indies and Hong Kong.",
+   "keywords": [
+    "OIR Report 4710",
+    "European Recovery Program",
+    "Far Eastern dependencies"
+   ]
+  },
+  {
+   "title": "SCAP views on the Japanese cotton industry, 1948–1949",
+   "doc_type": "restricted political adviser despatch",
+   "start_page": 120,
+   "end_page": 123,
+   "continues_previous": false,
+   "date": "1948-07-27",
+   "from": "W. J. Sebald",
+   "to": "Secretary of State",
+   "about": "Reports SCAP forecasts for spindle rehabilitation, cotton needs, domestic allocation and export sales.",
+   "summary": "Sebald reports that reaching four million spindles before late 1949 appears unlikely and provides estimates of output and raw-cotton requirements. He describes pressure to increase domestic allotments while maintaining exports. Sterling-area negotiations may permit full sterling payment for textiles, although Japan still needs dollar receipts to pay for much of its cotton.",
+   "keywords": [
+    "SCAP outlook",
+    "spindle rehabilitation",
+    "raw cotton",
+    "domestic allocation",
+    "sterling sales"
+   ]
+  },
+  {
+   "title": "Outlook for the Japanese Cotton Industry, 1948–1949",
+   "doc_type": "SCAP study",
+   "start_page": 124,
+   "end_page": 125,
+   "continues_previous": false,
+   "date": "1948-06-15",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "",
+   "about": "Opens an industry outlook with recommendations on spindle rehabilitation, domestic allocation and cotton procurement.",
+   "summary": "The study recommends completing the Big Ten mills’ rehabilitation program by June 1949, raising domestic allocation to 40 percent when conditions permit, and setting 1948 cotton procurement within a stated range. The study continues beyond this section.",
+   "keywords": [
+    "industry outlook",
+    "Big Ten mills",
+    "domestic allocation",
+    "cotton procurement"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   74,
+   125
+  ],
+  "pdf": "894.6551 Manufactures. Manufacturing., Textiles., Japan, Cotton., April 18, 1946 - February 3, 1949 1691.pdf",
+  "seconds": 64.2,
+  "created": "2026-10-08 21:51:53",
+  "key": "japan-internal-affairs-894.6551-manufactures-manufacturing-textiles-5"
+ }
+}

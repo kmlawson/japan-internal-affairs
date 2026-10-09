@@ -1,0 +1,1417 @@
+{
+ "section_summary": "This section concerns the Allied-controlled Japanese Antarctic whaling expedition of 1946–47: its authorization, route, observers, expected food and oil production, and objections from Australia and Norway. It also contains SCAP directives, fleet status and coastal catch reports, correspondence about the International Whaling Conference, and a brief unrelated exchange about Japanese cultured pearls.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japam",
+    "Japen",
+    "Jepan",
+    "Jepanese",
+    "Japanese",
+    "Japenese",
+    "Japemese",
+    "Japanese ports",
+    "Japanese coastal waters"
+   ]
+  },
+  {
+   "name": "Antarctica",
+   "variants": [
+    "Antarctic",
+    "Antaretie",
+    "Anterotic",
+    "Antarctic Ocean",
+    "Antaretic Ocean",
+    "Antarotic Ocean",
+    "Antarctic land mass",
+    "ANTARCTIC CONTINENT"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australis",
+    "Anstralia",
+    "fustralia",
+    "Lustralia",
+    "AUSTRALIA"
+   ]
+  },
+  {
+   "name": "Australian Antarctic Territory",
+   "variants": [
+    "Australian Antarctic territory",
+    "/ustralian Intarctic territory"
+   ]
+  },
+  {
+   "name": "South Pacific Ocean",
+   "variants": [
+    "South Pacific"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "PACIFIC OCEAN"
+   ]
+  },
+  {
+   "name": "Indian Ocean",
+   "variants": [
+    "Indian Oceans",
+    "INDIAN OCEAN"
+   ]
+  },
+  {
+   "name": "Tasmania",
+   "variants": [
+    "Tasmania",
+    "TASMANIA"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "US",
+    "Us"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tekyo",
+    "Tekye",
+    "Tpkyo",
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washingten"
+   ]
+  },
+  {
+   "name": "Chicago, Illinois",
+   "variants": [
+    "Chieage 2, Illincis"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka",
+    "Yekesaka"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki",
+    "Nagaseki",
+    "Magasaki",
+    "Nagasak1"
+   ]
+  },
+  {
+   "name": "Mindanao",
+   "variants": [
+    "Mindanao",
+    "Mindamse"
+   ]
+  },
+  {
+   "name": "Celebes Sea",
+   "variants": [
+    "Celebes Sea",
+    "Gelebes Sea"
+   ]
+  },
+  {
+   "name": "Makassar Strait",
+   "variants": [
+    "Macassar",
+    "Macassar Straits"
+   ]
+  },
+  {
+   "name": "Lombok Strait",
+   "variants": [
+    "Lombok Strait",
+    "Lombok Straits",
+    "Lombek Straits",
+    "Lembek Straits",
+    "Lembek straisa"
+   ]
+  },
+  {
+   "name": "Batavia (Jakarta)",
+   "variants": [
+    "Batavia",
+    "Batavie"
+   ]
+  },
+  {
+   "name": "Bonin Islands (Ogasawara Islands)",
+   "variants": [
+    "Bonin Island",
+    "Bonin Ieland"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Ryukyus"
+   ]
+  },
+  {
+   "name": "Wilkes Land",
+   "variants": [
+    "Wilkes Land"
+   ]
+  },
+  {
+   "name": "Victoria Land",
+   "variants": [
+    "South Victoria Land"
+   ]
+  },
+  {
+   "name": "Ross Ice Shelf",
+   "variants": [
+    "Ross Shelf"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Lendon",
+    "Iondon"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kiritappu",
+   "variants": [
+    "Kiritappu"
+   ]
+  },
+  {
+   "name": "Hamanaka",
+   "variants": [
+    "Hamanaka-Mura"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaishi",
+    "Kamaishi-Shi"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate Pref."
+   ]
+  },
+  {
+   "name": "Ayukawa",
+   "variants": [
+    "Ayukawa",
+    "Ayukawa-Mura",
+    "Ayukawa-Machi",
+    "Aykukawa-Mura"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi Pref."
+   ]
+  },
+  {
+   "name": "Senzaki",
+   "variants": [
+    "Senzaki",
+    "Senzaki Machi"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Pref."
+   ]
+  },
+  {
+   "name": "Kabashima",
+   "variants": [
+    "Kabashima",
+    "Kabashima-Mura"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki Pref."
+   ]
+  },
+  {
+   "name": "Akkeshi",
+   "variants": [
+    "Akkeshi",
+    "Akkeshi-Machi"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro",
+    "Kushiro-Shi"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki",
+    "Shimono seki",
+    "Shimonosoki"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "Tobata"
+   ]
+  },
+  {
+   "name": "Aioi",
+   "variants": [
+    "Aio i",
+    "Aioi"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyoge Pref",
+    "Hyege Praf"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osaica",
+    "Osake",
+    "Osaca"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama",
+    "Qkayama"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dean Acheson",
+   "role": "Acting Secretary of State; signatory or named in telegrams",
+   "variants": [
+    "Acheson",
+    "Achesm",
+    "ATCHESON",
+    "ATCHBSON"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "General Macarthur",
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "William M. Terry",
+   "role": "U.S. Army captain and SCAP representative with the whaling fleet",
+   "variants": [
+    "Captain William M. Terry",
+    "Captdin Wplliam M. Terry",
+    "Terry, William M.",
+    "Captain Williaim M. Terry",
+    "Captain Terry"
+   ]
+  },
+  {
+   "name": "David R. McCracken",
+   "role": "U.S. Army first lieutenant and assistant SCAP representative",
+   "variants": [
+    "David R. McCracken",
+    "lst Lt David R. McCracken",
+    "1st Lt David R. McCracken",
+    "McCracken, David R.",
+    "David R. MoCracken"
+   ]
+  },
+  {
+   "name": "Harald Østby",
+   "role": "Norwegian naval reserve lieutenant commander and proposed whaling inspector",
+   "variants": [
+    "Harald Ostby",
+    "Lieutenant-Commander Ostby"
+   ]
+  },
+  {
+   "name": "R. H. Fiedler",
+   "role": "Lieutenant colonel; former chief of SCAP's Fisheries Division",
+   "variants": [
+    "R. H. Fiedler",
+    "Lt Col R. H. Fiedler"
+   ]
+  },
+  {
+   "name": "Ernest A. Gross",
+   "role": "Special Assistant",
+   "variants": [
+    "Eraest A. Gress"
+   ]
+  },
+  {
+   "name": "Joe Goldstone",
+   "role": "President of the Imperial Pearl Syndicate",
+   "variants": [
+    "Jee Soldstene",
+    "Mr. Seldstene",
+    "Mr. Goldstone",
+    "Geldstone"
+   ]
+  },
+  {
+   "name": "W. S. McCornick",
+   "role": "State Department officer associated with the pearl industry memorandum",
+   "variants": [
+    "Mr. Whitman",
+    "WSMcCornick"
+   ]
+  },
+  {
+   "name": "N. W. Bishop",
+   "role": "Diplomatic Section executive",
+   "variants": [
+    "N. W. Bishep"
+   ]
+  },
+  {
+   "name": "I. Asakai",
+   "role": "Director of General Affairs, Central Liaison Office",
+   "variants": [
+    "I. Asaka1"
+   ]
+  },
+  {
+   "name": "S. Iguchi",
+   "role": "Director of General Affairs, Central Liaison Office",
+   "variants": [
+    "s. Igucht"
+   ]
+  },
+  {
+   "name": "Hubert G. Schenck",
+   "role": "Lieutenant colonel and chief of Natural Resources Section",
+   "variants": [
+    "HUBERT G. SCHMCK"
+   ]
+  },
+  {
+   "name": "John B. Cooley",
+   "role": "Colonel and Adjutant General",
+   "variants": [
+    "Jolin B. Coolig",
+    "JOHN B. COOLTY",
+    "JOHN B. COOLEY",
+    "SOH B. COOLEY",
+    "JOMN B. OOOLNY"
+   ]
+  },
+  {
+   "name": "H. W. Allen",
+   "role": "Colonel and Assistant Adjutant General",
+   "variants": [
+    "H. W. ALLEI",
+    "H. W. ALLEN"
+   ]
+  },
+  {
+   "name": "N. W. Bard",
+   "role": "Captain, COMNAVJAP operations",
+   "variants": [
+    "N. W. Bard",
+    "Capt Bard"
+   ]
+  },
+  {
+   "name": "C. B. Momsen",
+   "role": "Admiral",
+   "variants": [
+    "C. B. Momsen"
+   ]
+  },
+  {
+   "name": "W. T. Ryder",
+   "role": "Colonel and executive officer",
+   "variants": [
+    "W.T. Ryder"
+   ]
+  },
+  {
+   "name": "G. F. Meyer",
+   "role": "Commander, Finance Division, Shipbuilding",
+   "variants": [
+    "G.F. Meyer"
+   ]
+  },
+  {
+   "name": "C. H. Hutchinson",
+   "role": "Colonel, plans and policy",
+   "variants": [
+    "C.H. Hutohinson"
+   ]
+  },
+  {
+   "name": "M. B. Gullion",
+   "role": "Lieutenant colonel, transportation",
+   "variants": [
+    "M.B. Gullion"
+   ]
+  },
+  {
+   "name": "Small",
+   "role": "Major, Domestic Radio Division",
+   "variants": [
+    "B.. Small"
+   ]
+  },
+  {
+   "name": "Foote",
+   "role": "Sender of Batavia telegram; given name unstated",
+   "variants": [
+    "FOOTE"
+   ]
+  },
+  {
+   "name": "Dr. Deason",
+   "role": "Named in distribution note for whaling reports",
+   "variants": [
+    "Dr. Deasox"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese whaling",
+  "Antarctic expedition",
+  "SCAP",
+  "Allied consultation",
+  "whaling inspectors",
+  "whaling conventions",
+  "fleet route",
+  "whale oil",
+  "whale meat",
+  "coastal whaling",
+  "International Whaling Conference",
+  "cultured pearls"
+ ],
+ "subfiles": [
+  {
+   "title": "Australian aide-mémoire on Japanese Antarctic whaling",
+   "doc_type": "aide-mémoire",
+   "start_page": 1,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1946-11-08",
+   "from": "Australian Government",
+   "to": "U.S. Department of State",
+   "about": "Australia accepts an inspector position while protesting the expedition and seeking consultation, route details, and reparations.",
+   "summary": "Australia lists eight U.S. assurances about the expedition. It objects to future Japanese Antarctic whaling, asks for a share of whaling equipment as reparations and the fleet's route, and argues that SCAP should have consulted the Allied Council before issuing its August order.",
+   "keywords": [
+    "Australia",
+    "Antarctic whaling",
+    "Allied consultation",
+    "reparations"
+   ]
+  },
+  {
+   "title": "State Department reply to Australian aide-mémoire",
+   "doc_type": "aide-mémoire",
+   "start_page": 5,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1946-12-11",
+   "from": "U.S. Department of State",
+   "to": "Australian Embassy",
+   "about": "The United States confirms its assurances and supplies information on the fleet, route, and halted tanker conversion.",
+   "summary": "The Department welcomes Australia's inspector and confirms the eight assurances while declining to commit on future Japanese whaling. It says conversion of a third tanker has stopped and reparations require international agreement. SCAP's account describes fleet departures and the route through the Celebes Sea and Lombok Strait.",
+   "keywords": [
+    "Australia",
+    "SCAP",
+    "fleet route",
+    "tanker conversion"
+   ]
+  },
+  {
+   "title": "Telegram concerning Australian whaling inspectors",
+   "doc_type": "incoming telegram",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1946-11-08",
+   "from": "",
+   "to": "U.S. Department of State",
+   "about": "A badly degraded telegram concerns arrangements for Australian inspectors joining the Japanese whaling expedition.",
+   "summary": "The legible text concerns Australian inspector travel and supplies.",
+   "keywords": [
+    "Australian inspector",
+    "whaling fleet"
+   ]
+  },
+  {
+   "title": "Passage through Lombok Strait approved",
+   "doc_type": "incoming telegram",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1946-11-11",
+   "from": "Foote, Batavia",
+   "to": "Secretary of State",
+   "about": "Batavia reports approval for the Japanese whaling fleet to pass through Lombok Strait.",
+   "summary": "The Netherlands mission in Tokyo was informed of the approval.",
+   "keywords": [
+    "Lombok Strait",
+    "Netherlands",
+    "fleet route"
+   ]
+  },
+  {
+   "title": "Document charge slip",
+   "doc_type": "charge slip",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A State Department form records a file charge.",
+   "summary": "Charge slip for a whaling file item.",
+   "keywords": [
+    "file administration"
+   ]
+  },
+  {
+   "title": "Weekly report on Japanese whaling: covering despatch",
+   "doc_type": "despatch",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1946-11-25",
+   "from": "U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The Political Adviser forwards SCAPIN 1321 appointing U.S. Army representatives to the Antarctic fleet.",
+   "summary": "Forwards the order naming Terry and McCracken as SCAP representatives.",
+   "keywords": [
+    "SCAPIN 1321",
+    "fleet representatives"
+   ]
+  },
+  {
+   "title": "SCAPIN 1321: representatives with the whaling fleet",
+   "doc_type": "SCAP memorandum",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1946-11-06",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "SCAP appoints Terry and McCracken to supervise compliance aboard the fleet.",
+   "summary": "Names two Army officers and requires Japanese assistance and radio access.",
+   "keywords": [
+    "SCAPIN 1321",
+    "Terry",
+    "McCracken"
+   ]
+  },
+  {
+   "title": "Letter about availability of Japanese cultured pearls",
+   "doc_type": "letter",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1946-11-15",
+   "from": "Ernest A. Gross",
+   "to": "Joe Goldstone",
+   "about": "Gross responds to a request about when Japanese pearls will be available.",
+   "summary": "Pearls appear unlikely to be available until late 1947.",
+   "keywords": [
+    "cultured pearls",
+    "Japan",
+    "trade"
+   ]
+  },
+  {
+   "title": "Inquiry about Japanese cultured pearls",
+   "doc_type": "memorandum",
+   "start_page": 15,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A memorandum asks about Japanese pearl production, alleged smuggling, and expected imports.",
+   "summary": "Goldstone's claims prompt a request for the pearl industry's status and likely export date.",
+   "keywords": [
+    "cultured pearls",
+    "smuggling",
+    "imports"
+   ]
+  },
+  {
+   "title": "Draft inquiry to SCAP on the pearl industry",
+   "doc_type": "office memorandum and draft telegram",
+   "start_page": 17,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1946-10-22",
+   "from": "JK, Mr. Whitman",
+   "to": "H-JK Secretariat",
+   "about": "A State Department officer proposes asking SCAP whether cultured pearls are available and being smuggled.",
+   "summary": "Requests current pearl industry information and an export forecast.",
+   "keywords": [
+    "cultured pearls",
+    "SCAP",
+    "exports"
+   ]
+  },
+  {
+   "title": "SCAP account of whaling representatives and tanker conversion",
+   "doc_type": "incoming telegram",
+   "start_page": 18,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1946-11-16",
+   "from": "Tokyo via War Department",
+   "to": "Secretary of State",
+   "about": "SCAP details the representatives' duties and the suspension of a third tanker's conversion.",
+   "summary": "Terry and McCracken are designated SCAP representatives, while Japanese inspectors serve on the factory ships. The officers will report on whaling methods and biological data. Conversion of a third tanker has stopped because proposed Bonin Islands operations proved impracticable; a corrected continuation identifies former fisheries chief Fiedler.",
+   "keywords": [
+    "SCAP representatives",
+    "Japanese inspectors",
+    "tanker conversion",
+    "Bonin Islands"
+   ]
+  },
+  {
+   "title": "Request for fleet schedule, route, and publicity",
+   "doc_type": "outgoing telegram",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1946-11-20",
+   "from": "U.S. Department of State",
+   "to": "SCAP, Tokyo",
+   "about": "The Department requests sailing dates, route details, and a possible public statement on the expedition.",
+   "summary": "Asks SCAP to address Allied inquiries and adverse publicity.",
+   "keywords": [
+    "fleet route",
+    "press release",
+    "Allied protests"
+   ]
+  },
+  {
+   "title": "Australian aide-mémoire forwarded to Tokyo",
+   "doc_type": "airgram",
+   "start_page": 22,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1946-11-20",
+   "from": "U.S. Department of State",
+   "to": "U.S. Political Adviser, Tokyo",
+   "about": "The Department transmits the text of Australia's November 8 aide-mémoire.",
+   "summary": "The reproduced note records Australia's eight understood assurances, provision of an inspector, opposition to future Japanese Antarctic whaling, requests for route information and equipment reparations, and complaint about SCAP's failure to consult the Allied Council.",
+   "keywords": [
+    "Australia",
+    "Antarctic whaling",
+    "Allied Council"
+   ]
+  },
+  {
+   "title": "Correction to Antarctic whaling flag description",
+   "doc_type": "memorandum",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1946-11-21",
+   "from": "U.S. Department of State",
+   "to": "British Embassy",
+   "about": "The Department corrects the code flag specified for the Japanese whaling fleet.",
+   "summary": "The fleet will use SCAJAP flag E, rather than flag O.",
+   "keywords": [
+    "whaling flag",
+    "British Embassy"
+   ]
+  },
+  {
+   "title": "Norwegian note forwarded to Tokyo",
+   "doc_type": "airgram",
+   "start_page": 26,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1946-11-21",
+   "from": "U.S. Department of State",
+   "to": "U.S. Political Adviser, Tokyo",
+   "about": "The Department forwards Norway's objection to Japanese whaling and offer of an inspector.",
+   "summary": "Norway objects to a third factory ship and future Japanese Antarctic expeditions. It offers Lieutenant Commander Harald Ostby as an inspector and sets out proposed arrangements for his pay and subsistence.",
+   "keywords": [
+    "Norway",
+    "Harald Ostby",
+    "factory ship"
+   ]
+  },
+  {
+   "title": "Despatch on the International Whaling Conference",
+   "doc_type": "despatch",
+   "start_page": 28,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1946-11-22",
+   "from": "U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The Political Adviser forwards SCAP and Japanese memoranda concerning conference representation.",
+   "summary": "Encloses proposals concerning a delegate familiar with Japanese whaling.",
+   "keywords": [
+    "International Whaling Conference",
+    "Japanese representation"
+   ]
+  },
+  {
+   "title": "Natural Resources Section check sheet on conference representation",
+   "doc_type": "check sheet",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1946-11-14",
+   "from": "SCAP Natural Resources Section",
+   "to": "Diplomatic Section",
+   "about": "SCAP staff seek advice on whether a Japan-informed representative should attend the Washington conference.",
+   "summary": "Notes Japan's interest in future Antarctic whaling and identifies Fiedler as a possible attendee.",
+   "keywords": [
+    "International Whaling Conference",
+    "Fiedler",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Japanese request concerning conference delegation",
+   "doc_type": "memorandum",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "1946-11-08",
+   "from": "Japanese Central Liaison Office",
+   "to": "SCAP General Headquarters",
+   "about": "Japan asks that the U.S. delegation include someone familiar with conditions in its whaling industry.",
+   "summary": "Japan seeks informed representation in decisions affecting its whaling industry.",
+   "keywords": [
+    "International Whaling Conference",
+    "Japanese whaling"
+   ]
+  },
+  {
+   "title": "Departmental response on conference participation",
+   "doc_type": "draft correspondence",
+   "start_page": 31,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "",
+   "from": "U.S. Department of State",
+   "to": "U.S. Political Adviser for Japan",
+   "about": "The Department explains why it did not invite SCAP participation in the conference.",
+   "summary": "The Department feared that inviting SCAP would prejudice conservation negotiations and imply U.S. support for Japanese whaling in later seasons. It states that Japanese whaling was not discussed at the conference and avoids a commitment on its future.",
+   "keywords": [
+    "International Whaling Conference",
+    "SCAP",
+    "future Japanese whaling"
+   ]
+  },
+  {
+   "title": "Weekly Japanese whaling report: covering despatch",
+   "doc_type": "despatch",
+   "start_page": 33,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1946-11-22",
+   "from": "U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The Political Adviser forwards three reports for October 20–26 on coastal whaling and Antarctic fleet readiness.",
+   "summary": "Lists reports on catches, products, and fleet status.",
+   "keywords": [
+    "coastal whaling",
+    "fleet status"
+   ]
+  },
+  {
+   "title": "Fleet sailing dates and route",
+   "doc_type": "incoming telegram",
+   "start_page": 34,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1946-11-23",
+   "from": "Tokyo via War Department",
+   "to": "Secretary of State",
+   "about": "SCAP reports fleet departures, delays, the planned route, and arrival schedule.",
+   "summary": "Fleet units departed Yokosuka and Nagasaki in mid-November; one catcher grounded and Nisshin Maru needed repairs. The route runs via Mindanao, the Celebes Sea and Lombok Strait, then off western Australia. SCAP expects arrival roughly 30 days after departure.",
+   "keywords": [
+    "fleet departures",
+    "Lombok Strait",
+    "Nisshin Maru"
+   ]
+  },
+  {
+   "title": "Proposed statement on the Antarctic whaling expedition",
+   "doc_type": "incoming telegram",
+   "start_page": 36,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "1946-11-24",
+   "from": "Tokyo via War Department",
+   "to": "Secretary of State",
+   "about": "SCAP provides text for a U.S. statement explaining the expedition and its controls.",
+   "summary": "The proposed statement gives fleet movements, Allied observer arrangements, route limits, SCAP authority, and anticipated food and oil production. It describes the expedition as a temporary emergency measure and says future Japanese whaling requires Allied decision. The telegram also questions Norway's objections.",
+   "keywords": [
+    "press release",
+    "fleet route",
+    "Allied observers",
+    "food supply"
+   ]
+  },
+  {
+   "title": "Conference discussions of Japanese whaling",
+   "doc_type": "outgoing correspondence",
+   "start_page": 39,
+   "end_page": 39,
+   "continues_previous": false,
+   "date": "1946-12-05",
+   "from": "Secretary of State",
+   "to": "U.S. Political Adviser, Tokyo",
+   "about": "The Department reports that Japanese whaling was not discussed at the International Whaling Conference.",
+   "summary": "The conference addressed conservation; its papers are enclosed.",
+   "keywords": [
+    "International Whaling Conference",
+    "conservation"
+   ]
+  },
+  {
+   "title": "Delayed instructions to whaling fleet representatives",
+   "doc_type": "incoming telegram",
+   "start_page": 40,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1946-11-24",
+   "from": "Tokyo via War Department",
+   "to": "Secretary of State",
+   "about": "Tokyo reports delayed receipt of instructions and sends them to SCAP representatives by radio.",
+   "summary": "A mail copy will also be sent to the fleet by ship.",
+   "keywords": [
+    "fleet instructions",
+    "communications"
+   ]
+  },
+  {
+   "title": "Corrections to fleet telegrams",
+   "doc_type": "incoming telegram",
+   "start_page": 41,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1946-11-25",
+   "from": "Tokyo via War Department",
+   "to": "Secretary of State",
+   "about": "Tokyo corrects vessel descriptions, departure dates, and the fleet's intended latitude.",
+   "summary": "Corrects the proposed statement and earlier route report, including 50 degrees south latitude.",
+   "keywords": [
+    "fleet corrections",
+    "route"
+   ]
+  },
+  {
+   "title": "Weekly Japanese whaling reports: covering despatch",
+   "doc_type": "despatch",
+   "start_page": 42,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1946-11",
+   "from": "U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The Political Adviser forwards coastal and Antarctic fleet reports for October 27–November 2.",
+   "summary": "Lists three Natural Resources Section reports for the week.",
+   "keywords": [
+    "weekly report",
+    "coastal whaling",
+    "fleet status"
+   ]
+  },
+  {
+   "title": "Weekly report of Japanese coastal whaling activities",
+   "doc_type": "statistical report",
+   "start_page": 43,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1946-11-02",
+   "from": "SCAP Natural Resources Section",
+   "to": "U.S. Political Adviser for Japan",
+   "about": "The report lists coastal stations, catcher vessels, catches, and vessels under repair.",
+   "summary": "Records 20 whales caught during October 27–November 2.",
+   "keywords": [
+    "coastal whaling",
+    "catch statistics"
+   ]
+  },
+  {
+   "title": "Products from Japanese coastal whaling",
+   "doc_type": "statistical report",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1946-11-02",
+   "from": "SCAP Natural Resources Section",
+   "to": "U.S. Political Adviser for Japan",
+   "about": "The report tabulates oil, meat, blubber, and other products from 20 coastal catches.",
+   "summary": "Lists production by company for October 27–November 2.",
+   "keywords": [
+    "whale products",
+    "coastal whaling"
+   ]
+  },
+  {
+   "title": "Antarctic whaling fleet weekly status report",
+   "doc_type": "statistical report",
+   "start_page": 46,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1946-11-02",
+   "from": "SCAP Natural Resources Section",
+   "to": "U.S. Political Adviser for Japan",
+   "about": "The report records vessel locations and progress on construction, conversion, and repairs.",
+   "summary": "Tables cover Kyokuyo Hogei, Nippon Suisan, and Taiyo Gyogyo vessels. They show several factory ships, carriers, and catchers completed while other vessels remain under construction or repair.",
+   "keywords": [
+    "Antarctic fleet",
+    "vessel readiness",
+    "ship conversion"
+   ]
+  },
+  {
+   "title": "Duplicate fleet status tables",
+   "doc_type": "duplicate statistical report",
+   "start_page": 50,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1946-11-02",
+   "from": "SCAP Natural Resources Section",
+   "to": "U.S. Political Adviser for Japan",
+   "about": "A degraded duplicate set of Antarctic fleet status tables follows the clearer copy.",
+   "summary": "Repeats vessel completion and repair information for the October 27–November 2 reporting period.",
+   "keywords": [
+    "Antarctic fleet",
+    "duplicate",
+    "vessel status"
+   ]
+  },
+  {
+   "title": "Japanese whaling activities: covering despatch",
+   "doc_type": "despatch",
+   "start_page": 54,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1946-12-02",
+   "from": "U.S. Political Adviser for Japan",
+   "to": "U.S. Department of State",
+   "about": "The Political Adviser forwards a collection of SCAP whaling directives, plans, orders, maps, and correspondence.",
+   "summary": "Lists eighteen enclosures on authorization and control of Japanese whaling.",
+   "keywords": [
+    "SCAP directives",
+    "enclosures",
+    "Antarctic whaling"
+   ]
+  },
+  {
+   "title": "War Department inquiry on inspectors and tanker conversion",
+   "doc_type": "radio message",
+   "start_page": 55,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1946-11-08",
+   "from": "War Department",
+   "to": "CINCAFPAC",
+   "about": "Washington requests inspector qualifications and comments on objections to converting a third tanker.",
+   "summary": "Cites British and New Zealand objections ahead of the Whaling Conference.",
+   "keywords": [
+    "inspectors",
+    "tanker conversion",
+    "Allied objections"
+   ]
+  },
+  {
+   "title": "Japanese proposal for Antarctic whaling",
+   "doc_type": "memorandum",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1946-05-19",
+   "from": "Japanese Central Liaison Office",
+   "to": "SCAP General Headquarters",
+   "about": "Japan requests approval for an Antarctic whaling plan to ease its food shortage.",
+   "summary": "Submits a plan based on existing Japanese whaling experience and equipment.",
+   "keywords": [
+    "Japanese proposal",
+    "food shortage"
+   ]
+  },
+  {
+   "title": "Japanese pelagic whaling plans",
+   "doc_type": "plan enclosure",
+   "start_page": 57,
+   "end_page": 58,
+   "continues_previous": false,
+   "date": "1946",
+   "from": "Japanese Government",
+   "to": "SCAP General Headquarters",
+   "about": "Tables propose fleet size, catches, and product yields for the 1946–47 and later seasons.",
+   "summary": "The plans project catches and output of meat, blubber, and oil, with a much larger fleet proposed for 1947–49.",
+   "keywords": [
+    "pelagic whaling",
+    "fleet plan",
+    "production estimates"
+   ]
+  },
+  {
+   "title": "Recommendation to authorize the 1946–47 expedition",
+   "doc_type": "memorandum for chief of staff",
+   "start_page": 59,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "",
+   "from": "Hubert G. Schenck, SCAP Natural Resources Section",
+   "to": "Chief of Staff, SCAP",
+   "about": "SCAP staff recommend authorizing two Japanese factory ships and twelve catchers for Antarctic whaling.",
+   "summary": "The memorandum reviews prewar Japanese whaling, wartime losses, available vessels, expected food and oil output, and international convention requirements. It concludes that the expedition would help relieve shortages and recommends issuing the attached authorization.",
+   "keywords": [
+    "authorization",
+    "food shortage",
+    "whale oil",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "SCAPIN 1103: authorization of Antarctic whaling",
+   "doc_type": "SCAP memorandum",
+   "start_page": 61,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1946-08-06",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "SCAP authorizes a bounded 1946–47 Antarctic expedition under vessel, reporting, route, and oil controls.",
+   "summary": "The directive names authorized factory ships, catchers, and carriers and confines operations to a specified Antarctic area and season. It requires radio position and catch reports, a route at least twelve miles from land, return by April 1947, and guarded storage of whale oil. Authorization creates no precedent for future whaling.",
+   "keywords": [
+    "SCAPIN 1103",
+    "Antarctic whaling area",
+    "vessel authorization",
+    "reporting"
+   ]
+  },
+  {
+   "title": "Map of SCAP-authorized whaling area",
+   "doc_type": "map",
+   "start_page": 65,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1946-08",
+   "from": "SCAP General Headquarters",
+   "to": "",
+   "about": "A map depicts the authorized Antarctic whaling area and seasonal grounds.",
+   "summary": "Shows geographic limits and preferred whaling months.",
+   "keywords": [
+    "whaling area",
+    "Antarctic map"
+   ]
+  },
+  {
+   "title": "SCAPIN 1256: change of whaling vessel",
+   "doc_type": "SCAP memorandum",
+   "start_page": 66,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "1946-10-08",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "SCAP permits a replacement catcher vessel for the scheduled operation.",
+   "summary": "Approves Showa Maru No. 10 in place of Takunan Maru No. 8.",
+   "keywords": [
+    "SCAPIN 1256",
+    "vessel substitution"
+   ]
+  },
+  {
+   "title": "SCAPIN 1321: representatives with the whaling fleet",
+   "doc_type": "duplicate SCAP memorandum",
+   "start_page": 67,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1946-11-06",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "A second copy appoints Terry and McCracken as SCAP representatives with the fleet.",
+   "summary": "Sets their compliance duties and access to radio facilities.",
+   "keywords": [
+    "SCAPIN 1321",
+    "Terry",
+    "McCracken"
+   ]
+  },
+  {
+   "title": "SCAPIN 1321: further duplicate",
+   "doc_type": "duplicate SCAP memorandum",
+   "start_page": 68,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1946-11-06",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Another copy of SCAP's appointment and assistance order for its fleet representatives.",
+   "summary": "Repeats the appointment of Terry and McCracken.",
+   "keywords": [
+    "SCAPIN 1321",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Instructions for SCAP representatives aboard the fleet",
+   "doc_type": "orders",
+   "start_page": 69,
+   "end_page": 70,
+   "continues_previous": false,
+   "date": "1946-11-06",
+   "from": "SCAP General Headquarters",
+   "to": "William M. Terry and David R. McCracken",
+   "about": "SCAP defines the officers' authority, reporting responsibilities, and procedures during the expedition.",
+   "summary": "The officers are to ensure compliance, handle contacts with other nationals, document whaling practices and biological data, and log radio messages. They may resolve urgent directive changes subject to prompt reporting.",
+   "keywords": [
+    "SCAP representatives",
+    "orders",
+    "biological data"
+   ]
+  },
+  {
+   "title": "Instructions for SCAP representatives: duplicate",
+   "doc_type": "duplicate orders",
+   "start_page": 71,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1946-11-06",
+   "from": "SCAP General Headquarters",
+   "to": "William M. Terry and David R. McCracken",
+   "about": "A second copy sets out the SCAP representatives' duties aboard the Japanese fleet.",
+   "summary": "Repeats compliance, contact, emergency, statistical, biological, and radio-log instructions.",
+   "keywords": [
+    "SCAP representatives",
+    "duplicate orders"
+   ]
+  },
+  {
+   "title": "SCAPIN 1329: additional expedition personnel",
+   "doc_type": "SCAP memorandum",
+   "start_page": 73,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1946-11-09",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "SCAP approves weather observers and a marine engineer but bars media personnel.",
+   "summary": "Authorizes two weather observers and an engineer; denies photographers and correspondents.",
+   "keywords": [
+    "SCAPIN 1329",
+    "personnel",
+    "weather observers"
+   ]
+  },
+  {
+   "title": "SCAPIN 1329: duplicate",
+   "doc_type": "duplicate SCAP memorandum",
+   "start_page": 74,
+   "end_page": 74,
+   "continues_previous": false,
+   "date": "1946-11-09",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "A second copy states SCAP's decision on additional expedition personnel.",
+   "summary": "Repeats approvals for observers and an engineer and rejection of media staff.",
+   "keywords": [
+    "SCAPIN 1329",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Draft amendment on Antarctic whaling flag",
+   "doc_type": "draft SCAP memorandum",
+   "start_page": 75,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "",
+   "from": "SCAP General Headquarters",
+   "to": "Imperial Japanese Government",
+   "about": "A draft would require the modified international code flag Easy on fleet vessels.",
+   "summary": "Amends the flag requirement in SCAPIN 1103.",
+   "keywords": [
+    "whaling flag",
+    "draft amendment"
+   ]
+  },
+  {
+   "title": "SCAPIN 233: whaling industry directive",
+   "doc_type": "SCAP memorandum",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1945-11-03",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "SCAP requires Japanese whaling to follow international conventions and submit reports.",
+   "summary": "Also directs full use of whale carcasses and marketing of meat as food where possible.",
+   "keywords": [
+    "SCAPIN 233",
+    "whaling conventions",
+    "whale meat"
+   ]
+  },
+  {
+   "title": "SCAPIN 233: duplicate",
+   "doc_type": "duplicate SCAP memorandum",
+   "start_page": 77,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1945-11-03",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "A second copy sets out SCAP's general whaling industry requirements.",
+   "summary": "Repeats convention, reporting, carcass-use, and food requirements.",
+   "keywords": [
+    "SCAPIN 233",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "SCAPIN 1154: added whaling protocols, first copy",
+   "doc_type": "SCAP memorandum",
+   "start_page": 78,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1946-08-24",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "SCAP adds later international whaling protocols to its earlier directive.",
+   "summary": "Lists supplementary protocols and attached convention texts.",
+   "keywords": [
+    "SCAPIN 1154",
+    "whaling protocols"
+   ]
+  },
+  {
+   "title": "SCAPIN 1154: added whaling protocols, duplicate",
+   "doc_type": "duplicate SCAP memorandum",
+   "start_page": 79,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1946-08-24",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "A fuller duplicate adds protocols and directs that treaty reports go to SCAP.",
+   "summary": "The copy lists 1944–46 protocols and attached whaling agreements. It requires all notices and reports due under those agreements to be submitted to SCAP.",
+   "keywords": [
+    "SCAPIN 1154",
+    "international whaling agreements",
+    "reporting"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 9,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., November 8, 1946 - June 20, 1949 1731-part-1.pdf",
+  "seconds": 95.3,
+  "created": "2026-10-08 22:13:02",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-11-part-1"
+ }
+}

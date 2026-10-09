@@ -1,0 +1,954 @@
+{
+ "section_summary": "This section finishes a National Engineers Committee report recommending limits on Japanese industries considered capable of supporting rearmament, while preserving production needed for civilian life. It then gives the report’s appendix list, committee membership, a detailed survey of Japan’s mineral and metal industries, and the beginning of statistical tables on world nitrogen production and consumption.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japen",
+    "Japanese Islands",
+    "Japan proper",
+    "Japan Proper",
+    "Japan Propor",
+    "post-war Japan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Ohina"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Menchuria",
+    "Lanchuria"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Koroa",
+    "Korcn"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Gernany",
+    "Gornany",
+    "rmany"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United Statos",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Dutch East Indies"
+   ]
+  },
+  {
+   "name": "Malay Archipelago",
+   "variants": [
+    "Malayan Archipolago"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "HOKKAIDO"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "KYUSHU",
+    "Island of Kyushu"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu",
+    "HONSHU",
+    "Southwest Honshu"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formose"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sakalien",
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "Hitachi Province",
+   "variants": [
+    "Hitachi"
+   ]
+  },
+  {
+   "name": "Iwaki Province",
+   "variants": [
+    "Awaki"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kavasaki",
+    "Kawasnki"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osalca"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki"
+   ]
+  },
+  {
+   "name": "Aruma",
+   "variants": [
+    "Aruma"
+   ]
+  },
+  {
+   "name": "Kariya-Chita",
+   "variants": [
+    "Kariya-Chita"
+   ]
+  },
+  {
+   "name": "Nishijima",
+   "variants": [
+    "Nishijima"
+   ]
+  },
+  {
+   "name": "Hirohata",
+   "variants": [
+    "Hirohata"
+   ]
+  },
+  {
+   "name": "Tsurumi",
+   "variants": [
+    "Tsurumi"
+   ]
+  },
+  {
+   "name": "Miya",
+   "variants": [
+    "Miya"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobo"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yawata"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "Kolura"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasakd"
+   ]
+  },
+  {
+   "name": "Wanishi",
+   "variants": [
+    "Wanishi"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muorran"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kanaishi"
+   ]
+  },
+  {
+   "name": "Fuji",
+   "variants": [
+    "Fuji"
+   ]
+  },
+  {
+   "name": "Oshima",
+   "variants": [
+    "Oshima"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Indochina",
+   "variants": [
+    "Indo-China"
+   ]
+  },
+  {
+   "name": "New Caledonia",
+   "variants": [
+    "New Caledonia"
+   ]
+  },
+  {
+   "name": "Sulawesi",
+   "variants": [
+    "Celebes"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burna",
+    "Burma"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Phillipinos",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Nampo",
+   "variants": [
+    "Chinnampo"
+   ]
+  },
+  {
+   "name": "Red Sea region",
+   "variants": [
+    "Red Sea countrios"
+   ]
+  },
+  {
+   "name": "East Africa",
+   "variants": [
+    "East Africa"
+   ]
+  },
+  {
+   "name": "Pacific Islands",
+   "variants": [
+    "Pacific Islands"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egyptian"
+   ]
+  },
+  {
+   "name": "North Africa",
+   "variants": [
+    "North African"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "East Asian",
+    "East Asiatic"
+   ]
+  },
+  {
+   "name": "Florida",
+   "variants": [
+    "Florida"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile",
+    "Chilean"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czechoslovakia"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Hungary",
+   "variants": [
+    "Hungary"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "Yugoslavia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "H. Foster Bain",
+   "role": "National Engineers Committee administrative member; chair, Committee on Mineral Resources; report signatory",
+   "variants": [
+    "H.Dorber Bam",
+    "H. Foster Bain",
+    "H. Fostor Bain"
+   ]
+  },
+  {
+   "name": "Charles W. E. Clarke",
+   "role": "National Engineers Committee administrative member; chair, Committee on Power; report signatory",
+   "variants": [
+    "Charles W. E. Clarke",
+    "Charlos W. E. Clarko",
+    "Cleee"
+   ]
+  },
+  {
+   "name": "Sidney D. Kirkpatrick",
+   "role": "National Engineers Committee administrative and control member; chair, Committee on Chemical Industry; report signatory",
+   "variants": [
+    "Sidney D. kirkpatrick",
+    "Sidney D. Kirkpatrick",
+    "Sidnoy D. Kirkpatrick",
+    "Aidneyptrihpathick"
+   ]
+  },
+  {
+   "name": "Harry S. Rogers",
+   "role": "National Engineers Committee administrative and control member; report signatory",
+   "variants": [
+    "Harry S. Rogers",
+    "H.S Riger"
+   ]
+  },
+  {
+   "name": "R. E. Zimmerman",
+   "role": "National Engineers Committee administrative member; chair, Committee on Metals; report signatory",
+   "variants": [
+    "R. E Zimmerman",
+    "R. E. Zimmerman"
+   ]
+  },
+  {
+   "name": "Carlton S. Proctor",
+   "role": "chair, National Engineers Committee administrative and control committees; report signatory",
+   "variants": [
+    "Carlton S. Prootor",
+    "Carlton S. Proctor"
+   ]
+  },
+  {
+   "name": "W. W. Horner",
+   "role": "president, American Society of Civil Engineers",
+   "variants": [
+    "W. W. Horner"
+   ]
+  },
+  {
+   "name": "J. C. Stevens",
+   "role": "past president, American Society of Civil Engineers",
+   "variants": [
+    "J. C. Stevens"
+   ]
+  },
+  {
+   "name": "Malcolm Pirnie",
+   "role": "past president, American Society of Civil Engineers; chair, Engineers Joint Council executive committee",
+   "variants": [
+    "M. Pirnie",
+    "Malcolm Tirnie"
+   ]
+  },
+  {
+   "name": "W. N. Carey",
+   "role": "secretary, American Society of Civil Engineers",
+   "variants": [
+    "W. N. Carey"
+   ]
+  },
+  {
+   "name": "Louis S. Cates",
+   "role": "president, American Institute of Mining and Metallurgical Engineers",
+   "variants": [
+    "Louis S. Cates"
+   ]
+  },
+  {
+   "name": "Harvey S. Mudd",
+   "role": "past president, American Institute of Mining and Metallurgical Engineers; Engineers Joint Council executive committee member",
+   "variants": [
+    "Harvey S. Mudd",
+    "Harvey S. lludd"
+   ]
+  },
+  {
+   "name": "Chester A. Fulton",
+   "role": "past president, American Institute of Mining and Metallurgical Engineers",
+   "variants": [
+    "Chester A. Fulton"
+   ]
+  },
+  {
+   "name": "A. B. Parsons",
+   "role": "secretary, American Institute of Mining and Metallurgical Engineers",
+   "variants": [
+    "A. B. Parsons"
+   ]
+  },
+  {
+   "name": "D. Robert Yarnall",
+   "role": "president, American Society of Mechanical Engineers",
+   "variants": [
+    "D. Robert Yarnall"
+   ]
+  },
+  {
+   "name": "A. D. Bailey",
+   "role": "past president, American Society of Mechanical Engineers",
+   "variants": [
+    "A. D. Bailey"
+   ]
+  },
+  {
+   "name": "Robert M. Gates",
+   "role": "past president, American Society of Mechanical Engineers; Engineers Joint Council executive committee member",
+   "variants": [
+    "Robert M. Gates"
+   ]
+  },
+  {
+   "name": "C. E. Davies",
+   "role": "secretary, American Society of Mechanical Engineers",
+   "variants": [
+    "C. E. Davies"
+   ]
+  },
+  {
+   "name": "William E. Fickenden",
+   "role": "president, American Institute of Electrical Engineers",
+   "variants": [
+    "Wm. E. Fickenden"
+   ]
+  },
+  {
+   "name": "Charles A. Powel",
+   "role": "past president, American Institute of Electrical Engineers; Engineers Joint Council executive committee member",
+   "variants": [
+    "Charles A. Powel",
+    "Charles A. Towel"
+   ]
+  },
+  {
+   "name": "N. E. Funk",
+   "role": "past president, American Institute of Electrical Engineers",
+   "variants": [
+    "N. E. Funk"
+   ]
+  },
+  {
+   "name": "H. H. Henline",
+   "role": "secretary, American Institute of Electrical Engineers",
+   "variants": [
+    "H. H. Henline"
+   ]
+  },
+  {
+   "name": "James G. Vail",
+   "role": "president, American Institute of Chemical Engineers",
+   "variants": [
+    "James G. Vail"
+   ]
+  },
+  {
+   "name": "L. W. Bass",
+   "role": "past president, American Institute of Chemical Engineers; Engineers Joint Council executive committee member",
+   "variants": [
+    "L. W. Bass",
+    "L. . Bass"
+   ]
+  },
+  {
+   "name": "George G. Brown",
+   "role": "past president, American Institute of Chemical Engineers",
+   "variants": [
+    "George G. Brown"
+   ]
+  },
+  {
+   "name": "S. L. Tyler",
+   "role": "secretary, American Institute of Chemical Engineers",
+   "variants": [
+    "S. L. Tyler"
+   ]
+  },
+  {
+   "name": "I. W. Wilson",
+   "role": "Committee on Metals member",
+   "variants": [
+    "I. W. Wilson"
+   ]
+  },
+  {
+   "name": "Zay Jeffries",
+   "role": "Committee on Metals member",
+   "variants": [
+    "Zay Jeffries"
+   ]
+  },
+  {
+   "name": "Milton Male",
+   "role": "Committee on Metals member",
+   "variants": [
+    "Milton Male"
+   ]
+  },
+  {
+   "name": "T. T. Read",
+   "role": "Committee on Mineral Resources member",
+   "variants": [
+    "T. T. Read"
+   ]
+  },
+  {
+   "name": "W. B. Horoy",
+   "role": "Committee on Mineral Resources member",
+   "variants": [
+    "W. B. Horoy"
+   ]
+  },
+  {
+   "name": "A. C. Fioldnor",
+   "role": "Committee on Mineral Resources member",
+   "variants": [
+    "A. C. Fioldnor"
+   ]
+  },
+  {
+   "name": "James Rabbitt",
+   "role": "Committee on Mineral Resources member",
+   "variants": [
+    "Janes Rabbit"
+   ]
+  },
+  {
+   "name": "C. O. Brown",
+   "role": "Committee on Chemical Industry member",
+   "variants": [
+    "C. O. Brown"
+   ]
+  },
+  {
+   "name": "T. R. Harnoy",
+   "role": "Committee on Chemical Industry member",
+   "variants": [
+    "T. R. Harnoy"
+   ]
+  },
+  {
+   "name": "J. H. Critchott",
+   "role": "Committee on Chemical Industry member",
+   "variants": [
+    "J. H. Critchott"
+   ]
+  },
+  {
+   "name": "H. R. Leo",
+   "role": "Committee on Chemical Industry member",
+   "variants": [
+    "H. R. Leo"
+   ]
+  },
+  {
+   "name": "W. K. Fowler",
+   "role": "Committee on Power member",
+   "variants": [
+    "W.K. Fowler"
+   ]
+  },
+  {
+   "name": "K. M. Irwin",
+   "role": "Committee on Power member",
+   "variants": [
+    "K. M. Irwin"
+   ]
+  },
+  {
+   "name": "R. D. McManigal",
+   "role": "Committee on Power member",
+   "variants": [
+    "R. D. Mo Manigal"
+   ]
+  },
+  {
+   "name": "W. E. Mitchell",
+   "role": "Committee on Power member",
+   "variants": [
+    "W. E. Mitcholl"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "industrial disarmament",
+  "war potential",
+  "steel",
+  "nonferrous metals",
+  "chemical industry",
+  "fertilizer",
+  "fuel",
+  "electric power",
+  "mineral resources",
+  "reparations",
+  "nitrogen statistics"
+ ],
+ "subfiles": [
+  {
+   "title": "National Engineers Committee report on Japan’s industrial war potential",
+   "doc_type": "report",
+   "start_page": 65,
+   "end_page": 94,
+   "continues_previous": true,
+   "date": "",
+   "from": "National Engineers Committee",
+   "to": "",
+   "about": "Recommendations for limiting Japanese industrial capacity to civilian needs and preventing rearmament.",
+   "summary": "The report sets proposed production ceilings and controls for steel, aluminum, magnesium, copper, lead, zinc, tin, machine tools, chemicals, coal, petroleum, synthetic oil and electric power. It links essential fertilizer, fuel and material supplies to civilian recovery while recommending the removal or licensing of facilities with military uses. Its closing sections call for controls on research, nuclear energy, new construction, imports and fabrication, backed by technical inspectors and a continuing policing force.",
+   "keywords": [
+    "industrial disarmament",
+    "steel",
+    "metals",
+    "fertilizer",
+    "synthetic oil",
+    "electric power",
+    "import licensing",
+    "rearmament"
+   ]
+  },
+  {
+   "title": "Appendices",
+   "doc_type": "appendix contents page",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Lists the report’s appendices on committees and Japanese mineral, chemical, fuel and power industries.",
+   "summary": "Contents page listing Appendices I–V.",
+   "keywords": [
+    "appendices",
+    "contents"
+   ]
+  },
+  {
+   "title": "Appendix I-A: Engineers Joint Council, 1945–1946",
+   "doc_type": "committee roster",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1945",
+   "from": "",
+   "to": "",
+   "about": "Names engineering society officers and the Engineers Joint Council executive committee.",
+   "summary": "Roster of society officers and executive committee members.",
+   "keywords": [
+    "Engineers Joint Council",
+    "committee roster"
+   ]
+  },
+  {
+   "title": "Appendix I-B: National Engineers Committee and Task Committees",
+   "doc_type": "committee roster",
+   "start_page": 97,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Names the administrative, control and specialist task committee members.",
+   "summary": "Roster of committee members and chairs.",
+   "keywords": [
+    "National Engineers Committee",
+    "task committees"
+   ]
+  },
+  {
+   "title": "Appendix II: Japan’s Mineral and Metal Industries",
+   "doc_type": "technical appendix",
+   "start_page": 98,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Surveys Japanese mineral resources, metal production and imports under proposed peacetime industrial limits.",
+   "summary": "The appendix opens with an iron and steel discussion, repeated on pages 98–99, then provides plant capacities and historical consumption tables. It surveys copper, lead, zinc, tin, nickel, ferroalloy minerals, precious metals and industrial minerals, using production and import figures to assess civilian needs. It discusses where import controls might limit military capacity and where domestic production or imports would support fertilizers and consumer goods.",
+   "keywords": [
+    "iron and steel",
+    "copper",
+    "lead",
+    "zinc",
+    "tin",
+    "nickel",
+    "ferroalloys",
+    "precious metals",
+    "industrial minerals"
+   ]
+  },
+  {
+   "title": "Appendix III-A, Table I: World Nitrogen Productive Capacity",
+   "doc_type": "statistical table",
+   "start_page": 125,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Estimates 1944 national nitrogen capacity and compares projected postwar world capacity with 1938 consumption.",
+   "summary": "Capacity table with source notes and an estimate of more than one million short tons of postwar excess capacity.",
+   "keywords": [
+    "nitrogen",
+    "world capacity",
+    "fertilizer"
+   ]
+  },
+  {
+   "title": "Appendix III-A, Table II: World Nitrogen Statistics—Capacity and Production",
+   "doc_type": "statistical table",
+   "start_page": 127,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Tabulates world nitrogen capacity and production by process from 1924 through the early 1940s.",
+   "summary": "Historical capacity and production figures with source and conversion notes.",
+   "keywords": [
+    "nitrogen",
+    "capacity",
+    "production",
+    "statistics"
+   ]
+  },
+  {
+   "title": "Appendix III-A, Table II: World Nitrogen Statistics—Consumption",
+   "doc_type": "statistical table",
+   "start_page": 129,
+   "end_page": 129,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Tabulates world nitrogen consumption in agriculture and industry from 1924 to 1938.",
+   "summary": "Consumption figures and period averages with source notes.",
+   "keywords": [
+    "nitrogen",
+    "consumption",
+    "agriculture",
+    "industry"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 9,
+  "pages": [
+   65,
+   129
+  ],
+  "pdf": "894.60 Japan, Industrial Matters., December 26, 1945 - June 26, 1947 1578.pdf",
+  "seconds": 59.8,
+  "created": "2026-10-08 18:17:28",
+  "key": "japan-internal-affairs-894.60-japan-industrial-matters-6"
+ }
+}

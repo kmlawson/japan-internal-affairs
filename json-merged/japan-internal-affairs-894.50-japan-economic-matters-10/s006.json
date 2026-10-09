@@ -1,0 +1,958 @@
+{
+ "section_summary": "This section completes Ambassador Joseph C. Grew’s despatch assessing Japan’s trade, gold reserves and vulnerability to economic sanctions. Grew compares Japanese trade returns with British and Chungking Embassy analyses and concludes that sanctions could cause severe disruption, but the available statistics do not prove they would cause Japan’s collapse. Two newspaper clippings and three translated Japanese articles follow, reporting trade figures and debating British and American economic pressure.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Janan",
+    "Japun",
+    "Jap n",
+    "Japan Proper",
+    "Japan proper",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S. A.",
+    "America",
+    "Amerioa",
+    "Americc",
+    "Americe",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osake",
+    "Usaka"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Hobe"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Franci sco",
+    "Sen Franciscc",
+    "S.F."
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "Chinn",
+    "Chino",
+    "Central China",
+    "North China",
+    "South China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian",
+    "Manchoukuo",
+    "Manohoukuo"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory",
+    "Kwangtung Ieased Territory"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "Soviet Russia"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Great Britain",
+    "Great ritain",
+    "Britain",
+    "England",
+    "Englend",
+    "British Empire",
+    "Britain Proper"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "Trance"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong",
+    "on kon"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "ritish Yelaye"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "itraits Settlements"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma",
+    "surma",
+    "Burnn",
+    "Burna"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "British Indie",
+    "India",
+    "Indic"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon",
+    "Je lon"
+   ]
+  },
+  {
+   "name": "Palestine",
+   "variants": [
+    "Palestine",
+    "lestine"
+   ]
+  },
+  {
+   "name": "Aden",
+   "variants": [
+    "Aden"
+   ]
+  },
+  {
+   "name": "Cyprus",
+   "variants": [
+    "Cyprus"
+   ]
+  },
+  {
+   "name": "British Borneo",
+   "variants": [
+    "ritish orneo"
+   ]
+  },
+  {
+   "name": "Ireland",
+   "variants": [
+    "Irish Free State"
+   ]
+  },
+  {
+   "name": "Gibraltar",
+   "variants": [
+    "Gibraltar"
+   ]
+  },
+  {
+   "name": "Malta",
+   "variants": [
+    "Malta"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada",
+    "Janada"
+   ]
+  },
+  {
+   "name": "Jamaica",
+   "variants": [
+    "Jamaic"
+   ]
+  },
+  {
+   "name": "Bahamas",
+   "variants": [
+    "alames"
+   ]
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "variants": [
+    "Trinidad and Tobago"
+   ]
+  },
+  {
+   "name": "Guyana",
+   "variants": [
+    "ritish Guinea",
+    "Netherlands Guiana"
+   ]
+  },
+  {
+   "name": "Sudan",
+   "variants": [
+    "An lo-gyptian udan"
+   ]
+  },
+  {
+   "name": "Kenya",
+   "variants": [
+    "Kenya"
+   ]
+  },
+  {
+   "name": "Uganda",
+   "variants": [
+    "Ugande"
+   ]
+  },
+  {
+   "name": "Tanzania",
+   "variants": [
+    "Tan anyike"
+   ]
+  },
+  {
+   "name": "Rhodesia",
+   "variants": [
+    "thodesia"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "Union of south Africa"
+   ]
+  },
+  {
+   "name": "Angola",
+   "variants": [
+    "Angola"
+   ]
+  },
+  {
+   "name": "Cameroon",
+   "variants": [
+    "Cemeroons"
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "variants": [
+    "igeria"
+   ]
+  },
+  {
+   "name": "Ghana",
+   "variants": [
+    "old Coast"
+   ]
+  },
+  {
+   "name": "Mauritius",
+   "variants": [
+    "auritius"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australie"
+   ]
+  },
+  {
+   "name": "New Guinea",
+   "variants": [
+    "ew uinea"
+   ]
+  },
+  {
+   "name": "New Caledonia",
+   "variants": [
+    "ew Jledonia"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "ev ealand"
+   ]
+  },
+  {
+   "name": "Gilbert and Ellice Islands",
+   "variants": [
+    "ilbert and Ellice Islands"
+   ]
+  },
+  {
+   "name": "Fiji",
+   "variants": [
+    "Iiji Islnds"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Fanama Canal Zone"
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "variants": [
+    "Torto Rico"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Syria",
+   "variants": [
+    "Syria"
+   ]
+  },
+  {
+   "name": "French Guinea",
+   "variants": [
+    "French Guinea"
+   ]
+  },
+  {
+   "name": "French Somaliland",
+   "variants": [
+    "French Somali Coast"
+   ]
+  },
+  {
+   "name": "Senegal",
+   "variants": [
+    "Senegal"
+   ]
+  },
+  {
+   "name": "Morocco",
+   "variants": [
+    "French Morocco"
+   ]
+  },
+  {
+   "name": "Algeria",
+   "variants": [
+    "Algeria"
+   ]
+  },
+  {
+   "name": "Tunisia",
+   "variants": [
+    "Tunis"
+   ]
+  },
+  {
+   "name": "Madagascar",
+   "variants": [
+    "Madagascar"
+   ]
+  },
+  {
+   "name": "Réunion",
+   "variants": [
+    "Reunion"
+   ]
+  },
+  {
+   "name": "French Equatorial Africa",
+   "variants": [
+    "French Ecuatorial Africa"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "the Netherlands"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands Indies",
+    "Dutches Enst Incies"
+   ]
+  },
+  {
+   "name": "Curaçao",
+   "variants": [
+    "Curadao"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Kores",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Mandated Islands",
+   "variants": [
+    "Mandated Islands"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "Sing  ore"
+   ]
+  },
+  {
+   "name": "Yunnan",
+   "variants": [
+    "Yunnan",
+    "Yunnian"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaske"
+   ]
+  },
+  {
+   "name": "Aleutian Islands",
+   "variants": [
+    "Aleutian Islands"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Pearl Harbor"
+   ]
+  },
+  {
+   "name": "Midway Islands",
+   "variants": [
+    "Midway Islands"
+   ]
+  },
+  {
+   "name": "Guam",
+   "variants": [
+    "Guem"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Paoiio"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "Chungkin"
+   ]
+  },
+  {
+   "name": "Hankou",
+   "variants": [
+    "Hankow"
+   ]
+  },
+  {
+   "name": "Guangzhou",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "Yangtze River",
+   "variants": [
+    "Yangtzekiang"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "Chicago",
+    "Chicngo"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Leeds",
+   "variants": [
+    "Leeds City"
+   ]
+  },
+  {
+   "name": "Canterbury",
+   "variants": [
+    "Canterbury"
+   ]
+  },
+  {
+   "name": "Lima",
+   "variants": [
+    "Lina"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Perue"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentine"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Ulguai"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America",
+    "Central erica",
+    "Centrcl and South Amerioa"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "South Anerica",
+    "South merica"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa",
+    "Afrion",
+    "Afr100",
+    "East Afrioa",
+    "East-Africn"
+   ]
+  },
+  {
+   "name": "Ethiopia",
+   "variants": [
+    "Ethiopian"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe",
+    "Eur-ope"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asiatic Continent",
+    "Far East",
+    "East Asia",
+    "Crient"
+   ]
+  },
+  {
+   "name": "Miyashitachō",
+   "variants": [
+    "MIYASHITACHO"
+   ]
+  },
+  {
+   "name": "Koishikawa",
+   "variants": [
+    "KOISHIKAWAKU"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan and author of the despatch",
+   "variants": [
+    "Joseph C. Grew."
+   ]
+  },
+  {
+   "name": "Henry L. Stimson",
+   "role": "Former U.S. Secretary of State",
+   "variants": [
+    "r. -enry 3timson"
+   ]
+  },
+  {
+   "name": "John Simon",
+   "role": "Former British Foreign Secretary; later identified as Finance Minister",
+   "variants": [
+    "Jir John Simon",
+    "Finance Minister Simon"
+   ]
+  },
+  {
+   "name": "Anthony Eden",
+   "role": "Former British Foreign Secretary",
+   "variants": [
+    "Mr. Anthony uen"
+   ]
+  },
+  {
+   "name": "Hector Bywater",
+   "role": "Naval commentator",
+   "variants": [
+    "Hector Eywater"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "U.S. President",
+   "variants": [
+    "President Roosvelt",
+    "President Roosevelt",
+    "the American President"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Leader of the Chinese government",
+   "variants": [
+    "Chiang Kai-shek",
+    "Chiang Kaishek",
+    "Chiang's",
+    "General Chiang"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Former Japanese premier",
+   "variants": [
+    "ex-Premier Konoe",
+    "Konoe"
+   ]
+  },
+  {
+   "name": "Ichiro Zoshi",
+   "role": "Author of the Hanashi article",
+   "variants": [
+    "Ichiro Zoshi"
+   ]
+  },
+  {
+   "name": "Lord Elibank",
+   "role": "Member of the British House of Lords",
+   "variants": [
+    "Lord Eriebank"
+   ]
+  },
+  {
+   "name": "Key Pittman",
+   "role": "U.S. senator",
+   "variants": [
+    "Mr. Pitmon"
+   ]
+  },
+  {
+   "name": "Neville Chamberlain",
+   "role": "British prime minister",
+   "variants": [
+    "Premier Chamberlain"
+   ]
+  },
+  {
+   "name": "Lord Halifax",
+   "role": "British foreign minister",
+   "variants": [
+    "Foreign Minister Halifax"
+   ]
+  },
+  {
+   "name": "Malcolm MacDonald",
+   "role": "British minister for overseas territories",
+   "variants": [
+    "Oversea Territories' Minister MoDoncld"
+   ]
+  },
+  {
+   "name": "Chen Guangfu",
+   "role": "Chinese negotiator of the U.S. credit agreement",
+   "variants": [
+    "Chen Kuang-fu"
+   ]
+  },
+  {
+   "name": "Hachirō Arita",
+   "role": "Japanese foreign minister",
+   "variants": [
+    "Foreien Minister Arita"
+   ]
+  },
+  {
+   "name": "Benito Mussolini",
+   "role": "Italian prime minister",
+   "variants": [
+    "Prelier Mu-ssolini"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "foreign trade",
+  "gold exports",
+  "foreign exchange",
+  "economic sanctions",
+  "yen bloc",
+  "China war",
+  "British Embassy memorandum",
+  "U.S. trade policy",
+  "Neutrality Act",
+  "boycotts",
+  "raw materials"
+ ],
+ "subfiles": [
+  {
+   "title": "Despatch 3679 on Japan’s economic position and vulnerability to sanctions",
+   "doc_type": "despatch",
+   "start_page": 388,
+   "end_page": 414,
+   "continues_previous": true,
+   "date": "1939-02-14",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "U.S. Department of State",
+   "about": "Grew assesses whether trade restrictions and gold controls could undermine Japan’s economy.",
+   "summary": "The surviving pages tabulate gold shipments to the United States and examine Japan’s gold reserves, import requirements, strategic stocks and foreign exchange. Grew challenges parts of a British Embassy memorandum and an analysis from the Embassy at Chungking, while acknowledging that a broad embargo on Japanese exports could be disastrous. He concludes that the statistics do not prove sanctions would collapse Japan’s economy and warns that Japan could respond with a wartime state of mind.",
+   "keywords": [
+    "gold shipments",
+    "trade statistics",
+    "foreign exchange",
+    "British Embassy memorandum",
+    "Chungking analysis",
+    "economic sanctions"
+   ]
+  },
+  {
+   "title": "1938 Foreign Trade Slumps 21 Per Cent",
+   "doc_type": "newspaper clipping",
+   "start_page": 415,
+   "end_page": 416,
+   "continues_previous": false,
+   "date": "1939-01-11",
+   "from": "The Japan Advertiser",
+   "to": "",
+   "about": "Reports a sharp decline in Japan’s 1938 foreign trade and provides detailed export and import tables.",
+   "summary": "The clipping reports a 21.2 percent fall in combined trade, with a nominal export surplus dependent on yen bloc trade. It highlights reduced textile exports and raw cotton and wool imports.",
+   "keywords": [
+    "1938 trade",
+    "exports",
+    "imports",
+    "textiles",
+    "yen bloc"
+   ]
+  },
+  {
+   "title": "Trade Balance Favorable With Yen Bloc Areas",
+   "doc_type": "newspaper clipping",
+   "start_page": 417,
+   "end_page": 417,
+   "continues_previous": false,
+   "date": "1939-01-16",
+   "from": "The Japan Times",
+   "to": "",
+   "about": "Reports Japan’s 1938 trade surplus with Manchoukuo, the Kwantung Leased Territory and China.",
+   "summary": "Reports increased exports and imports with yen bloc areas and a favorable balance of roughly ¥601 million.",
+   "keywords": [
+    "yen bloc",
+    "Manchoukuo",
+    "China",
+    "trade balance"
+   ]
+  },
+  {
+   "title": "Extent and Limit of U.S. and British Pressure on Japan",
+   "doc_type": "translated magazine article",
+   "start_page": 418,
+   "end_page": 422,
+   "continues_previous": false,
+   "date": "1939-02",
+   "from": "Chuo Koron; translation published by the Tokyo Information Bureau",
+   "to": "",
+   "about": "Surveys British and American aid to China and possible economic pressure on Japan.",
+   "summary": "The article distinguishes military pressure, aid to Chiang Kai-shek and trade sanctions. It argues that armed intervention is unlikely soon and that existing economic pressure has had limited effect, while future measures will depend partly on Japan’s conduct.",
+   "keywords": [
+    "British policy",
+    "U.S. policy",
+    "aid to China",
+    "economic pressure",
+    "trade sanctions"
+   ]
+  },
+  {
+   "title": "Can Britain and America Exercise Successful Economic Pressure on Japan?",
+   "doc_type": "translated magazine article",
+   "start_page": 423,
+   "end_page": 436,
+   "continues_previous": false,
+   "date": "1939-03",
+   "from": "Ichiro Zoshi, Hanashi; News Translation Service",
+   "to": "",
+   "about": "Examines British and American financial aid to China, proposed boycotts and Japan’s ability to withstand trade restrictions.",
+   "summary": "Zoshi describes loans and transport projects supporting Chiang Kai-shek’s government and surveys proposals for tariffs, boycotts and limits on exports to Japan. He estimates that loss of British and American markets would seriously weaken Japanese trade, but doubts a comprehensive boycott or supply embargo is likely. He ends by describing Japan’s efforts to expand production and build a Japan–Manchoukuo–China economic bloc.",
+   "keywords": [
+    "Ichiro Zoshi",
+    "boycott",
+    "China loans",
+    "export markets",
+    "trade restrictions",
+    "self-sufficiency"
+   ]
+  },
+  {
+   "title": "Will the United States and Great Britain Be Able to Impose Economic Pressure Upon Japan?",
+   "doc_type": "translated magazine article",
+   "start_page": 437,
+   "end_page": 451,
+   "continues_previous": false,
+   "date": "1939-02",
+   "from": "Tokyo Nichi Nichi; News Translation Service",
+   "to": "",
+   "about": "Discusses possible British and American sanctions against Japan through the example of sanctions on Italy.",
+   "summary": "The article portrays British and American aid to China as interference and sets out possible measures against Japanese trade, finance and shipping. It compares these measures with League of Nations sanctions on Italy, arguing that restrictions strengthened Italian resolve while straining its industry. It concedes that closing export markets would hurt Japan severely, but questions whether Britain and the United States would carry out comprehensive restrictions. The article continues beyond page 451.",
+   "keywords": [
+    "economic sanctions",
+    "Neutrality Act",
+    "Italy",
+    "League of Nations",
+    "petroleum",
+    "British-American policy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 8,
+  "pages": [
+   388,
+   451
+  ],
+  "pdf": "894.50 Japan, Economic Matters., March 26, 1932 - October 16, 1939 1136.pdf",
+  "seconds": 62.7,
+  "created": "2026-10-08 17:58:35",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-10"
+ }
+}

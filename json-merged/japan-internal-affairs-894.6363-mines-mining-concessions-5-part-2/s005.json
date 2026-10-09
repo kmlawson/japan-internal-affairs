@@ -1,0 +1,919 @@
+{
+ "section_summary": "This section traces American and British efforts to obtain written assurances for their oil companies under Japan’s Petroleum Industry Law. It records disputes over sales quotas and tariffs, the Japanese Foreign Office’s January 1937 confirmation of earlier assurances, and continuing concern about reduced quotas in Korea. A separate despatch surveys Japan’s plans to produce liquid fuel from coal and alcohol.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japenese Empire",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokye",
+    "Tpkyo",
+    "Solkyo"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Tokohama"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen",
+    "Chos en",
+    "Morea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi Prefecture"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Ssupingkai"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "LONDON",
+    "LONBON",
+    "London",
+    "Lenden"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D.C.",
+    "Weshington, D. C.",
+    "Vashington",
+    "Washingtos"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK",
+    "NEw YoRK",
+    "New York",
+    "Sow Yosk"
+   ]
+  },
+  {
+   "name": "New Jersey",
+   "variants": [
+    "New Jersey"
+   ]
+  },
+  {
+   "name": "Kettleman",
+   "variants": [
+    "Kettleman"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "P. W. Parker",
+   "role": "Standard-Vacuum Oil Company representative",
+   "variants": [
+    "P. W. PARIER",
+    "P.W.PARJER",
+    "P. W. Parker",
+    "P.W. PARKER",
+    "P. W. PARKER",
+    "Philo W. Parker",
+    "Mr. Parker",
+    "Mr. P. W. Parker"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Dr. Stanley K. Hornbeck",
+    "Dr. Hornbeck",
+    "Mr. Hornbeck",
+    "Stanley X. Horabeek",
+    "Stanley X, Hornbeok"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador in Tokyo",
+   "variants": [
+    "Joseph C. Grew",
+    "GREW",
+    "GRFW"
+   ]
+  },
+  {
+   "name": "Sir Robert Clive",
+   "role": "British Ambassador in Tokyo",
+   "variants": [
+    "Clive",
+    "Sir Robert Clive"
+   ]
+  },
+  {
+   "name": "Anthony Eden",
+   "role": "British Secretary of State for Foreign Affairs",
+   "variants": [
+    "Eden",
+    "Mr. Eden"
+   ]
+  },
+  {
+   "name": "Yoshida",
+   "role": "Japanese Ambassador in London",
+   "variants": [
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "S. Yoshino",
+   "role": "Former Vice Minister for Commerce and Industry",
+   "variants": [
+    "Yoshino",
+    "Mr. S. Yoshino",
+    "Mr. Yoshino"
+   ]
+  },
+  {
+   "name": "Dickover",
+   "role": "First Secretary of the American Embassy in Tokyo",
+   "variants": [
+    "Dickover",
+    "Mr. Dickover",
+    "Dicltover"
+   ]
+  },
+  {
+   "name": "Sir George Sansom",
+   "role": "Commercial Counsellor of the British Embassy",
+   "variants": [
+    "Sir George Sansom",
+    "Sansom"
+   ]
+  },
+  {
+   "name": "Matsushima",
+   "role": "Chief of the Commercial Bureau of the Japanese Foreign Office",
+   "variants": [
+    "Matsushima",
+    "Mataushima",
+    "Matsushime",
+    "Mr. Matsushima"
+   ]
+  },
+  {
+   "name": "Arita",
+   "role": "Japanese Minister for Foreign Affairs",
+   "variants": [
+    "Arita",
+    "Mr. Arita"
+   ]
+  },
+  {
+   "name": "Ogawa Gotaro",
+   "role": "Japanese Minister of Commerce and Industry",
+   "variants": [
+    "Ogawa Gotaro"
+   ]
+  },
+  {
+   "name": "Haruhiko Ogai",
+   "role": "Director of the Mines Bureau",
+   "variants": [
+    "Haruhiko Ogai"
+   ]
+  },
+  {
+   "name": "C. E. Moyer",
+   "role": "Standard-Vacuum Oil Company representative and general manager",
+   "variants": [
+    "Mr. C.E. Moyer",
+    "C.E.M."
+   ]
+  },
+  {
+   "name": "T. G. Ely",
+   "role": "Representative director of Rising Sun Petroleum",
+   "variants": [
+    "T. G. Ely",
+    "T.G.E."
+   ]
+  },
+  {
+   "name": "Sakai",
+   "role": "Chief of the Fuel Section, Bureau of Mining Industry",
+   "variants": [
+    "Mr. Sakai"
+   ]
+  },
+  {
+   "name": "Kurusu",
+   "role": "Former Chief of the Bureau of Commercial Affairs",
+   "variants": [
+    "Mr. Kurusu"
+   ]
+  },
+  {
+   "name": "C. Kuroda",
+   "role": "Yawata Steel Works researcher",
+   "variants": [
+    "Mr. C. Kuroda"
+   ]
+  },
+  {
+   "name": "Dooman",
+   "role": "Department of State officer",
+   "variants": [
+    "Mr. Dooman"
+   ]
+  },
+  {
+   "name": "Mackay",
+   "role": "Department of State officer",
+   "variants": [
+    "Mr. Mackay",
+    "Mr. Maekay"
+   ]
+  }
+ ],
+ "keywords": [
+  "Petroleum Industry Law",
+  "foreign oil companies",
+  "sales quotas",
+  "Korean quotas",
+  "kerosene",
+  "import tariffs",
+  "written assurances",
+  "oil stockholding",
+  "coal liquefaction",
+  "synthetic gasoline",
+  "fuel alcohol",
+  "diplomatic representations"
+ ],
+ "subfiles": [
+  {
+   "title": "Incoming cablegram concerning Japanese oil quotas and tariff proposals",
+   "doc_type": "cablegram",
+   "start_page": 314,
+   "end_page": 317,
+   "continues_previous": true,
+   "date": "1936-12-15",
+   "from": "P. W. Parker, London",
+   "to": "Standard-Vacuum Oil Company, New York",
+   "about": "Parker relays reports of discriminatory quotas, proposed tariffs, and requests for diplomatic intervention.",
+   "summary": "The continued cable reports kerosene allocations favoring Japanese refiners, proposed petroleum tariffs and a gasoline tax, and plans for a fuel alcohol monopoly. Parker urges an immediate approach to the State Department about the companies’ uncertain trading position.",
+   "keywords": [
+    "kerosene quotas",
+    "petroleum tariffs",
+    "fuel alcohol",
+    "diplomatic intervention"
+   ]
+  },
+  {
+   "title": "Transmittal to the American Ambassador in Tokyo",
+   "doc_type": "cover letter",
+   "start_page": 318,
+   "end_page": 318,
+   "continues_previous": false,
+   "date": "1936-12-21",
+   "from": "Acting Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "Forwards a December 17 conversation memorandum concerning Japan’s oil situation.",
+   "summary": "Encloses the conversation memorandum and its attachments for the Ambassador’s information.",
+   "keywords": [
+    "transmittal",
+    "oil situation"
+   ]
+  },
+  {
+   "title": "Transmittal to the American Ambassador in London",
+   "doc_type": "cover letter",
+   "start_page": 319,
+   "end_page": 319,
+   "continues_previous": false,
+   "date": "1936-12-21",
+   "from": "Acting Secretary of State",
+   "to": "American Ambassador, London",
+   "about": "Forwards the December 17 conversation memorandum and enclosures.",
+   "summary": "Sends the memorandum about a Standard-Vacuum representative’s discussion with Department officers.",
+   "keywords": [
+    "transmittal",
+    "Standard-Vacuum"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 264 on proposed oil representations",
+   "doc_type": "telegram",
+   "start_page": 320,
+   "end_page": 322,
+   "continues_previous": false,
+   "date": "1936-12-19",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Discusses the form and timing of American and British representations to Japan.",
+   "summary": "Grew reports Clive’s concern that routine approaches will accomplish little and considers representations to Japanese ambassadors in Washington and London. He favors emphasizing the companies’ uncertainty, while avoiding demands or an approach that would embarrass the Foreign Minister.",
+   "keywords": [
+    "diplomatic representations",
+    "Clive",
+    "written assurances"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 265 requesting urgent preliminary action",
+   "doc_type": "telegram",
+   "start_page": 323,
+   "end_page": 324,
+   "continues_previous": false,
+   "date": "1936-12-22",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports oil companies’ request for a diplomatic approach before holiday quota and tariff decisions.",
+   "summary": "The companies fear penalties over unfulfilled storage duties and discriminatory tariff changes. Grew awaits authorization and a parallel British step.",
+   "keywords": [
+    "storage obligations",
+    "tariffs",
+    "quotas"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 266 on British instructions",
+   "doc_type": "telegram",
+   "start_page": 325,
+   "end_page": 325,
+   "continues_previous": false,
+   "date": "1936-12-23",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Seeks urgent instructions after Clive receives authority for representations.",
+   "summary": "Grew favors simultaneous, substantially identical approaches by the two embassies.",
+   "keywords": [
+    "British Embassy",
+    "representations"
+   ]
+  },
+  {
+   "title": "Department telegram No. 164 authorizing representations",
+   "doc_type": "outgoing telegram",
+   "start_page": 326,
+   "end_page": 327,
+   "continues_previous": false,
+   "date": "1936-12-23",
+   "from": "Department of State, Washington",
+   "to": "American Embassy, Tokyo",
+   "about": "Authorizes an approach to Japan while prescribing a measured tone.",
+   "summary": "The Department approves coordinated representations in Tokyo and a later informal discussion with the Prime Minister if appropriate. It declines, for now, approaches to Japanese ambassadors in Washington and London.",
+   "keywords": [
+    "authorization",
+    "diplomatic tone",
+    "written assurances"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 268 reporting December 24 interview",
+   "doc_type": "telegram",
+   "start_page": 328,
+   "end_page": 328,
+   "continues_previous": false,
+   "date": "1936-12-24",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports presentation of an aide memoire to Japan’s Foreign Minister.",
+   "summary": "The Minister received Grew cordially and promised to study the matter; the British Ambassador made a similar approach.",
+   "keywords": [
+    "aide memoire",
+    "Foreign Minister"
+   ]
+  },
+  {
+   "title": "Parker letter quoting Yokohama cable",
+   "doc_type": "letter",
+   "start_page": 329,
+   "end_page": 329,
+   "continues_previous": false,
+   "date": "1936-12-28",
+   "from": "P. W. Parker",
+   "to": "Stanley K. Hornbeck",
+   "about": "Relays a company cable about the December 24 diplomatic approaches.",
+   "summary": "Parker quotes a report of the ambassadors’ requests for fair treatment and written assurances.",
+   "keywords": [
+    "oil interests",
+    "December 24 representations"
+   ]
+  },
+  {
+   "title": "Incoming Yokohama cable quoted by Parker",
+   "doc_type": "cablegram",
+   "start_page": 330,
+   "end_page": 330,
+   "continues_previous": false,
+   "date": "1936-12-28",
+   "from": "Yokohama oil representatives",
+   "to": "P. W. Parker, New York",
+   "about": "Reports American and British approaches to Japan’s Foreign Minister.",
+   "summary": "A faint copy of the cable quoted in Parker’s letter.",
+   "keywords": [
+    "diplomatic representations",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Hornbeck reply to Parker",
+   "doc_type": "letter",
+   "start_page": 331,
+   "end_page": 331,
+   "continues_previous": false,
+   "date": "1936-12-29",
+   "from": "Stanley K. Hornbeck",
+   "to": "P. W. Parker",
+   "about": "Acknowledges Parker’s account of the December 24 approaches.",
+   "summary": "Hornbeck confirms receipt of a similar Embassy report and offers to share useful information.",
+   "keywords": [
+    "correspondence",
+    "oil situation"
+   ]
+  },
+  {
+   "title": "Division note on Japan’s liquid fuel plans",
+   "doc_type": "file memorandum",
+   "start_page": 332,
+   "end_page": 333,
+   "continues_previous": false,
+   "date": "1937-01-13",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes Tokyo despatch No. 2183 on coal liquefaction and fuel alcohol.",
+   "summary": "Notes the proposed state backed coal liquefaction company, doubts about production targets, and plans for an alcohol monopoly and gasoline blending.",
+   "keywords": [
+    "coal liquefaction",
+    "fuel alcohol",
+    "national fuel policy"
+   ]
+  },
+  {
+   "title": "Japan’s Search for Oil",
+   "doc_type": "embassy despatch",
+   "start_page": 334,
+   "end_page": 340,
+   "continues_previous": false,
+   "date": "1936-12-15",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Surveys Japanese plans to develop domestic liquid fuel substitutes.",
+   "summary": "The despatch describes coal hydrogenation plants planned or under construction in Japan and Manchuria, a proposed holding company to finance liquefaction, and an alcohol monopoly with compulsory gasoline blending. It outlines a national fuel policy of subsidies, research, tariffs, and taxes. The Embassy doubts the near term production targets but expects some eventual reduction in dependence on imported fuel.",
+   "keywords": [
+    "coal hydrogenation",
+    "Manchuria",
+    "fuel alcohol",
+    "national fuel policy"
+   ]
+  },
+  {
+   "title": "No action note",
+   "doc_type": "file note",
+   "start_page": 341,
+   "end_page": 341,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Records that no action on a telegram appears necessary.",
+   "summary": "States that no action is called for.",
+   "keywords": [
+    "file note"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 3 on Korean sales quotas",
+   "doc_type": "telegram",
+   "start_page": 342,
+   "end_page": 343,
+   "continues_previous": false,
+   "date": "1937-01-08",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports substantial reductions in foreign companies’ first half 1937 Korean oil quotas.",
+   "summary": "Grew reports a 37.7 percent gasoline quota cut and plans informal American and British inquiries at the Foreign Office.",
+   "keywords": [
+    "Korea",
+    "gasoline quotas",
+    "Foreign Office"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 4 on Foreign Office reaction",
+   "doc_type": "telegram",
+   "start_page": 344,
+   "end_page": 345,
+   "continues_previous": false,
+   "date": "1937-01-11",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports Dickover’s and Sansom’s conversations with Matsushima.",
+   "summary": "Matsushima appeared sympathetic and said Arita was pressing for a prompt settlement of the foreign oil companies’ position.",
+   "keywords": [
+    "Matsushima",
+    "Arita",
+    "Korean quotas"
+   ]
+  },
+  {
+   "title": "Division note on despatch No. 2194",
+   "doc_type": "file memorandum",
+   "start_page": 346,
+   "end_page": 346,
+   "continues_previous": false,
+   "date": "1937-01-22",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Recommends forwarding Grew’s despatch and later telegram to London.",
+   "summary": "Notes that subsequent written assurances have overtaken much of the despatch’s account.",
+   "keywords": [
+    "transmittal",
+    "written assurances"
+   ]
+  },
+  {
+   "title": "American Oil Interests in Japan",
+   "doc_type": "confidential embassy despatch",
+   "start_page": 347,
+   "end_page": 359,
+   "continues_previous": false,
+   "date": "1936-12-28",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Recounts negotiations for written assurances and the December 24 diplomatic representations.",
+   "summary": "Grew details the companies’ failed attempt to obtain clear written confirmation of oral assurances, citing unfavorable kerosene allocations, proposed tariffs, and a sharply worded Mining Bureau reply. He explains American and British discussions about the appropriate diplomatic response. Both ambassadors then made separate, substantially similar representations to the Japanese Foreign Minister on December 24; the despatch supplies five enclosures.",
+   "keywords": [
+    "written assurances",
+    "Petroleum Industry Law",
+    "kerosene quotas",
+    "tariffs",
+    "diplomatic representations"
+   ]
+  },
+  {
+   "title": "Joint company request for four assurances",
+   "doc_type": "enclosed letter",
+   "start_page": 360,
+   "end_page": 362,
+   "continues_previous": false,
+   "date": "1936-10-09",
+   "from": "Rising Sun Petroleum Company and Standard-Vacuum Oil Company",
+   "to": "Ogawa Gotaro, Minister of Commerce and Industry",
+   "about": "Requests written assurances on quotas, prices, equal treatment, and stockholding compensation.",
+   "summary": "The companies report a Mitsui storage arrangement, apologize for delay, and seek confirmation of four trading assurances.",
+   "keywords": [
+    "four assurances",
+    "Mitsui",
+    "stockholding"
+   ]
+  },
+  {
+   "title": "Joint company request concerning Chosen and Taiwan",
+   "doc_type": "enclosed letter",
+   "start_page": 363,
+   "end_page": 363,
+   "continues_previous": false,
+   "date": "1936-10-09",
+   "from": "Rising Sun Petroleum Company and Standard-Vacuum Oil Company",
+   "to": "Ogawa Gotaro, Minister of Commerce and Industry",
+   "about": "Seeks similar trading assurances for Chosen and Taiwan.",
+   "summary": "Requests the Ministry’s good offices for assurances in both territories.",
+   "keywords": [
+    "Chosen",
+    "Taiwan",
+    "assurances"
+   ]
+  },
+  {
+   "title": "Mining Bureau reply to Standard-Vacuum",
+   "doc_type": "enclosed letter",
+   "start_page": 364,
+   "end_page": 364,
+   "continues_previous": false,
+   "date": "1936-11-21",
+   "from": "Haruhiko Ogai, Mines Bureau",
+   "to": "C. E. Moyer, Standard-Vacuum Oil Company",
+   "about": "Orders prompt fulfillment of oil stockholding duties and addresses the four requested assurances.",
+   "summary": "Demands a storage timetable and says the requested points will receive consideration.",
+   "keywords": [
+    "stockholding",
+    "four assurances"
+   ]
+  },
+  {
+   "title": "American Embassy aide memoire",
+   "doc_type": "enclosed aide memoire",
+   "start_page": 365,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "1936-12-24",
+   "from": "American Government",
+   "to": "Japanese Government",
+   "about": "Requests a clear statement of intentions toward American oil interests.",
+   "summary": "Seeks confirmation that Japan will permit continued, reasonably secure and profitable American oil operations.",
+   "keywords": [
+    "aide memoire",
+    "American oil interests"
+   ]
+  },
+  {
+   "title": "British Embassy note verbale",
+   "doc_type": "enclosed note verbale",
+   "start_page": 366,
+   "end_page": 369,
+   "continues_previous": false,
+   "date": "1936-12-24",
+   "from": "British Ambassador, Tokyo",
+   "to": "Japanese Minister for Foreign Affairs",
+   "about": "Requests written assurances for Rising Sun Petroleum’s future trade in Japan.",
+   "summary": "The note recounts prolonged negotiations, oral assurances, the unsatisfactory Ministry reply, and new concerns over quotas and tariffs. It asks Japan to clarify its intentions and provide assurances that would allow British oil interests to continue operating.",
+   "keywords": [
+    "Rising Sun Petroleum",
+    "note verbale",
+    "written assurances"
+   ]
+  },
+  {
+   "title": "Division note on telegram No. 6",
+   "doc_type": "file memorandum",
+   "start_page": 370,
+   "end_page": 370,
+   "continues_previous": false,
+   "date": "1937-01-16",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Assesses Japan’s written confirmation of earlier oral assurances.",
+   "summary": "Expresses hope for settlement and states that no action is required.",
+   "keywords": [
+    "written assurances",
+    "settlement"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 6 conveying Japanese reply",
+   "doc_type": "telegram",
+   "start_page": 371,
+   "end_page": 373,
+   "continues_previous": false,
+   "date": "1937-01-15",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Transmits Japan’s note verbale confirming four oil company assurances.",
+   "summary": "The Foreign Office denies any intent to discriminate against or expel American oil interests and says its earlier reply confirmed the four points. An unofficial paper defends the kerosene allocation and tariff proposal. The American and British embassies welcome the written confirmation.",
+   "keywords": [
+    "Japanese reply",
+    "note verbale",
+    "four assurances",
+    "kerosene quotas"
+   ]
+  },
+  {
+   "title": "Memorandum of telephone conversation with Parker",
+   "doc_type": "conversation memorandum",
+   "start_page": 374,
+   "end_page": 375,
+   "continues_previous": false,
+   "date": "1937-01-11",
+   "from": "Department of State",
+   "to": "",
+   "about": "Records Parker’s discussion with Dooman about British action and the Foreign Office’s reaction.",
+   "summary": "Parker reports Eden’s conversation with Japan’s ambassador in London. Dooman relays encouraging indications from Tokyo, and Parker hopes continued efforts will secure assurances.",
+   "keywords": [
+    "Parker",
+    "Dooman",
+    "British Foreign Secretary"
+   ]
+  },
+  {
+   "title": "Transmittal of Tokyo despatch and related records to London",
+   "doc_type": "cover letter",
+   "start_page": 376,
+   "end_page": 376,
+   "continues_previous": false,
+   "date": "1937-01-26",
+   "from": "Secretary of State",
+   "to": "American Ambassador, London",
+   "about": "Forwards despatch No. 2194, a conversation memorandum, and telegram No. 6.",
+   "summary": "Sends copies of records covering the negotiations and Japan’s reply.",
+   "keywords": [
+    "transmittal",
+    "London"
+   ]
+  },
+  {
+   "title": "Copy of Tokyo telegram No. 6",
+   "doc_type": "telegram copy",
+   "start_page": 377,
+   "end_page": 378,
+   "continues_previous": false,
+   "date": "1937-01-15",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Copies Japan’s confirmation of assurances and explanations on quotas and tariffs.",
+   "summary": "A reproduced, partly paraphrased version of the January 15 telegram enclosed with the London transmittal.",
+   "keywords": [
+    "written assurances",
+    "telegram copy"
+   ]
+  },
+  {
+   "title": "Division note concerning Parker’s telephone inquiry",
+   "doc_type": "file note",
+   "start_page": 379,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1937-01-19",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Records Parker’s reaction to learning of Tokyo’s January 15 telegram.",
+   "summary": "Parker understood the Department’s assumption that his Japan representatives would report the development.",
+   "keywords": [
+    "Parker",
+    "information sharing"
+   ]
+  },
+  {
+   "title": "Parker request for the Japanese reply",
+   "doc_type": "letter",
+   "start_page": 380,
+   "end_page": 380,
+   "continues_previous": false,
+   "date": "1937-01-18",
+   "from": "P. W. Parker",
+   "to": "Stanley K. Hornbeck",
+   "about": "Requests the substance of the Japanese Foreign Minister’s reply.",
+   "summary": "Parker says Yokohama reported that the Embassy had telegraphed the reply.",
+   "keywords": [
+    "Japanese reply",
+    "Parker"
+   ]
+  },
+  {
+   "title": "Hornbeck reply to Parker",
+   "doc_type": "letter",
+   "start_page": 381,
+   "end_page": 382,
+   "continues_previous": false,
+   "date": "1937-01-21",
+   "from": "Stanley K. Hornbeck",
+   "to": "P. W. Parker",
+   "about": "Shares the Japanese reply and confidential explanation of quotas and tariffs.",
+   "summary": "Hornbeck encloses the note verbale, relays the unofficial Japanese explanations, and expresses hope for settlement.",
+   "keywords": [
+    "note verbale",
+    "kerosene quotas",
+    "tariff revision"
+   ]
+  },
+  {
+   "title": "Translation of Japanese note verbale enclosed for Parker",
+   "doc_type": "enclosed translation",
+   "start_page": 383,
+   "end_page": 384,
+   "continues_previous": false,
+   "date": "1937-01-15",
+   "from": "Japanese Department of Foreign Affairs",
+   "to": "American Embassy, Tokyo",
+   "about": "Confirms the four assurances and denies an intent to exclude American oil interests.",
+   "summary": "A copy of the formal Japanese reply, conditioned on the company fulfilling its legal obligations.",
+   "keywords": [
+    "four assurances",
+    "Japanese note verbale"
+   ]
+  },
+  {
+   "title": "Division note on despatch No. 2233",
+   "doc_type": "file memorandum",
+   "start_page": 385,
+   "end_page": 385,
+   "continues_previous": false,
+   "date": "1937-03-17",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes the Korean quota dispute and the written assurances discussed in Grew’s despatch.",
+   "summary": "Distinguishes Korean quotas from the assurances for Japan Proper and notes the attached Japanese replies.",
+   "keywords": [
+    "Korean quotas",
+    "written assurances"
+   ]
+  },
+  {
+   "title": "American Oil Interests in Japan",
+   "doc_type": "embassy despatch",
+   "start_page": 386,
+   "end_page": 393,
+   "continues_previous": false,
+   "date": "1937-01-29",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reviews Korean quota reductions, Japan’s written assurances, and the companies’ prospects.",
+   "summary": "Grew details sharp reductions in foreign companies’ Korean quotas while a Korean refiner receives increased allocations. He recounts informal approaches to Matsushima and the January 15 Japanese notes confirming assurances for Japan Proper, though the explanations of kerosene quotas and tariffs remain troubling. Company representatives foresee limited growth in Japan Proper and Taiwan, possible further losses in Korea, and substantial storage costs. The despatch continues beyond page 393.",
+   "keywords": [
+    "Korean quotas",
+    "Matsushima",
+    "written assurances",
+    "storage costs"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 7,
+  "pages": [
+   314,
+   393
+  ],
+  "pdf": "894.6363 Mines. Mining. Concessions., Carbon. Graphite., Japan, Petroleum., January 7, 1935 - October 25, 1939 1141-part-2.pdf",
+  "seconds": 79.7,
+  "created": "2026-10-08 16:07:34",
+  "key": "japan-internal-affairs-894.6363-mines-mining-concessions-5-part-2"
+ }
+}

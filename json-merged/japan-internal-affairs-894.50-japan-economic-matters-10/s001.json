@@ -1,0 +1,993 @@
+{
+ "section_summary": "This section documents Japan’s worsening financial and agricultural conditions in 1932. Embassy reports and their enclosures cover emergency borrowing for the Manchurian and Shanghai operations, the gold embargo, falling revenue, bank debt, trade, and major industries. Later documents focus on farmers’ debts and relief proposals, silk purchases, and a dispute over imports of Fushun coal.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Japen",
+    "Japam",
+    "Jepan",
+    "Japsn"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Toky",
+    "Toyo"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian",
+    "Manohurian",
+    "Manclhuria",
+    "anchuria"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "OgasawarsIs."
+   ]
+  },
+  {
+   "name": "Jiaozhou",
+   "variants": [
+    "Kiaochow"
+   ]
+  },
+  {
+   "name": "Jinan",
+   "variants": [
+    "Tsinanfu"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osake"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Fastern"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawati",
+    "Hawmiiar"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Ueno",
+   "variants": [
+    "Ueno"
+   ]
+  },
+  {
+   "name": "Kantō region",
+   "variants": [
+    "Kwanto"
+   ]
+  },
+  {
+   "name": "Kansai region",
+   "variants": [
+    "Kwansai"
+   ]
+  },
+  {
+   "name": "Chūkyō region",
+   "variants": [
+    "Chukyo"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Hokkaidō",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yawata",
+    "Yamata"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano",
+    "Nageno"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Toehigi"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori"
+   ]
+  },
+  {
+   "name": "Mito",
+   "variants": [
+    "Mito"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushime"
+   ]
+  },
+  {
+   "name": "Hyōgo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Harima",
+   "variants": [
+    "Harima"
+   ]
+  },
+  {
+   "name": "Tajima",
+   "variants": [
+    "Tajime",
+    "Dajima"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun",
+    "Yushun",
+    "Tuahun"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. chargé d’affaires ad interim in Tokyo",
+   "variants": [
+    "Edwin L. Neville",
+    "Mr. Neville"
+   ]
+  },
+  {
+   "name": "Inukai Tsuyoshi",
+   "role": "Premier of Japan",
+   "variants": [
+    "Premier Inukai"
+   ]
+  },
+  {
+   "name": "Bundy",
+   "role": "",
+   "variants": [
+    "MR. BUNDY"
+   ]
+  },
+  {
+   "name": "V. P. Copping",
+   "role": "Far Eastern Section, Department of Research and Intelligence",
+   "variants": [
+    "v. P. Copping"
+   ]
+  },
+  {
+   "name": "Hill",
+   "role": "Sender identified on a document file note",
+   "variants": [
+    "H1ll"
+   ]
+  },
+  {
+   "name": "Johnson",
+   "role": "Sender of telegram from Peiping",
+   "variants": [
+    "Johnson",
+    "JOHNSON"
+   ]
+  },
+  {
+   "name": "Saitō Makoto",
+   "role": "Admiral, viscount, and Premier of Japan",
+   "variants": [
+    "Viscount Saito",
+    "Admiral Viscount Saito",
+    "Admiral Saito",
+    "Premier Saito",
+    "Saito"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. ambassador in Tokyo",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew",
+    "Gra"
+   ]
+  },
+  {
+   "name": "Sugiyama",
+   "role": "Labor representative",
+   "variants": [
+    "Mr. Sugiyame"
+   ]
+  },
+  {
+   "name": "Araki Sadao",
+   "role": "War Minister",
+   "variants": [
+    "Araki"
+   ]
+  },
+  {
+   "name": "Kuhara Fusanosuke",
+   "role": "Seiyukai party manager",
+   "variants": [
+    "Mr. Kuhers"
+   ]
+  },
+  {
+   "name": "Yamamoto Tatsuo",
+   "role": "Baron and Minister of Home Affairs",
+   "variants": [
+    "Barem Yamamoto"
+   ]
+  },
+  {
+   "name": "Shimada",
+   "role": "Seiyukai member",
+   "variants": [
+    "Shimada"
+   ]
+  },
+  {
+   "name": "Gotō Fumio",
+   "role": "Minister of Agriculture and Forestry",
+   "variants": [
+    "Ar. Goto"
+   ]
+  },
+  {
+   "name": "Ōhashi",
+   "role": "Vice-Minister of Communications",
+   "variants": [
+    "Ohashi"
+   ]
+  },
+  {
+   "name": "Clark",
+   "role": "Person named on a document file note",
+   "variants": [
+    "C1ark"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese public finance",
+  "Manchurian incident",
+  "Shanghai expedition",
+  "government borrowing",
+  "gold embargo",
+  "banking and debt",
+  "foreign trade",
+  "agricultural depression",
+  "farm relief",
+  "silk industry",
+  "Fushun coal"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese Financial Measures",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1932-03-26",
+   "from": "Edwin L. Neville, American Embassy, Tokyo",
+   "to": "The Secretary of State, Washington",
+   "about": "Reports emergency loans, supplementary budgets, the gold embargo, and the outlook for Japanese revenue and spending.",
+   "summary": "The Diet approved borrowing for the Manchurian and Shanghai operations and passed supplementary budgets. Neville explains the carryover budget, falling revenue, and pressure for further borrowing under the Seiyukai government.",
+   "keywords": [
+    "public finance",
+    "Diet",
+    "Manchuria",
+    "Shanghai",
+    "government loans",
+    "budget"
+   ]
+  },
+  {
+   "title": "Imperial Ordinance No. 6 (1932)",
+   "doc_type": "enclosed ordinance",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1932-01-31",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Authorizes a loan of ¥20,910,000 for the Manchurian incident.",
+   "summary": "Authorizes ¥20,910,000 in borrowing for Manchurian expenditures.",
+   "keywords": [
+    "Manchuria",
+    "ordinance",
+    "loan"
+   ]
+  },
+  {
+   "title": "Imperial Ordinance No. 14 (1932)",
+   "doc_type": "enclosed ordinance",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1932-02-15",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Authorizes an additional ¥34,000,000 loan for the Manchurian incident.",
+   "summary": "Authorizes an additional ¥34,000,000 in borrowing for Manchurian expenditures.",
+   "keywords": [
+    "Manchuria",
+    "ordinance",
+    "loan"
+   ]
+  },
+  {
+   "title": "Imperial Ordinance No. 19 (1932)",
+   "doc_type": "enclosed ordinance",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1932-03-03",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Authorizes a further ¥15,000,000 loan for the Manchurian incident.",
+   "summary": "Authorizes a further ¥15,000,000 in borrowing for Manchurian expenditures.",
+   "keywords": [
+    "Manchuria",
+    "ordinance",
+    "loan"
+   ]
+  },
+  {
+   "title": "Law Providing for the Issue of a Loan to Cover Expenditures Required in the Manchurian Incident",
+   "doc_type": "enclosed law",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1932-03-25",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Authorizes borrowing of ¥67,500,000 beyond the three earlier ordinances.",
+   "summary": "Authorizes ¥67,500,000 in additional borrowing for the Manchurian incident.",
+   "keywords": [
+    "Manchuria",
+    "law",
+    "loan"
+   ]
+  },
+  {
+   "title": "Supplementary Budget No. 1 for Fiscal Year 1931–1932",
+   "doc_type": "enclosed budget",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Allocates ¥7,579,161 in loan revenue to War and Navy expenditures.",
+   "summary": "Lists ¥7,579,161 for Manchurian expenditures by the War and Navy departments.",
+   "keywords": [
+    "budget",
+    "Manchuria",
+    "War Department",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Supplementary Budget for Special Accounts, Fiscal Year 1932–1933",
+   "doc_type": "enclosed budget",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Records borrowing and transfers involving the Kwantung Administration Office and Manchurian expenditures.",
+   "summary": "Details ¥59,873,321 in borrowing and transfers to general and Kwantung accounts.",
+   "keywords": [
+    "budget",
+    "special accounts",
+    "Kwantung",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Supplementary Budget for Fiscal Year 1932–1933",
+   "doc_type": "enclosed budget",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Allocates ¥59,519,085 in borrowing among Foreign Affairs, War, and Navy expenditures.",
+   "summary": "Lists ¥59,519,085 in Manchurian expenditures across three departments.",
+   "keywords": [
+    "budget",
+    "Manchuria",
+    "government borrowing"
+   ]
+  },
+  {
+   "title": "Imperial Ordinance No. 4 (1932)",
+   "doc_type": "enclosed ordinance",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1932-01-28",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Suspends gold conversion of Bank of Japan, Bank of Chosen, and Bank of Taiwan notes.",
+   "summary": "Prohibits conversion of specified banknotes into gold without finance-minister approval.",
+   "keywords": [
+    "gold embargo",
+    "banknotes",
+    "ordinance"
+   ]
+  },
+  {
+   "title": "Supplementary Budget No. 2 for Fiscal Year 1931–1932",
+   "doc_type": "enclosed budget",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Provides ¥1,422,471 for increased Department of Communications pensions.",
+   "summary": "Adds ¥1,422,471 to the Communications Department pension account.",
+   "keywords": [
+    "budget",
+    "pensions",
+    "Communications Department"
+   ]
+  },
+  {
+   "title": "Imperial Ordinance No. 7 (1932)",
+   "doc_type": "enclosed ordinance",
+   "start_page": 15,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1932-01-31",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Limits transfers for national-loan principal redemption to ¥44,000,000.",
+   "summary": "Caps fiscal-year transfers to the national-loan amortization fund at ¥44,000,000.",
+   "keywords": [
+    "ordinance",
+    "national debt",
+    "amortization fund"
+   ]
+  },
+  {
+   "title": "Table Showing Revenue Decrease",
+   "doc_type": "enclosed statistical table",
+   "start_page": 16,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Compares Japanese ordinary and extraordinary revenues through December 1931 with the prior year.",
+   "summary": "The table itemizes tax and other revenue changes. It reports total revenue of ¥679,402,471 through December 1931, down ¥109,425,266 from the comparable 1930 period.",
+   "keywords": [
+    "revenue",
+    "taxation",
+    "statistics",
+    "budget"
+   ]
+  },
+  {
+   "title": "Table Showing Expenditure Increase",
+   "doc_type": "enclosed statistical table",
+   "start_page": 19,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Compares Japanese departmental spending through December 1931 with the prior year.",
+   "summary": "Shows total expenditure of ¥819,806,183, up ¥8,919,156 from the comparable 1930 period.",
+   "keywords": [
+    "expenditure",
+    "government departments",
+    "statistics"
+   ]
+  },
+  {
+   "title": "File Note for Despatch No. 560",
+   "doc_type": "document file note",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1932-04-07",
+   "from": "Hill",
+   "to": "",
+   "about": "Cross-references a report on Japan’s first-quarter foreign trade.",
+   "summary": "Points to Despatch No. 560 on Japan’s excess imports.",
+   "keywords": [
+    "cross-reference",
+    "foreign trade",
+    "imports"
+   ]
+  },
+  {
+   "title": "Excess of Imports",
+   "doc_type": "report excerpt",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1932-04-07",
+   "from": "",
+   "to": "",
+   "about": "Reports Japan’s first-quarter 1932 import surplus and its connection to raw-cotton purchases.",
+   "summary": "Reports a ¥159,002,000 import surplus, led by raw-cotton purchases.",
+   "keywords": [
+    "foreign trade",
+    "import surplus",
+    "raw cotton"
+   ]
+  },
+  {
+   "title": "Japanese Financial and Economic Conditions",
+   "doc_type": "memorandum",
+   "start_page": 22,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1932-04-18",
+   "from": "V. P. Copping, Far Eastern Section",
+   "to": "",
+   "about": "Surveys budget borrowing, the yen, note issuance, and several Japanese industries.",
+   "summary": "Copping estimates new bond issues and national-debt growth, notes weak yen exchange and proposed changes to note issuance, and reviews cotton, silk, steel, shipping, rice, and railway receipts.",
+   "keywords": [
+    "government bonds",
+    "yen exchange",
+    "cotton",
+    "silk",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Summary of Neville’s Report on Financial and Economic Conditions in Japan",
+   "doc_type": "departmental memorandum",
+   "start_page": 25,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1932-05-12",
+   "from": "Division of Far Eastern Affairs, Department of State",
+   "to": "",
+   "about": "Summarizes Embassy Despatch No. 578 on Japanese bank loans, debt, trade, gold reserves, and industry.",
+   "summary": "The memorandum outlines weak loan collateral, public and foreign debt, adverse trade balances, and declining gold coverage of the note issue. It concludes that Japan would probably meet its foreign obligations absent a major calamity.",
+   "keywords": [
+    "banking",
+    "public debt",
+    "trade balance",
+    "gold reserve",
+    "industry"
+   ]
+  },
+  {
+   "title": "Cover Despatch for Report on Financial and Economic Conditions in Japan",
+   "doc_type": "despatch cover letter",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1932-04-19",
+   "from": "Edwin L. Neville, American Embassy, Tokyo",
+   "to": "The Secretary of State, Washington",
+   "about": "Transmits a report on Japan’s financial and economic conditions.",
+   "summary": "Neville forwards the enclosed financial and economic report.",
+   "keywords": [
+    "cover letter",
+    "economic report"
+   ]
+  },
+  {
+   "title": "Financial and Economic Report",
+   "doc_type": "enclosed report",
+   "start_page": 30,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1932-04-19",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Assesses Japanese banks, debt, trade balances, reserves, prices, industries, and government finance.",
+   "summary": "The report traces unresolved bank advances from the 1927 crisis and questions the value of land, silk, and securities pledged against loans. It examines public and foreign debt, adverse trade balances, shrinking gold reserves, and conditions in steel, cement, copper, shipping, silk, cotton, and electric power. It expects substantial government borrowing but judges that Japan can probably meet its immediate foreign obligations.",
+   "keywords": [
+    "bank loans",
+    "government debt",
+    "trade balance",
+    "gold reserve",
+    "industries",
+    "inflation"
+   ]
+  },
+  {
+   "title": "Miscellaneous Financial and Economic Items",
+   "doc_type": "report excerpt",
+   "start_page": 51,
+   "end_page": 52,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Lists brief developments in banking, transport, taxation, fertilizer exports, and electric power.",
+   "summary": "Notes a new Ueno terminal, bank figures, a sugar-company tax scandal, and proposed transport, fertilizer, and power projects.",
+   "keywords": [
+    "banking",
+    "railways",
+    "taxation",
+    "fertilizer",
+    "electric power"
+   ]
+  },
+  {
+   "title": "File Note for Telegram No. 608",
+   "doc_type": "document file note",
+   "start_page": 53,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1932-06-04",
+   "from": "Johnson, Peiping",
+   "to": "",
+   "about": "Cross-references a telegram on Saitō’s description of Japan’s economic depression.",
+   "summary": "Points to Telegram No. 608 on depression and Saitō’s policy statement.",
+   "keywords": [
+    "cross-reference",
+    "economic depression",
+    "Saitō"
+   ]
+  },
+  {
+   "title": "Telegram No. 608 on Saitō’s Policy Statement",
+   "doc_type": "telegram",
+   "start_page": 54,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1932-06-04",
+   "from": "Johnson, Peiping",
+   "to": "Secretary of State, Washington",
+   "about": "Relays a Reuters report of Premier Saitō’s Diet address on depression and public order.",
+   "summary": "Saitō describes severe agricultural distress and urban hardship, promising relief, financial stability, and the maintenance of peace and order.",
+   "keywords": [
+    "economic depression",
+    "agriculture",
+    "Saitō",
+    "Diet"
+   ]
+  },
+  {
+   "title": "File Note for Despatch No. 19",
+   "doc_type": "document file note",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1932-06-17",
+   "from": "Grew, Japan",
+   "to": "",
+   "about": "Cross-references a despatch on farmers’ distress and proposed economic adjustments.",
+   "summary": "Points to Despatch No. 19 on farm relief.",
+   "keywords": [
+    "cross-reference",
+    "farm relief"
+   ]
+  },
+  {
+   "title": "Plight of the Farmers in Japan",
+   "doc_type": "despatch",
+   "start_page": 57,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1932-06-17",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "The Secretary of State, Washington",
+   "about": "Reports rural poverty, debt, political agitation, and competing plans for farm relief.",
+   "summary": "Grew describes falling rice and silk prices, heavy farm debts, and acute distress in several prefectures. He connects rural grievances with recent political violence and reports petitions for a debt moratorium, fertilizer aid, and assistance with migration to Manchuria. Political parties and the government propose public works and other relief, though funding remains uncertain.",
+   "keywords": [
+    "farm debt",
+    "rural distress",
+    "rice",
+    "silk",
+    "political unrest",
+    "farm relief"
+   ]
+  },
+  {
+   "title": "The Relief of Farming and Manufacturers",
+   "doc_type": "enclosed translated newspaper editorial",
+   "start_page": 66,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1932-06-15",
+   "from": "Nichi Nichi",
+   "to": "",
+   "about": "Discusses a Diet resolution for debt relief and the fiscal cost of government assistance.",
+   "summary": "The editorial supports serious consideration of relief for farmers and small businesses while warning that large disbursements could strain state finances and expand the currency.",
+   "keywords": [
+    "farm relief",
+    "small businesses",
+    "public finance",
+    "inflation"
+   ]
+  },
+  {
+   "title": "Debts of Farmers",
+   "doc_type": "enclosed translated newspaper article",
+   "start_page": 69,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1932-06-15",
+   "from": "Hochi Shimbun",
+   "to": "",
+   "about": "Describes farmers’ debts and household deficits, with examples from Fukushima and Hyōgo.",
+   "summary": "The article attributes mounting farm debt to low crop prices, expensive fertilizer, and taxes. It describes petitions for debt and tax relief and gives household income and expenditure figures for the Harima and Tajima districts.",
+   "keywords": [
+    "farm debt",
+    "rice",
+    "fertilizer",
+    "Fukushima",
+    "Hyōgo"
+   ]
+  },
+  {
+   "title": "File Note for Despatch No. 38",
+   "doc_type": "document file note",
+   "start_page": 73,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1932-07-01",
+   "from": "Grew, Japan",
+   "to": "",
+   "about": "Cross-references the cancellation of the Gerli silk contract and plans to promote silk sales.",
+   "summary": "Points to Despatch No. 38 on the Gerli silk contract.",
+   "keywords": [
+    "cross-reference",
+    "silk",
+    "Gerli contract"
+   ]
+  },
+  {
+   "title": "Cancellation of the Gerli Silk Contract",
+   "doc_type": "report excerpt",
+   "start_page": 74,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1932-07-01",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Reports the government’s cancellation of a silk-purchase contract and its subsequent bond-financed intervention.",
+   "summary": "The government cancels the Gerli contract, assumes silk and losses through bond issues, and plans production curbs and a silk commissioner in New York.",
+   "keywords": [
+    "silk",
+    "Gerli contract",
+    "government bonds",
+    "New York"
+   ]
+  },
+  {
+   "title": "File Note for No. 1797",
+   "doc_type": "document file note",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1932-08-22",
+   "from": "Clark",
+   "to": "",
+   "about": "Cross-references a memorandum of conversation with a Japanese minister on economic conditions.",
+   "summary": "Points to a conversation memorandum on Japan’s economy.",
+   "keywords": [
+    "cross-reference",
+    "economic conditions"
+   ]
+  },
+  {
+   "title": "File Note for No. 81",
+   "doc_type": "document file note",
+   "start_page": 77,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1932-08-05",
+   "from": "Japan",
+   "to": "",
+   "about": "Cross-references a July economic report covering the Fushun coal dispute.",
+   "summary": "Points to a July report on economic conditions and Fushun coal.",
+   "keywords": [
+    "cross-reference",
+    "Fushun coal",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "General Financial and Economic Conditions",
+   "doc_type": "report excerpt",
+   "start_page": 78,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1932-08-05",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Reviews July agricultural distress and the dispute over imports of Fushun coal.",
+   "summary": "The report says farm conditions remained poor and relief plans faced funding difficulties. It describes opposition from Japanese coal miners to cheaper Fushun imports and the resulting obstacle to Japanese–Manchurian economic cooperation.",
+   "keywords": [
+    "agricultural distress",
+    "farm relief",
+    "Fushun coal",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "File Note for No. 111",
+   "doc_type": "document file note",
+   "start_page": 80,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1932-09",
+   "from": "Japan",
+   "to": "",
+   "about": "Cross-references a report on continued economic depression in Japan.",
+   "summary": "Points to a September report on continuing depression.",
+   "keywords": [
+    "cross-reference",
+    "economic depression"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 8,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.50 Japan, Economic Matters., March 26, 1932 - October 16, 1939 1136.pdf",
+  "seconds": 101.4,
+  "created": "2026-10-08 17:51:57",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-10"
+ }
+}

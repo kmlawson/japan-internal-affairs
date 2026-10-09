@@ -1,0 +1,756 @@
+{
+ "section_summary": "This section contains shipping directives and a 1948 despatch on returning responsibility for Japanese merchant vessels to private owners while retaining occupation controls over vessel assignments and sailings. Its enclosures include a SCAP press release, a detailed 1947 study of phased decontrol, a shipowners’ statement, and the opening pages of the Mariners Law. The first page continues an earlier press digest with brief items on Japan, China, and Brazil.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "dapan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "Tekyo",
+    "Tokye",
+    "Tokye",
+    "Tokyo Fay area"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shanrhai"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Drazil"
+   ]
+  },
+  {
+   "name": "São Paulo",
+   "variants": [
+    "St. Paul"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honsnu"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyusnu",
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Tsushima Islands",
+   "variants": [
+    "Tsushima Islands"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Ryukyu (Nansei) Islands"
+   ]
+  },
+  {
+   "name": "Kuchinoshima",
+   "variants": [
+    "Kuchinoshima Island"
+   ]
+  },
+  {
+   "name": "Ulleungdo",
+   "variants": [
+    "Utsuryo (Ullung) Island"
+   ]
+  },
+  {
+   "name": "Liancourt Rocks",
+   "variants": [
+    "Liancourt Rocks (Take Island)",
+    "Takeshima"
+   ]
+  },
+  {
+   "name": "Jeju Island",
+   "variants": [
+    "Juelpart (Saishu or Cheju) Island"
+   ]
+  },
+  {
+   "name": "Izu Islands",
+   "variants": [
+    "Izu Islands"
+   ]
+  },
+  {
+   "name": "Nanpō Islands",
+   "variants": [
+    "Nanpo",
+    "Nanpo Islands"
+   ]
+  },
+  {
+   "name": "Ogasawara Islands",
+   "variants": [
+    "Bonin (Ogasawcra)"
+   ]
+  },
+  {
+   "name": "Volcano Islands",
+   "variants": [
+    "Volcano (Kazan or Iwo) Island Groups"
+   ]
+  },
+  {
+   "name": "Daitō Islands",
+   "variants": [
+    "Daito (Chigashi or Oag ri) Io-land Group"
+   ]
+  },
+  {
+   "name": "Okinotorishima",
+   "variants": [
+    "Parece Vela (Okino-tori)"
+   ]
+  },
+  {
+   "name": "Minamitorishima",
+   "variants": [
+    "Marcus (Min n:-tori)"
+   ]
+  },
+  {
+   "name": "Nakano-tori-shima",
+   "variants": [
+    "Ganges (Nakano-tori) Islands"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Furile (Chishima) Islands"
+   ]
+  },
+  {
+   "name": "Habomai Islands",
+   "variants": [
+    "Habomai (Napomaze) Island Group"
+   ]
+  },
+  {
+   "name": "Suishō Island",
+   "variants": [
+    "Suishc"
+   ]
+  },
+  {
+   "name": "Yuri Island",
+   "variants": [
+    "Yuri"
+   ]
+  },
+  {
+   "name": "Akiyuri Island",
+   "variants": [
+    "Akiyuri"
+   ]
+  },
+  {
+   "name": "Chibotsu Island",
+   "variants": [
+    "Chibotsu"
+   ]
+  },
+  {
+   "name": "Taraku Island",
+   "variants": [
+    "Taraku Islands"
+   ]
+  },
+  {
+   "name": "Shikotan",
+   "variants": [
+    "Chikotan Island"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manc uria"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Penghu Islands",
+   "variants": [
+    "Tescadores"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "Sōfu Gan",
+   "variants": [
+    "Lot's Wife (Sofu - Gan)",
+    "Sofu Gan"
+   ]
+  },
+  {
+   "name": "Nosappu Misaki",
+   "variants": [
+    "Nossapu Misaki",
+    "Nosappu Misaki"
+   ]
+  },
+  {
+   "name": "Kaigara Jima",
+   "variants": [
+    "Kaigara Jima"
+   ]
+  },
+  {
+   "name": "Sōya Misaki",
+   "variants": [
+    "Soya Misaki"
+   ]
+  },
+  {
+   "name": "Shiretoko Saki",
+   "variants": [
+    "Shiretoko Saki"
+   ]
+  },
+  {
+   "name": "Nemuro Strait",
+   "variants": [
+    "Nemuro Kaikyo"
+   ]
+  },
+  {
+   "name": "Seto Inland Sea",
+   "variants": [
+    "Inland Sea"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "PAR EAST",
+    "Far East areas"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pecific Islands",
+    "Pacific Islands"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Wu Shao-shu",
+   "role": "Person associated with Cheng Yen Pao",
+   "variants": [
+    "Wu Shao-shu"
+   ]
+  },
+  {
+   "name": "Yoshii",
+   "role": "Person in charge of the Sino-Japanese Amity Association",
+   "variants": [
+    "Yoshii"
+   ]
+  },
+  {
+   "name": "N. W. Bard",
+   "role": "Chief of Staff, Commander Naval Forces, Far East",
+   "variants": [
+    "N. W. BARD"
+   ]
+  },
+  {
+   "name": "W. L. Williams",
+   "role": "Flag Secretary",
+   "variants": [
+    "W. L. WILI IA'S",
+    "W. L. WILLIAMS"
+   ]
+  },
+  {
+   "name": "R. G. Hersey",
+   "role": "Signed SCAPIN 1393 for the Adjutant General",
+   "variants": [
+    "R. G. HERSEY"
+   ]
+  },
+  {
+   "name": "John E. Cooley",
+   "role": "Colonel, AGD; Adjutant General",
+   "variants": [
+    "JOHN E. COOLEY"
+   ]
+  },
+  {
+   "name": "B. W. Fitch",
+   "role": "Brigadier General, AGD; Adjutant General",
+   "variants": [
+    "B. . FITCH"
+   ]
+  },
+  {
+   "name": "John B. Cooley",
+   "role": "Colonel, AGD; Adjutant General",
+   "variants": [
+    "JOHN B. COOLEY"
+   ]
+  },
+  {
+   "name": "T. J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "T. J. Sebald"
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, AGD; Adjutant General",
+   "variants": [
+    "R. M. LEVY"
+   ]
+  },
+  {
+   "name": "Paul E. Richers",
+   "role": "Author of the Civil Transportation Section staff study",
+   "variants": [
+    "Paul E. Richers"
+   ]
+  },
+  {
+   "name": "W. L. Ogden",
+   "role": "Chief, Plans, Policies & Requirements Division",
+   "variants": [
+    "W. L. Ogden"
+   ]
+  },
+  {
+   "name": "General Whitney",
+   "role": "Listed for concurrence in the decontrol procedure",
+   "variants": [
+    "Gen.Whitney"
+   ]
+  },
+  {
+   "name": "F. C. Welsh",
+   "role": "Listed for concurrence in the decontrol procedure",
+   "variants": [
+    "Mr.F.C.Welsh"
+   ]
+  },
+  {
+   "name": "S. D. Collett",
+   "role": "Listed for concurrence on the proposed re-employment committee",
+   "variants": [
+    "Mr.S.D.Collett"
+   ]
+  },
+  {
+   "name": "J. P. Napier",
+   "role": "Major, Government Section",
+   "variants": [
+    "Maj. J. P. Napier"
+   ]
+  },
+  {
+   "name": "Junsuke Itaya",
+   "role": "President, Japanese Shipowners’ Association",
+   "variants": [
+    "JUNSUKE ITAYA"
+   ]
+  },
+  {
+   "name": "General Besson",
+   "role": "Recipient of an earlier shipowners’ program",
+   "variants": [
+    "General Besson"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant marine",
+  "SCAJAP",
+  "shipping control",
+  "vessel identification",
+  "Certificates of Operation",
+  "time charter",
+  "bareboat charter",
+  "phased decontrol",
+  "shipowners",
+  "maritime labor",
+  "Mariners Law",
+  "SCAP directives"
+ ],
+ "subfiles": [
+  {
+   "title": "Press digest: Sino-Japanese amity, shark’s fin, shrine lands, and Japanese activity in Brazil",
+   "doc_type": "press digest",
+   "start_page": 157,
+   "end_page": 157,
+   "continues_previous": true,
+   "date": "1948-07",
+   "from": "Chinese newspapers and news agencies",
+   "to": "",
+   "about": "Four brief translated news items cover Japanese and Chinese affairs and alleged Japanese terrorist activity in Brazil.",
+   "summary": "Continued page of a press digest containing four short news items.",
+   "keywords": [
+    "press digest",
+    "China",
+    "Japan",
+    "Brazil"
+   ]
+  },
+  {
+   "title": "Identification and Operation of Japanese Merchant Vessels",
+   "doc_type": "despatch",
+   "start_page": 158,
+   "end_page": 159,
+   "continues_previous": false,
+   "date": "1948-07-22",
+   "from": "Acting United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Forwards naval instructions on SCAJAP vessel identification and authorized sailing.",
+   "summary": "Describes requirements for SCAJAP numbers and Certificates of Operation and permission for voyages within Japanese home waters.",
+   "keywords": [
+    "SCAJAP",
+    "merchant vessels",
+    "certificates",
+    "home waters"
+   ]
+  },
+  {
+   "title": "Operation of Vessels under the Supervision of the Administrator, SCAJAP",
+   "doc_type": "naval instruction",
+   "start_page": 160,
+   "end_page": 160,
+   "continues_previous": false,
+   "date": "1948-06-16",
+   "from": "Commander Naval Forces, Far East",
+   "to": "Minister of Transportation",
+   "about": "Sets authorization rules for Japanese vessels sailing inside and outside home waters.",
+   "summary": "Requires authorization for voyages beyond territorial waters and permits domestic and specified fishing voyages without individual approval.",
+   "keywords": [
+    "SCAJAP",
+    "voyage authorization",
+    "home waters",
+    "fishing"
+   ]
+  },
+  {
+   "title": "Suppression of Illegal Entry into Japan, SCAPIN 1393",
+   "doc_type": "memorandum",
+   "start_page": 161,
+   "end_page": 161,
+   "continues_previous": false,
+   "date": "1946-12-11",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Clarifies which authorities may issue permits for voyages beyond Japanese territorial waters.",
+   "summary": "States that SCAJAP authorization is required and addresses purported Allied permits and Korean foreign trade vessels.",
+   "keywords": [
+    "illegal entry",
+    "voyage permits",
+    "SCAJAP",
+    "Korea"
+   ]
+  },
+  {
+   "title": "Governmental and Administrative Separation of Certain Outlying Areas from Japan, SCAPIN 677",
+   "doc_type": "memorandum",
+   "start_page": 162,
+   "end_page": 162,
+   "continues_previous": false,
+   "date": "1946-01-29",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Defines areas within and outside Japan for occupation administration.",
+   "summary": "Orders Japan to cease authority over specified outlying territories and defines the geographic scope of future directives.",
+   "keywords": [
+    "territorial administration",
+    "outlying islands",
+    "Japan",
+    "SCAPIN 677"
+   ]
+  },
+  {
+   "title": "Amendment on the Izu and Nanpō Islands, SCAPIN 841",
+   "doc_type": "memorandum",
+   "start_page": 163,
+   "end_page": 163,
+   "continues_previous": false,
+   "date": "1946-03-22",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Amends SCAPIN 677 to include specified islands within its definition of Japan.",
+   "summary": "Restores Japanese administrative jurisdiction over the Izu Islands and northern Nanpō Islands, subject to SCAP authority.",
+   "keywords": [
+    "Izu Islands",
+    "Nanpō Islands",
+    "SCAPIN 841"
+   ]
+  },
+  {
+   "title": "Area Authorized for Japanese Fishing and Whaling, SCAPIN 1033",
+   "doc_type": "memorandum",
+   "start_page": 164,
+   "end_page": 164,
+   "continues_previous": false,
+   "date": "1946-06-22",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Sets the authorized geographic area and exclusions for Japanese fishing and whaling.",
+   "summary": "Defines a fishing boundary and limits approaches to certain islands while reserving questions of sovereignty and fishing rights.",
+   "keywords": [
+    "fishing",
+    "whaling",
+    "maritime boundary",
+    "SCAPIN 1033"
+   ]
+  },
+  {
+   "title": "Japanese Vessels: Assignment of SCAJAP Numbers and Issuance of Certificates of Operation",
+   "doc_type": "naval instruction",
+   "start_page": 165,
+   "end_page": 165,
+   "continues_previous": false,
+   "date": "1948-06-16",
+   "from": "Commander Naval Forces, Far East",
+   "to": "Minister of Transportation",
+   "about": "Requires qualifying Japanese steel vessels to display SCAJAP numbers and carry operating certificates.",
+   "summary": "Specifies covered vessels, application procedures, number markings, and certificate posting.",
+   "keywords": [
+    "SCAJAP numbers",
+    "Certificates of Operation",
+    "steel vessels"
+   ]
+  },
+  {
+   "title": "Resumption of Responsibility by Japanese Shipowners to Crew, Supply, Repair and Maintain Privately-Owned Merchant Vessels",
+   "doc_type": "despatch",
+   "start_page": 166,
+   "end_page": 170,
+   "continues_previous": false,
+   "date": "1948-09-09",
+   "from": "T. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Reports the shift from government bareboat chartering to private owners’ operational responsibility under time charters.",
+   "summary": "Sebald explains that owners will again crew, supply, repair, and maintain vessels while SCAJAP retains assignment and sailing control. He reviews the financial weakness of shipping firms, subsidies, surplus labor, maritime law, and the earlier staff study. He endorses the change but judges it overdue.",
+   "keywords": [
+    "time charter",
+    "bareboat charter",
+    "shipowners",
+    "subsidies",
+    "labor"
+   ]
+  },
+  {
+   "title": "SCAP Authorized Limited Private Operation of Japanese Shipping",
+   "doc_type": "press release",
+   "start_page": 171,
+   "end_page": 172,
+   "continues_previous": false,
+   "date": "1948-09-02",
+   "from": "Far East Command Public Information Office",
+   "to": "Public",
+   "about": "Announces limited return of merchant vessel operations to Japanese private owners.",
+   "summary": "Explains the new time charter arrangement, continuing occupation control over vessel use, treatment of special service vessels, and the depleted size of Japan’s fleet.",
+   "keywords": [
+    "private operation",
+    "time charter",
+    "merchant fleet",
+    "SCAJAP"
+   ]
+  },
+  {
+   "title": "Japanese Merchant Shipping, SCAPIN 1931",
+   "doc_type": "memorandum",
+   "start_page": 173,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1948-09-02",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Japanese Government",
+   "about": "Directs revised operational responsibilities for government, private, fishing, and merchant vessels.",
+   "summary": "Allocates operation of special service vessels to public agencies or private owners and places other qualifying steel vessels on time charter to the Civilian Merchant Marine Committee. SCAJAP retains administrative control.",
+   "keywords": [
+    "SCAPIN 1931",
+    "vessel operation",
+    "time charter",
+    "SCAJAP"
+   ]
+  },
+  {
+   "title": "Return of Japanese Merchant Marine to Private Operation by Phased Decontrol from Government Operation",
+   "doc_type": "staff study",
+   "start_page": 176,
+   "end_page": 194,
+   "continues_previous": false,
+   "date": "1947-05-22",
+   "from": "Paul E. Richers, Civil Transportation Section",
+   "to": "Supreme Commander for the Allied Powers",
+   "about": "Proposes a staged transfer of Japanese merchant shipping from government operation to private enterprise.",
+   "summary": "The study finds government bareboat operation inefficient and private firms financially weak. It addresses surplus crews, unions, shipping associations, company reorganization, and purge requirements. It proposes time charters with incentives, followed by route competition, rate adjustments, commodity subsidies, and eventual removal of emergency controls. Its appended procedures set steps and target dates.",
+   "keywords": [
+    "phased decontrol",
+    "time charter",
+    "labor surplus",
+    "shipping associations",
+    "subsidies"
+   ]
+  },
+  {
+   "title": "A Statement by Junsuke Itaya, President",
+   "doc_type": "statement",
+   "start_page": 195,
+   "end_page": 198,
+   "continues_previous": false,
+   "date": "1948-01-28",
+   "from": "Junsuke Itaya, Japanese Shipowners’ Association",
+   "to": "Civil Transportation Section",
+   "about": "Advocates a smaller temporary shipping control agency and a larger operating role for shipowners.",
+   "summary": "Itaya argues that private operation would improve efficiency and reduce subsidies. He proposes time charters, retained central controls, revised freight rates, and stages of owner responsibility.",
+   "keywords": [
+    "shipowners",
+    "shipping control",
+    "time charter",
+    "freight rates"
+   ]
+  },
+  {
+   "title": "Cover sheet for Mariners Law",
+   "doc_type": "enclosure cover sheet",
+   "start_page": 199,
+   "end_page": 199,
+   "continues_previous": false,
+   "date": "1948-09-09",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Identifies the Mariners Law as enclosure four to despatch 593.",
+   "summary": "Cover sheet identifying the following copy of the Mariners Law.",
+   "keywords": [
+    "Mariners Law",
+    "enclosure"
+   ]
+  },
+  {
+   "title": "Mariners Law",
+   "doc_type": "law",
+   "start_page": 200,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1947-09-01",
+   "from": "Japanese Government",
+   "to": "",
+   "about": "Sets definitions, masters’ duties, shipboard discipline, and the opening rule on employment contracts.",
+   "summary": "The opening chapters define mariners and shipowners’ obligations, specify masters’ navigational and rescue duties, and regulate discipline and responses to danger aboard ship. Article 31 invalidates contract terms below the law’s standards. The law continues beyond this section.",
+   "keywords": [
+    "Mariners Law",
+    "masters",
+    "shipboard discipline",
+    "employment contracts"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 8,
+  "pages": [
+   157,
+   205
+  ],
+  "pdf": "894.85 Japan, Merchant Vessels. Yachts. Immunities Of Government -Controlled., October 11, 1945 - December 30, 1949 1835.pdf",
+  "seconds": 56.1,
+  "created": "2026-10-08 21:33:00",
+  "key": "japan-internal-affairs-894.85-japan-merchant-vessels-9"
+ }
+}

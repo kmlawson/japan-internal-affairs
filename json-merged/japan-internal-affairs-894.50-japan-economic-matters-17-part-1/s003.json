@@ -1,0 +1,944 @@
+{
+ "section_summary": "This section covers Japan’s postwar economic stabilization, including export promotion, fiscal austerity, deconcentration and antitrust policy, and the political effects of the 1949 budget. It also contains correspondence on Far Eastern Commission business, Japanese population and employment, and a despatch assessing an Economic Stabilization Board report. The section ends within that report’s opening discussion.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Japnn"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.A.",
+    "US",
+    "U.S.",
+    "United States",
+    "United States of America",
+    "America"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "TOKIO",
+    "Tokyo",
+    "Tkyo"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "British India"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Korean"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Eastern"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Britain",
+    "British"
+   ]
+  },
+  {
+   "name": "England and Wales",
+   "variants": [
+    "England and Wales"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Netherlánds"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawali"
+   ]
+  },
+  {
+   "name": "São Paulo State",
+   "variants": [
+    "San Paulo State"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-Chir a"
+   ]
+  },
+  {
+   "name": "British Malaya",
+   "variants": [
+    "British Malaya"
+   ]
+  },
+  {
+   "name": "British North Borneo",
+   "variants": [
+    "British North Borneo"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "British Burma",
+    "Burma"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Dutch East Indies",
+    "Dutch East"
+   ]
+  },
+  {
+   "name": "Oceania",
+   "variants": [
+    "Occania"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "U.S.S.R.",
+    "USSR"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "El Salvador",
+   "variants": [
+    "El Salvador"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Caba"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "variants": [
+    "Venezuela"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Bolivia",
+   "variants": [
+    "Bolivia"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Paraguay",
+   "variants": [
+    "Paraguay"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "South Seas Islands",
+   "variants": [
+    "South Seas Islands"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Territory"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Saghalien"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "James E. Webb",
+   "role": "Under Secretary of State; recipient of policy memorandum",
+   "variants": [
+    "Mr. Webb"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "State Department official; sender of memoranda",
+   "variants": [
+    "Mr. Thorp"
+   ]
+  },
+  {
+   "name": "W. Walton Butterworth",
+   "role": "State Department Far Eastern Affairs official",
+   "variants": [
+    "Mr. Butterworth"
+   ]
+  },
+  {
+   "name": "R. C. Dixon",
+   "role": "State Department memorandum drafter",
+   "variants": [
+    "RCDixon",
+    "RCD"
+   ]
+  },
+  {
+   "name": "A. L. Dunning",
+   "role": "Telegram drafter",
+   "variants": [
+    "ALDunning"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Secretary of State; telegram signatory",
+   "variants": [
+    "ACHESON",
+    "Actison"
+   ]
+  },
+  {
+   "name": "Walter Hutchinson",
+   "role": "Member of the Deconcentration Review Board",
+   "variants": [
+    "Walter Hutchinson",
+    "Mr. Hutchinson",
+    "Hutchinson",
+    "Hutchineon",
+    "Tutchinson",
+    "Hetelhinson"
+   ]
+  },
+  {
+   "name": "Frank R. McCoy",
+   "role": "Speaker before the Far Eastern Commission",
+   "variants": [
+    "Gen. McCoy"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "Sebald",
+    "SEBALD",
+    "Sebal"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister and Foreign Minister of Japan",
+   "variants": [
+    "Shigeru Yoshida",
+    "Yoshida",
+    "Yoshide",
+    "Voshida",
+    "YosHIDA Shigeru",
+    "Ir. Yoshide"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General and Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur",
+    "MacArthur",
+    "General MacArthe"
+   ]
+  },
+  {
+   "name": "Joseph Dodge",
+   "role": "Economic adviser",
+   "variants": [
+    "Mr. Dodge",
+    "Dodge"
+   ]
+  },
+  {
+   "name": "Hayato Ikeda",
+   "role": "Japanese Finance Minister",
+   "variants": [
+    "Ikeda",
+    "Ir. Ikeda"
+   ]
+  },
+  {
+   "name": "Tetsu Katayama",
+   "role": "Former Japanese prime minister",
+   "variants": [
+    "Katayama",
+    "Ketayama"
+   ]
+  },
+  {
+   "name": "Hitoshi Ashida",
+   "role": "Former Japanese prime minister",
+   "variants": [
+    "Ashida"
+   ]
+  },
+  {
+   "name": "Kyuichi Tokuda",
+   "role": "Secretary General of the Japan Communist Party",
+   "variants": [
+    "TcitD. yuiel.i"
+   ]
+  },
+  {
+   "name": "C. N. Spinks",
+   "role": "United States Political Adviser’s despatch writer",
+   "variants": [
+    "Mr. Spinks",
+    "CNSpinks"
+   ]
+  },
+  {
+   "name": "M. Green",
+   "role": "State Department memorandum sender",
+   "variants": [
+    "Mr. Green",
+    "MGreen"
+   ]
+  },
+  {
+   "name": "Mr. Bdd",
+   "role": "State Department memorandum recipient; surname unclear in OCR",
+   "variants": [
+    "Mr. Bdd"
+   ]
+  },
+  {
+   "name": "Midzuno",
+   "role": "Applicant for employment considered by SCAP",
+   "variants": [
+    "Midzuno"
+   ]
+  },
+  {
+   "name": "Honda",
+   "role": "Namesake of a proposed Japanese government personnel reduction plan",
+   "variants": [
+    "Honda"
+   ]
+  },
+  {
+   "name": "William F. Marquat",
+   "role": "Chief of SCAP’s Economic and Scientific Section",
+   "variants": [
+    "W. F. Mut UAr",
+    "General Haroust",
+    "Teneral Parout"
+   ]
+  },
+  {
+   "name": "R. R. Kuczynski",
+   "role": "Demographer whose reproduction-rate method is cited",
+   "variants": [
+    "R. R. Kuczynski"
+   ]
+  },
+  {
+   "name": "Teijiro Ueda",
+   "role": "Population researcher",
+   "variants": [
+    "Dr. Teijiro Ueda",
+    "Dr. Ueda"
+   ]
+  },
+  {
+   "name": "Tomonaga Nakagawa",
+   "role": "Population researcher",
+   "variants": [
+    "Dr. Tomonaga Nakagawa",
+    "Dr. Nakagawa"
+   ]
+  },
+  {
+   "name": "E. Herbert Norman",
+   "role": "Author cited on Japanese labor",
+   "variants": [
+    "E Herbert Norman"
+   ]
+  },
+  {
+   "name": "Warren S. Thompson",
+   "role": "Professor and author cited on migration",
+   "variants": [
+    "Professor W. Thompson",
+    "Warren S. Thompson"
+   ]
+  },
+  {
+   "name": "Edward G. Seidensticker Jr.",
+   "role": "Despatch drafter",
+   "variants": [
+    "EGSeidensticker, Jr."
+   ]
+  },
+  {
+   "name": "H. E. Fassberg",
+   "role": "Airgram drafter",
+   "variants": [
+    "HEFassberg"
+   ]
+  }
+ ],
+ "keywords": [
+  "economic stabilization",
+  "Nine-Point Program",
+  "export promotion",
+  "zaibatsu",
+  "deconcentration",
+  "antitrust law",
+  "agrarian reform",
+  "Yoshida budget",
+  "population growth",
+  "emigration",
+  "employment",
+  "inflation"
+ ],
+ "subfiles": [
+  {
+   "title": "Export promotion and economic rehabilitation speech, concluding clipping",
+   "doc_type": "newspaper clipping",
+   "start_page": 106,
+   "end_page": 106,
+   "continues_previous": true,
+   "date": "1949-04-05",
+   "from": "",
+   "to": "",
+   "about": "A Japanese government speech urges export priority, restrained consumption, streamlined controls and self-supporting recovery.",
+   "summary": "Concluding page of a speech on export-led recovery and austerity.",
+   "keywords": [
+    "exports",
+    "economic stabilization",
+    "austerity"
+   ]
+  },
+  {
+   "title": "Interpretation of NSC 13/2: Japanese Zaibatsu Policy",
+   "doc_type": "memorandum",
+   "start_page": 107,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1949-04-06",
+   "from": "E — Mr. Thorp",
+   "to": "U — Mr. Webb",
+   "about": "The memorandum seeks decisions on SCAP intervention in reforms and proposed weakening of Japan’s antitrust law.",
+   "summary": "Thorp presents competing readings of NSC 13/2 and opposing views on proposed antitrust amendments. He recommends, if Webb agrees, reaffirming zaibatsu policy, withdrawing the Deconcentration Review Board and delaying legislative changes.",
+   "keywords": [
+    "NSC 13/2",
+    "zaibatsu",
+    "antitrust",
+    "deconcentration"
+   ]
+  },
+  {
+   "title": "Japanese Deconcentration",
+   "doc_type": "memorandum",
+   "start_page": 111,
+   "end_page": 111,
+   "continues_previous": false,
+   "date": "1949-04-06",
+   "from": "E — Mr. Thorp",
+   "to": "FE — Mr. Butterworth",
+   "about": "Thorp forwards the unresolved E–FE policy disagreement on Japanese deconcentration to the Under Secretary.",
+   "summary": "Thorp forwards the zaibatsu policy dispute for decision.",
+   "keywords": [
+    "deconcentration",
+    "zaibatsu",
+    "NSC 13/2"
+   ]
+  },
+  {
+   "title": "Far Eastern Commission steering committee meeting of March 29, 1949",
+   "doc_type": "outgoing telegram",
+   "start_page": 112,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1949-04-06",
+   "from": "Department of State, Washington",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "The telegram reports committee discussion of Japanese agrarian reform and several other Far Eastern Commission agenda items.",
+   "summary": "Reports a defeated Soviet request for land-reform information, proposed wording changes to an agrarian reform paper, and deferred discussion of fisheries, assets and other items.",
+   "keywords": [
+    "Far Eastern Commission",
+    "agrarian reform",
+    "fisheries",
+    "Japanese assets"
+   ]
+  },
+  {
+   "title": "Political Adviser’s periodic airgram on deconcentration and other matters",
+   "doc_type": "incoming airgram",
+   "start_page": 115,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "1949-04-08",
+   "from": "United States Political Adviser, Tokyo",
+   "to": "Secretary of State",
+   "about": "The airgram reports the Review Board’s disavowal of Hutchinson’s Far Eastern Commission statements and mentions Korean trade arrangements.",
+   "summary": "The Board rejects responsibility for Hutchinson’s testimony, while SCAP’s Antitrust and Cartels Division disputes his characterization of enforcement. Later text discusses Korean trade and financial arrangements; pages 116–117 are severely degraded.",
+   "keywords": [
+    "Hutchinson",
+    "Deconcentration Review Board",
+    "antitrust",
+    "Korean trade"
+   ]
+  },
+  {
+   "title": "Inquiry concerning Hutchinson’s deconcentration testimony, draft",
+   "doc_type": "draft outgoing airgram",
+   "start_page": 118,
+   "end_page": 118,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "United States Political Adviser, Tokyo",
+   "about": "A heavily degraded draft asks about the Board’s refusal to accept responsibility for Hutchinson’s statements.",
+   "summary": "Draft inquiry on the status of Hutchinson’s testimony.",
+   "keywords": [
+    "Hutchinson",
+    "deconcentration"
+   ]
+  },
+  {
+   "title": "Inquiry concerning Hutchinson’s deconcentration testimony",
+   "doc_type": "outgoing airgram",
+   "start_page": 119,
+   "end_page": 120,
+   "continues_previous": false,
+   "date": "1949-04-27",
+   "from": "Department of State",
+   "to": "United States Political Adviser, Tokyo",
+   "about": "The Department asks which parts of Hutchinson’s Far Eastern Commission testimony the Review Board disavowed.",
+   "summary": "The Department requests corrected information and clarification of the Board’s position so it can respond to further Far Eastern Commission questions.",
+   "keywords": [
+    "Hutchinson",
+    "Far Eastern Commission",
+    "Deconcentration Review Board"
+   ]
+  },
+  {
+   "title": "Prime Minister’s Policy Speech of April 4, 1949",
+   "doc_type": "despatch",
+   "start_page": 121,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "1949-04-12",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch analyzes Yoshida’s policy speech and the political strain caused by the austerity budget.",
+   "summary": "Yoshida urges economic patriotism and acceptance of the Nine-Point Program. The despatch describes how budget measures contradict Democratic Liberal campaign pledges, expose Finance Minister Ikeda to criticism and complicate Yoshida’s position despite his continued authority.",
+   "keywords": [
+    "Yoshida",
+    "budget",
+    "Nine-Point Program",
+    "Democratic Liberal Party"
+   ]
+  },
+  {
+   "title": "Prime Minister Yoshida’s policy speech, Mainichi enclosure",
+   "doc_type": "newspaper clipping",
+   "start_page": 125,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "1949-04-05",
+   "from": "The Mainichi",
+   "to": "",
+   "about": "A newspaper prints Yoshida’s April 4 speech calling for austerity, self-reliance and economic reconstruction.",
+   "summary": "Yoshida defends the stabilization budget and single exchange rate, urges hard work, and discusses repatriation and Japan’s return to international society.",
+   "keywords": [
+    "Yoshida",
+    "austerity",
+    "exchange rate",
+    "repatriation"
+   ]
+  },
+  {
+   "title": "Midzuno employment application, record-copy telegram",
+   "doc_type": "incoming telegram",
+   "start_page": 127,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "1949-04-12",
+   "from": "SCAP Tokyo; signed Sebald",
+   "to": "Secretary of State",
+   "about": "SCAP finds that Midzuno’s proposed employment offers no special benefit to Japan or India.",
+   "summary": "SCAP treats Midzuno’s application as a test case for about 200 similar cases.",
+   "keywords": [
+    "Midzuno",
+    "India",
+    "employment"
+   ]
+  },
+  {
+   "title": "Replacement record-copy notice for Tokyo telegram 117",
+   "doc_type": "records form",
+   "start_page": 128,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State central records",
+   "to": "Action office",
+   "about": "The form designates a replacement record copy because the original action copy was not returned.",
+   "summary": "Replacement-copy filing notice for telegram 117.",
+   "keywords": [
+    "record copy",
+    "telegram 117"
+   ]
+  },
+  {
+   "title": "Midzuno employment application, information copy",
+   "doc_type": "incoming telegram copy",
+   "start_page": 129,
+   "end_page": 129,
+   "continues_previous": false,
+   "date": "1949-04-12",
+   "from": "SCAP Tokyo; signed Sebald",
+   "to": "Secretary of State",
+   "about": "A second copy repeats SCAP’s decision on Midzuno’s proposed employment.",
+   "summary": "Information copy of telegram 117 concerning Midzuno.",
+   "keywords": [
+    "Midzuno",
+    "India",
+    "employment"
+   ]
+  },
+  {
+   "title": "Tokyo’s Despatch 215 of April 12, 1949",
+   "doc_type": "memorandum",
+   "start_page": 130,
+   "end_page": 130,
+   "continues_previous": false,
+   "date": "1949-05-02",
+   "from": "NA — Mr. Green",
+   "to": "NA — Mr. Bdd",
+   "about": "Green summarizes the despatch’s account of Yoshida’s budget predicament.",
+   "summary": "Reviews austerity measures and their effect on Yoshida and Ikeda.",
+   "keywords": [
+    "Yoshida",
+    "budget",
+    "austerity"
+   ]
+  },
+  {
+   "title": "Japan’s Population Problem, transmittal",
+   "doc_type": "despatch cover letter",
+   "start_page": 131,
+   "end_page": 131,
+   "continues_previous": false,
+   "date": "1949-04-13",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "The Political Adviser transmits copies of a Japanese Foreign Office population pamphlet.",
+   "summary": "Transmits five copies of Japan’s Population Problem.",
+   "keywords": [
+    "population",
+    "pamphlet"
+   ]
+  },
+  {
+   "title": "Japan’s Population Problem",
+   "doc_type": "government pamphlet",
+   "start_page": 132,
+   "end_page": 171,
+   "continues_previous": false,
+   "date": "1948-06",
+   "from": "Foreign Office, Japanese Government",
+   "to": "",
+   "about": "The pamphlet examines population growth, repatriation, employment and possible responses to overpopulation.",
+   "summary": "Using demographic, migration and employment tables, the pamphlet argues that repatriation and postwar births intensified pressure on Japan’s limited resources and depressed living standards. It reviews industrialization, birth control and emigration as possible responses, while warning that projected economic recovery would still leave substantial unemployment. The supplied pages include duplicate table pages and blank pages.",
+   "keywords": [
+    "population growth",
+    "repatriation",
+    "employment",
+    "emigration",
+    "birth control",
+    "industrialization"
+   ]
+  },
+  {
+   "title": "Political Adviser’s periodic airgram on the Nine-Point Program",
+   "doc_type": "incoming airgram",
+   "start_page": 172,
+   "end_page": 174,
+   "continues_previous": false,
+   "date": "1949-04-15",
+   "from": "United States Political Adviser, Tokyo",
+   "to": "Secretary of State",
+   "about": "The airgram discusses an Economic and Scientific Section progress report and a proposed Japanese government personnel cut.",
+   "summary": "It reports the Dodge mission’s request for a progress account of Nine-Point Program implementation and SCAP concern about a uniform 30 percent personnel reduction. Pages 173–174 are badly degraded.",
+   "keywords": [
+    "Nine-Point Program",
+    "Economic and Scientific Section",
+    "personnel cuts"
+   ]
+  },
+  {
+   "title": "Analysis of Current Economic Situation of Japan, covering despatch",
+   "doc_type": "despatch",
+   "start_page": 175,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1949-04-20",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "The despatch summarizes and critiques Economic Stabilization Board reports on Japan’s economy.",
+   "summary": "The despatch notes higher production, slower inflation and rising real wages, but emphasizes import surpluses, weak enterprise finances, deteriorating assets and low living standards. It reviews the Board’s concerns about exchange-rate disparities, falling purchasing power, small firms, controls, wages and fiscal pressure.",
+   "keywords": [
+    "Economic Stabilization Board",
+    "inflation",
+    "exports",
+    "real wages",
+    "Nine-Point Program"
+   ]
+  },
+  {
+   "title": "Analysis of Current Economic Situation of Japan",
+   "doc_type": "government report enclosure",
+   "start_page": 181,
+   "end_page": 185,
+   "continues_previous": false,
+   "date": "1949-01",
+   "from": "Economic Stabilization Board",
+   "to": "",
+   "about": "The report’s opening pages outline signs of stabilization and underlying weaknesses in Japan’s economy.",
+   "summary": "The title, contents and foreword introduce a study of production, inflation, wages, trade deficits, enterprise management, resource depletion and living standards. The opening text argues that apparent stabilization depends heavily on foreign assistance and calls for higher production and exports. The report continues beyond page 185.",
+   "keywords": [
+    "economic stabilization",
+    "trade deficit",
+    "foreign assistance",
+    "production",
+    "inflation"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 9,
+  "pages": [
+   106,
+   185
+  ],
+  "pdf": "894.50 Japan, Economic Matters., December 4, 1948 - December 3, 1949 1797-part-1.pdf",
+  "seconds": 63.4,
+  "created": "2026-10-08 18:33:00",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-17-part-1"
+ }
+}

@@ -1,0 +1,1732 @@
+{
+ "section_summary": "This section combines wartime correspondence about payments for oil shipped to Japan with intelligence estimates of Japanese refining capacity, synthetic fuel production, petroleum stocks, and tanker needs. A January 1942 naval intelligence report appears in multiple copies and extracts, alongside later requests for better production figures. The section also includes records on alleged Soviet oil deliveries to Japan, a claimed cottonseed oil fuel process, and a British account of oil imports from Iran.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Japam",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo",
+    "okyo"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohauma",
+    "Yokohana",
+    "Yokohma",
+    "Yokohame",
+    "Yekohame",
+    "Yokohans"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEWYORK"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Franoisoo"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON",
+    "Washington, D.C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.A.",
+    "U.S.",
+    "U. s.",
+    "U.8."
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands Bast Indies",
+    "Netherlands East Indies",
+    "Notherlands East Indies",
+    "Nether lands East Indies",
+    "N.E.I."
+   ]
+  },
+  {
+   "name": "British Borneo",
+   "variants": [
+    "British Bornec",
+    "British Borneo"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Borneo"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Gerrany",
+    "Germamy"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain",
+    "G.B."
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manehuria",
+    "kanchuria",
+    "Ianchuria",
+    "Lanchuria",
+    "Hanohurie",
+    "Mamehuria",
+    "Manohuria",
+    "Nanehuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manchukuo",
+    "Mandschukuo"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Korca",
+    "Korua",
+    "Kora",
+    "Koren"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokka1do"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Fornosa"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sakhalin",
+    "Saghalien",
+    "Lakhelin sland"
+   ]
+  },
+  {
+   "name": "Fushun",
+   "variants": [
+    "Fushun",
+    "Fushin",
+    "Fushem",
+    "Fuahun",
+    "ushun"
+   ]
+  },
+  {
+   "name": "Tokuyama",
+   "variants": [
+    "Tokuyama",
+    "Tokuyana",
+    "Toluyma",
+    "Tokuyamm"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Supingkai",
+    "Supingmal"
+   ]
+  },
+  {
+   "name": "Miike",
+   "variants": [
+    "Miike",
+    "Miihe",
+    "Iiike",
+    "Kiike",
+    "Wiike",
+    "Milke"
+   ]
+  },
+  {
+   "name": "Takikawa",
+   "variants": [
+    "Takikawa",
+    "Tokegawa",
+    "Takegawe"
+   ]
+  },
+  {
+   "name": "Jinzhou",
+   "variants": [
+    "Chinchow",
+    "Chinohow",
+    "Ominehew",
+    "Chinhsien",
+    "Chinhsion"
+   ]
+  },
+  {
+   "name": "Harbin",
+   "variants": [
+    "Harbin"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen",
+    "Dalren",
+    "Deiren",
+    "Dai ren"
+   ]
+  },
+  {
+   "name": "Wonsan",
+   "variants": [
+    "Genzan",
+    "Jonzan",
+    "Cenzan"
+   ]
+  },
+  {
+   "name": "Tsurumi",
+   "variants": [
+    "Tsurumi",
+    "Tsurum1"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki",
+    "Kawasakd",
+    "Kawasaki.",
+    "Kewasak1",
+    "Kawasak1",
+    "Y.awasaki"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Anagasaki",
+    "Amagasaki",
+    "Anagasaki (Japan)"
+   ]
+  },
+  {
+   "name": "Kudamatsu",
+   "variants": [
+    "Kudamatsu",
+    "xudamatru",
+    "Kudamatou"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita",
+    "Akit",
+    "kita"
+   ]
+  },
+  {
+   "name": "Kashiwazaki",
+   "variants": [
+    "Kashiwazaki",
+    "nashiwazaki"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata",
+    "Niigate",
+    "Nilgata",
+    "Ni1gate",
+    "Miigata"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Csaka",
+    "Coaka"
+   ]
+  },
+  {
+   "name": "Agochi",
+   "variants": [
+    "Agochi",
+    "Agooh1",
+    "Agoeh1",
+    "Asochi"
+   ]
+  },
+  {
+   "name": "Uchiboro",
+   "variants": [
+    "Uchiboro",
+    "Uehiboro",
+    "chiboro",
+    "uchiboro"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamaguchi",
+    "Yamaguehi",
+    "Yamagueh1"
+   ]
+  },
+  {
+   "name": "Ōmuta",
+   "variants": [
+    "Omuta",
+    "Onuta",
+    "omuda",
+    "Cmuta",
+    "Omute"
+   ]
+  },
+  {
+   "name": "Jilin",
+   "variants": [
+    "Kirin"
+   ]
+  },
+  {
+   "name": "Siping",
+   "variants": [
+    "Shiheigai",
+    "Shiheigal",
+    "Shoheigai",
+    "Sheheigai"
+   ]
+  },
+  {
+   "name": "Hikoshima",
+   "variants": [
+    "Hikoshima",
+    "Hikoshina"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji",
+    "Koji",
+    "Xoj1"
+   ]
+  },
+  {
+   "name": "Funakawa",
+   "variants": [
+    "Funakwa",
+    "Funakawa"
+   ]
+  },
+  {
+   "name": "Wakamatsu",
+   "variants": [
+    "Wakamatsu",
+    "Wakanntsu",
+    "Vakamatsu"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muroran",
+    "iuroran"
+   ]
+  },
+  {
+   "name": "Wanishi",
+   "variants": [
+    "Wanishi",
+    "*anieh1"
+   ]
+  },
+  {
+   "name": "Shimotsu",
+   "variants": [
+    "Shimotsu",
+    "Shinotsu",
+    "Shimoteu"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama",
+    "akayema"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimizu"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Ube",
+   "variants": [
+    "Ube",
+    "Ubo"
+   ]
+  },
+  {
+   "name": "Naihoro",
+   "variants": [
+    "Naihoro",
+    "Naihero",
+    "aihoro"
+   ]
+  },
+  {
+   "name": "Horonai",
+   "variants": [
+    "Horonai",
+    "Horona1"
+   ]
+  },
+  {
+   "name": "Tomamae",
+   "variants": [
+    "Tomamae",
+    "Tomemae"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushire"
+   ]
+  },
+  {
+   "name": "Uchibuchi",
+   "variants": [
+    "Uchibuchi",
+    "Ushibmehi"
+   ]
+  },
+  {
+   "name": "Shenyang",
+   "variants": [
+    "Mukden",
+    "Fengtien"
+   ]
+  },
+  {
+   "name": "Konan",
+   "variants": [
+    "Konan"
+   ]
+  },
+  {
+   "name": "Eian",
+   "variants": [
+    "Eian",
+    "Lian"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Ogimachi",
+   "variants": [
+    "Oginachi",
+    "Ogimachi",
+    "Og1mach1"
+   ]
+  },
+  {
+   "name": "Nakamatsu",
+   "variants": [
+    "Nakamatsu",
+    "Nakauatsu"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto",
+    "waamoto"
+   ]
+  },
+  {
+   "name": "Nittsu",
+   "variants": [
+    "Nittsu",
+    "Nitteu"
+   ]
+  },
+  {
+   "name": "Tarakan",
+   "variants": [
+    "Tarakan"
+   ]
+  },
+  {
+   "name": "Sumatra",
+   "variants": [
+    "Sumatra"
+   ]
+  },
+  {
+   "name": "Plaju",
+   "variants": [
+    "Pladjoe"
+   ]
+  },
+  {
+   "name": "Palembang",
+   "variants": [
+    "Palembang"
+   ]
+  },
+  {
+   "name": "Sungai Gerong",
+   "variants": [
+    "Soengi Gerong"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union",
+    "U.S.S.R."
+   ]
+  },
+  {
+   "name": "Ufa",
+   "variants": [
+    "Ufa"
+   ]
+  },
+  {
+   "name": "Kuybyshev",
+   "variants": [
+    "Kuibyshev",
+    "KUIBYSHEV",
+    "XUIBYSHEV"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Londen"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Bern",
+    "Born",
+    "BERN"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "Chung'tin",
+    "Shungiding",
+    "Cungko"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shanphai"
+   ]
+  },
+  {
+   "name": "Nantong",
+   "variants": [
+    "Nantung",
+    "Hantung"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indochina",
+    "French Indochine"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran"
+   ]
+  },
+  {
+   "name": "Abadan",
+   "variants": [
+    "Abaian"
+   ]
+  },
+  {
+   "name": "Persian Gulf",
+   "variants": [
+    "Persian Gulf Area"
+   ]
+  },
+  {
+   "name": "Bahrain",
+   "variants": [
+    "Bahrein"
+   ]
+  },
+  {
+   "name": "Saudi Arabia",
+   "variants": [
+    "Saudi Arabia",
+    "Sandi-Arabia"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Poru",
+    "Pery"
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "variants": [
+    "Lcuader",
+    "Ecuador"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Roumania"
+   ]
+  },
+  {
+   "name": "Melbourne",
+   "variants": [
+    "Melbourne"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George S. Walden",
+   "role": "Chairman of Standard-Vacuum Oil Company",
+   "variants": [
+    "George S. Walden",
+    "G. S. WALDEN",
+    "Valden"
+   ]
+  },
+  {
+   "name": "Mr. Singer",
+   "role": "Standard-Vacuum Oil Company representative",
+   "variants": [
+    "Mr. Singer"
+   ]
+  },
+  {
+   "name": "Alger Hiss",
+   "role": "State Department official; assistant to Dr. Hornbeck",
+   "variants": [
+    "Alger Hiss",
+    "Hiss"
+   ]
+  },
+  {
+   "name": "A. Z. Phillips",
+   "role": "Placed a petrolatum order",
+   "variants": [
+    "A. Z. Phillips",
+    "Phillips"
+   ]
+  },
+  {
+   "name": "Josephus Daniels",
+   "role": "Sender identified on a Mexico cross-reference",
+   "variants": [
+    "Daniels"
+   ]
+  },
+  {
+   "name": "Paul C. McGready",
+   "role": "Sender identified on a map cross-reference",
+   "variants": [
+    "MoGready.Paul C."
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department adviser",
+   "variants": [
+    "MR. HURNBECK",
+    "NURNBECK",
+    "MR HUrBECA",
+    "MR, HURNECK"
+   ]
+  },
+  {
+   "name": "Mr. Miller",
+   "role": "State Department recipient of a routing note",
+   "variants": [
+    "Mr. Miller"
+   ]
+  },
+  {
+   "name": "Mr. Lowe",
+   "role": "Socony Vacuum representative",
+   "variants": [
+    "Mr. Lowe"
+   ]
+  },
+  {
+   "name": "Mr. Fox",
+   "role": "Participant in a conversation with Mr. Lowe",
+   "variants": [
+    "Fex",
+    "Fox"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "R. ACHESON",
+    "MR. ACIESON",
+    "MR. ACLESON"
+   ]
+  },
+  {
+   "name": "W. A. Heard",
+   "role": "U.S. Navy captain and head of Foreign Intelligence Branch",
+   "variants": [
+    "W! A. Heard",
+    "W. A. HE.RD."
+   ]
+  },
+  {
+   "name": "Max W. Thornburg",
+   "role": "Compiler of Japanese oil information",
+   "variants": [
+    "Max W. Thornburg",
+    "Mr. Thornburg"
+   ]
+  },
+  {
+   "name": "T. S. Wilkinson",
+   "role": "Director of Naval Intelligence",
+   "variants": [
+    "Captain T. S. Wilkinson"
+   ]
+  },
+  {
+   "name": "Orme Wilson",
+   "role": "State Department liaison officer",
+   "variants": [
+    "Orme Wilson"
+   ]
+  },
+  {
+   "name": "Mr. Paul",
+   "role": "Acting chief of the Far Eastern Affairs Division, Economic Defense Board",
+   "variants": [
+    "Mr. Paul"
+   ]
+  },
+  {
+   "name": "Mr. Ballantine",
+   "role": "Liaison officer",
+   "variants": [
+    "Mr. Ballentin",
+    "Mr. Ballantine",
+    "Ballantine"
+   ]
+  },
+  {
+   "name": "Mr. Page",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Page"
+   ]
+  },
+  {
+   "name": "Mr. deGolia",
+   "role": "State Department official",
+   "variants": [
+    "Mr. deGolia"
+   ]
+  },
+  {
+   "name": "Mr. Kilby",
+   "role": "British Embassy War Trade Section official",
+   "variants": [
+    "Mr. Kilby"
+   ]
+  },
+  {
+   "name": "Schmidt",
+   "role": "Prepared a State Department summary",
+   "variants": [
+    "Schmidt"
+   ]
+  },
+  {
+   "name": "Somerville",
+   "role": "Sender identified on a Great Britain cross-reference",
+   "variants": [
+    "Somervi lle"
+   ]
+  },
+  {
+   "name": "C. E. Meyer",
+   "role": "Former Standard-Vacuum Oil Company manager in Japan",
+   "variants": [
+    "Mr. C. E. Meyer",
+    "Mr. Meyer",
+    "ir. lleyer",
+    "Lr. Heyer"
+   ]
+  },
+  {
+   "name": "Hartley",
+   "role": "Namesake of the Hartley Sub-Committee",
+   "variants": [
+    "Hartley"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordell Hull",
+    "Cordell Huly",
+    "Cordell tuce",
+    "Huel",
+    "Hull"
+   ]
+  },
+  {
+   "name": "Francis Maloney",
+   "role": "U.S. senator",
+   "variants": [
+    "Francis Maloney",
+    "Senator Maloney",
+    "Kan_hubor"
+   ]
+  },
+  {
+   "name": "Edward R. Stettinius Jr.",
+   "role": "Administrator, Office of Lend-Lease Administration",
+   "variants": [
+    "Mr. Stettinius",
+    "Edwerd R. Stettinius, Jr.",
+    "E. R. Stosinian, Jo."
+   ]
+  },
+  {
+   "name": "Eugene V. Rostow",
+   "role": "State Department drafter identified by initials",
+   "variants": [
+    "EvRostow"
+   ]
+  },
+  {
+   "name": "White",
+   "role": "State Department drafter identified by surname",
+   "variants": [
+    "WHITE"
+   ]
+  },
+  {
+   "name": "James M. Mead",
+   "role": "U.S. senator listed on committee stationery",
+   "variants": [
+    "JAMES M. MEAD"
+   ]
+  },
+  {
+   "name": "Prentiss M. Brown",
+   "role": "U.S. senator listed on committee stationery",
+   "variants": [
+    "PRDNTIEE M. BROWH"
+   ]
+  },
+  {
+   "name": "Monrad C. Wallgren",
+   "role": "U.S. senator listed on committee stationery",
+   "variants": [
+    "MON C. WALLGREN"
+   ]
+  },
+  {
+   "name": "W. Lee O'Daniel",
+   "role": "U.S. senator listed on committee stationery",
+   "variants": [
+    "W. LEE O'DANIEL"
+   ]
+  },
+  {
+   "name": "A. Hand James",
+   "role": "Committee clerk",
+   "variants": [
+    "A. HAND JAMES"
+   ]
+  },
+  {
+   "name": "Cecil E. Norment",
+   "role": "Assistant committee clerk",
+   "variants": [
+    "CECIL E. NORMENT"
+   ]
+  },
+  {
+   "name": "Loofbourow",
+   "role": "Sender of oil production intelligence from Bern",
+   "variants": [
+    "LOOFBORROW",
+    "Loofbourew",
+    "Loofbourow",
+    "LOOFBORROW"
+   ]
+  },
+  {
+   "name": "Rayner",
+   "role": "Board of Economic Warfare recipient",
+   "variants": [
+    "RAYIER",
+    "Rayner"
+   ]
+  },
+  {
+   "name": "Harrison",
+   "role": "Signatory of telegram from Bern",
+   "variants": [
+    "HARRISON",
+    "HARRIBON"
+   ]
+  },
+  {
+   "name": "Barry",
+   "role": "Board of Economic Warfare correspondent",
+   "variants": [
+    "BARRY"
+   ]
+  },
+  {
+   "name": "Paul Ruprecht",
+   "role": "Author of a 1938 article in Oel und Kohle",
+   "variants": [
+    "Dr. Paul Rupreoht",
+    "Dr. Paul Ruprecht"
+   ]
+  },
+  {
+   "name": "Mr. Hibi",
+   "role": "Japanese scientist associated with the reported cottonseed oil process",
+   "variants": [
+    "Mr. Hibi",
+    "Mr. libi"
+   ]
+  },
+  {
+   "name": "George Atcheson Jr.",
+   "role": "American chargé d'affaires ad interim in Chongqing",
+   "variants": [
+    "George Atcl eson, Jr.",
+    "George Atcheson, jr."
+   ]
+  },
+  {
+   "name": "Stone",
+   "role": "Board of Economic Warfare sender",
+   "variants": [
+    "STONE"
+   ]
+  },
+  {
+   "name": "Loy Henderson",
+   "role": "State Department recipient of a British Embassy letter",
+   "variants": [
+    "Mr. Loy Henderson"
+   ]
+  },
+  {
+   "name": "Carl H. Boehringer",
+   "role": "Second Secretary of Embassy; prepared tanker report",
+   "variants": [
+    "Carl H. Bochringer",
+    "Carl H. Boehringer"
+   ]
+  },
+  {
+   "name": "C. L. Gauss",
+   "role": "Approved the tanker report transmission",
+   "variants": [
+    "C. L. Gauss"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese petroleum supply",
+  "oil exports",
+  "blocked payments",
+  "aviation gasoline",
+  "refining capacity",
+  "synthetic petroleum",
+  "coal hydrogenation",
+  "oil shale",
+  "petroleum reserves",
+  "tankers",
+  "Netherlands East Indies",
+  "wartime intelligence"
+ ],
+ "subfiles": [
+  {
+   "title": "Payment arrangements for petroleum exports from the Netherlands East Indies to Japan",
+   "doc_type": "cross-reference file note",
+   "start_page": 235,
+   "end_page": 235,
+   "continues_previous": false,
+   "date": "1941-09-02",
+   "from": "State Department",
+   "to": "PA/H (Hiss)",
+   "about": "Points to a memorandum on releasing blocked Japanese balances to pay Standard-Vacuum Oil Company.",
+   "summary": "Cross-reference to a conversation with George S. Walden and Mr. Singer about $557,000 due for prior oil business.",
+   "keywords": [
+    "blocked balances",
+    "Standard-Vacuum",
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "title": "Shipment of Snow White Petrolatum to Yokohama",
+   "doc_type": "cross-reference file note",
+   "start_page": 236,
+   "end_page": 236,
+   "continues_previous": false,
+   "date": "1941-11-07",
+   "from": "Mexico (Daniels)",
+   "to": "",
+   "about": "Points to a report on A. Z. Phillips's order for petrolatum through Petroleos Mexicanos.",
+   "summary": "The order was reportedly viewed as commercial, with no suspicion of reexport.",
+   "keywords": [
+    "petrolatum",
+    "Yokohama",
+    "reexport"
+   ]
+  },
+  {
+   "title": "Map of Japanese refineries and oil storage depots",
+   "doc_type": "cross-reference file note",
+   "start_page": 237,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1941-12-08",
+   "from": "Paul C. McGready",
+   "to": "",
+   "about": "Points to a letter transmitting a map of Japanese refineries and oil storage depots.",
+   "summary": "Cross-reference to a refinery and depot location map.",
+   "keywords": [
+    "map",
+    "refineries",
+    "storage depots"
+   ]
+  },
+  {
+   "title": "Routing note on Mitsui oil payments",
+   "doc_type": "routing note",
+   "start_page": 238,
+   "end_page": 238,
+   "continues_previous": false,
+   "date": "1941-10-01",
+   "from": "E. G. M.",
+   "to": "Mr. Miller",
+   "about": "Forwards a memorandum on balances Mitsui owed General Petroleum Company.",
+   "summary": "Routes Mr. Lowe's conversation with Mr. Fox for review.",
+   "keywords": [
+    "Mitsui",
+    "General Petroleum",
+    "payments"
+   ]
+  },
+  {
+   "title": "Conversation with Mr. Lowe about Mitsui oil debts",
+   "doc_type": "memorandum for the file",
+   "start_page": 239,
+   "end_page": 239,
+   "continues_previous": false,
+   "date": "1941-10-01",
+   "from": "",
+   "to": "File",
+   "about": "Records license and remittance questions involving Mitsui and General Petroleum Company.",
+   "summary": "Mitsui sought a Tokyo remittance to pay licensed debts for earlier U.S. oil shipments; a separate $900,000 claim for oil used in Japan remained under consideration.",
+   "keywords": [
+    "Mitsui",
+    "General Petroleum",
+    "freezing regulations"
+   ]
+  },
+  {
+   "title": "Standard-Vacuum remittances from Yokohama",
+   "doc_type": "letter",
+   "start_page": 240,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1941-10-02",
+   "from": "G. S. Walden",
+   "to": "Alger Hiss",
+   "about": "Details sums due for oil imported before freezing regulations and asks about releasing remittances.",
+   "summary": "Walden describes $557,561 already remitted, further sums expected against earlier exchange contracts, and Japanese interest in licenses for future shipments.",
+   "keywords": [
+    "Standard-Vacuum",
+    "Yokohama",
+    "remittances",
+    "oil licenses"
+   ]
+  },
+  {
+   "title": "Forwarding report on the Japanese oil situation",
+   "doc_type": "memorandum",
+   "start_page": 241,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1942-01-23",
+   "from": "W. A. Heard, Office of Naval Intelligence",
+   "to": "Liaison Officer",
+   "about": "Forwards an oil situation report for the British Ministry of Economic Warfare.",
+   "summary": "Heard cautions that the report's estimates rest on incomplete information.",
+   "keywords": [
+    "naval intelligence",
+    "oil situation",
+    "economic warfare"
+   ]
+  },
+  {
+   "title": "Japanese refining capacity and synthetic petroleum manufacture",
+   "doc_type": "intelligence report",
+   "start_page": 242,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1942-01",
+   "from": "Office of Naval Intelligence",
+   "to": "Liaison Officer; British Ministry of Economic Warfare",
+   "about": "Estimates Japanese refinery capacity, aviation fuel inputs, synthetic fuel methods, and plant locations.",
+   "summary": "The report assesses crude refining, aviation gasoline base stock, tetraethyl lead, iso-octane, and lubricants. It describes coal carbonization, hydrogenation, synthesis, alcohol fuels, and Fushun oil shale. Tables list refineries, synthetic oil plants, and iso-octane capacity in Japan and its possessions; the report stresses incomplete data.",
+   "keywords": [
+    "refineries",
+    "aviation gasoline",
+    "synthetic oil",
+    "oil shale",
+    "production tables"
+   ]
+  },
+  {
+   "title": "Under Secretary liaison routing slip",
+   "doc_type": "routing slip",
+   "start_page": 252,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "",
+   "from": "Under Secretary Liaison Office",
+   "to": "",
+   "about": "Appears to route the naval intelligence material.",
+   "summary": "Brief, partly illegible routing notation.",
+   "keywords": [
+    "routing",
+    "liaison"
+   ]
+  },
+  {
+   "title": "Request for updated synthetic oil information",
+   "doc_type": "memorandum",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1941-12-18",
+   "from": "Max W. Thornburg",
+   "to": "Liaison Office",
+   "about": "Asks for naval intelligence details on Japanese synthetic and substitute oil.",
+   "summary": "Requests report 409-300 and updates for a British Ministry of Economic Warfare inquiry.",
+   "keywords": [
+    "synthetic oil",
+    "naval intelligence",
+    "British request"
+   ]
+  },
+  {
+   "title": "Request to Naval Intelligence on Japanese oil",
+   "doc_type": "memorandum",
+   "start_page": 254,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1941-12-26",
+   "from": "Orme Wilson, Liaison Officer",
+   "to": "Captain T. S. Wilkinson",
+   "about": "Seeks information on Japanese synthetic oil output, coal, and German equipment supplies.",
+   "summary": "The British Ministry of Economic Warfare wants current and projected output and obstacles to Japanese synthetic oil development.",
+   "keywords": [
+    "synthetic oil",
+    "coal",
+    "German machinery"
+   ]
+  },
+  {
+   "title": "Inquiry about Soviet estimates of Japanese synthetic petroleum",
+   "doc_type": "memorandum",
+   "start_page": 256,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1942-01",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Records discussion of asking the Soviet government for Japanese synthetic petroleum estimates.",
+   "summary": "Mr. Paul sought Soviet figures despite doubts about their reliability and likely delay. Mr. Ballantine cited a British Embassy report and naval intelligence estimate, then drafted a telegram.",
+   "keywords": [
+    "Soviet Union",
+    "synthetic petroleum",
+    "estimates"
+   ]
+  },
+  {
+   "title": "Request for Soviet estimate of Japanese synthetic petroleum",
+   "doc_type": "outgoing telegram",
+   "start_page": 258,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1942-01-30",
+   "from": "Department of State",
+   "to": "American Embassy, Kuybyshev",
+   "about": "Asks the embassy to seek a Soviet production estimate.",
+   "summary": "Requests Soviet estimates for synthetic petroleum in Japan and Japanese-controlled territory.",
+   "keywords": [
+    "Soviet estimate",
+    "synthetic petroleum"
+   ]
+  },
+  {
+   "title": "Copy of Naval Intelligence forwarding memorandum",
+   "doc_type": "memorandum copy",
+   "start_page": 259,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1942-01-23",
+   "from": "W. A. Heard, Office of Naval Intelligence",
+   "to": "State Department Liaison Officer",
+   "about": "Forwards the Japanese oil situation report.",
+   "summary": "Copy of the forwarding memorandum, noting incomplete source data.",
+   "keywords": [
+    "naval intelligence",
+    "oil situation"
+   ]
+  },
+  {
+   "title": "Copy of Japanese oil situation report",
+   "doc_type": "intelligence report copy",
+   "start_page": 260,
+   "end_page": 273,
+   "continues_previous": false,
+   "date": "1942-01",
+   "from": "Office of Naval Intelligence",
+   "to": "State Department Liaison Officer",
+   "about": "Provides another copy of the naval report on Japanese refining and synthetic oil.",
+   "summary": "This copy repeats the discussion of aviation gasoline inputs, coal based synthetic fuel, oil shale, and substitutes. It includes tables of refinery, synthetic oil, and iso-octane plant locations and estimated capacities.",
+   "keywords": [
+    "refineries",
+    "synthetic petroleum",
+    "aviation gasoline",
+    "production tables"
+   ]
+  },
+  {
+   "title": "Digest of Japanese oil situation report and appended tables",
+   "doc_type": "analytical digest",
+   "start_page": 274,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1942",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes key estimates in the naval report and reproduces its production tables.",
+   "summary": "The digest highlights refining and aviation fuel bottlenecks, possible accumulated stocks, and an estimated 8.613 million barrels of annual synthetic oil plant capacity. It notes gaps concerning natural crude production and appends refinery, synthetic oil, and iso-octane tables.",
+   "keywords": [
+    "oil situation",
+    "synthetic oil",
+    "refining capacity",
+    "tables"
+   ]
+  },
+  {
+   "title": "Japanese oil position: summary of Thornburg estimates",
+   "doc_type": "summary memorandum",
+   "start_page": 282,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1942-03-16",
+   "from": "PA/H (Hiss)",
+   "to": "",
+   "about": "Summarizes estimates of Japanese oil consumption, stocks, occupied production, refining, and tankers.",
+   "summary": "The memorandum estimates annual wartime consumption at 49.389 million barrels and reserves at 56 million barrels at the end of 1941. It argues that restored Netherlands East Indies and Borneo oil production and refineries, together with tanker transport, could support a prolonged Japanese war.",
+   "keywords": [
+    "petroleum reserves",
+    "Netherlands East Indies",
+    "Borneo",
+    "tankers"
+   ]
+  },
+  {
+   "title": "Economic Warfare reports on tankers and refineries",
+   "doc_type": "cross-reference file note",
+   "start_page": 286,
+   "end_page": 286,
+   "continues_previous": false,
+   "date": "1942-05-07",
+   "from": "Great Britain (Somerville)",
+   "to": "",
+   "about": "Points to reports on Japanese refineries and enemy-controlled tankers.",
+   "summary": "Cross-reference to Economic Warfare intelligence reports.",
+   "keywords": [
+    "tankers",
+    "refineries",
+    "economic warfare"
+   ]
+  },
+  {
+   "title": "Inquiry about C. E. Meyer's Japanese oil information",
+   "doc_type": "incoming airgram",
+   "start_page": 287,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "1942-09-01",
+   "from": "London, for the Board of Economic Warfare",
+   "to": "Secretary of State",
+   "about": "Requests results of interviews with a former Standard-Vacuum manager in Japan.",
+   "summary": "London asks whether intelligence agencies have interviewed C. E. Meyer and seeks his information for the Hartley Sub-Committee's Japanese oil review.",
+   "keywords": [
+    "C. E. Meyer",
+    "Standard-Vacuum",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "Reply to Senator Maloney on alleged Soviet oil deliveries",
+   "doc_type": "letter",
+   "start_page": 289,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1943-01-19",
+   "from": "Cordell Hull",
+   "to": "Francis Maloney",
+   "about": "Responds to a rumor that Soviet lend-lease petroleum was diverted to Japan.",
+   "summary": "Hull encloses his letter to Stettinius and says Soviet assurances have been received.",
+   "keywords": [
+    "Soviet Union",
+    "lend-lease",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Assurance to Stettinius on Soviet lend-lease shipments",
+   "doc_type": "enclosed letter copy",
+   "start_page": 290,
+   "end_page": 290,
+   "continues_previous": false,
+   "date": "1943-01-08",
+   "from": "Cordell Hull",
+   "to": "Edward R. Stettinius Jr.",
+   "about": "Addresses the allegation that Soviet petroleum shipments reached Japan.",
+   "summary": "Hull says inquiries found no reason to believe the report and raises no objection to continued Pacific route shipments.",
+   "keywords": [
+    "lend-lease",
+    "Soviet Union",
+    "Pacific route"
+   ]
+  },
+  {
+   "title": "Senator Maloney's inquiry about Soviet oil supplies to Japan",
+   "doc_type": "letter",
+   "start_page": 291,
+   "end_page": 291,
+   "continues_previous": false,
+   "date": "1942-12-30",
+   "from": "Francis Maloney",
+   "to": "Cordell Hull",
+   "about": "Asks whether Russia was supplying Japan with U.S. lend-lease petroleum products.",
+   "summary": "Maloney seeks evidence on the allegation and asks whether Soviet assurances were requested.",
+   "keywords": [
+    "Soviet Union",
+    "lend-lease",
+    "petroleum"
+   ]
+  },
+  {
+   "title": "Stettinius acknowledgment to Hull",
+   "doc_type": "letter",
+   "start_page": 292,
+   "end_page": 292,
+   "continues_previous": false,
+   "date": "1943-01",
+   "from": "Edward R. Stettinius Jr.",
+   "to": "Cordell Hull",
+   "about": "Acknowledges Hull's response concerning Senator Maloney's inquiry.",
+   "summary": "Stettinius says a reply has been sent to Maloney.",
+   "keywords": [
+    "Maloney inquiry",
+    "lend-lease"
+   ]
+  },
+  {
+   "title": "U.S. petroleum exports to Japan as shares of U.S. consumption",
+   "doc_type": "memorandum with table",
+   "start_page": 293,
+   "end_page": 294,
+   "continues_previous": false,
+   "date": "1942-09-24",
+   "from": "Adviser on International Economic Affairs",
+   "to": "",
+   "about": "Compares U.S. petroleum exports to Japan from 1931 to 1941 with U.S. consumption.",
+   "summary": "The memorandum translates export shares into days of U.S. consumption for selected years. Its table gives annual percentages for crude petroleum, gasoline, kerosene, fuel oil, and lubricating oil.",
+   "keywords": [
+    "U.S. exports",
+    "Japan",
+    "petroleum statistics"
+   ]
+  },
+  {
+   "title": "Senator Maloney thanks Hull",
+   "doc_type": "letter",
+   "start_page": 295,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1943-01-21",
+   "from": "Francis Maloney",
+   "to": "Cordell Hull",
+   "about": "Acknowledges the reply to his inquiry about alleged Soviet petroleum deliveries.",
+   "summary": "Maloney thanks Hull for answering his December inquiry.",
+   "keywords": [
+    "Soviet Union",
+    "petroleum",
+    "correspondence"
+   ]
+  },
+  {
+   "title": "Bern report on Japanese coal-to-oil plants",
+   "doc_type": "incoming telegram",
+   "start_page": 296,
+   "end_page": 297,
+   "continues_previous": false,
+   "date": "1943-03-22",
+   "from": "American Legation, Bern; Loofbourow",
+   "to": "Secretary of State; Rayner, Board of Economic Warfare",
+   "about": "Reports capacities and processes for selected Japanese and Manchurian synthetic oil plants.",
+   "summary": "The telegram lists reported Fischer and hydrogenation plants at Fushun, Ōmuta, Agochi, and Shiheigai and estimates total coal oil output at one billion liters.",
+   "keywords": [
+    "coal-to-oil",
+    "Fushun",
+    "hydrogenation"
+   ]
+  },
+  {
+   "title": "Paraphrase of Bern synthetic oil telegram",
+   "doc_type": "telegram paraphrase",
+   "start_page": 298,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1943-03-22",
+   "from": "American Legation, Bern; Loofbourow",
+   "to": "Secretary of State; Rayner, Board of Economic Warfare",
+   "about": "Paraphrases the Bern report on synthetic oil plants.",
+   "summary": "Repeats plant descriptions, capacities, and the one billion liter production estimate.",
+   "keywords": [
+    "synthetic oil",
+    "plant capacity"
+   ]
+  },
+  {
+   "title": "Corrected paraphrase of Bern synthetic oil telegram",
+   "doc_type": "corrected telegram paraphrase",
+   "start_page": 300,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1943-03-22",
+   "from": "American Legation, Bern; Loofbourow",
+   "to": "Secretary of State; Rayner, Board of Economic Warfare",
+   "about": "Corrects the paraphrase of reported Japanese and Manchurian coal-to-oil plants.",
+   "summary": "Gives corrected organization names and plant descriptions while retaining the one billion liter estimate.",
+   "keywords": [
+    "synthetic oil",
+    "coal hydrogenation",
+    "corrected copy"
+   ]
+  },
+  {
+   "title": "Challenge to Bern coal-to-oil estimate",
+   "doc_type": "outgoing telegram",
+   "start_page": 302,
+   "end_page": 302,
+   "continues_previous": false,
+   "date": "1943-04-22",
+   "from": "Barry, Board of Economic Warfare",
+   "to": "Loofbourow, American Legation, Bern",
+   "about": "Asks for the source of the one billion liter synthetic oil estimate.",
+   "summary": "Barry notes similarities to a 1938 article and questions extrapolation from five plants.",
+   "keywords": [
+    "source reliability",
+    "synthetic oil"
+   ]
+  },
+  {
+   "title": "Draft query on Bern coal-to-oil estimate",
+   "doc_type": "outgoing telegram draft",
+   "start_page": 303,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1943-04-17",
+   "from": "Barry, Board of Economic Warfare",
+   "to": "Loofbourow, American Legation, Bern",
+   "about": "Drafts a request to verify the source and total synthetic oil estimate.",
+   "summary": "Questions extrapolation from five plants to an industry of more than thirty.",
+   "keywords": [
+    "source verification",
+    "synthetic oil"
+   ]
+  },
+  {
+   "title": "Claimed gasoline production from cottonseed oil",
+   "doc_type": "embassy despatch",
+   "start_page": 304,
+   "end_page": 304,
+   "continues_previous": false,
+   "date": "1943-06-05",
+   "from": "George Atcheson Jr., American Embassy, Chungking",
+   "to": "Secretary of State",
+   "about": "Forwards a French press claim of a Japanese cottonseed oil fuel process.",
+   "summary": "The despatch relays a report that Mr. Hibi produced crude oil and gasoline from refined cottonseed oil at Nantong.",
+   "keywords": [
+    "cottonseed oil",
+    "gasoline substitute",
+    "Nantong"
+   ]
+  },
+  {
+   "title": "Copy of despatch on cottonseed oil fuel",
+   "doc_type": "embassy despatch copy",
+   "start_page": 305,
+   "end_page": 305,
+   "continues_previous": false,
+   "date": "1943-06-05",
+   "from": "George Atcheson Jr., American Embassy, Chungking",
+   "to": "Secretary of State",
+   "about": "Repeats the reported Japanese cottonseed oil fuel discovery.",
+   "summary": "Copy of the despatch conveying Mr. Hibi's claimed process.",
+   "keywords": [
+    "cottonseed oil",
+    "gasoline substitute"
+   ]
+  },
+  {
+   "title": "Request for Soviet figures on Japanese petroleum",
+   "doc_type": "outgoing telegram",
+   "start_page": 306,
+   "end_page": 306,
+   "continues_previous": false,
+   "date": "1943-06",
+   "from": "Stone, Board of Economic Warfare",
+   "to": "American Embassy, Kuybyshev",
+   "about": "Seeks detailed 1942–1943 Japanese petroleum production, refining, import, and consumption figures.",
+   "summary": "Requests figures for Sakhalin supplies, synthetic and shale oil, domestic crude, refining capacity, Netherlands East Indies production, and fuel consumption.",
+   "keywords": [
+    "petroleum statistics",
+    "Sakhalin",
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "title": "Demolition of oil fields and refineries in the Netherlands East Indies",
+   "doc_type": "cross-reference file note",
+   "start_page": 307,
+   "end_page": 307,
+   "continues_previous": false,
+   "date": "1943-09-28",
+   "from": "China (Chungking)",
+   "to": "",
+   "about": "Points to reports on demolition of oil facilities in the Netherlands East Indies and South Sumatra.",
+   "summary": "Cross-reference to two reports received from the Netherlands Embassy.",
+   "keywords": [
+    "demolition",
+    "refineries",
+    "Sumatra"
+   ]
+  },
+  {
+   "title": "British Embassy letter on Persian Gulf oil exports to Japan",
+   "doc_type": "letter",
+   "start_page": 308,
+   "end_page": 308,
+   "continues_previous": false,
+   "date": "1941-03-20",
+   "from": "British Embassy, Washington",
+   "to": "Loy Henderson",
+   "about": "Sends a statement on the Persian Gulf share of oil exports to Japan.",
+   "summary": "Transmits the requested statement and import table.",
+   "keywords": [
+    "Persian Gulf",
+    "oil exports",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Oil for Japan: Anglo-Iranian sales and import table",
+   "doc_type": "enclosed statement with table",
+   "start_page": 309,
+   "end_page": 310,
+   "continues_previous": false,
+   "date": "1941-03-19",
+   "from": "British Embassy, Washington",
+   "to": "Loy Henderson",
+   "about": "Explains Anglo-Iranian crude sales to Japan and compares Japan-Manchukuo oil imports by source.",
+   "summary": "The statement says a twelve-cargo Abadan contract had yielded only 278,000 barrels and explains the company's royalty pressures in Iran. A table lists 1937–1940 imports from the United States, Netherlands East Indies, Sakhalin, Persian Gulf, and other sources, with notes on ownership and sources.",
+   "keywords": [
+    "Anglo-Iranian",
+    "Abadan",
+    "oil imports",
+    "Persian Gulf"
+   ]
+  },
+  {
+   "title": "Report on Japan's oil transport fleet",
+   "doc_type": "embassy transmission",
+   "start_page": 311,
+   "end_page": 311,
+   "continues_previous": false,
+   "date": "1944-06-19",
+   "from": "Carl H. Boehringer, American Embassy, Chungking",
+   "to": "Department of State",
+   "about": "Transmits a Netherlands intelligence report on Japanese tanker tonnage and losses.",
+   "summary": "Boehringer sends a report covering tanker statistics through January 1944.",
+   "keywords": [
+    "tankers",
+    "oil transport",
+    "Netherlands intelligence"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 5,
+  "pages": [
+   235,
+   311
+  ],
+  "pdf": "894.6363 Mines. Mining. Concessions., Carbon. Graphite., Japan, Petroleum., October 19, 1940 - July 19, 1941 1287.pdf",
+  "seconds": 141.2,
+  "created": "2026-10-08 15:57:52",
+  "key": "japan-internal-affairs-894.6363-mines-mining-concessions-6"
+ }
+}

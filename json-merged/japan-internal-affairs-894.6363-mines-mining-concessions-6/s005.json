@@ -1,0 +1,140 @@
+{
+ "section_summary": "A secret 1944 report assesses Japan’s oil transport fleet, including tanker losses, construction and the use of cargo ships and barges. A separate 1941 memorandum compares petroleum exports to Japan with 1940 figures and lists outstanding licenses and applications for Japan and occupied China.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN'S",
+    "Japan",
+    "Japan's",
+    "Japen's"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Paoifio"
+   ]
+  },
+  {
+   "name": "Netherlands Indies",
+   "variants": [
+    "Nether-lands Indies",
+    "Indi es"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapcre"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Fearl Harbour"
+   ]
+  },
+  {
+   "name": "Melbourne",
+   "variants": [
+    "Melbourne"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Auetralia"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Occupied China"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dean Acheson",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "MR. ACHESON"
+   ]
+  },
+  {
+   "name": "Joseph C. Green",
+   "role": "Chief, Division of Controls",
+   "variants": [
+    "Joseph C. Green"
+   ]
+  }
+ ],
+ "keywords": [
+  "oil transport",
+  "Japanese tanker fleet",
+  "tanker losses",
+  "shipbuilding",
+  "dry cargo vessels",
+  "petroleum exports",
+  "export licenses",
+  "occupied China"
+ ],
+ "subfiles": [
+  {
+   "title": "Japan’s Oil Transport Fleet",
+   "doc_type": "secret report enclosure",
+   "start_page": 312,
+   "end_page": 313,
+   "continues_previous": false,
+   "date": "1944-04-15",
+   "from": "Netherlands Forces Intelligence Service, Melbourne",
+   "to": "",
+   "about": "Assessment of Japan’s wartime capacity to transport oil by tanker and substitute vessels.",
+   "summary": "The report estimates tanker losses and new construction, describes oil carriage by cargo ships and barges, and concludes that continued losses will strain Japan’s transport capacity.",
+   "keywords": [
+    "tankers",
+    "oil transport",
+    "tanker losses",
+    "shipbuilding",
+    "cargo ships",
+    "barges"
+   ]
+  },
+  {
+   "title": "Memorandum on Petroleum Exports and Export Licenses for Japan",
+   "doc_type": "memorandum",
+   "start_page": 314,
+   "end_page": 315,
+   "continues_previous": false,
+   "date": "1941-07-19",
+   "from": "Joseph C. Green, Chief, Division of Controls",
+   "to": "",
+   "about": "Petroleum shipments to Japan and pending export licenses for Japan and occupied China.",
+   "summary": "Compares first-half 1941 petroleum exports to Japan with 1940, then lists licensed but unshipped quantities and applications being held.",
+   "keywords": [
+    "petroleum exports",
+    "Japan",
+    "occupied China",
+    "export licenses",
+    "crude oil",
+    "gasoline",
+    "lubricating oil"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 5,
+  "pages": [
+   312,
+   315
+  ],
+  "pdf": "894.6363 Mines. Mining. Concessions., Carbon. Graphite., Japan, Petroleum., October 19, 1940 - July 19, 1941 1287.pdf",
+  "seconds": 28.0,
+  "created": "2026-10-08 15:58:22",
+  "key": "japan-internal-affairs-894.6363-mines-mining-concessions-6"
+ }
+}

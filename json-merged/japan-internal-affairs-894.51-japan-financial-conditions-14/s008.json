@@ -1,0 +1,781 @@
+{
+ "section_summary": "This section records the sale of securities through Japanese liquidation agencies, including detailed share-sale tables and a statement of securities still held in March 1948. A State Department memorandum questions the slow pace of sales and whether the shares might become concentrated among newly wealthy buyers. Later correspondence concerns a Swiss-held Japanese bond, a proposed cotton credit, and public questions about United States aid to Japan. The section ends with a securities-sale chart that continues beyond page 624.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japar.",
+    "Janan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Takyo",
+    "Tokio",
+    "Tokyc",
+    "Toxyo"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kyete"
+   ]
+  },
+  {
+   "name": "Takasaki",
+   "variants": [
+    "Takasaki"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON 8, D. C.",
+    "WASHINGTON, D. C.",
+    "Washington, D. C.",
+    "Washinglon, D. C."
+   ]
+  },
+  {
+   "name": "Zurich",
+   "variants": [
+    "Zurich"
+   ]
+  },
+  {
+   "name": "Basel",
+   "variants": [
+    "B a s l e"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New fork"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "American"
+   ]
+  },
+  {
+   "name": "Sodus, Michigan",
+   "variants": [
+    "Sodus, Michigan"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Michigan"
+   ]
+  },
+  {
+   "name": "Berrien County",
+   "variants": [
+    "Ber rien Co."
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "East asia"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Bast"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokksside",
+    "Hokksido",
+    "Eokkaido"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate",
+    "Imate",
+    "Ewate"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita",
+    "kita"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai"
+   ]
+  },
+  {
+   "name": "Tohoku",
+   "variants": [
+    "Tohoku",
+    "Toneku",
+    "Toheku"
+   ]
+  },
+  {
+   "name": "Hokuriku",
+   "variants": [
+    "Hokuriku",
+    "Hokurikm",
+    "Hokuriju"
+   ]
+  },
+  {
+   "name": "Kanto",
+   "variants": [
+    "Kanto",
+    "Kento",
+    "hanto"
+   ]
+  },
+  {
+   "name": "Chubu",
+   "variants": [
+    "Chubu",
+    "Chutu",
+    "Chaou"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kansai",
+    "Kansei",
+    "Kaneal"
+   ]
+  },
+  {
+   "name": "Chugoku",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Kyutha"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osake",
+    "Ceaka",
+    "Csake",
+    "Oseka"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata",
+    "Miigata",
+    "igata"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate",
+    "Hakodato",
+    "Rakodate"
+   ]
+  },
+  {
+   "name": "Sado",
+   "variants": [
+    "Sado"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara",
+    "Nare"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamaguehi"
+   ]
+  },
+  {
+   "name": "Hachioji",
+   "variants": [
+    "Hashioji"
+   ]
+  },
+  {
+   "name": "Ashibetsu",
+   "variants": [
+    "Ashibetsu"
+   ]
+  },
+  {
+   "name": "Kitami",
+   "variants": [
+    "Kitami"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Tomakomai",
+   "variants": [
+    "Tomakomai"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka",
+    "Shisuoka",
+    "Shuzuka"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki"
+   ]
+  },
+  {
+   "name": "Chichibu",
+   "variants": [
+    "Chichibu",
+    "Chiohibu",
+    "Chichib."
+   ]
+  },
+  {
+   "name": "Enoshima",
+   "variants": [
+    "Enoshima",
+    "Enoshim"
+   ]
+  },
+  {
+   "name": "Sagami",
+   "variants": [
+    "Sagami"
+   ]
+  },
+  {
+   "name": "Enshu",
+   "variants": [
+    "Enshu"
+   ]
+  },
+  {
+   "name": "Iyo",
+   "variants": [
+    "Iyo"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "variants": [
+    "Sakai"
+   ]
+  },
+  {
+   "name": "Towada",
+   "variants": [
+    "Towada"
+   ]
+  },
+  {
+   "name": "Kurihara",
+   "variants": [
+    "Kurihara"
+   ]
+  },
+  {
+   "name": "Edogawa",
+   "variants": [
+    "Edogawa"
+   ]
+  },
+  {
+   "name": "Marunouchi",
+   "variants": [
+    "Marunouchi"
+   ]
+  },
+  {
+   "name": "Tsukishima",
+   "variants": [
+    "Tsukishima",
+    "Tsukishina"
+   ]
+  },
+  {
+   "name": "Toyohira",
+   "variants": [
+    "Toyohira"
+   ]
+  },
+  {
+   "name": "Ibigawa",
+   "variants": [
+    "Ibikawa",
+    "Ibigawa"
+   ]
+  },
+  {
+   "name": "Iwaki",
+   "variants": [
+    "Iwaki"
+   ]
+  },
+  {
+   "name": "Fuji",
+   "variants": [
+    "Fuji",
+    "Puji"
+   ]
+  },
+  {
+   "name": "Kizugawa",
+   "variants": [
+    "Kizukawa"
+   ]
+  },
+  {
+   "name": "Joto",
+   "variants": [
+    "Joto"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific Ocean"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egyptian"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George C. Marshall",
+   "role": "Secretary of State",
+   "variants": [
+    "George C. Marshall",
+    "Mr. Marshall"
+   ]
+  },
+  {
+   "name": "William H. Draper Jr.",
+   "role": "Under Secretary of the Army",
+   "variants": [
+    "William H. Draper Jr.",
+    "Wreeian H. Ahraper"
+   ]
+  },
+  {
+   "name": "M. S. Szymczak",
+   "role": "Governor of the Federal Reserve Board",
+   "variants": [
+    "Governor Szymczak"
+   ]
+  },
+  {
+   "name": "Southard",
+   "role": "Treasury Department official",
+   "variants": [
+    "Mr. Southard"
+   ]
+  },
+  {
+   "name": "Bane",
+   "role": "Author of the despatch on securities liquidation",
+   "variants": [
+    "Mr. Bane",
+    "Mr. Bare"
+   ]
+  },
+  {
+   "name": "Welch",
+   "role": "Chief of SCAP's Anti-Trust and Cartels Division",
+   "variants": [
+    "Mr. Welch"
+   ]
+  },
+  {
+   "name": "Green",
+   "role": "State Department memorandum author",
+   "variants": [
+    "Mr. Green",
+    "MGreen"
+   ]
+  },
+  {
+   "name": "Arthur H. Vandenberg",
+   "role": "United States senator",
+   "variants": [
+    "Senator Vandenberg",
+    "Arthur H. Vandenberg"
+   ]
+  },
+  {
+   "name": "Mrs. Jedd King",
+   "role": "Letter writer from Sodus, Michigan",
+   "variants": [
+    "Ars. Jedd King",
+    "Mrs. Jedd King",
+    "trs. King",
+    "Mrs. King",
+    "Mrs. Kings",
+    "Mrs. fing"
+   ]
+  },
+  {
+   "name": "Charles E. Bohlen",
+   "role": "State Department counselor",
+   "variants": [
+    "Charles E. Bohlen"
+   ]
+  },
+  {
+   "name": "G. Strong",
+   "role": "State Department drafter, identified by initials",
+   "variants": [
+    "GStrong"
+   ]
+  },
+  {
+   "name": "Chiang Kai-shek",
+   "role": "Chinese political leader mentioned by Mrs. King",
+   "variants": [
+    "Changshi Sheck"
+   ]
+  }
+ ],
+ "keywords": [
+  "securities liquidation",
+  "Japanese holding companies",
+  "share sales",
+  "public tender",
+  "zaibatsu",
+  "economic deconcentration",
+  "Swiss-held bonds",
+  "Japanese cotton credit",
+  "occupation aid",
+  "SCAP"
+ ],
+ "subfiles": [
+  {
+   "title": "Share offerings to employees and local residents",
+   "doc_type": "enclosure table",
+   "start_page": 545,
+   "end_page": 545,
+   "continues_previous": true,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "A continuing table lists shares offered to employees and local residents.",
+   "summary": "Final table entries record offerings in Tokyo, Kyoto and Takasaki.",
+   "keywords": [
+    "share offerings",
+    "employees",
+    "local residents"
+   ]
+  },
+  {
+   "title": "Enclosure No. 2: List of stocks disposed of up to February 21, 1948",
+   "doc_type": "statistical enclosure",
+   "start_page": 546,
+   "end_page": 568,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "The enclosure tabulates shares sold by securities liquidation agencies and the methods used.",
+   "summary": "Summary tables give shares, face values and proceeds for sales by S.C.L.C., C.I.L.C. and H.C.L.C. Detailed lists identify issues sold in 1947 and early 1948, with offering dates, buyers, shares sold and proceeds. The enclosure also lists C.I.L.C. sales before S.C.L.C. was established and H.C.L.C. sales before and after its establishment.",
+   "keywords": [
+    "S.C.L.C.",
+    "C.I.L.C.",
+    "H.C.L.C.",
+    "stock sales",
+    "public tender",
+    "employees",
+    "local residents"
+   ]
+  },
+  {
+   "title": "Enclosure No. 3: Securities held by constituent agencies",
+   "doc_type": "statistical enclosure",
+   "start_page": 569,
+   "end_page": 569,
+   "continues_previous": false,
+   "date": "1948-04-02",
+   "from": "Office of the Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "A table reports securities still held by liquidation agencies as of March 20, 1948.",
+   "summary": "Lists agency holdings by security type.",
+   "keywords": [
+    "securities holdings",
+    "liquidation agencies",
+    "stocks",
+    "bonds"
+   ]
+  },
+  {
+   "title": "Swiss Legation memorandum transmitting a bond declaration",
+   "doc_type": "memorandum",
+   "start_page": 570,
+   "end_page": 570,
+   "continues_previous": false,
+   "date": "1948-04-09",
+   "from": "Legation of Switzerland",
+   "to": "Department of State",
+   "about": "The Legation forwards an additional Swiss bank declaration concerning Japanese bonds.",
+   "summary": "Requests transmission of a February 13 declaration from Banque Cantonale de Zurich.",
+   "keywords": [
+    "Swiss bank",
+    "Japanese bonds",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Banque Cantonale de Zurich declaration of Oriental Development bonds",
+   "doc_type": "letter",
+   "start_page": 571,
+   "end_page": 571,
+   "continues_previous": false,
+   "date": "1948-02-13",
+   "from": "Banque Cantonale de Zurich",
+   "to": "Swiss Bankers Association, Service des Dépôts",
+   "about": "The bank reports Japanese dollar bonds owned by a Swiss national and held in New York.",
+   "summary": "Reports $25,000 in Oriental Development bonds held at Chase National Bank and explains the late declaration.",
+   "keywords": [
+    "Oriental Development",
+    "dollar bonds",
+    "Swiss ownership",
+    "Chase National Bank"
+   ]
+  },
+  {
+   "title": "Proposed Japanese cotton credit",
+   "doc_type": "letter",
+   "start_page": 572,
+   "end_page": 572,
+   "continues_previous": false,
+   "date": "1948-04-21",
+   "from": "William H. Draper Jr.",
+   "to": "George C. Marshall",
+   "about": "Draper reports terms negotiated with commercial banks for a Japanese cotton credit.",
+   "summary": "Describes a 3 percent interest rate, a possible reduction if a gold fund reaches the United States, and a capped contingency for bank expenses.",
+   "keywords": [
+    "cotton credit",
+    "commercial banks",
+    "interest rate",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Illegible routing form",
+   "doc_type": "routing form",
+   "start_page": 573,
+   "end_page": 573,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A largely illegible standard form appears between the cotton-credit letter and the following memorandum.",
+   "summary": "Routing details cannot be read reliably.",
+   "keywords": [
+    "routing form"
+   ]
+  },
+  {
+   "title": "Memorandum on the sale of securities through liquidation agencies",
+   "doc_type": "memorandum",
+   "start_page": 574,
+   "end_page": 575,
+   "continues_previous": false,
+   "date": "1948-04-22",
+   "from": "Mr. Green",
+   "to": "NA file",
+   "about": "Green assesses a despatch on slow securities sales and the risk of concentrated ownership.",
+   "summary": "Green reports that roughly 4 percent of liquidated shares had been resold by March 1948 and that no bonds or debentures had been sold. He considers Bane's concern that wealthy postwar buyers could acquire the shares, while noting Welch's expectation of faster sales and legal restraints on excessive concentration.",
+   "keywords": [
+    "deconcentration",
+    "zaibatsu",
+    "new yen",
+    "public tender",
+    "anti-trust"
+   ]
+  },
+  {
+   "title": "Senate referral of constituent's letter",
+   "doc_type": "referral",
+   "start_page": 576,
+   "end_page": 576,
+   "continues_previous": false,
+   "date": "1948-05-04",
+   "from": "United States Senate",
+   "to": "Department of State",
+   "about": "The Senate requests a reply about aid to Japan.",
+   "summary": "Refers the attached constituent letter for a response.",
+   "keywords": [
+    "aid to Japan",
+    "congressional correspondence"
+   ]
+  },
+  {
+   "title": "Mrs. Jedd King's letter to Senator Vandenberg",
+   "doc_type": "letter",
+   "start_page": 577,
+   "end_page": 577,
+   "continues_previous": false,
+   "date": "1948-04-29",
+   "from": "Mrs. Jedd King",
+   "to": "Senator Vandenberg",
+   "about": "King asks why the United States is giving money to Japan and raises other foreign-policy objections.",
+   "summary": "Questions aid to Japan, favors a repayable textile loan, and comments on China, military training and immigration.",
+   "keywords": [
+    "aid to Japan",
+    "textiles",
+    "cotton loan",
+    "public opinion"
+   ]
+  },
+  {
+   "title": "State Department reply to Senator Vandenberg",
+   "doc_type": "letter",
+   "start_page": 578,
+   "end_page": 579,
+   "continues_previous": false,
+   "date": "1948-05",
+   "from": "Charles E. Bohlen, for the Secretary of State",
+   "to": "Arthur H. Vandenberg",
+   "about": "The Department supplies language answering Mrs. King's question about aid to Japan.",
+   "summary": "Explains occupation expenditures as necessary to prevent disease and unrest and support democratization. It also argues that raw materials such as cotton could revive Japanese exports and eventually reduce reliance on United States aid.",
+   "keywords": [
+    "occupation aid",
+    "economic recovery",
+    "raw cotton",
+    "Japanese exports"
+   ]
+  },
+  {
+   "title": "Securities sold by Closed Institutions Liquidation Commission, May 1946–July 1947",
+   "doc_type": "statistical chart",
+   "start_page": 580,
+   "end_page": 624,
+   "continues_previous": false,
+   "date": "",
+   "from": "Closed Institutions Liquidation Commission",
+   "to": "",
+   "about": "A continuing chart lists securities offered and sold from May 28, 1946, through July 1, 1947.",
+   "summary": "The chart records individual share issues, offering dates and methods, numbers of buyers, shares sold or unsold, and sale proceeds. Its columns alternate across facing pages. The chart continues beyond page 624.",
+   "keywords": [
+    "C.I.L.C.",
+    "securities sales",
+    "public tender",
+    "negotiated sale",
+    "share proceeds"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 8,
+  "sections": 10,
+  "pages": [
+   545,
+   624
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., January 2, 1945 - November 22, 1948 1675.pdf",
+  "seconds": 47.9,
+  "created": "2026-10-08 23:54:53",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-14"
+ }
+}

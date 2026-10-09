@@ -1,0 +1,1363 @@
+{
+ "section_summary": "This section follows Far Eastern Commission proposals on patent, utility model, and design rights in occupied Japan, including Soviet amendments and United States voting instructions. It also records questions from American businesses, efforts to restore foreign patent rights and royalties, and proposals to let Japanese inventors seek patents abroad. The final pages address the meaning of “bona fide” third-party use and concerns about copying and compulsory licensing.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Janan",
+    "Jaßan",
+    "JAPAH",
+    "Tokyo's"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Toky o",
+    "Tokyc",
+    "TOXTO"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "U. S.",
+    "USA"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "WASHINGTON 25, D. C.",
+    "Wash DC",
+    "WASHTNGON"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK 6, N. Y.",
+    "New York'6, New York",
+    "New York 6, New York"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "German Affairs"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "U. K.",
+    "UK",
+    "United Kingdom",
+    "England"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "USSR",
+    "U.S.S.R.",
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "Indic",
+    "India"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philinpines"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australie",
+    "Australia"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealend",
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "Frence",
+    "France"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlends",
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italian",
+    "Italy"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Basel",
+   "variants": [
+    "Basle"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kita Ward, Osaka",
+   "variants": [
+    "Kitaku"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Denmark",
+    "Danish"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austria"
+   ]
+  },
+  {
+   "name": "Vienna",
+   "variants": [
+    "VIENNA"
+   ]
+  },
+  {
+   "name": "Brazil",
+   "variants": [
+    "Brazil",
+    "Brazilian"
+   ]
+  },
+  {
+   "name": "Rio de Janeiro",
+   "variants": [
+    "Rio de Janeiro"
+   ]
+  },
+  {
+   "name": "Bulgaria",
+   "variants": [
+    "Bulgaria"
+   ]
+  },
+  {
+   "name": "Sofia",
+   "variants": [
+    "SoFIA"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba",
+    "Cubz"
+   ]
+  },
+  {
+   "name": "Czechoslovakia",
+   "variants": [
+    "Czechoslovakia",
+    "CZechoSlovakia"
+   ]
+  },
+  {
+   "name": "Dominican Republic",
+   "variants": [
+    "Dominican Republic"
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "Finland",
+    "FinYand"
+   ]
+  },
+  {
+   "name": "Helsinki",
+   "variants": [
+    "HELSINKI"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Athens",
+   "variants": [
+    "ATHENS"
+   ]
+  },
+  {
+   "name": "Hungary",
+   "variants": [
+    "Hungary"
+   ]
+  },
+  {
+   "name": "Budapest",
+   "variants": [
+    "BUDAPEST"
+   ]
+  },
+  {
+   "name": "Ireland",
+   "variants": [
+    "Irish Free State"
+   ]
+  },
+  {
+   "name": "Dublin",
+   "variants": [
+    "DUBLIN"
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "variants": [
+    "Lebanon"
+   ]
+  },
+  {
+   "name": "Beirut",
+   "variants": [
+    "BEIRUT"
+   ]
+  },
+  {
+   "name": "Luxembourg",
+   "variants": [
+    "Luxembourg"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland",
+    "PolanA"
+   ]
+  },
+  {
+   "name": "Warsaw",
+   "variants": [
+    "WARSAN"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania"
+   ]
+  },
+  {
+   "name": "Bucharest",
+   "variants": [
+    "BUCHAREST"
+   ]
+  },
+  {
+   "name": "Syria",
+   "variants": [
+    "Syria"
+   ]
+  },
+  {
+   "name": "Damascus",
+   "variants": [
+    "DAMAsCUS"
+   ]
+  },
+  {
+   "name": "Tangier",
+   "variants": [
+    "Tangiers",
+    "Tangier",
+    "Tungier",
+    "Teugloc"
+   ]
+  },
+  {
+   "name": "Tangier International Zone",
+   "variants": [
+    "Interrationai Zone of Tangior"
+   ]
+  },
+  {
+   "name": "Morocco",
+   "variants": [
+    "Morocco",
+    "Moroccan"
+   ]
+  },
+  {
+   "name": "French Morocco",
+   "variants": [
+    "Franeh Zone"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "ANkARa"
+   ]
+  },
+  {
+   "name": "Yugoslavia",
+   "variants": [
+    "Yugoslavia",
+    "Yuggslavia"
+   ]
+  },
+  {
+   "name": "Belgrade",
+   "variants": [
+    "BELGRADE"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgium"
+   ]
+  },
+  {
+   "name": "Tunisia",
+   "variants": [
+    "anisia"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "rway"
+   ]
+  },
+  {
+   "name": "Portugal",
+   "variants": [
+    "Portugal"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Nelson T. Johnson",
+   "role": "Secretary General, Far Eastern Commission",
+   "variants": [
+    "NELSON T. JOHNSON"
+   ]
+  },
+  {
+   "name": "Rufus B. Smith",
+   "role": "Department of State official",
+   "variants": [
+    "Mr. Rufus B. Smith",
+    "RBSmith",
+    "Smith"
+   ]
+  },
+  {
+   "name": "Charles E. Saltzman",
+   "role": "Assistant Secretary of State for Occupied Areas",
+   "variants": [
+    "Mr. Charles E. Saltzman",
+    "Charles E. Saltzman",
+    "Mr. Saltzman",
+    "Charles E. Saltsman",
+    "Charles t. Stitsman"
+   ]
+  },
+  {
+   "name": "Frank McCoy",
+   "role": "United States member of the Far Eastern Commission; general",
+   "variants": [
+    "Gen. McCoy",
+    "Mr. Frank McCoy",
+    "General McCoy"
+   ]
+  },
+  {
+   "name": "Charles Virtulich",
+   "role": "Assistant Secretary, as printed in the OCR",
+   "variants": [
+    "Charles Virtulich"
+   ]
+  },
+  {
+   "name": "Robert F. Loree",
+   "role": "Chairman, National Foreign Trade Council",
+   "variants": [
+    "Robert F. Loree",
+    "Mr. Loree"
+   ]
+  },
+  {
+   "name": "E. L. Behr Jr.",
+   "role": "Vice President, National Foreign Trade Council",
+   "variants": [
+    "E. L. Behr, Jr.",
+    "Mr. Behr",
+    "E. L. Behr, Jr.,"
+   ]
+  },
+  {
+   "name": "C. V. Hulick",
+   "role": "Executive Assistant to the Assistant Secretary for Occupied Areas",
+   "variants": [
+    "C. V. Hulick",
+    "MR. HULICK",
+    "Mr. Hulick"
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "W.J.S."
+   ]
+  },
+  {
+   "name": "A. O. Keller",
+   "role": "Acting Director, Nichizui Trading Co.",
+   "variants": [
+    "A. O. Keller"
+   ]
+  },
+  {
+   "name": "Edwin H. Armstrong",
+   "role": "American patent owner",
+   "variants": [
+    "Edwin H. Armstrong"
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel and Adjutant General",
+   "variants": [
+    "R. M. LEVY",
+    "R.M. LEVY"
+   ]
+  },
+  {
+   "name": "W. F. Marquat",
+   "role": "Major General; Chief, Economic and Scientific Section",
+   "variants": [
+    "W. F. MARQUAT",
+    "W.F. MARQUAT"
+   ]
+  },
+  {
+   "name": "W. Walton Butterworth",
+   "role": "Director for Far Eastern Affairs",
+   "variants": [
+    "W. Walton Butterworth"
+   ]
+  },
+  {
+   "name": "Max Bishop",
+   "role": "Chief, Division of Northeast Asian Affairs",
+   "variants": [
+    "Mex . Bishop",
+    "MWB1shop"
+   ]
+  },
+  {
+   "name": "G. P. Lynch",
+   "role": "Colonel; Executive, Civil Affairs Division",
+   "variants": [
+    "G. P. LYNCH",
+    "Col. Lynch"
+   ]
+  },
+  {
+   "name": "John W. Auchincloss",
+   "role": "Office of the Assistant Secretary of State for Occupied Areas",
+   "variants": [
+    "John W. Auchincloss",
+    "JWAuchincloss"
+   ]
+  },
+  {
+   "name": "Roger C. Dixon",
+   "role": "International Resources Division official",
+   "variants": [
+    "Mr. Roger C. Dixon",
+    "RCDixon"
+   ]
+  },
+  {
+   "name": "Thresher",
+   "role": "Official consulted on patent proposals",
+   "variants": [
+    "Thresher"
+   ]
+  },
+  {
+   "name": "Murfin",
+   "role": "Diplomatic Section contact",
+   "variants": [
+    "Mr. Murfin",
+    "THMurfin"
+   ]
+  },
+  {
+   "name": "Plitt",
+   "role": "American Legation sender identified by surname",
+   "variants": [
+    "PLITT"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese patent policy",
+  "Far Eastern Commission",
+  "Allied patent restoration",
+  "utility models",
+  "registered designs",
+  "priority rights",
+  "trade marks",
+  "patent royalties",
+  "DDT",
+  "licensing",
+  "foreign patent applications",
+  "bona fide third-party use"
+ ],
+ "subfiles": [
+  {
+   "title": "Minutes of Committee No. 1, 170th meeting",
+   "doc_type": "meeting minutes fragment",
+   "start_page": 55,
+   "end_page": 55,
+   "continues_previous": true,
+   "date": "1948-09-24",
+   "from": "Far Eastern Commission Committee No. 1",
+   "to": "",
+   "about": "Members discuss deferring a reparations paper and referring Japanese patent policy to a subcommittee.",
+   "summary": "The committee postpones the reparations item for one month and discusses patent policy.",
+   "keywords": [
+    "committee minutes",
+    "reparations",
+    "patents"
+   ]
+  },
+  {
+   "title": "FEC-284/10: Policy Toward Patents, Utility Models, and Designs in Japan",
+   "doc_type": "policy proposal with covering note",
+   "start_page": 56,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1948-12-14",
+   "from": "Nelson T. Johnson, Secretary General",
+   "to": "Far Eastern Commission",
+   "about": "The Steering Committee forwards a proposed occupation policy on Japanese patents, utility models, and designs.",
+   "summary": "The proposal preserves ordinary patent rights subject to occupation needs, ends secret patents, and provides restoration, extension, and royalty choices for Allied owners. It also establishes priority rights for wartime foreign filings and applies relevant provisions to utility models and designs.",
+   "keywords": [
+    "FEC-284/10",
+    "patent restoration",
+    "priority rights",
+    "secret patents"
+   ]
+  },
+  {
+   "title": "FEC-284/11: Proposed Soviet Amendments",
+   "doc_type": "amendments with covering note",
+   "start_page": 60,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1948-12-17",
+   "from": "Nelson T. Johnson, Secretary General",
+   "to": "Far Eastern Commission",
+   "about": "The Soviet representative proposes replacing the Allied patent restoration paragraph and deleting the priority-rights paragraph.",
+   "summary": "The amendments would revise paragraph 4 and remove paragraph 5 of FEC-284/10.",
+   "keywords": [
+    "Soviet amendments",
+    "FEC-284/11",
+    "priority rights"
+   ]
+  },
+  {
+   "title": "Airgram A-2161 on the British reference to German patents",
+   "doc_type": "outgoing airgram",
+   "start_page": 62,
+   "end_page": 62,
+   "continues_previous": false,
+   "date": "1948-11-22",
+   "from": "Department of State",
+   "to": "United States Political Adviser, Tokyo",
+   "about": "The Department clarifies that a British committee member cited German patents only to hasten Japanese patent discussions.",
+   "summary": "No useful recent German patent decision was known to the Department.",
+   "keywords": [
+    "German patents",
+    "FEC",
+    "airgram"
+   ]
+  },
+  {
+   "title": "Japanese Patent Papers, FEC 284/10 and 311/2",
+   "doc_type": "memorandum",
+   "start_page": 63,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1948-12-21",
+   "from": "Department of State official",
+   "to": "Rufus B. Smith",
+   "about": "A Department official recommends wording changes to answer Soviet objections and discusses Chinese objections to FEC-311/2.",
+   "summary": "The writer suggests replacing the convention-membership phrase in paragraph 5 with “at war with Japan.” The memorandum favors keeping the existing British draft of FEC-311/2 while awaiting the Soviet position.",
+   "keywords": [
+    "FEC-284/10",
+    "FEC-311/2",
+    "Soviet objection",
+    "Chinese objection"
+   ]
+  },
+  {
+   "title": "Japanese Patent Policy Proposals, FEC 284/10 and 311/2",
+   "doc_type": "memorandum",
+   "start_page": 65,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1948-12-29",
+   "from": "Charles E. Saltzman",
+   "to": "General McCoy",
+   "about": "Saltzman proposes compromise wording on priority rights and advises abstention on a possible Chinese amendment.",
+   "summary": "Instructions address Soviet objections to FEC-284/10 and Chinese objections to FEC-311/2.",
+   "keywords": [
+    "FEC-284/10",
+    "FEC-311/2",
+    "voting instructions"
+   ]
+  },
+  {
+   "title": "Instruction on Soviet amendments to Japanese patent policy",
+   "doc_type": "memorandum",
+   "start_page": 66,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "1949-01-07",
+   "from": "Assistant Secretary of State",
+   "to": "United States member, Far Eastern Commission",
+   "about": "The United States member is told to oppose one Soviet amendment and propose narrower wording instead of deleting priority rights.",
+   "summary": "Oppose the rewrite of paragraph 4 and substitute “at war with Japan” in paragraph 5.",
+   "keywords": [
+    "Soviet amendments",
+    "priority rights"
+   ]
+  },
+  {
+   "title": "Letter on National Foreign Trade Council patent recommendations",
+   "doc_type": "letter",
+   "start_page": 67,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1948-12-28",
+   "from": "Robert F. Loree",
+   "to": "Charles E. Saltzman",
+   "about": "Loree asks that council recommendations reach SCAP and seeks confirmation that SCAP can revise Japanese patent law unilaterally.",
+   "summary": "The council recounts its contacts with SCAP and presses for early patent-law revision.",
+   "keywords": [
+    "National Foreign Trade Council",
+    "SCAP",
+    "patent law"
+   ]
+  },
+  {
+   "title": "Reply to Robert F. Loree on Japanese patents",
+   "doc_type": "letter",
+   "start_page": 69,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1949-02",
+   "from": "Charles E. Saltzman",
+   "to": "Robert F. Loree",
+   "about": "Saltzman says SCAP needs a Washington directive and promises to forward the council's memoranda.",
+   "summary": "The reply rejects Loree's analogy to action under an existing FEC directive.",
+   "keywords": [
+    "SCAP authority",
+    "FEC directive"
+   ]
+  },
+  {
+   "title": "Transmission of National Foreign Trade Council documents to SCAP",
+   "doc_type": "memorandum",
+   "start_page": 70,
+   "end_page": 70,
+   "continues_previous": false,
+   "date": "1949-01-17",
+   "from": "C. V. Hulick",
+   "to": "Department of the Army, Civil Affairs Division",
+   "about": "Hulick asks Army to forward private patent recommendations while explaining State's reservations.",
+   "summary": "State regards Japanese patent law as basically sound and does not endorse every proposed change.",
+   "keywords": [
+    "National Foreign Trade Council",
+    "Army",
+    "patent law"
+   ]
+  },
+  {
+   "title": "Transmittal of letters from the Japanese Board of Patents",
+   "doc_type": "despatch",
+   "start_page": 71,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1949-01",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The mission forwards Japanese patent-registration notices intended for patent offices abroad.",
+   "summary": "Twenty letters explain procedures for foreign applicants and request exchanges of patent publications.",
+   "keywords": [
+    "Japanese Board of Patents",
+    "foreign patent offices"
+   ]
+  },
+  {
+   "title": "Instruction to transmit Japanese patent notice to Brazil",
+   "doc_type": "instruction circular",
+   "start_page": 72,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1949-02-01",
+   "from": "Secretary of State",
+   "to": "American Mission, Rio de Janeiro",
+   "about": "The mission is asked to pass a Japanese patent-registration letter to Brazil's patent office.",
+   "summary": "The page lists similar instructions sent to other posts.",
+   "keywords": [
+    "Brazil",
+    "patent offices",
+    "transmittal"
+   ]
+  },
+  {
+   "title": "Letter enclosing questions on Japanese patents and trademarks",
+   "doc_type": "letter",
+   "start_page": 73,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1949-01-04",
+   "from": "E. L. Behr Jr.",
+   "to": "Charles E. Saltzman",
+   "about": "The National Foreign Trade Council submits questions developed by its industrial-property committee.",
+   "summary": "Behr requests State Department answers to the attached memorandum.",
+   "keywords": [
+    "National Foreign Trade Council",
+    "patents",
+    "trade marks"
+   ]
+  },
+  {
+   "title": "NFTC Memorandum M-1219: Patents and Trademarks—Japan",
+   "doc_type": "question memorandum",
+   "start_page": 74,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1948-12-30",
+   "from": "National Foreign Trade Council",
+   "to": "Department of State",
+   "about": "Fourteen questions ask about Japanese patent law, filing, licensing, wartime rights, fees, and possible reforms.",
+   "summary": "The memorandum seeks practical rules for American patent and trademark owners in occupied Japan.",
+   "keywords": [
+    "filing procedure",
+    "licensing",
+    "wartime rights",
+    "patent law"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Behr's questions",
+   "doc_type": "letter",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1949-01-19",
+   "from": "Charles E. Saltzman",
+   "to": "E. L. Behr Jr.",
+   "about": "Saltzman acknowledges the council's patent questions and says State is consulting Army.",
+   "summary": "Answers will follow when information is obtained.",
+   "keywords": [
+    "patent questions",
+    "Army consultation"
+   ]
+  },
+  {
+   "title": "Reply to Behr on Japanese patent and trademark questions",
+   "doc_type": "letter draft",
+   "start_page": 77,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1949-04",
+   "from": "Max Bishop",
+   "to": "E. L. Behr Jr.",
+   "about": "State answers the council's questions using Japanese law, press releases, and SCAP business rules.",
+   "summary": "The reply identifies the governing Japanese patent law and amendments, confirms novelty examination, and describes applications for licensing permission. Wartime trademark restoration remains under review, and major patent-law changes are not planned.",
+   "keywords": [
+    "Japanese patent law",
+    "novelty examination",
+    "licensing",
+    "trade marks"
+   ]
+  },
+  {
+   "title": "Alternative closing page of reply to Behr",
+   "doc_type": "revised letter draft",
+   "start_page": 79,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1949-04",
+   "from": "W. Walton Butterworth",
+   "to": "E. L. Behr Jr.",
+   "about": "A revised page repeats answers on patent examination, licensing, trademarks, and patent-law reform.",
+   "summary": "This variant carries Butterworth's signature and revised licensing wording.",
+   "keywords": [
+    "draft revision",
+    "licensing",
+    "patent law"
+   ]
+  },
+  {
+   "title": "Collection of Royalties by Foreign Owners of Japanese Patents",
+   "doc_type": "despatch",
+   "start_page": 80,
+   "end_page": 81,
+   "continues_previous": false,
+   "date": "1949-01-07",
+   "from": "W. J. Sebald",
+   "to": "Secretary of State",
+   "about": "Sebald reports the Swiss request for Geigy DDT royalties and urges consideration of foreign patent licensing.",
+   "summary": "The mission forwards correspondence and cites an earlier radio-patent royalty arrangement. It argues that continuing Japanese use of foreign patents calls for a means to protect owners and suggests discussions with Army about license agreements.",
+   "keywords": [
+    "Geigy",
+    "DDT",
+    "royalties",
+    "licensing"
+   ]
+  },
+  {
+   "title": "Swiss mission note on Geigy DDT royalties",
+   "doc_type": "diplomatic note",
+   "start_page": 82,
+   "end_page": 82,
+   "continues_previous": false,
+   "date": "1948-12-18",
+   "from": "Swiss Diplomatic Mission",
+   "to": "SCAP Diplomatic Section",
+   "about": "The Swiss mission submits Nichizui's application to hold Geigy patent royalties in a restricted account.",
+   "summary": "It cites a similar arrangement for American radio patents.",
+   "keywords": [
+    "Swiss mission",
+    "Geigy",
+    "DDT royalties"
+   ]
+  },
+  {
+   "title": "Nichizui application to collect Geigy royalties",
+   "doc_type": "application",
+   "start_page": 83,
+   "end_page": 85,
+   "continues_previous": false,
+   "date": "1948-11-27",
+   "from": "Nichizui Trading Co., signed by A. O. Keller",
+   "to": "SCAP General Headquarters",
+   "about": "Nichizui seeks permission to collect royalties from Japanese DDT manufacturers for Geigy's patent.",
+   "summary": "The application describes Geigy's Japanese patent, identifies manufacturers, and calculates accrued royalties for 1947–1948. Nichizui proposes a restricted account supervised by Japan's Ministry of Finance for accrued and future payments.",
+   "keywords": [
+    "Nichizui",
+    "Geigy",
+    "DDT",
+    "restricted account"
+   ]
+  },
+  {
+   "title": "Check sheet on Swiss royalty request",
+   "doc_type": "headquarters check sheet",
+   "start_page": 86,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1949-01-06",
+   "from": "SCAP Diplomatic Section",
+   "to": "Civil Property Custodian and Economic and Scientific Section",
+   "about": "The Diplomatic Section recommends allowing Nichizui to collect Geigy royalties in a restricted account.",
+   "summary": "The check sheet compares earlier Swiss, Danish, and radio-patent decisions. It treats a restricted account as an interim answer and recommends early consideration of foreign patent licensing.",
+   "keywords": [
+    "Geigy",
+    "DDT royalties",
+    "SCAP policy"
+   ]
+  },
+  {
+   "title": "SCAPIN 6192-A: Use of United Nations Patents in VHF/FM Radio Equipment",
+   "doc_type": "SCAP memorandum",
+   "start_page": 88,
+   "end_page": 91,
+   "continues_previous": false,
+   "date": "1948-11-23",
+   "from": "SCAP, signed by R. M. Levy",
+   "to": "Japanese Government",
+   "about": "SCAP authorizes specified manufacturers to use two foreign-owned patents for Japanese police and maritime radio equipment.",
+   "summary": "The memorandum names authorized manufacturers and sets royalties for patents owned by Edwin H. Armstrong and Electric and Musical Industries. Manufacturers must deposit and report royalties through the SCAP custody account; payments remain tentative.",
+   "keywords": [
+    "SCAPIN 6192-A",
+    "VHF/FM",
+    "Armstrong",
+    "royalties"
+   ]
+  },
+  {
+   "title": "Instruction concerning a Chinese amendment to FEC-311/2",
+   "doc_type": "memorandum",
+   "start_page": 92,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1949-01",
+   "from": "Charles E. Saltzman",
+   "to": "United States member, Far Eastern Commission",
+   "about": "The member is instructed to express no view if China formally proposes weakening paragraph 4.",
+   "summary": "British opposition makes the proposed compromise unpromising.",
+   "keywords": [
+    "FEC-311/2",
+    "Chinese amendment"
+   ]
+  },
+  {
+   "title": "Reservation on FEC-311/2",
+   "doc_type": "office memorandum",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1949-01-12",
+   "from": "Division of Northeast Asian Affairs",
+   "to": "",
+   "about": "The division questions whether FEC authority extends to recommendations to governments.",
+   "summary": "It initials an attached memorandum while reserving its objection to the paper as a whole.",
+   "keywords": [
+    "FEC authority",
+    "FEC-311/2"
+   ]
+  },
+  {
+   "title": "Instruction to transmit Japanese patent notice in Germany",
+   "doc_type": "instruction",
+   "start_page": 94,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "1949-01-31",
+   "from": "Secretary of State",
+   "to": "United States Political Adviser on German Affairs, Berlin",
+   "about": "The adviser is asked to forward a Japanese patent-registration letter to the appropriate Bizonal patent agency.",
+   "summary": "The enclosed letter had been addressed to the old German Patent Office.",
+   "keywords": [
+    "Germany",
+    "Bizonal area",
+    "patent office"
+   ]
+  },
+  {
+   "title": "Permission for Japanese to Apply for Patents in Foreign Countries",
+   "doc_type": "despatch",
+   "start_page": 95,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1949-02-04",
+   "from": "W. J. Sebald",
+   "to": "Secretary of State",
+   "about": "Sebald forwards a SCAP study favoring foreign patent applications by Japanese nationals.",
+   "summary": "The mission concurs in the study's recommendation, which still awaits headquarters approval.",
+   "keywords": [
+    "Japanese inventors",
+    "foreign applications",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Staff study on Japanese applications for foreign patents",
+   "doc_type": "staff study",
+   "start_page": 96,
+   "end_page": 98,
+   "continues_previous": false,
+   "date": "1948-12-15",
+   "from": "W. F. Marquat, Economic and Scientific Section",
+   "to": "SCAP Chief of Staff",
+   "about": "The study considers allowing Japanese inventors to file patents in countries that accept their applications.",
+   "summary": "It finds that foreign filing could protect exports, earn foreign exchange, and encourage inventors. It recommends notifying Army and issuing controlled procedures to the Japanese Government, while questioning the continuing need to assign rights to SCAP.",
+   "keywords": [
+    "foreign patent applications",
+    "Japanese inventors",
+    "export protection"
+   ]
+  },
+  {
+   "title": "Draft radio on Japanese foreign patent applications",
+   "doc_type": "draft outgoing message",
+   "start_page": 99,
+   "end_page": 99,
+   "continues_previous": false,
+   "date": "1948-12-16",
+   "from": "SCAP",
+   "to": "Department of the Army",
+   "about": "SCAP proposes allowing post-1945 Japanese inventions to be patented abroad under continuing controls.",
+   "summary": "The draft says assignment of patent rights to SCAP is no longer needed.",
+   "keywords": [
+    "draft radio",
+    "foreign applications"
+   ]
+  },
+  {
+   "title": "Excerpt from radio W87091",
+   "doc_type": "radio excerpt",
+   "start_page": 100,
+   "end_page": 100,
+   "continues_previous": false,
+   "date": "1948-08-06",
+   "from": "Department of State and Department of the Army",
+   "to": "SCAP",
+   "about": "The excerpt sets conditions for Japanese foreign patent filings and temporary control of resulting rights.",
+   "summary": "It allows filings that aid exports or foreign exchange, with temporary assignment and compensation provisions.",
+   "keywords": [
+    "W87091",
+    "temporary assignment"
+   ]
+  },
+  {
+   "title": "Draft SCAP memorandum on patent applications",
+   "doc_type": "draft memorandum",
+   "start_page": 101,
+   "end_page": 102,
+   "continues_previous": false,
+   "date": "1948-12-13",
+   "from": "SCAP",
+   "to": "Japanese Government",
+   "about": "A proposed procedure would let selected Japanese nationals apply for patents abroad with SCAP approval.",
+   "summary": "The draft limits eligible inventions to those developed after January 1946, explains fee remittances, and requires approval of assignments and licenses. Foreign-currency proceeds would flow through SCAP-approved banks.",
+   "keywords": [
+    "foreign applications",
+    "SCAP approval",
+    "foreign exchange"
+   ]
+  },
+  {
+   "title": "Incoming airgram record copy",
+   "doc_type": "airgram cover or record page",
+   "start_page": 103,
+   "end_page": 103,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "Department of State",
+   "about": "An incoming airgram page bears filing information, but its substantive message is not legible in the supplied OCR.",
+   "summary": "Only the record-copy and filing markings can be reliably identified.",
+   "keywords": [
+    "incoming airgram",
+    "record copy"
+   ]
+  },
+  {
+   "title": "Voting on Policy Toward Patents, Utility Models and Designs in Japan",
+   "doc_type": "memorandum",
+   "start_page": 104,
+   "end_page": 104,
+   "continues_previous": false,
+   "date": "1949-02-17",
+   "from": "Charles E. Saltzman",
+   "to": "United States member, Far Eastern Commission",
+   "about": "The member is urged to seek a vote on FEC-284 and, after a Soviet veto, on paragraphs 1–4 and 6.",
+   "summary": "The instruction rejects adoption of a smaller subset.",
+   "keywords": [
+    "FEC-284",
+    "voting",
+    "Soviet veto"
+   ]
+  },
+  {
+   "title": "Alternative voting instruction on FEC-284",
+   "doc_type": "memorandum draft",
+   "start_page": 105,
+   "end_page": 105,
+   "continues_previous": false,
+   "date": "1949-02",
+   "from": "Charles E. Saltzman",
+   "to": "United States member, Far Eastern Commission",
+   "about": "A revised voting draft seeks passage of the full paper or paragraphs 1–4 and 6.",
+   "summary": "If that group fails, the member should avoid further Commission action for the time being.",
+   "keywords": [
+    "FEC-284",
+    "voting draft"
+   ]
+  },
+  {
+   "title": "Tangier airgram on Japanese patent-office letter",
+   "doc_type": "incoming airgram",
+   "start_page": 106,
+   "end_page": 106,
+   "continues_previous": false,
+   "date": "1949-02-23",
+   "from": "American Legation, Tangier",
+   "to": "Secretary of State",
+   "about": "The legation clarifies that the Japanese letter was addressed to Tangier's international-zone patent bureau.",
+   "summary": "It asks for another copy if the letter was intended for French Morocco.",
+   "keywords": [
+    "Tangier",
+    "Morocco",
+    "patent bureau"
+   ]
+  },
+  {
+   "title": "Collection of Royalties by Foreign Owners of Japanese Patents",
+   "doc_type": "despatch",
+   "start_page": 107,
+   "end_page": 109,
+   "continues_previous": false,
+   "date": "1949-03-03",
+   "from": "W. J. Sebald",
+   "to": "Secretary of State",
+   "about": "Sebald reports SCAP's approval of Geigy royalty collection and its willingness to consider DDT license agreements.",
+   "summary": "The despatch explains how the decision reverses an earlier restrictive interpretation of SCAPIN 45. It credits both liberalized foreign-business policy and transfer of patent responsibility within SCAP, while distinguishing the Geigy case from earlier radio and Danish arrangements.",
+   "keywords": [
+    "Geigy",
+    "DDT",
+    "royalties",
+    "SCAPIN 45"
+   ]
+  },
+  {
+   "title": "Note to Swiss mission authorizing Geigy royalty collection",
+   "doc_type": "diplomatic note",
+   "start_page": 110,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1949-03-03",
+   "from": "SCAP Diplomatic Section",
+   "to": "Swiss Diplomatic Mission",
+   "about": "SCAP permits agreed Geigy royalties in yen and invites an application to issue DDT patent licenses.",
+   "summary": "The note cites SCAP Circular No. 2 for the licensing application.",
+   "keywords": [
+    "Geigy",
+    "royalties",
+    "licensing"
+   ]
+  },
+  {
+   "title": "Army request for interpretation of FEC-284/7",
+   "doc_type": "memorandum",
+   "start_page": 111,
+   "end_page": 111,
+   "continues_previous": false,
+   "date": "1949-03-07",
+   "from": "G. P. Lynch",
+   "to": "C. V. Hulick",
+   "about": "Army asks State for information needed to answer SCAP's question about wording in FEC-284/7.",
+   "summary": "Lynch requests a prompt interpretation for transmission to SCAP.",
+   "keywords": [
+    "FEC-284/7",
+    "Army",
+    "interpretation"
+   ]
+  },
+  {
+   "title": "Draft cable on patents in Japan",
+   "doc_type": "cover memorandum",
+   "start_page": 112,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1949-03-15",
+   "from": "John W. Auchincloss",
+   "to": "G. P. Lynch",
+   "about": "Auchincloss forwards State's proposed reply to SCAP and requests Army concurrence.",
+   "summary": "The attached draft responds to SCAP's patent-policy inquiry.",
+   "keywords": [
+    "draft cable",
+    "Army concurrence"
+   ]
+  },
+  {
+   "title": "Proposed reply defining bona fide third-party use",
+   "doc_type": "draft cable",
+   "start_page": 113,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "1949-03-15",
+   "from": "Department of State",
+   "to": "SCAP, Tokyo",
+   "about": "The draft defines bona fide use for third parties under paragraph 5 of FEC-284/7.",
+   "summary": "It covers good-faith work begun before a later successful patent application, including independent wartime invention in Japan.",
+   "keywords": [
+    "bona fide use",
+    "priority rights"
+   ]
+  },
+  {
+   "title": "Earlier draft cable defining bona fide use",
+   "doc_type": "draft cable",
+   "start_page": 114,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1949-03-10",
+   "from": "Department of State",
+   "to": "SCAP",
+   "about": "An earlier draft gives the same interpretation of bona fide third-party use.",
+   "summary": "It addresses independent Japanese wartime invention and priority applications.",
+   "keywords": [
+    "bona fide use",
+    "draft revision"
+   ]
+  },
+  {
+   "title": "SCAP cable requesting interpretation of bona fide",
+   "doc_type": "incoming cable",
+   "start_page": 115,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1949-01-31",
+   "from": "SCAP",
+   "to": "Department of the Army",
+   "about": "SCAP asks what “bona fide” means in paragraph 5 of FEC-284/7.",
+   "summary": "The query concerns third parties who manufactured before a priority patent application.",
+   "keywords": [
+    "FEC-284/7",
+    "bona fide"
+   ]
+  },
+  {
+   "title": "Expanded draft reply to SCAP on patent policy",
+   "doc_type": "draft cable",
+   "start_page": 116,
+   "end_page": 116,
+   "continues_previous": false,
+   "date": "1949-03-16",
+   "from": "Department of State",
+   "to": "SCAP",
+   "about": "The draft answers SCAP on bona fide use, FEC patent-policy timing, and compulsory licensing.",
+   "summary": "State expects a policy close to FEC-284/10 and has no plan for general compulsory licensing.",
+   "keywords": [
+    "bona fide use",
+    "compulsory licensing",
+    "FEC-284/10"
+   ]
+  },
+  {
+   "title": "SCAP message C68318 on patent policy and copying",
+   "doc_type": "incoming Army message",
+   "start_page": 117,
+   "end_page": 118,
+   "continues_previous": false,
+   "date": "1949-03-05",
+   "from": "SCAP, Tokyo",
+   "to": "Department of the Army",
+   "about": "SCAP seeks urgent guidance on patent restoration, copied American inventions, bona fide use, and compulsory licensing.",
+   "summary": "Foreign investors want clarity on wartime inventions and licensing. SCAP cites Japanese copies of an American weed killer, asks how third-party rights should be interpreted, and seeks Washington's view on a general compulsory-license provision.",
+   "keywords": [
+    "patent restoration",
+    "copying",
+    "bona fide use",
+    "compulsory licensing"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 5,
+  "pages": [
+   55,
+   118
+  ],
+  "pdf": "894.542 Intellectual And Industrial Property. Applications For Patents And Copyrights, Registration Of Particular Trade Marks, And Contests Arising Therefrom Are Arranged Alphabetically Under The Respective Numbers., Patents. ** Country In  1819.pdf",
+  "seconds": 87.6,
+  "created": "2026-10-08 22:41:21",
+  "key": "japan-internal-affairs-894.542-intellectual-and-industrial-5"
+ }
+}

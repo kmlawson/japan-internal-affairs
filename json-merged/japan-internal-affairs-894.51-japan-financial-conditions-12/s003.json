@@ -1,0 +1,88 @@
+{
+ "section_summary": "Pages 80–117 continue a printed compilation of Securities and Exchange Commission rules under the Securities Act of 1933. They cover exempt offerings, registration statements, prospectuses, accounting requirements, filing, amendments, and withdrawal. Pages 118–119 contain a February 1940 release announcing Regulation S-X and amendments to investment-company registration forms.",
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washington"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "Securities and Exchange Commission",
+  "Securities Act of 1933",
+  "securities registration",
+  "prospectuses",
+  "offering sheets",
+  "Regulation B-T",
+  "Regulation C",
+  "Regulation S-X",
+  "financial statements",
+  "accounting requirements"
+ ],
+ "subfiles": [
+  {
+   "title": "Securities Act of 1933: General Rules and Regulations",
+   "doc_type": "printed regulations",
+   "start_page": 80,
+   "end_page": 117,
+   "continues_previous": true,
+   "date": "",
+   "from": "Securities and Exchange Commission",
+   "to": "",
+   "about": "Rules govern securities offerings, registration statements, prospectuses, financial disclosure, and filing procedures.",
+   "summary": "The section begins mid-rule with suspension and amendment procedures for offering sheets, then sets out Regulation B-T exemptions for interests in oil royalty trusts. Regulation C provides requirements for registration statements and prospectuses, including provisions for foreign-government securities, financial statements, accountants, confidential contracts, fees, filing, amendments, and withdrawal. Pages 100–101 repeat text appearing on pages 98–99.",
+   "keywords": [
+    "Securities Act of 1933",
+    "Regulation B-T",
+    "Regulation C",
+    "offering sheets",
+    "registration statements",
+    "prospectuses",
+    "foreign-government securities"
+   ]
+  },
+  {
+   "title": "Release announcing Regulation S-X and amendments to Forms 15 and 17",
+   "doc_type": "press release",
+   "start_page": 118,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1940-02-21",
+   "from": "Securities and Exchange Commission",
+   "to": "Morning newspapers",
+   "about": "The Commission announces uniform accounting requirements and amendments to investment-company registration forms.",
+   "summary": "The release announces Regulation S-X, a unified set of financial-statement requirements for specified registration and reporting forms, and explains its effective dates. It also announces amendments to Forms 15 and 17 requiring historical information about capital shares.",
+   "keywords": [
+    "Regulation S-X",
+    "accounting requirements",
+    "financial statements",
+    "Forms 15 and 17",
+    "investment companies",
+    "capital shares"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 5,
+  "pages": [
+   80,
+   119
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., January 13, 1940 - September 7, 1940 1209.pdf",
+  "seconds": 14.0,
+  "created": "2026-10-09 00:05:28",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-12"
+ }
+}

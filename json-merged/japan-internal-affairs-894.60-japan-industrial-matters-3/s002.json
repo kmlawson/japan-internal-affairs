@@ -1,0 +1,718 @@
+{
+ "section_summary": "This section concludes a statistical study of Japanese industry and labour, using Nagoya and Aichi Prefecture to discuss small factories, productivity, trade associations, wages and working conditions. Two file notes and a 1936 Embassy despatch then address nationalist obstacles to Ford’s expansion near Yokohama. The final pages contain a 1938 Department of State summary and the beginning of a consular report on the effects of the China Incident on Osaka’s small and medium scale industries.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN",
+    "J A PAN",
+    "Jupan",
+    "Jopan",
+    "Jupunese"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagova",
+    "Nagya",
+    "Nagoya City",
+    "Nagoya Harbour",
+    "Nagoya Port",
+    "Nagoya district"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi Prefecture",
+    "Aichi Prefecturs",
+    "Aichi prefecture",
+    "Aichi"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "UNITED STATES OF AMERICA",
+    "U. S. A.",
+    "U. S A.",
+    "America",
+    "merica"
+   ]
+  },
+  {
+   "name": "British India",
+   "variants": [
+    "British India",
+    "Bri ti sh India",
+    "Br tish ludia"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "hinese"
+   ]
+  },
+  {
+   "name": "Dutch East Indies",
+   "variants": [
+    "Dutch East Indies"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "australia"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "FRANCE",
+    "France"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "GERMANY",
+    "Germany"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England",
+    "ENGLAND",
+    "Englad"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "Tokye"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohame",
+    "Yokehame",
+    "Tobehame"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osuka",
+    "osaxa",
+    "Usake",
+    "Osaka-Prefecture"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kioto"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Northern Kyushu"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "Kurume"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome"
+   ]
+  },
+  {
+   "name": "Milan",
+   "variants": [
+    "Milan"
+   ]
+  },
+  {
+   "name": "Ireland",
+   "variants": [
+    "helan d"
+   ]
+  },
+  {
+   "name": "Bombay (Mumbai)",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Amsterdam",
+   "variants": [
+    "Amsterdam"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Sweden",
+   "variants": [
+    "Sweden"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "'Manchukuo'",
+    "\"Manchukuo\""
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "urope"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austria"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas"
+   ]
+  },
+  {
+   "name": "South Pacific",
+   "variants": [
+    "South Paci fic"
+   ]
+  },
+  {
+   "name": "Philippine Islands",
+   "variants": [
+    "rhilippine Islands"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Sakichi Toyoda",
+   "role": "Inventor associated with the automatic looms discussed",
+   "variants": [
+    "Toyoda"
+   ]
+  },
+  {
+   "name": "Charles K. Moser",
+   "role": "Author cited for spinning company welfare allowances",
+   "variants": [
+    "Charles K. Moser"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States Ambassador to Japan; sender of the 1936 despatch",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew"
+   ]
+  },
+  {
+   "name": "Mr. Kepf",
+   "role": "Manager of the Ford Motor Company plant at Yokohama",
+   "variants": [
+    "Mr. Keg?",
+    "Mr. Kepf",
+    "Mr. Kogt",
+    "kr. Kogt",
+    "hr. Kepf",
+    "Mr. xep?",
+    "r. mege"
+   ]
+  },
+  {
+   "name": "Mr. Melville",
+   "role": "Embassy staff member who interviewed the Ford manager",
+   "variants": [
+    "M. Meville"
+   ]
+  },
+  {
+   "name": "Mr. Lematee",
+   "role": "Representative of the Asano interests, as rendered in the OCR",
+   "variants": [
+    "Mr. Lemetee"
+   ]
+  },
+  {
+   "name": "Jones",
+   "role": "Division of Far Eastern Affairs staff member indicated by initials on the 1938 summary",
+   "variants": [
+    "Jones"
+   ]
+  },
+  {
+   "name": "John K. Emmerson",
+   "role": "American Vice Consul; author of the Osaka industry report",
+   "variants": [
+    "John K. Emmerson"
+   ]
+  },
+  {
+   "name": "George A. Makinson",
+   "role": "American Consul General; approved the Osaka industry report",
+   "variants": [
+    "George A.Makinson"
+   ]
+  },
+  {
+   "name": "Sentaro Uchida",
+   "role": "Managing Director, Osaka Casting Industry Association",
+   "variants": [
+    "Sentaro Uchida",
+    "Mr. Sentaro Uchida"
+   ]
+  },
+  {
+   "name": "Osamu Okada",
+   "role": "Director, Japan Brush Exporters’ Association",
+   "variants": [
+    "Osamu Okada"
+   ]
+  },
+  {
+   "name": "Norikuni Oyama",
+   "role": "President, Oyama Rubber Industrial Corporation",
+   "variants": [
+    "Nori kuni Oyama",
+    "Mr.Norikuni Oyama"
+   ]
+  },
+  {
+   "name": "Iyoma Kitagawa",
+   "role": "President, Kitagawa Manufacturing Company",
+   "variants": [
+    "Iyoma Kitagawa"
+   ]
+  },
+  {
+   "name": "Kiyosaburo Shimizu",
+   "role": "Head, Osaka Glass Manufacturers’ Association",
+   "variants": [
+    "Kiyosaburo Shimizu"
+   ]
+  },
+  {
+   "name": "Shunsuke Hamaguchi",
+   "role": "Director, Osaka Exporters’ Association to Central and South America",
+   "variants": [
+    "Shunsuke Hamaguchi"
+   ]
+  },
+  {
+   "name": "Lijiro Fukushima",
+   "role": "Director, Osaka Knitted Goods Industry Association",
+   "variants": [
+    "Lijiro Fukushima"
+   ]
+  },
+  {
+   "name": "Shinzo Fujimura",
+   "role": "Proprietor, Fujimura Shoten",
+   "variants": [
+    "Shinzo Fujimura"
+   ]
+  },
+  {
+   "name": "Shinnosuke Yamanaka",
+   "role": "Adviser, Japan Thermos Industry Association",
+   "variants": [
+    "Shinnosuke Yamanaka"
+   ]
+  },
+  {
+   "name": "Usaburo Yagi",
+   "role": "President, Yagi Celluloid Corporation",
+   "variants": [
+    "Usaburo Yagi"
+   ]
+  },
+  {
+   "name": "Tamekichi Wada",
+   "role": "President, Hinomoto Iron Works",
+   "variants": [
+    "Tamekichi Wada"
+   ]
+  },
+  {
+   "name": "Mizuo Takesaki",
+   "role": "Director, Osaka Prefecture Industrial Discussion Group",
+   "variants": [
+    "Mizuo Takesaki"
+   ]
+  },
+  {
+   "name": "Toshinobu Takeda",
+   "role": "Managing Director, Nomura Bank",
+   "variants": [
+    "Toshinobu Takeda"
+   ]
+  },
+  {
+   "name": "Masaichi Tsujimura",
+   "role": "Submanager, Japan Industrial Bank Osaka Branch",
+   "variants": [
+    "Masaichi Tsujimura"
+   ]
+  },
+  {
+   "name": "Takeuchi",
+   "role": "Chief of the Economics Section, Osaka Asahi Newspaper",
+   "variants": [
+    "Takeuchi"
+   ]
+  },
+  {
+   "name": "Yabe",
+   "role": "Assistant Chief of the Economics Section, Osaka Asahi Newspaper",
+   "variants": [
+    "Yabe"
+   ]
+  },
+  {
+   "name": "Gennosuke Kobata",
+   "role": "President, Osaka Commerce and Industry Association",
+   "variants": [
+    "Gennosuke Kobata"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese industry",
+  "Nagoya",
+  "Aichi Prefecture",
+  "small scale manufacturing",
+  "industrial rationalisation",
+  "factory labour",
+  "wages and living standards",
+  "trade associations",
+  "economic nationalism",
+  "Ford Motor Company",
+  "China Incident",
+  "Osaka export industries"
+ ],
+ "subfiles": [
+  {
+   "title": "Study of Japanese Industry and Labour Conditions, Illustrated by the Nagoya District",
+   "doc_type": "Statistical study or report",
+   "start_page": 50,
+   "end_page": 92,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "An extended study argues that small scale industry, mechanisation, local industry clusters and family labour shaped Japan’s export competitiveness.",
+   "summary": "The surviving portion compares small and large manufacturers, Nagoya’s production and port trade, and rising productivity through motor power, improved machinery and industrial associations. It presents extensive tables on wages, worker age and sex, welfare allowances, living costs, hours, union membership and employment. Its conclusion argues that Japan’s relatively low money wages must be understood in the context of family income and young female labour, and rejects claims that export growth depends on social dumping.",
+   "keywords": [
+    "Nagoya",
+    "Aichi",
+    "manufacturing statistics",
+    "rationalisation",
+    "electric motors",
+    "trade associations",
+    "female labour",
+    "wages",
+    "exports"
+   ]
+  },
+  {
+   "title": "Document File Note: Despatch No. 1079",
+   "doc_type": "Document file note",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1934-12-11",
+   "from": "Japan; Grew",
+   "to": "",
+   "about": "Cross-reference to a despatch on Japanese nationalism and its effects on foreign relations in industrial and naval matters.",
+   "summary": "References Despatch No. 1079 and its political and economic forecast.",
+   "keywords": [
+    "cross-reference",
+    "nationalism",
+    "industry",
+    "naval matters"
+   ]
+  },
+  {
+   "title": "Document File Note: Nationalist Tendencies in Japanese Industry",
+   "doc_type": "Document file note",
+   "start_page": 94,
+   "end_page": 94,
+   "continues_previous": false,
+   "date": "1935-06-12",
+   "from": "Japan; Grew",
+   "to": "",
+   "about": "Cross-reference to Despatch No. 1345 on nationalist tendencies in Japanese industry.",
+   "summary": "Points to Despatch No. 1345 on nationalist tendencies in Japanese industry.",
+   "keywords": [
+    "cross-reference",
+    "economic nationalism",
+    "Japanese industry"
+   ]
+  },
+  {
+   "title": "Nationalist Tendencies in Japanese Industry",
+   "doc_type": "Confidential despatch",
+   "start_page": 95,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1936-06-18",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Grew reports that army influence has obstructed Ford’s purchase of land for a Japanese plant expansion.",
+   "summary": "Grew encloses a staff interview with Ford’s plant manager and says the stalled expansion and an abandoned General Motors project illustrate hostility toward foreign controlled enterprises.",
+   "keywords": [
+    "Ford",
+    "General Motors",
+    "economic nationalism",
+    "foreign investment",
+    "plant expansion"
+   ]
+  },
+  {
+   "title": "Conversation with the Manager of Ford Motor Company, Yokohama",
+   "doc_type": "Memorandum of conversation; despatch enclosure",
+   "start_page": 97,
+   "end_page": 99,
+   "continues_previous": false,
+   "date": "1936-06-06",
+   "from": "Mr. Melville, American Embassy, Tokyo",
+   "to": "",
+   "about": "Ford’s Yokohama manager describes blocked land purchases and options for expanding the company’s plant.",
+   "summary": "The manager says Yokohama declined to sell additional land and that an army objection stopped a second purchase. He prefers to wait rather than seek Embassy intervention or sue, and says Ford could add floors to its existing plant if needed.",
+   "keywords": [
+    "Ford Motor Company",
+    "Yokohama",
+    "land purchase",
+    "army influence",
+    "plant expansion"
+   ]
+  },
+  {
+   "title": "Summary of Osaka Report on the Effect of the China Incident",
+   "doc_type": "Department of State memorandum",
+   "start_page": 100,
+   "end_page": 101,
+   "continues_previous": false,
+   "date": "1938-05-11",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "A Department summary identifies raw material shortages as the chief problem reported by Osaka’s smaller industries.",
+   "summary": "Summarizes the April 2 Osaka report and links reduced imports and priority for war industries to shortages, rising export prices and falling sales abroad.",
+   "keywords": [
+    "Osaka",
+    "China Incident",
+    "raw materials",
+    "import restrictions",
+    "small industries",
+    "exports"
+   ]
+  },
+  {
+   "title": "The Effect of the China Incident on the Small and Medium-Scale Industries of Osaka",
+   "doc_type": "Consular report",
+   "start_page": 102,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1938-04-02",
+   "from": "John K. Emmerson, American Vice Consul, Osaka",
+   "to": "Department of State",
+   "about": "A consular report summarizes Osaka industrialists’ accounts of shortages, government controls and declining exports during the China Incident.",
+   "summary": "Emmerson summarizes a March 4, 1938 Osaka newspaper round table, explicitly presenting participants’ statements as evidence of industrial attitudes rather than verified findings. General complaints concern scarce raw materials, export losses, taxation, skilled labour shortages and government controls that smaller firms consider unfair. The pages provided then discuss bicycles, machine tools and castings, glass, rubber goods, knitted goods and celluloid, before beginning the brush industry section. The report continues beyond page 119.",
+   "keywords": [
+    "Osaka",
+    "China Incident",
+    "small industries",
+    "raw material shortages",
+    "taxation",
+    "government controls",
+    "exports",
+    "boycott"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   50,
+   119
+  ],
+  "pdf": "894.60 Japan, Industrial Matters., April 7, 1930 - May 17, 1937 951.pdf",
+  "seconds": 47.0,
+  "created": "2026-10-08 16:59:06",
+  "key": "japan-internal-affairs-894.60-japan-industrial-matters-3"
+ }
+}

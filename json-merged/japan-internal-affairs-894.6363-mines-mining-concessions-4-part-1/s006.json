@@ -1,0 +1,941 @@
+{
+ "section_summary": "This section examines Japan’s 1934 Petroleum Industry Law and its effects on foreign oil companies, especially compulsory reserves, sales quotas, licensing, prices, and refinery plans. Embassy reports and company correspondence describe protests by American, British, and Netherlands interests, while State Department memoranda consider coordinated representations and possible restrictions on oil exports to Japan. The section also contains industry statistics and a translated Soviet article on Japan’s fuel supply.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Japen",
+    "Jupun",
+    "Junan",
+    "Jananese Empire",
+    "Japanese Empire",
+    "the Empire"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo",
+    "Takyo",
+    "Forye"
+   ]
+  },
+  {
+   "name": "Washington, D.C., United States",
+   "variants": [
+    "Washington",
+    "Washington, D.C.",
+    "Washington.D.C."
+   ]
+  },
+  {
+   "name": "London, United Kingdom",
+   "variants": [
+    "LONDON",
+    "LONDON (England)",
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "New York, United States",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United States of America",
+    "U.S.A.",
+    "U.s.A."
+   ]
+  },
+  {
+   "name": "California, United States",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "Kettleman Hills, California, United States",
+   "variants": [
+    "Kettleman"
+   ]
+  },
+  {
+   "name": "Canton (Guangzhou), China",
+   "variants": [
+    "Canton"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Peiping (Beijing), China",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Manchuria, China",
+   "variants": [
+    "Manchuria",
+    "Manchurian",
+    "anchuria"
+   ]
+  },
+  {
+   "name": "Dairen (Dalian), China",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Jehol (Rehe), China",
+   "variants": [
+    "Jehol"
+   ]
+  },
+  {
+   "name": "Fushun, China",
+   "variants": [
+    "Fushun"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Netherland"
+   ]
+  },
+  {
+   "name": "Netherlands Indies (Indonesia)",
+   "variants": [
+    "Netherlands Indies",
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Borneo",
+   "variants": [
+    "Borneo",
+    "Eornen"
+   ]
+  },
+  {
+   "name": "Tarakan, Indonesia",
+   "variants": [
+    "Tarakan"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama",
+    "YOKOHANA"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Kore"
+   ]
+  },
+  {
+   "name": "Seoul, South Korea",
+   "variants": [
+    "KEIJO",
+    "XEIJO",
+    "Feije"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "FORMDSA",
+    "Fermeee",
+    "Pemese"
+   ]
+  },
+  {
+   "name": "Niigata, Japan",
+   "variants": [
+    "Niigat"
+   ]
+  },
+  {
+   "name": "Akita, Japan",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Hokkaido, Japan",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Ishikari, Japan",
+   "variants": [
+    "Isikari"
+   ]
+  },
+  {
+   "name": "Teshio, Japan",
+   "variants": [
+    "Tiosio"
+   ]
+  },
+  {
+   "name": "Kitami, Japan",
+   "variants": [
+    "Kitami"
+   ]
+  },
+  {
+   "name": "Iburi, Japan",
+   "variants": [
+    "Ibouri"
+   ]
+  },
+  {
+   "name": "North Sakhalin, Russia",
+   "variants": [
+    "North Sakhalin",
+    "Kita Karafuto",
+    "Kita Karefuto"
+   ]
+  },
+  {
+   "name": "Sakhalin, Russia",
+   "variants": [
+    "Sakhalin",
+    "sukhalin"
+   ]
+  },
+  {
+   "name": "Texas, United States",
+   "variants": [
+    "Texas"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "exico"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Roumenia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "J. C. Goold",
+   "role": "Representative of Standard-Vacuum Oil Company in Japan",
+   "variants": [
+    "Mr. J. C. Goold",
+    "J.C. Goold"
+   ]
+  },
+  {
+   "name": "T. Fukuda",
+   "role": "Chief of the Mining Bureau, Department of Commerce and Industry",
+   "variants": [
+    "T. FUKUDA"
+   ]
+  },
+  {
+   "name": "Machida Chuji",
+   "role": "Japanese Minister of Commerce and Industry",
+   "variants": [
+    "Machida Chuji"
+   ]
+  },
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. Chargé d’Affaires ad Interim in Japan",
+   "variants": [
+    "NEVILLE",
+    "Mr. Neville",
+    "Edwin L. Neville",
+    "E. L. N."
+   ]
+  },
+  {
+   "name": "Walter C. Teagle",
+   "role": "President, Standard Oil Company of New Jersey",
+   "variants": [
+    "Mr. Walter C. Toagle",
+    "Mr. Walter C. Teagle",
+    "Mr. Teagle"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "U.S. State Department Far Eastern affairs official",
+   "variants": [
+    "Mr. Hornbeck",
+    "Dr. Stanley Hornbeck",
+    "Dr. Hornbeck",
+    "Mr. Hornbeok",
+    "Mr. Hornbook"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador to Japan",
+   "variants": [
+    "Mr. Grew"
+   ]
+  },
+  {
+   "name": "Saburō Kurusu",
+   "role": "Chief of the Commercial Bureau of the Japanese Foreign Office",
+   "variants": [
+    "Mr. Kurusu"
+   ]
+  },
+  {
+   "name": "Earle R. Dickover",
+   "role": "U.S. diplomat",
+   "variants": [
+    "Mr. Dickover"
+   ]
+  },
+  {
+   "name": "H. W. Malcolm",
+   "role": "General Manager, Rising Sun Petroleum Company",
+   "variants": [
+    "Mr. H. W. Malcolm"
+   ]
+  },
+  {
+   "name": "Kōki Hirota",
+   "role": "Japanese Foreign Minister",
+   "variants": [
+    "Mr. Hirota"
+   ]
+  },
+  {
+   "name": "Henri W. Deterding",
+   "role": "Director General, Royal Dutch Petroleum Company",
+   "variants": [
+    "Sir Honri W. Doterding",
+    "Sir Henri Deterding",
+    "Sir Henri W. Deterding",
+    "Sir Honri",
+    "Sir Henri"
+   ]
+  },
+  {
+   "name": "William Phillips",
+   "role": "U.S. Under Secretary of State",
+   "variants": [
+    "Mr. Phillips",
+    "Mr. Philipps"
+   ]
+  },
+  {
+   "name": "Harold L. Ickes",
+   "role": "U.S. Secretary of the Interior",
+   "variants": [
+    "Mr. Ickes"
+   ]
+  },
+  {
+   "name": "Eugene H. Dooman",
+   "role": "U.S. State Department specialist on Japan",
+   "variants": [
+    "Mr. Dooman"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "U.S. State Department official",
+   "variants": [
+    "Mr. Hamilton"
+   ]
+  },
+  {
+   "name": "Mr. Mackay",
+   "role": "U.S. State Department participant in Netherlands Legation conversation",
+   "variants": [
+    "Mr. Maokay"
+   ]
+  },
+  {
+   "name": "Mr. Molekamp",
+   "role": "Netherlands Legation representative",
+   "variants": [
+    "Mr. Molekamp",
+    "Mr. Molokamp"
+   ]
+  },
+  {
+   "name": "Vice-Admiral Nakasato",
+   "role": "Chairman of Kita Karafuto Sekiu",
+   "variants": [
+    "Vice-Admiral Nakasato",
+    "Nakasato",
+    "admiral Nakasato"
+   ]
+  },
+  {
+   "name": "Rosen",
+   "role": "Named at the end of the translated Pravda article; role unstated",
+   "variants": [
+    "ROSEN"
+   ]
+  },
+  {
+   "name": "Matsukata",
+   "role": "Japanese gasoline importer",
+   "variants": [
+    "Matsukata"
+   ]
+  },
+  {
+   "name": "Tanaka",
+   "role": "Named in reference to a memorandum on Manchurian oil",
+   "variants": [
+    "Tanaka"
+   ]
+  },
+  {
+   "name": "Henry L. Stimson",
+   "role": "Former U.S. Secretary of State, cited in discussion of action toward Japan",
+   "variants": [
+    "Mr. Stimson"
+   ]
+  },
+  {
+   "name": "H. C. Millard",
+   "role": "Second Secretary of the U.S. Embassy in London",
+   "variants": [
+    "HchMillard"
+   ]
+  }
+ ],
+ "keywords": [
+  "Petroleum Industry Law",
+  "oil reserves",
+  "foreign oil companies",
+  "sales quotas",
+  "refining licenses",
+  "Japan",
+  "diplomatic representations",
+  "Standard-Vacuum Oil Company",
+  "Rising Sun Petroleum Company",
+  "oil export restrictions",
+  "fuel security",
+  "Manchuria"
+ ],
+ "subfiles": [
+  {
+   "title": "Discussion of the Oil Industry Law",
+   "doc_type": "article or explanatory paper, concluding pages",
+   "start_page": 394,
+   "end_page": 396,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Explains reserve-stock schedules, government oversight, and the law’s place in a controlled economy.",
+   "summary": "The concluding pages calculate when importers and refiners must begin holding petroleum reserves and describe powers to regulate prices and facilities. They explain the advisory role of the Oil Industry Committee and argue for state guidance of economic activity.",
+   "keywords": [
+    "Oil Industry Law",
+    "reserve stocks",
+    "Oil Industry Committee",
+    "controlled economy"
+   ]
+  },
+  {
+   "title": "Reply concerning enforcement of the Petroleum Industry Law",
+   "doc_type": "translated letter",
+   "start_page": 397,
+   "end_page": 397,
+   "continues_previous": false,
+   "date": "1934-08-31",
+   "from": "T. Fukuda, Mining Bureau",
+   "to": "J. C. Goold, Standard-Vacuum Oil Company",
+   "about": "Clarifies existing importers’ licenses and the annual approval of petroleum sales plans.",
+   "summary": "Fukuda says existing importers may continue operating, while approved annual business plans will set sales quantities.",
+   "keywords": [
+    "licensing",
+    "business plans",
+    "sales quotas"
+   ]
+  },
+  {
+   "title": "Protest against revised gasoline sales allotment",
+   "doc_type": "letter",
+   "start_page": 398,
+   "end_page": 399,
+   "continues_previous": false,
+   "date": "1934-08-31",
+   "from": "J. C. Goold, Standard-Vacuum Oil Company",
+   "to": "Machida Chuji, Minister of Commerce and Industry",
+   "about": "Protests Standard-Vacuum’s gasoline allotment and the cost and risk of mandatory reserves.",
+   "summary": "Goold argues that the revised allotment denies the company a share of growing demand. He says it will comply with reserve requirements only if the government funds storage and stocks and covers losses and expenses.",
+   "keywords": [
+    "Standard-Vacuum",
+    "gasoline allotment",
+    "reserve stocks",
+    "protest"
+   ]
+  },
+  {
+   "title": "Japanese Foreign Minister’s response to petroleum representations",
+   "doc_type": "telegram received",
+   "start_page": 400,
+   "end_page": 400,
+   "continues_previous": false,
+   "date": "1934-09-25",
+   "from": "Edwin L. Neville, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the Foreign Minister’s response to an oral U.S. message on foreign oil companies.",
+   "summary": "The minister acknowledged the companies’ uncertainty and the hardship of costly storage without assurance of future business.",
+   "keywords": [
+    "diplomatic representation",
+    "storage costs",
+    "foreign oil companies"
+   ]
+  },
+  {
+   "title": "Notice to London of Tokyo petroleum conversation",
+   "doc_type": "telegram sent",
+   "start_page": 401,
+   "end_page": 401,
+   "continues_previous": false,
+   "date": "1934-09-26",
+   "from": "Department of State, Washington",
+   "to": "American Embassy, London",
+   "about": "Relays Neville’s report and directs confidential oral notice to the British Foreign Office.",
+   "summary": "The Department forwards the Japanese minister’s response and asks the Embassy to inform the Foreign Office confidentially.",
+   "keywords": [
+    "British Foreign Office",
+    "Tokyo",
+    "diplomatic coordination"
+   ]
+  },
+  {
+   "title": "Telephone conversation with Walter C. Teagle",
+   "doc_type": "memorandum of conversation",
+   "start_page": 402,
+   "end_page": 403,
+   "continues_previous": false,
+   "date": "1934-09-25",
+   "from": "Mr. Hornbeck",
+   "to": "Department of State files",
+   "about": "Records notice to Teagle of U.S. representations in Tokyo and a discussion of related oil matters.",
+   "summary": "Hornbeck tells Teagle of the informal approach to Japan and requests discretion. They also discuss British action, oil-company difficulties in Canton, and a forthcoming meeting.",
+   "keywords": [
+    "Walter C. Teagle",
+    "Japanese petroleum law",
+    "Canton"
+   ]
+  },
+  {
+   "title": "American oil interests in Japan",
+   "doc_type": "embassy despatch",
+   "start_page": 404,
+   "end_page": 413,
+   "continues_previous": false,
+   "date": "1934-09-21",
+   "from": "Edwin L. Neville, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Surveys diplomatic protests and the commercial effects of Japan’s petroleum controls.",
+   "summary": "Neville reports British and Netherlands representations, Japanese Foreign Office doubts about compulsory storage, and foreign companies’ reluctance to submit binding investment plans. He discusses possible refinery licenses, newspaper criticism, attempts to limit crude-oil supplies to Manchuria, and a reported plan to reduce foreign firms’ market shares gradually.",
+   "keywords": [
+    "Petroleum Industry Law",
+    "reserve stocks",
+    "British and Netherlands protests",
+    "refineries",
+    "Manchuria",
+    "sales monopoly"
+   ]
+  },
+  {
+   "title": "Netherlands aide-mémoire on petroleum regulations",
+   "doc_type": "aide-mémoire, enclosure",
+   "start_page": 414,
+   "end_page": 416,
+   "continues_previous": false,
+   "date": "1934-09-18",
+   "from": "Netherlands Legation",
+   "to": "Japanese Government",
+   "about": "Requests relief from provisions that threaten Netherlands oil interests in Japan.",
+   "summary": "The Netherlands Legation cites costly reserve stocks, uncertain annual licenses, refinery policy, and government price controls. It asks Japan to remedy conditions that prevent Rising Sun and associated Netherlands interests from making secure investment decisions.",
+   "keywords": [
+    "Netherlands",
+    "Rising Sun Petroleum Company",
+    "reserve stocks",
+    "licenses",
+    "price controls"
+   ]
+  },
+  {
+   "title": "British aide-mémoire on petroleum legislation",
+   "doc_type": "aide-mémoire, enclosure",
+   "start_page": 417,
+   "end_page": 419,
+   "continues_previous": false,
+   "date": "1934-07-26",
+   "from": "British Embassy",
+   "to": "Japanese Government",
+   "about": "Seeks clarification and discussion before British firms commit capital to storage and refining.",
+   "summary": "The Embassy says British importers face imminent decisions on tanks and possible refineries without assurance of future licenses or trade volume. It requests discussion and explicit assurances under the new law.",
+   "keywords": [
+    "British oil interests",
+    "storage tanks",
+    "refinery",
+    "annual licenses"
+   ]
+  },
+  {
+   "title": "Neville–Kurusu interview on oil controls",
+   "doc_type": "memorandum of conversation, enclosure",
+   "start_page": 420,
+   "end_page": 420,
+   "continues_previous": false,
+   "date": "1934-09-13",
+   "from": "Edwin L. Neville",
+   "to": "American Embassy files",
+   "about": "Records Kurusu’s concerns about storage rules and possible foreign retaliation.",
+   "summary": "Kurusu calls the storage requirement impracticable and seeks assurances for foreign firms while warning of possible oil-export restrictions.",
+   "keywords": [
+    "Kurusu",
+    "storage requirement",
+    "retaliation"
+   ]
+  },
+  {
+   "title": "Renewed British representations on Japan’s petroleum law",
+   "doc_type": "telegram received",
+   "start_page": 421,
+   "end_page": 422,
+   "continues_previous": false,
+   "date": "1934-10-10",
+   "from": "Edwin L. Neville, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the British Ambassador’s October 5 aide-mémoire seeking modification of the law’s operation.",
+   "summary": "Neville relays British concern that firms lack assurances needed to submit complete 1935 plans and avoid hardship.",
+   "keywords": [
+    "British representations",
+    "1935 business plans",
+    "Petroleum Industry Law"
+   ]
+  },
+  {
+   "title": "Forwarding of British petroleum representations",
+   "doc_type": "telegram sent",
+   "start_page": 423,
+   "end_page": 424,
+   "continues_previous": false,
+   "date": "1934-10-10",
+   "from": "Department of State, Washington",
+   "to": "American Embassy, London",
+   "about": "Forwards Neville’s report of renewed British representations in Japan.",
+   "summary": "The Department transmits the substance of the October 5 British aide-mémoire to London.",
+   "keywords": [
+    "British aide-mémoire",
+    "London",
+    "petroleum law"
+   ]
+  },
+  {
+   "title": "British Foreign Office consultations on Japanese petroleum law",
+   "doc_type": "embassy despatch",
+   "start_page": 425,
+   "end_page": 426,
+   "continues_previous": false,
+   "date": "1934-10-01",
+   "from": "H. C. Millard, American Embassy, London",
+   "to": "Secretary of State, Washington",
+   "about": "Reports oral exchanges with the British Foreign Office about petroleum representations.",
+   "summary": "Millard says the Foreign Office was informed of U.S. messages and instructed its ambassador in Tokyo to make further representations.",
+   "keywords": [
+    "British Foreign Office",
+    "American Embassy London",
+    "representations"
+   ]
+  },
+  {
+   "title": "Conversation with Deterding and Teagle",
+   "doc_type": "memorandum of conversation",
+   "start_page": 427,
+   "end_page": 429,
+   "continues_previous": false,
+   "date": "1934-08-22",
+   "from": "Department of State",
+   "to": "Department of State files",
+   "about": "Records oil executives’ proposals for joint protest and possible restrictions on exports to Japan.",
+   "summary": "Teagle and Deterding describe the law as threatening their Japanese businesses and propose coordinated government protest and a U.S. inquiry into oil-export restrictions. Phillips arranges a meeting with Interior Secretary Ickes.",
+   "keywords": [
+    "Henri Deterding",
+    "Walter C. Teagle",
+    "joint protest",
+    "oil export restrictions"
+   ]
+  },
+  {
+   "title": "Petroleum Industry Control Law, Japanese Empire",
+   "doc_type": "company memorandum, attachment",
+   "start_page": 430,
+   "end_page": 431,
+   "continues_previous": false,
+   "date": "1934-08-21",
+   "from": "Standard Oil interests",
+   "to": "Department of State",
+   "about": "Sets out the company’s account of Japanese oil controls and projected costs.",
+   "summary": "The memorandum traces price controls and gasoline competition before describing the 1934 law’s licensing, business-plan, and reserve-stock requirements. It estimates large storage and inventory costs, questions the economics of a Japanese refinery, and says the company would require government funding and indemnity to comply with compulsory reserves.",
+   "keywords": [
+    "Petroleum Industry Control Law",
+    "Standard-Vacuum",
+    "storage costs",
+    "refining",
+    "prices"
+   ]
+  },
+  {
+   "title": "Japan–Korea–Formosa deliveries into consumption, 1930–1933",
+   "doc_type": "statistical table, attachment",
+   "start_page": 432,
+   "end_page": 433,
+   "continues_previous": false,
+   "date": "1934-08-20",
+   "from": "Standard-Vacuum oil interests",
+   "to": "Department of State",
+   "about": "Compares petroleum-product deliveries and market shares by company and year.",
+   "summary": "Tables list product volumes and market shares across Japan, Korea, and Formosa for 1930–1933.",
+   "keywords": [
+    "petroleum statistics",
+    "market shares",
+    "Japan",
+    "Korea",
+    "Formosa"
+   ]
+  },
+  {
+   "title": "Japan territory investment and business figures",
+   "doc_type": "financial tables, attachment",
+   "start_page": 434,
+   "end_page": 435,
+   "continues_previous": false,
+   "date": "1934-05",
+   "from": "Standard-Vacuum oil interests",
+   "to": "Department of State",
+   "about": "Tabulates investments, depreciated values, receivables, and sales for Japanese territories.",
+   "summary": "The tables summarize property values, inventory, accounts, and sales for Yokohama, Keijō, Formosa, and totals.",
+   "keywords": [
+    "investment",
+    "property values",
+    "Yokohama",
+    "Keijō",
+    "Formosa"
+   ]
+  },
+  {
+   "title": "Letter enclosing article on Japan’s fuel program",
+   "doc_type": "cover letter",
+   "start_page": 436,
+   "end_page": 436,
+   "continues_previous": false,
+   "date": "1934-08-22",
+   "from": "Unclear signature",
+   "to": "Dr. Stanley Hornbeck",
+   "about": "Sends a translation of a newspaper article discussed at a meeting.",
+   "summary": "The writer encloses a translated article containing information on Japan’s fuel program.",
+   "keywords": [
+    "cover letter",
+    "fuel program",
+    "translation"
+   ]
+  },
+  {
+   "title": "Japan’s fuel base",
+   "doc_type": "translated newspaper article, enclosure",
+   "start_page": 437,
+   "end_page": 442,
+   "continues_previous": false,
+   "date": "1934-07-13",
+   "from": "Pravda; signed Rosen",
+   "to": "",
+   "about": "Assesses Japan’s domestic fuel resources, oil dependence, concessions, and synthetic-fuel efforts.",
+   "summary": "The article argues that Japan’s growing oil demand far exceeds domestic production and surveys coal, hydropower, colonial sources, North Sakhalin concessions, and foreign imports. It describes exploration in Manchuria, shale-oil production at Fushun, coal hydrogenation, strategic reserves, and the difficulty of sustaining wartime fuel supplies under blockade.",
+   "keywords": [
+    "Pravda",
+    "Japanese fuel supply",
+    "North Sakhalin",
+    "Fushun",
+    "synthetic oil",
+    "wartime reserves"
+   ]
+  },
+  {
+   "title": "Internal discussion of proposed petroleum action",
+   "doc_type": "memorandum of conversation",
+   "start_page": 443,
+   "end_page": 444,
+   "continues_previous": false,
+   "date": "1934-08-23",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "Department of State files",
+   "about": "Considers the oil executives’ proposal and who should initiate joint government action.",
+   "summary": "Hornbeck questions whether Deterding seeks U.S. leadership despite larger British-Dutch interests. Participants favor considering action if Britain and the Netherlands initiate it.",
+   "keywords": [
+    "joint action",
+    "Henri Deterding",
+    "British-Dutch interests"
+   ]
+  },
+  {
+   "title": "Hornbeck’s preliminary conversation with Ickes",
+   "doc_type": "memorandum of conversation, with duplicated opening page",
+   "start_page": 445,
+   "end_page": 447,
+   "continues_previous": false,
+   "date": "1934-08-23",
+   "from": "Department of State",
+   "to": "Department of State files",
+   "about": "Records Hornbeck’s briefing of Ickes before the meeting with oil executives.",
+   "summary": "Hornbeck explains the State Department’s preference for British or Netherlands initiative and suggests questions Ickes should ask Teagle and Deterding. Pages 445 and 446 repeat the opening page.",
+   "keywords": [
+    "Harold Ickes",
+    "Stanley Hornbeck",
+    "British initiative",
+    "duplicate page"
+   ]
+  },
+  {
+   "title": "Conference with Ickes, Deterding, and Teagle",
+   "doc_type": "memorandum of conversation",
+   "start_page": 448,
+   "end_page": 454,
+   "continues_previous": false,
+   "date": "1934-08-23",
+   "from": "Department of State",
+   "to": "Department of State files",
+   "about": "Records a discussion of Japanese oil controls and possible coordinated restrictions on crude-oil exports.",
+   "summary": "Teagle and Deterding explain why price and reserve provisions threaten their Japanese operations and propose surveying and restricting U.S. crude-oil exports. Ickes considers the proposal practical, but Hornbeck says Britain and the Netherlands should initiate any joint government action. The participants discuss a written approach through London.",
+   "keywords": [
+    "Harold Ickes",
+    "Walter C. Teagle",
+    "Henri Deterding",
+    "crude-oil exports",
+    "joint action"
+   ]
+  },
+  {
+   "title": "Conversation with Netherlands Legation representative",
+   "doc_type": "memorandum of conversation",
+   "start_page": 455,
+   "end_page": 457,
+   "continues_previous": false,
+   "date": "1934-09-04",
+   "from": "Department of State",
+   "to": "Department of State files",
+   "about": "Records a Netherlands inquiry about the U.S. response to Japan’s petroleum law.",
+   "summary": "Molekamp conveys his government’s readiness in principle to make representations. Hamilton says the United States regards company objections as well founded and would consider British and Netherlands proposals for joint or concurrent action.",
+   "keywords": [
+    "Netherlands Legation",
+    "Bataafsche Petroleum Company",
+    "joint representations"
+   ]
+  },
+  {
+   "title": "Telephone conversation with Walter C. Teagle",
+   "doc_type": "memorandum of conversation",
+   "start_page": 458,
+   "end_page": 459,
+   "continues_previous": false,
+   "date": "1934-09-11",
+   "from": "Mr. Hornbeck",
+   "to": "Department of State files",
+   "about": "Updates Teagle on the absence of a British proposal concerning Japanese petroleum controls.",
+   "summary": "Hornbeck says the Department remains concerned and awaits a British initiative; Teagle says the companies are anxious.",
+   "keywords": [
+    "Walter C. Teagle",
+    "British initiative",
+    "petroleum controls"
+   ]
+  },
+  {
+   "title": "Conversation with Walter C. Teagle on diplomatic action",
+   "doc_type": "memorandum of conversation, incomplete ending",
+   "start_page": 460,
+   "end_page": 462,
+   "continues_previous": false,
+   "date": "1934-09-13",
+   "from": "Mr. Hornbeck",
+   "to": "Department of State files",
+   "about": "Clarifies the U.S. position on proposed British and Netherlands representations.",
+   "summary": "Hornbeck tells Teagle that the United States awaits a definite British proposal and corrects apparent misunderstandings in a telegram from Deterding. He reiterates that State is open to considering joint or concurrent action initiated by the British and Netherlands governments. The text ends mid-conversation.",
+   "keywords": [
+    "Walter C. Teagle",
+    "Henri Deterding",
+    "British proposal",
+    "Netherlands representations"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 6,
+  "pages": [
+   394,
+   462
+  ],
+  "pdf": "894.6363 Mines. Mining. Concessions., Carbon. Graphite., Japan, Petroleum., September 22, 1932 - January 3rd, 1935 842-part-1.pdf",
+  "seconds": 98.8,
+  "created": "2026-10-08 16:53:39",
+  "key": "japan-internal-affairs-894.6363-mines-mining-concessions-4-part-1"
+ }
+}

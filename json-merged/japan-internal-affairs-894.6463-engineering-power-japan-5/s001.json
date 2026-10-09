@@ -1,0 +1,719 @@
+{
+ "section_summary": "This section traces Japan’s electric power industry from a 1932 report on foreign loan obligations through the debate over state control in 1936 and legislation passed in 1938. Embassy despatches, State Department notes, press clippings and translated laws focus on the proposed transfer of power facilities to a government controlled company and its consequences for private owners and foreign bondholders. A separate 1937 telegram reports the planned destruction of a power substation at Tsingtao.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Japen",
+    "Empire of Japan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "ashington",
+    "vushington"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "N.Y.",
+    "N.Y"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "UNITED STATES OF AMERICA"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "European countries",
+    "European system"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Edwin L. Neville",
+   "role": "U.S. chargé d’affaires ad interim; sender of the 1932 telegram and 1936 despatch",
+   "variants": [
+    "Neville",
+    "NEVILLE",
+    "Edwin L. Nevillo"
+   ]
+  },
+  {
+   "name": "Tanomogi",
+   "role": "Japanese Minister of Communications",
+   "variants": [
+    "Mr. Tanomogi",
+    "l.r. Tanomogi",
+    "I.r. Tanomogi",
+    "Tanomogi"
+   ]
+  },
+  {
+   "name": "Baba",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Mr. Baba"
+   ]
+  },
+  {
+   "name": "Hirota",
+   "role": "Japanese premier",
+   "variants": [
+    "iremier irota",
+    "Premier Hirota"
+   ]
+  },
+  {
+   "name": "Ballantine",
+   "role": "Author of a report on power nationalization",
+   "variants": [
+    "Mr. Ballantine"
+   ]
+  },
+  {
+   "name": "Erle R. Dickover",
+   "role": "U.S. chargé d’affaires ad interim",
+   "variants": [
+    "Erle R. Dickover",
+    "E.R.Dickover",
+    "E.R. Dickover"
+   ]
+  },
+  {
+   "name": "Crocker",
+   "role": "Author of a Tokyo despatch",
+   "variants": [
+    "Mr. Crocker"
+   ]
+  },
+  {
+   "name": "Ogawa",
+   "role": "Japanese Minister of Commerce and Industry",
+   "variants": [
+    "r. Ogawa",
+    "Mr. Ogawa"
+   ]
+  },
+  {
+   "name": "Maeda",
+   "role": "Japanese Minister of Railways",
+   "variants": [
+    "Mr. Maeda",
+    "Marda"
+   ]
+  },
+  {
+   "name": "Machida",
+   "role": "Minseito president",
+   "variants": [
+    "Mr. Machida"
+   ]
+  },
+  {
+   "name": "Terauchi",
+   "role": "Japanese Minister of War",
+   "variants": [
+    "General Terauchi",
+    "War Minister Terauchi"
+   ]
+  },
+  {
+   "name": "Seinosuke Goh",
+   "role": "Tokyo Electric Light Company chairman and business federation leader",
+   "variants": [
+    "Baron Seinosuke Goh",
+    "Baron Goh"
+   ]
+  },
+  {
+   "name": "Toyotaro Yuki",
+   "role": "President of the Industrial Bank of Japan",
+   "variants": [
+    "Mr. Toyotaro Yuki"
+   ]
+  },
+  {
+   "name": "Sokobin",
+   "role": "Sender of the Tsingtao telegram",
+   "variants": [
+    "Sokobin",
+    "SCKCFIN"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. ambassador in Tokyo",
+   "variants": [
+    "Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Joji Matsumoto",
+   "role": "Former Japanese Minister of Commerce and Industry and legal scholar",
+   "variants": [
+    "Dr. Joji Matsumoto",
+    "Dr. JOJI MATSUMOTO",
+    "Matsumoto"
+   ]
+  },
+  {
+   "name": "Sun Tung-po",
+   "role": "Poet cited by Matsumoto",
+   "variants": [
+    "Sun Tung-po"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Japanese prime minister",
+   "variants": [
+    "Frince Fumimaro Konoe",
+    "Prince Fumimaro Konoe"
+   ]
+  },
+  {
+   "name": "Ryutaro Nagai",
+   "role": "Japanese Minister of Communications",
+   "variants": [
+    "Mr. Nagai",
+    "Nagai",
+    "yutaro Nagai",
+    "Ryutaro Nagai"
+   ]
+  },
+  {
+   "name": "Okinobu Kaya",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Okinobu Kaya"
+   ]
+  }
+ ],
+ "keywords": [
+  "electric power",
+  "state control",
+  "nationalization",
+  "foreign loans",
+  "American investment",
+  "government legislation",
+  "compulsory transfer",
+  "debentures",
+  "property appraisal",
+  "national defense",
+  "state socialism",
+  "Tsingtao"
+ ],
+ "subfiles": [
+  {
+   "title": "Document file note on electric industry telegram",
+   "doc_type": "document file note",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Points to a telegram on Japanese electric companies’ ability to meet foreign obligations.",
+   "summary": "Cross-references Neville’s April 7, 1932, telegram to file 894.50/65.",
+   "keywords": [
+    "cross-reference",
+    "electric industry",
+    "foreign loans"
+   ]
+  },
+  {
+   "title": "Electric Light and Power",
+   "doc_type": "telegram",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1932-04-07",
+   "from": "Neville, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Assesses Japanese electric companies’ foreign debt and ability to service it.",
+   "summary": "Five major companies should meet foreign obligations, probably by reducing dividends.",
+   "keywords": [
+    "electric industry",
+    "foreign loans",
+    "dividends"
+   ]
+  },
+  {
+   "title": "Note on Tokyo despatch No. 2028",
+   "doc_type": "departmental memorandum",
+   "start_page": 3,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1936-09-23",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes Cabinet disagreement over state operation of Japan’s electric power industry.",
+   "summary": "Notes military support, financial opposition and the significance of the outcome for American investment.",
+   "keywords": [
+    "state control",
+    "Cabinet",
+    "American investment"
+   ]
+  },
+  {
+   "title": "Proposed State Control of Electrical Industries",
+   "doc_type": "despatch",
+   "start_page": 5,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1936-09-04",
+   "from": "Edwin L. Neville, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports competing plans for state control of electric generation and transmission.",
+   "summary": "Neville describes the industry’s scale and foreign debt, Tanomogi’s private ownership and state operation proposal, and alternatives involving state ownership. Military and national defense supporters faced opposition from business interests and the finance minister. The Embassy expected a compromise and viewed the outcome as a measure of support for socialization.",
+   "keywords": [
+    "state control",
+    "foreign debt",
+    "Tanomogi",
+    "national defense"
+   ]
+  },
+  {
+   "title": "External Loans of Japanese Electric Power Companies",
+   "doc_type": "enclosed statement",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1935-12-31",
+   "from": "American Embassy, Tokyo",
+   "to": "Department of State",
+   "about": "Lists outstanding external loans of Japanese electric power companies.",
+   "summary": "Tabulates loan amounts, interest, maturity dates and underwriters as of December 31, 1935.",
+   "keywords": [
+    "external loans",
+    "electric companies",
+    "underwriters"
+   ]
+  },
+  {
+   "title": "Note on state control of the electric power industry",
+   "doc_type": "departmental memorandum",
+   "start_page": 12,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1936-10-07",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes the developing plan for state operation of Japanese electric power.",
+   "summary": "Notes the Cabinet’s approval in principle, American capital at stake, and the plan’s place in a wider nationalization program.",
+   "keywords": [
+    "nationalization",
+    "Cabinet",
+    "American investment"
+   ]
+  },
+  {
+   "title": "Proposed State Control of Electric Power Industry",
+   "doc_type": "despatch",
+   "start_page": 14,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1936-09-18",
+   "from": "Erle R. Dickover, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Explains draft laws and political reactions to the proposed power control scheme.",
+   "summary": "The draft laws would pool private generating and transmission facilities in a company for government operation, with appraisal, supervision and guaranteed dividends. Dickover reports opposition from the Tokyo Chamber of Commerce and support from military officials citing wartime power needs. Cabinet agreement in principle had emerged, though details remained unsettled.",
+   "keywords": [
+    "draft laws",
+    "private ownership",
+    "state operation",
+    "national defense"
+   ]
+  },
+  {
+   "title": "Note on nationalization controversy",
+   "doc_type": "departmental memorandum",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1936-11-05",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes political and industrial opposition to power nationalization.",
+   "summary": "Reports military pressure, industrial resentment and the Embassy’s expectation of a compromise.",
+   "keywords": [
+    "nationalization",
+    "military",
+    "industrial opposition"
+   ]
+  },
+  {
+   "title": "Nationalization of the Electrical Power Industry",
+   "doc_type": "despatch",
+   "start_page": 22,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1936-10-15",
+   "from": "Erle R. Dickover, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports efforts to reconcile Cabinet plans and growing resistance to state control.",
+   "summary": "Dickover contrasts proposals for state ownership and for private ownership under state operation, and describes a possible bond financed compromise. Political parties and power companies opposed the plan; Baron Goh proposed merging the five largest companies instead. An anonymous newspaper advertisement criticized military pressure. The Embassy expected a compromise bill but anticipated further political conflict.",
+   "keywords": [
+    "Cabinet compromise",
+    "power companies",
+    "Baron Goh",
+    "military"
+   ]
+  },
+  {
+   "title": "The Military Authorities and the Electric Power Control Question",
+   "doc_type": "translated newspaper advertisement",
+   "start_page": 28,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1936-10-13",
+   "from": "Anonymous advertiser in Nichi Nichi",
+   "to": "Newspaper readers",
+   "about": "Criticizes military pressure for rapid state control of electric power.",
+   "summary": "The advertisement argues that War Minister Terauchi is pressing for action before ministers resolve the plan’s merits. It warns of damage to business confidence and calls for agreement among the departments concerned.",
+   "keywords": [
+    "military",
+    "state control",
+    "Terauchi",
+    "business opposition"
+   ]
+  },
+  {
+   "title": "Note on Tokyo despatch No. 2109",
+   "doc_type": "departmental memorandum",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1936-11-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes ministerial agreement on an amended electric power control plan.",
+   "summary": "Notes agreement in principle, continued opposition from power interests, and likely submission to the Diet.",
+   "keywords": [
+    "state operation",
+    "Diet",
+    "power interests"
+   ]
+  },
+  {
+   "title": "Proposed State Control of Electric Power Industries",
+   "doc_type": "despatch",
+   "start_page": 33,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1936-10-29",
+   "from": "Erle R. Dickover, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Details amendments to the proposed state management bill and opposition to it.",
+   "summary": "Ministers agreed on provisions for buying company shares, appraising transferred facilities and including industry representatives in management. Dickover argues that the amended bill still rests on private ownership and state operation. Power interests remained opposed, while political party positions were shifting.",
+   "keywords": [
+    "amendments",
+    "share purchase",
+    "appraisal",
+    "state management"
+   ]
+  },
+  {
+   "title": "Document file note on Tsingtao power substation",
+   "doc_type": "document file note",
+   "start_page": 38,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Cross-references a telegram on a threatened power substation in Tsingtao.",
+   "summary": "Notes that Chinese authorities planned to destroy a Sino-Japanese owned substation.",
+   "keywords": [
+    "Tsingtao",
+    "substation",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Tsingtao power substation",
+   "doc_type": "telegram",
+   "start_page": 39,
+   "end_page": 39,
+   "continues_previous": false,
+   "date": "1937-12-29",
+   "from": "Sokobin, Tsingtao",
+   "to": "Secretary of State, Washington",
+   "about": "Reports a plan to destroy a Sino-Japanese owned electric substation.",
+   "summary": "A source says Chinese authorities will destroy the new substation; the old plant will continue operating.",
+   "keywords": [
+    "Tsingtao",
+    "Sino-Japanese conflict",
+    "power substation"
+   ]
+  },
+  {
+   "title": "Handwritten note on electric power nationalization",
+   "doc_type": "departmental note",
+   "start_page": 40,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1938-02-28",
+   "from": "",
+   "to": "",
+   "about": "Comments on a brief despatch concerning power nationalization.",
+   "summary": "Observes that nationalization has become less politically contentious since the legislation was first introduced.",
+   "keywords": [
+    "nationalization",
+    "politics",
+    "legislation"
+   ]
+  },
+  {
+   "title": "Proposed Nationalization of the Electric Power Industry",
+   "doc_type": "despatch",
+   "start_page": 41,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1938-02-04",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports the introduction of electric power control legislation in the Diet.",
+   "summary": "The bills revive private ownership under state operation and address compulsory transfer of facilities. Grew notes concern for American bondholders and expects passage with slight amendments.",
+   "keywords": [
+    "Diet",
+    "power control bill",
+    "American bondholders"
+   ]
+  },
+  {
+   "title": "Note on passage of Electric Power Bill",
+   "doc_type": "departmental memorandum",
+   "start_page": 44,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1938-04-20",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes the new power control law and its implications for investors.",
+   "summary": "Describes government rate setting, share compensation, appraisal and the Embassy’s concerns about Japanese government credit and broader socialization.",
+   "keywords": [
+    "power control law",
+    "appraisal",
+    "government credit"
+   ]
+  },
+  {
+   "title": "Passage of Electric Power Control Bill",
+   "doc_type": "despatch",
+   "start_page": 46,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1938-04-01",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Reports passage of the bill and assesses its effects on companies and American investors.",
+   "summary": "The bill creates a government controlled power company, permits compulsory transfer of facilities for shares, and guarantees a four percent return. Grew questions the appraisal method and the value of government backed debentures to American investors. He also reports fears that the measure could precede wider socialization.",
+   "keywords": [
+    "legislation",
+    "compulsory transfer",
+    "debentures",
+    "American investment"
+   ]
+  },
+  {
+   "title": "Electricity State Control Bill Disapproved by Matsumoto",
+   "doc_type": "newspaper clipping",
+   "start_page": 50,
+   "end_page": 52,
+   "continues_previous": false,
+   "date": "1938-03-20",
+   "from": "The Japan Times",
+   "to": "Newspaper readers",
+   "about": "Prints Joji Matsumoto’s legal objections to the Electric Power Bill.",
+   "summary": "Matsumoto questions compulsory transfer, the appraisal standard and the treatment of foreign debentures. He warns that changes to pledged assets may impair creditors’ contractual rights and urges withdrawal or revision of the bill.",
+   "keywords": [
+    "Matsumoto",
+    "property rights",
+    "foreign debentures",
+    "appraisal"
+   ]
+  },
+  {
+   "title": "Power Bill Retains Compulsion Clause",
+   "doc_type": "newspaper clipping",
+   "start_page": 53,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1938-03-29",
+   "from": "The Japan Advertiser",
+   "to": "Newspaper readers",
+   "about": "Reports compulsory investment provisions in the enacted power bill.",
+   "summary": "Describes compelled equipment transfers, payment through guaranteed debentures and estimated effects on the five largest power companies.",
+   "keywords": [
+    "compulsion clause",
+    "debentures",
+    "Big Five"
+   ]
+  },
+  {
+   "title": "Passage of Power Control Bills",
+   "doc_type": "newspaper clipping",
+   "start_page": 54,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1938-03-29",
+   "from": "The Japan Times",
+   "to": "Newspaper readers",
+   "about": "Comments on passage of power control legislation and its likely effects.",
+   "summary": "The editorial describes compromises on appraisal and dividends while noting concern about compulsory investment and foreign debt. It expects little general reduction in electricity rates.",
+   "keywords": [
+    "power control bills",
+    "dividends",
+    "foreign creditors",
+    "electricity rates"
+   ]
+  },
+  {
+   "title": "Note on electric power control legislation",
+   "doc_type": "departmental memorandum",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1938-06-01",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Evaluates a despatch enclosing translations of the enacted laws.",
+   "summary": "Says the translations may be useful for the files, while the Embassy summary adds little new information.",
+   "keywords": [
+    "legislation",
+    "translations",
+    "file note"
+   ]
+  },
+  {
+   "title": "Electric Power Control Legislation",
+   "doc_type": "despatch",
+   "start_page": 57,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1938-04-30",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Summarizes four enacted power laws and encloses Embassy translations.",
+   "summary": "Grew explains government control of generation, transmission and rates; compulsory facility transfer; compensation in shares or debentures; and treatment of existing debenture contracts. The new company assumes obligations, but bondholders cannot demand early repayment merely because of the reorganization. Power interests have announced cooperation despite earlier opposition.",
+   "keywords": [
+    "enacted laws",
+    "facility transfer",
+    "debentures",
+    "foreign creditors"
+   ]
+  },
+  {
+   "title": "Electric Power Control Law",
+   "doc_type": "translated law",
+   "start_page": 61,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1938-04-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "Establishes government control over electric generation, transmission and rates.",
+   "summary": "Law No. 76 assigns generation and transmission to the new company under government direction, creates an advisory commission, and sets supervisory and penalty provisions.",
+   "keywords": [
+    "Electric Power Control Law",
+    "rates",
+    "government control"
+   ]
+  },
+  {
+   "title": "Japan Electric Generation and Transmission Company Limited Law",
+   "doc_type": "translated law",
+   "start_page": 64,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1938-04-05",
+   "from": "Japanese government",
+   "to": "",
+   "about": "Establishes the new power company and rules for transfer and valuation of facilities.",
+   "summary": "Law No. 77 defines the company, limits share ownership and authorizes compulsory transfer of designated facilities. The pages in this section set out valuation, share allotment, court challenges, purchase of stranded facilities and owners’ right to request repurchase of shares. The text continues beyond page 69.",
+   "keywords": [
+    "power company",
+    "compulsory transfer",
+    "appraisal",
+    "shares"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 2,
+  "pages": [
+   1,
+   69
+  ],
+  "pdf": "894.6463 Engineering., Power., Japan, Electric., April 7, 1932 - August 24, 1938 1042.pdf",
+  "seconds": 77.6,
+  "created": "2026-10-08 16:30:07",
+  "key": "japan-internal-affairs-894.6463-engineering-power-japan-5"
+ }
+}

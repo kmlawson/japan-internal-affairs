@@ -1,0 +1,1226 @@
+{
+ "section_summary": "This section continues a report on Japan’s fisheries. It recommends policies for administering and restoring fisheries during the occupation, then surveys fishing grounds, species, seasons, workers, vessels, ports, production, coastal fishing methods, and aquaculture. Maps and statistical tables are embedded throughout the report.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japanese waters",
+    "Japan proper"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S. S. R."
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Soviet",
+    "Soviet Russia",
+    "Russian waters",
+    "U. S. S. R."
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australian waters"
+   ]
+  },
+  {
+   "name": "Antarctica",
+   "variants": [
+    "Antarctic"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "British Columbia",
+   "variants": [
+    "British Columbia"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Mexican waters"
+   ]
+  },
+  {
+   "name": "Central America",
+   "variants": [
+    "Central America"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Sicily",
+   "variants": [
+    "Secily"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "New England",
+   "variants": [
+    "New England"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "CHOSEN",
+    "Chosen",
+    "Korean waters"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "MANCHURIA",
+    "Manchuria",
+    "MANCHUKUO"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Taiwan",
+    "TAIWAN",
+    "Formosan waters"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sakhalin",
+    "SAKHALIN"
+   ]
+  },
+  {
+   "name": "Karafuto",
+   "variants": [
+    "Karafuto",
+    "KARAFUTO"
+   ]
+  },
+  {
+   "name": "Kamchatka Peninsula",
+   "variants": [
+    "Kamchatka",
+    "Lanchatka",
+    "POLUOSTROV KAMCHATKA"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia",
+    "Siberian Coast"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pacific Ocean",
+    "PACIFICOCEAN",
+    "PACIFIC OCEAN"
+   ]
+  },
+  {
+   "name": "Bering Sea",
+   "variants": [
+    "Bering Sea"
+   ]
+  },
+  {
+   "name": "Sea of Okhotsk",
+   "variants": [
+    "Sea of Okhotsk",
+    "Okhotak Sea",
+    "Okhotsk Sea",
+    "OKHOTSK"
+   ]
+  },
+  {
+   "name": "Sea of Japan",
+   "variants": [
+    "Japan Sea",
+    "Sea of Japan",
+    "SEA OF JAPAN"
+   ]
+  },
+  {
+   "name": "Yellow Sea",
+   "variants": [
+    "Yellow Sea",
+    "YELLOW SEA"
+   ]
+  },
+  {
+   "name": "East China Sea",
+   "variants": [
+    "East China Sea",
+    "EAST CHINA SEA",
+    "China Sea",
+    "China Sen",
+    "China Ses"
+   ]
+  },
+  {
+   "name": "Inland Sea of Japan",
+   "variants": [
+    "Inland Sea",
+    "INLAND SEA"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas",
+    "South Sees",
+    "South Seas area (Nanyo)"
+   ]
+  },
+  {
+   "name": "Indian waters",
+   "variants": [
+    "Indian waters"
+   ]
+  },
+  {
+   "name": "Pacific Mandated Islands",
+   "variants": [
+    "Pacific Mandated Islands",
+    "Mandated Islands"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwangtung Leased Territory"
+   ]
+  },
+  {
+   "name": "Gulf of Penzhina",
+   "variants": [
+    "Gulf of Penzhinskaya"
+   ]
+  },
+  {
+   "name": "Soya Strait",
+   "variants": [
+    "Soya Strait",
+    "SOYA STRAIT"
+   ]
+  },
+  {
+   "name": "Tsushima Strait",
+   "variants": [
+    "Tusima Strait"
+   ]
+  },
+  {
+   "name": "Tsugaru Strait",
+   "variants": [
+    "TSUGARU STRAIT"
+   ]
+  },
+  {
+   "name": "Bohai Sea",
+   "variants": [
+    "SEA OF POHAI"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonin Islands",
+    "BONIN ISLANDS",
+    "OGASA WARA",
+    "OGASAWARA"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands",
+   "variants": [
+    "Loochoo Islands",
+    "Ryukyu Islands",
+    "RYUKYU ISLANDS",
+    "NANSEI SHOTO",
+    "NANSEI"
+   ]
+  },
+  {
+   "name": "Kurile Islands",
+   "variants": [
+    "Kurile Islands",
+    "Kuriles",
+    "CHISHIMA RETTO"
+   ]
+  },
+  {
+   "name": "Volcano Islands",
+   "variants": [
+    "KAZAN IS"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokaido",
+    "Horkaido",
+    "Eokkaido",
+    "HOKKAIDO"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu",
+    "Honshm",
+    "HONSHU"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku",
+    "SHIKOKU"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "Kyush",
+    "Kyusim",
+    "Xyushm",
+    "KYUSHU"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa",
+    "OKINAWA 1."
+   ]
+  },
+  {
+   "name": "Etorofu Island",
+   "variants": [
+    "Etorofu",
+    "ETOROFU L."
+   ]
+  },
+  {
+   "name": "Kunashir Island",
+   "variants": [
+    "KUNASHIRI 1."
+   ]
+  },
+  {
+   "name": "Sado Island",
+   "variants": [
+    "Sado Island"
+   ]
+  },
+  {
+   "name": "Shakotan Peninsula",
+   "variants": [
+    "SHAKOTAN-Y PENINSULA"
+   ]
+  },
+  {
+   "name": "Noto Peninsula",
+   "variants": [
+    "NOTO PENINSULA"
+   ]
+  },
+  {
+   "name": "Izu Peninsula",
+   "variants": [
+    "Izu Peninmula",
+    "Isu district",
+    "Izu"
+   ]
+  },
+  {
+   "name": "Sagami Bay",
+   "variants": [
+    "Sagami Bay",
+    "SAGAMI BAY"
+   ]
+  },
+  {
+   "name": "Atei Bay",
+   "variants": [
+    "Atei Bay"
+   ]
+  },
+  {
+   "name": "Tosa Province",
+   "variants": [
+    "Tosa province"
+   ]
+  },
+  {
+   "name": "Satsuma",
+   "variants": [
+    "Satouma",
+    "Satsuma"
+   ]
+  },
+  {
+   "name": "Nankaidō",
+   "variants": [
+    "Nankaido"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Kantō",
+   "variants": [
+    "Kanto"
+   ]
+  },
+  {
+   "name": "Tōkaidō",
+   "variants": [
+    "Tokaido"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki"
+   ]
+  },
+  {
+   "name": "Chūgoku",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Hokkaido Prefecture",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "Aomori Prefecture"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate",
+    "Iwate Prefecture"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi",
+    "Miyagi Prefecture"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita",
+    "Akd ta",
+    "Aldta",
+    "Akita Prefecture"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata",
+    "Yamagata Prefecture"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima",
+    "Fukmshima",
+    "Fukushima Prefecture"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki",
+    "Ibaraii",
+    "Ibaraki Prefecture"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Sai tama",
+    "Saitame"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba",
+    "Chi ba",
+    "Chibe",
+    "Chiba Prefecture"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tōkyo"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kenagawa",
+    "Kanagawe",
+    "Kanagawa Prefecture"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata",
+    "Miigata",
+    "Niigata Prefecture"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa",
+    "I shikawe",
+    "Ishikawa Prefecture"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano",
+    "Nagano Prefecture"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu",
+    "G1fu"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka",
+    "Shi zuoka",
+    "Shimucke",
+    "Shizuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi",
+    "Aichi Prefecture"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie",
+    "Mie Prefecture"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga",
+    "Shiga Prefecture"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka",
+    "Osaka Prefecture"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Eyogo",
+    "Hyogyo"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "Hi roshima"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "Yamaguchi Prefecture"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi",
+    "Kochi Prefecture"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka",
+    "Fuluoka"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki",
+    "Nagasakd",
+    "Negasaki",
+    "Nagasaki Prefecture"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto",
+    "Kumaso to"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki",
+    "Miyasaki",
+    "Miyozoki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima",
+    "Kagoshima prefectures"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate",
+    "HAKODATE"
+   ]
+  },
+  {
+   "name": "Choshi",
+   "variants": [
+    "Choshi",
+    "CHOSHI",
+    "CHOSH"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki",
+    "Shimonosek"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Köbe"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru",
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Nemuro",
+   "variants": [
+    "Nemuro",
+    "Nomure"
+   ]
+  },
+  {
+   "name": "Muroran",
+   "variants": [
+    "Muroran"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro"
+   ]
+  },
+  {
+   "name": "Abashiri",
+   "variants": [
+    "Abashiri"
+   ]
+  },
+  {
+   "name": "Rumoi",
+   "variants": [
+    "Rumoe"
+   ]
+  },
+  {
+   "name": "Iwanai",
+   "variants": [
+    "Iwanai"
+   ]
+  },
+  {
+   "name": "Kiritappu",
+   "variants": [
+    "Kiritappu"
+   ]
+  },
+  {
+   "name": "Suttsu",
+   "variants": [
+    "Suttsu"
+   ]
+  },
+  {
+   "name": "Esashi",
+   "variants": [
+    "Esahi"
+   ]
+  },
+  {
+   "name": "Urakawa",
+   "variants": [
+    "Urakawa"
+   ]
+  },
+  {
+   "name": "Hachinohe",
+   "variants": [
+    "Hachinoe",
+    "Hochinos"
+   ]
+  },
+  {
+   "name": "Same",
+   "variants": [
+    "Same"
+   ]
+  },
+  {
+   "name": "Miyako",
+   "variants": [
+    "Miyako",
+    "Miyoko"
+   ]
+  },
+  {
+   "name": "Kamaishi",
+   "variants": [
+    "Kamaishi"
+   ]
+  },
+  {
+   "name": "Kesennuma",
+   "variants": [
+    "Kasemuma",
+    "Kasenuma"
+   ]
+  },
+  {
+   "name": "Shizugawa",
+   "variants": [
+    "Shizugawa",
+    "Shidzugawa"
+   ]
+  },
+  {
+   "name": "Shiogama",
+   "variants": [
+    "Shiogama",
+    "Shiogema"
+   ]
+  },
+  {
+   "name": "Naoetsu",
+   "variants": [
+    "Naoetsu",
+    "Naoetau"
+   ]
+  },
+  {
+   "name": "Onahama",
+   "variants": [
+    "Onahama",
+    "Onohama"
+   ]
+  },
+  {
+   "name": "Nanao",
+   "variants": [
+    "Nanao",
+    "Nonoo"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Tsuruga",
+    "Tauraga"
+   ]
+  },
+  {
+   "name": "Misaki",
+   "variants": [
+    "Mi said",
+    "Misaki"
+   ]
+  },
+  {
+   "name": "Shimizu",
+   "variants": [
+    "Shimisu"
+   ]
+  },
+  {
+   "name": "Katsuura",
+   "variants": [
+    "Katsuura"
+   ]
+  },
+  {
+   "name": "Moji",
+   "variants": [
+    "Moji"
+   ]
+  },
+  {
+   "name": "Tobata",
+   "variants": [
+    "To be ta",
+    "Tobata"
+   ]
+  },
+  {
+   "name": "Hakata",
+   "variants": [
+    "Bakata",
+    "Hakata"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsu"
+   ]
+  },
+  {
+   "name": "Muroto",
+   "variants": [
+    "Muroto",
+    "Maroto"
+   ]
+  },
+  {
+   "name": "Aburatsu",
+   "variants": [
+    "Aburatsu"
+   ]
+  },
+  {
+   "name": "Naha",
+   "variants": [
+    "Naha"
+   ]
+  },
+  {
+   "name": "Maoka",
+   "variants": [
+    "Maoka",
+    "Maokd"
+   ]
+  },
+  {
+   "name": "Honto",
+   "variants": [
+    "Honto"
+   ]
+  },
+  {
+   "name": "Otomari",
+   "variants": [
+    "Otomari",
+    "Odemeri"
+   ]
+  },
+  {
+   "name": "Petropavlovsk-Kamchatsky",
+   "variants": [
+    "Petropavlovak",
+    "Petroportorsk"
+   ]
+  },
+  {
+   "name": "Okhotsk",
+   "variants": [
+    "Okhotak"
+   ]
+  },
+  {
+   "name": "Busan",
+   "variants": [
+    "Fusan City"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Kyóngsong",
+    "Ke10"
+   ]
+  },
+  {
+   "name": "Lake Kasumigaura",
+   "variants": [
+    "Lake Kasumi-gaura",
+    "Lake Kasumigaura"
+   ]
+  },
+  {
+   "name": "Lake Suwa",
+   "variants": [
+    "Lake Sawa"
+   ]
+  },
+  {
+   "name": "Lake Chūzenji",
+   "variants": [
+    "Lake Chuzenji",
+    "Lake Chusenji",
+    "Chuzuji Lakes",
+    "Chizuji"
+   ]
+  },
+  {
+   "name": "Lake Biwa",
+   "variants": [
+    "Lake Biw",
+    "Lake Bim",
+    "Lakes Biwa"
+   ]
+  },
+  {
+   "name": "Lake Towada",
+   "variants": [
+    "Lake Towado",
+    "Towado"
+   ]
+  },
+  {
+   "name": "Lake Ashi",
+   "variants": [
+    "Ashi"
+   ]
+  },
+  {
+   "name": "Lake Shikotsu",
+   "variants": [
+    "Shishaku"
+   ]
+  },
+  {
+   "name": "Lake Haruna",
+   "variants": [
+    "Haruma"
+   ]
+  },
+  {
+   "name": "Lake Nojiri",
+   "variants": [
+    "Nojiri"
+   ]
+  },
+  {
+   "name": "Lake Kisaki",
+   "variants": [
+    "Kisaki"
+   ]
+  },
+  {
+   "name": "Lake Inawashiro",
+   "variants": [
+    "Lake Inawashiro"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Y. Sugiura",
+   "role": "Cited author on deep-sea tuna fishing grounds",
+   "variants": [
+    "Sugiura",
+    "Sugiura, Y."
+   ]
+  },
+  {
+   "name": "Fritz Bartz",
+   "role": "Cited author on Japanese coastal fishing villages",
+   "variants": [
+    "Fritz Bartz"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese fisheries",
+  "occupation policy",
+  "fishing grounds",
+  "fish species",
+  "fishing seasons",
+  "coastal fisheries",
+  "fishing vessels",
+  "fishing ports",
+  "fishery production",
+  "fishing gear",
+  "aquaculture",
+  "fishery statistics"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese fisheries: occupation recommendations and basic background material",
+   "doc_type": "report",
+   "start_page": 169,
+   "end_page": 243,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The report recommends occupation policy for Japanese fisheries and compiles background on their geography, resources, operations, production, and aquaculture.",
+   "summary": "The opening pages continue a discussion of fishery organizations, government control, and wartime reorganization. The report recommends restoring coastal fishing and aquaculture for domestic food needs, repairing boats and gear, regulating distribution, and using suitable Japanese administrative personnel. Its background sections describe fishing regions, currents, species, seasons, fishermen, vessels, ports, catches, coastal gear, and fish cultivation. Maps and tables supply geographic and statistical detail; the aquaculture discussion continues beyond page 243.",
+   "keywords": [
+    "military government",
+    "fishery restoration",
+    "coastal fishing",
+    "aquaculture",
+    "fishing grounds",
+    "fishing seasons",
+    "fishing vessels",
+    "fishing ports",
+    "production tables",
+    "fishing methods"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 10,
+  "pages": [
+   169,
+   243
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., January 30, 1945 - November 7, 1946 1542-part-1.pdf",
+  "seconds": 39.9,
+  "created": "2026-10-09 00:12:05",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-9-part-1"
+ }
+}

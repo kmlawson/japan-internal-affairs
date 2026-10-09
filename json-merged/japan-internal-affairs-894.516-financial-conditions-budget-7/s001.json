@@ -1,0 +1,83 @@
+{
+ "section_summary": "This section begins the Bank of Japan’s March 1947 Financial Statistics Monthly. It contains charts and tables on bank deposits, loans, securities, insurance, savings, stock trading, and Tokyo prices, with most series running through January 1947. The bulletin continues beyond page 33.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan",
+    "日本",
+    "本邦"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "東京",
+    "東 京"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "大阪",
+    "大 阪"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "Bank of Japan",
+  "financial statistics",
+  "bank deposits",
+  "bank loans",
+  "government bonds",
+  "securities",
+  "insurance",
+  "postal savings",
+  "stock exchange",
+  "price indexes"
+ ],
+ "subfiles": [
+  {
+   "title": "Financial Statistics Monthly, March 1947",
+   "doc_type": "statistical bulletin",
+   "start_page": 1,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1947-03",
+   "from": "Bank of Japan Statistical Bureau",
+   "to": "",
+   "about": "Monthly statistical tables survey Japanese financial institutions, securities markets, savings, and prices.",
+   "summary": "The bulletin opens with charts, a contents page, and Bank of Japan balance sheet figures. Subsequent tables report deposits, lending, and securities holdings across banks, cooperatives, insurers, and savings institutions, generally through January 1947. The closing pages in this section cover securities trading, cleared bills in Tokyo and Osaka, and Tokyo wholesale and retail price indexes.",
+   "keywords": [
+    "Financial Statistics Monthly",
+    "Bank of Japan",
+    "banking",
+    "loans",
+    "deposits",
+    "bonds",
+    "insurance",
+    "postal savings",
+    "stock exchange",
+    "price indexes"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 5,
+  "pages": [
+   1,
+   33
+  ],
+  "pdf": "894.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Banks. Banking., June 14, 1947 - August 2, 1949 1751.pdf",
+  "seconds": 12.3,
+  "created": "2026-10-08 22:52:13",
+  "key": "japan-internal-affairs-894.516-financial-conditions-budget-7"
+ }
+}

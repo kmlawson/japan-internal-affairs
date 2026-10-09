@@ -1,0 +1,1783 @@
+{
+ "section_summary": "This section documents Japanese control and requisition of merchant ships in 1941, including diverted cargo voyages and the claimed immunity of ships used to repatriate passengers. It also covers port expenses, fuel supplies, frozen funds, and British and American discussions about limiting bunkers for Japanese vessels. Later papers include intelligence reports, vessel lists, and a 1942 inquiry into whether Japanese ships were privately or government operated.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japanese Empire",
+    "Jpntse Eupire"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokio",
+    "Tokyo",
+    "Tokjo",
+    "Toly"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "Un1ted States",
+    "United Stetes",
+    "United tates",
+    "U. S.",
+    "States"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Vashington",
+    "MASHTOH, D. C."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "Now York",
+    "New York City",
+    "w ew York City"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "Shenahii",
+    "Shenrhe1"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australian waters"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Franoisco",
+    "San Francieco",
+    "Sen Francisco",
+    "Sen Fr cisco"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle",
+    "Beattle"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu",
+    "Hawai1",
+    "Hono-lulu"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawai1"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohana",
+    "Yoko hams",
+    "Yokobamm"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles",
+    "LOs Angeles"
+   ]
+  },
+  {
+   "name": "Balboa",
+   "variants": [
+    "Balboa",
+    "Balbon"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Canal Zone"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama",
+    "Paneme"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America",
+    "South Amerioa",
+    "South Amerion"
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica",
+    "Costa Rioa",
+    "Costa ioa",
+    "Coste Rica"
+   ]
+  },
+  {
+   "name": "Puntarenas",
+   "variants": [
+    "Puntarenas",
+    "Pumtarenas",
+    "Puntarense",
+    "Funtarenas",
+    "Punta-romas"
+   ]
+  },
+  {
+   "name": "San José, Costa Rica",
+   "variants": [
+    "Sen Jose"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Californin",
+    "Californie"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Arica",
+   "variants": [
+    "Aricn"
+   ]
+  },
+  {
+   "name": "Valparaíso",
+   "variants": [
+    "Valparaiso"
+   ]
+  },
+  {
+   "name": "San Antonio, Chile",
+   "variants": [
+    "San Antonio"
+   ]
+  },
+  {
+   "name": "Huasco",
+   "variants": [
+    "Humsco"
+   ]
+  },
+  {
+   "name": "Antofagasta",
+   "variants": [
+    "Antofagasta"
+   ]
+  },
+  {
+   "name": "Tocopilla",
+   "variants": [
+    "Too opilla",
+    "Too opilla",
+    "To o opilla",
+    "Too opilla",
+    "Toocopilla"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru",
+    "Peruvian ports"
+   ]
+  },
+  {
+   "name": "Manzanillo",
+   "variants": [
+    "Mansenillo",
+    "Manzanillo"
+   ]
+  },
+  {
+   "name": "Mollendo",
+   "variants": [
+    "Mollendo"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires",
+    "Buenon Airge"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentina",
+    "Ar entina"
+   ]
+  },
+  {
+   "name": "Batavia (Jakarta)",
+   "variants": [
+    "Batavia"
+   ]
+  },
+  {
+   "name": "Dutch East Indies (Indonesia)",
+   "variants": [
+    "Lutch East Indian"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Hexico",
+    "Moxico"
+   ]
+  },
+  {
+   "name": "Mexico City",
+   "variants": [
+    "lexico City"
+   ]
+  },
+  {
+   "name": "Oaxaca",
+   "variants": [
+    "Oaxaca"
+   ]
+  },
+  {
+   "name": "Laguna de Chacahua",
+   "variants": [
+    "Leguna Chacahua",
+    "Laguna Chacahua"
+   ]
+  },
+  {
+   "name": "Río Verde",
+   "variants": [
+    "Rio Verde"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "Ankara"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkish"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin America",
+    "Latin Amerlea",
+    "Latin Anerican",
+    "Latin-Amerioan",
+    "Letin-American"
+   ]
+  },
+  {
+   "name": "Strait of Magellan",
+   "variants": [
+    "the Straits"
+   ]
+  },
+  {
+   "name": "New York Harbor",
+   "variants": [
+    "New Yor:"
+   ]
+  },
+  {
+   "name": "Norfolk",
+   "variants": [
+    "Norfolk"
+   ]
+  },
+  {
+   "name": "San Pedro, California",
+   "variants": [
+    "SAN PEDRO",
+    "San Pedre"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Last",
+    "Far Eastern Waters",
+    "Far Eastern aters"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pacific area"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "British"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantio",
+    "Atlantic"
+   ]
+  },
+  {
+   "name": "Port of San Francisco",
+   "variants": [
+    "PORT OF SAN FRANCISCO, CALIFORNIA."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordell Hull",
+    "Cordell lHull",
+    "Hon. Cordell Hull",
+    "Hull"
+   ]
+  },
+  {
+   "name": "Alger Hiss",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Hiss",
+    "H188"
+   ]
+  },
+  {
+   "name": "J. E. Saugstad",
+   "role": "Acting Chief, Division of International Communications",
+   "variants": [
+    "J. E. Sangetad",
+    "J. . saugstad"
+   ]
+  },
+  {
+   "name": "Thomas Burke",
+   "role": "Chief, Division of International Communications",
+   "variants": [
+    "Thomas Burke"
+   ]
+  },
+  {
+   "name": "George Atcheson Jr.",
+   "role": "Assistant Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "George Ataheson, Jr."
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador in Tokyo",
+   "variants": [
+    "GREW",
+    "Grew"
+   ]
+  },
+  {
+   "name": "Mr. Winter",
+   "role": "Sender from Australia",
+   "variants": [
+    "kinter"
+   ]
+  },
+  {
+   "name": "Mr. Iguchi",
+   "role": "Japanese Embassy counselor; later described as Japanese ambassador",
+   "variants": [
+    "Mr. Iguchi",
+    "Mr. Iguch1"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "U.S. State Department official",
+   "variants": [
+    "Mr. Acheson",
+    "MR. ACHESON"
+   ]
+  },
+  {
+   "name": "Robert L. Werner",
+   "role": "Attorney, Weil, Gotshal & Manges",
+   "variants": [
+    "Robert L. Werner",
+    "Poberrh leerurr",
+    "Petedh werver-"
+   ]
+  },
+  {
+   "name": "Maxwell N. Hamilton",
+   "role": "State Department Division of Far Eastern Affairs",
+   "variants": [
+    "Maxwell N. Hamilton"
+   ]
+  },
+  {
+   "name": "Mr. Colville",
+   "role": "State Department official",
+   "variants": [
+    "mr. Colville"
+   ]
+  },
+  {
+   "name": "Ralph W. S. Hill",
+   "role": "Acting Legal Adviser",
+   "variants": [
+    "Ralph W. S. Hill",
+    "Ralph w. 8. Kill"
+   ]
+  },
+  {
+   "name": "Kenichi Tsuchiya",
+   "role": "Japanese Ministry of Communications official",
+   "variants": [
+    "Kenit1 Tutiya"
+   ]
+  },
+  {
+   "name": "Kazuo Kurimura",
+   "role": "",
+   "variants": [
+    "Kazuo Kurimura"
+   ]
+  },
+  {
+   "name": "Takeo Ishikawa",
+   "role": "",
+   "variants": [
+    "Takeo Ishikawa"
+   ]
+  },
+  {
+   "name": "Yukitsugu Yanagisawa",
+   "role": "",
+   "variants": [
+    "Yukituga Yanagisawa"
+   ]
+  },
+  {
+   "name": "Fumio Takiura",
+   "role": "",
+   "variants": [
+    "Humio Takiura"
+   ]
+  },
+  {
+   "name": "Shōhei Kimura",
+   "role": "",
+   "variants": [
+    "SyohEi Dimura"
+   ]
+  },
+  {
+   "name": "Shō Kato",
+   "role": "",
+   "variants": [
+    "Syo Kato"
+   ]
+  },
+  {
+   "name": "Tuiiti Okada",
+   "role": "",
+   "variants": [
+    "Tuiiti Okadn"
+   ]
+  },
+  {
+   "name": "Tatsuyo Asukawa",
+   "role": "",
+   "variants": [
+    "Tatuyo Asukawa"
+   ]
+  },
+  {
+   "name": "Ryukichi Inazaki",
+   "role": "",
+   "variants": [
+    "Ryukiti Inazaki"
+   ]
+  },
+  {
+   "name": "Kuiti Akudaira",
+   "role": "",
+   "variants": [
+    "Kuiti Akudaira"
+   ]
+  },
+  {
+   "name": "Kiki Miyao",
+   "role": "",
+   "variants": [
+    "Kiki Miyao"
+   ]
+  },
+  {
+   "name": "Chukichi Ishida",
+   "role": "",
+   "variants": [
+    "Chukiti Isida"
+   ]
+  },
+  {
+   "name": "Sotojiro Takakura",
+   "role": "",
+   "variants": [
+    "Sotojiro Takakura"
+   ]
+  },
+  {
+   "name": "Hayato Kimura",
+   "role": "",
+   "variants": [
+    "Hayato Kimura"
+   ]
+  },
+  {
+   "name": "Yasunobu Kobayashi",
+   "role": "",
+   "variants": [
+    "Yasunobu Kobayasi"
+   ]
+  },
+  {
+   "name": "Kositi Miyake",
+   "role": "",
+   "variants": [
+    "Kositi Miyak"
+   ]
+  },
+  {
+   "name": "Chatire Oko",
+   "role": "",
+   "variants": [
+    "GhatirE Oko"
+   ]
+  },
+  {
+   "name": "Kiyoshi Mizuno",
+   "role": "",
+   "variants": [
+    "Kiyosi Mizuno"
+   ]
+  },
+  {
+   "name": "Keisuke Haruta",
+   "role": "",
+   "variants": [
+    "KEisuke Harnta"
+   ]
+  },
+  {
+   "name": "Kuchiro Uyeno",
+   "role": "Engineer, Japanese Ministry of Communications",
+   "variants": [
+    "Kuchiro UyEno"
+   ]
+  },
+  {
+   "name": "Tomoyoshi Doi",
+   "role": "Japanese Ministry of Communications official",
+   "variants": [
+    "Tomoyoshi Doi"
+   ]
+  },
+  {
+   "name": "Yoshitaro Amano",
+   "role": "Owner of the Amano Maru and fishing business",
+   "variants": [
+    "Yoehi taro Amaro",
+    "Ycenitarc Amano",
+    "Amano",
+    "Anano"
+   ]
+  },
+  {
+   "name": "Christian Albertson",
+   "role": "Captain of the Amano Maru",
+   "variants": [
+    "Christian Albertson"
+   ]
+  },
+  {
+   "name": "Teodoro Picado",
+   "role": "President of the Costa Rican Congress; lawyer",
+   "variants": [
+    "Teodoro Picado",
+    "Pioado",
+    "Picado"
+   ]
+  },
+  {
+   "name": "Fernando Soto Harrison",
+   "role": "Lawyer and former Japanese consul at San José",
+   "variants": [
+    "Fornando Soto Harrisor",
+    "Soto",
+    "Soto Harrison"
+   ]
+  },
+  {
+   "name": "Mikokumu Shiraishi",
+   "role": "Local manager of Amano fishing enterprise",
+   "variants": [
+    "llikokumm Shiraishi"
+   ]
+  },
+  {
+   "name": "Mr. Robinson",
+   "role": "Manager of freezing plant or cannery",
+   "variants": [
+    "r. Robinaon",
+    "Robinson"
+   ]
+  },
+  {
+   "name": "Robert Heigold",
+   "role": "Crew member",
+   "variants": [
+    "Robert Heigold"
+   ]
+  },
+  {
+   "name": "Steward Heigold",
+   "role": "Captain and crew member",
+   "variants": [
+    "Capt. Steward lieigold"
+   ]
+  },
+  {
+   "name": "Pete Hansel",
+   "role": "Person associated with Van Camp Sea Food",
+   "variants": [
+    "\"Pete\" HAuSEL"
+   ]
+  },
+  {
+   "name": "J. S. Winslow",
+   "role": "Lieutenant Colonel, Chief, Military Attaché Section",
+   "variants": [
+    "J: S. WINSLOW"
+   ]
+  },
+  {
+   "name": "Colonel Bratton",
+   "role": "War Department officer",
+   "variants": [
+    "Colonel Bratton",
+    "Col. Bratton"
+   ]
+  },
+  {
+   "name": "Mr. Fisher",
+   "role": "State Department addressee",
+   "variants": [
+    "Mr. Fisher"
+   ]
+  },
+  {
+   "name": "Mr. Bowers",
+   "role": "Sender from Chile",
+   "variants": [
+    "Bowers"
+   ]
+  },
+  {
+   "name": "Mr. Wakasugi",
+   "role": "Japanese official",
+   "variants": [
+    "Mr. Wakasugi"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Under Seoretary Welles"
+   ]
+  },
+  {
+   "name": "Kiyoji Tanji",
+   "role": "Passenger on Japanese vessel",
+   "variants": [
+    "Kiyeji Tmuji"
+   ]
+  },
+  {
+   "name": "Sōshirō Iijima",
+   "role": "Passenger on Japanese vessel",
+   "variants": [
+    "Iisima Sosiro"
+   ]
+  },
+  {
+   "name": "J. Edgar Hoover",
+   "role": "Director, Federal Bureau of Investigation",
+   "variants": [
+    "JOHN EDEAR HOOVER",
+    "J. Edgar Hoover",
+    ". 26. 24oover"
+   ]
+  },
+  {
+   "name": "Adolf A. Berle Jr.",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Adolf A. Borle, Jre",
+    "Ado A.t perle, Jr."
+   ]
+  },
+  {
+   "name": "Harry M. Gwynn",
+   "role": "Lieutenant Colonel; paraphrased military messages",
+   "variants": [
+    "Earry M. Owynn",
+    "Tarry . Gwynn"
+   ]
+  },
+  {
+   "name": "Laurence A. Steinhardt",
+   "role": "U.S. Ambassador in Ankara",
+   "variants": [
+    "STEINH:RDT"
+   ]
+  },
+  {
+   "name": "J. J. Reinstein",
+   "role": "State Department official",
+   "variants": [
+    "J. J. Reinstein",
+    "J. J. Reinetein",
+    "Mr. Reinstein",
+    "Mr. Reinetein"
+   ]
+  },
+  {
+   "name": "E. Wyndham White",
+   "role": "British Embassy official",
+   "variants": [
+    "Wyndham White",
+    "Mr. Wyndham White",
+    "Mr. E. Wyndham White",
+    "Mr. White"
+   ]
+  },
+  {
+   "name": "Noel Hall",
+   "role": "British Minister",
+   "variants": [
+    "Mr. Moel Hall",
+    "Mr. Hall"
+   ]
+  },
+  {
+   "name": "Mr. Thornburg",
+   "role": "State Department addressee",
+   "variants": [
+    "Mr. Thoraburg"
+   ]
+  },
+  {
+   "name": "Ensign Blake",
+   "role": "Office of Naval Intelligence officer",
+   "variants": [
+    "Eneign Blake",
+    "Ensign Blake"
+   ]
+  },
+  {
+   "name": "James O. Tumulty",
+   "role": "Attorney, Tumulty & Tumulty",
+   "variants": [
+    "Jaeps 0. umxgJ."
+   ]
+  },
+  {
+   "name": "James Somerville",
+   "role": "Liaison Officer with the British Ministry of Economic Warfare",
+   "variants": [
+    "James Somerville"
+   ]
+  },
+  {
+   "name": "William L. Langer",
+   "role": "Professor; Office of Coordination of Information",
+   "variants": [
+    "Professor Langer"
+   ]
+  },
+  {
+   "name": "Emory S. Land",
+   "role": "War Shipping Administrator",
+   "variants": [
+    "Admiral Emory S. Land"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant vessels",
+  "ship requisition",
+  "sovereign immunity",
+  "Tatsuta Maru",
+  "repatriation",
+  "bunkering",
+  "frozen funds",
+  "shipping intelligence",
+  "cargo diversion",
+  "Latin American ports",
+  "blockade running"
+ ],
+ "subfiles": [
+  {
+   "title": "Marine insurers' inquiry about requisitioned Japanese vessels",
+   "doc_type": "letter, continuation",
+   "start_page": 161,
+   "end_page": 161,
+   "continues_previous": true,
+   "date": "1941-08-20",
+   "from": "Bigham, Englar, Jones & Houston",
+   "to": "Cordell Hull",
+   "about": "Marine insurers request information by cable about Japanese requisition and diversion of ships.",
+   "summary": "The lawyers say the information is for insurers' business and offer to pay cable costs.",
+   "keywords": [
+    "insurance",
+    "requisition",
+    "cables"
+   ]
+  },
+  {
+   "title": "Reply to marine insurers",
+   "doc_type": "letter",
+   "start_page": 162,
+   "end_page": 162,
+   "continues_previous": false,
+   "date": "1941-09-20",
+   "from": "J. E. Saugstad, for the Secretary of State",
+   "to": "Bigham, Englar, Jones & Houston",
+   "about": "The Department says it has asked its Tokyo embassy for information on requisitioned ships.",
+   "summary": "The Department promises a further reply when the embassy responds.",
+   "keywords": [
+    "requisition",
+    "Tokyo",
+    "insurance"
+   ]
+  },
+  {
+   "title": "Australian treatment of Japanese vessels",
+   "doc_type": "cross-reference file note",
+   "start_page": 163,
+   "end_page": 163,
+   "continues_previous": false,
+   "date": "1941-08-20",
+   "from": "Australia (Winter)",
+   "to": "",
+   "about": "The note points to a report on Australian asset freezing and the Kasia Maru.",
+   "summary": "References despatch 167 in the frozen-credits file.",
+   "keywords": [
+    "Australia",
+    "asset freezing",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Request for list of requisitioned Japanese ships",
+   "doc_type": "outgoing telegram",
+   "start_page": 164,
+   "end_page": 164,
+   "continues_previous": false,
+   "date": "1941-09-20",
+   "from": "Department of State",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department requests a list of requisitioned or diverted ships and the legal basis for their diversion.",
+   "summary": "Marine insurers seek details about ships carrying U.S. cargoes that did not complete their voyages.",
+   "keywords": [
+    "requisition",
+    "diversion",
+    "marine insurance"
+   ]
+  },
+  {
+   "title": "Tokyo report on Japanese ship controls",
+   "doc_type": "incoming telegram",
+   "start_page": 165,
+   "end_page": 168,
+   "continues_previous": false,
+   "date": "1941-10-08",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The embassy reports ship diversions and explains Japanese government control of merchant vessel movements.",
+   "summary": "Strict secrecy rules prevent the embassy from verifying complete lists of requisitioned or diverted vessels. Consular offices have identified several reported or presumed cases. The Central Marine Transportation Control Association assigns ships under government authority, while the Ships Protection Law gives the Navy further powers; even requests by these agencies could effectively compel a ship's return.",
+   "keywords": [
+    "shipping controls",
+    "requisition",
+    "Ships Protection Law",
+    "secrecy"
+   ]
+  },
+  {
+   "title": "Navy copy of Tokyo shipping report",
+   "doc_type": "teletype paraphrase",
+   "start_page": 169,
+   "end_page": 169,
+   "continues_previous": false,
+   "date": "1941-10-14",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "The Department relays Tokyo's findings about requisitioned and diverted Japanese ships.",
+   "summary": "Summarizes the embassy's inability to obtain full lists and names known vessels.",
+   "keywords": [
+    "Navy",
+    "requisition",
+    "diversion"
+   ]
+  },
+  {
+   "title": "Answer to insurers on Japanese ship movements",
+   "doc_type": "letter",
+   "start_page": 170,
+   "end_page": 171,
+   "continues_previous": false,
+   "date": "1941-11-01",
+   "from": "Thomas Burke, for the Secretary of State",
+   "to": "Bigham, Englar, Jones & Houston",
+   "about": "The Department gives marine insurers its available ship names and an explanation of Japan's control system.",
+   "summary": "The embassy cannot produce comprehensive lists. Its consuls report vessels requisitioned or diverted, and the Department explains the Central Marine Transportation Control Association's powers and the Navy's navigation authority.",
+   "keywords": [
+    "marine insurance",
+    "ship controls",
+    "requisition"
+   ]
+  },
+  {
+   "title": "Japanese requisition orders received",
+   "doc_type": "incoming telegram",
+   "start_page": 172,
+   "end_page": 173,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Tokyo reports receipt of Japanese requisition orders and appointments connected with three U.S.-bound vessels.",
+   "summary": "The Foreign Office supplied orders for the Tatuta, Hikawa, and Taiyo and named officials assigned to vessel operations and passenger or mail business. The second section lists additional names.",
+   "keywords": [
+    "requisition orders",
+    "Tatuta Maru",
+    "Hikawa Maru",
+    "Taiyo Maru"
+   ]
+  },
+  {
+   "title": "Custody of Japanese requisition documents",
+   "doc_type": "incoming telegram",
+   "start_page": 174,
+   "end_page": 174,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The embassy asks whether to forward copies of Japanese requisition papers.",
+   "summary": "It assumes the copies are for embassy information unless instructed otherwise.",
+   "keywords": [
+    "requisition orders",
+    "Foreign Office"
+   ]
+  },
+  {
+   "title": "Copy to naval operations of requisition-document telegram",
+   "doc_type": "telegram copy",
+   "start_page": 175,
+   "end_page": 175,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Department of State",
+   "to": "Office of Naval Operations",
+   "about": "A copy relays the embassy's question about forwarding Japanese requisition papers.",
+   "summary": "Duplicates Grew's October 20 message.",
+   "keywords": [
+    "Navy",
+    "requisition orders"
+   ]
+  },
+  {
+   "title": "Additional vessel supervisors named",
+   "doc_type": "incoming telegram",
+   "start_page": 176,
+   "end_page": 176,
+   "continues_previous": false,
+   "date": "1941-10-21",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Foreign Office supplies orders appointing supervisors for the Hikawa Maru and Taiyo Maru.",
+   "summary": "Kuchiro Uyeno and Tomoyoshi Doi are named to take delivery of and supervise the vessels.",
+   "keywords": [
+    "Hikawa Maru",
+    "Taiyo Maru",
+    "requisition"
+   ]
+  },
+  {
+   "title": "Iguchi conversation on ship expenses and frozen funds",
+   "doc_type": "outgoing telegram",
+   "start_page": 177,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "Department of State",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department reports a conversation about paying expenses for three Japanese ships and transferring blocked funds.",
+   "summary": "Iguchi proposed consular accounts for bunkers and port costs; U.S. officials raised no objection to the payment method, subject to later approval of amounts. They also discussed a clearing account for official expenses and Japanese tankers seeking oil at San Francisco. Treasury concerns centered on funds withheld from the Yokohama Specie Bank's New York branch.",
+   "keywords": [
+    "port expenses",
+    "frozen funds",
+    "Yokohama Specie Bank",
+    "tankers"
+   ]
+  },
+  {
+   "title": "Insurers' inquiry about American cargo in Japan",
+   "doc_type": "letter",
+   "start_page": 181,
+   "end_page": 182,
+   "continues_previous": false,
+   "date": "1941-09-29",
+   "from": "Bigham, Englar, Jones & Houston",
+   "to": "Cordell Hull",
+   "about": "Marine insurers ask whether Japan prevented American-owned transshipment cargo from leaving after U.S. asset freezing.",
+   "summary": "The lawyers seek the date and basis of any Japanese refusal and offer to pay for a Tokyo cable.",
+   "keywords": [
+    "cargo",
+    "retaliation",
+    "asset freezing"
+   ]
+  },
+  {
+   "title": "Reply on cargo awaiting transshipment at Kobe",
+   "doc_type": "letter",
+   "start_page": 183,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "1941-10-24",
+   "from": "George Atcheson Jr., for the Secretary of State",
+   "to": "Bigham, Englar, Jones & Houston",
+   "about": "The Department explains the suspension of commercial sailings after reciprocal asset-freezing measures.",
+   "summary": "Japanese vessels had made no commercial U.S. sailings since July 26. Three requisitioned vessels were expected to carry passengers rather than commercial cargo. The broader question of obtaining merchandise from Japan remained unresolved.",
+   "keywords": [
+    "Kobe",
+    "commercial shipping",
+    "frozen assets"
+   ]
+  },
+  {
+   "title": "Two more liners leave Japan",
+   "doc_type": "newspaper clipping",
+   "start_page": 185,
+   "end_page": 185,
+   "continues_previous": false,
+   "date": "1941-10-20",
+   "from": "Associated Press; New York World-Telegram",
+   "to": "",
+   "about": "A press report describes Japanese liners sailing to repatriate passengers.",
+   "summary": "Hikawa and Taiyo sail after Tatuta, carrying American passengers.",
+   "keywords": [
+    "repatriation",
+    "liners",
+    "press"
+   ]
+  },
+  {
+   "title": "Departure dates of three requisitioned ships",
+   "doc_type": "department memorandum",
+   "start_page": 186,
+   "end_page": 186,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The Japanese Embassy provides departure dates for Tatsuta, Hikawa, and Taiyo Maru.",
+   "summary": "Lists their October departures from Yokohama.",
+   "keywords": [
+    "departure dates",
+    "requisition"
+   ]
+  },
+  {
+   "title": "Request for Tatuta Maru immunity opinion",
+   "doc_type": "letter",
+   "start_page": 187,
+   "end_page": 187,
+   "continues_previous": false,
+   "date": "1941-10-22",
+   "from": "Robert L. Werner",
+   "to": "Maxwell N. Hamilton",
+   "about": "An attorney asks whether the Tatuta Maru is immune from U.S. legal process.",
+   "summary": "Werner requests a prompt opinion while the vessel is approaching the United States.",
+   "keywords": [
+    "Tatuta Maru",
+    "immunity",
+    "legal process"
+   ]
+  },
+  {
+   "title": "State Department recognition of Tatuta Maru immunity",
+   "doc_type": "letter",
+   "start_page": 188,
+   "end_page": 188,
+   "continues_previous": false,
+   "date": "1941-10-28",
+   "from": "Ralph W. S. Hill",
+   "to": "Robert L. Werner",
+   "about": "The Department states that the requisitioned Tatuta Maru is entitled to immunity from U.S. courts.",
+   "summary": "It recognizes the vessel's official Japanese government mission and resulting jurisdictional immunity.",
+   "keywords": [
+    "sovereign immunity",
+    "Tatuta Maru"
+   ]
+  },
+  {
+   "title": "Acknowledgment of immunity opinion",
+   "doc_type": "letter",
+   "start_page": 189,
+   "end_page": 189,
+   "continues_previous": false,
+   "date": "1941-10-29",
+   "from": "Robert L. Werner",
+   "to": "Secretary of State",
+   "about": "Werner acknowledges the Department's letter concerning the Tatuta Maru.",
+   "summary": "He thanks the Department for its prompt reply.",
+   "keywords": [
+    "Tatuta Maru",
+    "immunity"
+   ]
+  },
+  {
+   "title": "Request for requisition dates",
+   "doc_type": "letter",
+   "start_page": 190,
+   "end_page": 190,
+   "continues_previous": false,
+   "date": "1941-11-03",
+   "from": "Bigham, Englar, Jones & Houston",
+   "to": "Secretary of State",
+   "about": "Marine insurers ask for dates when seven named Japanese vessels were requisitioned.",
+   "summary": "The firm again offers to pay cable expenses.",
+   "keywords": [
+    "requisition dates",
+    "marine insurance"
+   ]
+  },
+  {
+   "title": "Instructions to obtain Japanese requisition papers",
+   "doc_type": "outgoing telegram",
+   "start_page": 191,
+   "end_page": 192,
+   "continues_previous": false,
+   "date": "1941-10-23",
+   "from": "Department of State",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department reports its acceptance of Japan's immunity claim and requests all supporting documents.",
+   "summary": "The Japanese Ambassador supplied orders for Tatuta, Hikawa, and Taiyo. Hull informed the Attorney General that he accepted the claim and sought court recognition of immunity. The embassy is instructed to mail its copies of all related papers.",
+   "keywords": [
+    "immunity",
+    "requisition orders",
+    "Attorney General"
+   ]
+  },
+  {
+   "title": "Japanese proposal for another Tatsuta Maru voyage",
+   "doc_type": "incoming telegram",
+   "start_page": 193,
+   "end_page": 194,
+   "continues_previous": false,
+   "date": "1941-11-18",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Japan proposes a second requisitioned voyage to Honolulu, Los Angeles, and Balboa.",
+   "summary": "Japan seeks entry, supplies, payment from frozen funds, and transport for Japanese nationals affected by Panama's occupation law. It offers facilities for Americans wishing to depart Japan. The embassy recommends favorable consideration.",
+   "keywords": [
+    "Tatsuta Maru",
+    "repatriation",
+    "Balboa",
+    "frozen funds"
+   ]
+  },
+  {
+   "title": "U.S. conditional reply on proposed Tatsuta voyage",
+   "doc_type": "outgoing telegram",
+   "start_page": 195,
+   "end_page": 198,
+   "continues_previous": false,
+   "date": "1941-11-19",
+   "from": "Department of State",
+   "to": "American Embassy, Tokyo; repeated to Chungking",
+   "about": "The Department sets conditions for the Tatsuta Maru's proposed U.S. and Balboa calls.",
+   "summary": "The United States has no objection to the visits and would present formal requisition evidence to courts. It would permit fuel and stores for a return voyage and arrange payment from blocked funds or U.S. passenger fares. It makes no mail commitment and asks Japan to allow Americans enough time to obtain exit permits.",
+   "keywords": [
+    "Tatsuta Maru",
+    "immunity",
+    "bunkers",
+    "repatriation"
+   ]
+  },
+  {
+   "title": "Amano Maru and suspected clandestine arrivals in Costa Rica",
+   "doc_type": "naval intelligence report",
+   "start_page": 199,
+   "end_page": 200,
+   "continues_previous": false,
+   "date": "1941-09-18",
+   "from": "Office of Naval Intelligence",
+   "to": "",
+   "about": "An intelligence report examines Japanese-controlled fishing vessels and suspected illegal entry into Costa Rica.",
+   "summary": "It describes Amano's fishing company, ownership, payments, and possible meetings with arriving Japanese merchant ships. The report suspects crew exchanges but acknowledges the absence of definite evidence. Costa Rica cancelled the Amano Maru's registration on September 8; the writer recommends investigating its commercial connections.",
+   "keywords": [
+    "Amano Maru",
+    "Costa Rica",
+    "fishing",
+    "immigration intelligence"
+   ]
+  },
+  {
+   "title": "War Department view on Balboa call",
+   "doc_type": "memorandum",
+   "start_page": 201,
+   "end_page": 201,
+   "continues_previous": false,
+   "date": "1941-11-24",
+   "from": "J. S. Winslow, War Department",
+   "to": "State Department liaison officer",
+   "about": "The War Department raises no objection to Tatsuta Maru calling at Balboa.",
+   "summary": "It expects cash payment for supplies and reserves judgment on any Panama Canal transit request.",
+   "keywords": [
+    "Balboa",
+    "Tatsuta Maru",
+    "port payment"
+   ]
+  },
+  {
+   "title": "Request for War Department view",
+   "doc_type": "routing memorandum",
+   "start_page": 202,
+   "end_page": 202,
+   "continues_previous": false,
+   "date": "1941-11-18",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Colonel Bratton, War Department",
+   "about": "State requests War Department views on Tatsuta Maru's proposed Balboa call.",
+   "summary": "Forwards Grew's Tokyo telegram for comment.",
+   "keywords": [
+    "Balboa",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Payment arrangements at Balboa",
+   "doc_type": "department memorandum",
+   "start_page": 203,
+   "end_page": 203,
+   "continues_previous": false,
+   "date": "1941-11-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Mr. Fisher",
+   "about": "The Department examines how Japan could pay Tatuta Maru's Balboa charges without a local consulate.",
+   "summary": "Iguchi suggests a Panama legation account or cash carried by a legation employee.",
+   "keywords": [
+    "Balboa",
+    "port charges",
+    "blocked funds"
+   ]
+  },
+  {
+   "title": "Tokyo announcement of Tatsuta sailing",
+   "doc_type": "incoming telegram",
+   "start_page": 204,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1941-11-24",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Tokyo press reports that arrangements for Tatsuta Maru's voyage are complete.",
+   "summary": "The Foreign Office spokesman announces the planned U.S. voyage.",
+   "keywords": [
+    "Tatsuta Maru",
+    "sailing"
+   ]
+  },
+  {
+   "title": "Delayed receipt of urgent Tatsuta instructions",
+   "doc_type": "incoming telegram",
+   "start_page": 205,
+   "end_page": 205,
+   "continues_previous": false,
+   "date": "1941-11-26",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports late delivery of Washington's instructions about Tatsuta Maru.",
+   "summary": "He urges direct transmission of important telegrams to Tokyo.",
+   "keywords": [
+    "Tatsuta Maru",
+    "communications delay"
+   ]
+  },
+  {
+   "title": "Reply delivered and Tatsuta itinerary",
+   "doc_type": "incoming telegram",
+   "start_page": 206,
+   "end_page": 206,
+   "continues_previous": false,
+   "date": "1941-11-26",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The embassy delivers the U.S. reply and reports Tatsuta Maru's proposed schedule.",
+   "summary": "The ship is scheduled for Los Angeles on December 14 and Balboa on December 24.",
+   "keywords": [
+    "Tatsuta Maru",
+    "itinerary",
+    "Balboa"
+   ]
+  },
+  {
+   "title": "Fuel sales to Japanese ships in Chile",
+   "doc_type": "cross-reference file note",
+   "start_page": 207,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1941-09-26",
+   "from": "Chile (Bowers)",
+   "to": "",
+   "about": "The note points to a telegram on oil sales for Japanese ships' homeward voyages.",
+   "summary": "References Chile telegram 477 in another file.",
+   "keywords": [
+    "Chile",
+    "bunkers",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Japanese tanker cargoes at San Francisco",
+   "doc_type": "cross-reference file note",
+   "start_page": 208,
+   "end_page": 208,
+   "continues_previous": false,
+   "date": "1941-10-17",
+   "from": "Department of State",
+   "to": "",
+   "about": "The note points to a memorandum on tanker export licenses and payment from South American funds.",
+   "summary": "References a frozen-credits memorandum concerning Itsukushima Maru and Shoyo Maru.",
+   "keywords": [
+    "tankers",
+    "San Francisco",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "British Embassy safe-hand paper",
+   "doc_type": "cover or routing sheet",
+   "start_page": 209,
+   "end_page": 209,
+   "continues_previous": false,
+   "date": "1941-10-03",
+   "from": "British Embassy, Washington",
+   "to": "Department of State",
+   "about": "A British Embassy paper is routed to several State Department offices.",
+   "summary": "Substantive text is illegible in the OCR.",
+   "keywords": [
+    "British Embassy",
+    "routing"
+   ]
+  },
+  {
+   "title": "File transfer notation",
+   "doc_type": "file note",
+   "start_page": 210,
+   "end_page": 210,
+   "continues_previous": false,
+   "date": "1942-01-05",
+   "from": "",
+   "to": "",
+   "about": "A filing note records transfer of document 894.85/666.",
+   "summary": "Transferred to file 300.1115A.",
+   "keywords": [
+    "filing",
+    "transfer"
+   ]
+  },
+  {
+   "title": "Cargo manifest of Japanese vessel",
+   "doc_type": "intelligence report",
+   "start_page": 211,
+   "end_page": 211,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A report summarizes cargo and two passengers on a Japanese vessel sailing via Peruvian ports and Manzanillo.",
+   "summary": "Lists wool, ores, mercury, nitrate, and two Yokohama-bound passengers.",
+   "keywords": [
+    "cargo manifest",
+    "minerals",
+    "passengers"
+   ]
+  },
+  {
+   "title": "Inquiry about Asama Maru shipping charges",
+   "doc_type": "FBI letter",
+   "start_page": 212,
+   "end_page": 212,
+   "continues_previous": false,
+   "date": "1942-01-07",
+   "from": "J. Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "Hoover relays intelligence about paying Asama Maru charges from confiscated German assets.",
+   "summary": "The German Embassy in Bern reportedly sought the Dutch East Indies government's position.",
+   "keywords": [
+    "Asama Maru",
+    "German assets",
+    "Batavia"
+   ]
+  },
+  {
+   "title": "Reported Japanese unloading near Laguna Chacahua, corrected copy",
+   "doc_type": "military intelligence message",
+   "start_page": 213,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1941-12-26",
+   "from": "Mexico City military source",
+   "to": "War Department",
+   "about": "An unverified report alleges Japanese ships unloaded boxes near Laguna Chacahua.",
+   "summary": "The source's reliability is unknown; a military attaché was asked to investigate.",
+   "keywords": [
+    "Mexico",
+    "Japanese vessels",
+    "unverified report"
+   ]
+  },
+  {
+   "title": "Reported Japanese unloading near Laguna Chacahua",
+   "doc_type": "military intelligence message",
+   "start_page": 214,
+   "end_page": 214,
+   "continues_previous": false,
+   "date": "1941-12-26",
+   "from": "Mexico City military source",
+   "to": "War Department",
+   "about": "An earlier copy reports alleged unloading of boxes by Japanese vessels in Oaxaca.",
+   "summary": "The report rests on an unknown source and notes the lagoon's navigable opening.",
+   "keywords": [
+    "Mexico",
+    "Japanese vessels",
+    "unverified report"
+   ]
+  },
+  {
+   "title": "Report of Japanese shipping shortage",
+   "doc_type": "incoming telegram",
+   "start_page": 215,
+   "end_page": 215,
+   "continues_previous": false,
+   "date": "1942-03-06",
+   "from": "Laurence A. Steinhardt, Ankara",
+   "to": "Secretary of State",
+   "about": "A Turkish Foreign Office official says Japan is already short of shipping.",
+   "summary": "The information comes from Turkey's ambassador in Tokyo.",
+   "keywords": [
+    "shipping shortage",
+    "Turkey"
+   ]
+  },
+  {
+   "title": "Japanese ships with private codes",
+   "doc_type": "FBI transmittal and enclosure",
+   "start_page": 216,
+   "end_page": 221,
+   "continues_previous": false,
+   "date": "",
+   "from": "J. Edgar Hoover",
+   "to": "Adolf A. Berle Jr.",
+   "about": "The FBI forwards a confidential list of Japanese ships and their private codes.",
+   "summary": "The list was reportedly sent from Buenos Aires to Tokyo before U.S. entry into the war. Pages 217–220 contain a heavily degraded tabulation of vessel names and codes; page 221 carries little legible substance.",
+   "keywords": [
+    "ship codes",
+    "FBI",
+    "Japanese merchant marine"
+   ]
+  },
+  {
+   "title": "British policy on bunkering Japanese vessels",
+   "doc_type": "memorandum of conversation",
+   "start_page": 222,
+   "end_page": 223,
+   "continues_previous": false,
+   "date": "1941-08-26",
+   "from": "J. J. Reinstein",
+   "to": "Department of State",
+   "about": "British officials discuss limiting fuel supplied to Japanese vessels in South America.",
+   "summary": "British facilities generally provide enough fuel for the next port or Japan. Noel Hall favors delaying Japanese ships carrying strategic materials and coordinating tighter limits.",
+   "keywords": [
+    "bunkering",
+    "British policy",
+    "South America"
+   ]
+  },
+  {
+   "title": "British policy on bunkering Japanese vessels, duplicate",
+   "doc_type": "memorandum of conversation",
+   "start_page": 224,
+   "end_page": 225,
+   "continues_previous": false,
+   "date": "1941-08-26",
+   "from": "J. J. Reinstein",
+   "to": "Department of State",
+   "about": "A second copy records the discussion of British fuel limits for Japanese ships.",
+   "summary": "Repeats the next-port fuel policy and British interest in delaying vessels carrying strategic materials.",
+   "keywords": [
+    "bunkering",
+    "British policy",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Assessment of U.S. bunkering policy",
+   "doc_type": "department memorandum",
+   "start_page": 226,
+   "end_page": 227,
+   "continues_previous": false,
+   "date": "1941-08-23",
+   "from": "Division of the American Republics",
+   "to": "Mr. Thornburg",
+   "about": "A State Department memorandum identifies gaps in its policy for fueling Japanese ships.",
+   "summary": "It says the policy reaches only some fuel suppliers, lacks a clear British agreement, does not distinguish ships' destinations, and has not been widely circulated.",
+   "keywords": [
+    "bunkering policy",
+    "Latin America",
+    "British cooperation"
+   ]
+  },
+  {
+   "title": "Japanese vessels in Latin American ports",
+   "doc_type": "department intelligence memorandum",
+   "start_page": 228,
+   "end_page": 229,
+   "continues_previous": false,
+   "date": "1941-09-09",
+   "from": "J. J. Reinstein, using Ensign Blake's information",
+   "to": "Department of State",
+   "about": "The memorandum lists Japanese vessels in or bound for South American ports.",
+   "summary": "It records vessel locations, tonnages, routes, and fuel information from the Office of Naval Intelligence.",
+   "keywords": [
+    "vessel movements",
+    "South America",
+    "naval intelligence"
+   ]
+  },
+  {
+   "title": "Telephone inquiry on Japanese ship bunkers",
+   "doc_type": "memorandum of telephone conversation",
+   "start_page": 230,
+   "end_page": 230,
+   "continues_previous": false,
+   "date": "1941-09-08",
+   "from": "J. J. Reinstein",
+   "to": "Department of State",
+   "about": "Wyndham White asks about progress on bunkering policy for Japanese vessels in Latin America.",
+   "summary": "Reinstein says the Department is considering current ships and possible future arrivals.",
+   "keywords": [
+    "bunkering",
+    "British Embassy"
+   ]
+  },
+  {
+   "title": "Telephone inquiry on Japanese ship bunkers, duplicate",
+   "doc_type": "memorandum of telephone conversation",
+   "start_page": 231,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "1941-09-08",
+   "from": "J. J. Reinstein",
+   "to": "Department of State",
+   "about": "A second copy records White's inquiry about Japanese-vessel bunkering policy.",
+   "summary": "Duplicates the September 8 telephone memorandum.",
+   "keywords": [
+    "bunkering",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Japanese vessels in Latin American ports, clearer copy",
+   "doc_type": "department intelligence memorandum",
+   "start_page": 232,
+   "end_page": 233,
+   "continues_previous": false,
+   "date": "1941-09-09",
+   "from": "J. J. Reinstein, using Ensign Blake's information",
+   "to": "Department of State",
+   "about": "A clearer copy lists Japanese ships, routes, and tonnage in Latin American waters.",
+   "summary": "It includes vessels at Buenos Aires, ships on the South American west coast, and sailings from Japan.",
+   "keywords": [
+    "vessel movements",
+    "South America",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Inquiry into public or private ownership of Japanese ships",
+   "doc_type": "attorney letter and vessel lists",
+   "start_page": 234,
+   "end_page": 238,
+   "continues_previous": false,
+   "date": "1942-06-05",
+   "from": "James O. Tumulty, Tumulty & Tumulty",
+   "to": "Cordell Hull",
+   "about": "Counsel seeks evidence of Japanese ship ownership for a California sales-tax proceeding involving Mitsubishi oil sales.",
+   "summary": "The attorney asks whether listed vessels were private carriers or government operated when they entered California ports between 1938 and 1941. He explains Mitsubishi's supervised liquidation under Treasury licenses. Attached lists record vessel entries at San Pedro and San Francisco.",
+   "keywords": [
+    "vessel ownership",
+    "California sales tax",
+    "Mitsubishi",
+    "port entries"
+   ]
+  },
+  {
+   "title": "Lists of Japanese and Axis ships in Far Eastern waters",
+   "doc_type": "embassy despatch",
+   "start_page": 239,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1942-06-10",
+   "from": "James Somerville, U.S. Embassy London",
+   "to": "Secretary of State",
+   "about": "The embassy transmits British lists of Japanese merchant vessels and Axis ships in Japanese-controlled waters.",
+   "summary": "The despatch describes the lists' sources and warns that some blockade runners' locations are uncertain. It names three ships known to have run the blockade and notes ongoing British analysis. Copies and microfilm are being shared with U.S. agencies.",
+   "keywords": [
+    "Japanese merchant marine",
+    "Axis vessels",
+    "blockade running",
+    "British intelligence"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 7,
+  "pages": [
+   161,
+   240
+  ],
+  "pdf": "894.85 Japan, Merchant Vessels. Yachts. Immunities Of Government -Controlled., February 29, 1940 - December 7, 1940 1230.pdf",
+  "seconds": 109.6,
+  "created": "2026-10-08 21:40:25",
+  "key": "japan-internal-affairs-894.85-japan-merchant-vessels-8"
+ }
+}

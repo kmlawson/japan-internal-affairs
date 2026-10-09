@@ -1,0 +1,1405 @@
+{
+ "section_summary": "Most of this section consists of January 1947 declarations by Swiss banks identifying Japanese dollar bonds and their owners for submission through the Swiss Legation. Later documents discuss private financing of Japanese imports, protection of foreign investments during the occupation, liquidation of the Bank of Taiwan, and proposed reforms to Japanese public finance. The section ends with a second, incomplete copy of the public finance policy paper.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japam",
+    "Japem",
+    "dapen",
+    "Jepen"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Suisse",
+    "Switzerland",
+    "Switzer-land",
+    "SITZERLAND"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "Etats-Unis",
+    "United States",
+    "U.S.A.",
+    "U.S."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEW YORK",
+    "New-York",
+    "New-cork",
+    "New-York",
+    "New York City",
+    "New York 5",
+    "Now York",
+    "Hew York",
+    "Nev-York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON 8, D. C.",
+    "Washington, D. C."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "Tocgo"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Genève",
+    "GENÈVE",
+    "GENEVE",
+    "GENEvE",
+    "Geneve",
+    "GElLVE",
+    "oneve"
+   ]
+  },
+  {
+   "name": "La Chaux-de-Fonds",
+   "variants": [
+    "La Chaux-de-Fonds",
+    "LA CHAUX-DE-FONDS"
+   ]
+  },
+  {
+   "name": "Basel",
+   "variants": [
+    "Bâle",
+    "BÁLE",
+    "BALE",
+    "Bale",
+    "Basle",
+    "dale"
+   ]
+  },
+  {
+   "name": "Bern",
+   "variants": [
+    "Berne",
+    "BERNE"
+   ]
+  },
+  {
+   "name": "Zurich",
+   "variants": [
+    "Zurich",
+    "ZURICH",
+    "Zurioh",
+    "Zurich (Switzerland)"
+   ]
+  },
+  {
+   "name": "Lausanne",
+   "variants": [
+    "Lausanne",
+    "LAUSANNE",
+    "Lauaanne"
+   ]
+  },
+  {
+   "name": "Lugano",
+   "variants": [
+    "Lugano",
+    "LUGANO",
+    "Luganok"
+   ]
+  },
+  {
+   "name": "Glarus",
+   "variants": [
+    "Glarus",
+    "GLARUS",
+    "GLARIS"
+   ]
+  },
+  {
+   "name": "Neuchâtel",
+   "variants": [
+    "NEUCHATEL",
+    "NEUCHÁTEL"
+   ]
+  },
+  {
+   "name": "St. Gallen",
+   "variants": [
+    "ST-GALL",
+    "St. Gallen",
+    "St-Gall"
+   ]
+  },
+  {
+   "name": "Schaffhausen",
+   "variants": [
+    "Schaffhouse",
+    "SÇHAFFHOUSE"
+   ]
+  },
+  {
+   "name": "Chiasso",
+   "variants": [
+    "Chiasso"
+   ]
+  },
+  {
+   "name": "Aarau",
+   "variants": [
+    "AARAU"
+   ]
+  },
+  {
+   "name": "Biel/Bienne",
+   "variants": [
+    "BIENNE"
+   ]
+  },
+  {
+   "name": "Chur",
+   "variants": [
+    "COIRE"
+   ]
+  },
+  {
+   "name": "Davos",
+   "variants": [
+    "DAVOS"
+   ]
+  },
+  {
+   "name": "Frauenfeld",
+   "variants": [
+    "FRAUENFELD"
+   ]
+  },
+  {
+   "name": "Arosa",
+   "variants": [
+    "AROBA"
+   ]
+  },
+  {
+   "name": "Interlaken",
+   "variants": [
+    "INTERLAKEN"
+   ]
+  },
+  {
+   "name": "Kreuzlingen",
+   "variants": [
+    "KREUZLINGEN"
+   ]
+  },
+  {
+   "name": "Lucerne",
+   "variants": [
+    "LUCERNE"
+   ]
+  },
+  {
+   "name": "Schwyz",
+   "variants": [
+    "SCHWYZ"
+   ]
+  },
+  {
+   "name": "St. Moritz",
+   "variants": [
+    "ST-MORITZ"
+   ]
+  },
+  {
+   "name": "Weinfelden",
+   "variants": [
+    "WEINFELDEN"
+   ]
+  },
+  {
+   "name": "Winterthur",
+   "variants": [
+    "WINTERTHOUR"
+   ]
+  },
+  {
+   "name": "Zug",
+   "variants": [
+    "ZOUG"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentine",
+    "Argentina"
+   ]
+  },
+  {
+   "name": "Buenos Aires",
+   "variants": [
+    "Buenos Aires"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Espagne"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turquie"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy",
+    "Italie"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Holland"
+   ]
+  },
+  {
+   "name": "Uruguay",
+   "variants": [
+    "Uruguay"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South Amerioa",
+    "South Ameriea",
+    "South Amri"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "Western Hemisphere"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Taiwin",
+    "Teikotu, Foraosa",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Monaco",
+   "variants": [
+    "Monaco"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Taris"
+   ]
+  },
+  {
+   "name": "Limoges",
+   "variants": [
+    "Limoyes"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "Boston",
+    "Bostom"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Eugenia Moser-Osiander",
+   "role": "Swiss bondholder",
+   "variants": [
+    "Mrs. Eugenia Moser - Osiander"
+   ]
+  },
+  {
+   "name": "Léonie Vernet-Aubert",
+   "role": "Swiss bondholder",
+   "variants": [
+    "Madame Léonie VERNET-AUBERT"
+   ]
+  },
+  {
+   "name": "Gustave Bonnard",
+   "role": "merchant and Swiss bondholder",
+   "variants": [
+    "Monsieur Gustave BONNARD"
+   ]
+  },
+  {
+   "name": "Norbert A. Bogdan",
+   "role": "vice president, J. Henry Schroder Banking Corporation",
+   "variants": [
+    "Norbert A. Bogdan",
+    "Morbert A. Bogdan",
+    "N. A. BOGDAN",
+    "Mr. Begdan"
+   ]
+  },
+  {
+   "name": "Edwin M. Martin",
+   "role": "chief, Division of Japanese and Korean Economic Affairs",
+   "variants": [
+    "Edwin M. Martin",
+    "M Martin",
+    "Martin",
+    "Ed"
+   ]
+  },
+  {
+   "name": "John R. Gilchrist",
+   "role": "colonel and chief of the War Department Civil Affairs Division's Economic Section",
+   "variants": [
+    "Colonel John R. Gilchrist",
+    "Colonel Gilchrist",
+    "Jaek"
+   ]
+  },
+  {
+   "name": "Robert M. Cooper",
+   "role": "major and chief, Liquidation Branch, Economic and Scientific Section",
+   "variants": [
+    "Major Robert M. Cooper",
+    "Lajor Robert . Cooper",
+    "Lajcr Robort . Ccoper"
+   ]
+  },
+  {
+   "name": "T. Sasayama",
+   "role": "chairman, Holding Company Liquidation Commission",
+   "variants": [
+    "T. Sasayama"
+   ]
+  },
+  {
+   "name": "J. H. Hilldring",
+   "role": "State Department member, State-War-Navy Coordinating Committee",
+   "variants": [
+    "J. H. Hilldring"
+   ]
+  },
+  {
+   "name": "E. S. Dodenhoff",
+   "role": "colonel, Civil Property Custodian office",
+   "variants": [
+    "C lonel E. 3. D denhoff"
+   ]
+  },
+  {
+   "name": "Hodge",
+   "role": "person mentioned in reparations telegram",
+   "variants": [
+    "Hodge"
+   ]
+  },
+  {
+   "name": "Kane",
+   "role": "person whose assignment is queried in reparations telegram",
+   "variants": [
+    "Kane"
+   ]
+  },
+  {
+   "name": "R. E. Christley",
+   "role": "person mentioned in Bank of Taiwan telegram",
+   "variants": [
+    "R. E. Christeley"
+   ]
+  },
+  {
+   "name": "Watnan",
+   "role": "person mentioned in Bank of Taiwan telegram; surname uncertain in OCR",
+   "variants": [
+    "Watnan"
+   ]
+  },
+  {
+   "name": "Emery Shavell",
+   "role": "member of SCAP's Finance Division",
+   "variants": [
+    "Mr. Mmesy Shsvell",
+    "Mr. Smvell",
+    "Me. Semsy Shavell",
+    "r. Shavell"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese dollar bonds",
+  "Swiss bondholders",
+  "securities declarations",
+  "Swiss banks",
+  "private trade credit",
+  "Japanese imports",
+  "foreign property protection",
+  "reparations",
+  "Bank of Taiwan liquidation",
+  "Japanese public finance",
+  "public debt",
+  "tax reform"
+ ],
+ "subfiles": [
+  {
+   "title": "Oriental Development bond ownership certificate",
+   "doc_type": "certificate",
+   "start_page": 241,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1947-01-14",
+   "from": "Banque Cantonale Neuchâteloise, La Chaux-de-Fonds branch",
+   "to": "",
+   "about": "Certifies continuous Swiss ownership since before September 1939 of one Oriental Development dollar bond.",
+   "summary": "Identifies bond M 8648.",
+   "keywords": [
+    "Oriental Development",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Lombard, Odier declaration: Imperial Japanese Government bond",
+   "doc_type": "securities declaration",
+   "start_page": 242,
+   "end_page": 242,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Lombard, Odier & Cie",
+   "to": "",
+   "about": "Declares a $1,000 Japanese government bond held for a non-enemy resident of Switzerland.",
+   "summary": "Identifies bond 26601 in New York custody.",
+   "keywords": [
+    "government bond",
+    "Swiss custody"
+   ]
+  },
+  {
+   "title": "Lombard, Odier declaration: three government bonds",
+   "doc_type": "securities declaration",
+   "start_page": 243,
+   "end_page": 243,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Lombard, Odier & Cie",
+   "to": "",
+   "about": "Declares three $1,000 Japanese government bonds owned by a Swiss national.",
+   "summary": "Lists bonds 18994, 19448, and 19449.",
+   "keywords": [
+    "government bonds",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Lombard, Odier declaration: 1954 government bonds",
+   "doc_type": "securities declaration",
+   "start_page": 244,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Lombard, Odier & Cie",
+   "to": "",
+   "about": "Declares Japanese government bonds held for Swiss residents in Geneva and New York.",
+   "summary": "Lists $5,500 in 1954 bonds.",
+   "keywords": [
+    "government bonds",
+    "Swiss custody"
+   ]
+  },
+  {
+   "title": "Lombard, Odier declaration: Oriental Development bonds",
+   "doc_type": "securities declaration",
+   "start_page": 245,
+   "end_page": 245,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Lombard, Odier & Cie",
+   "to": "",
+   "about": "Declares two Oriental Development bonds owned by a Swiss resident.",
+   "summary": "Identifies $1,000 in bonds 682 and 683.",
+   "keywords": [
+    "Oriental Development",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Lombard, Odier declaration: 1958 Oriental Development bonds",
+   "doc_type": "securities declaration",
+   "start_page": 246,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1947-01-18",
+   "from": "Lombard, Odier & Cie",
+   "to": "",
+   "about": "Declares eight Oriental Development bonds owned by Swiss residents.",
+   "summary": "Lists $8,000 in bonds deposited in New York.",
+   "keywords": [
+    "Oriental Development",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Hentsch & Cie list of Japanese enterprise bonds",
+   "doc_type": "securities declaration",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "from": "Hentsch & Cie",
+   "to": "Swiss Bankers Association",
+   "about": "Lists Swiss-owned Oriental Development and Great Consolidated Electric Power bonds managed in Geneva.",
+   "summary": "Reports three bond groups totaling $29,500.",
+   "keywords": [
+    "Oriental Development",
+    "electric power bonds"
+   ]
+  },
+  {
+   "title": "Bordier declaration: Tokyo city bonds",
+   "doc_type": "securities declaration",
+   "start_page": 248,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Bordier & Cie",
+   "to": "",
+   "about": "Declares $4,000 in Tokyo city bonds owned by a Swiss national resident in Argentina.",
+   "summary": "States ownership predates September 1939.",
+   "keywords": [
+    "Tokyo city bonds",
+    "Argentina"
+   ]
+  },
+  {
+   "title": "Bordier declaration: 1954 Japanese loan bonds",
+   "doc_type": "securities declaration",
+   "start_page": 249,
+   "end_page": 249,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Bordier & Cie",
+   "to": "",
+   "about": "Declares Japanese loan bonds held for Swiss and French nationals resident in Switzerland.",
+   "summary": "Lists $3,000 in bonds held in New York.",
+   "keywords": [
+    "government bonds",
+    "bond ownership"
+   ]
+  },
+  {
+   "title": "Ferrier Lullin declaration of Japanese enterprise bonds",
+   "doc_type": "letter and securities declaration",
+   "start_page": 250,
+   "end_page": 250,
+   "continues_previous": false,
+   "date": "1947-01-28",
+   "from": "Ferrier Lullin & Cie",
+   "to": "Swiss Bankers Association",
+   "about": "Reports bonds held for Swiss nationals resident in Switzerland.",
+   "summary": "Lists $10,000 in electric power bonds and $5,000 in Oriental Development bonds.",
+   "keywords": [
+    "Swiss ownership",
+    "electric power bonds"
+   ]
+  },
+  {
+   "title": "SAGED declaration: Japanese government bonds",
+   "doc_type": "securities declaration",
+   "start_page": 251,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1947-01-28",
+   "from": "Société Anonyme de Gérances et de Dépôts",
+   "to": "",
+   "about": "Reports Japanese government bonds held for a Spanish national resident in Spain.",
+   "summary": "Lists $4,900 in 1954 bonds held in New York.",
+   "keywords": [
+    "government bonds",
+    "Spanish ownership"
+   ]
+  },
+  {
+   "title": "SAGED declaration: bonds of Swiss residents",
+   "doc_type": "securities declaration",
+   "start_page": 252,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "1947-01",
+   "from": "Société Anonyme de Gérances et de Dépôts",
+   "to": "",
+   "about": "Reports several Japanese government and electric power bonds held for Swiss residents.",
+   "summary": "Names custody locations, but OCR obscures some amounts and bond details.",
+   "keywords": [
+    "Swiss ownership",
+    "electric power bonds"
+   ]
+  },
+  {
+   "title": "Crédit Suisse Glarus declaration",
+   "doc_type": "securities declaration",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1947-01-10",
+   "from": "Crédit Suisse, Glarus",
+   "to": "",
+   "about": "Certifies a Swiss resident's ownership of an Oriental Development bond.",
+   "summary": "Identifies $1,000 bond 2624.",
+   "keywords": [
+    "Oriental Development",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Crédit Suisse Geneva declaration",
+   "doc_type": "securities declaration",
+   "start_page": 254,
+   "end_page": 254,
+   "continues_previous": false,
+   "date": "1947-01-13",
+   "from": "Crédit Suisse, Geneva",
+   "to": "",
+   "about": "Declares a Great Consolidated Electric Power bond held for a Swiss owner.",
+   "summary": "Identifies $1,000 bond M 14012.",
+   "keywords": [
+    "electric power bonds",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Crédit Suisse Bern declaration",
+   "doc_type": "securities declaration",
+   "start_page": 255,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1947-01-30",
+   "from": "Crédit Suisse, Bern",
+   "to": "",
+   "about": "Lists three Japanese enterprise bonds of Swiss ownership held in the bank's vaults.",
+   "summary": "Names Oriental Development, Tokyo Electric Light, and Taiwan Electric Power.",
+   "keywords": [
+    "Swiss ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Crédit Suisse Basel declaration: electric power bond",
+   "doc_type": "securities declaration",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1947-01-25",
+   "from": "Crédit Suisse, Basel",
+   "to": "Competent American authorities",
+   "about": "Seeks protection of a Swiss resident's Great Consolidated Electric Power bond.",
+   "summary": "Identifies $1,000 bond M 11759.",
+   "keywords": [
+    "electric power bonds",
+    "Swiss interests"
+   ]
+  },
+  {
+   "title": "Crédit Suisse Basel declaration: Oriental Development and Tokyo Electric bonds",
+   "doc_type": "securities declaration",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "1947-01-24",
+   "from": "Crédit Suisse, Basel",
+   "to": "Competent American authorities",
+   "about": "Seeks protection of Swiss-owned Oriental Development and Tokyo Electric Light bonds.",
+   "summary": "Lists $3,000 in bonds, including one held by its New York agency.",
+   "keywords": [
+    "Swiss interests",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Lausanne declaration under Swiss Bankers Association inquiry",
+   "doc_type": "securities declaration",
+   "start_page": 258,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1947-01-11",
+   "from": "Unspecified Lausanne declarant",
+   "to": "Swiss Legation in Washington via the Swiss Bankers Association",
+   "about": "Lists Oriental Development and Taiwan Electric Power bonds belonging to Swiss holders.",
+   "summary": "Reports $4,000 in bonds.",
+   "keywords": [
+    "Swiss ownership",
+    "Taiwan Electric Power"
+   ]
+  },
+  {
+   "title": "Crédit Suisse Zurich list of Japanese enterprise bonds",
+   "doc_type": "securities declaration",
+   "start_page": 259,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "from": "Crédit Suisse, Zurich",
+   "to": "",
+   "about": "Lists Swiss-owned electric power and Oriental Development bonds managed in Zurich.",
+   "summary": "Reports bonds held locally and an additional $6,000 deposited in New York.",
+   "keywords": [
+    "Swiss ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Lugano declaration",
+   "doc_type": "securities declaration",
+   "start_page": 260,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1947-01-25",
+   "from": "Union Bank of Switzerland, Lugano",
+   "to": "",
+   "about": "Declares a Swiss-owned Taiwan Electric Power bond deposited in New York.",
+   "summary": "Identifies $1,000 bond 7934.",
+   "keywords": [
+    "Taiwan Electric Power",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Lausanne bond list",
+   "doc_type": "securities declaration",
+   "start_page": 261,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "1947-01-29",
+   "from": "Union Bank of Switzerland, Lausanne",
+   "to": "Swiss Bankers Association",
+   "about": "Lists six groups of Swiss-owned Japanese enterprise bonds in the bank's vaults.",
+   "summary": "Includes Oriental Development, Tokyo Electric Light, Great Consolidated Electric Power, and Taiwan Electric Power.",
+   "keywords": [
+    "Swiss ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Geneva declaration: mixed foreign ownership",
+   "doc_type": "securities declaration",
+   "start_page": 262,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "1947-01",
+   "from": "Union Bank of Switzerland, Geneva",
+   "to": "",
+   "about": "Reports Oriental Development bonds associated with Italian and German owners or interests.",
+   "summary": "Lists three ownership groups and their residence or domicile.",
+   "keywords": [
+    "Oriental Development",
+    "foreign ownership"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Geneva declaration: French-owned bonds",
+   "doc_type": "securities declaration",
+   "start_page": 263,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1947-01-16",
+   "from": "Union Bank of Switzerland, Geneva",
+   "to": "",
+   "about": "Reports Tokyo Electric Light bonds owned by a French national resident in Monaco.",
+   "summary": "Lists $6,000 in bonds held in Limoges.",
+   "keywords": [
+    "Tokyo Electric Light",
+    "French ownership"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Geneva declaration: Greek-owned bonds",
+   "doc_type": "securities declaration",
+   "start_page": 264,
+   "end_page": 264,
+   "continues_previous": false,
+   "date": "1947-01-16",
+   "from": "Union Bank of Switzerland, Geneva",
+   "to": "",
+   "about": "Reports Oriental Development bonds owned by Greek nationals resident in Switzerland.",
+   "summary": "Lists two $10,000 groups.",
+   "keywords": [
+    "Oriental Development",
+    "Greek ownership"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Geneva declaration: French interests and Swiss owner",
+   "doc_type": "securities declaration",
+   "start_page": 265,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "1947-01-16",
+   "from": "Union Bank of Switzerland, Geneva",
+   "to": "",
+   "about": "Reports electric power bonds held for French beneficiaries and a Swiss national resident in Turkey.",
+   "summary": "Lists two $3,000 bond groups.",
+   "keywords": [
+    "electric power bonds",
+    "beneficial ownership"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Geneva declaration: Swiss residents",
+   "doc_type": "securities declaration",
+   "start_page": 266,
+   "end_page": 266,
+   "continues_previous": false,
+   "date": "1947-01-16",
+   "from": "Union Bank of Switzerland, Geneva",
+   "to": "",
+   "about": "Reports Oriental Development, Tokyo Electric Light, and electric power bonds held for Swiss residents.",
+   "summary": "Identifies local and New York custody; one reported amount is unclear in OCR.",
+   "keywords": [
+    "Swiss ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Bern declaration",
+   "doc_type": "securities declaration",
+   "start_page": 267,
+   "end_page": 267,
+   "continues_previous": false,
+   "date": "1947-01-25",
+   "from": "Union Bank of Switzerland, Bern",
+   "to": "",
+   "about": "Reports bonds owned by Swiss and Italian nationals under the bankers' association inquiry.",
+   "summary": "Lists electric power, Tokyo Electric Light, and Oriental Development bonds.",
+   "keywords": [
+    "bond ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Zurich statement",
+   "doc_type": "securities declaration",
+   "start_page": 268,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "from": "Union Bank of Switzerland, Zurich",
+   "to": "",
+   "about": "Certifies Swiss beneficial ownership of Japanese enterprise dollar bonds.",
+   "summary": "Lists five bond groups and their custody locations.",
+   "keywords": [
+    "Swiss beneficial ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "Leu & Cie declaration of Japanese enterprise bonds",
+   "doc_type": "securities declaration",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1947-01-14",
+   "from": "Leu & Cie",
+   "to": "",
+   "about": "Declares Japanese enterprise bonds held for Swiss individuals or entities in Switzerland and abroad.",
+   "summary": "Includes $75,000 in Taiwan Electric Power bonds deposited in Buenos Aires.",
+   "keywords": [
+    "Taiwan Electric Power",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Leu & Cie supplementary bond declaration",
+   "doc_type": "securities declaration",
+   "start_page": 270,
+   "end_page": 270,
+   "continues_previous": false,
+   "date": "1947-01-31",
+   "from": "Leu & Cie",
+   "to": "",
+   "about": "Declares Oriental Development and Tokyo Electric Light bonds owned by Swiss residents.",
+   "summary": "Lists $4,000 in bonds deposited in Switzerland.",
+   "keywords": [
+    "Swiss ownership",
+    "Japanese enterprise bonds"
+   ]
+  },
+  {
+   "title": "American Express declaration for Eugenia Moser-Osiander",
+   "doc_type": "securities declaration",
+   "start_page": 271,
+   "end_page": 271,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "The American Express Company Inc.",
+   "to": "",
+   "about": "Certifies Eugenia Moser-Osiander's prewar ownership of Oriental Development bonds.",
+   "summary": "Identifies $1,500 in bonds held in New York.",
+   "keywords": [
+    "Oriental Development",
+    "named bondholder"
+   ]
+  },
+  {
+   "title": "Swiss National Bank Geneva declaration",
+   "doc_type": "securities declaration",
+   "start_page": 272,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1947-01-10",
+   "from": "Swiss National Bank, Geneva branch",
+   "to": "United States authorities via the Swiss Legation",
+   "about": "Declares Great Consolidated Electric Power bonds owned by a Swiss resident since before September 1939.",
+   "summary": "Lists seven $1,000 bonds in Geneva custody.",
+   "keywords": [
+    "electric power bonds",
+    "prewar ownership"
+   ]
+  },
+  {
+   "title": "Swiss National Bank Basel declaration",
+   "doc_type": "securities declaration",
+   "start_page": 273,
+   "end_page": 273,
+   "continues_previous": false,
+   "date": "1947-01-28",
+   "from": "Swiss National Bank, Basel branch",
+   "to": "",
+   "about": "Reports a Tokyo city dollar bond held for a Swiss individual.",
+   "summary": "Identifies $1,000 bond 19817, deposited since 1931.",
+   "keywords": [
+    "Tokyo city bonds",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "Banque Cantonale Vaudoise declaration",
+   "doc_type": "securities declaration",
+   "start_page": 274,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1947-01-13",
+   "from": "Banque Cantonale Vaudoise",
+   "to": "",
+   "about": "Identifies Daido Denryoku bonds owned by Léonie Vernet-Aubert and Gustave Bonnard.",
+   "summary": "Lists their bond numbers, nationality, and addresses.",
+   "keywords": [
+    "Daido Denryoku",
+    "named bondholders"
+   ]
+  },
+  {
+   "title": "Banca Popolare di Lugano bond notice",
+   "doc_type": "securities declaration",
+   "start_page": 275,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "1947-01-22",
+   "from": "Banca Popolare di Lugano",
+   "to": "",
+   "about": "Lists Swiss-owned Japanese enterprise and government dollar bonds under its management.",
+   "summary": "Reports Tokyo Electric, Tokyo city, and Japanese government issues.",
+   "keywords": [
+    "Swiss ownership",
+    "government bonds"
+   ]
+  },
+  {
+   "title": "Schaffhausen cantonal bank bond notification",
+   "doc_type": "securities declaration",
+   "start_page": 276,
+   "end_page": 276,
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "from": "Banque Cantonale de Schaffhouse",
+   "to": "",
+   "about": "Reports a Japanese government bond held for a Swiss resident.",
+   "summary": "Identifies $1,000 bond 37852.",
+   "keywords": [
+    "government bond",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "St. Gallen cantonal bank letter",
+   "doc_type": "letter and securities declaration",
+   "start_page": 277,
+   "end_page": 277,
+   "continues_previous": false,
+   "date": "1947-02-04",
+   "from": "Banque Cantonale de St-Gall",
+   "to": "Swiss Bankers Association",
+   "about": "Requests representation of a Tokyo Electric Light bond owned by a Swiss national living in Italy.",
+   "summary": "Identifies $1,000 bond 36563.",
+   "keywords": [
+    "Tokyo Electric Light",
+    "Swiss bondholder"
+   ]
+  },
+  {
+   "title": "Zurich cantonal bank late bond declaration",
+   "doc_type": "letter and securities declaration",
+   "start_page": 278,
+   "end_page": 278,
+   "continues_previous": false,
+   "date": "1947",
+   "from": "Banque Cantonale de Zurich",
+   "to": "Swiss Bankers Association",
+   "about": "Requests inclusion of $25,000 in Swiss-owned Oriental Development bonds reported after the deadline.",
+   "summary": "Explains that the bonds had recently been deposited under an Egyptian bank's name.",
+   "keywords": [
+    "Oriental Development",
+    "late declaration"
+   ]
+  },
+  {
+   "title": "Swiss Legation memorandum submitting additional declaration",
+   "doc_type": "memorandum",
+   "start_page": 279,
+   "end_page": 279,
+   "continues_previous": false,
+   "date": "1947-03-24",
+   "from": "Legation of Switzerland",
+   "to": "Department of State",
+   "about": "Submits another Swiss bank declaration for forwarding through established channels.",
+   "summary": "Adds a February 27 Union Bank declaration to earlier submissions.",
+   "keywords": [
+    "Swiss Legation",
+    "securities declarations"
+   ]
+  },
+  {
+   "title": "Union Bank of Switzerland Ujigawa bond statement",
+   "doc_type": "securities declaration",
+   "start_page": 280,
+   "end_page": 280,
+   "continues_previous": false,
+   "date": "1947-02-27",
+   "from": "Union Bank of Switzerland, Zurich",
+   "to": "",
+   "about": "Certifies Swiss ownership of a Ujigawa Electric Power bond.",
+   "summary": "Identifies $1,000 bond N 1763.",
+   "keywords": [
+    "Ujigawa Electric Power",
+    "Swiss ownership"
+   ]
+  },
+  {
+   "title": "State Department acknowledgment to Swiss Legation",
+   "doc_type": "memorandum",
+   "start_page": 281,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1947",
+   "from": "Department of State",
+   "to": "Legation of Switzerland",
+   "about": "Acknowledges Swiss securities declarations and addresses treatment of Japanese government obligations.",
+   "summary": "Says 64 declarations were forwarded to SCAP and government securities can receive the same treatment.",
+   "keywords": [
+    "Swiss declarations",
+    "SCAP",
+    "government securities"
+   ]
+  },
+  {
+   "title": "Bogdan proposal for private financing of Japanese imports",
+   "doc_type": "letter",
+   "start_page": 282,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1947-04-09",
+   "from": "Norbert A. Bogdan",
+   "to": "Edwin M. Martin",
+   "about": "Proposes a bank syndicate credit to finance Japanese imports and repay lenders from exports.",
+   "summary": "Bogdan suggests a $20–25 million credit for cotton and other imports, initially limited to short maturities. He proposes a cash margin, liens on goods and export proceeds, and War Department assurance against extraordinary disruptions.",
+   "keywords": [
+    "private credit",
+    "Japanese imports",
+    "export proceeds"
+   ]
+  },
+  {
+   "title": "Address and filing sheet for Bogdan letter",
+   "doc_type": "cover sheet",
+   "start_page": 285,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1947-04-09",
+   "from": "J. Henry Schroder Banking Corporation",
+   "to": "Edwin M. Martin",
+   "about": "Identifies the sender and recipient of Bogdan's April 9 letter.",
+   "summary": "Address sheet for the preceding letter.",
+   "keywords": [
+    "correspondence",
+    "trade finance"
+   ]
+  },
+  {
+   "title": "Bogdan wool processing and barter proposal",
+   "doc_type": "letter",
+   "start_page": 286,
+   "end_page": 287,
+   "continues_previous": false,
+   "date": "1947-04-09",
+   "from": "Norbert A. Bogdan",
+   "to": "Colonel John R. Gilchrist",
+   "about": "Presents a private wool shipment, processing, and possible barter arrangement with Japan.",
+   "summary": "Bogdan describes Hart Inc.'s proposal to send raw wool to Japan for conversion into yarn, with Japanese costs paid in wool. He also mentions exchanging wool for raw silk.",
+   "keywords": [
+    "wool processing",
+    "barter",
+    "private finance"
+   ]
+  },
+  {
+   "title": "Martin reply on private financing of Japanese trade",
+   "doc_type": "letter",
+   "start_page": 288,
+   "end_page": 290,
+   "continues_previous": false,
+   "date": "1947-04-21",
+   "from": "Edwin M. Martin",
+   "to": "Norbert A. Bogdan",
+   "about": "Sets out State Department principles for private credit supporting Japanese imports and exports.",
+   "summary": "Martin favors initial loans for materials used in export production, with repayment from resulting exports. He also urges flexible currencies and markets, safeguards for lenders, and eventual repayment from general export proceeds.",
+   "keywords": [
+    "private credit",
+    "trade policy",
+    "export proceeds"
+   ]
+  },
+  {
+   "title": "Protection of Allied shareholdings and debentures in Japanese concerns",
+   "doc_type": "despatch",
+   "start_page": 291,
+   "end_page": 293,
+   "continues_previous": false,
+   "date": "1947-04-11",
+   "from": "United States Political Adviser for Japan",
+   "to": "Department of State",
+   "about": "Reports SCAP procedures for protecting United Nations nationals' investments in Japanese companies.",
+   "summary": "The despatch quotes the Civil Property Custodian on preservation orders, approval requirements for transactions, investigation of unidentified property, and protection during reorganization or liquidation. It lists three enclosures.",
+   "keywords": [
+    "foreign investments",
+    "Civil Property Custodian",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Protection of foreign property interests",
+   "doc_type": "enclosed check note",
+   "start_page": 294,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1946-11-08",
+   "from": "Civil Property Custodian",
+   "to": "Economic and Scientific Section, Anti-Trust and Cartels",
+   "about": "Requests procedures to protect foreign-owned securities and other property during holding-company liquidation.",
+   "summary": "Proposes ownership investigations, separate custody, cash reserves for proceeds, and special handling of patents and machinery.",
+   "keywords": [
+    "foreign property",
+    "holding-company liquidation"
+   ]
+  },
+  {
+   "title": "Protection of United Nations nationals in Japanese industry reorganization",
+   "doc_type": "enclosed check note",
+   "start_page": 296,
+   "end_page": 296,
+   "continues_previous": false,
+   "date": "1946-12-05",
+   "from": "Civil Property Custodian",
+   "to": "Chief, Economic and Scientific Section",
+   "about": "Requests preservation of Allied nationals' stock control and related rights during corporate reorganization.",
+   "summary": "Calls for restitution safeguards and Civil Property Custodian review of reorganization plans.",
+   "keywords": [
+    "foreign shareholders",
+    "reorganization"
+   ]
+  },
+  {
+   "title": "Holding Company Liquidation Commission report",
+   "doc_type": "enclosed letter and report",
+   "start_page": 297,
+   "end_page": 298,
+   "continues_previous": false,
+   "date": "1946-12-27",
+   "from": "Holding Company Liquidation Commission",
+   "to": "Major Robert M. Cooper",
+   "about": "Reports steps taken to identify and protect securities and other assets formerly owned by foreigners.",
+   "summary": "The commission describes separate custody, reserve and income funds, ownership investigations, and instructions to holding companies. Chairman T. Sasayama signs the report.",
+   "keywords": [
+    "alien property",
+    "holding-company liquidation",
+    "custody"
+   ]
+  },
+  {
+   "title": "CINCFE telegram on reparations and the 1948 budget",
+   "doc_type": "incoming telegram",
+   "start_page": 299,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1947-07-08",
+   "from": "CINCFE",
+   "to": "Secretary of State",
+   "about": "Reports reparations committee decisions and asks for personnel and budget information.",
+   "summary": "Discusses machine tools, advance transfers, delayed arrivals, the 1948 budget, and Kane's status.",
+   "keywords": [
+    "reparations",
+    "machine tools",
+    "1948 budget"
+   ]
+  },
+  {
+   "title": "SCAP telegram on Bank of Taiwan liquidation",
+   "doc_type": "incoming telegram",
+   "start_page": 300,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1947-04-19",
+   "from": "SCAP, Tokyo",
+   "to": "Department of State, attention Edwin M. Martin",
+   "about": "Seeks authority to liquidate Japanese branches of the Bank of Taiwan without waiting for home-office claims.",
+   "summary": "SCAP argues that delay harms Japanese depositors and proposes leaving the home-office balance for a final settlement involving Taiwan or China.",
+   "keywords": [
+    "Bank of Taiwan",
+    "liquidation",
+    "depositors"
+   ]
+  },
+  {
+   "title": "Cover memorandum for proposed Japanese public finance policy",
+   "doc_type": "memorandum",
+   "start_page": 302,
+   "end_page": 302,
+   "continues_previous": false,
+   "date": "1947-03-24",
+   "from": "J. H. Hilldring",
+   "to": "Secretary, State-War-Navy Coordinating Committee",
+   "about": "Forwards the State Department's proposed Japanese public finance policy for committee consideration.",
+   "summary": "Requests referral to the Far East subcommittee.",
+   "keywords": [
+    "public finance",
+    "policy proposal"
+   ]
+  },
+  {
+   "title": "Duplicate CINCFE reparations telegram",
+   "doc_type": "incoming telegram",
+   "start_page": 303,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1947-07-08",
+   "from": "CINCFE",
+   "to": "Secretary of State",
+   "about": "Repeats the telegram on reparations machine tools, personnel, the 1948 budget, and Kane.",
+   "summary": "Duplicate of page 299.",
+   "keywords": [
+    "reparations",
+    "1948 budget"
+   ]
+  },
+  {
+   "title": "Proposed policy statement on Japanese public finance, partial copy",
+   "doc_type": "policy paper",
+   "start_page": 304,
+   "end_page": 312,
+   "continues_previous": false,
+   "date": "1947-03-24",
+   "from": "State Department",
+   "to": "State-War-Navy Coordinating Committee",
+   "about": "Recommends legislative control, public debt reform, and progressive taxation in occupied Japan.",
+   "summary": "The text begins mid-paragraph and calls for transparent budgets, legislative oversight, and limits on subsidies. It recommends broad distribution of government debt, reduced inflationary financing, progressive income and estate taxes, and better enforcement. Recommendations and appendices explain the policy's occupation and deconcentration aims.",
+   "keywords": [
+    "public finance",
+    "public debt",
+    "tax reform",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Japanese public finance policy statement, second copy",
+   "doc_type": "policy paper",
+   "start_page": 313,
+   "end_page": 320,
+   "continues_previous": false,
+   "date": "1947-03-24",
+   "from": "State Department",
+   "to": "State-War-Navy Coordinating Committee",
+   "about": "Presents another copy of the proposed Japanese public finance policy statement.",
+   "summary": "This copy begins with the policy question and repeats recommendations for legislative control of budgets, limits on subsidies, wider bond ownership, and progressive taxation. Its appendices discuss democratic oversight, demilitarization, and public debt. The copy continues beyond page 320.",
+   "keywords": [
+    "public finance",
+    "public debt",
+    "tax reform",
+    "duplicate copy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 10,
+  "pages": [
+   241,
+   320
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., January 2, 1945 - November 22, 1948 1675.pdf",
+  "seconds": 83.9,
+  "created": "2026-10-08 23:50:57",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-14"
+ }
+}

@@ -1,0 +1,1721 @@
+{
+ "section_summary": "This section records requests, schedule changes, and government replies concerning visits by Japanese naval vessels and transports to California and Hawaii in late 1939. It also contains correspondence about cargo loaded on Japanese public vessels without export documentation, followed by a complaint and newspaper clipping about a sentry aboard Yakumo at Hilo.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United states",
+    "U. S.",
+    "U.S.",
+    "American"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japasese",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHINGTON",
+    "Washington, D. C.",
+    "Washingten",
+    "Mashington",
+    "Wamhington",
+    "mehingten"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Califormia",
+    "Califernia",
+    "Galifernia",
+    "Cal ifornia",
+    "Calif.",
+    "Qulifornia"
+   ]
+  },
+  {
+   "name": "Sacramento",
+   "variants": [
+    "SACRAMENTO",
+    "Sacramento"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "Los Angeles",
+    "Les Angeles",
+    "Lee Angeles",
+    "Les Angaies",
+    "Les Angghks",
+    "Angsies"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Francisoo",
+    "San Franoisco",
+    "San Franeisee",
+    "San Framcisoo",
+    "Sam Franeisee",
+    "Sam Premcisee",
+    "San Franoisse",
+    "Sen Franoiseo",
+    "San Trancisco"
+   ]
+  },
+  {
+   "name": "San Pedro",
+   "variants": [
+    "San Pedro",
+    "Sam Pedro",
+    "San Pedre",
+    "Sam Pedre"
+   ]
+  },
+  {
+   "name": "Presidio of San Francisco",
+   "variants": [
+    "Presidio of San Francisco",
+    "Presidio of San Trancisco"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawaiian",
+    "T. H.",
+    "T.H."
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu",
+    "Homelulu",
+    "Momolulm",
+    "Romolule",
+    "Nonelulu",
+    "Nemolulu",
+    "Semelulu",
+    "Menelulu"
+   ]
+  },
+  {
+   "name": "Hilo",
+   "variants": [
+    "Hilo",
+    "HIO",
+    "Hile",
+    "Milo",
+    "Mile",
+    "Kile",
+    "Nile",
+    "xile",
+    "H1lo"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific Ocean",
+    "Pacifie",
+    "Paoifio",
+    "Paeifie"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Oahu",
+   "variants": [
+    "Oahu"
+   ]
+  },
+  {
+   "name": "Kahuku",
+   "variants": [
+    "Kahuku",
+    "Kahuku plantation"
+   ]
+  },
+  {
+   "name": "Honokaa",
+   "variants": [
+    "Honokaa"
+   ]
+  },
+  {
+   "name": "Waialee",
+   "variants": [
+    "Waialee"
+   ]
+  },
+  {
+   "name": "Waikele",
+   "variants": [
+    "Waikele"
+   ]
+  },
+  {
+   "name": "Waipahu",
+   "variants": [
+    "Waipahu"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "ENGLA",
+    "ENGLAND"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "LONDON"
+   ]
+  },
+  {
+   "name": "Helsinki",
+   "variants": [
+    "HELSINKI"
+   ]
+  },
+  {
+   "name": "Finland",
+   "variants": [
+    "FINNS",
+    "Finnish"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "MOSCOW",
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "USSR",
+    "Soviet union",
+    "Soviet Union"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russian"
+   ]
+  },
+  {
+   "name": "Poland",
+   "variants": [
+    "Poland",
+    "POLISH"
+   ]
+  },
+  {
+   "name": "Western Belarus",
+   "variants": [
+    "Western Byelorussia"
+   ]
+  },
+  {
+   "name": "Western Ukraine",
+   "variants": [
+    "West Ukrainia"
+   ]
+  },
+  {
+   "name": "Humbie",
+   "variants": [
+    "Humbie"
+   ]
+  },
+  {
+   "name": "East Lothian",
+   "variants": [
+    "East Lothian"
+   ]
+  },
+  {
+   "name": "Scotland",
+   "variants": [
+    "Scots",
+    "Scottish"
+   ]
+  },
+  {
+   "name": "Indiana",
+   "variants": [
+    "Indiana"
+   ]
+  },
+  {
+   "name": "Missouri",
+   "variants": [
+    "Missouri",
+    "Mo."
+   ]
+  },
+  {
+   "name": "Macon",
+   "variants": [
+    "MACON"
+   ]
+  },
+  {
+   "name": "Cherry Box",
+   "variants": [
+    "Cherry Box"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Masatomi Kimura",
+   "role": "Captain commanding the Japanese transport Shiritoko",
+   "variants": [
+    "Masatomi Kimura",
+    "Masatemi Kimura",
+    "Masatomi Kumura",
+    "Masatomi Kimara",
+    "Masatomi Khasura",
+    "Masatemi Immara",
+    "Masatemi Disura",
+    "Masatomi Eniura"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Cordell Hull"
+   ]
+  },
+  {
+   "name": "Culbert L. Olson",
+   "role": "Governor of California",
+   "variants": [
+    "Governor Olson",
+    "Calbert X.Glson"
+   ]
+  },
+  {
+   "name": "M. Stanley Mosk",
+   "role": "Executive secretary to the governor of California",
+   "variants": [
+    "M. STANLEY MOSK",
+    "M. STANLEY WOSK",
+    "M. Stanley Mook",
+    "M. Stauley Mook"
+   ]
+  },
+  {
+   "name": "S. F. Wixon",
+   "role": "Deputy commissioner",
+   "variants": [
+    "S. F. WIXDN"
+   ]
+  },
+  {
+   "name": "J. M. Johnson",
+   "role": "Assistant Secretary of Commerce",
+   "variants": [
+    "J. M. Johnson",
+    "J. M. Johison",
+    "Assistant Seeretary Jehasen",
+    "Assistant Seeretary Jehnsen"
+   ]
+  },
+  {
+   "name": "Stephen B. Gibbons",
+   "role": "Assistant Secretary of the Treasury",
+   "variants": [
+    "Stephen. Citbons",
+    "Gibbens"
+   ]
+  },
+  {
+   "name": "Harry L. Hopkins",
+   "role": "Secretary of Commerce",
+   "variants": [
+    "Marry L. Nepkine"
+   ]
+  },
+  {
+   "name": "R. Walton Moore",
+   "role": "Counselor of the Department of State",
+   "variants": [
+    "R. Waiton Moore"
+   ]
+  },
+  {
+   "name": "Henry Morgenthau Jr.",
+   "role": "Secretary of the Treasury",
+   "variants": [
+    "Meary Mergomthau, Jr.",
+    "Henry Morgenthau. Jr."
+   ]
+  },
+  {
+   "name": "Herbert E. Gaston",
+   "role": "Acting Secretary of the Treasury",
+   "variants": [
+    "Aeting Seeretary Gasten"
+   ]
+  },
+  {
+   "name": "Edward J. Shaughnessy",
+   "role": "Deputy commissioner, Immigration and Naturalization Service",
+   "variants": [
+    "EDW.J. SHAUGENESSY.",
+    "EDW,J. SHAUGHNESSY.",
+    "oshghness"
+   ]
+  },
+  {
+   "name": "Arno Hellthaler",
+   "role": "Hilo resident and complainant",
+   "variants": [
+    "Arno Helltbaler.",
+    "Arno Hellthaler",
+    "Mr. Hellthaler"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. ambassador",
+   "variants": [
+    "Ambassador J. Grew"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Emperor of Japan",
+   "variants": [
+    "Hirohite",
+    "Hirohito"
+   ]
+  },
+  {
+   "name": "W. W. Flagg",
+   "role": "Photographer credited in the newspaper clipping",
+   "variants": [
+    "W. W. Flagg"
+   ]
+  },
+  {
+   "name": "J. Walter Doyle",
+   "role": "Customs collector at Honolulu",
+   "variants": [
+    "J. Walter Doyle",
+    "Doyle"
+   ]
+  },
+  {
+   "name": "H. S. Wilson",
+   "role": "Customs inspector",
+   "variants": [
+    "H. S. Wilson",
+    "Wilson"
+   ]
+  },
+  {
+   "name": "Mario Sato",
+   "role": "Sailor reported to have deserted Yakumo",
+   "variants": [
+    "Mario Sato",
+    "Sato"
+   ]
+  },
+  {
+   "name": "J. K. Paasikivi",
+   "role": "Finnish special envoy",
+   "variants": [
+    "J. K. Paasikivi"
+   ]
+  },
+  {
+   "name": "David Y. K. Akana",
+   "role": "Mayor",
+   "variants": [
+    "David Y. K. Akana"
+   ]
+  },
+  {
+   "name": "Joseph B. Poindexter",
+   "role": "Governor",
+   "variants": [
+    "Joseph B. Poin-er",
+    "Joseph B. Poin-dexter"
+   ]
+  },
+  {
+   "name": "Oren E. Long",
+   "role": "Superintendent of public instruction",
+   "variants": [
+    "Oren E. Long",
+    "Oren Long"
+   ]
+  },
+  {
+   "name": "Arthur L. Dean",
+   "role": "Chairman, board of commissioners of public instruction",
+   "variants": [
+    "Arthur L. Dean",
+    "Arthur Dean"
+   ]
+  },
+  {
+   "name": "Dallas C. McLaren",
+   "role": "School principal",
+   "variants": [
+    "Dallas C. McLaren",
+    "Dallas C. McLa"
+   ]
+  },
+  {
+   "name": "Hans L’Orange",
+   "role": "Manager of Oahu Sugar Company",
+   "variants": [
+    "Hans L'Orang",
+    "Hans L'Orange"
+   ]
+  },
+  {
+   "name": "Mrs. L’Orange",
+   "role": "Co-host of a Waipahu reception",
+   "variants": [
+    "Mrs. L'Orange"
+   ]
+  },
+  {
+   "name": "Larry Pletch",
+   "role": "Suspect in an unrelated newspaper account",
+   "variants": [
+    "Larry Pletch",
+    "Pletch"
+   ]
+  },
+  {
+   "name": "Carl Bivens",
+   "role": "Flying instructor in an unrelated newspaper account",
+   "variants": [
+    "Carl Rivens",
+    "Bivens"
+   ]
+  },
+  {
+   "name": "Maxwell M. Hamilton",
+   "role": "Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Maxwell M. Hamilton"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese naval visits",
+  "Japanese transports",
+  "California ports",
+  "Hawaii ports",
+  "port courtesies",
+  "crude petroleum",
+  "Shiritoko",
+  "Shiriya",
+  "Iro",
+  "Yakumo and Iwate",
+  "export manifests",
+  "Hilo sentry incident"
+ ],
+ "subfiles": [
+  {
+   "title": "Request to War Department concerning Iro",
+   "doc_type": "note",
+   "start_page": 321,
+   "end_page": 321,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Requests usual courtesies for Iro at Los Angeles and Honolulu.",
+   "summary": "Requests courtesies for Iro’s October fuel and supply stops.",
+   "keywords": [
+    "Iro",
+    "Los Angeles",
+    "Honolulu"
+   ]
+  },
+  {
+   "title": "Request to Treasury Department concerning Iro",
+   "doc_type": "note",
+   "start_page": 322,
+   "end_page": 322,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests customs courtesies for Iro’s planned visits.",
+   "summary": "Seeks courtesies for Iro at Los Angeles and Honolulu.",
+   "keywords": [
+    "Iro",
+    "customs courtesies"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Iro visit request",
+   "doc_type": "note",
+   "start_page": 323,
+   "end_page": 323,
+   "continues_previous": false,
+   "date": "1939-09",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the proposed Iro visits pending federal and California replies.",
+   "summary": "Promises a decision after consultation with interested authorities.",
+   "keywords": [
+    "Iro",
+    "schedule"
+   ]
+  },
+  {
+   "title": "Japanese request for Shiritoko to accompany training squadron",
+   "doc_type": "diplomatic note",
+   "start_page": 324,
+   "end_page": 324,
+   "continues_previous": false,
+   "date": "1939-09-11",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests approval for Shiritoko and crew landings during the squadron’s cruise.",
+   "summary": "Shiritoko would supply coal to Yakumo and Iwate.",
+   "keywords": [
+    "Shiritoko",
+    "Yakumo",
+    "Iwate"
+   ]
+  },
+  {
+   "title": "Notice to California of Shiritoko cruise",
+   "doc_type": "note",
+   "start_page": 325,
+   "end_page": 325,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Governor of California",
+   "about": "Reports Shiritoko’s proposal to accompany Yakumo and Iwate.",
+   "summary": "Notifies California of the transport’s proposed cruise.",
+   "keywords": [
+    "Shiritoko",
+    "California"
+   ]
+  },
+  {
+   "title": "Notice to Agriculture of Shiritoko cruise",
+   "doc_type": "note",
+   "start_page": 326,
+   "end_page": 326,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Reports Shiritoko’s proposal to accompany the squadron.",
+   "summary": "Notifies Agriculture of the proposed accompaniment.",
+   "keywords": [
+    "Shiritoko",
+    "training squadron"
+   ]
+  },
+  {
+   "title": "Notice to Interior of Shiritoko cruise",
+   "doc_type": "note",
+   "start_page": 327,
+   "end_page": 327,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Reports Shiritoko’s proposal to accompany the squadron.",
+   "summary": "Notifies Interior of the proposed accompaniment.",
+   "keywords": [
+    "Shiritoko",
+    "training squadron"
+   ]
+  },
+  {
+   "title": "Notice to Labor of Shiritoko cruise",
+   "doc_type": "note",
+   "start_page": 328,
+   "end_page": 328,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Reports Shiritoko’s proposal to accompany the squadron.",
+   "summary": "Notifies Labor of the proposed accompaniment.",
+   "keywords": [
+    "Shiritoko",
+    "training squadron"
+   ]
+  },
+  {
+   "title": "Request to Navy concerning Shiritoko",
+   "doc_type": "note",
+   "start_page": 329,
+   "end_page": 329,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Acting Secretary of the Navy",
+   "about": "Seeks Navy approval for Shiritoko to accompany Yakumo and Iwate.",
+   "summary": "Requests approval of Shiritoko’s cruise with the squadron.",
+   "keywords": [
+    "Shiritoko",
+    "Navy approval"
+   ]
+  },
+  {
+   "title": "Request to War Department concerning Shiritoko",
+   "doc_type": "note",
+   "start_page": 330,
+   "end_page": 330,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Seeks approval for Shiritoko to accompany the squadron.",
+   "summary": "Requests approval of the transport’s accompanying visit.",
+   "keywords": [
+    "Shiritoko",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Notice to Treasury of Shiritoko cruise",
+   "doc_type": "note",
+   "start_page": 331,
+   "end_page": 331,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Reports Shiritoko’s proposal to accompany Yakumo and Iwate.",
+   "summary": "Notifies Treasury of the transport’s proposed cruise.",
+   "keywords": [
+    "Shiritoko",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Shiritoko request",
+   "doc_type": "diplomatic note",
+   "start_page": 332,
+   "end_page": 332,
+   "continues_previous": false,
+   "date": "1939-09-15",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the Shiritoko proposal pending federal replies.",
+   "summary": "Promises a further response after consultation.",
+   "keywords": [
+    "Shiritoko",
+    "training squadron"
+   ]
+  },
+  {
+   "title": "Revised itinerary for Japanese training squadron",
+   "doc_type": "diplomatic note",
+   "start_page": 333,
+   "end_page": 334,
+   "continues_previous": false,
+   "date": "1939-09-20",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Changes Yakumo, Iwate, and Shiritoko visits to Honolulu and Hilo only.",
+   "summary": "Cancels San Francisco and San Pedro and requests usual courtesies for the revised Hawaii itinerary.",
+   "keywords": [
+    "schedule change",
+    "Honolulu",
+    "Hilo"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to California",
+   "doc_type": "note",
+   "start_page": 335,
+   "end_page": 335,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Governor of California",
+   "about": "Reports cancellation of the squadron’s California visits.",
+   "summary": "Notifies California that only Honolulu and Hilo remain scheduled.",
+   "keywords": [
+    "schedule change",
+    "California"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to Agriculture",
+   "doc_type": "note",
+   "start_page": 336,
+   "end_page": 336,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Reports the squadron’s revised Hawaii itinerary.",
+   "summary": "Notes cancellation of California calls.",
+   "keywords": [
+    "schedule change",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to Interior",
+   "doc_type": "note",
+   "start_page": 337,
+   "end_page": 337,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Reports the squadron’s revised Hawaii itinerary.",
+   "summary": "Notes cancellation of California calls.",
+   "keywords": [
+    "schedule change",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to Labor",
+   "doc_type": "note",
+   "start_page": 338,
+   "end_page": 338,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Reports the squadron’s revised Hawaii itinerary.",
+   "summary": "Notes cancellation of California calls.",
+   "keywords": [
+    "schedule change",
+    "Labor"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to Navy",
+   "doc_type": "note",
+   "start_page": 339,
+   "end_page": 339,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Acting Secretary of the Navy",
+   "about": "Reports the squadron’s revised Hawaii itinerary.",
+   "summary": "Notifies Navy of Honolulu and Hilo calls and cancelled California visits.",
+   "keywords": [
+    "schedule change",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to War Department",
+   "doc_type": "note",
+   "start_page": 340,
+   "end_page": 340,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Reports the squadron’s revised Hawaii itinerary.",
+   "summary": "Notifies War Department of the changed visits.",
+   "keywords": [
+    "schedule change",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Revised itinerary notice to Treasury",
+   "doc_type": "note",
+   "start_page": 341,
+   "end_page": 341,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Reports the squadron’s revised Hawaii itinerary.",
+   "summary": "Notifies Treasury of the changed visits.",
+   "keywords": [
+    "schedule change",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Acknowledgment of revised squadron itinerary",
+   "doc_type": "diplomatic note",
+   "start_page": 342,
+   "end_page": 342,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the changed itinerary and notification of authorities.",
+   "summary": "Confirms authorities have been informed.",
+   "keywords": [
+    "schedule change",
+    "training squadron"
+   ]
+  },
+  {
+   "title": "War Department reply on Iro",
+   "doc_type": "letter",
+   "start_page": 343,
+   "end_page": 343,
+   "continues_previous": false,
+   "date": "1939-09-18",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Reports instructions to extend courtesies to Iro.",
+   "summary": "Military commanders in California and Hawaii have been advised.",
+   "keywords": [
+    "Iro",
+    "courtesies"
+   ]
+  },
+  {
+   "title": "Approval of Iro visits",
+   "doc_type": "diplomatic note",
+   "start_page": 344,
+   "end_page": 344,
+   "continues_previous": false,
+   "date": "1939-09-26",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Approves Iro’s visits to Los Angeles and Honolulu.",
+   "summary": "Promises the usual courtesies and facilities.",
+   "keywords": [
+    "Iro",
+    "approval"
+   ]
+  },
+  {
+   "title": "Treasury reply on Shiritoko",
+   "doc_type": "letter",
+   "start_page": 345,
+   "end_page": 345,
+   "continues_previous": false,
+   "date": "",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Authorizes customary customs courtesies for Shiritoko.",
+   "summary": "Customs collectors are instructed concerning proposed port calls.",
+   "keywords": [
+    "Shiritoko",
+    "customs"
+   ]
+  },
+  {
+   "title": "Treasury reply on Iro",
+   "doc_type": "letter",
+   "start_page": 346,
+   "end_page": 346,
+   "continues_previous": false,
+   "date": "",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Authorizes customary customs courtesies for Iro.",
+   "summary": "Customs collectors at Los Angeles and Honolulu are notified.",
+   "keywords": [
+    "Iro",
+    "customs"
+   ]
+  },
+  {
+   "title": "War Department reply on Shiritoko",
+   "doc_type": "letter",
+   "start_page": 347,
+   "end_page": 347,
+   "continues_previous": false,
+   "date": "1939-09-19",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Orders military commanders to extend courtesies to Shiritoko.",
+   "summary": "Shiritoko will receive courtesies alongside Yakumo and Iwate.",
+   "keywords": [
+    "Shiritoko",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Labor acknowledgment of squadron itinerary",
+   "doc_type": "letter",
+   "start_page": 348,
+   "end_page": 348,
+   "continues_previous": false,
+   "date": "1939-09-27",
+   "from": "Deputy Commissioner, Immigration and Naturalization Service",
+   "to": "Secretary of State",
+   "about": "Acknowledges Shiritoko’s proposed accompaniment and the squadron’s changed route.",
+   "summary": "Records cancellation of San Francisco and San Pedro visits.",
+   "keywords": [
+    "Shiritoko",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Treasury opinion on cargo aboard Erimo",
+   "doc_type": "letter",
+   "start_page": 349,
+   "end_page": 350,
+   "continues_previous": false,
+   "date": "1939-09-26",
+   "from": "Acting Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Addresses export manifests and customs privileges for cargo loaded aboard the Japanese naval tanker Erimo.",
+   "summary": "Treasury says Commerce must decide manifest requirements, while State must decide whether cargo loading abuses granted courtesies. It seeks a customs report on whether scrap tin was restricted tinplate scrap.",
+   "keywords": [
+    "Erimo",
+    "export manifest",
+    "scrap tin"
+   ]
+  },
+  {
+   "title": "Definition of usual customs courtesies",
+   "doc_type": "enclosed letter",
+   "start_page": 351,
+   "end_page": 351,
+   "continues_previous": false,
+   "date": "1939-02-28",
+   "from": "Stephen B. Gibbons, Assistant Secretary of the Treasury",
+   "to": "J. M. Johnson, Assistant Secretary of Commerce",
+   "about": "Explains customary treatment of visiting foreign government ships.",
+   "summary": "Describes a welcome, courteous landing of personnel, and no official vessel inspection.",
+   "keywords": [
+    "customs courtesies",
+    "foreign vessels"
+   ]
+  },
+  {
+   "title": "State Department view on Japanese vessels’ cargo",
+   "doc_type": "letter",
+   "start_page": 352,
+   "end_page": 356,
+   "continues_previous": false,
+   "date": "1939-11-01",
+   "from": "R. Walton Moore, for the Secretary of State",
+   "to": "Harry L. Hopkins, Secretary of Commerce",
+   "about": "Addresses undocumented cargo loaded aboard Erimo and a Japanese training vessel in Hawaii.",
+   "summary": "State concludes that customs courtesies do not permit foreign public vessels to load export cargo without required manifests, clearances, or licenses. Because time has elapsed, it will not formally raise the past incidents with Japan, but asks that future violations be stopped and reported. It awaits the Honolulu collector’s report on scrap tin.",
+   "keywords": [
+    "Erimo",
+    "export law",
+    "customs courtesies",
+    "scrap tin"
+   ]
+  },
+  {
+   "title": "Transmittal to Treasury concerning Japanese cargo",
+   "doc_type": "letter",
+   "start_page": 357,
+   "end_page": 358,
+   "continues_previous": false,
+   "date": "1939-11-01",
+   "from": "Counselor, for the Secretary of State",
+   "to": "Henry Morgenthau Jr., Secretary of the Treasury",
+   "about": "Sends Treasury a copy of State’s letter to Commerce.",
+   "summary": "Requests the Honolulu customs collector’s report when available.",
+   "keywords": [
+    "export manifest",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "California response concerning Japanese vessels",
+   "doc_type": "letter",
+   "start_page": 359,
+   "end_page": 359,
+   "continues_previous": false,
+   "date": "1939-09-23",
+   "from": "M. Stanley Mosk, Executive Secretary to the Governor",
+   "to": "Cordell Hull, Secretary of State",
+   "about": "Reports Governor Olson’s lack of objection to visits by Iro, Shiritoko, Yakumo, and Iwate.",
+   "summary": "Asks whether California officials are expected to entertain the ships’ officers.",
+   "keywords": [
+    "California",
+    "Iro",
+    "Shiritoko"
+   ]
+  },
+  {
+   "title": "Approval of Shiriya and Iro visits",
+   "doc_type": "diplomatic note",
+   "start_page": 360,
+   "end_page": 360,
+   "continues_previous": false,
+   "date": "1939-10-24",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Approves proposed petroleum and supply calls by Shiriya and Iro.",
+   "summary": "Promises customary courtesies and facilities at Los Angeles and Hilo.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "approval"
+   ]
+  },
+  {
+   "title": "Navy approval of Iro visits",
+   "doc_type": "letter",
+   "start_page": 361,
+   "end_page": 361,
+   "continues_previous": false,
+   "date": "1939-09",
+   "from": "Acting Secretary of the Navy",
+   "to": "Secretary of State",
+   "about": "Approves Iro’s October Los Angeles and Honolulu visits.",
+   "summary": "Includes shore leave and usual naval courtesies.",
+   "keywords": [
+    "Iro",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Navy approval of revised squadron visits",
+   "doc_type": "letter",
+   "start_page": 362,
+   "end_page": 362,
+   "continues_previous": false,
+   "date": "1939-09",
+   "from": "Acting Secretary of the Navy",
+   "to": "Secretary of State",
+   "about": "Approves Yakumo, Iwate, and Shiritoko visits to Honolulu and Hilo.",
+   "summary": "Navy will notify local authorities to extend courtesies.",
+   "keywords": [
+    "Yakumo",
+    "Iwate",
+    "Shiritoko"
+   ]
+  },
+  {
+   "title": "Approval of revised squadron visits",
+   "doc_type": "diplomatic note",
+   "start_page": 363,
+   "end_page": 363,
+   "continues_previous": false,
+   "date": "1939-10-02",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Approves the squadron’s revised Honolulu and Hilo visits.",
+   "summary": "Promises usual courtesies and facilities.",
+   "keywords": [
+    "training squadron",
+    "Hawaii",
+    "approval"
+   ]
+  },
+  {
+   "title": "California governor’s office fragment",
+   "doc_type": "document fragment",
+   "start_page": 364,
+   "end_page": 364,
+   "continues_previous": false,
+   "date": "",
+   "from": "Governor’s Office, California",
+   "to": "",
+   "about": "Contains governor’s office letterhead and filing marks without substantive text.",
+   "summary": "Only letterhead and filing marks are legible.",
+   "keywords": [
+    "California",
+    "governor"
+   ]
+  },
+  {
+   "title": "War Department acknowledgment of revised itinerary",
+   "doc_type": "letter",
+   "start_page": 365,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Reports military commanders were informed of the squadron’s changed schedule.",
+   "summary": "Communicates the Hawaii itinerary and cancelled California stops.",
+   "keywords": [
+    "training squadron",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Labor acknowledgment of Iro visit",
+   "doc_type": "letter",
+   "start_page": 366,
+   "end_page": 366,
+   "continues_previous": false,
+   "date": "1939-10-05",
+   "from": "Edward J. Shaughnessy, Deputy Commissioner",
+   "to": "Secretary of State",
+   "about": "Acknowledges Iro’s proposed Los Angeles and Honolulu calls.",
+   "summary": "Information was sent to immigration officers.",
+   "keywords": [
+    "Iro",
+    "immigration"
+   ]
+  },
+  {
+   "title": "Japanese request for Shiriya and Iro visits",
+   "doc_type": "diplomatic note",
+   "start_page": 367,
+   "end_page": 367,
+   "continues_previous": false,
+   "date": "1939-10-07",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests approval for Shiriya and Iro to load petroleum at Los Angeles and replenish supplies at Hilo.",
+   "summary": "Provides November through January schedules and requests crew landing and usual courtesies.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "crude petroleum"
+   ]
+  },
+  {
+   "title": "Request to Navy for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 368,
+   "end_page": 368,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Acting Secretary of the Navy",
+   "about": "Requests approval and usual courtesies for Shiriya and Iro.",
+   "summary": "Describes petroleum and supply calls at Los Angeles and Hilo.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Request to Interior for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 369,
+   "end_page": 369,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Requests customary courtesies for Shiriya and Iro.",
+   "summary": "Gives proposed Los Angeles and Hilo schedules.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Request to War Department for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 370,
+   "end_page": 370,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Requests customary courtesies for Shiriya and Iro.",
+   "summary": "Gives proposed Los Angeles and Hilo schedules.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Request to Treasury for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 371,
+   "end_page": 371,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests customary courtesies for the proposed transport visits.",
+   "summary": "The surviving copy is partly illegible.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Request to Agriculture for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 372,
+   "end_page": 372,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Requests customary courtesies for Shiriya and Iro.",
+   "summary": "Gives proposed Los Angeles and Hilo schedules.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Request to California for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 373,
+   "end_page": 373,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Governor of California",
+   "about": "Requests California’s response to proposed Shiriya and Iro visits.",
+   "summary": "Gives schedules and asks about crew landings.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "California"
+   ]
+  },
+  {
+   "title": "Request to Labor for Shiriya and Iro",
+   "doc_type": "note",
+   "start_page": 374,
+   "end_page": 374,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Requests customary courtesies for Shiriya and Iro.",
+   "summary": "Gives schedules and asks about crew landings.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "Labor"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Shiriya and Iro request",
+   "doc_type": "diplomatic note",
+   "start_page": 375,
+   "end_page": 375,
+   "continues_previous": false,
+   "date": "1939-10-11",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the transport request pending official replies.",
+   "summary": "Promises a further response after consultation.",
+   "keywords": [
+    "Shiriya",
+    "Iro"
+   ]
+  },
+  {
+   "title": "Treasury implementation of revised squadron itinerary",
+   "doc_type": "letter",
+   "start_page": 376,
+   "end_page": 376,
+   "continues_previous": false,
+   "date": "1939-09-29",
+   "from": "Assistant to the Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Adjusts customs instructions for Yakumo, Iwate, and Shiritoko.",
+   "summary": "Updates Hawaii collectors and revokes California port authorizations.",
+   "keywords": [
+    "customs",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "War Department reply on Shiriya and Iro",
+   "doc_type": "letter",
+   "start_page": 377,
+   "end_page": 377,
+   "continues_previous": false,
+   "date": "1939-10-14",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Reports no objection to Shiriya and Iro visits and crew landings.",
+   "summary": "Military commanders are directed to extend courtesies; crew landings are accepted if no arms are carried.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "crew landing"
+   ]
+  },
+  {
+   "title": "Treasury reply on Shiriya and Iro",
+   "doc_type": "letter",
+   "start_page": 378,
+   "end_page": 378,
+   "continues_previous": false,
+   "date": "1939-10",
+   "from": "Assistant to the Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Authorizes customs courtesies for Shiriya and Iro.",
+   "summary": "Customs collectors are instructed for Los Angeles and Hilo.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "customs"
+   ]
+  },
+  {
+   "title": "Labor acknowledgment of Shiriya and Iro",
+   "doc_type": "letter",
+   "start_page": 379,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1939-10-18",
+   "from": "Deputy Commissioner, Immigration and Naturalization Service",
+   "to": "Secretary of State",
+   "about": "Acknowledges transport schedules and distributes them to immigration officers.",
+   "summary": "Records planned Los Angeles and Hilo visits.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "immigration"
+   ]
+  },
+  {
+   "title": "Navy approval of Shiriya and Iro",
+   "doc_type": "letter",
+   "start_page": 380,
+   "end_page": 380,
+   "continues_previous": false,
+   "date": "1939-10",
+   "from": "Acting Secretary of the Navy",
+   "to": "Secretary of State",
+   "about": "Reports no objection to the transport visits.",
+   "summary": "Local naval authorities will extend usual courtesies.",
+   "keywords": [
+    "Shiriya",
+    "Iro",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Japanese revision of Shiriya schedule",
+   "doc_type": "diplomatic note",
+   "start_page": 381,
+   "end_page": 381,
+   "continues_previous": false,
+   "date": "1939-10-25",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Moves Shiriya’s Los Angeles visit to November 16–21 and Hilo visit to December 2–6.",
+   "summary": "Requests that the changed dates be accommodated.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to Agriculture",
+   "doc_type": "note",
+   "start_page": 382,
+   "end_page": 382,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to Interior",
+   "doc_type": "note",
+   "start_page": 383,
+   "end_page": 383,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to Labor",
+   "doc_type": "note",
+   "start_page": 384,
+   "end_page": 384,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to Navy",
+   "doc_type": "note",
+   "start_page": 385,
+   "end_page": 385,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Acting Secretary of the Navy",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to Treasury",
+   "doc_type": "note",
+   "start_page": 386,
+   "end_page": 386,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to War Department",
+   "doc_type": "note",
+   "start_page": 387,
+   "end_page": 387,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Shiriya schedule notice to California",
+   "doc_type": "note",
+   "start_page": 388,
+   "end_page": 388,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Governor of California",
+   "about": "Reports Shiriya’s revised Los Angeles and Hilo dates.",
+   "summary": "Circulates the November and December schedule.",
+   "keywords": [
+    "Shiriya",
+    "California"
+   ]
+  },
+  {
+   "title": "Acknowledgment of revised Shiriya schedule",
+   "doc_type": "diplomatic note",
+   "start_page": 389,
+   "end_page": 389,
+   "continues_previous": false,
+   "date": "1939-10-27",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges Shiriya’s revised dates.",
+   "summary": "Confirms federal and California authorities were informed.",
+   "keywords": [
+    "Shiriya",
+    "schedule change"
+   ]
+  },
+  {
+   "title": "Navy reply on revised Shiriya schedule",
+   "doc_type": "letter",
+   "start_page": 390,
+   "end_page": 390,
+   "continues_previous": false,
+   "date": "1939-11-01",
+   "from": "Acting Secretary of the Navy",
+   "to": "Secretary of State",
+   "about": "Accepts Shiriya’s changed Los Angeles and Hilo dates.",
+   "summary": "Local naval authorities will be notified.",
+   "keywords": [
+    "Shiriya",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Labor reply on revised Shiriya schedule",
+   "doc_type": "letter",
+   "start_page": 391,
+   "end_page": 391,
+   "continues_previous": false,
+   "date": "1939-11-01",
+   "from": "Edward J. Shaughnessy, Deputy Commissioner",
+   "to": "Secretary of State",
+   "about": "Updates immigration officers on Shiriya’s changed itinerary.",
+   "summary": "Requests customary courtesies at the ports.",
+   "keywords": [
+    "Shiriya",
+    "immigration"
+   ]
+  },
+  {
+   "title": "War Department reply on revised Shiriya schedule",
+   "doc_type": "letter",
+   "start_page": 392,
+   "end_page": 392,
+   "continues_previous": false,
+   "date": "1939-10-31",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Reports that military commanders received Shiriya’s new dates.",
+   "summary": "Forwards the schedule to California and Hawaii commanders.",
+   "keywords": [
+    "Shiriya",
+    "War Department"
+   ]
+  },
+  {
+   "title": "California approval of Shiriya and Iro",
+   "doc_type": "letter",
+   "start_page": 393,
+   "end_page": 393,
+   "continues_previous": false,
+   "date": "1939-10-30",
+   "from": "M. Stanley Mosk, Executive Secretary",
+   "to": "Secretary of State",
+   "about": "Reports the governor’s lack of objection to transport visits and crew landings.",
+   "summary": "California accepts Shiriya and Iro’s proposed calls.",
+   "keywords": [
+    "California",
+    "Shiriya",
+    "Iro"
+   ]
+  },
+  {
+   "title": "Treasury notice of revised Shiriya dates",
+   "doc_type": "letter",
+   "start_page": 394,
+   "end_page": 394,
+   "continues_previous": false,
+   "date": "1939-11",
+   "from": "Assistant to the Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Informs customs collectors of Shiriya’s changed dates.",
+   "summary": "Updates Honolulu and Los Angeles customs offices.",
+   "keywords": [
+    "Shiriya",
+    "customs"
+   ]
+  },
+  {
+   "title": "Complaint concerning Japanese armed sentries",
+   "doc_type": "letter",
+   "start_page": 395,
+   "end_page": 395,
+   "continues_previous": false,
+   "date": "1939-10-30",
+   "from": "Arno Hellthaler",
+   "to": "Secretary of State",
+   "about": "Protests an armed Japanese sentry and visitor procedures during the Hilo visit.",
+   "summary": "The writer objects to visitors being asked to bow to a sentry aboard Yakumo and encloses a newspaper account of a customs inspector’s encounter.",
+   "keywords": [
+    "Yakumo",
+    "Hilo",
+    "armed sentry"
+   ]
+  },
+  {
+   "title": "Advertiser clipping on Yakumo sentry incident",
+   "doc_type": "newspaper clipping",
+   "start_page": 396,
+   "end_page": 399,
+   "continues_previous": false,
+   "date": "1939-10-30",
+   "from": "The Advertiser",
+   "to": "",
+   "about": "Reports claims that visitors to Yakumo were asked to salute or bow to a sentry.",
+   "summary": "A photograph and article describe a sign aboard Yakumo and a reported refusal by customs inspector H. S. Wilson to bow. The State Department awaits a customs report. The clipping also contains unrelated newspaper stories and a report of a missing Yakumo sailor.",
+   "keywords": [
+    "Yakumo",
+    "Hilo",
+    "customs inspector",
+    "newspaper clipping"
+   ]
+  },
+  {
+   "title": "Reply to Arno Hellthaler",
+   "doc_type": "letter",
+   "start_page": 400,
+   "end_page": 400,
+   "continues_previous": false,
+   "date": "1939-11-15",
+   "from": "Maxwell M. Hamilton, for the Secretary of State",
+   "to": "Arno Hellthaler",
+   "about": "Acknowledges the complaint and enclosed report about Yakumo’s sentry.",
+   "summary": "States that the letter and clipping have been noted.",
+   "keywords": [
+    "Yakumo",
+    "Hilo",
+    "armed sentry"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 6,
+  "pages": [
+   321,
+   400
+  ],
+  "pdf": "894.3311 Visits Of Vessels And Aircraft Of Japan To Ports Of United States., May 21, 1936 - January 3, 1940 1172-part-2.pdf",
+  "seconds": 146.1,
+  "created": "2026-10-08 16:23:19",
+  "key": "japan-internal-affairs-894.3311-visits-of-vessels-7-part-2"
+ }
+}

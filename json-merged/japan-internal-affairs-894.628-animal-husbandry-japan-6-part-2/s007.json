@@ -1,0 +1,3914 @@
+{
+ "section_summary": "This section concerns Japanese fishing and research vessels seeking access to American ports and Alaskan waters in 1936. State, Navy, Treasury, and other departments discuss courtesies, navigation hazards, customs rules, and the future treatment of ports that are not open to foreign vessels. The section also records Japanese crab-fishing activity in the Bering Sea and includes a 1935 memorandum on proposed California controls on Japanese-owned fishing vessels.",
+ "places": [
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "American"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Cal.",
+    "Celiforrie",
+    "Califormia"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington",
+    "Washington, D. C.",
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tolyo"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific Ocean",
+    "Pacif1c Ocean"
+   ]
+  },
+  {
+   "name": "Pacific Coast",
+   "variants": [
+    "Pacific Coast",
+    "acific Coast"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska",
+    "Alaskan waters",
+    "Alaskan Ports"
+   ]
+  },
+  {
+   "name": "Aleutian Islands",
+   "variants": [
+    "Aleutian Islands",
+    "leutian Islands"
+   ]
+  },
+  {
+   "name": "Bering Sea",
+   "variants": [
+    "Bering Sea",
+    "BEhring Sea",
+    "Bering See",
+    "Herin, Bea"
+   ]
+  },
+  {
+   "name": "Chishima Islands (Kuril Islands)",
+   "variants": [
+    "Chishima Islands"
+   ]
+  },
+  {
+   "name": "Pribilof Islands",
+   "variants": [
+    "Pribilof Islands",
+    "Pribilof Islande"
+   ]
+  },
+  {
+   "name": "Hawaiian Islands",
+   "variants": [
+    "Hawaiian Islands",
+    "Hewaiien Ielands"
+   ]
+  },
+  {
+   "name": "South Sea Islands",
+   "variants": [
+    "South Sea Islands",
+    "Japanese Mandated Islands",
+    "Mandated Islands"
+   ]
+  },
+  {
+   "name": "San Diego",
+   "variants": [
+    "San Liego",
+    "San Diego",
+    "SAN DIEGO"
+   ]
+  },
+  {
+   "name": "Mare Island",
+   "variants": [
+    "Mare Island"
+   ]
+  },
+  {
+   "name": "Bremerton",
+   "variants": [
+    "Bremerton"
+   ]
+  },
+  {
+   "name": "Bristol Bay",
+   "variants": [
+    "Bristol Bay",
+    "Briatol Bay",
+    "Bristol bay"
+   ]
+  },
+  {
+   "name": "St. Paul Island",
+   "variants": [
+    "St. Paul Island",
+    "St.Paul Island"
+   ]
+  },
+  {
+   "name": "Dutch Harbor",
+   "variants": [
+    "Dutch Harbor",
+    "Dutoh Harbor"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle",
+    "SEATTLE"
+   ]
+  },
+  {
+   "name": "Monterey",
+   "variants": [
+    "Monterey",
+    "Konterey"
+   ]
+  },
+  {
+   "name": "Hilo",
+   "variants": [
+    "Hilo"
+   ]
+  },
+  {
+   "name": "Kiska Harbor",
+   "variants": [
+    "Kiska Harbor",
+    "Kiska",
+    "Kimks"
+   ]
+  },
+  {
+   "name": "Chichagof Harbor",
+   "variants": [
+    "Chichagof Harbor",
+    "Chiehagof Harbor"
+   ]
+  },
+  {
+   "name": "Attu Island",
+   "variants": [
+    "Attu Island"
+   ]
+  },
+  {
+   "name": "Constantine Bay",
+   "variants": [
+    "Constantine Bay"
+   ]
+  },
+  {
+   "name": "Amchitka Island",
+   "variants": [
+    "Amchitka Island"
+   ]
+  },
+  {
+   "name": "Nazan Bay",
+   "variants": [
+    "Nazan Bay",
+    "Mazan Bay",
+    "Hasan Bay"
+   ]
+  },
+  {
+   "name": "Atka Island",
+   "variants": [
+    "Atka Island"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "HakodatE"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "SAN FRANCISCO"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu",
+    "HONOLULU"
+   ]
+  },
+  {
+   "name": "Juneau",
+   "variants": [
+    "Juneau",
+    "JUNEAU"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK"
+   ]
+  },
+  {
+   "name": "Arizona",
+   "variants": [
+    "Arizona"
+   ]
+  },
+  {
+   "name": "Nogales",
+   "variants": [
+    "NOGALES"
+   ]
+  },
+  {
+   "name": "Douglas",
+   "variants": [
+    "Douglas"
+   ]
+  },
+  {
+   "name": "Naco",
+   "variants": [
+    "Naco"
+   ]
+  },
+  {
+   "name": "San Luis, Arizona",
+   "variants": [
+    "San Luis"
+   ]
+  },
+  {
+   "name": "Sasabe",
+   "variants": [
+    "Sasabe"
+   ]
+  },
+  {
+   "name": "Cordova",
+   "variants": [
+    "Cordova"
+   ]
+  },
+  {
+   "name": "Craig",
+   "variants": [
+    "Craig"
+   ]
+  },
+  {
+   "name": "Eagle",
+   "variants": [
+    "Eagle"
+   ]
+  },
+  {
+   "name": "Hyder",
+   "variants": [
+    "Hyder"
+   ]
+  },
+  {
+   "name": "Ketchikan",
+   "variants": [
+    "Ketchikan"
+   ]
+  },
+  {
+   "name": "Nome",
+   "variants": [
+    "Nome"
+   ]
+  },
+  {
+   "name": "Petersburg",
+   "variants": [
+    "Petersburg"
+   ]
+  },
+  {
+   "name": "Seward",
+   "variants": [
+    "Seward"
+   ]
+  },
+  {
+   "name": "Sitka",
+   "variants": [
+    "Sitka"
+   ]
+  },
+  {
+   "name": "Skagway",
+   "variants": [
+    "Skagway"
+   ]
+  },
+  {
+   "name": "Unalaska",
+   "variants": [
+    "Unalaska"
+   ]
+  },
+  {
+   "name": "Wrangell",
+   "variants": [
+    "Wrangell"
+   ]
+  },
+  {
+   "name": "New York State",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Buffalo",
+   "variants": [
+    "Buffalo",
+    "BUFFALO"
+   ]
+  },
+  {
+   "name": "Niagara County",
+   "variants": [
+    "Niagara"
+   ]
+  },
+  {
+   "name": "Erie County, New York",
+   "variants": [
+    "Erle"
+   ]
+  },
+  {
+   "name": "Cattaraugus County",
+   "variants": [
+    "Cattaraugus"
+   ]
+  },
+  {
+   "name": "Chautauqua County",
+   "variants": [
+    "Chautauqua"
+   ]
+  },
+  {
+   "name": "Dunkirk",
+   "variants": [
+    "Dunkirk"
+   ]
+  },
+  {
+   "name": "Niagara Falls",
+   "variants": [
+    "Niagara Falls"
+   ]
+  },
+  {
+   "name": "Lewiston",
+   "variants": [
+    "Lewiston"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "variants": [
+    "Illinois",
+    "I!linols"
+   ]
+  },
+  {
+   "name": "Indiana",
+   "variants": [
+    "Indiana"
+   ]
+  },
+  {
+   "name": "Chicago",
+   "variants": [
+    "CHICAGO"
+   ]
+  },
+  {
+   "name": "Peoria",
+   "variants": [
+    "Peoria, Ill."
+   ]
+  },
+  {
+   "name": "Colorado",
+   "variants": [
+    "Colorado"
+   ]
+  },
+  {
+   "name": "Denver",
+   "variants": [
+    "DENVER"
+   ]
+  },
+  {
+   "name": "Connecticut",
+   "variants": [
+    "Connect out"
+   ]
+  },
+  {
+   "name": "Bridgeport",
+   "variants": [
+    "BRIDOEPORT"
+   ]
+  },
+  {
+   "name": "Hartford",
+   "variants": [
+    "Hartford"
+   ]
+  },
+  {
+   "name": "New Haven",
+   "variants": [
+    "New Haven"
+   ]
+  },
+  {
+   "name": "New London",
+   "variants": [
+    "New London"
+   ]
+  },
+  {
+   "name": "North Dakota",
+   "variants": [
+    "North Dakota",
+    "N DAK."
+   ]
+  },
+  {
+   "name": "South Dakota",
+   "variants": [
+    "South Dakota"
+   ]
+  },
+  {
+   "name": "Minnesota",
+   "variants": [
+    "Minnesota"
+   ]
+  },
+  {
+   "name": "Kittson County",
+   "variants": [
+    "Kittson"
+   ]
+  },
+  {
+   "name": "Pembina",
+   "variants": [
+    "PEMBINA"
+   ]
+  },
+  {
+   "name": "Ambrose",
+   "variants": [
+    "Ambrose"
+   ]
+  },
+  {
+   "name": "Antler",
+   "variants": [
+    "Antler"
+   ]
+  },
+  {
+   "name": "Carbury",
+   "variants": [
+    "Carbury"
+   ]
+  },
+  {
+   "name": "Crosby",
+   "variants": [
+    "Crosby"
+   ]
+  },
+  {
+   "name": "Hannah",
+   "variants": [
+    "Hannah"
+   ]
+  },
+  {
+   "name": "Hansboro",
+   "variants": [
+    "Hansboro"
+   ]
+  },
+  {
+   "name": "Lancaster, Minnesota",
+   "variants": [
+    "Lancaster, Minn."
+   ]
+  },
+  {
+   "name": "Neche",
+   "variants": [
+    "Neche"
+   ]
+  },
+  {
+   "name": "Northgate",
+   "variants": [
+    "Northgate"
+   ]
+  },
+  {
+   "name": "Noyes",
+   "variants": [
+    "Noyes, Minn."
+   ]
+  },
+  {
+   "name": "Portal",
+   "variants": [
+    "Portal"
+   ]
+  },
+  {
+   "name": "Sarles",
+   "variants": [
+    "Sarles"
+   ]
+  },
+  {
+   "name": "Sherwood",
+   "variants": [
+    "Sherwood"
+   ]
+  },
+  {
+   "name": "St. John, North Dakota",
+   "variants": [
+    "St. John"
+   ]
+  },
+  {
+   "name": "Walhalla",
+   "variants": [
+    "Walhalla"
+   ]
+  },
+  {
+   "name": "Westhope",
+   "variants": [
+    "Westhope"
+   ]
+  },
+  {
+   "name": "Wisconsin",
+   "variants": [
+    "Wisconsin"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "variants": [
+    "Michigan"
+   ]
+  },
+  {
+   "name": "Isle Royale",
+   "variants": [
+    "Isle Royale"
+   ]
+  },
+  {
+   "name": "Duluth",
+   "variants": [
+    "DULUTH, MINN"
+   ]
+  },
+  {
+   "name": "Superior",
+   "variants": [
+    "Superior",
+    "Sup e rior",
+    "West Su-perior"
+   ]
+  },
+  {
+   "name": "Ashland",
+   "variants": [
+    "Ashland, Wis."
+   ]
+  },
+  {
+   "name": "Baudette",
+   "variants": [
+    "Baudette. Minn."
+   ]
+  },
+  {
+   "name": "International Falls",
+   "variants": [
+    "International Falls, Minn."
+   ]
+  },
+  {
+   "name": "Ranier",
+   "variants": [
+    "Ranier, Minn."
+   ]
+  },
+  {
+   "name": "Warroad",
+   "variants": [
+    "Warroad, Minn."
+   ]
+  },
+  {
+   "name": "New Mexico",
+   "variants": [
+    "New Mexico",
+    "N. Mex"
+   ]
+  },
+  {
+   "name": "Texas",
+   "variants": [
+    "Texas",
+    "TEX"
+   ]
+  },
+  {
+   "name": "Pecos River",
+   "variants": [
+    "Pecos River"
+   ]
+  },
+  {
+   "name": "El Paso",
+   "variants": [
+    "EL PASO"
+   ]
+  },
+  {
+   "name": "Columbus, New Mexico",
+   "variants": [
+    "Columbus, N. Mex"
+   ]
+  },
+  {
+   "name": "Fabens",
+   "variants": [
+    "Fabens, Tex."
+   ]
+  },
+  {
+   "name": "Presidio",
+   "variants": [
+    "Presidio, Tex."
+   ]
+  },
+  {
+   "name": "Florida",
+   "variants": [
+    "Florida"
+   ]
+  },
+  {
+   "name": "St. Marys River",
+   "variants": [
+    "St. Marys River"
+   ]
+  },
+  {
+   "name": "St. Marys, Georgia",
+   "variants": [
+    "St. Marys, Ga",
+    "St Mary s"
+   ]
+  },
+  {
+   "name": "Tampa",
+   "variants": [
+    "TA M PA"
+   ]
+  },
+  {
+   "name": "Port Tampa",
+   "variants": [
+    "Port Tampa"
+   ]
+  },
+  {
+   "name": "Apalachicola",
+   "variants": [
+    "Apabíchicola"
+   ]
+  },
+  {
+   "name": "Boca Grande",
+   "variants": [
+    "Bocagrande"
+   ]
+  },
+  {
+   "name": "Fernandina",
+   "variants": [
+    "Fernandina"
+   ]
+  },
+  {
+   "name": "Fort Pierce",
+   "variants": [
+    "Fort Pierce"
+   ]
+  },
+  {
+   "name": "Jacksonville",
+   "variants": [
+    "Jacksonville"
+   ]
+  },
+  {
+   "name": "Key West",
+   "variants": [
+    "Key West"
+   ]
+  },
+  {
+   "name": "Miami",
+   "variants": [
+    "Mami"
+   ]
+  },
+  {
+   "name": "Panama City",
+   "variants": [
+    "Panama City"
+   ]
+  },
+  {
+   "name": "Pensacola",
+   "variants": [
+    "Pensacola"
+   ]
+  },
+  {
+   "name": "Port Everglades",
+   "variants": [
+    "Port Everglades"
+   ]
+  },
+  {
+   "name": "St. Augustine",
+   "variants": [
+    "St. Augustine"
+   ]
+  },
+  {
+   "name": "West Palm Beach",
+   "variants": [
+    "West Palm Beach"
+   ]
+  },
+  {
+   "name": "Galveston",
+   "variants": [
+    "GALVESTON"
+   ]
+  },
+  {
+   "name": "Port Bolivar",
+   "variants": [
+    "Por : Bolivar"
+   ]
+  },
+  {
+   "name": "Texas City",
+   "variants": [
+    "Texas City"
+   ]
+  },
+  {
+   "name": "Dallas",
+   "variants": [
+    "Dallas"
+   ]
+  },
+  {
+   "name": "Houston",
+   "variants": [
+    "Houston"
+   ]
+  },
+  {
+   "name": "Georgia",
+   "variants": [
+    "Georgia"
+   ]
+  },
+  {
+   "name": "Savannah",
+   "variants": [
+    "SAVANNAHL"
+   ]
+  },
+  {
+   "name": "Atlanta",
+   "variants": [
+    "Atlanta"
+   ]
+  },
+  {
+   "name": "Brunswick",
+   "variants": [
+    "Brunswick"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Territory of Hawaii"
+   ]
+  },
+  {
+   "name": "Kahului",
+   "variants": [
+    "Kahulul"
+   ]
+  },
+  {
+   "name": "Mahukona",
+   "variants": [
+    "Mahukona"
+   ]
+  },
+  {
+   "name": "Port Allen",
+   "variants": [
+    "Port Allen"
+   ]
+  },
+  {
+   "name": "Indianapolis",
+   "variants": [
+    "INDIANAPOLIS"
+   ]
+  },
+  {
+   "name": "Evansville",
+   "variants": [
+    "Evansville"
+   ]
+  },
+  {
+   "name": "Lawrenceburg",
+   "variants": [
+    "Lawrenceburg"
+   ]
+  },
+  {
+   "name": "Greendale",
+   "variants": [
+    "Green dale"
+   ]
+  },
+  {
+   "name": "Iowa",
+   "variants": [
+    "Iowa"
+   ]
+  },
+  {
+   "name": "Des Moines",
+   "variants": [
+    "DES MOINES"
+   ]
+  },
+  {
+   "name": "Kentucky",
+   "variants": [
+    "Kentucky"
+   ]
+  },
+  {
+   "name": "Louisville",
+   "variants": [
+    "LOUISVILLE"
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "variants": [
+    "LOS ANGELES"
+   ]
+  },
+  {
+   "name": "Port San Luis",
+   "variants": [
+    "Port San Luis"
+   ]
+  },
+  {
+   "name": "San Luis Obispo County",
+   "variants": [
+    "San Luis Obispo"
+   ]
+  },
+  {
+   "name": "Kern County",
+   "variants": [
+    "Kern"
+   ]
+  },
+  {
+   "name": "San Bernardino County",
+   "variants": [
+    "San Ber-nardino",
+    "San Bernardino"
+   ]
+  },
+  {
+   "name": "Imperial County",
+   "variants": [
+    "Imperial"
+   ]
+  },
+  {
+   "name": "Maine",
+   "variants": [
+    "Maine"
+   ]
+  },
+  {
+   "name": "New Hampshire",
+   "variants": [
+    "New Hampshire",
+    "N. H."
+   ]
+  },
+  {
+   "name": "Coös County",
+   "variants": [
+    "Coos"
+   ]
+  },
+  {
+   "name": "Portland, Maine",
+   "variants": [
+    "PORTLAND, MAINE"
+   ]
+  },
+  {
+   "name": "Bangor",
+   "variants": [
+    "Bangor"
+   ]
+  },
+  {
+   "name": "Bar Harbor",
+   "variants": [
+    "Bar Harbor"
+   ]
+  },
+  {
+   "name": "Mount Desert Island",
+   "variants": [
+    "Mt. Desert Island"
+   ]
+  },
+  {
+   "name": "Ellsworth",
+   "variants": [
+    "Ellsworth"
+   ]
+  },
+  {
+   "name": "Hancock",
+   "variants": [
+    "Hancock"
+   ]
+  },
+  {
+   "name": "Sullivan",
+   "variants": [
+    "Sullivan"
+   ]
+  },
+  {
+   "name": "Sorrento",
+   "variants": [
+    "Sorrento"
+   ]
+  },
+  {
+   "name": "Gouldsboro",
+   "variants": [
+    "Goulds-boro"
+   ]
+  },
+  {
+   "name": "Winter Harbor",
+   "variants": [
+    "Winter Harbor"
+   ]
+  },
+  {
+   "name": "Bath, Maine",
+   "variants": [
+    "Bath"
+   ]
+  },
+  {
+   "name": "Boothbay",
+   "variants": [
+    "Booth Bay"
+   ]
+  },
+  {
+   "name": "Wiscasset",
+   "variants": [
+    "Wiscasset"
+   ]
+  },
+  {
+   "name": "Belfast",
+   "variants": [
+    "Belfast"
+   ]
+  },
+  {
+   "name": "Searsport",
+   "variants": [
+    "Searsport"
+   ]
+  },
+  {
+   "name": "Calais",
+   "variants": [
+    "Calais"
+   ]
+  },
+  {
+   "name": "Robbinston",
+   "variants": [
+    "Robbinston"
+   ]
+  },
+  {
+   "name": "Eastport",
+   "variants": [
+    "Eastport"
+   ]
+  },
+  {
+   "name": "Lubec",
+   "variants": [
+    "Lubec"
+   ]
+  },
+  {
+   "name": "Cutler",
+   "variants": [
+    "Cutler"
+   ]
+  },
+  {
+   "name": "Fort Fairfield",
+   "variants": [
+    "Fort Fairfield"
+   ]
+  },
+  {
+   "name": "Fort Kent",
+   "variants": [
+    "Fort Kent"
+   ]
+  },
+  {
+   "name": "Holeb-Jackman",
+   "variants": [
+    "Holeb-Jackman"
+   ]
+  },
+  {
+   "name": "Houlton",
+   "variants": [
+    "Houlton"
+   ]
+  },
+  {
+   "name": "Jonesport",
+   "variants": [
+    "Jonesport"
+   ]
+  },
+  {
+   "name": "Limestone",
+   "variants": [
+    "Limestone"
+   ]
+  },
+  {
+   "name": "Madawaska",
+   "variants": [
+    "Madawaska"
+   ]
+  },
+  {
+   "name": "Mars Hill",
+   "variants": [
+    "Mars Hill"
+   ]
+  },
+  {
+   "name": "Portsmouth, New Hampshire",
+   "variants": [
+    "Portsmouth, N. H."
+   ]
+  },
+  {
+   "name": "Kittery",
+   "variants": [
+    "Kittery"
+   ]
+  },
+  {
+   "name": "Rockland",
+   "variants": [
+    "Rockland"
+   ]
+  },
+  {
+   "name": "Van Buren",
+   "variants": [
+    "Van Buren"
+   ]
+  },
+  {
+   "name": "Vanceboro",
+   "variants": [
+    "Vanceboro"
+   ]
+  },
+  {
+   "name": "Maryland",
+   "variants": [
+    "Maryland"
+   ]
+  },
+  {
+   "name": "Baltimore",
+   "variants": [
+    "BALTIMORE,MD."
+   ]
+  },
+  {
+   "name": "Annapolis",
+   "variants": [
+    "Annapolis"
+   ]
+  },
+  {
+   "name": "Cambridge, Maryland",
+   "variants": [
+    "Cambridge"
+   ]
+  },
+  {
+   "name": "Crisfield",
+   "variants": [
+    "Crisfield"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "variants": [
+    "Massachusetts"
+   ]
+  },
+  {
+   "name": "Boston",
+   "variants": [
+    "BOSTON"
+   ]
+  },
+  {
+   "name": "Cambridge, Massachusetts",
+   "variants": [
+    "Cambridge"
+   ]
+  },
+  {
+   "name": "Chelsea",
+   "variants": [
+    "Chelsea"
+   ]
+  },
+  {
+   "name": "Medford",
+   "variants": [
+    "Medford"
+   ]
+  },
+  {
+   "name": "Everett, Massachusetts",
+   "variants": [
+    "Everett"
+   ]
+  },
+  {
+   "name": "Quincy",
+   "variants": [
+    "Quincy"
+   ]
+  },
+  {
+   "name": "Somerville",
+   "variants": [
+    "Somerville"
+   ]
+  },
+  {
+   "name": "Braintree",
+   "variants": [
+    "Braintree"
+   ]
+  },
+  {
+   "name": "Weymouth",
+   "variants": [
+    "Weymouth"
+   ]
+  },
+  {
+   "name": "Hingham",
+   "variants": [
+    "Hingham"
+   ]
+  },
+  {
+   "name": "Fall River",
+   "variants": [
+    "Fall River"
+   ]
+  },
+  {
+   "name": "Gloucester, Massachusetts",
+   "variants": [
+    "Gloucester"
+   ]
+  },
+  {
+   "name": "Lawrence, Massachusetts",
+   "variants": [
+    "Lawrence"
+   ]
+  },
+  {
+   "name": "New Bedford",
+   "variants": [
+    "New Bedford"
+   ]
+  },
+  {
+   "name": "Plymouth",
+   "variants": [
+    "Plymouth"
+   ]
+  },
+  {
+   "name": "Provincetown",
+   "variants": [
+    "Provincetown"
+   ]
+  },
+  {
+   "name": "Salem",
+   "variants": [
+    "Salem"
+   ]
+  },
+  {
+   "name": "Beverly",
+   "variants": [
+    "Beverly"
+   ]
+  },
+  {
+   "name": "Marblehead",
+   "variants": [
+    "Mar. blehead"
+   ]
+  },
+  {
+   "name": "Lynn",
+   "variants": [
+    "Lynn"
+   ]
+  },
+  {
+   "name": "Springfield, Massachusetts",
+   "variants": [
+    "Springfield"
+   ]
+  },
+  {
+   "name": "Vineyard Haven",
+   "variants": [
+    "Vineyard Haven"
+   ]
+  },
+  {
+   "name": "Worcester",
+   "variants": [
+    "Worcester"
+   ]
+  },
+  {
+   "name": "Detroit",
+   "variants": [
+    "DETROIT"
+   ]
+  },
+  {
+   "name": "Bay City",
+   "variants": [
+    "Bay City"
+   ]
+  },
+  {
+   "name": "Cheboygan",
+   "variants": [
+    "Cheboygan"
+   ]
+  },
+  {
+   "name": "Grand Haven",
+   "variants": [
+    "Graud Haven"
+   ]
+  },
+  {
+   "name": "Grand Rapids",
+   "variants": [
+    "Grand Rapids"
+   ]
+  },
+  {
+   "name": "Port Huron",
+   "variants": [
+    "Port Huron"
+   ]
+  },
+  {
+   "name": "Saginaw",
+   "variants": [
+    "Saginaw"
+   ]
+  },
+  {
+   "name": "Sault Ste. Marie",
+   "variants": [
+    "Sault Ste. Marie"
+   ]
+  },
+  {
+   "name": "Minneapolis",
+   "variants": [
+    "MINNEAPOLIS"
+   ]
+  },
+  {
+   "name": "St. Paul, Minnesota",
+   "variants": [
+    "St. Paul"
+   ]
+  },
+  {
+   "name": "Alabama",
+   "variants": [
+    "Alabama"
+   ]
+  },
+  {
+   "name": "Mississippi",
+   "variants": [
+    "Missis. sippi",
+    "Mississippi"
+   ]
+  },
+  {
+   "name": "Mobile",
+   "variants": [
+    "MOBILE,ALA"
+   ]
+  },
+  {
+   "name": "Birmingham",
+   "variants": [
+    "Birmingham, All."
+   ]
+  },
+  {
+   "name": "Gulfport",
+   "variants": [
+    "Gulfport, Miss."
+   ]
+  },
+  {
+   "name": "Pascagoula",
+   "variants": [
+    "Pascagoula, Miss."
+   ]
+  },
+  {
+   "name": "Montana",
+   "variants": [
+    "Montana",
+    "Montans",
+    "MONT"
+   ]
+  },
+  {
+   "name": "Idaho",
+   "variants": [
+    "Idaho"
+   ]
+  },
+  {
+   "name": "Great Falls",
+   "variants": [
+    "OREAT FALLS"
+   ]
+  },
+  {
+   "name": "Eastport, Idaho",
+   "variants": [
+    "East port, Idaho"
+   ]
+  },
+  {
+   "name": "Gateway, Montana",
+   "variants": [
+    "Gateway, Mont."
+   ]
+  },
+  {
+   "name": "Porthill",
+   "variants": [
+    "Potthill, Idato"
+   ]
+  },
+  {
+   "name": "Sweet Grass",
+   "variants": [
+    "Sweetgrass, Mont"
+   ]
+  },
+  {
+   "name": "Louisiana",
+   "variants": [
+    "Louisiana"
+   ]
+  },
+  {
+   "name": "Cameron Parish",
+   "variants": [
+    "Cameron"
+   ]
+  },
+  {
+   "name": "Calcasieu Parish",
+   "variants": [
+    "Cal-casieu",
+    "Calcasieu"
+   ]
+  },
+  {
+   "name": "New Orleans",
+   "variants": [
+    "NEW ORLEANS"
+   ]
+  },
+  {
+   "name": "Baton Rouge",
+   "variants": [
+    "Baton Rouge"
+   ]
+  },
+  {
+   "name": "Albany",
+   "variants": [
+    "Albany"
+   ]
+  },
+  {
+   "name": "New Jersey",
+   "variants": [
+    "New Jersey",
+    "N. J"
+   ]
+  },
+  {
+   "name": "Sussex County, New Jersey",
+   "variants": [
+    "Sussex"
+   ]
+  },
+  {
+   "name": "Passaic County",
+   "variants": [
+    "Passaic"
+   ]
+  },
+  {
+   "name": "Hudson County",
+   "variants": [
+    "Hudson"
+   ]
+  },
+  {
+   "name": "Bergen County",
+   "variants": [
+    "Bergen"
+   ]
+  },
+  {
+   "name": "Essex County, New Jersey",
+   "variants": [
+    "Essex"
+   ]
+  },
+  {
+   "name": "Union County, New Jersey",
+   "variants": [
+    "Union"
+   ]
+  },
+  {
+   "name": "Middlesex County, New Jersey",
+   "variants": [
+    "Middlesex"
+   ]
+  },
+  {
+   "name": "Monmouth County",
+   "variants": [
+    "Monmouth"
+   ]
+  },
+  {
+   "name": "Newark",
+   "variants": [
+    "Newark, N. J."
+   ]
+  },
+  {
+   "name": "Perth Amboy",
+   "variants": [
+    "Perth Amboy, N. J"
+   ]
+  },
+  {
+   "name": "North Carolina",
+   "variants": [
+    "North Carolina"
+   ]
+  },
+  {
+   "name": "Wilmington, North Carolina",
+   "variants": [
+    "WILMINOTON"
+   ]
+  },
+  {
+   "name": "Beaufort",
+   "variants": [
+    "Beaufort"
+   ]
+  },
+  {
+   "name": "Durham",
+   "variants": [
+    "Durham"
+   ]
+  },
+  {
+   "name": "Elizabeth City",
+   "variants": [
+    "Elizabe'h City"
+   ]
+  },
+  {
+   "name": "Gastonia",
+   "variants": [
+    "GastoniA"
+   ]
+  },
+  {
+   "name": "Reidsville",
+   "variants": [
+    "Rendsville"
+   ]
+  },
+  {
+   "name": "Winston-Salem",
+   "variants": [
+    "Winston-Salem"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "variants": [
+    "Ohio"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "variants": [
+    "Pennsylvania",
+    "Penn-sylvania"
+   ]
+  },
+  {
+   "name": "Erie County, Pennsylvania",
+   "variants": [
+    "Erie"
+   ]
+  },
+  {
+   "name": "Cleveland",
+   "variants": [
+    "CLEVELAND"
+   ]
+  },
+  {
+   "name": "Akron",
+   "variants": [
+    "Akron"
+   ]
+  },
+  {
+   "name": "Ashtabula",
+   "variants": [
+    "Ash'abula"
+   ]
+  },
+  {
+   "name": "Cincinnati",
+   "variants": [
+    "Cincinnati"
+   ]
+  },
+  {
+   "name": "Columbus, Ohio",
+   "variants": [
+    "Coluntus"
+   ]
+  },
+  {
+   "name": "Conneaut",
+   "variants": [
+    "Conneaut"
+   ]
+  },
+  {
+   "name": "Dayton",
+   "variants": [
+    "Dayten"
+   ]
+  },
+  {
+   "name": "Erie, Pennsylvania",
+   "variants": [
+    "Erie, Pa"
+   ]
+  },
+  {
+   "name": "Sandusky",
+   "variants": [
+    "andusky"
+   ]
+  },
+  {
+   "name": "Toledo",
+   "variants": [
+    "Toledo"
+   ]
+  },
+  {
+   "name": "Nebraska",
+   "variants": [
+    "Nebraska"
+   ]
+  },
+  {
+   "name": "Wyoming",
+   "variants": [
+    "Wyoming"
+   ]
+  },
+  {
+   "name": "Omaha",
+   "variants": [
+    "OMAHA.NEBR"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "Oregon"
+   ]
+  },
+  {
+   "name": "Columbia River",
+   "variants": [
+    "Columbia River"
+   ]
+  },
+  {
+   "name": "Portland, Oregon",
+   "variants": [
+    "PORTLAND, OREG"
+   ]
+  },
+  {
+   "name": "Astoria",
+   "variants": [
+    "Astoria"
+   ]
+  },
+  {
+   "name": "Longview",
+   "variants": [
+    "Longview. Wash"
+   ]
+  },
+  {
+   "name": "Marshfield, Oregon",
+   "variants": [
+    "Marshfi-l"
+   ]
+  },
+  {
+   "name": "Newport, Oregon",
+   "variants": [
+    "Newport"
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "variants": [
+    "PHILADELPHIA. PA."
+   ]
+  },
+  {
+   "name": "Delaware",
+   "variants": [
+    "Delaware"
+   ]
+  },
+  {
+   "name": "Camden",
+   "variants": [
+    "Camden"
+   ]
+  },
+  {
+   "name": "Gloucester City",
+   "variants": [
+    "Gloucester City"
+   ]
+  },
+  {
+   "name": "Chester, Pennsylvania",
+   "variants": [
+    "Chester, Pa"
+   ]
+  },
+  {
+   "name": "Lewes",
+   "variants": [
+    "Lewes. Del"
+   ]
+  },
+  {
+   "name": "Wilmington, Delaware",
+   "variants": [
+    "Wilmington. Del"
+   ]
+  },
+  {
+   "name": "West Virginia",
+   "variants": [
+    "West Virginia"
+   ]
+  },
+  {
+   "name": "Pittsburgh",
+   "variants": [
+    "PITTSBUROH. PA."
+   ]
+  },
+  {
+   "name": "Puerto Rico",
+   "variants": [
+    "Puerto Rico"
+   ]
+  },
+  {
+   "name": "San Juan",
+   "variants": [
+    "SAN JUAN"
+   ]
+  },
+  {
+   "name": "Aguadilla",
+   "variants": [
+    "Aguadilla"
+   ]
+  },
+  {
+   "name": "Arecibo",
+   "variants": [
+    "Arecibo"
+   ]
+  },
+  {
+   "name": "Arroyo",
+   "variants": [
+    "Arroyo"
+   ]
+  },
+  {
+   "name": "Fajardo",
+   "variants": [
+    "Fajardo"
+   ]
+  },
+  {
+   "name": "Guánica",
+   "variants": [
+    "Guanica"
+   ]
+  },
+  {
+   "name": "Humacao",
+   "variants": [
+    "Humacao"
+   ]
+  },
+  {
+   "name": "Mayagüez",
+   "variants": [
+    "Mayaguez"
+   ]
+  },
+  {
+   "name": "Ponce",
+   "variants": [
+    "Ponce"
+   ]
+  },
+  {
+   "name": "Rhode Island",
+   "variants": [
+    "Rhode Island"
+   ]
+  },
+  {
+   "name": "Providence",
+   "variants": [
+    "PROVIDENCE"
+   ]
+  },
+  {
+   "name": "Newport, Rhode Island",
+   "variants": [
+    "Newport"
+   ]
+  },
+  {
+   "name": "Rochester",
+   "variants": [
+    "ROCHESTER"
+   ]
+  },
+  {
+   "name": "Oswego County",
+   "variants": [
+    "Oswego"
+   ]
+  },
+  {
+   "name": "Oneida County",
+   "variants": [
+    "Oneida"
+   ]
+  },
+  {
+   "name": "Onondaga County",
+   "variants": [
+    "Onandaga"
+   ]
+  },
+  {
+   "name": "Cayuga County",
+   "variants": [
+    "Cayuga"
+   ]
+  },
+  {
+   "name": "Seneca County",
+   "variants": [
+    "Seneca"
+   ]
+  },
+  {
+   "name": "Wayne County",
+   "variants": [
+    "Wayne"
+   ]
+  },
+  {
+   "name": "Broome County",
+   "variants": [
+    "Broome"
+   ]
+  },
+  {
+   "name": "Tompkins County",
+   "variants": [
+    "Tompkins"
+   ]
+  },
+  {
+   "name": "Chenango County",
+   "variants": [
+    "Chenango"
+   ]
+  },
+  {
+   "name": "Madison County",
+   "variants": [
+    "Madison"
+   ]
+  },
+  {
+   "name": "Cortland County",
+   "variants": [
+    "Cortland"
+   ]
+  },
+  {
+   "name": "Hamilton County, New York",
+   "variants": [
+    "Hamilton"
+   ]
+  },
+  {
+   "name": "Schuyler County",
+   "variants": [
+    "Schuyler"
+   ]
+  },
+  {
+   "name": "Chemung County",
+   "variants": [
+    "Chemung"
+   ]
+  },
+  {
+   "name": "Herkimer County",
+   "variants": [
+    "Herkimer"
+   ]
+  },
+  {
+   "name": "Monroe County",
+   "variants": [
+    "Monroe"
+   ]
+  },
+  {
+   "name": "Ontario County",
+   "variants": [
+    "Ontario"
+   ]
+  },
+  {
+   "name": "Livingston County",
+   "variants": [
+    "Livingston"
+   ]
+  },
+  {
+   "name": "Yates County",
+   "variants": [
+    "Yates"
+   ]
+  },
+  {
+   "name": "Steuben County",
+   "variants": [
+    "Steuben"
+   ]
+  },
+  {
+   "name": "Orleans County",
+   "variants": [
+    "Orleans"
+   ]
+  },
+  {
+   "name": "Genesee County",
+   "variants": [
+    "Oenessee"
+   ]
+  },
+  {
+   "name": "Wyoming County, New York",
+   "variants": [
+    "W yo-ming"
+   ]
+  },
+  {
+   "name": "Allegany County",
+   "variants": [
+    "Allegany"
+   ]
+  },
+  {
+   "name": "Tioga County",
+   "variants": [
+    "Tioga"
+   ]
+  },
+  {
+   "name": "Fair Haven",
+   "variants": [
+    "Fair Haven"
+   ]
+  },
+  {
+   "name": "Oswego",
+   "variants": [
+    "Oswego"
+   ]
+  },
+  {
+   "name": "Sodus Point",
+   "variants": [
+    "Sodus Point"
+   ]
+  },
+  {
+   "name": "Syracuse",
+   "variants": [
+    "Syracuse"
+   ]
+  },
+  {
+   "name": "Utica",
+   "variants": [
+    "Utica"
+   ]
+  },
+  {
+   "name": "Port Arthur",
+   "variants": [
+    "PORT ARTHUR, TEX"
+   ]
+  },
+  {
+   "name": "Sabine Pass",
+   "variants": [
+    "Sabine Pass"
+   ]
+  },
+  {
+   "name": "Shelby County, Texas",
+   "variants": [
+    "Shelby County"
+   ]
+  },
+  {
+   "name": "Neches River",
+   "variants": [
+    "Neches River"
+   ]
+  },
+  {
+   "name": "Jefferson County, Texas",
+   "variants": [
+    "Jefferson County"
+   ]
+  },
+  {
+   "name": "Liberty County, Texas",
+   "variants": [
+    "Liberty County"
+   ]
+  },
+  {
+   "name": "Beaumont",
+   "variants": [
+    "Beaumont"
+   ]
+  },
+  {
+   "name": "Lake Charles",
+   "variants": [
+    "Lake Charles, La."
+   ]
+  },
+  {
+   "name": "Sabine",
+   "variants": [
+    "Sabine"
+   ]
+  },
+  {
+   "name": "San Antonio",
+   "variants": [
+    "SAN ANTONIO"
+   ]
+  },
+  {
+   "name": "Brownsville",
+   "variants": [
+    "Brownsville"
+   ]
+  },
+  {
+   "name": "Corpus Christi",
+   "variants": [
+    "Corpus Christi"
+   ]
+  },
+  {
+   "name": "Del Rio",
+   "variants": [
+    "Del Rio"
+   ]
+  },
+  {
+   "name": "Eagle Pass",
+   "variants": [
+    "Eagle P1ss"
+   ]
+  },
+  {
+   "name": "Fort Worth",
+   "variants": [
+    "Fort Worth"
+   ]
+  },
+  {
+   "name": "Hidalgo",
+   "variants": [
+    "Hidalgo"
+   ]
+  },
+  {
+   "name": "Laredo",
+   "variants": [
+    "Laredo"
+   ]
+  },
+  {
+   "name": "Rio Grande City",
+   "variants": [
+    "Rio Orande City"
+   ]
+  },
+  {
+   "name": "Roma",
+   "variants": [
+    "Rona"
+   ]
+  },
+  {
+   "name": "Andrade",
+   "variants": [
+    "Andrade"
+   ]
+  },
+  {
+   "name": "Calexico",
+   "variants": [
+    "Calexico"
+   ]
+  },
+  {
+   "name": "San Ysidro",
+   "variants": [
+    "San Ysidro"
+   ]
+  },
+  {
+   "name": "Tecate",
+   "variants": [
+    "Tecate"
+   ]
+  },
+  {
+   "name": "Oakland",
+   "variants": [
+    "OAK-LAND"
+   ]
+  },
+  {
+   "name": "Eureka",
+   "variants": [
+    "Eureka"
+   ]
+  },
+  {
+   "name": "South Carolina",
+   "variants": [
+    "South Carolina"
+   ]
+  },
+  {
+   "name": "Charleston",
+   "variants": [
+    "CHARLESTON"
+   ]
+  },
+  {
+   "name": "Georgetown, South Carolina",
+   "variants": [
+    "Georgetown"
+   ]
+  },
+  {
+   "name": "St. Lawrence County",
+   "variants": [
+    "St. Lawrence"
+   ]
+  },
+  {
+   "name": "Clinton County, New York",
+   "variants": [
+    "Clinton"
+   ]
+  },
+  {
+   "name": "Essex County, New York",
+   "variants": [
+    "Esser"
+   ]
+  },
+  {
+   "name": "Franklin County, New York",
+   "variants": [
+    "Franklin"
+   ]
+  },
+  {
+   "name": "Jefferson County, New York",
+   "variants": [
+    "Jetferson"
+   ]
+  },
+  {
+   "name": "Lewis County",
+   "variants": [
+    "Lewis"
+   ]
+  },
+  {
+   "name": "Ogdensburg",
+   "variants": [
+    "OGDENSBURG,N Y"
+   ]
+  },
+  {
+   "name": "Alexandria Bay",
+   "variants": [
+    "Alexandria Bay"
+   ]
+  },
+  {
+   "name": "Cape Vincent",
+   "variants": [
+    "Cape Vincent"
+   ]
+  },
+  {
+   "name": "Champlain",
+   "variants": [
+    "Champlin"
+   ]
+  },
+  {
+   "name": "Chateaugay",
+   "variants": [
+    "Chateaugay"
+   ]
+  },
+  {
+   "name": "Clayton",
+   "variants": [
+    "Clayton"
+   ]
+  },
+  {
+   "name": "Fort Covington",
+   "variants": [
+    "Fort Covington"
+   ]
+  },
+  {
+   "name": "Malone",
+   "variants": [
+    "Malone"
+   ]
+  },
+  {
+   "name": "Mooers",
+   "variants": [
+    "Mooers"
+   ]
+  },
+  {
+   "name": "Morristown",
+   "variants": [
+    "Morristown"
+   ]
+  },
+  {
+   "name": "Rooseveltown",
+   "variants": [
+    "Rooseveltown"
+   ]
+  },
+  {
+   "name": "Rouses Point",
+   "variants": [
+    "Rouses Point"
+   ]
+  },
+  {
+   "name": "Waddington",
+   "variants": [
+    "Waddington"
+   ]
+  },
+  {
+   "name": "Missouri",
+   "variants": [
+    "Missouri"
+   ]
+  },
+  {
+   "name": "Kansas",
+   "variants": [
+    "Kansas"
+   ]
+  },
+  {
+   "name": "Oklahoma",
+   "variants": [
+    "Oklahoma"
+   ]
+  },
+  {
+   "name": "St. Louis, Missouri",
+   "variants": [
+    "ST. LOUIS, MO."
+   ]
+  },
+  {
+   "name": "East St. Louis",
+   "variants": [
+    "Ea-t St. Louis, fll."
+   ]
+  },
+  {
+   "name": "Kansas City, Missouri",
+   "variants": [
+    "Kansas City, Mo."
+   ]
+  },
+  {
+   "name": "Oklahoma City",
+   "variants": [
+    "Oklahoma City, Okla."
+   ]
+  },
+  {
+   "name": "St. Joseph, Missouri",
+   "variants": [
+    "St. Joseph, Mo."
+   ]
+  },
+  {
+   "name": "Tulsa",
+   "variants": [
+    "Tulsa, Okla."
+   ]
+  },
+  {
+   "name": "Tennessee",
+   "variants": [
+    "Tennessee"
+   ]
+  },
+  {
+   "name": "Arkansas",
+   "variants": [
+    "Arkansas"
+   ]
+  },
+  {
+   "name": "Memphis",
+   "variants": [
+    "MEMPHIS"
+   ]
+  },
+  {
+   "name": "Chattanooga",
+   "variants": [
+    "Chattanooga"
+   ]
+  },
+  {
+   "name": "Nashville",
+   "variants": [
+    "Nashville"
+   ]
+  },
+  {
+   "name": "Utah",
+   "variants": [
+    "Utah"
+   ]
+  },
+  {
+   "name": "Nevada",
+   "variants": [
+    "Nevada"
+   ]
+  },
+  {
+   "name": "Salt Lake City",
+   "variants": [
+    "SALT IAKE CITY, UTAH"
+   ]
+  },
+  {
+   "name": "Vermont",
+   "variants": [
+    "Vermont"
+   ]
+  },
+  {
+   "name": "St. Albans",
+   "variants": [
+    "ST. ALBANS"
+   ]
+  },
+  {
+   "name": "Swanton",
+   "variants": [
+    "Swanton"
+   ]
+  },
+  {
+   "name": "Highgate",
+   "variants": [
+    "Highgate"
+   ]
+  },
+  {
+   "name": "Franklin, Vermont",
+   "variants": [
+    "Franklin"
+   ]
+  },
+  {
+   "name": "Alburgh",
+   "variants": [
+    "Alburg"
+   ]
+  },
+  {
+   "name": "Beecher Falls",
+   "variants": [
+    "Beecher Falls"
+   ]
+  },
+  {
+   "name": "Burlington",
+   "variants": [
+    "Burlington"
+   ]
+  },
+  {
+   "name": "Derby Line",
+   "variants": [
+    "Derby Line"
+   ]
+  },
+  {
+   "name": "Island Pond",
+   "variants": [
+    "Island Pond"
+   ]
+  },
+  {
+   "name": "Newport, Vermont",
+   "variants": [
+    "Newport"
+   ]
+  },
+  {
+   "name": "North Troy",
+   "variants": [
+    "North Troy"
+   ]
+  },
+  {
+   "name": "Richford",
+   "variants": [
+    "Richford"
+   ]
+  },
+  {
+   "name": "Virginia",
+   "variants": [
+    "Virginia"
+   ]
+  },
+  {
+   "name": "Hampton Roads",
+   "variants": [
+    "Hamp-ton Roads"
+   ]
+  },
+  {
+   "name": "Norfolk",
+   "variants": [
+    "NORFOLK"
+   ]
+  },
+  {
+   "name": "Newport News",
+   "variants": [
+    "NEWPORT NEWS"
+   ]
+  },
+  {
+   "name": "Alexandria, Virginia",
+   "variants": [
+    "Alexandria"
+   ]
+  },
+  {
+   "name": "Cape Charles City",
+   "variants": [
+    "Cape Charles City"
+   ]
+  },
+  {
+   "name": "Petersburg, Virginia",
+   "variants": [
+    "Petersburg"
+   ]
+  },
+  {
+   "name": "Reedville",
+   "variants": [
+    "Reedville"
+   ]
+  },
+  {
+   "name": "Richmond",
+   "variants": [
+    "Richmond"
+   ]
+  },
+  {
+   "name": "Aberdeen, Washington",
+   "variants": [
+    "Aberdeen"
+   ]
+  },
+  {
+   "name": "Anacortes",
+   "variants": [
+    "Anacortes"
+   ]
+  },
+  {
+   "name": "Bellingham",
+   "variants": [
+    "Bellinghain"
+   ]
+  },
+  {
+   "name": "Blaine",
+   "variants": [
+    "Blaine"
+   ]
+  },
+  {
+   "name": "Danville, Washington",
+   "variants": [
+    "Danville"
+   ]
+  },
+  {
+   "name": "Everett, Washington",
+   "variants": [
+    "Everett"
+   ]
+  },
+  {
+   "name": "Ferry, Washington",
+   "variants": [
+    "Ferry"
+   ]
+  },
+  {
+   "name": "Friday Harbor",
+   "variants": [
+    "Friday Harbor"
+   ]
+  },
+  {
+   "name": "Laurier",
+   "variants": [
+    "Laurier"
+   ]
+  },
+  {
+   "name": "Molson",
+   "variants": [
+    "Molson"
+   ]
+  },
+  {
+   "name": "Nighthawk",
+   "variants": [
+    "Nighthawk"
+   ]
+  },
+  {
+   "name": "Northport",
+   "variants": [
+    "Northport"
+   ]
+  },
+  {
+   "name": "Olympia",
+   "variants": [
+    "Olympia"
+   ]
+  },
+  {
+   "name": "Oroville",
+   "variants": [
+    "Oroville"
+   ]
+  },
+  {
+   "name": "Port Angeles",
+   "variants": [
+    "Port Angeles"
+   ]
+  },
+  {
+   "name": "Port Townsend",
+   "variants": [
+    "Port Townsend"
+   ]
+  },
+  {
+   "name": "South Bend, Washington",
+   "variants": [
+    "South Bend"
+   ]
+  },
+  {
+   "name": "Spokane",
+   "variants": [
+    "Spokane"
+   ]
+  },
+  {
+   "name": "Sumas",
+   "variants": [
+    "Sumas"
+   ]
+  },
+  {
+   "name": "Tacoma",
+   "variants": [
+    "Tacoma"
+   ]
+  },
+  {
+   "name": "Milwaukee",
+   "variants": [
+    "MILWAUKFF"
+   ]
+  },
+  {
+   "name": "Green Bay",
+   "variants": [
+    "Green Bay"
+   ]
+  },
+  {
+   "name": "Manitowoc",
+   "variants": [
+    "Manitowoc"
+   ]
+  },
+  {
+   "name": "Marinette",
+   "variants": [
+    "Marinette"
+   ]
+  },
+  {
+   "name": "Menominee",
+   "variants": [
+    "Menomi-nee"
+   ]
+  },
+  {
+   "name": "Racine",
+   "variants": [
+    "Racine"
+   ]
+  },
+  {
+   "name": "Sheboygan",
+   "variants": [
+    "sheboygan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Eugene H. Dooman",
+   "role": "State Department Far Eastern Affairs officer",
+   "variants": [
+    "Dooman",
+    "Mr. Dooman"
+   ]
+  },
+  {
+   "name": "Katsumi Miyataka",
+   "role": "fur-seal expert, Japanese Department of Agriculture and Forestry",
+   "variants": [
+    "Mr. Katsumi Miyataka",
+    "Mr. Katsum1 Miyataka"
+   ]
+  },
+  {
+   "name": "Jinzo Nakagawa",
+   "role": "captain of Hakuyo Maru",
+   "variants": [
+    "Captain Jinzo Nakagawa"
+   ]
+  },
+  {
+   "name": "Jiro Niino",
+   "role": "commander of Hakuho Maru",
+   "variants": [
+    "Mr. Jiro Niino"
+   ]
+  },
+  {
+   "name": "Otoshiro Kuroda",
+   "role": "attaché, Japanese Embassy",
+   "variants": [
+    "Mr7 Otoshiro Kuroda",
+    "Mr. Kuroda"
+   ]
+  },
+  {
+   "name": "Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Mr. Hull"
+   ]
+  },
+  {
+   "name": "Saito",
+   "role": "Japanese Ambassador",
+   "variants": [
+    "Mr. Saito"
+   ]
+  },
+  {
+   "name": "Hill",
+   "role": "U.S. Navy commander",
+   "variants": [
+    "Commander Hill",
+    "Commander Til1"
+   ]
+  },
+  {
+   "name": "William H. Standley",
+   "role": "U.S. admiral",
+   "variants": [
+    "Admiral Standley"
+   ]
+  },
+  {
+   "name": "Derby",
+   "role": "Coast Guard commander",
+   "variants": [
+    "Commander Derby"
+   ]
+  },
+  {
+   "name": "James H. Moyle",
+   "role": "Commissioner of Customs",
+   "variants": [
+    "JAMES H. MOYLE"
+   ]
+  },
+  {
+   "name": "E. J. Shaughnessy",
+   "role": "Deputy Commissioner, Immigration and Naturalization Service",
+   "variants": [
+    "EDW, J. SHAUGHNESSY"
+   ]
+  },
+  {
+   "name": "Buford",
+   "role": "recipient of Protocol Division memorandum",
+   "variants": [
+    "Mrs. Buford"
+   ]
+  },
+  {
+   "name": "Myers",
+   "role": "Coast Guard contact at Treasury",
+   "variants": [
+    "Mr. Myers"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese fishing vessels",
+  "Hakuyo Maru",
+  "Hakuho Maru",
+  "Alaskan ports",
+  "Aleutian Islands",
+  "fur seals",
+  "Bering Sea crab fishing",
+  "ports of entry",
+  "navigation hazards",
+  "Coast Guard",
+  "Japanese-American relations",
+  "1936"
+ ],
+ "subfiles": [
+  {
+   "title": "Document file note for Dooman memorandum",
+   "doc_type": "document file note",
+   "start_page": 481,
+   "end_page": 481,
+   "continues_previous": false,
+   "date": "1935-11-04",
+   "from": "State Department, Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Points to a memorandum on a California bill controlling Japanese-owned fishing vessels.",
+   "summary": "Cross-reference to file 811.628/186.",
+   "keywords": [
+    "cross-reference",
+    "California",
+    "fishing vessels"
+   ]
+  },
+  {
+   "title": "Regulation of Fishing Vessels Owned by Japanese Nationals and Operating From American Ports",
+   "doc_type": "memorandum",
+   "start_page": 482,
+   "end_page": 484,
+   "continues_previous": false,
+   "date": "1935-11-04",
+   "from": "Eugene H. Dooman",
+   "to": "",
+   "about": "Examines proposed state and federal controls on Japanese-owned fishing vessels.",
+   "summary": "Dooman questions the California bill's legal basis, exaggerated supporting figures, and enforceability. He favors federal documentation requirements and naval control of strategically important Pacific Coast areas.",
+   "keywords": [
+    "California legislation",
+    "Japanese nationals",
+    "federal regulation",
+    "naval reservations"
+   ]
+  },
+  {
+   "title": "Japanese thanks for Hakuho Maru assistance",
+   "doc_type": "diplomatic note",
+   "start_page": 485,
+   "end_page": 485,
+   "continues_previous": false,
+   "date": "1936-04-15",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Thanks U.S. departments for assisting a fur-seal research cruise.",
+   "summary": "The assistance enabled Katsumi Miyataka to investigate fur-seal migration.",
+   "keywords": [
+    "Hakuho Maru",
+    "fur seals",
+    "courtesies"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Japanese thanks",
+   "doc_type": "diplomatic note",
+   "start_page": 486,
+   "end_page": 486,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges thanks for assistance to Hakuho Maru.",
+   "summary": "State will circulate the Ambassador's note to interested departments.",
+   "keywords": [
+    "Hakuho Maru",
+    "fur seals"
+   ]
+  },
+  {
+   "title": "Japanese thanks forwarded to Navy",
+   "doc_type": "circular letter",
+   "start_page": 487,
+   "end_page": 487,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards Japanese thanks for Hakuho Maru's Alaskan visit.",
+   "summary": "Encloses the Ambassador's April 15 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Japanese thanks forwarded to Treasury",
+   "doc_type": "circular letter",
+   "start_page": 488,
+   "end_page": 488,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Forwards Japanese thanks for Hakuho Maru's Alaskan visit.",
+   "summary": "Encloses the Ambassador's April 15 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Japanese thanks forwarded to Commerce",
+   "doc_type": "circular letter",
+   "start_page": 489,
+   "end_page": 489,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Forwards Japanese thanks for Hakuho Maru's Alaskan visit.",
+   "summary": "Encloses the Ambassador's April 15 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Japanese thanks forwarded to Interior",
+   "doc_type": "circular letter",
+   "start_page": 490,
+   "end_page": 490,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Forwards Japanese thanks for Hakuho Maru's Alaskan visit.",
+   "summary": "Encloses the Ambassador's April 15 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Japanese thanks forwarded to Labor",
+   "doc_type": "circular letter",
+   "start_page": 491,
+   "end_page": 491,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Forwards Japanese thanks for Hakuho Maru's Alaskan visit.",
+   "summary": "Encloses the Ambassador's April 15 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Labor"
+   ]
+  },
+  {
+   "title": "Japanese thanks forwarded to Agriculture",
+   "doc_type": "circular letter",
+   "start_page": 492,
+   "end_page": 492,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Forwards Japanese thanks for Hakuho Maru's Alaskan visit.",
+   "summary": "Encloses the Ambassador's April 15 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs routing page",
+   "doc_type": "routing slip",
+   "start_page": 493,
+   "end_page": 493,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Contains mostly illegible routing marks.",
+   "summary": "No substantive text can be reliably recovered.",
+   "keywords": [
+    "routing"
+   ]
+  },
+  {
+   "title": "Proposed Hakuyo Maru training cruise",
+   "doc_type": "diplomatic note",
+   "start_page": 494,
+   "end_page": 495,
+   "continues_previous": false,
+   "date": "1936-04-22",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests approval and courtesies for Hakuyo Maru's proposed port visits.",
+   "summary": "Gives a June–August itinerary from Bristol Bay to Hilo and requests permission for crew landings.",
+   "keywords": [
+    "Hakuyo Maru",
+    "training cruise",
+    "port visits"
+   ]
+  },
+  {
+   "title": "Revised Hakuyo Maru itinerary",
+   "doc_type": "diplomatic note",
+   "start_page": 496,
+   "end_page": 497,
+   "continues_previous": false,
+   "date": "1936-04-28",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests prompt approval of a revised Hakuyo Maru itinerary.",
+   "summary": "Adds Kiska Harbor and gives the crew and student complement.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Kiska",
+    "training cruise"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Navy",
+   "doc_type": "circular letter",
+   "start_page": 498,
+   "end_page": 498,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Requests customary courtesies for Hakuyo Maru if Navy has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Commerce",
+   "doc_type": "circular letter",
+   "start_page": 499,
+   "end_page": 499,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Requests customary courtesies for Hakuyo Maru if Commerce has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to War",
+   "doc_type": "circular letter",
+   "start_page": 500,
+   "end_page": 500,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Requests customary courtesies for Hakuyo Maru if War has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Interior",
+   "doc_type": "circular letter",
+   "start_page": 501,
+   "end_page": 501,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Requests customary courtesies for Hakuyo Maru if Interior has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Agriculture",
+   "doc_type": "circular letter",
+   "start_page": 502,
+   "end_page": 502,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Requests customary courtesies for Hakuyo Maru if Agriculture has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Treasury",
+   "doc_type": "circular letter",
+   "start_page": 503,
+   "end_page": 503,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests customary courtesies for Hakuyo Maru if Treasury has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Labor",
+   "doc_type": "circular letter",
+   "start_page": 504,
+   "end_page": 504,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Requests customary courtesies for Hakuyo Maru if Labor has no objection.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Labor"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to California governor",
+   "doc_type": "circular letter",
+   "start_page": 505,
+   "end_page": 505,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Governor of California",
+   "about": "Requests customary courtesies during Hakuyo Maru's California visit.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "California"
+   ]
+  },
+  {
+   "title": "Hakuyo Maru request to Washington governor",
+   "doc_type": "circular letter",
+   "start_page": 506,
+   "end_page": 506,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Governor of Washington",
+   "about": "Requests customary courtesies during Hakuyo Maru's Washington visit.",
+   "summary": "Encloses the Ambassador's revised itinerary.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Washington"
+   ]
+  },
+  {
+   "title": "Interim reply on Hakuyo Maru",
+   "doc_type": "diplomatic note",
+   "start_page": 507,
+   "end_page": 508,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the proposed itinerary and promises a later decision.",
+   "summary": "State is consulting federal departments and state governors about the visits and crew landings.",
+   "keywords": [
+    "Hakuyo Maru",
+    "port access"
+   ]
+  },
+  {
+   "title": "Hakuho Maru fur-seal cruise",
+   "doc_type": "diplomatic note",
+   "start_page": 509,
+   "end_page": 510,
+   "continues_previous": false,
+   "date": "1936-05-04",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests courtesies for Hakuho Maru's planned Aleutian cruise.",
+   "summary": "Lists Chichagof Harbor, Constantine Bay, and Nazan Bay, with possible emergency refuge in other ports.",
+   "keywords": [
+    "Hakuho Maru",
+    "fur seals",
+    "Aleutians"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to Navy",
+   "doc_type": "circular letter",
+   "start_page": 511,
+   "end_page": 511,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Requests Navy's consideration of Hakuho Maru's Aleutian visits.",
+   "summary": "Encloses the Ambassador's May 4 note and mentions storm refuge.",
+   "keywords": [
+    "Hakuho Maru",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to War",
+   "doc_type": "circular letter",
+   "start_page": 512,
+   "end_page": 512,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Requests customary courtesies for Hakuho Maru if War has no objection.",
+   "summary": "Encloses the Ambassador's May 4 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to Treasury",
+   "doc_type": "circular letter",
+   "start_page": 513,
+   "end_page": 513,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests customary courtesies for Hakuho Maru if Treasury has no objection.",
+   "summary": "Encloses the Ambassador's May 4 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to Commerce",
+   "doc_type": "circular letter",
+   "start_page": 514,
+   "end_page": 514,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Requests customary courtesies for Hakuho Maru if Commerce has no objection.",
+   "summary": "Encloses the Ambassador's May 4 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to Labor",
+   "doc_type": "circular letter",
+   "start_page": 515,
+   "end_page": 515,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Requests customary courtesies for Hakuho Maru if Labor has no objection.",
+   "summary": "Encloses the Ambassador's May 4 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Labor"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to Interior",
+   "doc_type": "circular letter",
+   "start_page": 516,
+   "end_page": 516,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Requests customary courtesies for Hakuho Maru if Interior has no objection.",
+   "summary": "Encloses the Ambassador's May 4 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Hakuho Maru request to Agriculture",
+   "doc_type": "circular letter",
+   "start_page": 517,
+   "end_page": 517,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Requests customary courtesies for Hakuho Maru if Agriculture has no objection.",
+   "summary": "Encloses the Ambassador's May 4 note.",
+   "keywords": [
+    "Hakuho Maru",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Interim reply on Hakuho Maru",
+   "doc_type": "diplomatic note",
+   "start_page": 518,
+   "end_page": 519,
+   "continues_previous": false,
+   "date": "1936-05-11",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the Hakuho Maru request and promises a later decision.",
+   "summary": "State is consulting interested departments about the proposed Aleutian calls.",
+   "keywords": [
+    "Hakuho Maru",
+    "Aleutian ports"
+   ]
+  },
+  {
+   "title": "Coast Guard assistance requested",
+   "doc_type": "letter",
+   "start_page": 520,
+   "end_page": 520,
+   "continues_previous": false,
+   "date": "1936-05-25",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests Coast Guard courtesies for both Japanese vessels in Bering Sea waters.",
+   "summary": "Cites the hazards of navigation in the region.",
+   "keywords": [
+    "Coast Guard",
+    "Bering Sea",
+    "Hakuyo Maru",
+    "Hakuho Maru"
+   ]
+  },
+  {
+   "title": "Approval and navigation warning for Japanese cruises",
+   "doc_type": "diplomatic note",
+   "start_page": 521,
+   "end_page": 523,
+   "continues_previous": false,
+   "date": "1936-05-25",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Approves both cruises while warning of hazards and restricted port status.",
+   "summary": "State warns that Bristol and Constantine Bays are risky and notes that several stops are not ports of entry, with Kiska a closed harbor. Approval creates no precedent.",
+   "keywords": [
+    "port approval",
+    "navigation hazards",
+    "ports of entry",
+    "Kiska"
+   ]
+  },
+  {
+   "title": "Commerce reply on Hakuyo Maru",
+   "doc_type": "letter",
+   "start_page": 524,
+   "end_page": 524,
+   "continues_previous": false,
+   "date": "1936-05-07",
+   "from": "Assistant Secretary of Commerce",
+   "to": "Secretary of State",
+   "about": "Promises fisheries officials' courtesies during Hakuyo Maru's visits.",
+   "summary": "Instructions will go to St. Paul Island and other relevant Alaska stations.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Bureau of Fisheries"
+   ]
+  },
+  {
+   "title": "Tokyo telegram on crab-fishing vessels",
+   "doc_type": "telegram",
+   "start_page": 525,
+   "end_page": 525,
+   "continues_previous": false,
+   "date": "1936-05-09",
+   "from": "American Ambassador at Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports two vessels and twelve motor boats departing Hakodate for Bering Sea crab fishing.",
+   "summary": "One vessel will chiefly make fish meal; a despatch will follow.",
+   "keywords": [
+    "crab fishing",
+    "Bering Sea",
+    "fish meal"
+   ]
+  },
+  {
+   "title": "Crab-fishing telegram forwarded to Commerce",
+   "doc_type": "cover letter",
+   "start_page": 526,
+   "end_page": 526,
+   "continues_previous": false,
+   "date": "1936-05-13",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Forwards the Tokyo telegram on two crab-fishing vessels.",
+   "summary": "Encloses telegram No. 101 of May 9.",
+   "keywords": [
+    "crab fishing",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Crab-fishing telegram forwarded to Navy",
+   "doc_type": "cover letter",
+   "start_page": 527,
+   "end_page": 527,
+   "continues_previous": false,
+   "date": "1936-05-13",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards the Tokyo telegram on two crab-fishing vessels.",
+   "summary": "Encloses telegram No. 101 of May 9.",
+   "keywords": [
+    "crab fishing",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Crab-fishing telegram forwarded to War",
+   "doc_type": "cover letter",
+   "start_page": 528,
+   "end_page": 528,
+   "continues_previous": false,
+   "date": "1936-05-13",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Forwards the Tokyo telegram on two crab-fishing vessels.",
+   "summary": "Encloses telegram No. 101 of May 9.",
+   "keywords": [
+    "crab fishing",
+    "War Department"
+   ]
+  },
+  {
+   "title": "War Department reply on Hakuyo Maru",
+   "doc_type": "letter",
+   "start_page": 529,
+   "end_page": 529,
+   "continues_previous": false,
+   "date": "1936-05-06",
+   "from": "Acting Secretary of War",
+   "to": "Secretary of State",
+   "about": "Confirms military commands were instructed to extend customary courtesies.",
+   "summary": "Instructions went to San Francisco and Honolulu commands.",
+   "keywords": [
+    "Hakuyo Maru",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Treasury reply on Hakuyo Maru",
+   "doc_type": "letter",
+   "start_page": 530,
+   "end_page": 530,
+   "continues_previous": false,
+   "date": "1936-05",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Authorizes customs collectors to assist Hakuyo Maru.",
+   "summary": "Collectors at Juneau, Seattle, San Francisco, and Honolulu were notified.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Customs"
+   ]
+  },
+  {
+   "title": "War Department reply on Hakuho Maru",
+   "doc_type": "letter",
+   "start_page": 531,
+   "end_page": 531,
+   "continues_previous": false,
+   "date": "1936-05-13",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Explains War cannot provide courtesies in the Aleutians.",
+   "summary": "The islands are outside its jurisdiction; Ninth Corps Area was informed.",
+   "keywords": [
+    "Hakuho Maru",
+    "Aleutians",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Agriculture reply on Hakuyo Maru",
+   "doc_type": "letter",
+   "start_page": 532,
+   "end_page": 532,
+   "continues_previous": false,
+   "date": "1936-05-15",
+   "from": "Acting Secretary of Agriculture",
+   "to": "Secretary of State",
+   "about": "Promises regulatory assistance for Hakuyo Maru's visits.",
+   "summary": "Inspectors in San Francisco, Seattle, and Honolulu will facilitate the vessel's movements.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Commerce reply on Hakuho Maru",
+   "doc_type": "letter",
+   "start_page": 533,
+   "end_page": 533,
+   "continues_previous": false,
+   "date": "1936-05-13",
+   "from": "Secretary of Commerce",
+   "to": "Secretary of State",
+   "about": "States no objection to Hakuho Maru's proposed Aleutian calls.",
+   "summary": "Fisheries vessels, if present, will extend customary courtesies.",
+   "keywords": [
+    "Hakuho Maru",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Immigration Service reply on Hakuyo Maru",
+   "doc_type": "letter",
+   "start_page": 534,
+   "end_page": 534,
+   "continues_previous": false,
+   "date": "1936-05-19",
+   "from": "E. J. Shaughnessy, Deputy Commissioner",
+   "to": "Secretary of State",
+   "about": "Promises courtesies to Hakuyo Maru's personnel within immigration law.",
+   "summary": "Relevant Immigration Service officials have been instructed.",
+   "keywords": [
+    "Hakuyo Maru",
+    "immigration"
+   ]
+  },
+  {
+   "title": "Duplicate Immigration Service letter",
+   "doc_type": "copy of letter",
+   "start_page": 535,
+   "end_page": 535,
+   "continues_previous": false,
+   "date": "1936-05-19",
+   "from": "Immigration and Naturalization Service",
+   "to": "Secretary of State",
+   "about": "Repeats the promise of courtesies to Hakuyo Maru's personnel.",
+   "summary": "A poor copy of the preceding letter.",
+   "keywords": [
+    "Hakuyo Maru",
+    "immigration"
+   ]
+  },
+  {
+   "title": "Conversation with Japanese Embassy about Hakuyo Maru",
+   "doc_type": "conversation memorandum",
+   "start_page": 536,
+   "end_page": 537,
+   "continues_previous": false,
+   "date": "1936-05-13",
+   "from": "Eugene H. Dooman",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Records Kuroda's urgent inquiry about permission for Hakuyo Maru.",
+   "summary": "Dooman says agencies are still being consulted and observes that the Embassy gave limited advance notice. He also recalls difficulties during the vessel's previous Alaskan visit.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Japanese Embassy",
+    "port permission"
+   ]
+  },
+  {
+   "title": "List of customs districts, headquarters, and ports of entry",
+   "doc_type": "Treasury Department publication",
+   "start_page": 538,
+   "end_page": 543,
+   "continues_previous": false,
+   "date": "1936-04-01",
+   "from": "James H. Moyle, Commissioner of Customs",
+   "to": "Collectors of Customs and Others Concerned",
+   "about": "Publishes the current nationwide list of customs districts and ports of entry.",
+   "summary": "The list supplies the legal reference used to assess whether proposed Japanese vessel stops are ports of entry. It identifies Alaska's ports, including Juneau and Unalaska, and many districts elsewhere in the United States.",
+   "keywords": [
+    "customs districts",
+    "ports of entry",
+    "Alaska",
+    "Treasury Decision 48245"
+   ]
+  },
+  {
+   "title": "Conversation on Alaskan and Mandated Islands port policy",
+   "doc_type": "confidential conversation memorandum",
+   "start_page": 544,
+   "end_page": 547,
+   "continues_previous": false,
+   "date": "1936-05-18",
+   "from": "Eugene H. Dooman",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Records discussion with Commander Hill on reciprocal port access and future policy.",
+   "summary": "Hill conveys Admiral Standley's willingness to approve the current Alaskan visits while seeking Japanese access for American public vessels in the Mandated Islands. They discuss restricting future foreign visits to Alaskan ports after the Washington Naval Treaty expires.",
+   "keywords": [
+    "closed ports",
+    "Mandated Islands",
+    "Washington Naval Treaty",
+    "reciprocity"
+   ]
+  },
+  {
+   "title": "Conversation on Coast Guard watch",
+   "doc_type": "conversation memorandum",
+   "start_page": 548,
+   "end_page": 548,
+   "continues_previous": false,
+   "date": "1936-05-21",
+   "from": "Eugene H. Dooman",
+   "to": "Division of Far Eastern Affairs",
+   "about": "Records Coast Guard inquiry about monitoring and assisting both Japanese ships.",
+   "summary": "Derby offers cooperation if State formally requests it.",
+   "keywords": [
+    "Coast Guard",
+    "Hakuyo Maru",
+    "Hakuho Maru"
+   ]
+  },
+  {
+   "title": "Dooman file note on Navy letter",
+   "doc_type": "internal file note",
+   "start_page": 549,
+   "end_page": 549,
+   "continues_previous": false,
+   "date": "1936-05-21",
+   "from": "Eugene H. Dooman",
+   "to": "MMP; SKH",
+   "about": "Flags questions raised by the attached Navy letter.",
+   "summary": "Dooman will return the papers promptly and make further suggestions.",
+   "keywords": [
+    "Navy",
+    "internal review"
+   ]
+  },
+  {
+   "title": "Navy assessment of Japanese vessel visits",
+   "doc_type": "letter",
+   "start_page": 550,
+   "end_page": 553,
+   "continues_previous": false,
+   "date": "",
+   "from": "Navy Department",
+   "to": "Secretary of State",
+   "about": "Assesses proposed visits against treaty rights, customs law, navigation hazards, and naval policy.",
+   "summary": "Navy lists stops that are not ports of entry, notes Kiska's closed status, and warns of hazards at Bristol and Constantine Bays. It raises concerns about unsupervised visits but does not object this year if approval creates no precedent. Navy recommends restricting future visits after January 1, 1937, and mentions a planned USS Alden cruise through Japanese Mandated Islands.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Hakuho Maru",
+    "closed ports",
+    "navigation hazards",
+    "USS Alden"
+   ]
+  },
+  {
+   "title": "Treasury reply on Hakuho Maru",
+   "doc_type": "letter",
+   "start_page": 554,
+   "end_page": 554,
+   "continues_previous": false,
+   "date": "1936-05-22",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Authorizes customs courtesies for Hakuho Maru.",
+   "summary": "The Juneau collector will be instructed to assist during the Aleutian cruise.",
+   "keywords": [
+    "Hakuho Maru",
+    "Customs"
+   ]
+  },
+  {
+   "title": "Protocol memorandum on Coast Guard notification",
+   "doc_type": "memorandum",
+   "start_page": 555,
+   "end_page": 555,
+   "continues_previous": false,
+   "date": "1936-05-14",
+   "from": "Division of Protocol",
+   "to": "Mrs. Buford",
+   "about": "Requests telephone notice of State's reply to the Japanese Ambassador.",
+   "summary": "Treasury wants the reply before telegraphing Coast Guard units about visits to possibly closed ports.",
+   "keywords": [
+    "Coast Guard",
+    "closed ports",
+    "protocol"
+   ]
+  },
+  {
+   "title": "Coast Guard courtesies for Hakuyo Maru",
+   "doc_type": "letter",
+   "start_page": 556,
+   "end_page": 556,
+   "continues_previous": false,
+   "date": "1936-05-21",
+   "from": "Assistant Secretary of the Treasury",
+   "to": "Secretary of State",
+   "about": "Confirms Coast Guard patrol commands will assist Hakuyo Maru.",
+   "summary": "Bering Sea, Seattle, and San Francisco commands received instructions.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Coast Guard"
+   ]
+  },
+  {
+   "title": "Coast Guard courtesies and observation",
+   "doc_type": "confidential letter",
+   "start_page": 557,
+   "end_page": 557,
+   "continues_previous": false,
+   "date": "1936-05",
+   "from": "Treasury Department",
+   "to": "Secretary of State",
+   "about": "Reports instructions to assist and discreetly observe both Japanese vessels.",
+   "summary": "Bering Sea patrol vessels will extend courtesies and watch their activities.",
+   "keywords": [
+    "Coast Guard",
+    "surveillance",
+    "Bering Sea"
+   ]
+  },
+  {
+   "title": "Japanese acknowledgment of cruise approval",
+   "doc_type": "diplomatic note",
+   "start_page": 558,
+   "end_page": 558,
+   "continues_previous": false,
+   "date": "1936-06-01",
+   "from": "Japanese Ambassador Saito",
+   "to": "Secretary of State Hull",
+   "about": "Thanks State for approving the visits and warning of Aleutian navigation hazards.",
+   "summary": "Saito has telegraphed the warning to Tokyo.",
+   "keywords": [
+    "Hakuyo Maru",
+    "Hakuho Maru",
+    "Aleutians"
+   ]
+  },
+  {
+   "title": "Internal note on Japanese mother ships",
+   "doc_type": "internal memorandum",
+   "start_page": 559,
+   "end_page": 559,
+   "continues_previous": false,
+   "date": "1936-06-03",
+   "from": "Division of Far Eastern Affairs",
+   "to": "EHD; MMP; SKH",
+   "about": "Summarizes reports on Japanese fishing vessels headed for the Bering Sea.",
+   "summary": "Toten Maru and Taihoku Maru reportedly will stay outside American waters; a newspaper separately mentions Tenyo Maru.",
+   "keywords": [
+    "crab fishing",
+    "fish meal",
+    "Bering Sea",
+    "mother ships"
+   ]
+  },
+  {
+   "title": "Japanese crab fishing operations in Bering Sea",
+   "doc_type": "despatch",
+   "start_page": 560,
+   "end_page": 560,
+   "continues_previous": false,
+   "date": "1936-05-09",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports details of two Japanese mother ships' Bering Sea fishing operations.",
+   "summary": "Encloses a Foreign Office letter and identifies vessel tonnages and fish-meal production; the despatch continues beyond this section.",
+   "keywords": [
+    "Bering Sea",
+    "crab fishing",
+    "mother ships",
+    "fish meal"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 7,
+  "sections": 8,
+  "pages": [
+   481,
+   560
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., July 8, 1930 - September 24, 1936 928-part-2.pdf",
+  "seconds": 126.6,
+  "created": "2026-10-08 22:29:11",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-6-part-2"
+ }
+}

@@ -1,0 +1,811 @@
+{
+ "keywords": [
+  "agricultural experiment stations",
+  "rice breeding",
+  "wheat improvement",
+  "plant disease control",
+  "wheat stripe",
+  "snow blight",
+  "chemical fertilizer",
+  "crop yields",
+  "tea cultivation",
+  "sericulture",
+  "livestock breeding",
+  "farmer education"
+ ],
+ "people": [
+  {
+   "name": "Hiroshi Terao",
+   "role": "Imperial Agricultural Experiment Station researcher and author",
+   "variants": [
+    "Tarco, H.",
+    "TERAO",
+    "Terao, H."
+   ]
+  },
+  {
+   "name": "Takane Matsuo",
+   "role": "Author, 'A History of the Improvement of Rice Varieties in Japan'",
+   "variants": [
+    "Matsuo, Takamine"
+   ]
+  },
+  {
+   "name": "Edward L. Waldee",
+   "role": "Lieutenant Commander, USNR, Agriculture Division",
+   "variants": [
+    "Lt Cmdr E.L. Waldee",
+    "E.L. Waldee"
+   ]
+  },
+  {
+   "name": "Hidefumi Asuyama",
+   "role": "Cartographer and plant pathologist",
+   "variants": [
+    "ASUYAMA, H."
+   ]
+  },
+  {
+   "name": "Shiroshi Nasu",
+   "role": "Formerly Professor of Agricultural Economics, Tokyo Imperial University, and author",
+   "variants": [
+    "S. Nasu",
+    "Nasu",
+    "Masu",
+    "Nasu, S."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Kansas",
+   "variants": [
+    "Kansas",
+    "Kenses"
+   ]
+  },
+  {
+   "name": "Siberia",
+   "variants": [
+    "Siberia"
+   ]
+  },
+  {
+   "name": "Sea of Japan",
+   "variants": [
+    "Japan Sea"
+   ]
+  },
+  {
+   "name": "Mount Fuji",
+   "variants": [
+    "Mount Fuji"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu",
+    "HONSHU",
+    "centrel Honshu",
+    "northern Honshu",
+    "western Honshu",
+    "Northern Honshu"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokiaido",
+    "HOKKAIDO",
+    "Hok:aido",
+    "Hokkeido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "KYUSHU"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku",
+    "SHIKOKU"
+   ]
+  },
+  {
+   "name": "Tohoku Region",
+   "variants": [
+    "Tohoku",
+    "TOHOKU",
+    "Tohoku District"
+   ]
+  },
+  {
+   "name": "Hokuriku Region",
+   "variants": [
+    "Hokuriku",
+    "HOKURIKU",
+    "Hokuriku District"
+   ]
+  },
+  {
+   "name": "Tozan Region",
+   "variants": [
+    "TOZAN"
+   ]
+  },
+  {
+   "name": "Kanto Region",
+   "variants": [
+    "KANTO",
+    "Kanto"
+   ]
+  },
+  {
+   "name": "Kinki Region",
+   "variants": [
+    "KINKI"
+   ]
+  },
+  {
+   "name": "Tokai Region",
+   "variants": [
+    "Tokai",
+    "TOKAI",
+    "TOKAP",
+    "Tookai",
+    "Tolai"
+   ]
+  },
+  {
+   "name": "Chugoku Region",
+   "variants": [
+    "Chugoku",
+    "CHUGOKU",
+    "Chugaku"
+   ]
+  },
+  {
+   "name": "Ishikari Valley",
+   "variants": [
+    "Ishikari Velley"
+   ]
+  },
+  {
+   "name": "Rebun Island",
+   "variants": [
+    "Rabun-Jima",
+    "Rebun-Jima"
+   ]
+  },
+  {
+   "name": "Rishiri Island",
+   "variants": [
+    "Rishiri Sima"
+   ]
+  },
+  {
+   "name": "Habomai Islands",
+   "variants": [
+    "MABOMAI"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa",
+    "0xinawa"
+   ]
+  },
+  {
+   "name": "Aizu",
+   "variants": [
+    "Aizu District",
+    "Aizu"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo-to",
+    "Toyo",
+    "Tolyo"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kyoto-shi"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osaka-shi"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori",
+    "AOMORI",
+    "AUnGRaN",
+    "Acmori"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate",
+    "Imate"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita",
+    "AKITA",
+    "Alita",
+    "Akita-shi"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi",
+    "LIYAGI"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata",
+    "Yamagate",
+    "Tamagata"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima",
+    "Fukushina",
+    "Fukusrima",
+    "Pukashima"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Gumma Prefecture",
+   "variants": [
+    "Gumma",
+    "Gummma"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama",
+    "Seitama",
+    "SAITALA"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata",
+    "Niicata",
+    "NIIGATA",
+    "NIGATA"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu",
+    "GIFU"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "NYOGO",
+    "Eyogo"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori",
+    "Cottori"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane",
+    "SHIMANK",
+    "Smne"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama",
+    "Oknynra"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "Hiroshime",
+    "Hroshima",
+    "Hirochima",
+    "Rochine"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "YAMAGUCHI!",
+    "Yamo 10h1"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima",
+    "Tokushime"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "Kagawe",
+    "KA.,AWA"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime",
+    "Ehize",
+    "Eime"
+   ]
+  },
+  {
+   "name": "Kochi Prefecture",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka",
+    "Fk"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga",
+    "Sge"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto",
+    "Kwiamoto",
+    "Kunxoto"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita",
+    "Cita",
+    "Citn"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki",
+    "Miyazald",
+    "Miyazall",
+    "Lüyazaki"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima",
+    "Kagoshina",
+    "Kagehiza",
+    "Lagoshina"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo",
+    "Sapporo-shi",
+    "Sapporo-gun"
+   ]
+  },
+  {
+   "name": "Morioka",
+   "variants": [
+    "Morioka",
+    "Morioka-shi",
+    "Uyeda, Morioka"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai",
+    "Sendai-shi"
+   ]
+  },
+  {
+   "name": "Utsunomiya",
+   "variants": [
+    "Utsunomiya",
+    "Utsunomiya-shi"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi",
+    "Maebashi-shi"
+   ]
+  },
+  {
+   "name": "Tachikawa",
+   "variants": [
+    "Tachikawa-shi"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "Kofu-shi"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka-shi",
+    "Shizioka-shi"
+   ]
+  },
+  {
+   "name": "Okazaki",
+   "variants": [
+    "Okazaki-shi",
+    "Okazeki"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano-shi"
+   ]
+  },
+  {
+   "name": "Matsumoto",
+   "variants": [
+    "Matsumoto-shi"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu-shi"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa-shi"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu-shi"
+   ]
+  },
+  {
+   "name": "Akashi",
+   "variants": [
+    "Akashi-shi"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji-shi"
+   ]
+  },
+  {
+   "name": "Kurashiki",
+   "variants": [
+    "Kurashiki",
+    "Kurashiki-shi"
+   ]
+  },
+  {
+   "name": "Sakata",
+   "variants": [
+    "Sakata-shi"
+   ]
+  },
+  {
+   "name": "Tsuyama",
+   "variants": [
+    "Tsuyama-shi"
+   ]
+  },
+  {
+   "name": "Fukuyama",
+   "variants": [
+    "Fukuyama-shi"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "Yonago-shi"
+   ]
+  },
+  {
+   "name": "Izumo",
+   "variants": [
+    "Izumo-shi"
+   ]
+  },
+  {
+   "name": "Hamada",
+   "variants": [
+    "Hamada-shi"
+   ]
+  },
+  {
+   "name": "Matsue",
+   "variants": [
+    "Matsue"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matsuyama",
+    "Matsuyama-shi"
+   ]
+  },
+  {
+   "name": "Isahaya",
+   "variants": [
+    "Isahaya-shi"
+   ]
+  },
+  {
+   "name": "Shimabara",
+   "variants": [
+    "Shimabara-shi"
+   ]
+  },
+  {
+   "name": "Beppu",
+   "variants": [
+    "Beppu-shi"
+   ]
+  },
+  {
+   "name": "Miyakonojo",
+   "variants": [
+    "Miyakonojo-shi"
+   ]
+  },
+  {
+   "name": "Kanoya",
+   "variants": [
+    "Kanoya-shi",
+    "Kanoyayshi"
+   ]
+  },
+  {
+   "name": "Makurazaki",
+   "variants": [
+    "Makurazaki-machi",
+    "Makurasali-mmchi"
+   ]
+  },
+  {
+   "name": "Naze",
+   "variants": [
+    "Naze-machi"
+   ]
+  },
+  {
+   "name": "Obihiro",
+   "variants": [
+    "Obihiro",
+    "Obihiro-shi"
+   ]
+  }
+ ],
+ "section_summary": "This section contains the concluding analytical narrative and comprehensive statistical reference tables of a GHQ/SCAP Natural Resources Section report examining Japan's agricultural experiment station system. The text evaluates historical advances in rice, wheat, and tea breeding, crop disease mitigation for wheat stripe and snow blight, and the correlation between chemical fertilizer applications and unit-area crop yields, concluding with an administrative appraisal that recommends consolidation, improved inter-prefectural research coordination, and reorganized farmer education to maximize food production. The accompanying tables present an exhaustive national directory of Imperial, prefectural, educational, and private agricultural, sericultural, and livestock research facilities, followed by statistical compilations on station facilities, operational budgets, staffing, cooperative projects, and historical production trends from 1878 to 1946.",
+ "subfiles": [
+  {
+   "about": "A comprehensive GHQ/SCAP Natural Resources Section report reviewing the history, breeding achievements, disease control programs, facilities, and administration of Japan's agricultural experiment station system, accompanied by detailed directory and statistical tables.",
+   "continues_previous": true,
+   "date": "1946",
+   "doc_type": "report",
+   "end_page": 122,
+   "from": "GHQ SCAP Natural Resources Section, Agriculture Division",
+   "keywords": [
+    "agricultural experiment stations",
+    "rice breeding",
+    "wheat improvement",
+    "plant diseases",
+    "fertilizers",
+    "crop yields",
+    "tea culture",
+    "farmer education",
+    "sericulture",
+    "livestock stations"
+   ],
+   "start_page": 60,
+   "summary": "This report analyzes the contributions and organization of agricultural research in Japan, tracing historical breeding breakthroughs in rice and wheat varieties, management strategies for devastating crop diseases such as wheat stripe and snow blight, and the direct dependence of crop yields on commercial and organic fertilizer supplies. It critically reviews the proliferation and administrative fragmentation of prefectural and Imperial experiment stations, recommending administrative consolidation under qualified technical directors, enhanced inter-prefectural problem-oriented coordination, and the reform of farmer education and extension services to overcome postwar food shortages. The document concludes with an exhaustive national directory and extensive statistical tables detailing the facilities, staffing, budgets, and cooperative research projects of Imperial, prefectural, academic, and private agricultural stations, alongside historical production and acreage data for rice, wheat, barley, tea, and sericulture from 1878 to 1946.",
+   "title": "The Agricultural Experiment Stations of Japan",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 48022,
+   "output_tokens": 30231,
+   "thinking_tokens": 27100,
+   "cache_read_tokens": 0,
+   "total_tokens": 78253
+  },
+  "backend": "agy",
+  "section": 2,
+  "sections": 7,
+  "pages": [
+   60,
+   122
+  ],
+  "pdf": "894.61 Japan, Agriculture., February 9, 1945 - December 23, 1949 1822.pdf",
+  "seconds": 205.8,
+  "created": "2026-10-08 15:42:18",
+  "key": "japan-internal-affairs-894.61-japan-agriculture-february"
+ }
+}

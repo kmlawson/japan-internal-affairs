@@ -1,0 +1,1760 @@
+{
+ "section_summary": "This section moves from the end of an industrial disarmament paper to an occupation report on Japanese production, legal reform, and press reactions to the surrender anniversary. Memoranda then debate how to balance reparations claimants’ preferences against Japan’s need to retain industrial capacity. The remainder contains a covering despatch and SCAP directives selecting chemical, steel, power, machine tool, munitions, and shipbuilding facilities for custody and possible removal, with plant lists and implementation guidance.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japans",
+    "Japanese",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Telyo",
+    "Tokyc-to",
+    "Tokyo-to",
+    "Tokyo- to",
+    "Tokyo-to",
+    "Tolkyo-to",
+    "Tokyo PREF.",
+    "TOKYO PREF.",
+    "TOKYO PREFECTURE"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "US",
+    "U.S.",
+    "America"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australian"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "UK"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "NEI"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "HOKKAIDO",
+    "Hokkaido",
+    "Horkaido",
+    "HOKKALDO PREFECTURE",
+    "Hokkaido, Sapporo-gun"
+   ]
+  },
+  {
+   "name": "Aomori Prefecture",
+   "variants": [
+    "Aomori Prefecture"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita-ken",
+    "Aktta-ken",
+    "AKITA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Yamagata Prefecture",
+   "variants": [
+    "Yamagata",
+    "Yamagata-ken",
+    "Yemegata-ken",
+    "YAMAGATA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima",
+    "Fukushima-ken",
+    "Fukusima-ken",
+    "Futushima-kon",
+    "Fucushima-kon",
+    "Fuktshina-ken",
+    "FUKUSHIMA PREFECTURE",
+    "FUKUSHIME PREFECTURE"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki-ken",
+    "IBARAKI PREFECTURE"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi-ken",
+    "TOCHIGI PRLFECTURE",
+    "TOCHIGI-PREFECTURE"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gunma",
+    "Gunma-ken",
+    "Gumma-ken",
+    "GUNMA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama-ken",
+    "Saitam-ken",
+    "Saitema-ken",
+    "Seitama-ken",
+    "Saitame-ken",
+    "Saiteme-ken",
+    "SAITAMA PREFECTURE",
+    "GAETAMA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Chiba Prefecture",
+   "variants": [
+    "Chiba-ken",
+    "CHIBA PREFLCTURE",
+    "CHIBA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa",
+    "Kanagawa-ken",
+    "Kanagewa-ken",
+    "Kanegawa-ken",
+    "Konagawa-ken",
+    "Kanega a-ken",
+    "Kanegawa Prefecture",
+    "KANAGAWA PREF.",
+    "KANAGAWA PREFECTURK"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata",
+    "Niigata-ken",
+    "Niigate-ken",
+    "Niigete-ken",
+    "Nitgate-ken",
+    "NIIGATE PREFECTURE"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyama",
+    "Toyame",
+    "Toyana",
+    "Toym-ken",
+    "Toyama-ken",
+    "TOYAMA PREFECTERE"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa-ken",
+    "ISHIKAWA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano-ken",
+    "Nageno-ken",
+    "Hagano-ken",
+    "NAGANO PREFECTURE"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu-ken",
+    "Givu-ken",
+    "GIFU PREFECTURE"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-ken",
+    "Shizuoke-ken",
+    "SHIZUOKA PRFE.CTURE"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi",
+    "Aichi-ken",
+    "AICHI PREFECTURE"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie-ken",
+    "MIE PREFECTURE"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga",
+    "Shiga-ken",
+    "SHIGA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Kyoto Prefecture",
+   "variants": [
+    "Kyoto-fu",
+    "Kyoto Prefecture",
+    "KYOTO PREFECTURE"
+   ]
+  },
+  {
+   "name": "Osaka Prefecture",
+   "variants": [
+    "Osaka",
+    "Osaka-fu",
+    "Osake-fu",
+    "Oseka-fu",
+    "Oskka-fu",
+    "Osaika-fu",
+    "OSAKA PREF",
+    "OSAKA PREFECTURE",
+    "OSAKA PREFÉCTURE"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "Hyogo-ken",
+    "Kyogo-ken",
+    "Eyog- ken",
+    "HYOGO PRE.",
+    "HYOGO PREFECTURE",
+    "HYOGO PREYEOTURE"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara-ken",
+    "HARA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama",
+    "Vakayama City"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayama-ken",
+    "Okayama",
+    "OXAYAMA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima",
+    "Hiroshima-ken",
+    "Hiroshima Prefecture",
+    "Hiroshimn-ken",
+    "Hireshine-ka",
+    "Hiroshkme ken",
+    "Hirnshima-ken",
+    "Hiroahima-ken",
+    "HIROSHIMA PREF.",
+    "HIROSHIMA PREFCTURE"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yamaguchi",
+    "Yamaguchi-ken",
+    "Yemaguchi-ken",
+    "Yemeguchi-ken",
+    "Yameguchi-ken",
+    "YAMAGUCHI PREFECTURE"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa",
+    "Kagawa-ken",
+    "KAGAWA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima-ken"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime",
+    "Ehime-ken",
+    "EHIME PREFECTURE"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka",
+    "Fukuoka-ken",
+    "Fukuoku",
+    "Fukuoke-ken",
+    "Furuoka-ken",
+    "Fulnuoka-ken",
+    "FUKUOKA FREF.",
+    "FUKUOKA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Saga Prefecture",
+   "variants": [
+    "Saga-ken",
+    "Sega-ken",
+    "SAGA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Nagasaki Prefecture",
+   "variants": [
+    "Nagasaki-ken"
+   ]
+  },
+  {
+   "name": "Kumamoto Prefecture",
+   "variants": [
+    "Kumamoto-ken",
+    "KUMAMOTO PREFECTURE"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita-ken",
+    "OITA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi-ken",
+    "MIYAG PREFECTURE"
+   ]
+  },
+  {
+   "name": "Miyazaki Prefecture",
+   "variants": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori-ken",
+    "TOTTORI PREFECTURE"
+   ]
+  },
+  {
+   "name": "Yamanashi Prefecture",
+   "variants": [
+    "Yamanashi-ken",
+    "Yemeneshi-ken",
+    "YAMANASHI PR FECTURE"
+   ]
+  },
+  {
+   "name": "Tokuyama, Yamaguchi",
+   "variants": [
+    "Tokuyama"
+   ]
+  },
+  {
+   "name": "Sakata, Yamagata",
+   "variants": [
+    "Sakata"
+   ]
+  },
+  {
+   "name": "Hirota, Fukushima",
+   "variants": [
+    "Hirota",
+    "Hireta"
+   ]
+  },
+  {
+   "name": "Takaoka, Toyama",
+   "variants": [
+    "Takaoka",
+    "Takaoka-shi"
+   ]
+  },
+  {
+   "name": "Fushiki, Toyama",
+   "variants": [
+    "Fushiki"
+   ]
+  },
+  {
+   "name": "Nakago, Niigata",
+   "variants": [
+    "Nakago",
+    "Nakago-mura"
+   ]
+  },
+  {
+   "name": "Nihongi, Niigata",
+   "variants": [
+    "Nihongi"
+   ]
+  },
+  {
+   "name": "Shibukawa, Gunma",
+   "variants": [
+    "Shibukawa"
+   ]
+  },
+  {
+   "name": "Oji, Tokyo",
+   "variants": [
+    "Oji",
+    "oji",
+    "Oji-ku"
+   ]
+  },
+  {
+   "name": "Nagoya, Aichi",
+   "variants": [
+    "Nagoya",
+    "Nagoya-shi",
+    "Nogoya-shi"
+   ]
+  },
+  {
+   "name": "Osaka, Osaka",
+   "variants": [
+    "Osaka",
+    "Osaka-shi",
+    "Osaka-s'i",
+    "Osaka-sni",
+    "Oseka-shi",
+    "Osake",
+    "Oseka"
+   ]
+  },
+  {
+   "name": "Yodogawa, Osaka",
+   "variants": [
+    "Yodogewa"
+   ]
+  },
+  {
+   "name": "Sakaide, Kagawa",
+   "variants": [
+    "Sakaido"
+   ]
+  },
+  {
+   "name": "Niihama, Ehime",
+   "variants": [
+    "Niihama"
+   ]
+  },
+  {
+   "name": "Omuta, Fukuoka",
+   "variants": [
+    "Omute",
+    "Oomuta-shi",
+    "Omata-shi",
+    "Omuda-shi"
+   ]
+  },
+  {
+   "name": "Nobeoka, Miyazaki",
+   "variants": [
+    "Nobeoka",
+    "Nobooka"
+   ]
+  },
+  {
+   "name": "Ube, Yamaguchi",
+   "variants": [
+    "Ube",
+    "Ube-shi"
+   ]
+  },
+  {
+   "name": "Kanda, Fukuoka",
+   "variants": [
+    "Karitamachi",
+    "Karita-mechi"
+   ]
+  },
+  {
+   "name": "Muroran, Hokkaido",
+   "variants": [
+    "Muroran City",
+    "Muroran",
+    "Luroran"
+   ]
+  },
+  {
+   "name": "Wanishi, Hokkaido",
+   "variants": [
+    "Wanishi",
+    "\"anishi",
+    "\"anishimachi"
+   ]
+  },
+  {
+   "name": "Haneda, Tokyo",
+   "variants": [
+    "Haneda",
+    "Hancda"
+   ]
+  },
+  {
+   "name": "Kamata, Tokyo",
+   "variants": [
+    "Kamata",
+    "Kamata-ku",
+    "Kanata-ku"
+   ]
+  },
+  {
+   "name": "Sunamachi, Tokyo",
+   "variants": [
+    "Sunamachi",
+    "Sunamaohi",
+    "Sumamachi",
+    "Sunannchi",
+    "Sunanachi"
+   ]
+  },
+  {
+   "name": "Senju, Tokyo",
+   "variants": [
+    "Senjyu",
+    "Senjyu Adachi",
+    "Senjyu, Sekiyoshi"
+   ]
+  },
+  {
+   "name": "Kawasaki, Kanagawa",
+   "variants": [
+    "Kawasaki",
+    "Kawasaki City",
+    "Kawasaki-shi",
+    "Kawesaki-shi"
+   ]
+  },
+  {
+   "name": "Funamachi, Osaka",
+   "variants": [
+    "Funamachi"
+   ]
+  },
+  {
+   "name": "Nishijima, Osaka",
+   "variants": [
+    "Nishijima",
+    "Nishijina-cho"
+   ]
+  },
+  {
+   "name": "Amagasaki, Hyogo",
+   "variants": [
+    "Amagasaki",
+    "Amagasaki City",
+    "Amagasaki-shi",
+    "Amegasaki City",
+    "Amegasaki-shi",
+    "Anagasaki",
+    "amagaseki",
+    "Amagaseki"
+   ]
+  },
+  {
+   "name": "Hirohata, Hyogo",
+   "variants": [
+    "Hirohata",
+    "Hirohata City",
+    "Hirohata-cho"
+   ]
+  },
+  {
+   "name": "Kokura, Fukuoka",
+   "variants": [
+    "Kokura",
+    "Kokura City"
+   ]
+  },
+  {
+   "name": "Yawata, Fukuoka",
+   "variants": [
+    "Yawata"
+   ]
+  },
+  {
+   "name": "Ebetsu, Hokkaido",
+   "variants": [
+    "Ebetsu",
+    "Ebetsu-machi"
+   ]
+  },
+  {
+   "name": "Tsurumi, Kanagawa",
+   "variants": [
+    "Tsurumi",
+    "Tsurumi-ku"
+   ]
+  },
+  {
+   "name": "Shimizu, Shizuoka",
+   "variants": [
+    "Shimizu",
+    "Shimizu-shi"
+   ]
+  },
+  {
+   "name": "Miyazu, Kyoto",
+   "variants": [
+    "Miyazu",
+    "Miyazu-cho"
+   ]
+  },
+  {
+   "name": "Matsue, Shimane",
+   "variants": [
+    "Matsue",
+    "atsue-shi"
+   ]
+  },
+  {
+   "name": "Saka, Hiroshima",
+   "variants": [
+    "Saka",
+    "Saka-mura"
+   ]
+  },
+  {
+   "name": "Onoda, Yamaguchi",
+   "variants": [
+    "Onoda",
+    "Onoda-shi"
+   ]
+  },
+  {
+   "name": "Tokushima, Tokushima",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Saijo, Ehime",
+   "variants": [
+    "Saijo",
+    "Sai jo-shi"
+   ]
+  },
+  {
+   "name": "Tobata, Fukuoka",
+   "variants": [
+    "Tobata",
+    "Tobata-shi"
+   ]
+  },
+  {
+   "name": "Sasebo, Nagasaki",
+   "variants": [
+    "Sasebo-shi",
+    "Sasebo City"
+   ]
+  },
+  {
+   "name": "Kizugawa, Osaka",
+   "variants": [
+    "Kizugawa"
+   ]
+  },
+  {
+   "name": "Minato, Fukuoka",
+   "variants": [
+    "Minato",
+    "Shin-minatomachi"
+   ]
+  },
+  {
+   "name": "Shikama, Hyogo",
+   "variants": [
+    "Shikamako",
+    "Shikama-shi"
+   ]
+  },
+  {
+   "name": "Sunagawa, Hokkaido",
+   "variants": [
+    "Sunagawa"
+   ]
+  },
+  {
+   "name": "Fukuyama, Hiroshima",
+   "variants": [
+    "Fukuyama",
+    "Fukuyama-shi",
+    "Fukuyame-shi"
+   ]
+  },
+  {
+   "name": "Ishiyama, Niigata",
+   "variants": [
+    "Ishiyama"
+   ]
+  },
+  {
+   "name": "Yokohama, Kanagawa",
+   "variants": [
+    "Yokohama",
+    "Yokohama-shi",
+    "Yokoharfa-shi"
+   ]
+  },
+  {
+   "name": "Kameido, Tokyo",
+   "variants": [
+    "Kameido"
+   ]
+  },
+  {
+   "name": "Oshima, Tokyo",
+   "variants": [
+    "Oshima"
+   ]
+  },
+  {
+   "name": "Shiga, Shiga",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Owada, Osaka",
+   "variants": [
+    "Owada",
+    "Owada-mura",
+    "Owada-machi"
+   ]
+  },
+  {
+   "name": "Kurosaki, Fukuoka",
+   "variants": [
+    "Kurosaki"
+   ]
+  },
+  {
+   "name": "Honjo, Saitama",
+   "variants": [
+    "Honjo",
+    "Honjo-machi",
+    "Honjyu-shi"
+   ]
+  },
+  {
+   "name": "Hamamatsu, Shizuoka",
+   "variants": [
+    "Hamamatsu",
+    "Hamamatsu-shi"
+   ]
+  },
+  {
+   "name": "Numazu, Shizuoka",
+   "variants": [
+    "Numazu",
+    "Numazu-shi"
+   ]
+  },
+  {
+   "name": "Funabashi, Chiba",
+   "variants": [
+    "Funabachi",
+    "Funabashi-shi",
+    "Funagashi-shi"
+   ]
+  },
+  {
+   "name": "Takayama, Gifu",
+   "variants": [
+    "Takayama",
+    "Takayama-shi"
+   ]
+  },
+  {
+   "name": "Gifu, Gifu",
+   "variants": [
+    "Gifu-shi"
+   ]
+  },
+  {
+   "name": "Handa, Aichi",
+   "variants": [
+    "Handa"
+   ]
+  },
+  {
+   "name": "Narashino, Chiba",
+   "variants": [
+    "Narashino"
+   ]
+  },
+  {
+   "name": "Kanazawa, Ishikawa",
+   "variants": [
+    "Kanazawa-shi"
+   ]
+  },
+  {
+   "name": "Mito, Ibaraki",
+   "variants": [
+    "Mito"
+   ]
+  },
+  {
+   "name": "Urawa, Saitama",
+   "variants": [
+    "Urawa-shi"
+   ]
+  },
+  {
+   "name": "Fuse, Osaka",
+   "variants": [
+    "Fuse",
+    "Fuse-shi",
+    "Fuseshi"
+   ]
+  },
+  {
+   "name": "Nara, Nara",
+   "variants": [
+    "Nara",
+    "Nara-shi"
+   ]
+  },
+  {
+   "name": "Takasaki, Gunma",
+   "variants": [
+    "Takasaki-shi"
+   ]
+  },
+  {
+   "name": "Nagaoka, Niigata",
+   "variants": [
+    "Nagaoka",
+    "Nagaoka-shi"
+   ]
+  },
+  {
+   "name": "Kyoto, Kyoto",
+   "variants": [
+    "Kyoto",
+    "Kyoto-shi",
+    "Syoto-shi",
+    "Kyóto-shi"
+   ]
+  },
+  {
+   "name": "Niigata, Niigata",
+   "variants": [
+    "Niigata",
+    "Niigate"
+   ]
+  },
+  {
+   "name": "Sanjo, Niigata",
+   "variants": [
+    "Sanjo"
+   ]
+  },
+  {
+   "name": "Kamakura, Kanagawa",
+   "variants": [
+    "Kamakura-gun",
+    "Kemekure-gun"
+   ]
+  },
+  {
+   "name": "Itami, Hyogo",
+   "variants": [
+    "Itami-shi"
+   ]
+  },
+  {
+   "name": "Kashiwazaki, Niigata",
+   "variants": [
+    "Kashiwasaki",
+    "Kashiwasaki-shi"
+   ]
+  },
+  {
+   "name": "Kaminoyama, Yamagata",
+   "variants": [
+    "Kaminoyama",
+    "Kaminoyama-machi"
+   ]
+  },
+  {
+   "name": "Otsu, Shiga",
+   "variants": [
+    "Otsu",
+    "Otsu-shi"
+   ]
+  },
+  {
+   "name": "Hakodate, Hokkaido",
+   "variants": [
+    "Hakodate-shi"
+   ]
+  },
+  {
+   "name": "Yokkaichi, Mie",
+   "variants": [
+    "Yokkaichi-shi"
+   ]
+  },
+  {
+   "name": "Inazawa, Aichi",
+   "variants": [
+    "Inazawa-machi"
+   ]
+  },
+  {
+   "name": "Okazaki, Aichi",
+   "variants": [
+    "Okazaki-shi"
+   ]
+  },
+  {
+   "name": "Akita, Akita",
+   "variants": [
+    "Akita-shi"
+   ]
+  },
+  {
+   "name": "Ichikawa, Chiba",
+   "variants": [
+    "Ichikawa-shi",
+    "Ichikawashinden"
+   ]
+  },
+  {
+   "name": "Matsuyama, Ehime",
+   "variants": [
+    "Matsuycma-shi"
+   ]
+  },
+  {
+   "name": "Fukuoka, Fukuoka",
+   "variants": [
+    "Fukuoka-shi",
+    "Fukuoke-shi",
+    "Fulluoka-shi",
+    "Futuoka-shi"
+   ]
+  },
+  {
+   "name": "Kurume, Fukuoka",
+   "variants": [
+    "Kurume-shi"
+   ]
+  },
+  {
+   "name": "Moji, Fukuoka",
+   "variants": [
+    "Moji-shi"
+   ]
+  },
+  {
+   "name": "Koriyama, Fukushima",
+   "variants": [
+    "Koriyama-shi",
+    "Koriyema",
+    "Furuyama-machi"
+   ]
+  },
+  {
+   "name": "Sendai, Miyagi",
+   "variants": [
+    "Sendai-shi"
+   ]
+  },
+  {
+   "name": "Ogaki, Gifu",
+   "variants": [
+    "Ogaki-shi"
+   ]
+  },
+  {
+   "name": "Kiryu, Gunma",
+   "variants": [
+    "Kiryu-shi"
+   ]
+  },
+  {
+   "name": "Himeji, Hyogo",
+   "variants": [
+    "Hineji-shi"
+   ]
+  },
+  {
+   "name": "Akashi, Hyogo",
+   "variants": [
+    "Akashi-shi",
+    "Akashi-ahi"
+   ]
+  },
+  {
+   "name": "Takamatsu, Kagawa",
+   "variants": [
+    "Takamatsu-shi"
+   ]
+  },
+  {
+   "name": "Sagamihara, Kanagawa",
+   "variants": [
+    "Sagamihara-Mach1"
+   ]
+  },
+  {
+   "name": "Arao, Kumamoto",
+   "variants": [
+    "Arao-shi"
+   ]
+  },
+  {
+   "name": "Kumamoto, Kumamoto",
+   "variants": [
+    "Kumamotc-shi"
+   ]
+  },
+  {
+   "name": "Suwa, Nagano",
+   "variants": [
+    "Suwashi",
+    "Suwa-shi",
+    "Suwa-machi"
+   ]
+  },
+  {
+   "name": "Nagano, Nagano",
+   "variants": [
+    "Nagano-shi"
+   ]
+  },
+  {
+   "name": "Okaya, Nagano",
+   "variants": [
+    "Okaya-shi"
+   ]
+  },
+  {
+   "name": "Matsumoto, Nagano",
+   "variants": [
+    "Matsumoto-shi"
+   ]
+  },
+  {
+   "name": "Sakai, Osaka",
+   "variants": [
+    "Sakai-shi",
+    "sakai-shi"
+   ]
+  },
+  {
+   "name": "Ikeda, Osaka",
+   "variants": [
+    "Ikeda-shi"
+   ]
+  },
+  {
+   "name": "Kaizuka, Osaka",
+   "variants": [
+    "Kaizuka",
+    "Kaizaka-shi"
+   ]
+  },
+  {
+   "name": "Saga, Saga",
+   "variants": [
+    "Saga-shi"
+   ]
+  },
+  {
+   "name": "Chichibu, Saitama",
+   "variants": [
+    "Chichibu-machi"
+   ]
+  },
+  {
+   "name": "Kawaguchi, Saitama",
+   "variants": [
+    "Kawaguchi-shi"
+   ]
+  },
+  {
+   "name": "Hikone, Shiga",
+   "variants": [
+    "Hikone-shi"
+   ]
+  },
+  {
+   "name": "Utsunomiya, Tochigi",
+   "variants": [
+    "Utsunomiya-shi"
+   ]
+  },
+  {
+   "name": "Kanuma, Tochigi",
+   "variants": [
+    "Kanuma-machi",
+    "Kanume-machi"
+   ]
+  },
+  {
+   "name": "Machida, Tokyo",
+   "variants": [
+    "Machida-machi",
+    "Machide-machi",
+    "Nachida"
+   ]
+  },
+  {
+   "name": "Fuchu, Tokyo",
+   "variants": [
+    "Fuchu"
+   ]
+  },
+  {
+   "name": "Hino, Tokyo",
+   "variants": [
+    "Hino-machi"
+   ]
+  },
+  {
+   "name": "Kokubunji, Tokyo",
+   "variants": [
+    "Kokubunji-machi"
+   ]
+  },
+  {
+   "name": "Tottori, Tottori",
+   "variants": [
+    "Tottori-shi"
+   ]
+  },
+  {
+   "name": "Kurayoshi, Tottori",
+   "variants": [
+    "Kurayoshi-machi",
+    "Kureyoshi-me.chi"
+   ]
+  },
+  {
+   "name": "Tsuruoka, Yamagata",
+   "variants": [
+    "Tauruoka-shi"
+   ]
+  },
+  {
+   "name": "Yokosuka, Kanagawa",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Kobe, Hyogo",
+   "variants": [
+    "Kobe",
+    "Robe"
+   ]
+  },
+  {
+   "name": "Wakamatsu, Fukuoka",
+   "variants": [
+    "Wakamatsu",
+    "Vakamatsu"
+   ]
+  },
+  {
+   "name": "Shimonoseki, Yamaguchi",
+   "variants": [
+    "Shimonoseki"
+   ]
+  },
+  {
+   "name": "Setoda, Hiroshima",
+   "variants": [
+    "Setodamachi"
+   ]
+  },
+  {
+   "name": "Shiogama, Miyagi",
+   "variants": [
+    "Shogama"
+   ]
+  },
+  {
+   "name": "Kure, Hiroshima",
+   "variants": [
+    "Kure City"
+   ]
+  },
+  {
+   "name": "Maizuru, Kyoto",
+   "variants": [
+    "Maizuru"
+   ]
+  },
+  {
+   "name": "Ominato, Aomori",
+   "variants": [
+    "Ominato-machi"
+   ]
+  },
+  {
+   "name": "Uraga, Kanagawa",
+   "variants": [
+    "Uraga"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Tokutaro Kimura",
+   "role": "Justice Minister",
+   "variants": [
+    "Tokutaro Ximura",
+    "Kimura"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General of the Army; Supreme Commander for the Allied Powers",
+   "variants": [
+    "General of the Army MacArthur",
+    "General MacArthur's",
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Japanese cabinet leader",
+   "variants": [
+    "Yoshida"
+   ]
+  },
+  {
+   "name": "Chester W. Nimitz",
+   "role": "Admiral",
+   "variants": [
+    "Adm Nimitz"
+   ]
+  },
+  {
+   "name": "Mr. Gross",
+   "role": "recipient of reparations policy memoranda",
+   "variants": [
+    "Mr. Gross"
+   ]
+  },
+  {
+   "name": "Mr. Martin",
+   "role": "JK memorandum sender; surname uncertain in OCR",
+   "variants": [
+    "Mr. Martix"
+   ]
+  },
+  {
+   "name": "Mr. Hodge",
+   "role": "JK memorandum sender",
+   "variants": [
+    "Mr. Hodge",
+    "CLHodge"
+   ]
+  },
+  {
+   "name": "J. A. Frank",
+   "role": "author or routing officer of September 6 memorandum",
+   "variants": [
+    "JAFrank"
+   ]
+  },
+  {
+   "name": "John H. Hilldring",
+   "role": "General whose views on FEC policy were requested",
+   "variants": [
+    "General Hilldring's"
+   ]
+  },
+  {
+   "name": "J. W. Burnett",
+   "role": "Political Adviser office sender or preparer",
+   "variants": [
+    "JWBurnett"
+   ]
+  },
+  {
+   "name": "John B. Cooley",
+   "role": "Colonel, AGD; Adjutant General signing SCAP directives",
+   "variants": [
+    "JOHN B. GOOLEY",
+    "JOHI B. OOLY",
+    "J/B. COOLEY",
+    "JOB. COOLEY",
+    "JOHNE. COOLEY",
+    "JOHN COOLEY",
+    "JON B. COOLEY"
+   ]
+  },
+  {
+   "name": "R. G. Hersey",
+   "role": "Assistant Adjutant General signing implementation guidance; initials vary in OCR",
+   "variants": [
+    "R. G. HERS",
+    "URC FERSEY",
+    "R.HERSEY",
+    "R. . FEPSE"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese industrial disarmament",
+  "interim reparations",
+  "SCAP directives",
+  "plant selection",
+  "industrial capacity",
+  "Far Eastern Commission",
+  "Zaibatsu",
+  "custody and control",
+  "machine tools",
+  "munitions plants",
+  "shipyards",
+  "steam-electric power"
+ ],
+ "subfiles": [
+  {
+   "title": "Industrial disarmament paper, conclusion on capacity ceilings and research",
+   "doc_type": "policy paper continuation",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The paper recommends occupation-era capacity ceilings in selected industries and describes existing restrictions on potentially military research.",
+   "summary": "Limits direct industrial restrictions to specified industries and cites SCAP controls on research, including a ban on atomic research.",
+   "keywords": [
+    "industrial capacity",
+    "research",
+    "disarmament"
+   ]
+  },
+  {
+   "title": "Section two of operations report Japan",
+   "doc_type": "incoming telegram",
+   "start_page": 258,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "1946-08-20",
+   "from": "GHQ SCAP, Tokyo",
+   "to": "War Department for WARCOS; passed to Department of State for information",
+   "about": "Reports Japanese industrial output, civil code reform, judicial policy, and press reactions to the surrender anniversary.",
+   "summary": "The report gives fertilizer, textile, and coal production figures and notes a proposed Australian wool exchange. It describes civil code proposals for equal inheritance and marital rights, Justice Minister Kimura’s call for prompt trials, and Tokyo newspapers’ largely favorable assessments of occupation policy on the surrender anniversary.",
+   "keywords": [
+    "production report",
+    "coal",
+    "fertilizer",
+    "textiles",
+    "civil code",
+    "press"
+   ]
+  },
+  {
+   "title": "Recommendation on proposed FEC plant-selection policy",
+   "doc_type": "memorandum",
+   "start_page": 263,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1946-09-06",
+   "from": "J. A. Frank",
+   "to": "Mr. Gross",
+   "about": "Recommends that the U.S. FEC member accept a revised policy balancing reparations removals with Japanese industrial needs.",
+   "summary": "Recommends acceptance of the FEC draft replacing overlapping SWNCC plant-selection provisions.",
+   "keywords": [
+    "FEC",
+    "plant selection",
+    "reparations"
+   ]
+  },
+  {
+   "title": "Proposed FEC statement on plant selections",
+   "doc_type": "memorandum",
+   "start_page": 264,
+   "end_page": 267,
+   "continues_previous": false,
+   "date": "1946-08-29",
+   "from": "JK — Mr. Martin and Mr. Hodge",
+   "to": "Mr. Gross",
+   "about": "Explains the FEC compromise on choosing Japanese plants for removal, destruction, or retention.",
+   "summary": "Chinese objections prompted a joint FEC committee draft seeking a fair share of efficient equipment for reparations while preserving Japan’s peaceful industrial needs. The memorandum argues that SCAP retains discretion over specific plants and asks General Hilldring whether U.S. acceptance falls within SWNCC authority.",
+   "keywords": [
+    "FEC",
+    "Chinese claimants",
+    "SCAP discretion",
+    "Zaibatsu",
+    "plant selection"
+   ]
+  },
+  {
+   "title": "Selection of Facilities, paragraph 11",
+   "doc_type": "policy excerpt",
+   "start_page": 268,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Sets criteria for selecting industrial facilities to retain under the assured-capacity program.",
+   "summary": "Retention criteria cover security, Zaibatsu control, and Japanese economic needs.",
+   "keywords": [
+    "assured capacity",
+    "retention",
+    "selection criteria"
+   ]
+  },
+  {
+   "title": "Plant Selections, paragraph 5d",
+   "doc_type": "policy excerpt",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Sets criteria for SCAP’s selection of excess Japanese plants and equipment for reparations removal.",
+   "summary": "Removal criteria include security, claimants’ preferences, Zaibatsu dissolution, and Japanese economic needs.",
+   "keywords": [
+    "reparations",
+    "plant selection",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Reparations Selections Within Japanese Industry",
+   "doc_type": "covering despatch",
+   "start_page": 270,
+   "end_page": 270,
+   "continues_previous": false,
+   "date": "1946-09-05",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Department of State",
+   "about": "Forwards copies of eight SCAP directives selecting Japanese industries for interim reparations.",
+   "summary": "Forwards SCAPIN 1129–1136 and identifies the eight affected industries.",
+   "keywords": [
+    "covering despatch",
+    "SCAPIN",
+    "reparations"
+   ]
+  },
+  {
+   "title": "SCAPIN 1129: Soda Ash and Caustic Soda Industries",
+   "doc_type": "SCAP directive with plant list",
+   "start_page": 271,
+   "end_page": 273,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places listed soda ash and caustic soda facilities in SCAP custody for possible interim reparations removal.",
+   "summary": "Orders custody, protection, and possible temporary operation of designated plants. The enclosure lists facilities by company, city, and prefecture.",
+   "keywords": [
+    "SCAPIN 1129",
+    "soda ash",
+    "caustic soda",
+    "plant list"
+   ]
+  },
+  {
+   "title": "Implementation guidance for SCAPIN 1129",
+   "doc_type": "information memorandum",
+   "start_page": 274,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1946-08-15",
+   "from": "GHQ SCAP",
+   "to": "Occupation authorities",
+   "about": "Explains temporary operation and preservation of seized soda ash and caustic soda equipment.",
+   "summary": "Allows processing of existing raw materials, anticipates shutdown within three months, and requires corrosion precautions.",
+   "keywords": [
+    "SCAPIN 1129",
+    "maintenance",
+    "shutdown"
+   ]
+  },
+  {
+   "title": "SCAPIN 1130: Iron and Steel Industry",
+   "doc_type": "SCAP directive with plant list",
+   "start_page": 275,
+   "end_page": 277,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places listed iron and steel plants in SCAP custody for possible interim reparations removal.",
+   "summary": "Provides for shutdown or completion of outstanding orders while safeguarding equipment. The list specifies plants and partial reparations capacity at Wanishi and Yawata.",
+   "keywords": [
+    "SCAPIN 1130",
+    "iron and steel",
+    "plant list"
+   ]
+  },
+  {
+   "title": "Implementation guidance for SCAPIN 1130",
+   "doc_type": "information memorandum",
+   "start_page": 278,
+   "end_page": 279,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "GHQ SCAP",
+   "to": "Occupation authorities",
+   "about": "Defines which steel-plant facilities to preserve and how to supervise their operation.",
+   "summary": "Identifies removable equipment, generally excludes buildings, and permits essential production. It directs Japanese maintenance and periodic inspection.",
+   "keywords": [
+    "SCAPIN 1130",
+    "steel plants",
+    "maintenance"
+   ]
+  },
+  {
+   "title": "SCAPIN 1131: Steam-Electric Power Generating Plants",
+   "doc_type": "SCAP directive with plant list",
+   "start_page": 280,
+   "end_page": 283,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places listed steam-electric plants in SCAP custody and requires preparation for reparations removal.",
+   "summary": "Orders preservation of equipment and technical records, bars unauthorized removals, and sets a 60-day target for readiness to shut down. The enclosure lists generating plants and capacities.",
+   "keywords": [
+    "SCAPIN 1131",
+    "power plants",
+    "reparations",
+    "shutdown"
+   ]
+  },
+  {
+   "title": "Implementation guidance for SCAPIN 1131",
+   "doc_type": "information memorandum",
+   "start_page": 284,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "GHQ SCAP",
+   "to": "Occupation authorities",
+   "about": "Explains how to prepare power plants for removal while meeting essential electricity demand.",
+   "summary": "Calls for redistribution of power loads, continued maintenance, and preservation of drawings and operating records. It distinguishes essential demand from recently expanded, inefficient uses of electricity.",
+   "keywords": [
+    "SCAPIN 1131",
+    "electricity",
+    "load distribution",
+    "technical records"
+   ]
+  },
+  {
+   "title": "SCAPIN 1132: Sulfuric Acid Industry",
+   "doc_type": "SCAP directive with factory list",
+   "start_page": 286,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places contact sulfuric acid sets at listed factories in SCAP custody for possible removal.",
+   "summary": "Allows temporary production of essential goods while protecting the equipment. It limits planned removals at Niihama and Sunagawa to specified sets and lists 24 factories.",
+   "keywords": [
+    "SCAPIN 1132",
+    "sulfuric acid",
+    "factory list"
+   ]
+  },
+  {
+   "title": "Implementation guidance for SCAPIN 1132",
+   "doc_type": "information memorandum",
+   "start_page": 289,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "GHQ SCAP",
+   "to": "Occupation authorities",
+   "about": "Explains production transfers and corrosion precautions for seized sulfuric acid sets.",
+   "summary": "Permits temporary production, encourages a shift to retained equipment, and requires careful purging before disassembly.",
+   "keywords": [
+    "SCAPIN 1132",
+    "sulfuric acid",
+    "maintenance"
+   ]
+  },
+  {
+   "title": "SCAPIN 1133: Machine Tool Industry",
+   "doc_type": "SCAP directive with manufacturer list",
+   "start_page": 290,
+   "end_page": 297,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places listed machine tool manufacturers in SCAP custody for possible interim reparations removal.",
+   "summary": "The directive allows limited completion of work already in progress or production of consumer goods under occupation instructions. Its six-page enclosure identifies 90 numbered manufacturers and plants across Japan. Equipment is to be protected and maintained pending removal decisions.",
+   "keywords": [
+    "SCAPIN 1133",
+    "machine tools",
+    "manufacturer list",
+    "custody"
+   ]
+  },
+  {
+   "title": "Implementation guidance for SCAPIN 1133",
+   "doc_type": "information memorandum",
+   "start_page": 298,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "GHQ SCAP",
+   "to": "Occupation authorities",
+   "about": "Specifies removable machine-tool equipment and rules for continued civilian production.",
+   "summary": "Identifies machinery, testing equipment, and power equipment for preservation, generally excludes buildings, and stops new machine-tool manufacture at listed plants. It calls for maintenance and inspections.",
+   "keywords": [
+    "SCAPIN 1133",
+    "machine tools",
+    "civilian production"
+   ]
+  },
+  {
+   "title": "SCAPIN 1134: Privately-Owned Munitions Plants",
+   "doc_type": "SCAP directive with plant list",
+   "start_page": 300,
+   "end_page": 317,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places listed private munitions plants in SCAP custody for possible reparations removal.",
+   "summary": "The directive orders protection and maintenance while permitting production needed by the civilian economy. Its extensive enclosure lists companies and plant addresses by prefecture from Aichi through Yamanashi. The list identifies facilities selected for custody, with specific shutdown or removal decisions left for later instructions.",
+   "keywords": [
+    "SCAPIN 1134",
+    "munitions plants",
+    "prefectural plant list",
+    "custody"
+   ]
+  },
+  {
+   "title": "Implementation guidance for SCAPIN 1134",
+   "doc_type": "information memorandum",
+   "start_page": 318,
+   "end_page": 318,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "GHQ SCAP",
+   "to": "Occupation authorities",
+   "about": "Sets preservation and operating rules for listed privately owned munitions plants.",
+   "summary": "Requires preservation of special-purpose war equipment, permits civilian production, and calls for maintenance and inspections.",
+   "keywords": [
+    "SCAPIN 1134",
+    "munitions equipment",
+    "maintenance"
+   ]
+  },
+  {
+   "title": "SCAPIN 1135: Shipbuilding Industry",
+   "doc_type": "SCAP directive with shipyard list",
+   "start_page": 319,
+   "end_page": 321,
+   "continues_previous": false,
+   "date": "1946-08-13",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "Imperial Japanese Government",
+   "about": "Places listed private and former naval shipyards in SCAP custody for possible reparations removal.",
+   "summary": "The directive continues existing vessel construction and repair while requiring protection of shipyard equipment. Naval authorities receive custody of Yokosuka Naval Yard; the Eighth Army receives the other yards. The enclosure lists private and former naval shipyards.",
+   "keywords": [
+    "SCAPIN 1135",
+    "shipyards",
+    "naval yards",
+    "reparations"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 9,
+  "pages": [
+   257,
+   321
+  ],
+  "pdf": "894.60 Japan, Industrial Matters., December 26, 1945 - June 26, 1947 1578.pdf",
+  "seconds": 117.7,
+  "created": "2026-10-08 18:21:31",
+  "key": "japan-internal-affairs-894.60-japan-industrial-matters-6"
+ }
+}

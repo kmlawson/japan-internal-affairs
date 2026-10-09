@@ -1,0 +1,138 @@
+{
+ "section_summary": "Page 38 is a publication colophon. Pages 39–69 begin the August 1946 issue of the Bank of Japan’s Financial Statistics Monthly, with tables on banking, credit, insurance, postal savings, securities, prices, and government bonds. Many tables compare monthly figures from 1944 through June 1946.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "日本",
+    "本邦"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "東京",
+    "東京都"
+   ]
+  },
+  {
+   "name": "Kyobashi, Tokyo",
+   "variants": [
+    "京橋區"
+   ]
+  },
+  {
+   "name": "Ginza, Tokyo",
+   "variants": [
+    "銀座"
+   ]
+  },
+  {
+   "name": "Nihonbashi, Tokyo",
+   "variants": [
+    "日本橋區"
+   ]
+  },
+  {
+   "name": "Honishichō, Tokyo",
+   "variants": [
+    "本石町"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "大阪"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kitagawa Takenosuke",
+   "role": "Named in the printing colophon",
+   "variants": [
+    "北川武之輔"
+   ]
+  },
+  {
+   "name": "Yamamoto Yoneji",
+   "role": "Named in the publication colophon",
+   "variants": [
+    "山本米治"
+   ]
+  }
+ ],
+ "keywords": [
+  "Bank of Japan",
+  "financial statistics",
+  "bank deposits",
+  "bank loans",
+  "credit cooperatives",
+  "insurance assets",
+  "postal savings",
+  "securities markets",
+  "price indexes",
+  "government bonds"
+ ],
+ "subfiles": [
+  {
+   "title": "Publication colophon",
+   "doc_type": "colophon",
+   "start_page": 38,
+   "end_page": 38,
+   "continues_previous": true,
+   "date": "1946-08-05",
+   "from": "Bank of Japan Statistics Department",
+   "to": "",
+   "about": "Printing and publication details for a Bank of Japan statistical publication.",
+   "summary": "Lists printing and publication dates, Tokyo addresses, and names associated with printing and publication.",
+   "keywords": [
+    "colophon",
+    "Bank of Japan",
+    "printing",
+    "publication"
+   ]
+  },
+  {
+   "title": "Financial Statistics Monthly, No. 5, August 1946",
+   "doc_type": "statistical monthly",
+   "start_page": 39,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1946-08",
+   "from": "Bank of Japan Statistics Department",
+   "to": "",
+   "about": "Monthly statistics on Japan’s banking system, financial institutions, securities, prices, and public debt.",
+   "summary": "The issue opens with contents and a chart of banknote circulation, bank deposits, and bank loans. Its tables report assets and liabilities of the Bank of Japan, banks, trust companies, insurers, credit cooperatives, and public financial institutions, along with postal savings. Later pages cover stock exchange activity, bill clearing in Tokyo and Osaka, Tokyo price indexes, and national government bond issues and balances.",
+   "keywords": [
+    "Financial Statistics Monthly",
+    "Bank of Japan",
+    "bank deposits",
+    "bank loans",
+    "insurance",
+    "credit cooperatives",
+    "postal savings",
+    "securities",
+    "price indexes",
+    "government bonds"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 6,
+  "pages": [
+   38,
+   69
+  ],
+  "pdf": "894.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Banks. Banking., February 18, 1947 - June 4, 1947 1574.pdf",
+  "seconds": 28.0,
+  "created": "2026-10-08 22:58:08",
+  "key": "japan-internal-affairs-894.516-financial-conditions-budget-6"
+ }
+}

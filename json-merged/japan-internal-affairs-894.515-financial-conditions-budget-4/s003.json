@@ -1,0 +1,852 @@
+{
+ "section_summary": "The section finishes a report on Japan’s gold reserves, exports, production, mining policies, and efforts to obtain privately held gold in 1937–1939. Its three attachments provide consular shipment records, figures and restrictions concerning gold consumption, and tables on Bank of Japan reserves and gold purchases. The final page begins a comparison between government shipment figures and Kobe consular records.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan Proper",
+    "Japan proper",
+    "Janan",
+    "Japun",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "Chosen",
+    "CHOSEN",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa",
+    "FO OSA",
+    "TAIWAN"
+   ]
+  },
+  {
+   "name": "Manchuria, China",
+   "variants": [
+    "Manchuria",
+    "Manchukuo",
+    "Manchou",
+    "MANCPUKUO",
+    "Manchuiuo",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "CHINA"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America",
+    "U. S. A."
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "Union of South Africa",
+    "South Africe"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "Union of Soviet Socialist Republics",
+    "U. S. S. R."
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Zimbabwe",
+   "variants": [
+    "khodesia"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "exico"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Ghana",
+   "variants": [
+    "Gold Coast"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "Democratic Republic of the Congo",
+   "variants": [
+    "belgian Conge"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "TORYO",
+    "Tokohsara"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KOBE",
+    "hobe"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "OSAKA",
+    "OSALA"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  },
+  {
+   "name": "Beppu",
+   "variants": [
+    "Beppu"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Japan’s Hokkaido island",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "KYUSHU"
+   ]
+  },
+  {
+   "name": "Sado Island",
+   "variants": [
+    "Sado",
+    "Sado island"
+   ]
+  },
+  {
+   "name": "Naoshima",
+   "variants": [
+    "Naoshima",
+    "Naoshime"
+   ]
+  },
+  {
+   "name": "Shisakajima",
+   "variants": [
+    "Shisakajima"
+   ]
+  },
+  {
+   "name": "Chigirishima",
+   "variants": [
+    "Chigirishimm",
+    "Chigirishima"
+   ]
+  },
+  {
+   "name": "Izu Peninsula",
+   "variants": [
+    "Izu peninsula"
+   ]
+  },
+  {
+   "name": "Inland Sea",
+   "variants": [
+    "Inland Sea"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Kuriles",
+    "Chishima",
+    "CHISHIM4"
+   ]
+  },
+  {
+   "name": "Urup Island",
+   "variants": [
+    "Urupp"
+   ]
+  },
+  {
+   "name": "Kamchatka",
+   "variants": [
+    "Kamchatka"
+   ]
+  },
+  {
+   "name": "Ibaraki Prefecture",
+   "variants": [
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "iyogo"
+   ]
+  },
+  {
+   "name": "Akita Prefecture",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Ehime Prefecture",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Oita Prefecture",
+   "variants": [
+    "Oita",
+    "Cita"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima"
+   ]
+  },
+  {
+   "name": "Ishikawa Prefecture",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Miye"
+   ]
+  },
+  {
+   "name": "Ikuno",
+   "variants": [
+    "Ikuno"
+   ]
+  },
+  {
+   "name": "Kitami",
+   "variants": [
+    "Kitami"
+   ]
+  },
+  {
+   "name": "Teshio River",
+   "variants": [
+    "Teshio River"
+   ]
+  },
+  {
+   "name": "Shizukari",
+   "variants": [
+    "Shizukari"
+   ]
+  },
+  {
+   "name": "Besshi",
+   "variants": [
+    "Besshi"
+   ]
+  },
+  {
+   "name": "Saganoseki",
+   "variants": [
+    "Saganoseki"
+   ]
+  },
+  {
+   "name": "Taio",
+   "variants": [
+    "Taiomine"
+   ]
+  },
+  {
+   "name": "Kushikino",
+   "variants": [
+    "Kushikino"
+   ]
+  },
+  {
+   "name": "Yamagano",
+   "variants": [
+    "Yamuagano"
+   ]
+  },
+  {
+   "name": "Hualien, Taiwan",
+   "variants": [
+    "Karenko"
+   ]
+  },
+  {
+   "name": "Keelung, Taiwan",
+   "variants": [
+    "Keelung",
+    "Kiirin"
+   ]
+  },
+  {
+   "name": "Jinguashi, Taiwan",
+   "variants": [
+    "Kinkwaseki"
+   ]
+  },
+  {
+   "name": "Ruifang, Taiwan",
+   "variants": [
+    "Zuiho"
+   ]
+  },
+  {
+   "name": "North Pyongan Province, North Korea",
+   "variants": [
+    "North Heian"
+   ]
+  },
+  {
+   "name": "Hwanghae Province, Korea",
+   "variants": [
+    "Kokai"
+   ]
+  },
+  {
+   "name": "Unsan, North Korea",
+   "variants": [
+    "Unsan"
+   ]
+  },
+  {
+   "name": "Nampo, North Korea",
+   "variants": [
+    "Chinnampo",
+    "Tinnanpo"
+   ]
+  },
+  {
+   "name": "Gunsan, South Korea",
+   "variants": [
+    "Kunsan"
+   ]
+  },
+  {
+   "name": "Choko, Korea",
+   "variants": [
+    "Choko"
+   ]
+  },
+  {
+   "name": "Kintei, Korea",
+   "variants": [
+    "Kintei"
+   ]
+  },
+  {
+   "name": "Sinuiju, North Korea",
+   "variants": [
+    "Shingishu"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Kei jo"
+   ]
+  },
+  {
+   "name": "Xing’an Mountains",
+   "variants": [
+    "Hsingan Mountains"
+   ]
+  },
+  {
+   "name": "Amur River valley",
+   "variants": [
+    "Anur Valley"
+   ]
+  },
+  {
+   "name": "Barga region, Inner Mongolia",
+   "variants": [
+    "Barga",
+    "BARGA"
+   ]
+  },
+  {
+   "name": "Sanho region, Manchuria",
+   "variants": [
+    "Sanho",
+    "SANHU"
+   ]
+  },
+  {
+   "name": "Manzhouli, China",
+   "variants": [
+    "Manchouli"
+   ]
+  },
+  {
+   "name": "Jilin, China",
+   "variants": [
+    "Kirin",
+    "KIRIN"
+   ]
+  },
+  {
+   "name": "Heilongjiang, China",
+   "variants": [
+    "Heilungkiang",
+    "Heilungkian"
+   ]
+  },
+  {
+   "name": "Liaoning, China",
+   "variants": [
+    "Fengtien"
+   ]
+  },
+  {
+   "name": "Rehe, China",
+   "variants": [
+    "Jehol"
+   ]
+  },
+  {
+   "name": "Shenyang, China",
+   "variants": [
+    "Mukden",
+    "MUKDEN",
+    "kukden"
+   ]
+  },
+  {
+   "name": "Dalian, China",
+   "variants": [
+    "DAIREN"
+   ]
+  },
+  {
+   "name": "Inner Mongolia, China",
+   "variants": [
+    "MONGOLIA"
+   ]
+  },
+  {
+   "name": "Bohai Gulf",
+   "variants": [
+    "Gulf ot Pechili"
+   ]
+  },
+  {
+   "name": "Sumida River",
+   "variants": [
+    "Sumida River"
+   ]
+  },
+  {
+   "name": "Yamada, Hyogo Prefecture",
+   "variants": [
+    "Yamada-mura"
+   ]
+  },
+  {
+   "name": "Kitagawa River",
+   "variants": [
+    "Kitagawa"
+   ]
+  },
+  {
+   "name": "Miyake, Fukui Prefecture",
+   "variants": [
+    "Miyake"
+   ]
+  },
+  {
+   "name": "Uryubashi",
+   "variants": [
+    "Uryubashi"
+   ]
+  },
+  {
+   "name": "Onifu district",
+   "variants": [
+    "Onifu-gun"
+   ]
+  },
+  {
+   "name": "Dozan River",
+   "variants": [
+    "Dozan River"
+   ]
+  },
+  {
+   "name": "Togi, Ishikawa Prefecture",
+   "variants": [
+    "Togi"
+   ]
+  },
+  {
+   "name": "Hakui district",
+   "variants": [
+    "Hagui-gun"
+   ]
+  },
+  {
+   "name": "Yoshino-Kumano National Park",
+   "variants": [
+    "Yoshino-Kumano National Park"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Praneiseo"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Sa ghalien"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Seihin Ikeda",
+   "role": "Finance Minister",
+   "variants": [
+    "Seihin Ikeda"
+   ]
+  },
+  {
+   "name": "Kakichi Takeuchi",
+   "role": "Vice Director of the Material Supplies Adjustment Bureau, Ministry of Commerce and Industry",
+   "variants": [
+    "Kakichi Takeuchi"
+   ]
+  },
+  {
+   "name": "Sotaro Ishiwata",
+   "role": "Finance Minister",
+   "variants": [
+    "Sotaro Ishiwata"
+   ]
+  },
+  {
+   "name": "M. R. Arick",
+   "role": "Assistant General Manager of the Oriental Consolidated Mining Company",
+   "variants": [
+    "M. R. Arick"
+   ]
+  },
+  {
+   "name": "Ivan B. White",
+   "role": "American Vice Consul at Yokohama",
+   "variants": [
+    "Ivan B. White"
+   ]
+  },
+  {
+   "name": "Takeo Aono",
+   "role": "Author of Japan After Gold Ban Removal",
+   "variants": [
+    "Takeo Aono"
+   ]
+  },
+  {
+   "name": "Juichi Tsushima",
+   "role": "Vice-Governor of the Bank of Japan",
+   "variants": [
+    "Juichi Tsushima"
+   ]
+  },
+  {
+   "name": "Hirota",
+   "role": "Former Japanese head of government, identified through the phrase “Hirota regime”",
+   "variants": [
+    "Hirota"
+   ]
+  },
+  {
+   "name": "W. P. McConaughy",
+   "role": "American consul at Osaka",
+   "variants": [
+    "W. P. Meconau hy"
+   ]
+  }
+ ],
+ "keywords": [
+  "gold exports",
+  "gold reserves",
+  "Bank of Japan",
+  "gold production",
+  "Manchukuo",
+  "Korea",
+  "Taiwan",
+  "gold mining",
+  "currency inflation",
+  "gold consumption",
+  "gold mobilization",
+  "foreign exchange"
+ ],
+ "subfiles": [
+  {
+   "title": "Report on Japan’s gold position and production",
+   "doc_type": "report, concluding section",
+   "start_page": 161,
+   "end_page": 213,
+   "continues_previous": true,
+   "date": "1939",
+   "from": "",
+   "to": "Department of State",
+   "about": "Assesses Japan’s capacity to sustain gold exports and expand production while maintaining currency reserves.",
+   "summary": "The report compares gold shipments with reserves taken over by the government and doubts that exports near their 1937–1938 levels can continue. It surveys gold output in Japan, Taiwan, Korea, and Manchukuo, including mining interests, foreign concessions, equipment shortages, and ambitious production targets. It describes subsidies, refining plans, restrictions on gold use, a census of private holdings, and possible compulsory sales. The closing pages list attachments, distribution, sources, and related reports.",
+   "keywords": [
+    "gold exports",
+    "gold reserves",
+    "gold mining",
+    "Bank of Japan",
+    "Manchukuo",
+    "gold policy"
+   ]
+  },
+  {
+   "title": "Attachment No. 1: Gold Exports",
+   "doc_type": "statistical attachment",
+   "start_page": 214,
+   "end_page": 228,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Compiles consular and published figures for Japanese gold shipments and earlier gold trade.",
+   "summary": "The attachment records monthly and declaration-date shipments from Kobe, Osaka, and Tokyo for 1937 through mid-February 1939. It adds Finance Department export series, a contemporary account of the government’s claimed profit on its first 1937 shipments, a list of bank shipments in 1930, and figures for gold moving into and out of Korea.",
+   "keywords": [
+    "gold exports",
+    "consular records",
+    "Kobe",
+    "Osaka",
+    "Tokyo",
+    "trade statistics"
+   ]
+  },
+  {
+   "title": "Attachment No. 2: Gold Consumption",
+   "doc_type": "statistical and regulatory attachment",
+   "start_page": 229,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Presents estimated uses and hoarding of gold and summarizes restrictions effective December 1937.",
+   "summary": "An index and table give estimated gold consumption by industrial and decorative use. A summary of the Finance Ministry order effective December 28, 1937, describes limits on gold manufacture, decorative uses, and required reporting by manufacturers.",
+   "keywords": [
+    "gold consumption",
+    "hoarding",
+    "manufacturing restrictions",
+    "Finance Ministry",
+    "1937"
+   ]
+  },
+  {
+   "title": "Attachment No. 3: Gold Reserves",
+   "doc_type": "statistical attachment",
+   "start_page": 232,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Begins a compilation of Bank of Japan reserve, purchase, and shipment figures.",
+   "summary": "The index introduces a wider attachment on reserves, revaluation, gold laws, and prices. The pages in this section compare Bank of Japan reserves with notes in circulation, tabulate historical reserves and bullion assets, and compare gold production and purchases. The final page notes a substantial discrepancy between official July 1937 shipment figures and Kobe consular records; the attachment continues beyond this section.",
+   "keywords": [
+    "Bank of Japan",
+    "gold reserves",
+    "bullion",
+    "gold purchases",
+    "gold shipments",
+    "statistical discrepancy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 6,
+  "pages": [
+   161,
+   240
+  ],
+  "pdf": "894.515 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Monetary System. Coinage. Currency. Mint. Bullion., January 13, 1930 - November 14, 1939 1149.pdf",
+  "seconds": 44.5,
+  "created": "2026-10-08 22:37:16",
+  "key": "japan-internal-affairs-894.515-financial-conditions-budget-4"
+ }
+}

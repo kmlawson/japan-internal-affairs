@@ -1,0 +1,878 @@
+{
+ "section_summary": "This section begins with wartime German accounts of patent contracts and technical information supplied to Japan. Postwar correspondence then seeks protection or accounting for American patent rights, licenses, bank deposits, and business interests in Japan and Manchuria. Most of the section is International General Electric material: a statement of its interests in Japan and Korea, followed by two extensive Japanese patent schedules.",
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "MASHINGTON 25, D. C.",
+    "Washington, D. C.",
+    "Washington, D. C"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "JAPAN",
+    "JAPAI",
+    "Jepanese"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Gerany",
+    "Germam"
+   ]
+  },
+  {
+   "name": "Berlin",
+   "variants": [
+    "Berlin",
+    "Berlim",
+    "Merlin"
+   ]
+  },
+  {
+   "name": "Gernrode",
+   "variants": [
+    "Germrode/H.",
+    "Gernrode/M."
+   ]
+  },
+  {
+   "name": "Bad Salzungen",
+   "variants": [
+    "Galzungen",
+    "Salsungen"
+   ]
+  },
+  {
+   "name": "Meiningen",
+   "variants": [
+    "Meinungen"
+   ]
+  },
+  {
+   "name": "Augsburg",
+   "variants": [
+    "Augsburg"
+   ]
+  },
+  {
+   "name": "Dessau",
+   "variants": [
+    "Dessau"
+   ]
+  },
+  {
+   "name": "Munich",
+   "variants": [
+    "Munich"
+   ]
+  },
+  {
+   "name": "Stuttgart",
+   "variants": [
+    "Stuttgart"
+   ]
+  },
+  {
+   "name": "Kiel",
+   "variants": [
+    "Kiel"
+   ]
+  },
+  {
+   "name": "Jena",
+   "variants": [
+    "Jena"
+   ]
+  },
+  {
+   "name": "Gotha",
+   "variants": [
+    "Gotha"
+   ]
+  },
+  {
+   "name": "Essen",
+   "variants": [
+    "Essen"
+   ]
+  },
+  {
+   "name": "Leipzig",
+   "variants": [
+    "Leipzig"
+   ]
+  },
+  {
+   "name": "Gliwice",
+   "variants": [
+    "Gliewitz"
+   ]
+  },
+  {
+   "name": "Wrocław",
+   "variants": [
+    "Breslau"
+   ]
+  },
+  {
+   "name": "Grafenstaden",
+   "variants": [
+    "Grafenstaden"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEW YORK 18, N. Y.",
+    "NEW YORK 22, N. Y.",
+    "Now York 18, New York"
+   ]
+  },
+  {
+   "name": "Amsterdam",
+   "variants": [
+    "Amsterdam"
+   ]
+  },
+  {
+   "name": "Erie, Pennsylvania",
+   "variants": [
+    "Erie, Penasylvania",
+    "Erie, Penmsylvania"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Takye",
+    "Tekyo"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manehuria"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "Chinese Government"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "KOREA",
+    "Korea",
+    "CHOSEN",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki",
+    "∴ asaki",
+    "Kawasaki-shi",
+    "Kawasaki·shi"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa-ken",
+    "Kanagawa ken"
+   ]
+  },
+  {
+   "name": "Ginza",
+   "variants": [
+    "Ginza"
+   ]
+  },
+  {
+   "name": "Kyobashi",
+   "variants": [
+    "Kyobashi-Ku"
+   ]
+  },
+  {
+   "name": "Horikawa-chō",
+   "variants": [
+    "Horikawa-cho"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohama-shi"
+   ]
+  },
+  {
+   "name": "Tsurumi",
+   "variants": [
+    "Tsurumi"
+   ]
+  },
+  {
+   "name": "Yanagimachi",
+   "variants": [
+    "Yanagi machi"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-ken"
+   ]
+  },
+  {
+   "name": "Fuji",
+   "variants": [
+    "Fuji-machi",
+    "Fuji"
+   ]
+  },
+  {
+   "name": "Ibo District",
+   "variants": [
+    "Ibo-gun"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo-ken"
+   ]
+  },
+  {
+   "name": "Yobe",
+   "variants": [
+    "Yobe"
+   ]
+  },
+  {
+   "name": "Aboshi",
+   "variants": [
+    "Aboshi"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Miye-ken"
+   ]
+  },
+  {
+   "name": "Mie District",
+   "variants": [
+    "Miye-gun"
+   ]
+  },
+  {
+   "name": "Fuchū",
+   "variants": [
+    "Fuchu-machi",
+    "Fuchu"
+   ]
+  },
+  {
+   "name": "Komukai",
+   "variants": [
+    "Komukai"
+   ]
+  },
+  {
+   "name": "Tsukagoshi",
+   "variants": [
+    "Tsukagoshi"
+   ]
+  },
+  {
+   "name": "Kawaguchi",
+   "variants": [
+    "Kawaguchi-shi",
+    "Kawaguchi"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama-ken"
+   ]
+  },
+  {
+   "name": "Ōhito",
+   "variants": [
+    "Ohito-machi",
+    "Ohito"
+   ]
+  },
+  {
+   "name": "Kawagishi",
+   "variants": [
+    "Kawagishi"
+   ]
+  },
+  {
+   "name": "Suwa District",
+   "variants": [
+    "Suwa-gun"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano-ken"
+   ]
+  },
+  {
+   "name": "Kamo",
+   "variants": [
+    "Kamo-machi",
+    "Kamo"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata-ken"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoyashi"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi-ken"
+   ]
+  },
+  {
+   "name": "Kariya",
+   "variants": [
+    "Kariya"
+   ]
+  },
+  {
+   "name": "Hekikai District",
+   "variants": [
+    "Hekikai-gun"
+   ]
+  },
+  {
+   "name": "Ōsaki",
+   "variants": [
+    "Osaki"
+   ]
+  },
+  {
+   "name": "Ōyodo",
+   "variants": [
+    "Oyodo-ku"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Tondabayashi",
+   "variants": [
+    "Tondabayashi-machi",
+    "Tondabayashi"
+   ]
+  },
+  {
+   "name": "Kokura",
+   "variants": [
+    "Kokura-shi",
+    "Kokura"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka-ken"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "J. H. Hilldring",
+   "role": "Major General; Director, War Department Civil Affairs Division",
+   "variants": [
+    "J. H. HILLDRING"
+   ]
+  },
+  {
+   "name": "Rex E. Greaves",
+   "role": "Captain, GSC; assistant executive",
+   "variants": [
+    "REX E. GREAVES"
+   ]
+  },
+  {
+   "name": "W. L. Clayton",
+   "role": "Assistant Secretary",
+   "variants": [
+    "W. L. CLAYTON"
+   ]
+  },
+  {
+   "name": "Gotthold Baatz",
+   "role": "Engineer; German Patent Office member and Japan Committee patent expert",
+   "variants": [
+    "Gotthold Baats",
+    "BAATZ"
+   ]
+  },
+  {
+   "name": "Captain Brunner",
+   "role": "Recipient of Baatz’s letter",
+   "variants": [
+    "Capt. BRUNNER",
+    "Capt. Brunner",
+    "Mr. BRUNNER"
+   ]
+  },
+  {
+   "name": "Scharr",
+   "role": "Former Reichsband director; Japan Committee financial and economic expert",
+   "variants": [
+    "SCHARR",
+    "SCARR"
+   ]
+  },
+  {
+   "name": "Lengner",
+   "role": "Reserve corvette captain and patent lawyer; Japan Committee military expert",
+   "variants": [
+    "LENGNER"
+   ]
+  },
+  {
+   "name": "Luuk",
+   "role": "Japan Committee industry representative",
+   "variants": [
+    "LUUK",
+    "Luuk"
+   ]
+  },
+  {
+   "name": "Niemetz",
+   "role": "Ministerialrat in the German Ministry of Finance",
+   "variants": [
+    "NIEMETZ"
+   ]
+  },
+  {
+   "name": "Behrend",
+   "role": "Geheimrat in the German Foreign Office",
+   "variants": [
+    "BEHREND"
+   ]
+  },
+  {
+   "name": "Otani",
+   "role": "Japanese major general and negotiator",
+   "variants": [
+    "OTANI"
+   ]
+  },
+  {
+   "name": "Kojima",
+   "role": "Japanese rear admiral and negotiator",
+   "variants": [
+    "KOJIMA"
+   ]
+  },
+  {
+   "name": "Komatsu",
+   "role": "Japanese colonel and negotiator",
+   "variants": [
+    "KOUATSU"
+   ]
+  },
+  {
+   "name": "Ishige",
+   "role": "Japanese colonel and negotiator",
+   "variants": [
+    "ISHIGE"
+   ]
+  },
+  {
+   "name": "Ikeda",
+   "role": "Japanese commander and administration officer",
+   "variants": [
+    "IKEDA"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "role": "Japanese embassy secretary",
+   "variants": [
+    "SAKAI"
+   ]
+  },
+  {
+   "name": "Sir Frederic Handley Page",
+   "role": "Reference supplied by Baatz",
+   "variants": [
+    "Sir Frederic Handley Page"
+   ]
+  },
+  {
+   "name": "Walter Bleisheim",
+   "role": "Patent lawyer; reference supplied by Baatz",
+   "variants": [
+    "Walter Bleisheim"
+   ]
+  },
+  {
+   "name": "Veenendaal",
+   "role": "Director; reference supplied by Baatz",
+   "variants": [
+    "Director Veenendaal"
+   ]
+  },
+  {
+   "name": "Oskar Rosalsky",
+   "role": "Signatory of the Junkers patents and licenses account",
+   "variants": [
+    "Oskar Rosalsky"
+   ]
+  },
+  {
+   "name": "E. W. Scarlett",
+   "role": "Northern Equipment Company correspondent",
+   "variants": [
+    "E. W. Searlett",
+    "Mr. Searlett",
+    "Erm. Denlatt"
+   ]
+  },
+  {
+   "name": "Benedict N. English",
+   "role": "Assistant to the State Department Legal Adviser",
+   "variants": [
+    "Benediet N. English"
+   ]
+  },
+  {
+   "name": "Warren I. Lee",
+   "role": "Vice President, La Mont Corporation",
+   "variants": [
+    "Warren I. Lee",
+    "Mr. Lee"
+   ]
+  },
+  {
+   "name": "Roswell U. Whitman",
+   "role": "Acting Chief, Division of Japanese and Korean Economic Affairs",
+   "variants": [
+    "Roswell U. Whitman"
+   ]
+  },
+  {
+   "name": "Yao Nagatomi",
+   "role": "Tokyo-Shibaura shareholder",
+   "variants": [
+    "Mrs. Yao Nagatomi"
+   ]
+  },
+  {
+   "name": "Inmei Kawamura",
+   "role": "Tokyo-Shibaura shareholder",
+   "variants": [
+    "Mr. Inmei Kawamura"
+   ]
+  },
+  {
+   "name": "A. G. Brow",
+   "role": "Assistant to the President, International General Electric Company; signature uncertain",
+   "variants": [
+    "AgBrow"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese patents",
+  "patent contracts",
+  "German-Japanese wartime technology transfer",
+  "intellectual property",
+  "industrial licenses",
+  "American property claims",
+  "Allied occupation",
+  "Tokyo-Shibaura Electric",
+  "International General Electric",
+  "wartime enemy property",
+  "patent schedules"
+ ],
+ "subfiles": [
+  {
+   "title": "Copies of letters on patent contracts with Japan",
+   "doc_type": "memorandum and cover sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1945-10-26",
+   "from": "J. H. Hilldring, War Department Civil Affairs Division",
+   "to": "Directors of European and Far Eastern Affairs, Department of State",
+   "about": "Forwards letters concerning German patent contracts with Japan.",
+   "summary": "Forwards attached patent-contract material at the suggestion of the Office of Military Government for Germany.",
+   "keywords": [
+    "patent contracts",
+    "Japan",
+    "Germany",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Patent Contracts with Japan",
+   "doc_type": "letter",
+   "start_page": 2,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "",
+   "from": "Gotthold Baatz",
+   "to": "Captain Brunner",
+   "about": "Explains the German Japan Committee’s handling of wartime patent and technical-transfer agreements.",
+   "summary": "Baatz identifies committee members and Japanese negotiators, describes pricing and production disputes, and lists aircraft, weapons, electronics and manufacturing technology sought by Japan. He suggests ways to locate fuller records and offers his assistance.",
+   "keywords": [
+    "Japan Committee",
+    "patent contracts",
+    "German industry",
+    "military technology",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Junkers licenses and patents department",
+   "doc_type": "report or letter",
+   "start_page": 5,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1945-09-12",
+   "from": "Oskar Rosalsky",
+   "to": "",
+   "about": "Describes the organization and duties of the Junkers aircraft and engine works’ patent and licensing department.",
+   "summary": "Rosalsky outlines patent examination, protection, administration, licensing and technical reporting across Junkers’ engine, aircraft and special-fields sections. He says a reduced staff continues patent work after plant operations ceased.",
+   "keywords": [
+    "Junkers",
+    "patent administration",
+    "licenses",
+    "aircraft engines"
+   ]
+  },
+  {
+   "title": "Northern Equipment Company inquiry about Japanese patents and bank deposit",
+   "doc_type": "letter",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1946-05-18",
+   "from": "Northern Equipment Company",
+   "to": "Department of State",
+   "about": "Requests an accounting of wartime use of its Japanese patents and a Tokyo bank balance.",
+   "summary": "Asks about Japanese manufacturing permits under four patents and funds held at the 100th Bank’s Hibiya branch.",
+   "keywords": [
+    "Northern Equipment Company",
+    "Japanese patents",
+    "manufacturing permits",
+    "bank deposit"
+   ]
+  },
+  {
+   "title": "Instruction to investigate Northern Equipment Company patent permits",
+   "doc_type": "instruction",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1946-09-18",
+   "from": "Acting Secretary of State",
+   "to": "United States Political Adviser to the Supreme Commander for the Allied Powers, Tokyo",
+   "about": "Requests investigation and protection of Northern Equipment Company’s Japanese patent interests.",
+   "summary": "Directs the Political Adviser to investigate alleged wartime permits and report findings for the company.",
+   "keywords": [
+    "patent investigation",
+    "Northern Equipment Company",
+    "SCAP",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Reply to Northern Equipment Company",
+   "doc_type": "letter",
+   "start_page": 9,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1946-09-18",
+   "from": "Benedict N. English, for the Acting Secretary of State",
+   "to": "E. W. Scarlett, Northern Equipment Company",
+   "about": "Seeks sworn company and bank-deposit information while arranging an investigation in Japan.",
+   "summary": "Requests sworn statements on the company’s ownership, patent claim and Tokyo bank deposit. Reports that the Political Adviser has been asked to investigate.",
+   "keywords": [
+    "Northern Equipment Company",
+    "property protection",
+    "bank deposits",
+    "patent claim"
+   ]
+  },
+  {
+   "title": "La Mont Corporation request to protect Japanese patent and license rights",
+   "doc_type": "letter",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1946-06-28",
+   "from": "Warren I. Lee, La Mont Corporation",
+   "to": "Department of State, Japanese and Korean Economic Division",
+   "about": "Asks how to send an agent to investigate suspected boiler-patent infringement in Japan and Manchuria.",
+   "summary": "Seeks licensing guidance to investigate infringement, protect patents and agreements, and restore markets.",
+   "keywords": [
+    "La Mont Corporation",
+    "boiler patents",
+    "infringement",
+    "Japan",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Reply to La Mont Corporation on business licenses and patent protection",
+   "doc_type": "letter",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1946-07-19",
+   "from": "Roswell U. Whitman, Department of State",
+   "to": "Warren I. Lee, La Mont Corporation",
+   "about": "Explains current restrictions on business activity in occupied Japan and the status of Manchuria.",
+   "summary": "Says Treasury licenses are unavailable for Japan; SCAP is protecting Allied interests. Manchuria requires no special license.",
+   "keywords": [
+    "business licenses",
+    "patent rights",
+    "SCAP",
+    "Japan",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "International General Electric interests in Japan and Korea",
+   "doc_type": "letter",
+   "start_page": 13,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "1946-07-17",
+   "from": "International General Electric Company",
+   "to": "Secretary of State",
+   "about": "Asserts patent, trademark, shareholding and property interests affected by wartime Japanese measures.",
+   "summary": "International General Electric claims assignment or licensing rights in patents registered through Japanese partners and an interest in Osram patents and trademarks. It details its Tokyo-Shibaura shares, their wartime sale, and related company interests. It asks the Department to safeguard those interests and alert American representatives before property is disposed of.",
+   "keywords": [
+    "International General Electric",
+    "Tokyo-Shibaura",
+    "Osram",
+    "patent assignments",
+    "enemy property",
+    "shareholdings"
+   ]
+  },
+  {
+   "title": "Interest in Companies in which Enemy Interests were known to exist: Japan and Korea",
+   "doc_type": "enclosed statement and property schedule",
+   "start_page": 19,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1946-07-12",
+   "from": "International General Electric Company",
+   "to": "Secretary of State",
+   "about": "Details patent rights, Tokyo-Shibaura holdings, subsidiaries and principal works in Japan and Korea.",
+   "summary": "The statement explains claimed rights to General Electric and Osram patents, applications and trademarks, plus International General Electric’s former Tokyo-Shibaura voting and financial interests. It lists Japanese and Korean companies linked to Tokyo-Shibaura and schedules its principal works, locations and products.",
+   "keywords": [
+    "International General Electric",
+    "Tokyo-Shibaura",
+    "Japan",
+    "Korea",
+    "subsidiaries",
+    "plants",
+    "patents"
+   ]
+  },
+  {
+   "title": "Japan: Patents on G.E. Inventions Assigned to Shibaura Co.",
+   "doc_type": "patent schedule",
+   "start_page": 25,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "",
+   "from": "International General Electric Company",
+   "to": "Secretary of State",
+   "about": "Lists Japanese patents on General Electric inventions assigned to Shibaura.",
+   "summary": "Forty-one pages tabulate patent numbers, publication and grant dates, invention titles, and General Electric docket numbers. The inventions span electrical power and control, machinery, refrigeration, materials, communications and other technologies.",
+   "keywords": [
+    "Japanese patents",
+    "General Electric",
+    "Shibaura",
+    "patent numbers",
+    "invention schedule"
+   ]
+  },
+  {
+   "title": "Japan: Patents on G.E. Inventions Assigned to Tokyo Co.",
+   "doc_type": "patent schedule",
+   "start_page": 66,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "",
+   "from": "International General Electric Company",
+   "to": "Secretary of State",
+   "about": "Lists Japanese patents on General Electric inventions assigned to Tokyo Electric Company.",
+   "summary": "The schedule tabulates patent numbers, dates, titles and docket numbers, chiefly for lamps, electric discharge devices, radio, signaling, optics and related equipment. It continues beyond page 79.",
+   "keywords": [
+    "Japanese patents",
+    "General Electric",
+    "Tokyo Electric",
+    "lamp technology",
+    "radio",
+    "patent schedule"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 5,
+  "pages": [
+   1,
+   79
+  ],
+  "pdf": "894.542 Intellectual And Industrial Property. Applications For Patents And Copyrights, Registration Of Particular Trade Marks, And Contests Arising Therefrom Are Arranged Alphabetically Under The Respective Numbers., Patents. ** Country In  1656.pdf",
+  "seconds": 59.7,
+  "created": "2026-10-08 22:46:39",
+  "key": "japan-internal-affairs-894.542-intellectual-and-industrial-4"
+ }
+}

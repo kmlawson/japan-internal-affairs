@@ -1,0 +1,967 @@
+{
+ "section_summary": "The section begins with State Department correspondence about textile supplies, cotton imports, rayon terminology, and travel costs for a textile mission to Japan. Most pages contain the mission’s March 1946 report, which estimates Japan’s textile capacity and inventories, examines shortages and damaged machinery, and recommends controls on new machinery production. The report continues beyond page 309.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jaoan",
+    "Japem",
+    "Jatan",
+    "Jepan",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo",
+    "Tekye",
+    "Tokge"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "KOREA",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "SEOUL"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "U. S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D.C.",
+    "Washington, D. C.",
+    "WASHINGTON 25, D. C."
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York 7, N.Y.",
+    "NEW YORK 7, N. Y.",
+    "Now York 7, N.Y."
+   ]
+  },
+  {
+   "name": "North Bergen, New Jersey",
+   "variants": [
+    "North Bergen, New Jersey"
+   ]
+  },
+  {
+   "name": "Wilmington, Delaware",
+   "variants": [
+    "WILMINOTON.DELAWARE",
+    "Wilmington, Delaware"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "U.K.",
+    "United Kingdom"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "mstralia"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Middle East",
+   "variants": [
+    "Middle Eagt"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Csaka",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Minamata",
+   "variants": [
+    "Minamata"
+   ]
+  },
+  {
+   "name": "Asahikawa",
+   "variants": [
+    "asallikawa"
+   ]
+  },
+  {
+   "name": "Iwakuni",
+   "variants": [
+    "Iwakuni",
+    "Ivakrut"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Ishinomaki",
+   "variants": [
+    "Ichinomak1"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Inuyama",
+   "variants": [
+    "Inuyana"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "Shiga",
+    "Chiga"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima",
+    "Tolashima"
+   ]
+  },
+  {
+   "name": "Hofu",
+   "variants": [
+    "Hofu"
+   ]
+  },
+  {
+   "name": "Yatsushiro",
+   "variants": [
+    "Yatsushiro"
+   ]
+  },
+  {
+   "name": "Saijo",
+   "variants": [
+    "Saijo"
+   ]
+  },
+  {
+   "name": "Otake",
+   "variants": [
+    "Otake"
+   ]
+  },
+  {
+   "name": "Nobeoka",
+   "variants": [
+    "Nobecka"
+   ]
+  },
+  {
+   "name": "Fukuyama",
+   "variants": [
+    "Fuk-yena"
+   ]
+  },
+  {
+   "name": "Tsuruga",
+   "variants": [
+    "Teurmga"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "Ehime"
+   ]
+  },
+  {
+   "name": "Nishiki",
+   "variants": [
+    "Nishiki"
+   ]
+  },
+  {
+   "name": "Takahagi",
+   "variants": [
+    "Takahagi"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshiwa"
+   ]
+  },
+  {
+   "name": "Iwami",
+   "variants": [
+    "Iwami"
+   ]
+  },
+  {
+   "name": "Fuji",
+   "variants": [
+    "Fiji"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "Oita"
+   ]
+  },
+  {
+   "name": "Takasago",
+   "variants": [
+    "Takasago"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Gotsu",
+   "variants": [
+    "Gotsu"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "Oteu"
+   ]
+  },
+  {
+   "name": "Numazu",
+   "variants": [
+    "Numasu"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aicihi"
+   ]
+  },
+  {
+   "name": "Uji",
+   "variants": [
+    "Uji"
+   ]
+  },
+  {
+   "name": "Okazaki",
+   "variants": [
+    "Ckazaki"
+   ]
+  },
+  {
+   "name": "Maebashi",
+   "variants": [
+    "Maebashi"
+   ]
+  },
+  {
+   "name": "Sakoshi",
+   "variants": [
+    "Sakoshi"
+   ]
+  },
+  {
+   "name": "Katada",
+   "variants": [
+    "Katada"
+   ]
+  },
+  {
+   "name": "Yoshiwara",
+   "variants": [
+    "Yochiwara"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "George Atcheson Jr. Benninghoff",
+   "role": "Acting political adviser in Korea",
+   "variants": [
+    "BENNINGHOFF"
+   ]
+  },
+  {
+   "name": "George M. Bunce",
+   "role": "Recipient of telegrams through the acting political adviser",
+   "variants": [
+    "BUNCE",
+    "Bunce"
+   ]
+  },
+  {
+   "name": "Miss Hayes",
+   "role": "Foreign Service clerk",
+   "variants": [
+    "Miss Hayes"
+   ]
+  },
+  {
+   "name": "Bynner",
+   "role": "State Department telegram signatory",
+   "variants": [
+    "Bynner"
+   ]
+  },
+  {
+   "name": "Edwin M. Martin",
+   "role": "Chief, Division of Japanese and Korean Economic Affairs",
+   "variants": [
+    "Mr.E. M. Martin",
+    "E.M. Martin",
+    "Edwin S. Martin",
+    "Edwin N. Martin",
+    "Edwin . Martin",
+    "Dawin M. Martia",
+    "Mmin M. Martin",
+    "Mr. Martin",
+    "Martin"
+   ]
+  },
+  {
+   "name": "Dunkel",
+   "role": "Clearing official",
+   "variants": [
+    "Dunkel"
+   ]
+  },
+  {
+   "name": "Fred Taylor",
+   "role": "Textile Mission chairman; agricultural commissioner",
+   "variants": [
+    "FRED TAYLOR",
+    "Fred Taylor"
+   ]
+  },
+  {
+   "name": "James F. Byrnes",
+   "role": "Secretary of State",
+   "variants": [
+    "Byrnes",
+    "Jamee Fo. Byrnes"
+   ]
+  },
+  {
+   "name": "William Reis",
+   "role": "William Reis & Co. correspondent",
+   "variants": [
+    "W. William Reis",
+    "William Reis"
+   ]
+  },
+  {
+   "name": "Jesse J. Frankel",
+   "role": "Lieutenant colonel; D. Paradis Company correspondent",
+   "variants": [
+    "Jesse J. Frankel",
+    "Calesel Frankel"
+   ]
+  },
+  {
+   "name": "Isabelle Ward",
+   "role": "Purported addressee whom Martin says is not employed in his division",
+   "variants": [
+    "Isabelle Ward",
+    "Ieabelle Mard"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Mr. Thorp",
+    "Willard L. Thorp"
+   ]
+  },
+  {
+   "name": "Clinton P. Anderson",
+   "role": "Secretary of Agriculture",
+   "variants": [
+    "inton . Anderon"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur",
+    "Hacnrtnur",
+    "Douglas MacArthur"
+   ]
+  },
+  {
+   "name": "H. L. Harriman",
+   "role": "Colonel in Tokyo",
+   "variants": [
+    "H.Le Harrimen"
+   ]
+  },
+  {
+   "name": "Sir Girja Shankar Bajpai",
+   "role": "Agent General for India",
+   "variants": [
+    "sir airge sajpe:",
+    "Sir inje majpai"
+   ]
+  },
+  {
+   "name": "H. Wickliffe Rose",
+   "role": "American Viscose Corporation representative and Textile Mission member",
+   "variants": [
+    "H. Wickliffe Rose",
+    "H. Wiekliffe Rose",
+    "1. Wiekliffe Bese",
+    "3. Wickliffe Kose",
+    "Mr. Rese"
+   ]
+  },
+  {
+   "name": "I. S. Tate",
+   "role": "Major, SCAP Textile Branch",
+   "variants": [
+    "I. S. Tate",
+    "Majer Tates",
+    "Majer Take"
+   ]
+  },
+  {
+   "name": "Ruth Petersen",
+   "role": "Copy recipient on the letter to Major Tate",
+   "variants": [
+    "Miss Math Pet ersen",
+    "Miss Math Petersen"
+   ]
+  },
+  {
+   "name": "Frank S. Winterbottom",
+   "role": "British delegate and Textile Mission observer",
+   "variants": [
+    "Frank S. Winterbottom",
+    "Frank S. Wintorbottom",
+    "Preak S. Wisterbettem"
+   ]
+  },
+  {
+   "name": "Bharat Ram",
+   "role": "Indian delegate and Textile Mission observer",
+   "variants": [
+    "Bharat Ran",
+    "Bherat Ram",
+    "Mharet B"
+   ]
+  },
+  {
+   "name": "M. D. Barekh",
+   "role": "Indian delegate named in travel-cost letter",
+   "variants": [
+    "M. D. Barekh",
+    "N. D. Barekh"
+   ]
+  },
+  {
+   "name": "C. C. Green",
+   "role": "Major, Army Service Forces",
+   "variants": [
+    "C. CA GREEN"
+   ]
+  },
+  {
+   "name": "Harry L. Bailey",
+   "role": "United States Textile Mission member; former Wellington-Sears chairman",
+   "variants": [
+    "Harry L. Bailey"
+   ]
+  },
+  {
+   "name": "Frank E. Rowe",
+   "role": "United States Textile Mission member",
+   "variants": [
+    "Frank E. Rowe"
+   ]
+  },
+  {
+   "name": "Stanley Nehmer",
+   "role": "Textile Mission executive secretary; State Department official",
+   "variants": [
+    "Stenley Nehmer"
+   ]
+  },
+  {
+   "name": "S. Z. Yang",
+   "role": "Chinese Textile Mission observer",
+   "variants": [
+    "S. Z.Yang"
+   ]
+  },
+  {
+   "name": "Andrew Young",
+   "role": "Chinese Textile Mission observer",
+   "variants": [
+    "Androw Young"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese textile industry",
+  "Textile Mission",
+  "cotton imports",
+  "cotton spinning",
+  "rayon",
+  "woolen and worsted textiles",
+  "silk",
+  "textile exports",
+  "machinery reparations",
+  "raw-material shortages",
+  "SCAP",
+  "postwar reconstruction"
+ ],
+ "subfiles": [
+  {
+   "title": "Closing page of earlier correspondence",
+   "doc_type": "letter fragment",
+   "start_page": 234,
+   "end_page": 234,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The surviving page closes a letter whose subject is on preceding pages.",
+   "summary": "Only a closing and filing marks are legible.",
+   "keywords": [
+    "correspondence",
+    "file fragment"
+   ]
+  },
+  {
+   "title": "Expenses and supplies for Bunce’s staff",
+   "doc_type": "telegram",
+   "start_page": 235,
+   "end_page": 235,
+   "continues_previous": false,
+   "date": "1946-02-19",
+   "from": "Department of State",
+   "to": "Benninghoff, for Bunce",
+   "about": "Sets payment, per diem, transportation, and supply arrangements for Bunce’s staff in Korea.",
+   "summary": "Explains salary and per diem charges, meal and lodging deductions, equipment shipments, and Miss Hayes’s possible assistance.",
+   "keywords": [
+    "Korea",
+    "staff expenses",
+    "per diem",
+    "supplies"
+   ]
+  },
+  {
+   "title": "Fred Taylor’s travel authorization",
+   "doc_type": "telegram",
+   "start_page": 236,
+   "end_page": 236,
+   "continues_previous": false,
+   "date": "1946-02-19",
+   "from": "James F. Byrnes",
+   "to": "Fred Taylor, Textile Mission, Tokyo",
+   "about": "Authorizes Taylor to investigate the cotton industry in China and Manchuria after his Japan mission.",
+   "summary": "Confirms the February 8 travel order and specifies the expense account.",
+   "keywords": [
+    "travel orders",
+    "cotton",
+    "China",
+    "Manchuria"
+   ]
+  },
+  {
+   "title": "Korean patents and Japanese business property",
+   "doc_type": "telegram",
+   "start_page": 237,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1946-02-20",
+   "from": "Department of State",
+   "to": "Benninghoff, for Bunce",
+   "about": "Requests views on Korean patent and trademark law and the disposition of Japanese business property.",
+   "summary": "The Department seeks background on ownership and concentration of industrial and commercial control in Korea.",
+   "keywords": [
+    "Korea",
+    "patents",
+    "trademarks",
+    "Japanese property"
+   ]
+  },
+  {
+   "title": "Reply on Japanese textile waste",
+   "doc_type": "letter",
+   "start_page": 238,
+   "end_page": 238,
+   "continues_previous": false,
+   "date": "1946-03",
+   "from": "Edwin M. Martin",
+   "to": "William Reis",
+   "about": "Replies to Reis’s inquiry about buying textile waste in Japan.",
+   "summary": "No waste is currently available for export; future sales to the United States would go through the U.S. Commercial Company.",
+   "keywords": [
+    "textile waste",
+    "Japan",
+    "exports"
+   ]
+  },
+  {
+   "title": "Inquiry about stocks of textile waste",
+   "doc_type": "letter",
+   "start_page": 239,
+   "end_page": 239,
+   "continues_previous": false,
+   "date": "1946-03-19",
+   "from": "William Reis & Co.",
+   "to": "Secretary of State, attention E. M. Martin",
+   "about": "Asks whether occupation authorities have reported on Japanese stocks of textile waste.",
+   "summary": "Follows up on earlier correspondence about purchasing textile waste.",
+   "keywords": [
+    "textile waste",
+    "Japan",
+    "purchase inquiry"
+   ]
+  },
+  {
+   "title": "Embroidery machinery purchase inquiry",
+   "doc_type": "letter",
+   "start_page": 240,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1946-04-05",
+   "from": "Edwin M. Martin",
+   "to": "Jesse J. Frankel",
+   "about": "Redirects an inquiry about purchasing embroidery machinery from Japan.",
+   "summary": "Martin says Isabelle Ward is not in his division and forwards the inquiry to the Department of Commerce.",
+   "keywords": [
+    "embroidery machinery",
+    "Japan",
+    "trade inquiry"
+   ]
+  },
+  {
+   "title": "Suggested letter on Japanese cotton imports",
+   "doc_type": "memorandum",
+   "start_page": 241,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1946-03",
+   "from": "E. M. Martin",
+   "to": "Willard L. Thorp",
+   "about": "Submits a suggested letter to the Secretary of Agriculture on Japanese cotton imports.",
+   "summary": "Forwards the Department’s proposed position on cotton imports.",
+   "keywords": [
+    "cotton imports",
+    "Agriculture Department",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Thorp’s note on the cotton-import question",
+   "doc_type": "memorandum",
+   "start_page": 242,
+   "end_page": 242,
+   "continues_previous": false,
+   "date": "1946-03-19",
+   "from": "Willard L. Thorp",
+   "to": "E. M. Martin",
+   "about": "Suggests writing to the Department of Agriculture about the developing cotton-import issue.",
+   "summary": "Thorp warns that the matter may grow difficult to manage.",
+   "keywords": [
+    "cotton imports",
+    "Agriculture Department"
+   ]
+  },
+  {
+   "title": "State Department position on cotton for Japan",
+   "doc_type": "letter",
+   "start_page": 243,
+   "end_page": 243,
+   "continues_previous": false,
+   "date": "1946-04",
+   "from": "James F. Byrnes",
+   "to": "Clinton P. Anderson",
+   "about": "Explains why sources of Japan’s cotton imports require interagency and Allied consultation.",
+   "summary": "The initial plan relies on U.S. cotton, but Allied suppliers also seek access. Byrnes says MacArthur should not determine import sources alone and expects Far Eastern Commission review.",
+   "keywords": [
+    "cotton imports",
+    "Allied suppliers",
+    "MacArthur",
+    "Far Eastern Commission"
+   ]
+  },
+  {
+   "title": "Rayon definitions and Japanese industry reports",
+   "doc_type": "letter",
+   "start_page": 244,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1946-04-19",
+   "from": "H. Wickliffe Rose",
+   "to": "Edwin M. Martin",
+   "about": "Urges consistent rayon terminology in reports on Japan’s textile industry.",
+   "summary": "Rose explains that Japanese usage confuses rayon yarn with rayon generally, and asks Martin to circulate standard definitions.",
+   "keywords": [
+    "rayon",
+    "terminology",
+    "textile statistics"
+   ]
+  },
+  {
+   "title": "Copy of Rose’s letter to Major Tate",
+   "doc_type": "letter copy",
+   "start_page": 245,
+   "end_page": 245,
+   "continues_previous": false,
+   "date": "1946-04-19",
+   "from": "H. Wickliffe Rose",
+   "to": "Major I. S. Tate",
+   "about": "Sends standard rayon definitions to SCAP’s Textile Branch.",
+   "summary": "Rose promises a standards book and notes that other U.S. offices will receive the definitions.",
+   "keywords": [
+    "rayon",
+    "definitions",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Definitions of rayon terms",
+   "doc_type": "enclosure",
+   "start_page": 246,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "",
+   "from": "H. Wickliffe Rose",
+   "to": "E. M. Martin and Major I. S. Tate",
+   "about": "Defines fibre, rayon, rayon filament, rayon yarn, rayon staple, and spun rayon yarn.",
+   "summary": "A six-item terminology list distinguishes rayon products and their manufacture.",
+   "keywords": [
+    "rayon",
+    "fibre",
+    "yarn",
+    "definitions"
+   ]
+  },
+  {
+   "title": "Acknowledgment of rayon definitions",
+   "doc_type": "letter",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1946-05",
+   "from": "Edwin M. Martin",
+   "to": "H. Wickliffe Rose",
+   "about": "Acknowledges Rose’s corrected fibre definitions and letter to SCAP.",
+   "summary": "Martin says the material has been circulated to State Department staff and interested divisions.",
+   "keywords": [
+    "rayon",
+    "terminology",
+    "circulation"
+   ]
+  },
+  {
+   "title": "Reimbursement for foreign delegates’ air travel",
+   "doc_type": "letter",
+   "start_page": 248,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1946-04-24",
+   "from": "C. C. Green, Army Service Forces",
+   "to": "Department of State, Special War Problems Division",
+   "about": "Requests collection of $2,730 for three foreign textile delegates’ travel to Tokyo.",
+   "summary": "Lists Winterbottom, Bharat Ram, and Barekh and asks State to secure reimbursement from the British Government.",
+   "keywords": [
+    "Textile Mission",
+    "air transport",
+    "reimbursement"
+   ]
+  },
+  {
+   "title": "Duplicate of travel reimbursement letter",
+   "doc_type": "letter copy",
+   "start_page": 249,
+   "end_page": 250,
+   "continues_previous": false,
+   "date": "1946-04-24",
+   "from": "C. C. Green, Army Service Forces",
+   "to": "Department of State",
+   "about": "Duplicates the request for reimbursement of foreign delegates’ travel.",
+   "summary": "A degraded copy repeats the delegates’ names and travel route; page 250 is largely illegible.",
+   "keywords": [
+    "Textile Mission",
+    "travel costs",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Invitational travel orders for textile delegates",
+   "doc_type": "travel orders",
+   "start_page": 251,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1946-01-12",
+   "from": "War Department, Adjutant General’s Office",
+   "to": "Textile committee delegates",
+   "about": "Authorizes delegates’ travel to Tokyo to advise the Supreme Commander on textile facilities.",
+   "summary": "The damaged copy records invited travel by military air transport.",
+   "keywords": [
+    "travel orders",
+    "Tokyo",
+    "Textile Mission"
+   ]
+  },
+  {
+   "title": "Digest of the Textile Mission report",
+   "doc_type": "summary memorandum",
+   "start_page": 252,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "1946",
+   "from": "",
+   "to": "",
+   "about": "Summarizes the mission’s principal findings on Japanese textile capacity and shortages.",
+   "summary": "Covers cotton, rayon, wool, cloth stocks, machinery controls, and food-related labor shortages.",
+   "keywords": [
+    "Textile Mission",
+    "cotton",
+    "rayon",
+    "machinery"
+   ]
+  },
+  {
+   "title": "Routing note for Textile Mission report",
+   "doc_type": "file note",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Notes circulation of the Textile Mission report.",
+   "summary": "A short handwritten routing note, partly illegible.",
+   "keywords": [
+    "routing",
+    "Textile Mission"
+   ]
+  },
+  {
+   "title": "Report of Textile Mission to Japan, January–March 1946",
+   "doc_type": "report",
+   "start_page": 254,
+   "end_page": 309,
+   "continues_previous": false,
+   "date": "1946-03-31",
+   "from": "Fred Taylor, for the Textile Mission",
+   "to": "Douglas MacArthur, Supreme Commander for the Allied Powers",
+   "about": "Assesses Japan’s ability to produce textiles in 1946–47, especially cotton goods for export.",
+   "summary": "The mission reports severe wartime losses of spinning and weaving equipment, but expects imported cotton and repairs to raise output. It surveys rayon, wool, silk, flax, clothing inventories, raw-material needs, and the possible export surplus. Machinery manufacture is complicated by reparations and Japan’s war potential; the mission recommends strict SCAP control of new equipment until production levels are settled. Page 309 begins its discussion of mill supplies, and the report continues after this section.",
+   "keywords": [
+    "Japanese textile industry",
+    "cotton exports",
+    "rayon",
+    "wool",
+    "silk",
+    "cloth stocks",
+    "machinery",
+    "reparations",
+    "raw materials",
+    "SCAP"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 8,
+  "pages": [
+   234,
+   309
+  ],
+  "pdf": "894.655 Manufactures. Manufacturing., Japan, Textiles., May 23, 1945 - December 30, 1946 1554.pdf",
+  "seconds": 92.1,
+  "created": "2026-10-08 18:07:18",
+  "key": "japan-internal-affairs-894.655-manufactures-manufacturing-japan-5"
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "section_summary": "This section continues a statistical publication on Japanese banking, insurance, savings, securities, prices, government debt, and corporate capital. Most tables report monthly figures through November 1946; the final page gives printing and publication details dated January 1947.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "日本",
+    "日、本",
+    "本邦"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "東京",
+    "東　京",
+    "東京都",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "大阪",
+    "大　阪",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Ginza",
+   "variants": [
+    "銀座"
+   ]
+  },
+  {
+   "name": "Kyobashi",
+   "variants": [
+    "京橋區"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "日本橋區"
+   ]
+  },
+  {
+   "name": "Honishicho",
+   "variants": [
+    "本石町"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "滿洲",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "支那",
+    "chinese"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "篠原周輔",
+   "role": "Named in the publication colophon; precise responsibility is unclear in the OCR.",
+   "variants": [
+    "篠原周",
+    "輔"
+   ]
+  },
+  {
+   "name": "北川武之",
+   "role": "Named in the publication colophon; precise responsibility is unclear in the OCR.",
+   "variants": [
+    "北",
+    "川武之"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "banking statistics",
+  "deposits and loans",
+  "insurance",
+  "postal savings",
+  "securities markets",
+  "Tokyo prices",
+  "government bonds",
+  "short-term securities",
+  "corporate capital"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese financial and economic statistics, concluding tables and colophon",
+   "doc_type": "statistical publication",
+   "start_page": 192,
+   "end_page": 213,
+   "continues_previous": true,
+   "date": "1947-01-25",
+   "from": "Bank of Japan Statistics Bureau",
+   "to": "",
+   "about": "Monthly tables record the condition of Japanese financial institutions, markets, prices, public debt, and corporate capital.",
+   "summary": "The concluding pages tabulate assets and liabilities of banks, trust companies, insurers, credit cooperatives, and other financial institutions, along with postal and government savings. They also cover securities trading, Tokyo price indexes, government bond and short-term security issues, and corporate capital. Figures generally extend through November 1946. The colophon states that the publication was printed on January 20 and issued on January 25, 1947.",
+   "keywords": [
+    "financial statistics",
+    "banks",
+    "insurance",
+    "postal savings",
+    "securities",
+    "prices",
+    "government debt",
+    "corporate capital"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 6,
+  "pages": [
+   192,
+   213
+  ],
+  "pdf": "894.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Banks. Banking., February 18, 1947 - June 4, 1947 1574.pdf",
+  "seconds": 22.1,
+  "created": "2026-10-08 23:00:20",
+  "key": "japan-internal-affairs-894.516-financial-conditions-budget-6"
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "section_summary": "This section contains the end of an August 1946 issue, a complete September 1946 issue, and the beginning of an October 1946 issue of the Bank of Japan’s Financial Statistics Monthly. The tables track bank deposits and loans, securities, government bonds, capital, insurance, postal savings, and prices, chiefly through mid-1946. Publication details appear at the ends of the August and September issues.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "日本",
+    "本邦",
+    "Japan",
+    "Nippon",
+    "内地"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "東京",
+    "東京都",
+    "Tokyo",
+    "東京市場"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "大阪",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyobashi, Tokyo",
+   "variants": [
+    "京橋區",
+    "京機區"
+   ]
+  },
+  {
+   "name": "Ginza, Tokyo",
+   "variants": [
+    "銀座",
+    "銀座西"
+   ]
+  },
+  {
+   "name": "Nihonbashi, Tokyo",
+   "variants": [
+    "日本橋區"
+   ]
+  },
+  {
+   "name": "Honsekichō, Tokyo",
+   "variants": [
+    "本石町"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "滿洲",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "支那",
+    "chinese"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "北川武之輔",
+   "role": "Named in the publication details of the August and September issues",
+   "variants": [
+    "北川武之輔"
+   ]
+  },
+  {
+   "name": "原周一",
+   "role": "Named in the September issue’s printing and publication details",
+   "variants": [
+    "原周一"
+   ]
+  }
+ ],
+ "keywords": [
+  "Financial Statistics Monthly",
+  "Bank of Japan",
+  "bank deposits",
+  "bank loans",
+  "government bonds",
+  "debentures",
+  "capital",
+  "insurance",
+  "postal savings",
+  "stock exchange",
+  "price indexes"
+ ],
+ "subfiles": [
+  {
+   "title": "Financial Statistics Monthly, August 1946: concluding tables and publication details",
+   "doc_type": "statistical monthly",
+   "start_page": 70,
+   "end_page": 72,
+   "continues_previous": true,
+   "date": "1946-08",
+   "from": "Bank of Japan Statistics Bureau",
+   "to": "",
+   "about": "The concluding pages tabulate bond issues, redemptions, outstanding debt, and planned and paid-up capital.",
+   "summary": "Concluding tables cover several categories of bonds and debentures and corporate capital. The colophon gives August 1946 printing and publication dates.",
+   "keywords": [
+    "bonds",
+    "debentures",
+    "redemptions",
+    "capital",
+    "publication details"
+   ]
+  },
+  {
+   "title": "Financial Statistics Monthly, September 1946, Vol. 6",
+   "doc_type": "statistical monthly",
+   "start_page": 73,
+   "end_page": 107,
+   "continues_previous": false,
+   "date": "1946-09",
+   "from": "Bank of Japan Statistics Bureau",
+   "to": "",
+   "about": "The issue reports banking, securities, insurance, savings, debt, capital, and price statistics through July or August 1946.",
+   "summary": "The issue opens with contents and a graph of banknote circulation, deposits, and loans, followed by detailed tables for banks and other financial institutions. Later tables cover postal savings, the Deposit Bureau, securities trading, Tokyo prices, government and other bonds, and corporate capital. Its colophon records printing and publication in September 1946.",
+   "keywords": [
+    "banking statistics",
+    "financial institutions",
+    "insurance",
+    "postal savings",
+    "securities",
+    "government bonds",
+    "prices",
+    "capital"
+   ]
+  },
+  {
+   "title": "Financial Statistics Monthly, October 1946, Vol. 7: opening pages",
+   "doc_type": "statistical monthly",
+   "start_page": 108,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1946-10",
+   "from": "Bank of Japan Statistics Bureau",
+   "to": "",
+   "about": "The opening pages introduce the October issue and report Bank of Japan accounts and financial institution deposits and loans.",
+   "summary": "The cover, contents, and graph introduce the October issue. Its first tables give the Bank of Japan’s ten-day assets and liabilities and comparative figures for deposits and loans at financial institutions; the issue continues beyond this section.",
+   "keywords": [
+    "banknote circulation",
+    "Bank of Japan",
+    "assets",
+    "liabilities",
+    "deposits",
+    "loans"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 6,
+  "pages": [
+   70,
+   115
+  ],
+  "pdf": "894.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Banks. Banking., February 18, 1947 - June 4, 1947 1574.pdf",
+  "seconds": 26.8,
+  "created": "2026-10-08 22:58:43",
+  "key": "japan-internal-affairs-894.516-financial-conditions-budget-6"
+ }
+}

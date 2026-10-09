@@ -1,0 +1,1900 @@
+{
+ "section_summary": "This section concerns the reconstruction, control and export of Japanese textiles in early 1947. Industry representatives press for limits on cotton mills and textile machinery, while State Department and occupation officials address sales, allocation, payment and shipping to overseas buyers. It also records a Malayan purchasing mission’s complaint about SCAP trade administration and arrangements for Turkish and Siamese missions to visit Japan.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Jepanese",
+    "Jepanese",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "U.S.",
+    "USA"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK",
+    "New York",
+    "New York City",
+    "New York 7, N. Y.",
+    "New York 16, N. Y."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington",
+    "Washington, D. C.",
+    "Washington, D.C.",
+    "Weshington",
+    "Mashington"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TokYo",
+    "Tolyo",
+    "Tolgyo"
+   ]
+  },
+  {
+   "name": "Bangkok",
+   "variants": [
+    "Bangkok",
+    "BANGKOK",
+    "Dangkok"
+   ]
+  },
+  {
+   "name": "Siam (Thailand)",
+   "variants": [
+    "Siam",
+    "Slam",
+    "Sinm"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "Yemen",
+   "variants": [
+    "Yemen"
+   ]
+  },
+  {
+   "name": "Sana'a",
+   "variants": [
+    "Sana'a"
+   ]
+  },
+  {
+   "name": "Jeddah",
+   "variants": [
+    "Jidda"
+   ]
+  },
+  {
+   "name": "Cairo",
+   "variants": [
+    "Cairo"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Aden",
+   "variants": [
+    "Aden"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "variants": [
+    "Turkey",
+    "TURKYSH",
+    "Turkish"
+   ]
+  },
+  {
+   "name": "Ankara",
+   "variants": [
+    "Ankara"
+   ]
+  },
+  {
+   "name": "Istanbul",
+   "variants": [
+    "Istanbul",
+    "Istanbal"
+   ]
+  },
+  {
+   "name": "Malaya",
+   "variants": [
+    "Malaya",
+    "Melaye",
+    "Maleya",
+    "Laleya"
+   ]
+  },
+  {
+   "name": "British North Borneo",
+   "variants": [
+    "British North Borneo",
+    "British Nor th Borneo",
+    "British Lorth Soraso"
+   ]
+  },
+  {
+   "name": "Sarawak",
+   "variants": [
+    "Sarawak",
+    "Sarewak"
+   ]
+  },
+  {
+   "name": "Brunei",
+   "variants": [
+    "Brunei"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "lonlon"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Indie"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Bradford",
+   "variants": [
+    "Bradford"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "New Delhi",
+   "variants": [
+    "New Delhi"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Wilmington, Delaware",
+   "variants": [
+    "WILMINGTON",
+    "Wilmington"
+   ]
+  },
+  {
+   "name": "Hopedale, Massachusetts",
+   "variants": [
+    "HOPEDALE",
+    "Hopedale"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philippime",
+    "Philippine"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco",
+    "San Franoisoo"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Ereğli, Turkey",
+   "variants": [
+    "Eregli",
+    "Erg11"
+   ]
+  },
+  {
+   "name": "Adapazarı, Turkey",
+   "variants": [
+    "Adapasar"
+   ]
+  },
+  {
+   "name": "Aydın, Turkey",
+   "variants": [
+    "Aydin"
+   ]
+  },
+  {
+   "name": "Thessaloniki, Greece",
+   "variants": [
+    "Saloniea"
+   ]
+  },
+  {
+   "name": "Greece",
+   "variants": [
+    "Greece"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Eastern",
+    "Far Eastern",
+    "Far Mastern"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "P. S. Howe Jr.",
+   "role": "Chairman of the Board, Cotton-Textile Institute",
+   "variants": [
+    "P. S. HOWE.Jr."
+   ]
+  },
+  {
+   "name": "C. T. Murchison",
+   "role": "President, Cotton-Textile Institute",
+   "variants": [
+    "C. T. MURCHISON"
+   ]
+  },
+  {
+   "name": "H. P. Claussen",
+   "role": "Vice President, Cotton-Textile Institute",
+   "variants": [
+    "H. P. CLAUSSEN"
+   ]
+  },
+  {
+   "name": "W. S. Montgomery",
+   "role": "Vice President, Cotton-Textile Institute",
+   "variants": [
+    "W. S. MONTOOMERY"
+   ]
+  },
+  {
+   "name": "William L. Clayton",
+   "role": "Under Secretary of State for Economic Affairs",
+   "variants": [
+    "William L. Clayton",
+    "Mr. Clayton",
+    "Mr. Cloyton",
+    "Hr. Gayton"
+   ]
+  },
+  {
+   "name": "William C. Planz",
+   "role": "Chairman, Machinery Committee, Cotton-Textile Institute",
+   "variants": [
+    "William C. Planz",
+    "Mr. Planz",
+    "Mr. Plans",
+    "Mr. Plens",
+    "Mr. Plamz"
+   ]
+  },
+  {
+   "name": "Edwin W. Pauley",
+   "role": "Ambassador",
+   "variants": [
+    "Ambassador Pauley"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General; Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "Assistant Secretary of State for Economic Affairs",
+   "variants": [
+    "Willard L. Therp",
+    "Willkam L. Thorp",
+    "Mr. Thorpe",
+    "Mr. William L. Thorpe"
+   ]
+  },
+  {
+   "name": "Edwin M. Martin",
+   "role": "Chief, Division of Japanese and Korean Economic Affairs",
+   "variants": [
+    "Edwin M. Martin",
+    "Edwin N. Martin",
+    "Mr. Edwin Martin",
+    "Mr. Martin"
+   ]
+  },
+  {
+   "name": "Hamilton Robinson",
+   "role": "Director, Office of Economic Security Policy",
+   "variants": [
+    "Hamilton Robinson",
+    "Mr. Robinson"
+   ]
+  },
+  {
+   "name": "Arthur Z. Gardiner",
+   "role": "Vice President, U.S. Commercial Company",
+   "variants": [
+    "Arthur Z. Gardiner",
+    "Arthur Gardiner",
+    "Mr. Gardiner"
+   ]
+  },
+  {
+   "name": "Yahya bin Mohammed bin Hamid ed Din",
+   "role": "Imam of Yemen",
+   "variants": [
+    "Imam Yahya bin Mohammed bin Hamid ed Din"
+   ]
+  },
+  {
+   "name": "Stanton",
+   "role": "Sender of U.S. telegrams from Bangkok",
+   "variants": [
+    "STANTON"
+   ]
+  },
+  {
+   "name": "Burton H. Simon",
+   "role": "President, Simone Mercantile Corporation",
+   "variants": [
+    "Burton H. Simon",
+    "Mr. Simon"
+   ]
+  },
+  {
+   "name": "H. Wickliffe Rose",
+   "role": "American Viscose Corporation; Textile Mission member and report author",
+   "variants": [
+    "H. Wickliffe Rose",
+    "H. WICKLIFFE ROSE",
+    "Mr. Rose",
+    "Mr. Eose"
+   ]
+  },
+  {
+   "name": "Julian S. Jacobs",
+   "role": "Director, Department of Publications, Textile Research Institute",
+   "variants": [
+    "Julian S. Jacobs",
+    "Julian Jacobs",
+    "Mr. Jacobs"
+   ]
+  },
+  {
+   "name": "Stanley Nehmer",
+   "role": "Textile Mission member",
+   "variants": [
+    "Stanley Nehmer"
+   ]
+  },
+  {
+   "name": "Green",
+   "role": "Recipient at Office of Strategic Services",
+   "variants": [
+    "Mr. Green"
+   ]
+  },
+  {
+   "name": "M. D. Parekh",
+   "role": "Textile Mission assistant; chemical engineer",
+   "variants": [
+    "Dr. M. D. Parekh"
+   ]
+  },
+  {
+   "name": "Edward B. Lawson",
+   "role": "Counselor of Embassy for Economic Affairs",
+   "variants": [
+    "Edward B. Lawson",
+    "EdwardB. Lawson"
+   ]
+  },
+  {
+   "name": "Edwin C. Wilson",
+   "role": "U.S. Ambassador in Ankara",
+   "variants": [
+    "Edwin C. Wilson"
+   ]
+  },
+  {
+   "name": "Herbert S. Bursley",
+   "role": "U.S. chargé d’affaires ad interim in Ankara",
+   "variants": [
+    "Herbert S. Bureley"
+   ]
+  },
+  {
+   "name": "John H. Hilldring",
+   "role": "Signatory for the Secretary of State",
+   "variants": [
+    "JOHN H. HILLDRING"
+   ]
+  },
+  {
+   "name": "Moreland",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Moreland"
+   ]
+  },
+  {
+   "name": "Conger",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Comger"
+   ]
+  },
+  {
+   "name": "A. Boyd",
+   "role": "Representative, Malayan Textile Purchasing Mission",
+   "variants": [
+    "A. BOYD",
+    "Mr. A. Boyd"
+   ]
+  },
+  {
+   "name": "W. F. Marquat",
+   "role": "Brigadier General; Chief, SCAP Economic and Scientific Section",
+   "variants": [
+    "W. F. MARQUAT",
+    "W. F. Marquat",
+    "General Marquat",
+    "Chief Marquat"
+   ]
+  },
+  {
+   "name": "Max W. Bishop",
+   "role": "U.S. Political Adviser for Japan",
+   "variants": [
+    "MAX . BISHOP"
+   ]
+  },
+  {
+   "name": "Charles B. Henderson",
+   "role": "Chairman of the Board, U.S. Commercial Company",
+   "variants": [
+    "Charles B. Henderson",
+    "Mr. Henderson"
+   ]
+  },
+  {
+   "name": "A. J. E. Davis",
+   "role": "North American representative of the Crown Agents",
+   "variants": [
+    "Mr. A. J. E. Davis"
+   ]
+  },
+  {
+   "name": "Donald Badger",
+   "role": "Secretary, Inter-Allied Trade Board",
+   "variants": [
+    "Donald Badger",
+    "Mr. Badger"
+   ]
+  },
+  {
+   "name": "Bowman",
+   "role": "U.S. Commercial Company contact",
+   "variants": [
+    "Mr. Bowman"
+   ]
+  },
+  {
+   "name": "Richard R. Ely",
+   "role": "Acting Chief, Division of Philippine Affairs",
+   "variants": [
+    "Richard Ely",
+    "Mr. Ely"
+   ]
+  },
+  {
+   "name": "Bane",
+   "role": "State Department official",
+   "variants": [
+    "Mr.Bane"
+   ]
+  },
+  {
+   "name": "Ed Hester",
+   "role": "Recipient proposed for Philippine cable draft",
+   "variants": [
+    "Ed Hester"
+   ]
+  },
+  {
+   "name": "C. W. Nichols",
+   "role": "Assistant Chief, International Resources Division",
+   "variants": [
+    "C. W. Nichols"
+   ]
+  },
+  {
+   "name": "Nazif Inan",
+   "role": "Assistant Managing Director, Sümerbank; initially chairman of Turkish commission",
+   "variants": [
+    "Nazif Inan",
+    "Nazif Iman",
+    "Mazif Inen",
+    "Mr. Inan"
+   ]
+  },
+  {
+   "name": "Cevdet Aydinelli",
+   "role": "Adviser to Turkish Ministry of Economy; Turkish commission member",
+   "variants": [
+    "Cevdet Aydinelli",
+    "Cevdet Aycinell1",
+    "Covdet Aydinoll1",
+    "CEVIBT AYDINELLI",
+    "Mr. Aydinelli"
+   ]
+  },
+  {
+   "name": "Ragip Sipahi",
+   "role": "Manager, Ereğli Textile Factory; Turkish commission member",
+   "variants": [
+    "Ragip Sipahi",
+    "Regip Sipahi",
+    "Ragip Sipehi",
+    "Fegip Sipahl",
+    "RAOP SIPANI",
+    "Mr. Sipahi"
+   ]
+  },
+  {
+   "name": "Ismail N. Kavadar",
+   "role": "Commercial Attaché, Turkish Embassy; substitute Turkish commission member",
+   "variants": [
+    "Ismail Kavadar",
+    "Ismail Kayadar",
+    "ISMAIL N. KAVADAR",
+    "Mr. Kavadar"
+   ]
+  },
+  {
+   "name": "Wolberg",
+   "role": "Special Projects Division official",
+   "variants": [
+    "Miss Wolberg"
+   ]
+  },
+  {
+   "name": "Flinn",
+   "role": "State Department VD official",
+   "variants": [
+    "Miss Flinn"
+   ]
+  },
+  {
+   "name": "Jenkins",
+   "role": "State Department FC official",
+   "variants": [
+    "Miss Jenkins"
+   ]
+  },
+  {
+   "name": "Hockaday",
+   "role": "State Department BI official",
+   "variants": [
+    "Mr. Hockaday"
+   ]
+  },
+  {
+   "name": "Adams",
+   "role": "State Department ES official",
+   "variants": [
+    "Mr. Adams",
+    "Xr. Adame"
+   ]
+  },
+  {
+   "name": "Taylor",
+   "role": "State Department ES official",
+   "variants": [
+    "Mr. Taylor"
+   ]
+  },
+  {
+   "name": "LeBreton",
+   "role": "State Department NE official",
+   "variants": [
+    "Mr. LeBreton"
+   ]
+  },
+  {
+   "name": "McCornick",
+   "role": "State Department JK official",
+   "variants": [
+    "Mr. McCornick"
+   ]
+  },
+  {
+   "name": "Shipley",
+   "role": "State Department DCL official",
+   "variants": [
+    "Mr. Shipley"
+   ]
+  },
+  {
+   "name": "Schieck",
+   "role": "Reconstruction Finance Corporation official",
+   "variants": [
+    "Mr. Schieck"
+   ]
+  },
+  {
+   "name": "Nagel",
+   "role": "Colonel, War Department Civil Affairs Division",
+   "variants": [
+    "Colonel Nagel",
+    "Lt.Col. Frederiok W. Nagle"
+   ]
+  },
+  {
+   "name": "Krette",
+   "role": "Colonel, War Department Civil Affairs Division",
+   "variants": [
+    "Krette"
+   ]
+  },
+  {
+   "name": "Hartman",
+   "role": "Colonel, War Department Civil Affairs Division",
+   "variants": [
+    "Hartman"
+   ]
+  },
+  {
+   "name": "Flickinger",
+   "role": "Military Permit Secretariat official",
+   "variants": [
+    "Mrs. Flickinger"
+   ]
+  },
+  {
+   "name": "John R. Millett",
+   "role": "Commander, USN; Military Permit Secretary",
+   "variants": [
+    "JOHN R. MILLETT",
+    "John R. Millett",
+    "Commander Millett",
+    "Cormander Killett"
+   ]
+  },
+  {
+   "name": "Eralp",
+   "role": "First Secretary, Turkish Embassy",
+   "variants": [
+    "Mr. Eralp",
+    "Mr. Erelp"
+   ]
+  },
+  {
+   "name": "Edward E. Hunt",
+   "role": "Associate Chief, Special Projects Division",
+   "variants": [
+    "Edward E. Hunt",
+    "Mr. Hunt"
+   ]
+  },
+  {
+   "name": "Williams",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Williams"
+   ]
+  },
+  {
+   "name": "Saladino",
+   "role": "State Department VD official",
+   "variants": [
+    "Mrs. Saladino"
+   ]
+  },
+  {
+   "name": "Raley",
+   "role": "State Department FC official",
+   "variants": [
+    "Mr. Raley"
+   ]
+  },
+  {
+   "name": "Matthew H. O'Brien",
+   "role": "Secretary, Rayon Yarn Producers Group",
+   "variants": [
+    "Matthew H. O'Brien",
+    "Mr. O'Brien"
+   ]
+  },
+  {
+   "name": "Wilson T. M. Beale Jr.",
+   "role": "Assistant Chief, Division of Commercial Policy",
+   "variants": [
+    "Wilson T. M. Beale, Jr.",
+    "W. T. M. Beale",
+    "Mr. Beale"
+   ]
+  },
+  {
+   "name": "Thomas H. West",
+   "role": "President, National Association of Textile Machinery Manufacturers",
+   "variants": [
+    "THOMAS H. WEST",
+    "Thomas R. West",
+    "Mr. West",
+    "Hr. Weat"
+   ]
+  },
+  {
+   "name": "Robert Leeson",
+   "role": "Vice President, National Association of Textile Machinery Manufacturers",
+   "variants": [
+    "ROBERT LEESON"
+   ]
+  },
+  {
+   "name": "Samuel F. Rockwell",
+   "role": "Treasurer, National Association of Textile Machinery Manufacturers",
+   "variants": [
+    "SAMUEL F. ROCKWELL"
+   ]
+  },
+  {
+   "name": "Howard L. Smith",
+   "role": "Secretary, National Association of Textile Machinery Manufacturers",
+   "variants": [
+    "HOWARD L. SMITH"
+   ]
+  },
+  {
+   "name": "Luang Prokit Sobakorn",
+   "role": "Siamese government representative",
+   "variants": [
+    "Luang Prok!t Sobakorn"
+   ]
+  },
+  {
+   "name": "Nai Krit Tunkaswat",
+   "role": "Siamese government representative",
+   "variants": [
+    "Nal Krdt Tunkaswat"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese textiles",
+  "cotton textile exports",
+  "textile machinery limits",
+  "SCAP",
+  "U.S. Commercial Company",
+  "foreign purchasing missions",
+  "rayon industry",
+  "trade allocation",
+  "sterling payments",
+  "Turkish commission",
+  "Siamese textile purchases"
+ ],
+ "subfiles": [
+  {
+   "title": "Cotton-Textile Institute proposals on Japanese textiles",
+   "doc_type": "letter",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1947-01-07",
+   "from": "William C. Planz",
+   "to": "William L. Clayton",
+   "about": "Industry representatives seek interim controls on Japanese textile production, machinery and exports.",
+   "summary": "Planz favors a five-year limit on cotton spindles and looms, controls on textile machinery, private export sales and world-level prices. He asks for information about Japanese rehabilitation proposals and a conference with State Department officials.",
+   "keywords": [
+    "textile controls",
+    "spindles",
+    "looms",
+    "exports"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Planz letter",
+   "doc_type": "letter",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1947-01-09",
+   "from": "Willard L. Thorp",
+   "to": "William C. Planz",
+   "about": "State acknowledges the institute’s policy proposals and interest in a conference.",
+   "summary": "Thorp promises a fuller reply and notes the request for a conference.",
+   "keywords": [
+    "acknowledgment",
+    "conference"
+   ]
+  },
+  {
+   "title": "State reply on Japanese textile policy",
+   "doc_type": "letter",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1947-02-25",
+   "from": "Willard L. Thorp",
+   "to": "William C. Planz",
+   "about": "State discusses reconstruction limits and obstacles to private textile trading.",
+   "summary": "Thorp says limits remain under consideration and invites an industry meeting.",
+   "keywords": [
+    "reconstruction",
+    "private trade"
+   ]
+  },
+  {
+   "title": "Proposed reply and internal comments on Planz proposals",
+   "doc_type": "memorandum",
+   "start_page": 5,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1947-02-13",
+   "from": "Edwin M. Martin",
+   "to": "Willard L. Thorp",
+   "about": "Officials assess proposed Japanese textile restrictions and export arrangements.",
+   "summary": "The division favors a general written reply before discussing details at a conference. It reviews unsettled spindle limits, opposition to machinery export restrictions, barriers to private trading, yen loans for mill rehabilitation and the continuing need for U.S. Commercial Company sales.",
+   "keywords": [
+    "policy review",
+    "machinery",
+    "yen loans",
+    "USCC"
+   ]
+  },
+  {
+   "title": "Offer of German and Japanese cotton textiles to Yemen",
+   "doc_type": "letter",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1947-01-13",
+   "from": "Arthur Z. Gardiner",
+   "to": "Imam Yahya bin Mohammed bin Hamid ed Din",
+   "about": "USCC offers cotton cloth and yarn for Yemen’s anticipated import shortfall.",
+   "summary": "Gardiner asks Yemen to estimate requirements for dollar purchases.",
+   "keywords": [
+    "Yemen",
+    "cotton cloth",
+    "yarn"
+   ]
+  },
+  {
+   "title": "Cotton textile constructions and prices",
+   "doc_type": "attachment",
+   "start_page": 8,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "",
+   "from": "U.S. Commercial Company",
+   "to": "Imam Yahya bin Mohammed bin Hamid ed Din",
+   "about": "Lists available textile constructions, yarn counts and prices.",
+   "summary": "Tables detail fabrics and yarn offered with the Yemen letter.",
+   "keywords": [
+    "fabric specifications",
+    "prices"
+   ]
+  },
+  {
+   "title": "Siamese payment and shipping request",
+   "doc_type": "telegram",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Stanton, Bangkok",
+   "to": "Secretary of State",
+   "about": "Siam seeks more time to pay for Japanese textiles and economical return shipping.",
+   "summary": "Siam can pay $3 million initially but requests rice or other sales, or twelve months for the balance.",
+   "keywords": [
+    "Siam",
+    "payment",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Request for priority to import Japanese textiles",
+   "doc_type": "letter",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Burton H. Simon",
+   "to": "Inter-Allied Trade Board",
+   "about": "A New York textile merchant asks for import priority.",
+   "summary": "Simon describes his business and asks how to obtain Japanese textiles.",
+   "keywords": [
+    "import priority",
+    "merchant"
+   ]
+  },
+  {
+   "title": "Cover letter forwarding Simon inquiry",
+   "doc_type": "cover letter",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1947-01-20",
+   "from": "Burton H. Simon",
+   "to": "Department of State",
+   "about": "Simon asks State to forward his enclosed letter to the trade board.",
+   "summary": "Requests delivery of the enclosed inquiry.",
+   "keywords": [
+    "forwarding",
+    "Inter-Allied Trade Board"
+   ]
+  },
+  {
+   "title": "Reply to Simon on Japanese textile sales",
+   "doc_type": "letter",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1947-01-30",
+   "from": "Hamilton Robinson",
+   "to": "Burton H. Simon",
+   "about": "State explains allocations and directs Simon to USCC sales information.",
+   "summary": "Robinson identifies limited Far Eastern options and USCC’s New York display room.",
+   "keywords": [
+    "allocation",
+    "USCC",
+    "imports"
+   ]
+  },
+  {
+   "title": "Publication of rayon and synthetic fiber report",
+   "doc_type": "letter",
+   "start_page": 14,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1947-01-23",
+   "from": "H. Wickliffe Rose",
+   "to": "Edwin M. Martin",
+   "about": "Rose arranges distribution of his study of Japan’s rayon industry.",
+   "summary": "Rose sends copies for State, SCAP and other offices and explains the report’s origin and availability.",
+   "keywords": [
+    "rayon",
+    "publication",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "The Rayon and Synthetic Fiber Industry of Japan prospectus",
+   "doc_type": "publication prospectus",
+   "start_page": 16,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "",
+   "from": "Textile Research Institute",
+   "to": "",
+   "about": "Promotional description and contents of Rose’s study.",
+   "summary": "The prospectus describes the Textile Mission’s research into Japanese rayon capacity, production, technology and trade, then lists the book’s chapters and ordering information.",
+   "keywords": [
+    "rayon",
+    "synthetic fibers",
+    "research"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Rose report copies",
+   "doc_type": "letter",
+   "start_page": 19,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1947-02-07",
+   "from": "Edwin M. Martin",
+   "to": "H. Wickliffe Rose",
+   "about": "Martin confirms receipt and forwarding of report copies.",
+   "summary": "Six copies are being sent to SCAP.",
+   "keywords": [
+    "publication",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Instruction to transmit Yemen textile offer",
+   "doc_type": "instruction",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "from": "Secretary of State",
+   "to": "Officer in Charge, American Mission, Jidda",
+   "about": "State directs delivery of the USCC textile offer to Yemen’s ruler.",
+   "summary": "Transmits Gardiner’s memorandum for presentation to the Imam.",
+   "keywords": [
+    "Yemen",
+    "transmission"
+   ]
+  },
+  {
+   "title": "Complimentary copies of Rose report",
+   "doc_type": "letter",
+   "start_page": 21,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1947-01-27",
+   "from": "Julian S. Jacobs",
+   "to": "Edwin M. Martin",
+   "about": "The institute sends complimentary copies of Rose’s study.",
+   "summary": "Jacobs arranges one departmental copy and six for SCAP.",
+   "keywords": [
+    "rayon report",
+    "copies"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Jacobs",
+   "doc_type": "letter",
+   "start_page": 22,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "1947-02-07",
+   "from": "Edwin M. Martin",
+   "to": "Julian S. Jacobs",
+   "about": "Martin thanks Jacobs for complimentary report copies.",
+   "summary": "Copies arrived and six are being sent to SCAP.",
+   "keywords": [
+    "publication",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Turkish inquiry about Japanese textiles",
+   "doc_type": "despatch",
+   "start_page": 23,
+   "end_page": 23,
+   "continues_previous": false,
+   "date": "1947-02-07",
+   "from": "Edward B. Lawson, Ankara",
+   "to": "Secretary of State",
+   "about": "Turkey requests guidance on inquiries from textile importers.",
+   "summary": "The embassy asks how to handle prospective Japanese textile trade.",
+   "keywords": [
+    "Turkey",
+    "trade inquiries"
+   ]
+  },
+  {
+   "title": "Routing note on Turkish trade reply",
+   "doc_type": "memorandum",
+   "start_page": 24,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1947-04-04",
+   "from": "Moreland",
+   "to": "Conger",
+   "about": "A draft reply explains channels for Japanese-Turkish trade inquiries.",
+   "summary": "Moreland recommends concurrence with the attached reply.",
+   "keywords": [
+    "Turkey",
+    "routing"
+   ]
+  },
+  {
+   "title": "Instructions on Japanese-Turkish trade",
+   "doc_type": "letter",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1947-04-11",
+   "from": "John H. Hilldring, for the Secretary of State",
+   "to": "U.S. Embassy, Ankara",
+   "about": "State explains permitted inquiries and government responsibility for trade.",
+   "summary": "Turkish buyers may inquire directly in Japan, while trade remains government sponsored. USCC handles all Japanese cotton textile sales.",
+   "keywords": [
+    "Turkey",
+    "government trade",
+    "USCC"
+   ]
+  },
+  {
+   "title": "Record copy replacement notice",
+   "doc_type": "record copy cover sheet",
+   "start_page": 26,
+   "end_page": 26,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State records office",
+   "to": "",
+   "about": "Marks a replacement record copy of Tokyo despatch 868.",
+   "summary": "Directs return of the replacement copy for filing.",
+   "keywords": [
+    "record copy"
+   ]
+  },
+  {
+   "title": "Tokyo despatch on British textile purchasing protest, poor copy",
+   "doc_type": "despatch",
+   "start_page": 27,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1947-02-12",
+   "from": "Max W. Bishop, Tokyo",
+   "to": "Secretary of State",
+   "about": "Forwards a Malayan mission’s protest about SCAP foreign trade administration.",
+   "summary": "The despatch encloses the protest, SCAP’s answer and an earlier silk-sample request.",
+   "keywords": [
+    "Malaya",
+    "SCAP",
+    "protest"
+   ]
+  },
+  {
+   "title": "Malayan purchasing mission protest, poor copy",
+   "doc_type": "enclosed memorandum",
+   "start_page": 28,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1947-01-22",
+   "from": "A. Boyd, Textile Purchasing Missions",
+   "to": "W. F. Marquat",
+   "about": "The mission complains of delays and inadequate service by SCAP’s Foreign Trade Division.",
+   "summary": "Boyd cites unanswered letters, missing silk samples and unavailable wool prices. He says Malaya may buy elsewhere and proposes adding a British textile expert to SCAP’s staff.",
+   "keywords": [
+    "Malaya",
+    "silk samples",
+    "trade delays"
+   ]
+  },
+  {
+   "title": "Marquat reply to purchasing mission, poor copy",
+   "doc_type": "enclosed memorandum",
+   "start_page": 30,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1947-01-31",
+   "from": "W. F. Marquat",
+   "to": "Textile Purchasing Missions",
+   "about": "SCAP responds to complaints about textile trade administration.",
+   "summary": "Marquat attributes delays to workload, information checks and sample reinspection. He says replacement silk books have been sent and wool prices await Bradford quotations.",
+   "keywords": [
+    "SCAP",
+    "Malaya",
+    "pricing"
+   ]
+  },
+  {
+   "title": "Malayan request for silk samples, poor copy",
+   "doc_type": "enclosed letter",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1946-11-23",
+   "from": "A. Boyd",
+   "to": "Chief, Foreign Trade Division, SCAP",
+   "about": "Boyd asks for the remaining silk samples to complete selections.",
+   "summary": "The mission reports a selection of 437,655 yards.",
+   "keywords": [
+    "silk",
+    "samples"
+   ]
+  },
+  {
+   "title": "File note on British protest",
+   "doc_type": "file note",
+   "start_page": 33,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1947-03-24",
+   "from": "",
+   "to": "",
+   "about": "A State official summarizes the Malayan complaint and Marquat’s response.",
+   "summary": "The note highlights criticism of delay and the unanswered proposal for a British expert.",
+   "keywords": [
+    "Malaya",
+    "British expert",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Tokyo despatch on British textile purchasing protest, clean copy",
+   "doc_type": "despatch",
+   "start_page": 35,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1947-02-12",
+   "from": "Max W. Bishop, Tokyo",
+   "to": "Secretary of State",
+   "about": "Forwards the Malayan mission’s protest and related correspondence.",
+   "summary": "Bishop notes no formal British liaison protest or comparable complaint.",
+   "keywords": [
+    "Malaya",
+    "SCAP",
+    "protest"
+   ]
+  },
+  {
+   "title": "Malayan purchasing mission protest, clean copy",
+   "doc_type": "enclosed memorandum",
+   "start_page": 36,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1947-01-22",
+   "from": "A. Boyd, Textile Purchasing Missions",
+   "to": "W. F. Marquat",
+   "about": "The mission protests delays in arranging Japanese textile purchases.",
+   "summary": "Boyd says the Foreign Trade Division lacks staff and market knowledge, has not answered requests, and has delayed silk samples and wool quotations. He seeks British intervention and a British commercial expert.",
+   "keywords": [
+    "Malaya",
+    "silk",
+    "wool",
+    "British expert"
+   ]
+  },
+  {
+   "title": "Marquat reply to purchasing mission, clean copy",
+   "doc_type": "enclosed memorandum",
+   "start_page": 38,
+   "end_page": 39,
+   "continues_previous": false,
+   "date": "1947-01-31",
+   "from": "W. F. Marquat",
+   "to": "Textile Purchasing Missions",
+   "about": "SCAP explains delays in textile purchasing.",
+   "summary": "Marquat cites occupation trading controls, workload and verification needs. He says new silk sample books have been sent and wool quotations await prices from London.",
+   "keywords": [
+    "SCAP",
+    "Malaya",
+    "pricing"
+   ]
+  },
+  {
+   "title": "Malayan silk sample request, clean copy",
+   "doc_type": "enclosed letter",
+   "start_page": 40,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1946-11-23",
+   "from": "A. Boyd",
+   "to": "Chief, Foreign Trade Division, SCAP",
+   "about": "The mission requests returned silk samples.",
+   "summary": "Boyd seeks samples after selecting 437,655 yards of silk piece goods.",
+   "keywords": [
+    "silk samples",
+    "Malaya"
+   ]
+  },
+  {
+   "title": "Proposed sterling payment clause for British colonial purchases",
+   "doc_type": "letter",
+   "start_page": 41,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1947-02-03",
+   "from": "Charles B. Henderson",
+   "to": "Secretaries of State, War and Agriculture",
+   "about": "USCC requests approval for a conditional sterling payment clause.",
+   "summary": "The Crown Agents propose a large forward purchase of Japanese fabrics and yarn. Henderson asks whether contracts may provide for sterling payment if the U.S. and U.K. governments later agree to it.",
+   "keywords": [
+    "sterling",
+    "Crown Agents",
+    "cotton textiles"
+   ]
+  },
+  {
+   "title": "Guidance on first-half 1947 Japanese textile allocations",
+   "doc_type": "letter",
+   "start_page": 43,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1947-02-18",
+   "from": "Edwin M. Martin",
+   "to": "Arthur Z. Gardiner",
+   "about": "State sets a deadline for sales under proposed allocation guidelines.",
+   "summary": "USCC may sell outside the proposed allocation plan if contracts are not signed by March 1.",
+   "keywords": [
+    "allocation",
+    "USCC",
+    "sales"
+   ]
+  },
+  {
+   "title": "Transmittal of allocation guidance",
+   "doc_type": "letter",
+   "start_page": 44,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1947-02",
+   "from": "Edwin M. Martin",
+   "to": "Donald Badger",
+   "about": "Martin asks the trade board to circulate his letter to Gardiner.",
+   "summary": "Requests copies for board members and Gardiner.",
+   "keywords": [
+    "Inter-Allied Trade Board",
+    "circulation"
+   ]
+  },
+  {
+   "title": "Withdrawal of request for sterling clause opinion",
+   "doc_type": "letter",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1947-02-28",
+   "from": "Edwin M. Martin",
+   "to": "Arthur Z. Gardiner",
+   "about": "State notes USCC no longer seeks an immediate opinion on a payment clause.",
+   "summary": "Martin reserves the effect on existing contracts for any future currency agreement.",
+   "keywords": [
+    "sterling",
+    "contracts"
+   ]
+  },
+  {
+   "title": "Siamese textile purchase difficulties",
+   "doc_type": "telegram",
+   "start_page": 46,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1947-02-14",
+   "from": "Stanton, Bangkok",
+   "to": "Secretary of State",
+   "about": "Siam reports slow textile sales and asks about rice and shipping arrangements.",
+   "summary": "Siam can buy more textiles if Korean rice sales and economical transport are arranged.",
+   "keywords": [
+    "Siam",
+    "rice",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Philippine cable routing memorandum",
+   "doc_type": "memorandum",
+   "start_page": 47,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "1947-03-17",
+   "from": "Richard R. Ely",
+   "to": "Bane",
+   "about": "Ely seeks an inquiry into a canceled Philippine textile order.",
+   "summary": "He asks that the embassy avoid pressuring the Philippine government.",
+   "keywords": [
+    "Philippines",
+    "cable"
+   ]
+  },
+  {
+   "title": "USCC cover letter for Philippine cable draft",
+   "doc_type": "letter",
+   "start_page": 48,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1947-03-14",
+   "from": "Arthur Z. Gardiner",
+   "to": "Richard R. Ely",
+   "about": "Gardiner forwards a proposed cable about Philippine textile purchases.",
+   "summary": "Requests attention to the attached draft.",
+   "keywords": [
+    "Philippines",
+    "USCC"
+   ]
+  },
+  {
+   "title": "Draft inquiry into Philippine textile purchases",
+   "doc_type": "draft telegram",
+   "start_page": 49,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "",
+   "from": "Arthur Z. Gardiner",
+   "to": "U.S. Embassy, Manila",
+   "about": "USCC seeks shipping plans and reasons for withdrawal of a further order.",
+   "summary": "The draft concerns 13.6 million yards under contract and a canceled 15-million-yard purchase.",
+   "keywords": [
+    "Philippines",
+    "shipping",
+    "sales"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Philippine cable request",
+   "doc_type": "letter",
+   "start_page": 50,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1947-04-03",
+   "from": "C. W. Nichols",
+   "to": "Arthur Z. Gardiner",
+   "about": "State confirms transmission of the proposed Manila message.",
+   "summary": "The department is sending the enclosed message to Manila.",
+   "keywords": [
+    "Philippines",
+    "telegram"
+   ]
+  },
+  {
+   "title": "Draft acknowledgment of Turkish commission note",
+   "doc_type": "draft note",
+   "start_page": 51,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1947-03-28",
+   "from": "Department of State",
+   "to": "Turkish Embassy",
+   "about": "Acknowledges Turkey’s proposed purchasing commission.",
+   "summary": "Names the three proposed commission members.",
+   "keywords": [
+    "Turkey",
+    "commission"
+   ]
+  },
+  {
+   "title": "File memorandum on Turkish commission travel and security review",
+   "doc_type": "memorandum",
+   "start_page": 52,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1947-03-28",
+   "from": "Special Projects Division",
+   "to": "File",
+   "about": "Officials coordinate travel permission for three Turkish textile purchasers.",
+   "summary": "A records check flags Ragip Sipahi’s reported holdings for German and Belgian firms. The memorandum traces conflicting permit actions by State, War and Joint Chiefs offices and calls for further information before the mission travels.",
+   "keywords": [
+    "Turkish commission",
+    "travel permit",
+    "security review"
+   ]
+  },
+  {
+   "title": "File memorandum on Turkish commission departure",
+   "doc_type": "memorandum",
+   "start_page": 55,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1947-04-24",
+   "from": "Special Projects Division",
+   "to": "File",
+   "about": "Wolberg alerts the Turkish Embassy to required travel documentation.",
+   "summary": "She advises a required statement for the travelers awaiting a flight in San Francisco.",
+   "keywords": [
+    "Turkey",
+    "travel documents"
+   ]
+  },
+  {
+   "title": "Military clearance for Turkish travelers",
+   "doc_type": "memorandum",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1947-04-22",
+   "from": "John R. Millett",
+   "to": "Edward E. Hunt",
+   "about": "Joint Chiefs report no military objection to three Turks traveling to Japan.",
+   "summary": "Air priority and extra baggage are arranged.",
+   "keywords": [
+    "military permit",
+    "Turkey"
+   ]
+  },
+  {
+   "title": "Receipt for classified Sipahi information",
+   "doc_type": "receipt",
+   "start_page": 57,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1947-09",
+   "from": "Military Permit Secretariat",
+   "to": "Special Projects Division",
+   "about": "Acknowledges a memorandum containing classified information on Sipahi.",
+   "summary": "Receipt covers classified Sipahi information.",
+   "keywords": [
+    "receipt",
+    "Sipahi"
+   ]
+  },
+  {
+   "title": "Turkish request to send a textile commission",
+   "doc_type": "diplomatic note",
+   "start_page": 58,
+   "end_page": 58,
+   "continues_previous": false,
+   "date": "1947-03-17",
+   "from": "Turkish Ambassador",
+   "to": "Acting Secretary of State",
+   "about": "Turkey seeks assistance for a commission inspecting Japanese cotton purchases.",
+   "summary": "The note names Inan, Aydinelli and Sipahi and requests help with travel.",
+   "keywords": [
+    "Turkey",
+    "commission",
+    "cotton"
+   ]
+  },
+  {
+   "title": "Telegram record copy replacement notice",
+   "doc_type": "record copy cover sheet",
+   "start_page": 59,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State records office",
+   "to": "",
+   "about": "Marks a replacement record copy for a telegram.",
+   "summary": "Directs return of the copy for filing.",
+   "keywords": [
+    "record copy"
+   ]
+  },
+  {
+   "title": "Siamese representatives seek entry to Japan",
+   "doc_type": "telegram",
+   "start_page": 60,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1947-03-18",
+   "from": "Stanton, Bangkok",
+   "to": "Secretary of State",
+   "about": "Siam requests entry approval for two representatives arranging textile shipments.",
+   "summary": "Stanton also repeats unanswered questions about shipping.",
+   "keywords": [
+    "Siam",
+    "mission",
+    "shipping"
+   ]
+  },
+  {
+   "title": "Rayon reports sent to Beale",
+   "doc_type": "letter",
+   "start_page": 61,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1947-03-18",
+   "from": "Matthew H. O'Brien",
+   "to": "Wilson T. M. Beale Jr.",
+   "about": "O’Brien sends textile mission and rayon reports after a tariff discussion.",
+   "summary": "Two reports supplement the discussion of rayon yarn tariffs.",
+   "keywords": [
+    "rayon",
+    "tariff",
+    "reports"
+   ]
+  },
+  {
+   "title": "Beale acknowledgment of rayon reports",
+   "doc_type": "letter",
+   "start_page": 62,
+   "end_page": 62,
+   "continues_previous": false,
+   "date": "1947-03-31",
+   "from": "Wilson T. M. Beale Jr.",
+   "to": "Matthew H. O'Brien",
+   "about": "Beale thanks O’Brien for reports and a meeting.",
+   "summary": "He may request further information.",
+   "keywords": [
+    "rayon",
+    "tariff"
+   ]
+  },
+  {
+   "title": "Conditional approval of Siamese mission",
+   "doc_type": "telegram",
+   "start_page": 63,
+   "end_page": 63,
+   "continues_previous": false,
+   "date": "1947-03-20",
+   "from": "Acting Secretary of State",
+   "to": "American Legation, Bangkok",
+   "about": "State approves mission entry subject to SCAP concurrence.",
+   "summary": "SCAP will inform Bangkok directly.",
+   "keywords": [
+    "Siam",
+    "entry"
+   ]
+  },
+  {
+   "title": "SCAP requests details on Siamese representatives",
+   "doc_type": "telegram",
+   "start_page": 64,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1947-03-28",
+   "from": "SCAP, Tokyo",
+   "to": "American Minister, Bangkok; Secretary of State",
+   "about": "SCAP requests required personal details before granting entry.",
+   "summary": "No objection is foreseen, but Circular 8 information is required.",
+   "keywords": [
+    "Siam",
+    "SCAP",
+    "entry"
+   ]
+  },
+  {
+   "title": "Textile machinery industry capacity argument",
+   "doc_type": "letter",
+   "start_page": 65,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "1947-04-02",
+   "from": "Thomas H. West",
+   "to": "Edwin M. Martin",
+   "about": "Machinery manufacturers press for deep limits on Japan’s textile machinery industry.",
+   "summary": "West argues Japan’s prewar machinery capacity was disproportionate to its cotton mills and posed a war-production risk. He supports an industry sized for roughly three million spindles and controlled through iron and steel supply.",
+   "keywords": [
+    "textile machinery",
+    "spindles",
+    "war potential"
+   ]
+  },
+  {
+   "title": "Offer of additional West letter copies",
+   "doc_type": "cover letter",
+   "start_page": 67,
+   "end_page": 67,
+   "continues_previous": false,
+   "date": "1947-04-04",
+   "from": "Thomas H. West",
+   "to": "Edwin M. Martin",
+   "about": "West offers copies of his machinery policy letter for circulation.",
+   "summary": "Offers a dozen or more additional copies.",
+   "keywords": [
+    "circulation",
+    "machinery"
+   ]
+  },
+  {
+   "title": "State response to machinery industry proposals",
+   "doc_type": "letter",
+   "start_page": 68,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1947-04-29",
+   "from": "Edwin M. Martin",
+   "to": "Thomas H. West",
+   "about": "State explains its approach to limiting Japan’s industrial war potential.",
+   "summary": "Martin says iron, steel and machine-tool controls should constrain textile machinery expansion.",
+   "keywords": [
+    "industrial controls",
+    "machinery"
+   ]
+  },
+  {
+   "title": "Substitution on Turkish purchasing commission",
+   "doc_type": "diplomatic note",
+   "start_page": 69,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1947-04-03",
+   "from": "Turkish Ambassador",
+   "to": "Acting Secretary of State",
+   "about": "Turkey substitutes Ismail Kavadar for Nazif Inan.",
+   "summary": "Inan will remain in the United States; Kavadar will accompany the commission.",
+   "keywords": [
+    "Turkey",
+    "commission"
+   ]
+  },
+  {
+   "title": "File memorandum on Turkish entry clearance",
+   "doc_type": "memorandum",
+   "start_page": 70,
+   "end_page": 70,
+   "continues_previous": false,
+   "date": "1947-04-08",
+   "from": "Special Projects Division",
+   "to": "File",
+   "about": "Officials learn SCAP has granted entry and requests Circular 8 information.",
+   "summary": "Wolberg revises a letter to Millett accordingly.",
+   "keywords": [
+    "Turkey",
+    "SCAP",
+    "permit"
+   ]
+  },
+  {
+   "title": "Turkish commission meeting and travel requirements",
+   "doc_type": "memorandum",
+   "start_page": 71,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1947-04-07",
+   "from": "Special Projects Division",
+   "to": "File",
+   "about": "Kavadar and Aydinelli provide required details and discuss travel timing.",
+   "summary": "They seek April entry before a mid-May shipment and ask about baggage. Officials also explain U.S. re-entry visa requirements for each commission member.",
+   "keywords": [
+    "Turkey",
+    "travel",
+    "visas"
+   ]
+  },
+  {
+   "title": "Records check on Kavadar",
+   "doc_type": "file note",
+   "start_page": 73,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1947-04-07",
+   "from": "Special Projects Division",
+   "to": "File",
+   "about": "Department offices check Kavadar’s background.",
+   "summary": "The checks disclose no adverse information.",
+   "keywords": [
+    "Kavadar",
+    "records check"
+   ]
+  },
+  {
+   "title": "Request for revised Turkish travel clearance",
+   "doc_type": "letter",
+   "start_page": 74,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1947-04-09",
+   "from": "Edward E. Hunt",
+   "to": "John R. Millett",
+   "about": "State asks Joint Chiefs to clear Kavadar in place of Inan.",
+   "summary": "Hunt forwards required traveler statements and classified information about Sipahi, notes the May shipment deadline, and asks about baggage limits.",
+   "keywords": [
+    "Turkey",
+    "military permit",
+    "Sipahi"
+   ]
+  },
+  {
+   "title": "Ragip Sipahi travel statement",
+   "doc_type": "traveler information form",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "",
+   "from": "Turkish Embassy",
+   "to": "Department of State",
+   "about": "Provides Sipahi’s identity, itinerary and passport details.",
+   "summary": "Lists Sipahi’s textile mill role and proposed eight-month stay.",
+   "keywords": [
+    "Sipahi",
+    "passport"
+   ]
+  },
+  {
+   "title": "Cevdet Aydinelli travel statement",
+   "doc_type": "traveler information form",
+   "start_page": 77,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "",
+   "from": "Turkish Embassy",
+   "to": "Department of State",
+   "about": "Provides Aydinelli’s identity, itinerary and passport details.",
+   "summary": "Lists his ministry role and proposed eight-month stay.",
+   "keywords": [
+    "Aydinelli",
+    "passport"
+   ]
+  },
+  {
+   "title": "Ismail N. Kavadar travel statement",
+   "doc_type": "traveler information form",
+   "start_page": 78,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "",
+   "from": "Turkish Embassy",
+   "to": "Department of State",
+   "about": "Provides Kavadar’s identity, itinerary and passport details.",
+   "summary": "Lists his commercial attaché role and proposed one-month stay.",
+   "keywords": [
+    "Kavadar",
+    "passport"
+   ]
+  },
+  {
+   "title": "Draft reply to Turkish Embassy on commission change",
+   "doc_type": "draft diplomatic note",
+   "start_page": 79,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "",
+   "from": "Acting Secretary of State",
+   "to": "Turkish Ambassador",
+   "about": "Acknowledges Turkey’s original commission request and Kavadar’s substitution.",
+   "summary": "The note begins acknowledgment of the March and April embassy notes; it continues beyond this section.",
+   "keywords": [
+    "Turkey",
+    "commission",
+    "acknowledgment"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 3,
+  "pages": [
+   1,
+   79
+  ],
+  "pdf": "894.655 Manufactures. Manufacturing., Japan, Textiles., January 7, 1947 - December 30, 1949 1837.pdf",
+  "seconds": 108.7,
+  "created": "2026-10-08 17:52:33",
+  "key": "japan-internal-affairs-894.655-manufactures-manufacturing-japan-6"
+ }
+}

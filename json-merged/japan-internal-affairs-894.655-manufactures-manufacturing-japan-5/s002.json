@@ -1,0 +1,1640 @@
+{
+ "section_summary": "This section finishes an assessment of Japan’s remaining textile capacity, traces how large firms and wartime controls reshaped the industry, and recommends how textile production should resume after surrender. Its appendices list major cotton firms, industry associations, key individuals, mill capacities, and rayon manufacturers. Several appendix tables contain OCR errors in dates and place names.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japenese",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "the Orient",
+    "Orient"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "America"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Pearl \"arbor",
+    "Pearl arbor",
+    "Pearl Harbor"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tbkyo",
+    "Toyko",
+    "Tpkyo",
+    "Tokyo-fu"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osaks",
+    "Osake",
+    "Osakm",
+    "Omaks",
+    "Osaica",
+    "Osaka-fu",
+    "Osakafu",
+    "Osakafu",
+    "Osakafu",
+    "Osakafu",
+    "Osakafu",
+    "Osakafu"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "Iyoto",
+    "Kayoto",
+    "Koyto",
+    "Kyoto-fu",
+    "Kiotofu",
+    "Kayoto-ken",
+    "Koyto=ken"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Hagoya",
+    "Magoya",
+    "Kagoya",
+    "Nagoyashigai"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo",
+    "HYUGO",
+    "LIYOGO",
+    "Hyogo-ken",
+    "Hyogoken",
+    "Hoygo-ken"
+   ]
+  },
+  {
+   "name": "Wakayama Prefecture",
+   "variants": [
+    "Wakayama-ken",
+    "WAKAYAMA PREFEOTURE",
+    "HAKAYAMA PREFECTURES",
+    "MAKAYAMA PREFECTURES"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aichi-ken",
+    "Aichi-kes",
+    "Aiohiken",
+    "ATCHI PREECTURE",
+    "ACHI"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu-ken",
+    "GIFU PREFECTURE"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "Okayame Prefecture",
+    "Okayama-ken",
+    "Okaymma-ken",
+    "Cayamm-ken",
+    "'OKAYAMA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Hiroshima Prefecture",
+   "variants": [
+    "Hiroshima-ken",
+    "HIROSHIMA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Mie Prefecture",
+   "variants": [
+    "Mie-ken",
+    "Mie-ksm",
+    "Nie-ken",
+    "Mieken",
+    "MIYE PREFECTURE"
+   ]
+  },
+  {
+   "name": "Shiga Prefecture",
+   "variants": [
+    "Shiga-ken",
+    "Shiga-ksm",
+    "SHIGA PREFECTURE"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture",
+   "variants": [
+    "Shizuoka-ken",
+    "Shisuoka-ken",
+    "Shisuokaken",
+    "Shisuoka-kes",
+    "Shisuokm-ken",
+    "Shisuoka-kem"
+   ]
+  },
+  {
+   "name": "Saitama Prefecture",
+   "variants": [
+    "Saitama-ken",
+    "Saitamm-ken",
+    "Sautana-ken",
+    "Seitama-ken"
+   ]
+  },
+  {
+   "name": "Fukushima Prefecture",
+   "variants": [
+    "Fukushima-ken",
+    "Fukushime-kes"
+   ]
+  },
+  {
+   "name": "Tochigi Prefecture",
+   "variants": [
+    "Toohigi-ken",
+    "Tochigi-ken"
+   ]
+  },
+  {
+   "name": "Gunma Prefecture",
+   "variants": [
+    "Gumma-ken",
+    "Gunma-ken"
+   ]
+  },
+  {
+   "name": "Kanagawa Prefecture",
+   "variants": [
+    "Kanagawa-ken"
+   ]
+  },
+  {
+   "name": "Miyagi Prefecture",
+   "variants": [
+    "Miyagi-ken"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "Niigata-ken",
+    "Niigate-ken"
+   ]
+  },
+  {
+   "name": "Nagano Prefecture",
+   "variants": [
+    "Nagano-ksm"
+   ]
+  },
+  {
+   "name": "Nara Prefecture",
+   "variants": [
+    "Nara-ken"
+   ]
+  },
+  {
+   "name": "Yamaguchi Prefecture",
+   "variants": [
+    "Yammguchi-ken"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa-ken"
+   ]
+  },
+  {
+   "name": "Fukuoka Prefecture",
+   "variants": [
+    "Fukuoka-ken"
+   ]
+  },
+  {
+   "name": "Fukui Prefecture",
+   "variants": [
+    "Fukmi-ken",
+    "Fukai-ksn"
+   ]
+  },
+  {
+   "name": "Tottori Prefecture",
+   "variants": [
+    "Tottori-ken"
+   ]
+  },
+  {
+   "name": "Shimane Prefecture",
+   "variants": [
+    "Shimane-ken",
+    "Shimene-ien"
+   ]
+  },
+  {
+   "name": "Tokushima Prefecture",
+   "variants": [
+    "Tokushima-ken"
+   ]
+  },
+  {
+   "name": "Toyama Prefecture",
+   "variants": [
+    "Toyame-losm"
+   ]
+  },
+  {
+   "name": "Kagoshima Prefecture",
+   "variants": [
+    "Kagoshima-gun-ken"
+   ]
+  },
+  {
+   "name": "Amagasaki",
+   "variants": [
+    "Amagasaki",
+    "Amagasaldi"
+   ]
+  },
+  {
+   "name": "Akashi",
+   "variants": [
+    "Akashi"
+   ]
+  },
+  {
+   "name": "Ako",
+   "variants": [
+    "Alko"
+   ]
+  },
+  {
+   "name": "Ashikaga",
+   "variants": [
+    "Ashikaga",
+    "Ashikage"
+   ]
+  },
+  {
+   "name": "Ashiya",
+   "variants": [
+    "Ashiya"
+   ]
+  },
+  {
+   "name": "Chichibu",
+   "variants": [
+    "Chichi-bu-mohi"
+   ]
+  },
+  {
+   "name": "Fukuyama",
+   "variants": [
+    "Fukuyama",
+    "Fukuyamm",
+    "Fukuyema",
+    "Fuicuyama"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu",
+    "Gifa"
+   ]
+  },
+  {
+   "name": "Gobo",
+   "variants": [
+    "Gobo-cho"
+   ]
+  },
+  {
+   "name": "Hachioji",
+   "variants": [
+    "Hachioji"
+   ]
+  },
+  {
+   "name": "Hamamatsu",
+   "variants": [
+    "Hamamatsu",
+    "Hamanatsu",
+    "Hamematou",
+    "Hammatsu",
+    "Hamematsu",
+    "Hammmatsu"
+   ]
+  },
+  {
+   "name": "Handa",
+   "variants": [
+    "Handa",
+    "Handa-machi"
+   ]
+  },
+  {
+   "name": "Himeji",
+   "variants": [
+    "Himeji",
+    "Hime ji",
+    "Himoj1"
+   ]
+  },
+  {
+   "name": "Hirakata",
+   "variants": [
+    "Hirakata",
+    "Makikata"
+   ]
+  },
+  {
+   "name": "Hiratsuka",
+   "variants": [
+    "Hiratsuka"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima",
+    "Hiroshimm",
+    "Hiroshime",
+    "Hiroshim"
+   ]
+  },
+  {
+   "name": "Ichinomiya",
+   "variants": [
+    "Ichinomiya",
+    "Ishincmiya"
+   ]
+  },
+  {
+   "name": "Imabari",
+   "variants": [
+    "Imabaru"
+   ]
+  },
+  {
+   "name": "Isesaki",
+   "variants": [
+    "Isesaki-cho"
+   ]
+  },
+  {
+   "name": "Iwaki",
+   "variants": [
+    "Wakita"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kagoshima"
+   ]
+  },
+  {
+   "name": "Kainan",
+   "variants": [
+    "Kainan"
+   ]
+  },
+  {
+   "name": "Kaizuka",
+   "variants": [
+    "Kaizuka",
+    "Kaizuka-machi",
+    "Eaisuka-machi"
+   ]
+  },
+  {
+   "name": "Kamo",
+   "variants": [
+    "Kamo",
+    "Kamo-mmohi"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa",
+    "Kanasawa"
+   ]
+  },
+  {
+   "name": "Kariya",
+   "variants": [
+    "Kariya",
+    "Kariya-machi"
+   ]
+  },
+  {
+   "name": "Kashiwara",
+   "variants": [
+    "Kashiwara-machi"
+   ]
+  },
+  {
+   "name": "Kasaoka",
+   "variants": [
+    "Kasaoka",
+    "Kassoka"
+   ]
+  },
+  {
+   "name": "Kawagoe",
+   "variants": [
+    "Kawagoe-shi"
+   ]
+  },
+  {
+   "name": "Kawamata",
+   "variants": [
+    "Kaweamate-maohi"
+   ]
+  },
+  {
+   "name": "Kawasaki",
+   "variants": [
+    "Kawasaki"
+   ]
+  },
+  {
+   "name": "Kiryu",
+   "variants": [
+    "Kiriu",
+    "Kiryu",
+    "Kryu"
+   ]
+  },
+  {
+   "name": "Kishiwada",
+   "variants": [
+    "Kishiwada",
+    "Kishi-wade",
+    "Lishiwade"
+   ]
+  },
+  {
+   "name": "Koriyama",
+   "variants": [
+    "Koriyama",
+    "Horiyama"
+   ]
+  },
+  {
+   "name": "Kurashiki",
+   "variants": [
+    "Kurashiki",
+    "Kurashikd",
+    "Karashiki"
+   ]
+  },
+  {
+   "name": "Kurayoshi",
+   "variants": [
+    "Kurayoshi"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kureba"
+   ]
+  },
+  {
+   "name": "Kurihashi",
+   "variants": [
+    "Kurihashi",
+    "Kurihashi-machi",
+    "Kurihashi-mach1"
+   ]
+  },
+  {
+   "name": "Kurume",
+   "variants": [
+    "Kurume",
+    "Eurume"
+   ]
+  },
+  {
+   "name": "Kuwana",
+   "variants": [
+    "Kuwana",
+    "Kmwana-gun",
+    "Knwana-gun"
+   ]
+  },
+  {
+   "name": "Matsusaka",
+   "variants": [
+    "Matsusaka",
+    "Matsuzaka",
+    "Matsursaka"
+   ]
+  },
+  {
+   "name": "Mitsuke",
+   "variants": [
+    "Mitsuke",
+    "Mitsuke-machi"
+   ]
+  },
+  {
+   "name": "Nagahama",
+   "variants": [
+    "Nagahama",
+    "Nagabama",
+    "Magahama"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagaski"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Nishinomiya",
+   "variants": [
+    "Nishinomiya"
+   ]
+  },
+  {
+   "name": "Nishiwaki",
+   "variants": [
+    "Nishiwaki-maohi"
+   ]
+  },
+  {
+   "name": "Ogaki",
+   "variants": [
+    "Ogaki",
+    "Ogald"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama",
+    "Okaymma",
+    "Cayamm",
+    "Ckayame"
+   ]
+  },
+  {
+   "name": "Okazaki",
+   "variants": [
+    "Okazaki",
+    "Okmsakl",
+    "Okasali"
+   ]
+  },
+  {
+   "name": "Omachi",
+   "variants": [
+    "Omachi"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "Otsu",
+    "0ta"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "variants": [
+    "Sakai",
+    "Saka1"
+   ]
+  },
+  {
+   "name": "Sano",
+   "variants": [
+    "Sano",
+    "Sano-machi",
+    "Sano-cho"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai-chi"
+   ]
+  },
+  {
+   "name": "Shikama",
+   "variants": [
+    "Shikama"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shisuoka"
+   ]
+  },
+  {
+   "name": "Sumoto",
+   "variants": [
+    "Sumoto",
+    "Sumo to"
+   ]
+  },
+  {
+   "name": "Takamatsu",
+   "variants": [
+    "Takamatsm"
+   ]
+  },
+  {
+   "name": "Tokorozawa",
+   "variants": [
+    "Tokorosawa"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima",
+    "Tokushimm"
+   ]
+  },
+  {
+   "name": "Tomioka",
+   "variants": [
+    "Tomisubara-machi",
+    "Tomishuhara"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyohashi"
+   ]
+  },
+  {
+   "name": "Tsuruoka",
+   "variants": [
+    "Tsuraoks"
+   ]
+  },
+  {
+   "name": "Tsu",
+   "variants": [
+    "Tsu",
+    "Tou",
+    "Tau"
+   ]
+  },
+  {
+   "name": "Tsushima",
+   "variants": [
+    "Tsushima"
+   ]
+  },
+  {
+   "name": "Ube",
+   "variants": [
+    "Ube"
+   ]
+  },
+  {
+   "name": "Uji",
+   "variants": [
+    "Uji-machi"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama",
+    "Waks-yame",
+    "Wakayamm",
+    "Wakayame",
+    "Wakayase",
+    "Hakayama-shi"
+   ]
+  },
+  {
+   "name": "Warabi",
+   "variants": [
+    "Warabi"
+   ]
+  },
+  {
+   "name": "Yawatahama",
+   "variants": [
+    "Yawatahams"
+   ]
+  },
+  {
+   "name": "Yonezawa",
+   "variants": [
+    "Yonesewm"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Andong",
+   "variants": [
+    "Antung"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Keijo"
+   ]
+  },
+  {
+   "name": "Awaji Island",
+   "variants": [
+    "Amaji Is."
+   ]
+  },
+  {
+   "name": "Tokyo wards and districts",
+   "variants": [
+    "Arakawa-ku",
+    "Adachi-ku",
+    "Azuma-cho",
+    "Honjo-ka",
+    "Itabashi-ku",
+    "Joto-ku",
+    "Katsushika-ku",
+    "Kameido-cho",
+    "Kojimachi-im",
+    "Kojimachi-ohm",
+    "Kyobashi-ku",
+    "Minami Senju-machi",
+    "Mukojima-ku",
+    "Muko jima-ku",
+    "Makojime-ka",
+    "Nerima",
+    "Nihonbashi-ku",
+    "Nihonbashi-km",
+    "Mihonbashi-ka",
+    "Mihonbashi-km",
+    "Mihonbashi-ios",
+    "Nibonbeshi-ka",
+    "Oji-ku",
+    "0ji-ku",
+    "Sumida-machi"
+   ]
+  },
+  {
+   "name": "Osaka wards and districts",
+   "variants": [
+    "Asahi-ku",
+    "Higashi-ku",
+    "Higashi-ka",
+    "Higashi-ks",
+    "Higashi-ikag",
+    "Higashi-yodogawa-ku",
+    "Higashi-Yodogawa-ka",
+    "Kita-ku",
+    "Kita-ka",
+    "Kita-km",
+    "Kita-iks",
+    "Konohana-ku",
+    "Minato-ku",
+    "Naniwa-ku",
+    "Nishi-ku",
+    "Nishi-Yodogawa-ku",
+    "Nishiyodogawa-ku",
+    "Nishinari-ku",
+    "Sumiyoshi-ku",
+    "Tenneji-ku"
+   ]
+  },
+  {
+   "name": "Nagoya wards and districts",
+   "variants": [
+    "Higashi-ku",
+    "Higashi-ka",
+    "Minami-ku",
+    "Minami-km",
+    "Naka-ku",
+    "Maka-km",
+    "Nishi-ku",
+    "Mishi-ku",
+    "Wishi-ku",
+    "Nishi-ka"
+   ]
+  },
+  {
+   "name": "Kobe wards and districts",
+   "variants": [
+    "Hayashida-ku",
+    "Hyogo-ka",
+    "Minato-ku",
+    "Sumaku"
+   ]
+  },
+  {
+   "name": "Mukogun",
+   "variants": [
+    "Mukogun",
+    "Nukogun",
+    "Lukogun",
+    "Liukogun",
+    "Mukogum"
+   ]
+  },
+  {
+   "name": "Sennan District",
+   "variants": [
+    "Sennan-gun",
+    "Semman-gun",
+    "Serman-gun",
+    "Sennan- gun"
+   ]
+  },
+  {
+   "name": "Senboku District",
+   "variants": [
+    "Senhoku-gun",
+    "Senhoku- gun"
+   ]
+  },
+  {
+   "name": "Kawachi",
+   "variants": [
+    "Minami-kawachi-gun",
+    "Minami Kawachi",
+    "Kitakawmchi-gun",
+    "Nakalkammchi"
+   ]
+  },
+  {
+   "name": "Chita District",
+   "variants": [
+    "Chita-gun",
+    "Chita-gum"
+   ]
+  },
+  {
+   "name": "Hamana District",
+   "variants": [
+    "Hamana-gun",
+    "Hamena-gun"
+   ]
+  },
+  {
+   "name": "Hidaka District",
+   "variants": [
+    "Hidaka-gun"
+   ]
+  },
+  {
+   "name": "Kojima District",
+   "variants": [
+    "Kojima-gun",
+    "Kojimm-gun"
+   ]
+  },
+  {
+   "name": "Tsukubo District",
+   "variants": [
+    "Tsukubo-gun",
+    "Tsukubo-cho"
+   ]
+  },
+  {
+   "name": "Kako District",
+   "variants": [
+    "Kako-gun"
+   ]
+  },
+  {
+   "name": "Kasai District",
+   "variants": [
+    "Kasai-gun",
+    "Kasai-gum"
+   ]
+  },
+  {
+   "name": "Taka District",
+   "variants": [
+    "Taka-gun"
+   ]
+  },
+  {
+   "name": "Niwa District",
+   "variants": [
+    "Niwa-gun"
+   ]
+  },
+  {
+   "name": "Hekikai District",
+   "variants": [
+    "Hekkai-gun",
+    "Hekkmi-gun",
+    "Hekikai",
+    "Bekikai"
+   ]
+  },
+  {
+   "name": "Gamo District",
+   "variants": [
+    "Gamo-gun",
+    "Gasoo-gun"
+   ]
+  },
+  {
+   "name": "Saihaku District",
+   "variants": [
+    "Saihaku-gun"
+   ]
+  },
+  {
+   "name": "Kita-Katsuragi District",
+   "variants": [
+    "Kita-Katsuragi-gun"
+   ]
+  },
+  {
+   "name": "Kita-Katsushika District",
+   "variants": [
+    "Kita-Xatsu-shikagun",
+    "Kitakatsushika-gun",
+    "Kita-adachi-gun"
+   ]
+  },
+  {
+   "name": "Minami-Kanbara District",
+   "variants": [
+    "Minami-Kanbare-gun",
+    "Minami-Kanbara-gun"
+   ]
+  },
+  {
+   "name": "Ashikaga District",
+   "variants": [
+    "Ashikaga-gun"
+   ]
+  },
+  {
+   "name": "Iwata District",
+   "variants": [
+    "Irata-gun",
+    "Iwate-gum"
+   ]
+  },
+  {
+   "name": "Ibo District",
+   "variants": [
+    "Irma-gun",
+    "Irumangun"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "Nihonbashi"
+   ]
+  },
+  {
+   "name": "Nakanoshima",
+   "variants": [
+    "Nakanoshima",
+    "Makaneshims",
+    "Makanoshims"
+   ]
+  },
+  {
+   "name": "Bingo-machi",
+   "variants": [
+    "Bingo-machi",
+    "Bingomachi",
+    "Bingommchi",
+    "Bingo-cbo"
+   ]
+  },
+  {
+   "name": "Dojima",
+   "variants": [
+    "Dojima-hamadori",
+    "Dojima Hamadori",
+    "Dojima Hama=dori"
+   ]
+  },
+  {
+   "name": "Motomachi, Kurashiki",
+   "variants": [
+    "Motomachi, Kurashiki"
+   ]
+  },
+  {
+   "name": "Nishijin",
+   "variants": [
+    "Nishijin-ori"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Shingo Tsude",
+   "role": "President of Kanegafuchi Boseki",
+   "variants": [
+    "Shingo Tsude"
+   ]
+  },
+  {
+   "name": "Hideyoshi Kido",
+   "role": "Kanegafuchi Boseki official",
+   "variants": [
+    "Hideyoshi Kido"
+   ]
+  },
+  {
+   "name": "Gota Miyake",
+   "role": "Kanegafuchi Boseki official",
+   "variants": [
+    "Gota Miyake"
+   ]
+  },
+  {
+   "name": "Heisaemon Hibiya",
+   "role": "Chairman, Fuji Gasu Boseki",
+   "variants": [
+    "Heisaemos Hibiye"
+   ]
+  },
+  {
+   "name": "Yoshihisa Shimamura",
+   "role": "Managing director, Fuji Gasu Boseki",
+   "variants": [
+    "Yoshihisa Shlamsure"
+   ]
+  },
+  {
+   "name": "Seijiro Miyajima",
+   "role": "Director, Nisshin Boseki",
+   "variants": [
+    "Seijiro Miyajima"
+   ]
+  },
+  {
+   "name": "Kyoso Kikuchi",
+   "role": "Chairman, Dai Nippon Boseki",
+   "variants": [
+    "Kyoso Kikuchi"
+   ]
+  },
+  {
+   "name": "Gengo Odera",
+   "role": "President, Dai Nippon Boseki",
+   "variants": [
+    "Gengo Odera"
+   ]
+  },
+  {
+   "name": "Kushio Imamura",
+   "role": "Managing director, Dai Nippon Boseki",
+   "variants": [
+    "Kushio Imamura"
+   ]
+  },
+  {
+   "name": "Keizo Kurata",
+   "role": "Managing director, Dai Nippon Boseki",
+   "variants": [
+    "Keizo Kurata"
+   ]
+  },
+  {
+   "name": "Juzo Tashiro",
+   "role": "Managing director, Dai Nippon Boseki",
+   "variants": [
+    "Juzo Tashiro"
+   ]
+  },
+  {
+   "name": "Shigeru Oshima",
+   "role": "Managing director, Dai Nippon Boseki",
+   "variants": [
+    "Shigeru Oshima"
+   ]
+  },
+  {
+   "name": "Tomoyoshi Mimura",
+   "role": "Managing director, Dai Nippon Boseki",
+   "variants": [
+    "Tomoyoshi Mimra"
+   ]
+  },
+  {
+   "name": "Otokichi Shoji",
+   "role": "President, Toyo Boseki and Japan Cotton Spinners’ Association",
+   "variants": [
+    "Otokichi Shoji",
+    "Otokichi SHoJI"
+   ]
+  },
+  {
+   "name": "Denshichi Ito",
+   "role": "Managing director, Toyo Boseki",
+   "variants": [
+    "Denshichi Ito"
+   ]
+  },
+  {
+   "name": "Kenzo Taneda",
+   "role": "Managing director, Toyo Boseki",
+   "variants": [
+    "Kenzo Taneda"
+   ]
+  },
+  {
+   "name": "Keizo Seki",
+   "role": "Managing director, Toyo Boseki",
+   "variants": [
+    "Keizo Seki",
+    "Keizo SkkI"
+   ]
+  },
+  {
+   "name": "Magosaburo Ohara",
+   "role": "President, Kurashiki Boseki",
+   "variants": [
+    "Magosaburo Ohara"
+   ]
+  },
+  {
+   "name": "Ryukichi Jinsha",
+   "role": "Managing director, Kurashiki Boseki",
+   "variants": [
+    "Ryukichi Jinsha"
+   ]
+  },
+  {
+   "name": "Keijiro Hayashi",
+   "role": "Managing director, Kurashiki Boseki",
+   "variants": [
+    "Keijiro Hayashi"
+   ]
+  },
+  {
+   "name": "Taunejiro Miwa",
+   "role": "President, union of cotton textile manufacturers’ associations and Hattori Shoten",
+   "variants": [
+    "Taunejiro MIWA"
+   ]
+  },
+  {
+   "name": "Saburo Nango",
+   "role": "President of cotton exporters’ associations and Nippon Menkwa",
+   "variants": [
+    "Saburo NAnGO"
+   ]
+  },
+  {
+   "name": "Kenzo Gondo",
+   "role": "President, Japan Cotton Merchants’ Union and Toyo Menkwa",
+   "variants": [
+    "Kenzo GOnnO"
+   ]
+  },
+  {
+   "name": "Sakao Yamasaki",
+   "role": "Secretary, Reception Committee",
+   "variants": [
+    "Sakao YAMASAkI"
+   ]
+  },
+  {
+   "name": "Gentaro Okada",
+   "role": "Managing director, Naigai Wata",
+   "variants": [
+    "Gentaro OkaDA"
+   ]
+  },
+  {
+   "name": "Kazuyoshi Mimura",
+   "role": "Managing director, Dai Nippon Boseki",
+   "variants": [
+    "Kazuycshi MINURA"
+   ]
+  },
+  {
+   "name": "Kiyoshi Inouye",
+   "role": "Director, Kanegafuchi Boseki",
+   "variants": [
+    "Kiyoshi INoUYE"
+   ]
+  },
+  {
+   "name": "Toichi Terada",
+   "role": "Managing director of Enshu cotton manufacturers’ association and Dai Nippon Corduroy",
+   "variants": [
+    "Toichi TERADA"
+   ]
+  },
+  {
+   "name": "Kasaburo Ichii",
+   "role": "Chief director, Osaka Dyers’ Association; president, Ichii Dyeing",
+   "variants": [
+    "Kasaburo ICHII"
+   ]
+  },
+  {
+   "name": "Shintaro Nakamura",
+   "role": "Managing director, Itoh Chu Shoji",
+   "variants": [
+    "Shintaro NAkAMURA"
+   ]
+  },
+  {
+   "name": "Yujiro Kunimatsu",
+   "role": "Director, Toyo Menkwa",
+   "variants": [
+    "Yujiro KUmIMATSU"
+   ]
+  },
+  {
+   "name": "Seitaro Yamauki",
+   "role": "Director, Toyo Menkwa",
+   "variants": [
+    "Seitaro YAmmuKI"
+   ]
+  },
+  {
+   "name": "Toso A",
+   "role": "Director, Mataichi",
+   "variants": [
+    "Toso A"
+   ]
+  },
+  {
+   "name": "Genji Kato",
+   "role": "President, Kato Bussan; Mitsui Bussan Osaka representative",
+   "variants": [
+    "Genji KAto"
+   ]
+  },
+  {
+   "name": "Kote Tsukada",
+   "role": "Managing director, Toyo Menkwa",
+   "variants": [
+    "Kote TSUkaDA"
+   ]
+  },
+  {
+   "name": "Suso Kato",
+   "role": "Managing director, Nippon Menkwa",
+   "variants": [
+    "Suso KATO"
+   ]
+  },
+  {
+   "name": "Masaru Nakao",
+   "role": "Managing director, Gosho",
+   "variants": [
+    "Masaru NAkAo"
+   ]
+  },
+  {
+   "name": "Kozaburo Shiraishi",
+   "role": "Managing director, Japan Cotton Spinners’ Association",
+   "variants": [
+    "Kozaburo SHIRAISHI"
+   ]
+  },
+  {
+   "name": "Kanaw Irie",
+   "role": "Director of cotton exporters’ and merchants’ unions",
+   "variants": [
+    "Kanaw IRIE"
+   ]
+  },
+  {
+   "name": "Kasaburo Aoki",
+   "role": "Managing director, Japan Cotton Yarn & Piecegoods Exporters’ Association for America",
+   "variants": [
+    "Kasaburo AOKI"
+   ]
+  },
+  {
+   "name": "Kintaro Ebisuya",
+   "role": "Secretary, union of cotton textile manufacturers’ associations",
+   "variants": [
+    "Kintaro EBISUYA"
+   ]
+  },
+  {
+   "name": "Kyohei Hakano",
+   "role": "Chief, Research Department, Japan Cotton Trading",
+   "variants": [
+    "Kyohei HAkANO"
+   ]
+  },
+  {
+   "name": "Ichiro Kawaguchi",
+   "role": "Secretary, Japan Cotton Spinners’ Association",
+   "variants": [
+    "Ichiro KAWAGUCHI"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "textile industry",
+  "cotton spinning",
+  "rayon",
+  "silk",
+  "wartime controls",
+  "industrial concentration",
+  "postwar reconstruction",
+  "reparations",
+  "industry associations",
+  "mill capacity"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese Textile Industry: Capacity, Control, and Recommendations",
+   "doc_type": "report",
+   "start_page": 81,
+   "end_page": 119,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Assessment of Japan’s remaining textile capacity, its prewar and wartime organization, and measures for post-surrender recovery.",
+   "summary": "The report estimates that surviving cotton and synthetic fiber facilities could meet a minimum level of Japanese civilian demand if raw materials were available. It describes how major firms dominated prewar textile cartels, gained greater control through wartime production and distribution bodies, and acquired or displaced smaller producers as plants and equipment shifted to war work. It recommends inventories, imports, repairs and reconversion, allocating initial civilian supplies at the 1943 level, abolishing wartime control structures, and supporting independent firms under a new Textile Control Commission.",
+   "keywords": [
+    "textile capacity",
+    "cotton",
+    "synthetic fiber",
+    "wartime control",
+    "reconversion",
+    "reparations",
+    "Textile Control Commission"
+   ]
+  },
+  {
+   "title": "Appendices",
+   "doc_type": "appendix divider",
+   "start_page": 120,
+   "end_page": 120,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Divider introducing the report’s appendices.",
+   "summary": "Title page for the appendices.",
+   "keywords": [
+    "appendices"
+   ]
+  },
+  {
+   "title": "Appendix I-1: The “Big Six” Cotton Firms",
+   "doc_type": "appendix",
+   "start_page": 121,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Profiles six leading cotton spinning firms and their offices, executives, business lines, factories, equipment, and output.",
+   "summary": "Profiles Kanegafuchi, Fuji Gasu, Nisshin, Dai Nippon, Toyo, and Kurashiki Boseki. The Kanegafuchi profile appears twice on pages 121–122. Figures and addresses largely describe conditions in 1936–1937.",
+   "keywords": [
+    "Big Six",
+    "cotton spinning",
+    "company profiles",
+    "factories",
+    "spindles"
+   ]
+  },
+  {
+   "title": "Appendix I-2: Members of the Japan Cotton Spinners’ Association",
+   "doc_type": "membership list",
+   "start_page": 128,
+   "end_page": 131,
+   "continues_previous": false,
+   "date": "1938",
+   "from": "",
+   "to": "",
+   "about": "Names and addresses of members of the Japan Cotton Spinners’ Association.",
+   "summary": "Lists member firms and their addresses across Japan.",
+   "keywords": [
+    "cotton spinners",
+    "membership",
+    "firm addresses"
+   ]
+  },
+  {
+   "title": "Appendix I-3: Japan Federation of Cotton Textile Manufacturers’ Associations",
+   "doc_type": "membership list",
+   "start_page": 132,
+   "end_page": 135,
+   "continues_previous": false,
+   "date": "1938",
+   "from": "",
+   "to": "",
+   "about": "Names and addresses of cotton textile manufacturers’ associations.",
+   "summary": "Lists local associations and their addresses, with several firms also entered.",
+   "keywords": [
+    "cotton textiles",
+    "manufacturers’ associations",
+    "addresses"
+   ]
+  },
+  {
+   "title": "Appendix I-4: Leading Associations in the Cotton Industry",
+   "doc_type": "directory",
+   "start_page": 136,
+   "end_page": 136,
+   "continues_previous": false,
+   "date": "1939",
+   "from": "",
+   "to": "",
+   "about": "Directory of leading cotton industry associations and their addresses.",
+   "summary": "Lists five cotton spinning, exporting, merchant, and manufacturers’ associations.",
+   "keywords": [
+    "cotton industry",
+    "associations",
+    "directory"
+   ]
+  },
+  {
+   "title": "Appendix I-5: Key Individuals in the Cotton Industry of Japan",
+   "doc_type": "directory",
+   "start_page": 137,
+   "end_page": 138,
+   "continues_previous": false,
+   "date": "1937",
+   "from": "",
+   "to": "",
+   "about": "Names, positions, affiliations, and home addresses of cotton industry figures.",
+   "summary": "Identifies executives and association officers with their home addresses.",
+   "keywords": [
+    "cotton industry",
+    "executives",
+    "association officers"
+   ]
+  },
+  {
+   "title": "Appendix I-6: Cotton Textile Mills and Their Capacity in 1940",
+   "doc_type": "statistical table",
+   "start_page": 139,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1940",
+   "from": "",
+   "to": "",
+   "about": "Geographic table of cotton textile mills, spindleage, looms, and shares of national capacity.",
+   "summary": "Tables cover Osaka, Hyogo, Wakayama, Aichi, Gifu, the Tokyo and Yokohama consular districts, Okayama, Hiroshima, Mie, Shiga, and other locations. Pages 146–147 substantially duplicate one table.",
+   "keywords": [
+    "cotton mills",
+    "spindles",
+    "looms",
+    "capacity",
+    "geographic distribution"
+   ]
+  },
+  {
+   "title": "Appendix I-7: Ten Remaining Cotton Spinning Firms",
+   "doc_type": "statistical appendix",
+   "start_page": 149,
+   "end_page": 150,
+   "continues_previous": false,
+   "date": "1945",
+   "from": "",
+   "to": "",
+   "about": "Lists the ten surviving large cotton spinning firms and presents a consolidated balance sheet.",
+   "summary": "Compares firm spindleage before and during the war, notes requisitioning for scrap, and tabulates capital, profits, liabilities, and assets.",
+   "keywords": [
+    "cotton spinning",
+    "firm concentration",
+    "spindleage",
+    "balance sheet"
+   ]
+  },
+  {
+   "title": "Appendix II-1: Japanese Federation of Rayon Yarn Manufacturers",
+   "doc_type": "membership list",
+   "start_page": 151,
+   "end_page": 152,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Directory of rayon yarn manufacturers and their head and sales offices.",
+   "summary": "Lists rayon companies with office addresses.",
+   "keywords": [
+    "rayon yarn",
+    "manufacturers",
+    "directory"
+   ]
+  },
+  {
+   "title": "Appendix II-2: Japanese Federation of Rayon Textile Manufacturers’ Associations",
+   "doc_type": "membership list",
+   "start_page": 153,
+   "end_page": 153,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Directory of rayon textile manufacturers’ associations and their addresses.",
+   "summary": "Begins a list of local rayon weaving associations.",
+   "keywords": [
+    "rayon textiles",
+    "manufacturers’ associations",
+    "addresses"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 8,
+  "pages": [
+   81,
+   153
+  ],
+  "pdf": "894.655 Manufactures. Manufacturing., Japan, Textiles., May 23, 1945 - December 30, 1946 1554.pdf",
+  "seconds": 74.8,
+  "created": "2026-10-08 18:03:34",
+  "key": "japan-internal-affairs-894.655-manufactures-manufacturing-japan-5"
+ }
+}

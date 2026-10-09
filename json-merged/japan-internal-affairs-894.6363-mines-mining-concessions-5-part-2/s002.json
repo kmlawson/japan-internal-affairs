@@ -1,0 +1,979 @@
+{
+ "section_summary": "This section traces a dispute over Japan’s six-month oil storage requirement. American and British oil companies proposed an independent storage company, then turned to possible arrangements with Mitsui to avoid setting a precedent for their operations elsewhere. Embassy reports and company cables record Japanese officials’ responses, oil import quotas, refinery applications, and interest in producing gasoline from coal.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Janan",
+    "Jepan",
+    "Jupan",
+    "Jepen",
+    "Jepenese",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Torye"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokokama",
+    "YOKOHAMA",
+    "YOKOHANA",
+    "TOKOHAMA",
+    "OKOHAMA"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York",
+    "NEW YORK",
+    "NEWYORK",
+    "Now York",
+    "ew York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "london",
+    "ondon"
+   ]
+  },
+  {
+   "name": "The Hague",
+   "variants": [
+    "The Hague"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "vetnerlands"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "manchuria"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germeny"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghei"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "HongKong"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U S A"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "Englend"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "GREW",
+    "Joseph C. Grew",
+    "Mr. Grew"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Chief, Division of Far Eastern Affairs",
+   "variants": [
+    "Dr. Stanley K. Hornbeck",
+    "Dr. S. K. Hornbeck",
+    "Dr. S. I. Hornbook",
+    "Dr. Hornbeok",
+    "Mr. Hornbeok",
+    "Mr. Hornbeck",
+    "Stanley K. Hornbeok"
+   ]
+  },
+  {
+   "name": "Kurusu",
+   "role": "Chief, Bureau of Commercial Affairs, Japanese Foreign Office",
+   "variants": [
+    "Kurusu",
+    "Mr. Kurusu",
+    "Mr. Murusu",
+    "Mr.Kurusu",
+    "Kurnsu"
+   ]
+  },
+  {
+   "name": "Yoshino",
+   "role": "Japanese Vice Minister for Commerce and Industry",
+   "variants": [
+    "Yoshino",
+    "Mr. Yoshino",
+    "Mr.Yoshino",
+    "Toshino"
+   ]
+  },
+  {
+   "name": "Dickover",
+   "role": "American Embassy officer",
+   "variants": [
+    "Dickover",
+    "Mr. Dickover",
+    "Mr. ickover",
+    "Lir. Dickover"
+   ]
+  },
+  {
+   "name": "Macrae",
+   "role": "British Embassy officer",
+   "variants": [
+    "Macrae",
+    "Mr. Macrae",
+    "r. acrae"
+   ]
+  },
+  {
+   "name": "Meyer",
+   "role": "Standard-Vacuum representative",
+   "variants": [
+    "Meyer",
+    "Mr. Meyer",
+    "Mr. Meyer's",
+    "Messrs. Ely and Meyer",
+    "Messrs. Meyer and Ely",
+    "Messrs. Mayer and Ely",
+    "LEYER"
+   ]
+  },
+  {
+   "name": "Ely",
+   "role": "Rising Sun Petroleum representative",
+   "variants": [
+    "Ely",
+    "Mr. Ely",
+    "Messrs. Ely and Meyer",
+    "Messrs. Meyer and Ely",
+    "Messrs. Mayer and Ely"
+   ]
+  },
+  {
+   "name": "P. W. Parker",
+   "role": "Standard-Vacuum Oil Company official",
+   "variants": [
+    "Mr. Philo W. Parker",
+    "Mr. P. W. Parker",
+    "Mr. P. .. Parker",
+    "Mr. Parker",
+    "P. W. PARKER",
+    "P. W. Parker"
+   ]
+  },
+  {
+   "name": "P. N. Parks",
+   "role": "Standard-Vacuum Oil Company correspondent",
+   "variants": [
+    "P.N. Parks",
+    "PN.Parks"
+   ]
+  },
+  {
+   "name": "Dundas",
+   "role": "Standard-Vacuum correspondent",
+   "variants": [
+    "Mr. Dundas"
+   ]
+  },
+  {
+   "name": "W. C. Teagle",
+   "role": "Standard Oil Company of New Jersey official",
+   "variants": [
+    "Mr. W. C. Toagle",
+    "Mr. Teagle"
+   ]
+  },
+  {
+   "name": "Mackay",
+   "role": "Department of State participant in oil discussion",
+   "variants": [
+    "Mr. Mackay"
+   ]
+  },
+  {
+   "name": "Sanjo",
+   "role": "Managing Director, Mitsui Gomei Kaisha",
+   "variants": [
+    "Mr. anjo"
+   ]
+  },
+  {
+   "name": "Tajima",
+   "role": "Vice President, Mitsui Bussan Kaisha",
+   "variants": [
+    "r. Tajima"
+   ]
+  },
+  {
+   "name": "Mukai",
+   "role": "Managing Director, Mitsui Bussan Kaisha",
+   "variants": [
+    "Ir. Mukai"
+   ]
+  },
+  {
+   "name": "John Lee Byrnes",
+   "role": "Proponent of an oil company to supply Japan",
+   "variants": [
+    "Mr. John Lee Byrnes"
+   ]
+  },
+  {
+   "name": "Early",
+   "role": "Sender identified on a document file note",
+   "variants": [
+    "Early"
+   ]
+  },
+  {
+   "name": "Daniels",
+   "role": "Sender identified on a document file note from Mexico",
+   "variants": [
+    "Daniels"
+   ]
+  }
+ ],
+ "keywords": [
+  "Petroleum Industry Law",
+  "oil storage",
+  "six-month stocks",
+  "import quotas",
+  "foreign oil companies",
+  "Mitsui",
+  "Japanese capital",
+  "refining capacity",
+  "diplomatic representations",
+  "coal liquefaction",
+  "hydrogenation",
+  "gasoline"
+ ],
+ "subfiles": [
+  {
+   "title": "Corrected copy of Grew’s telegram No. 77",
+   "doc_type": "telegram",
+   "start_page": 81,
+   "end_page": 82,
+   "continues_previous": false,
+   "date": "1936-03-20",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Grew proposes seeking suspension of Japan’s oil storage regulations during negotiations with Mitsui.",
+   "summary": "Standard-Vacuum asks the Embassy to support a pause in the regulations while oil companies negotiate with Mitsui. Grew has approached Kurusu informally and plans to consult the Vice Minister alongside the British Ambassador.",
+   "keywords": [
+    "oil storage",
+    "Mitsui",
+    "suspension",
+    "Standard-Vacuum"
+   ]
+  },
+  {
+   "title": "Telegram No. 77 on American oil interests",
+   "doc_type": "telegram",
+   "start_page": 83,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1936-03-20",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "A second filed copy reports the proposed Mitsui negotiations and planned diplomatic approach.",
+   "summary": "Grew reports that the oil interests are approaching Mitsui and asks whether he should urge suspension of storage regulations until negotiations finish.",
+   "keywords": [
+    "oil storage",
+    "Mitsui",
+    "British Embassy"
+   ]
+  },
+  {
+   "title": "Department telegram No. 33 to Tokyo",
+   "doc_type": "telegram",
+   "start_page": 85,
+   "end_page": 86,
+   "continues_previous": false,
+   "date": "1936-03-20",
+   "from": "Department of State, Washington",
+   "to": "American Embassy, Tokyo",
+   "about": "The Department urges careful coordination before supporting the companies’ proposed Mitsui approach.",
+   "summary": "The Department approves Grew’s informal action but says the companies’ plan remains undeveloped. It advises the Embassy to confirm that negotiations are under way and coordinate discreetly with the companies and British Embassy.",
+   "keywords": [
+    "Mitsui",
+    "coordination",
+    "oil storage"
+   ]
+  },
+  {
+   "title": "Parks letter enclosing Yokohama cable",
+   "doc_type": "letter",
+   "start_page": 87,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1936-03-17",
+   "from": "P. N. Parks, Standard-Vacuum Oil Company",
+   "to": "Stanley K. Hornbeck",
+   "about": "Parks forwards a March 16 cable from Standard-Vacuum’s Yokohama representative.",
+   "summary": "Forwards the cable and notes that London received a similar message.",
+   "keywords": [
+    "Standard-Vacuum",
+    "Yokohama",
+    "correspondence"
+   ]
+  },
+  {
+   "title": "Yokohama cable on storage-company proposal",
+   "doc_type": "cablegram",
+   "start_page": 88,
+   "end_page": 92,
+   "continues_previous": false,
+   "date": "1936-03-16",
+   "from": "Standard-Vacuum representative, Yokohama",
+   "to": "Standard-Vacuum, New York",
+   "about": "Local representatives report Japanese objections to an independent company carrying required oil stocks.",
+   "summary": "Kurusu and Yoshino question how a storage company would earn income and warn that foreign import quotas could be cut if the companies do not comply. Embassy representatives suggest agent financing and a fee for access to stored oil. The cable also discusses possible refinery expansion and coal-derived gasoline.",
+   "keywords": [
+    "storage company",
+    "import quotas",
+    "Kurusu",
+    "Yoshino",
+    "hydrogenation"
+   ]
+  },
+  {
+   "title": "Parks letter enclosing March 19 cables",
+   "doc_type": "letter",
+   "start_page": 93,
+   "end_page": 93,
+   "continues_previous": false,
+   "date": "1936-03-19",
+   "from": "P. N. Parks, Standard-Vacuum Oil Company",
+   "to": "Stanley K. Hornbeck",
+   "about": "Parks supplies cables sent to Yokohama by the American and British oil interests.",
+   "summary": "Encloses two telegrams and proposes discussing them with Hornbeck.",
+   "keywords": [
+    "Standard-Vacuum",
+    "Shell",
+    "Yokohama"
+   ]
+  },
+  {
+   "title": "Instructions to explore an arrangement with Mitsui",
+   "doc_type": "cablegram copies",
+   "start_page": 94,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1936-03-19",
+   "from": "Standard-Vacuum and British oil interests, New York and London",
+   "to": "Their representatives, Yokohama",
+   "about": "The companies propose exploring a Mitsui arrangement while seeking a pause in storage regulations.",
+   "summary": "The head offices reject a dealers’ association and favor approaching Mitsui, with later negotiations in New York. They leave the order of approaches to Mitsui and Japanese officials to local representatives.",
+   "keywords": [
+    "Mitsui",
+    "dealers",
+    "storage regulations",
+    "New York"
+   ]
+  },
+  {
+   "title": "Grew telegram No. 78",
+   "doc_type": "telegram",
+   "start_page": 96,
+   "end_page": 97,
+   "continues_previous": false,
+   "date": "1936-03-23",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State, Washington",
+   "about": "Grew reports a favorable response to the proposed use of Japanese capital.",
+   "summary": "Yoshino promises unchanged quotas for the next quarter and continued delay of refinery applications. Grew and his British colleague decide to reserve formal representations for a later need.",
+   "keywords": [
+    "Mitsui",
+    "import quotas",
+    "refineries",
+    "diplomacy"
+   ]
+  },
+  {
+   "title": "Transmittal of oil-conversation memoranda",
+   "doc_type": "cover letter",
+   "start_page": 98,
+   "end_page": 98,
+   "continues_previous": false,
+   "date": "1936-04-20",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "The Department sends memoranda of March 19 and March 23 conversations with oil officials.",
+   "summary": "Transmits two conversation memoranda for the Ambassador’s information.",
+   "keywords": [
+    "memoranda",
+    "oil interests"
+   ]
+  },
+  {
+   "title": "Division note on despatch No. 1723",
+   "doc_type": "file memorandum",
+   "start_page": 99,
+   "end_page": 99,
+   "continues_previous": false,
+   "date": "1936-03-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "A file note assesses an earlier Embassy report on oil negotiations and coal hydrogenation.",
+   "summary": "Finds the despatch overtaken by later news; flags negotiations over a coal-hydrogenation process.",
+   "keywords": [
+    "oil storage",
+    "coal hydrogenation"
+   ]
+  },
+  {
+   "title": "Despatch No. 1723: American oil interests in Japan",
+   "doc_type": "despatch",
+   "start_page": 100,
+   "end_page": 104,
+   "continues_previous": false,
+   "date": "1936-03-06",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "The Embassy reviews February negotiations over oil storage and reports talks on coal liquefaction.",
+   "summary": "Japanese officials suggest a fixed ceiling on required stocks, compensation, and guarantees of future business. The companies consider a plan for Japanese government ownership of extra stocks, but local representatives doubt it would be acceptable. Grew also reports technical discussions over a coal liquefaction process and Mitsui’s interest in a competing process.",
+   "keywords": [
+    "Petroleum Industry Law",
+    "oil storage",
+    "compensation",
+    "coal liquefaction"
+   ]
+  },
+  {
+   "title": "Dickover–Kurusu conversation",
+   "doc_type": "memorandum of conversation",
+   "start_page": 105,
+   "end_page": 106,
+   "continues_previous": false,
+   "date": "1936-02-22",
+   "from": "American Embassy, Tokyo",
+   "to": "",
+   "about": "Kurusu conveys Yoshino’s proposed terms for continued oil negotiations.",
+   "summary": "Yoshino insists the six-month rule remains but invites a proposal for a fixed stock ceiling, compensation, and future trade guarantees. He links progress to continued quotas and postponement of domestic refinery approvals.",
+   "keywords": [
+    "Kurusu",
+    "Yoshino",
+    "stock ceiling",
+    "quotas"
+   ]
+  },
+  {
+   "title": "Yokohama cable relaying Yoshino’s proposal",
+   "doc_type": "cablegram copy",
+   "start_page": 107,
+   "end_page": 108,
+   "continues_previous": false,
+   "date": "1936-02-24",
+   "from": "Oil company representatives, Yokohama",
+   "to": "Head office, New York",
+   "about": "Local representatives relay Japanese terms and recommend a concrete counterproposal.",
+   "summary": "The cable describes Yoshino’s proposed stock ceiling, compensation, and guarantees, together with warnings about quotas and refinery approvals. Local representatives recommend prompt negotiations.",
+   "keywords": [
+    "oil storage",
+    "quotas",
+    "refining capacity"
+   ]
+  },
+  {
+   "title": "London cable proposing government-owned storage",
+   "doc_type": "cablegram copy",
+   "start_page": 109,
+   "end_page": 109,
+   "continues_previous": false,
+   "date": "1936-02-24",
+   "from": "British oil interests, London",
+   "to": "Representatives, Yokohama",
+   "about": "London suggests that Japan finance and own the extra stocks and tanks.",
+   "summary": "Proposes government-owned storage that companies could acquire as trade grows; instructs local representatives to seek views without presenting the idea to Japan.",
+   "keywords": [
+    "government financing",
+    "oil tanks",
+    "precedent"
+   ]
+  },
+  {
+   "title": "Yokohama reply on government-owned storage",
+   "doc_type": "cablegram copy",
+   "start_page": 110,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1936-02-27",
+   "from": "Standard-Vacuum, Yokohama",
+   "to": "New York office",
+   "about": "Local representatives explain why complete Japanese government financing seems impractical.",
+   "summary": "Warns that the proposal could cost Japan prestige, prompt more refining, and require comparable financing for domestic companies.",
+   "keywords": [
+    "government financing",
+    "refining",
+    "oil storage"
+   ]
+  },
+  {
+   "title": "Hornbeck telephone memorandum",
+   "doc_type": "memorandum of conversation",
+   "start_page": 111,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1936-03-23",
+   "from": "Stanley K. Hornbeck",
+   "to": "",
+   "about": "Parker asks about instructing Grew to seek suspension of storage requirements.",
+   "summary": "Hornbeck declines to promise a specific instruction, then telephones Parker with the substance of Grew’s latest report.",
+   "keywords": [
+    "Parker",
+    "Grew",
+    "oil storage"
+   ]
+  },
+  {
+   "title": "March 19 conversation with oil company officials",
+   "doc_type": "memorandum of conversation",
+   "start_page": 113,
+   "end_page": 114,
+   "continues_previous": false,
+   "date": "1936-03-19",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Teagle and Parker discuss a possible arrangement with Mitsui with Department officials.",
+   "summary": "The companies consider a joint approach to Mitsui and hope Japan will suspend the storage regulations during negotiations. Hornbeck sees no objection to exploring the plan; no Department action is requested.",
+   "keywords": [
+    "Mitsui",
+    "Teagle",
+    "Parker",
+    "oil storage"
+   ]
+  },
+  {
+   "title": "Division note on Standard-Vacuum’s March 24 cable",
+   "doc_type": "file memorandum",
+   "start_page": 115,
+   "end_page": 115,
+   "continues_previous": false,
+   "date": "1936-03-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note highlights possible Japanese partners and proposed fuel legislation.",
+   "summary": "Flags consortium possibilities, proposed fuel laws, and a reported gasoline tax.",
+   "keywords": [
+    "Japanese capital",
+    "fuel legislation",
+    "gasoline tax"
+   ]
+  },
+  {
+   "title": "Parker letter enclosing March 24 cable",
+   "doc_type": "letter",
+   "start_page": 116,
+   "end_page": 116,
+   "continues_previous": false,
+   "date": "1936-03-24",
+   "from": "P. W. Parker, Standard-Vacuum",
+   "to": "Stanley K. Hornbeck",
+   "about": "Parker forwards the latest Yokohama report and awaits Mitsui’s response.",
+   "summary": "Encloses the cable and says the company awaits word from Mitsui.",
+   "keywords": [
+    "Yokohama",
+    "Mitsui"
+   ]
+  },
+  {
+   "title": "March 24 Yokohama cable",
+   "doc_type": "cablegram",
+   "start_page": 117,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1936-03-24",
+   "from": "Standard-Vacuum, Yokohama",
+   "to": "Standard-Vacuum, New York",
+   "about": "The cable reports Japanese officials’ favorable reception of talks involving Japanese capital.",
+   "summary": "Yoshino offers unchanged quotas and delay of refinery approvals, while indicating that a consortium or separate Japanese partners might be preferable to Mitsui alone. The cable notes proposed fuel legislation.",
+   "keywords": [
+    "Mitsui",
+    "quotas",
+    "Japanese capital",
+    "fuel legislation"
+   ]
+  },
+  {
+   "title": "Hornbeck acknowledgment to Parker",
+   "doc_type": "letter",
+   "start_page": 120,
+   "end_page": 120,
+   "continues_previous": false,
+   "date": "1936-03",
+   "from": "Stanley K. Hornbeck",
+   "to": "P. W. Parker",
+   "about": "Hornbeck acknowledges Parker’s March 24 letter and cable.",
+   "summary": "Thanks Parker for details supplementing the Embassy’s telegram.",
+   "keywords": [
+    "acknowledgment",
+    "oil interests"
+   ]
+  },
+  {
+   "title": "Copy of Parker letter",
+   "doc_type": "letter copy",
+   "start_page": 121,
+   "end_page": 121,
+   "continues_previous": false,
+   "date": "1936-03",
+   "from": "P. W. Parker, Standard-Vacuum",
+   "to": "Stanley K. Hornbeck",
+   "about": "A second filed copy forwards the Yokohama cable and notes that Mitsui’s answer is pending.",
+   "summary": "Duplicates Parker’s letter forwarding the March 24 cable.",
+   "keywords": [
+    "Yokohama",
+    "Mitsui"
+   ]
+  },
+  {
+   "title": "Clear copy of March 24 Yokohama cable",
+   "doc_type": "cablegram copy",
+   "start_page": 122,
+   "end_page": 123,
+   "continues_previous": false,
+   "date": "1936-03-24",
+   "from": "Standard-Vacuum, Yokohama",
+   "to": "Standard-Vacuum, New York",
+   "about": "The cable details Yoshino’s assurances and possible Japanese partners.",
+   "summary": "Reports unchanged April–June quotas, delayed refinery approvals, possible arrangements with Japanese interests, and proposed fuel laws and a gasoline tax.",
+   "keywords": [
+    "quotas",
+    "Mitsui",
+    "Japanese capital",
+    "gasoline tax"
+   ]
+  },
+  {
+   "title": "Cross-reference to oil-monopoly report",
+   "doc_type": "document file note",
+   "start_page": 124,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "1936-02-21",
+   "from": "Joseph C. Grew, Japan",
+   "to": "",
+   "about": "The note points to another file on foreign oil interests’ negotiations.",
+   "summary": "Cross-references a report on the status of oil negotiations.",
+   "keywords": [
+    "cross-reference",
+    "oil monopoly"
+   ]
+  },
+  {
+   "title": "Extract on January oil negotiations",
+   "doc_type": "report extract",
+   "start_page": 125,
+   "end_page": 125,
+   "continues_previous": true,
+   "date": "1936",
+   "from": "",
+   "to": "",
+   "about": "An extract recounts improving prospects for agreement during January.",
+   "summary": "Japanese officials appeared increasingly willing to offer concessions after recognizing the companies would not accept uncompensated six-month stocks.",
+   "keywords": [
+    "January negotiations",
+    "oil storage",
+    "concessions"
+   ]
+  },
+  {
+   "title": "Division note on despatch No. 1747",
+   "doc_type": "file memorandum",
+   "start_page": 126,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "1936-04-21",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note assesses the Embassy’s March 20 account of oil negotiations.",
+   "summary": "Expects further reports on a possible joint enterprise with Mitsui.",
+   "keywords": [
+    "Mitsui",
+    "joint enterprise"
+   ]
+  },
+  {
+   "title": "Despatch No. 1747: American oil interests in Japan",
+   "doc_type": "despatch",
+   "start_page": 127,
+   "end_page": 131,
+   "continues_previous": false,
+   "date": "1936-03-20",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reviews efforts to form a storage company and reports Japanese coal-fuel developments.",
+   "summary": "The foreign companies propose an independently financed storage company, but Japanese officials question its legality and funding. Embassy officers suggest fees and financing by Japanese agents to keep talks alive. Grew also reports estimates suggesting coal-derived gasoline could compete with imported fuel and a report that Mitsui bought a German process.",
+   "keywords": [
+    "storage company",
+    "Kurusu",
+    "Yoshino",
+    "coal liquefaction"
+   ]
+  },
+  {
+   "title": "Notes on March 11 Foreign Office meeting",
+   "doc_type": "meeting notes",
+   "start_page": 132,
+   "end_page": 138,
+   "continues_previous": false,
+   "date": "1936-03-11",
+   "from": "Oil company representatives",
+   "to": "",
+   "about": "Ely and Meyer present the storage-company proposal to Kurusu and Yoshino.",
+   "summary": "The companies propose a fixed stock ceiling, business guarantees, and independent financing to avoid an international precedent. Yoshino warns that quotas may be cut and domestic refinery permits granted if the companies do not comply. The discussion also covers possible withdrawal, fuel substitutes, and the companies’ concerns about quotas in Korea.",
+   "keywords": [
+    "storage company",
+    "import quotas",
+    "refinery permits",
+    "Korea"
+   ]
+  },
+  {
+   "title": "March 13 Dickover–Macrae–Kurusu conversation",
+   "doc_type": "memorandum of conversation",
+   "start_page": 139,
+   "end_page": 143,
+   "continues_previous": false,
+   "date": "1936-03-13",
+   "from": "American Embassy, Tokyo",
+   "to": "",
+   "about": "Embassy officers discuss obstacles to financing an independent storage company.",
+   "summary": "Kurusu says government, company, and private financing each pose difficulties. Dickover raises a fee for access to stored oil and possible investment by Japanese agents; Kurusu agrees to seek Yoshino’s view.",
+   "keywords": [
+    "storage company",
+    "financing",
+    "Dickover",
+    "Macrae"
+   ]
+  },
+  {
+   "title": "Outline of proposed storage company",
+   "doc_type": "proposal",
+   "start_page": 144,
+   "end_page": 144,
+   "continues_previous": false,
+   "date": "",
+   "from": "Foreign oil companies",
+   "to": "Japanese government officials",
+   "about": "The companies set out proposed stock limits, business guarantees, and independent financing.",
+   "summary": "Proposes an independent storage company funded through banks or public money while regulations remain suspended for discussion.",
+   "keywords": [
+    "storage company",
+    "stock ceiling",
+    "business guarantees"
+   ]
+  },
+  {
+   "title": "March 16 Yokohama cable, enclosure copy",
+   "doc_type": "cablegram copy",
+   "start_page": 145,
+   "end_page": 147,
+   "continues_previous": false,
+   "date": "1936-03-16",
+   "from": "Oil company representatives, Yokohama",
+   "to": "Head office, New York",
+   "about": "The cable summarizes Japanese reactions and proposes continued development of the storage-company plan.",
+   "summary": "Kurusu and Yoshino question the plan and warn of quota cuts, fines, and refinery expansion. Embassy representatives suggest Japanese-agent financing and a small company fee. The cable also considers state control and coal hydrogenation.",
+   "keywords": [
+    "storage company",
+    "quotas",
+    "Japanese agents",
+    "hydrogenation"
+   ]
+  },
+  {
+   "title": "Transmittal concerning despatch No. 1747",
+   "doc_type": "cover letter",
+   "start_page": 148,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1936-04-21",
+   "from": "Secretary of State",
+   "to": "American Embassy, London",
+   "about": "The Department forwards correspondence and memoranda concerning the oil situation.",
+   "summary": "Transmits related correspondence and memoranda; the OCR obscures their precise list.",
+   "keywords": [
+    "transmittal",
+    "oil interests"
+   ]
+  },
+  {
+   "title": "Cross-reference to Byrnes oil-company proposal",
+   "doc_type": "document file note",
+   "start_page": 149,
+   "end_page": 149,
+   "continues_previous": false,
+   "date": "1936-04-02",
+   "from": "Early",
+   "to": "President",
+   "about": "The note points to John Lee Byrnes’s proposal for a company supplying oil to Japan.",
+   "summary": "Cross-references Byrnes’s proposed oil production and refining company.",
+   "keywords": [
+    "cross-reference",
+    "John Lee Byrnes",
+    "oil supply"
+   ]
+  },
+  {
+   "title": "Cross-reference to Mexican petroleum report",
+   "doc_type": "document file note",
+   "start_page": 150,
+   "end_page": 150,
+   "continues_previous": false,
+   "date": "1936-04-10",
+   "from": "Daniels, Mexico",
+   "to": "",
+   "about": "The note points to remarks on Japan’s interest in Mexican petroleum.",
+   "summary": "Cross-references a report on Japanese interest in Mexican oil.",
+   "keywords": [
+    "cross-reference",
+    "Mexico",
+    "petroleum"
+   ]
+  },
+  {
+   "title": "Division note on despatch No. 1757",
+   "doc_type": "file memorandum",
+   "start_page": 151,
+   "end_page": 151,
+   "continues_previous": false,
+   "date": "1936-04-23",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note summarizes a shift toward possible arrangements with Mitsui.",
+   "summary": "Notes that the companies are considering Mitsui arrangements and that both ambassadors are withholding representations.",
+   "keywords": [
+    "Mitsui",
+    "oil storage",
+    "ambassadors"
+   ]
+  },
+  {
+   "title": "Despatch No. 1757: American oil interests in Japan",
+   "doc_type": "despatch",
+   "start_page": 152,
+   "end_page": 156,
+   "continues_previous": false,
+   "date": "1936-04-01",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports the companies’ shift from an independent storage company toward a Mitsui arrangement.",
+   "summary": "The companies explore a contractual relationship with Mitsui while preserving their separate identities. Kurusu and Yoshino respond favorably; Yoshino promises unchanged quotas and delayed refinery approvals but gives no formal assurance beyond July 1. Mitsui directors express interest and prefer negotiations in Tokyo.",
+   "keywords": [
+    "Mitsui",
+    "storage law",
+    "quotas",
+    "negotiations"
+   ]
+  },
+  {
+   "title": "March 19 New York cable to Yokohama",
+   "doc_type": "cablegram copy",
+   "start_page": 157,
+   "end_page": 158,
+   "continues_previous": false,
+   "date": "1936-03-19",
+   "from": "Standard-Vacuum and British oil interests, New York",
+   "to": "Representatives, Yokohama",
+   "about": "The head offices direct representatives to explore a Mitsui arrangement.",
+   "summary": "Rejects a dealers’ association, favors Mitsui, and seeks later negotiations in New York while the regulations remain suspended.",
+   "keywords": [
+    "Mitsui",
+    "dealers",
+    "New York",
+    "oil storage"
+   ]
+  },
+  {
+   "title": "Notes on March 23 Foreign Office conversation",
+   "doc_type": "meeting notes",
+   "start_page": 159,
+   "end_page": 159,
+   "continues_previous": false,
+   "date": "1936-03-23",
+   "from": "Oil company representatives",
+   "to": "",
+   "about": "Ely and Meyer explain the proposed Mitsui approach to Kurusu and Yoshino.",
+   "summary": "Yoshino discusses Mitsui’s oil-import position; the conversation continues beyond this section.",
+   "keywords": [
+    "Mitsui",
+    "Kurusu",
+    "Yoshino",
+    "import licensing"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 7,
+  "pages": [
+   81,
+   159
+  ],
+  "pdf": "894.6363 Mines. Mining. Concessions., Carbon. Graphite., Japan, Petroleum., January 7, 1935 - October 25, 1939 1141-part-2.pdf",
+  "seconds": 98.2,
+  "created": "2026-10-08 16:02:13",
+  "key": "japan-internal-affairs-894.6363-mines-mining-concessions-5-part-2"
+ }
+}

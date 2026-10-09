@@ -1,0 +1,1258 @@
+{
+ "section_summary": "This section continues an analysis of Japan’s debt, foreign exchange, and capacity to finance the war in China. Later documents examine Japanese bond sales in Hawaii, currency policy in occupied China, British credit to Japanese interests, and competing assessments of Japan’s financial vulnerability. The section ends with an embassy report and a newspaper text of Finance Minister Ishiwata’s 1939–40 budget speech.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jupan",
+    "Japam",
+    "Jepan"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chira",
+    "Chine",
+    "Chimese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "rokyo"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "New York City",
+    "NER York",
+    "Ner York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Nashington"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Lendom"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "Britain",
+    "United Kingdom",
+    "United hingdom",
+    "onited kin aom",
+    "England"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United states",
+    "United StatEs",
+    "united states",
+    "onited states"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii",
+    "Hawall",
+    "Hawail"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California",
+    "Califermie"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Aichi Prefecture",
+   "variants": [
+    "Aiohi Prefectural"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kwansai",
+    "Kansai"
+   ]
+  },
+  {
+   "name": "Western Japan",
+   "variants": [
+    "western Japan"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manclukuo",
+    "Manchukuo",
+    "Manchukuoan",
+    "Manchukuo's"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China",
+    "north China",
+    "orth China",
+    "horth China",
+    ".orth China"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "Central China",
+    "central China"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Tianjin",
+   "variants": [
+    "Tientsin",
+    "lientsin"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai",
+    "shanghai",
+    "shenghai"
+   ]
+  },
+  {
+   "name": "Qingdao",
+   "variants": [
+    "Tsingtao"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking",
+    "Changring",
+    "Chaag-Xing"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa",
+    "Formora"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Koree"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory",
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Saghallen",
+    "Seghalien"
+   ]
+  },
+  {
+   "name": "South Sea Islands",
+   "variants": [
+    "South Sea Islands"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Switzerland"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "urope"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Fur ast"
+   ]
+  },
+  {
+   "name": "Tone River",
+   "variants": [
+    "Tone"
+   ]
+  },
+  {
+   "name": "Yodo River",
+   "variants": [
+    "Yodo"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "B. W. Fleisher",
+   "role": "Publisher of The Japan Advertiser",
+   "variants": [
+    "B. W. Fleisher"
+   ]
+  },
+  {
+   "name": "Harold Bell",
+   "role": "Named in the accountancy firm Taylor, Bird and Company",
+   "variants": [
+    "Harold Bell"
+   ]
+  },
+  {
+   "name": "Neville Chamberlain",
+   "role": "British Prime Minister",
+   "variants": [
+    "Neville Chamberlain"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Joseph Clark Grew"
+   ]
+  },
+  {
+   "name": "Nelson T. Johnson",
+   "role": "American Ambassador in China",
+   "variants": [
+    "Ambassador Johnson"
+   ]
+  },
+  {
+   "name": "Luthringer",
+   "role": "State Department Adviser on International Economic Affairs staff member",
+   "variants": [
+    "Luthringer",
+    "uthrineer",
+    "EA:LUTHRINGER"
+   ]
+  },
+  {
+   "name": "William O. Douglas",
+   "role": "Chairman, Securities and Exchange Commission",
+   "variants": [
+    "William O. Douglas",
+    "Mr. Douglas"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "Acting Secretary of State or Under Secretary of State",
+   "variants": [
+    "Sumner Welles",
+    "Summer Welles",
+    "Surner Weiles",
+    "Mr. Welles"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Hornbeok",
+    "Mr. Hornbeck",
+    "nley K. Hornbeck",
+    "Dr. Hornbeck"
+   ]
+  },
+  {
+   "name": "George C. Mathews",
+   "role": "Acting Chairman, Securities and Exchange Commission",
+   "variants": [
+    "George C. Mathews",
+    "Mr. Mathows"
+   ]
+  },
+  {
+   "name": "Mackay",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Maokay",
+    "Mr. Mackay",
+    "P. ac ay"
+   ]
+  },
+  {
+   "name": "Woodrum",
+   "role": "Securities and Exchange Commission staff member",
+   "variants": [
+    "Mr. Woodrum",
+    "P. Woou pn"
+   ]
+  },
+  {
+   "name": "Bennett E. Siegelstein",
+   "role": "Counselor at law representing the Hovey estate administrator",
+   "variants": [
+    "BENNETT E.SIEGELSTEIN",
+    "Bennett E. Siegelstein",
+    "Mr. Siegelstein"
+   ]
+  },
+  {
+   "name": "Green H. Hackworth",
+   "role": "State Department Legal Adviser",
+   "variants": [
+    "Green H. Hackworth",
+    "Mr. Hackworth"
+   ]
+  },
+  {
+   "name": "Oliver D. Hovey",
+   "role": "Deceased bondholder whose estate sought replacement bonds",
+   "variants": [
+    "Oliver D. Hovey"
+   ]
+  },
+  {
+   "name": "Joseph R. Baker",
+   "role": "Acting Legal Adviser",
+   "variants": [
+    "Jeseph R. Baker"
+   ]
+  },
+  {
+   "name": "Charles H. Stephan",
+   "role": "American Vice Consul at Nagoya",
+   "variants": [
+    "Charles H.  tephan",
+    "C. H. Stephan"
+   ]
+  },
+  {
+   "name": "Hall-Patch",
+   "role": "Financial Adviser to the British Embassy in China",
+   "variants": [
+    "Hall-Patch",
+    "Hall Patch",
+    "Hall Fatch",
+    "Hall ratch",
+    "hall Fatch",
+    "hall iatch",
+    "nall Fatch"
+   ]
+  },
+  {
+   "name": "R. K. Bewley",
+   "role": "Financial Adviser to the British Embassy in the United States",
+   "variants": [
+    "R.K. Bewley",
+    "R. K. Bewley",
+    "Mr. Bewley",
+    "ir. Bewley"
+   ]
+  },
+  {
+   "name": "Livesey",
+   "role": "State Department participant in the financial conversation",
+   "variants": [
+    "Livesey",
+    "Mr. Livesey",
+    "Lir. Livesey"
+   ]
+  },
+  {
+   "name": "Kenji Doihara",
+   "role": "Japanese army general",
+   "variants": [
+    "General Doihara"
+   ]
+  },
+  {
+   "name": "Seihin Ikeda",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Seihin Ikeda",
+    "Mr. Ikeda",
+    "Minister Ikeda",
+    "Minister lkeda"
+   ]
+  },
+  {
+   "name": "Toyotaro Yuki",
+   "role": "Governor of the Bank of Japan",
+   "variants": [
+    "Toyotaro Yuki",
+    "Mr. Yuki"
+   ]
+  },
+  {
+   "name": "Kobata",
+   "role": "Representative of the Kansai Federation of Industries",
+   "variants": [
+    "G. Kobate",
+    "Mr. Kobate",
+    "Mr. Kobata"
+   ]
+  },
+  {
+   "name": "M. Ogura",
+   "role": "Director General of the Sumitomo interests",
+   "variants": [
+    "M. Ogura",
+    "Mr. M. Ogura"
+   ]
+  },
+  {
+   "name": "Kataoka",
+   "role": "Osaka Chamber of Commerce and Industry representative",
+   "variants": [
+    "Mr. Kataoka"
+   ]
+  },
+  {
+   "name": "H. Mori",
+   "role": "Member of the House of Peers",
+   "variants": [
+    "Mr. H. Mori"
+   ]
+  },
+  {
+   "name": "Kurimoto",
+   "role": "Representative of the Institute for Study of Politics and Economics",
+   "variants": [
+    "Mr. Kurimoto"
+   ]
+  },
+  {
+   "name": "Nakayama",
+   "role": "Osaka Chamber of Commerce and Industry representative",
+   "variants": [
+    "Mr. Nakayama"
+   ]
+  },
+  {
+   "name": "S. Nango",
+   "role": "Representative of Nippon Cotton Trading Company",
+   "variants": [
+    "Mr. S. Nango"
+   ]
+  },
+  {
+   "name": "S. Tsuda",
+   "role": "Speaker on reconstruction of cotton mills in China",
+   "variants": [
+    "Mr. S. Tsuda"
+   ]
+  },
+  {
+   "name": "Furuta",
+   "role": "Representative of Sumitomo Metal Works",
+   "variants": [
+    "Mr. Furuta"
+   ]
+  },
+  {
+   "name": "Fujii",
+   "role": "Osaka Chamber of Commerce and Industry representative",
+   "variants": [
+    "Mr. Fujii"
+   ]
+  },
+  {
+   "name": "Ono",
+   "role": "Finance Ministry Finance Bureau official",
+   "variants": [
+    "Mr. Ono"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Japanese Prime Minister",
+   "variants": [
+    "Konoye",
+    "Konoe"
+   ]
+  },
+  {
+   "name": "Arthur N. Young",
+   "role": "Financial adviser to the Chinese Government",
+   "variants": [
+    "Arthur N. Youn",
+    "Arthur N. Young",
+    "Arthur Young",
+    "Mr. Youns",
+    "Young"
+   ]
+  },
+  {
+   "name": "Willys R. Peck",
+   "role": "American Chargé at Chongqing",
+   "variants": [
+    "PECK"
+   ]
+  },
+  {
+   "name": "Henry L. Stimson",
+   "role": "Representative of a committee advocating restrictions on military supplies to Japan",
+   "variants": [
+    "Mr. Stimson",
+    "Mr. Stimsen"
+   ]
+  },
+  {
+   "name": "Ballantine",
+   "role": "State Department Division of Far Eastern Affairs memorandum author",
+   "variants": [
+    "Ballantine"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "Hull",
+    "Hall"
+   ]
+  },
+  {
+   "name": "Joseph P. Kennedy",
+   "role": "American Ambassador in London",
+   "variants": [
+    "Joseph P. Kennedy"
+   ]
+  },
+  {
+   "name": "Rogers",
+   "role": "British Financial Adviser",
+   "variants": [
+    "RogErs",
+    "Rogers"
+   ]
+  },
+  {
+   "name": "Hughe Montgomery Knatchbull-Hugessen",
+   "role": "British Ambassador in China",
+   "variants": [
+    "Knatchbull-Hugessen",
+    "Knatohbull-Hugessen"
+   ]
+  },
+  {
+   "name": "Sotaro Ishiwata",
+   "role": "Japanese Minister of Finance",
+   "variants": [
+    "Sotaro Ishiwata",
+    "SOTARO ISHITATA",
+    "Ishiwata",
+    "Mr. Ishiwata"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese national debt",
+  "government bonds",
+  "foreign exchange",
+  "gold reserves",
+  "war finance",
+  "1939–40 budget",
+  "economic controls",
+  "yen bloc",
+  "British credits",
+  "economic retaliation",
+  "currency in occupied China",
+  "Securities Act investigation"
+ ],
+ "subfiles": [
+  {
+   "title": "Analysis of Japan’s national debt and foreign debt service",
+   "doc_type": "economic report, continuation",
+   "start_page": 229,
+   "end_page": 238,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "The concluding portion assesses Japan’s debt, bond financing, foreign exchange limits, and ability to service overseas obligations.",
+   "summary": "The report calculates funded debt and interest charges as of August 1938, then projects a steep increase in both if wartime bond issues continue. It attributes Japan’s initial financial resilience to material stocks, gold exports, restrained early war spending, and favorable export trade, all of which were weakening. Its conclusion weighs the incentives to maintain foreign debt service against scarce exchange and armament needs. A debt table and source list complete the report.",
+   "keywords": [
+    "national debt",
+    "bond issues",
+    "debt service",
+    "gold",
+    "foreign exchange"
+   ]
+  },
+  {
+   "title": "Rumored British loan to Japan",
+   "doc_type": "embassy despatch",
+   "start_page": 239,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1938-11-04",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Grew reports an unconfirmed rumor of a British loan to Japan and equal stabilization of the yen and Chinese dollar.",
+   "summary": "An American tobacco merchant relayed the rumor through Japanese representatives. Grew notes Japan’s concern about Chinese currency in Central China but says the embassy could not confirm a British loan.",
+   "keywords": [
+    "British loan",
+    "yen",
+    "Chinese dollar",
+    "currency stabilization"
+   ]
+  },
+  {
+   "title": "Reference to memorandum on Japan’s gold and foreign exchange",
+   "doc_type": "document file note",
+   "start_page": 241,
+   "end_page": 241,
+   "continues_previous": false,
+   "date": "1938-10-31",
+   "from": "Adviser on International Economic Affairs, Luthringer",
+   "to": "",
+   "about": "Points to a separately filed report on Japan’s gold and foreign exchange position, August 1–October 27, 1938.",
+   "summary": "Cross-reference to memorandum 894.5151/106.",
+   "keywords": [
+    "cross-reference",
+    "gold",
+    "foreign exchange"
+   ]
+  },
+  {
+   "title": "Possible unlawful sale of Japanese bonds in Hawaii",
+   "doc_type": "letter",
+   "start_page": 242,
+   "end_page": 242,
+   "continues_previous": false,
+   "date": "1938-12-08",
+   "from": "William O. Douglas, Securities and Exchange Commission",
+   "to": "Sumner Welles, Acting Secretary of State",
+   "about": "Douglas reports an investigation into Japanese government bond sales in Hawaii under the Securities Act.",
+   "summary": "The commission sends an investigator to Honolulu and promises to advise the department of developments.",
+   "keywords": [
+    "Japanese bonds",
+    "Hawaii",
+    "Securities Act",
+    "investigation"
+   ]
+  },
+  {
+   "title": "Reply on Japanese bond sales in Hawaii",
+   "doc_type": "letter",
+   "start_page": 243,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1938-12-10",
+   "from": "Sumner Welles, Acting Secretary of State",
+   "to": "William O. Douglas",
+   "about": "Welles acknowledges the Hawaii investigation and recalls the commission’s handling of an earlier California case.",
+   "summary": "He assumes the commission will proceed in Hawaii along lines developed through earlier discussions with State Department officials.",
+   "keywords": [
+    "Japanese bonds",
+    "Hawaii",
+    "California",
+    "Securities Act"
+   ]
+  },
+  {
+   "title": "Hovey estate claim for missing Japanese bonds",
+   "doc_type": "letter",
+   "start_page": 245,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1938-12-14",
+   "from": "Bennett E. Siegelstein",
+   "to": "Green H. Hackworth",
+   "about": "The Hovey estate’s attorney seeks State Department help obtaining replacement Imperial Japanese Government bonds.",
+   "summary": "Siegelstein says the Yokohama Specie Bank and Japanese authorities have not resolved the claim despite an offer of surety against double payment. He argues that the claim is against Japan’s government and requests action through diplomatic channels.",
+   "keywords": [
+    "Hovey estate",
+    "Japanese bonds",
+    "replacement bonds",
+    "diplomatic claim"
+   ]
+  },
+  {
+   "title": "Reply concerning the Hovey estate bonds",
+   "doc_type": "letter",
+   "start_page": 247,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1938-12-27",
+   "from": "Joseph R. Baker, Acting Legal Adviser",
+   "to": "Bennett E. Siegelstein",
+   "about": "The department asks for material facts and evidence of exhausted remedies before raising the Hovey claim with Japan.",
+   "summary": "Baker says the new letter adds no material information. He asks why the bank required a particular surety bond, why that surety refused, and what legal right supports the proposed substitute security.",
+   "keywords": [
+    "Hovey estate",
+    "Japanese bonds",
+    "surety",
+    "denial of justice"
+   ]
+  },
+  {
+   "title": "Bonuses into Bonds",
+   "doc_type": "consular report with newspaper translation",
+   "start_page": 249,
+   "end_page": 250,
+   "continues_previous": false,
+   "date": "1938-11-30",
+   "from": "Charles H. Stephan, American Vice Consul, Nagoya",
+   "to": "Joseph C. Grew, American Ambassador, Tokyo",
+   "about": "A Nagoya newspaper reports an Aichi plan to channel employees’ year-end bonuses into government bonds.",
+   "summary": "Stephan forwards a translation describing circulars to employers, schools, and municipalities, a special bond sale, and suggested purchase percentages by bonus size.",
+   "keywords": [
+    "bonuses",
+    "government bonds",
+    "Aichi",
+    "savings campaign"
+   ]
+  },
+  {
+   "title": "Telephone conversation with William O. Douglas",
+   "doc_type": "memorandum",
+   "start_page": 251,
+   "end_page": 251,
+   "continues_previous": false,
+   "date": "1938-12-22",
+   "from": "Stanley K. Hornbeck",
+   "to": "",
+   "about": "Hornbeck records State’s response to possible Securities and Exchange Commission action over Hawaii bond sales.",
+   "summary": "He told Douglas State did not expect to oppose injunction proceedings if the investigation warranted them.",
+   "keywords": [
+    "Hawaii",
+    "Japanese bonds",
+    "injunction",
+    "telephone conversation"
+   ]
+  },
+  {
+   "title": "Routing instruction on commission correspondence",
+   "doc_type": "routing slip",
+   "start_page": 252,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "1938-12-21",
+   "from": "Sumner Welles",
+   "to": "Stanley K. Hornbeck and Mr. Haiton",
+   "about": "The Under Secretary routes correspondence for an appropriate reply.",
+   "summary": "Directs Hornbeck and Haiton to prepare a reply.",
+   "keywords": [
+    "routing",
+    "reply",
+    "Securities and Exchange Commission"
+   ]
+  },
+  {
+   "title": "Commission’s position on Japanese bond sales in Hawaii",
+   "doc_type": "letter",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1938-12",
+   "from": "William O. Douglas",
+   "to": "Sumner Welles",
+   "about": "Douglas contrasts apparently knowing violations in Hawaii with an earlier case stopped by warnings.",
+   "summary": "He says warnings may be insufficient in Hawaii and offers to consult before seeking an injunction.",
+   "keywords": [
+    "Hawaii",
+    "Japanese bonds",
+    "Securities Act",
+    "injunction"
+   ]
+  },
+  {
+   "title": "Reference to conversation on finances in Japan and China",
+   "doc_type": "document file note",
+   "start_page": 254,
+   "end_page": 254,
+   "continues_previous": false,
+   "date": "1938-12-05",
+   "from": "Adviser on International Economic Affairs, Luthringer",
+   "to": "",
+   "about": "Cross-reference to a memorandum of conversation with British financial advisers.",
+   "summary": "Identifies the participants and the memorandum’s subject.",
+   "keywords": [
+    "cross-reference",
+    "Japan",
+    "China",
+    "financial conditions"
+   ]
+  },
+  {
+   "title": "Financial conditions in Japan and China",
+   "doc_type": "memorandum of conversation",
+   "start_page": 255,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "1938-12-05",
+   "from": "Luthringer, State Department",
+   "to": "",
+   "about": "British financial advisers discuss Japanese currency control in China and capital flight from Japan.",
+   "summary": "Hall-Patch describes the Japanese army’s promotion of Federal Reserve Bank of North China notes, resistance by Chinese users and foreign powers, and potential exchange controls around Tientsin. He says Japanese yen circulating in China undermine exchange control and enable capital flight through Shanghai. Participants also discuss possible British-American exchange of information on Japanese capital movements and the financial condition of China.",
+   "keywords": [
+    "North China currency",
+    "exchange control",
+    "capital flight",
+    "Shanghai",
+    "British advisers"
+   ]
+  },
+  {
+   "title": "Visit to Osaka of Finance Minister and Bank of Japan Governor",
+   "doc_type": "consular despatch",
+   "start_page": 262,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1938-12-14",
+   "from": "American Consul General, Osaka",
+   "to": "Secretary of State",
+   "about": "Reports speeches and business responses at Osaka banking and economic meetings.",
+   "summary": "Finance Minister Ikeda discusses gold shipments, deficits, bond absorption, state controls, and the coming budget; Bank of Japan Governor Yuki urges thrift. Osaka industrialists seek clearer controls, tax changes, credit for trade, and reliable raw materials. Discussion also covers the intended economic roles of Manchuria and China. The report concludes that business leaders support the government while fearing compulsory bond absorption and tighter controls.",
+   "keywords": [
+    "Osaka",
+    "Ikeda",
+    "Yuki",
+    "government bonds",
+    "economic control"
+   ]
+  },
+  {
+   "title": "Introduction to analysis of Japan’s financial position",
+   "doc_type": "telegram, corrected copy",
+   "start_page": 270,
+   "end_page": 270,
+   "continues_previous": false,
+   "date": "1939-01-23",
+   "from": "Peck, Chungking",
+   "to": "Secretary of State",
+   "about": "Introduces a confidential analysis supplied by Arthur N. Young on Japan’s sensitivity to economic retaliation.",
+   "summary": "Corrected copy of telegram 46, section one.",
+   "keywords": [
+    "financial analysis",
+    "economic retaliation",
+    "Arthur N. Young"
+   ]
+  },
+  {
+   "title": "Introduction to analysis of Japan’s financial position",
+   "doc_type": "telegram, duplicate copy",
+   "start_page": 271,
+   "end_page": 271,
+   "continues_previous": false,
+   "date": "1939-01-23",
+   "from": "Peck, Chungking",
+   "to": "Secretary of State",
+   "about": "Duplicates the introduction to Young’s digest of Japan’s finances.",
+   "summary": "Another copy of telegram 46, section one.",
+   "keywords": [
+    "financial analysis",
+    "economic retaliation",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Young’s view of economic retaliation against Japan",
+   "doc_type": "telegram, section two",
+   "start_page": 272,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "1939-01-23",
+   "from": "Peck, Chungking",
+   "to": "Secretary of State",
+   "about": "Young favors restricting Japanese exports to Western markets as a way to reduce Japan’s import capacity.",
+   "summary": "He considers export restrictions more effective than restrictions limited to military supplies.",
+   "keywords": [
+    "economic retaliation",
+    "Japanese exports",
+    "military supplies"
+   ]
+  },
+  {
+   "title": "Paraphrase of Chungking telegram 46",
+   "doc_type": "telegram paraphrase",
+   "start_page": 273,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1939-01-23",
+   "from": "American Embassy, Chungking",
+   "to": "Secretary of State",
+   "about": "Paraphrases the confidential financial analysis and Young’s proposed form of economic retaliation.",
+   "summary": "The paraphrase introduces a forthcoming digest of the analysis and explains Young’s preference for limiting imports from Japan in Western countries.",
+   "keywords": [
+    "paraphrase",
+    "financial analysis",
+    "economic retaliation"
+   ]
+  },
+  {
+   "title": "Assessment of proposed economic retaliation against Japan",
+   "doc_type": "State Department memorandum",
+   "start_page": 275,
+   "end_page": 277,
+   "continues_previous": false,
+   "date": "1939-01-24",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Compares Chungking’s warning of Japanese financial vulnerability with a more resilient picture from Tokyo.",
+   "summary": "The writer points to growing Japanese domestic production and doubts that unilateral U.S. sanctions would exert decisive pressure. The memorandum proposes seeking Tokyo’s comments on the Chungking analysis.",
+   "keywords": [
+    "economic sanctions",
+    "industrial production",
+    "foreign exchange",
+    "Tokyo assessment"
+   ]
+  },
+  {
+   "title": "Digest of analysis of Japan’s financial position",
+   "doc_type": "telegram",
+   "start_page": 278,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1939-01-23",
+   "from": "Peck, Chungking",
+   "to": "Secretary of State",
+   "about": "Transmits a confidential analysis of Japan’s balance of payments, raw material stocks, and gold reserves.",
+   "summary": "The digest describes falling foreign exchange earnings, a trade shift toward the yen bloc, a large external deficit, declining shipping receipts, and depleted material stocks. It says gold exports and tighter credit terms helped finance the 1938 deficit but could not be repeated indefinitely. It concludes that continued deficits could exhaust Japan’s gold reserves in 1939 and increase its vulnerability to coordinated economic pressure.",
+   "keywords": [
+    "balance of payments",
+    "gold reserves",
+    "yen bloc",
+    "raw materials",
+    "economic retaliation"
+   ]
+  },
+  {
+   "title": "Request for Tokyo’s comments on Chungking analysis",
+   "doc_type": "outgoing telegram",
+   "start_page": 282,
+   "end_page": 282,
+   "continues_previous": false,
+   "date": "1939-01-26",
+   "from": "Secretary of State",
+   "to": "American Embassy, Tokyo",
+   "about": "Requests Tokyo’s comments on Chungking telegram 47 in light of the commercial attaché’s economic summary.",
+   "summary": "Asks the embassy to compare the two assessments.",
+   "keywords": [
+    "Tokyo",
+    "Chungking",
+    "economic analysis"
+   ]
+  },
+  {
+   "title": "Transmittal of financial telegrams to Treasury",
+   "doc_type": "cover letter",
+   "start_page": 283,
+   "end_page": 283,
+   "continues_previous": false,
+   "date": "1939-02-03",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Confidentially forwards telegrams from Chungking about Japan’s financial position.",
+   "summary": "Cover note enclosing Chungking financial reporting.",
+   "keywords": [
+    "Treasury",
+    "Chungking",
+    "financial position"
+   ]
+  },
+  {
+   "title": "Tokyo’s preliminary response to request for comments",
+   "doc_type": "telegram",
+   "start_page": 284,
+   "end_page": 284,
+   "continues_previous": false,
+   "date": "1939-01-27",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The embassy says it is studying Japan’s economic condition and will report its conclusions.",
+   "summary": "Grew promises a forthcoming assessment.",
+   "keywords": [
+    "Tokyo",
+    "economic assessment"
+   ]
+  },
+  {
+   "title": "Inquiry into British credits and sterling-yen exchange",
+   "doc_type": "outgoing telegram",
+   "start_page": 285,
+   "end_page": 285,
+   "continues_previous": false,
+   "date": "1939-01-30",
+   "from": "Secretary of State",
+   "to": "American Embassy, London",
+   "about": "Requests discreet inquiry into British credits to Japanese interests and the sterling-yen peg.",
+   "summary": "Asks whether credits are secured by gold or other British bank deposits.",
+   "keywords": [
+    "British credits",
+    "sterling-yen peg",
+    "bank deposits"
+   ]
+  },
+  {
+   "title": "British credits to Japan and mechanism of yen peg",
+   "doc_type": "telegram",
+   "start_page": 286,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "1939-02-03",
+   "from": "American Embassy, London",
+   "to": "Secretary of State",
+   "about": "Reports reduced British credit to Japanese interests and the Yokohama Specie Bank’s role in supporting the yen.",
+   "summary": "Existing British credits have contracted since 1937, and new facilities would require security. The Yokohama Specie Bank’s London branch uses sterling and dollar assets, exchange certificates, and licensed yen sales to maintain the peg. The telegram also notes Rogers’s arrival in London, possibly concerning Chinese customs loans.",
+   "keywords": [
+    "British credits",
+    "Yokohama Specie Bank",
+    "yen peg",
+    "Chinese customs loans"
+   ]
+  },
+  {
+   "title": "Paraphrase of London telegram 157",
+   "doc_type": "telegram paraphrase",
+   "start_page": 289,
+   "end_page": 291,
+   "continues_previous": false,
+   "date": "1939-02-03",
+   "from": "American Embassy, London",
+   "to": "Secretary of State",
+   "about": "Restates London’s findings on Japanese credit facilities and sterling-yen exchange operations.",
+   "summary": "The paraphrase describes the Yokohama Specie Bank’s dominant role in the London yen market and the sharp reduction in British short-term credit. It also mentions Rogers’s visit and the Chinese customs loans question.",
+   "keywords": [
+    "paraphrase",
+    "British credits",
+    "yen peg",
+    "Yokohama Specie Bank"
+   ]
+  },
+  {
+   "title": "Response concerning Chinese customs loans",
+   "doc_type": "outgoing telegram",
+   "start_page": 292,
+   "end_page": 292,
+   "continues_previous": false,
+   "date": "1939-02",
+   "from": "Secretary of State",
+   "to": "American Embassy, London",
+   "about": "Thanks the embassy for its credit report and invites information that arises on Chinese customs loans.",
+   "summary": "The department requests any readily available information about the loans.",
+   "keywords": [
+    "Chinese customs loans",
+    "London",
+    "British credits"
+   ]
+  },
+  {
+   "title": "Request for updated report on British credits to Japan",
+   "doc_type": "letter",
+   "start_page": 293,
+   "end_page": 293,
+   "continues_previous": false,
+   "date": "1939-05-25",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "Joseph P. Kennedy, American Ambassador, London",
+   "about": "Requests an updated report on British commercial and banking credits to Japanese interests.",
+   "summary": "Seeks current information following London telegram 157.",
+   "keywords": [
+    "British credits",
+    "Japan",
+    "London"
+   ]
+  },
+  {
+   "title": "Tokyo cautions against firm conclusions on Japanese vulnerability",
+   "doc_type": "telegram",
+   "start_page": 294,
+   "end_page": 294,
+   "continues_previous": false,
+   "date": "1939-02-09",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "The embassy says unknown material stocks make Chungking’s conclusion about economic retaliation speculative.",
+   "summary": "Grew promises a fuller report and says a clear, concise appraisal is impossible.",
+   "keywords": [
+    "economic vulnerability",
+    "material stocks",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Comment on Ishiwata’s Diet speech",
+   "doc_type": "State Department memorandum",
+   "start_page": 295,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1939-02-23",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Comments on Tokyo despatch 3643 and the limits of Ishiwata’s optimistic budget interpretation.",
+   "summary": "Notes that postwar markets for expanded heavy industry remain uncertain.",
+   "keywords": [
+    "Ishiwata",
+    "budget",
+    "heavy industry"
+   ]
+  },
+  {
+   "title": "Speech of Finance Minister Sotaro Ishiwata before the 74th Diet",
+   "doc_type": "embassy despatch",
+   "start_page": 296,
+   "end_page": 301,
+   "continues_previous": false,
+   "date": "1939-01-30",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports Ishiwata’s 1939–40 budget estimates, economic claims, and Japanese press responses.",
+   "summary": "The despatch outlines higher spending, taxes, and bond financing, with a separate military budget still to come. It reports Ishiwata’s confidence in savings, bond absorption, industrial expansion, and the yen peg. Grew also summarizes press doubts about the sterling link and observes that the favorable overall trade balance masks a large deficit with countries outside the yen bloc.",
+   "keywords": [
+    "1939–40 budget",
+    "Ishiwata",
+    "bond issues",
+    "yen peg",
+    "trade balance"
+   ]
+  },
+  {
+   "title": "Text of Finance Minister Ishiwata’s budget address",
+   "doc_type": "newspaper clipping, despatch enclosure",
+   "start_page": 302,
+   "end_page": 304,
+   "continues_previous": false,
+   "date": "1939-01-22",
+   "from": "The Japan Advertiser",
+   "to": "",
+   "about": "Prints the substance of Ishiwata’s Diet address on Japan’s budget and wartime economic policy.",
+   "summary": "Ishiwata details proposed expenditures, tax increases, bond issues, savings and industrial investment, export promotion, foreign exchange policy, and gold mobilization. He calls for expanded productive capacity across Japan, Manchukuo, and China while maintaining controls on materials, prices, and consumption.",
+   "keywords": [
+    "Ishiwata",
+    "budget speech",
+    "government bonds",
+    "exports",
+    "gold mobilization"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 8,
+  "pages": [
+   229,
+   304
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., April 18, 1938 - December 28, 1939 1166.pdf",
+  "seconds": 84.3,
+  "created": "2026-10-08 23:54:26",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-11"
+ }
+}

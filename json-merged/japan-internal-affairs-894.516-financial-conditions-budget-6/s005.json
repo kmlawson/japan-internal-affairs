@@ -1,0 +1,152 @@
+{
+ "section_summary": "Pages 154–175 finish the November 1946 issue of the Bank of Japan’s Financial Statistics Monthly, with tables on banking, insurance, savings, securities, prices, bonds, and capital. Pages 176–191 begin the January 1947 issue, including its cover, contents, graph, and financial tables. The section is statistical rather than correspondence.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "日本",
+    "Japan",
+    "Japán",
+    "本邦"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "東京",
+    "東京都",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "大阪",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Ginza",
+   "variants": [
+    "銀座"
+   ]
+  },
+  {
+   "name": "Kyobashi",
+   "variants": [
+    "京橋區",
+    "京橫區"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "日本橋區"
+   ]
+  },
+  {
+   "name": "Motoishichō",
+   "variants": [
+    "本石町"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "chinese"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kitagawa Takenosuke",
+   "role": "Printer named in the November 1946 issue’s imprint",
+   "variants": [
+    "北川武之輔"
+   ]
+  },
+  {
+   "name": "Shinohara",
+   "role": "Name in the editor and publisher portion of the imprint; given name unclear in OCR",
+   "variants": [
+    "篠",
+    "原"
+   ]
+  }
+ ],
+ "keywords": [
+  "Financial Statistics Monthly",
+  "Bank of Japan",
+  "bank deposits and loans",
+  "insurance assets",
+  "postal savings",
+  "government bonds",
+  "securities markets",
+  "price indexes",
+  "credit cooperatives",
+  "capital formation"
+ ],
+ "subfiles": [
+  {
+   "title": "Financial Statistics Monthly, November 1946, concluding pages",
+   "doc_type": "Statistical periodical",
+   "start_page": 154,
+   "end_page": 175,
+   "continues_previous": true,
+   "date": "1946-11-25",
+   "from": "Bank of Japan Statistics Department",
+   "to": "",
+   "about": "The concluding tables of the November 1946 issue report Japanese financial institutions, markets, prices, public debt, and capital.",
+   "summary": "The tables cover banks, trust and insurance companies, credit cooperatives, postal savings, the Deposit Bureau, and the stock exchange. They also report Tokyo prices, government bond issues, short term securities, corporate debentures, and planned and paid capital. Page 175 gives the publication imprint, dated November 25, 1946.",
+   "keywords": [
+    "banking statistics",
+    "insurance",
+    "postal savings",
+    "securities",
+    "Tokyo prices",
+    "government bonds",
+    "capital"
+   ]
+  },
+  {
+   "title": "Financial Statistics Monthly, January 1947, opening pages",
+   "doc_type": "Statistical periodical",
+   "start_page": 176,
+   "end_page": 191,
+   "continues_previous": false,
+   "date": "1947-01",
+   "from": "Bank of Japan Statistics Department",
+   "to": "",
+   "about": "The opening pages of the January 1947 issue present its contents, financial graph, and initial banking tables.",
+   "summary": "The issue opens with a cover, Japanese and English contents, and a graph of bank deposits, loans, and Bank of Japan note issues and loans. Subsequent tables give the Bank of Japan’s ten day returns and comparative figures for financial institutions, including deposits, lending, and securities holdings. The excerpt ends during the ordinary banks table.",
+   "keywords": [
+    "Bank of Japan",
+    "ten day returns",
+    "bank deposits",
+    "bank loans",
+    "financial institutions",
+    "government bonds"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 6,
+  "pages": [
+   154,
+   191
+  ],
+  "pdf": "894.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Banks. Banking., February 18, 1947 - June 4, 1947 1574.pdf",
+  "seconds": 24.5,
+  "created": "2026-10-08 22:59:50",
+  "key": "japan-internal-affairs-894.516-financial-conditions-budget-6"
+ }
+}

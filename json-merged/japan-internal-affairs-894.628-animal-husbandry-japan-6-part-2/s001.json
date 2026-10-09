@@ -1,0 +1,1634 @@
+{
+ "section_summary": "This section moves from the end of an association’s rules into 1937–1938 reports on Japanese fishing abroad. Most documents follow the Japanese-owned AMANO MARU as it obtains provisional Panamanian registry, visits Honolulu and California, and raises concern among Panama Canal defense authorities. Other documents concern Japanese fishing in Hong Kong, proposed study trips for Mexican fishermen, the Alaska salmon dispute, and Japanese fishery law.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Japun",
+    "Japunese",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Yokohama, Japan",
+   "variants": [
+    "Yokohama",
+    "Yokohame"
+   ]
+  },
+  {
+   "name": "Shimizu, Japan",
+   "variants": [
+    "Shimizu",
+    "Shimuzu",
+    "Shimisu",
+    "Shinizu",
+    "shimizu",
+    "sni-miazu"
+   ]
+  },
+  {
+   "name": "Miho, Japan",
+   "variants": [
+    "MIHO SHIMIZU",
+    "mino, shimizu"
+   ]
+  },
+  {
+   "name": "Shizuoka Prefecture, Japan",
+   "variants": [
+    "Shizuoka",
+    "Shizuoka prefecture",
+    "Shizuoka Prefecture"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo",
+    "Tokio",
+    "Pokyo"
+   ]
+  },
+  {
+   "name": "Nagasaki, Japan",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Panama",
+   "variants": [
+    "Panama",
+    "Panamá",
+    "Panemá",
+    "Panama City",
+    "Republic of Panama",
+    "Republic",
+    "Fanamé",
+    "Panemé"
+   ]
+  },
+  {
+   "name": "Panama Canal",
+   "variants": [
+    "Panama Canal",
+    "Panamá Canal",
+    "Panana Cenal",
+    "Canal"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Canal Zone"
+   ]
+  },
+  {
+   "name": "Balboa, Panama",
+   "variants": [
+    "Balboa",
+    "Balooa"
+   ]
+  },
+  {
+   "name": "Gulf of Panama",
+   "variants": [
+    "Gulf of Panemá"
+   ]
+  },
+  {
+   "name": "Pearl Islands, Panama",
+   "variants": [
+    "Perlas Islands",
+    "Perlas group"
+   ]
+  },
+  {
+   "name": "Darién Coast, Panama",
+   "variants": [
+    "Darién cosst"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "American"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington",
+    "Washington, D. C.",
+    "Wushington",
+    "vashinston"
+   ]
+  },
+  {
+   "name": "California, United States",
+   "variants": [
+    "California",
+    "Californie",
+    "California Coast",
+    "West Coast"
+   ]
+  },
+  {
+   "name": "San Pedro, California",
+   "variants": [
+    "San Pedro"
+   ]
+  },
+  {
+   "name": "Los Angeles, California",
+   "variants": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "name": "San Diego, California",
+   "variants": [
+    "San Diego",
+    "San Diere",
+    "San Liego"
+   ]
+  },
+  {
+   "name": "San Clemente, California",
+   "variants": [
+    "San Clemente"
+   ]
+  },
+  {
+   "name": "Alaska, United States",
+   "variants": [
+    "Alaska",
+    "Alaskan"
+   ]
+  },
+  {
+   "name": "Bristol Bay, Alaska",
+   "variants": [
+    "Bristol Bay"
+   ]
+  },
+  {
+   "name": "Hawaii, United States",
+   "variants": [
+    "Hawaii",
+    "Hawaiian",
+    "Havaii"
+   ]
+  },
+  {
+   "name": "Honolulu, Hawaii",
+   "variants": [
+    "Honolulu",
+    "Honolulu,ToH"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico",
+    "Mex1c0",
+    "exico",
+    "Nexico"
+   ]
+  },
+  {
+   "name": "Mexico City, Mexico",
+   "variants": [
+    "Mexico City"
+   ]
+  },
+  {
+   "name": "Mazatlán, Mexico",
+   "variants": [
+    "Masatlan",
+    "Mazatlan"
+   ]
+  },
+  {
+   "name": "Magdalena Bay, Mexico",
+   "variants": [
+    "Magdalena Bay"
+   ]
+  },
+  {
+   "name": "Baja California, Mexico",
+   "variants": [
+    "Lower California"
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "variants": [
+    "Costa Rica",
+    "Costa Rioa",
+    "Costa Riea"
+   ]
+  },
+  {
+   "name": "Puntarenas, Costa Rica",
+   "variants": [
+    "Puntarenas",
+    "Punta-renas"
+   ]
+  },
+  {
+   "name": "San José, Costa Rica",
+   "variants": [
+    "San José",
+    "San Josó"
+   ]
+  },
+  {
+   "name": "Chile",
+   "variants": [
+    "Chile"
+   ]
+  },
+  {
+   "name": "Concepción, Chile",
+   "variants": [
+    "Concepcién"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hong kong",
+    "HCNG KONG"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "South China"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Hainan, China",
+   "variants": [
+    "Hainan"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa",
+    "Formosan"
+   ]
+  },
+  {
+   "name": "China Sea",
+   "variants": [
+    "China Sea"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "Manila, Philippines",
+   "variants": [
+    "Manila"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore",
+    "singapone"
+   ]
+  },
+  {
+   "name": "Bintan Island, Indonesia",
+   "variants": [
+    "ulau Bintang"
+   ]
+  },
+  {
+   "name": "Riau Archipelago, Indonesia",
+   "variants": [
+    "Rhio rohipelago",
+    "Rhio Arohipelago"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Denmark"
+   ]
+  },
+  {
+   "name": "London, United Kingdom",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Beijing, China",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Nanjing, China",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Shanghai, China",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Arctic Ocean",
+   "variants": [
+    "Arctic Sea"
+   ]
+  },
+  {
+   "name": "Bering Strait",
+   "variants": [
+    "Behring Straits"
+   ]
+  },
+  {
+   "name": "Antarctic waters",
+   "variants": [
+    "Antarctic waters"
+   ]
+  },
+  {
+   "name": "Galápagos Islands, Ecuador",
+   "variants": [
+    "Galapagos"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Richard F. Boyce",
+   "role": "American consul at Yokohama",
+   "variants": [
+    "Richard F. Boyce",
+    "Richare F. Boyce",
+    "Mr. Boyce",
+    "Consul soyee"
+   ]
+  },
+  {
+   "name": "Fayette J. Flexer",
+   "role": "American chargé d’affaires ad interim at Panama",
+   "variants": [
+    "Fayette J. Flexer",
+    "Fayette Flexer",
+    "Payette J. Flexer",
+    "Mr. Fayette Flexer"
+   ]
+  },
+  {
+   "name": "Howard Donovan",
+   "role": "American consul at Hong Kong",
+   "variants": [
+    "Howard Donovan"
+   ]
+  },
+  {
+   "name": "Sumner Welles",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Sumner Welles",
+    "Sumner Wellea"
+   ]
+  },
+  {
+   "name": "Laurence Duggan",
+   "role": "Chief, Division of the American Republics",
+   "variants": [
+    "Laurence Duggan",
+    "Mr. Laurence Duggan",
+    "Mr. Duggan"
+   ]
+  },
+  {
+   "name": "R. S. Holmes",
+   "role": "Rear Admiral and Director of Naval Intelligence",
+   "variants": [
+    "R. S. Holmes",
+    "Rear Admiral R. S. Holmes",
+    "Admiral Holmes"
+   ]
+  },
+  {
+   "name": "Claude A. Swanson",
+   "role": "Secretary of the Navy",
+   "variants": [
+    "Claude A. Swanson"
+   ]
+  },
+  {
+   "name": "William H. Hornibrook",
+   "role": "American minister at San José",
+   "variants": [
+    "William H. Hornibrook",
+    "Hornibrook"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American ambassador in Japan; telegram sender",
+   "variants": [
+    "GREW",
+    "Grew"
+   ]
+  },
+  {
+   "name": "Yoshitaro Amano",
+   "role": "Japanese merchant in Panama and principal shareholder of the Amano fishing enterprise",
+   "variants": [
+    "Yoshitaro Amano",
+    "Yoshitero Amano",
+    "YOSHITARO AMANO",
+    "Mr. Amano",
+    "Yoshitaro mano"
+   ]
+  },
+  {
+   "name": "Hikokuma Shiraishi",
+   "role": "Amano company manager and AMANO purser",
+   "variants": [
+    "Hikokuma Shiraishi",
+    "Hikokuma SHIRAISHI",
+    "Hikokuma Shiruishi",
+    "HIXOKUMA S IRAISFI",
+    "Mr. H. Shireishi",
+    "SHIRAISHI",
+    "Manager Shiraishi"
+   ]
+  },
+  {
+   "name": "Christian S. Albertsen",
+   "role": "Danish master of the AMANO",
+   "variants": [
+    "Kristian Sofus Albertsen",
+    "Christian S. ALBERTSON",
+    "Christian S. Albertsen",
+    "Christian Albertsen",
+    "Captain A. Christian",
+    "Mr. Kristan Olbertson",
+    "Mr. Albertsen"
+   ]
+  },
+  {
+   "name": "Rikimatsu Iwasaki",
+   "role": "AMANO chief engineer",
+   "variants": [
+    "Rikimatsu Iwasaki",
+    "Rikimatsu IWASAKI"
+   ]
+  },
+  {
+   "name": "Torakichi Imura",
+   "role": "AMANO engineer",
+   "variants": [
+    "Torakiohi Imura",
+    "Torakiohi IMURA",
+    "Torakichi Imura"
+   ]
+  },
+  {
+   "name": "Shichinosuke Amano",
+   "role": "AMANO engineer",
+   "variants": [
+    "Shiohinosuke Amano",
+    "Shichinosuke AMANO",
+    "Shichinosuke Amano"
+   ]
+  },
+  {
+   "name": "Yoshiro Yonezawa",
+   "role": "AMANO engineer",
+   "variants": [
+    "Yoshiro Yonezawa",
+    "Yoshiro YONEJIWA",
+    "Yoshiro Lonezawa"
+   ]
+  },
+  {
+   "name": "Kunitaro Nagasawa",
+   "role": "AMANO engineer",
+   "variants": [
+    "Kunitaro Nagasawa",
+    "Kunitaro NAGASAWA"
+   ]
+  },
+  {
+   "name": "Hajime Kobayashi",
+   "role": "AMANO engineer or electrician",
+   "variants": [
+    "Hajime Kobayash1",
+    "Hajimeko HAYASHI",
+    "Kazu Kobayashi"
+   ]
+  },
+  {
+   "name": "Sakuichi Asayama",
+   "role": "AMANO chief officer",
+   "variants": [
+    "Sakuiohi Asayama",
+    "Sakuichi ASAYA",
+    "Sakuhei Asayama"
+   ]
+  },
+  {
+   "name": "Tomoji Tsuji",
+   "role": "AMANO radio operator",
+   "variants": [
+    "Tomoji Tsuji",
+    "Tomiji TSUJI",
+    "TOMIJI TSUJI"
+   ]
+  },
+  {
+   "name": "Sakuhei Kawaguchi",
+   "role": "AMANO boatswain",
+   "variants": [
+    "Sakuhe1 Kawaguchi",
+    "Sakuei KAWAGUSHI",
+    "Sakuhei Kawaguchi"
+   ]
+  },
+  {
+   "name": "Tatsuji Iwasaki",
+   "role": "AMANO seaman",
+   "variants": [
+    "Tatsuji Iwasaki",
+    "Tatsuji IWASAKI-"
+   ]
+  },
+  {
+   "name": "Chiyozo Tsubakizaki",
+   "role": "AMANO seaman",
+   "variants": [
+    "Chiyozo Tsubakizaki",
+    "Chiyozo TSUBAKIZAWA"
+   ]
+  },
+  {
+   "name": "Sannosuke Ishimoto",
+   "role": "AMANO seaman",
+   "variants": [
+    "Sannosuke Ishimoto",
+    "Sannosuke ISHIMOTO"
+   ]
+  },
+  {
+   "name": "Yasuhei Ishikawa",
+   "role": "AMANO seaman",
+   "variants": [
+    "Yasuhei Ishikawe",
+    "Yasuei ISHIKAWA",
+    "Yasuhei Ishikawa"
+   ]
+  },
+  {
+   "name": "Masagoro Suzuki",
+   "role": "AMANO crew member or cook",
+   "variants": [
+    "Yasugoro SUZUKI",
+    "Masagoro Suzuki"
+   ]
+  },
+  {
+   "name": "Masao Kokuma",
+   "role": "Amano company shareholder",
+   "variants": [
+    "Masao Kokume",
+    "Masao Kokuma"
+   ]
+  },
+  {
+   "name": "Kiyoharu Kitamura",
+   "role": "Amano company shareholder",
+   "variants": [
+    "Liyoharu Kitamure",
+    "Tiyosharu Kitamaru"
+   ]
+  },
+  {
+   "name": "Yoshito Sadajiro",
+   "role": "Casa Japonesa and Amano company manager",
+   "variants": [
+    "Yoshite Sada-hirc",
+    "Yoshito Sada-jiro"
+   ]
+  },
+  {
+   "name": "Julio Briceño",
+   "role": "Panamanian consul at Yokohama",
+   "variants": [
+    "Julio Bricenio",
+    "Julio Briceno",
+    "Mr. Bricenio"
+   ]
+  },
+  {
+   "name": "G. T. Summerlin",
+   "role": "American minister to Panama",
+   "variants": [
+    "G. T. sumerlin",
+    "Mr.G.T.Summerlin"
+   ]
+  },
+  {
+   "name": "C. S. Ridley",
+   "role": "Governor of the Panama Canal",
+   "variants": [
+    "C. s. Ridley",
+    "C. S. RIDLEY",
+    "Gov.C.S.Ridley"
+   ]
+  },
+  {
+   "name": "A. W. Marshall",
+   "role": "Commandant, Fifteenth Naval District",
+   "variants": [
+    "A. N. Marshall",
+    "A. W. MARSHAIL",
+    "Admiral A. W. Marshall"
+   ]
+  },
+  {
+   "name": "D. L. Stone",
+   "role": "Commanding General, Panama Canal Department",
+   "variants": [
+    "D. L. Stone",
+    "D. L. STONE",
+    "Maj.Gen.D.L.Stone"
+   ]
+  },
+  {
+   "name": "Col. Marley",
+   "role": "Secretary, Local Joint Board",
+   "variants": [
+    "Col.Marley"
+   ]
+  },
+  {
+   "name": "O. C. Murfin",
+   "role": "Commandant, Fourteenth Naval District",
+   "variants": [
+    "O. C. MURFIN"
+   ]
+  },
+  {
+   "name": "Hector Valdes",
+   "role": "Panamanian Secretary of Government and Justice",
+   "variants": [
+    "Hector Valdes"
+   ]
+  },
+  {
+   "name": "Sidney V. Bingham",
+   "role": "Lieutenant Colonel and Assistant Chief of Staff for Military Intelligence",
+   "variants": [
+    "Sidney V. Binghem",
+    "Sidney V. Bingham"
+   ]
+  },
+  {
+   "name": "Harry Stuhr",
+   "role": "Bristol Bay fisherman and union organizer",
+   "variants": [
+    "Harry Stuhr",
+    "Mr. Stuhr"
+   ]
+  },
+  {
+   "name": "Mr. Sturgeon",
+   "role": "State Department officer investigating the Alaska salmon dispute",
+   "variants": [
+    "Mr. Sturgeon"
+   ]
+  },
+  {
+   "name": "Mr. Sayre",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Sayre"
+   ]
+  },
+  {
+   "name": "Mr. Dimond",
+   "role": "Delegate to Congress from Alaska",
+   "variants": [
+    "Mr. Dimond"
+   ]
+  },
+  {
+   "name": "Narciso Garay",
+   "role": "Panamanian Secretary of Labor, Commerce and Industries",
+   "variants": [
+    "Dr. Narciso Garay"
+   ]
+  },
+  {
+   "name": "Jose E. Lefevre",
+   "role": "Panamanian Secretary of Foreign Relations and Communications",
+   "variants": [
+    "Jose E. Lefevre",
+    "J. E. LEFEVRE",
+    "J. E. Lefevre",
+    "Señor Lefevre",
+    "LEFEVRE"
+   ]
+  },
+  {
+   "name": "Ezequiel Fernandez Jaen",
+   "role": "Panamanian Secretary of Treasury",
+   "variants": [
+    "Ezequiel Fernandez Jaen",
+    "Señor Fernández J."
+   ]
+  },
+  {
+   "name": "Tetsue Umimoto",
+   "role": "Japanese consul in Panama",
+   "variants": [
+    "Tetsue Umimoto"
+   ]
+  },
+  {
+   "name": "Juan Demóstenes Arosemena",
+   "role": "President of Panama",
+   "variants": [
+    "President Arosemena"
+   ]
+  },
+  {
+   "name": "N. Inouye",
+   "role": "Surveyor named in the AMANO registry application",
+   "variants": [
+    "N. Inouye"
+   ]
+  },
+  {
+   "name": "Collins",
+   "role": "Second Secretary who investigated fishing activities at Puntarenas",
+   "variants": [
+    "Collins"
+   ]
+  },
+  {
+   "name": "Benito Mussolini",
+   "role": "Italian ruler mentioned in a newspaper editorial",
+   "variants": [
+    "Mussolini"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German ruler mentioned in a newspaper editorial",
+   "variants": [
+    "Hitler"
+   ]
+  },
+  {
+   "name": "Hirohito",
+   "role": "Japanese emperor referred to by title in a newspaper editorial",
+   "variants": [
+    "the Mikado"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese fishing",
+  "AMANO MARU",
+  "Panamanian ship registry",
+  "Panama Canal defense",
+  "tuna fishing",
+  "Amano Fishery Company",
+  "Japanese Naval Reserve",
+  "Alaska salmon fisheries",
+  "Bristol Bay",
+  "Hong Kong fishing industry",
+  "Mexican fishermen’s cooperatives",
+  "fishery law"
+ ],
+ "subfiles": [
+  {
+   "title": "Association rules, concluding pages",
+   "doc_type": "bylaws excerpt",
+   "start_page": 1,
+   "end_page": 2,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Sets rules for meetings, voting, finances, and the fiscal year.",
+   "summary": "Concluding articles govern general meetings, decisions, minutes, receipts, budgets, and the association’s fiscal year.",
+   "keywords": [
+    "association rules",
+    "meetings",
+    "finances"
+   ]
+  },
+  {
+   "title": "Japanese vessel’s application for Panamanian registry",
+   "doc_type": "departmental memorandum",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1937-06-04",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Division of the American Republics",
+   "about": "Summarizes Yokohama reports on an application to register the AMANO in Panama.",
+   "summary": "Notes that approval of the application was still unknown.",
+   "keywords": [
+    "AMANO",
+    "Panamanian registry"
+   ]
+  },
+  {
+   "title": "Japanese attempts to extend fishing activities to Panama",
+   "doc_type": "consular despatch",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Richard F. Boyce, Yokohama",
+   "to": "Secretary of State",
+   "about": "Forwards the AMANO’s application for Panamanian registry.",
+   "summary": "Boyce encloses the registration application and refers to his earlier report.",
+   "keywords": [
+    "AMANO",
+    "Panama",
+    "registry"
+   ]
+  },
+  {
+   "title": "Japanese vessel’s application for Panamanian registry, duplicate",
+   "doc_type": "departmental memorandum",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1937-06-04",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Division of the American Republics",
+   "about": "Duplicates the summary of Yokohama’s registry report.",
+   "summary": "Repeats that approval of the AMANO application was unknown.",
+   "keywords": [
+    "AMANO",
+    "Panamanian registry"
+   ]
+  },
+  {
+   "title": "Japanese attempts to extend fishing activities to Panama, duplicate",
+   "doc_type": "consular despatch",
+   "start_page": 6,
+   "end_page": 6,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Richard F. Boyce, Yokohama",
+   "to": "Secretary of State",
+   "about": "Duplicates Boyce’s cover despatch forwarding the application.",
+   "summary": "Encloses a copy of the application for Panamanian registry.",
+   "keywords": [
+    "AMANO",
+    "Panama",
+    "registry"
+   ]
+  },
+  {
+   "title": "Application for registration of fishing vessel",
+   "doc_type": "registry application",
+   "start_page": 7,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1937-04",
+   "from": "",
+   "to": "Panamanian consul at Yokohama",
+   "about": "Requests registration of an Amano fishing vessel under construction at Shimizu.",
+   "summary": "Lists ownership, construction, dimensions, engine, equipment, and surveyor.",
+   "keywords": [
+    "registry application",
+    "ship specifications",
+    "Amano"
+   ]
+  },
+  {
+   "title": "Mexican fishermen’s study trip: cross-reference",
+   "doc_type": "document file note",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1937-05-24",
+   "from": "Mexico",
+   "to": "",
+   "about": "Points to a report on Mexican delegates studying Japanese fishing methods.",
+   "summary": "Cross-references file 812.628/392.",
+   "keywords": [
+    "Mexico",
+    "Japan",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Mexican fishermen invited to study in Japan",
+   "doc_type": "despatch",
+   "start_page": 9,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1937-05-24",
+   "from": "American embassy, Mexico",
+   "to": "Secretary of State",
+   "about": "Reports a proposed trip for Mexican fishermen’s cooperative delegates.",
+   "summary": "Mexico’s federal bureau invited cooperatives to send experienced fishermen to Japan aboard Japanese vessels, where they would study fisheries, schools, hatcheries, and methods before instructing their cooperatives at home.",
+   "keywords": [
+    "Mexican cooperatives",
+    "training",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Japanese activities in the Hong Kong fishing industry",
+   "doc_type": "consular despatch",
+   "start_page": 11,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1937-05-22",
+   "from": "Howard Donovan, Hong Kong",
+   "to": "Secretary of State",
+   "about": "Reports consolidation of Japanese fishing firms and their dominance of Hong Kong fish supplies.",
+   "summary": "Donovan reports that Nippon Suisan Kaisha absorbed Kyodo Gyogyo Kaisha’s Hong Kong operations. A newspaper account says Japanese trawlers supplied much of Hong Kong’s fish and shipped Hainan catches to the Philippines; local Chinese competitors faced a stronger combine.",
+   "keywords": [
+    "Hong Kong",
+    "Japanese fishing companies",
+    "South China"
+   ]
+  },
+  {
+   "title": "AMANO MARU granted Panamanian registry",
+   "doc_type": "consular despatch",
+   "start_page": 13,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1937-06-11",
+   "from": "Richard F. Boyce, Yokohama",
+   "to": "Secretary of State",
+   "about": "Reports provisional registry and the AMANO MARU’s planned voyage and crew.",
+   "summary": "Panama granted registry, then instructed its consul to seek specific approval before registering other Japanese ships. Boyce reports that the AMANO MARU would sail via Honolulu to San Pedro with a Danish master and a predominantly Japanese officer corps said to include naval reservists.",
+   "keywords": [
+    "AMANO MARU",
+    "Panamanian registry",
+    "crew"
+   ]
+  },
+  {
+   "title": "AMANO alien crew list",
+   "doc_type": "crew manifest",
+   "start_page": 15,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1937-06",
+   "from": "AMANO",
+   "to": "U.S. immigration authorities",
+   "about": "Identifies the AMANO’s crew, positions, nationalities, and physical descriptions.",
+   "summary": "The two-page manifest names the Danish master and Japanese officers and seamen.",
+   "keywords": [
+    "AMANO",
+    "crew",
+    "immigration"
+   ]
+  },
+  {
+   "title": "Request for AMANO crew list",
+   "doc_type": "legation despatch",
+   "start_page": 17,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "1937-07-20",
+   "from": "Fayette J. Flexer, Panama",
+   "to": "Secretary of State",
+   "about": "Requests the crew list and notes Canal defense concern over Japanese-owned fishing vessels.",
+   "summary": "Flexer asks for the enclosed crew list cited by Boyce, praises his reporting, and says Canal defense authorities are disturbed by plans for additional vessels.",
+   "keywords": [
+    "AMANO MARU",
+    "crew list",
+    "Canal defense"
+   ]
+  },
+  {
+   "title": "Assistant Secretary routing note",
+   "doc_type": "routing slip",
+   "start_page": 19,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1941-09-23",
+   "from": "Assistant Secretary",
+   "to": "",
+   "about": "Contains a brief filing or indexing instruction.",
+   "summary": "Handwritten instruction appears to request indexing.",
+   "keywords": [
+    "routing",
+    "indexing"
+   ]
+  },
+  {
+   "title": "Cover note for Alaska salmon investigation",
+   "doc_type": "departmental memorandum",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1937-09-25",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Mr. Sayre and Secretary of State",
+   "about": "Introduces a report on Japanese fishing prospects in Bristol Bay.",
+   "summary": "Flags Pacific Coast agitation and possible anti-Japanese incidents; directs readers to the report’s conclusions.",
+   "keywords": [
+    "Alaska salmon",
+    "Bristol Bay"
+   ]
+  },
+  {
+   "title": "Proposed method of dealing with Japanese participation in Alaska salmon fisheries",
+   "doc_type": "departmental memorandum",
+   "start_page": 21,
+   "end_page": 23,
+   "continues_previous": false,
+   "date": "1937-09",
+   "from": "Division of Far Eastern Affairs",
+   "to": "State Department officers",
+   "about": "Proposes an interdivisional committee to address the Bristol Bay fishing dispute.",
+   "summary": "The memorandum warns that agitation and threatened cargo boycotts could grow unless the Department acts. It proposes a committee to review evidence, assess policy and further research, and recommend action, while consulting visiting Alaska fishing representatives.",
+   "keywords": [
+    "Bristol Bay",
+    "committee",
+    "boycott"
+   ]
+  },
+  {
+   "title": "Japanese fishing company incorporated in Panama",
+   "doc_type": "confidential legation despatch",
+   "start_page": 24,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1937-07-28",
+   "from": "Fayette J. Flexer, Panama",
+   "to": "Secretary of State",
+   "about": "Examines Amano company ownership and Canal defense objections to a Japanese fishing fleet.",
+   "summary": "Flexer reports intense concern among Canal defense authorities about Japanese-crewed vessels near the Pacific entrance. He details the Panamanian incorporation and resident ownership of the Amano company, complicating proposed restrictions on foreign owners. The despatch reviews registry policy, fishing licenses, American tuna operations, possible processing arrangements, and the company’s uncertain plans.",
+   "keywords": [
+    "Amano Fishery Company",
+    "Panama Canal",
+    "registry",
+    "defense"
+   ]
+  },
+  {
+   "title": "Local Joint Board minutes on Japanese fishing vessels",
+   "doc_type": "meeting minutes",
+   "start_page": 30,
+   "end_page": 31,
+   "continues_previous": false,
+   "date": "1937-05-27",
+   "from": "Local Joint Board, Panama Canal",
+   "to": "American minister and defense departments",
+   "about": "Records defense officials’ recommendations for preventing Japanese fishing vessels from operating near the Canal.",
+   "summary": "After reviewing Boyce’s April report, the Board calls a Japanese-crewed fleet near the Canal undesirable. It recommends seeking Panamanian restrictions on foreign fishing vessels, examining American crew requirements, and investigating the AMANO’s California connections.",
+   "keywords": [
+    "Local Joint Board",
+    "Panama Canal",
+    "AMANO"
+   ]
+  },
+  {
+   "title": "Correction to Legation despatch",
+   "doc_type": "legation despatch",
+   "start_page": 32,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1937-07-31",
+   "from": "Fayette J. Flexer, Panama",
+   "to": "Secretary of State",
+   "about": "Corrects a cited despatch date.",
+   "summary": "Changes the date of despatch No. 615 to February 14, 1935.",
+   "keywords": [
+    "correction",
+    "despatch"
+   ]
+  },
+  {
+   "title": "State Department reply on AMANO crew list",
+   "doc_type": "letter",
+   "start_page": 33,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1937-08-13",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "Fayette J. Flexer",
+   "about": "Sends a photostatic AMANO crew list and requests further reporting.",
+   "summary": "Encloses the list and requests reports on military, naval, and Panamanian views.",
+   "keywords": [
+    "AMANO",
+    "crew list",
+    "Panama Canal"
+   ]
+  },
+  {
+   "title": "State Department review of AMANO and Canal defense concerns",
+   "doc_type": "departmental memorandum",
+   "start_page": 34,
+   "end_page": 36,
+   "continues_previous": false,
+   "date": "1937-08-03",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Division of the American Republics",
+   "about": "Summarizes registration, ownership, crew, naval reports, and proposed departmental action.",
+   "summary": "The memorandum recounts Panama’s provisional registry and the Local Joint Board’s objections. It notes Yoshitaro Amano’s Panamanian residence, the vessel’s unusually large officer contingent, reported naval reserve links, and its expected fishing for Van Camp. It suggests joint consideration of action.",
+   "keywords": [
+    "AMANO",
+    "Canal defense",
+    "Van Camp"
+   ]
+  },
+  {
+   "title": "Navy Department transmittal of Honolulu report",
+   "doc_type": "cover letter",
+   "start_page": 37,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1937-07-30",
+   "from": "Navy Department",
+   "to": "Secretary of State",
+   "about": "Forwards the Fourteenth Naval District’s report on the AMANO.",
+   "summary": "Sends a confidential report concerning the vessel, its company, and personnel.",
+   "keywords": [
+    "AMANO",
+    "Navy report"
+   ]
+  },
+  {
+   "title": "Visit of Panamanian motor ship AMANO to Honolulu",
+   "doc_type": "confidential naval report",
+   "start_page": 38,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1937-07-06",
+   "from": "O. C. Murfin, Fourteenth Naval District",
+   "to": "Commandants, Fifteenth and Eleventh Naval Districts",
+   "about": "Documents the AMANO’s Honolulu stop, crew, equipment, and intended fishing route.",
+   "summary": "The report records the vessel’s July 1–2 stop, crew list, technical specifications, radio equipment, and the master’s account. It says Van Camp backed the fuel purchase and that the AMANO planned to fish off San Clemente before proceeding to Panama.",
+   "keywords": [
+    "AMANO",
+    "Honolulu",
+    "crew",
+    "radio equipment"
+   ]
+  },
+  {
+   "title": "111 ton fishing vessel built in Japan here today",
+   "doc_type": "newspaper clipping",
+   "start_page": 41,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1937-07-01",
+   "from": "The Nippu Jiji",
+   "to": "",
+   "about": "Reports the AMANO MARU’s arrival in Honolulu.",
+   "summary": "Describes construction, cost, company management, and planned tuna fishing in Panama.",
+   "keywords": [
+    "AMANO MARU",
+    "Honolulu",
+    "tuna"
+   ]
+  },
+  {
+   "title": "A sign of progress of Marine Products Japan",
+   "doc_type": "translated newspaper article",
+   "start_page": 42,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1937-07-01",
+   "from": "The Nippu Jiji",
+   "to": "",
+   "about": "Profiles the AMANO MARU, its owners, crew, voyage, and fishing plans.",
+   "summary": "The translated article presents the vessel as a Japanese-built tuna boat for Panama and describes Amano’s enterprise, Shiraishi’s management, ship specifications, and selected crew. It recounts the maiden voyage and quotes Shiraishi on possible future fishing around Hawaii.",
+   "keywords": [
+    "AMANO MARU",
+    "Amano",
+    "Shiraishi",
+    "Hawaii"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Navy report",
+   "doc_type": "letter",
+   "start_page": 44,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1937-08-13",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "Claude A. Swanson",
+   "about": "Acknowledges receipt of the Navy’s report on the AMANO.",
+   "summary": "Thanks the Navy Secretary for the Fourteenth Naval District report.",
+   "keywords": [
+    "AMANO",
+    "Navy report"
+   ]
+  },
+  {
+   "title": "Panamanian instructions against further Japanese fishing-vessel registration",
+   "doc_type": "confidential Navy letter",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1937-07-13",
+   "from": "R. S. Holmes",
+   "to": "Laurence Duggan",
+   "about": "Reports Panama’s cable restricting registration and the AMANO’s six-month provisional certificate.",
+   "summary": "Holmes says Panama intended to refuse permanent registry after the provisional period.",
+   "keywords": [
+    "Panamanian registry",
+    "AMANO"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Admiral Holmes",
+   "doc_type": "letter",
+   "start_page": 46,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1937-07-14",
+   "from": "Laurence Duggan",
+   "to": "R. S. Holmes",
+   "about": "Acknowledges Holmes’s confidential information on Panamanian registration.",
+   "summary": "Thanks Holmes for forwarding the registry information.",
+   "keywords": [
+    "Panamanian registry",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Seventy-five per cent labor law and Japanese fishing vessels",
+   "doc_type": "confidential legation despatch",
+   "start_page": 47,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1937-07-31",
+   "from": "Fayette J. Flexer, Panama",
+   "to": "Secretary of State",
+   "about": "Forwards an editorial urging application of Panama’s labor law to the Amano enterprise.",
+   "summary": "Flexer explains that applying the law to foreign-trade vessels would threaten Panama’s registry revenue, while strict application to the AMANO could defeat its fishing enterprise.",
+   "keywords": [
+    "75 percent labor law",
+    "AMANO",
+    "Panama"
+   ]
+  },
+  {
+   "title": "Tuna fishing and the 75-per cent law",
+   "doc_type": "newspaper clipping",
+   "start_page": 49,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1937-07-29",
+   "from": "The Star & Herald",
+   "to": "",
+   "about": "Advocates applying Panamanian labor requirements to Japanese tuna concessionaires.",
+   "summary": "Argues that the labor law should apply equally to the tuna venture.",
+   "keywords": [
+    "tuna",
+    "labor law",
+    "Panama"
+   ]
+  },
+  {
+   "title": "Japanese fishery activities in Panama and Mexico",
+   "doc_type": "military intelligence report",
+   "start_page": 50,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1937-07-20",
+   "from": "Sidney V. Bingham, Hawaiian Department",
+   "to": "",
+   "about": "Reports on the AMANO’s Honolulu visit and an intercepted message from a Japanese vessel in Mexico.",
+   "summary": "Bingham details the AMANO’s ownership, crew, equipment, supply stop, California fishing plans, and Shiraishi’s interest in Hawaiian waters. An intercepted message from the MINO(WA) MARU at Mazatlán is interpreted as suggesting wider Japanese fishing plans involving the Amano company.",
+   "keywords": [
+    "AMANO",
+    "Honolulu",
+    "Mexico",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "Handwritten departmental routing note",
+   "doc_type": "routing note",
+   "start_page": 52,
+   "end_page": 52,
+   "continues_previous": false,
+   "date": "1937-10-30",
+   "from": "Division of the American Republics",
+   "to": "",
+   "about": "Contains a largely illegible handwritten comment.",
+   "summary": "A brief, partly unreadable note accompanies the fishing correspondence.",
+   "keywords": [
+    "routing",
+    "Panama"
+   ]
+  },
+  {
+   "title": "Japanese fishing activities in Panama",
+   "doc_type": "strictly confidential legation despatch",
+   "start_page": 53,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1937-10-25",
+   "from": "Fayette J. Flexer, Panama",
+   "to": "Secretary of State",
+   "about": "Reviews AMANO registry, Japanese market fishing, Panamanian policy, and Canal defense concerns.",
+   "summary": "Flexer reports that Panama barred new provisional registrations without approval but had already registered the AMANO. He questions whether its expected permanent-registration refusal has a legal basis, describes the vessel’s California fishing, and recounts Panama’s temporary suspension of Chinese and Japanese ship registrations amid the Sino-Japanese conflict. He also reports concern over Japanese crews in local waters and plans to apply Panama’s labor law, enclosing two newspaper items.",
+   "keywords": [
+    "AMANO",
+    "Panamanian registry",
+    "labor law",
+    "Canal defense"
+   ]
+  },
+  {
+   "title": "Bar Sino-Jap ship registry in Panama",
+   "doc_type": "newspaper clipping",
+   "start_page": 60,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1937-10-22",
+   "from": "The Panama American",
+   "to": "",
+   "about": "Reports Panama’s provisional suspension of Chinese and Japanese vessel registrations.",
+   "summary": "Links the order to Japanese blockade notices and possible diplomatic conflict.",
+   "keywords": [
+    "ship registry",
+    "China",
+    "Japan"
+   ]
+  },
+  {
+   "title": "What Price Fish?",
+   "doc_type": "newspaper editorial clipping",
+   "start_page": 61,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1937-10-16",
+   "from": "The Panama American",
+   "to": "",
+   "about": "Raises espionage concerns about the AMANO MARU near the Panama Canal.",
+   "summary": "Questions Amano’s wealth, ownership structure, vessel equipment, and prospective crew.",
+   "keywords": [
+    "AMANO MARU",
+    "espionage",
+    "Panama Canal"
+   ]
+  },
+  {
+   "title": "Magdalena Bay AMANO report: cross-reference",
+   "doc_type": "document file note",
+   "start_page": 62,
+   "end_page": 62,
+   "continues_previous": false,
+   "date": "1937-10-30",
+   "from": "Navy Department",
+   "to": "",
+   "about": "Points to a report on AMANO activity at Magdalena Bay.",
+   "summary": "Cross-references a Special Service Squadron report in file 812.345/33.",
+   "keywords": [
+    "AMANO",
+    "Magdalena Bay",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Harry Stuhr and the Bristol Bay salmon dispute",
+   "doc_type": "departmental memorandum",
+   "start_page": 63,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1937-10-06",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Mr. Sayre",
+   "about": "Records a meeting with an Alaska fisherman concerning possible Japanese fishing and a cargo boycott.",
+   "summary": "Stuhr sought information on State Department action to protect Bristol Bay salmon interests. Officials described continuing work but declined details and warned that a boycott of Japanese freight could hurt the fishermen’s case.",
+   "keywords": [
+    "Bristol Bay",
+    "Harry Stuhr",
+    "boycott"
+   ]
+  },
+  {
+   "title": "Japanese fishing vessels arrested near Singapore: cross-reference",
+   "doc_type": "document file note",
+   "start_page": 65,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1937-11-01",
+   "from": "Davis, Singapore",
+   "to": "",
+   "about": "Points to reports of Dutch arrests and firing on Japanese fishing vessels.",
+   "summary": "Summarizes reported incidents in the Riau Archipelago and cites another file.",
+   "keywords": [
+    "Singapore",
+    "Riau Archipelago",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Japanese attempts to extend fishing activities in Panama",
+   "doc_type": "consular despatch",
+   "start_page": 66,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1937-11-24",
+   "from": "Richard F. Boyce, Yokohama",
+   "to": "Secretary of State",
+   "about": "Reports a Panamanian-Japanese understanding to deny new registrations to both Chinese and Japanese vessels.",
+   "summary": "Boyce recounts a Panamanian consul’s account of disputes over Chinese ships transferred to Panama’s flag during Japan’s blockade. Panama reportedly agreed to stop registering Chinese vessels if Japanese vessels were also refused; the AMANO MARU’s existing status remained uncertain.",
+   "keywords": [
+    "AMANO MARU",
+    "Panamanian registry",
+    "China blockade"
+   ]
+  },
+  {
+   "title": "What Price Fish? (second copy)",
+   "doc_type": "newspaper editorial clipping",
+   "start_page": 69,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1937-10-16",
+   "from": "The Panama American",
+   "to": "",
+   "about": "Repeats the editorial questioning the AMANO MARU’s purpose and ownership.",
+   "summary": "Connects the fishing vessel to Canal security fears and Amano’s business interests.",
+   "keywords": [
+    "AMANO MARU",
+    "Panama Canal",
+    "editorial"
+   ]
+  },
+  {
+   "title": "AMANO provisional registration reportedly extended",
+   "doc_type": "strictly confidential legation despatch",
+   "start_page": 70,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1937-12-20",
+   "from": "Fayette J. Flexer, Panama",
+   "to": "Secretary of State",
+   "about": "Reports the AMANO’s departure for Costa Rica and a six-month registry extension.",
+   "summary": "The AMANO arrived at Balboa, then sailed for Puntarenas after Panama reportedly extended its provisional registry. Flexer describes divided cabinet views, possible Costa Rican registration, and enclosed translations of Panamanian correspondence on the suspension of Chinese and Japanese vessel registrations.",
+   "keywords": [
+    "AMANO",
+    "registry extension",
+    "Costa Rica"
+   ]
+  },
+  {
+   "title": "Japanese consul’s blockade notice to Panama",
+   "doc_type": "translated official letter",
+   "start_page": 73,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1937-10-14",
+   "from": "Jose E. Lefevre",
+   "to": "Ezequiel Fernandez Jaen",
+   "about": "Transmits the Japanese consul’s notice of Japan’s blockade of China’s coast.",
+   "summary": "Lefevre forwards Tetsue Umimoto’s note and a translation of Japan’s notice.",
+   "keywords": [
+    "China blockade",
+    "Japanese consul",
+    "Panama"
+   ]
+  },
+  {
+   "title": "Suspension of Chinese and Japanese ship registrations",
+   "doc_type": "translated official letter",
+   "start_page": 74,
+   "end_page": 74,
+   "continues_previous": false,
+   "date": "1937-10-15",
+   "from": "Jose E. Lefevre",
+   "to": "Ezequiel Fernandez Jaen",
+   "about": "Reports seizure of a Panamanian-registered former Chinese ship and orders a registration suspension.",
+   "summary": "Lefevre describes the TECHEKN’s capture by Japanese forces and transcribes instructions to Panama’s consul general in Hong Kong to suspend registrations of Chinese and Japanese ships indefinitely.",
+   "keywords": [
+    "TECHEKN",
+    "ship registry",
+    "Hong Kong"
+   ]
+  },
+  {
+   "title": "Inquiry into AMANO activities in Costa Rica",
+   "doc_type": "State Department instruction",
+   "start_page": 75,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1937-12-31",
+   "from": "Sumner Welles, for the Secretary of State",
+   "to": "William H. Hornibrook",
+   "about": "Requests discreet reporting on possible Costa Rican registry and further AMANO activity.",
+   "summary": "Asks the minister at San José to investigate developments after the vessel sailed to Puntarenas.",
+   "keywords": [
+    "AMANO",
+    "Costa Rica",
+    "registry"
+   ]
+  },
+  {
+   "title": "Japanese fishery law: cross-reference",
+   "doc_type": "document file note",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1938-01-04",
+   "from": "Japan (Grew)",
+   "to": "",
+   "about": "Points to a telegram on aliens’ rights to own or operate fishing vessels in Japan.",
+   "summary": "Notes no express ban, though licenses for aliens appeared doubtful.",
+   "keywords": [
+    "fishery law",
+    "aliens",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Alien ownership and operation under Japanese fishery law",
+   "doc_type": "telegram",
+   "start_page": 77,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1938-01-04",
+   "from": "Grew, Tokyo",
+   "to": "Secretary of State",
+   "about": "Analyzes legal restrictions on alien fishing-vessel ownership, operation, and labor in Japan.",
+   "summary": "The embassy finds no specific statutory bar to aliens owning or operating Japanese fishing vessels in coastal waters or on the high seas. It cautions that required fishing and labor licenses may be withheld or canceled, and that subsidies are restricted to Japanese vessels.",
+   "keywords": [
+    "Japanese fishery law",
+    "alien labor",
+    "licenses"
+   ]
+  },
+  {
+   "title": "Japanese fishing and cotton activities in Costa Rica: cross-reference",
+   "doc_type": "document file note",
+   "start_page": 80,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1938-01",
+   "from": "Hornibrook, Costa Rica",
+   "to": "",
+   "about": "Points to an investigation of Japanese fishing and cotton projects around Puntarenas.",
+   "summary": "Cross-references Second Secretary Collins’s investigation in file 818.628/64.",
+   "keywords": [
+    "Costa Rica",
+    "Puntarenas",
+    "cross-reference"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 8,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., July 8, 1930 - September 24, 1936 928-part-2.pdf",
+  "seconds": 109.2,
+  "created": "2026-10-08 22:18:23",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-6-part-2"
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "section_summary": "A December 11 memorandum forwards a San Francisco customs collector’s December 5 telegram and the Commissioner of Customs’ December 7 reply. The collector asks how to handle Japanese naval vessels, their cargoes, and printed matter; the reply addresses the printed matter’s customs status.",
+ "places": [
+  {
+   "name": "San Francisco",
+   "variants": [
+    "Sen frenelese",
+    "SAPRAGIGOALIP",
+    "Sen Franeisso, Calif."
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Captain Scott",
+   "role": "Captain; consulted by telephone",
+   "variants": [
+    "Gaptads Seeet"
+   ]
+  },
+  {
+   "name": "L. Jeen",
+   "role": "Signer of the memorandum; name uncertain in OCR",
+   "variants": [
+    ". L. Jeen"
+   ]
+  },
+  {
+   "name": "W. M. Johnson",
+   "role": "Signer of the December 7 reply",
+   "variants": [
+    "W. M. Johason",
+    "Johneon",
+    "JOHNBON"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese vessels",
+  "naval tankers",
+  "customs courtesies",
+  "printed matter",
+  "tariff classification",
+  "oil cargoes",
+  "entry and clearance",
+  "customs supervision",
+  "San Francisco"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum forwarding customs telegram and reply",
+   "doc_type": "memorandum",
+   "start_page": 481,
+   "end_page": 481,
+   "continues_previous": false,
+   "date": "1940-12-11",
+   "from": "Commissioner of Customs",
+   "to": "Director, Bureau of Navigation and Steamboat Inspection",
+   "about": "Requests advice on instructions to the San Francisco collector concerning Japanese vessels’ entry and clearance.",
+   "summary": "Forwards the collector’s telegram and the December 7 reply, seeking further guidance on entry and clearance.",
+   "keywords": [
+    "customs instructions",
+    "entry and clearance",
+    "Japanese vessels"
+   ]
+  },
+  {
+   "title": "Telegram requesting instructions on Japanese vessels",
+   "doc_type": "telegram",
+   "start_page": 482,
+   "end_page": 482,
+   "continues_previous": false,
+   "date": "1940-12-05",
+   "from": "Collector of Customs, San Francisco",
+   "to": "Commissioner of Customs",
+   "about": "Asks how to treat printed matter, oil cargoes, and customs formalities aboard Japanese vessels.",
+   "summary": "The collector seeks instructions on printed matter aboard a naval tanker and on reporting, entry, clearance, and supervision of vessels carrying oil.",
+   "keywords": [
+    "Japanese naval vessels",
+    "printed matter",
+    "oil cargoes",
+    "customs supervision"
+   ]
+  },
+  {
+   "title": "Reply concerning printed matter aboard Japanese vessel",
+   "doc_type": "day-letter telegram",
+   "start_page": 483,
+   "end_page": 483,
+   "continues_previous": false,
+   "date": "1940-12-07",
+   "from": "W. M. Johnson",
+   "to": "Collector of Customs, San Francisco",
+   "about": "States that imported printed matter is subject to regular entry and tariff classification.",
+   "summary": "Imported printed matter requires regular customs entry and classification under tariff laws.",
+   "keywords": [
+    "printed matter",
+    "customs entry",
+    "tariff classification"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 7,
+  "sections": 7,
+  "pages": [
+   481,
+   483
+  ],
+  "pdf": "894.85 Japan, Merchant Vessels. Yachts. Immunities Of Government -Controlled., February 29, 1940 - December 7, 1940 1230.pdf",
+  "seconds": 27.0,
+  "created": "2026-10-08 21:45:24",
+  "key": "japan-internal-affairs-894.85-japan-merchant-vessels-8"
+ }
+}

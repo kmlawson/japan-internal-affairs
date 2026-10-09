@@ -1,0 +1,156 @@
+{
+ "section_summary": "Pages 34–37 finish an issue of the Bank of Japan’s Financial Statistics Monthly with tables on bonds, short-term securities and corporate capital, followed by its imprint. Pages 38–69 begin the February 1947 issue, with contents pages and statistical tables covering banks, credit cooperatives, insurers, government savings, securities trading and bill clearing.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "日本",
+    "Japan",
+    "Japanese",
+    "Nippon"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "東京都",
+    "東京",
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "大阪",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyobashi",
+   "variants": [
+    "京橋區"
+   ]
+  },
+  {
+   "name": "Ginza-nishi",
+   "variants": [
+    "銀座西"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "日本橋區"
+   ]
+  },
+  {
+   "name": "Honshikichō",
+   "variants": [
+    "本石町"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "满洲國",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "支那",
+    "chinese"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kitagawa Takenosuke",
+   "role": "Editor and publisher named in the imprint",
+   "variants": [
+    "北川武之輔"
+   ]
+  },
+  {
+   "name": "Shinohara Shū",
+   "role": "Printer named in the imprint",
+   "variants": [
+    "篠原周"
+   ]
+  }
+ ],
+ "keywords": [
+  "Financial Statistics Monthly",
+  "Bank of Japan",
+  "government bonds",
+  "short-term securities",
+  "bank deposits",
+  "bank loans",
+  "credit cooperatives",
+  "insurance assets",
+  "Deposit Bureau",
+  "postal savings",
+  "securities trading",
+  "bill clearing"
+ ],
+ "subfiles": [
+  {
+   "title": "Financial Statistics Monthly, concluding tables and imprint",
+   "doc_type": "statistical bulletin",
+   "start_page": 34,
+   "end_page": 37,
+   "continues_previous": true,
+   "date": "1947-03-25",
+   "from": "Bank of Japan Statistics Bureau",
+   "to": "",
+   "about": "Concluding tables report bond issues and redemptions, short-term securities and corporate capital.",
+   "summary": "The closing tables give monthly figures for government bonds, short-term securities, public and corporate debentures, planned capital and paid-up capital. The imprint records printing on March 20, 1947, and publication on March 25.",
+   "keywords": [
+    "government bonds",
+    "short-term securities",
+    "debentures",
+    "planned capital",
+    "paid-up capital"
+   ]
+  },
+  {
+   "title": "Financial Statistics Monthly, No. 11, February 1947",
+   "doc_type": "statistical bulletin",
+   "start_page": 38,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1947-02",
+   "from": "Bank of Japan Statistics Bureau",
+   "to": "",
+   "about": "The February issue compiles Japanese banking, insurance, public savings and securities statistics.",
+   "summary": "The cover, contents and graph introduce the February 1947 issue. Tables report Bank of Japan balances and the assets and liabilities of banks, trust companies, insurers, agricultural and urban credit cooperatives, mutual loan companies and specialized banks. Further tables cover the Deposit Bureau, postal savings, government insurance and pensions, securities trading, and cleared bills in Tokyo and Osaka. The issue continues beyond page 69.",
+   "keywords": [
+    "Bank of Japan",
+    "banking statistics",
+    "deposits",
+    "loans",
+    "insurance",
+    "credit cooperatives",
+    "Deposit Bureau",
+    "postal savings",
+    "securities exchange",
+    "cleared bills"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 5,
+  "pages": [
+   34,
+   69
+  ],
+  "pdf": "894.516 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Japan, Banks. Banking., June 14, 1947 - August 2, 1949 1751.pdf",
+  "seconds": 28.5,
+  "created": "2026-10-08 22:52:41",
+  "key": "japan-internal-affairs-894.516-financial-conditions-budget-7"
+ }
+}

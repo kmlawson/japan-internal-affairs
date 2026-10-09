@@ -1,0 +1,947 @@
+{
+ "section_summary": "This section consists chiefly of excerpts from monthly U.S. consular reports on Japanese shipping from late 1938 through November 1940, with a reprinted article and a translated ordinance. It traces the shift from voluntary industry controls to government direction of shipbuilding, vessel allocation, freight rates, and cargo priorities. Several reports also list merchant-vessel launches and discuss shipping company finances.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japam",
+    "Japanese Empire",
+    "JAPANESE EMPIRE",
+    "APANESE EMPIAL",
+    "JAPANE3T EAPIRE",
+    "JAPANESE EMPIHE",
+    "JAPANESE EYPIHE",
+    "JAPANE3E EMPIRE"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "X-be"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Oeaka"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Uraga",
+   "variants": [
+    "Uraga"
+   ]
+  },
+  {
+   "name": "Tsurumi",
+   "variants": [
+    "Tsurumi"
+   ]
+  },
+  {
+   "name": "Koyagi Island",
+   "variants": [
+    "Koyagi jima",
+    "Koyagijima",
+    "Koyagi Jima"
+   ]
+  },
+  {
+   "name": "Innoshima",
+   "variants": [
+    "Innoshima"
+   ]
+  },
+  {
+   "name": "Harima",
+   "variants": [
+    "Harima"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaide",
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yawmsa",
+    "Yawate"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chimm",
+    "Chinum",
+    "Central Chimm",
+    "hain",
+    "Manehukuo and China"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Manohukuo",
+    "Manehukuo"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Taku",
+   "variants": [
+    "Taku"
+   ]
+  },
+  {
+   "name": "Langyan",
+   "variants": [
+    "Lamgyen"
+   ]
+  },
+  {
+   "name": "Tayaozhuang",
+   "variants": [
+    "Tayaoshan"
+   ]
+  },
+  {
+   "name": "Chunghsing",
+   "variants": [
+    "Chunghsing"
+   ]
+  },
+  {
+   "name": "Kailuan",
+   "variants": [
+    "Kailuan"
+   ]
+  },
+  {
+   "name": "Chunglu",
+   "variants": [
+    "Chunglu"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korem",
+    "Korea",
+    "Chosen",
+    "Chesems"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto",
+    "North Saghalion"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Chishima"
+   ]
+  },
+  {
+   "name": "Kwantung Peninsula",
+   "variants": [
+    "Kwantung penimsuda",
+    "Kwantung Provinoe"
+   ]
+  },
+  {
+   "name": "South Seas Mandate",
+   "variants": [
+    "South Seas Nandate",
+    "South Sea Mandated Islands",
+    "South Sea Islands",
+    "South Seas"
+   ]
+  },
+  {
+   "name": "Mediterranean Sea",
+   "variants": [
+    "Mediterranean"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Denmark",
+   "variants": [
+    "Denmark"
+   ]
+  },
+  {
+   "name": "Norway",
+   "variants": [
+    "Norway"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South African"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia",
+    "Australian"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "Indian"
+   ]
+  },
+  {
+   "name": "Java",
+   "variants": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "Mumbai",
+   "variants": [
+    "Bombay"
+   ]
+  },
+  {
+   "name": "Kolkata",
+   "variants": [
+    "Caleutta"
+   ]
+  },
+  {
+   "name": "Chennai",
+   "variants": [
+    "Madras"
+   ]
+  },
+  {
+   "name": "Iran",
+   "variants": [
+    "Iran"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "Freneh Indo-China"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Tha1"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North Ameriea"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South Ameriea"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "variants": [
+    "Oregon"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "Ameriea",
+    "Ameriean",
+    "American"
+   ]
+  },
+  {
+   "name": "Greater East Asia",
+   "variants": [
+    "Greater East Asia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Nagai",
+   "role": "Minister of Communications",
+   "variants": [
+    "Nagal"
+   ]
+  },
+  {
+   "name": "William C. Affeld Jr.",
+   "role": "American vice consul; report author and approving officer",
+   "variants": [
+    "Villiom.. Affeld, Jr.",
+    "William C..Affeld,.Jr.",
+    "William.C. Affeld, Jr.",
+    "williom.C. Affeld, Jr.",
+    "william.C. Affeld, Jr.",
+    "William Affeld, Jr.",
+    "William C. Affeld, Jr.",
+    "Willimm C. Affeld, Jr."
+   ]
+  },
+  {
+   "name": "L. H. Gourley",
+   "role": "American consul; approving officer",
+   "variants": [
+    "L. H. Gourley",
+    "L. H. Gourloy",
+    "L. H. (Gourloy",
+    "1. H. Gourley",
+    "L. . Gourloy"
+   ]
+  },
+  {
+   "name": "William E. Yuni",
+   "role": "American vice consul; report author",
+   "variants": [
+    "william.E. Yuni",
+    "William E..Yuni",
+    "Williem E..Yuni"
+   ]
+  },
+  {
+   "name": "Shinjiro Kurokawa",
+   "role": "President of Kokusai Kisen Kaisha",
+   "variants": [
+    "Shinjiro Kurokawa"
+   ]
+  },
+  {
+   "name": "Noboru Otani",
+   "role": "President of Nippon Yusen Kaisha; Shipping Control Committee chairman; transportation association chairman",
+   "variants": [
+    "Noboru tahi",
+    "Otani",
+    "Noboru Otan1"
+   ]
+  },
+  {
+   "name": "Harumichi Tanabe",
+   "role": "Minister of Communications",
+   "variants": [
+    "Harumiohi Tanabe",
+    "Mr. Tanabe"
+   ]
+  },
+  {
+   "name": "Roy M. Melbourne",
+   "role": "American vice consul; report author",
+   "variants": [
+    "Roy.M. Melbourne",
+    "Roy M. Melbourne",
+    "Hoy M. Melbourne",
+    "Roy H. Melbourne",
+    "Nelbourne"
+   ]
+  },
+  {
+   "name": "Mitsumasa Yonai",
+   "role": "Prime minister",
+   "variants": [
+    "Mitsumasa Yonai"
+   ]
+  },
+  {
+   "name": "Yukio Sakurauchi",
+   "role": "Minister of Finance",
+   "variants": [
+    "Yukio Sakurauch1"
+   ]
+  },
+  {
+   "name": "Kuniaki Koiso",
+   "role": "Minister for Colonial Affairs",
+   "variants": [
+    "Kuniaki kfeso"
+   ]
+  },
+  {
+   "name": "Masanori Katsu",
+   "role": "Minister of Communications",
+   "variants": [
+    "Masanori Katsu",
+    "Katsu"
+   ]
+  },
+  {
+   "name": "Shozo Murata",
+   "role": "Shipping association president and later Minister of Communications",
+   "variants": [
+    "Shoso Murata",
+    "Shozo Murata",
+    "Murate",
+    "Shogo Murata"
+   ]
+  },
+  {
+   "name": "Fumimaro Konoe",
+   "role": "Prime minister",
+   "variants": [
+    "Prinoe Konoye",
+    "Konoye"
+   ]
+  },
+  {
+   "name": "Katsumi Yamagata",
+   "role": "Tatsuuma Shipping Company representative and shipping-control plan proponent",
+   "variants": [
+    "Xatsumi Yamagata"
+   ]
+  },
+  {
+   "name": "Samuel Sokobin",
+   "role": "American consul; approving officer",
+   "variants": [
+    "Samuel Sokobin"
+   ]
+  },
+  {
+   "name": "Shigeru Hata",
+   "role": "Managing director of the Central Shipping Transportation Control Association",
+   "variants": [
+    "Shigeru Hata"
+   ]
+  },
+  {
+   "name": "Tadao Araki",
+   "role": "Director of Kokusai Steamship Company",
+   "variants": [
+    "Tadao Araki"
+   ]
+  },
+  {
+   "name": "Toshio Koharu",
+   "role": "Managing director of Osaka Shosen Kaisha",
+   "variants": [
+    "Toshio Koharu"
+   ]
+  },
+  {
+   "name": "Taro Yamashita",
+   "role": "Managing director of Yamashita Kisen Kaisha",
+   "variants": [
+    "Taro Yamashita"
+   ]
+  },
+  {
+   "name": "Shuichi Sasaki",
+   "role": "Director of Mitsui Products Company",
+   "variants": [
+    "Shulohi Sasak1"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese merchant shipping",
+  "shipping control",
+  "ship allocation",
+  "freight rates",
+  "shipbuilding",
+  "merchant-vessel launches",
+  "National General Mobilization Law",
+  "Marine Transportation Control Ordinance",
+  "voluntary control",
+  "shipping associations",
+  "wartime cargo priorities"
+ ],
+ "subfiles": [
+  {
+   "title": "Shipping administration bureau proposal, concluding page",
+   "doc_type": "report excerpt",
+   "start_page": 321,
+   "end_page": 321,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A proposed Communications Ministry bureau would divide control, marine affairs, and shipping work among three divisions.",
+   "summary": "Concludes a proposal for a new wartime shipping bureau.",
+   "keywords": [
+    "shipping administration",
+    "Communications Ministry"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During October 1938",
+   "doc_type": "consular report excerpt",
+   "start_page": 322,
+   "end_page": 324,
+   "continues_previous": false,
+   "date": "1938-11-18",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Reports two vessel launches and Kokusai Kisen Kaisha’s financial recovery.",
+   "summary": "Lists October merchant-vessel launches and describes Kokusai Kisen Kaisha’s improved profits, debt restructuring, and possible resumption of dividends.",
+   "keywords": [
+    "vessel launches",
+    "Kokusai Kisen Kaisha",
+    "dividends"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During November 1938",
+   "doc_type": "consular report excerpt",
+   "start_page": 325,
+   "end_page": 327,
+   "continues_previous": false,
+   "date": "1938-12-12",
+   "from": "William E. Yuni, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Reviews Nippon Yusen Kaisha’s six percent dividend and reduced earnings.",
+   "summary": "Explains the company’s lower profits and its president’s views on trade conditions, costs, and voluntary regulation of coastal freight rates.",
+   "keywords": [
+    "Nippon Yusen Kaisha",
+    "dividends",
+    "coastal shipping"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During December 1938",
+   "doc_type": "consular report excerpt",
+   "start_page": 328,
+   "end_page": 331,
+   "continues_previous": false,
+   "date": "1939-01-20",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Lists vessel launches and describes proposed statutory controls over shipping associations.",
+   "summary": "The report records December launches and negotiations over legislation giving legal force to existing industry controls. It describes compulsory association membership and a planned Kobe federation empowered to manage rates and tonnage.",
+   "keywords": [
+    "vessel launches",
+    "shipping legislation",
+    "freight rates"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During February 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 332,
+   "end_page": 334,
+   "continues_previous": false,
+   "date": "1939-03-20",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Assesses the progress and opposition facing several shipping bills.",
+   "summary": "Discusses disputes over seamen’s insurance, ship financing, and the Shipping Association Act, whose draft would place shipping activities under ministerial control.",
+   "keywords": [
+    "shipping legislation",
+    "seamen’s insurance",
+    "ship financing"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During March 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 335,
+   "end_page": 337,
+   "continues_previous": false,
+   "date": "1939-04-22",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Reports passage of shipping, shipbuilding, financing, and seamen’s insurance laws.",
+   "summary": "Outlines five recently passed laws, expected implementation dates, licensing of shipbuilding, and expanded credit for new vessels.",
+   "keywords": [
+    "Shipping Association Act",
+    "shipbuilding",
+    "marine finance"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During April 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 338,
+   "end_page": 342,
+   "continues_previous": false,
+   "date": "1939-05-18",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Lists vessel launches and examines rising pressure for direct government control of shipping.",
+   "summary": "The report connects vessel shortages and high charter rates with government consideration of compulsory ship assignment. It notes efforts to secure transport for essential imports, Army rate reductions, and new restrictions on corporate dividends.",
+   "keywords": [
+    "vessel launches",
+    "ship allocation",
+    "charter rates",
+    "National General Mobilization Act"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During May 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 343,
+   "end_page": 346,
+   "continues_previous": false,
+   "date": "1939-06-16",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Lists launches and compares industry and ministry plans for shipping control.",
+   "summary": "After listing May launches, the report describes the rejection of an industry voluntary-control plan as too weak. A ministry proposal would place a government-business council over existing bodies to direct tonnage toward vital cargoes.",
+   "keywords": [
+    "vessel launches",
+    "voluntary control",
+    "tonnage allocation"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During June 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 347,
+   "end_page": 349,
+   "continues_previous": false,
+   "date": "1939-07-15",
+   "from": "William C. Affeld Jr., American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Describes negotiations over a proposed Ship Control Council.",
+   "summary": "Shipping interests proposed a council to allocate tonnage, review contracts, and compensate operators for compulsory assignments; ministry acceptance remained uncertain.",
+   "keywords": [
+    "Ship Control Council",
+    "ship allocation",
+    "compensation"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During July 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 350,
+   "end_page": 353,
+   "continues_previous": false,
+   "date": "1939-08-21",
+   "from": "William E. Yuni, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Surveys proposed controls and overseas tramp-shipping concerns.",
+   "summary": "Reports plans to direct vessel distribution and prioritize essential cargoes, submission of an industry council proposal, rejection of a separate Shipping Ministry, and shipowners’ fears of losing overseas tramp business.",
+   "keywords": [
+    "government control",
+    "Ship Control Council",
+    "tramp shipping"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During August 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 354,
+   "end_page": 356,
+   "continues_previous": false,
+   "date": "1939-09-20",
+   "from": "William E. Yuni, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Explains the Cabinet-approved plan for shipping and shipbuilding control commissions.",
+   "summary": "The Cabinet approved a plan to regulate ship construction, cargo contracts, vessel allocation, and freight and charter rates. Mixed official-industry commissions would administer the controls.",
+   "keywords": [
+    "shipping control",
+    "shipbuilding regulation",
+    "Cabinet plan"
+   ]
+  },
+  {
+   "title": "Control of Ocean Freight Rates",
+   "doc_type": "reprinted periodical article",
+   "start_page": 357,
+   "end_page": 360,
+   "continues_previous": false,
+   "date": "1939-09",
+   "from": "The Oriental Economist",
+   "to": "",
+   "about": "Analyzes freight costs and proposals to control Japanese ocean transport.",
+   "summary": "The article compares freight charges across iron ore, coal, salt, lumber, and other imports, emphasizing the high cost of tramp service. It links rising rates to vessel shortages and construction costs, then describes proposed rate controls, cargo priorities, and greater oversight of shipyards.",
+   "keywords": [
+    "ocean freight rates",
+    "tramp shipping",
+    "commodity prices",
+    "cargo priorities"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During December 1939",
+   "doc_type": "consular report excerpt",
+   "start_page": 361,
+   "end_page": 362,
+   "continues_previous": false,
+   "date": "1940-01-18",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Lists commercial vessels launched by mid-December 1939.",
+   "summary": "Records vessel names, tonnages, speeds, shipyards, and owners.",
+   "keywords": [
+    "vessel launches",
+    "merchant marine"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During February 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 363,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "1940-03-12",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Explains the new Marine Transportation Control Ordinance and possible compulsory ship allocation.",
+   "summary": "The ordinance gives the government broad powers over shipbuilding, repairs, routes, cargoes, rates, and charters. The report considers compulsory allocation to move essential goods despite operators’ reluctance to accept less profitable services.",
+   "keywords": [
+    "Marine Transportation Control Ordinance",
+    "ship allocation",
+    "shipping policy"
+   ]
+  },
+  {
+   "title": "Marine Transportation (Shipping) Control Ordinance",
+   "doc_type": "translated imperial ordinance appendix",
+   "start_page": 366,
+   "end_page": 370,
+   "continues_previous": false,
+   "date": "1940-01-31",
+   "from": "Japanese government",
+   "to": "",
+   "about": "Sets out legal powers to regulate Japanese vessel construction and marine transport.",
+   "summary": "The translated ordinance requires construction permits and authorizes directions concerning repairs, vessel use, charters, navigation, cargo handling, prices, and rates. It provides for compensation, reporting, inspections, and delegated administration. Its additional rules specify implementation dates in Japan and colonial territories.",
+   "keywords": [
+    "imperial ordinance",
+    "shipbuilding permits",
+    "freight rates",
+    "inspections"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During April 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 371,
+   "end_page": 374,
+   "continues_previous": false,
+   "date": "1940-05-16",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Discusses a new shipping association and a proposed common vessel-charter company.",
+   "summary": "The report anticipates a government-backed association controlling large vessels and describes a proposed joint company to acquire and charter ships. Wartime conditions and limited foreign vessels constrain purchases.",
+   "keywords": [
+    "shipping association",
+    "vessel shortage",
+    "ship charter pool"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During May 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 375,
+   "end_page": 376,
+   "continues_previous": false,
+   "date": "1940-06-17",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Reports the inauguration and leadership of the Nippon Shipping Society.",
+   "summary": "The new society replaced the Japan Shipowners Association and was charged with controlling owners of vessels over 1,000 tons.",
+   "keywords": [
+    "Nippon Shipping Society",
+    "shipowners",
+    "government control"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During June 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 377,
+   "end_page": 379,
+   "continues_previous": false,
+   "date": "1940-07-22",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Reports proposals to tighten vessel and cargo allocation.",
+   "summary": "The ministry considered a ship-assignment council and use of ordinance powers to charter idle vessels and restrict routes and cargoes.",
+   "keywords": [
+    "ship assignment",
+    "Shipping Control Ordinance",
+    "cargo priorities"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During July 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 380,
+   "end_page": 383,
+   "continues_previous": false,
+   "date": "1940-08-14",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Examines vessel shortages and proposals for stronger shipping controls.",
+   "summary": "The report describes shortcomings in existing control bodies and shortages affecting essential cargoes. Proposals include compulsory vessel distribution, tighter supervision of distant routes, joint cargo collection, and a profit-equalization fund.",
+   "keywords": [
+    "vessel shortage",
+    "compulsory allocation",
+    "shipping control"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During August 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 384,
+   "end_page": 388,
+   "continues_previous": false,
+   "date": "1940-09-19",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Compares industry and government proposals for expanded shipping control.",
+   "summary": "Shipowners proposed a mixed commission to allocate cargoes and manage rates, while the ministry favored direct authority over vessel and freight-space allocation. The report also describes growing support for pooling routes, vessels, warehouses, and profits.",
+   "keywords": [
+    "shipping control proposals",
+    "freight space",
+    "resource pooling"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During September 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 389,
+   "end_page": 392,
+   "continues_previous": false,
+   "date": "1940-10-30",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Describes the announced structure of Japan’s revised shipping-control system.",
+   "summary": "A government inquiry council would plan allocations, the Communications Ministry would issue binding orders, and industry bodies would administer ship assignment and rates. The plan sought to pool shipping resources across vessel types.",
+   "keywords": [
+    "Shipping Control Inquiry Council",
+    "vessel allocation",
+    "transport association"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During October 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 393,
+   "end_page": 397,
+   "continues_previous": false,
+   "date": "1940-11-20",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Details the roles and proposed membership of two shipping-control bodies.",
+   "summary": "The Shipping Control Committee would retain authority over rates, fees, and compensation while vessel assignment would pass to a central transport association. The report describes proposed divisions by vessel type and route, participation from Korea and Kwantung, and calls for a shippers’ association to coordinate cargoes.",
+   "keywords": [
+    "Shipping Control Committee",
+    "transport association",
+    "route allocation",
+    "freight control"
+   ]
+  },
+  {
+   "title": "Shipping in the Japanese Empire During November 1940",
+   "doc_type": "consular report excerpt",
+   "start_page": 398,
+   "end_page": 400,
+   "continues_previous": false,
+   "date": "1940-12-26",
+   "from": "Roy M. Melbourne, American Vice Consul, Kobe",
+   "to": "Department of State",
+   "about": "Reports the inauguration of the Central Shipping Transportation Control Association.",
+   "summary": "The association began work with 95 member companies, although full tonnage allocation was expected later. The excerpt names its officers and describes plans to approve transport contracts and give essential cargoes priority. The report continues beyond page 400.",
+   "keywords": [
+    "Central Shipping Transportation Control Association",
+    "officers",
+    "transport contracts",
+    "cargo priorities"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 7,
+  "pages": [
+   321,
+   400
+  ],
+  "pdf": "894.85 Japan, Merchant Vessels. Yachts. Immunities Of Government -Controlled., February 29, 1940 - December 7, 1940 1230.pdf",
+  "seconds": 62.9,
+  "created": "2026-10-08 21:42:58",
+  "key": "japan-internal-affairs-894.85-japan-merchant-vessels-8"
+ }
+}

@@ -1,0 +1,774 @@
+{
+ "section_summary": "This section follows negotiations between foreign oil companies and Japanese officials over quotas, required oil stocks, refining permits, and prices under the 1934 Petroleum Industry Law. It contains the companies’ proposed memorandum, a detailed conversation record, the Japanese Commerce Department’s draft reply, and subsequent diplomatic reporting. By early March 1935, talks had been suspended until after the Diet session, with the foreign companies considering withdrawal if the rules were not changed.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japan Proper",
+    "Japen",
+    "Jupan",
+    "Jepan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan",
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "manchuri:",
+    "\"Manchukuo\"",
+    "\" anchuluo\""
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "D: iren"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philip ine Islands",
+    "Manila"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "U.S.A.",
+    "United States",
+    "UNITED STATES OF AMERICA",
+    "American"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "NEW YORK",
+    "New York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D.C.",
+    "Washington",
+    "washington"
+   ]
+  },
+  {
+   "name": "New England",
+   "variants": [
+    "New England"
+   ]
+  },
+  {
+   "name": "Texas",
+   "variants": [
+    "Texas"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "California"
+   ]
+  },
+  {
+   "name": "New Jersey",
+   "variants": [
+    "New Jersey"
+   ]
+  },
+  {
+   "name": "North America",
+   "variants": [
+    "North America"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia"
+   ]
+  },
+  {
+   "name": "Africa",
+   "variants": [
+    "Africa"
+   ]
+  },
+  {
+   "name": "Oceania",
+   "variants": [
+    "Oceania"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Peru",
+   "variants": [
+    "Peru"
+   ]
+  },
+  {
+   "name": "Colombia",
+   "variants": [
+    "Colombia"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "England"
+   ]
+  },
+  {
+   "name": "Mediterranean",
+   "variants": [
+    "Mediterranean"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "Iraq"
+   ]
+  },
+  {
+   "name": "Portuguese Timor",
+   "variants": [
+    "Portuguese Timor"
+   ]
+  },
+  {
+   "name": "East Indies",
+   "variants": [
+    "East Indies"
+   ]
+  },
+  {
+   "name": "The Hague",
+   "variants": [
+    "The Hague"
+   ]
+  },
+  {
+   "name": "Pacific coast",
+   "variants": [
+    "Pacific coast"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "U.S. Ambassador in Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "GREW"
+   ]
+  },
+  {
+   "name": "Yoshino",
+   "role": "Japanese Vice Minister for Commerce and Industry",
+   "variants": [
+    "Mr. Yoshino",
+    "Yoshino",
+    "Mr. Yosaino",
+    "Mr. Yoshio"
+   ]
+  },
+  {
+   "name": "Sansom",
+   "role": "Commercial Counsellor, British Embassy",
+   "variants": [
+    "Mr. Sansom",
+    "Sansom",
+    "Mr. S-nsom",
+    "P. anco"
+   ]
+  },
+  {
+   "name": "Count von Rechteren",
+   "role": "Netherlands Legation representative",
+   "variants": [
+    "Count von Rechteren"
+   ]
+  },
+  {
+   "name": "Dickover",
+   "role": "U.S. Embassy official",
+   "variants": [
+    "Mr. Dickover",
+    "Dickover",
+    "Mr. Lickover"
+   ]
+  },
+  {
+   "name": "Kurusu",
+   "role": "Chief of the Bureau of Commercial Affairs, Japanese Foreign Office",
+   "variants": [
+    "Mr. Kurusu",
+    "Kurusu",
+    "r. S. urusu",
+    "Mr. Hurusu"
+   ]
+  },
+  {
+   "name": "Yoshitaro Wakimura",
+   "role": "Professor at Tokyo Imperial University",
+   "variants": [
+    "Professor Yoshitaro Wakimura"
+   ]
+  },
+  {
+   "name": "Godber",
+   "role": "Representative of Rising Sun Petroleum or its parent company",
+   "variants": [
+    "Mr. Godber",
+    "Godber",
+    "Messrs. Godber & Malcolm"
+   ]
+  },
+  {
+   "name": "Malcolm",
+   "role": "Rising Sun Petroleum representative",
+   "variants": [
+    "Mr. Malcolm",
+    "Malcolm",
+    "Messrs. Godber & Malcolm"
+   ]
+  },
+  {
+   "name": "Parker",
+   "role": "Standard-Vacuum Oil representative",
+   "variants": [
+    "Mr. Parker",
+    "Parker",
+    "Mr. Farker",
+    "r. Furker"
+   ]
+  },
+  {
+   "name": "Goold",
+   "role": "Standard-Vacuum Oil representative",
+   "variants": [
+    "Mr. Goold",
+    "Goold",
+    "Goole"
+   ]
+  },
+  {
+   "name": "Hogetsu",
+   "role": "Japanese official or secretary attending the January 30 meeting",
+   "variants": [
+    "Hogetsu",
+    "Mr. Hogetsu"
+   ]
+  },
+  {
+   "name": "Sakai",
+   "role": "Japanese official or secretary attending the January 30 meeting",
+   "variants": [
+    "Sakai",
+    "Mr. Sakai"
+   ]
+  },
+  {
+   "name": "Matsukata",
+   "role": "Oil trader holding a quota for Russian oil",
+   "variants": [
+    "Matsukata",
+    "Mr. Matsukata"
+   ]
+  },
+  {
+   "name": "Hashimoto",
+   "role": "President of Nippon Oil Company",
+   "variants": [
+    "Mr. Hashimoto",
+    "Hashimoto"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Chief, Division of Far Eastern Affairs, U.S. Department of State",
+   "variants": [
+    "Dr. Stanley K. Hornbeck",
+    "Dr. Hornbeck"
+   ]
+  },
+  {
+   "name": "Dundas",
+   "role": "Standard-Vacuum Oil Company correspondent",
+   "variants": [
+    "Mr. Dundas"
+   ]
+  },
+  {
+   "name": "Walden",
+   "role": "Standard-Vacuum Oil representative",
+   "variants": [
+    "Walden"
+   ]
+  },
+  {
+   "name": "Hirota",
+   "role": "Japanese Minister for Foreign Affairs",
+   "variants": [
+    "Hirota",
+    "Mr. Hirota"
+   ]
+  },
+  {
+   "name": "Neville",
+   "role": "U.S. Embassy official",
+   "variants": [
+    "Mr. Neville",
+    "Neville",
+    "E.L. N."
+   ]
+  },
+  {
+   "name": "John R. Geary",
+   "role": "General Electric representative in Japan",
+   "variants": [
+    "Mr. John R. Geary",
+    "Mr. Geary"
+   ]
+  },
+  {
+   "name": "Knabenshue",
+   "role": "Person named as sender in a cross-referenced letter",
+   "variants": [
+    "Knabenshue"
+   ]
+  },
+  {
+   "name": "Lord Stanhope",
+   "role": "Person cited in a cross-referenced conversation",
+   "variants": [
+    "Lord Stanhope"
+   ]
+  },
+  {
+   "name": "Hoshino",
+   "role": "Official of the Manchukuo Finance Department",
+   "variants": [
+    "P. Hos ino"
+   ]
+  },
+  {
+   "name": "Viscount Tadashiro Inouye",
+   "role": "Suggested Japanese adviser to foreign oil companies",
+   "variants": [
+    "Viscount Tadashiro Inouye"
+   ]
+  },
+  {
+   "name": "Masujima",
+   "role": "Lawyer suggested as an adviser",
+   "variants": [
+    "Mr. Masujima"
+   ]
+  },
+  {
+   "name": "Ryozo Asano",
+   "role": "Suggested Japanese adviser",
+   "variants": [
+    "Ryozo Asano"
+   ]
+  },
+  {
+   "name": "Funakoshi",
+   "role": "Retired admiral and former adviser to Rising Sun Petroleum",
+   "variants": [
+    "Admiral (retired) Funakoshi"
+   ]
+  },
+  {
+   "name": "Hanihara",
+   "role": "Deceased former diplomat mentioned as a possible model for an adviser",
+   "variants": [
+    "Hanihara"
+   ]
+  },
+  {
+   "name": "Debuchi",
+   "role": "Former diplomat suggested as an adviser",
+   "variants": [
+    "mr. Debuchi"
+   ]
+  },
+  {
+   "name": "Matsumoto Joji",
+   "role": "Former vice minister and member of the House of Peers suggested as an adviser",
+   "variants": [
+    "Matsumpto Joji"
+   ]
+  }
+ ],
+ "keywords": [
+  "Petroleum Industry Law of 1934",
+  "foreign oil companies",
+  "gasoline quotas",
+  "stock-keeping requirements",
+  "oil refining",
+  "price fixing",
+  "import duties",
+  "Japanese oil supply",
+  "diplomatic negotiations",
+  "Manchukuo oil monopoly"
+ ],
+ "subfiles": [
+  {
+   "title": "American oil interests in Japan, conclusion of despatch No. 1168",
+   "doc_type": "diplomatic despatch",
+   "start_page": 81,
+   "end_page": 84,
+   "continues_previous": true,
+   "date": "1935-02-08",
+   "from": "Joseph C. Grew, U.S. Embassy, Tokyo",
+   "to": "U.S. Secretary of State",
+   "about": "Reports a dispute over Yoshino’s draft reply, renewed talks, 1935 quotas, and Japan’s search for foreign oil fields.",
+   "summary": "A threatening oral message accompanying Yoshino’s reply was later softened, allowing talks to resume on February 7. The despatch reviews quota allocations that favored Japanese refiners while granting foreign importers part of anticipated growth. It also reports Japanese interest in oil fields in Mexico, Peru, and Colombia.",
+   "keywords": [
+    "oil negotiations",
+    "Yoshino",
+    "1935 quotas",
+    "foreign oil fields"
+   ]
+  },
+  {
+   "title": "Draft memorandum to the Ministry of Commerce",
+   "doc_type": "draft memorandum with exhibits",
+   "start_page": 85,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1935",
+   "from": "Standard-Vacuum Oil Company and Rising Sun Petroleum Company",
+   "to": "Japanese Ministry of Commerce and Industry",
+   "about": "Sets out foreign importers’ objections and requested assurances under the Petroleum Industry Law.",
+   "summary": "The companies seek a durable share of gasoline trade and proportional treatment of increases and decreases in consumption. They contest the cost of mandatory oil storage, question the economics of expanded local refining, and request a price formula covering importers’ costs and a reasonable profit. Exhibits compare international refinery capacity and project Japanese gasoline demand.",
+   "keywords": [
+    "draft memorandum",
+    "quotas",
+    "stock keeping",
+    "refining capacity",
+    "price formula"
+   ]
+  },
+  {
+   "title": "Memorandum of conversation at Tokyo Club, January 30, 1935",
+   "doc_type": "memorandum of conversation",
+   "start_page": 96,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1935-01-30",
+   "from": "Foreign oil company representatives and Japanese officials",
+   "to": "",
+   "about": "Records a detailed discussion of the companies’ draft memorandum and the administration of the oil law.",
+   "summary": "Yoshino and Kurusu discuss quota principles, idle refinery capacity, treatment of Korea and Taiwan, storage costs, refining permits, and price calculations with company representatives. Yoshino rejects a guaranteed market percentage but privately suggests sharing future growth equally after idle capacity is filled. The companies press for written assurances and argue that the stock requirement and controlled prices threaten their ability to continue operating.",
+   "keywords": [
+    "Tokyo Club",
+    "Yoshino",
+    "Kurusu",
+    "quotas",
+    "oil stocks",
+    "price fixing"
+   ]
+  },
+  {
+   "title": "Reply of the Department of Commerce and Industry to foreign oil companies",
+   "doc_type": "draft official reply",
+   "start_page": 113,
+   "end_page": 116,
+   "continues_previous": false,
+   "date": "1935",
+   "from": "Japanese Department of Commerce and Industry",
+   "to": "Foreign oil companies",
+   "about": "Rejects the companies’ memorandum as written and states the department’s positions on quotas, storage, refining, and prices.",
+   "summary": "The department declines to guarantee trade by percentage and gives local refiners preference while unused capacity remains. It rules out subsidies or postponing storage requirements, though it promises lenient application. It also declines to fix permanent price formula rates.",
+   "keywords": [
+    "official reply",
+    "quotas",
+    "storage obligations",
+    "refining",
+    "gasoline prices"
+   ]
+  },
+  {
+   "title": "Letter concerning the Japanese Control Law",
+   "doc_type": "letter",
+   "start_page": 117,
+   "end_page": 118,
+   "continues_previous": false,
+   "date": "1935-02-28",
+   "from": "Dundas, Standard-Vacuum Oil Company",
+   "to": "Dr. Stanley K. Hornbeck",
+   "about": "Relays a proposed Japanese press statement and explains why foreign oil representatives are leaving Japan temporarily.",
+   "summary": "The letter says negotiations have stalled and Japanese officials have retreated from earlier positions. Company representatives plan to return in April after officials establish their authority to make commitments.",
+   "keywords": [
+    "Standard-Vacuum",
+    "press statement",
+    "negotiations",
+    "adjournment"
+   ]
+  },
+  {
+   "title": "Division of Far Eastern Affairs note on Tokyo telegram No. 44",
+   "doc_type": "internal memorandum",
+   "start_page": 119,
+   "end_page": 119,
+   "continues_previous": false,
+   "date": "1935-03-04",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Recommends against separately notifying Dundas of Tokyo’s March 2 telegram.",
+   "summary": "The division concludes that Standard-Vacuum already knows the material developments and can form its own assessment.",
+   "keywords": [
+    "internal memorandum",
+    "Dundas",
+    "Tokyo telegram"
+   ]
+  },
+  {
+   "title": "Tokyo telegram No. 44 on American oil interests in Japan",
+   "doc_type": "telegram",
+   "start_page": 120,
+   "end_page": 122,
+   "continues_previous": false,
+   "date": "1935-03-02",
+   "from": "Joseph C. Grew, Tokyo",
+   "to": "U.S. Secretary of State, Washington",
+   "about": "Reports suspension of oil talks and Hirota’s response to an informal diplomatic approach.",
+   "summary": "Foreign representatives are departing for Manila and expect to resume talks after the Diet session. They remain dissatisfied with officials’ retreat from oral understandings but have not decided whether to threaten withdrawal. Hirota hopes for an agreement after adjournment and acknowledges Japan’s dependence on American oil.",
+   "keywords": [
+    "telegram",
+    "suspended negotiations",
+    "Diet",
+    "Hirota",
+    "oil supply"
+   ]
+  },
+  {
+   "title": "Division of Far Eastern Affairs note on Tokyo despatch No. 1182",
+   "doc_type": "internal memorandum",
+   "start_page": 123,
+   "end_page": 125,
+   "continues_previous": false,
+   "date": "1935-03-12",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Comments on despatch No. 1182 and Japanese proposals for foreign firms to associate with Japanese interests.",
+   "summary": "The writer questions Dickover’s view that such associations usually disadvantage American firms, citing Geary’s experience.",
+   "keywords": [
+    "internal memorandum",
+    "Japanese partners",
+    "General Electric",
+    "Geary"
+   ]
+  },
+  {
+   "title": "American oil interests in Japan, despatch No. 1182",
+   "doc_type": "diplomatic despatch",
+   "start_page": 126,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "1935-02-21",
+   "from": "Joseph C. Grew, U.S. Embassy, Tokyo",
+   "to": "U.S. Secretary of State",
+   "about": "Reports deteriorating prospects in the continuing talks and introduces two enclosed conversation records.",
+   "summary": "A revised company memorandum addresses future business assurances, oil stocks, quotas, and prices, but the Japanese position has hardened. Foreign representatives are increasingly pessimistic. The enclosures discuss both the negotiations and Kurusu’s suggestion that the companies obtain Japanese capital or influential advisers.",
+   "keywords": [
+    "despatch",
+    "oil negotiations",
+    "revised memorandum",
+    "Japanese advisers"
+   ]
+  },
+  {
+   "title": "Neville conversation with Parker and Goold",
+   "doc_type": "memorandum of conversation",
+   "start_page": 129,
+   "end_page": 132,
+   "continues_previous": false,
+   "date": "1935-02-14",
+   "from": "Neville, U.S. Embassy",
+   "to": "",
+   "about": "Records company discussions of the Manchukuo oil monopoly and possible outcomes of negotiations in Japan.",
+   "summary": "Parker and Goold describe an approach concerning crude oil sales to the Manchukuo monopoly and seek advice on the status of assurances from Japanese officials. Neville explains the limits of any reply Yoshino and Kurusu could give before consulting other departments. The representatives consider setting a minimum selling price or withdrawing if no satisfactory agreement emerges.",
+   "keywords": [
+    "Manchukuo",
+    "crude oil",
+    "Parker",
+    "Goold",
+    "withdrawal"
+   ]
+  },
+  {
+   "title": "Conversation with Kurusu, Sansom, and Dickover",
+   "doc_type": "memorandum of conversation",
+   "start_page": 133,
+   "end_page": 135,
+   "continues_previous": false,
+   "date": "1935-02-20",
+   "from": "E. F. Dickover, U.S. Embassy",
+   "to": "",
+   "about": "Records Kurusu’s suggestions for improving foreign oil companies’ access to Japanese officials.",
+   "summary": "Kurusu attributes part of the companies’ difficulties to language barriers and weak connections in Tokyo. He suggests Japanese investors or influential Japanese advisers. Sansom and Dickover oppose shared ownership, while the participants discuss several possible advisers.",
+   "keywords": [
+    "Kurusu",
+    "Japanese capital",
+    "advisers",
+    "foreign oil companies"
+   ]
+  },
+  {
+   "title": "Document file note on oil situation in Japan",
+   "doc_type": "document file note",
+   "start_page": 136,
+   "end_page": 136,
+   "continues_previous": false,
+   "date": "1935-01-21",
+   "from": "Department of State",
+   "to": "",
+   "about": "Cross-references a Knabenshue letter about a conversation with Lord Stanhope on oil supplies to Japan.",
+   "summary": "Points to a separate letter discussing British-American cooperation and possible restriction of oil and capital supplies.",
+   "keywords": [
+    "cross-reference",
+    "Knabenshue",
+    "Lord Stanhope",
+    "oil supply"
+   ]
+  },
+  {
+   "title": "American oil interests in Japan, despatch No. 1193",
+   "doc_type": "confidential diplomatic despatch",
+   "start_page": 137,
+   "end_page": 146,
+   "continues_previous": false,
+   "date": "1935-03-08",
+   "from": "Joseph C. Grew, U.S. Embassy, Tokyo",
+   "to": "U.S. Secretary of State",
+   "about": "Reviews the breakdown and postponement of oil negotiations, diplomatic representations, and attempts to secure crude oil supplies.",
+   "summary": "Japanese officials reject parts of the companies’ February memorandum and seek time to consult other departments after the Diet session. Grew describes possible changes to stock requirements, the companies’ price and quota demands, and their contemplated warning of withdrawal. He reports his informal approach to Hirota, efforts to restrict Japan’s access to new crude sources, and his view that agreement may still be possible when talks resume.",
+   "keywords": [
+    "despatch",
+    "suspended negotiations",
+    "stock keeping",
+    "price fixing",
+    "Hirota",
+    "crude oil"
+   ]
+  },
+  {
+   "title": "Memorandum of conversation with Kurusu, Neville, and Sansom, February 25",
+   "doc_type": "memorandum of conversation",
+   "start_page": 147,
+   "end_page": 148,
+   "continues_previous": false,
+   "date": "1935-02-25",
+   "from": "U.S. Embassy, Tokyo",
+   "to": "",
+   "about": "Records Kurusu’s objection to the preamble of the companies’ draft memorandum and his oral assurances.",
+   "summary": "Kurusu says a written claim that Yoshino accepts the memorandum would embarrass him with other departments. He assures Neville and Sansom that the memorandum will guide further talks, while declining to bind himself or Yoshino on details. The conversation continues beyond page 148.",
+   "keywords": [
+    "Kurusu",
+    "Neville",
+    "Sansom",
+    "draft memorandum",
+    "oral assurances"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 7,
+  "pages": [
+   81,
+   148
+  ],
+  "pdf": "894.6363 Mines. Mining. Concessions., Carbon. Graphite., Japan, Petroleum., January 7, 1935 - October 25, 1939 1141-part-1.pdf",
+  "seconds": 78.0,
+  "created": "2026-10-08 16:14:05",
+  "key": "japan-internal-affairs-894.6363-mines-mining-concessions-5-part-1"
+ }
+}

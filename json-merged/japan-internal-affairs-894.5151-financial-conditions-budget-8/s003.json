@@ -1,0 +1,1787 @@
+{
+ "section_summary": "This section concerns postwar currency and foreign trade in Japan and Korea, including remittances, blocked yen, trade financing, and competing proposals for a yen-dollar exchange rate. It contains diplomatic correspondence, SCAP reports, Japanese policy recommendations, private inquiries, and a newspaper article on inflation and sterling trade. The final pages trace State Department debate over whether and when to establish a Japanese commercial exchange rate.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japam",
+    "Japas",
+    "Japensse",
+    "Japanese",
+    "Japenese"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Kerea",
+    "Keree",
+    "KORKA"
+   ]
+  },
+  {
+   "name": "South Korea",
+   "variants": [
+    "South Korea",
+    "United States occupied Kerea"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul",
+    "seomk"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.A.",
+    "U. S.",
+    "Amerioan"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "NEW YORK 4, N. Y.",
+    "NEW YORK 1, N. Y.",
+    "New York I, Now Yorky",
+    "New York"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington, D. C.",
+    "Washingten, D. C.",
+    "Washington 8, D. C.",
+    "Washington 35, D. 0.",
+    "Washington 25, D. C.",
+    "Washington",
+    "WASHDC",
+    "Rashingtem"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Kwantung",
+   "variants": [
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Siam"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burna"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hongkong"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "Philippines"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Syria",
+   "variants": [
+    "Syria"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchukuo"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "Iraq"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokgo",
+    "Tokye",
+    "Tolgo"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peking",
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Romania",
+   "variants": [
+    "Rumania",
+    "Rumanian"
+   ]
+  },
+  {
+   "name": "Bucharest",
+   "variants": [
+    "Bucharest"
+   ]
+  },
+  {
+   "name": "Denver",
+   "variants": [
+    "DENVER",
+    "DENVER COLO",
+    "Denver"
+   ]
+  },
+  {
+   "name": "Colorado",
+   "variants": [
+    "COLO",
+    "COLORADO"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle",
+    "Seattle 4, Washington",
+    "Sealile"
+   ]
+  },
+  {
+   "name": "Washington state",
+   "variants": [
+    "Washington",
+    "Washisglos"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "Sas Freneisee",
+    "San Fressßeee"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Mmaila",
+    "manile",
+    "Manila"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Motharlands",
+    "Notherlemás",
+    "Hetherlande"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "French",
+    "Proneh"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italien"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Moscow",
+   "variants": [
+    "Moscow"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Georgia",
+   "variants": [
+    "Georgia"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Sudan",
+   "variants": [
+    "Sudan"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "San Diego",
+   "variants": [
+    "SAN DIEGO",
+    "San Diego"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "CALIFORNIA",
+    "Califarnis"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "Great Britain",
+    "Britain",
+    "British",
+    "U.K."
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asiatic"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Pacific",
+   "variants": [
+    "Pacific"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Cecil G. Harrison",
+   "role": "Acting Chief, Telecommunications Division",
+   "variants": [
+    "Cess1 G. Masrieem",
+    "Cecil G. Narrison",
+    "Mr. Harrison",
+    "Gee11 6. marisem"
+   ]
+  },
+  {
+   "name": "T. E. Mitchell",
+   "role": "RCA Communications correspondent; name in heading",
+   "variants": [
+    "T. E. MITCEELL",
+    "T. H. tebell"
+   ]
+  },
+  {
+   "name": "Guthrie",
+   "role": "RCA Communications Washington representative",
+   "variants": [
+    "Mr Guthrie"
+   ]
+  },
+  {
+   "name": "Roswell H. Whitman",
+   "role": "Acting Associate Chief, Division of Occupied Areas Economic Affairs",
+   "variants": [
+    "Mr. R. I. Whitman",
+    "Rosweli H. Whitman",
+    "Roswell H. Whitman",
+    "Mr. Whitman",
+    "Roswell. itan"
+   ]
+  },
+  {
+   "name": "Samuel S. Stratton",
+   "role": "Acting Secretary General, Far Eastern Commission",
+   "variants": [
+    "Mr. Samuel S. Stratton",
+    "Mr. Stratton"
+   ]
+  },
+  {
+   "name": "R. Dunford",
+   "role": "Lustre Fibres correspondent",
+   "variants": [
+    "R. Dunford",
+    "Mr. Dunford"
+   ]
+  },
+  {
+   "name": "Bramble",
+   "role": "Consulted about rayon prices; surname uncertain",
+   "variants": [
+    "Brauuble",
+    "Brantle"
+   ]
+  },
+  {
+   "name": "Rock Shimpo",
+   "role": "Inquirer about remittances to Japan",
+   "variants": [
+    "ROCY SHIMP",
+    "ROCK SHIMPO"
+   ]
+  },
+  {
+   "name": "E. J. Madill",
+   "role": "Acting Assistant Chief, Division of Protective Services",
+   "variants": [
+    "E. JMADILL"
+   ]
+  },
+  {
+   "name": "Georges Bagulesco",
+   "role": "Former Romanian Minister to Japan",
+   "variants": [
+    "General Bagulesoo",
+    "General Bagulesco",
+    "General Georges Bagulesco",
+    "Géorges Bagulesco",
+    "Bagulesco",
+    "Bagulesoo",
+    "Bagulesse",
+    "Bagalesse",
+    "BAGULESCO, George",
+    "Begulesco"
+   ]
+  },
+  {
+   "name": "Paul Birdsall",
+   "role": "Lieutenant Colonel, Office of the Military Attaché",
+   "variants": [
+    "Col Birdsall",
+    "Lt. Colonel Paul Birdsall",
+    "Lt. Colonel Birdsall"
+   ]
+  },
+  {
+   "name": "Patten",
+   "role": "Embassy staff member",
+   "variants": [
+    "Mr. Patten"
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "Acting United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "SEBALD"
+   ]
+  },
+  {
+   "name": "General Radulesco",
+   "role": "Romanian Military Attaché and later Minister to Tokyo",
+   "variants": [
+    "General Radulesco",
+    "Radulesco"
+   ]
+  },
+  {
+   "name": "Miss Otsuka",
+   "role": "Travel companion of Bagulesco",
+   "variants": [
+    "Miss OTSUKA"
+   ]
+  },
+  {
+   "name": "Clarence T. Arai",
+   "role": "Attorney",
+   "variants": [
+    "Clarence T. Arai",
+    "Clarense T. Arai",
+    "Mr. Arai"
+   ]
+  },
+  {
+   "name": "Yo Yamashita",
+   "role": "Holder of a Sumitomo Bank yen draft; given name uncertain in OCR",
+   "variants": [
+    "Yo Yaa shita"
+   ]
+  },
+  {
+   "name": "Stanley D. Metzger",
+   "role": "Assistant to the Legal Adviser",
+   "variants": [
+    "Stanley D. Metsger"
+   ]
+  },
+  {
+   "name": "Frank G. Wisner",
+   "role": "Deputy to the Assistant Secretary for Occupied Areas",
+   "variants": [
+    "Frank G. Wisner"
+   ]
+  },
+  {
+   "name": "Frank R. McCoy",
+   "role": "General; Far Eastern Commission",
+   "variants": [
+    "General MeGey",
+    "Gem. Frank R. MeGey"
+   ]
+  },
+  {
+   "name": "Robert A. Lovett",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "Louett",
+    "Lovett"
+   ]
+  },
+  {
+   "name": "Tsuru Shigeto",
+   "role": "Chairman, Japanese Exchange Committee; Vice Chairman, Economic Stabilization Board Coordinating Committee",
+   "variants": [
+    "Tsual shigeto",
+    "TSURU Shigeto"
+   ]
+  },
+  {
+   "name": "Wada Hiroo",
+   "role": "Director General, Economic Stabilization Board",
+   "variants": [
+    "WaDa Hireo",
+    "WADA Hiroo"
+   ]
+  },
+  {
+   "name": "Kurusu Takeo",
+   "role": "Minister of Finance",
+   "variants": [
+    "KuRusU-Takse",
+    "KURUSU Takeo"
+   ]
+  },
+  {
+   "name": "Mizutani Chozaburo",
+   "role": "Minister of Commerce and Industry",
+   "variants": [
+    "MIzuTANI Chosaburo",
+    "MIZUTANI Chozaburo"
+   ]
+  },
+  {
+   "name": "Hatano Kanae",
+   "role": "Minister of Agriculture and Forestry",
+   "variants": [
+    "HATAnO Kanae",
+    "NATANO Kanae"
+   ]
+  },
+  {
+   "name": "Kitamura Tokutaro",
+   "role": "Minister of Transportation",
+   "variants": [
+    "KITAlamA Tokstaro",
+    "KITAMURA Tokutaro"
+   ]
+  },
+  {
+   "name": "Uki Takeo",
+   "role": "Minister of Communications",
+   "variants": [
+    "UkI Takes",
+    "!TkI Takeo"
+   ]
+  },
+  {
+   "name": "Yonekubo Mitsusuke",
+   "role": "Minister of Labor",
+   "variants": [
+    "YONEkUBO litsusake",
+    "YONEkUBO Mitsusuke"
+   ]
+  },
+  {
+   "name": "Fujisawa Jiro",
+   "role": "Director, Foreign Trade Bureau; surname uncertain in OCR",
+   "variants": [
+    "FUJISANA Jiro"
+   ]
+  },
+  {
+   "name": "Sata Tadataka",
+   "role": "Director, Finance Bureau",
+   "variants": [
+    "SATA Tadataka"
+   ]
+  },
+  {
+   "name": "Yamamoto Takayuki",
+   "role": "Chief of Secretariat; name uncertain in OCR",
+   "variants": [
+    "TAAMOTO TakayukI"
+   ]
+  },
+  {
+   "name": "Taniguchi Tsutomu",
+   "role": "Director, Price Control Bureau",
+   "variants": [
+    "TANIGUCHI Tsutomu"
+   ]
+  },
+  {
+   "name": "Arai Shinji",
+   "role": "Councillor",
+   "variants": [
+    "ARAI Shinji"
+   ]
+  },
+  {
+   "name": "Katsube Toshio",
+   "role": "Deputy Director, Foreign Trade Bureau",
+   "variants": [
+    "KATSUBE Toshio"
+   ]
+  },
+  {
+   "name": "Watanabe Kikuso",
+   "role": "Deputy Director, Finance Bureau",
+   "variants": [
+    "WATANARE Kikuso"
+   ]
+  },
+  {
+   "name": "Kubotani Naomitsu",
+   "role": "Deputy Director, Price Control Bureau",
+   "variants": [
+    "KUBOTANI Naomitsu"
+   ]
+  },
+  {
+   "name": "Tokunaga Hisaji",
+   "role": "Chief, Planning Section",
+   "variants": [
+    "TOKUMAGA Hisaji"
+   ]
+  },
+  {
+   "name": "Matsuo Taiichiro",
+   "role": "Chief, Foreign Trade Policy Section",
+   "variants": [
+    "MATSuO Taiichiro"
+   ]
+  },
+  {
+   "name": "Yamashita Taketoshi",
+   "role": "Chief, Finance Section",
+   "variants": [
+    "YAMmSHITA Taketoshi"
+   ]
+  },
+  {
+   "name": "Shimomura Hajime",
+   "role": "Chief, Price Control Policy Section",
+   "variants": [
+    "SHIMOMURA Hajime"
+   ]
+  },
+  {
+   "name": "Ihara Takashi",
+   "role": "Director, Finance Bureau, Finance Ministry",
+   "variants": [
+    "IHARA Takashi"
+   ]
+  },
+  {
+   "name": "Ishida Tadashi",
+   "role": "Chief, Foreign Exchange First Section",
+   "variants": [
+    "ISHIDA Tadashi"
+   ]
+  },
+  {
+   "name": "Ishino Shinichi",
+   "role": "Chief, Foreign Exchange Third Section",
+   "variants": [
+    "IShINO Shinichi"
+   ]
+  },
+  {
+   "name": "Ota Ryoichi",
+   "role": "Secretary, Foreign Exchange Third Section",
+   "variants": [
+    "OTA Ryoichi"
+   ]
+  },
+  {
+   "name": "Nagai Wakiso",
+   "role": "Chief, Economic Section, Foreign Ministry; given name uncertain in OCR",
+   "variants": [
+    "MAGAI Wdlkiso"
+   ]
+  },
+  {
+   "name": "Arai Shigeru",
+   "role": "Deputy Director General, Board of Trade",
+   "variants": [
+    "ABAI shigeru"
+   ]
+  },
+  {
+   "name": "Ochi Minoru",
+   "role": "Chief, Foreign Trade Section; given name uncertain in OCR",
+   "variants": [
+    "OCHI Wineru"
+   ]
+  },
+  {
+   "name": "Sato Naokumi",
+   "role": "Chief, Research Section; given name uncertain in OCR",
+   "variants": [
+    "SATO Nackumi"
+   ]
+  },
+  {
+   "name": "Watanabe Makoto",
+   "role": "Chief, Foreign Trade Fund Section; name uncertain in OCR",
+   "variants": [
+    "WATANANE Jakoto"
+   ]
+  },
+  {
+   "name": "Hirata Raiichiro",
+   "role": "Director, First Department, Price Control Board",
+   "variants": [
+    "HIRATA Raiichire"
+   ]
+  },
+  {
+   "name": "Yamamoto Kikuichiro",
+   "role": "Chief, General Affairs Section, Price Control Board",
+   "variants": [
+    "YAMAMOTO Kikmichiro"
+   ]
+  },
+  {
+   "name": "Uchiyama Shusaku",
+   "role": "Secretary, Research Section, Price Control Board",
+   "variants": [
+    "UCHIYAMA Shusaku"
+   ]
+  },
+  {
+   "name": "Toshioka Koichi",
+   "role": "Director, Foreign Affairs Bureau, Bank of Japan",
+   "variants": [
+    "TOSHIOKA Koichi"
+   ]
+  },
+  {
+   "name": "Wata Ryosaku",
+   "role": "Vice Director, Foreign Affairs Bureau, Bank of Japan",
+   "variants": [
+    "WATA Ryosaku"
+   ]
+  },
+  {
+   "name": "Kanno Masao",
+   "role": "Chief, General Affairs Section, Bank of Tokyo",
+   "variants": [
+    "KANNO Masao"
+   ]
+  },
+  {
+   "name": "Oo Eisuke",
+   "role": "Chief, Foreign Affairs Section, Bank of Tokyo; given name uncertain in OCR",
+   "variants": [
+    "OO Lisuke"
+   ]
+  },
+  {
+   "name": "Jobale",
+   "role": "Netherlands Embassy representative; name uncertain in OCR",
+   "variants": [
+    "ür. Jobale",
+    "àr. Jobaie",
+    "r. Joksis"
+   ]
+  },
+  {
+   "name": "Soutendijk",
+   "role": "Netherlands Embassy representative",
+   "variants": [
+    "ür. Soutemdijk",
+    "kr. outendljk"
+   ]
+  },
+  {
+   "name": "McDiarmid",
+   "role": "State Department participant in exchange rate discussions",
+   "variants": [
+    "r. MeDiarmid",
+    "McDiarmid"
+   ]
+  },
+  {
+   "name": "Stuart",
+   "role": "Treasury participant",
+   "variants": [
+    "r. Stuart"
+   ]
+  },
+  {
+   "name": "Anthony Percival",
+   "role": "British Commercial Department correspondent; surname uncertain in OCR",
+   "variants": [
+    "Anthony Peroial"
+   ]
+  },
+  {
+   "name": "Christelow",
+   "role": "Colleague of Anthony Percival",
+   "variants": [
+    "christelow"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "Secretary of State",
+   "variants": [
+    "MARSHALL"
+   ]
+  },
+  {
+   "name": "General Shang",
+   "role": "Allied Council representative",
+   "variants": [
+    "General Shang"
+   ]
+  },
+  {
+   "name": "Robert B. Parke",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Robert B. Parke",
+    "Mr. Parke"
+   ]
+  },
+  {
+   "name": "E. K. Parker",
+   "role": "State Department official",
+   "variants": [
+    "Mrs. E. K. Parker",
+    "Mrs. Parker"
+   ]
+  },
+  {
+   "name": "Chappell",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Chappell"
+   ]
+  },
+  {
+   "name": "Marx",
+   "role": "Memorandum copy recipient",
+   "variants": [
+    "Mr. Marx"
+   ]
+  },
+  {
+   "name": "Sotera Fernandez",
+   "role": "Applicant in remittance case",
+   "variants": [
+    "Sotera Fernandez"
+   ]
+  },
+  {
+   "name": "Everett F. Drumright",
+   "role": "First Secretary of Embassy, London",
+   "variants": [
+    "Everett F. Drumright"
+   ]
+  },
+  {
+   "name": "Malcolm Muggeridge",
+   "role": "Daily Telegraph journalist",
+   "variants": [
+    "Mr. Muggeridge",
+    "Malcolm Muggoridge"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "General; Supreme Commander for the Allied Powers",
+   "variants": [
+    "Gen. MacArthur",
+    "Gen. MaoArthur"
+   ]
+  },
+  {
+   "name": "Gascoigne",
+   "role": "Head of British Mission in Tokyo",
+   "variants": [
+    "Mr. Gascoigne"
+   ]
+  },
+  {
+   "name": "Robertson",
+   "role": "General associated with British occupation forces",
+   "variants": [
+    "Gen. Robertson"
+   ]
+  },
+  {
+   "name": "Dean Sherry",
+   "role": "Judge; former Army colonel and prisoner of war",
+   "variants": [
+    "Jui e Dean herry",
+    "Dean Sherrn",
+    "DEAN SHERRY",
+    "Dean Sherry",
+    "Juige Sharry"
+   ]
+  },
+  {
+   "name": "C. B. Mickelwait",
+   "role": "Colonel; Assistant Judge Advocate General",
+   "variants": [
+    "Col. C. B. Mickelwait"
+   ]
+  },
+  {
+   "name": "Fraleigh",
+   "role": "State Department official",
+   "variants": [
+    "!r. Fraleigh",
+    "Mr. English",
+    "CAFRALEIGH"
+   ]
+  },
+  {
+   "name": "Freedland",
+   "role": "Army Judge Advocate General's Office official; name uncertain in OCR",
+   "variants": [
+    "aicr Freedi and"
+   ]
+  },
+  {
+   "name": "English",
+   "role": "Legal office official",
+   "variants": [
+    "Mr. English"
+   ]
+  },
+  {
+   "name": "John M. Allison",
+   "role": "State Department official, NA",
+   "variants": [
+    "Mr. Allison",
+    "Mr. Allis"
+   ]
+  },
+  {
+   "name": "George F. Kennan",
+   "role": "Leader of mission to Japan",
+   "variants": [
+    "Mr. Kennan"
+   ]
+  },
+  {
+   "name": "Green",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Green"
+   ]
+  },
+  {
+   "name": "Fine",
+   "role": "SCAP official",
+   "variants": [
+    "Dr. Fine"
+   ]
+  },
+  {
+   "name": "Southard",
+   "role": "Treasury official",
+   "variants": [
+    "Mr. Southard"
+   ]
+  },
+  {
+   "name": "Pickelle",
+   "role": "Economic and Scientific Section official; name uncertain in OCR",
+   "variants": [
+    "Pickelle"
+   ]
+  },
+  {
+   "name": "Biplat",
+   "role": "Economic and Scientific Section official; name uncertain in OCR",
+   "variants": [
+    "Biplat"
+   ]
+  },
+  {
+   "name": "Penfield",
+   "role": "State Department official, FE",
+   "variants": [
+    "Mr. Penfield"
+   ]
+  },
+  {
+   "name": "Hamilton",
+   "role": "State Department official, FE",
+   "variants": [
+    "Mr. Hamilton",
+    "Mr. Hamilon"
+   ]
+  },
+  {
+   "name": "William H. Draper Jr.",
+   "role": "Under Secretary; leader of group studying Japan",
+   "variants": [
+    "Under Secretary Draper",
+    "Draper Group"
+   ]
+  },
+  {
+   "name": "Butterworth",
+   "role": "State Department official, FE",
+   "variants": [
+    "Mr. Butterworth",
+    "Mr. Butteryorth"
+   ]
+  },
+  {
+   "name": "Benninghoff",
+   "role": "Author of office memorandum; surname inferred from initials",
+   "variants": [
+    "FE:HBenninghorr"
+   ]
+  },
+  {
+   "name": "Adolf Hitler",
+   "role": "German leader mentioned in intelligence summary",
+   "variants": [
+    "Hitler"
+   ]
+  }
+ ],
+ "keywords": [
+  "yen-dollar exchange rate",
+  "multiple exchange rates",
+  "Japanese foreign trade",
+  "currency conversion",
+  "remittances",
+  "blocked yen",
+  "trade financing",
+  "gold reserve",
+  "inflation",
+  "sterling trade",
+  "SCAP",
+  "Far Eastern Commission"
+ ],
+ "subfiles": [
+  {
+   "title": "Department reply on Korean radiotelegraph service",
+   "doc_type": "letter, concluding page",
+   "start_page": 161,
+   "end_page": 161,
+   "continues_previous": true,
+   "date": "1947-07-30",
+   "from": "Cecil G. Harrison, Department of State",
+   "to": "RCA Communications representative",
+   "about": "The Department discusses Korean radiotelegraph service and requests the company's response.",
+   "summary": "Closing page of a Department letter requesting comment.",
+   "keywords": [
+    "Korea",
+    "radiotelegraph"
+   ]
+  },
+  {
+   "title": "RCA radiotelegraph service and won holdings in Korea",
+   "doc_type": "letter with financial tables",
+   "start_page": 162,
+   "end_page": 167,
+   "continues_previous": false,
+   "date": "1947-08-15",
+   "from": "T. E. Mitchell, RCA Communications",
+   "to": "Cecil G. Harrison",
+   "about": "RCA plans wider service in occupied Korea but limits payment to dollars because it cannot convert its growing won holdings.",
+   "summary": "The company proposes using Korean postal facilities to collect and deliver radiograms from September 1, 1947. Its Seoul receipts greatly exceed local expenses, leaving substantial unusable won balances. Attached tables give accumulated holdings, disbursements, expenses, and Korea traffic income.",
+   "keywords": [
+    "Korea",
+    "radiotelegraph",
+    "won",
+    "dollar payments"
+   ]
+  },
+  {
+   "title": "Inquiry about Japanese export markets and rayon prices",
+   "doc_type": "letter",
+   "start_page": 168,
+   "end_page": 168,
+   "continues_previous": false,
+   "date": "1947-09-05",
+   "from": "R. Dunford, Lustre Fibres, Limited",
+   "to": "Samuel S. Stratton",
+   "about": "Dunford asks how specified export markets fit Far Eastern Commission categories and whether a world rayon price has been studied.",
+   "summary": "Requests classification of listed markets and information on rayon pricing.",
+   "keywords": [
+    "Japanese exports",
+    "rayon",
+    "Far Eastern Commission"
+   ]
+  },
+  {
+   "title": "Notes for reply on rayon and export categories",
+   "doc_type": "handwritten memorandum",
+   "start_page": 169,
+   "end_page": 169,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "An internal note considers Dunford's questions and possible wording about rayon prices.",
+   "summary": "Notes uncertainty about a world rayon price and cites Japanese rayon price estimates.",
+   "keywords": [
+    "rayon",
+    "world price",
+    "Japanese exports"
+   ]
+  },
+  {
+   "title": "Reply to Dunford on export currencies and rayon",
+   "doc_type": "letter",
+   "start_page": 170,
+   "end_page": 170,
+   "continues_previous": false,
+   "date": "1947-09",
+   "from": "Roswell H. Whitman",
+   "to": "R. Dunford",
+   "about": "Whitman explains Japanese exports' dollar or barter settlement and says the Commission has not studied world rayon prices.",
+   "summary": "Explains currency constraints on listed markets and SCAP's responsibility for implementing export pricing policy.",
+   "keywords": [
+    "Japanese exports",
+    "convertibility",
+    "rayon"
+   ]
+  },
+  {
+   "title": "Inquiry about sending money to Japan",
+   "doc_type": "incoming telegram",
+   "start_page": 171,
+   "end_page": 171,
+   "continues_previous": false,
+   "date": "1947-11-19",
+   "from": "Rock Shimpo",
+   "to": "Department of State",
+   "about": "Shimpo asks whether relaxed remittance rules allow individuals to send money to relatives in Japan.",
+   "summary": "Requests return-wire details on family remittances.",
+   "keywords": [
+    "remittances",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Reply on remittances to Japan",
+   "doc_type": "outgoing telegram",
+   "start_page": 172,
+   "end_page": 172,
+   "continues_previous": false,
+   "date": "1947-11-21",
+   "from": "Department of State",
+   "to": "Rock Shimpo",
+   "about": "The Department explains the monthly limit, yen conversion, payment certificates, and available transfer bank.",
+   "summary": "States a $1,000 monthly recipient limit and identifies National City Bank as able to make transfers.",
+   "keywords": [
+    "remittances",
+    "yen",
+    "National City Bank"
+   ]
+  },
+  {
+   "title": "Bagulesco's request for restitution and other assistance",
+   "doc_type": "despatch with memorandum of conversation",
+   "start_page": 173,
+   "end_page": 174,
+   "continues_previous": false,
+   "date": "1947-11-20",
+   "from": "American Embassy, Paris",
+   "to": "Secretary of State",
+   "about": "The Embassy reports General Bagulesco's renewed effort to recover Swiss francs converted into yen during the war.",
+   "summary": "An enclosed November 17 conversation records Bagulesco's requests for hard currency restitution, shipment of art from Peking, and possible United States travel. He describes wartime mistreatment and financial hardship; the Embassy seeks information on his account.",
+   "keywords": [
+    "Bagulesco",
+    "Swiss francs",
+    "yen",
+    "restitution"
+   ]
+  },
+  {
+   "title": "Investigation of General Bagulesco's bank account",
+   "doc_type": "despatch with intelligence enclosure",
+   "start_page": 175,
+   "end_page": 179,
+   "continues_previous": false,
+   "date": "1947-12-01",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Sebald reports the remaining yen credit and rejects Bagulesco's claim to special protection pending evidence.",
+   "summary": "Yokohama Specie Bank records show a ¥47,700 balance on a wartime letter of credit bought with Swiss francs, but current controls prevent conversion outside Japan. A November 22 Army intelligence summary disputes Bagulesco's assertions of pro-Allied sympathies and Japanese internment, describing public support for the Axis instead. The mission finds insufficient grounds for a guarantee under SCAPIN 1364.",
+   "keywords": [
+    "Bagulesco",
+    "Yokohama Specie Bank",
+    "yen",
+    "SCAPIN 1364",
+    "intelligence"
+   ]
+  },
+  {
+   "title": "Department transmission of Bagulesco investigation",
+   "doc_type": "instruction",
+   "start_page": 180,
+   "end_page": 180,
+   "continues_previous": false,
+   "date": "1948-01",
+   "from": "Secretary of State",
+   "to": "American Mission, Paris",
+   "about": "The Department forwards Sebald's report and intelligence summary for the Embassy's information.",
+   "summary": "Transmits adverse findings on Bagulesco's claim for protected funds.",
+   "keywords": [
+    "Bagulesco",
+    "restitution"
+   ]
+  },
+  {
+   "title": "Department charge slip",
+   "doc_type": "charge slip",
+   "start_page": 181,
+   "end_page": 181,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "",
+   "about": "A records form logs files charged to staff.",
+   "summary": "Lists charged records, including exchange file 894.5151.",
+   "keywords": [
+    "records",
+    "charge slip"
+   ]
+  },
+  {
+   "title": "Withdrawal of request for documents",
+   "doc_type": "outgoing telegram",
+   "start_page": 182,
+   "end_page": 182,
+   "continues_previous": false,
+   "date": "1947-12-23",
+   "from": "Robert A. Lovett, Department of State",
+   "to": "SCAP, Tokyo",
+   "about": "The Department cancels an earlier document request and asks for any charges incurred.",
+   "summary": "Cancels instruction A-110 of December 5.",
+   "keywords": [
+    "SCAP",
+    "documents"
+   ]
+  },
+  {
+   "title": "Yen-dollar ratios in Japanese trade",
+   "doc_type": "despatch",
+   "start_page": 183,
+   "end_page": 184,
+   "continues_previous": false,
+   "date": "1947-12-06",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Sebald transmits tables on yen-dollar relationships in Japanese trade and price trends.",
+   "summary": "Reports wide variation in yen-dollar ratios across commodities and notes export dollar prices do not track yen costs. The despatch describes government trade, private contracts, and Japanese and United States price comparisons; its referenced tables are not present on these pages.",
+   "keywords": [
+    "yen-dollar ratios",
+    "foreign trade",
+    "prices"
+   ]
+  },
+  {
+   "title": "Inquiry about a Sumitomo Bank yen draft",
+   "doc_type": "letter with enclosed letter copy",
+   "start_page": 185,
+   "end_page": 186,
+   "continues_previous": false,
+   "date": "1947-12-10",
+   "from": "Clarence T. Arai",
+   "to": "Legal Adviser, Department of State",
+   "about": "Arai asks how to protect or collect a prewar Sumitomo Bank draft payable in yen at Yokohama.",
+   "summary": "Arai encloses his same-day inquiry to the Office of Alien Property concerning a draft bought in Seattle for Yo Yamashita. He asks whether a claim against vested assets must be filed or payment sought in Japan.",
+   "keywords": [
+    "Sumitomo Bank",
+    "bill of exchange",
+    "yen",
+    "claim"
+   ]
+  },
+  {
+   "title": "Reply concerning Sumitomo Bank draft",
+   "doc_type": "letter",
+   "start_page": 187,
+   "end_page": 188,
+   "continues_previous": false,
+   "date": "1948-01-14",
+   "from": "Stanley D. Metzger, Department of State",
+   "to": "Clarence T. Arai",
+   "about": "The Department addresses whether it can assist collection of a yen draft in Japan.",
+   "summary": "It defers the vested-assets claim question to the Office of Alien Property and suggests direct correspondence with the Japanese bank.",
+   "keywords": [
+    "Sumitomo Bank",
+    "yen draft",
+    "claim"
+   ]
+  },
+  {
+   "title": "Letter requesting Far Eastern Commission presentation",
+   "doc_type": "letter",
+   "start_page": 189,
+   "end_page": 189,
+   "continues_previous": false,
+   "date": "1947-12-10",
+   "from": "Frank G. Wisner",
+   "to": "General Frank R. McCoy",
+   "about": "Wisner asks that the Commission hear a United States statement on financing Japanese foreign trade.",
+   "summary": "Requests early presentation before bank loan agreements are finalized.",
+   "keywords": [
+    "Far Eastern Commission",
+    "bank loans",
+    "foreign trade"
+   ]
+  },
+  {
+   "title": "Statement to the Far Eastern Commission on trade financing",
+   "doc_type": "policy statement",
+   "start_page": 190,
+   "end_page": 190,
+   "continues_previous": false,
+   "date": "1947-12",
+   "from": "United States Government",
+   "to": "Far Eastern Commission",
+   "about": "The statement announces SCAP steps to implement the Commission's interim import-export policy.",
+   "summary": "Notifies Commission members of planned financing measures and an implementing circular.",
+   "keywords": [
+    "Far Eastern Commission",
+    "trade financing"
+   ]
+  },
+  {
+   "title": "Explanatory memorandum on the export-import revolving fund",
+   "doc_type": "memorandum",
+   "start_page": 191,
+   "end_page": 191,
+   "continues_previous": false,
+   "date": "1947-12",
+   "from": "United States Government",
+   "to": "Far Eastern Commission",
+   "about": "The memorandum explains proposed use and safeguards for Japanese gold, silver, and precious assets in trade finance.",
+   "summary": "Describes a separate fund for import financing, possible asset sales for needed currencies, equal purchase opportunities for Commission members, and recycling export proceeds.",
+   "keywords": [
+    "revolving fund",
+    "gold",
+    "silver",
+    "imports"
+   ]
+  },
+  {
+   "title": "Occupied Japan Export-Import Revolving Fund rules",
+   "doc_type": "circular",
+   "start_page": 192,
+   "end_page": 195,
+   "continues_previous": false,
+   "date": "1947",
+   "from": "Supreme Commander for the Allied Powers",
+   "to": "",
+   "about": "The circular establishes and regulates a revolving fund for Japanese imports and exports.",
+   "summary": "It places the fund under a SCAP-designated controller and begins it with roughly $137 million in gold or equivalent assets. It specifies eligible receipts and expenditures, borrowing authority, reserves, asset-sale safeguards, monthly reporting, and liquidation on a transfer of authority or peace treaty.",
+   "keywords": [
+    "revolving fund",
+    "gold reserve",
+    "trade financing",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Replacement record-copy notice",
+   "doc_type": "records notice",
+   "start_page": 196,
+   "end_page": 196,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State Central Records",
+   "to": "",
+   "about": "The notice identifies a copy of Tokyo despatch 1473 as the replacement record copy.",
+   "summary": "Records that the original action copy was not returned.",
+   "keywords": [
+    "records",
+    "despatch 1473"
+   ]
+  },
+  {
+   "title": "Japanese government views on exchange problems",
+   "doc_type": "despatch with two enclosures",
+   "start_page": 197,
+   "end_page": 204,
+   "continues_previous": false,
+   "date": "1947-12-23",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Sebald forwards Japanese recommendations for a general exchange rate and interim commodity-specific export rates.",
+   "summary": "The despatch analyzes the Japanese preference for multiple export exchange factors, the risk of inflation or losses under a single rate, and administrative difficulties. The first enclosure recommends a general rate, a balancing formula, a Yen Committee, and exchange controls. The second lists Exchange Committee members across Japanese ministries, boards, and banks.",
+   "keywords": [
+    "exchange rate",
+    "multiple rates",
+    "Yen Committee",
+    "Japanese Government"
+   ]
+  },
+  {
+   "title": "Duplicate copy of Tokyo despatch 1473",
+   "doc_type": "duplicate despatch",
+   "start_page": 205,
+   "end_page": 207,
+   "continues_previous": false,
+   "date": "1947-12-23",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "A second filed copy repeats the despatch on Japanese exchange-rate recommendations.",
+   "summary": "Repeats the covering analysis of the Japanese proposal; its enclosures appear in the preceding copy.",
+   "keywords": [
+    "exchange rate",
+    "duplicate",
+    "Japanese Government"
+   ]
+  },
+  {
+   "title": "Netherlands views on a Japanese exchange rate",
+   "doc_type": "memorandum of conversation",
+   "start_page": 208,
+   "end_page": 209,
+   "continues_previous": false,
+   "date": "1948-04-12",
+   "from": "Department of State",
+   "to": "",
+   "about": "Netherlands representatives favor one Japanese exchange rate and consultation before its establishment.",
+   "summary": "They oppose a persistent multiple-rate or free-exchange system, discuss subsidies and limited exporter retention of currency, and prefer setting the rate in Washington after consulting interested governments and the International Monetary Fund.",
+   "keywords": [
+    "Netherlands",
+    "single exchange rate",
+    "consultation"
+   ]
+  },
+  {
+   "title": "British Treasury concerns about private trade and yen exchange",
+   "doc_type": "letter",
+   "start_page": 210,
+   "end_page": 211,
+   "continues_previous": false,
+   "date": "1948-01-30",
+   "from": "Anthony Percival",
+   "to": "Roswell H. Whitman",
+   "about": "Percival conveys British Treasury concerns about proposed private trade arrangements with Japan.",
+   "summary": "He urges a flexible, usable yen rate for licensed trade, asks how invisible payments and military-rate conversions would work, and offers further discussion.",
+   "keywords": [
+    "British Treasury",
+    "private trade",
+    "yen rate"
+   ]
+  },
+  {
+   "title": "Tokyo confirms no expense on canceled request",
+   "doc_type": "incoming telegram",
+   "start_page": 212,
+   "end_page": 212,
+   "continues_previous": false,
+   "date": "1947-12-26",
+   "from": "W. J. Sebald, Tokyo",
+   "to": "Secretary of State",
+   "about": "Sebald answers the Department's cancellation telegram.",
+   "summary": "Reports that no expense was incurred.",
+   "keywords": [
+    "SCAP",
+    "documents"
+   ]
+  },
+  {
+   "title": "Revised tables on yen-dollar relationships",
+   "doc_type": "despatch",
+   "start_page": 213,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1948-01-02",
+   "from": "United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The mission transmits revised tables for exchange-rate discussions.",
+   "summary": "Describes nine tables covering trade ratios, projected 1948 trade, and Japanese and United States price indexes.",
+   "keywords": [
+    "yen-dollar ratios",
+    "foreign trade",
+    "price indexes"
+   ]
+  },
+  {
+   "title": "Inquiry on Allied Council exchange-rate committee",
+   "doc_type": "outgoing telegram",
+   "start_page": 214,
+   "end_page": 214,
+   "continues_previous": false,
+   "date": "1948-01-08",
+   "from": "George C. Marshall, Department of State",
+   "to": "SCAP, Tokyo",
+   "about": "The Department asks SCAP's views on General Shang's proposed Allied Council experts committee.",
+   "summary": "Requests information on the suggestion and anticipated reply.",
+   "keywords": [
+    "Allied Council",
+    "exchange rate",
+    "experts committee"
+   ]
+  },
+  {
+   "title": "SCAP rejects Allied Council experts committee",
+   "doc_type": "incoming telegram",
+   "start_page": 215,
+   "end_page": 215,
+   "continues_previous": false,
+   "date": "1948-01-11",
+   "from": "W. J. Sebald, Tokyo",
+   "to": "Secretary of State",
+   "about": "SCAP explains its opposition to an Allied Council committee on the yen exchange rate.",
+   "summary": "The proposal was dropped after SCAP objected that another advisory committee would duplicate work and intrude on administration.",
+   "keywords": [
+    "Allied Council",
+    "exchange rate",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Remittances from Japan in the Sotera Fernandez case",
+   "doc_type": "memorandum of conversation",
+   "start_page": 216,
+   "end_page": 216,
+   "continues_previous": false,
+   "date": "1948-01-10",
+   "from": "Department of State",
+   "to": "",
+   "about": "Officials discuss how someone in Japan may remit money abroad.",
+   "summary": "Remittances require dollars or acceptable instruments; yen cannot be remitted. The memorandum suggests bank or family assistance.",
+   "keywords": [
+    "remittances",
+    "yen",
+    "Sotera Fernandez"
+   ]
+  },
+  {
+   "title": "London despatch and article on Japanese inflation and sterling trade",
+   "doc_type": "despatch with newspaper clipping",
+   "start_page": 217,
+   "end_page": 222,
+   "continues_previous": false,
+   "date": "1948-02-05",
+   "from": "Everett F. Drumright, American Embassy London",
+   "to": "Secretary of State",
+   "about": "The Embassy forwards Malcolm Muggeridge's article advocating renewed sterling trade with Japan.",
+   "summary": "The February 2 article describes inflation, weak production, occupation costs, and difficulties selling Japanese textiles for dollars. Muggeridge argues that access to sterling-area raw materials and markets is vital to recovery. He discusses barter, proposed bank credits backed by Japanese gold, reparations uncertainty, and the need for faster British-American negotiations.",
+   "keywords": [
+    "inflation",
+    "sterling trade",
+    "gold reserve",
+    "reparations"
+   ]
+  },
+  {
+   "title": "Army referral of Dean Sherry's yen conversion request",
+   "doc_type": "letter",
+   "start_page": 223,
+   "end_page": 223,
+   "continues_previous": false,
+   "date": "1948-03-17",
+   "from": "Office of the Judge Advocate General, Department of the Army",
+   "to": "Secretary of State",
+   "about": "The Army refers former prisoner Dean Sherry's request to convert yen paid by Japanese captors.",
+   "summary": "Forwards Sherry's letter and an Army circular for State Department consideration.",
+   "keywords": [
+    "Dean Sherry",
+    "yen",
+    "prisoner of war"
+   ]
+  },
+  {
+   "title": "Routing memorandum on Sherry's request",
+   "doc_type": "office memorandum",
+   "start_page": 224,
+   "end_page": 224,
+   "continues_previous": false,
+   "date": "1948-03-30",
+   "from": "Legal office, Department of State",
+   "to": "Office of Economic Affairs",
+   "about": "The legal office forwards the inquiry and asks for information on Japanese payments to American prisoners.",
+   "summary": "Requests a paragraph seeking Sherry's total pay and its calculation method.",
+   "keywords": [
+    "Dean Sherry",
+    "war claims",
+    "prisoner pay"
+   ]
+  },
+  {
+   "title": "Dean Sherry's request to exchange prisoner-of-war pay",
+   "doc_type": "letter",
+   "start_page": 225,
+   "end_page": 225,
+   "continues_previous": false,
+   "date": "1948-01-30",
+   "from": "Dean Sherry",
+   "to": "Office of the Chief of Finance",
+   "about": "Sherry asks how to exchange about 3,900 yen received from Japanese captors.",
+   "summary": "Seeks a dollar conversion method and expected amount.",
+   "keywords": [
+    "Dean Sherry",
+    "yen",
+    "prisoner of war"
+   ]
+  },
+  {
+   "title": "Department reply to Dean Sherry",
+   "doc_type": "letter",
+   "start_page": 226,
+   "end_page": 227,
+   "continues_previous": false,
+   "date": "1948-04-14",
+   "from": "Roswell H. Whitman, Department of State",
+   "to": "Dean Sherry",
+   "about": "The Department cannot give Sherry a definite dollar settlement for his yen and seeks details for war-claims research.",
+   "summary": "Explains the yen's diminished value and uncertainty about settlement, then asks for the total pay received and how it was calculated.",
+   "keywords": [
+    "Dean Sherry",
+    "yen conversion",
+    "war claims"
+   ]
+  },
+  {
+   "title": "NA objection to proposed exchange-rate cable",
+   "doc_type": "office memorandum",
+   "start_page": 228,
+   "end_page": 228,
+   "continues_previous": false,
+   "date": "1948-03-19",
+   "from": "NA, Department of State",
+   "to": "Roswell H. Whitman",
+   "about": "NA withholds approval of a proposed cable on Japan's commercial exchange rate.",
+   "summary": "It urges waiting for Kennan's return and asks for justification of a proposed mission.",
+   "keywords": [
+    "exchange rate",
+    "Kennan mission",
+    "clearance"
+   ]
+  },
+  {
+   "title": "Whitman resubmits proposed exchange-rate cable",
+   "doc_type": "office memorandum",
+   "start_page": 229,
+   "end_page": 230,
+   "continues_previous": false,
+   "date": "1948-03-29",
+   "from": "Roswell H. Whitman",
+   "to": "John M. Allison",
+   "about": "Whitman argues for a mission to speed decisions on Japan's commercial exchange rate.",
+   "summary": "He cites SCAP interest, the returned Kennan mission, foreign governments' concerns, disagreement over multiple rates, and the need for current data and officials empowered to negotiate in Tokyo.",
+   "keywords": [
+    "exchange rate",
+    "special mission",
+    "SCAP",
+    "multiple rates"
+   ]
+  },
+  {
+   "title": "Recommendation to clear exchange-rate mission proposal",
+   "doc_type": "office memorandum",
+   "start_page": 231,
+   "end_page": 231,
+   "continues_previous": false,
+   "date": "1948-04-01",
+   "from": "Green, Department of State",
+   "to": "John M. Allison",
+   "about": "Green supports a Tokyo mission to establish a Japanese exchange rate promptly.",
+   "summary": "Recommends a mission favoring early action, with broad authority, in Japan by June 1948.",
+   "keywords": [
+    "exchange rate",
+    "Tokyo mission",
+    "clearance"
+   ]
+  },
+  {
+   "title": "Questions about exchange-rate policy paper",
+   "doc_type": "office memorandum",
+   "start_page": 232,
+   "end_page": 232,
+   "continues_previous": false,
+   "date": "1948-04-06",
+   "from": "John M. Allison",
+   "to": "Penfield and Hamilton",
+   "about": "Allison questions responsibility for fixing the rate, the proposed mission, and consultation procedures.",
+   "summary": "Raises Japanese-government responsibility, the role of the Inter-Allied Trade Board and Far Eastern Commission, and consultation with the returning Draper group.",
+   "keywords": [
+    "exchange rate",
+    "Japanese Government",
+    "Draper group"
+   ]
+  },
+  {
+   "title": "Note to Butterworth on Japanese responsibility",
+   "doc_type": "office memorandum",
+   "start_page": 233,
+   "end_page": 233,
+   "continues_previous": false,
+   "date": "1948-04-15",
+   "from": "Benninghoff, Department of State",
+   "to": "Butterworth",
+   "about": "The note relays Hamilton's reservations about SCAP setting Japan's exchange rate.",
+   "summary": "Calls attention to Japanese responsibility and the reason for bypassing Far Eastern Commission review.",
+   "keywords": [
+    "exchange rate",
+    "SCAP",
+    "Japanese Government"
+   ]
+  },
+  {
+   "title": "Hamilton withdraws clearance pending Draper report",
+   "doc_type": "office memorandum",
+   "start_page": 234,
+   "end_page": 234,
+   "continues_previous": false,
+   "date": "1948-04-19",
+   "from": "Hamilton",
+   "to": "Butterworth",
+   "about": "Hamilton recommends delaying exchange-rate action until the Draper group's report is complete.",
+   "summary": "He removes his initials from the proposed cable and policy paper because the group considers conditions too unstable.",
+   "keywords": [
+    "exchange rate",
+    "Draper group",
+    "clearance"
+   ]
+  },
+  {
+   "title": "Reply to Allison on exchange-rate mission and jurisdiction",
+   "doc_type": "office memorandum, first page",
+   "start_page": 235,
+   "end_page": 235,
+   "continues_previous": false,
+   "date": "1948-04-09",
+   "from": "Department of State exchange-rate staff",
+   "to": "Hamilton and Allison",
+   "about": "The memorandum defends SCAP control and a special mission for an early Japanese exchange-rate decision.",
+   "summary": "Argues that transferring the technical decision to Japan would delay it, describes competing June and year-end positions within SCAP, and identifies the Inter-Allied Trade Board. The memorandum continues beyond this section.",
+   "keywords": [
+    "exchange rate",
+    "special mission",
+    "SCAP",
+    "Inter-Allied Trade Board"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 9,
+  "pages": [
+   161,
+   235
+  ],
+  "pdf": "894.5151 Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., Monetary System. Coinage. Currency. Mint. Bullion., Japan, Exchange., January 3, 1945 - January 15, 1949 1684.pdf",
+  "seconds": 100.6,
+  "created": "2026-10-08 23:06:20",
+  "key": "japan-internal-affairs-894.5151-financial-conditions-budget-8"
+ }
+}

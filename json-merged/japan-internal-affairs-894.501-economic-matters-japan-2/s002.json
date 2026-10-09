@@ -1,0 +1,437 @@
+{
+ "section_summary": "This section continues a statistical report on Japan, with tables and charts covering industrial production, transport, foreign trade, food supplies, prices, population, wages, and finance. Historical series are compared with monthly figures through early 1948. Notes explain survey methods, data sources, and changes in reporting.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN",
+    "Japan",
+    "Japm",
+    "Japan Proper",
+    "JAPAN PROPER"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokraido",
+    "Holkaino"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu",
+    "Honohu"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "yushu"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "mited States"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo",
+    "Toxyo",
+    "Tolyo",
+    "TONYO",
+    "TOKTO"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "OSAKA",
+    "Osaka",
+    "CSAKA",
+    "OSARA"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "NAGOYA",
+    "Naroyp",
+    "NAWYA"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "KYOTO",
+    "yoto",
+    "Syoto"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "KOBE",
+    "! obe"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOKOHAMA",
+    "Yokoha"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyohashi"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sap oro"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Ynwata"
+   ]
+  },
+  {
+   "name": "Yamaguchi",
+   "variants": [
+    "Yamguchi"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "Ishikawa"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saita"
+   ]
+  },
+  {
+   "name": "Oita",
+   "variants": [
+    "Olta"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigats"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Yamagata",
+   "variants": [
+    "Yamagata"
+   ]
+  },
+  {
+   "name": "Shimane",
+   "variants": [
+    "Shimane"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumanoto"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aamori"
+   ]
+  },
+  {
+   "name": "Kagoshima",
+   "variants": [
+    "Kaposhia"
+   ]
+  },
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukush La"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "E.Lme."
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyamn"
+   ]
+  },
+  {
+   "name": "Miyazaki",
+   "variants": [
+    "Viyazaki"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottorl.",
+    "Tottori"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba",
+    "hiba"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Kagawa",
+   "variants": [
+    "Kagawa"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "Tbaragi"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "Viyagi"
+   ]
+  },
+  {
+   "name": "Mie",
+   "variants": [
+    "Vie."
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushina"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "Gma"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Akita",
+   "variants": [
+    "Akita"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Hakayama"
+   ]
+  },
+  {
+   "name": "Gifu",
+   "variants": [
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Kocii"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroslia"
+   ]
+  },
+  {
+   "name": "Yamanashi",
+   "variants": [
+    "Yamanashi"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "Kargawa"
+   ]
+  },
+  {
+   "name": "Nagano",
+   "variants": [
+    "Nagano"
+   ]
+  },
+  {
+   "name": "Nagasaki",
+   "variants": [
+    "Nagasaki"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara"
+   ]
+  }
+ ],
+ "people": [],
+ "keywords": [
+  "Japanese economic statistics",
+  "industrial production",
+  "transportation",
+  "foreign trade",
+  "staple foods",
+  "rice procurement",
+  "consumer prices",
+  "family expenditure",
+  "population",
+  "wages",
+  "national debt",
+  "Bank of Japan"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese Economic Statistics: statistical tables and charts, continued",
+   "doc_type": "statistical report",
+   "start_page": 54,
+   "end_page": 112,
+   "continues_previous": true,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Statistical series describe Japan’s economy and population before and after the war, with recent monthly figures through early 1948.",
+   "summary": "This portion of a continuing report presents industrial output, transport activity, and imports and exports, followed by staple-food stocks, rice procurement, consumer prices, and household spending. It then covers population change and wage surveys, ending with charts of national debt and Bank of Japan note issue. Tables and charts compare prewar annual averages with postwar monthly observations; accompanying notes describe sources, survey coverage, and revisions to statistical series.",
+   "keywords": [
+    "Japan",
+    "economic statistics",
+    "industrial production",
+    "foreign trade",
+    "food supply",
+    "consumer price index",
+    "population",
+    "wage survey",
+    "public finance"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 3,
+  "pages": [
+   54,
+   112
+  ],
+  "pdf": "894.501 Economic Matters., Japan, Statistics, General., June 29, 1946 - October 21, 1948 1671.pdf",
+  "seconds": 31.2,
+  "created": "2026-10-09 00:03:34",
+  "key": "japan-internal-affairs-894.501-economic-matters-japan-2"
+ }
+}

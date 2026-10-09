@@ -1,0 +1,1082 @@
+{
+ "section_summary": "This section traces U.S. and occupation authorities’ debate over Japanese deconcentration and proposed revisions to the Anti-Monopoly Law in late 1948 and early 1949. Tokyo reports the release of restricted companies, narrowing use of the Deconcentration Law, and negotiations over stockholding and other antitrust rules. The section ends with a list of 142 released firms and the beginning of a lengthy Nippon Soda reorganization order.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japem",
+    "Japenese",
+    "Japanese"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "TOKYO",
+    "Tokyo",
+    "Tokyo's",
+    "Tolyo",
+    "Toiyo",
+    "TOHyo",
+    "Tokyo'e"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Vashington",
+    "Jashington",
+    "Vashireton",
+    "Weshingten"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe"
+   ]
+  },
+  {
+   "name": "Niigata",
+   "variants": [
+    "Niigata"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Tohoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Nihongi",
+   "variants": [
+    "Nihongi"
+   ]
+  },
+  {
+   "name": "Takaoka",
+   "variants": [
+    "Takaoka"
+   ]
+  },
+  {
+   "name": "Yonago",
+   "variants": [
+    "Yonago"
+   ]
+  },
+  {
+   "name": "Oshima",
+   "variants": [
+    "Oshime"
+   ]
+  },
+  {
+   "name": "Naoetsu",
+   "variants": [
+    "Naoetsu"
+   ]
+  },
+  {
+   "name": "Shibata",
+   "variants": [
+    "Shibeta"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama"
+   ]
+  },
+  {
+   "name": "Iwase",
+   "variants": [
+    "Iwase"
+   ]
+  },
+  {
+   "name": "Teshio",
+   "variants": [
+    "Teshio"
+   ]
+  },
+  {
+   "name": "Akai",
+   "variants": [
+    "Akai"
+   ]
+  },
+  {
+   "name": "Fukushima",
+   "variants": [
+    "Fukushima"
+   ]
+  },
+  {
+   "name": "Uonuma",
+   "variants": [
+    "Unonuma"
+   ]
+  },
+  {
+   "name": "Aizu",
+   "variants": [
+    "Aizu"
+   ]
+  },
+  {
+   "name": "Funauchi",
+   "variants": [
+    "Funauchi"
+   ]
+  },
+  {
+   "name": "Iide",
+   "variants": [
+    "Iide"
+   ]
+  },
+  {
+   "name": "Oya",
+   "variants": [
+    "Oya Mine"
+   ]
+  },
+  {
+   "name": "Tahara",
+   "variants": [
+    "Tahara Plant"
+   ]
+  },
+  {
+   "name": "Donsuiwa",
+   "variants": [
+    "Donsuiwa Mine"
+   ]
+  },
+  {
+   "name": "Ono",
+   "variants": [
+    "Ono Mine"
+   ]
+  },
+  {
+   "name": "Sunamachi",
+   "variants": [
+    "Sunamachi plant"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "Yokkaichi",
+    "Yokkaiichi"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Robert A. Lovett",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "Lovett",
+    "T. LOVETT",
+    "Mr. Lovett",
+    "Acting Secretary Lovett"
+   ]
+  },
+  {
+   "name": "W. A. Rudlin",
+   "role": "State Department memorandum author",
+   "variants": [
+    "W. A. Rudlin",
+    "WARudlin"
+   ]
+  },
+  {
+   "name": "Mr. Clarton",
+   "role": "memorandum recipient; name uncertain in OCR",
+   "variants": [
+    "Mr. Clarton"
+   ]
+  },
+  {
+   "name": "Charles E. Saltzman",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Saltzman"
+   ]
+  },
+  {
+   "name": "Paul H. Nitze",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Nitze",
+    "Mr. Nitse"
+   ]
+  },
+  {
+   "name": "Kenneth C. Royall",
+   "role": "Secretary of the Army",
+   "variants": [
+    "Mr. Royall",
+    "Secretary Royall"
+   ]
+  },
+  {
+   "name": "W. Walton Butterworth",
+   "role": "State Department official",
+   "variants": [
+    "Butterworth"
+   ]
+  },
+  {
+   "name": "George C. Marshall",
+   "role": "U.S. official referenced in internal memoranda",
+   "variants": [
+    "Marshall"
+   ]
+  },
+  {
+   "name": "R. Fearey",
+   "role": "State Department official and memorandum author",
+   "variants": [
+    "R. Fearey",
+    "Mr. Fearey",
+    "RAFearey",
+    "RAF"
+   ]
+  },
+  {
+   "name": "R. Vernon",
+   "role": "author of an economic memorandum",
+   "variants": [
+    "Mr. Vernon",
+    "RVernon"
+   ]
+  },
+  {
+   "name": "Frank R. McCoy",
+   "role": "U.S. member of the Far Eastern Commission",
+   "variants": [
+    "General MoCoy",
+    "General McCoy"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan; despatch sender",
+   "variants": [
+    "W. J. Sebald",
+    "W. 'J. Sebald",
+    "SEBALD"
+   ]
+  },
+  {
+   "name": "Edward G. Seidensticker Jr.",
+   "role": "Foreign Service drafter",
+   "variants": [
+    "ESeidensticker, Jr.",
+    "EGSeidensticker, Jr.",
+    "Egseiderepcr r."
+   ]
+  },
+  {
+   "name": "George F. Kennan",
+   "role": "State Department official; memorandum author",
+   "variants": [
+    "George F. Kennan"
+   ]
+  },
+  {
+   "name": "M. Bishop",
+   "role": "State Department official; memorandum recipient",
+   "variants": [
+    "Mr. Bishop",
+    "MBishop",
+    "MWB"
+   ]
+  },
+  {
+   "name": "M. Green",
+   "role": "State Department official; memorandum author",
+   "variants": [
+    "Mr. Green",
+    "MGreen",
+    "MG"
+   ]
+  },
+  {
+   "name": "Edward C. Welsh",
+   "role": "Chief, Anti-Trust and Cartels Division, GHQ/SCAP",
+   "variants": [
+    "Edward C. Ye sh",
+    "Mr. Edward C. Welsh",
+    "Mr. E. C. WELsH",
+    "Mr. E. C. WELSH"
+   ]
+  },
+  {
+   "name": "L. N. Salwin",
+   "role": "Chief, Trade Laws Branch, GHQ/SCAP",
+   "variants": [
+    "Mr. L. N. SALWIN"
+   ]
+  },
+  {
+   "name": "Mr. Hutchison",
+   "role": "Deconcentration Review Board member",
+   "variants": [
+    "Mr. Hutohison",
+    "Hutchison"
+   ]
+  },
+  {
+   "name": "Nakayama Kikumatsu",
+   "role": "Chairman, Japanese Fair Trade Commission",
+   "variants": [
+    "Nakayama Kikumatsu",
+    "NAKAYAMA Kikumatsu"
+   ]
+  },
+  {
+   "name": "R. M. Levy",
+   "role": "Colonel, AGD; Adjutant General",
+   "variants": [
+    "R. M. LEVY"
+   ]
+  },
+  {
+   "name": "Tadao Sasayama",
+   "role": "Chairman, Holding Company Liquidation Commission",
+   "variants": [
+    "Tadao Sasayama"
+   ]
+  },
+  {
+   "name": "Tatsuo Omura",
+   "role": "proposed Sanwa Soda director",
+   "variants": [
+    "Tatsuo Omura"
+   ]
+  },
+  {
+   "name": "Toma Tanaka",
+   "role": "proposed Sanwa Soda director and Nippon Soda liquidator",
+   "variants": [
+    "Toma Tanaka"
+   ]
+  },
+  {
+   "name": "Hikosaburo Ichimori",
+   "role": "proposed Sanwa Soda director",
+   "variants": [
+    "Hikosaburo Ichimori"
+   ]
+  },
+  {
+   "name": "Tamotsu Kamegai",
+   "role": "proposed Sanwa Soda director and Nippon Soda liquidator",
+   "variants": [
+    "Tamotsu Kamegai"
+   ]
+  },
+  {
+   "name": "Fukuji Kawamura",
+   "role": "proposed Sanwa Soda director",
+   "variants": [
+    "Fukuji Kawemura"
+   ]
+  },
+  {
+   "name": "Kinji Okubo",
+   "role": "proposed Sanwa Soda director",
+   "variants": [
+    "Kinji Okubo"
+   ]
+  },
+  {
+   "name": "Katsumi Oge",
+   "role": "proposed Sanwa Soda director",
+   "variants": [
+    "Katsumi Oge"
+   ]
+  },
+  {
+   "name": "Tadami Kimura",
+   "role": "proposed Sanwa Soda auditor",
+   "variants": [
+    "Tadami Kimura"
+   ]
+  },
+  {
+   "name": "Naoyuki Abe",
+   "role": "proposed Sanwa Soda auditor and Nippon Soda liquidation auditor",
+   "variants": [
+    "Naoyuki Abe"
+   ]
+  },
+  {
+   "name": "Hachiro Kugimiya",
+   "role": "proposed Nippo Chemical Industry director",
+   "variants": [
+    "Hachiro Kugimiya"
+   ]
+  },
+  {
+   "name": "Yoshifumi Mochizuki",
+   "role": "proposed Nippo Chemical Industry director",
+   "variants": [
+    "Yoshifumi Mochizuki"
+   ]
+  },
+  {
+   "name": "Hidetoshi Ogawa",
+   "role": "proposed Nippo Chemical Industry director",
+   "variants": [
+    "Hidetoshi Ogawa"
+   ]
+  },
+  {
+   "name": "Kenichi Kizaki",
+   "role": "proposed Nippo Chemical Industry director",
+   "variants": [
+    "Kenichi Kizaki"
+   ]
+  },
+  {
+   "name": "Itaru Ishikawa",
+   "role": "proposed Nippo Chemical Industry director",
+   "variants": [
+    "Iteru Ishikawa"
+   ]
+  },
+  {
+   "name": "Masatoshi Shijo",
+   "role": "proposed Nippo Chemical Industry auditor",
+   "variants": [
+    "Masatoshi Shijo"
+   ]
+  },
+  {
+   "name": "Takiji Oyane",
+   "role": "proposed Nippon Electric Steel Manufacturing director",
+   "variants": [
+    "Takiji Oyane"
+   ]
+  },
+  {
+   "name": "Masatake Terai",
+   "role": "proposed Nippon Electric Steel Manufacturing director",
+   "variants": [
+    "Masatake Terai"
+   ]
+  },
+  {
+   "name": "Tadao Ichikawa",
+   "role": "proposed Nippon Electric Steel Manufacturing director",
+   "variants": [
+    "Tadao Ichikawa"
+   ]
+  },
+  {
+   "name": "Yukio Matsubayashi",
+   "role": "proposed Nippon Electric Steel Manufacturing director",
+   "variants": [
+    "Yukio Matsubeyashi"
+   ]
+  },
+  {
+   "name": "Toshio Uchida",
+   "role": "proposed Nippon Electric Steel Manufacturing director",
+   "variants": [
+    "Toshio Uchida"
+   ]
+  },
+  {
+   "name": "Hisao Shindo",
+   "role": "proposed Nippon Electric Steel Manufacturing director",
+   "variants": [
+    "Hisao Shindo"
+   ]
+  },
+  {
+   "name": "Kiichi Yamashita",
+   "role": "proposed Nippon Electric Steel Manufacturing auditor",
+   "variants": [
+    "Kiichi Yamashite"
+   ]
+  },
+  {
+   "name": "Hiroshi Shimada",
+   "role": "proposed Nippo Mining director",
+   "variants": [
+    "Hiroshi Shimada"
+   ]
+  },
+  {
+   "name": "Yasuhisa Muramatsu",
+   "role": "proposed Nippo Mining director",
+   "variants": [
+    "Yasuhisa Muramatsu"
+   ]
+  },
+  {
+   "name": "Kiyoshi Narumi",
+   "role": "proposed Nippo Mining director",
+   "variants": [
+    "Kiyoshi Narumi"
+   ]
+  },
+  {
+   "name": "Kiyoshi Shikano",
+   "role": "proposed Nippo Mining director",
+   "variants": [
+    "Kiyoshi Shikano"
+   ]
+  },
+  {
+   "name": "Yoshio Sunayama",
+   "role": "proposed Nippo Mining director",
+   "variants": [
+    "Yoshio Sunayama"
+   ]
+  },
+  {
+   "name": "Shinichi Miyoshi",
+   "role": "proposed Nippo Mining auditor",
+   "variants": [
+    "Shinichi Miyoshi"
+   ]
+  },
+  {
+   "name": "Shunichi Nishigori",
+   "role": "proposed Nisshin Metal Refining and Chemical Industry director",
+   "variants": [
+    "Shunichi Nishigori"
+   ]
+  },
+  {
+   "name": "Nobuyuki Nogami",
+   "role": "proposed Nisshin Metal Refining and Chemical Industry director",
+   "variants": [
+    "Nobuyuki Nogami"
+   ]
+  },
+  {
+   "name": "Nagao Hashimoto",
+   "role": "proposed Nisshin Metal Refining and Chemical Industry director",
+   "variants": [
+    "Nagao Hashimoto"
+   ]
+  },
+  {
+   "name": "Yonosuke Kouda",
+   "role": "proposed Nisshin Metal Refining and Chemical Industry auditor",
+   "variants": [
+    "Yonosuke Kouda"
+   ]
+  },
+  {
+   "name": "Toshichiro Iwaya",
+   "role": "proposed Tohoku Mining director",
+   "variants": [
+    "Toshichiro Iwaya"
+   ]
+  },
+  {
+   "name": "Yozo Hashizume",
+   "role": "proposed Tohoku Mining director",
+   "variants": [
+    "Yozo Hashizume"
+   ]
+  },
+  {
+   "name": "Kumaichi Tano",
+   "role": "proposed Tohoku Mining director",
+   "variants": [
+    "Kumaichi Tano"
+   ]
+  },
+  {
+   "name": "Seiichiro Matsude",
+   "role": "proposed Tohoku Mining auditor",
+   "variants": [
+    "Seiichiro Matsude"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan",
+  "Anti-Monopoly Law",
+  "deconcentration",
+  "FEC 230",
+  "SCAP",
+  "Fair Trade Commission",
+  "Holding Company Liquidation Commission",
+  "Deconcentration Review Board",
+  "intercorporate stockholdings",
+  "restricted concerns",
+  "Nippon Soda",
+  "economic reform"
+ ],
+ "subfiles": [
+  {
+   "title": "Request for texts of Anti-Monopoly Law proposals",
+   "doc_type": "outgoing telegram",
+   "start_page": 237,
+   "end_page": 237,
+   "continues_previous": false,
+   "date": "1948-11-02",
+   "from": "Department of State, Robert A. Lovett",
+   "to": "United States Political Adviser for Japan, Tokyo",
+   "about": "The Department requests texts of proposals to amend Japan’s Anti-Monopoly Law.",
+   "summary": "Requests copies for study in Washington.",
+   "keywords": [
+    "Anti-Monopoly Law",
+    "draft amendments"
+   ]
+  },
+  {
+   "title": "FEC 230",
+   "doc_type": "memorandum",
+   "start_page": 238,
+   "end_page": 239,
+   "continues_previous": false,
+   "date": "1948-10-04",
+   "from": "W. A. Rudlin",
+   "to": "Mr. Clarton",
+   "about": "Rudlin considers competing State and Army positions on deconcentration policy.",
+   "summary": "He supports a public statement and message to SCAP but expects Army resistance. He urges Saltzman to convene Nitze and Butterworth and, if necessary, elevate the unresolved policy split.",
+   "keywords": [
+    "FEC 230",
+    "deconcentration",
+    "State-Army disagreement"
+   ]
+  },
+  {
+   "title": "Department of State file charge sheet",
+   "doc_type": "file charge sheet",
+   "start_page": 240,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1948-10-12",
+   "from": "",
+   "to": "",
+   "about": "A file form records the document date and decimal file number.",
+   "summary": "Records file 894.602/10-12-48.",
+   "keywords": [
+    "file record"
+   ]
+  },
+  {
+   "title": "FEC-230",
+   "doc_type": "office memorandum",
+   "start_page": 241,
+   "end_page": 243,
+   "continues_previous": false,
+   "date": "1948-10",
+   "from": "R. Fearey",
+   "to": "",
+   "about": "Fearey evaluates Nitze’s conditions for withdrawing FEC 230.",
+   "summary": "He favors a brief FEC statement affirming deconcentration, questions proposals to expand the program to heterogeneous companies and banking, and supports reexamining securities disposal. He recommends a senior meeting and a draft statement.",
+   "keywords": [
+    "FEC 230",
+    "deconcentration",
+    "banking",
+    "securities disposal"
+   ]
+  },
+  {
+   "title": "Anti-Trust and Deconcentration Policy",
+   "doc_type": "despatch",
+   "start_page": 244,
+   "end_page": 246,
+   "continues_previous": false,
+   "date": "1948-10-28",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Tokyo reports reconsideration of 175 companies’ stock-disposal obligations and pending antitrust amendments.",
+   "summary": "The Holding Company Liquidation Commission will review the firms under the Deconcentration Review Board’s principles. Sebald suggests that transferring cases to the Fair Trade Commission could delay stock sales until a softened Anti-Monopoly Law takes effect. He describes disagreement over intercorporate holdings and pending test cases.",
+   "keywords": [
+    "175 companies",
+    "stock disposal",
+    "Anti-Monopoly Law",
+    "Deconcentration Review Board"
+   ]
+  },
+  {
+   "title": "Anti-Trust Policy Is Eased by HCLC",
+   "doc_type": "newspaper clipping copy",
+   "start_page": 247,
+   "end_page": 247,
+   "continues_previous": false,
+   "date": "1948-10-24",
+   "from": "Nippon Times",
+   "to": "",
+   "about": "A newspaper account describes the planned review of 175 designated concerns.",
+   "summary": "The HCLC will reassess past monopoly conduct and may cancel designations or limit reorganization to stock liquidation.",
+   "keywords": [
+    "HCLC",
+    "175 companies",
+    "deconcentration"
+   ]
+  },
+  {
+   "title": "Proposed FEC statement on deconcentration",
+   "doc_type": "memorandum",
+   "start_page": 248,
+   "end_page": 248,
+   "continues_previous": false,
+   "date": "1948-11-01",
+   "from": "George F. Kennan",
+   "to": "Charles E. Saltzman",
+   "about": "Kennan recommends shortening a proposed U.S. statement to the Far Eastern Commission.",
+   "summary": "He favors an early, shorter statement and suggests guidance to SCAP before its release.",
+   "keywords": [
+    "FEC 230",
+    "deconcentration",
+    "public statement"
+   ]
+  },
+  {
+   "title": "Draft Statement to the Far Eastern Commission re Deconcentration",
+   "doc_type": "draft statement",
+   "start_page": 249,
+   "end_page": 252,
+   "continues_previous": false,
+   "date": "1948-11-01",
+   "from": "United States delegation, draft revised by George F. Kennan",
+   "to": "Far Eastern Commission",
+   "about": "The draft explains U.S. withdrawal of FEC 230 in light of occupation reforms already undertaken.",
+   "summary": "It reviews the dissolution of holding companies, stock divestment, antitrust legislation, banking changes, and Japanese administrative work. It concludes that progress by SCAP and the Japanese government makes another directive unnecessary.",
+   "keywords": [
+    "FEC 230",
+    "deconcentration",
+    "holding companies",
+    "antitrust legislation"
+   ]
+  },
+  {
+   "title": "Routing note on Tokyo despatch 711",
+   "doc_type": "routing note",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1948-11-29",
+   "from": "",
+   "to": "Office of Far Eastern Affairs",
+   "about": "The note forwards Tokyo’s report on releasing restricted firms.",
+   "summary": "Calls SCAP’s relaxation of restrictions on roughly 1,100 concerns realistic and foresighted.",
+   "keywords": [
+    "restricted concerns",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Prospective Release of Japanese Concerns from Certain SCAP Restrictions",
+   "doc_type": "despatch",
+   "start_page": 254,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1948-11-05",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Tokyo reports a planned easing of transaction restrictions on roughly 1,100 Japanese companies.",
+   "summary": "The restrictions had required approval for asset sales, capital expansion, and loans. Officials judged mass asset disposal unlikely and prolonged surveillance impractical; reparations and restitution controls would remain.",
+   "keywords": [
+    "restricted concerns",
+    "SCAP",
+    "asset controls",
+    "zaibatsu"
+   ]
+  },
+  {
+   "title": "Texts of proposed Anti-Monopoly Law revisions",
+   "doc_type": "incoming airgram",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1948-11",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Tokyo answers Washington’s request for texts of proposed antitrust revisions.",
+   "summary": "Earlier drafts are unavailable; the latest Fair Trade Commission proposal is under discussion and will be sent when obtained.",
+   "keywords": [
+    "Anti-Monopoly Law",
+    "Fair Trade Commission",
+    "draft amendments"
+   ]
+  },
+  {
+   "title": "Release of Japanese Concerns from Certain Restrictions",
+   "doc_type": "despatch",
+   "start_page": 257,
+   "end_page": 258,
+   "continues_previous": false,
+   "date": "1948-11-15",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Tokyo explains SCAP’s order easing restrictions on approximately 1,000 concerns.",
+   "summary": "SCAP directed repeal of the approval rule for transactions outside normal business while retaining other controls. It also required clarification of rules for successor companies and repeal of a wartime law limiting shareholder authority.",
+   "keywords": [
+    "restricted concerns",
+    "SCAPIN 408/2",
+    "shareholder authority"
+   ]
+  },
+  {
+   "title": "Regulations Affecting Restricted Concerns",
+   "doc_type": "SCAP memorandum enclosure",
+   "start_page": 259,
+   "end_page": 259,
+   "continues_previous": false,
+   "date": "1948-11-06",
+   "from": "R. M. Levy, for the Supreme Commander",
+   "to": "Japanese Government",
+   "about": "SCAP directs changes to ordinances governing restricted companies.",
+   "summary": "Rescinds one permission requirement, clarifies successor-company coverage, and orders repeal of a wartime company law.",
+   "keywords": [
+    "SCAPIN 408/2",
+    "restricted concerns",
+    "Ordinance 657"
+   ]
+  },
+  {
+   "title": "Activity of 1000 Restricted Concerns to Be Increased",
+   "doc_type": "press release enclosure",
+   "start_page": 260,
+   "end_page": 260,
+   "continues_previous": false,
+   "date": "1948-11-09",
+   "from": "GHQ Far East Command Public Information Office",
+   "to": "public",
+   "about": "SCAP announces removal of prior approval requirements for many restricted companies.",
+   "summary": "Over 1,000 firms gain freedom for rehabilitation and expansion, while divestiture and deconcentration laws remain effective.",
+   "keywords": [
+    "restricted concerns",
+    "SCAP",
+    "economic rehabilitation"
+   ]
+  },
+  {
+   "title": "Handwritten query on anti-trust revision",
+   "doc_type": "handwritten note",
+   "start_page": 261,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "A handwritten official asks about SCAP’s antitrust revision and possible U.S. action.",
+   "summary": "Asks what SCAP material is available and how Washington can respond.",
+   "keywords": [
+    "SCAP",
+    "anti-trust revision"
+   ]
+  },
+  {
+   "title": "Revision of Anti-Trust Laws",
+   "doc_type": "memorandum",
+   "start_page": 262,
+   "end_page": 262,
+   "continues_previous": false,
+   "date": "1949-01-03",
+   "from": "M. Green",
+   "to": "M. Bishop",
+   "about": "Green responds to questions about SCAP’s antitrust changes and NSC 13/2.",
+   "summary": "He reports no direct SCAP material and argues that NSC 13/2 wrongly assumes SCAP resists reform changes and that Japanese officials initiate revisions. He doubts Washington can prescribe detailed adjustments.",
+   "keywords": [
+    "NSC 13/2",
+    "Anti-Trust Law",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Attached despatch 734",
+   "doc_type": "memorandum",
+   "start_page": 263,
+   "end_page": 263,
+   "continues_previous": false,
+   "date": "1949-01-10",
+   "from": "R. Fearey",
+   "to": "M. Bishop",
+   "about": "Fearey proposes a response to SCAP involvement in Japanese antitrust revisions.",
+   "summary": "He suggests a wire emphasizing Japanese discretion under NSC 13/2 and requesting proposed changes for information. He opposes detailed U.S. instructions.",
+   "keywords": [
+    "NSC 13/2",
+    "Anti-Monopoly Law",
+    "Japanese autonomy"
+   ]
+  },
+  {
+   "title": "Attached Tokyo’s 734",
+   "doc_type": "memorandum",
+   "start_page": 264,
+   "end_page": 265,
+   "continues_previous": false,
+   "date": "1948-12-24",
+   "from": "M. Green",
+   "to": "M. Bishop",
+   "about": "Green comments on proposed Anti-Trust Law amendments and occupation influence.",
+   "summary": "He notes emerging agreement over intercorporate holdings but argues that GHQ still drives Japanese economic legislation. Japanese agencies and political groups differ over the reforms.",
+   "keywords": [
+    "Anti-Trust Law",
+    "intercorporate holdings",
+    "SCAP",
+    "NSC 13/2"
+   ]
+  },
+  {
+   "title": "Revision of Anti-Monopoly Law",
+   "doc_type": "despatch",
+   "start_page": 266,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1948-11-18",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Tokyo forwards the Fair Trade Commission’s latest proposed Anti-Monopoly Law amendments.",
+   "summary": "Sebald describes compromise provisions on stockholdings, foreign contracts, directorships, mergers, reporting, and enforcement. He notes that prior drafts were withheld and that Edward Welsh’s Washington visit was postponed.",
+   "keywords": [
+    "Anti-Monopoly Law",
+    "Fair Trade Commission",
+    "stockholdings",
+    "mergers"
+   ]
+  },
+  {
+   "title": "Proposed Amendment of the Anti-Monopoly Law",
+   "doc_type": "memorandum enclosure",
+   "start_page": 269,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1948-11-02",
+   "from": "Nakayama Kikumatsu, Fair Trade Commission",
+   "to": "E. C. Welsh and L. N. Salwin",
+   "about": "The Commission submits a replacement draft of antitrust amendments.",
+   "summary": "Says the draft incorporates recent discussions and invites further comments.",
+   "keywords": [
+    "Anti-Monopoly Law",
+    "Fair Trade Commission",
+    "draft amendments"
+   ]
+  },
+  {
+   "title": "Draft proposed amendments to the Anti-Monopoly Law",
+   "doc_type": "legislative draft enclosure",
+   "start_page": 270,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "1948-11-02",
+   "from": "Japanese Fair Trade Commission",
+   "to": "GHQ/SCAP Anti-Trust and Cartels Division",
+   "about": "The draft revises rules on concerted activity, contracts, corporate holdings, directors, mergers, and enforcement.",
+   "summary": "Proposed articles prohibit substantial restraints of trade while allowing exceptions for insignificant competitive effects. They set reporting and permission rules for international agreements, share acquisitions, concurrent directorships, and mergers, and give the Fair Trade Commission powers to order violations remedied.",
+   "keywords": [
+    "Anti-Monopoly Law",
+    "stockholdings",
+    "mergers",
+    "international contracts",
+    "Fair Trade Commission"
+   ]
+  },
+  {
+   "title": "Anti-Trust and Deconcentration Policy",
+   "doc_type": "despatch",
+   "start_page": 276,
+   "end_page": 279,
+   "continues_previous": false,
+   "date": "1948-11-22",
+   "from": "W. J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Tokyo reports cancellation of company designations and the narrowing of deconcentration proceedings.",
+   "summary": "The HCLC released Nippon Soda, Nissan Chemical, three steel companies, and 142 firms formerly subject to stock disposal. Sebald expects further releases and says the Review Board’s four principles have effectively narrowed the law. He describes shortened hearings, remaining cases, labor objections, and the possibility of voluntary corporate reorganization.",
+   "keywords": [
+    "deconcentration",
+    "142 firms",
+    "Nippon Soda",
+    "Deconcentration Review Board",
+    "labor unions"
+   ]
+  },
+  {
+   "title": "List of 142 firms released from designation",
+   "doc_type": "list enclosure",
+   "start_page": 280,
+   "end_page": 282,
+   "continues_previous": false,
+   "date": "1948-11-18",
+   "from": "Holding Company Liquidation Commission",
+   "to": "",
+   "about": "The enclosure lists companies released from designation under the Deconcentration Law.",
+   "summary": "Lists 142 firms previously freed from reorganization designation but still listed for stock disposal.",
+   "keywords": [
+    "142 firms",
+    "deconcentration",
+    "stock disposal"
+   ]
+  },
+  {
+   "title": "Final Order Approving Voluntary Reorganization Plan of Nippon Soda",
+   "doc_type": "HCLC order enclosure",
+   "start_page": 283,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1948-08-20",
+   "from": "Holding Company Liquidation Commission; Tadao Sasayama",
+   "to": "Nippon Soda Company, Ltd.",
+   "about": "The Commission approves a plan to divide and dissolve Nippon Soda.",
+   "summary": "The final order confirms an earlier proposed order with a modification concerning two successor firms. The attached plan creates six independent companies, assigns plants, mines, assets, liabilities, directors and auditors, and sets rules for patents, trademarks, share distribution, taxes, and liquidation. The Commission finds Nippon Soda an excessive concentration and orders implementation. The order continues beyond page 289.",
+   "keywords": [
+    "Nippon Soda",
+    "voluntary reorganization",
+    "six successor companies",
+    "HCLC",
+    "deconcentration"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 7,
+  "pages": [
+   237,
+   289
+  ],
+  "pdf": "894.602 Industrial Matters., Japan, Monopolies. Concessions. Franchise. Contracts. Bounties. Subsidies. Cartels. Where Practicable, Concession, Ect., Are Classified Under Their Specific Subjects., March 16, 1945 - August 6, 1949 1754-part-2.pdf",
+  "seconds": 75.7,
+  "created": "2026-10-08 18:16:55",
+  "key": "japan-internal-affairs-894.602-industrial-matters-japan-5-part-2"
+ }
+}

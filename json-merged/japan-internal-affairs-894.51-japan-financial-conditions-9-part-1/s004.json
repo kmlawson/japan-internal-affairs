@@ -1,0 +1,986 @@
+{
+ "section_summary": "This section contains Japanese budget schedules for 1932–35, embassy despatches on supplementary appropriations, and reports on national debt, taxation, military spending, and bond issues. A study of the Japanese money market examines its response to the 1933 American banking crisis and the risk that a rising yen would harm exports. File notes and intelligence reports point to related material on Japan’s wealth, foreign loans, and the developing 1934–35 budget.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Japan Proper",
+    "Japea",
+    "Janunese",
+    "Jogan"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's",
+    "Toky",
+    "Tokio",
+    "Torio"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Wash."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "America",
+    "American"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Sanriku",
+   "variants": [
+    "Sanriku"
+   ]
+  },
+  {
+   "name": "Okinawa",
+   "variants": [
+    "Okinawa"
+   ]
+  },
+  {
+   "name": "Yamato River",
+   "variants": [
+    "Yamatogawa River"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen",
+    "Korea"
+   ]
+  },
+  {
+   "name": "Seoul",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto"
+   ]
+  },
+  {
+   "name": "South Sea Islands",
+   "variants": [
+    "South Sea Islands"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Changchun",
+   "variants": [
+    "Hsinking"
+   ]
+  },
+  {
+   "name": "Rehe",
+   "variants": [
+    "Jehol"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "north China"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chinese"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asiatic"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far Eastern"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France",
+    "French"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "English"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "United States ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "Grew",
+    "Grow",
+    "GREW"
+   ]
+  },
+  {
+   "name": "Hutchinson",
+   "role": "United States vice consul",
+   "variants": [
+    "Vice Consul Hutohinson"
+   ]
+  },
+  {
+   "name": "Fukai",
+   "role": "Japanese delegate",
+   "variants": [
+    "Fukaf"
+   ]
+  },
+  {
+   "name": "Ishii",
+   "role": "Japanese statesman discussed in the telegram",
+   "variants": [
+    "Ishiihimsolf",
+    "Ishii"
+   ]
+  },
+  {
+   "name": "Korekiyo Takahashi",
+   "role": "Japanese finance minister",
+   "variants": [
+    "Finance Minister Takahashi",
+    "Takahashi",
+    "Mr. Takahashi"
+   ]
+  },
+  {
+   "name": "Ichirō Hatoyama",
+   "role": "Japanese education minister",
+   "variants": [
+    "Mr. Hatoyama"
+   ]
+  },
+  {
+   "name": "Prince Yi",
+   "role": "Member of the Korean royal household",
+   "variants": [
+    "Prince Yi"
+   ]
+  },
+  {
+   "name": "Clarence E. Bosworth",
+   "role": "Correspondent seeking information on Japan’s external loans",
+   "variants": [
+    "Olarence.E.Bosworth"
+   ]
+  },
+  {
+   "name": "Marriner",
+   "role": "Sender of a despatch from France",
+   "variants": [
+    "Marriner"
+   ]
+  },
+  {
+   "name": "Cochran",
+   "role": "Author of a report referenced in a file note",
+   "variants": [
+    "Cochran"
+   ]
+  },
+  {
+   "name": "T. M. Mertan",
+   "role": "Assistant military attaché",
+   "variants": [
+    "T. M. Mertan"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese budgets",
+  "supplementary appropriations",
+  "national debt",
+  "bond issues",
+  "money market",
+  "yen exchange rate",
+  "American banking crisis",
+  "military expenditure",
+  "taxation",
+  "foreign loans",
+  "disaster relief",
+  "Manchuria"
+ ],
+ "subfiles": [
+  {
+   "title": "Japanese special-account budget schedules",
+   "doc_type": "budget schedule excerpt",
+   "start_page": 241,
+   "end_page": 252,
+   "continues_previous": true,
+   "date": "1933",
+   "from": "",
+   "to": "",
+   "about": "Schedules list revenue and expenditure for Japanese government departments and territorial special accounts.",
+   "summary": "The continuing budget schedules cover insurance, the Mint, monopoly operations, national loans, universities, rice control, railways, and colonial administrations. They record transfers among special accounts and ordinary and extraordinary spending for Korea, Taiwan, Kwantung, Karafuto, and the South Sea Islands.",
+   "keywords": [
+    "special accounts",
+    "revenue",
+    "expenditure",
+    "national loans",
+    "colonial budgets"
+   ]
+  },
+  {
+   "title": "Division of Far Eastern Affairs note on the Japanese money market",
+   "doc_type": "memorandum excerpt",
+   "start_page": 253,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "A note highlights Vice Consul Hutchinson’s forecast of the yen’s response to American inflation.",
+   "summary": "It warns that a rising yen could weaken exports while banks remain reluctant to lend.",
+   "keywords": [
+    "yen",
+    "American inflation",
+    "exports",
+    "bank lending"
+   ]
+  },
+  {
+   "title": "The Japanese Money Market and its Relation to the American Market",
+   "doc_type": "economic report with appendix",
+   "start_page": 254,
+   "end_page": 266,
+   "continues_previous": false,
+   "date": "1933-03",
+   "from": "Vice Consul Hutchinson",
+   "to": "",
+   "about": "The report analyzes Japanese money rates before and after the 1933 American banking crisis.",
+   "summary": "The report traces easing Japanese credit conditions through 1932 and the market’s reaction to the American bank closures and gold embargo. It discusses deposits, loans, the Bank of Japan’s open-market sales, exchange policy, and the risk to exports if the yen rises. Its appendix gives security values as of March 1, 1933, and the distribution of new capital in 1932.",
+   "keywords": [
+    "money market",
+    "banking crisis",
+    "gold embargo",
+    "yen",
+    "security values"
+   ]
+  },
+  {
+   "title": "Division note on supplementary budget for 1933–34",
+   "doc_type": "file memorandum",
+   "start_page": 267,
+   "end_page": 267,
+   "continues_previous": false,
+   "date": "1933-05-04",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "A note flags the navy arsenal’s ¥30 million share of a supplementary budget.",
+   "summary": "It summarizes Tokyo despatch No. 355 and its approximately ¥64 million budget.",
+   "keywords": [
+    "supplementary budget",
+    "navy arsenal"
+   ]
+  },
+  {
+   "title": "Despatch No. 355: Supplementary Budget for 1933–34",
+   "doc_type": "embassy despatch",
+   "start_page": 268,
+   "end_page": 269,
+   "continues_previous": false,
+   "date": "1933-04-06",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Grew transmits the supplementary budget passed by the Diet.",
+   "summary": "He notes that ¥30 million for the navy arsenal is nearly half the total and connects the claim to Japan’s withdrawal from the League of Nations. Other large claims fund disaster relief.",
+   "keywords": [
+    "supplementary budget",
+    "navy arsenal",
+    "disaster relief"
+   ]
+  },
+  {
+   "title": "Supplementary Budget for 1933–34",
+   "doc_type": "translated budget enclosure",
+   "start_page": 270,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "Japanese government",
+   "to": "Imperial Diet",
+   "about": "The enclosure itemizes ¥64,010,928 in supplementary revenue and expenditure.",
+   "summary": "The tables identify borrowing and Treasury transfers as major revenue sources. Expenditure includes Manchurian affairs, Hokkaido and other disaster relief, foreign exchange control, and ¥30 million for the navy arsenal. A final table identifies sums eligible for carryover.",
+   "keywords": [
+    "supplementary budget",
+    "borrowing",
+    "navy arsenal",
+    "disaster relief"
+   ]
+  },
+  {
+   "title": "Despatch No. 356: Supplementary Budgets for 1932–33",
+   "doc_type": "embassy despatch",
+   "start_page": 275,
+   "end_page": 276,
+   "continues_previous": false,
+   "date": "1933-04-06",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Grew transmits three supplementary budget bills passed by the 64th Diet.",
+   "summary": "He says the bills complete 1932–33 appropriations, though calculating total expenditure remains difficult.",
+   "keywords": [
+    "supplementary budgets",
+    "Imperial Diet",
+    "appropriations"
+   ]
+  },
+  {
+   "title": "Special Account Supplementary Budget, February 1933",
+   "doc_type": "translated budget enclosure excerpt",
+   "start_page": 277,
+   "end_page": 277,
+   "continues_previous": false,
+   "date": "1933-02-07",
+   "from": "Japanese government",
+   "to": "",
+   "about": "The schedule distributes loan proceeds and increases navy arsenal and overseas-account funds.",
+   "summary": "It assigns ¥40.1 million in loans among general, Korean, and Kwantung accounts.",
+   "keywords": [
+    "special accounts",
+    "loans",
+    "navy arsenal"
+   ]
+  },
+  {
+   "title": "General Account Supplementary Budget, March 1933",
+   "doc_type": "translated budget enclosure excerpt",
+   "start_page": 278,
+   "end_page": 278,
+   "continues_previous": false,
+   "date": "1933-03-10",
+   "from": "Japanese government",
+   "to": "",
+   "about": "The schedule lists additional ordinary and extraordinary appropriations.",
+   "summary": "Items include prisons, conferences, an embassy at Hsinking, disaster relief, and military allowances.",
+   "keywords": [
+    "general account",
+    "Hsinking",
+    "disaster relief"
+   ]
+  },
+  {
+   "title": "Special Account Supplementary Budget, March 1933",
+   "doc_type": "translated budget enclosure",
+   "start_page": 279,
+   "end_page": 279,
+   "continues_previous": false,
+   "date": "1933-03-10",
+   "from": "Japanese government",
+   "to": "",
+   "about": "The enacted special-account supplement directs loans to the general account and funds territorial relief.",
+   "summary": "It records ¥28.4 million in loans plus Korean drought relief and Kwantung administrative aid.",
+   "keywords": [
+    "special accounts",
+    "loans",
+    "drought relief"
+   ]
+  },
+  {
+   "title": "Government finance and gold shipment",
+   "doc_type": "report excerpts",
+   "start_page": 280,
+   "end_page": 281,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "United States Embassy, Tokyo",
+   "to": "",
+   "about": "Report excerpts discuss budget-balancing bonds and a shipment of gold to the United States.",
+   "summary": "One excerpt states that the Diet passed a bond-issue bill to balance the 1933–34 budget. Another says Bank of Japan gold was shipped to meet government debt service and other expenses.",
+   "keywords": [
+    "bond issues",
+    "gold shipment",
+    "debt service"
+   ]
+  },
+  {
+   "title": "Despatch No. 367: Financial measures passed by the 64th Diet",
+   "doc_type": "embassy despatch excerpt",
+   "start_page": 282,
+   "end_page": 282,
+   "continues_previous": false,
+   "date": "1933-04-21",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Grew transmits translated 1933–34 financial bills.",
+   "summary": "The surviving page begins a list of supplementary and extra budgets passed by the Diet.",
+   "keywords": [
+    "financial legislation",
+    "supplementary budgets"
+   ]
+  },
+  {
+   "title": "Special Account Supplementary Budget for 1933–34",
+   "doc_type": "translated budget enclosure",
+   "start_page": 283,
+   "end_page": 286,
+   "continues_previous": false,
+   "date": "1933-03-27",
+   "from": "Japanese government",
+   "to": "",
+   "about": "The enacted special-account supplement allocates funds among the Mint, debt redemption, loans, navy arsenal, universities, and overseas accounts.",
+   "summary": "Schedules include ¥65.3 million for national-loan redemption, ¥30 million for arsenal materials, flood repairs at Chiba Medical University, and exchange and rice-export controls in territorial accounts. The final table explains carryover expenditures.",
+   "keywords": [
+    "special accounts",
+    "national debt",
+    "navy arsenal",
+    "rice export controls"
+   ]
+  },
+  {
+   "title": "General Account Supplementary Budget for 1933–34",
+   "doc_type": "translated budget enclosure",
+   "start_page": 287,
+   "end_page": 288,
+   "continues_previous": false,
+   "date": "1933-03-28",
+   "from": "Japanese government",
+   "to": "",
+   "about": "The supplement appropriates ¥6,309,734, chiefly for Sanriku earthquake relief.",
+   "summary": "Loans fund debt amortization and ¥6.12 million in relief expenditure.",
+   "keywords": [
+    "general account",
+    "Sanriku earthquake",
+    "loans"
+   ]
+  },
+  {
+   "title": "Imperial Universities supplementary account",
+   "doc_type": "translated budget enclosure excerpt",
+   "start_page": 289,
+   "end_page": 289,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "Japanese government",
+   "to": "",
+   "about": "A university account funds investigation of the Sanriku earthquake.",
+   "summary": "It transfers ¥10,000 to Tokyo Imperial University for disaster research.",
+   "keywords": [
+    "Sanriku earthquake",
+    "Tokyo Imperial University"
+   ]
+  },
+  {
+   "title": "File note for Tokyo telegram No. 101",
+   "doc_type": "document file note",
+   "start_page": 290,
+   "end_page": 290,
+   "continues_previous": false,
+   "date": "1933-05-17",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "The note points to Japan’s views before international monetary and economic talks.",
+   "summary": "It cross-references telegram No. 101 on money, credit, and the London conference.",
+   "keywords": [
+    "cross-reference",
+    "money and credit",
+    "London conference"
+   ]
+  },
+  {
+   "title": "Tokyo telegram No. 101 on preliminary economic talks",
+   "doc_type": "telegram excerpt",
+   "start_page": 291,
+   "end_page": 293,
+   "continues_previous": false,
+   "date": "1933-05-17",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "The telegram describes anticipated Japanese positions on political and economic questions.",
+   "summary": "It discusses a consultative pact, disarmament, gold and currency stabilization, tariffs, and trade. Japanese officials favor cooperation that serves national interests and seek credits or exchange assistance before stabilizing the yen.",
+   "keywords": [
+    "London conference",
+    "currency stabilization",
+    "disarmament",
+    "tariffs"
+   ]
+  },
+  {
+   "title": "Government finances: national debt at March 31, 1933",
+   "doc_type": "report excerpt",
+   "start_page": 294,
+   "end_page": 294,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "",
+   "to": "",
+   "about": "A report gives Japan’s national debt and outstanding short-term obligations.",
+   "summary": "It puts national debt at ¥7.054 billion, up ¥866.6 million during the year.",
+   "keywords": [
+    "national debt",
+    "Treasury bills",
+    "rice purchase notes"
+   ]
+  },
+  {
+   "title": "File note on Takahashi’s proposed tax increases",
+   "doc_type": "document file note",
+   "start_page": 295,
+   "end_page": 295,
+   "continues_previous": false,
+   "date": "1933-06-01",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "The note cross-references a despatch on financing increased 1934 expenditures.",
+   "summary": "Takahashi reportedly advocates raising some taxes because spending cannot be reduced.",
+   "keywords": [
+    "taxation",
+    "1934 budget"
+   ]
+  },
+  {
+   "title": "Government finance: 1934 budget and Deposits Bureau",
+   "doc_type": "report excerpt",
+   "start_page": 296,
+   "end_page": 296,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "",
+   "to": "",
+   "about": "The excerpt discusses proposed tax increases and Deposits Bureau profits.",
+   "summary": "Most reported bureau profit came from foreign exchange gains on deposits held abroad.",
+   "keywords": [
+    "taxation",
+    "Deposits Bureau",
+    "foreign exchange"
+   ]
+  },
+  {
+   "title": "Division note on Japan’s national wealth",
+   "doc_type": "memorandum",
+   "start_page": 297,
+   "end_page": 297,
+   "continues_previous": false,
+   "date": "1933-07-01",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note summarizes a military attaché report estimating Japan’s national wealth.",
+   "summary": "It cites ¥110 billion in 1930 and explains how a changed calculation affects comparison with 1924.",
+   "keywords": [
+    "national wealth",
+    "statistics",
+    "military attaché"
+   ]
+  },
+  {
+   "title": "Military Intelligence Division distribution sheet",
+   "doc_type": "routing slip",
+   "start_page": 298,
+   "end_page": 298,
+   "continues_previous": false,
+   "date": "",
+   "from": "Military Intelligence Division",
+   "to": "",
+   "about": "The sheet lists War Department and other offices for distribution.",
+   "summary": "It provides routing options for information, filing, and return.",
+   "keywords": [
+    "routing",
+    "distribution"
+   ]
+  },
+  {
+   "title": "Military attaché report on Japan’s national wealth",
+   "doc_type": "intelligence report excerpt",
+   "start_page": 299,
+   "end_page": 299,
+   "continues_previous": false,
+   "date": "1933-05-09",
+   "from": "Military Attaché, Tokyo",
+   "to": "War Department",
+   "about": "A damaged report page tabulates Japanese national wealth.",
+   "summary": "The legible material includes a public-finance heading and wealth figures in millions of yen.",
+   "keywords": [
+    "national wealth",
+    "public finance",
+    "statistics"
+   ]
+  },
+  {
+   "title": "Division note on despatch No. 454",
+   "doc_type": "file memorandum",
+   "start_page": 300,
+   "end_page": 300,
+   "continues_previous": false,
+   "date": "1933-07-15",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note flags Embassy proposals for the 1934–35 budget.",
+   "summary": "It recommends reading the full June 30 despatch.",
+   "keywords": [
+    "1934–35 budget",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Despatch No. 454: Discussion of Budget for 1934–35",
+   "doc_type": "embassy despatch excerpt",
+   "start_page": 301,
+   "end_page": 303,
+   "continues_previous": false,
+   "date": "1933-06-30",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Grew examines military demands, revenue limits, tax proposals, and cabinet politics during preparation of the 1934–35 budget.",
+   "summary": "Army and navy demands threaten to increase an already large budget while revenue remains substantially lower than expenditure. Takahashi considers tax increases and reductions in rural relief and Manchurian spending. The despatch also describes disputes over who would bear new taxes and the possible political consequences.",
+   "keywords": [
+    "1934–35 budget",
+    "military spending",
+    "taxation",
+    "cabinet politics"
+   ]
+  },
+  {
+   "title": "Duplicate supplementary-budget table",
+   "doc_type": "budget enclosure page",
+   "start_page": 304,
+   "end_page": 304,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "Japanese government",
+   "to": "",
+   "about": "A repeated table page lists final extraordinary expenditures and carryover provisions.",
+   "summary": "It duplicates the figures and opening Table C material on page 273.",
+   "keywords": [
+    "supplementary budget",
+    "carryover"
+   ]
+  },
+  {
+   "title": "File note for despatch No. 459",
+   "doc_type": "document file note",
+   "start_page": 305,
+   "end_page": 305,
+   "continues_previous": false,
+   "date": "1933-07-06",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "The note cross-references cabinet discussion of the 1934–35 budget.",
+   "summary": "It says the next budget may equal the current year’s.",
+   "keywords": [
+    "1934–35 budget",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "File note for despatch No. 490",
+   "doc_type": "document file note",
+   "start_page": 306,
+   "end_page": 306,
+   "continues_previous": false,
+   "date": "1933-08-09",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "The note cross-references continuing work on the 1934–35 budget.",
+   "summary": "It states that few developments can yet be reported.",
+   "keywords": [
+    "1934–35 budget",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "File note on Clarence E. Bosworth’s inquiry",
+   "doc_type": "document file note",
+   "start_page": 307,
+   "end_page": 307,
+   "continues_previous": false,
+   "date": "1933-09-19",
+   "from": "Clarence E. Bosworth",
+   "to": "",
+   "about": "The note points to a request for information on Japan’s external loans.",
+   "summary": "It cross-references Bosworth’s letter in another file.",
+   "keywords": [
+    "external loans",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "File note on departmental budget estimates",
+   "doc_type": "document file note",
+   "start_page": 308,
+   "end_page": 308,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "The note cross-references a report on the timetable for 1934–35 estimates.",
+   "summary": "Departments were asked to submit estimates by July 31, 1933.",
+   "keywords": [
+    "1934–35 budget",
+    "departmental estimates"
+   ]
+  },
+  {
+   "title": "Military intelligence note on Japan’s public debt",
+   "doc_type": "intelligence report excerpt",
+   "start_page": 309,
+   "end_page": 309,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "T. M. Mertan",
+   "to": "Military Intelligence Division",
+   "about": "A damaged intelligence note reports Japanese public debt and Treasury bills.",
+   "summary": "It cites a Japan Chronicle report; several figures are illegible in the OCR.",
+   "keywords": [
+    "public debt",
+    "Treasury bills",
+    "military intelligence"
+   ]
+  },
+  {
+   "title": "File note for despatch No. 541",
+   "doc_type": "document file note",
+   "start_page": 310,
+   "end_page": 310,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "The note points to an expectation of higher national revenues next year.",
+   "summary": "It cross-references despatch No. 541.",
+   "keywords": [
+    "national revenue",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Government finance: budget and departmental requests",
+   "doc_type": "report excerpt",
+   "start_page": 311,
+   "end_page": 311,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "",
+   "to": "",
+   "about": "A damaged report discusses projected revenue and requests for military and communications spending.",
+   "summary": "The legible text anticipates increased revenue but continued pressure from army, navy, and communications programs.",
+   "keywords": [
+    "budget",
+    "revenue",
+    "military spending",
+    "communications"
+   ]
+  },
+  {
+   "title": "Conclusion of despatch No. 454",
+   "doc_type": "embassy despatch page",
+   "start_page": 312,
+   "end_page": 312,
+   "continues_previous": false,
+   "date": "1933-06-30",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "The final page of the June 30 budget discussion assesses Takahashi’s position.",
+   "summary": "Grew expects further reporting after ministries submit their estimates.",
+   "keywords": [
+    "1934–35 budget",
+    "Takahashi"
+   ]
+  },
+  {
+   "title": "File note on Tokyo municipal bonds in France",
+   "doc_type": "document file note",
+   "start_page": 313,
+   "end_page": 313,
+   "continues_previous": false,
+   "date": "1933-11-09",
+   "from": "Marriner",
+   "to": "",
+   "about": "The note cross-references French efforts to secure service on Tokyo’s 1912 bonds.",
+   "summary": "It refers to French court decisions and ambassadorial representations.",
+   "keywords": [
+    "Tokyo bonds",
+    "France",
+    "debt service"
+   ]
+  },
+  {
+   "title": "French report on Tokyo bond service",
+   "doc_type": "despatch excerpt",
+   "start_page": 314,
+   "end_page": 314,
+   "continues_previous": false,
+   "date": "1933",
+   "from": "Marriner",
+   "to": "",
+   "about": "The excerpt discusses French demands that Tokyo resume service on its bond issue.",
+   "summary": "It says the city continued servicing English and American tranches while the French ambassador pressed for compliance with French court rulings.",
+   "keywords": [
+    "Tokyo bonds",
+    "French courts",
+    "debt service"
+   ]
+  },
+  {
+   "title": "Division note on the draft 1934–35 budget",
+   "doc_type": "memorandum excerpt",
+   "start_page": 315,
+   "end_page": 316,
+   "continues_previous": false,
+   "date": "1934-01",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "The note recommends despatch No. 603 and summarizes its budget findings.",
+   "summary": "It says Takahashi’s proposed ceiling rose under military pressure to about ¥2.111 billion. Changes to the accounting of communications enterprises make a simple comparison with the previous budget misleading.",
+   "keywords": [
+    "1934–35 budget",
+    "military pressure",
+    "communications accounts"
+   ]
+  },
+  {
+   "title": "Despatch No. 603: Budget Agreement",
+   "doc_type": "embassy despatch excerpt",
+   "start_page": 317,
+   "end_page": 320,
+   "continues_previous": false,
+   "date": "1933-12-09",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Grew reports the cabinet’s agreement on Japan’s 1934–35 budget.",
+   "summary": "The proposed budget totals ¥2.111537 billion after ministries initially sought more than ¥2.8 billion. Tables show departmental allocations, with army and navy spending prominent. Grew describes reduced rural relief, the effect of separate communications accounts, and planned financing through ¥785.335 million in bond issues, which would increase national debt.",
+   "keywords": [
+    "1934–35 budget",
+    "bond issues",
+    "national debt",
+    "army",
+    "navy"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 7,
+  "pages": [
+   241,
+   320
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., March 26, 1932 - January 11, 1938 995-part-1.pdf",
+  "seconds": 78.2,
+  "created": "2026-10-08 22:51:55",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-9-part-1"
+ }
+}

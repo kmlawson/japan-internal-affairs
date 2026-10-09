@@ -1,0 +1,605 @@
+{
+ "keywords": [
+  "food rationing",
+  "nutrition surveys",
+  "staple foods",
+  "food imports",
+  "black market",
+  "crop collections",
+  "fertilizer",
+  "SCAP"
+ ],
+ "people": [
+  {
+   "name": "H. F. Alber",
+   "role": "Chief, Price and Distribution Division, Economic and Scientific Section, GHQ, SCAP",
+   "variants": [
+    "H. F. Alber",
+    "Mr. H. F. Alber",
+    "Yr. H. F. Alber",
+    "Mr. Alber",
+    "Yr. lber",
+    "H. F. ALBER"
+   ]
+  },
+  {
+   "name": "Frank R. McCoy",
+   "role": "United States Representative to the Far Eastern Commission",
+   "variants": [
+    "GENERAL MCCOY",
+    "General McCoy",
+    "GENERAL LMOOY"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald"
+   ]
+  },
+  {
+   "name": "W. J. Lawrence, Jr.",
+   "role": "Drafter of Despatch No. 403, Foreign Service Officer",
+   "variants": [
+    "WJLawrence,Jr."
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Aichi",
+   "variants": [
+    "Aichi"
+   ]
+  },
+  {
+   "name": "Aomori",
+   "variants": [
+    "Aomori",
+    "AOMORI"
+   ]
+  },
+  {
+   "name": "Argentina",
+   "variants": [
+    "Argentine"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "asia"
+   ]
+  },
+  {
+   "name": "Austria",
+   "variants": [
+    "Austriane",
+    "Austrians"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "BELGIUM"
+   ]
+  },
+  {
+   "name": "Chiba",
+   "variants": [
+    "Chiba",
+    "CHIBA"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "CHINA"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "variants": [
+    "Egypt",
+    "Egynt"
+   ]
+  },
+  {
+   "name": "Ehime",
+   "variants": [
+    "Ehime",
+    "Ehire"
+   ]
+  },
+  {
+   "name": "England",
+   "variants": [
+    "ENGLAND"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "FRANCE"
+   ]
+  },
+  {
+   "name": "Fukui",
+   "variants": [
+    "Fukui"
+   ]
+  },
+  {
+   "name": "Fukuoka",
+   "variants": [
+    "Fukuoka",
+    "Puaxoka"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "GERMANY",
+    "Germans"
+   ]
+  },
+  {
+   "name": "Gunma",
+   "variants": [
+    "Gumma",
+    "Qumma",
+    "Guma"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima",
+    "Hiroshimm",
+    "HIROSHIMA",
+    "HROSHMA",
+    "Hirosh ima"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "Hokkai-do",
+    "Hokraido",
+    "HOKKAIDO"
+   ]
+  },
+  {
+   "name": "Hyogo",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Ibaraki",
+   "variants": [
+    "Ibaraki"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "INDIA"
+   ]
+  },
+  {
+   "name": "Ishikawa",
+   "variants": [
+    "Ishikawa",
+    "Ishikam",
+    "Iahikawa"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "ITALY"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Iwate",
+    "Imate"
+   ]
+  },
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japanese",
+    "Japen",
+    "JAFAN",
+    "Jupen"
+   ]
+  },
+  {
+   "name": "Kanagawa",
+   "variants": [
+    "Kanagawa"
+   ]
+  },
+  {
+   "name": "Kanazawa",
+   "variants": [
+    "Kanazawa",
+    "Kanazaa"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki",
+    "KINKI"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "KOBE"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "variants": [
+    "Kochi"
+   ]
+  },
+  {
+   "name": "Kofu",
+   "variants": [
+    "Kofu",
+    "KOFU"
+   ]
+  },
+  {
+   "name": "Kumamoto",
+   "variants": [
+    "Kumamoto",
+    "Kumnmoto"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "Kyoto",
+    "KYOTO"
+   ]
+  },
+  {
+   "name": "Matsuyama",
+   "variants": [
+    "Matsuyama",
+    "MATSUYAMA",
+    "Mntsuyama"
+   ]
+  },
+  {
+   "name": "Miyagi",
+   "variants": [
+    "Miyagi"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Hagoya",
+    "NAGOYA"
+   ]
+  },
+  {
+   "name": "Nara",
+   "variants": [
+    "Nara",
+    "Kara",
+    "NARA"
+   ]
+  },
+  {
+   "name": "Okayama",
+   "variants": [
+    "Okayama",
+    "Olayama"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "OSAKA",
+    "CSAKA",
+    "Oaskn"
+   ]
+  },
+  {
+   "name": "Otsu",
+   "variants": [
+    "Otsu",
+    "Oten",
+    "OTSU"
+   ]
+  },
+  {
+   "name": "Saga",
+   "variants": [
+    "Saga"
+   ]
+  },
+  {
+   "name": "Saitama",
+   "variants": [
+    "Saitama"
+   ]
+  },
+  {
+   "name": "Sapporo",
+   "variants": [
+    "Sapporo"
+   ]
+  },
+  {
+   "name": "Sendai",
+   "variants": [
+    "Sendai",
+    "SENDAI"
+   ]
+  },
+  {
+   "name": "Shiga",
+   "variants": [
+    "Shiga"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku",
+    "Sbikeku",
+    "SHIKOKU"
+   ]
+  },
+  {
+   "name": "Shimonoseki",
+   "variants": [
+    "Shimonoseki",
+    "SHIMONOSEKI"
+   ]
+  },
+  {
+   "name": "Shizuoka",
+   "variants": [
+    "Shizuoka"
+   ]
+  },
+  {
+   "name": "Tochigi",
+   "variants": [
+    "Tochigi"
+   ]
+  },
+  {
+   "name": "Tokushima",
+   "variants": [
+    "Tokushima",
+    "TOKUSHMA"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "TCRYC",
+    "Tolgo",
+    "TOYO"
+   ]
+  },
+  {
+   "name": "Tottori",
+   "variants": [
+    "Tottori",
+    "TOTTORI",
+    "TOTTOR"
+   ]
+  },
+  {
+   "name": "Toyama",
+   "variants": [
+    "Toyama",
+    "Toyaxa",
+    "TOYAMA"
+   ]
+  },
+  {
+   "name": "Toyohashi",
+   "variants": [
+    "Toyohashi",
+    "TOYOHASHI"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "UNITED STATES",
+    "United States",
+    "U. S.",
+    "U.S.",
+    "nited tates",
+    "American"
+   ]
+  },
+  {
+   "name": "Wakayama",
+   "variants": [
+    "Wakayama",
+    "Wakayam"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washin tor"
+   ]
+  },
+  {
+   "name": "Yawata",
+   "variants": [
+    "Yawata",
+    "Yavata",
+    "YAWATA"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohema",
+    "YOKOHAMA",
+    "YOKCHAMA",
+    "lokohama"
+   ]
+  }
+ ],
+ "section_summary": "This section contains the concluding chapter and comprehensive statistical appendix of a SCAP report on food shortages, rationing, and nutrition surveys in occupied Japan. It is followed by U.S. Political Adviser Despatch No. 403 of July 1, 1948, transmitting SCAP press statements regarding the summer food supply outlook and distribution controls. Also interfiled are duplicate copies of a November 1947 statement by General Frank McCoy to the Far Eastern Commission defining U.S. policy on Japanese civilian food import relief.",
+ "subfiles": [
+  {
+   "about": "Comprehensive SCAP report analyzing Japanese food supply, rationing, nutritional status, and long-term agricultural and import prospects.",
+   "continues_previous": true,
+   "date": "1948-04",
+   "doc_type": "report",
+   "end_page": 432,
+   "from": "Economic and Scientific Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "food rationing",
+    "nutrition surveys",
+    "staple foods",
+    "fertilizer",
+    "crop collections",
+    "food imports",
+    "black market",
+    "SCAP"
+   ],
+   "start_page": 375,
+   "summary": "This report reviews Japan's postwar food deficit, chronic malnutrition, and future food requirements through 1953, emphasizing that domestic agricultural recovery cannot overcome population growth without continued imports. The extensive statistical appendix provides 34 tables and 21 charts detailing population trends, industrial and agricultural output, crop collections, fertilizer allocations, black-market food prices, and detailed nutritional and clinical survey data across urban and rural populations from 1945 to 1947.",
+   "title": "Food Situation in Japan (Chapter IV and Appendix Tables and Charts)",
+   "to": ""
+  },
+  {
+   "about": "Diplomatic despatch transmitting and reporting on SCAP statements regarding an improving summer food outlook and price controls in Japan.",
+   "continues_previous": false,
+   "date": "1948-07-01",
+   "doc_type": "despatch",
+   "end_page": 434,
+   "from": "William J. Sebald, United States Political Adviser for Japan, Tokyo",
+   "keywords": [
+    "food rations",
+    "Egyptian rice",
+    "H. F. Alber",
+    "price controls",
+    "black market",
+    "fish and vegetables"
+   ],
+   "start_page": 433,
+   "summary": "Transmits statements by H. F. Alber on an improved summer food outlook, emergency Egyptian rice imports, and fish and vegetable distribution controls, discussing plans for possible ration increases after November 1.",
+   "title": "Despatch No. 403: Food Situation in Japan (Pages 1-2)",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "Official U.S. policy statement limiting civilian food relief import commitments for Japan to the 1947-1948 crop year.",
+   "continues_previous": false,
+   "date": "1947-11-20",
+   "doc_type": "statement",
+   "end_page": 437,
+   "from": "General Frank R. McCoy, United States Representative to the Far Eastern Commission",
+   "keywords": [
+    "Far Eastern Commission",
+    "food relief",
+    "civilian consumption",
+    "import policy",
+    "Frank R. McCoy"
+   ],
+   "start_page": 435,
+   "summary": "Outlines the U.S. position on civilian food consumption in Japan, proposing to limit import policy approvals under FEC-268/4 strictly to the 1947-1948 crop year due to world food shortages.",
+   "title": "Statement by General McCoy to the Far Eastern Commission",
+   "to": "Far Eastern Commission"
+  },
+  {
+   "about": "Concluding portion of Despatch No. 403 commenting on Japanese public reactions and expressing skepticism regarding agricultural acreage expansion goals.",
+   "continues_previous": false,
+   "date": "1948-07-01",
+   "doc_type": "despatch",
+   "end_page": 439,
+   "from": "William J. Sebald, United States Political Adviser for Japan, Tokyo",
+   "keywords": [
+    "food production",
+    "arable land",
+    "land reclamation",
+    "William J. Sebald",
+    "enclosures"
+   ],
+   "start_page": 438,
+   "summary": "Assesses the food situation and Japanese public morale, expressing skepticism about achieving a ten percent production increase through land reclamation, and lists transmitted enclosures.",
+   "title": "Despatch No. 403: Food Situation in Japan (Pages 3-4)",
+   "to": "Secretary of State, Washington"
+  },
+  {
+   "about": "SCAP press release outlining the summer food supply outlook, ration fulfillment, and emergency rice imports.",
+   "continues_previous": false,
+   "date": "1948-06-21",
+   "doc_type": "press release",
+   "end_page": 444,
+   "from": "H. F. Alber, Chief, Price and Distribution Division, ESS, GHQ, SCAP",
+   "keywords": [
+    "staple rations",
+    "Egyptian rice",
+    "H. F. Alber",
+    "food imports",
+    "miso",
+    "shoyu",
+    "SCAP"
+   ],
+   "start_page": 440,
+   "summary": "Announces that basic staple rations will be met without skipped days, details emergency Egyptian rice imports, and outlines conditions necessary to permit a food ration increase in November.",
+   "title": "Press Conference Statement by H. F. Alber on Food Situation in Japan",
+   "to": "Press"
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 119519,
+   "output_tokens": 100270,
+   "thinking_tokens": 97488,
+   "cache_read_tokens": 0,
+   "total_tokens": 219789
+  },
+  "backend": "agy",
+  "section": 7,
+  "sections": 9,
+  "pages": [
+   375,
+   444
+  ],
+  "pdf": "894.5018 Economic Matters., Statistics, General., Japan, Food Conditions. Food Shortage., February 9, 1945 - December 7, 1949 1800.pdf",
+  "seconds": 766.9,
+  "created": "2026-10-08 18:01:27",
+  "key": "japan-internal-affairs-894.5018-economic-matters-statistics-4"
+ }
+}

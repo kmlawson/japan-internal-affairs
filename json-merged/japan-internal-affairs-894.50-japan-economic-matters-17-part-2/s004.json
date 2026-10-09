@@ -1,0 +1,951 @@
+{
+ "section_summary": "This section examines Japan’s postwar trade deficit, dependence on U.S. aid, and the effects of the Dodge economic stabilization program. U.S. and British officials report on inflation, credit, exchange rates, export controls, and trade negotiations. Later documents present the Economic Stabilization Board’s and Social Democratic Party’s concerns about deflation, unemployment, and the distribution of the program’s costs.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Jepan",
+    "Japen",
+    "Jaran",
+    "Jupan",
+    "Jaranese",
+    "Japanese",
+    "Jepanese",
+    "Occupied Japan"
+   ]
+  },
+  {
+   "name": "Tokyo, Japan",
+   "variants": [
+    "Tokyo",
+    "Toryo",
+    "Tokyc",
+    "Tekye"
+   ]
+  },
+  {
+   "name": "Angaur, Palau",
+   "variants": [
+    "Angaur"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United Stetes",
+    "U.S.",
+    "U. S.",
+    "U S",
+    "America"
+   ]
+  },
+  {
+   "name": "Washington, D.C., United States",
+   "variants": [
+    "Washington",
+    "Wa shingt on",
+    "lashireton"
+   ]
+  },
+  {
+   "name": "Detroit, Michigan, United States",
+   "variants": [
+    "Detroit"
+   ]
+  },
+  {
+   "name": "New York, United States",
+   "variants": [
+    "New York",
+    "Ner York",
+    "Noe York"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "U.K.",
+    "U.K",
+    "Britiah"
+   ]
+  },
+  {
+   "name": "London, United Kingdom",
+   "variants": [
+    "Lordon"
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "variants": [
+    "Southeast Asia"
+   ]
+  },
+  {
+   "name": "Sterling Area",
+   "variants": [
+    "Sterling Area",
+    "Sterlin\" Area",
+    "Sterling Ares",
+    "STERLEIG ARRA"
+   ]
+  },
+  {
+   "name": "Ryukyu Islands, Japan",
+   "variants": [
+    "Ryukyus"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chins"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "North China",
+    "North Chins"
+   ]
+  },
+  {
+   "name": "Tangshan, China",
+   "variants": [
+    "Tangahan"
+   ]
+  },
+  {
+   "name": "Hebei, China",
+   "variants": [
+    "Hopei Province"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Yorea",
+    "Korean"
+   ]
+  },
+  {
+   "name": "Seoul, South Korea",
+   "variants": [
+    "Seoul"
+   ]
+  },
+  {
+   "name": "Aden, Yemen",
+   "variants": [
+    "Aden"
+   ]
+  },
+  {
+   "name": "Barbados",
+   "variants": [
+    "Parbados"
+   ]
+  },
+  {
+   "name": "Bahrain",
+   "variants": [
+    "Bahrein"
+   ]
+  },
+  {
+   "name": "Sabah, Malaysia",
+   "variants": [
+    "B.N. Borneo"
+   ]
+  },
+  {
+   "name": "Malawi",
+   "variants": [
+    "Nyasaland"
+   ]
+  },
+  {
+   "name": "Cameroon",
+   "variants": [
+    "Cameroons"
+   ]
+  },
+  {
+   "name": "Cyprus",
+   "variants": [
+    "Cyprus"
+   ]
+  },
+  {
+   "name": "Cyrenaica, Libya",
+   "variants": [
+    "Cyrenaica"
+   ]
+  },
+  {
+   "name": "Eritrea",
+   "variants": [
+    "Eritree."
+   ]
+  },
+  {
+   "name": "Ghana",
+   "variants": [
+    "Gold Coast"
+   ]
+  },
+  {
+   "name": "Jamaica",
+   "variants": [
+    "Jamaica"
+   ]
+  },
+  {
+   "name": "Kenya",
+   "variants": [
+    "Kenya"
+   ]
+  },
+  {
+   "name": "Uganda",
+   "variants": [
+    "Uganda"
+   ]
+  },
+  {
+   "name": "Tanzania",
+   "variants": [
+    "Tanganyika",
+    "Zanzibar"
+   ]
+  },
+  {
+   "name": "Malaysia",
+   "variants": [
+    "Malaya"
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "variants": [
+    "Nigeria"
+   ]
+  },
+  {
+   "name": "Rhodesia (historical region)",
+   "variants": [
+    "Rhodesia"
+   ]
+  },
+  {
+   "name": "Sierra Leone",
+   "variants": [
+    "Sierra Leone"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "variants": [
+    "Trinidad"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Sri Lanka",
+   "variants": [
+    "Ceylon"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India"
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "variants": [
+    "Pakistan",
+    "Yakistan"
+   ]
+  },
+  {
+   "name": "New Zealand",
+   "variants": [
+    "New Zealand"
+   ]
+  },
+  {
+   "name": "South Africa",
+   "variants": [
+    "South Africa"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "variants": [
+    "Iraq"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Belgium",
+   "variants": [
+    "Belgian"
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "variants": [
+    "Netherlands",
+    "Netherland"
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "variants": [
+    "Indonesia"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand",
+    "Phail:ad"
+   ]
+  },
+  {
+   "name": "Latin America",
+   "variants": [
+    "Latin Aneriee"
+   ]
+  },
+  {
+   "name": "Soviet Union",
+   "variants": [
+    "USSR",
+    "U.SR",
+    "Soviet"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Sherwood M. Fine",
+   "role": "Director for Economics and Trade, Economic and Scientific Section, SCAP",
+   "variants": [
+    "Dr. Fine",
+    "Dr Sherwood M. FINE",
+    "Dr Fine",
+    "Mr. Fine"
+   ]
+  },
+  {
+   "name": "Malcolm MacDonald",
+   "role": "British Commissioner General for Southeast Asia",
+   "variants": [
+    "Mr. MacDonald",
+    "Mir. Malcolm MacDonald"
+   ]
+  },
+  {
+   "name": "Joseph Dodge",
+   "role": "U.S. economic adviser and Detroit banker",
+   "variants": [
+    "Mr. Dodge",
+    "Ir. Dodge",
+    "Mr. Joseph DoDGE",
+    "Mr Dodge",
+    "Mr. Dod e",
+    "Lr. Dedge"
+   ]
+  },
+  {
+   "name": "Harry S. Truman",
+   "role": "President of the United States",
+   "variants": [
+    "President Truman"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur",
+    "General NacArthur",
+    "General macart ur"
+   ]
+  },
+  {
+   "name": "Tracy S. Voorhees",
+   "role": "Under Secretary of the U.S. Army",
+   "variants": [
+    "r. Voorhees",
+    "Mr. Voorhees",
+    "Mr. Voorbee"
+   ]
+  },
+  {
+   "name": "Shigeru Yoshida",
+   "role": "Prime Minister of Japan",
+   "variants": [
+    "Yoshida",
+    "Premier",
+    "Yoshida Cabinet",
+    "Yoshide Cubinet"
+   ]
+  },
+  {
+   "name": "William F. Marquat",
+   "role": "Chief of SCAP’s Economic and Scientific Section",
+   "variants": [
+    "Jeneral W F. MARQUAT",
+    "General Marquat",
+    "Pajor Geperal W. Y. MAR UAT",
+    "General Parquat"
+   ]
+  },
+  {
+   "name": "Atsushi Uyama",
+   "role": "Chief, Economic Affairs Section, Japanese Foreign Ministry",
+   "variants": [
+    "Mr. Uyama",
+    "Mr Uana",
+    "Mr. Atcuhi UYAMA"
+   ]
+  },
+  {
+   "name": "Wilfred Pryor",
+   "role": "General manager, Kailan Mining Administration",
+   "variants": [
+    "Mr. Wilfred PRYOR",
+    "Pryor"
+   ]
+  },
+  {
+   "name": "Dean Acheson",
+   "role": "U.S. Secretary of State",
+   "variants": [
+    "ACHESON"
+   ]
+  },
+  {
+   "name": "Ormond Freile",
+   "role": "Chief, Industry Division, Far East Branch, Office of the Under Secretary of the Army",
+   "variants": [
+    "Mr. Ormond FREILE"
+   ]
+  },
+  {
+   "name": "Edward W. Doherty",
+   "role": "State Department representative on the foreign trade advisory mission",
+   "variants": [
+    "Mr. Edward W. DoHEhTY",
+    "Doherty"
+   ]
+  },
+  {
+   "name": "Robert Stebbins",
+   "role": "U.S. official on temporary detail",
+   "variants": [
+    "Robert STEBUrrH"
+   ]
+  },
+  {
+   "name": "V. Riley",
+   "role": "Deputy chief mentioned in a SCAP discussion",
+   "variants": [
+    "V. RitY"
+   ]
+  },
+  {
+   "name": "Kaneshichi Hagda",
+   "role": "Person questioned about the tobacco monopoly; surname uncertain in OCR",
+   "variants": [
+    "Kaneshichi HaGDA"
+   ]
+  },
+  {
+   "name": "Pickelle",
+   "role": "SCAP official",
+   "variants": [
+    "PICLLE",
+    "Pickelle"
+   ]
+  },
+  {
+   "name": "John M. Allison",
+   "role": "State Department official and memorandum recipient",
+   "variants": [
+    "Mr. Allison"
+   ]
+  },
+  {
+   "name": "Robert A. Fearey",
+   "role": "State Department official and memorandum sender",
+   "variants": [
+    "Mr. Fearey"
+   ]
+  },
+  {
+   "name": "W. Walton Butterworth",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Butterworth"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Thorp"
+   ]
+  },
+  {
+   "name": "E. R. Lingeman",
+   "role": "Minister (Commercial), United Kingdom Liaison Mission",
+   "variants": [
+    "Lr. E. R. Lingeman",
+    "Lingeman",
+    "Mr. Lingeman",
+    "ir. Linrenan"
+   ]
+  },
+  {
+   "name": "Ely M. Brandes",
+   "role": "SCAP official involved in proposed sale of restituted opium",
+   "variants": [
+    "Mr. Ely M. BRANDES",
+    "Beandes"
+   ]
+  },
+  {
+   "name": "Leonard Felsenthal",
+   "role": "Economist, State Department Division of Research for the Far East",
+   "variants": [
+    "Mr. Leonard FELSENTHAL",
+    "Mr. Felsenthal",
+    "Ir. Felsenthal"
+   ]
+  },
+  {
+   "name": "Wada Hiroo",
+   "role": "Former Economic Stabilization Board director and Social Democratic Party policy official",
+   "variants": [
+    "Mr. WaDA Hiroo",
+    "Da iroo"
+   ]
+  },
+  {
+   "name": "Inaba Hidezo",
+   "role": "Economist and director of the National Economic Research Association",
+   "variants": [
+    "Mr. INABA Hidezo",
+    "Mr, Inaba",
+    "上INABA Hidezo"
+   ]
+  },
+  {
+   "name": "Tsuru Shigeto",
+   "role": "Professor at Tokyo University of Commerce",
+   "variants": [
+    "Kr. TSURU Shigeto",
+    "Mr. Tsuru",
+    "Ir. Isuru"
+   ]
+  },
+  {
+   "name": "William J. Sebald",
+   "role": "United States Political Adviser for Japan",
+   "variants": [
+    "W J. Sebald",
+    "JBALD",
+    "SHEALD"
+   ]
+  },
+  {
+   "name": "E. G. Seidensticker Jr.",
+   "role": "U.S. mission officer",
+   "variants": [
+    "EGSeidensticker Jr.",
+    "EcSeidenstieker, Jr"
+   ]
+  },
+  {
+   "name": "Boehringer",
+   "role": "U.S. mission officer",
+   "variants": [
+    "CHBoehringer",
+    "Bo ehringer"
+   ]
+  },
+  {
+   "name": "H. Barger",
+   "role": "State Department drafter",
+   "variants": [
+    "HBarger"
+   ]
+  },
+  {
+   "name": "N. Hemmendinger",
+   "role": "State Department clearance official",
+   "variants": [
+    "NHemmendinger"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japan economic recovery",
+  "Dodge Line",
+  "economic stabilization",
+  "foreign trade",
+  "U.S. aid",
+  "Sterling Area",
+  "exchange rate",
+  "export controls",
+  "credit policy",
+  "deflation",
+  "Counterpart Fund",
+  "unemployment"
+ ],
+ "subfiles": [
+  {
+   "title": "Survey of Japan’s Economic Problems, with Foreign Trade Appendices",
+   "doc_type": "enclosure/report",
+   "start_page": 216,
+   "end_page": 224,
+   "continues_previous": true,
+   "date": "1949-09-13",
+   "from": "E. R. Lingeman, Economic Adviser’s Office, United Kingdom Liaison Mission, Tokyo",
+   "to": "Malcolm MacDonald",
+   "about": "A British economic survey assesses Japan’s trade, inflation, stabilization measures, U.S. aid, and prospects for self-support.",
+   "summary": "The surviving pages discuss Japan’s import needs, export obstacles, and persistent trade deficit. Lingeman credits Dodge’s austerity measures with slowing inflation but warns that tight credit and weak world markets complicate recovery. He doubts Japan can become self-supporting by 1953 without substantial U.S. assistance. Four appendices tabulate foreign trade, imports, exports, and trade with the Sterling Area.",
+   "keywords": [
+    "foreign trade",
+    "Dodge Line",
+    "inflation",
+    "U.S. aid",
+    "Sterling Area"
+   ]
+  },
+  {
+   "title": "Comments on Status of Nine Point Economic Stabilization Program in Japan",
+   "doc_type": "despatch",
+   "start_page": 225,
+   "end_page": 229,
+   "continues_previous": false,
+   "date": "1949-10-04",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The mission forwards Sherwood Fine’s comments on a State Department study and assesses Japanese resistance to stabilization.",
+   "summary": "Fine considers the study broadly sound but criticizes the Yoshida Cabinet’s cooperation. The mission finds resistance less coordinated than Fine suggests and reports views from SCAP and Japanese officials on austerity, public works, and the program’s progress.",
+   "keywords": [
+    "nine-point program",
+    "Sherwood Fine",
+    "Yoshida Cabinet",
+    "stabilization"
+   ]
+  },
+  {
+   "title": "Status of the Economic Stabilization Program",
+   "doc_type": "enclosure/report",
+   "start_page": 230,
+   "end_page": 236,
+   "continues_previous": false,
+   "date": "1949-10-04",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "An enclosed report reviews prices, wages, unemployment, exports, budgets, credit, and taxation under stabilization.",
+   "summary": "The report describes greater price and wage stability following the nine-point directive and Dodge Mission recommendations. It reviews subsidy and price-control changes, unemployment, the export outlook, budget management, banking credit, and tax collections. It concludes that stabilization has advanced, while inflationary risks and the need for industrial rationalization remain.",
+   "keywords": [
+    "prices",
+    "wages",
+    "unemployment",
+    "exports",
+    "credit",
+    "taxation"
+   ]
+  },
+  {
+   "title": "Progress on the Nine-Point Economic Stabilization Program",
+   "doc_type": "enclosure/report",
+   "start_page": 237,
+   "end_page": 240,
+   "continues_previous": false,
+   "date": "1949-08-15",
+   "from": "Economic and Scientific Section, General Headquarters, SCAP",
+   "to": "United States Political Adviser for Japan",
+   "about": "A SCAP progress statement reviews implementation of the nine stabilization directives.",
+   "summary": "The statement covers the balanced budget, tax enforcement, credit and wage restraints, price controls, export promotion, raw-material use, and food distribution.",
+   "keywords": [
+    "nine-point program",
+    "tax enforcement",
+    "credit",
+    "wages",
+    "exports"
+   ]
+  },
+  {
+   "title": "Weekly Economic Affairs Airgram A-256",
+   "doc_type": "airgram",
+   "start_page": 241,
+   "end_page": 244,
+   "continues_previous": false,
+   "date": "1949-10-07",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "A weekly airgram reports discussions of Japanese economic policy, trade, investment, and occupation administration.",
+   "summary": "Topics include the tobacco monopoly, housing for occupation personnel, SCAP management, Japanese cooperation with stabilization, raw-material purchasing, and trade with the Sterling Area and Pakistan.",
+   "keywords": [
+    "weekly report",
+    "tobacco monopoly",
+    "SCAP",
+    "trade",
+    "stabilization"
+   ]
+  },
+  {
+   "title": "Export Associations and Floor Prices",
+   "doc_type": "outgoing telegram",
+   "start_page": 245,
+   "end_page": 245,
+   "continues_previous": false,
+   "date": "1949-10-13",
+   "from": "Secretary of State",
+   "to": "Supreme Commander for the Allied Powers, Tokyo",
+   "about": "The Department questions a Japanese proposal to restore private export associations after abolition of floor prices.",
+   "summary": "Warns that private associations could restrict competition, fix prices, and hinder exports; requests comments.",
+   "keywords": [
+    "export associations",
+    "floor prices",
+    "competition"
+   ]
+  },
+  {
+   "title": "Weekly Economic Affairs Airgram A-267",
+   "doc_type": "airgram",
+   "start_page": 246,
+   "end_page": 249,
+   "continues_previous": false,
+   "date": "1949-10-14",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The mission reports developments in coal procurement, export administration, investment, and Sterling Area trade.",
+   "summary": "The airgram reports that Japan cannot presently buy much Kailan coking coal despite the supplier’s interest. It also discusses copper shipments, foreign trade representation, planned changes to import and export controls, and Sterling Area negotiations.",
+   "keywords": [
+    "coking coal",
+    "copper",
+    "export controls",
+    "Sterling Area"
+   ]
+  },
+  {
+   "title": "Weekly Economic Affairs Airgram A-276",
+   "doc_type": "airgram",
+   "start_page": 250,
+   "end_page": 253,
+   "continues_previous": false,
+   "date": "1949-10-20",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The mission reports on proposed trade reforms, the yen-dollar rate, foreign investment, and procurement policy.",
+   "summary": "A U.S. advisory mission favors removing export floor prices, while SCAP announces that it does not contemplate yen devaluation. Other items concern Sovexportfilm, suspended deconcentration orders, Japanese export-pricing proposals, private imports, Korean trade, Sterling Area payments, and raw-material procurement.",
+   "keywords": [
+    "floor prices",
+    "yen-dollar exchange rate",
+    "foreign investment",
+    "private imports"
+   ]
+  },
+  {
+   "title": "Turnover of Economic Responsibilities for Japan to ECA",
+   "doc_type": "memorandum",
+   "start_page": 254,
+   "end_page": 255,
+   "continues_previous": false,
+   "date": "1949-10-21",
+   "from": "Robert A. Fearey",
+   "to": "John M. Allison",
+   "about": "The memorandum weighs transferring the Army’s Japanese recovery responsibilities to the Economic Cooperation Administration.",
+   "summary": "Fearey sees advantages in an ECA takeover around July 1950 but advises sounding out Army and SCAP before proceeding. He also recommends appropriation language permitting a later transfer of aid funds.",
+   "keywords": [
+    "ECA",
+    "Army",
+    "GARIOA",
+    "aid administration"
+   ]
+  },
+  {
+   "title": "Summary of Tokyo Despatch 679",
+   "doc_type": "memorandum",
+   "start_page": 256,
+   "end_page": 256,
+   "continues_previous": false,
+   "date": "1949-10-24",
+   "from": "",
+   "to": "John M. Allison",
+   "about": "A State Department note summarizes Lingeman’s British assessment of Japan’s economy and the Dodge Mission.",
+   "summary": "Highlights U.S. aid, rapid stabilization gains, and doubts about self-support by 1953.",
+   "keywords": [
+    "Lingeman",
+    "Dodge Mission",
+    "U.S. aid"
+   ]
+  },
+  {
+   "title": "Record Copy Replacement Notice",
+   "doc_type": "records form",
+   "start_page": 257,
+   "end_page": 257,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State, Division of Communications and Records",
+   "to": "Action office",
+   "about": "The form designates a replacement record copy for an action copy not returned to central records.",
+   "summary": "Directs return of the replacement copy for filing.",
+   "keywords": [
+    "record copy",
+    "filing"
+   ]
+  },
+  {
+   "title": "Weekly Economic Affairs Airgram A-282",
+   "doc_type": "airgram",
+   "start_page": 258,
+   "end_page": 261,
+   "continues_previous": false,
+   "date": "1949-10-27",
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "to": "Secretary of State",
+   "about": "The mission reports on restituted narcotics, Soviet commercial status, trade agreements, investment, and stockpiles.",
+   "summary": "The airgram describes efforts to sell restituted opium, Japanese consideration of Sovexportfilm’s legal status, and debates over wheat purchases and Netherlands-Indonesian trade. It also notes proposed foreign investments and disagreement over whether Japan should acquire more import stockpiles.",
+   "keywords": [
+    "restituted opium",
+    "Sovexportfilm",
+    "wheat",
+    "Netherlands",
+    "stockpiles"
+   ]
+  },
+  {
+   "title": "Views of Social Democratic Party and Economic Stabilization Board with Regard to Economic Stabilization",
+   "doc_type": "despatch",
+   "start_page": 262,
+   "end_page": 268,
+   "continues_previous": false,
+   "date": "1949-11-04",
+   "from": "William J. Sebald, United States Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "The despatch explains opposition proposals for easing the deflationary effects of the Dodge Line.",
+   "summary": "Sebald contrasts the Finance Ministry’s restrictive approach with the Economic Stabilization Board’s call for more investment, public works, and credit within a balanced budget. He summarizes arguments by Wada Hiroo, Inaba Hidezo, and Tsuru Shigeto about unemployment, real wages, and Japanese responsibility for recovery. He suggests that the Social Democratic Party may favor broader relaxation of the Dodge Line than it openly acknowledges.",
+   "keywords": [
+    "Dodge Line",
+    "Economic Stabilization Board",
+    "Social Democratic Party",
+    "deflation"
+   ]
+  },
+  {
+   "title": "Divergent Views on Implementation of Economic Stabilization Program",
+   "doc_type": "enclosed memorandum",
+   "start_page": 269,
+   "end_page": 272,
+   "continues_previous": false,
+   "date": "",
+   "from": "Leonard Felsenthal",
+   "to": "United States Political Adviser for Japan",
+   "about": "The memorandum compares two proposed routes to Japanese economic stabilization.",
+   "summary": "Felsenthal outlines assumptions behind the Economic Stabilization Board’s 1953 targets for production, trade, and productivity. Plan A emphasizes eliminating inflation and restraining public investment; Plan B proposes gradual investment expansion, easier credit, public works, and use of aid counterpart funds.",
+   "keywords": [
+    "Plan A",
+    "Plan B",
+    "investment",
+    "credit",
+    "1953 targets"
+   ]
+  },
+  {
+   "title": "What We Hope for from Mr. Dodge — Wada Hiroo",
+   "doc_type": "translated newspaper article",
+   "start_page": 273,
+   "end_page": 274,
+   "continues_previous": false,
+   "date": "1949-10-22",
+   "from": "Wada Hiroo",
+   "to": "",
+   "about": "Wada argues that the Yoshida government’s implementation of the Dodge program burdens workers and small enterprises.",
+   "summary": "He calls for less debt redemption, more public works and unemployment relief, tax relief, and timely use of the Counterpart Fund. He urges policies that spread the costs of stabilization and improve ordinary livelihoods.",
+   "keywords": [
+    "Dodge Line",
+    "public works",
+    "unemployment",
+    "Counterpart Fund"
+   ]
+  },
+  {
+   "title": "What We Hope for from Mr. Dodge — Inaba Hidezo",
+   "doc_type": "translated newspaper article",
+   "start_page": 275,
+   "end_page": 275,
+   "continues_previous": false,
+   "date": "1949-10-21",
+   "from": "Inaba Hidezo",
+   "to": "",
+   "about": "Inaba assesses signs of stagnation and hidden unemployment in Japan’s economy.",
+   "summary": "Cites falling production, growing stocks and debts, and employment losses as reasons to reconsider current policy.",
+   "keywords": [
+    "economic stagnation",
+    "stockpiles",
+    "unemployment",
+    "Dodge Line"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 4,
+  "sections": 9,
+  "pages": [
+   216,
+   275
+  ],
+  "pdf": "894.50 Japan, Economic Matters., December 4, 1948 - December 3, 1949 1797-part-2.pdf",
+  "seconds": 92.7,
+  "created": "2026-10-08 18:40:30",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-17-part-2"
+ }
+}

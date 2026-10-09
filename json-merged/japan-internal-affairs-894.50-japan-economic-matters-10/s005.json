@@ -1,0 +1,978 @@
+{
+ "section_summary": "This section documents Japan’s trade contraction, import and foreign exchange controls, gold shipments, prices, wages, and employment during the war in China. Consular reports from Kobe and departmental analyses compare the sharp fall in exports with continued domestic activity, then assess Japan’s finances and its vulnerability to economic sanctions. Statistical enclosures, a Chamber of Commerce resolution, press clippings, file notes, and a longer Embassy despatch accompany the reports.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jopan",
+    "Jap an"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "nited States",
+    "America"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Hobe",
+    "Kote"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "WASHINGTON",
+    "Washington"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "Shanghai"
+   ]
+  },
+  {
+   "name": "Chongqing",
+   "variants": [
+    "Chungking"
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Vancouver"
+   ]
+  },
+  {
+   "name": "Hyōgo Prefecture",
+   "variants": [
+    "Hyogo Ken"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "PUTLIUPINE ISLANDS"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "England",
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germans"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Europe",
+   "variants": [
+    "Europe"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Chosen"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Taiwan"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria"
+   ]
+  },
+  {
+   "name": "Manchukuo",
+   "variants": [
+    "Tianchukuo",
+    "Manchoukuo"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory"
+   ]
+  },
+  {
+   "name": "North China",
+   "variants": [
+    "north China"
+   ]
+  },
+  {
+   "name": "Central China",
+   "variants": [
+    "central China"
+   ]
+  },
+  {
+   "name": "South China",
+   "variants": [
+    "south China"
+   ]
+  },
+  {
+   "name": "Hebei",
+   "variants": [
+    "Hopeh"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung"
+   ]
+  },
+  {
+   "name": "Shanxi",
+   "variants": [
+    "Shansi"
+   ]
+  },
+  {
+   "name": "Shaanxi",
+   "variants": [
+    "Shensi"
+   ]
+  },
+  {
+   "name": "Gansu",
+   "variants": [
+    "Kansu"
+   ]
+  },
+  {
+   "name": "Jiangsu",
+   "variants": [
+    "Kiangsu"
+   ]
+  },
+  {
+   "name": "Zhejiang",
+   "variants": [
+    "Chekiang"
+   ]
+  },
+  {
+   "name": "Anhui",
+   "variants": [
+    "Anhwei"
+   ]
+  },
+  {
+   "name": "Henan",
+   "variants": [
+    "Honan"
+   ]
+  },
+  {
+   "name": "Hubei",
+   "variants": [
+    "Hupeh"
+   ]
+  },
+  {
+   "name": "Hunan",
+   "variants": [
+    "Hunan"
+   ]
+  },
+  {
+   "name": "Jiangxi",
+   "variants": [
+    "Kiangsi"
+   ]
+  },
+  {
+   "name": "Sichuan",
+   "variants": [
+    "Szechwan"
+   ]
+  },
+  {
+   "name": "Fujian",
+   "variants": [
+    "Fukien"
+   ]
+  },
+  {
+   "name": "Guangdong",
+   "variants": [
+    "Kwangtung"
+   ]
+  },
+  {
+   "name": "Guangxi",
+   "variants": [
+    "Kwangsi"
+   ]
+  },
+  {
+   "name": "Guizhou",
+   "variants": [
+    "Kweichow"
+   ]
+  },
+  {
+   "name": "Yunnan",
+   "variants": [
+    "Yunnan"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Winthrop R. Scott",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Winthrop R. Scott",
+    "Consul Scott",
+    "Uruttuop Rxhott"
+   ]
+  },
+  {
+   "name": "Walter P. McConaughy",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "Walter P. McConaughy",
+    "Consul McConaughy"
+   ]
+  },
+  {
+   "name": "Mr. Ikeda",
+   "role": "Japanese Finance Minister; Cabinet member",
+   "variants": [
+    "Mr. Ikeda"
+   ]
+  },
+  {
+   "name": "Mr. Stinebower",
+   "role": "Prepared the brief economic survey",
+   "variants": [
+    "Mr. Stinebower"
+   ]
+  },
+  {
+   "name": "Mr. Jones",
+   "role": "Department of State officer assigned to Japan within EA",
+   "variants": [
+    "Mr. Jones",
+    "Jones"
+   ]
+  },
+  {
+   "name": "Mr. Dickover",
+   "role": "Reader of the brief economic survey",
+   "variants": [
+    "Diokover"
+   ]
+  },
+  {
+   "name": "Mr. Ballantine",
+   "role": "Reader of the brief economic survey",
+   "variants": [
+    "Ballantine"
+   ]
+  },
+  {
+   "name": "George E. Anderson",
+   "role": "Author of a press article on Japanese finances",
+   "variants": [
+    "George E. Anderson"
+   ]
+  },
+  {
+   "name": "Dr. Kung",
+   "role": "Chinese Minister of Finance",
+   "variants": [
+    "Dr. Kung"
+   ]
+  },
+  {
+   "name": "Sir Alexander Cadogan",
+   "role": "Sender named on a cross-reference sheet",
+   "variants": [
+    "Cadogan. Alexander(Sir)"
+   ]
+  },
+  {
+   "name": "L. H. Gourley",
+   "role": "American Consul at Kobe",
+   "variants": [
+    "L. I. Jourley",
+    "L. H. GourleY"
+   ]
+  },
+  {
+   "name": "E. W. James",
+   "role": "Chairman of the Kobe and Osaka Foreign Chamber of Commerce; head of a British import and export firm",
+   "variants": [
+    "Mr. E. W. James",
+    "Mr. James",
+    "James"
+   ]
+  },
+  {
+   "name": "General Ugaki",
+   "role": "Japanese general",
+   "variants": [
+    "General Ugaki"
+   ]
+  },
+  {
+   "name": "Makinson",
+   "role": "Named on an Osaka document file note",
+   "variants": [
+    "Makinson"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Department of State Adviser on Political Relations",
+   "variants": [
+    "Stanley K. Hornbeck",
+    "MR. HORNBECK"
+   ]
+  },
+  {
+   "name": "Ivan B. White",
+   "role": "Vice Consul at the American Consulate in Yokohama",
+   "variants": [
+    "Ivan B. hite"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese economy",
+  "foreign trade",
+  "export decline",
+  "import controls",
+  "foreign exchange",
+  "gold shipments",
+  "war finance",
+  "wages and employment",
+  "trade discrimination",
+  "economic sanctions",
+  "yen area"
+ ],
+ "subfiles": [
+  {
+   "title": "Recent economic trends in western Japan, concluding pages",
+   "doc_type": "consular despatch",
+   "start_page": 308,
+   "end_page": 322,
+   "continues_previous": true,
+   "date": "1938-03-17",
+   "from": "Winthrop R. Scott, American Consul, Kobe",
+   "to": "Secretary of State",
+   "about": "Assesses the effects of war, trade restrictions, and exchange controls on western Japan’s economy.",
+   "summary": "Scott reports falling foreign trade and real wages but continued employment and strong domestic activity. He describes delays, discrimination, and circumvention in import and exchange controls, while American firms limit financial exposure. He finds little evidence that boycott pressure or current economic distress will soon change Japan’s war policy.",
+   "keywords": [
+    "western Japan",
+    "foreign trade",
+    "exchange controls",
+    "discrimination",
+    "employment",
+    "boycotts"
+   ]
+  },
+  {
+   "title": "Recent exports of gold bars from Kobe to the United States",
+   "doc_type": "statistical enclosure",
+   "start_page": 323,
+   "end_page": 323,
+   "continues_previous": false,
+   "date": "1938-03",
+   "from": "American Consulate, Kobe",
+   "to": "Department of State",
+   "about": "Lists monthly Japanese gold shipments to the United States through February 1938.",
+   "summary": "A monthly table reports gold shipments totaling approximately ¥868 million since January 1937.",
+   "keywords": [
+    "gold shipments",
+    "Kobe",
+    "United States"
+   ]
+  },
+  {
+   "title": "Value of invoices covering Japanese exports to the United States",
+   "doc_type": "statistical enclosure",
+   "start_page": 324,
+   "end_page": 324,
+   "continues_previous": false,
+   "date": "1938-03",
+   "from": "American Consulates, Kobe and Osaka",
+   "to": "Department of State",
+   "about": "Compares certified export invoice values in early 1937 and 1938.",
+   "summary": "Certified exports fell 65.7 percent between January 1 and March 10.",
+   "keywords": [
+    "export invoices",
+    "United States",
+    "trade decline"
+   ]
+  },
+  {
+   "title": "Finance Ministry figures on foreign trade of Japan",
+   "doc_type": "statistical enclosure",
+   "start_page": 325,
+   "end_page": 325,
+   "continues_previous": false,
+   "date": "1938-03",
+   "from": "American Consulate, Kobe",
+   "to": "Department of State",
+   "about": "Presents Japanese trade figures supplied by Domei News Agency.",
+   "summary": "The table compares exports and imports for January 1–March 10 in 1937 and 1938.",
+   "keywords": [
+    "foreign trade",
+    "exports",
+    "imports"
+   ]
+  },
+  {
+   "title": "Foreign trade at Kobe and Osaka",
+   "doc_type": "statistical enclosure",
+   "start_page": 326,
+   "end_page": 326,
+   "continues_previous": false,
+   "date": "",
+   "from": "American Consulate, Kobe",
+   "to": "Department of State",
+   "about": "Tabulates exports and imports at Kobe and Osaka from official customs returns.",
+   "summary": "Monthly yen values compare port exports and imports across recent years.",
+   "keywords": [
+    "customs returns",
+    "Kobe",
+    "Osaka"
+   ]
+  },
+  {
+   "title": "Exports of certain merchandise from Japan by categories",
+   "doc_type": "newspaper-derived statistical enclosure",
+   "start_page": 327,
+   "end_page": 327,
+   "continues_previous": false,
+   "date": "1938-03-13",
+   "from": "Japan Advertiser",
+   "to": "",
+   "about": "Classifies early 1938 exports by reliance on imported and domestic materials.",
+   "summary": "The table compares January–February exports with the previous year across three material-source categories.",
+   "keywords": [
+    "merchandise exports",
+    "textiles",
+    "raw materials"
+   ]
+  },
+  {
+   "title": "Employment and production in cotton mills",
+   "doc_type": "statistical enclosure",
+   "start_page": 328,
+   "end_page": 328,
+   "continues_previous": false,
+   "date": "",
+   "from": "Japan Cotton Spinners’ Association",
+   "to": "",
+   "about": "Compares cotton mill workers and yarn production in January 1937 and January 1938.",
+   "summary": "Association figures list spinning and weaving employment alongside yarn output.",
+   "keywords": [
+    "cotton mills",
+    "employment",
+    "production"
+   ]
+  },
+  {
+   "title": "Resolution opposing discrimination in import associations",
+   "doc_type": "chamber of commerce resolution",
+   "start_page": 329,
+   "end_page": 329,
+   "continues_previous": false,
+   "date": "1938-03-15",
+   "from": "Kobe and Osaka Foreign Chamber of Commerce",
+   "to": "",
+   "about": "Condemns exclusion of foreign members from commodity import associations.",
+   "summary": "The Chamber authorizes its committee to act against discriminatory import association practices.",
+   "keywords": [
+    "trade discrimination",
+    "import associations",
+    "foreign firms"
+   ]
+  },
+  {
+   "title": "Cover note for brief survey of Japan’s economic position",
+   "doc_type": "departmental memorandum",
+   "start_page": 330,
+   "end_page": 330,
+   "continues_previous": false,
+   "date": "1937-08-30",
+   "from": "Department of State, EA",
+   "to": "Under Secretary of State",
+   "about": "Introduces a requested statistical and economic survey of Japan.",
+   "summary": "The note identifies Stinebower as preparer and mentions limited reporting on the hostilities’ effects.",
+   "keywords": [
+    "economic survey",
+    "Japan",
+    "cover note"
+   ]
+  },
+  {
+   "title": "Brief survey of Japanese economic position",
+   "doc_type": "departmental economic report",
+   "start_page": 331,
+   "end_page": 339,
+   "continues_previous": false,
+   "date": "1937-08-27",
+   "from": "Department of State, International Economic Affairs",
+   "to": "",
+   "about": "Surveys Japan’s trade deficit, debt, budget, gold reserves, and balance of payments.",
+   "summary": "The report traces a sharply widening import surplus in 1937 and considers how war needs may alter trade. It reviews domestic and external debt, the difficulty of placing new bonds, budget deficits, and gold exports. It judges foreign debt service manageable while noting uncertainty about shipping and other invisible receipts.",
+   "keywords": [
+    "trade deficit",
+    "government debt",
+    "budget",
+    "gold reserves",
+    "balance of payments"
+   ]
+  },
+  {
+   "title": "Routing note on Japan statistical and economic survey",
+   "doc_type": "routing note",
+   "start_page": 340,
+   "end_page": 340,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Notes consultation concerning the statistical and economic survey of Japan.",
+   "summary": "A brief, partly illegible routing note refers to the survey and consultation with TA.",
+   "keywords": [
+    "routing",
+    "economic survey"
+   ]
+  },
+  {
+   "title": "Handwritten figures concerning Japan",
+   "doc_type": "handwritten note",
+   "start_page": 341,
+   "end_page": 341,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Records partly illegible financial figures relating to Japan.",
+   "summary": "The note contains scattered figures and references to bonds and sterling.",
+   "keywords": [
+    "Japan",
+    "bonds",
+    "financial figures"
+   ]
+  },
+  {
+   "title": "Financing threatens collapse of yen",
+   "doc_type": "press clipping",
+   "start_page": 342,
+   "end_page": 343,
+   "continues_previous": false,
+   "date": "",
+   "from": "George E. Anderson",
+   "to": "",
+   "about": "Argues that war spending and limited bond demand threaten Japanese finances and the yen.",
+   "summary": "Anderson compares Japan’s financial constraints with those of 1905, describes mounting military costs and difficulty selling government bonds, and warns of inflation or a weaker yen.",
+   "keywords": [
+    "yen",
+    "war finance",
+    "government bonds",
+    "inflation"
+   ]
+  },
+  {
+   "title": "Review of Kobe report on recent economic trends",
+   "doc_type": "departmental memorandum",
+   "start_page": 344,
+   "end_page": 345,
+   "continues_previous": false,
+   "date": "1938-06-13",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes Consul McConaughy’s April 16 report on western Japan.",
+   "summary": "The memorandum highlights rigid import controls, falling exports, exchange concentration at the Yokohama Specie Bank, gold needs, and stable but strained labor.",
+   "keywords": [
+    "import controls",
+    "exports",
+    "foreign exchange",
+    "labor"
+   ]
+  },
+  {
+   "title": "Additional information on recent economic trends in western Japan",
+   "doc_type": "consular despatch",
+   "start_page": 346,
+   "end_page": 351,
+   "continues_previous": false,
+   "date": "1938-04-16",
+   "from": "Walter P. McConaughy, American Consul, Kobe",
+   "to": "Secretary of State",
+   "about": "Updates the Department on controls, prices, gold, exports, banking, and labor.",
+   "summary": "McConaughy reports that buyers pay more for domestic materials because import and exchange permits are uncertain. Emergency taxes raise prices; gold shipments continue; exports to the United States plunge. Foreign exchange business concentrates at the Yokohama Specie Bank, while wages lag prices and exporters anticipate only a modest recovery.",
+   "keywords": [
+    "import permits",
+    "gold shipments",
+    "export decline",
+    "banking",
+    "wages"
+   ]
+  },
+  {
+   "title": "Japanese gold shipments during March and early April 1938",
+   "doc_type": "statistical enclosure",
+   "start_page": 352,
+   "end_page": 352,
+   "continues_previous": false,
+   "date": "1938-04-16",
+   "from": "Walter P. McConaughy",
+   "to": "Secretary of State",
+   "about": "Lists gold shipments to the United States in March and the first half of April.",
+   "summary": "The table totals shipments at ¥60,305,532.06.",
+   "keywords": [
+    "gold shipments",
+    "United States"
+   ]
+  },
+  {
+   "title": "Japanese declared exports to the United States and Philippine Islands",
+   "doc_type": "statistical enclosure",
+   "start_page": 353,
+   "end_page": 353,
+   "continues_previous": false,
+   "date": "1938-04-16",
+   "from": "Walter P. McConaughy",
+   "to": "Secretary of State",
+   "about": "Compares first-quarter 1937 and 1938 exports through Kobe and Osaka.",
+   "summary": "Exports declined 69.4 percent to the United States and 16.2 percent to the Philippines.",
+   "keywords": [
+    "exports",
+    "United States",
+    "Philippines"
+   ]
+  },
+  {
+   "title": "Employment in member mills of the Japan Cotton Spinners Association",
+   "doc_type": "statistical enclosure",
+   "start_page": 354,
+   "end_page": 354,
+   "continues_previous": false,
+   "date": "1938-04-16",
+   "from": "Walter P. McConaughy",
+   "to": "Secretary of State",
+   "about": "Lists monthly spinning and weaving workers and mills from January 1937 through February 1938.",
+   "summary": "The table shows spinning employment falling from its June 1937 peak.",
+   "keywords": [
+    "cotton mills",
+    "employment",
+    "spinning",
+    "weaving"
+   ]
+  },
+  {
+   "title": "Review of Kobe despatch on economic trends in western Japan",
+   "doc_type": "departmental memorandum",
+   "start_page": 355,
+   "end_page": 356,
+   "continues_previous": false,
+   "date": "1938-06-22",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Summarizes Consul Scott’s May 18 report.",
+   "summary": "The memorandum notes collapsing exports to the United States, declining real wages, high controlled prices, scarce exchange, and damage to importers’ credit.",
+   "keywords": [
+    "export decline",
+    "real wages",
+    "foreign exchange",
+    "credit"
+   ]
+  },
+  {
+   "title": "Economic trends in western Japan",
+   "doc_type": "consular despatch",
+   "start_page": 357,
+   "end_page": 363,
+   "continues_previous": false,
+   "date": "1938-05-18",
+   "from": "Winthrop R. Scott, American Consul, Kobe",
+   "to": "Secretary of State",
+   "about": "Reports continuing trade decline, price rises, labor adjustments, and severe exchange shortages.",
+   "summary": "Scott finds exports to the United States down about 85 percent in April, while domestic employment remains broadly maintained and real wages fall. Firms struggle to obtain exchange even after receiving import permission, sometimes damaging their credit with foreign suppliers. Gold exports continue, but Scott sees little evidence of a large unofficial exchange market or of popular pressure changing policy.",
+   "keywords": [
+    "exports",
+    "prices",
+    "employment",
+    "exchange shortage",
+    "gold"
+   ]
+  },
+  {
+   "title": "Declared exports to the United States and Philippine Islands, January–April",
+   "doc_type": "statistical enclosure",
+   "start_page": 364,
+   "end_page": 364,
+   "continues_previous": false,
+   "date": "1938-05-18",
+   "from": "Winthrop R. Scott",
+   "to": "Secretary of State",
+   "about": "Compares 1937 and 1938 exports through Kobe and Osaka.",
+   "summary": "Four-month exports fell about 75.6 percent to the United States and 15.5 percent to the Philippines.",
+   "keywords": [
+    "exports",
+    "United States",
+    "Philippines"
+   ]
+  },
+  {
+   "title": "Recent exports of gold bars from Kobe",
+   "doc_type": "statistical enclosure",
+   "start_page": 365,
+   "end_page": 365,
+   "continues_previous": false,
+   "date": "1938-05",
+   "from": "Winthrop R. Scott",
+   "to": "Secretary of State",
+   "about": "Lists monthly gold shipments to the United States through May 15, 1938.",
+   "summary": "The table gives a cumulative total of ¥1,024,195,874.89 since January 1937.",
+   "keywords": [
+    "gold exports",
+    "Kobe",
+    "United States"
+   ]
+  },
+  {
+   "title": "Cross-reference to Cadogan letter on possible peace terms",
+   "doc_type": "cross-reference sheet",
+   "start_page": 366,
+   "end_page": 366,
+   "continues_previous": false,
+   "date": "1938-05-23",
+   "from": "Sir Alexander Cadogan",
+   "to": "",
+   "about": "Points to a confidential letter about possible peace terms for Japan and China.",
+   "summary": "The sheet refers the reader to file 793.94/12855-3/5.",
+   "keywords": [
+    "peace terms",
+    "cross-reference",
+    "Japan",
+    "China"
+   ]
+  },
+  {
+   "title": "Japan’s economic outlook seen by Kobe foreign businessman",
+   "doc_type": "voluntary news item report",
+   "start_page": 367,
+   "end_page": 370,
+   "continues_previous": false,
+   "date": "1938-08-26",
+   "from": "L. H. Gourley, American Consul, Kobe",
+   "to": "Department of State",
+   "about": "Summarizes E. W. James’s optimistic views on Japan’s trade, credit, yen, and labor.",
+   "summary": "Gourley reports James’s argument that world conditions chiefly explain falling exports and that Japan’s credit and yen remain sound. James also sees limited disruption to daily life and sufficient workers for war industries.",
+   "keywords": [
+    "economic outlook",
+    "exports",
+    "yen",
+    "labor"
+   ]
+  },
+  {
+   "title": "Expects trade revival: Mr. E. W. James on economic outlook",
+   "doc_type": "newspaper clipping",
+   "start_page": 371,
+   "end_page": 371,
+   "continues_previous": false,
+   "date": "1938-08-24",
+   "from": "Kobe Chronicle",
+   "to": "",
+   "about": "Prints an interview in which James predicts trade recovery and rejects fears for Japan’s credit.",
+   "summary": "James discusses exports, the yen, debt, labor, foreign relations, and the war’s effects on daily life.",
+   "keywords": [
+    "E. W. James",
+    "trade revival",
+    "yen",
+    "Japanese credit"
+   ]
+  },
+  {
+   "title": "File note on problems confronting American firms in Japan",
+   "doc_type": "document file note",
+   "start_page": 372,
+   "end_page": 372,
+   "continues_previous": false,
+   "date": "1938-08-10",
+   "from": "Makinson, Osaka",
+   "to": "",
+   "about": "Directs readers to a voluntary report on problems facing American firms.",
+   "summary": "The note points to report 694.111/1 and cross-references 894.50/108.",
+   "keywords": [
+    "American firms",
+    "file reference",
+    "Osaka"
+   ]
+  },
+  {
+   "title": "Comment on Embassy analysis of economic sanctions",
+   "doc_type": "departmental memorandum",
+   "start_page": 373,
+   "end_page": 374,
+   "continues_previous": false,
+   "date": "1939-03-08",
+   "from": "Stanley K. Hornbeck, Adviser on Political Relations",
+   "to": "",
+   "about": "Critiques the Embassy’s demand for statistical proof that sanctions would collapse Japan’s economy.",
+   "summary": "Hornbeck argues that policy judgments concern predicted effects and probabilities; the Embassy’s analysis proves neither that sanctions would cause collapse nor that they would fail.",
+   "keywords": [
+    "economic sanctions",
+    "statistical proof",
+    "policy analysis"
+   ]
+  },
+  {
+   "title": "Review of Tokyo despatch on Japan’s economic vulnerability",
+   "doc_type": "departmental memorandum",
+   "start_page": 375,
+   "end_page": 378,
+   "continues_previous": false,
+   "date": "1939-03-08",
+   "from": "Department of State, Division of Far Eastern Affairs",
+   "to": "Mr. Hornbeck",
+   "about": "Evaluates the Embassy’s February 14 report on Japan’s vulnerability to sanctions.",
+   "summary": "The memorandum says the Embassy adds little new factual material on trade or gold but raises questions about earlier estimates and the strength of sanctions needed. It stresses that a complete embargo by major trading partners would be economically disastrous and that policy must weigh probabilities.",
+   "keywords": [
+    "economic vulnerability",
+    "sanctions",
+    "trade balance",
+    "gold"
+   ]
+  },
+  {
+   "title": "Japan’s economic vulnerability",
+   "doc_type": "embassy despatch",
+   "start_page": 379,
+   "end_page": 387,
+   "continues_previous": false,
+   "date": "1939-02-14",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Analyzes how possible economic sanctions might affect Japan and its yen-area trade.",
+   "summary": "The Embassy defines a yen area encompassing Japanese-controlled territory and examines official 1938 trade returns with reservations about their completeness. It calculates a ¥575 million commodity import surplus outside that area, compares it with gold shipments, and considers shipping receipts and uncertain gold reserves. The despatch continues beyond page 387.",
+   "keywords": [
+    "economic sanctions",
+    "yen area",
+    "foreign trade",
+    "gold shipments",
+    "balance of payments"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 5,
+  "sections": 8,
+  "pages": [
+   308,
+   387
+  ],
+  "pdf": "894.50 Japan, Economic Matters., March 26, 1932 - October 16, 1939 1136.pdf",
+  "seconds": 78.1,
+  "created": "2026-10-08 17:57:30",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-10"
+ }
+}

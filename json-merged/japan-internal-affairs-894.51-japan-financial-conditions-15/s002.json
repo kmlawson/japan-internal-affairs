@@ -1,0 +1,923 @@
+{
+ "section_summary": "This section moves from a 1948 table of Japanese securities to 1949 correspondence about the Dodge Mission, Japanese-owned gold, and financial stabilization. Its largest group of documents concerns Joseph Dodge’s statements on Japan’s budget and the Japanese press response. Later items address trading in Japanese dollar securities and the disposition of gold held in Japan.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japam"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyos",
+    "Takyo",
+    "Tekyo",
+    "Tekeios",
+    "Tokyc"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S.",
+    "U. S.",
+    "US",
+    "J.S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D. C.",
+    "Washington 25, D. C.",
+    "Wash",
+    "WASHINGTON. D. C.",
+    "WASHINGTON, D.C."
+   ]
+  },
+  {
+   "name": "New York",
+   "variants": [
+    "New York",
+    "NY"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "SAN FRANCISCO"
+   ]
+  },
+  {
+   "name": "California",
+   "variants": [
+    "CALIFORNIA"
+   ]
+  },
+  {
+   "name": "Detroit",
+   "variants": [
+    "Detroit"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Annecy",
+   "variants": [
+    "Annecy"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany",
+    "Germanp"
+   ]
+  },
+  {
+   "name": "Frankfurt",
+   "variants": [
+    "Frankfurt"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "variants": [
+    "Swiss"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Wellington",
+   "variants": [
+    "Wellington"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osaka",
+    "Osake",
+    "Osaia"
+   ]
+  },
+  {
+   "name": "Nanjing",
+   "variants": [
+    "Nanking"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East"
+   ]
+  },
+  {
+   "name": "Tōhoku",
+   "variants": [
+    "Tohoku"
+   ]
+  },
+  {
+   "name": "Shikoku",
+   "variants": [
+    "Shikoku"
+   ]
+  },
+  {
+   "name": "Chūgoku",
+   "variants": [
+    "Chugoku"
+   ]
+  },
+  {
+   "name": "Chūbu",
+   "variants": [
+    "Chubu",
+    "Chabu"
+   ]
+  },
+  {
+   "name": "Kansai",
+   "variants": [
+    "Kamsai"
+   ]
+  },
+  {
+   "name": "Kantō",
+   "variants": [
+    "Kanto",
+    "Kante"
+   ]
+  },
+  {
+   "name": "Kinki",
+   "variants": [
+    "Kinki"
+   ]
+  },
+  {
+   "name": "Hanshin",
+   "variants": [
+    "Hanshin"
+   ]
+  },
+  {
+   "name": "Iyo",
+   "variants": [
+    "Iyo"
+   ]
+  },
+  {
+   "name": "Iwate",
+   "variants": [
+    "Ewate",
+    "Imate"
+   ]
+  },
+  {
+   "name": "West Japan",
+   "variants": [
+    "West-Japen"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "H. Koch",
+   "role": "State Department memorandum writer",
+   "variants": [
+    "H. Koot",
+    "HKoch"
+   ]
+  },
+  {
+   "name": "Phil Claxton",
+   "role": "",
+   "variants": [
+    "Phil Claxton"
+   ]
+  },
+  {
+   "name": "Joseph M. Dodge",
+   "role": "U.S. minister and financial adviser to the Supreme Commander for the Allied Powers",
+   "variants": [
+    "Mr. Dodge",
+    "Me. Delge",
+    "Dedge",
+    "Joseph M. DODGE",
+    "Joseph M. Dodge",
+    "Joseph Dodge",
+    "Minister Dodge",
+    "Financial Adviser Dodge"
+   ]
+  },
+  {
+   "name": "H. W. Moseley",
+   "role": "State Department memorandum writer",
+   "variants": [
+    "HWMoseley"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "State Department official",
+   "variants": [
+    "Thorp",
+    "Mr. Thorp"
+   ]
+  },
+  {
+   "name": "Douglas",
+   "role": "official",
+   "variants": [
+    "Douglas"
+   ]
+  },
+  {
+   "name": "Caffery",
+   "role": "official",
+   "variants": [
+    "Caffery"
+   ]
+  },
+  {
+   "name": "McCormick",
+   "role": "State Department official",
+   "variants": [
+    "Mr. McCornick"
+   ]
+  },
+  {
+   "name": "W. Walton Butterworth",
+   "role": "Director for Far Eastern Affairs",
+   "variants": [
+    "Mr. Butterworth",
+    "E. Walton Buttarworth",
+    "W. Walton Butterworth",
+    "r. Buttersorth",
+    "r. Datterwerth"
+   ]
+  },
+  {
+   "name": "R. W. Barnett",
+   "role": "State Department official",
+   "variants": [
+    "R. W. Barnett",
+    "R. W. Barmett",
+    "Mr. Barnett",
+    "RWBarnett"
+   ]
+  },
+  {
+   "name": "William H. Draper Jr.",
+   "role": "Undersecretary of the Army",
+   "variants": [
+    "Undersecretary Draper",
+    "Underseerstary Draper"
+   ]
+  },
+  {
+   "name": "Kenneth C. Royall",
+   "role": "Secretary of the Army",
+   "variants": [
+    "Secretary Royall",
+    "Sesretary Regell"
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "role": "general and Supreme Commander for the Allied Powers",
+   "variants": [
+    "General MacArthur",
+    "General Mmcirthur",
+    "General MacARTHUR",
+    "General MacArthur",
+    "General MacARTHUR"
+   ]
+  },
+  {
+   "name": "Tracy S. Voorhees",
+   "role": "Assistant Secretary of the Army",
+   "variants": [
+    "Mr. Voorhees",
+    "Mr. Foorbees",
+    "Traey S. Voorbees",
+    "Veerhees"
+   ]
+  },
+  {
+   "name": "Robert West",
+   "role": "Office of the Assistant Secretary of the Army",
+   "variants": [
+    "Mr. Robert West",
+    "Mr. West",
+    "Nr. Yest"
+   ]
+  },
+  {
+   "name": "Bishop",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Bishop",
+    "NWB1shop"
+   ]
+  },
+  {
+   "name": "Fletcher",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Fletcher"
+   ]
+  },
+  {
+   "name": "R. A. Fearey",
+   "role": "State Department memorandum writer",
+   "variants": [
+    "RaFearey"
+   ]
+  },
+  {
+   "name": "W. J. Sebald",
+   "role": "U.S. Political Adviser for Japan",
+   "variants": [
+    "W. J. Sebald",
+    "Mr. Sebold"
+   ]
+  },
+  {
+   "name": "C. H. Boehringer",
+   "role": "despatch preparer",
+   "variants": [
+    "CHBoehringer"
+   ]
+  },
+  {
+   "name": "Peter Kalischer",
+   "role": "United Press staff correspondent",
+   "variants": [
+    "Peter Kalischer"
+   ]
+  },
+  {
+   "name": "Hjalmar Schacht",
+   "role": "German financial official",
+   "variants": [
+    "Hjalmer Schacht"
+   ]
+  },
+  {
+   "name": "Yoshida Shigeru",
+   "role": "Japanese prime minister",
+   "variants": [
+    "YOSHIDA Shigeru",
+    "Prime Minister Yoshida"
+   ]
+  },
+  {
+   "name": "W. E. Reid",
+   "role": "member of the Dodge group; Office of the Assistant Secretary of the Army",
+   "variants": [
+    "Dr. W. E. REID",
+    "Dr. Reid",
+    "RALPH W. E. REID"
+   ]
+  },
+  {
+   "name": "Ikeda Hayato",
+   "role": "Japanese finance minister",
+   "variants": [
+    "IKEDA Hayato",
+    "Finance Minister Ikeda",
+    "Minister Ikeda"
+   ]
+  },
+  {
+   "name": "Lowell R. Eklund",
+   "role": "Major, General Staff Corps; Assistant Executive",
+   "variants": [
+    "Lonsedd Eblund",
+    "LOWELL R. EKLUND",
+    "Lowell R."
+   ]
+  },
+  {
+   "name": "Mims",
+   "role": "major, as addressed in a draft reply",
+   "variants": [
+    "Majer Mims"
+   ]
+  },
+  {
+   "name": "Robert L. Eichelberger Almond",
+   "role": "major general named in Dodge’s statement",
+   "variants": [
+    "Major General Almond"
+   ]
+  },
+  {
+   "name": "Love",
+   "role": "lieutenant colonel",
+   "variants": [
+    "Lt Co1 Love"
+   ]
+  },
+  {
+   "name": "Dean Rusk",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Rusk",
+    "Rusk"
+   ]
+  },
+  {
+   "name": "Fisher",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Fisher",
+    "Fisher"
+   ]
+  },
+  {
+   "name": "Tate",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Tate",
+    "Tate"
+   ]
+  },
+  {
+   "name": "O. J. McDiarmid",
+   "role": "State Department official",
+   "variants": [
+    "Mr. O. J. McDiarmid",
+    "Mac"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese budget",
+  "Dodge Mission",
+  "Nine Point Stabilization Program",
+  "Counterpart Fund",
+  "United States aid",
+  "inflation",
+  "subsidies",
+  "Japanese gold",
+  "foreign exchange",
+  "public securities"
+ ],
+ "subfiles": [
+  {
+   "title": "Securities table attached to Tokyo despatch No. 213",
+   "doc_type": "table",
+   "start_page": 81,
+   "end_page": 82,
+   "continues_previous": true,
+   "date": "1948-04-02",
+   "from": "Tokyo",
+   "to": "Department of State",
+   "about": "Lists Japanese railway, utility, industrial and other securities with quantities, dates and values.",
+   "summary": "Continuation of an attached securities table.",
+   "keywords": [
+    "securities",
+    "railways",
+    "utilities"
+   ]
+  },
+  {
+   "title": "The Dodge Mission to Japan",
+   "doc_type": "memorandum",
+   "start_page": 83,
+   "end_page": 83,
+   "continues_previous": false,
+   "date": "",
+   "from": "H. Koch",
+   "to": "",
+   "about": "Discusses Department representation on Dodge’s mission to Japan.",
+   "summary": "Notes that no available senior officer meets Dodge’s conditions for a Department representative.",
+   "keywords": [
+    "Dodge Mission",
+    "staffing"
+   ]
+  },
+  {
+   "title": "Protocol for Japanese GATT membership",
+   "doc_type": "memorandum",
+   "start_page": 84,
+   "end_page": 84,
+   "continues_previous": false,
+   "date": "1949-03-01",
+   "from": "H. W. Moseley",
+   "to": "",
+   "about": "Reports preparations to raise a Japanese protocol at the GATT meeting in Annecy.",
+   "summary": "A separate protocol is being drafted; McCormick will answer questions from Wellington.",
+   "keywords": [
+    "GATT",
+    "Annecy",
+    "protocol"
+   ]
+  },
+  {
+   "title": "Japanese Gold Pot",
+   "doc_type": "memorandum",
+   "start_page": 85,
+   "end_page": 85,
+   "continues_previous": false,
+   "date": "1949-03-16",
+   "from": "R. W. Barnett",
+   "to": "W. Walton Butterworth",
+   "about": "Recommends opposing removal of Japanese-owned revolving-fund gold to the United States.",
+   "summary": "Barnett finds no legal bar to shipment but cites political, psychological and economic objections.",
+   "keywords": [
+    "Japanese gold",
+    "OJEIRF",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Japanese Gold Pot, duplicate copy",
+   "doc_type": "memorandum",
+   "start_page": 86,
+   "end_page": 86,
+   "continues_previous": false,
+   "date": "1949-03-16",
+   "from": "R. W. Barnett",
+   "to": "W. Walton Butterworth",
+   "about": "Duplicates Barnett’s recommendation concerning removal of the revolving-fund gold.",
+   "summary": "Duplicate of the preceding memorandum, recommending Butterworth sign the letter and draft message.",
+   "keywords": [
+    "Japanese gold",
+    "OJEIRF"
+   ]
+  },
+  {
+   "title": "Letter concerning the OJEIRF Gold Pot",
+   "doc_type": "letter",
+   "start_page": 87,
+   "end_page": 87,
+   "continues_previous": false,
+   "date": "1949-03-18",
+   "from": "W. Walton Butterworth",
+   "to": "Tracy S. Voorhees",
+   "about": "Seeks Army concurrence in a draft message advising against shipment of Japanese gold.",
+   "summary": "Butterworth forwards State’s position and proposed message to Dodge.",
+   "keywords": [
+    "Japanese gold",
+    "Army",
+    "State Department"
+   ]
+  },
+  {
+   "title": "Draft message to Dodge on transferring the Gold Pot",
+   "doc_type": "draft telegram",
+   "start_page": 88,
+   "end_page": 89,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of the Army, Washington",
+   "to": "SCAP Tokyo, personal for Dodge",
+   "about": "Sets out objections to transferring Japanese-owned gold to the United States.",
+   "summary": "The draft cites adverse political impressions, limits on returning the gold, transport and insurance costs, and little prospect of a higher U.S. assay value.",
+   "keywords": [
+    "Japanese gold",
+    "credit",
+    "transport costs"
+   ]
+  },
+  {
+   "title": "Removal of Gold Pot to United States",
+   "doc_type": "memorandum of conversation",
+   "start_page": 90,
+   "end_page": 90,
+   "continues_previous": false,
+   "date": "1949-03-25",
+   "from": "R. A. Fearey",
+   "to": "",
+   "about": "Records Robert West’s disagreement with State’s economic objections to moving the gold.",
+   "summary": "A March 28 addendum records agreement to delete the draft cable’s third paragraph.",
+   "keywords": [
+    "Japanese gold",
+    "Army",
+    "credit"
+   ]
+  },
+  {
+   "title": "Transmitting Statement on Japanese Budget by Minister Joseph M. Dodge and Editorial Comment Thereon",
+   "doc_type": "despatch",
+   "start_page": 91,
+   "end_page": 95,
+   "continues_previous": false,
+   "date": "1949-04-19",
+   "from": "W. J. Sebald, U.S. Political Adviser for Japan",
+   "to": "Secretary of State",
+   "about": "Transmits Dodge’s April 15 budget statement and reports Japanese press reactions.",
+   "summary": "The despatch outlines Dodge’s call for a balanced consolidated budget, stronger tax collection, visible and declining subsidies, and supervised use of the aid Counterpart Fund. It summarizes Japanese editorials on austerity, monetary policy and overdue government payments, concluding that fiscal reform is essential to stabilization.",
+   "keywords": [
+    "Japanese budget",
+    "Dodge",
+    "press reaction",
+    "Counterpart Fund"
+   ]
+  },
+  {
+   "title": "US Will Judge Japan by Actions, Not Words",
+   "doc_type": "newspaper clipping",
+   "start_page": 96,
+   "end_page": 96,
+   "continues_previous": false,
+   "date": "1949-04-17",
+   "from": "Peter Kalischer, United Press",
+   "to": "",
+   "about": "Reports speculation that U.S. aid might be reconsidered if Japan fails to curb deficit spending.",
+   "summary": "The article anticipates a review of Japanese stabilization efforts within six months.",
+   "keywords": [
+    "U.S. aid",
+    "stabilization",
+    "press"
+   ]
+  },
+  {
+   "title": "The Nature of the Budget",
+   "doc_type": "newspaper editorial",
+   "start_page": 97,
+   "end_page": 98,
+   "continues_previous": false,
+   "date": "1949-04-16",
+   "from": "Nippon Times",
+   "to": "",
+   "about": "Praises Dodge’s criticism of opaque budgets and subsidies.",
+   "summary": "The editorial argues that a clearer budget will help taxpayers understand fiscal policy and support lasting reform.",
+   "keywords": [
+    "Japanese budget",
+    "subsidies",
+    "editorial"
+   ]
+  },
+  {
+   "title": "Extracts from Japanese-language editorials on Dodge’s budget statement",
+   "doc_type": "translated press excerpts",
+   "start_page": 99,
+   "end_page": 104,
+   "continues_previous": false,
+   "date": "1949-04",
+   "from": "Tokyo Shimbun; Nihon Keizai; Sekai Keizai; Mainichi; Jiji Shimpo; Asahi; Yomiuri",
+   "to": "",
+   "about": "Collects Japanese newspaper responses to Dodge’s April 15 budget statement.",
+   "summary": "The editorials discuss austerity, the balanced budget, U.S. aid, subsidies, the Counterpart Fund and banknote policy. Asahi stresses overdue government payments; Yomiuri urges politicians and citizens to face Japan’s financial situation.",
+   "keywords": [
+    "editorials",
+    "austerity",
+    "budget",
+    "Counterpart Fund"
+   ]
+  },
+  {
+   "title": "Statement on the Japanese budget",
+   "doc_type": "press statement",
+   "start_page": 105,
+   "end_page": 109,
+   "continues_previous": false,
+   "date": "1949-04-15",
+   "from": "Joseph M. Dodge",
+   "to": "Japanese public",
+   "about": "Explains the balanced 1949 budget and its role in the Nine Point Stabilization Program.",
+   "summary": "Dodge describes prior deficits and concealed subsidies, calls for better tax collection and spending restraint, and explains the consolidated budget. He presents the Counterpart Fund as a supervised means to retire debt and finance productive investment without renewed inflation.",
+   "keywords": [
+    "balanced budget",
+    "subsidies",
+    "taxation",
+    "Counterpart Fund"
+   ]
+  },
+  {
+   "title": "Comment on Statement on Japanese Budget issued April 15, 1949 by Financial Adviser Dodge",
+   "doc_type": "despatch",
+   "start_page": 110,
+   "end_page": 110,
+   "continues_previous": false,
+   "date": "1949-04-20",
+   "from": "W. J. Sebald",
+   "to": "Secretary of State",
+   "about": "Reports Reid’s account of how and why Dodge’s budget statement was prepared.",
+   "summary": "Reid says Ikeda concurred and the statement was timed to Diet debate and Communist criticism.",
+   "keywords": [
+    "Dodge",
+    "Ikeda",
+    "budget"
+   ]
+  },
+  {
+   "title": "Letter forwarding Dodge press statements",
+   "doc_type": "letter",
+   "start_page": 111,
+   "end_page": 111,
+   "continues_previous": false,
+   "date": "1949-05-31",
+   "from": "Lowell R. Eklund",
+   "to": "W. Walton Butterworth",
+   "about": "Forwards copies of Dodge’s press statements at Robert West’s direction.",
+   "summary": "Cover letter for the enclosed press statements.",
+   "keywords": [
+    "Dodge",
+    "press statements"
+   ]
+  },
+  {
+   "title": "Draft acknowledgement of Dodge press statements",
+   "doc_type": "draft letter",
+   "start_page": 112,
+   "end_page": 112,
+   "continues_previous": false,
+   "date": "1949-06-03",
+   "from": "Division of Northeast Asian Affairs",
+   "to": "Major Mims",
+   "about": "Thanks the Army office for sending Dodge’s press statements.",
+   "summary": "Brief draft acknowledgement of the May 31 enclosure.",
+   "keywords": [
+    "Dodge",
+    "correspondence"
+   ]
+  },
+  {
+   "title": "Press Statements: Joseph M. Dodge",
+   "doc_type": "cover page",
+   "start_page": 113,
+   "end_page": 113,
+   "continues_previous": false,
+   "date": "",
+   "from": "Joseph M. Dodge",
+   "to": "",
+   "about": "Introduces a compilation of Dodge’s press statements.",
+   "summary": "Title page for statements by Dodge as U.S. minister and financial adviser.",
+   "keywords": [
+    "Dodge",
+    "press statements"
+   ]
+  },
+  {
+   "title": "Press statement of March 7, 1949",
+   "doc_type": "press statement",
+   "start_page": 114,
+   "end_page": 117,
+   "continues_previous": false,
+   "date": "1949-03-07",
+   "from": "Joseph M. Dodge",
+   "to": "Japanese public",
+   "about": "Addresses currency, exchange rates, inflation and Japanese economic self-support.",
+   "summary": "Dodge disavows an existing plan for currency devaluation and calls for a durable exchange rate. He urges fiscal restraint, increased production, lower costs and exports so Japan can eventually replace U.S. aid.",
+   "keywords": [
+    "currency",
+    "exchange rate",
+    "inflation",
+    "exports"
+   ]
+  },
+  {
+   "title": "Press statement of April 15, 1949",
+   "doc_type": "press statement",
+   "start_page": 118,
+   "end_page": 123,
+   "continues_previous": false,
+   "date": "1949-04-15",
+   "from": "Joseph M. Dodge",
+   "to": "Japanese public",
+   "about": "Presents Dodge’s full account of the consolidated 1949 budget and stabilization measures.",
+   "summary": "Dodge calls the balanced budget the first requirement of stabilization and explains earlier deficits, tax collection failures and subsidies hidden in foreign trade accounts. He says the new Counterpart Fund will be supervised by SCAP and used chiefly for debt retirement and productive investment.",
+   "keywords": [
+    "balanced budget",
+    "taxation",
+    "subsidies",
+    "Counterpart Fund"
+   ]
+  },
+  {
+   "title": "Press statement of May 2, 1949",
+   "doc_type": "press statement",
+   "start_page": 123,
+   "end_page": 124,
+   "continues_previous": false,
+   "date": "1949-05-02",
+   "from": "Joseph M. Dodge",
+   "to": "",
+   "about": "Acknowledges cooperation with the Dodge Mission’s stabilization work.",
+   "summary": "Dodge thanks MacArthur and his command for support and says MacArthur was kept informed of recommendations.",
+   "keywords": [
+    "Dodge Mission",
+    "SCAP",
+    "stabilization"
+   ]
+  },
+  {
+   "title": "Press statement of May 14, 1949",
+   "doc_type": "press statement",
+   "start_page": 124,
+   "end_page": 125,
+   "continues_previous": false,
+   "date": "1949-05-14",
+   "from": "Joseph M. Dodge",
+   "to": "",
+   "about": "Reviews the mission’s economic measures after Dodge’s return to San Francisco.",
+   "summary": "Dodge cites the balanced budget, reduced subsidies, Counterpart Fund, single exchange rate and tighter raw-material allocation as steps toward Japanese self-support.",
+   "keywords": [
+    "Dodge Mission",
+    "exchange rate",
+    "Japanese budget"
+   ]
+  },
+  {
+   "title": "Trading in Japanese dollar securities",
+   "doc_type": "Army message",
+   "start_page": 126,
+   "end_page": 126,
+   "continues_previous": false,
+   "date": "1949-06-24",
+   "from": "Office of the Assistant Secretary of the Army",
+   "to": "SCAP",
+   "about": "Requests SCAP’s views on resuming U.S. trading in Japanese dollar securities.",
+   "summary": "The message favors quoted markets and asks whether SCAP rules need a general license or amendment.",
+   "keywords": [
+    "Japanese bonds",
+    "securities trading",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Disposition of gold held in Japan earmarked for France and Thailand",
+   "doc_type": "memorandum of conversation",
+   "start_page": 127,
+   "end_page": 127,
+   "continues_previous": false,
+   "date": "1949-06-30",
+   "from": "",
+   "to": "",
+   "about": "Records approval of a proposed course of action for earmarked gold.",
+   "summary": "The Secretary approves the proposed letter and SCAP directive, subject to Army coordination and legal revision.",
+   "keywords": [
+    "gold",
+    "France",
+    "Thailand"
+   ]
+  },
+  {
+   "title": "Letter forwarding Dodge’s letter to Ikeda",
+   "doc_type": "letter",
+   "start_page": 128,
+   "end_page": 128,
+   "continues_previous": false,
+   "date": "1949-08-04",
+   "from": "Ralph W. E. Reid",
+   "to": "O. J. McDiarmid",
+   "about": "Forwards a Dodge letter and promises copies of its final version.",
+   "summary": "Reid sends an attachment and says Dodge is preparing the final letter to Minister Ikeda.",
+   "keywords": [
+    "Dodge",
+    "Ikeda",
+    "correspondence"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 2,
+  "sections": 7,
+  "pages": [
+   81,
+   128
+  ],
+  "pdf": "894.51 Japan, Financial Conditions. Budget. Dept. Bond Issues. Loans. Public Securities. Credits., July 9, 1947 - November 26, 1948 1678.pdf",
+  "seconds": 67.0,
+  "created": "2026-10-08 23:26:36",
+  "key": "japan-internal-affairs-894.51-japan-financial-conditions-15"
+ }
+}

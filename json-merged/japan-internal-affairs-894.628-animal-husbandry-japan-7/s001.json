@@ -1,0 +1,1616 @@
+{
+ "section_summary": "This section concerns Japanese government and fisheries training vessels seeking permission to visit American controlled ports and waters, especially in Alaska and the Aleutian Islands, in 1936–1937. Most correspondence addresses the HAKUYO MARU’s proposed calls at St. Paul Island and Dutch Harbor and the HAKUHO MARU’s proposed seal migration study in the western Aleutians. Federal departments weigh port restrictions, navigation hazards, the 1911 Fur Seals Treaty, and the diplomatic consequences of refusing visits.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japem",
+    "Japen"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U. S.",
+    "American"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D.C.",
+    "Washington, D.c."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tokio"
+   ]
+  },
+  {
+   "name": "Tokyo Bay",
+   "variants": [
+    "Tokyo Bay"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Tateyama",
+   "variants": [
+    "Tateyama"
+   ]
+  },
+  {
+   "name": "Hakodate",
+   "variants": [
+    "Hakodate"
+   ]
+  },
+  {
+   "name": "Otaru",
+   "variants": [
+    "Otaru"
+   ]
+  },
+  {
+   "name": "Ōtomari",
+   "variants": [
+    "Otomari"
+   ]
+  },
+  {
+   "name": "Kushiro",
+   "variants": [
+    "Kushiro"
+   ]
+  },
+  {
+   "name": "Ayukawa",
+   "variants": [
+    "Ayakawa"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Kuril Islands",
+   "variants": [
+    "Chishima Islands"
+   ]
+  },
+  {
+   "name": "Kagawa Prefecture",
+   "variants": [
+    "Kagawa Prefectural",
+    "Kagawa, Prefectural",
+    "Kegawa, Prefeotural"
+   ]
+  },
+  {
+   "name": "Etchūjima",
+   "variants": [
+    "Etchujima-machi",
+    "Stchujima-mechi"
+   ]
+  },
+  {
+   "name": "Fukagawa",
+   "variants": [
+    "Fukagawa-ku"
+   ]
+  },
+  {
+   "name": "Manila",
+   "variants": [
+    "Manila",
+    "Manil",
+    "Manile",
+    "Menila"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Philippine Islands",
+    "Philippine Isiands",
+    "P. I."
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "variants": [
+    "Vancouver",
+    "Van-couver"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific Ocean",
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Pacific Coast",
+   "variants": [
+    "Pacific coast"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska",
+    "Alaskan"
+   ]
+  },
+  {
+   "name": "Bering Sea",
+   "variants": [
+    "Bering Sea"
+   ]
+  },
+  {
+   "name": "Bristol Bay",
+   "variants": [
+    "Bristol Bay",
+    "Bristol Bey",
+    "Pri tol Bay"
+   ]
+  },
+  {
+   "name": "Ugashik Bay",
+   "variants": [
+    "Ugashik Bay"
+   ]
+  },
+  {
+   "name": "Pribilof Islands",
+   "variants": [
+    "Pribilof Islands",
+    "Pribilof Islande",
+    "Pribilor Islands",
+    "Pribilof Group",
+    "Pribilof alands",
+    "Pribilofs"
+   ]
+  },
+  {
+   "name": "St. Paul Island",
+   "variants": [
+    "St. Paul Island",
+    "St. Paul",
+    "St. Paml",
+    "st. Paal Island",
+    "St. Poul"
+   ]
+  },
+  {
+   "name": "Aleutian Islands",
+   "variants": [
+    "Aleutian Islands",
+    "Aloutian Islands",
+    "Alestian Islands",
+    "Aleutians"
+   ]
+  },
+  {
+   "name": "Dutch Harbor",
+   "variants": [
+    "Dutch Harbor",
+    "Dutoh Harbor",
+    "Duteh Harbor",
+    "Dutsh Karber",
+    "Dut ch Harbor"
+   ]
+  },
+  {
+   "name": "Unalaska Island",
+   "variants": [
+    "Unalaska Island",
+    "Unalaska"
+   ]
+  },
+  {
+   "name": "Kiska Island",
+   "variants": [
+    "Kiska harbor",
+    "Kiska Harbor"
+   ]
+  },
+  {
+   "name": "Attu Island",
+   "variants": [
+    "Attu Island"
+   ]
+  },
+  {
+   "name": "Chichagof Harbor",
+   "variants": [
+    "Chichagof Harbor",
+    "Chiohagof llarbor",
+    "Chieagof Harbor"
+   ]
+  },
+  {
+   "name": "Amchitka Island",
+   "variants": [
+    "Amchitka Island",
+    "Amohitka Island"
+   ]
+  },
+  {
+   "name": "Constantine Harbor",
+   "variants": [
+    "Constantine Harbor"
+   ]
+  },
+  {
+   "name": "Atka Island",
+   "variants": [
+    "Atka Island"
+   ]
+  },
+  {
+   "name": "Nazan Bay",
+   "variants": [
+    "Nazan Bay",
+    "Nasan Bay",
+    "Nasen Bay"
+   ]
+  },
+  {
+   "name": "Petropavlovsk-Kamchatsky",
+   "variants": [
+    "Petropavlovsk"
+   ]
+  },
+  {
+   "name": "Ust-Kamchatsk",
+   "variants": [
+    "Ust Kemchatsk"
+   ]
+  },
+  {
+   "name": "Kamchatka Peninsula",
+   "variants": [
+    "Kemchatsk"
+   ]
+  },
+  {
+   "name": "Commander Islands",
+   "variants": [
+    "Commander Islands",
+    "Komandorski Islands"
+   ]
+  },
+  {
+   "name": "Robben Island",
+   "variants": [
+    "Robben Island"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Rassia"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain",
+    "Greet Britain"
+   ]
+  },
+  {
+   "name": "Cape Seniavin",
+   "variants": [
+    "Cape Senevene"
+   ]
+  },
+  {
+   "name": "Juneau",
+   "variants": [
+    "Juneau"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "eattle"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "Panama Canal Zone",
+   "variants": [
+    "Panama Canal Zone"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "r. Joseph C. Grew"
+   ]
+  },
+  {
+   "name": "Yasukichi Sugiura",
+   "role": "President of the Fishery Institute",
+   "variants": [
+    "Yasukichi Sugiura",
+    "Mr. Yasukichi Sugiura"
+   ]
+  },
+  {
+   "name": "Jiemon Kida",
+   "role": "Captain of the ITOBUKI MARU",
+   "variants": [
+    "Jiemon Kida",
+    "lemon Kida"
+   ]
+  },
+  {
+   "name": "Jinzo Nakagawa",
+   "role": "Captain of the HAKUYO MARU",
+   "variants": [
+    "Jinzo Nakagawa"
+   ]
+  },
+  {
+   "name": "Arthur Garrels",
+   "role": "American Consul General at Tokyo",
+   "variants": [
+    "Arthur Garrels",
+    "GARRELS"
+   ]
+  },
+  {
+   "name": "Claude A. Swanson",
+   "role": "Secretary of the Navy",
+   "variants": [
+    "Claude A. Smanson",
+    "Clande A. Swameen",
+    "Glande ASuanson"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State; signed some documents as Acting Secretary",
+   "variants": [
+    "Cordell Hull",
+    "Cordell Hu",
+    "Cordoll Hull",
+    "Hull"
+   ]
+  },
+  {
+   "name": "Jiro Niino",
+   "role": "Japanese Agriculture and Forestry engineer commanding the HAKUHO MARU",
+   "variants": [
+    "Jiro Niino"
+   ]
+  },
+  {
+   "name": "William D. Leahy",
+   "role": "Admiral, U.S. Navy",
+   "variants": [
+    "WilliamDdeahy",
+    "WILLIAM D. LFATY",
+    "V.TTIAM D.LEAHY",
+    "Willians eahy"
+   ]
+  },
+  {
+   "name": "Harold L. Ickes",
+   "role": "Secretary of the Interior",
+   "variants": [
+    "Hawld ?. Ehs"
+   ]
+  },
+  {
+   "name": "Harry H. Woodring",
+   "role": "Secretary of War",
+   "variants": [
+    "Maly H Mo a dine",
+    "Many Noodng",
+    "Many Woodn"
+   ]
+  },
+  {
+   "name": "Daniel C. Roper",
+   "role": "Secretary of Commerce",
+   "variants": [
+    "Demiel C. Roper"
+   ]
+  },
+  {
+   "name": "Mr. Bower",
+   "role": "Bureau of Fisheries official",
+   "variants": [
+    "Mr. Bower"
+   ]
+  },
+  {
+   "name": "Commander Hill",
+   "role": "Navy Department officer",
+   "variants": [
+    "Commander Hill"
+   ]
+  },
+  {
+   "name": "Commander Hustvedt",
+   "role": "Navy Department officer",
+   "variants": [
+    "Commander Hustvedt"
+   ]
+  },
+  {
+   "name": "D. J. Shaughnessy",
+   "role": "Acting Commissioner of Immigration and Naturalization",
+   "variants": [
+    "D.. J. SHAUCNESSY"
+   ]
+  },
+  {
+   "name": "Wayne C. Taylor",
+   "role": "Assistant Secretary of the Treasury",
+   "variants": [
+    "eZayhor",
+    "Wlayne"
+   ]
+  }
+ ],
+ "keywords": [
+  "Japanese training ships",
+  "HAKUYO MARU",
+  "HAKUHO MARU",
+  "ITOBUKI MARU",
+  "Alaskan waters",
+  "Aleutian Islands",
+  "St. Paul Island",
+  "Dutch Harbor",
+  "fur seals",
+  "1911 Fur Seals Treaty",
+  "ports of entry",
+  "diplomatic permission"
+ ],
+ "subfiles": [
+  {
+   "title": "Thanks for treatment of the SHIROTAKA MARU",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1936-12-02",
+   "from": "Joseph C. Grew, American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Transmits the Fishery Institute’s thanks for courtesies shown its training ship at American Pacific ports.",
+   "summary": "Grew forwards a translated letter and connects the visit to a consular report about Japanese fishing off the northwest coast.",
+   "keywords": [
+    "SHIROTAKA MARU",
+    "training ship",
+    "Pacific ports"
+   ]
+  },
+  {
+   "title": "Fishery Institute letter of thanks",
+   "doc_type": "translated letter",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1936-11-21",
+   "from": "Yasukichi Sugiura",
+   "to": "Joseph C. Grew",
+   "about": "Thanks American authorities for assistance to the training ship during its Pacific cruise.",
+   "summary": "Sugiura reports the ship’s safe return to Tokyo Bay after visiting Kiska and other American ports.",
+   "keywords": [
+    "SHIROTAKA MARU",
+    "Kiska",
+    "training cruise"
+   ]
+  },
+  {
+   "title": "Proposed ITOBUKI MARU visit to Manila",
+   "doc_type": "diplomatic note",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1937-02-17",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests permission and customary facilities for the ITOBUKI MARU to visit Manila.",
+   "summary": "The note identifies Captain Jiemon Kida, an eighteen member crew, and an expected early March arrival.",
+   "keywords": [
+    "ITOBUKI MARU",
+    "Manila",
+    "permission"
+   ]
+  },
+  {
+   "title": "ITOBUKI MARU notice to Navy",
+   "doc_type": "departmental note",
+   "start_page": 4,
+   "end_page": 4,
+   "continues_previous": false,
+   "date": "1937-02",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Advises Navy of the proposed Manila visit and requests usual courtesies.",
+   "summary": "Confirms a telephone notification about the Japanese fisheries vessel.",
+   "keywords": [
+    "ITOBUKI MARU",
+    "Navy",
+    "Manila"
+   ]
+  },
+  {
+   "title": "ITOBUKI MARU notice to War Department",
+   "doc_type": "departmental note",
+   "start_page": 5,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1937-02",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Seeks War Department concurrence in the proposed Manila visit.",
+   "summary": "Confirms a telephone inquiry and notes that Navy has also been advised.",
+   "keywords": [
+    "ITOBUKI MARU",
+    "War Department",
+    "Manila"
+   ]
+  },
+  {
+   "title": "Reply on ITOBUKI MARU’s Manila visit",
+   "doc_type": "diplomatic note",
+   "start_page": 6,
+   "end_page": 7,
+   "continues_previous": false,
+   "date": "1937-02-28",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the requested Manila visit and promises customary facilities.",
+   "summary": "State says arrangements are underway and asks for the vessel’s exact arrival date.",
+   "keywords": [
+    "ITOBUKI MARU",
+    "Manila",
+    "arrival date"
+   ]
+  },
+  {
+   "title": "Navy concurrence on ITOBUKI MARU",
+   "doc_type": "letter",
+   "start_page": 8,
+   "end_page": 8,
+   "continues_previous": false,
+   "date": "1937-02-26",
+   "from": "Navy Department",
+   "to": "Secretary of State",
+   "about": "States that Navy has no objection to the Manila visit.",
+   "summary": "Naval officials will be notified to extend customary courtesies.",
+   "keywords": [
+    "ITOBUKI MARU",
+    "Navy",
+    "courtesies"
+   ]
+  },
+  {
+   "title": "War Department arrangements for ITOBUKI MARU",
+   "doc_type": "letter",
+   "start_page": 9,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1937-02-25",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Reports instructions to extend facilities to the vessel in Manila.",
+   "summary": "The Philippine Department was notified by radiogram; insular affairs officials were also informed.",
+   "keywords": [
+    "ITOBUKI MARU",
+    "Philippines",
+    "War Department"
+   ]
+  },
+  {
+   "title": "HAKUYO MARU proposed Alaskan itinerary",
+   "doc_type": "diplomatic note",
+   "start_page": 10,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1937-03-13",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests permission for the HAKUYO MARU to visit Bristol Bay, St. Paul Island, and Dutch Harbor.",
+   "summary": "The ambassador supplies June and July dates, Captain Jinzo Nakagawa’s command, and the numbers of crew and students.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Alaska",
+    "itinerary"
+   ]
+  },
+  {
+   "title": "Navy consultation on HAKUYO MARU",
+   "doc_type": "departmental note",
+   "start_page": 12,
+   "end_page": 12,
+   "continues_previous": false,
+   "date": "1937-03-22",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Requests Navy’s advice on the proposed Alaskan calls and port of entry restrictions.",
+   "summary": "State encloses the Japanese request and cites its October 1936 circular.",
+   "keywords": [
+    "HAKUYO MARU",
+    "ports of entry",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Interim acknowledgment of HAKUYO MARU request",
+   "doc_type": "diplomatic note",
+   "start_page": 13,
+   "end_page": 13,
+   "continues_previous": false,
+   "date": "1937-03-22",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the proposed cruise while federal departments consider it.",
+   "summary": "State promises a further reply after consulting interested departments.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Alaska",
+    "consultation"
+   ]
+  },
+  {
+   "title": "Agriculture notice of Dutch Harbor call",
+   "doc_type": "departmental note",
+   "start_page": 14,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Requests usual courtesies for the HAKUYO MARU at Dutch Harbor.",
+   "summary": "The expected call is July 14–17.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "courtesies"
+   ]
+  },
+  {
+   "title": "Commerce notice of Dutch Harbor call",
+   "doc_type": "departmental note",
+   "start_page": 15,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Requests usual courtesies for the HAKUYO MARU at Dutch Harbor.",
+   "summary": "The expected call is July 14–17.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Interior notice of Dutch Harbor call",
+   "doc_type": "departmental note",
+   "start_page": 16,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Requests usual courtesies for the HAKUYO MARU at Dutch Harbor.",
+   "summary": "Other interested departments received similar notices.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Labor notice of Dutch Harbor call",
+   "doc_type": "departmental note",
+   "start_page": 17,
+   "end_page": 17,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Requests usual courtesies for the HAKUYO MARU at Dutch Harbor.",
+   "summary": "The note concerns the expected July visit.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "Labor"
+   ]
+  },
+  {
+   "title": "War notice of Dutch Harbor call",
+   "doc_type": "departmental note",
+   "start_page": 18,
+   "end_page": 18,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Requests usual courtesies for the HAKUYO MARU at Dutch Harbor.",
+   "summary": "The expected call is July 14–17.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Treasury notice of Dutch Harbor call",
+   "doc_type": "departmental note",
+   "start_page": 19,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests usual courtesies for the HAKUYO MARU at Dutch Harbor.",
+   "summary": "Other federal departments received similar notices.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Navy asks why HAKUYO MARU seeks St. Paul",
+   "doc_type": "letter",
+   "start_page": 20,
+   "end_page": 20,
+   "continues_previous": false,
+   "date": "1937-03-26",
+   "from": "Claude A. Swanson",
+   "to": "Secretary of State",
+   "about": "Questions the proposed call at a harbor outside the listed ports of entry.",
+   "summary": "Navy asks for detailed reasons for the St. Paul visit before commenting on the cruise.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "ports of entry"
+   ]
+  },
+  {
+   "title": "Request for reasons for St. Paul visit",
+   "doc_type": "diplomatic note",
+   "start_page": 21,
+   "end_page": 22,
+   "continues_previous": false,
+   "date": "1937-03-30",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Asks Japan to explain the proposed HAKUYO MARU visit to St. Paul Island.",
+   "summary": "State cites its circular governing foreign public vessel visits to harbors that are not ports of entry.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "port restrictions"
+   ]
+  },
+  {
+   "title": "Consular report on HAKUYO MARU’s planned cruise",
+   "doc_type": "despatch",
+   "start_page": 23,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1937-03-16",
+   "from": "Arthur Garrels, American Consulate General, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports proposed calls at closed Alaskan ports and requests instructions on consular documents.",
+   "summary": "Garrels forwards the Institute’s letter and itinerary. He notes thirty days allotted to fishing and investigation in Bristol Bay and asks for a telegraphic decision on visas and the bill of health.",
+   "keywords": [
+    "HAKUYO MARU",
+    "consular visa",
+    "Bristol Bay"
+   ]
+  },
+  {
+   "title": "Fishery Institute request for cruise documents",
+   "doc_type": "translated letter",
+   "start_page": 25,
+   "end_page": 25,
+   "continues_previous": false,
+   "date": "1937-03-08",
+   "from": "Yasukichi Sugiura",
+   "to": "American Ambassador, Tokyo",
+   "about": "Requests free certification of the HAKUYO MARU’s crew list and bill of health.",
+   "summary": "Sugiura describes training aims and planned study landings at St. Paul and Dutch Harbor.",
+   "keywords": [
+    "HAKUYO MARU",
+    "crew list",
+    "bill of health"
+   ]
+  },
+  {
+   "title": "Fourteenth voyage schedule of HAKUYO MARU",
+   "doc_type": "itinerary",
+   "start_page": 26,
+   "end_page": 26,
+   "continues_previous": false,
+   "date": "",
+   "from": "Fishery Institute",
+   "to": "American Embassy, Tokyo",
+   "about": "Lists ports and dates for the training ship’s 1937 Pacific and Bering Sea voyage.",
+   "summary": "The schedule assigns thirty days to fishing and investigation in Bristol Bay.",
+   "keywords": [
+    "HAKUYO MARU",
+    "itinerary",
+    "Bristol Bay"
+   ]
+  },
+  {
+   "title": "Consular reply to Sugiura",
+   "doc_type": "letter",
+   "start_page": 27,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1937-03-16",
+   "from": "Arthur Garrels",
+   "to": "Yasukichi Sugiura",
+   "about": "Explains that visits to closed Alaskan ports require diplomatic approval.",
+   "summary": "Consular documents can be issued without charge once authorization is received.",
+   "keywords": [
+    "HAKUYO MARU",
+    "visas",
+    "closed ports"
+   ]
+  },
+  {
+   "title": "HAKUYO MARU itinerary sent to Commerce",
+   "doc_type": "departmental note",
+   "start_page": 28,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1937-05-14",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Forwards Sugiura’s letter and voyage schedule to the Bureau of Fisheries.",
+   "summary": "The enclosures supplement the proposed Dutch Harbor visit.",
+   "keywords": [
+    "HAKUYO MARU",
+    "itinerary",
+    "Commerce"
+   ]
+  },
+  {
+   "title": "Initial consular notice limiting visit",
+   "doc_type": "outgoing telegram",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1937-05-14",
+   "from": "Secretary of State",
+   "to": "American Consul, Tokyo",
+   "about": "Advises that the HAKUYO MARU may visit Dutch Harbor only.",
+   "summary": "Replies to Garrels’s March 16 despatch.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "permission"
+   ]
+  },
+  {
+   "title": "Internal distinction between Japanese vessels",
+   "doc_type": "memorandum",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "1937-04-12",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Records agreement to distinguish seal protection vessel HAKUHO MARU from training ship HAKUYO MARU.",
+   "summary": "Bower and Commander Hill concurred in the proposed distinction.",
+   "keywords": [
+    "HAKUHO MARU",
+    "HAKUYO MARU",
+    "St. Paul Island"
+   ]
+  },
+  {
+   "title": "State’s proposed denial of HAKUYO MARU’s St. Paul call",
+   "doc_type": "letter",
+   "start_page": 31,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1937-04-16",
+   "from": "Cordell Hull",
+   "to": "Claude A. Swanson",
+   "about": "Seeks Navy’s view on denying the HAKUYO MARU permission to visit St. Paul.",
+   "summary": "State argues that the training ship’s proposed seal breeding study does not fall within the 1911 treaty, unlike a possible visit by the Japanese seal protection vessel. It also recounts a complaint about HAKUYO MARU officers boarding an American fishing vessel in 1934.",
+   "keywords": [
+    "HAKUYO MARU",
+    "fur seals",
+    "St. Paul Island",
+    "fishing complaint"
+   ]
+  },
+  {
+   "title": "Confidential HAKUYO MARU papers to Navy",
+   "doc_type": "departmental note",
+   "start_page": 34,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1937-05-14",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards State’s reply to Japan and the vessel’s detailed voyage schedule.",
+   "summary": "State highlights the thirty days planned for Bristol Bay fishing and investigation.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Navy",
+    "Bristol Bay"
+   ]
+  },
+  {
+   "title": "Japanese explanation of St. Paul research",
+   "doc_type": "diplomatic note",
+   "start_page": 35,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1937-04-06",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Explains that the St. Paul call would study seal breeding and protection facilities.",
+   "summary": "Japan proposes comparing American practices with those in Japan.",
+   "keywords": [
+    "HAKUYO MARU",
+    "fur seals",
+    "St. Paul Island"
+   ]
+  },
+  {
+   "title": "State’s initial decision on HAKUYO MARU cruise",
+   "doc_type": "diplomatic note",
+   "start_page": 36,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Rejects St. Paul and Bristol Bay access while approving Dutch Harbor.",
+   "summary": "State cites hazardous Bristol Bay navigation and asks the vessel to stay out of territorial waters there. It holds that a training ship’s St. Paul study is outside the Fur Seals Treaty’s purpose. Dutch Harbor is approved for July 14–17 with customary facilities.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Bristol Bay",
+    "St. Paul Island",
+    "Dutch Harbor"
+   ]
+  },
+  {
+   "title": "HAKUHO MARU request for western Aleutian calls",
+   "doc_type": "diplomatic note",
+   "start_page": 39,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1937-04-24",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests calls at three Aleutian harbors to investigate fur seal migration.",
+   "summary": "The note gives proposed June and July calls at Chichagof Harbor, Constantine Harbor, and Nazan Bay, and invokes the 1911 Fur Seals Convention.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Aleutian Islands",
+    "seal migration"
+   ]
+  },
+  {
+   "title": "Commerce consultation on HAKUHO MARU",
+   "doc_type": "departmental note",
+   "start_page": 41,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1937-05-03",
+   "from": "Secretary of State",
+   "to": "Secretary of Commerce",
+   "about": "Seeks advice on the proposed HAKUHO MARU visits to western Aleutian harbors.",
+   "summary": "State forwards the Japanese request and its treaty rationale.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Commerce",
+    "fur seals"
+   ]
+  },
+  {
+   "title": "Interior consultation on HAKUHO MARU",
+   "doc_type": "departmental note",
+   "start_page": 42,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1937-05-03",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Seeks advice on the proposed HAKUHO MARU visits to western Aleutian harbors.",
+   "summary": "State forwards Japan’s seal migration rationale.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Interior",
+    "Aleutians"
+   ]
+  },
+  {
+   "title": "Navy consultation on HAKUHO MARU",
+   "doc_type": "departmental note",
+   "start_page": 43,
+   "end_page": 43,
+   "continues_previous": false,
+   "date": "1937-04-28",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Seeks Navy’s view of HAKUHO MARU’s proposed western Aleutian calls.",
+   "summary": "The Japanese treaty based request is enclosed.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Navy",
+    "Aleutians"
+   ]
+  },
+  {
+   "title": "Treasury consultation on HAKUHO MARU",
+   "doc_type": "departmental note",
+   "start_page": 44,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1937-05-03",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Seeks Treasury’s view of the proposed western Aleutian calls.",
+   "summary": "State summarizes Japan’s request for an exception to port restrictions.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Treasury",
+    "ports of entry"
+   ]
+  },
+  {
+   "title": "War consultation on HAKUHO MARU",
+   "doc_type": "departmental note",
+   "start_page": 45,
+   "end_page": 45,
+   "continues_previous": false,
+   "date": "1937-05-03",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Seeks War Department advice on the proposed western Aleutian calls.",
+   "summary": "The request concerns investigation of seal migration.",
+   "keywords": [
+    "HAKUHO MARU",
+    "War Department",
+    "seal migration"
+   ]
+  },
+  {
+   "title": "Acknowledgment of HAKUHO MARU request",
+   "doc_type": "diplomatic note",
+   "start_page": 46,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1937-04",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Acknowledges the requested HAKUHO MARU calls pending departmental consultation.",
+   "summary": "State promises an early substantive reply.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Aleutians",
+    "consultation"
+   ]
+  },
+  {
+   "title": "State’s denial of western Aleutian calls",
+   "doc_type": "diplomatic note",
+   "start_page": 47,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1937-05",
+   "from": "Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Withholds permission for HAKUHO MARU to enter three western Aleutian harbors.",
+   "summary": "State finds no evidence that the harbors lie on fur seal migration routes or fall within the treaty’s intended research access. It offers to reconsider if future American investigation establishes that seals visit them.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Aleutian harbors",
+    "fur seals",
+    "denial"
+   ]
+  },
+  {
+   "title": "Navy concurrence in St. Paul denial",
+   "doc_type": "letter",
+   "start_page": 50,
+   "end_page": 50,
+   "continues_previous": false,
+   "date": "1937-04-28",
+   "from": "William D. Leahy",
+   "to": "Secretary of State",
+   "about": "Agrees with State’s proposed refusal of HAKUYO MARU’s St. Paul call.",
+   "summary": "Navy reports complete agreement with the proposed reply.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Navy advice on HAKUYO MARU’s cruise",
+   "doc_type": "letter",
+   "start_page": 51,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1937-05-03",
+   "from": "William D. Leahy",
+   "to": "Secretary of State",
+   "about": "Approves Dutch Harbor but advises against Bristol Bay territorial waters.",
+   "summary": "Navy cites the absence of ports of entry and dangerous navigation in Bristol Bay.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "Bristol Bay"
+   ]
+  },
+  {
+   "title": "Commerce assessment of Japanese vessel requests",
+   "doc_type": "letter",
+   "start_page": 52,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1937-05-10",
+   "from": "Assistant Secretary of Commerce",
+   "to": "Secretary of State",
+   "about": "Assesses seal research claims and diplomatic consequences of refusing Japanese vessel calls.",
+   "summary": "Commerce finds no evidence of fur seals at the three requested western Aleutian harbors, but urges care because Japan could seek to alter the advantageous 1911 treaty. It recounts earlier Japanese visits and suggests allowing one vessel to visit the Pribilofs. It also notes concern over Japanese fishing near Alaska.",
+   "keywords": [
+    "fur seals",
+    "HAKUHO MARU",
+    "HAKUYO MARU",
+    "treaty policy",
+    "salmon fisheries"
+   ]
+  },
+  {
+   "title": "Navy opposition to HAKUHO MARU harbor visits",
+   "doc_type": "letter",
+   "start_page": 55,
+   "end_page": 55,
+   "continues_previous": false,
+   "date": "1937-05-11",
+   "from": "William D. Leahy",
+   "to": "Secretary of State",
+   "about": "Recommends denying HAKUHO MARU access to three Aleutian harbors.",
+   "summary": "Navy cites dangerous, unlisted harbors and a lack of seal breeding grounds or major migration routes.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Navy",
+    "Aleutian harbors"
+   ]
+  },
+  {
+   "title": "Interior opposition to HAKUHO MARU harbor visits",
+   "doc_type": "letter",
+   "start_page": 56,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1937-05-13",
+   "from": "Harold L. Ickes",
+   "to": "Secretary of State",
+   "about": "Finds insufficient grounds to permit the proposed seal migration study calls.",
+   "summary": "Interior sees neither useful migration data nor a treaty right to enter the listed harbors.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Interior",
+    "fur seals"
+   ]
+  },
+  {
+   "title": "Interior arrangements for Dutch Harbor",
+   "doc_type": "letter",
+   "start_page": 57,
+   "end_page": 57,
+   "continues_previous": false,
+   "date": "1937-05-15",
+   "from": "Secretary of the Interior",
+   "to": "Secretary of State",
+   "about": "Reports arrangements for HAKUYO MARU’s expected Dutch Harbor visit.",
+   "summary": "The Governor of Alaska was told to make available facilities under his control.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "Alaska"
+   ]
+  },
+  {
+   "title": "War Department response on Dutch Harbor",
+   "doc_type": "letter",
+   "start_page": 58,
+   "end_page": 58,
+   "continues_previous": false,
+   "date": "",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Explains War Department jurisdiction regarding HAKUYO MARU’s Dutch Harbor visit.",
+   "summary": "War has no Aleutian jurisdiction but informs its Ninth Corps Area commander.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "War Department"
+   ]
+  },
+  {
+   "title": "War Department opposition to HAKUHO MARU",
+   "doc_type": "letter",
+   "start_page": 59,
+   "end_page": 59,
+   "continues_previous": false,
+   "date": "1937-05-19",
+   "from": "Secretary of War",
+   "to": "Secretary of State",
+   "about": "Recommends denying HAKUHO MARU’s proposed western Aleutian visits.",
+   "summary": "War cites closed, hazardous harbors outside known seal breeding or migration areas.",
+   "keywords": [
+    "HAKUHO MARU",
+    "War Department",
+    "denial"
+   ]
+  },
+  {
+   "title": "Customs authorization for Dutch Harbor",
+   "doc_type": "letter",
+   "start_page": 60,
+   "end_page": 60,
+   "continues_previous": false,
+   "date": "1937-05-21",
+   "from": "Treasury Department",
+   "to": "Secretary of State",
+   "about": "Authorizes customs courtesies for HAKUYO MARU’s Dutch Harbor call.",
+   "summary": "The collector at Juneau is being instructed accordingly.",
+   "keywords": [
+    "HAKUYO MARU",
+    "customs",
+    "Dutch Harbor"
+   ]
+  },
+  {
+   "title": "Telephone note on St. Paul approval",
+   "doc_type": "file memorandum",
+   "start_page": 61,
+   "end_page": 61,
+   "continues_previous": false,
+   "date": "1937-05-26",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Confirms Navy has no objection to HAKUYO MARU visiting St. Paul Island.",
+   "summary": "Commander Hustvedt confirmed the position while covering Commander Hill’s duties.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Navy"
+   ]
+  },
+  {
+   "title": "Request for departmental notifications",
+   "doc_type": "routing note",
+   "start_page": 62,
+   "end_page": 62,
+   "continues_previous": false,
+   "date": "1937-05-26",
+   "from": "Division of Far Eastern Affairs",
+   "to": "",
+   "about": "Requests notices to the departments concerned with the revised decision.",
+   "summary": "An internal instruction to issue necessary notifications.",
+   "keywords": [
+    "notifications",
+    "HAKUYO MARU"
+   ]
+  },
+  {
+   "title": "Renewed Japanese request for St. Paul visit",
+   "doc_type": "diplomatic note",
+   "start_page": 63,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "1937-05-22",
+   "from": "Japanese Ambassador",
+   "to": "Secretary of State",
+   "about": "Asks the United States to reconsider HAKUYO MARU’s St. Paul visit.",
+   "summary": "The ambassador explains that the Institute is linked to Japan’s Agriculture and Forestry Department and trains graduates who may carry out fur seal treaty duties. Students seek to observe breeding conditions and protection facilities.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "fur seals",
+    "reconsideration"
+   ]
+  },
+  {
+   "title": "Consular notice of St. Paul permission",
+   "doc_type": "outgoing telegram",
+   "start_page": 65,
+   "end_page": 65,
+   "continues_previous": false,
+   "date": "1937-06-02",
+   "from": "Secretary of State",
+   "to": "American Consul, Tokyo",
+   "about": "Advises that HAKUYO MARU may visit St. Paul as well as Dutch Harbor.",
+   "summary": "Revises the earlier Dutch Harbor only instruction.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "permission"
+   ]
+  },
+  {
+   "title": "Agriculture notice of revised permission",
+   "doc_type": "departmental note",
+   "start_page": 66,
+   "end_page": 66,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Secretary of State",
+   "to": "Secretary of Agriculture",
+   "about": "Requests courtesies for HAKUYO MARU’s newly approved St. Paul visit.",
+   "summary": "The notice supplements the earlier Dutch Harbor request.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Agriculture"
+   ]
+  },
+  {
+   "title": "Commerce informed of St. Paul reconsideration",
+   "doc_type": "letter",
+   "start_page": 67,
+   "end_page": 68,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Cordell Hull",
+   "to": "Daniel C. Roper",
+   "about": "Reports State’s decision to allow HAKUYO MARU to visit St. Paul.",
+   "summary": "State cites Japan’s fuller explanation, Commerce’s suggestion, and interdepartmental discussions. The permission is expressly not a precedent.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Commerce",
+    "precedent"
+   ]
+  },
+  {
+   "title": "Interior notice of revised permission",
+   "doc_type": "departmental note",
+   "start_page": 69,
+   "end_page": 69,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Secretary of State",
+   "to": "Secretary of the Interior",
+   "about": "Requests courtesies for HAKUYO MARU’s approved St. Paul call.",
+   "summary": "The notice supplements the Dutch Harbor arrangements.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Interior"
+   ]
+  },
+  {
+   "title": "Navy informed of St. Paul reconsideration",
+   "doc_type": "letter",
+   "start_page": 70,
+   "end_page": 71,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Cordell Hull",
+   "to": "Claude A. Swanson",
+   "about": "Explains the reversal of State’s proposed refusal of HAKUYO MARU’s St. Paul call.",
+   "summary": "State cites Japan’s further explanation, Commerce’s advice, and a May 19 interdepartmental conversation. The ambassador will be told the approval creates no precedent.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Navy",
+    "reconsideration"
+   ]
+  },
+  {
+   "title": "Treasury notice of revised permission",
+   "doc_type": "departmental note",
+   "start_page": 72,
+   "end_page": 72,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Secretary of State",
+   "to": "Secretary of the Treasury",
+   "about": "Requests courtesies for HAKUYO MARU’s approved St. Paul call.",
+   "summary": "The planned visit is July 12–13.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "War notice of revised permission",
+   "doc_type": "departmental note",
+   "start_page": 73,
+   "end_page": 73,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Secretary of State",
+   "to": "Secretary of War",
+   "about": "Requests courtesies for HAKUYO MARU’s approved St. Paul call.",
+   "summary": "The notice supplements the earlier Dutch Harbor request.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "War Department"
+   ]
+  },
+  {
+   "title": "Labor notice of revised permission",
+   "doc_type": "departmental note",
+   "start_page": 74,
+   "end_page": 74,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Secretary of State",
+   "to": "Secretary of Labor",
+   "about": "Requests courtesies for HAKUYO MARU’s approved St. Paul call.",
+   "summary": "The planned visit is July 12–13.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "Labor"
+   ]
+  },
+  {
+   "title": "Embassy briefing on Japanese vessel visits",
+   "doc_type": "cover letter",
+   "start_page": 75,
+   "end_page": 75,
+   "continues_previous": false,
+   "date": "1937-06-04",
+   "from": "Department of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "Sends copies of notes and interdepartmental letters on Japanese vessels in Alaskan waters.",
+   "summary": "An informational transmittal to the embassy.",
+   "keywords": [
+    "Alaskan waters",
+    "Japanese vessels",
+    "correspondence"
+   ]
+  },
+  {
+   "title": "Final consent for HAKUYO MARU at St. Paul",
+   "doc_type": "diplomatic note",
+   "start_page": 76,
+   "end_page": 76,
+   "continues_previous": false,
+   "date": "1937-06-01",
+   "from": "Acting Secretary of State",
+   "to": "Japanese Ambassador",
+   "about": "Grants HAKUYO MARU a July 12–13 St. Paul visit.",
+   "summary": "Customary facilities will be provided; the consent is not a precedent.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "permission"
+   ]
+  },
+  {
+   "title": "Immigration notice for Dutch Harbor visit",
+   "doc_type": "letter",
+   "start_page": 77,
+   "end_page": 77,
+   "continues_previous": false,
+   "date": "1937-05-26",
+   "from": "D. J. Shaughnessy",
+   "to": "Secretary of State",
+   "about": "Reports immigration officials’ notification of HAKUYO MARU’s Dutch Harbor visit.",
+   "summary": "The service is advising its Seattle representative.",
+   "keywords": [
+    "HAKUYO MARU",
+    "immigration",
+    "Dutch Harbor"
+   ]
+  },
+  {
+   "title": "Consular telegram on amended ship documents",
+   "doc_type": "incoming telegram",
+   "start_page": 78,
+   "end_page": 78,
+   "continues_previous": false,
+   "date": "1937-06-03",
+   "from": "Arthur Garrels, Tokyo",
+   "to": "Secretary of State",
+   "about": "Suggests telegraphing St. Paul authority to accept amended HAKUYO MARU documents.",
+   "summary": "The ship had already left Japanese waters when St. Paul permission arrived.",
+   "keywords": [
+    "HAKUYO MARU",
+    "St. Paul Island",
+    "bill of health",
+    "crew list"
+   ]
+  },
+  {
+   "title": "Treasury’s conditional response on HAKUHO MARU",
+   "doc_type": "letter",
+   "start_page": 79,
+   "end_page": 79,
+   "continues_previous": false,
+   "date": "1937-06-03",
+   "from": "Wayne C. Taylor, Treasury Department",
+   "to": "Secretary of State",
+   "about": "Offers customs courtesies if other departments approve HAKUHO MARU’s Aleutian calls.",
+   "summary": "Treasury would instruct the Juneau collector upon notice of approval.",
+   "keywords": [
+    "HAKUHO MARU",
+    "Treasury",
+    "customs"
+   ]
+  },
+  {
+   "title": "Commerce waiver for HAKUYO MARU at Dutch Harbor",
+   "doc_type": "letter",
+   "start_page": 80,
+   "end_page": 80,
+   "continues_previous": false,
+   "date": "1937-06-07",
+   "from": "Assistant Secretary of Commerce",
+   "to": "Secretary of State",
+   "about": "Waives entry, clearance, fees, and tonnage tax for the Dutch Harbor call.",
+   "summary": "The Juneau customs collector is being notified.",
+   "keywords": [
+    "HAKUYO MARU",
+    "Dutch Harbor",
+    "fees",
+    "tonnage tax"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 3,
+  "pages": [
+   1,
+   80
+  ],
+  "pdf": "894.628 Animal Husbandry., Japan, Fisheries. Sponges. Sponge Fisheries., December 2, 1936 - May 24, 1939 1101.pdf",
+  "seconds": 80.0,
+  "created": "2026-10-08 23:35:20",
+  "key": "japan-internal-affairs-894.628-animal-husbandry-japan-7"
+ }
+}

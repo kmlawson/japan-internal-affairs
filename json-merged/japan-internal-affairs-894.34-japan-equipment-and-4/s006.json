@@ -1,0 +1,1582 @@
+{
+ "section_summary": "This section records Japanese notifications under the 1930 London Naval Treaty about destroyers and a minelayer, alongside American acknowledgments and Navy Department copies. It then follows reports and diplomatic exchanges about Japanese battleship construction, especially whether the training ship Hiyei was being remilitarized. Later documents concern naval fuel purchases, vessels reportedly built in France, a Japanese Navy purchasing office in New York, steelmaking equipment, and Japan’s 1939 naval estimates.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jaan",
+    "Jadan",
+    "JAFAN",
+    "Japanese Empire"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "United states",
+    "U. S.",
+    "USA",
+    "U.S."
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "WASHTNGN, D.C.",
+    "WASHINGTON",
+    "Washington, D.C."
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "TOKYO",
+    "Tokio",
+    "Toxyo",
+    "Tokye"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "NEW YORK",
+    "New York City",
+    "York"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure",
+    "kure",
+    "rure",
+    "ure"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Riga",
+   "variants": [
+    "Riga",
+    "R1ga",
+    "Rige"
+   ]
+  },
+  {
+   "name": "Latvia",
+   "variants": [
+    "Latvia"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Pacifio",
+    "Pao:fic",
+    "Stillen Ezean",
+    "Etillen Ezean",
+    "Bazifif"
+   ]
+  },
+  {
+   "name": "Midway Island",
+   "variants": [
+    "Midway Island",
+    "Midiwah Infel"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines",
+    "Bhilipptnen"
+   ]
+  },
+  {
+   "name": "Panama Canal",
+   "variants": [
+    "Panama Canal",
+    "Banama-Kanal",
+    "Banama-kanal"
+   ]
+  },
+  {
+   "name": "Bonin Islands",
+   "variants": [
+    "Bonin-Jnfeln"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Sawail"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Bearl Sarbor"
+   ]
+  },
+  {
+   "name": "Strait of Magellan",
+   "variants": [
+    "Straits of Magellan",
+    "Magalhàes-Straße",
+    "Dagalihàes-Straße"
+   ]
+  },
+  {
+   "name": "South Seas",
+   "variants": [
+    "South Seas region"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain",
+    "Großbritannien",
+    "Greet Britain"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "United Kin do."
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London",
+    "Lo do."
+   ]
+  },
+  {
+   "name": "Netherlands East Indies",
+   "variants": [
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy",
+    "ITALY"
+   ]
+  },
+  {
+   "name": "Rome",
+   "variants": [
+    "Rome"
+   ]
+  },
+  {
+   "name": "Spain",
+   "variants": [
+    "Spain"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "German"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Enst"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong-Kong"
+   ]
+  },
+  {
+   "name": "Singapore",
+   "variants": [
+    "Singapore"
+   ]
+  },
+  {
+   "name": "Caroline Islands",
+   "variants": [
+    "Carolines"
+   ]
+  },
+  {
+   "name": "Mariana Islands",
+   "variants": [
+    "Marianne islends"
+   ]
+  },
+  {
+   "name": "Brooklyn",
+   "variants": [
+    "Brooklyn",
+    "Brookthn"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "Kobe",
+    "Xobe"
+   ]
+  },
+  {
+   "name": "Jinhae",
+   "variants": [
+    "Chinkai",
+    "Chinkei"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Tamaris-sur-Mer",
+   "variants": [
+    "Tamaris-sur-Mer",
+    "Tanaris-sur-lier"
+   ]
+  },
+  {
+   "name": "Toulon",
+   "variants": [
+    "Toulon"
+   ]
+  },
+  {
+   "name": "Columbus, Ohio",
+   "variants": [
+    "columbus, Ohio"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya"
+   ]
+  },
+  {
+   "name": "Euclid, Ohio",
+   "variants": [
+    "Euclld, Ohio",
+    "Euclid"
+   ]
+  },
+  {
+   "name": "Cleveland",
+   "variants": [
+    "Cleveland"
+   ]
+  },
+  {
+   "name": "Seattle",
+   "variants": [
+    "Seattle"
+   ]
+  },
+  {
+   "name": "Atlantic coast of the United States",
+   "variants": [
+    "Atlantio coast",
+    "lantischen üste"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Hirosi Saito",
+   "role": "Japanese Ambassador",
+   "variants": [
+    "Mirosi Saito",
+    "Hirosi aito",
+    "Hirosi Baito",
+    "Hirosi Salto",
+    "Kinosi vaito",
+    "Herini Vait"
+   ]
+  },
+  {
+   "name": "Cordell Hull",
+   "role": "Secretary of State",
+   "variants": [
+    "Cordell Hull",
+    "Mr. Cordell Hull"
+   ]
+  },
+  {
+   "name": "R. Walton Moore",
+   "role": "Acting Secretary of State",
+   "variants": [
+    "R. Walton Moore"
+   ]
+  },
+  {
+   "name": "Hugh Byas",
+   "role": "New York Times correspondent",
+   "variants": [
+    "Byas",
+    "HUGK BYAS"
+   ]
+  },
+  {
+   "name": "Mitsumasa Yonai",
+   "role": "Japanese Minister of the Navy",
+   "variants": [
+    "Mitsumasa Yonai",
+    "Yonal",
+    "Yonai"
+   ]
+  },
+  {
+   "name": "Captain Kondo",
+   "role": "Yonai’s aide-de-camp",
+   "variants": [
+    "Captain Kon-do"
+   ]
+  },
+  {
+   "name": "Yates Stirling",
+   "role": "Rear Admiral; formerly commandant of the Brooklyn Navy Yard",
+   "variants": [
+    "Yates Stirling",
+    "Yates Sterling",
+    "Dates Stirltng"
+   ]
+  },
+  {
+   "name": "Arthur Bliss Lane",
+   "role": "American minister at Riga",
+   "variants": [
+    "Arthur Bliss Lane"
+   ]
+  },
+  {
+   "name": "Moffat",
+   "role": "State Department official named on a file note",
+   "variants": [
+    "Moffat"
+   ]
+  },
+  {
+   "name": "Pell",
+   "role": "State Department official named on file notes",
+   "variants": [
+    "Pell",
+    "Pe11"
+   ]
+  },
+  {
+   "name": "Kirk",
+   "role": "Official named on a file note",
+   "variants": [
+    "Kirk"
+   ]
+  },
+  {
+   "name": "Davis",
+   "role": "Official named on a file note",
+   "variants": [
+    "Davis"
+   ]
+  },
+  {
+   "name": "Hugh R. Wilson",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "Hugh R. Wilson",
+    "Hugh R Wilson",
+    "Mr. Wilson"
+   ]
+  },
+  {
+   "name": "Claude A. Swanson",
+   "role": "Secretary of the Navy",
+   "variants": [
+    "Glamse A. Swansen",
+    "Classe A. swansen",
+    "Olaude A. Swanson"
+   ]
+  },
+  {
+   "name": "William D. Leahy",
+   "role": "Admiral; Acting Secretary of the Navy",
+   "variants": [
+    "WilliamD deahy",
+    "WII.LIAMD LPAIFY",
+    "Williamt tealy"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador to Japan",
+   "variants": [
+    "Joseph C. Grew",
+    "GREW"
+   ]
+  },
+  {
+   "name": "Hackworth",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Hadkyorth"
+   ]
+  },
+  {
+   "name": "Dunn",
+   "role": "State Department official",
+   "variants": [
+    "Mr. Dlunn"
+   ]
+  },
+  {
+   "name": "Tittmann",
+   "role": "State Department official",
+   "variants": [
+    "Tittmann"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "Political Adviser",
+   "variants": [
+    "HORNBECK"
+   ]
+  },
+  {
+   "name": "Edwin C. Hill",
+   "role": "News broadcaster",
+   "variants": [
+    "Edwin C. Hill"
+   ]
+  },
+  {
+   "name": "Lieutenant Commander Bridget",
+   "role": "Assistant Naval Attaché for Air",
+   "variants": [
+    "Lieut-Comdr. Lridcet",
+    "Llout-jondr. ridret"
+   ]
+  },
+  {
+   "name": "Lieutenant Layton",
+   "role": "Assistant Naval Attaché and interpreter",
+   "variants": [
+    "Lieutenant Laytcn",
+    "Lieutenant Layton",
+    "Lieutonant Layton"
+   ]
+  },
+  {
+   "name": "Captain Ochi",
+   "role": "Prospective commanding officer of Hiyei",
+   "variants": [
+    "Captain Ochi",
+    "Captein Coh1"
+   ]
+  },
+  {
+   "name": "Edwin C. Wilson",
+   "role": "Chargé d’Affaires ad interim in Paris",
+   "variants": [
+    "Wdwin C. Wilson"
+   ]
+  },
+  {
+   "name": "Lawrence Higgins",
+   "role": "Embassy officer in Paris",
+   "variants": [
+    "Lawrence Higgins"
+   ]
+  },
+  {
+   "name": "Guinness",
+   "role": "Person said to have ordered launches for the Japanese Navy",
+   "variants": [
+    "Mr. Guinness"
+   ]
+  },
+  {
+   "name": "C. R. Cameron",
+   "role": "American Consul General",
+   "variants": [
+    "C. R. Cameron"
+   ]
+  },
+  {
+   "name": "W. Garland Richardson",
+   "role": "American Vice Consul",
+   "variants": [
+    "W. Carland Riehardeen"
+   ]
+  },
+  {
+   "name": "Akira Takahasi",
+   "role": "Daido Seiko engineer",
+   "variants": [
+    "Akira Takahasi"
+   ]
+  },
+  {
+   "name": "Itiro Kumagai",
+   "role": "Daido Seiko engineer",
+   "variants": [
+    "Itiro Kumagai"
+   ]
+  },
+  {
+   "name": "Senzyu Maeda",
+   "role": "Daido Seiko engineer",
+   "variants": [
+    "Senzyu Maeda"
+   ]
+  },
+  {
+   "name": "Charles H. Stephan",
+   "role": "American Vice Consul",
+   "variants": [
+    "CharIos H. Stephan",
+    "E H Staphon"
+   ]
+  }
+ ],
+ "keywords": [
+  "London Naval Treaty of 1930",
+  "Japanese destroyers",
+  "Okino Shima",
+  "battleship construction",
+  "Hiyei remilitarization",
+  "naval intelligence",
+  "capital ship limits",
+  "Japanese Navy fuel purchases",
+  "naval procurement",
+  "steelmaking equipment",
+  "Fourth Naval Replenishment Program"
+ ],
+ "subfiles": [
+  {
+   "title": "Acknowledgment of destroyer notification",
+   "doc_type": "letter",
+   "start_page": 396,
+   "end_page": 396,
+   "continues_previous": false,
+   "date": "1936-10-21",
+   "from": "Department of State",
+   "to": "Hirosi Saito",
+   "about": "Acknowledges Japanese particulars for a destroyer whose keel had been laid.",
+   "summary": "Acknowledges Ambassador Saito’s October 9 notice under Article 10 of the London Naval Treaty.",
+   "keywords": [
+    "destroyer",
+    "treaty notification"
+   ]
+  },
+  {
+   "title": "Completion of Shiratsuyu and Shigure",
+   "doc_type": "diplomatic note",
+   "start_page": 397,
+   "end_page": 398,
+   "continues_previous": false,
+   "date": "1936-10-27",
+   "from": "Japanese Embassy",
+   "to": "Cordell Hull",
+   "about": "Reports completion and specifications of two Japanese destroyers.",
+   "summary": "Provides completion dates, displacement, dimensions and gun calibers for Shiratsuyu and Shigure under Article 10.",
+   "keywords": [
+    "Shiratsuyu",
+    "Shigure",
+    "destroyers"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Shiratsuyu and Shigure completion",
+   "doc_type": "letter",
+   "start_page": 399,
+   "end_page": 399,
+   "continues_previous": false,
+   "date": "1936-11-05",
+   "from": "Department of State",
+   "to": "Hirosi Saito",
+   "about": "Acknowledges completion particulars for Shiratsuyu and Shigure.",
+   "summary": "Acknowledges the embassy’s October 27 treaty notification.",
+   "keywords": [
+    "Shiratsuyu",
+    "Shigure"
+   ]
+  },
+  {
+   "title": "Destroyer particulars forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 400,
+   "end_page": 400,
+   "continues_previous": false,
+   "date": "",
+   "from": "Department of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards the Japanese note on completed destroyers.",
+   "summary": "Sends the Navy Department a copy of the Japanese destroyer notification.",
+   "keywords": [
+    "destroyers",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Completion of Okino Shima",
+   "doc_type": "diplomatic note",
+   "start_page": 401,
+   "end_page": 401,
+   "continues_previous": false,
+   "date": "1936-11-16",
+   "from": "Hirosi Saito",
+   "to": "R. Walton Moore",
+   "about": "Reports completion and specifications of the Japanese minelayer Okino Shima.",
+   "summary": "Lists the minelayer’s completion date, displacement, dimensions and largest gun.",
+   "keywords": [
+    "Okino Shima",
+    "minelayer"
+   ]
+  },
+  {
+   "title": "Okino Shima particulars forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 402,
+   "end_page": 402,
+   "continues_previous": false,
+   "date": "",
+   "from": "Acting Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards the Japanese completion notice for Okino Shima.",
+   "summary": "Encloses the ambassador’s November 16 note for Navy files.",
+   "keywords": [
+    "Okino Shima",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Okino Shima completion",
+   "doc_type": "letter",
+   "start_page": 403,
+   "end_page": 403,
+   "continues_previous": false,
+   "date": "1936-11-23",
+   "from": "Department of State",
+   "to": "Hirosi Saito",
+   "about": "Acknowledges particulars of the completed minelayer Okino Shima.",
+   "summary": "Thanks the ambassador for the treaty notification.",
+   "keywords": [
+    "Okino Shima",
+    "London Naval Treaty"
+   ]
+  },
+  {
+   "title": "Keel laying of Yamakumo",
+   "doc_type": "diplomatic note",
+   "start_page": 404,
+   "end_page": 404,
+   "continues_previous": false,
+   "date": "1937-02-08",
+   "from": "Japanese Embassy",
+   "to": "Cordell Hull",
+   "about": "Reports the keel laying and specifications of destroyer Yamakumo.",
+   "summary": "States that Yamakumo’s keel was laid November 4, 1936.",
+   "keywords": [
+    "Yamakumo",
+    "destroyer"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Yamakumo notification",
+   "doc_type": "letter",
+   "start_page": 405,
+   "end_page": 405,
+   "continues_previous": false,
+   "date": "1937-02-18",
+   "from": "Department of State",
+   "to": "Hirosi Saito",
+   "about": "Acknowledges Japan’s Yamakumo keel-laying notice.",
+   "summary": "Acknowledges the February 8 note and its treaty particulars.",
+   "keywords": [
+    "Yamakumo",
+    "destroyer"
+   ]
+  },
+  {
+   "title": "Yamakumo particulars forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 406,
+   "end_page": 406,
+   "continues_previous": false,
+   "date": "1937-02-15",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards Yamakumo’s keel-laying particulars.",
+   "summary": "Encloses the Japanese Embassy’s February 8 note.",
+   "keywords": [
+    "Yamakumo",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Cross-reference on naval rearmament",
+   "doc_type": "document file note",
+   "start_page": 407,
+   "end_page": 407,
+   "continues_previous": false,
+   "date": "1937-03-16",
+   "from": "State Department",
+   "to": "",
+   "about": "Points to a memorandum on American, British and Japanese naval rearmament.",
+   "summary": "References a March 12 meeting and an attached British rearmament memorandum.",
+   "keywords": [
+    "naval rearmament",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Keel laying of Kasumi and Asagumo",
+   "doc_type": "diplomatic note",
+   "start_page": 408,
+   "end_page": 409,
+   "continues_previous": false,
+   "date": "1937-03-30",
+   "from": "Japanese Embassy",
+   "to": "Cordell Hull",
+   "about": "Reports keel laying and specifications of two Japanese destroyers.",
+   "summary": "Gives dates and technical particulars for Kasumi and Asagumo under Article 10.",
+   "keywords": [
+    "Kasumi",
+    "Asagumo",
+    "destroyers"
+   ]
+  },
+  {
+   "title": "Acknowledgment of Kasumi and Asagumo notification",
+   "doc_type": "letter",
+   "start_page": 410,
+   "end_page": 410,
+   "continues_previous": false,
+   "date": "1937-04-08",
+   "from": "Department of State",
+   "to": "Hirosi Saito",
+   "about": "Acknowledges the two destroyer keel-laying notices.",
+   "summary": "Acknowledges the embassy’s March 30 note.",
+   "keywords": [
+    "Kasumi",
+    "Asagumo"
+   ]
+  },
+  {
+   "title": "Kasumi and Asagumo particulars forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 411,
+   "end_page": 411,
+   "continues_previous": false,
+   "date": "1937-04-08",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards the Japanese notice concerning Kasumi and Asagumo.",
+   "summary": "Provides the Navy Department with the destroyer particulars.",
+   "keywords": [
+    "Kasumi",
+    "Asagumo"
+   ]
+  },
+  {
+   "title": "Tokyo telegram on Japanese capital ships",
+   "doc_type": "telegram",
+   "start_page": 412,
+   "end_page": 412,
+   "continues_previous": false,
+   "date": "1937-05-20",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Reports an impending interview denying rumors of oversized Japanese battleships.",
+   "summary": "The embassy notes continuing uncertainty and restricted attaché visits to Kure and Yokosuka.",
+   "keywords": [
+    "capital ships",
+    "Kure",
+    "Yokosuka"
+   ]
+  },
+  {
+   "title": "Paraphrase of Tokyo telegram 133",
+   "doc_type": "telegram paraphrase",
+   "start_page": 413,
+   "end_page": 413,
+   "continues_previous": false,
+   "date": "1937-05-20",
+   "from": "American Embassy, Tokyo",
+   "to": "Secretary of State",
+   "about": "Restates the embassy’s report on battleship rumors and the Yonai interview.",
+   "summary": "Paraphrases the original telegram on ship size, guns and naval-yard access.",
+   "keywords": [
+    "capital ships",
+    "Mitsumasa Yonai"
+   ]
+  },
+  {
+   "title": "Japan denies naval threat",
+   "doc_type": "newspaper clipping",
+   "start_page": 414,
+   "end_page": 414,
+   "continues_previous": false,
+   "date": "1937-05-21",
+   "from": "Hugh Byas, New York Times",
+   "to": "",
+   "about": "Presents Admiral Yonai’s answers about Japanese naval policy and big-gun rumors.",
+   "summary": "Yonai denies plans for threatening armament or guns larger than 16 inches.",
+   "keywords": [
+    "Yonai",
+    "battleships",
+    "New York Times"
+   ]
+  },
+  {
+   "title": "Cross-reference on battleship size",
+   "doc_type": "document file note",
+   "start_page": 415,
+   "end_page": 415,
+   "continues_previous": false,
+   "date": "1937-05-24",
+   "from": "State Department",
+   "to": "",
+   "about": "References a report doubting Japan will build ships above 35,000 tons.",
+   "summary": "Points to a separately filed memorandum on Japanese battleships.",
+   "keywords": [
+    "35,000 tons",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Cross-reference on new Japanese battleships",
+   "doc_type": "document file note",
+   "start_page": 416,
+   "end_page": 416,
+   "continues_previous": false,
+   "date": "1937-07-23",
+   "from": "Italy",
+   "to": "",
+   "about": "References a report of Japanese battleships carrying ten 16-inch guns.",
+   "summary": "Points to a separately filed despatch.",
+   "keywords": [
+    "battleships",
+    "16-inch guns"
+   ]
+  },
+  {
+   "title": "Riga despatch enclosing Stirling article",
+   "doc_type": "despatch",
+   "start_page": 417,
+   "end_page": 418,
+   "continues_previous": false,
+   "date": "1937-07-23",
+   "from": "Arthur Bliss Lane",
+   "to": "Secretary of State",
+   "about": "Encloses a Riga newspaper article by Rear Admiral Yates Stirling.",
+   "summary": "Lane forwards “Offensive in the Pacific” and says no full translation is included.",
+   "keywords": [
+    "Yates Stirling",
+    "Riga",
+    "Pacific"
+   ]
+  },
+  {
+   "title": "Offensive in the Pacific",
+   "doc_type": "newspaper article enclosure",
+   "start_page": 419,
+   "end_page": 420,
+   "continues_previous": false,
+   "date": "1937-07-17",
+   "from": "Yates Stirling",
+   "to": "",
+   "about": "Discusses Pacific naval strategy and the possibility of very large Japanese battleships.",
+   "summary": "The German-language article argues that American Pacific commitments require offensive naval capacity. It discusses bases, the Panama Canal and reported Japanese plans for fast battleships with 45-centimeter guns. It warns that such ships could trigger construction of similar vessels by other powers.",
+   "keywords": [
+    "Pacific strategy",
+    "battleships",
+    "naval race"
+   ]
+  },
+  {
+   "title": "Summary translation of Offensive in the Pacific",
+   "doc_type": "summary translation",
+   "start_page": 421,
+   "end_page": 422,
+   "continues_previous": false,
+   "date": "1937-07-17",
+   "from": "Yates Stirling",
+   "to": "",
+   "about": "Summarizes Stirling’s article on Pacific defense and 50,000-ton battleships.",
+   "summary": "The translation describes American obligations in the Pacific, compares naval bases and warns that reported Japanese 50,000-ton ships would spur matching construction. It also discusses treaty limits and the Panama Canal.",
+   "keywords": [
+    "Pacific strategy",
+    "50,000 tons",
+    "naval treaties"
+   ]
+  },
+  {
+   "title": "Cross-reference on Japanese Navy oil purchases",
+   "doc_type": "document file note",
+   "start_page": 423,
+   "end_page": 423,
+   "continues_previous": false,
+   "date": "1937-09-02",
+   "from": "State Department",
+   "to": "",
+   "about": "References a Netherlands inquiry about Japanese Navy oil purchases in the United States.",
+   "summary": "Points to a separately filed memorandum and Netherlands Legation attachment.",
+   "keywords": [
+    "oil purchases",
+    "Netherlands"
+   ]
+  },
+  {
+   "title": "Cross-reference on battleship preparations",
+   "doc_type": "document file note",
+   "start_page": 424,
+   "end_page": 424,
+   "continues_previous": false,
+   "date": "",
+   "from": "State Department, European Affairs",
+   "to": "",
+   "about": "References a memorandum on Japanese preparations for battleship construction.",
+   "summary": "Points to a separately filed memorandum.",
+   "keywords": [
+    "battleship construction",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "Cross-reference on limits and naval race",
+   "doc_type": "document file note",
+   "start_page": 425,
+   "end_page": 425,
+   "continues_previous": false,
+   "date": "1937-03-25",
+   "from": "Davis",
+   "to": "",
+   "about": "References doubts that Japan would provoke a race with oversized battleships.",
+   "summary": "Points to a telegram concerning 35,000-ton ships and guns exceeding 14 inches.",
+   "keywords": [
+    "naval race",
+    "35,000 tons"
+   ]
+  },
+  {
+   "title": "Cross-reference on oil information exchange",
+   "doc_type": "document file note",
+   "start_page": 426,
+   "end_page": 426,
+   "continues_previous": false,
+   "date": "1937-11-22",
+   "from": "Netherlands Legation",
+   "to": "",
+   "about": "References a proposed exchange of Japanese Navy oil-purchase figures.",
+   "summary": "Records Dutch agreement to exchange East Indies and American purchase information.",
+   "keywords": [
+    "oil purchases",
+    "Netherlands East Indies"
+   ]
+  },
+  {
+   "title": "British aide-mémoire on Hiyei",
+   "doc_type": "aide-mémoire",
+   "start_page": 427,
+   "end_page": 429,
+   "continues_previous": false,
+   "date": "1937-12-03",
+   "from": "British Embassy",
+   "to": "Department of State",
+   "about": "Seeks American support against possible remilitarization of the Japanese battleship Hiyei.",
+   "summary": "Britain argues that the 1930 treaty’s training-ship disposal provisions remain binding after expiry. It says Hiyei’s return to combat service would upset relative naval strength and asks whether the United States will make parallel representations to Japan.",
+   "keywords": [
+    "Hiyei",
+    "remilitarization",
+    "London Naval Treaty"
+   ]
+  },
+  {
+   "title": "European Affairs memorandum on Hiyei",
+   "doc_type": "memorandum",
+   "start_page": 430,
+   "end_page": 430,
+   "continues_previous": false,
+   "date": "1937-12-04",
+   "from": "Division of European Affairs",
+   "to": "State Department officials",
+   "about": "Highlights the British request for parallel American representations on Hiyei.",
+   "summary": "Summarizes the legal dispute and the British plan to seek Japan’s intentions.",
+   "keywords": [
+    "Hiyei",
+    "British Embassy"
+   ]
+  },
+  {
+   "title": "Request for Navy views on Hiyei",
+   "doc_type": "letter",
+   "start_page": 431,
+   "end_page": 431,
+   "continues_previous": false,
+   "date": "1937-12-04",
+   "from": "Hugh R. Wilson",
+   "to": "Claude A. Swanson",
+   "about": "Requests Navy Department views on possible Hiyei remilitarization.",
+   "summary": "Encloses the British aide-mémoire.",
+   "keywords": [
+    "Hiyei",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Navy Department opinion on Hiyei",
+   "doc_type": "letter",
+   "start_page": 432,
+   "end_page": 432,
+   "continues_previous": false,
+   "date": "1937-12-21",
+   "from": "William D. Leahy",
+   "to": "Secretary of State",
+   "about": "Supports the British treaty interpretation concerning Hiyei.",
+   "summary": "The Navy recommends opposing remilitarization of ships retained exclusively for training.",
+   "keywords": [
+    "Hiyei",
+    "treaty interpretation"
+   ]
+  },
+  {
+   "title": "American reply to British aide-mémoire",
+   "doc_type": "diplomatic note",
+   "start_page": 433,
+   "end_page": 434,
+   "continues_previous": false,
+   "date": "1937-12-21",
+   "from": "Department of State",
+   "to": "British Embassy",
+   "about": "States American agreement that Hiyei cannot lawfully be remilitarized.",
+   "summary": "The United States accepts Britain’s interpretation of the 1930 treaty and says its ambassador in Tokyo will raise the matter if Japanese intentions warrant it.",
+   "keywords": [
+    "Hiyei",
+    "British Embassy",
+    "London Naval Treaty"
+   ]
+  },
+  {
+   "title": "Instruction to Grew on Hiyei",
+   "doc_type": "diplomatic instruction",
+   "start_page": 435,
+   "end_page": 436,
+   "continues_previous": false,
+   "date": "1937-12-21",
+   "from": "Department of State",
+   "to": "Joseph C. Grew",
+   "about": "Directs informal inquiry and possible representations concerning Hiyei.",
+   "summary": "Grew is to establish Japanese intentions and, if remilitarization is planned, state that training ships disposed of under the treaty cannot return to active service. He is to seek further instructions if formal protest appears necessary.",
+   "keywords": [
+    "Hiyei",
+    "diplomatic representations"
+   ]
+  },
+  {
+   "title": "Hiyei correspondence forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 437,
+   "end_page": 437,
+   "continues_previous": false,
+   "date": "1937-12-21",
+   "from": "Hugh R. Wilson",
+   "to": "Claude A. Swanson",
+   "about": "Sends the Navy copies of the British reply and Tokyo instruction.",
+   "summary": "Acknowledges Navy views and encloses subsequent State Department correspondence.",
+   "keywords": [
+    "Hiyei",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "Cross-reference on oversized Japanese capital ships",
+   "doc_type": "document file note",
+   "start_page": 438,
+   "end_page": 438,
+   "continues_previous": false,
+   "date": "1937-12-23",
+   "from": "Great Britain",
+   "to": "",
+   "about": "References reports that Japan may be building ships above the 35,000-ton limit.",
+   "summary": "Points to a separately filed British telegram.",
+   "keywords": [
+    "capital ships",
+    "35,000 tons"
+   ]
+  },
+  {
+   "title": "Tokyo telegram on Hiyei and capital ships",
+   "doc_type": "telegram",
+   "start_page": 439,
+   "end_page": 440,
+   "continues_previous": false,
+   "date": "1938-01-26",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Reports a Japanese denial that Hiyei is being remilitarized and conflicting battleship rumors.",
+   "summary": "A senior aide says Hiyei is being repaired solely as a training ship, which the Naval Attaché finds credible. Other attachés still believe new Japanese capital ships will exceed 40,000 tons.",
+   "keywords": [
+    "Hiyei",
+    "capital ships",
+    "naval attachés"
+   ]
+  },
+  {
+   "title": "Tokyo telegram forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 441,
+   "end_page": 441,
+   "continues_previous": false,
+   "date": "1938-01-29",
+   "from": "Under Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards a confidential paraphrase of Grew’s Hiyei telegram.",
+   "summary": "Sends the January 26 Tokyo report for Navy records.",
+   "keywords": [
+    "Hiyei",
+    "Tokyo telegram"
+   ]
+  },
+  {
+   "title": "Telegram requesting delay on Hiyei decision",
+   "doc_type": "telegram",
+   "start_page": 442,
+   "end_page": 442,
+   "continues_previous": false,
+   "date": "1938-02-01",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Asks that a final decision on Hiyei await the Naval Attaché’s written report.",
+   "summary": "Identifies report 20-38 as en route by diplomatic pouch.",
+   "keywords": [
+    "Hiyei",
+    "naval attaché report"
+   ]
+  },
+  {
+   "title": "European Affairs note on Italian battleship report",
+   "doc_type": "memorandum",
+   "start_page": 443,
+   "end_page": 443,
+   "continues_previous": false,
+   "date": "1938-02-07",
+   "from": "Division of European Affairs",
+   "to": "",
+   "about": "Explains how a report of 46,000-ton Japanese battleships was obtained from naval intelligence.",
+   "summary": "The division found no earlier State Department copy of the Rome attaché report.",
+   "keywords": [
+    "Italian press",
+    "46,000 tons"
+   ]
+  },
+  {
+   "title": "Handwritten search note on battleship report",
+   "doc_type": "file note",
+   "start_page": 444,
+   "end_page": 444,
+   "continues_previous": false,
+   "date": "",
+   "from": "Division of European Affairs",
+   "to": "",
+   "about": "Notes the absence of an embassy or military attaché report on 46,000-ton battleships.",
+   "summary": "Records an unsuccessful file search.",
+   "keywords": [
+    "battleships",
+    "file search"
+   ]
+  },
+  {
+   "title": "ONI report translating Japan and Her Fleet",
+   "doc_type": "naval attaché report",
+   "start_page": 445,
+   "end_page": 446,
+   "continues_previous": false,
+   "date": "1937-11-09",
+   "from": "U.S. Naval Attaché, Italy",
+   "to": "Office of Naval Intelligence",
+   "about": "Translates an Italian press article claiming major Japanese fleet expansion.",
+   "summary": "The article claims Japan is building three 46,000-ton battleships and projects a much larger fleet by 1941. It links Japanese naval expansion to treaty expiry, Pacific bases and strategic competition.",
+   "keywords": [
+    "Italian press",
+    "46,000-ton battleships",
+    "fleet expansion"
+   ]
+  },
+  {
+   "title": "Cross-reference on Edwin C. Hill broadcast",
+   "doc_type": "document file note",
+   "start_page": 447,
+   "end_page": 447,
+   "continues_previous": false,
+   "date": "1938-02-15",
+   "from": "Federal Communications Commission",
+   "to": "",
+   "about": "References a complaint about Edwin C. Hill’s broadcast on Japanese naval building.",
+   "summary": "Points to a letter, telegram and broadcast excerpt filed elsewhere.",
+   "keywords": [
+    "radio broadcast",
+    "naval building"
+   ]
+  },
+  {
+   "title": "Grew despatch on Hiyei",
+   "doc_type": "despatch",
+   "start_page": 448,
+   "end_page": 448,
+   "continues_previous": false,
+   "date": "1938-02-01",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Transmits the Naval Attaché’s report on possible Hiyei remilitarization.",
+   "summary": "Encloses report 20-38, cited in the embassy’s February 1 telegram.",
+   "keywords": [
+    "Hiyei",
+    "naval attaché"
+   ]
+  },
+  {
+   "title": "Naval Attaché report 20-38 on Hiyei",
+   "doc_type": "enclosed intelligence report",
+   "start_page": 449,
+   "end_page": 451,
+   "continues_previous": false,
+   "date": "1938-01-27",
+   "from": "U.S. Naval Attaché, Tokyo",
+   "to": "Joseph C. Grew",
+   "about": "Evaluates a Japanese denial of Hiyei’s remilitarization.",
+   "summary": "A senior aide says Hiyei’s work supports its continued use as a training ship and denies additions to armor, boilers or turrets. The attaché reviews contrary clues: prolonged dockyard work, restricted access, budget figures and foreign reports. He considers the aide credible but notes that the conversation was unofficial.",
+   "keywords": [
+    "Hiyei",
+    "Kure",
+    "naval intelligence"
+   ]
+  },
+  {
+   "title": "Cross-reference on Japanese naval construction",
+   "doc_type": "document file note",
+   "start_page": 452,
+   "end_page": 452,
+   "continues_previous": false,
+   "date": "1938-02-21",
+   "from": "Joseph C. Grew",
+   "to": "",
+   "about": "References a separate Naval Attaché report on Japanese construction.",
+   "summary": "Points to confidential report 45, dated February 18.",
+   "keywords": [
+    "naval construction",
+    "cross-reference"
+   ]
+  },
+  {
+   "title": "British aide-mémoire withdrawing Hiyei representations",
+   "doc_type": "aide-mémoire",
+   "start_page": 453,
+   "end_page": 453,
+   "continues_previous": false,
+   "date": "1938-07-05",
+   "from": "British Embassy",
+   "to": "Department of State",
+   "about": "Says Britain no longer proposes to pursue representations about Hiyei.",
+   "summary": "Britain now believes Hiyei has been remilitarized and sees little prospect of a satisfactory response.",
+   "keywords": [
+    "Hiyei",
+    "British policy"
+   ]
+  },
+  {
+   "title": "Duplicate Grew despatch on Hiyei",
+   "doc_type": "duplicate despatch",
+   "start_page": 454,
+   "end_page": 454,
+   "continues_previous": false,
+   "date": "1938-02-01",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Repeats the February 1 despatch transmitting report 20-38.",
+   "summary": "Duplicate copy of the despatch on Hiyei.",
+   "keywords": [
+    "Hiyei",
+    "duplicate"
+   ]
+  },
+  {
+   "title": "Duplicate Naval Attaché report 20-38",
+   "doc_type": "duplicate intelligence report",
+   "start_page": 455,
+   "end_page": 457,
+   "continues_previous": false,
+   "date": "1938-01-27",
+   "from": "U.S. Naval Attaché, Tokyo",
+   "to": "Joseph C. Grew",
+   "about": "Repeats the attaché’s evaluation of Hiyei’s dockyard work.",
+   "summary": "This is a second, noisier copy of the report on the aide’s denial and evidence suggesting extensive work on Hiyei. It retains the attaché’s cautious judgment that the denial seemed truthful but was unofficial.",
+   "keywords": [
+    "Hiyei",
+    "duplicate",
+    "naval intelligence"
+   ]
+  },
+  {
+   "title": "Acknowledgment of British Hiyei aide-mémoire",
+   "doc_type": "diplomatic note",
+   "start_page": 458,
+   "end_page": 458,
+   "continues_previous": false,
+   "date": "1938-07-14",
+   "from": "Department of State",
+   "to": "British Embassy",
+   "about": "Acknowledges Britain’s decision to drop further Hiyei representations.",
+   "summary": "Notes the British assessment without substantive comment.",
+   "keywords": [
+    "Hiyei",
+    "British Embassy"
+   ]
+  },
+  {
+   "title": "British Hiyei position forwarded to the Navy",
+   "doc_type": "transmittal letter",
+   "start_page": 459,
+   "end_page": 459,
+   "continues_previous": false,
+   "date": "1938-07-14",
+   "from": "Secretary of State",
+   "to": "Secretary of the Navy",
+   "about": "Forwards the July British aide-mémoire and State Department reply.",
+   "summary": "Updates the Navy on Britain’s changed Hiyei position.",
+   "keywords": [
+    "Hiyei",
+    "Navy Department"
+   ]
+  },
+  {
+   "title": "British Hiyei position forwarded to Tokyo",
+   "doc_type": "diplomatic instruction",
+   "start_page": 460,
+   "end_page": 460,
+   "continues_previous": false,
+   "date": "1938-07-14",
+   "from": "Secretary of State",
+   "to": "American Ambassador, Tokyo",
+   "about": "Sends the British July aide-mémoire to Grew.",
+   "summary": "States that the Department acknowledged the British communication without comment.",
+   "keywords": [
+    "Hiyei",
+    "Tokyo"
+   ]
+  },
+  {
+   "title": "Japanese Navy gasoline order",
+   "doc_type": "consular covering letter",
+   "start_page": 461,
+   "end_page": 461,
+   "continues_previous": false,
+   "date": "1938-08-23",
+   "from": "C. R. Cameron",
+   "to": "Joseph C. Grew",
+   "about": "Forwards a memorandum on a Japanese Navy order for high-grade gasoline.",
+   "summary": "Suggests the information may interest the Naval Attaché.",
+   "keywords": [
+    "gasoline",
+    "Japanese Navy"
+   ]
+  },
+  {
+   "title": "Memorandum on gasoline purchase",
+   "doc_type": "consular memorandum",
+   "start_page": 462,
+   "end_page": 462,
+   "continues_previous": false,
+   "date": "1938-08-23",
+   "from": "W. Garland Richardson",
+   "to": "American Consulate General, Tokyo",
+   "about": "Details a reported Japanese Navy purchase of gasoline from Gulf Oil.",
+   "summary": "Gives specifications, price, payment arrangements and shipment schedule for 50,000 drums.",
+   "keywords": [
+    "gasoline",
+    "Gulf Oil",
+    "naval procurement"
+   ]
+  },
+  {
+   "title": "Reported launches under construction in France",
+   "doc_type": "embassy despatch",
+   "start_page": 463,
+   "end_page": 464,
+   "continues_previous": false,
+   "date": "1938-10-14",
+   "from": "Edwin C. Wilson",
+   "to": "Secretary of State",
+   "about": "Transmits an unconfirmed report of armed launches being built for Japan.",
+   "summary": "The Paris embassy sends Higgins’s memorandum and says French officials will investigate.",
+   "keywords": [
+    "armed launches",
+    "France",
+    "Japanese Navy"
+   ]
+  },
+  {
+   "title": "Memorandum on Tamaris-sur-Mer launches",
+   "doc_type": "enclosed memorandum",
+   "start_page": 465,
+   "end_page": 465,
+   "continues_previous": false,
+   "date": "1938-10-10",
+   "from": "Lawrence Higgins",
+   "to": "Chargé d’Affaires and Naval Attaché",
+   "about": "Describes reported construction of small armed boats for Japan near Toulon.",
+   "summary": "An English informant reports seeing about a dozen shallow-draft boats at Tamaris-sur-Mer, apparently intended for river use.",
+   "keywords": [
+    "Tamaris-sur-Mer",
+    "armed launches"
+   ]
+  },
+  {
+   "title": "Navy inquiry about Japanese purchasing office",
+   "doc_type": "letter",
+   "start_page": 466,
+   "end_page": 466,
+   "continues_previous": false,
+   "date": "1939-01-06",
+   "from": "William D. Leahy",
+   "to": "Secretary of State",
+   "about": "Requests information on a Japanese Navy purchasing office established in New York.",
+   "summary": "The Navy says its only record is a 1917 embassy notification.",
+   "keywords": [
+    "New York purchasing office",
+    "machinery"
+   ]
+  },
+  {
+   "title": "Far Eastern Affairs memorandum on foreign agents",
+   "doc_type": "memorandum",
+   "start_page": 467,
+   "end_page": 469,
+   "continues_previous": false,
+   "date": "1939-01-30",
+   "from": "Division of Far Eastern Affairs",
+   "to": "Department of State",
+   "about": "Recommends better records on foreign government personnel and offices in the United States.",
+   "summary": "Prompted by the lack of information on the Japanese Navy’s New York office, the division proposes collecting duties, dates and biographical details for foreign government representatives. It recommends a circular to diplomatic missions and a readily searchable departmental record.",
+   "keywords": [
+    "foreign government representatives",
+    "recordkeeping",
+    "New York purchasing office"
+   ]
+  },
+  {
+   "title": "Reply on Japanese purchasing office",
+   "doc_type": "letter",
+   "start_page": 470,
+   "end_page": 471,
+   "continues_previous": false,
+   "date": "1939-01-25",
+   "from": "Department of State",
+   "to": "Claude A. Swanson",
+   "about": "Answers the Navy’s request for information about the Japanese purchasing office.",
+   "summary": "State reports that a file search found nothing beyond the 1917 notice.",
+   "keywords": [
+    "New York purchasing office",
+    "file search"
+   ]
+  },
+  {
+   "title": "Visas for Daido Steel engineers",
+   "doc_type": "consular report",
+   "start_page": 472,
+   "end_page": 473,
+   "continues_previous": false,
+   "date": "1939-01-21",
+   "from": "Charles H. Stephan",
+   "to": "Secretary of State",
+   "about": "Reports visas issued to three Japanese engineers visiting American steel facilities.",
+   "summary": "The Daido Steel engineers plan to inspect Ajax machinery in Ohio before its shipment to Japan. The consul notes Daido’s extensive Japanese Navy work and gives their travel and American contact details.",
+   "keywords": [
+    "Daido Steel Works",
+    "steel industry",
+    "Ajax Manufacturing"
+   ]
+  },
+  {
+   "title": "Tokyo telegram on fourth naval estimates",
+   "doc_type": "telegram",
+   "start_page": 474,
+   "end_page": 475,
+   "continues_previous": false,
+   "date": "1939-03-08",
+   "from": "Joseph C. Grew",
+   "to": "Secretary of State",
+   "about": "Reports Japan’s proposed Fourth Naval Replenishment Program.",
+   "summary": "Grew gives a total of roughly 1.67 billion yen for ships, facilities and naval aviation. He compares the increases with the Third Program and notes that refitting and stores may remain under that earlier program.",
+   "keywords": [
+    "Fourth Naval Replenishment Program",
+    "naval estimates",
+    "warship construction"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 6,
+  "sections": 7,
+  "pages": [
+   396,
+   475
+  ],
+  "pdf": "894.34 Japan, Equipment And Supplies. Included Construction, Purchase And Sale Of Vessels. Repairs To Foreign Naval Vessels., May 5, 1930 - December 26, 1939 1165.pdf",
+  "seconds": 157.4,
+  "created": "2026-10-08 16:55:55",
+  "key": "japan-internal-affairs-894.34-japan-equipment-and-4"
+ }
+}

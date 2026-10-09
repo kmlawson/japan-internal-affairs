@@ -1,0 +1,169 @@
+{
+ "keywords": [
+  "land reform",
+  "owner-farmer",
+  "Agricultural Land Adjustment Law",
+  "tenant-farmer",
+  "Agricultural Land Commission",
+  "farm rent",
+  "land tenure",
+  "Japanese Diet",
+  "land redistribution"
+ ],
+ "people": [
+  {
+   "name": "Glenn A. Abbey",
+   "role": "",
+   "variants": [
+    "-GAAbbey"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "JAPAN"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokyo's",
+    "TOkYo",
+    "TOKYO"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "HOAK/IDO",
+    "HOKK.IDO"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "KYoTo",
+    "KYOTO"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "OSAKA"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "YOKOHAMA"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "NAGOYA"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "KOBE"
+   ]
+  }
+ ],
+ "section_summary": "This section comprises U.S. Political Adviser Despatch No. 695 from Tokyo, dated November 12, 1946, along with its two enclosures transmitting English translations of landmark Japanese post-war land reform legislation passed by the Diet. Enclosure 1 is an Allied Translator and Interpreter Section (ATIS) comparative translation of the proposed revisions to the 1938 Agricultural Land Adjustment Law, establishing elected local and prefectural Agricultural Land Commissions and cash tenancy controls. Enclosure 2 contains the first twenty-two articles of the Bill for the Special Measure for the Establishment of Owner Farmer, detailing government acquisition of tenant land and its redistribution to cultivating farmers.",
+ "subfiles": [
+  {
+   "about": "Transmits English translations of Japanese land reform legislation recently passed by the Diet to establish owner-farmers and revise agricultural land adjustment procedures.",
+   "continues_previous": false,
+   "date": "1946-11-12",
+   "doc_type": "despatch",
+   "end_page": 1,
+   "from": "United States Political Adviser for Japan, Tokyo",
+   "keywords": [
+    "land reform",
+    "owner-farmer",
+    "Agricultural Land Adjustment Law",
+    "Japan",
+    "Diet",
+    "Hokkaido"
+   ],
+   "start_page": 1,
+   "summary": "Covering despatch transmitting translations of Japanese land reform bills establishing owner-farmers and revising the Agricultural Land Adjustment Law.",
+   "title": "Tokyo Despatch No. 695: \"Revised Agricultural Adjustment Law\" and \"Bill for the Special Measure for the Establishment of Owner Farmer\"",
+   "to": "Department of State"
+  },
+  {
+   "about": "Full English translation of proposed amendments to the Japanese Agricultural Land Adjustment Law, comparing proposed revisions against existing legislation.",
+   "continues_previous": false,
+   "date": "1946-09-04",
+   "doc_type": "translation",
+   "end_page": 27,
+   "from": "Allied Translator and Interpreter Section, General Headquarters, Supreme Commander for the Allied Powers",
+   "keywords": [
+    "Agricultural Land Adjustment Law",
+    "land reform",
+    "Agricultural Land Commission",
+    "farm rent",
+    "tenancy",
+    "prefectural governor",
+    "ATIS"
+   ],
+   "start_page": 2,
+   "summary": "Presents a full comparative translation of proposed amendments to the 1938 Agricultural Land Adjustment Law, as revised in 1945, showing proposed reforms alongside existing provisions. The legislation regulates the creation, transfer, and management of farm land rights, establishes municipal and prefectural Agricultural Land Commissions, and sets procedures for land acquisition and tenant dispute mediation. It also introduces restrictions on tenant rents, requiring cash payments, regulating rent ceilings, and protecting tenant lease contracts from arbitrary termination.",
+   "title": "ATIS Document No. 22662: Full Translation of Proposed Revised Agricultural Land Adjustment Law",
+   "to": "Allied Council for Japan"
+  },
+  {
+   "about": "English translation of Articles 1 through 22 of the Japanese government's Bill for the Special Measure for the Establishment of Owner Farmer.",
+   "continues_previous": false,
+   "date": "1946-11-12",
+   "doc_type": "bill",
+   "end_page": 38,
+   "from": "",
+   "keywords": [
+    "owner-farmer",
+    "land reform",
+    "tenant-farmer",
+    "compulsory purchase",
+    "Agricultural Land Commission",
+    "resale"
+   ],
+   "start_page": 28,
+   "summary": "Sets forth statutory provisions for the compulsory government purchase and resale of agricultural land to establish owner-farmers and promote rural democratization. The government is authorized to purchase tenant-cultivated land from absentee landlords and excess holdings above statutory retention limits according to local land commission plans. Acquired lands and associated agricultural properties are designated for sale to cultivating tenant farmers, with established purchase price formulas, tenant application processes, and appeals procedures.",
+   "title": "Bill for the Special Measure for the Establishment of Owner Farmer (Enclosure No. 2)",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 38297,
+   "output_tokens": 20630,
+   "thinking_tokens": 19506,
+   "cache_read_tokens": 0,
+   "total_tokens": 58927
+  },
+  "backend": "agy",
+  "section": 1,
+  "sections": 6,
+  "pages": [
+   1,
+   38
+  ],
+  "pdf": "894.52 Japan, Lands., November 12, 1946 - November 25, 1949 1792.pdf",
+  "seconds": 149.0,
+  "created": "2026-10-08 16:18:22",
+  "key": "japan-internal-affairs-894.52-japan-lands-november"
+ }
+}

@@ -1,0 +1,1452 @@
+{
+ "section_summary": "This section opens with nine SCAP industrial inventory summaries covering Japanese fuel, vehicles, metals, handicrafts, building materials, machinery, electrical equipment, and mining. Later documents concern Indian technical missions and supplies, access to Japanese industrial information, restitution of a Hong Kong lathe, and proposals for Japan’s industrial disarmament. The section ends partway through a National Engineers Committee report.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Japun",
+    "Japan proper",
+    "Japanese Islands",
+    "home islands"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Washington, D.C.",
+    "WASHINGTON, D.C.",
+    "WASHINGTON 25, D. C.",
+    "WASHINGTON 8, D. C."
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "U.S."
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "Indin"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "variants": [
+    "United Kingdom",
+    "Eaited Kingdem"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong",
+    "Hongkong",
+    "Hong Aong",
+    "Hong! Sang"
+   ]
+  },
+  {
+   "name": "Kure",
+   "variants": [
+    "Kure"
+   ]
+  },
+  {
+   "name": "Yokosuka",
+   "variants": [
+    "Yokosuka"
+   ]
+  },
+  {
+   "name": "Toyota",
+   "variants": [
+    "Toyota"
+   ]
+  },
+  {
+   "name": "Korea",
+   "variants": [
+    "Korea",
+    "Korca",
+    "Koren",
+    "Kořean",
+    "southern Korea",
+    "northern Korea"
+   ]
+  },
+  {
+   "name": "Taiwan",
+   "variants": [
+    "Formosa"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippines"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manchukuo",
+    "southern Manchuria"
+   ]
+  },
+  {
+   "name": "South America",
+   "variants": [
+    "South America"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Burma (Myanmar)",
+   "variants": [
+    "Burma"
+   ]
+  },
+  {
+   "name": "French Indochina",
+   "variants": [
+    "French Indo-China"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "Mexico",
+   "variants": [
+    "Mexico"
+   ]
+  },
+  {
+   "name": "Hiroshima",
+   "variants": [
+    "Hiroshima"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "Straits Settlements",
+    "the Straits"
+   ]
+  },
+  {
+   "name": "Dutch East Indies (Indonesia)",
+   "variants": [
+    "Dutch Indies"
+   ]
+  },
+  {
+   "name": "Thailand",
+   "variants": [
+    "Thailand"
+   ]
+  },
+  {
+   "name": "Minamatani",
+   "variants": [
+    "Minamatani"
+   ]
+  },
+  {
+   "name": "Iwate Prefecture",
+   "variants": [
+    "Iwate"
+   ]
+  },
+  {
+   "name": "Ikuno",
+   "variants": [
+    "Ikuno"
+   ]
+  },
+  {
+   "name": "Hyogo Prefecture",
+   "variants": [
+    "Hyogo"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "Nagoya",
+    "Nagoye"
+   ]
+  },
+  {
+   "name": "Yokkaichi",
+   "variants": [
+    "Yokkaichi"
+   ]
+  },
+  {
+   "name": "Gifu Prefecture",
+   "variants": [
+    "Gifu prefecture",
+    "Gifu"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "Osake",
+    "Osaka"
+   ]
+  },
+  {
+   "name": "Kyushu",
+   "variants": [
+    "Kyushu",
+    "yushu"
+   ]
+  },
+  {
+   "name": "Honshu",
+   "variants": [
+    "Honshu"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido"
+   ]
+  },
+  {
+   "name": "Inland Sea",
+   "variants": [
+    "Inland Sea"
+   ]
+  },
+  {
+   "name": "Sakhalin",
+   "variants": [
+    "Karafuto",
+    "southern Saghalien"
+   ]
+  },
+  {
+   "name": "New Caledonia",
+   "variants": [
+    "New Caledonia"
+   ]
+  },
+  {
+   "name": "East Asia",
+   "variants": [
+    "East Asia",
+    "eastern Asia"
+   ]
+  },
+  {
+   "name": "Western Pacific",
+   "variants": [
+    "Western Pacific",
+    "Western Pacific area"
+   ]
+  },
+  {
+   "name": "Pacific",
+   "variants": [
+    "Pacific"
+   ]
+  },
+  {
+   "name": "Central Europe",
+   "variants": [
+    "Central Europe"
+   ]
+  },
+  {
+   "name": "Tamano",
+   "variants": [
+    "Tamm",
+    "TAMANO",
+    "Tama"
+   ]
+  },
+  {
+   "name": "Okayama Prefecture",
+   "variants": [
+    "kayama Prefee-ture",
+    "Okayama Prefecture"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Tokohama"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York",
+    "Wew Tork",
+    "this oity"
+   ]
+  },
+  {
+   "name": "Pearl Harbor",
+   "variants": [
+    "Pearl Harbor"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Edwin W. Pauley",
+   "role": "Chief of the United States reparations mission in Japan; ambassador",
+   "variants": [
+    "Edwin W. Pauley",
+    "Ambassador Pauley"
+   ]
+  },
+  {
+   "name": "J. W. Burnett",
+   "role": "Despatch staff member",
+   "variants": [
+    "JWBurnett"
+   ]
+  },
+  {
+   "name": "Willard L. Thorp",
+   "role": "Deputy to the Assistant Secretary for Economic Affairs",
+   "variants": [
+    "Willard L. Thorp",
+    "Mr. Thorp",
+    "Mr. Willard Thorpe"
+   ]
+  },
+  {
+   "name": "John C. Green",
+   "role": "Executive Secretary, Office of the Publication Board",
+   "variants": [
+    "John C. Green",
+    "J. C. Green",
+    "JC Sreen",
+    "Mr. Green",
+    "Mr. Greens"
+   ]
+  },
+  {
+   "name": "Edwin M. Martin",
+   "role": "Chief, Division of Japanese and Korean Economic Affairs",
+   "variants": [
+    "Edwin M. Martin",
+    "Edwin . Vartin",
+    "Martin",
+    "Mr. Edwin M. Martin",
+    "r. martin"
+   ]
+  },
+  {
+   "name": "Dr. Fahs",
+   "role": "State Department official",
+   "variants": [
+    "Dr. Fahs"
+   ]
+  },
+  {
+   "name": "Robert P. Patterson",
+   "role": "Secretary of War",
+   "variants": [
+    "Secretary Patterson"
+   ]
+  },
+  {
+   "name": "H. Trevelyan",
+   "role": "First Secretary, Agent General for India",
+   "variants": [
+    "H. Trevelyan",
+    "ir. H. Trevelyan"
+   ]
+  },
+  {
+   "name": "L. K. Kirpalani",
+   "role": "India Government Trade Commissioner",
+   "variants": [
+    "L.K. Kirpalani",
+    "ür. Kirpalani"
+   ]
+  },
+  {
+   "name": "Girja Shankar Bajpai",
+   "role": "Agent General for India",
+   "variants": [
+    "G.s.Baypai",
+    "Sir Girja Bajpai",
+    "Sir Girja"
+   ]
+  },
+  {
+   "name": "William L. Clayton",
+   "role": "Assistant Secretary of State",
+   "variants": [
+    "William L. Clayton",
+    "W. L. Clayton",
+    ". L. Clayton",
+    "Mr. Clayton"
+   ]
+  },
+  {
+   "name": "J. R. Gilchrist",
+   "role": "Colonel, Civil Affairs Division, War Department",
+   "variants": [
+    "Colonel J. R. Gilohrist",
+    "Colonel Gilchrist"
+   ]
+  },
+  {
+   "name": "Oliver P. Echols",
+   "role": "Major General; Director, Civil Affairs Division, War Department",
+   "variants": [
+    "Oliver P. Eohols",
+    "O.P. Eohols",
+    "O.P. Kohols",
+    "General Echols",
+    "General Eohols"
+   ]
+  },
+  {
+   "name": "Frank R. McCoy",
+   "role": "Major General; Chairman of the Far Eastern Commission",
+   "variants": [
+    "Frank R. MoCoy",
+    "Major General McCoy"
+   ]
+  },
+  {
+   "name": "James F. Byrnes",
+   "role": "Secretary of State",
+   "variants": [
+    "Mr. Byrnes"
+   ]
+  },
+  {
+   "name": "Edward Wood, Lord Halifax",
+   "role": "British Ambassador",
+   "variants": [
+    "Lord Halifax"
+   ]
+  },
+  {
+   "name": "Cattrell",
+   "role": "State Department staff member",
+   "variants": [
+    "Cattrell",
+    "NCottrell"
+   ]
+  },
+  {
+   "name": "Persinger",
+   "role": "State Department staff member",
+   "variants": [
+    "Persinger"
+   ]
+  },
+  {
+   "name": "Hamilton",
+   "role": "State Department staff member",
+   "variants": [
+    "Hamilton"
+   ]
+  },
+  {
+   "name": "Kinchi",
+   "role": "Japanese Finance Liaison Office contact",
+   "variants": [
+    "Kinchi"
+   ]
+  },
+  {
+   "name": "Taguchi",
+   "role": "Former Japanese Army captain; Yokohama Specie Bank clerk",
+   "variants": [
+    "Taguchi",
+    "Tatuchi",
+    "ia uchi"
+   ]
+  },
+  {
+   "name": "Robert W. Barnett",
+   "role": "Author of memorandum from the Far Eastern Commission",
+   "variants": [
+    "Robert W. Barnett"
+   ]
+  },
+  {
+   "name": "Gross",
+   "role": "Memorandum recipient",
+   "variants": [
+    "Mr. Gross"
+   ]
+  },
+  {
+   "name": "Lockwood",
+   "role": "Memorandum recipient",
+   "variants": [
+    "Mr. Lockwood"
+   ]
+  },
+  {
+   "name": "Whitman",
+   "role": "Memorandum recipient",
+   "variants": [
+    "Mr. Whitman",
+    "Mr. Whiteman"
+   ]
+  },
+  {
+   "name": "Carlton S. Proctor",
+   "role": "Chairman, National Engineers Committee",
+   "variants": [
+    "Carlton S. Proctor",
+    "Carlton S. Pročtor",
+    "Carlton S. Prootor",
+    "CARLTON S. PROCTO",
+    "Mr. Proctor"
+   ]
+  },
+  {
+   "name": "Malcolm Pirnie",
+   "role": "Chairman of the Engineers Joint Council Executive Committee",
+   "variants": [
+    "Malcolm Pirnie",
+    "Maloolm Pirnie",
+    "Mr. Pirnie"
+   ]
+  },
+  {
+   "name": "Kirkpatrick",
+   "role": "Participant in discussion of engineers’ report",
+   "variants": [
+    "Mr. Kirkpatrick"
+   ]
+  },
+  {
+   "name": "Jaeger",
+   "role": "Luncheon attendee",
+   "variants": [
+    "Jaeger"
+   ]
+  },
+  {
+   "name": "Reed",
+   "role": "Luncheon attendee",
+   "variants": [
+    "Reed"
+   ]
+  },
+  {
+   "name": "Clark",
+   "role": "Luncheon attendee",
+   "variants": [
+    "Clark"
+   ]
+  },
+  {
+   "name": "Robert M. Gates",
+   "role": "Vice-Chairman of the Engineers Joint Council Executive Committee",
+   "variants": [
+    "Robert M. Gates",
+    "Robort M. Gates",
+    "Gates"
+   ]
+  },
+  {
+   "name": "Colonel Frank",
+   "role": "War Department officer",
+   "variants": [
+    "Colonel Frank",
+    "Lt. Col. Frank"
+   ]
+  },
+  {
+   "name": "J. H. Hilldring",
+   "role": "Major General; Assistant Secretary of State",
+   "variants": [
+    "J. H. Hilldring",
+    "General Hilldring",
+    "General Hilidring",
+    "Major Hilldring"
+   ]
+  },
+  {
+   "name": "Alex D. Bailey",
+   "role": "Chairman, Engineers Joint Council",
+   "variants": [
+    "Alex D. Bailey"
+   ]
+  },
+  {
+   "name": "Edward R. Stettinius Jr.",
+   "role": "Former Secretary of State",
+   "variants": [
+    "Edward R. Stottinius, Jr."
+   ]
+  },
+  {
+   "name": "Ginjiro Fujihara",
+   "role": "Former Oji president and Minister of Commerce and Industry",
+   "variants": [
+    "GINJIRO Fujihara"
+   ]
+  },
+  {
+   "name": "Kikujiro Takashima",
+   "role": "Former Oji president and adviser",
+   "variants": [
+    "KIKUJIRO Takashima"
+   ]
+  },
+  {
+   "name": "Tadashi Adachi",
+   "role": "Oji president",
+   "variants": [
+    "TADASHI Adachi"
+   ]
+  },
+  {
+   "name": "Jirvemon Tomida",
+   "role": "Oji managing director",
+   "variants": [
+    "Jirvemon Tomida"
+   ]
+  },
+  {
+   "name": "Ikuma Yamanouchi",
+   "role": "Oji managing director",
+   "variants": [
+    "Ikuma Yamanouchi"
+   ]
+  },
+  {
+   "name": "Junichiro Kobayashi",
+   "role": "Oji managing director",
+   "variants": [
+    "Junichiro Kobayashi"
+   ]
+  },
+  {
+   "name": "Totaro Kato",
+   "role": "Oji managing director",
+   "variants": [
+    "Totaro Kato"
+   ]
+  },
+  {
+   "name": "Kunizo Hara",
+   "role": "Oji director",
+   "variants": [
+    "Kunizo Hara"
+   ]
+  },
+  {
+   "name": "Asamu Inoue",
+   "role": "Oji director",
+   "variants": [
+    "Asamu Inoue"
+   ]
+  },
+  {
+   "name": "Tsunekichi Asabaki",
+   "role": "Oji director",
+   "variants": [
+    "Tsunekichi Asabaki"
+   ]
+  },
+  {
+   "name": "Tesuo Okawa",
+   "role": "Oji director",
+   "variants": [
+    "Tesuo Okawa"
+   ]
+  },
+  {
+   "name": "Tokuichi Kuribayashi",
+   "role": "Oji director",
+   "variants": [
+    "Tokuichi Kuribayashi"
+   ]
+  },
+  {
+   "name": "Sai Nishi",
+   "role": "Oji director",
+   "variants": [
+    "Sai Nishi"
+   ]
+  },
+  {
+   "name": "Keiji Nakajima",
+   "role": "Oji director",
+   "variants": [
+    "Keiji Nakajima"
+   ]
+  },
+  {
+   "name": "Takeji Tanabe",
+   "role": "Oji director",
+   "variants": [
+    "Takeji Tanabe"
+   ]
+  },
+  {
+   "name": "Yukei Ito",
+   "role": "Oji director",
+   "variants": [
+    "Yukei Ito"
+   ]
+  },
+  {
+   "name": "Heizo Namazuda",
+   "role": "Oji director",
+   "variants": [
+    "Heizo Namazuda"
+   ]
+  },
+  {
+   "name": "Matasabura Kinoshita",
+   "role": "Oji director",
+   "variants": [
+    "Matasabura Kinoshita"
+   ]
+  }
+ ],
+ "keywords": [
+  "industrial inventories",
+  "Japanese industry",
+  "SCAP",
+  "reparations",
+  "technical missions",
+  "industrial information",
+  "restitution",
+  "Oji Paper",
+  "industrial disarmament",
+  "National Engineers Committee"
+ ],
+ "subfiles": [
+  {
+   "title": "Transmission of Summaries of Industrial Inventories",
+   "doc_type": "despatch",
+   "start_page": 1,
+   "end_page": 1,
+   "continues_previous": false,
+   "date": "1945-12-26",
+   "from": "United States Political Adviser, Tokyo",
+   "to": "Department of State",
+   "about": "Transmits duplicate copies of industrial inventories 15–23.",
+   "summary": "Encloses inventories 15–23 and notes that inventories 8–14 were unavailable in Tokyo.",
+   "keywords": [
+    "industrial inventories",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Last of the Summaries of Industrial Inventories",
+   "doc_type": "press release",
+   "start_page": 2,
+   "end_page": 2,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "United States Army Forces, Pacific, Public Relations Office",
+   "to": "",
+   "about": "Introduces the final nine inventory summaries prepared for Ambassador Pauley.",
+   "summary": "Identifies their SCAP authors and Japanese government and industry sources.",
+   "keywords": [
+    "industrial inventories",
+    "press release"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 15: Synthetic Oil",
+   "doc_type": "industrial inventory summary",
+   "start_page": 3,
+   "end_page": 3,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Summarizes Japanese synthetic fuel production and storage.",
+   "summary": "Reports output by fuel type and inventories civilian and naval storage, including damaged facilities at Kure and Yokosuka.",
+   "keywords": [
+    "synthetic oil",
+    "fuel production",
+    "storage"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 16: Automotive",
+   "doc_type": "industrial inventory summary",
+   "start_page": 4,
+   "end_page": 5,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Reviews passenger car and truck manufacture in Japan.",
+   "summary": "Details Toyota and Nissan output and capacity, wartime production declines, and shortages obstructing commercial production.",
+   "keywords": [
+    "automotive industry",
+    "Toyota",
+    "Nissan",
+    "trucks"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 17: Non-Ferrous Metals",
+   "doc_type": "industrial inventory summary",
+   "start_page": 6,
+   "end_page": 9,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Surveys Japanese copper, zinc, lead, tin, and ferro-alloy industries.",
+   "summary": "Compiles production, imports, mine and refinery capacities, and major producers. It traces heavy prewar reliance on foreign metal supplies and wartime shifts toward domestic, colonial, and scrap sources. The summary also records tin stocks and ferro-alloy output.",
+   "keywords": [
+    "copper",
+    "zinc",
+    "lead",
+    "tin",
+    "ferro-alloys"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 18: Handicraft Industry",
+   "doc_type": "industrial inventory summary",
+   "start_page": 10,
+   "end_page": 10,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Estimates the export potential of Japanese handicrafts.",
+   "summary": "Covers ceramics, lacquerware, toys, pearls, cloisonné, bamboo goods, lanterns, and glassware, including war damage and restart prospects.",
+   "keywords": [
+    "handicrafts",
+    "exports",
+    "ceramics"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 19: Building Materials",
+   "doc_type": "industrial inventory summary",
+   "start_page": 11,
+   "end_page": 11,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Surveys production and capacity for Japanese building materials.",
+   "summary": "Reviews plaster, glass, cement, sand, gravel, and lime, noting shortages and falling wartime output.",
+   "keywords": [
+    "building materials",
+    "cement",
+    "glass",
+    "lime"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 20: Machinery Other Than Machine Tools",
+   "doc_type": "industrial inventory summary",
+   "start_page": 12,
+   "end_page": 14,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Estimates Japanese machinery manufacturing capacity across many branches.",
+   "summary": "Explains that destroyed records and secret military production make estimates uncertain. It lists factory numbers and potential output for engines, boilers, pumps, construction machinery, textile machinery, bearings, and other equipment. Several capacities depend on reconversion from war production.",
+   "keywords": [
+    "machinery",
+    "production capacity",
+    "reconversion"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 21: Iron and Steel Forgings and Castings",
+   "doc_type": "industrial inventory summary",
+   "start_page": 15,
+   "end_page": 15,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Reports production and capacity for steel forgings and metal castings.",
+   "summary": "Compares historical output and factory counts with estimated current capacity in steel and iron forging and casting.",
+   "keywords": [
+    "steel forgings",
+    "castings",
+    "capacity"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 22: Heavy Electrical Machinery",
+   "doc_type": "industrial inventory summary",
+   "start_page": 16,
+   "end_page": 16,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Estimates capacity for generators, turbines, transformers, and switching equipment.",
+   "summary": "Reports that six companies account for most Japanese heavy electrical equipment production.",
+   "keywords": [
+    "electrical machinery",
+    "generators",
+    "transformers"
+   ]
+  },
+  {
+   "title": "Industrial Inventory No. 23: Other Mining",
+   "doc_type": "industrial inventory summary",
+   "start_page": 17,
+   "end_page": 19,
+   "continues_previous": false,
+   "date": "1945-12-21",
+   "from": "SCAP Economic and Scientific Section",
+   "to": "Ambassador Edwin W. Pauley",
+   "about": "Reviews production and supply of selected Japanese minerals.",
+   "summary": "Covers gold, silver, sulphur, pyrite, chromium, manganese, nickel, tungsten, and molybdenum. It compares historical production and imports with likely peacetime supply, noting depleted deposits, wartime subsidies, and dependence on imported minerals.",
+   "keywords": [
+    "mining",
+    "gold",
+    "chromium",
+    "tungsten",
+    "molybdenum"
+   ]
+  },
+  {
+   "title": "Indian Request for a Technical Mission to Japan",
+   "doc_type": "diplomatic note",
+   "start_page": 20,
+   "end_page": 21,
+   "continues_previous": false,
+   "date": "1946-01-04",
+   "from": "Agent General for India",
+   "to": "Secretary of State",
+   "about": "Requests permission for Indian experts to study industries in Japan.",
+   "summary": "Proposes studies of fertilizers, textiles, ceramics, newsprint, steel rolling, rice cultivation, fisheries, and industrial organization. India requests SCAP approval and facilities.",
+   "keywords": [
+    "India",
+    "technical mission",
+    "industrial study"
+   ]
+  },
+  {
+   "title": "Reply to Indian Request for a Technical Mission",
+   "doc_type": "diplomatic note",
+   "start_page": 22,
+   "end_page": 23,
+   "continues_previous": false,
+   "date": "1946-01-15",
+   "from": "Secretary of State",
+   "to": "Agent General for India",
+   "about": "Defers consideration of India’s proposed industrial mission.",
+   "summary": "Suggests discussing the visit after governments agree on reparations procedures and foreign inspection arrangements.",
+   "keywords": [
+    "India",
+    "technical mission",
+    "reparations"
+   ]
+  },
+  {
+   "title": "Transmission of Report on the Oji Paper Manufacturing Company",
+   "doc_type": "despatch",
+   "start_page": 24,
+   "end_page": 24,
+   "continues_previous": false,
+   "date": "1946-01-07",
+   "from": "United States Political Adviser, Tokyo",
+   "to": "Department of State",
+   "about": "Forwards a Civil Censorship Detachment report on Oji Paper.",
+   "summary": "Encloses the report dated November 29, 1945.",
+   "keywords": [
+    "Oji Paper",
+    "newsprint"
+   ]
+  },
+  {
+   "title": "Special Report: Oji Paper Manufacturing Company, Ltd.",
+   "doc_type": "special report",
+   "start_page": 25,
+   "end_page": 27,
+   "continues_previous": false,
+   "date": "1945-11-29",
+   "from": "Civil Censorship Detachment, SCAP",
+   "to": "",
+   "about": "Examines Oji Paper’s production, distribution, finances, and influence over newsprint.",
+   "summary": "Describes Oji’s dominant share of Japanese paper production, its mills and subsidiaries, wartime output decline, and its place in newsprint rationing. It lists newspaper allocations, finances, and company management.",
+   "keywords": [
+    "Oji Paper",
+    "newsprint",
+    "press",
+    "censorship"
+   ]
+  },
+  {
+   "title": "Request to Investigate Japanese Scientific and Industrial Developments",
+   "doc_type": "letter",
+   "start_page": 28,
+   "end_page": 28,
+   "continues_previous": false,
+   "date": "1946-01-23",
+   "from": "John C. Green",
+   "to": "Willard L. Thorp",
+   "about": "Seeks State Department approval for specialists to survey Japanese technology.",
+   "summary": "Proposes a small group of specialists to identify developments worth further investigation.",
+   "keywords": [
+    "technical intelligence",
+    "Japan",
+    "specialists"
+   ]
+  },
+  {
+   "title": "Reply on Technical Information Missions to Japan",
+   "doc_type": "letter",
+   "start_page": 29,
+   "end_page": 29,
+   "continues_previous": false,
+   "date": "1946-05",
+   "from": "Willard L. Thorp",
+   "to": "John C. Green",
+   "about": "Sets conditions for proposed technical information missions.",
+   "summary": "Accepts missions in principle, subject to occupation rules, security screening, publication, and equitable Allied access.",
+   "keywords": [
+    "technical intelligence",
+    "occupation policy",
+    "Allied access"
+   ]
+  },
+  {
+   "title": "Further Proposal for Scientific and Industrial Investigation",
+   "doc_type": "letter",
+   "start_page": 30,
+   "end_page": 30,
+   "continues_previous": false,
+   "date": "1946-02-01",
+   "from": "John C. Green",
+   "to": "Willard L. Thorp",
+   "about": "Urges a modest investigation of Japanese scientific and industrial advances.",
+   "summary": "Proposes roughly twenty specialist investigators whose reports would be distributed through the Publication Board.",
+   "keywords": [
+    "technical intelligence",
+    "Publication Board"
+   ]
+  },
+  {
+   "title": "Indian Inquiry About Mill Stores and Dyes",
+   "doc_type": "letter",
+   "start_page": 31,
+   "end_page": 32,
+   "continues_previous": false,
+   "date": "1946-02-05",
+   "from": "H. Trevelyan",
+   "to": "Edwin M. Martin",
+   "about": "Requests information on Japanese mill stores, machinery, bobbins, and dyes for India.",
+   "summary": "India offers to purchase available supplies if they cannot be allocated as reparations and asks for an urgent reply.",
+   "keywords": [
+    "India",
+    "textile supplies",
+    "dyes",
+    "reparations"
+   ]
+  },
+  {
+   "title": "Reply on Japanese Mill Stores and Dyes",
+   "doc_type": "letter",
+   "start_page": 33,
+   "end_page": 33,
+   "continues_previous": false,
+   "date": "1946-04",
+   "from": "Edwin M. Martin",
+   "to": "L. K. Kirpalani",
+   "about": "Relays SCAP’s preliminary findings on textile supplies for India.",
+   "summary": "Only limited spare parts are available; rubber rollers are unavailable, while dyes can be made in some colors.",
+   "keywords": [
+    "India",
+    "textile machinery",
+    "dyes"
+   ]
+  },
+  {
+   "title": "Renewed Indian Request for a Technical Mission",
+   "doc_type": "letter",
+   "start_page": 34,
+   "end_page": 34,
+   "continues_previous": false,
+   "date": "1946-02-20",
+   "from": "Girja Shankar Bajpai",
+   "to": "William L. Clayton",
+   "about": "Renews India’s request to send technical experts to Japan.",
+   "summary": "Explains that the proposed industrial study serves India’s development program and is separate from reparations inspection.",
+   "keywords": [
+    "India",
+    "technical mission",
+    "industrialization"
+   ]
+  },
+  {
+   "title": "Clayton Routing Note on Indian Mission",
+   "doc_type": "routing memorandum",
+   "start_page": 35,
+   "end_page": 35,
+   "continues_previous": false,
+   "date": "1946-02-21",
+   "from": "William L. Clayton",
+   "to": "Willard L. Thorp",
+   "about": "Requests a favorable effort and appropriate reply on India’s proposed mission.",
+   "summary": "Clayton urges finding a way to permit India’s small mission.",
+   "keywords": [
+    "India",
+    "technical mission"
+   ]
+  },
+  {
+   "title": "Acknowledgment to Sir Girja Bajpai",
+   "doc_type": "letter",
+   "start_page": 36,
+   "end_page": 36,
+   "continues_previous": false,
+   "date": "1946-02-21",
+   "from": "William L. Clayton",
+   "to": "Girja Shankar Bajpai",
+   "about": "Acknowledges the request for an Indian technical mission.",
+   "summary": "Promises to examine the request and reply shortly.",
+   "keywords": [
+    "India",
+    "technical mission"
+   ]
+  },
+  {
+   "title": "Decision on Indian Technical Mission",
+   "doc_type": "letter",
+   "start_page": 37,
+   "end_page": 37,
+   "continues_previous": false,
+   "date": "1946-05-27",
+   "from": "William L. Clayton",
+   "to": "Girja Shankar Bajpai",
+   "about": "Conveys SCAP’s preference to postpone the Indian mission.",
+   "summary": "Cites unresolved economic questions, scarce accommodation, and pending Far Eastern Commission procedures.",
+   "keywords": [
+    "India",
+    "technical mission",
+    "SCAP"
+   ]
+  },
+  {
+   "title": "Notice of Restitution of Taikoo Lathe",
+   "doc_type": "diplomatic note",
+   "start_page": 38,
+   "end_page": 38,
+   "continues_previous": false,
+   "date": "1946-07-23",
+   "from": "Secretary of State",
+   "to": "British Ambassador",
+   "about": "Reports arrangements to return a Taikoo Dockyard lathe.",
+   "summary": "Says Japan was directed to deliver the identified machine to a British representative at Kure.",
+   "keywords": [
+    "restitution",
+    "Taikoo Dockyard",
+    "lathe"
+   ]
+  },
+  {
+   "title": "Request to Cable SCAP About Industrial Equipment Restitution",
+   "doc_type": "letter",
+   "start_page": 39,
+   "end_page": 39,
+   "continues_previous": false,
+   "date": "1946-04-29",
+   "from": "Edwin M. Martin",
+   "to": "Colonel J. R. Gilchrist",
+   "about": "Asks the War Department to send a restitution cable to SCAP.",
+   "summary": "Encloses the draft cable and requests a copy of the dispatched message.",
+   "keywords": [
+    "restitution",
+    "SCAP",
+    "lathe"
+   ]
+  },
+  {
+   "title": "Draft Cable to SCAP on Taikoo Lathe",
+   "doc_type": "draft cable",
+   "start_page": 40,
+   "end_page": 40,
+   "continues_previous": false,
+   "date": "1946-04-18",
+   "from": "Department of State",
+   "to": "SCAP",
+   "about": "Requests restitution of equipment taken from Taikoo Dockyard in Hong Kong.",
+   "summary": "Describes the lathe, motors, identifying marks, and location at Mitsui’s Tamano yard.",
+   "keywords": [
+    "restitution",
+    "Hong Kong",
+    "Tamano"
+   ]
+  },
+  {
+   "title": "Request for Strategic Bombing Survey Studies",
+   "doc_type": "memorandum",
+   "start_page": 41,
+   "end_page": 41,
+   "continues_previous": false,
+   "date": "1946-03-26",
+   "from": "Office of Far Eastern Affairs, Department of State",
+   "to": "Major General Oliver P. Echols",
+   "about": "Forwards a request for studies of Japan’s industrial economy.",
+   "summary": "Asks the War Department to consider sharing Strategic Bombing Survey studies with the Far Eastern Commission.",
+   "keywords": [
+    "Strategic Bombing Survey",
+    "Far Eastern Commission"
+   ]
+  },
+  {
+   "title": "Interim Reply on Taikoo Lathe Restitution",
+   "doc_type": "diplomatic note",
+   "start_page": 42,
+   "end_page": 42,
+   "continues_previous": false,
+   "date": "1946-04-29",
+   "from": "Secretary of State",
+   "to": "British Ambassador",
+   "about": "Acknowledges Britain’s request for return of the Taikoo lathe.",
+   "summary": "States that the request has been cabled to SCAP and that further action will be reported.",
+   "keywords": [
+    "restitution",
+    "Taikoo Dockyard"
+   ]
+  },
+  {
+   "title": "British Request for Restitution of Taikoo Lathe",
+   "doc_type": "diplomatic note",
+   "start_page": 43,
+   "end_page": 44,
+   "continues_previous": false,
+   "date": "1946-03-26",
+   "from": "British Ambassador",
+   "to": "Secretary of State",
+   "about": "Requests release of a looted lathe to its Hong Kong owner.",
+   "summary": "Supplies the machine’s specifications, marks, maker, motors, and reported location at a Mitsui shipyard.",
+   "keywords": [
+    "restitution",
+    "Hong Kong",
+    "lathe"
+   ]
+  },
+  {
+   "title": "Reply on British Industrial Policy Conclusions for Japan",
+   "doc_type": "diplomatic note",
+   "start_page": 45,
+   "end_page": 46,
+   "continues_previous": false,
+   "date": "1946-05-06",
+   "from": "Secretary of State",
+   "to": "British Ambassador",
+   "about": "Responds to British proposals for Japan’s permitted industrial level.",
+   "summary": "Suggests submitting the proposals to the Far Eastern Commission and notes that final United States views remain under development.",
+   "keywords": [
+    "industrial disarmament",
+    "reparations",
+    "Far Eastern Commission"
+   ]
+  },
+  {
+   "title": "Routing Slip on Draft Letter",
+   "doc_type": "routing slip",
+   "start_page": 47,
+   "end_page": 47,
+   "continues_previous": false,
+   "date": "",
+   "from": "Persinger",
+   "to": "Cattrell",
+   "about": "Flags a typographical error in a letter’s opening.",
+   "summary": "Requests correction and Hamilton’s initial.",
+   "keywords": [
+    "routing",
+    "draft correction"
+   ]
+  },
+  {
+   "title": "Corrected Location of Taikoo Lathe",
+   "doc_type": "diplomatic note",
+   "start_page": 48,
+   "end_page": 48,
+   "continues_previous": false,
+   "date": "1946-04-03",
+   "from": "British Ambassador",
+   "to": "Secretary of State",
+   "about": "Corrects the reported location of the looted lathe.",
+   "summary": "Gives Mitsui Shipbuilding Yard, Tamano, Okayama Prefecture, as the location.",
+   "keywords": [
+    "restitution",
+    "Tamano",
+    "Okayama"
+   ]
+  },
+  {
+   "title": "File Note on Revised Letter to John C. Green",
+   "doc_type": "file note",
+   "start_page": 49,
+   "end_page": 49,
+   "continues_previous": false,
+   "date": "1946-04-23",
+   "from": "Edwin M. Martin",
+   "to": "",
+   "about": "Explains revision of a proposed reply about technical information missions.",
+   "summary": "Notes that an earlier draft was withdrawn because German and Japanese policies could not be sharply separated.",
+   "keywords": [
+    "technical intelligence",
+    "draft revision"
+   ]
+  },
+  {
+   "title": "Japanese War Procurement Policies",
+   "doc_type": "memorandum",
+   "start_page": 50,
+   "end_page": 51,
+   "continues_previous": false,
+   "date": "1946-05-09",
+   "from": "",
+   "to": "",
+   "about": "Records an interview about Japanese wartime procurement and contracting.",
+   "summary": "Taguchi describes government factories, compelled expansion, financing, advance payments, contract termination, and treatment of manufacturers’ profits.",
+   "keywords": [
+    "war procurement",
+    "contracts",
+    "Japanese Army",
+    "Japanese Navy"
+   ]
+  },
+  {
+   "title": "Memorandum on National Engineers Committee Report",
+   "doc_type": "memorandum",
+   "start_page": 52,
+   "end_page": 53,
+   "continues_previous": false,
+   "date": "1946-05-27",
+   "from": "Robert W. Barnett",
+   "to": "Gross, Lockwood, and Whitman",
+   "about": "Discusses clearance, printing, and release of an industrial disarmament report.",
+   "summary": "Records plans to submit the independent engineers’ report to the Secretaries of State, War, and Navy, arrange security clearance, and coordinate publicity. Barnett notes that its proposed industrial controls are stricter than current State Department thinking.",
+   "keywords": [
+    "National Engineers Committee",
+    "industrial disarmament",
+    "publication"
+   ]
+  },
+  {
+   "title": "Cover Letter on Engineers’ Report",
+   "doc_type": "letter",
+   "start_page": 54,
+   "end_page": 54,
+   "continues_previous": false,
+   "date": "1946-05-14",
+   "from": "Carlton S. Proctor",
+   "to": "Major General J. H. Hilldring",
+   "about": "Forwards a copy of Proctor’s letter to General Echols.",
+   "summary": "Explains that the enclosed letter seeks decisions about the engineers’ forthcoming report.",
+   "keywords": [
+    "National Engineers Committee",
+    "industrial disarmament"
+   ]
+  },
+  {
+   "title": "Plans for Industrial Disarmament Report",
+   "doc_type": "letter",
+   "start_page": 55,
+   "end_page": 56,
+   "continues_previous": false,
+   "date": "1946-05-14",
+   "from": "Carlton S. Proctor",
+   "to": "Major General Oliver P. Echols",
+   "about": "Seeks advice on review, printing, and public release of the engineers’ report.",
+   "summary": "Invites Echols and Hilldring to the committee meeting and requests prompt instructions on printing and press arrangements.",
+   "keywords": [
+    "National Engineers Committee",
+    "publication",
+    "industrial disarmament"
+   ]
+  },
+  {
+   "title": "Report on the Industrial Disarmament of Japan",
+   "doc_type": "report, opening section",
+   "start_page": 57,
+   "end_page": 64,
+   "continues_previous": false,
+   "date": "",
+   "from": "National Engineers Committee, Engineers Joint Council",
+   "to": "Secretaries of State, War, and Navy",
+   "about": "Proposes lasting controls on Japan’s industrial capacity for war.",
+   "summary": "The opening states the committee’s mandate and argues for durable controls that preserve a functioning civilian economy. It discusses Japanese resources, regional trade, and the need for simple controls over primary war materials. The report identifies mineral and metal industries, heavy chemicals, fuel, and electrical power as principal targets, then begins its mineral-industry analysis.",
+   "keywords": [
+    "industrial disarmament",
+    "war potential",
+    "mineral industries",
+    "economic controls"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 1,
+  "sections": 9,
+  "pages": [
+   1,
+   64
+  ],
+  "pdf": "894.60 Japan, Industrial Matters., December 26, 1945 - June 26, 1947 1578.pdf",
+  "seconds": 105.6,
+  "created": "2026-10-08 18:16:26",
+  "key": "japan-internal-affairs-894.60-japan-industrial-matters-6"
+ }
+}

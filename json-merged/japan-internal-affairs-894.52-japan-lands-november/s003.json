@@ -1,0 +1,184 @@
+{
+ "keywords": [
+  "Land reform",
+  "Agricultural Land Adjustment Law",
+  "Owner-Farmer Establishment Special Measures Law",
+  "Agricultural Land Commissions",
+  "Tenant farming",
+  "Compulsory land purchase",
+  "Second Land Reform",
+  "Farm rent",
+  "Bulky enclosure"
+ ],
+ "people": [],
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "日本"
+   ]
+  },
+  {
+   "name": "Hokkaido",
+   "variants": [
+    "Hokkaido",
+    "北海道"
+   ]
+  },
+  {
+   "name": "Kyoto",
+   "variants": [
+    "City of Kyoto",
+    "京都市"
+   ]
+  },
+  {
+   "name": "Osaka",
+   "variants": [
+    "City of Osaka",
+    "大阪市"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "City of Yokohama",
+    "横濱市"
+   ]
+  },
+  {
+   "name": "Nagoya",
+   "variants": [
+    "City of Nagoya",
+    "名古屋市"
+   ]
+  },
+  {
+   "name": "Kobe",
+   "variants": [
+    "City of Kobe",
+    "神戶市"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "東京",
+    "東京都"
+   ]
+  },
+  {
+   "name": "Niigata Prefecture",
+   "variants": [
+    "新潟縣"
+   ]
+  },
+  {
+   "name": "Kyobashi",
+   "variants": [
+    "京橋區"
+   ]
+  },
+  {
+   "name": "Nihonbashi",
+   "variants": [
+    "日本橋區"
+   ]
+  },
+  {
+   "name": "Potsdam",
+   "variants": [
+    "ポツダム"
+   ]
+  },
+  {
+   "name": "Yasukuni Shrine",
+   "variants": [
+    "靖國神社"
+   ]
+  }
+ ],
+ "section_summary": "This section of the file documents Japan's post-World War II agrarian land reform legislation. It begins with the concluding pages of an English translation of the amended Agricultural Land Adjustment Law, followed by a State Department document file note recording a bulky enclosure. The remainder comprises a comprehensive Japanese official publication detailing the Second Land Reform, including the proposal explanation delivered to the 90th Diet, article-by-article commentaries, and texts and draft enforcement ordinances for the Owner-Farmer Establishment Special Measures Law and the Agricultural Land Adjustment Law.",
+ "subfiles": [
+  {
+   "about": "English translation of the concluding sections and additional provisions of the Agricultural Lands Adjustment Law concerning local land commissions, tax exemptions, and penal provisions.",
+   "continues_previous": true,
+   "date": "",
+   "doc_type": "statute",
+   "end_page": 97,
+   "from": "",
+   "keywords": [
+    "Agricultural Lands Adjustment Law",
+    "land commissions",
+    "tenant farming",
+    "elections",
+    "penal provisions"
+   ],
+   "start_page": 87,
+   "summary": "Contains the concluding articles (Articles 15-2 through 17-6) and additional provisions of the Agricultural Lands Adjustment Law in English translation. It details the composition, election, and authority of municipal and prefectural Agricultural Land Commissions, penal regulations for violations, and amendments to the Recordation Tax Law and earlier land ordinances.",
+   "title": "Agricultural Lands Adjustment Law (Amended Provisions)",
+   "to": ""
+  },
+  {
+   "about": "State Department document file note recording a bulky enclosure filed under decimal file 894.52.",
+   "continues_previous": false,
+   "date": "1947-02-10",
+   "doc_type": "document file note",
+   "end_page": 98,
+   "from": "",
+   "keywords": [
+    "State Department",
+    "decimal file 894.52",
+    "bulky enclosure",
+    "file note"
+   ],
+   "start_page": 98,
+   "summary": "Department of State file sheet noting a bulky enclosure filed under decimal number 894.52 on February 10, 1947.",
+   "title": "Document File Note: 894.52 Bulky Enclosure",
+   "to": ""
+  },
+  {
+   "about": "Japanese Ministry of Agriculture and Forestry official handbook providing legislative explanations, commentaries, statutory texts, and draft enforcement ordinances for the Second Land Reform.",
+   "continues_previous": false,
+   "date": "1946",
+   "doc_type": "handbook",
+   "end_page": 161,
+   "from": "Ministry of Agriculture and Forestry",
+   "keywords": [
+    "Owner-Farmer Establishment Special Measures Law",
+    "Agricultural Land Adjustment Law",
+    "Second Land Reform",
+    "compulsory purchase",
+    "tenant rights",
+    "enforcement ordinances",
+    "Ministry of Agriculture and Forestry"
+   ],
+   "start_page": 99,
+   "summary": "A major Japanese government publication explaining the legal framework of the Second Land Reform enacted during the 90th Imperial Diet. It contains the official Diet proposal explanation, comprehensive section-by-section commentaries on the Owner-Farmer Establishment Special Measures Law and the revised Agricultural Land Adjustment Law, draft enforcement orders and regulations, and statutory texts governing compulsory land acquisition, tenant protections, and agricultural commissions.",
+   "title": "Explanations and Texts of the Owner-Farmer Establishment Special Measures Law and Agricultural Land Adjustment Law",
+   "to": ""
+  }
+ ],
+ "_meta": {
+  "model": "gemini-3.8-flash-high",
+  "usage": {
+   "input_tokens": 58861,
+   "output_tokens": 37253,
+   "thinking_tokens": 36188,
+   "cache_read_tokens": 0,
+   "total_tokens": 96114
+  },
+  "backend": "agy",
+  "section": 3,
+  "sections": 6,
+  "pages": [
+   87,
+   161
+  ],
+  "pdf": "894.52 Japan, Lands., November 12, 1946 - November 25, 1949 1792.pdf",
+  "seconds": 295.0,
+  "created": "2026-10-08 16:34:46",
+  "key": "japan-internal-affairs-894.52-japan-lands-november"
+ }
+}

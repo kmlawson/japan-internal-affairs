@@ -1,0 +1,718 @@
+{
+ "section_summary": "This section continues a State Department memorandum prepared for 1933 conversations with a Japanese delegation before the Monetary and Economic Conference. It reviews economic disputes, Manchuria, American–Japanese relations, and likely Japanese positions, then supplies a Tokyo telegram, an economic review, and three press clippings as annexes. The section ends with records of conversations on May 25 and 26 about exchange stabilization, credit, silver, tariffs, and trade agreements; the May 26 record continues beyond page 227.",
+ "places": [
+  {
+   "name": "Japan",
+   "variants": [
+    "Japan",
+    "Japen",
+    "Jepan",
+    "Japam",
+    "Jepem",
+    "Japenese",
+    "Japanese Empire",
+    "Japanese Mandate Islands",
+    "Japan Proper"
+   ]
+  },
+  {
+   "name": "United States",
+   "variants": [
+    "United States",
+    "Umited States",
+    "United Stetes",
+    "U. S.",
+    "America",
+    "Ameriea"
+   ]
+  },
+  {
+   "name": "China",
+   "variants": [
+    "China",
+    "Chine",
+    "Uhina"
+   ]
+  },
+  {
+   "name": "Russia",
+   "variants": [
+    "Russia",
+    "Russis",
+    "Soviet Russia"
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "variants": [
+    "Great Britain",
+    "England",
+    "British"
+   ]
+  },
+  {
+   "name": "Germany",
+   "variants": [
+    "Germany"
+   ]
+  },
+  {
+   "name": "France",
+   "variants": [
+    "France"
+   ]
+  },
+  {
+   "name": "Italy",
+   "variants": [
+    "Italy"
+   ]
+  },
+  {
+   "name": "Canada",
+   "variants": [
+    "Canada"
+   ]
+  },
+  {
+   "name": "Australia",
+   "variants": [
+    "Australia"
+   ]
+  },
+  {
+   "name": "India",
+   "variants": [
+    "India",
+    "British India"
+   ]
+  },
+  {
+   "name": "Philippines",
+   "variants": [
+    "Philippine Islands",
+    "rhilippine Islends"
+   ]
+  },
+  {
+   "name": "Dutch East Indies",
+   "variants": [
+    "Netherland India",
+    "Dutoh East Indies"
+   ]
+  },
+  {
+   "name": "Straits Settlements",
+   "variants": [
+    "Straits Settlements"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "variants": [
+    "Cuba"
+   ]
+  },
+  {
+   "name": "Asia",
+   "variants": [
+    "Asia",
+    "Asie",
+    "Asiatic continent"
+   ]
+  },
+  {
+   "name": "Far East",
+   "variants": [
+    "Far East",
+    "Far Bast",
+    "Fer Rest"
+   ]
+  },
+  {
+   "name": "Western Hemisphere",
+   "variants": [
+    "Western hemisphere",
+    "western hemisphere"
+   ]
+  },
+  {
+   "name": "Pacific Ocean",
+   "variants": [
+    "Pacific",
+    "Paeifie",
+    "Pecifie",
+    "north Pacific"
+   ]
+  },
+  {
+   "name": "Atlantic Ocean",
+   "variants": [
+    "Atlantic",
+    "Atlantie"
+   ]
+  },
+  {
+   "name": "West Coast of the United States",
+   "variants": [
+    "West Coast"
+   ]
+  },
+  {
+   "name": "Manchuria",
+   "variants": [
+    "Manchuria",
+    "Manohuria",
+    "Menchurie",
+    "Manchukuo",
+    "Manohukuo",
+    "Manchurian"
+   ]
+  },
+  {
+   "name": "Shandong",
+   "variants": [
+    "Shantung"
+   ]
+  },
+  {
+   "name": "Jiaozhou",
+   "variants": [
+    "Kiaochao"
+   ]
+  },
+  {
+   "name": "Kwantung Leased Territory",
+   "variants": [
+    "Kwantung Leased Territory",
+    "Kwantung"
+   ]
+  },
+  {
+   "name": "Dalian",
+   "variants": [
+    "Dairen"
+   ]
+  },
+  {
+   "name": "Shanghai",
+   "variants": [
+    "shenghai"
+   ]
+  },
+  {
+   "name": "Hong Kong",
+   "variants": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "name": "Beijing",
+   "variants": [
+    "Peiping"
+   ]
+  },
+  {
+   "name": "Tokyo",
+   "variants": [
+    "Tokyo",
+    "Tokye",
+    "Tekyo",
+    "Tekio"
+   ]
+  },
+  {
+   "name": "Yokohama",
+   "variants": [
+    "Yokohama",
+    "Yokohoma"
+   ]
+  },
+  {
+   "name": "Robben Island",
+   "variants": [
+    "Robben Island"
+   ]
+  },
+  {
+   "name": "Pribilof Islands",
+   "variants": [
+    "Pribiloff Islands"
+   ]
+  },
+  {
+   "name": "Aleutian Islands",
+   "variants": [
+    "Aleutian Islands"
+   ]
+  },
+  {
+   "name": "Kiska",
+   "variants": [
+    "Kiska"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "variants": [
+    "Alaska",
+    "Alaskan waters"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "variants": [
+    "Hawaii"
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "variants": [
+    "Honolulu"
+   ]
+  },
+  {
+   "name": "Washington, D.C.",
+   "variants": [
+    "Washington",
+    "Weshington",
+    "White House",
+    "Capital"
+   ]
+  },
+  {
+   "name": "New York City",
+   "variants": [
+    "New York"
+   ]
+  },
+  {
+   "name": "San Francisco",
+   "variants": [
+    "San Francisco"
+   ]
+  },
+  {
+   "name": "London",
+   "variants": [
+    "London"
+   ]
+  },
+  {
+   "name": "Geneva",
+   "variants": [
+    "Geneva",
+    "Gemeva"
+   ]
+  },
+  {
+   "name": "Paris",
+   "variants": [
+    "Paris"
+   ]
+  },
+  {
+   "name": "Ottawa",
+   "variants": [
+    "Ottawa"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Kikujiro Ishii",
+   "role": "Viscount; Japanese delegate and former Foreign Minister",
+   "variants": [
+    "Viscount Ishii",
+    "Viseount Ishii",
+    "Visoount Ishii",
+    "Tiscount Ishii",
+    "Viscount Kikijairo Ishii",
+    "Viscount Kikujiro Ishii",
+    "Viscount Kikujiro Ishi"
+   ]
+  },
+  {
+   "name": "Eigo Fukai",
+   "role": "Japanese delegate",
+   "variants": [
+    "Mr. Eigo Fukai",
+    "Mr. Fukai",
+    "Mr. Pakei"
+   ]
+  },
+  {
+   "name": "Joseph C. Grew",
+   "role": "American Ambassador at Tokyo",
+   "variants": [
+    "Ambassador Grew"
+   ]
+  },
+  {
+   "name": "Robert Lansing",
+   "role": "Former American Secretary of State",
+   "variants": [
+    "Mr. Lansing"
+   ]
+  },
+  {
+   "name": "Woodrow Wilson",
+   "role": "Former President of the United States",
+   "variants": [
+    "President Wilson"
+   ]
+  },
+  {
+   "name": "Herbert Hoover",
+   "role": "Former President of the United States",
+   "variants": [
+    "President Hoover"
+   ]
+  },
+  {
+   "name": "Theodore Roosevelt",
+   "role": "Former President of the United States",
+   "variants": [
+    "President Theodore Roosevelt",
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Franklin D. Roosevelt",
+   "role": "President of the United States",
+   "variants": [
+    "President Roosevelt"
+   ]
+  },
+  {
+   "name": "Yōsuke Matsuoka",
+   "role": "Japanese delegate to the League of Nations",
+   "variants": [
+    "Mr. Yosuke Matsuoka"
+   ]
+  },
+  {
+   "name": "Kentarō Kaneko",
+   "role": "Viscount",
+   "variants": [
+    "Viscount Kaneko",
+    "Viscout Kaneko",
+    "Viseount Kaneko"
+   ]
+  },
+  {
+   "name": "Ray Tucker",
+   "role": "Journalist",
+   "variants": [
+    "Ray Tucker"
+   ]
+  },
+  {
+   "name": "Shunnosuke Oishi",
+   "role": "Staff correspondent",
+   "variants": [
+    "Shumnasuke Oishi"
+   ]
+  },
+  {
+   "name": "James P. Warburg",
+   "role": "American participant in the May 25 conversation",
+   "variants": [
+    "Mr. Warburg",
+    "Mr. warburg",
+    "Mr. Werburg"
+   ]
+  },
+  {
+   "name": "William C. Bullitt",
+   "role": "American participant in the conversations",
+   "variants": [
+    "Mr. Bullitt"
+   ]
+  },
+  {
+   "name": "Rexford G. Tugwell",
+   "role": "American participant in the May 25 conversation",
+   "variants": [
+    "Mr. Tugwell"
+   ]
+  },
+  {
+   "name": "J. K. Wylie",
+   "role": "American participant in the conversations",
+   "variants": [
+    "Mr. Wylie"
+   ]
+  },
+  {
+   "name": "George S. Livesey",
+   "role": "American participant in the conversations",
+   "variants": [
+    "Mr. Livesey"
+   ]
+  },
+  {
+   "name": "Sussdorf",
+   "role": "American participant in the conversations",
+   "variants": [
+    "Mr. Sussdorf"
+   ]
+  },
+  {
+   "name": "Stanley K. Hornbeck",
+   "role": "American participant in the conversations",
+   "variants": [
+    "Mr. Hornbeok"
+   ]
+  },
+  {
+   "name": "Tsushima",
+   "role": "Japanese delegation member",
+   "variants": [
+    "Mr. Tsushima",
+    "Mr. Toushima",
+    "Mr. Tsushime"
+   ]
+  },
+  {
+   "name": "Taketomi",
+   "role": "Japanese delegation member",
+   "variants": [
+    "Mr. Taketomi"
+   ]
+  },
+  {
+   "name": "Iida",
+   "role": "Japanese delegation member",
+   "variants": [
+    "Mr. Iida"
+   ]
+  },
+  {
+   "name": "Key Pittman",
+   "role": "United States Senator",
+   "variants": [
+    "Senator Pittman"
+   ]
+  },
+  {
+   "name": "William Phillips",
+   "role": "Under Secretary of State",
+   "variants": [
+    "Mr. Phillips"
+   ]
+  },
+  {
+   "name": "Herbert Feis",
+   "role": "American participant in the May 26 conversation",
+   "variants": [
+    "Mr. Feis"
+   ]
+  },
+  {
+   "name": "John Maynard Keynes",
+   "role": "Economist",
+   "variants": [
+    "Keynes"
+   ]
+  }
+ ],
+ "keywords": [
+  "Monetary and Economic Conference",
+  "Japan–United States relations",
+  "Manchuria",
+  "Open Door policy",
+  "yen exchange",
+  "gold standard",
+  "silver",
+  "tariffs",
+  "most-favored-nation treatment",
+  "Japanese foreign trade",
+  "immigration exclusion",
+  "oil industry"
+ ],
+ "subfiles": [
+  {
+   "title": "Memorandum on Japan and preliminary conversations before the Monetary and Economic Conference",
+   "doc_type": "memorandum",
+   "start_page": 160,
+   "end_page": 193,
+   "continues_previous": true,
+   "date": "1933-05",
+   "from": "",
+   "to": "",
+   "about": "Briefing on American–Japanese disputes and likely Japanese positions in forthcoming economic conversations.",
+   "summary": "The memorandum reviews disputes over immigration, fisheries, mandated islands, and oil, then assesses tensions arising from Japan’s actions in Manchuria. It anticipates Japanese positions on exchange rates, tariffs, recognition, and the Open Door, while urging caution in conversations with Viscount Ishii. Its closing pages list five annexes.",
+   "keywords": [
+    "Japan–United States relations",
+    "Manchuria",
+    "Monetary and Economic Conference",
+    "Open Door policy",
+    "immigration",
+    "tariffs",
+    "oil"
+   ]
+  },
+  {
+   "title": "Annex I: Paraphrase of Ambassador Grew’s telegram on Japan’s conference policy",
+   "doc_type": "telegram paraphrase",
+   "start_page": 194,
+   "end_page": 197,
+   "continues_previous": false,
+   "date": "1933-05-17",
+   "from": "American Ambassador at Tokyo",
+   "to": "Department of State",
+   "about": "Reports expected Japanese positions in the Washington conversations and London conference.",
+   "summary": "The embassy expects the delegation to seek approval from Tokyo before making commitments. It outlines likely positions on Asian affairs, disarmament, currency, credit, silver, trade restrictions, and tariffs.",
+   "keywords": [
+    "Japanese delegation",
+    "Monetary and Economic Conference",
+    "currency stabilization",
+    "tariffs",
+    "disarmament"
+   ]
+  },
+  {
+   "title": "Annex II: Brief Economic Review of Japan With Particular Reference to Foreign Trade and the Part Played Therein by the United States",
+   "doc_type": "economic memorandum",
+   "start_page": 198,
+   "end_page": 208,
+   "continues_previous": false,
+   "date": "1933-04-20",
+   "from": "",
+   "to": "",
+   "about": "Compiles statistics on Japanese trade, finance, and American investment.",
+   "summary": "The review compares Japan’s imports and exports in 1930–1932, including trade by partner and commodity, and discusses the effects of yen depreciation on an industrial recovery. It also tabulates national debt, gold reserves, budgets, American investments, and invisible trade.",
+   "keywords": [
+    "Japanese economy",
+    "foreign trade",
+    "yen depreciation",
+    "American investment",
+    "national debt",
+    "invisible trade"
+   ]
+  },
+  {
+   "title": "Annex III: People and Politics",
+   "doc_type": "press clipping",
+   "start_page": 209,
+   "end_page": 210,
+   "continues_previous": false,
+   "date": "1933-04-23",
+   "from": "Ray Tucker, Washington Daily News",
+   "to": "",
+   "about": "Profiles Viscount Ishii as Japan’s representative at the economic conferences.",
+   "summary": "Tucker describes Ishii’s diplomatic career, the difficulty of representing Japan after its withdrawal from the League of Nations, and Japan’s dependence on American trade.",
+   "keywords": [
+    "Kikujiro Ishii",
+    "Japanese delegation",
+    "League of Nations",
+    "American trade"
+   ]
+  },
+  {
+   "title": "Annex IV: ‘Asia for Asiatics,’ Is the Japanese Policy",
+   "doc_type": "press clipping",
+   "start_page": 211,
+   "end_page": 211,
+   "continues_previous": false,
+   "date": "1933-05-12",
+   "from": "Washington Daily News",
+   "to": "",
+   "about": "Reports Ishii’s remarks in Honolulu about Japan’s Asian policy and the prospect of war.",
+   "summary": "Ishii describes an ‘Asia for Asiatics’ policy and says war with the United States is unlikely.",
+   "keywords": [
+    "Kikujiro Ishii",
+    "Asia for Asiatics",
+    "Honolulu"
+   ]
+  },
+  {
+   "title": "Annex V: Japan to Ask Credit to Keep Yen Stable",
+   "doc_type": "press clipping",
+   "start_page": 212,
+   "end_page": 213,
+   "continues_previous": false,
+   "date": "1933-05-17",
+   "from": "Shumnasuke Oishi, New York Journal of Commerce",
+   "to": "",
+   "about": "Reports anticipated Japanese requests for American support for yen stabilization.",
+   "summary": "The article says Japanese delegates may seek credits for exchange stabilization while favoring a return to gold in principle. It also outlines proposed positions on trade barriers, rice imports, tariffs, prices, and capital movement.",
+   "keywords": [
+    "yen stabilization",
+    "American credit",
+    "gold standard",
+    "tariffs",
+    "trade barriers"
+   ]
+  },
+  {
+   "title": "Monetary and Economic Conference — Conversations",
+   "doc_type": "divider sheet",
+   "start_page": 214,
+   "end_page": 214,
+   "continues_previous": false,
+   "date": "",
+   "from": "",
+   "to": "",
+   "about": "Introduces records of conference conversations.",
+   "summary": "Divider for the ensuing conversation records.",
+   "keywords": [
+    "Monetary and Economic Conference",
+    "conversations"
+   ]
+  },
+  {
+   "title": "Conversation with Japanese delegates, May 25, 1933",
+   "doc_type": "conversation memorandum",
+   "start_page": 215,
+   "end_page": 223,
+   "continues_previous": false,
+   "date": "1933-05-25",
+   "from": "",
+   "to": "",
+   "about": "Records American and Japanese discussion of monetary and economic proposals.",
+   "summary": "Japanese delegates say they wish to prevent further yen depreciation but cannot promise a fixed exchange rate or spend scarce gold reserves to defend one. Participants discuss credit policy, capital movement, reserve requirements, silver, public works, and trade barriers. The meeting adjourns until May 26.",
+   "keywords": [
+    "yen exchange",
+    "gold reserves",
+    "credit",
+    "silver",
+    "capital movement",
+    "public works"
+   ]
+  },
+  {
+   "title": "Conversation with Japanese delegates, May 26, 1933",
+   "doc_type": "conversation memorandum",
+   "start_page": 224,
+   "end_page": 227,
+   "continues_previous": false,
+   "date": "1933-05-26",
+   "from": "",
+   "to": "",
+   "about": "Records discussion of trade barriers, most-favored-nation treatment, and a tariff truce.",
+   "summary": "American representatives favor bilateral trade agreements under unconditional most-favored-nation treatment and discuss a tariff truce. Japanese delegates express broad agreement while asking about exceptions, imperial preferences, and the truce’s wording. The record continues beyond this section.",
+   "keywords": [
+    "tariff truce",
+    "most-favored-nation treatment",
+    "bilateral trade agreements",
+    "Ottawa agreements"
+   ]
+  }
+ ],
+ "_meta": {
+  "model": "gpt-6-sol",
+  "backend": "codex",
+  "section": 3,
+  "sections": 8,
+  "pages": [
+   160,
+   227
+  ],
+  "pdf": "894.50 Japan, Economic Matters., March 26, 1932 - October 16, 1939 1136.pdf",
+  "seconds": 43.4,
+  "created": "2026-10-08 17:54:20",
+  "key": "japan-internal-affairs-894.50-japan-economic-matters-10"
+ }
+}
